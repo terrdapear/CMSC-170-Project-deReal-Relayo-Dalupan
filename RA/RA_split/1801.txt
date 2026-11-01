@@ -1,0 +1,136 @@
+
+ **AN ACT REQUIRING GOVERNMENT-OWNED OR CONTROLLED CORPORATIONS TO DECLARE DIVIDENDS UNDER CERTAIN CONDITIONS TO THE NATIONAL GOVERNMENT, AND FOR OTHER PURPOSES**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.***Declaration of Policy*. It is hereby declared the policy of the State that in order for the National Government to realize additional revenues, government-owned or controlled corporations, without impairing their viability and the purposes for which they have been established, shall share a substantial amount of their net earnings to the National Government.
+
+ **Section 2.***Definition of Terms.* As used in this Act, the term:
+
+ > a. ""National Government"" refers to the entire machinery of the central government, as distinguished from the different forms of local governments.
+>
+>  b. ""Government-owned or controlled corporations"" refer to corporations organized as a stock or non-stock corporation vested with functions relating to public needs, whether governmental or proprietary in nature, and owned by the Government directly or through its instrumentalities either wholly or, where applicable as in the case of stock corporations, to the extent of at least fifty-one percent (51%) of its capital stock. This term shall also include financial institutions, owned or controlled by the National Government, but shall exclude acquired asset corporations, as defined in the next paragraph, state universities, and colleges.
+>
+>  c. ""Acquired asset corporation"" refers to a corporation: (1) which is under private ownership, the voting or outstanding shares of which were: (i) conveyed to the Government or to a government agency, instrumentality or corporation in satisfaction of debts whether by foreclosure or otherwise, or (ii) duly acquired by the Government through final judgment in a sequestration proceeding; or (2) which is subsidiary of a government corporation organized exclusively to own and manage, or lease, or operate specific physical assets acquired by a government financial institution in satisfaction of debts incurred therewith, and which in any case by law or by enunciated policy is required to be disposed of to private ownership within a specified period of time.
+>
+>  d. ""Net earnings"" shall mean income derived from whatever source, whether exempt or subject to tax, net of deductions allowed under Section 29 of the National Internal Revenue Code, as amended, and income tax and other taxes paid thereon, but in no case shall any reserve for whatever purpose be allowed as a deduction from net earnings.
+
+ **Section 3.** *Dividends.* All government-owned or controlled corporations shall declare and remit at least fifty percent (50%) of their annual net earnings as cash, stock or property dividends to the National Government. This section shall also apply to those government-owned or controlled corporations whose profit distribution is provided by their respective charters or by special law, but shall exclude those enumerated in Section 4 hereof:*Provided,* That such dividends accruing to the National Government shall be received by the National Treasury and recorded as income of the General Fund.
+
+ **Section 4.***Exemptions.* The provisions of the preceding section notwithstanding, government-owned or controlled corporations created or organized by law to administer real or personal properties or funds held in trust for the use and the benefit of its members, shall not be covered by this Act such as, but not limited to: the Government Service Insurance System, the Home Development Mutual Fund, the Employees Compensation Commission, the Overseas Workers Welfare Administration, and the Philippine Medical Care Commission.
+
+ **Section 5.***Flexible Clause.* In the interest of national economy and general welfare, the percentage of annual net earnings that shall be declared by a government-owned or controlled corporation may be adjusted by the President of the Philippines upon recommendation by the Secretary of Finance.
+
+ **Section 6.***Penalty.* Any member of the governing board, the chief executive officer and the chief financial officer of a government-owned or controlled corporation who violates any provision of this Act or any of the implementing rules and regulations promulgated thereunder, in addition to other sanctions provided by law, upon conviction thereof, shall suffer the penalty of a fine of not less than Ten thousand pesos (₱10,000) but not more than Fifty thousand pesos (₱50,000) or imprisonment of not less than one (1) year but not more than three (3) years, or both, at the discretion of the court.
+
+ **Section 7.** *Implementing Rules and Regulations*. The Department of Finance shall formulate and issue the necessary rules and regulations within sixty (60) days from the effectivity of this Act and shall exercise primary jurisdiction in its implementation.
+
+ **Section 8.***Separability Clause*. If for any reason or reasons any part of the provisions of this Act shall be deemed to be unconstitutional or invalid, the other parts or provisions hereof which are not affected thereby shall continue to be in force and effect.
+
+ **Section 9.***Repealing Clause*. Executive Order No. 399, dated April 24,1990, and all other laws, decrees, executive orders, letters of instruction, rules and regulations, and portions thereof inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+
+ **Section 10.***Effectivity* Clause. This Act shall take effect fifteen (15) days after its publication in the *Official Gazette* or in at least two (2) national newspapers of general circulation, whichever comes earlier.
+
+ Approved, November 9, 1993.
+"	success	Republic Act	The act mandates that government-owned or controlled corporations remit at least 50% of their annual net earnings as dividends to the national government, with specified exemptions, penalties for noncompliance, and provisions for implementing rules.	"[{""title"": ""Section 1. Declaration of Policy"", ""summary"": ""Policy that government-owned or controlled corporations shall share a substantial portion of net earnings with the national government to generate additional revenue.""}, {""title"": ""Section 2. Definition of Terms"", ""summary"": ""Defines key terms such as National Government, Government-owned or controlled corporations, Acquired asset corporation, and Net earnings.""}, {""title"": ""Section 3. Dividends"", ""summary"": ""Mandates corporations to declare and remit at least 50% of annual net earnings as dividends to the national government, with certain exclusions.""}, {""title"": ""Section 4. Exemptions"", ""summary"": ""Lists entities exempt from dividend requirement, such as GSIS, HDMF, ECC, OWWA, and PMCC.""}, {""title"": ""Section 5. Flexible Clause"", ""summary"": ""Allows adjustment of dividend percentage by the President upon recommendation of the Secretary of Finance.""}, {""title"": ""Section 6. Penalty"", ""summary"": ""Specifies fines and imprisonment for violations of the Act.""}, {""title"": ""Section 7. Implementing Rules and Regulations"", ""summary"": ""Department of Finance to formulate rules within 60 days of effectivity.""}, {""title"": ""Section 8. Separability Clause"", ""summary"": ""Ensures other provisions remain in force if part is invalid.""}, {""title"": ""Section 9. Repealing Clause"", ""summary"": ""Repeals EO 399 and other inconsistent laws.""}, {""title"": ""Section 10. Effectivity Clause"", ""summary"": ""Act takes effect 15 days after publication.""}]"	Republic Act No. 7656	1993-11-09			To generate additional revenue for the national government through dividends from government-owned or controlled corporations.	"[""Mandates 50% dividend of net earnings"", ""Lists exempt entities"", ""Specifies penalties for violations"", ""Requires implementing rules by DOF within 60 days""]"	Repeals Executive Order No. 399 and other inconsistent laws	"[""Government-owned corporations"", ""Dividends"", ""Revenue"", ""Philippines"", ""Republic Act""]"	"[""dividends"", ""net earnings"", ""government-owned corporations"", ""revenue"", ""penalties"", ""implementing rules"", ""exemptions""]"
+repacts:datasets/markdown/repacts/1993/ra_7657_1993.md	repacts	1993		datasets/markdown/repacts/1993/ra_7657_1993.md	ra_7657_1993	"AN ACT TO AMEND REPUBLIC ACT NUMBERED SEVENTY-SIX HUNDRED THIRTY-SEVEN ENTITLED ""AN ACT APPROPRIATING THE SUM OF TEN BILLION PESOS FOR THE AID, RELIEF, RESETTLEMENT, REHABILITATION AND LIVELIHOOD SERVICES AS WELL AS INFRASTRUCTURE SUPPORT FOR THE VICTIMS OF THE ERUPTION OF MT. PINATUBO, CREATING THE MT. PINATUBO ASSISTANCE, RESETTLEMENT AND DEVELOPMENT COMMISSION, AND FOR OTHER PURPOSES"""	"Republic of the Philippines Congress of the Philippines Second Special Session
+
+ **[ REPUBLIC ACT NO. 7657, November 09, 1993 ]**
+
+ **AN ACT TO AMEND REPUBLIC ACT NUMBERED SEVENTY-SIX HUNDRED THIRTY-SEVEN ENTITLED ""AN ACT APPROPRIATING THE SUM OF TEN BILLION PESOS FOR THE AID, RELIEF, RESETTLEMENT, REHABILITATION AND LIVELIHOOD SERVICES AS WELL AS INFRASTRUCTURE SUPPORT FOR THE VICTIMS OF THE ERUPTION OF MT. PINATUBO, CREATING THE MT. PINATUBO ASSISTANCE, RESETTLEMENT AND DEVELOPMENT COMMISSION, AND FOR OTHER PURPOSES**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** Section 5 of Republic Act Numbered Seventy-six hundred thirty-seven is hereby amended to read as follows:
+
+ > ""Section 5.*Appropriations Clause.* - To carry out the purposes of this Act, the sum of Ten billion pesos (₱10,000,000,000) is hereby appropriated out of any available funds in the National Treasury not otherwise appropriated.
+>
+>  ""Disbursement of said Ten billion pesos (₱10,000,000,000) shall be programmed as follows:
+>
+>  > (a) From the approval of this Act to December 31,1993, the sum of Six billion five hundred million pesos (₱500,000,000), Three and a half billion pesos (₱3,500,000,000) of which shall be for resettlement and livelihood projects and Three billion pesos (₱3,000,000,000) for vital infrastructure: *Provided,* That not more than One billion five hundred million pesos (₱1,500,000,000) shall be spent on dikes.
+> >
+> >  (b) For the year 1994, the sum of Two billion pesos (₱2,000,000,000), one billion pesos of which shall be for resettlement and livelihood projects and One billion pesos (₱1,000,000,000) for vital infrastructure.
+> >
+> >  (c) For the year 1995, the sum of One billion five hundred million pesos (₱1,500,000,000), Five hundred million pesos (₱500,000,000) of which shall be for resettlement and livelihood projects and One billion pesos (₱1,000,000,000) for vital infrastructure.
+
+ **Section 2.** Section 7 (b) and (c) of the same Act is hereby amended to read as follows:
+
+ > ""(b) To make a determination of the areas where the lahar flow may be diverted to spare communities and/or minimize damage to lives, habitation, infrastructure, agricultural and other resources upon thorough consultation with lahar experts, scientists, and other technical consultants and personnel;
+>
+>  ""(c) To prioritize, coordinate and supervise the implementation of the various programs and projects of the Commission;""
+
+ **Section 3.** A new paragraph is hereby inserted in Section 7 to read as follows:
+
+ > ""(j) Any provision of law to the contrary notwithstanding, the Commission is authorized to re-loan repayments of loans of victim families under the various programs of the Commission, for the purpose of expanding the benefits to other victims who have not availed of said benefits from the funds administered by the Commission;""
+
+ **Section 4.** Section 7 (j) of the same Act is amended to read as Section 7(k).
+
+ **Section 5.** A new paragraph is hereby inserted after the first paragraph of Section 10 to read as follows:
+
+ > ""Any provision of law to the contrary notwithstanding, the public bidding for the award of contracts for infrastructure under this Act shall be conducted by a separate pre-qualification bids and awards committee (PBAC) to be composed of the Chairman of the Mt. Pinatubo Commission as Chairman, one (1) representative each from the Department of Public Works and Highways (DPWH) and the Department of Social Welfare and Development (DSWD), two (2) representatives from the nongovernment sector (NGO) as members, and in case of resettlement projects, a representative of the National Housing Authority (NHA), all to be appointed by the Chairman of the Mt. Pinatubo Commission.""
+
+ **Section 6.***Separability Clause*.- If, for any reason or reasons, any part or provision of this Act shall be declared as unconstitutional or invalid, other parts or provisions hereof which are not affected thereby shall continue to be in full force and effect.
+
+ **Section 7.***Effectivity* Clause.- This Act shall take effect upon its publication in at least two (2) national newspapers of general circulation.
+
+ Approved, November 9, 1993.
+"	success	Act	This act amends Republic Act No. 7637 by appropriating ten billion pesos for aid, relief, resettlement, rehabilitation, livelihood, and infrastructure support for victims of the Mt. Pinatubo eruption, establishing the Mt. Pinatubo Assistance, Resettlement and Development Commission, and providing for related administrative provisions.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 5 of RA 7637 to appropriate \u20b110\u202fbillion, detailing a disbursement schedule for the funds across 1993-1995, including allocations for resettlement, livelihood projects, infrastructure, and dike construction.""}, {""title"": ""Section 2"", ""summary"": ""Amends Sections 7(b) and (c) of RA 7637 to determine lahar diversion areas and coordinate/supervise commission programs.""}, {""title"": ""Section 3"", ""summary"": ""Adds a new paragraph granting the commission authority to re\u2011loan repayments to victims to expand benefits.""}, {""title"": ""Section 4"", ""summary"": ""Renames Section 7(j) of RA 7637 to Section 7(k).""}, {""title"": ""Section 5"", ""summary"": ""Adds a new paragraph after the first paragraph of Section 10 mandating a separate pre\u2011qualification bids and awards committee (PBAC) for infrastructure contract bidding.""}, {""title"": ""Section 6"", ""summary"": ""Includes a Separability Clause ensuring unaffected provisions remain in force if any part is declared unconstitutional.""}, {""title"": ""Section 7"", ""summary"": ""Effectivity Clause stating the act takes effect upon publication in at least two national newspapers.""}]"	7657	November 09, 1993			To amend RA 7637 to provide for appropriations and provisions for aid, resettlement, and infrastructure for Mt. Pinatubo eruption victims.	"[""Appropriates \u20b110\u202fbillion for disaster relief and infrastructure"", ""Disbursement schedule for 1993-1995"", ""Determination of lahar diversion areas"", ""Coordination of commission programs"", ""Authority to re\u2011loan repayments to victims"", ""Establishment of PBAC for contract bidding"", ""Separability and effectivity clauses""]"	Republic Act No. 7637	"[""Amendment"", ""Public Funding"", ""Disaster Relief"", ""Infrastructure"", ""Mt. Pinatubo"", ""Resettlement""]"	"[""Republic Act 7657"", ""Mt. Pinatubo"", ""Ten billion pesos"", ""Resettlement"", ""Infrastructure"", ""Lahar"", ""PBAC"", ""Separability"", ""Effectivity""]"
+repacts:datasets/markdown/repacts/1993/ra_7658_1993.md	repacts	1993		datasets/markdown/repacts/1993/ra_7658_1993.md	ra_7658_1993	AN ACT PROHIBITING THE EMPLOYMENT OF CHILDREN BELOW 15 YEARS OF AGE IN PUBLIC AND PRIVATE UNDERTAKINGS, AMENDING FOR THIS PURPOSE SECTION 12, ARTICLE VIII OF R.A. 7610	"Republic of the Philippines Congress of the Philippines Second Regular Session
+
+ **[ REPUBLIC ACT NO. 7658, November 09, 1993 ]**
+
+ **AN ACT PROHIBITING THE EMPLOYMENT OF CHILDREN BELOW 15 YEARS OF AGE IN PUBLIC AND PRIVATE UNDERTAKINGS, AMENDING FOR THIS PURPOSE SECTION 12, ARTICLE VIII OF R.A. 7610**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** Section 12, Article VIII of R.A. No. 7610 otherwise known as the ""Special Protection of Children Against Child Abuse, Exploitation and Discrimination Act"" is hereby amended to read as follows:
+
+ > ""Section 12.*Employment of Children.*- Children below fifteen (15) years of age shall not be employed except:
+>
+>  > 1. When a child works directly under the sole responsibility of his parents or legal guardian and where only members of the employer's family are employed:*Provided, however,*That his employment neither endangers his life, safety, health and morals, nor impairs his normal development:*Provided, further,*That the parent or legal guardian shall provide the said minor child with the prescribed primary and/or secondary education; or
+> >
+> >  2. Where a child's employment or participation in public entertainment or information through cinema, theater, radio or television is essential:*Provided,*The employment contract is concluded by the child's parents or legal guardian, with the express agreement of the child concerned, if possible, and the approval of the Department of Labor and Employment: and*Provided,*That the following requirements in all instances are strictly complied with:
+> >
+> >  > a. The employer shall ensure the protection, health, safety, morals and normal development of the child;
+> > >
+> > >  b. The employer shall institute measures to prevent the child's exploitation or discrimination taking into account the system and level of remuneration, and the duration and arrangement of working time; and
+> > >
+> > >  c. The employer shall formulate and implement, subject to the approval and supervision of competent authorities, a continuing program for training and skills acquisition of the child.
+>
+>  In the above exceptional cases where any such child may be employed, the employer shall first secure, before engaging such child, a work permit from the Department of Labor and Employment which shall ensure observance of the above requirements.
+>
+>  The Department of Labor and Employment shall promulgate rules and regulations necessary for the effective implementation of this Section.""
+
+ **Section 2.** All laws, decrees, executive orders, rules and regulations or parts thereof contrary to, or inconsistent with this Act are hereby modified or repealed accordingly.
+
+ **Section 3.** This Act shall take effect fifteen (15) days after complete publication in the *Official Gazette* or in at least two (2) national newspapers of general circulation whichever comes earlier.
+
+ Approved, November 9, 1993.
+"	success	Republic Act	This act amends Section 12 of RA 7610 to prohibit the employment of children below 15 years of age, except in limited circumstances with parental or guardian supervision, a work permit, and compliance with specific safety and educational requirements. It also mandates the Department of Labor and Employment to promulgate necessary rules.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 12 of RA 7610 to prohibit employment of children below 15, with exceptions only for direct parental supervision, safe working conditions, educational provisions, and required work permits, and requires DOL to promulgate rules.""}, {""title"": ""Section 2"", ""summary"": ""All laws, decrees, executive orders, rules and regulations contrary to or inconsistent with this Act are modified or repealed accordingly.""}, {""title"": ""Section 3"", ""summary"": ""The act takes effect 15 days after publication in the Official Gazette or in at least two national newspapers.""}]"	R.A. 7658	November 9, 1993			To prohibit employment of children under 15 years of age, thereby protecting them from exploitation and ensuring their safety, health, and education.	"[""Amendment to Section 12 of RA 7610 prohibiting employment of children under 15."", ""Exceptions only with parental/guardian supervision, work permit, and compliance with safety and educational standards."", ""Department of Labor and Employment mandated to promulgate rules and regulations."", ""All conflicting laws are modified or repealed.""]"	Section 12 of RA 7610 (Special Protection of Children Against Child Abuse, Exploitation and Discrimination Act)	"[""Child Labor"", ""Employment"", ""RA 7658"", ""Protection of Children""]"	"[""child labor"", ""employment of children"", ""RA 7610"", ""Department of Labor"", ""work permit""]"
+repacts:datasets/markdown/repacts/1993/ra_7659_1993.md	repacts	1993		datasets/markdown/repacts/1993/ra_7659_1993.md	ra_7659_1993	An Act to impose the death penalty on certain heinous crimes, amending for that purpose the revised penal laws, as amended, other special penal laws, and for other purposes	"**REPUBLIC ACT NO. 7659**
+
+ AN ACT TO IMPOSE THE DEATH PENALTY ON CERTAIN HEINOUS CRIMES, AMENDING FOR THAT PURPOSE THE REVISED PENAL LAWS, AS AMENDED, OTHER SPECIAL PENAL LAWS, AND FOR OTHER PURPOSES
+
+ WHEREAS, the Constitution, specifically Article III, Section 19 paragraph (1) thereof, states ""Excessive fines shall not be imposed nor cruel, degrading or inhuman punishment inflicted. Neither shall death penalty be imposed, unless, for compelling reasons involving heinous crimes, the Congress hereafter provides for it. . ."";
+
+ **WHEREAS**, the crimes punishable by death under this Act are heinous for being grievous, odious and hateful offenses and which, by reason of their inherent or manifest wickedness, viciousness, atrocity and perversity are repugnant and outrageous to the common standards and norms of decency and morality in a just, civilized and ordered society;
+
+ **WHEREAS,** due to the alarming upsurge of such crimes which has resulted not only in the loss of human lives and wanton destruction of property but also affected the nation's efforts towards sustainable economic development and prosperity while at the same time has undermined the people's faith in the Government and the latter's ability to maintain peace and order in the country;
+
+ **WHEREAS,** the Congress, in the justice, public order and the rule of law, and the need to rationalize and harmonize the penal sanctions for heinous crimes, finds compelling reasons to impose the death penalty for said crimes;
+
+ Now, therefore,
+
+ **Section 1.** *Declaration of Policy.* - It is hereby declared the policy of the State to foster and ensure not only obedience to its authority, but also to adopt such measures as would effectively promote the maintenance of peace and order, the protection of life, liberty and property, and the promotion of the general welfare which are essential for the enjoyment by all the people of the blessings of democracy in a just and humane society;
+
+ **Section 2.** Article 114 of the Revised Penal Code, as amended, is hereby amended to read as follows:
+
+ ""Art. 114. Treason. - Any Filipino citizen who levies war against the Philippines or adheres to her enemies giving them aid or comfort within the Philippines or elsewhere, shall be punished by reclusion perpetua to death and shall pay a fine not to exceed 100,000 pesos."" No person shall be convicted of treason unless on the testimony of two witnesses at least to the same overt act or on confession of the accused in open court. Likewise, an alien, residing in the Philippines, who commits acts of treason as defined in paragraph 1 of this Article shall be punished by reclusion temporal to death and shall pay a fine not to exceed 100,000 pesos."" **Section 3.** Section Three, Chapter One, Title One of Book Two of the same Code is hereby amended to read as follows:
+
+ ""Section Three. - Piracy and mutiny on the high seas or in the Philippine waters Art. 122. Piracy in general and mutiny on the high seas or in Philippine waters. - The penalty of reclusion perpetua shall be inflicted upon any person who, on the high seas, or in Philippine waters, shall attack or seize a vessel or, not being a member of its complement nor a passenger, shall seize the whole or part of the cargo of said vessel, its equipment or passengers. The same penalty shall be inflicted in case of mutiny on the high seas or in Philippine waters."" Art. 123. Qualified piracy. - The penalty of reclusion perpetua to death shall be imposed upon those who commit any of the crimes referred to in the preceding article, under any of the following circumstances: 1. Whenever they have seized a vessel by boarding or firing upon the same; 2. Whenever the pirates have abandoned their victims without means of saving themselves or; 3. Whenever the crime is accompanied by murder, homicide, physical injuries or rape."" **Section 4.** There shall be incorporated after Article 211 of the same Code a new article to read as follows:
+
+ ""Art. 211-A. Qualified Bribery. - If any public officer is entrusted with law enforcement and he refrains from arresting or prosecuting an offender who has committed a crime punishable by reclusion perpetua and/or death in consideration of any offer, promise, gift or present, he shall suffer the penalty for the offense which was not prosecuted. If it is the public officer who asks or demands such gift or present, he shall suffer the penalty of death."" **Section 5.** The penalty of death for parricide under Article 246 of the same Code is hereby restored, so that it shall read as follows:
+
+ ""Art. 246. Parricide. - Any person who shall kill his father, mother, or child, whether legitimate of illegitimate, or any of his ascendants, or descendants, or his spouse, shall be guilty of parricide and shall be punished by the penalty of reclusion perpetua to death."" **Section 6.** Article 248 of the same Code is hereby amended to read as follows:
+
+ ""Art. 248. Murder. - Any person who, not falling within the provisions of Article 246 shall kill another, shall be guilty of murder and shall be punished by reclusion perpetua, to death if committed with any of the following attendant circumstances: 1. With treachery, taking advantage of superior strength, with the aid of armed men, or employing means to weaken the defense or of means or persons to insure or afford impunity. 2. In consideration of a price, reward or promise. 3. By means of inundation, fire, poison, explosion, shipwreck, stranding of a vessel, derailment or assault upon a railroad, fall of an airship, or by means of motor vehicles, or with the use of any other means involving great waste and ruin. 4. On occasion of any of the calamities enumerated in the preceding paragraph, or of an earthquake, eruption of a volcano, destructive cyclone, epidemic or other public calamity. 5. With evident premeditation. 6. With cruelty, by deliberately and inhumanly augmenting the suffering of the victim, or outraging or scoffing at his person or corpse."" **Section 7.** Article 255 of the same Code is hereby amended to read as follows:

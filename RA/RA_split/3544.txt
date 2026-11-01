@@ -1,0 +1,298 @@
+> | 70 - 71 | N 78-02 E | 148.577 |
+> | 71 - 72 | N 68-19 E | 63.100 |
+> | 72 - 73 | N 60-18 E | 63.198 |
+> | 73 - 74 | N 64-24 E | 1008.345 |
+> | 74 - 75 | N 63-59 E | 607.729 |
+> | 75 - 76 | N 64-15 E | 1300.409 |
+> | 76 - 77 | N 64-16 E | 480.245 |
+> | 77 - 78 | S 25-44 E | 20.000 |
+> | 78 - 79 | S 64-16 W | 480.238 |
+> | 79 - 80 | S 64-15 W | 1300.363 |
+> | 80 - 81 | S 63-59 W | 607.755 |
+> | 81 - 82 | S 64-24 W | 1007.700 |
+> | 82 - 83 | S 60-18 W | 63.885 |
+> | 83 - 84 | S 68-19 W | 66.204 |
+> | 84 - 85 | S 78-02 W | 149.676 |
+> | 85 - 86 | S 74-36 W | 94.187 |
+> | 86 - 87 | S 72-18 W | 2221.622 |
+> | 87 - 88 | S 73-00 W | 93.217 |
+> | 88 - 89 | S 73-27 W | 40.811 |
+> | 89 - 90 | S 76-56 W | 33.292 |
+> | 90 - 91 | S 78-45 W | 70.021 |
+> | 91 - 92 | S 84-14 W | 35.053 |
+> | 92 - 93 | S 84-20 W | 527.763 |
+> | 93 - 94 | S 83-12 W | 90.888 |
+> | 94 - 95 | S 74-25 W | 60.568 |
+> | 95 - 96 | S 70-39 W | 32.227 |
+> | 96 - 97 | S 66-44 W | 89.214 |
+> | 97 - 98 | S 62-38 W | 163.698 |
+> | 98 - 99 | S 63-13 W | 594.162 |
+> | 99 - 100 | S 64-52 W | 321.239 |
+> | 100 - 101 | S 62-02 W | 55.975 |
+> | 101 - 102 | S 59-07 W | 114.021 |
+> | 102 - 103 | S 57-19 W | 91.120 |
+> | 103 - 104 | S 57-40 W | 133.528 |
+> | 104 - 105 | S 66-45 W | 88.129 |
+> | 105 - 106 | S 77-17 W | 75.739 |
+> | 106 - 107 | S 81-54 W | 40.300 |
+> | 107 - 108 | N 87-57 W | 17.747 |
+> | 108 - 109 | S 82-38 W | 39.002 |
+> | 109 - 110 | S 77-24 W | 38.741 |
+> | 110 -111 | S 57-28 W | 330.381 |
+> | 111 -112 | S 60-32 W | 92.683 |
+> | 112 - 113 | S 66-51 W | 93.104 |
+> | 113 - 114 | S 67-55 W | 61.004 |
+> | 114 - 115 | S 61-46 W | 60.550 |
+> | 115 - 116 | S 63-58 W | 565.401 |
+> | 116 - 117 | S 69-18 W | 392.587 |
+> | 117 - 118 | S 68-39 W | 394.161 |
+> | 118 - 119 | S 68-37 W | 314.894 |
+> | 119 - 120 | S 68-44 W | 65.791 |
+> | 120 - 121 | S 69-46 W | 20.686 |
+> | 121 - 122 | S 69-57 W | 23.121 |
+> | 122 - 123 | S 75-22 W | 1434.345 |
+> | 123 - 124 | S 75-19 W | 94.437 |
+> | 124 - 125 | S 86-14 W | 22.155 |
+> | 125 - 126 | N 87-59 W | 44.525 |
+> | 126 - 127 | N 83-29 W | 37.596 |
+> | 127 - 128 | N 75-31 W | 1102.771 |
+> | 128 - 129 | N 75-53 W | 19.502 |
+> | 129 - 130 | N 82-41 W | 23.541 |
+> | 130 - 131 | S 82-29 W | 21.388 |
+> | 131 - 132 | S 77-07 W | 13.514 |
+> | 132- 133 | S 69-51 W | 23.169 |
+> | 133 - 134 | S 67-15 W | 650.047 |
+> | 134 - 135 | S 71-19 W | 42.429 |
+> | 135 - 136 | S 76-05 W | 38.813 |
+> | 136 - 137 | S 81-52 W | 31.833 |
+> | 137 - 138 | N 89-33 W | 572.110 |
+> | 138 - 139 | N 79-22 W | 35.262 |
+> | 139 - 140 | N 64-25 W | 22.249 |
+> | 140 - 141 | N 47-28 W | 23.906 |
+> | 141 - 142 | N 40-29 W | 27.744 |
+> | 142 - 143 | N 43-57 W | 66.667 |
+> | 143 - 144 | N 52-39 W | 2322.506 |
+> | 144 - 145 | N 66-58 W | 115.434 |
+> | 145 - 146 | N 85-53 W | 22.879 |
+> | 146 - 147 | S 89-19 W | 4704.740 |
+> | 147 - 148 | S 88-02 W | 58.372 |
+> | 148 - 149 | S 83-53 W | 31.268 |
+> | 149 - 150 | S 79-10 W | 11.899 |
+> | 150 - 151 | S 73-15 W | 23.705 |
+> | 151 - 152 | S 71-38 W | 25.912 |
+> | 152 - 153 | S 68-42 W | 34.632 |
+> | 153 - 154 | S 67-17 W | 2689.330 |
+> | 154 - 0 | N 22-43 W | 20.00 |
+
+ **Section 3.** The Secretary of Public Works and Highways shall include in the Department's program the improvement, repair and maintenance of the said road, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 4.** This Act shall take effect fifteen (15) days following its publication in the Official Gazette or in any newspaper of general circulation.
+
+ Approved,
+
+ | (Sgd.) **VICENTE M. SOTTO III** President of the Senate | (Sgd.) **ALAN PETER S. CAYETANO** Speaker of the House of Representatives |
+
+ This Act which was originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on January 27, 2020 and June 1, 2020, respectively.
+
+ | (Sgd.) **MYRA MARIE D. VILLARICA** Secretary of the Senate | (Sgd.) **JOSE LUIS G. MONTALES** Secretary General House of Representatives |
+
+ Approved: AUG 14 2020
+
+ (Sgd.) **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	Converts the Sta. Ignacia-Guimba Provincial Road in Tarlac and Nueva Ecija to a national road and appropriates funds for its conversion.	"[{""title"": ""Section 1."", ""summary"": ""The Sta. Ignacia-Guimba Provincial Road is converted into a national road.""}, {""title"": ""Section 2."", ""summary"": ""Provides the technical description of the road with detailed line bearings and distances.""}]"	11483	August 14, 2020			To convert a provincial road to a national road and allocate funds for its implementation.	"[""Conversion of Sta. Ignacia-Guimba Provincial Road to national road"", ""Technical description of the road with line bearings and distances"", ""Appropriation of funds for conversion""]"		"[""Infrastructure"", ""Roads"", ""National Road"", ""Tarlac"", ""Nueva Ecija""]"	"[""Infrastructure"", ""Roads"", ""National Road"", ""Tarlac"", ""Nueva Ecija""]"
+repacts:datasets/markdown/repacts/2020/ra_11484_2020.md	repacts	2020		datasets/markdown/repacts/2020/ra_11484_2020.md	ra_11484_2020	An Act Converting the Road Stretching from Barangay Anduyan, Municipality of Tubao, Province of La Union to Barangay San Pascual, Municipality of Tuba, Province of Benguet into a National Road and Appropriating Funds Therefor	"Eighteenth Congress First Regular Session Begun and held in Metro Manila, on Monday, the twenty-second day of July, two thousand nineteen.
+
+ **[ REPUBLIC ACT NO. 11484, August 14, 2020 ]**
+
+ **AN ACT CONVERTING THE ROAD STRETCHING FROM BARANGAY ANDUYAN, MUNICIPALITY OF TUBAO, PROVINCE OF LA UNION TO BARANGAY SAN PASCUAL, MUNICIPALITY OF TUBA, PROVINCE OF BENGUET INTO A NATIONAL ROAD ANS APPROPRIATING FUNDS THEREFOR**
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The road stretching from Barangay Anduyan, Municipality of Tubao, Province of La Union to Barangay San Pascual, Municipality of Tuba, Province of Benguet as described in the technical description under the succeeding section of this Act is hereby converted into a national road.
+
+ SEC. 2 The technical description of the road is as follows:
+
+ From the point marked one (1) on the road located at coordinates 16 20'25.19"" North Latitude and 120 26'7.43"" East Longitude the road traverses to the following lines, bearings and distances, to wit:
+
+ | Line | Bearing | Distances |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | ° ' | (meters) |  |  |  |
+| 1 | N | 67 | 02 | E | 13.40 |
+| 2 | N | 67 | 45 | E | 17.30 |
+| 3 | N | 69 | 00 | E | 13.37 |
+| 4 | N | 71 | 02 | E | 15.41 |
+| 5 | N | 72 | 19 | E | 94.54 |
+| 6 | N | 72 | 03 | E | 147.98 |
+| 7 | N | 71 | 06 | E | 21.25 |
+| 8 | N | 69 | 43 | E | 18.89 |
+| 9 | N | 68 | 33 | E | 16.00 |
+| 10 | N | 64 | 23 | E | 9.45 |
+| 11 | N | 45 | 12 | E | 8.47 |
+| 12 | N | 31 | 00 | E | 11.11 |
+| 13 | N | 21 | 40 | E | 10.19 |
+| 14 | N | 15 | 07 | E | 10.55 |
+| 15 | N | 07 | 47 | E | 12.74 |
+| 16 | N | 05 | 44 | E | 35.83 |
+| 17 | N | 05 | 53 | E | 15.04 |
+| 18 | N | 07 | 48 | E | 17.09 |
+| 19 | N | 10 | 56 | E. | 15.99 |
+| 20 | N | 19 | 35 | E | 13.79 |
+| 21 | N | 28 | 02 | E | 13.31 |
+| 22 | N | 34 | 19 | E | 13.93 |
+| 23 | N | 46 | 14 | E | 17.53 |
+| 24 | N | 49 | 47 | E | 49.90 |
+| 25 | N | 49 | 47 | E | 57.90 |
+| 26 | N | 46 | 00 | E | 11.00 |
+| 27 | N | 33 | 15 | E | 13.93 |
+| 28 | N | 29 | 43 | E | 44.28 |
+| 29 | N | 28 | 44 | E | 89.52 |
+| 30 | N | 28 | 42 | E | 15.07 |
+| 31 | N | 30 | 01 | E | 12.92 |
+| 32 | N | 34 | 55 | E | 14.68 |
+| 33 | N | 43 | 42 | E | 15.62 |
+| 34 | N | 59 | 53 | E | 17.06 |
+| 35 | N | 70 | 48 | E | 17.88 |
+| 36 | N | 74 | 34 | E | 81.36 |
+| 37 | N | 74 | 56 | E | 100.92 |
+| 38 | N | 73 | 58 | E | 9.28 |
+| 39 | N | 69 | 55 | E | 6.32 |
+| 40 | N | 53 | 52 | E | 5.46 |
+| 41 | N | 31 | 44 | E | 2.28 |
+| 42 | N | 08 | 35 | E | 3.63 |
+| 43 | N | 16 | 58 | W | 2.59 |
+| 44 | N | 36 | 48 | W | 1.17 |
+| 45 | N | 49 | 46 | W | 23.57 |
+| 46 | N | 49 | 05 | W | 13.47 |
+| 47 | N | 48 | 36 | W | 13.55 |
+| 48 | N | 47 | 56 | W | 14.68 |
+| 49 | N | 47 | 30 | W | 13.32 |
+| 50 | N | 46 | 21 | W | 13.61 |
+| 51 | N | 44 | 41 | W | 14.50 |
+| 52 | N | 43 | 51 | W | 12.18 |
+| 53 | N | 42 | 20 | W | 10.45 |
+| 54 | N | 40 | 37 | W | 28.22 |
+| 55 | N | 41 | 10 | W | 12.54 |
+| 56 | N | 40 | 23 | W | 16.91 |
+| 57 | N | 39 | 00 | W | 14.90 |
+| 58 | N | 38 | 41 | W | 63.95 |
+| 59 | N | 38 | 55 | W | 14.66 |
+| 60 | N | 36 | 55 | W | 17.32 |
+| 61 | N | 34 | 55 | W | 34.55 |
+| 62 | N | 35 | 00 | W | 8.92 |
+| 63 | N | 36 | 44 | W | 17.57 |
+| 64 | N | 37 | 48 | W | 50.65 |
+| 65 | N | 37 | 42 | W | 11.04 |
+| 66 | N | 37 | 05 | W | 11.18 |
+| 67 | N | 35 | 45 | W | 11.92 |
+| 68 | N | 34 | 51 | W | 59.50 |
+| 69 | N | 34 | 32 | W | 18.17 |
+| 70 | N | 34 | 10 | W | 9.86 |
+| 71 | N | 30 | 25 | W | 13.44 |
+| 72 | N | 25 | 18 | W | 10.95 |
+| 73 | N | 21 | 16 | W | 8.29 |
+| 74 | N | 17 | 53 | W | 23.28 |
+| 75 | N | 16 | 20 | W | 15.97 |
+| 76 | N | 14 | 18 | W | 9.12 |
+| 77 | N | 13 | 40 | W | 44.24 |
+| 78 | N | 14 | 01 | W | 13.49 |
+| 79 | N | 14 | 59 | W | 11.58 |
+| 80 | N | 15 | 18 | W | 40.70 |
+| 81 | N | 15 | 17 | W | 28.26 |
+| 82 | N | 15 | 01 | W | 16.68 |
+| 83 | N | 16 | 30 | W | 13.68 |
+| 84 | N | 17 | 19 | W | 12.80 |
+| 85 | N | 19 | 31 | W | 13.07 |
+| 86 | N | 22 | 16 | W | 12.15 |
+| 87 | N | 25 | 04 | W | 13.69 |
+| 88 | N | 29 | 27 | W | 15.24 |
+| 89 | N | 35 | 31 | W | 11.91 |
+| 90 | N | 40 | 32 | W | 17.07 |
+| 91 | N | 42 | 54 | W | 41.17 |
+| 92 | N | 43 | 15 | W | 13.42 |
+| 93 | N | 43 | 37 | W | 13.31 |
+| 94 | N | 44 | 49 | W | 13.26 |
+| 95 | N | 46 | 52 | W | 12.86 |
+| 96 | N | 48 | 32 | W | 9.38 |
+| 97 | N | 49 | 53 | W | 38.06 |
+| 98 | N | 52 | 41 | W | 13.77 |
+| 99 | N | 53 | 45 | W | 11.86 |
+| 100 | N | 54 | 42 | W | 6.50 |
+| 101 | N | 56 | 51 | W | 22.90 |
+| 102 | N | 57 | 26 | W | 31.19 |
+| 103 | N | 53 | 45 | W | 13.79 |
+| 104 | N | 49 | 30 | W | 11.65 |
+| 105 | N | 41 | 15 | W | 14.49 |
+| 106 | N | 33 | 47 | W | 14.79 |
+| 107 | N | 20 | 09 | W | 14.35 |
+| 108 | N | 18 | 59 | W | 12.13 |
+| 109 | N | 15 | 33 | W | 20.70 |
+| 110 | N | 16 | 56 | W | 21.84 |
+| 111 | N | 18 | 53 | W | 29.30 |
+| 112 | N | 20 | 47 | W | 22.53 |
+| 113 | N | 20 | 13 | W | 12.95 |
+| 114 | N | 21 | 51 | W | 12.57 |
+| 115 | N | 18 | 35 | W | 14.37 |
+| 116 | N | 01 | 57 | W | 15.88 |
+| 117 | N | 07 | 18 | E | 13.52 |
+| 118 | N | 17 | 13 | E | 15.98 |
+| 119 | N | 23 | 42 | E | 29.56 |
+| 120 | N | 24 | 44 | E | 13.07 |
+| 121 | N | 21 | 24 | E | 12.43 |
+| 122 | N | 03 | 12 | W | 10.18 |
+| 123 | N | 04 | 48 | W | 22.66 |
+| 124 | N | 09 | 11 | E | 11.52 |
+| 125 | N | 12 | 26 | E | 14.39 |
+| 126 | N | 16 | 30 | E | 10.84 |
+| 127 | N | 22 | 16 | E | 7.00 |
+| 128 | N | 02 | 51 | E | 9.17 |
+| 129 | N | 47 | 44 | E | 24.48 |
+| 130 | N | 42 | 08 | E | 53.27 |
+| 131 | N | 42 | 22 | E | 23.72 |
+| 132 | N | 35 | 02 | E | 10.19 |
+| 133 | N | 21 | 36 | E | 17.64 |
+| 134 | N | 21 | 08 | E | 17.61 |
+| 135 | N | 19 | 31 | E | 20.42 |
+| 136 | N | 11 | 08 | E | 32.93 |
+| 137 | N | 02 | 28 | W | 376.32 |
+| 138 | N | 11 | 42 | W | 69.44 |
+| 139 | N | 22 | 17 | W | 58.52 |
+| 140 | N | 17 | 36 | W | 62.67 |
+| 141 | N | 17 | 05 | W | 325.98 |
+| 142 | N | 36 | 22 | E | 70.23 |
+| 143 | N | 68 | 27 | E | 10.88 |
+| 144 | N | 75 | 48 | E | 17.38 |
+| 145 | N | 77 | 58 | E | 23.70 |
+| 146 | N | 77 | 20 | E | 23.12 |
+| 147 | N | 80 | 03 | E | 21.01 |
+| 148 | N | 81 | 12 | E | 36.31 |
+| 149 | N | 72 | 46 | E | 19.48 |
+| 150 | N | 63 | 13 | E | 21.73 |
+| 151 | N | 61 | 12 | E | 44.74 |
+| 152 | N | 62 | 02 | E | 13.54 |
+| 153 | N | 63 | 26 | E | 14.94 |
+| 154 | N | 63 | 03 | E | 10.19 |
+| 155 | N | 58 | 51 | E | 9.47 |
+| 156 | N | 55 | 17 | E | 9.30 |
+| 157 | N | 54 | 11 | E | 11.33 |
+| 158 | N | 57 | 11 | E | 18.57 |
+| 159 | N | 61 | 06 | E | 10.24 |
+| 160 | N | 64 | 49 | E | 21.98 |
+| 161 | N | 64 | 50 | E | 8.69 |
+| 162 | N | 58 | 50 | E | 5.63 |
+| 163 | N | 49 | 19 | E | 7.46 |
+| 164 | N | 55 | 30 | E | 26.17 |
+| 165 | N | 68 | 15 | E | 14.73 |
+| 166 | N | 71 | 20 | E | 13.21 |
+| 167 | N | 75 | 59 | E | 10.83 |
+| 168 | N | 81 | 20 | E | 18.55 |
+| 169 | N | 82 | 55 | E | 24.11 |
+| 170 | N | 83 | 23 | E | 16.74 |
+| 171 | N | 84 | 09 | E | 18.19 |
+| 172 | N | 85 | 51 | E | 13.72 |
+| 173 | N | 88 | 04 | E | 32.30 |
+| 174 | N | 89 | 10 | E | 11.46 |
+| 175 | N | 83 | 48 | E | 7.62 |
+| 176 | N | 78 | 50 | E | 15.30 |
+| 177 | N | 77 | 50 | E | 11.28 |
+| 178 | N | 73 | 03 | E | 12.50 |
+| 179 | N | 69 | 35 | E | 16.21 |

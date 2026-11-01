@@ -1,0 +1,201 @@
+
+ **Section 3.** The DA-BFAR shall conduct continuing research and experimentation on the breeding and production of marine species, especially as they apply to local conditions, to discover new methods and technologies that will enhance the fishing industry.
+
+ **Section 4.** The Secretary of Agriculture shall include in the Department's programs the conduct of the feasibility study and the consequent establishment of the multi-species marine hatchery in the Municipality of Sta. Catalina, Province of Ilocos Sur, the funding of which shall be included in the General Appropriations Act. The local government unit concerned shall set aside funds from any available local revenue in an amount appropriate for the operationalization of the hatchery.
+
+ **Section 5.** Within sixty (60) days from the effectivity of this Act, the Secretary of Agriculture shall issue the rules and regulations on the supervision, operation, monitoring, and the eventual transfer of the management of the multi-species marine hatchery to the local govenrment of the Municipality of Sta. Catalina, Province of Ilocos Sur.
+
+ **Section 6.** This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (Sgd.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate | (Sgd.) **FERDINAND MARTIN G. ROMUALDEZ** Speaker of the House of Representatives |
+
+ This Act, which originated in the House of Representatives, was passed by the House of Representatives and the Senate of the Philippines on May 29, 2023 and August 27, 2024, respectively.
+
+ | (Sgd.) **RENATO N. BANTUG, JR.** Secretary of the Senate | (Sgd.) **REGINALD S. VELASCO** Secretary General House of Representatives |
+
+ Approved: DEC 13 2024
+
+ (Sgd.) **FERDINAND ROMUALDEZ MARCOS JR.** President of the Philippines
+"	success	Republic Act	Establishes a multi-species marine hatchery in Sta. Catalina, Ilocos Sur, under the supervision of the Bureau of Fisheries and Aquatic Resources of the Department of Agriculture, authorizes a feasibility study, appropriates funds, and sets provisions for management transfer and regulatory rules.	"[{""title"": ""Section 1"", ""summary"": ""Creates a multi-species marine hatchery in Sta. Catalina under DA-BFAR supervision.""}, {""title"": ""Section 2"", ""summary"": ""Mandates a full-scale feasibility study by DA-BFAR before hatchery establishment.""}, {""title"": ""Section 3"", ""summary"": ""Requires DA-BFAR to conduct ongoing research and experimentation on marine species breeding and production.""}, {""title"": ""Section 4"", ""summary"": ""Directs the Secretary of Agriculture to include the feasibility study and hatchery funding in the General Appropriations Act and for local government to allocate operational funds.""}, {""title"": ""Section 5"", ""summary"": ""Orders the Secretary of Agriculture to issue rules and regulations within 60 days of the act's effectivity.""}, {""title"": ""Section 6"", ""summary"": ""Specifies the act takes effect 15 days after publication in the Official Gazette or a general circulation newspaper.""}]"	12111	December 13, 2024			To establish a multi-species marine hatchery in Sta. Catalina, Ilocos Sur, and allocate funds for its operation.	"[""Establishment of a multi-species marine hatchery under DA-BFAR supervision"", ""Conduct of a full-scale feasibility study"", ""Funding appropriation through the General Appropriations Act"", ""Transfer of hatchery management to local government after construction"", ""Ongoing research and experimentation on marine species"", ""Issuance of rules and regulations within 60 days of effectivity""]"		"[""marine hatchery"", ""fisheries"", ""Ilocos Sur"", ""budget appropriation""]"	"[""marine hatchery"", ""fisheries"", ""budget"", ""Ilocos Sur"", ""DA-BFAR""]"
+repacts:datasets/markdown/repacts/2024/ra_12112_2024.md	repacts	2024		datasets/markdown/repacts/2024/ra_12112_2024.md	ra_12112_2024	Ra 12112 2024	"Nineteenth Congress Third Regular Session
+
+ [ REPUBLIC ACT NO. 12112, December 13, 2024 ]
+
+ AN ACT ESTABLISHING IN THE MUNICIPALITY OF RODRIGUEZ (MONTALBAN), PROVINCE OF RIZAL, A LEVEL II HOSPITAL TO BE KNOWN AS THE NORTHERN TAGALOG REGIONAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established, in the Municipality of Rodriguez (formerly Montalban), Province of Rizal, a Level II hospital with a two hundred (200)-bed capacity to be known as the Northern Tagalog Regional Hospital, which shall be under the direct control and supervision of the Department of Health (DOH).
+
+ **Section 2.** The Secretary of Health shall immediately include in the Department's program the implementation of this Act, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 3.** If any provision or part of this Act is declared unconstitutional, the remaining parts or provision not affected shall remain in full force and effect.
+
+ **Section 4.** All laws, executive orders, issuances, and rules and regulations inconsistent with this Act are hereby repealed or modified accordingly.
+
+ **Section 5.** This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (Sgd.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate | (Sgd.) **FERDINAND MARTIN G. ROMUALDEZ** Speaker of the House of Representatives |
+
+ This Act, which originated in the House of Representatives, was passed by the House of Representatives on August 9, 2023, amended by the Senate of the Philippines on August 19, 2024, and which amendments were concurred in by the House of Representatives on September 24, 2024.
+
+ | (Sgd.) **RENATO N. BANTUG, JR.** Secretary of the Senate | (Sgd.) **REGINALD S. VELASCO** Secretary General House of Representatives |
+
+ Approved: DEC 13 2024
+
+ (Sgd.) **FERDINAND ROMUALDEZ MARCOS JR.** President of the Philippines
+"	failed												
+repacts:datasets/markdown/repacts/2024/ra_12113_2024.md	repacts	2024		datasets/markdown/repacts/2024/ra_12113_2024.md	ra_12113_2024	AN ACT ESTABLISHING IN THE CITY OF SAN JOSE, PROVINCE OF NUEVA ECIJA, A LEVEL II GENERAL HOSPITAL TO BE KNOWN AS THE SEN. EDGARDO J. ANGARA GENERAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR	"Nineteenth Congress Third Regular Session
+
+ [ REPUBLIC ACT NO. 12113, December 13, 2024 ]
+
+ AN ACT ESTABLISHING IN THE CITY OF SAN JOSE, PROVINCE OF NUEVA ECIJA, A LEVEL II GENERAL HOSPITAL TO BE KNOWN AS THE SEN. EDGARDO J. ANGARA GENERAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established, in the City of San Jose, Province of Nueva Ecija, a Level II hospital with a one hundred (100)-bed capacity to be known as the Sen. Edgardo J. Angara General Hospital, which shall be under the direct control and supervision of the Department of Health (DOH).
+
+ **Section 2.** The Sen. Edgardo J. Angara General Hospital shall prioritize prenatal testing, obstetrics and gynecological services, pediatrics care, lactation programs, nutrition services, neonatal care, immunization services, postpartum depression support, education classes for parenting, and women's and children's health awareness.
+
+ **Section 3.** The Secretary of Health shall immediately include in the Department's program the implementation of this Act, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 4.** If any provision or part of this Act is declared unconstitutional, the remaining parts or provisions not affected shall remain in full force and effect.
+
+ **Section 5.** All laws, executive orders, issuances, and rules and regulations inconsistent with this Act are hereby repealed or modified accordingly.
+
+ **Section 6.** This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
+
+ This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (Sgd.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate | (Sgd.) **FERDINAND MARTIN G. ROMUALDEZ** Speaker of the House of Representatives |
+
+ This Act, which originated in the House of Representatives, was passed by the House of Representatives on December 12, 2023, amended by the Senate of the Philippines on August 19, 2024, and which amendments were concurred in by the House of Representatives on September 4, 2024.
+
+ | (Sgd.) **RENATO N. BANTUG, JR.** Secretary of the Senate | (Sgd.) **REGINALD S. VELASCO** Secretary General House of Representatives |
+
+ Approved: DEC 13 2024
+
+ (Sgd.) **FERDINAND ROMUALDEZ MARCOS JR.** President of the Philippines
+"	success	Republic Act	This Republic Act establishes a Level II general hospital in San Jose, Nueva Ecija, named the Sen. Edgardo J. Angara General Hospital, and appropriates funds for its construction, operation, and services.	"[{""title"": ""Section 1"", ""summary"": ""There shall be established, in the City of San Jose, Province of Nueva Ecija, a Level II hospital with a one hundred (100)-bed capacity to be known as the Sen. Edgardo J. Angara General Hospital, which shall be under the direct control and supervision of the Department of Health (DOH).""}, {""title"": ""Section 2"", ""summary"": ""The Sen. Edgardo J. Angara General Hospital shall prioritize prenatal testing, obstetrics and gynecological services, pediatrics care, lactation programs, nutrition services, neonatal care, immunization services, postpartum depression support, education classes for parenting, and women's and children's health awareness.""}, {""title"": ""Section 3"", ""summary"": ""The Secretary of Health shall immediately include in the Department's program the implementation of this Act, the funding of which shall be included in the annual General Appropriations Act.""}, {""title"": ""Section 4"", ""summary"": ""If any provision or part of this Act is declared unconstitutional, the remaining parts or provisions not affected shall remain in full force and effect.""}, {""title"": ""Section 5"", ""summary"": ""All laws, executive orders, issuances, and rules and regulations inconsistent with this Act are hereby repealed or modified accordingly.""}, {""title"": ""Section 6"", ""summary"": ""This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.""}]"	REPUBLIC ACT NO. 12113	December 13, 2024			To establish a Level II general hospital in San Jose, Nueva Ecija, named the Sen. Edgardo J. Angara General Hospital, and appropriate funds for its operation.	"[""Establishment of a Level II hospital with 100-bed capacity in San Jose, Nueva Ecija."", ""Prioritization of prenatal, obstetric, gynecological, pediatric, lactation, nutrition, neonatal, immunization, postpartum depression support, parenting education, and women's and children's health services."", ""Inclusion of the hospital in the Department of Health program and funding through the General Appropriations Act."", ""Preservation of remaining provisions if any part is declared unconstitutional."", ""Repeal or modification of all inconsistent laws, executive orders, issuances, rules and regulations."", ""Effectivity fifteen days after publication in the Official Gazette or a newspaper of general circulation.""]"	All laws, executive orders, issuances, rules and regulations inconsistent with this Act are repealed or modified accordingly.	"[""Health"", ""Hospital"", ""Nueva Ecija"", ""Level II"", ""Public Health""]"	"[""Sen. Edgardo J. Angara General Hospital"", ""Level II hospital"", ""San Jose"", ""Nueva Ecija"", ""Department of Health"", ""prenatal testing"", ""obstetrics"", ""gynecology"", ""pediatrics"", ""neonatal care"", ""immunization"", ""postpartum depression"", ""women's health"", ""children's health""]"
+repacts:datasets/markdown/repacts/2024/ra_12114_2024.md	repacts	2024		datasets/markdown/repacts/2024/ra_12114_2024.md	ra_12114_2024	"AN ACT CREATING FIVE (5) ADDITIONAL BRANCH OF THE REGIONAL TRIAL COURT IN THE FOURTH JUDICIAL REGION TO BE STATIONED IN THE MUNICIPALITIES OF ROSARIO AND SAN JUAN, PROVINCE OF BATANGAS, AND APPROPRIATING FUNDS THEREFOR, AMENDING FOR THE PURPOSE SECTION 14(E) OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS ""THE JUDICIARY REORGANIZATION ACT OF 1980"", AS AMENDED"	"Nineteenth Congress Third Regular Session
+
+ [ REPUBLIC ACT NO. 12114, December 13, 2024 ]
+
+ AN ACT CREATING FIVE (5) ADDITIONAL BRANCH OF THE REGIONAL TRIAL COURT IN THE FOURTH JUDICIAL REGION TO BE STATIONED IN THE MUNICIPALITIES OF ROSARIO AND SAN JUAN, PROVINCE OF BATANGAS, AND APPROPRIATING FUNDS THEREFOR, AMENDING FOR THE PURPOSE SECTION 14(E) OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS ""THE JUDICIARY REORGANIZATION ACT OF 1980"", AS AMENDED
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Five (5) additional branches of the Regional Trial Court (RTC) in the Fourth Judicial Region are hereby created and stationed in the Province of Batangas as follows:
+
+ (a) Four (4) branches in the Municipality of Rosario; and (b) One (1) branch in the Municipality of San Juan. The Supreme Court shall assign the respective branch numbers for the newly created branch of the RTC.
+
+ **Section 2.** The Chief Justice of the Supreme Court, in coordination with the Secretary of the Department of Justice, shall immediately include in the Court's program the operationalization of the additional branches of the RTC in the Municipalities of Rosario and San Juan, Province of Batangas. The Supreme Court shall issue the necessary rules and regulations for the effective implementation of this Act and, if warranted, the realignment of seats of existing branches and their territorial jurisdiction.
+
+ **Section 3.** The funds necessary for the implementation of this Act, including appropriations for personnel services such as salaries, benefits and emoluments for judges and court personnel, court operations under maintenance and other operating expenses (MOOE), and provisions for Halls of Justice or courtrooms to accommodate judges and court staff, as well as funds necessary for the implementation of automatically-created prosecutor positions pursuant to Section 13 of Republic Act No. 10071 or the ""Prosecution Service Act of 2010"" and appointment of public attorneys pursuant to Section 7 of Republic Act No. 9406 or the ""Act Reorganizing and Strengthening the Public Attorney's Office (PAO), resulting from the creation of these courts, including appropriations for personnel services such as salaries, benefits, and emoluments for prosecutors and public attorneys, shall be included in the annual General Appropriations Act.
+
+ The funds necessary for the operation of the courts herein created shall be appropriated and released only upon the actual organization of the court and the appointment of its personnel.
+
+ **Section 4.** The Province of Batangas will have four (4) additional branches of the RTC stationed in the Municipality of Rosario. The staffing pattern of each branch shall be as follows:
+
+ | No. of Positions | Position Title | Salary Grade |  |
+| --- | --- | --- | --- |
+| 1 | Regional Trial Court Judge | 29 |  |
+| 1 | Clerk of Court V | 24 |  |
+| 1 | Court Legal Researcher II | 15 |  |
+| 1 | Interpreter III | 12 |  |
+| 4 | Court Stenographer III | 12 |  |
+| 1 | Sheriff IV | 12 |  |
+| 2 | Clerk III | 6 |  |
+| 1 | Process Server | 5 |  |
+| 1 | Utility Worker I | 1 |  |
+| 13 | Personnel |  |  |
+
+ The staff complement of the new Office of the Clerk of Court (OCC) shall be composed of fifteen (15) personnel, while the Clerk of Court VI and data entry machine operator (DEMO) from RTC branch 87 will be transferred to the new OCC, unless the same is modified as may be determined by the Supreme Court.
+
+ In addition, there shall be appointed the corresponding number of prosecutors and public attorneys and their support staff based on the ratio outlined in Republic Act No. 10071 and Republic Act No. 9406, respectively.
+
+ **Section 5.** The Province of Batangas will have a single-sala branch of the RTC stationed in the Municipality of San Juan. The staffing pattern of the single-sala branch shall be as follows:
+
+ | No. of Positions | Position Title | Salary Grade |  |
+| --- | --- | --- | --- |
+| 1 | Regional Trial Court Judge | 29 |  |
+| 1 | Clerk of Court VI | 25 |  |
+| 1 | Court Legal Researcher II | 15 |  |
+| 1 | Interpreter III | 12 |  |
+| 4 | Court Stenographer III | 12 |  |
+| 1 | Sheriff IV | 12 |  |
+| 1 | Data Entry Machine Operator II | 8 |  |
+| 2 | Clerk III | 6 |  |
+| 1 | Process Server | 5 |  |
+| 1 | Utility Worker I | 1 |  |
+| 14 | Personnel |  |  |
+
+ **Section 6.** Section 14(e) and 27 of Batas Pambansa Blg. 129, otherwise known as ""The Judiciary Reorganization Act of 1980"", as amended, and all other laws, rules and regulations which are inconsistent with this Act are hereby amended, repealed or modified accordingly.
+
+ **Section 7.** This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (Sgd.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate | (Sgd.) **FERDINAND MARTIN G. ROMUALDEZ** Speaker of the House of Representatives |
+
+ This Act, which originated in the House of Representatives, was passed by the House of Representatives and the Senate of the Philippines on August 27, 2024.
+
+ | (Sgd.) **RENATO N. BANTUG, JR.** Secretary of the Senate | (Sgd.) **REGINALD S. VELASCO** Secretary General House of Representatives |
+
+ Approved: DEC 13 2024
+
+ (Sgd.) **FERDINAND ROMUALDEZ MARCOS JR.** President of the Philippines
+"	success	Republic Act	An act establishing five additional branches of the Regional Trial Court in Batangas, appropriating funds, setting staffing, and amending Batas Pambansa Blg. 129.	"[{""title"": ""Section 1."", ""summary"": ""Creation of five (5) additional branches of the Regional Trial Court in the Fourth Judicial Region, stationed in Rosario and San Juan, Batangas.""}, {""title"": ""Section 2."", ""summary"": ""Operationalization of the new branches, including coordination between the Chief Justice, the Secretary of Justice, and the Supreme Court to issue necessary rules and realign existing branches.""}, {""title"": ""Section 3."", ""summary"": ""Appropriation of funds for personnel, operations, and new prosecutor positions, to be included in the annual General Appropriations Act.""}, {""title"": ""Section 4."", ""summary"": ""Staffing pattern for the four branches in Rosario, detailing positions, salary grades, and personnel complement.""}, {""title"": ""Section 5."", ""summary"": ""Staffing pattern for the single-sala branch in San Juan, detailing positions, salary grades, and personnel complement.""}, {""title"": ""Section 6."", ""summary"": ""Amendment, repeal, or modification of Sections 14(e) and 27 of Batas Pambansa Blg. 129 and other inconsistent laws, rules, and regulations.""}, {""title"": ""Section 7."", ""summary"": ""Effectivity of the act fifteen days after publication in the Official Gazette or a newspaper of general circulation.""}]"	12114	December 13, 2024	"[{""name"": ""FRANCIS \""CHIZ\"" G. ESCUDERO"", ""title"": ""President of the Senate""}, {""name"": ""FERDINAND MARTIN G. ROMUALDEZ"", ""title"": ""Speaker of the House of Representatives""}]"		To create and staff additional branches of the Regional Trial Court in Batangas, appropriate necessary funds, and amend related judiciary legislation.	"[""Creation of five additional RTC branches in Rosario and San Juan, Batangas"", ""Appropriation of funds for personnel, operations, and prosecutor positions"", ""Detailed staffing patterns for the new branches"", ""Amendment of Batas Pambansa Blg. 129 Sections 14(e) and 27"", ""Effectivity clause 15 days after publication""]"	Batas Pambansa Blg. 129 (Sections 14(e) and 27)	"[""Judiciary"", ""Regional Trial Court"", ""Appropriations"", ""Batas Pambansa"", ""Reorganization""]"	"[""Regional Trial Court"", ""Batangas"", ""Rosario"", ""San Juan"", ""Batas Pambansa"", ""Appropriations"", ""Staffing"", ""Judiciary Reorganization Act"", ""Republic Act 12114""]"
+repacts:datasets/markdown/repacts/2024/ra_12115_2024.md	repacts	2024		datasets/markdown/repacts/2024/ra_12115_2024.md	ra_12115_2024	AN ACT GRANTING PHILIPPINE CITIZENSHIP TO ALEKSANDR SERGEYEVICH KOROVIN	"Nineteenth Congress Third Regular Session
+
+ [ REPUBLIC ACT NO. 12115, December 20, 2024 ]
+
+ AN ACT GRANTING PHILIPPINE CITIZENSHIP TO ALEKSANDR SERGEYEVICH KOROVIN
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Aleksandr Sergeyevich Korovin is hereby granted Philippine citizenship with all the rights, privileges and prerogatives, as well as the duties and obligations appurtenant thereto under the Constitution and the laws of the Republic of the Philippines.
+
+ **Section 2.** Aleksandr Sergeyevich Korovin shall take the Oath of Allegiance to the Republic of the Philippines before an officer duly authorized to administer the same. The Oath of Allegiance shall be registered with the Bureau of Immigration.
+
+ **Section 3.** Upon registration of the Oath of Allegiance, the Bureau of Immigration shall issue a Certificate of Naturalization to Aleksandr Sergeyevich Korovin who shall thereupon enter into the full enjoyment of Philippine citizenship.
+
+ **Section 4.** This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (Sgd.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate | (Sgd.) **FERDINAND MARTIN G. ROMUALDEZ** Speaker of the House of Representatives |
+
+ This Act, which originated in the House of Representatives, was passed by the House of Representatives and the Senate of the Philippines on May 8, 2024 and December 3, 2024, respectively.
+
+ | (Sgd.) **RENATO N. BANTUG, JR.** Secretary of the Senate | (Sgd.) **REGINALD S. VELASCO** Secretary General House of Representatives |
+
+ Approved: DEC 20 2024
+
+ (Sgd.) **FERDINAND ROMUALDEZ MARCOS JR.** President of the Philippines
+"	success	Republic Act	This act grants Philippine citizenship to Aleksandr Sergeyevich Korovin, requiring him to take an oath of allegiance and receive a Certificate of Naturalization, and specifies the act’s effective date.	"[{""title"": ""Section 1. Granting Citizenship"", ""summary"": ""Aleksandr Sergeyevich Korovin is granted Philippine citizenship with all rights, privileges, prerogatives, duties, and obligations under the Constitution and laws of the Republic of the Philippines.""}, {""title"": ""Section 2. Oath of Allegiance"", ""summary"": ""Korovin shall take the Oath of Allegiance to the Republic of the Philippines before an authorized officer; the oath shall be registered with the Bureau of Immigration.""}, {""title"": ""Section 3. Issuance of Certificate of Naturalization"", ""summary"": ""Upon registration of the oath, the Bureau of Immigration shall issue a Certificate of Naturalization to Korovin, enabling full enjoyment of Philippine citizenship.""}, {""title"": ""Section 4. Effectivity"", ""summary"": ""The act shall take effect fifteen (15) days after its publication in the Official Gazette or a newspaper of general circulation.""}]"	12115	2024-12-20	"[{""name"": ""FRANCIS \""CHIZ\"" G. ESCUDERO"", ""title"": ""President of the Senate""}, {""name"": ""FERDINAND MARTIN G. ROMUALDEZ"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""RENATO N. BANTUG, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""REGINALD S. VELASCO"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""FERDINAND ROMUALDEZ MARCOS JR."", ""title"": ""President of the Philippines""}]"	To grant Philippine citizenship to Aleksandr Sergeyevich Korovin.	"[""Granting citizenship to Aleksandr Sergeyevich Korovin"", ""Mandating oath of allegiance"", ""Issuing Certificate of Naturalization"", ""Effectivity after publication""]"		"[""Naturalization"", ""Citizenship"", ""Republic Act"", ""Immigration""]"	"[""Naturalization"", ""Citizenship"", ""Republic Act"", ""Immigration""]"
+repacts:datasets/markdown/repacts/2025/irr_11961_2025.md	repacts	2025		datasets/markdown/repacts/2025/irr_11961_2025.md	irr_11961_2025	THE 2024 IMPLEMENTING RULES AND REGULATIONS OF REPUBLIC ACT NO. 10066, THE NATIONAL CULTURAL HERITAGE ACT OF 2009, AS AMENDED BY REPUBLIC ACT NO. 11961, AND OTHER LAWS AND REGULATIONS ON CULTURAL HERITAGE	"**[ IRR of REPUBLIC ACT NO. 11961]**
+
+ THE 2024 IMPLEMENTING RULES AND REGULATIONS OF REPUBLIC ACT NO. 10066, THE NATIONAL CULTURAL HERITAGE ACT OF 2009, AS AMENDED BY REPUBLIC ACT NO. 11961, AND OTHER LAWS AND REGULATIONS ON CULTURAL HERITAGE
+
+ BOOK ONE GENERAL PROVISIONS
+
+ RULE I TITLE, PURPOSE, AND CONSTRUCTION
+
+ **Section 1.** *Short Title.* - These Revised Implementing Rules and Regulations (RIRR) shall be known as the 2024 Implementing Rules and Regulations of the National Cultural Heritage Act, Republic Act (R.A.) No. 10066, as amended by R.A. No. 11961, hereinafter referred to as the Rules.
+
+ **Section 2.** *Purpose.* - These Rules are promulgated for the implementation of R.A. No. 10066, as amended, in order to facilitate compliance therewith and to achieve the objectives thereof.
+
+ **Section 3.** *Construction.* - These Rules shall be construed and applied in accordance with, and in furtherance of, the policies and objectives of the Act.
+
+ In case of conflict in the text and interpretation of various laws on cultural heritage, unless otherwise provided by these Rules, the interpretation consistent with the provisions of R.A. No. 11961 and these Rules shall be applied, in a manner that enhances the conservation of the cultural heritage of the Philippines.
+
+ The provisions of these Rules, insofar as practicable, shall also be used to guide the interpretation and implementation of existing and future laws of local application and local ordinances that pertain to cultural heritage.
+
+ In case of conflict or ambiguity, which may arise in the implementation of these Rules, the National Commission for Culture and the Arts (NCCA), hereinafter referred to as the Commission, shall issue the necessary clarification. In case of doubt, the same shall be construed liberally and in favor of the Constitutional directives to foster preservation, enrichment and dynamic evolution of a Filipino culture.

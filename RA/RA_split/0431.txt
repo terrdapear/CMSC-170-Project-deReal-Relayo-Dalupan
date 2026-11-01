@@ -1,0 +1,178 @@
+repacts:datasets/markdown/repacts/1957/ra_1688_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1688_1957.md	ra_1688_1957	An Act Converting the Sitio of Kalangkang, Barrio of Kasily, Municipality of Sta. Cruz, Province of Marinduque, into a Barrio to be Known as the Barrio of Kalangkang of Said Municipality	"**REPUBLIC ACT No. 1688**
+
+ **An Act Converting the Sitio of Taug Norte, Barrio of Taug, Municipality of Lila, Province of Bohol, into a Barrio of Said Municipality to be Known as the Barrio of La Fortuna**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Taug Norte, barrio of Taug, Municipality of Lila, Province of Bohol, is converted into a barrio of said municipality to be known as the barrio of La Fortuna.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	Converts the sitio of Kalangkang in Barangay Kasily, Sta. Cruz, Marinduque into a barrio named Kalangkang.	"[{""title"": ""Section 1."", ""summary"": ""The sitio of Kalangkang, barrio of Kasily, Municipality of Sta. Cruz, Province of Marinduque, is converted into a barrio of said municipality to be known as the barrio of Kalangkang.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	1676	June 20, 1957			To convert the sitio of Kalangkang into a barrio.	"[""Conversion of the sitio of Kalangkang into a barrio."", ""Act takes effect upon approval.""]"		"[""barrio"", ""Marinduque"", ""Republic Act""]"	"[""Kalangkang"", ""Kasily"", ""Sta. Cruz"", ""Marinduque"", ""sitio"", ""barrio""]"
+repacts:datasets/markdown/repacts/1957/ra_1689_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1689_1957.md	ra_1689_1957	An Act to Convert the Sitio of Durado in the Municipality of Pakil, Province of Laguna, into a Barrio to be Known as the Barrio of Durado of Said Municipality	"**REPUBLIC ACT No. 1689**
+
+ **An Act Converting the Sitio of Pinagbayanan, Municipality of Pila, Province of Laguna, into a Barrio of Said Municipality**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Pinagbayanan, Municipality of Pila, Province of Laguna, is converted into a barrio of said municipality.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	The Act converts the sitio of Durado in Pakil, Laguna into a barrio named Durado, effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The sitio of Durado in the Municipality of Pakil, Province of Laguna, is hereby converted into a barrio to be known as the barrio of Durado of said municipality.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	1677	June 20, 1957			Convert a sitio into a barrio.	"[""Section 1: conversion of the sitio of Durado into a barrio.""]"		"[""local government"", ""municipality"", ""Laguna"", ""barrio conversion""]"	"[""Durado"", ""Pakil"", ""Laguna"", ""barrio"", ""sitio"", ""Republic Act"", ""1957""]"
+repacts:datasets/markdown/repacts/1957/ra_1690_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1690_1957.md	ra_1690_1957	An Act Creating the Barrio of Milad, Municipality of Polanco, Province of Zamboanga del Norte	"**REPUBLIC ACT No. 1690**
+
+ **An Act Creating Certain Barrios in the Municipality of Mayorga, Province of Leyte**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Picas, Guintulayan, and Bañgag, Municipality of Mayorga, Province of Leyte, are converted into barrios of said municipality to be known as the barrios of Santa Cruz, General Antonio Luna, and Calipayan, respectively.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	An act constituting the sitios of Dilawa, Desin, Lambog, Gumatob, Boboringan, Tubongon, Debolok, Tiaman, Guintom, Lower Disoy, and New Tipan into the barrio of Milad in the Municipality of Polanco, Zamboanga del Norte.	"[{""title"": ""Section 1"", ""summary"": ""Constitutes the specified sitios into the barrio of Milad.""}, {""title"": ""Section 2"", ""summary"": ""The act takes effect upon its approval.""}]"	1678	June 20, 1957			To create a new barrio within the Municipality of Polanco, Zamboanga del Norte.	"[""Constitutes specified sitios into a barrio"", ""Act takes effect upon approval""]"		"[""Local Government"", ""Barrio"", ""Zamboanga del Norte"", ""Republic Act""]"	"[""Milad"", ""Polanco"", ""Zamboanga del Norte"", ""Republic Act 1678"", ""barrio creation""]"
+repacts:datasets/markdown/repacts/1957/ra_1691_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1691_1957.md	ra_1691_1957	An Act to Further Amend Section Twenty of the Charter of the City of Davao	"**REPUBLIC ACT No. 1691**
+
+ **An Act Creating the Barrio of Santo Niño, Municipality of Compostela, Province of Davao**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Kao, Magkagong, Margosan, Matilo, Magangit, Cabacungan, Tigbatinao and Camanlangan in the Municipality of Compostela, Province of Davao, are constituted into an independent barrio of said municipality to be known as the barrio of Santo Niño.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	This act amends Section 20 of the Charter of the City of Davao to specify the compensation for the five assistant city attorneys.	"[{""title"": ""Section 1. Amendment to Section 20"", ""summary"": ""Adds compensation amounts for the five assistant city attorneys in Section 20 of the Charter of the City of Davao.""}, {""title"": ""Section 2. Effective Date"", ""summary"": ""The act takes effect upon its approval.""}]"	1679	June 20, 1957			To further amend Section 20 of the Charter of the City of Davao and establish compensation for assistant city attorneys.	"[""Specification of compensation amounts for the five assistant city attorneys."", ""Act takes effect upon approval.""]"	Commonwealth Act No. 51 (Charter of the City of Davao) as amended by Republic Act No. 1368	"[""City Charter"", ""Davao"", ""Assistant City Attorney"", ""Compensation"", ""Local Government""]"	"[""Republic Act"", ""Davao City Charter"", ""Assistant City Attorney"", ""Compensation"", ""Section 20""]"
+repacts:datasets/markdown/repacts/1957/ra_1692_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1692_1957.md	ra_1692_1957	An Act Amending Item (b), Group III, Paragraph Thirty-Five, for the Mountain Province, Subsection f, Section Two of Republic Act Numbered One Thousand Four Hundred Eleven	"**REPUBLIC ACT No. 1692**
+
+ **An Act Changing the Name of the Barrio of Tubog in the Municipality of Mauban, Province of Quezon, to San Gabriel**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the barrio of Tubog in the Municipality of Mauban, Province of Quezon, is hereby changed to San Gabriel.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Act	Amends Item (b) of Republic Act No. 1111 to specify the construction cost of the Besao Municipal Building as ₱5,000.00.	"[{""title"": ""Section 1. Amendment"", ""summary"": ""Item (b) of RA 1111 is amended to read: (b) Besao Municipal Building Construction | \u20b15,000.00.""}, {""title"": ""Section 2. Effectivity"", ""summary"": ""The Act shall take effect upon its approval.""}]"	1680	June 20, 1957			To amend Republic Act No. 1111 to include the specified construction cost for the Besao Municipal Building.	"[""Item (b) updated to read 'Besao Municipal Building Construction | \u20b15,000.00'""]"	Republic Act No. 1111	"[""Amendment"", ""Construction"", ""Budget"", ""Mountain Province""]"	"[""Besao"", ""Municipal Building"", ""Construction"", ""\u20b15,000"", ""RA 1111"", ""Amendment""]"
+repacts:datasets/markdown/repacts/1957/ra_1693_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1693_1957.md	ra_1693_1957	An Act to Amend Certain Items in Republic Act Numbered One Thousand Two Hundred	"**REPUBLIC ACT No. 1693**
+
+ **An Act Creating the Barrio of Bagong Pook in the Municipality of Lemery, Province of Batangas**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Bagong Pook is separated from the barrio of Arumahan, Municipality of Lemery, Province of Batangas, and constituted into a barrio in the said municipality to be known as the barrio of Bagong Pook.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	This act amends specific item provisions in RA 1200 concerning construction of facilities at Negros Occidental hospitals, and inserts a new item for an emergency hospital.	"[{""title"": ""Section 1"", ""summary"": ""Amends item (37) in RA 1200 to specify construction of a kitchen for contagious diseases pavilion and a laboratory building at Negros Occidental Provincial Hospital, Bacolod.""}, {""title"": ""Section 2"", ""summary"": ""Inserts new item (63) after item (62) in RA 1200, allocating funds for construction of Negros Occidental Emergency Hospital in Himamaylan.""}, {""title"": ""Section 3"", ""summary"": ""The act shall take effect upon its approval.""}]"	1681	June 20, 1957			To amend specific construction items in RA 1200 for hospitals in Negros Occidental and to insert a new emergency hospital item.	"[""Amendment of item (37) in RA 1200 for kitchen and laboratory construction."", ""Insertion of item (63) for construction of Negros Occidental Emergency Hospital in Himamaylan."", ""Effectivity of the act upon approval.""]"	Republic Act Numbered Twelve hundred (RA 1200)	"[""Health"", ""Hospital"", ""Amendment""]"	"[""Negros Occidental Provincial Hospital"", ""Bacolod"", ""Hospital"", ""Himamaylan"", ""Emergency Hospital"", ""Construction"", ""Kitchen"", ""Laboratory""]"
+repacts:datasets/markdown/repacts/1957/ra_1694_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1694_1957.md	ra_1694_1957	An Act to Establish a Breeding Station in the Province of Iloilo and Another One in the Province of Isabela and to Appropriate the Necessary Funds Therefor	"**REPUBLIC ACT No. 1694**
+
+ **An Act Creating the Barrio of Masalisi in the Municipality of Lemery, Province of Batangas**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Masalisi is separated from the barrio of Payapa, Municipality of Lemery, Province of Batangas, and constituted into a barrio in the said municipality to be known as the barrio of Masalisi.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	Establishes breeding stations in Iloilo and Isabela, appropriating 100,000 pesos for their construction, operation, and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""Establishes a breeding station in Iloilo and another in Isabela under the supervision of the Director of Animal Industry.""}, {""title"": ""Section 2."", ""summary"": ""Mandates the Director to establish the stations on suitable land, subject to rules by the Secretary of Agriculture and Natural Resources.""}, {""title"": ""Section 3."", ""summary"": ""Appropriates 100,000 pesos for purchase of animals, supplies, construction, water systems, salaries, and other expenses for the fiscal year ending June 30, 1958.""}, {""title"": ""Section 4."", ""summary"": ""The act takes effect upon approval.""}]"	1682	June 20, 1957			To establish breeding stations in Iloilo and Isabela for animal breeding and secure necessary funding for their construction and operation.	"[""Establishment of breeding stations in Iloilo and Isabela"", ""Appropriation of 100,000 pesos for construction, supplies, and salaries"", ""Stations supervised by Director of Animal Industry"", ""Operation approved by Secretary of Agriculture and Natural Resources""]"		"[""Animal Industry"", ""Breeding Station"", ""Agriculture"", ""Iloilo"", ""Isabela""]"	"[""breeding station"", ""Iloilo"", ""Isabela"", ""Animal Industry"", ""appropriated funds"", ""National Treasury""]"
+repacts:datasets/markdown/repacts/1957/ra_1695_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1695_1957.md	ra_1695_1957	An Act Creating the Barrio of Tagodtod in the Municipality of San Nicolas, Province of Batangas	"**REPUBLIC ACT No. 1695**
+
+ **An Act Changing the Names of Certain Barrios in the Municipality of Batangas, Province of Batangas**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The names of the following barrios in the Municipality of Batangas, Province of Batangas, are changed as follows:
+
+ Barrio Patay to barrio Balagtas; Barrio Sambat Ilaya to barrio Kumintang Ilaya; and Barrio Sambat Ibaba to barrio Kumintang Ibaba. **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	An act establishing the barrio of Tagodtod by separating it from the barrio of Munlawin in San Nicolas, Batangas.	"[{""title"": ""Section 1."", ""summary"": ""The sitio of Tagodtod is separated from the barrio of Munlawin, Municipality of San Nicolas, Province of Batangas, and constituted into a barrio in the said municipality to be known as the barrio of Tagodtod.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	1683	June 20, 1957			To create a new barrio (Tagodtod) within the municipality of San Nicolas, thereby formalizing its local administrative status.	"[""Establishment of the barrio of Tagodtod."", ""Effectivity upon approval.""]"		"[""Local Government"", ""Barangay Creation"", ""Republic Act 1683""]"	"[""barrio"", ""Tagodtod"", ""San Nicolas"", ""Batangas"", ""Republic Act"", ""creation""]"
+repacts:datasets/markdown/repacts/1957/ra_1696_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1696_1957.md	ra_1696_1957	An Act Creating the Barrio of Burol in the Municipality of San Nicolas, Province of Batangas	"**REPUBLIC ACT No. 1696**
+
+ **An Act Changing the Name of the Barrio of Curba, Municipality of Santa Fe, Province of Leyte, to Barrio San Roque**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the barrio of Curba, Municipality of Santa Fe, Province of Leyte, is changed to barrio San Roque.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	Creates the barrio of Burol by separating it from the barrio of Tambo, effective upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Separates the sitio of Burol from the barrio of Tambo and constitutes it as barrio of Burol.""}, {""title"": ""Section 2."", ""summary"": ""The Act takes effect upon its approval.""}]"	1684	June 20, 1957			To create a new barrio within the municipality of San Nicolas.	"[""Separates the sitio of Burol from the barrio of Tambo and constitutes it as a new barrio"", ""The Act takes effect upon its approval""]"		"[""Local Government"", ""Barrio"", ""San Nicolas"", ""Batangas""]"	"[""barrio"", ""Burol"", ""San Nicolas"", ""Batangas"", ""Republic Act"", ""1957""]"
+repacts:datasets/markdown/repacts/1957/ra_1697_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1697_1957.md	ra_1697_1957	An Act Creating the Barrio of Kalawit in the Municipality of San Nicolas, Province of Batangas	"**REPUBLIC ACT No. 1697**
+
+ **An Act Converting the Sitios of Pinanhadsan and Km. 17, Municipality of Santa Fe, Province of Leyte, into Barrios of Said Municipality to be Known as the Barrios of Katipunan and Milagrosa, Respectively**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Pinanhadsan and Km. 17, Municipality of Santa Fe, Province of Leyte, are converted into barrio of said municipality to be known as the barrios of Katipunan and Milagrosa, respectively.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	Establishes the barrio of Kalawit by separating the sitio of Kalawit from the barrio of Alas-as in San Nicolas, Batangas, and declares it a new barrio within the municipality.	"[{""title"": ""Section 1"", ""summary"": ""Separates the sitio of Kalawit from the barrio of Alas-as and constitutes it as a new barrio named Kalawit.""}, {""title"": ""Section 2"", ""summary"": ""Specifies that the act takes effect upon its approval.""}]"	No. 1685	June 20, 1957			To create a new barrio in San Nicolas, Batangas.	"[""Establishment of the barrio of Kalawit"", ""Effectivity upon approval""]"		"[""local government"", ""barrio creation""]"	"[""Kalawit"", ""San Nicolas"", ""Batangas"", ""barrio""]"
+repacts:datasets/markdown/repacts/1957/ra_1698_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1698_1957.md	ra_1698_1957	An Act Creating the Barrio of Baluk-Balok in the Municipality of San Nicolas, Province of Batangas	"**REPUBLIC ACT No. 1698**
+
+ **An Act Converting the Sitio of Inawangan, Municipality of Dulag, Province of Leyte, into a Barrio of Said Municipality to be Known as the Barrio of Kamitok**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Inawangan, Municipality of Dulag, Province of Leyte, is converted into a barrio of said municipality to be known as the barrio of Kamitok.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	Establishes the barrio of Baluk-Balok by separating the sitio of Baluk-Balok from the barrio of Gipit in the Municipality of San Nicolas, Batangas.	"[{""title"": ""Section 1."", ""summary"": ""Separates the sitio of Baluk-Balok from the barrio of Gipit and constitutes it as a barrio named Baluk-Balok in San Nicolas, Batangas.""}, {""title"": ""Section 2."", ""summary"": ""The act takes effect upon its approval.""}]"	1686	June 20, 1957			To establish a new barrio in San Nicolas, Batangas.	"[""Separates the sitio of Baluk-Balok and establishes it as a barrio."", ""The act becomes effective upon approval.""]"		"[""Republic Act"", ""Barrio"", ""San Nicolas"", ""Batangas"", ""Administrative Division""]"	"[""Baluk-Balok"", ""Gipit"", ""San Nicolas"", ""Batangas"", ""barrio"", ""sitio"", ""Republic Act 1686""]"
+repacts:datasets/markdown/repacts/1957/ra_1699_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1699_1957.md	ra_1699_1957	An Act Creating the Barrio of Pulang-Bato in the Municipality of San Nicolas, Province of Batangas	"**REPUBLIC ACT No. 1699**
+
+ **An Act Fixing the Salaries of the Members of the Municipal Board of the City of Cavite, Amending for the Purpose the Last Paragraph of Section Eleven of Commonwealth Act Numbered Five Hundred Forty-Seven**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The last paragraph of section eleven of Commonwealth Act Numbered Five hundred forty-seven, otherwise known as the Charter of the City of Cavite, is amended to read as follows:
+
+ > ""The Members of the Municipal Board who are not officers or employees of the Government receiving a fixed compensation or salary from public funds, shall each receive an annual compensation of two thousand four hundred pesos.""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	This act establishes the barrio of Pulang-Bato in San Nicolas, Batangas by separating it from barrio Alas-as.	"[{""title"": ""Section 1."", ""summary"": ""The sitio of Pulang-Bato is separated from the barrio of Alas-as, Municipality of San Nicolas, Province of Batangas, and constituted into a barrio in the said municipality to be known as the barrio of Pulang-Bato.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	1687	June 20, 1957			To create a new barrio in the Municipality of San Nicolas, Batangas.	"[""Creation of the barrio of Pulang-Bato from barrio Alas-as"", ""Act takes effect upon approval""]"		"[""Republic Act"", ""Local Government""]"	"[""Pulang-Bato"", ""San Nicolas"", ""Batangas"", ""barrio""]"
+repacts:datasets/markdown/repacts/1957/ra_1700_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1700_1957.md	ra_1700_1957	An Act Converting the Sitio of Taug Norte, Barrio of Taug, Municipality of Lila, Province of Bohol, into a Barrio of Said Municipality to be Known as the Barrio of La Fortuna	"**REPUBLIC ACT No. 1700**
+
+ AN ACT TO OUTLAW THE COMMUNIST PARTY OF THE PHILIPPINES AND SIMILAR ASSOCIATIONS, PENALIZING MEMBERSHIP THEREIN, AND FOR OTHER PURPOSES.
+
+ **WHEREAS,** the Communist Party of the Philippines, although purportedly a political party, is in fact an organized conspiracy to overthrow the Government of the Republic of the Philippines not only by force and violence but also by deceit, subversion and other illegal means, for the purpose of establishing in the Philippines a totalitarian regime subject to alien domination and control;
+
+ **WHEREAS,** the continued existence and activities of the Communist Party of the Philippines constitutes a clear, present and grave danger to the security of the Philippines; and
+
+ **WHEREAS,** in the face of the organized, systematic and persistent subversion, national in scope but international in direction, posed by the Communist Party of the Philippines and its activities, there is urgent need for special legislation to cope with this continuing menace to the freedom and security of the country: Now, therefore,
+
+ **Section 1.** This Act shall be known as Anti-Subversion Act.
+
+ **Section 2.** The Congress hereby declares the Communist Party of the Philippines to be an organized conspiracy to overthrow the Government of the Republic of the Philippines for the purpose of establishing in the Philippines a totalitarian regime and place the Government under the control and domination of an alien power. The said party and any other organization having the same purpose and their successors are hereby declared illegal and outlawed.
+
+ **Section 3.** As used in this Act, the term ""Communist Party of the Philippines"" shall mean and include the organizations now known as the Communist Party of the Philippines and its military arm, the Hukbong Mapagpalaya ng Bayan, formerly known as HUKBALAHAPS, and any successors of such organizations.
+
+ **Section 4.** After the approval of this Act, whoever knowingly, willfully and by overt acts affiliates himself with, becomes or remains a member of the Communist Party of the Philippines and/or its successor or of any subversive association as defined in section two hereof shall be punished by the penalty of arresto mayor and shall be disqualified permanently from holding any public office, appointive and elective, and from exercising the right to vote; in case of a second conviction, the principal penalty shall be prision correctional, and in all subsequent convictions the penalty of prision mayor shall be imposed; and any alien convicted under this Act shall be deported immediately after he shall have served the sentence imposed upon him: *Provided*, That if such member is an officer or a ranking leader of the Communist Party of the Philippines or of any subversive association as defined in section two hereof, or if such member takes up arms against the Government, he shall be punished by prision mayor to death with all the accessory penalties provided therefor in the Revised Penal Code: And*provided, finally*, That one who conspires with any other person to overthrow the Government of the Republic of the Philippines or the government of any of its political subdivisions by force, violence, deceit, subversion or other illegal means, for the purpose of placing such Government or political subdivision under the control and domination of any alien power, shall be punished by prision correctional to prision mayor with all the accessory penalties provided therefor in the same Code.
+
+ **Section 5.** No prosecution under this Act shall be made unless the city or provincial fiscal, or any special attorney or prosecutor duly designated by the Secretary of Justice, as the case may be, finds after due investigation of the facts, that a prima facie case for violation of this Act exists against the accused, and thereafter presents an information in court against the said accused in due form, and certifies under oath that he has conducted a proper preliminary investigation thereof, with notice, whenever it is possible to give the same, to the party concerned, who shall have the right to be represented by counsel, to testify, to have compulsory process for obtaining witnesses in his favor, and to cross-examine witnesses against him: *Provided*, That the preliminary investigation of any offense defined and penalized herein by prision mayor to death shall be conducted by the proper Court of First Instance.
+
+ **Section 6.** Any person who knowingly furnishes false evidence in any action brought under this Act shall be punished by prision correctional.
+
+ **Section 7.** No person shall be convicted of any of the offenses penalized herein with prision mayor to death unless on the testimony of at least two witnesses to the same overt act or on confession of the accused in open court.
+
+ **Section 8.** Within thirty days after the approval of this Act, any person who is a member of the Communist Party of the Philippines or of any such association or conspiracy, who desires to renounce such membership, may do so in writing and under oath before a municipal or city mayor, a provincial governor, or a person authorized by law to administer oaths. Such renunciation shall exempt such person or persons from the penal sanction of this Act, but the same shall in no way exempt him from liability for criminal acts or for any violation of the existing laws of the Republic of the Philippines committed before this Act takes effect.
+
+ **Section 9.** Nothing in this Act shall be interpreted as a restriction to freedom of thought, of assembly and of association for purposes not contrary to law as guaranteed by the Constitution.
+
+ **Section 10.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957
+"	success	Republic Act	This law converts the sitio of Taug Norte in the municipality of Lila, Bohol, into the barrio of La Fortuna.	"[{""title"": ""Section 1"", ""summary"": ""The sitio of Taug Norte, barrio of Taug, Municipality of Lila, Province of Bohol, is converted into a barrio of said municipality to be known as the barrio of La Fortuna.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	1688	June 20, 1957			To convert a sitio into a barrio within the municipality of Lila, Bohol.	"[""Conversion of the sitio of Taug Norte into the barrio of La Fortuna."", ""The Act takes effect upon its approval.""]"		"[""Local Government"", ""Administrative Law"", ""Bohol""]"	"[""sitio"", ""barrio"", ""Taug Norte"", ""La Fortuna"", ""Lila"", ""Bohol"", ""Republic Act 1688""]"

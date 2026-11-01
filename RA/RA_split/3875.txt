@@ -1,0 +1,157 @@
+
+ **Section 6.** If any provision or part of this Act is declared unconstitutional, the remaining parts or provisions not affected shall remain in full force and effect.
+
+ **Section 7.** All laws, executive orders, issuances, and rules and regulations inconsistent with this Act are hereby repealed or modified accordingly.
+
+ **Section 8.** This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate | (SGD.) **FERDINAND MARTIN G. ROMUALDEZ**Speaker of the House of Representatives |
+
+ This Act, which originated in the House of Representatives, was passed by the House of Representatives and the Senate of the Philippines on September 23, 2023 and August 12, 2024, respectively.
+
+ | (SGD.) **REGINALD S. VELASCO** Secretary General House of Representatives | (SGD.) **RENATO N. BANTUG, JR.** Secretary of the Senate |
+
+ Approved: OCT 26 2024
+
+ (SGD.) **FERDINAND ROMUALDEZ MARCOS JR.** President of the Philippines
+"	success	Republic Act	The Republic Act increases the bed capacity of Cong. Simeon G. Toribio Memorial Hospital from 40 to 75 beds and appropriates funds for related upgrades, workforce expansion, and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""Increase bed capacity from 40 to 75 beds and allow future increases aligned with a development plan.""}, {""title"": ""Section 2."", ""summary"": ""Upgrade existing health services and facilities to meet Level II hospital standards.""}, {""title"": ""Section 3."", ""summary"": ""Increase the hospital workforce\u2014doctors, nurses, and support personnel\u2014to match the expanded capacity.""}, {""title"": ""Section 4."", ""summary"": ""Provincial Government of Bohol to fund maintenance, operating expenses, and additional human resources.""}, {""title"": ""Section 5."", ""summary"": ""Secretary of Health to include subsidy program and support for Teodoro B. Galagar District Hospital capital outlay.""}, {""title"": ""Section 6."", ""summary"": ""If any provision is unconstitutional, remaining provisions remain in force.""}, {""title"": ""Section 7."", ""summary"": ""Repeal or modify all laws, executive orders, issuances, and rules inconsistent with this Act.""}, {""title"": ""Section 8."", ""summary"": ""Act takes effect 15 days after publication in the Official Gazette or a newspaper of general circulation.""}]"	REPUBLIC ACT NO. 12042	October 26, 2024	"[{""name"": ""FRANCIS \""CHIZ\"" G. ESCUDERO"", ""title"": ""President of the Senate""}, {""name"": ""FERDINAND MARTIN G. ROMUALDEZ"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""REGINALD S. VELASCO"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""RENATO N. BANTUG, JR."", ""title"": ""Secretary of the Senate""}]"	To increase bed capacity of Cong. Simeon G. Toribio Memorial Hospital and appropriate funds for upgrades, workforce, and maintenance.	"[""Increase bed capacity from 40 to 75 beds"", ""Upgrade services and facilities to Level II standards"", ""Increase workforce accordingly"", ""Provincial funding for maintenance and operations"", ""Secretary of Health subsidy program support"", ""Preserve remaining provisions if unconstitutional"", ""Repeal inconsistent laws"", ""Effective 15 days post-publication""]"	All laws, executive orders, issuances, and rules and regulations inconsistent with this Act are hereby repealed or modified accordingly.	"[""health"", ""hospital"", ""bed capacity"", ""Bohol"", ""public health""]"	"[""bed capacity"", ""hospital"", ""Bohol"", ""health services"", ""funding"", ""upgrade""]"
+repacts:datasets/markdown/repacts/2024/ra_12043_2024.md	repacts	2024		datasets/markdown/repacts/2024/ra_12043_2024.md	ra_12043_2024	"An Act Amending Section 1 of Republic Act No. 11272, Entitled: ""An Act Establishing a Specialty Hospital in the City of San Jose del Monte, Province of Bulacan, to be known as St. Bernadette Children and Maternity Hospital, and Appropriating Funds Therefor"""	"[ REPUBLIC ACT NO. 12043, October 26, 2024 ]
+
+ AN ACT AMENDING SECTION 1 OF REPUBLIC ACT NO. 11272, ENTITLED: ""AN ACT ESTABLISHING A SPECIALTY HOSPITAL IN THE CITY OF SAN JOSE DEL MONTE, PROVINCE OF BULACAN, TO BE KNOWN AS ST. BERNADETTE CHILDREN AND MATERNITY HOSPITAL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Section 1 of Republic Act No. 11272 is hereby amended to read as follows:
+
+ ""**Section 1.** There shall be established a specially hospital, known as St. Bernadette Children and Maternity Hospital, with a minimum capacity of one hundred (100) beds, to be located in the City of San Jose Del Monte, Province of Bulacan. The St. Bernadette Children and Maternity Hospital shall be under the administrative and technical supervision of San Jose Del Monte City, Province of Bulacan.""
+
+ **Section 2.** This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate | (SGD.) **FERDINAND MARTIN G. ROMUALDEZ**Speaker of the House of Representatives |
+
+ This Act, which originated in the House of Representatives, was passed by the House of Representatives and the Senate of the Philippines on December 12, 2023 and August 12, 2024, respectively.
+
+ | (SGD.) **REGINALD S. VELASCO** Secretary General House of Representatives | (SGD.) **RENATO N. BANTUG, JR.** Secretary of the Senate |
+
+ Approved: OCT 26 2024
+
+ (SGD.) **FERDINAND ROMUALDEZ MARCOS JR.** President of the Philippines
+"	success	Republic Act	An amendment to Republic Act No. 11272 establishing St. Bernadette Children and Maternity Hospital in San Jose del Monte, Bulacan, with a minimum capacity of 100 beds, supervised by the city government, taking effect fifteen days after publication.	"[{""title"": ""Section 1"", ""summary"": ""Amended Section 1 of RA 11272 establishes St. Bernadette Children and Maternity Hospital, located in San Jose del Monte, Bulacan, with 100 beds and under the administrative and technical supervision of the city.""}, {""title"": ""Section 2"", ""summary"": ""The Act takes effect fifteen days after its publication in the Official Gazette or a newspaper of general circulation.""}]"	12043	October 26, 2024	"[{""name"": ""Francis \""Chiz\"" G. Escudero"", ""title"": ""President of the Senate""}, {""name"": ""Ferdinand Martin G. Romualdez"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""Reginald S. Velasco"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""Renato N. Bantug, Jr."", ""title"": ""Secretary of the Senate""}]"	To establish St. Bernadette Children and Maternity Hospital in San Jose del Monte, Bulacan, ensuring a minimum capacity of 100 beds and local administrative supervision.	"[""Amendment of Section 1 of RA 11272 to create St. Bernadette Children and Maternity Hospital"", ""Minimum capacity of 100 beds"", ""Location in San Jose del Monte, Bulacan"", ""Administrative and technical supervision by San Jose del Monte City"", ""Effective fifteen days after publication""]"	Republic Act No. 11272	"[""Healthcare"", ""Hospital"", ""Bulacan"", ""Specialty Hospital"", ""Legislation"", ""Republic Act""]"	"[""St. Bernadette Children and Maternity Hospital"", ""San Jose del Monte"", ""Bulacan"", ""Republic Act 12043"", ""Specialty hospital"", ""100 beds"", ""administrative supervision"", ""effective date"", ""publication""]"
+repacts:datasets/markdown/repacts/2024/ra_12044_2024.md	repacts	2024		datasets/markdown/repacts/2024/ra_12044_2024.md	ra_12044_2024	"AN ACT CREATING TWELVE (12) ADDITIONAL BRANCHES OF THE REGIONAL TRIAL COURT IN THE FOURTH JUDICIAL REGION TO BE STATIONED IN THE MUNICIPALITY OF LOS BAOS AND IN THE CITY OF CABUYAO, PROVINCE OF LAGUNA, AND ONE (1) ADDITIONAL BRANCH OF MUNICIPAL TRIAL COURT IN CITIES IN THE FOURTH JUDICIAL REGION TO BE STATIONED IN THE CITY OF CABUYAO, PROVINCE OF LAGUNA, AND APPROPRIATING FUNDS THEREFOR, AMENDING FOR THE PURPOSE SECTION 14(E) AND SECTION 29 OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS ""THE JUDICIARY REORGANIZATION ACT OF 1980"", AS AMENDED"	"[ REPUBLIC ACT NO. 12044, October 26, 2024 ]
+
+ AN ACT CREATING TWELVE (12) ADDITIONAL BRANCHES OF THE REGIONAL TRIAL COURT IN THE FOURTH JUDICIAL REGION TO BE STATIONED IN THE IN THE MUNICIPALITY OF LOS BAOS AND IN THE CITY OF CABUYAO, PROVINCE OF LAGUNA, AND ONE (1) ADDITIONAL BRANCH OF MUNICIPAL TRIAL COURT IN CITIES IN THE FOURTH JUDICIAL REGION TO BE STATIONED IN THE CITY OF CABUYAO, PROVINCE OF LAGUNA, AND APPROPRIATING FUNDS THEREFOR, AMENDING FOR THE PURPOSE SECTION 14(E) AND SECTION 29 OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS ""THE JUDICIARY REORGANIZATION ACT OF 1980"", AS AMENDED
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Twelve (12) additional branches of the Regional Trial Court (RTC) and one (1) additional branch of the Municipal Trial Court in Cities (MTCC) in the Fourth Judicial Region are hereby created and stationed in the Province of Laguna as follows:
+
+ (a) Three (30 branches of the RTC in the Municipality of Los Baos; (b) Nine (9) branches of the RTC in the City of Cabuyao; and (c) One (1) branch of the MTCC in the City of Cabuyao. The Supreme Court shall assign the respective branch numbers for the newly created branches of the RTC and the MTCC.
+
+ **Section 2.** The Chief Justice of the Supreme Court, in coordination with the Secretary of the Department of Justice, shall immediately include in the Court's program the operationalization of the additional branches of the RTC and MTCC in the Municipality of Los Baos and City of Cabuyao, Province of Laguna. The Supreme Court shall issue the necessary rules and regulations for the effective implementation of this Act and, if warranted, the realignment of seats of existing branches and their territorial jurisdiction.
+
+ **Section 3.** The funds necessary for the implementation of this Act, including appropriations for personnel services such as salaries, benefits and emoluments for judges and court personnel, court operations under maintenance and other operating expenses (MOOE), and provisions for Halls of Justice or courtrooms to accommodate judges and court staff, as well as funds necessary for the implementation of automatically-created prosecutor positions pursuant to Section 13 of Republic Act No. 10071 or the ""Prosecution Service Act of 2010"" and appointment of public attorneys pursuant to Section 7 of Republic Act No. 9406 or the ""Act Reorganizing and Strengthening the Public Attorney's Office (PAO), resulting from the creation of these courts, including appropriations for personnel services such as salaries, benefits, and emoluments for prosecutors and public attorneys, shall be included in the annual General Appropriations Act.
+
+ **Section 4.** Section 14(e) and Section 29 of Batas Pambansa Blg, 129, otherwise known as ""The Judiciary Reorganization Act of 1980"", as amended, and all other laws, rules and regulations which are inconsistent with this Act are hereby amended, repealed or modified accordingly.
+
+ **Section 5.** This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate | (SGD.) **FERDINAND MARTIN G. ROMUALDEZ**Speaker of the House of Representatives |
+
+ This Act, which originated in the House of Representatives, was passed by the House of Representatives on January 31, 2023, amended by the Senate of the Philippines on May 6, 2024, and which amendments were concurred in by the House of Representatives on July 30, 2024.
+
+ | (SGD.) **REGINALD S. VELASCO** Secretary General House of Representatives | (SGD.) **RENATO N. BANTUG, JR.** Secretary of the Senate |
+
+ Approved: OCT 26 2024
+
+ (SGD.) **FERDINAND ROMUALDEZ MARCOS JR.** President of the Philippines
+"	success	Republic Act	Creates twelve additional Regional Trial Court branches and one additional Municipal Trial Court in Cities in Laguna, appropriates funds for their operation, and amends specific provisions of Batas Pambansa Blg. 129.	"[{""title"": ""Section 1"", ""summary"": ""Establishes twelve RTC branches and one MTCC branch in the Municipality of Los Baos and City of Cabuyao, Laguna, and assigns branch numbers.""}, {""title"": ""Section 2"", ""summary"": ""Mandates the Chief Justice and Secretary of Justice to program operationalization of the new branches and issue necessary rules.""}, {""title"": ""Section 3"", ""summary"": ""Details appropriations for personnel, operations, and facilities for the new courts, including prosecutor and public attorney positions.""}, {""title"": ""Section 4"", ""summary"": ""Amends Section 14(e) and Section 29 of Batas Pambansa Blg. 129 and other inconsistent laws.""}, {""title"": ""Section 5"", ""summary"": ""Specifies effectivity fifteen days after publication.""}]"	Republic Act No. 12044	October 26, 2024	"[{""name"": ""FRANCIS \""CHIZ\"" G. ESCUDERO"", ""title"": ""President of the Senate""}, {""name"": ""FERDINAND MARTIN G. ROMUALDEZ"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""REGINALD S. VELASCO"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""RENATO N. BANTUG, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""FERDINAND ROMUALDEZ MARCOS JR."", ""title"": ""President of the Philippines""}]"	To create additional RTC and MTCC branches in Laguna, appropriate funds for their operation, and amend Batas Pambansa Blg. 129.	"[""Creation of twelve RTC branches and one MTCC branch in Laguna"", ""Operationalization program by the Supreme Court"", ""Appropriation of funds for personnel, operations, and facilities"", ""Amendment of Section 14(e) and Section 29 of Batas Pambansa Blg. 129"", ""Effectivity after publication""]"	Section 14(e) and Section 29 of Batas Pambansa Blg. 129 and all other inconsistent laws, rules and regulations	"[""Judiciary"", ""Court"", ""Legislation"", ""Laguna"", ""RTC"", ""MTCC"", ""Funding""]"	"[""Regional Trial Court"", ""Municipal Trial Court"", ""Laguna"", ""Cabuyao"", ""Los Baos"", ""Batas Pambansa"", ""Reorganization"", ""Funding"", ""Appropriation""]"
+repacts:datasets/markdown/repacts/2024/ra_12045_2024.md	repacts	2024		datasets/markdown/repacts/2024/ra_12045_2024.md	ra_12045_2024	"AN ACT CREATING TWO (2) ADDITIONAL BRANCHES OF THE REGIONAL TRIAL COURT AND TWO (2) ADDITIONAL BRANCH OF MUNICIPAL TRIAL COURT IN CITIES IN THE NINTH JUDICIAL REGION TO BE STATIONED IN THE CITY OF PAGADIAN, PROVINCE OF ZAMBOANGA DEL SUR, AND APPROPRIATING FUNDS THEREFOR, AMENDING FOR THE PURPOSE SECTION 14(J) AND SECTION 29 OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS ""THE JUDICIARY REORGANIZATION ACT OF 1980"", AS AMENDED"	"[ REPUBLIC ACT NO. 12045, October 26, 2024 ]
+
+ AN ACT CREATING TWO (2) ADDITIONAL BRANCHES OF THE REGIONAL TRIAL COURT AND TWO (2) ADDITIONAL BRANCH OF MUNICIPAL TRIAL COURT IN CITIES IN THE NINTH JUDICIAL REGION TO BE STATIONED IN THE CITY OF PAGADIAN, PROVINCE OF ZAMBOANGA DEL SUR, AND APPROPRIATING FUNDS THEREFOR, AMENDING FOR THE PURPOSE SECTION 14(J) AND SECTION 29 OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS ""THE JUDICIARY REORGANIZATION ACT OF 1980"", AS AMENDED
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Two (2) additional branches of the Regional Trial Court (RTC) and two (2) additional branch of the Municipal Trial Court in Cities (MTCC) in the Ninth Judicial Region are hereby created and stationed in the City of Pagadian, Province of Zamboanga del Sur.
+
+ The Supreme Court shall assign the respective branch numbers for the newly created branches of the RTC and the MTCC.
+
+ **Section 2.** The Chief Justice of the Supreme Court, in coordination with the Secretary of the Department of Justice, shall immediately include in the Court's program the operationalization of the additional branches of the RTC and MTCC in the City of Pagadian, Province of Zamboanga del Sur. The Supreme Court shall issue the necessary rules and regulations for the effective implementation of this Act and, if warranted, the realignment of seats of existing branches and their territorial jurisdiction.
+
+ **Section 3.** The funds necessary for the implementation of this Act, including appropriations for personnel services such as salaries, benefits and emoluments for judges and court personnel, court operations under maintenance and other operating expenses (MOOE), and provisions for Halls of Justice or courtrooms to accommodate judges and court staff, as well as funds necessary for the implementation of automatically-created prosecutor positions pursuant to Section 13 of Republic Act No. 10071 or the ""Prosecution Service Act of 2010"" and appointment of public attorneys pursuant to Section 7 of Republic Act No. 9406 or the ""Act Reorganizing and Strengthening the Public Attorney's Office (PAO), resulting from the creation of these courts, including appropriations for personnel services such as salaries, benefits, and emoluments for prosecutors and public attorneys, shall be included in the annual General Appropriations Act.
+
+ The funds necessary for the operation of the courts herein created shall be appropriated and released only upon the actual organization of the court and the appointment of its personnel.
+
+ **Section 4.** The RTC in the City of Pagadian will have eight (8) branches. The staffing pattern of each branch shall be as follows:
+
+ | No. of Positions | Position Title | Salary Grade |  |
+| --- | --- | --- | --- |
+| 1 | Regional Trial Court Judge | 29 |  |
+| 1 | Clerk of Court V | 24 |  |
+| 1 | Court Legal Researcher II | 15 |  |
+| 1 | Interpreter III | 12 |  |
+| 4 | Court Stenographer III | 12 |  |
+| 1 | Sheriff IV | 12 |  |
+| 2 | Clerk III | 6 |  |
+| 1 | Process Server | 5 |  |
+| 1 | Utility Worker I | 1 |  |
+| 13 | Personnel |  |  |
+
+ The staff complement of the Office of the Clerk of Court (OCC) shall be composed of twenty-four (24) personnel, unless the same is modified as may be determined by the Supreme Court.
+
+ In addition, there shall be appointed the corresponding number of prosecutor/s and public attorney/s and their support staff based on the ratio outlined in Republic Act No. 10071 and Republic Act No. 9406, respectively.
+
+ **Section 5.** The MTCC in the City of Pagadian will have four (4) branches. The staffing pattern of each branch shall be as follows:
+
+ | No. of Positions | Position Title | Salary Grade |  |
+| --- | --- | --- | --- |
+| 1 | City Trial Court Judge | 28 |  |
+| 1 | Clerk of Court III | 22 |  |
+| 1 | Court Legal Researcher I | 12 |  |
+| 1 | Interpreter II | 10 |  |
+| 3 | Court Stenographer II | 10 |  |
+| 1 | Sheriff III | 10 |  |
+| 1 | Clerk IV | 8 |  |
+| 1 | Clerk III | 6 |  |
+| 1 | Process Server | 5 |  |
+| 1 | Utility Worker I | 1 |  |
+| 12 | Personnel |  |  |
+
+ The staff complement of the OCC shall be composed of eighteen (18) personnel unless the same is modified as may be determined by the Supreme Court.
+
+ In addition, there shall be appointed the corresponding number of prosecutor/s and public attorney/s and their support staff based on the ratio outlined in Republic Act No. 10071 and Republic No. 9406, respectively.
+
+ **Section 6.** Section 14(j) and Section 29 of Batas Pambansa Blg. 129, otherwise known as ""The Judiciary Reorganization Act of 1980"", as amended, and all other laws, rules and regulations which are inconsistent with this Act are hereby amended, repealed or modified accordingly.
+
+ **Section 7.** This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate | (SGD.) **FERDINAND MARTIN G. ROMUALDEZ**Speaker of the House of Representatives |
+
+ This Act, which originated in the House of Representatives, was passed by the House of Representatives on August 9, 2023, amended by the Senate of the Philippines on May 13, 2024, and which amendments were concurred in by the House of Representatives on July 30, 2024.
+
+ | (SGD.) **REGINALD S. VELASCO** Secretary General House of Representatives | (SGD.) **RENATO N. BANTUG, JR.** Secretary of the Senate |
+
+ Approved: OCT 26 2024
+
+ (SGD.) **FERDINAND ROMUALDEZ MARCOS JR.** President of the Philippines
+"	success	Judiciary Reorganization	This act establishes two new branches of the Regional Trial Court and two new branches of the Municipal Trial Court in Cities in the Ninth Judicial Region, specifically in the City of Pagadian, Zamboanga del Sur, and appropriates funds for their operation. It also amends Sections 14(j) and 29 of Batas Pambansa Blg. 129 (the Judiciary Reorganization Act of 1980).	"[{""title"": ""Section 1"", ""summary"": ""Creation and stationing of two RTC branches and two MTCC branches in Pagadian.""}, {""title"": ""Section 2"", ""summary"": ""Coordination between the Chief Justice and Secretary of Justice for operationalization and rulemaking.""}, {""title"": ""Section 3"", ""summary"": ""Appropriation of funds for personnel, operations, and new prosecutor/public attorney positions.""}, {""title"": ""Section 4"", ""summary"": ""Staffing pattern and personnel details for the RTC branches.""}, {""title"": ""Section 5"", ""summary"": ""Staffing pattern and personnel details for the MTCC branches.""}, {""title"": ""Section 6"", ""summary"": ""Amendments to Sections 14(j) and 29 of Batas Pambansa Blg. 129 and repeal of inconsistent provisions.""}, {""title"": ""Section 7"", ""summary"": ""Effective date of the act, fifteen days after publication.""}]"	REPUBLIC ACT NO. 12045	October 26, 2024	"[{""name"": ""FRANCIS \""CHIZ\"" G. ESCUDERO"", ""title"": ""President of the Senate""}, {""name"": ""FERDINAND MARTIN G. ROMUALDEZ"", ""title"": ""Speaker of the House of Representatives""}]"		To expand the judiciary in the Ninth Judicial Region by adding new RTC and MTCC branches in Pagadian, Zamboanga del Sur, and to allocate necessary funds for their establishment and operation, thereby improving access to justice and updating the Judiciary Reorganization Act of 1980.	"[""Creation of two RTC branches and two MTCC branches in Pagadian"", ""Designation of branch numbers by the Supreme Court"", ""Coordination between the Chief Justice and Secretary of Justice for operationalization"", ""Issuance of rules and regulations for implementation"", ""Appropriation of funds for personnel, operations, and new prosecutor/public attorney positions"", ""Staffing patterns for RTC and MTCC branches"", ""Amendment of Sections 14(j) and 29 of Batas Pambansa Blg. 129"", ""Effective date set fifteen days after publication""]"	Section 14(j) and Section 29 of Batas Pambansa Blg. 129 (Judiciary Reorganization Act of 1980)	"[""Judiciary"", ""Court Reorganization"", ""Zamboanga del Sur"", ""Regional Trial Court"", ""Municipal Trial Court"", ""Appropriations"", ""Funding""]"	"[""RTC"", ""MTCC"", ""Pagadian"", ""Zamboanga del Sur"", ""Batas Pambansa Blg. 129"", ""Judiciary Reorganization"", ""Appropriations"", ""Personnel"", ""Staffing""]"
+repacts:datasets/markdown/repacts/2024/ra_12046_2024.md	repacts	2024		datasets/markdown/repacts/2024/ra_12046_2024.md	ra_12046_2024	"AN ACT CREATING TEN (10) ADDITIONAL BRANCHES OF THE REGIONAL TRIAL COURT AND EIGHT (8) ADDITIONAL BRANCH OF MUNICIPAL TRIAL COURT IN CITIES IN THE FOURTH JUDICIAL REGION TO BE STATIONED IN THE CITY OF ANTIPOLO, PROVINCE OF RIZAL, AND APPROPRIATING FUNDS THEREFOR, AMENDING FOR THE PURPOSE SECTION 14(E) AND SECTION 29 OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS ""THE JUDICIARY REORGANIZATION ACT OF 1980"", AS AMENDED"	"[ REPUBLIC ACT NO. 12046, October 26, 2024 ]
+
+ AN ACT CREATING TEN (10) ADDITIONAL BRANCHES OF THE REGIONAL TRIAL COURT AND EIGHT (8) ADDITIONAL BRANCH OF MUNICIPAL TRIAL COURT IN CITIES IN THE FOURTH JUDICIAL REGION TO BE STATIONED IN THE CITY OF ANTIPOLO, PROVINCE OF RIZAL, AND APPROPRIATING FUNDS THEREFOR, AMENDING FOR THE PURPOSE SECTION 14(E) AND SECTION 29 OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS ""THE JUDICIARY REORGANIZATION ACT OF 1980"", AS AMENDED
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Ten (10) additional branches of the Regional Trial Court (RTC) and eight (8) additional branch of the Municipal Trial Court in Cities (MTCC) in the Fourth Judicial Region are hereby created and stationed in the City of Antipolo, Province of Rizal.
+
+ The Supreme Court shall assign the respective branch numbers for the newly created branches of the RTC and the MTCC.
+
+ **Section 2.** The Chief Justice of the Supreme Court, in coordination with the Secretary of the Department of Justice, shall immediately include in the Court's program the operationalization of the additional branches of the RTC and MTCC in the City of Antipolo, Province of Rizal. The Supreme Court shall issue the necessary rules and regulations for the effective implementation of this Act and, if warranted, the realignment of seats of existing branches and their territorial jurisdiction.
+
+ **Section 3.** The funds necessary for the implementation of this Act, including appropriations for personnel services such as salaries, benefits and emoluments for judges and court personnel, court operations under maintenance and other operating expenses (MOOE), and provisions for Halls of Justice or courtrooms to accommodate judges and court staff, as well as funds necessary for the implementation of automatically-created prosecutor positions pursuant to Section 13 of Republic Act No. 10071 or the ""Prosecution Service Act of 2010"" and appointment of public attorneys pursuant to Section 7 of Republic Act No. 9406 or the ""Act Reorganizing and Strengthening the Public Attorney's Office (PAO), resulting from the creation of these courts, including appropriations for personnel services such as salaries, benefits, and emoluments for prosecutors and public attorneys, shall be included in the annual General Appropriations Act.

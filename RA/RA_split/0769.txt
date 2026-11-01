@@ -1,0 +1,128 @@
+
+ Approved: June 18, 1961.
+"	success	Education	This act establishes a school of arts and trades in Calapan, Oriental Mindoro, provides for its supervision and funding, and specifies its effective date.	"[{""title"": ""Section 1."", ""summary"": ""Establishes a school of arts and trades under the supervision of the Director of Public Schools.""}, {""title"": ""Section 2."", ""summary"": ""Authorizes the Secretary of Education to issue necessary rules and regulations.""}, {""title"": ""Section 3."", ""summary"": ""Appropriates 50,000 pesos for the school's establishment, operation, and maintenance for FY 1962, with future appropriations to be included in General Appropriation Acts.""}, {""title"": ""Section 4."", ""summary"": ""The act takes effect upon its approval.""}]"	3399	June 18, 1961			To establish a school of arts and trades in Calapan and authorize funding for its operations.	"[""Establishment of a school of arts and trades in Calapan, Oriental Mindoro."", ""Supervision under the Director of Public Schools."", ""Authorization of rules by the Secretary of Education."", ""Appropriation of 50,000 pesos for FY 1962."", ""Effective upon approval.""]"		"[""Education"", ""School"", ""Arts and Trades"", ""Public School"", ""Oriental Mindoro""]"	"[""Establishment"", ""School"", ""Arts"", ""Trades"", ""Funding"", ""Appropriation"", ""Public Education""]"
+repacts:datasets/markdown/repacts/1961/ra_3400_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3400_1961.md	ra_3400_1961	An Act to Provide for Two School Divisions in the Province of Quezon	"**REPUBLIC ACT No. 3400**
+
+ **An Act to Provide for Two School Divisions in the Province of Quezon**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be two school divisions in the Province of Quezon, one shall include all the municipalities of the Subprovince of Aurora, including the Municipal District of Dingalan. The permanent station of the Superintendent of Schools of this division shall be in the Municipality of Baler. The other division shall include all the rest of the municipalities of the province. The permanent station of the Superintendent of Schools of this division shall be in the Municipality of Lucena.
+
+ **Section 2.** The Director of Public Schools shall reorganize the School Division of the Province of Quezon into two schools division commencing with the school year 1961-1962, in accordance with the provisions of this Act.
+
+ **Section 3.** Such sums as may be necessary to carry out the purpose of this Act for the school year 1961-1962 is hereby authorized, to be appropriated out of any funds in the National Treasury not otherwise appropriated. The sum necessary for the same purpose in subsequent school years shall be included in the General Appropriation Acts.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1961.
+"	success	Republic Act	Establishes two school divisions in Quezon Province, designating Baler and Lucena as permanent stations, and authorizes appropriation of funds for implementation.	"[{""title"": ""Section 1"", ""summary"": ""Defines the two school divisions: Aurora subprovince in Baler, rest in Lucena.""}, {""title"": ""Section 2"", ""summary"": ""Reorganization by Director of Public Schools to start 1961-62.""}, {""title"": ""Section 3"", ""summary"": ""Appropriates necessary funds for 1961-62 and future years.""}, {""title"": ""Section 4"", ""summary"": ""Act takes effect upon approval.""}]"	3400	June 18, 1961			To establish administrative divisions for educational purposes in Quezon Province.	"[""Creation of two school divisions"", ""Designation of Baler and Lucena as permanent stations"", ""Reorganization effective 1961-62"", ""Authorization of funds""]"		"[""Education"", ""School Division"", ""Quezon"", ""Baler"", ""Lucena""]"	"[""school division"", ""Quezon"", ""Baler"", ""Lucena"", ""education"", ""appropriation""]"
+repacts:datasets/markdown/repacts/1961/ra_3401_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3401_1961.md	ra_3401_1961	An Act Providing for the Establishment of a School of Fisheries in the Municipality of Talisay, Province of Negros Occidental, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 3401**
+
+ **An Act Providing for the Establishment of a School of Fisheries in the Municipality of Talisay, Province of Negros Occidental, and Authorizing the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the direct supervision of the Director of Public Schools, a school of fisheries in the Municipality of Talisay, Province of Negros Occidental, to be known as the Talisay School of Fisheries.
+
+ **Section 2.** The Director of Fisheries shall be ex-officio Dean of the Talisay School of Fisheries, serving in such capacity without additional compensation. The Director of Fisheries is authorized to detail to said school such officers and employees of the Bureau of Fisheries as may be necessary and to employ experts in fishing for the purpose of giving instruction to the students of the school, subject in both cases to the approval of the Secretary of Agriculture and Natural Resources.
+
+ **Section 3.** The Secretary of Agriculture and Natural Resources shall promulgate such rules and regulations as may be necessary to implement this Act.
+
+ **Section 4.** The sum of one hundred fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of the said school during the fiscal year nineteen hundred sixty-two. The sums needed for the same purpose in subsequent years shall be included in the annual General Appropriation Acts.
+
+ **Section 5.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1961.
+"	success	Education	This act establishes a school of fisheries in Talisay, Negros Occidental, authorizes funding of 150,000 pesos for its operation, and outlines organizational structure and regulatory requirements.	"[{""title"": ""Section 1."", ""summary"": ""Establishes a school of fisheries in the Municipality of Talisay under the supervision of the Director of Public Schools.""}, {""title"": ""Section 2."", ""summary"": ""Designates the Director of Fisheries as the ex\u2011officio Dean of the school and authorizes detailing of Bureau of Fisheries officers and employment of experts, subject to the Secretary of Agriculture and Natural Resources' approval.""}, {""title"": ""Section 3."", ""summary"": ""Mandates the Secretary of Agriculture and Natural Resources to promulgate rules and regulations necessary for implementation of the act.""}, {""title"": ""Section 4."", ""summary"": ""Appropriates 150,000 pesos for the establishment, operation, and maintenance of the school for FY 1962, with subsequent years included in the General Appropriation Acts.""}, {""title"": ""Section 5."", ""summary"": ""The act takes effect upon its approval.""}]"	RA No. 3401	June 18, 1961			To establish a fisheries school in Talisay, Negros Occidental, for training and to provide appropriate funding and governance.	"[""Establishment of Talisay School of Fisheries"", ""Designation of Director of Fisheries as ex\u2011officio Dean"", ""Funding of 150,000 pesos for FY 1962"", ""Secretary of Agriculture and Natural Resources to promulgate rules"", ""Act effective upon approval""]"		"[""Education"", ""Fisheries"", ""Public School"", ""Negros Occidental"", ""RA 3401""]"	"[""school of fisheries"", ""Talisay"", ""Negros Occidental"", ""Director of Fisheries"", ""Bureau of Fisheries"", ""Secretary of Agriculture and Natural Resources"", ""appropriation"", ""National Treasury""]"
+repacts:datasets/markdown/repacts/1961/ra_3402_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3402_1961.md	ra_3402_1961	An Act Granting Jose S. Magallanes a Franchise to Install, Operate and Maintain an Electric Light, Heat and Power System in the Municipality of Tagum, Province of Davao	"**REPUBLIC ACT No. 3402**
+
+ **An Act Granting Jose S. Magallanes a Franchise to Install, Operate and Maintain an Electric Light, Heat and Power System in the Municipality of Tagum, Province of Davao**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Subject to the provisions of the Constitution and to the terms and conditions established in Act Numbered Thirty-six hundred thirty-six, as amended by Commonwealth Act Numbered One hundred thirty-two, there is granted to Jose S. Magallanes, for a period of fifty years from the approval of this Act, the right, privilege and authority to construct, operate and maintain an electric light, heat and power system for the purpose of generating and distributing electric light, heat and/or power for sale within the Municipality of Tagum, Province of Davao.
+
+ **Section 2.** In the event that the grantee shall purchase and secure from the National Power Corporation electric heat and power, the National Power Corporation is hereby authorized to negotiate and transact for the benefit and in behalf of the public consumers with reference to rates.
+
+ **Section 3.** It is expressly provided that in the event the Government should desire to operate and maintain for itself the system and enterprise herein authorized, the grantee shall surrender his franchise and turn over to the Government all serviceable equipment therein, at cost, less reasonable depreciation.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1961.
+"	success	Republic Act	This Act grants Jose S. Magallanes a 50‑year franchise to construct, operate, and maintain an electric light, heat, and power system in Tagum, Davao. It includes provisions allowing the National Power Corporation to procure power, and outlines the conditions under which the government may take over the system.	"[{""title"": ""Section 1"", ""summary"": ""Grants a 50\u2011year franchise to Jose S. Magallanes to build, operate, and maintain an electric system in Tagum, Davao.""}, {""title"": ""Section 2"", ""summary"": ""Authorizes the National Power Corporation to negotiate and transact in the purchase of electric heat and power on behalf of consumers.""}, {""title"": ""Section 3"", ""summary"": ""Provides that if the government wishes to operate the system, the grantee must surrender the franchise and hand over equipment at cost.""}, {""title"": ""Section 4"", ""summary"": ""The Act takes effect upon approval.""}]"	3402	June 18, 1961			To grant a franchise for the installation, operation, and maintenance of an electric system in Tagum, Davao.	"[""Grant a 50\u2011year franchise to Jose S. Magallanes"", ""Allows NPCC to purchase power"", ""Provides for government takeover if desired"", ""Act takes effect upon approval""]"		"[""Republic Act"", ""Electricity"", ""Franchise"", ""Tagum"", ""Davao"", ""1961""]"	"[""Jose S. Magallanes"", ""electric light"", ""heat"", ""power"", ""franchise"", ""National Power Corporation"", ""Tagum"", ""Davao"", ""June 18 1961""]"
+repacts:datasets/markdown/repacts/1961/ra_3403_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3403_1961.md	ra_3403_1961	An Act Providing for the Establishment of a School of Fisheries in the Municipality of Bobon, Province of Samar, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 3403**
+
+ **An Act Providing for the Establishment of a School of Fisheries in the Municipality of Bobon, Province of Samar, and Authorizing the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the supervision of the Director of Public Schools, a school of fisheries in the Municipality of Bobon, Province of Samar, to be known as the Bobon School of Fisheries.
+
+ **Section 2.** The Secretary of Education shall issue such rules and regulations as may be necessary to carry out the provision of this Act.
+
+ **Section 3.** The sum of fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said school during the fiscal year nineteen hundred sixty-two. There after, such sum as may be needed for its operation and maintenance shall be included in the annual General Appropriation Acts.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1961.
+"	success	Republic Act	The act establishes the Bobon School of Fisheries in Samar, authorizes the appropriation of 50,000 pesos for its establishment and operation for the fiscal year 1962, empowers the Secretary of Education to issue necessary rules and regulations, and stipulates that the act takes effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Establishes the Bobon School of Fisheries under the supervision of the Director of Public Schools.""}, {""title"": ""Section 2."", ""summary"": ""Authorizes the Secretary of Education to issue rules and regulations necessary to carry out the provisions of the act.""}, {""title"": ""Section 3."", ""summary"": ""Appropriates 50,000 pesos for the establishment, operation, and maintenance of the school for FY1962, and requires future necessary amounts to be included in the annual General Appropriation Acts.""}, {""title"": ""Section 4."", ""summary"": ""States that the act shall take effect upon its approval.""}]"	3403	June 18, 1961			To establish a school of fisheries in Bobon, Samar, and authorize the appropriation of funds for its establishment and operation.	"[""Establishment of Bobon School of Fisheries"", ""Authorization of 50,000 pesos appropriation for FY1962"", ""Rules and regulations by Secretary of Education"", ""Act takes effect upon approval""]"		"[""Education"", ""Fisheries"", ""Infrastructure"", ""Samar""]"	"[""school of fisheries"", ""Bobon"", ""Samar"", ""appropriation"", ""Secretary of Education"", ""public schools"", ""fiscal year 1962""]"
+repacts:datasets/markdown/repacts/1961/ra_3404_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3404_1961.md	ra_3404_1961	An Act Amending Certain Sections of Commonwealth Act Numbered Five Hundred Forty-Seven, Otherwise Known as the Charter of the City of Cavite	"**REPUBLIC ACT No. 3404**
+
+ **An Act Amending Certain Sections of Commonwealth Act Numbered Five Hundred Forty-Seven, Otherwise Known as the Charter of the City of Cavite**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Sections two, four, six, seven, eight and the first paragraph of Section nine of Commonwealth Act Numbered Five hundred forty-seven are amended to read as follows:
+
+ > ""Sec. 2. *Territory of the City of Cavite.* -The City of Cavite, which is hereby created, shall comprise the present territorial jurisdiction of the Municipality of Cavite, in the Province of Cavite.
+>
+>  ""The Municipal Board may, by ordinance, divide the city into district for all administrative and other municipal purposes, including the description of property.
+>
+>  ""Sec. 4. *Seal and general powers of the city.* -The city shall have a common seal, and may alter the same at pleasure. It may take, purchase, receive, hold, lease, convey and dispose of real and personal property for public use, contract and be contracted with, sue and be sued, prosecute and defend suits to final judgment and execution, and exercise all the powers conferred by this Charter together with all the powers implied thereby or appropriate to the exercise thereof. The provisions of this Charter shall be construed liberally in favor of the city, to the end that it may have all necessary powers for the efficient conduct of its municipal affairs. The specific mention of particular powers in other sections of this Charter shall not be construed as limiting the powers of the city in the premises to those thus mentioned.
+>
+>  ""Sec. 6. *Jurisdiction of the City.* -The jurisdiction of the City of Cavite for police purposes shall be coextensive with its territorial jurisdiction and for the purpose of protecting and insuring the purity of the water supply of the city, such police jurisdiction shall also be extended over all territory within the drainage area of such water supply, or within one hundred meters of any reservoir, conduit, canal, aqueduct or pumping station used in connection with the city water service. The municipal court of the city shall have concurrent jurisdiction with the courts of justices of the peace of the municipalities to try crimes and misdemeanors committed within said drainage area, or within said spaces of one hundred meters. The court first taking jurisdiction of such an offense shall thereafter retain exclusive jurisdiction thereof.
+>
+>  ""Sec. 7. *Nature of Office; Qualifications.* -The Mayor shall be the chief executive of the city and as such shall have immediate control and supervision over the executive functions of the different departments and agencies of the city. The Mayor shall be elected at large by the qualified electors of the city. He shall be at least thirty years of age, a resident of the city at least five years immediately prior to his election, and a qualified voter therein: *Provided,* That the first election for mayor shall be held at the general elections for provincial and municipal officials next following the approval of this Act in conformity with the provisions of the Revised Election Code and shall assume office on the first day of January next following his election. He shall hold office for four years and until his successor has been duly elected and qualified, unless sooner removed for disloyalty, dishonesty, oppression, or misconduct in office. He shall receive a salary of not exceeding seven thousand two hundred pesos a year. With the approval of the Office of the President, the Mayor may be provided, in addition to his salary, a non-commutable allowance of not exceeding one thousand two hundred pesos per annum.
+>
+>  ""Sec. 8. *The Vice Mayor.* -There shall be a Vice-Mayor who shall perform the duties of the Mayor, in the event of sickness, physical absence on unofficial business for more than three days or other temporary incapacity of the Mayor, or in the event of a definitive vacancy in the position of Mayor, until said office shall be filled in accordance with law. If, for any reason, the duties of the office of the Mayor cannot be performed by the Vice-Mayor or said office of the Vice-Mayor is vacant, said duties shall be performed by the President Pro tempore of the Municipal Board.
+>
+>  ""In case of the incapacity of the officials mentioned above to perform the duties of the Mayor, the duties of the Mayor shall be performed by the City Treasurer. The Acting Mayor shall have the same powers and duties as the Mayor and shall receive the compensation of the Mayor.
+>
+>  ""The Vice-Mayor shall perform such other duties as may be assigned to him by the Mayor or prescribed by law or ordinance. He shall be elected in the same manner as the Mayor and shall at the time of his election possess the same qualifications as the Mayor. He shall receive a salary of four thousand eight hundred pesos a year.
+>
+>  ""Sec. 9. *General powers and duties of the Mayor.* -The Mayor shall have immediate control and supervision over the executive and administrative functions of the different departments and agencies of the city, subject to the supervision of the Office of the President. He shall have the following powers and duties:""
+
+ **Section 2.** Section ten of the same Act, is amended to read as follows:
+
+ > ""Sec. 10. *City Secretary.* -The Mayor shall appoint one secretary who shall have the title of City Secretary to hold office at the pleasure of the Mayor and who shall receive a compensation at not exceeding four thousand two hundred pesos per annum.
+>
+>  ""The City Secretary shall have charge and custody of all records and documents of the city and of any office or department thereof for which provision is not otherwise made; shall keep the corporate seal and affix the same with his signature to all ordinances and resolutions signed by the Mayor and to all other official documents and papers of the Government of the City as may be required by law or ordinance; shall attest all executive orders, proclamations, ordinances, and resolutions signed by the Mayor and shall perform such other duties as the Mayor may require of him; and shall upon request, furnish certified copies of all city records and documents in his charge which are not of a confidential character, and shall charge fifty centavos for each one hundred words including the certificate, such fees to be paid directly to the city treasurer. For the purpose of Section eighteen of this Charter, the City Secretary shall be considered and have the legal status of a city department head.
+>
+>  ""The City Secretary shall also have the following powers, duties and responsibilities, to be exercised under the general direction of the Mayor:
+>
+>   ""(a) To supervise and coordinate the work of all departments and agencies under the jurisdiction of the mayor;
+>
+>  ""(b) To be responsible for the development and administration of a sound personnel system for the city consistent with the governing provisions of the Civil Service Law; and to establish and maintain a roster of all employees of the city, whether or not in the classified service, in which there shall be set forth, as to each employee, the class title of the position held, the salary or pay, any change in class title, pay or status, and other pertinent data;
+>
+>  ""(c) To conduct a continuous study of the work, and the internal organization and procedures, of all offices, departments, and agencies under the jurisdiction of the Mayor, and to develop and prescribe accepted administrative procedures and establish management and work standards therefor;
+>
+>  ""(d) To analyze and report to the Mayor concerning impending policy decisions affecting the administration of the city and its agencies;
+>
+>  ""(e) To convene the heads of departments and agencies under the jurisdiction of the Mayor, singly or collectively, for the purpose of conference, discussion and report; and
+>
+>  ""(f) To attend meetings of any board or committee when requested by the Mayor, with the privilege of participating in the discussion and deliberations of such boards or committees as the Mayors proxy.""
+
+ **Section 3.** The first and last paragraphs of Section eleven of the same Act, as amended by Republic Act Numbered Sixteen hundred ninety-nine, is further amended to read as follows:
+
+ > ""Sec. 11. *Constitution and organization of the Municipal BoardCompensation of members thereof .* -The Municipal Board shall be the legislative body of the city and shall be composed of the Vice-Mayor, who shall be its presiding officer and shall have no vote except in case of a tie, and eight councilors elected at large by popular vote during the regular election for provincial and municipal officials in conformity with the provisions of the Revised Election Code. The Board shall elect by a majority vote of its entire membership one of the councilors as President Pro tempore, who shall act as presiding officer in the event of any temporary incapacity or absence of the Vice-Mayor or if the office of Vice-Mayor is vacant. Any vacancy, in the office of President Pro tempore shall be filled in like manner. Should the Board fail to elect a President Pro tempore as herein provided, the Mayor may so designate one of the councilors, to temporarily serve until the Board elects one. Whenever the President Pro tempore is serving as acting Mayor in accordance with Section eight of this Charter, the remaining members of the Board may elect a temporary presiding officer for the transaction of business. In case of sickness, absence, suspension or other temporary disability of any member of the Board, or if necessary to maintain a quorum, the President of the Philippines may appoint a temporary substitute who shall possess all rights and perform all the duties of a member of the Board until the return to duty of the regular incumbent.
+>
+>  ""The members of the Municipal Board shall receive a salary of three thousand six hundred pesos per annum.""
+
+ **Section 4.** The first paragraphs of Section twelve and thirteen of the same Act are amended to read as follows:
+
+ > ""Sec. 12. *Qualifications, election, suspension and removal of members of the Board.* -The members of the Board shall be qualified electors of the city, residents therein for at least two years prior to their election, and not less than twenty-five years of age. Election for members of the Board shall be held on the date of the regular election for provincial and municipal officials. Upon qualifying, the members-elect shall assume office on the first day of January next following their election until their successors are elected and qualified.
+>
+>  ""Sec. 13. *Appointment, salary and duties of Secretary of the Board.* -The Board shall have a secretary who shall be appointed by it to serve during the term of office of the members thereof. The compensation of the secretary shall not exceed three thousand six hundred pesos per annum.""
+
+ **Section 5.** The first and last paragraphs of Section fourteen of the same Act, are amended to read as follows:

@@ -1,0 +1,203 @@
+
+ **Section 1.** The sitio of Malibod, Municipality of Gingoog, Province of Misamis Oriental, is converted into a barrio of said municipality to be known as the barrio of Malibod.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1957
+"	success	Republic Act	The act converts the sitios of Lubigan, Laoang, Lawac-Amulag, Labney and San Juan into barrios within the municipality of Tarlac.	"[{""title"": ""Section 1"", ""summary"": ""The sitios of Lubigan, Laoang, Lawac-Amulag, Labney and San Juan are converted into barrios of the municipality of Tarlac.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	1705	June 21, 1957			To create barrios from existing sitios in the municipality of Tarlac.	"[""Conversion of the sitios of Lubigan, Laoang, Lawac-Amulag, Labney and San Juan into barrios of Tarlac municipality."", ""Act shall take effect upon approval.""]"		"[""Republic Act"", ""Tarlac"", ""Barrios""]"	"[""Barrios"", ""Sitios"", ""Tarlac"", ""Municipality"", ""Republic Act"", ""1957""]"
+repacts:datasets/markdown/repacts/1957/ra_1718_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1718_1957.md	ra_1718_1957	An Act Changing the Name of Barrio Colonia, Municipality of Abulug, Province of Cagayan, to Libertad	"**REPUBLIC ACT No. 1718**
+
+ **An Act Creating the Barrio of Naspi in the Municipality of Pilar, Province of Sorsogon**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Naspi and Calaguitan are separated from the barrio of Putiao, Municipality of Pilar, Province of Sorsogon and constituted into a distinct and independent barrio of said municipality to be known as the barrio of Naspi.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1957.
+"	success	Republic Act	This act changes the name of Barrio Colonia in Abulug, Cagayan to Libertad and takes effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The name of barrio Colonia in the Municipality of Abulug, Province of Cagayan is changed to Libertad.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	1706	June 21, 1957			To change the name of a barrio in the province of Cagayan.	"[""Name change of Barrio Colonia to Libertad."", ""Act takes effect upon approval.""]"		"[""Republic Act"", ""Name Change"", ""Cagayan"", ""Municipality of Abulug""]"	"[""Barrio"", ""Colonia"", ""Libertad"", ""Cagayan"", ""Abulug"", ""Name change""]"
+repacts:datasets/markdown/repacts/1957/ra_1719_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1719_1957.md	ra_1719_1957	An Act Creating the Barrio of Macalang in the Municipality of Dasol, Province of Pangasinan	"**REPUBLIC ACT No. 1719**
+
+ **An Act Creating Certain Barrios in the Municipality of Tabango, Province of Leyte**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Gibacungan, Catmon and Manlawa-an, Municipality of Tabango, Province of Leyte, are converted into barrios of said municipality to be known as the barrios of Gibacungan, Catmon and Manlawa-an, respectively.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1957.
+"	success	Republic Act	Creates the barrio of Macalang in Dasol, Pangasinan, establishing it as a recognized barrio and specifies its effective date.	"[{""title"": ""Section 1."", ""summary"": ""Constitutes the sitios of Macalang, Pantol, Tapac, and Pagdagaan into the barrio of Macalang.""}, {""title"": ""Section 2."", ""summary"": ""The act shall take effect upon its approval.""}]"	1707	June 21, 1957			To create the barrio of Macalang in the Municipality of Dasol, Pangasinan.	"[""Constitutes the sitios of Macalang, Pantol, Tapac, and Pagdagaan into a barrio."", ""The act takes effect upon approval.""]"		"[""Barangay"", ""Local government"", ""Pangasinan""]"	"[""barrio"", ""Macalang"", ""Dasol"", ""Pangasinan"", ""Republic Act""]"
+repacts:datasets/markdown/repacts/1957/ra_1720_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1720_1957.md	ra_1720_1957	An Act Amending Certain Items of Republic Act Numbered Twelve Hundred	"**REPUBLIC ACT No. 1720**
+
+ **An Act Changing the Name of the Municipality of Maluko, Province of Bukidnon, to Municipality of Manolo Fortich**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Municipality of Maluko, Province of Bukidnon, is changed to Municipality of Manolo Fortich.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1957.
+"	success	Republic Act	This act amends, repeals, and inserts specific items within Republic Act No. 1200, addressing construction and repair of school buildings in Ginatilan, Oslob, and Nueva Caceres Barrio.	"[{""title"": ""Section 1."", ""summary"": ""Amends Items (3) and (28) of RA 1200 to specify repair and construction costs for Central School and Home Economics Buildings in Ginatilan, and an additional room at Oslob Elementary School Building.""}, {""title"": ""Section 2."", ""summary"": ""Repeals Item (13) of RA 1200.""}, {""title"": ""Section 3."", ""summary"": ""Inserts Item (98) into RA 1200 for the construction of an additional room at Nueva Caceres Barrio School Building in Oslob.""}, {""title"": ""Section 4."", ""summary"": ""The act shall take effect upon its approval.""}]"	1708	June 21, 1957			To amend specific items of Republic Act No. 1200 related to school infrastructure.	"[""Amendment of Item (3) for repair of Central School and Home Economics Buildings in Ginatilan."", ""Amendment of Item (28) for construction of an additional room at Oslob Elementary School Building."", ""Repeal of Item (13) of RA 1200."", ""Insertion of Item (98) for construction of an additional room at Nueva Caceres Barrio School Building.""]"	Republic Act No. 1200	"[""Amendment"", ""Education"", ""Infrastructure""]"	"[""Central School"", ""Home Economics Buildings"", ""Ginatilan"", ""Oslob Elementary School"", ""Nueva Caceres Barrio School"", ""construction"", ""repair"", ""improvement""]"
+repacts:datasets/markdown/repacts/1957/ra_1721_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1721_1957.md	ra_1721_1957	An Act to Amend Item (d), Page One Hundred Twenty-Five, Section Two-43 (Quezon) of Republic Act Numbered Fourteen Hundred Eleven	"**REPUBLIC ACT No. 1721**
+
+ **An Act to Convert the Sitio of Cabunga-an in the Municipality of Tarangnan, Province of Samar, into a Regular Barrio**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Cabunga-an in the Municipality of Tarangnan, Province of Samar, is hereby converted into a regular barrio to be called henceforth as the barrio of Cabunga-an.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1957.
+"	success	Republic Act	This act amends Item (d) of Section 2-43 (Quezon) in Republic Act No. 1115 to include new construction projects with specified costs.	"[{""title"": ""Section 1"", ""summary"": ""Amends Item (d) to include Masalocot Barrio Road, Candelaria Construction costing \u20b13,000.00 and adds Item (d-1) San Isidro Barrio School Building, Candelaria Construction costing \u20b12,000.00.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	1709	June 21, 1957			To amend Section 2-43 (Quezon) of Republic Act No. 1115 to reflect new construction projects and costs.	"[""Amendment of Item (d) to include Masalocot Barrio Road, Candelaria Construction costing \u20b13,000.00."", ""Addition of Item (d-1) San Isidro Barrio School Building, Candelaria Construction costing \u20b12,000.00.""]"	Republic Act No. 1115, Section 2-43 (Quezon), Item (d).	"[""Amendment"", ""Infrastructure"", ""Construction"", ""Candelaria"", ""Quezon""]"	"[""Masalocot"", ""San Isidro"", ""Candelaria"", ""Construction"", ""Road"", ""School Building"", ""Republic Act 1709"", ""Section 2-43"", ""Quezon""]"
+repacts:datasets/markdown/repacts/1957/ra_1722_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1722_1957.md	ra_1722_1957	An Act Converting the Sitio of Puting Buhangin, Barrio Magalanggalang, Municipality of Bauan, Province of Batangas, into a Barrio of Said Municipality to be Known as the Barrio of Orense	"**REPUBLIC ACT No. 1722**
+
+ **An Act Converting the Sitio of Campitic in the Municipality of Palo, Province of Leyte, into a Barrio to be Known as the Barrio of Campitic**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Campitic in the Municipality of Palo, Province of Leyte, is hereby converted into a barrio to be known as the barrio of Campitic.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1957.
+"	success	Republic Act	Converts the sitio of Puting Buhangin into the barrio of Orense within the Municipality of Bauan, Batangas.	"[{""title"": ""Section 1"", ""summary"": ""Converts the sitio of Puting Buhangin, barrio Magalanggalang, Municipality of Bauan, Province of Batangas, into a barrio of said municipality to be known as the barrio of Orense.""}, {""title"": ""Section 2"", ""summary"": ""The Act shall take effect upon its approval.""}]"	1710	June 21, 1957			To convert the sitio of Puting Buhangin into a barrio named Orense within the Municipality of Bauan.	"[""Section 1: Conversion of sitio to barrio."", ""Section 2: Effective date upon approval.""]"			"[""Sitio"", ""Barrio"", ""Bauan"", ""Batangas"", ""Orense""]"
+repacts:datasets/markdown/repacts/1957/ra_1723_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1723_1957.md	ra_1723_1957	An Act Converting the Sitio of Cabili, Municipality of Panabo, Province of Davao, into a Barrio of Said Municipality to be Known as the Barrio of Quezon	"**REPUBLIC ACT No. 1723**
+
+ **An Act Creating the Barrios of Baras and Candahug in the Municipality of Palo, Province of Leyte**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The barrio of Baras-Candahug in the Municipality of Palo, Province of Leyte, is hereby divided into two barrios, one to be known as the barrio of Baras and the other as the barrio of Candahug.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1957.
+"	success	Republic Act	Converts the sitio of Cabili into the barrio of Quezon.	"[{""title"": ""Section 1."", ""summary"": ""The sitio of Cabili, Municipality of Panabo, Province of Davao, is converted into a barrio of said municipality to be known as the barrio of Quezon.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	1711	June 21, 1957			To convert the sitio of Cabili into a barrio.	"[""Conversion of the sitio of Cabili into the barrio of Quezon.""]"		"[""Republic Act"", ""Local Government"", ""Barangay Creation""]"	"[""Cabili"", ""Panabo"", ""Davao"", ""Quezon"", ""barrio"", ""sitio"", ""conversion""]"
+repacts:datasets/markdown/repacts/1957/ra_1724_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1724_1957.md	ra_1724_1957	An Act Amending Item Twenty-Six, Paragraph One, for the Province of Camarines Norte, Section Two of Republic Act Numbered Twelve Hundred	"**REPUBLIC ACT No. 1724**
+
+ **An Act Changing the Name of Barrio Cogon-Bingkay in the Municipality of Dulag, Province of Leyte, to Salvacion**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of barrio Cogon-Bingkay in the Municipality of Dulag, Province of Leyte, is hereby changed to Salvacion.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1957.
+"	success	Republic Act	Republic Act No. 1712 amends Item 26, paragraph 1 of RA 1200 for Camarines Norte, adding the construction of a one-room semi-permanent building at San Jose Barrio School, Jose Pañganiban, with a cost of ₱5,000.00, and specifies its effective date.	"[{""title"": ""Section 1."", ""summary"": ""Item twenty-six, paragraph one, for the Province of Camarines Norte, section two of Republic Act Numbered Twelve hundred, is amended to read as follows: \""(26) Construction of one-room (semi-permanent) building, San Jose Barrio School, Jose Pa\u00f1ganiban | \u20b15,000.00\"".""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	RA 1712	June 21, 1957			To amend RA 1200 regarding Item 26, paragraph 1 for the Province of Camarines Norte, specifying construction details and costs.	"[""Amendment to Item 26, paragraph 1 of RA 1200 for Camarines Norte, adding the construction of a one-room semi-permanent building at San Jose Barrio School, Jose Pa\u00f1ganiban, with a cost of \u20b15,000.00.""]"	Republic Act No. 1200	"[""Amendment"", ""Education"", ""Construction"", ""Camarines Norte"", ""RA 1712""]"	"[""Construction"", ""one-room building"", ""semi-permanent"", ""San Jose Barrio School"", ""Jose Pa\u00f1ganiban"", ""Camarines Norte"", ""RA 1712""]"
+repacts:datasets/markdown/repacts/1957/ra_1725_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1725_1957.md	ra_1725_1957	An Act to Convert the Sitio of Bagbagin, Municipality of Caloocan, Province of Rizal, into a Barrio to be Known as Barrio Bagbagin of the Same Municipality and Separating it from the Barrio of Caybiga of the Same Municipality	"**REPUBLIC ACT No. 1725**
+
+ **An Act Converting the Sitio of Pamoblaran in the Municipality of Dulag, Province of Leyte, into a Barrio to be Known as the Barrio of San Antonio**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Pamoblaran in the Municipality of Dulag, Province of Leyte, is hereby converted into a barrio to be known as the barrio of San Antonio.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1957.
+"	success	Republic Act	The act converts the sitio of Bagbagin into a distinct barrio named Barrio Bagbagin, separating it from the barrio of Caybiga within the Municipality of Caloocan, Province of Rizal.	"[{""title"": ""Section 1."", ""summary"": ""The sitio of Bagbagin in the Municipality of Caloocan, Province of Rizal, is hereby separated from the barrio of Caybiga and converted into a distinct barrio to be known as barrio Bagbagin of the same municipality.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	RA 1713	June 21, 1957			To convert the sitio of Bagbagin into a distinct barrio within Caloocan municipality and separate it from Barrio Caybiga.	"[""Conversion of sitio Bagbagin into barrio Bagbagin"", ""Separation of Bagbagin from Barrio Caybiga""]"		"[""local government"", ""barangay"", ""municipality"", ""Caloocan"", ""Rizal"", ""Republic Act""]"	"[""Bagbagin"", ""Caloocan"", ""Rizal"", ""barrio"", ""sitio"", ""Republic Act 1713"", ""converting"", ""separation""]"
+repacts:datasets/markdown/repacts/1957/ra_1726_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1726_1957.md	ra_1726_1957	An Act Creating the Barrio of Look in the City of Lipa	"**REPUBLIC ACT No. 1726**
+
+ **An Act Changing the Name of Barrio Mat-i in the Municipality of Dulag, Province of Leyte, to President Roxas**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of barrio, Mat-i in the Municipality of Dulag, Province of Leyte, is hereby changed to President Roxas.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1957.
+"	success	Republic Act	Creates the barrio of Look by separating the sitios of Waniwani, Sayatin and Look from the barrio of Balete in Lipa City.	"[{""title"": ""Section 1"", ""summary"": ""Separates the sitios of Waniwani, Sayatin and Look from the barrio of Balete and constitutes them into the barrio of Look.""}, {""title"": ""Section 2"", ""summary"": ""The Act takes effect upon its approval.""}]"	1714	June 21, 1957			To create the barrio of Look in Lipa City.	"[""Separates the sitios of Waniwani, Sayatin and Look from the barrio of Balete."", ""Constitutes these sitios into the barrio of Look."", ""The Act takes effect upon approval.""]"		"[""Republic Act"", ""Barrio"", ""Lipa"", ""Local Government"", ""Municipality""]"	"[""barrio"", ""Look"", ""Lipa"", ""Balete"", ""sitio"", ""Waniwani"", ""Sayatin"", ""Republic Act 1714""]"
+repacts:datasets/markdown/repacts/1957/ra_1727_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1727_1957.md	ra_1727_1957	An Act Converting the Sitio of Pinana-An in the Municipality of Marabut, Province of Samar, into a Regular Barrio	"**REPUBLIC ACT No. 1727**
+
+ **An Act Changing the Names of Certain Barrios in the Municipality of Sablayan, Province of Occidental Mindoro**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The barrios of Batasan, Hinaya and Iriron in the Municipality of Sablayan, Province of Occidental Mindoro, shall hereafter be known as barriso Claudio Salgado, Buhay na Bato and San Isidro, respectively.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1957.
+"	success	Republic Act	Converts the sitio of Pinana-an into a barrio named Pinalangga.	"[{""title"": ""Section 1."", ""summary"": ""The sitio of Pinana-an in the Municipality of Marabut, Province of Samar, is hereby converted into a barrio to be known henceforth as the barrio of Pinalangga.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	1715	June 21, 1957			To convert the sitio of Pinana-an into a regular barrio named Pinalangga.	"[""Section 1: Conversion of sitio into barrio named Pinalangga."", ""Section 2: Effective upon approval.""]"		"[""Republic Act"", ""Samar"", ""Barangay"", ""Local Government""]"	"[""sitio"", ""barrio"", ""conversion"", ""Marabut"", ""Samar""]"
+repacts:datasets/markdown/repacts/1957/ra_1728_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1728_1957.md	ra_1728_1957	An Act Changing the Name of the Barrio of Morthon in the Municipality of Balete, Province of Capiz, to Barrio Fulgencio	"**REPUBLIC ACT No. 1728**
+
+ **An Act Changing the Name of Barrio Bual in the Municipality of Pilar, Province of Sorsogon, to Del Rosario**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of barrio Bual in the Municipality of Pilar, Province of Sorsogon, is hereby changed to Del Rosario.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1957.
+"	success	Republic Act	This act changes the name of the barrio of Morthon to Barrio Fulgencio and establishes its effectuation upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The name of the barrio of Morthon in the Municipality of Balete, Province of Capiz, is hereby changed to barrio Fulgencio.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	RA 1716	June 21, 1957			To rename a barrio within the Municipality of Balete, Capiz.	"[""The name of the barrio of Morthon in Balete is changed to Fulgencio."", ""The Act takes effect upon approval.""]"		"[""barrio"", ""name change"", ""Capiz"", ""municipality""]"	"[""Republic Act"", ""Barrio"", ""Capiz"", ""Balete"", ""name change""]"
+repacts:datasets/markdown/repacts/1957/ra_1729_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1729_1957.md	ra_1729_1957	AN ACT CREATING A CERTAIN BARRIO IN THE MUNICIPALITY OF GINGOOG, PROVINCE OF MISAMIS ORIENTAL.	"**REPUBLIC ACT No. 1729**
+
+ **An Act to Amend a Certain Item in Section Three of Republic Act Numbered Fourteen Hundred Eleven**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item one, Group V, under q. Cebu, page three hundred seventy-four, section three of Republic Act Numbered Fourteen hundred eleven, is amended to read as follows:
+
+ | ""1. Tumalog Barrio School Building, Oslob Construction | ₱5,000.00"" |
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1957.
+"	success	Republic Act	This act converts the sitio of Malibod in Gingoog, Misamis Oriental into a barrio named Malibod and becomes effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Converts the sitio of Malibod, Municipality of Gingoog, Province of Misamis Oriental into a barrio named Malibod.""}, {""title"": ""Section 2"", ""summary"": ""The Act shall take effect upon its approval.""}]"	1717	June 21, 1957				"[""Conversion of the sitio of Malibod into a barrio named Malibod.""]"		"[""barrio"", ""Gingoog"", ""Misamis Oriental"", ""Republic Act"", ""1957""]"	"[""barrio"", ""Gingoog"", ""Misamis Oriental"", ""Republic Act"", ""1957""]"
+repacts:datasets/markdown/repacts/1957/ra_1730_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1730_1957.md	ra_1730_1957	An Act Creating the Barrio of Naspi in the Municipality of Pilar, Province of Sorsogon	"**REPUBLIC ACT No. 1730**
+
+ **An Act to Amend a Certain Item in Section Three of Republic Act Numbered Fourteen Hundred Eleven**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item four, Group I, under aw. Tarlac, page six hundred forty-three, section three of Republic Act Numbered Fourteen hundred eleven, is amended to read as follows:
+
+ | ""4. Malacampa Elementary School Building, Camiling Repair and completion | ₱10,000.00"" |
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1957.
+"	success	Republic Act	This act establishes the barrio of Naspi by separating the sitios of Naspi and Calaguitan from the barrio of Putiao in Pilar, Sorsogon, and declares it an independent barrio effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Separates the sitios of Naspi and Calaguitan from the barrio of Putiao in the municipality of Pilar, Sorsogon, and constitutes them into a distinct and independent barrio named Naspi.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	1718	June 21, 1957			To create a new independent barrio within the municipality of Pilar, Sorsogon.	"[""Separates Naspi and Calaguitan from Putiao"", ""Establishes Naspi as an independent barrio"", ""Effectivity upon approval""]"		"[""barrio creation"", ""Sorsogon"", ""municipality""]"	"[""Naspi"", ""Pilar"", ""Sorsogon"", ""barrio"", ""Republic Act"", ""1957""]"
+repacts:datasets/markdown/repacts/1957/ra_1731_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1731_1957.md	ra_1731_1957	An Act Creating Certain Barrios in the Municipality of Tabango, Province of Leyte	"**REPUBLIC ACT No. 1731**
+
+ **An Act Changing the Names of Certain Schools in the Municipality of Padada, Province of Davao**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The names of the following schools in the Municipality of Padada, Province of Davao, are changed as follows:
+
+ 1. Padada Elementary School to Northern Padada Elementary School, and 2. Roosevelt Elementary School to Padada Central Elementary School. **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1957.
+"	success	Republic Act	This act converts the sitios of Gibacungan, Catmon and Manlawa-an in Tabango, Leyte into official barrios, effective upon its approval.	"[{""title"": ""Section 1"", ""summary"": ""The sitios of Gibacungan, Catmon and Manlawa-an are converted into barrios of Tabango, Leyte.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	1719	June 21, 1957			To establish official barrios in Tabango, Leyte.	"[""Conversion of sitios into barrios"", ""Effectivity upon approval""]"		"[""local government"", ""barangay"", ""Leyte"", ""1957""]"	"[""Republic Act"", ""barrios"", ""sitios"", ""Tabango"", ""Leyte"", ""municipality"", ""conversion""]"
+repacts:datasets/markdown/repacts/1957/ra_1733_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1733_1957.md	ra_1733_1957	An Act Changing the Name of the Municipality of Maluko, Province of Bukidnon, to Municipality of Manolo Fortich	"**REPUBLIC ACT No. 1733**
+
+ **An Act Changing the Names of Certain Barrios in the Municipality of Sara, Province of Iloilo**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The names of the following barrios in the Municipality of Sara, Province of Iloilo, are changed as follows:
+
+ Barrio Ilongbukid to barrio Bagaygay; Barrio Maremhon to barrio Villahermosa; Barrio Lawa-an to barrio Gildore; Barrio Bai-ran to barrio Castor; Barrio Batuan to barrio Aldeguer; Barrio Agsinapot to barrio Del Castillo; Barrio Maligayligay to barrio Malapaya; Barrio Samponongbolo to barrio Juaneza; Barrio Alabidhan to barrio Tady; Barrio Ambolong to barrio Lanciola; Barrio Busay to barrio Preciosa; Barrio Caburra to barrio Zerrudo; Barrio Asue Pabriaga to barrio Pabriaga; Barrio Balabago to barrio Apologista; Barrio Alawehao to barrio Pesadas; Barrio Quinasop-an to barrio Muyco; Barrio Bolod to barrio Padios; Barrio Aglahog to barrio Bacabac; Barrio Madarag to barrio Crespo; Barrio Serruco to barrio Ferraris; Barrio Salvacion to barrio Aranto; Barrio Ajuz to barrio Salcedo; Barrio Talisay to barrio Apolo; Barrio Masonson to barrio Devera; Barrio Quipot to barrio Aguirre, and Barrio Damasco to barrio Aspera. **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1957.
+"	success	Republic Act	Changes the name of the Municipality of Maluko, Bukidnon to the Municipality of Manolo Fortich.	"[{""title"": ""Section 1"", ""summary"": ""The name of the Municipality of Maluko, Province of Bukidnon, is changed to Municipality of Manolo Fortich.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	RA 1720	June 21, 1957			To change the name of the Municipality of Maluko, Bukidnon to the Municipality of Manolo Fortich.	"[""Name of the Municipality of Maluko is changed to Municipality of Manolo Fortich"", ""Act takes effect upon approval""]"		"[""municipality"", ""name change"", ""Bukidnon"", ""Philippines""]"	"[""Maluko"", ""Manolo Fortich"", ""municipality"", ""name change"", ""Bukidnon""]"
+repacts:datasets/markdown/repacts/1957/ra_1734_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1734_1957.md	ra_1734_1957	An Act to Convert the Sitio of Cabunga-an in the Municipality of Tarangnan, Province of Samar, into a Regular Barrio	"**REPUBLIC ACT No. 1734**
+
+ **An Act Converting the Sitio of Agtabo in the Barrio of Salngan, Municipality of Passi, Province of Iloilo, into a Barrio of Said Municipality**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Agtabo in the barrio of Salngan, Municipality of Passi, Province of Iloilo, is converted into a barrio of said municipality.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1957.
+"	success	Republic Act	Converts the sitio of Cabunga-an into a regular barrio.	"[{""title"": ""Section 1."", ""summary"": ""The sitio of Cabunga-an in the Municipality of Tarangnan, Province of Samar, is hereby converted into a regular barrio to be called henceforth as the barrio of Cabunga-an.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	REPUBLIC ACT No. 1721	June 21, 1957			Convert the sitio of Cabunga-an into a regular barrio.	"[""Conversion of Cabunga-an into a regular barrio."", ""Effectivity upon approval.""]"		"[""Republic Act"", ""Samar"", ""Barrio"", ""Cabunga-an""]"	"[""sitio"", ""barrio"", ""municipality"", ""Tarangnan"", ""Province of Samar""]"

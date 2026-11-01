@@ -1,0 +1,164 @@
+
+ **Section 3.** *Definition of Terms.*
+
+ (a) *Mobile phone service provider, service provider*or *telecommunication company*refers to any person, firm or partnership or corporation, government or private, granted a legislative franchise by Congress to provide cellular mobile telephone services to the general public, and issued a certificate of public convenience and necessity (CPCN) by the National Telecommunications Commission (NTC); (b) *Mobile cellular phone, mobile phone*or *cellphone*refers to a mobile telecommunication device that uses a combination of radio transmission and conventional telephone switching to permit telephone communication to and from mobile users within a specified area or cell; (c) *Basic mobile phone services*refer to short messaging service (SMS) or text messaging and voice call services; (d) *Short messaging service (SMS)*refers to a service that allows short, alphanumeric messages to be sent to cellular phone display panels; (e) *Multimedia messaging service (MMS)*refers to standard for telephony messaging systems that allows sending messages, including multimedia objects (images, audio, video, rich text), and not just text messages through the short messaging service (SMS); and (f) *Auxiliary mobile phone service*refers to balance inquiry, customer support, prepaid reloading services and emergency alerts. **Section 4.** *Mobile Disaster Alerts.*In the event of an impending tropical storm, typhoon, tsunami, or other calamities, mobile phone service providers are mandated to send out alerts at regular intervals as required by the National Disaster Risk Reduction and Management Council (NDRRMC), the Philippine Atmospheric, Geophysical and Astronomical Services Administration (PAGASA), the Philippine Institute of Volcanology and Seismology (PHIVOLCS) and other relevant agencies.
+
+ The alerts shall consist of up-to-date information from the relevant agencies, and shall be sent directly to the mobile phone subscribers located near and within the affected areas. The alerts shall include contact information of local government units and other agencies required to respond to the situation. The alerts may contain other relevant information such as, but not limited to, evacuation areas, relief sites and pick-up points.
+
+ The alerts shall be at no cost, whether direct or indirect, to the consumers; and shall be included as part of the service providers auxiliary service. The alerts may be in the form of SMS (text messages), MMS, or email, as needed and appropriate.
+
+ **Section 5.** *Report of Violations.* Any natural or juridical person may report before the NTC any violation of this Act.
+
+ **Section 6.** *Penalties.*(a) Any person who gives false or misleading data or information or willfully or through gross negligence, conceals or falsifies a material fact, in any investigation, inquiry, study, or other proceeding held pursuant to this Act, shall be punished with imprisonment of not less than two (2) months but not more than six (6) months, and with a fine of not less than One thousand pesos (P1,000.00) but not more than Ten thousand pesos (P10,000.00): *Provided, however,*That if the false or misleading data or information shall have been under oath, the maximum penalty for giving false testimony or perjury shall be imposed.
+
+ (b) If the offender is a corporation, the penalties may range from the imposition of a fine of not less than One million pesos (P1,000,000.00) but not more than Ten million pesos (P10,000,000.00) and/or a suspension or revocation of its legislative franchise and other permits and licenses by the NTC. The maximum penalties prescribed in paragraph (a) shall also be imposed on the members of its board and/or management, as applicable. (c) An alien violating this Act shall, in addition to the penalty herein provided, be deported after service of sentence and shall not be permitted reentry into the Philippines. (d) All monetary penalties shall directly accrue to the National Treasury. **Section 7.** *Implementing Rules and Regulations.* The Department of Transportation and Communications (DOTC), the NTC, the NDRRMC, the PAGASA and other relevant government agencies shall, within sixty (60) days from the effectivity of this Act, submit the implementing rules and regulations (IRR) governing this Act.
+
+ **Section 8.** *Amendatory and Repealing Clause.* All laws, decrees, orders, rules and regulations, ordinances or any part thereof inconsistent herewith are hereby repealed or modified accordingly.
+
+ **Section 9.** *Separability Clause.* If any provision of this Act is subsequently declared unconstitutional, the remaining provisions hereof shall remain in full force and effect.
+
+ **Section 10.** *Effectivity Clause.*This Act shall take effect immediately after its complete publication either in the *Official Gazette*or in a newspaper of general circulation in the Philippines.
+
+ Approved,
+
+   
+ | (Sgd.) **FRANKLIN M. DRILON** President of the Senate | (Sgd.) **FELICIANO BELMONTE JR.** *Speaker of the House House of Representatives* |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on February 10, 2014 and May 5, 2014, respectively.
+
+   
+ | (Sgd.) **OSCAR G. YABES *Secretary of the Senate*** | (Sgd.) **MARILYN B. BARUA-YAP** Secretary General House of Representatives |
+
+ Approved: JUN 20 2014
+
+ (Sgd.) **BENIGNO S. AQUINO III** *President of the Philippines*
+"	success	Republic Act	The Free Mobile Disaster Alerts Act requires telecommunications service providers to send free mobile alerts during natural or man‑made disasters, defines key terms, establishes penalties for violations, and mandates the preparation of implementing rules within 60 days.	"[{""title"": ""Short Title"", ""summary"": ""Defines the short title of the Act as \""The Free Mobile Disaster Alerts Act\"".""}, {""title"": ""Declaration of Policy"", ""summary"": ""States the state's duty to protect citizens during disasters and to notify them to prevent harm.""}, {""title"": ""Definition of Terms"", ""summary"": ""Provides definitions for key terms such as mobile phone service provider, mobile phone, basic mobile services, SMS, MMS, and auxiliary services.""}, {""title"": ""Mobile Disaster Alerts"", ""summary"": ""Mandates providers to send alerts at regular intervals during disasters, at no cost, to subscribers in affected areas, with information from relevant agencies.""}, {""title"": ""Report of Violations"", ""summary"": ""Allows any person to report violations to the NTC.""}, {""title"": ""Penalties"", ""summary"": ""Specifies penalties for false data, fines, imprisonment, perjury, corporate penalties, and alien penalties.""}, {""title"": ""Implementing Rules and Regulations"", ""summary"": ""Requires DOTC, NTC, NDRRMC, PAGASA to submit IRR within 60 days of effectivity.""}, {""title"": ""Amendatory and Repealing Clause"", ""summary"": ""Repeals or modifies laws inconsistent with this Act.""}, {""title"": ""Separability Clause"", ""summary"": ""If any provision is unconstitutional, the rest remain effective.""}, {""title"": ""Effectivity Clause"", ""summary"": ""Act becomes effective immediately after publication in the Official Gazette or a newspaper of general circulation.""}]"	10639	2013-07-22	"[{""name"": ""FRANKLIN M. DRILON"", ""title"": ""President of the Senate""}, {""name"": ""FELICIANO BELMONTE JR."", ""title"": ""Speaker of the House of Representatives""}]"		Mandate free mobile disaster alerts to protect citizens and facilitate timely evacuation and relief efforts.	"[""Mandates telecom providers to send free alerts during disasters"", ""Defines key terms related to mobile services and alerts"", ""Provides penalties for false or misleading information"", ""Requires IRR within 60 days of effectivity"", ""Repeals laws inconsistent with the Act""]"		"[""Disaster Management"", ""Telecommunications"", ""Public Safety"", ""Free Alerts""]"	"[""disaster alerts"", ""telecommunications"", ""SMS"", ""MMS"", ""NTC"", ""NDRRMC"", ""PAGASA"", ""PHIVOLCS"", ""free alerts"", ""penalties""]"
+repacts:datasets/markdown/repacts/2014/ra_10640_2014.md	repacts	2014		datasets/markdown/repacts/2014/ra_10640_2014.md	ra_10640_2014	"AN ACT TO FURTHER STRENGTHEN THE ANTI-DRUG CAMPAIGN OF THE GOVERNMENT, AMENDING FOR THE PURPOSE SECTION 21 OF REPUBLIC ACT NO. 9165, OTHERWISE KNOWN AS THE ""COMPREHENSIVE DANGEROUS DRUGS ACT OF 2002"""	"**Sixteenth Congress First Regular Session**
+
+ *Begun and held in Metro Manila, on Monday, the twenty-second day of July, two thousand thirteen.*
+
+ **REPUBLIC ACT NO. 10640**
+
+ AN ACT TO FURTHER STRENGTHEN THE ANTI-DRUG CAMPAIGN OF THE GOVERNMENT, AMENDING FOR THE PURPOSE SECTION 21 OF REPUBLIC ACT NO. 9165, OTHERWISE KNOWN AS THE ""COMPREHENSIVE DANGEROUS DRUGS ACT OF 2002""
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** Section 21 of Republic Act No. 9165, otherwise known as the ""Comprehensive Dangerous Drugs Act of 2002"", is hereby amended to read as follows:
+
+ > ""SEC. 21. *Custody and Disposition of Confiscated, Seized, and/or Surrendered Dangerous Drugs, Plant Sources of Dangerous Drugs, Controlled Precursors and Essential Chemicals, Instruments/Paraphernalia and/or Laboratory Equipment.*The PDEA shall take charge and have custody of all dangerous drugs, plant sources of dangerous drugs, controlled precursors and essential chemicals, as well as instruments/paraphernalia and/or laboratory equipment so confiscated, seized and/or surrendered, for proper disposition in the following manner:
+>
+>  ""(1) The apprehending team having initial custody and control of the dangerous drugs, controlled precursors and essential chemicals, instruments/paraphernalia and/or laboratory equipment shall, immediately after seizure and confiscation, conduct a physical inventory of the seized items and photograph the same in the presence of the accused or the person/s from whom such items were confiscated and/or seized, or his/her representative or counsel, with an elected public official and a representative of the National Prosecution Service or the media who shall be required to sign the copies of the inventory and be given a copy thereof: *Provided,*That the physical inventory and photograph shall be conducted at the place where the search warrant is served; or at the nearest police station or at the nearest office of the apprehending officer/team, whichever is practicable, in case of warrantless seizures: *Provided, finally,*That noncompliance of these requirements under justifiable grounds, as long as the integrity and the evidentiary value of the seized items are properly preserved by the apprehending officer/team, shall not render void and invalid such seizures and custody over said items.
+>
+>  ""x x x
+>
+>  ""(3) A certification of the forensic laboratory examination results, which shall be done by the forensic laboratory examiner, shall be issued immediately upon the receipt of the subject item/s: *Provided,*That when the volume of dangerous drugs, plant sources of dangerous drugs, and controlled precursors and essential chemicals does not allow the completion of testing within the time frame, a partial laboratory examination report shall be provisionally issued stating therein the quantities of dangerous drugs still to be examined by the forensic laboratory: *Provided, however,*That a final certification shall be issued immediately upon completion of the said examination and certification;
+>
+>  ""x x x.""
+
+ **Section 2.** *Implementing Rules and Regulations (IRR).* To implement effectively the provisions of Section 21, the Philippine Drug Enforcement Agency (PDEA) shall issue the necessary guidelines on the IRR for the purpose in consultation with the Department of Justice (DO J) and relevant sectors to curb increasing drug cases.
+
+ **Section 3.** *Separability Clause.*If any provision or part hereof is held invalid or unconstitutional, the remainder of the law or the provision not otherwise affected shall remain valid and subsisting.
+
+ **Section 4.** *Repealing Clause.* All laws, presidential decrees or issuances, executive orders, letters of instruction, administrative orders, rules and regulations contrary to or inconsistent with the provisions of this Act are hereby repealed, modified or amended accordingly.
+
+ **Section 5.** *Effectivity.* This Act shall take effect fifteen (15) days after its complete publication in at least two (2) newspapers of general circulation.
+
+ Approved,
+
+   
+ | (Sgd.) **FRANKLIN M. DRILON** President of the Senate | (Sgd.) **FELICIANO BELMONTE JR.** *Speaker of the House House of Representatives* |
+
+ This Act which is a consolidation of House Bill 2285 and Senate Bill No. 2273 was finally passed by the House of Representatives and the Senate on June 9, 2014.
+
+   
+ | (Sgd.) **OSCAR G. YABES *Secretary of the Senate*** | (Sgd.) **MARILYN B. BARUA-YAP** Secretary General House of Representatives |
+
+ Approved: JUL 15 2014
+
+ (Sgd.) **BENIGNO S. AQUINO III** *President of the Philippines*
+"	success	Republic Act	This act amends Section 21 of Republic Act No. 9165 to strengthen the anti‑drug campaign by clarifying the custody, disposition, inventory, photographic documentation, and forensic laboratory certification of confiscated dangerous drugs, plant sources, controlled precursors, essential chemicals, instruments/paraphernalia, and laboratory equipment. It also establishes implementing rules, a separability clause, a repealing clause, and specifies its effectivity.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 21 of RA 9165 to detail custody and disposition procedures for confiscated dangerous drugs and related items, including physical inventory, photographic documentation, and forensic laboratory certification.""}, {""title"": ""Section 2"", ""summary"": ""Mandates the Philippine Drug Enforcement Agency (PDEA) to issue implementing rules and regulations (IRR) in consultation with the Department of Justice and other sectors.""}, {""title"": ""Section 3"", ""summary"": ""Separability clause ensuring that if any provision is invalid, the remainder remains valid.""}, {""title"": ""Section 4"", ""summary"": ""Repealing clause that repeals or amends conflicting laws, presidential decrees, executive orders, and regulations.""}, {""title"": ""Section 5"", ""summary"": ""Effectivity clause stating the act takes effect fifteen days after publication in at least two newspapers.""}]"	10640	July 15, 2014	"[{""name"": ""FRANKLIN M. DRILON"", ""title"": ""President of the Senate""}, {""name"": ""FELICIANO BELMONTE JR."", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""OSCAR G. YABES"", ""title"": ""Secretary of the Senate""}, {""name"": ""MARILYN B. BARUA-YAP"", ""title"": ""Secretary General of the House of Representatives""}]"	To further strengthen the anti‑drug campaign by amending Section 21 of RA 9165, clarifying custody and disposition procedures for confiscated drugs and related items, and ensuring proper implementation through IRR.	"[""Amendment to Section 21 of RA 9165 concerning custody and disposition of confiscated dangerous drugs"", ""Requirement for physical inventory and photographic documentation of seized items"", ""Forensic laboratory certification of seized items"", ""Issuance of implementing rules and regulations by PDEA"", ""Repealing clause for conflicting laws""]"	Republic Act No. 9165 (Comprehensive Dangerous Drugs Act of 2002) – Section 21 amended	"[""Anti-Drug"", ""Legislation"", ""PDEA"", ""Reform"", ""Law""]"	"[""anti-drug"", ""custody"", ""confiscated drugs"", ""forensic laboratory"", ""PDEA"", ""Republic Act 10640"", ""Section 21 amendment""]"
+repacts:datasets/markdown/repacts/2014/ra_10641_2014.md	repacts	2014		datasets/markdown/repacts/2014/ra_10641_2014.md	ra_10641_2014	AN ACT ALLOWING THE FULL ENTRY OF FOREIGN BANKS IN THE PHILIPPINES, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 7721	"**Sixteenth Congress First Regular Session**
+
+ *Begun and held in Metro Manila, on Monday, the twenty-second day of July, two thousand thirteen.*
+
+ **REPUBLIC ACT NO. 10641**
+
+ AN ACT ALLOWING THE FULL ENTRY OF FOREIGN BANKS IN THE PHILIPPINES, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 7721
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** Section 2 of Republic Act No. 7721 is hereby amended to read as follows:
+
+ > ""SEC. 2. *Modes of Entry.*The Monetary Board may authorize foreign banks to operate in the Philippine banking system through any one of the following"" modes of entry: (i) by acquiring, purchasing or owning up to one hundred percent (100%) of the voting stock of an existing bank; (ii) by investing in up to one hundred percent (100%) of the voting stockof a new banking subsidiary incorporated under the laws of the Philippines; or (iii) by establishing branches with full banking authority.""
+
+ **Section 2. Section 3 of Republic Act No. 7721 is hereby amended to read as follows:**
+
+ ""SEC. 3. *Guidelines for Approval.* In approving entry applications of foreign banks, the Monetary Board shall: (i) ensure geographic representation and complementation; (ii) consider strategic trade and investment relationships between the Philippines and the country of incorporation of the foreign bank; (iii) study the demonstrated capacity, global reputation for financial innovations and stability in a competitive environment of the applicant; (iv) see to it that reciprocity rights are enjoyed by Philippine banks in the applicants country; and (v) consider willingness to fully share their technology.
+
+ > ""Only established, reputable and financially sound foreign banks shall be allowed entry in accordance with Section 2 of this Act. The foreign bank applicant must be widely-owned and publicly-listed in its country of origin, unless the foreign bank applicant is owned and controlled by the government of its country of origin.
+>
+>  ""In the exercise of this authority, the Monetary Board shall adopt such measures as may be necessary to ensure that the control of at least sixty percent(60%) of the resources or assets of the entire banking system is held by domestic banks which are majority-owned by Filipinos.""
+
+ **Section 3.** Section 4 of Republic Act No. 7721 is hereby amended to read as follows:
+
+ > ""SEC. 4. *Capital Requirements.* (i) *For Locally Incorporated Subsidiaries* The minimum capital required for locally incorporated subsidiaries of foreign banks shall be equal to that prescribed by the Monetary Board for domestic banks of the same category.
+>
+>  ""(ii) *For Foreign Bank Branches* Foreign banks that shall be authorized to establish branches pursuant to Section 2(hi) of this Act shah permanently assign capital of an amount not less than the minimum capital required for domestic banks of the same category. The permanently assigned capital shall be inwardly remitted and converted into Philippine currency.
+>
+>  ""The foreign bank branch may open up to five (5) sub-branches as may be approved by the Monetary Board. Locally incorporated subsidiaries of foreign banks pursuant to Section 2(h) of this Act shall have the same branching privileges as domestic banks of the same category.""
+
+ **Section 4.** Section 6 of Republic Act No. 7721 is hereby repealed.
+
+ **Section 5.** Section 8 of Republic Act No. 7721 is hereby amended to read as follows:
+
+ > ""SEC. 8. *Equal Treatment.*Foreign banks authorized to operate under Section 2 of this Act, shall perform the same functions, enjoy the same privileges, and be subject to the same limitations imposed upon a Philippine bank of the same category. The single borrowers limit of a foreign bank branch shall be aligned with that of a domestic bank.
+>
+>  ""The foreign banks shall guarantee the observance of the rights of their employees under the Constitution.
+>
+>  ""Any right, privilege or incentive granted to foreign banks or their subsidiaries or affiliates under this Act, shall be equally enjoyed by and extended under the same conditions to Philippine banks.""
+
+ **Section 6.** A new provision in Section 9 is hereby inserted in the same Act, in lieu of the original provisions of Section 9 repealed by Section 11 of Republic Act No. 10000. Section 9 shall now read as follows:
+
+ > ""SEC. 9. *Participation in Foreclosure Proceedings.*Foreign banks which are authorized to do banking business in the Philippines through any of the modes of entry under Section 2 hereof shall be allowed to bid and take part in foreclosure sales of real property mortgaged to them, as well as to avail of enforcement and other proceedings, and accordingly take possession of the mortgaged property, for a period not exceeding five (5) years from actual possession: *Provided,*That in no event shall title to the property be transferred to such foreign bank. In case said bank is the winning bidder, it shall, during the said five (5)-year period, transfer its rights to a qualified Philippine national, without prejudice to a borrowers rights under applicable laws. Should the bank fail to transfer such property within the five (5)-year period, it shall be penalized one half (1/2) of one percent (1%) per annum of the price at which the property was foreclosed until it is able to transfer the property to a qualified Philippine national.""
+
+ **Section 7.** *Transitory Provisions.*Foreign banks which are already authorized to do banking business in the Philippines through any of the modes of entry under Section 2 hereof may apply to change their original mode of entry.
+
+ Foreign banks operating through branches in the Philippines upon the effectivity of this Act shall retain their original privilege upon entry to establish a limited number of sub-branches. However, the previous restriction on the locations of such additional branches is hereby lifted.
+
+ The existing Philippine branches of foreign banks shall comply within one (1) year from the effectivity of this Act with the minimum capital requirements as prescribed under Section 4(ii) of this Act, unless otherwise extended by the Monetary Board.
+
+ **Section 8.** Section 12 of Republic Act No. 7721 is hereby amended to read as follows:
+
+ > ""SEC. 12. *Applicability of Other Banking Laws.* The provisions of Republic Act No. 7653, otherwise known as the New Central Bank Act and the provisions of Republic Act No. 8791, otherwise known as The General Banking Law of 2000′, insofar as they are applicable and not in conflict with any provision of this Act, shall apply to banks authorized pursuant to this Act.""
+
+ **Section 9.** Section 13 of Republic Act No. 7721 is hereby amended to read as follows:
+
+ > ""SEC. 13. *Rule-Making Powers of the Monetary Board of the Bangko Sentral ng Pilipinas and Compliance Reports.* The Monetary Board is hereby authorized to issue such rules and regulations as may be needed to implement ""the provisions of this Act. On or before May 30 of each year, the Monetary Board shall file a written report to Congress and its respective Banks Committees, on the developments in the implementation of this Act. The implementing rules and regulations of this Act shall be published in at least two (2) newspapers of general circulation.""
+
+ **Section 10.** *Repealing Clause.*All laws, decrees, executive orders, proclamations, rules and regulations and other issuances or parts thereof insofar as they are inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+
+ **Section 11.** *Effectivity.*This Act shall take effect fifteen (15) days after its publication in the *Official Gazette*or in at least two (2) national newspapers of general circulation.
+
+ Approved,
+
+   
+ | (Sgd.) **FELICIANO BELMONTE JR.** *Speaker of the House House of Representatives* | (Sgd.) **FRANKLIN M. DRILON** President of the Senate |
+
+ This Act which is a consolidation of Senate Bill No. 2159 and House Bill No. 3984 was finally passed by the Senate and the House of Representatives on June 11, 2014 and June 10, 2014, respectively.
+
+   
+ | (Sgd.) **MARILYN B. BARUA-YAP** Secretary General House of Representatives | (Sgd.) **OSCAR G. YABES** *Secretary of the Senate* |
+
+ Approved: JUL 15 2014
+
+ (Sgd.) **BENIGNO S. AQUINO III** *President of the Philippines*
+"	success	Republic Act	This act amends RA 7721 to allow foreign banks full entry into the Philippine banking system, outlining modes of entry, capital requirements, equal treatment, foreclosure participation, and transitory provisions.	"[{""title"": ""Section 1."", ""summary"": ""Amends Section 2 of RA 7721 to define modes of entry for foreign banks: acquisition of voting stock, investment in a subsidiary, or establishing branches.""}, {""title"": ""Section 2."", ""summary"": ""Amends Section 3 to set guidelines for approval by the Monetary Board, ensuring geographic representation, trade relationships, capacity, reciprocity, technology sharing, and control of resources.""}, {""title"": ""Section 3."", ""summary"": ""Amends Section 4 to establish capital requirements for locally incorporated subsidiaries and foreign bank branches, including minimum capital and branching privileges.""}, {""title"": ""Section 4."", ""summary"": ""Repeals Section 6 of RA 7721.""}, {""title"": ""Section 5."", ""summary"": ""Amends Section 8 to ensure equal treatment, same functions, privileges, limitations, and employee rights for foreign banks and their subsidiaries.""}, {""title"": ""Section 6."", ""summary"": ""Inserts new Section 9 regarding participation in foreclosure proceedings, allowing foreign banks to bid and take part in foreclosure sales for up to five years with conditions on title transfer.""}, {""title"": ""Section 7."", ""summary"": ""Transitory provisions allowing existing foreign banks to apply for mode changes, maintain privileges, and lift restrictions on additional branches.""}]"	10641	July 22, 2013			To allow foreign banks full entry into the Philippine banking system.	"[""Modes of entry for foreign banks"", ""Capital requirements for subsidiaries and branches"", ""Equal treatment and privileges"", ""Participation in foreclosure proceedings"", ""Transitory provisions for existing foreign banks""]"	Republic Act No. 7721	"[""Foreign Banking"", ""Amendment"", ""Financial Regulation"", ""Republic Act""]"	"[""foreign banks"", ""entry"", ""capital requirements"", ""foreclosure"", ""equal treatment"", ""Monetary Board""]"
+repacts:datasets/markdown/repacts/2014/ra_10642_2014.md	repacts	2014		datasets/markdown/repacts/2014/ra_10642_2014.md	ra_10642_2014	Republic Act No. 10642	"**Sixteenth Congress First Regular Session**
+
+ *Begun and held in Metro Manila, on Monday, the twenty-second day of July, two thousand thirteen.*
+
+ **REPUBLIC ACT NO. 10642**
+
+ AN ACT STRENGTHENING CONSUMER PROTECTION IN THE PURCHASE OF BRAND NEW MOTOR VEHICLES
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*

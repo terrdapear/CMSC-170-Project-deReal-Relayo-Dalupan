@@ -1,0 +1,146 @@
+repacts:datasets/markdown/repacts/1959/ra_2223_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2223_1959.md	ra_2223_1959	An Act Amending Section Twenty-Two of Republic Act Numbered Nine Hundred Eighty-One, so as to Provide for a Justice of the Peace Court Instead of a Municipal Court for the City of Trece Martires	"**REPUBLIC ACT No. 2223**
+
+ **An Act Changing Certain Names of Barrios in the Municipality of Liloy, Province of Zamboanga del Norte**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The names of the following barrios in the Municipality of Liloy, Province of Zamboanga del Norte, are changed, to wit:
+
+ 1. Barrio Liloy Beach to Barrio Bayabay; and 2. Barrio Liloy Townsite to Barrio Liloy. **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: May 16, 1959.
+"	success	Republic Act	The act amends RA 981 by replacing the municipal court system in Trece Martires with a justice of the peace court, redefining relevant terms and establishing the court’s structure.	"[{""title"": ""Section 1."", ""summary"": ""Amends Section 22 of RA 981 to establish a justice of the peace court with an appointed justice and auxiliary justice.""}, {""title"": ""Section 2."", ""summary"": ""Redefines the terms \""municipal court\"", \""municipal judge\"", and \""auxiliary municipal judge\"" to refer to the justice of the peace court and its justices.""}, {""title"": ""Section 3."", ""summary"": ""Declares the act effective upon its approval.""}]"	2209	May 15, 1959			To replace the municipal court system in Trece Martires with a justice of the peace court, thereby updating RA 981 for local judicial administration.	"[""Amends Section 22 of RA 981 to establish a justice of the peace court."", ""Redefines terms \""municipal court\"", \""municipal judge\"", and \""auxiliary municipal judge\"" to refer to the justice of the peace court and its justices."", ""The act takes effect upon approval.""]"	Republic Act No. 981	"[""Judiciary"", ""Local Government"", ""Justice of the Peace"", ""Trece Martires""]"	"[""RA 2209"", ""RA 981"", ""Justice of the Peace"", ""Municipal Court"", ""Trece Martires"", ""Philippines""]"
+repacts:datasets/markdown/repacts/1959/ra_2224_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2224_1959.md	ra_2224_1959	An Act Providing for the Creation of an Additional Position of Municipal Judge for the City of Cavite, Amending for the Purpose Section Seventy-Four of Commonwealth Act Numbered Five Hundred Forty-Seven	"**REPUBLIC ACT No. 2224**
+
+ **An Act Creating the Barrio of Bagong Pook in the Municipality of San Jose, Province of Batangas**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Pulo in the barrio of Tugtog, Municipality of San Jose Province of Batangas, is converted into a barrio of said municipality to be known as the barrio of Bagong Pook.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: May 17, 1959.
+"	success	Republic Act	Amends Section 74 of Commonwealth Act No. 547 to create additional municipal judge positions for Cavite City.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 74 of CA 547 to add two municipal judges and one auxiliary municipal judge for the City of Cavite.""}, {""title"": ""Section 2"", ""summary"": ""The Act takes effect upon approval.""}]"	2210	May 15, 1959			To amend Section 74 of Commonwealth Act No. 547, thereby creating additional municipal judge positions and appointing an auxiliary municipal judge for the City of Cavite.	"[""Amendment to Section 74 of CA 547"", ""Creation of additional municipal judges"", ""Appointment of auxiliary municipal judge""]"	Commonwealth Act No. 547 (Charter of the City of Cavite) – Section 74	"[""Municipal Court"", ""Cavite"", ""Judicial Positions""]"	"[""municipal judge"", ""auxiliary judge"", ""Cavite City"", ""Commonwealth Act 547"", ""Section 74""]"
+repacts:datasets/markdown/repacts/1959/ra_2225_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2225_1959.md	ra_2225_1959	An Act Creating a Joint Legislative-Executive Tax Commission, Defining its Objectives, Powers and Functions, and for Other Purposes	"**REPUBLIC ACT No. 2225**
+
+ **An Act Creating Certain Barrios in the Municipality of Quezon, Province of Palawan**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The following sitios in the Municipality of Quezon, Province of Palawan, are constituted into barrios, to wit:
+
+ 1. The sitios of Punta Baja and Malabunga to be known as the barrio of Punta Baja; and 2. The sitios of Maasin and Iwahig to be known as the barrio of Maasin. **Section 2.** This Act shall take effect upon its approval.
+
+ **Approved:** May 17, 1959.
+"	success	Republic Act	This act establishes the Joint Legislative-Executive Tax Commission, outlining its purpose, functions, composition, powers, funding, and operational guidelines to improve tax policy and revenue collection in the Philippines.	"[{""title"": ""Name and domicile."", ""summary"": ""Creation of the Joint Legislative-Executive Tax Commission, office in Manila, to be organized within 60 days.""}, {""title"": ""Purposes and objectives."", ""summary"": ""The Commission shall study revenue needs, examine tax systems, conduct research, review tax measures, recommend reforms, and formulate sound tax policy while avoiding increased burden on taxpayers.""}, {""title"": ""Powers."", ""summary"": ""The Commission is authorized to secure assistance, summon witnesses, exercise necessary powers, hold hearings, and administer oaths.""}, {""title"": ""Composition and appointment."", ""summary"": ""Nine members: three appointed by the President, three Senators appointed by the President of the Senate, and three Congressmen by the Speaker of the House, with a chairman and vice-chairman elected among them.""}, {""title"": ""Submission of report."", ""summary"": ""The Commission shall submit its report to the President and both presiding officers of Congress within ten days after the opening of the next regular session of the Fourth Congress.""}, {""title"": ""Funds."", ""summary"": ""An appropriation of five hundred thousand pesos is provided from the National Treasury for the Act's provisions.""}, {""title"": ""Effectivity."", ""summary"": ""The act takes effect upon its approval.""}]"	2211	May 15, 1959.			To create a joint tax commission to study and improve tax policy and revenue.	"[""Creation of the Joint Legislative-Executive Tax Commission"", ""Definition of its purposes, objectives, and functions"", ""Specification of its composition and appointment process"", ""Granting of powers including securing assistance and summoning witnesses"", ""Provision of funding of five hundred thousand pesos"", ""Effectivity upon approval""]"		"[""tax"", ""legislation"", ""government"", ""Philippines"", ""Republic Act""]"	"[""tax commission"", ""revenue"", ""tax policy"", ""government"", ""Philippines""]"
+repacts:datasets/markdown/repacts/1959/ra_2226_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2226_1959.md	ra_2226_1959	"An Act to Amend Sections One and Four of Republic Act Numbered Twenty Hundred Seventy, Entitled ""An Act to Provide for National Tax Census"""	"**REPUBLIC ACT No. 2226**
+
+ **An Act Creating the Position of Sub-Provincial Assessor for the Sub-Province of Siquijor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Act Numbered Thirty-one hundred forty-three, as amended by Republic Act Numbered Twelve hundred sixty-four, is further amended by inserting after section five-A thereof a new section which shall read as follows:
+
+ > ""**Sec. 5-B.** The sub-province shall have a sub-provincial assessor who, under the direction and supervision of the provincial assessor of Negros Oriental, shall perform the duties of assessor for the sub-province. The sub-provincial assessor shall be appointed by the President of the Philippines with the consent of the Commission on Appointments and shall receive a compensation of three thousand six hundred pesos per annum.
+>
+>  ""Upon the appointment of the sub-provincial assessor, all assessment records for the sub-province shall be transferred to the office of the said sub-provincial assessor but official copies thereof shall likewise be kept at the office of the provincial assessor.""
+
+ **Section 2.** The title of the said Act, as amended, is further amended to read as follows:
+
+ > ""An Act to Provide For the Election and Appointment of Certain Officials for the Sub-Province of Siquijor""
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ **Approved:** May 21, 1959.
+"	success	Republic Act	This Act amends Sections One and Four of Republic Act No. 270 to revise the procedures and deadlines for filing the national tax census, provide for refunds of certain fines, and streamline the consolidation of census data by the Bureau of Internal Revenue.	"[{""title"": ""Section 1."", ""summary"": ""Amends Section 1 of RA 270 to establish filing requirements for residents, corporations, and other entities, sets deadlines for filing the tax census, and specifies that no penalty shall be imposed on late filings before October 21, 1958, with refunds of fines for such filings. It also outlines the data to be reported and the format of the statement.""}, {""title"": ""Section 2."", ""summary"": ""Amends Section 4 of RA 270 to mandate the consolidation of submitted statements by the Bureau of Internal Revenue, transmission of copies to the Secretary of Finance, and submission of a report to Congress within five months of the filing deadline.""}, {""title"": ""Section 3."", ""summary"": ""Provides that the Act shall take effect upon approval.""}]"	2212	May 15, 1959			To modernize and enforce the filing of the national tax census, clarify deadlines, remove penalties for past late filings, ensure accurate data consolidation, and improve tax policy formulation.	"[""Amended Section 1 of RA 270 to require tax census filings by residents and entities within specified deadlines."", ""No penalty for late filings before October 21, 1958 and refund of fines for such filings."", ""Specified data to be reported in the tax census statement."", ""Section 4 of RA 270 amended to consolidate statements by the Bureau of Internal Revenue and transmit to the Secretary of Finance for reporting to Congress."", ""The Act takes effect upon approval.""]"	Republic Act No. 270	"[""Taxation"", ""Census"", ""Internal Revenue"", ""Republic Act""]"	"[""tax census"", ""filing"", ""penalty"", ""refund"", ""internal revenue"", ""bureau of internal revenue"", ""Secretary of Finance"", ""Commissioner of Internal Revenue""]"
+repacts:datasets/markdown/repacts/1959/ra_2227_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2227_1959.md	ra_2227_1959	An Act Changing the Name of the Ragan Norte Elementary School in the Municipality of Magsaysay, Province of Isabela, to San Ramon Elementary School	"**REPUBLIC ACT No. 2227**
+
+ AN ACT CREATING THE PROVINCE OF SOUTHERN LEYTE
+
+ **Section 1.** The municipalities comprised in the Third Representative District of Leyte, namely, Maasin, Macrohon, Padre Burgos, Malitbog, Bontoc, Sogod, Libagon, Liloan, Pintuyan, San Francisco, Saint Bernard, Cabalian, Anahaw, Hinundayan, Hinunangan and Silago are hereby segregated from the said province and constituted into a separate province to be known as Southern Leyte. The present Province of Leyte minus the territory comprising the municipalities above-mentioned shall continue to be known as Leyte.
+
+ **Section 2.** Except as otherwise herein provided, all provisions of law now or hereafter applicable to regularly organized provinces shall be applicable to the Province of Southern Leyte.
+
+ **Section 3.** The provincial capital of Southern Leyte shall be the town of Maasin.
+
+ **Section 4.** The first provincial governor and members of the Provincial Board of Southern Leyte shall be appointed by the President of the Philippines with the consent of the Commission on Appointments and shall hold office until their successors shall have been elected in the regular election next following the effectivity of this Act and shall have qualified. The officers and employees needed to organize the government personnel of Southern Leyte shall be appointed as provided by law.
+
+ **Section 5.** The Province of Southern Leyte shall have one Representative, and the Province of Leyte shall have four, in the House of Representatives. The incumbent Representatives from the present Province of Leyte shall, until the expiration of their respective terms of office, continue to represent the districts for which they were elected.
+
+ **Section 6.** Effective on the date of the regular election for Members of the House of Representatives next following the approval of this Act. the Fourth, Fifth, First and Second Representative Districts of the present Province of Leyte shall be known as the First, Second, Third and Fourth Representative Districts of Leyte, respectively.
+
+ **Section 7.** Upon the effectivity of this Act, the obligations, funds, assets and other properties of the present Province of Leyte shall be divide proportionately between the Province of Leyte and the Province of Southern Leyte by the President of the Philippines upon the recommendation of the Auditor General.
+
+ **Section 8.** This Act shall take effect on the first day of July, nineteen hundred sixty.
+
+ Approved, May 22, 1959.
+"	success	Republic Act	This act changes the name of Ragan Norte Elementary School to San Ramon Elementary School, effective upon approval.	"[{""title"": ""Section 1."", ""summary"": ""The name of the Ragan Norte Elementary School is changed to San Ramon Elementary School.""}, {""title"": ""Section 2."", ""summary"": ""The act shall take effect upon its approval.""}]"	2213	May 16, 1959			Change the name of the school.	"[""Name of Ragan Norte Elementary School is changed to San Ramon Elementary School."", ""Act takes effect upon approval.""]"		"[""Education"", ""School"", ""Renaming"", ""Republic Act""]"	"[""Ragan Norte Elementary School"", ""San Ramon Elementary School"", ""Magsaysay"", ""Isabela"", ""name change""]"
+repacts:datasets/markdown/repacts/1959/ra_2228_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2228_1959.md	ra_2228_1959	An Act Creating the Barrios of Caglanipao, San Roque, Sabella, Acedillo, Happy Valley, Alegria, Salvacion and Mabuhay in the Municipality of San Isidro, Province of Samar	"**REPUBLIC ACT No. 2228**
+
+ **An Act to Create the Provinces of Lanao del Norte and Lanao del Sur**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The Province of Lanao is hereby divided into two provinces, one to be known as Lanao del Norte and the other as Lanao del Sur.
+
+ **Section 2.** The Province of Lanao del Norte shall consist of that portion of the present Province of Lanao which comprises the municipalities of Baloi, Kauswagan, Bacolod, Maigo, Kolambugan, Tubod, Baroy, Lala, Kapatagan and Caromatan and the municipal districts of Matungao, Pantao-Ragat, Munai, Tangcal and Nunungan.
+
+ **Section 3.** The Province of Lanao del Sur shall consists of the other portion of the present Province of Lanao comprising the Municipality of Malabang and the municipal districts of Pualas, Tatarikan, Tubaran, Binidayan, Bayang, Ganassi, Butig, Lumbatan, Masiu, Madamba, Madalum, Bacolod-Grande, Tugaya, Balindog, Marantao, Saguiaran, Kapai, Wao, Ramain, Babong, Molundo, Taraka, Lumba-a-Bayabao, Poon-a-Bayabao and Tamparan.
+
+ **Section 4.** The capital of Lanao del Norte shall be the City of Iligan and that of Lanao del Sur shall be the City of Marawi.
+
+ **Section 5.** Except as hereinafter provided, all provisions of law now or hereafter applicable to the regular provinces shall be applicable to the provinces of Lanao del Norte and Lanao del Sur and the qualified electors of the City of Iligan shall continue to vote for Provincial Governor and members of the Provincial Board for the Province of Lanao del Norte.
+
+ **Section 6.** The present elective provincial officers of Lanao shall, until their successors shall have been elected and shall have qualified, perform their respective duties as such officers in either of the two provinces herein created which they shall individually choose within thirty days from the date of the approval of this Act: *Provided,* That they shall continue to receive the salaries they are receiving at the time of the approval of this Act until a new readjustment of salaries in accordance with existing law. Such elective officers as may be necessary to fill vacancies in either of the said provinces shall for the time being be appointed by the President of the Philippines with the consent of the Commission on Appointments and shall hold office until their successors shall have been elected in the election for provincial and municipal officials following the approval of this Act, and shall have qualified.
+
+ **Section 7.** The present appointive provincial officers and employees of Lanao shall likewise perform their respective duties as such in either of the two provinces herein created which they shall individually choose within thirty days from the date of the approval hereof: *Provided,* That they shall continue to receive the salaries they are receiving at the time of the approval of this Act until the new readjustment of salaries in accordance with existing law. Such appointive officers and employees as may be necessary to organize, or to complete, the government personnel of either province shall be appointed as provided by law.
+
+ **Section 8.** The provinces of Lanao del Norte and Lanao del Sur shall each have one Representative: *Provided,* That the present Representative of the Province of Lanao shall, during his term of office as such, be the Representative for the Province of Lanao del Norte: *Provided, further,* That he shall likewise be the Representative for the Province of Lanao del Sur until a Representative for the latter province shall have been elected in the next general election for national officials.
+
+ **Section 9.** Upon effectivity of this Act, the obligations, funds, assets and other properties of the present Province of Lanao shall be divided equitably between the provinces of Lanao del Norte and Lanao del Sur by the President of the Philippines upon the recommendation of the Auditor General.
+
+ **Section 10.** The two new provinces of Lanao del Norte and Lanao del Sur shall be considered to have been formally established upon proclamation by the President of the Philippines.
+
+ **Section 11.** This Act shall take effect upon its approval.
+
+ Approved: May 22, 1959.
+"	success	Republic Act	The Act creates eight new barrios in San Isidro, Samar, specifying their constituting sitios and taking effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Creation of Barrio Caglanipao (sitio Panhigotan), Barrio San Roque (sitios Manga, Cangahan, Naquibradohan), Barrio Sabella (sitios Cananias, Guenbogno-an), Barrio Acedillo (sitios Catabonan, Balequaton), Barrio Happy Valley (sitios Cacawayan, Benolobay), Barrio Alegria (sitios Danao, Teres), Barrio Salvacion (sitios Canawayon, Maripa-caban, Gallerahan), and Barrio Mabuhay (sitios Maludbalud, Sohotan).""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	2214	May 16, 1959			To create and define new barrios within the municipality of San Isidro, Samar.	"[""Creation of eight barrios with specified sitios."", ""Effective upon approval of the Act.""]"		"[""Local Government"", ""Barangay"", ""Samar"", ""Municipality""]"	"[""Barrios"", ""Caglanipao"", ""San Roque"", ""Sabella"", ""Acedillo"", ""Happy Valley"", ""Alegria"", ""Salvacion"", ""Mabuhay"", ""San Isidro"", ""Province of Samar"", ""May 16, 1959""]"
+repacts:datasets/markdown/repacts/1959/ra_2229_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2229_1959.md	ra_2229_1959	An Act Converting the Pototan Emergency Hospital in the Municipality of Pototan, Province of Iloilo, into a General Hospital to be Known as the Pototan General Hospital	"**REPUBLIC ACT No. 2229**
+
+ **An Act Authorizing the President of the Philippines to Sell One Parcel of Land in the City of Manila Belonging to the National Government to the Rural Bankers Association of the Philippines**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** All provisions of law to the contrary notwithstanding, the President of the Philippines is hereby authorized to sell to the Rural Bankers Association of the Philippines, for the nominal price of one peso one parcel of land in the City of Manila owned by the National Government and described as follows:
+
+ > ""A parcel of land (Lot 2 of the consolidation-subdivisions plan being a portion of Lots 1 and 2, Block 18, of the Cadastral Survey of Manila, LRC (GLRO) Cadastral Record No. 114) situated in the District of Intramuros, City of Manila. Bounded on the NE., Points 3-6 by Lot 3 (proposed widening); on the SE., Points 6-1 by Lot 3 (proposed widening); on the SW., Points 1-2 by Lot 1 and on the NW., Point 2-3 by Lot 3 (proposed widening). Beginning at a point marked ""1"" on plan, being S. 41 47 W., 129.84 M. from B.L.L.M. No. 41, Manila; thence N. 32 34W., 76.90 M. to Point ""2""; thence N. 47 35 E., 15.83 M. to Point ""3""; thence S. 87 25 E., 4.00 M. to Point ""4""; thence S. 42 23 E., 70.12 M. to Point ""5""; thence S. 2 35 W., 4.00 M. to Point ""6""; thence S. 47 35 W., 28, 95 M. to Point of beginning; containing an area of one thousand nine hundred and two (1902,80) square meters and eighty (80) square decimeters.""
+
+ **Section 2.** The lot herein conveyed is subject to an open easement, two meters wide, measured from and along the southwestern boundary of said lot formed by a line drawn from Point 1 to Point 2, which area shall not be erected upon by grantee to allow passage for repairs and maintenance of the walls of Intramuros although the same may be used as an open alley or patio are for the lot conveyed. The said grantee shall not have access to the walls, bastions or gates or to any portion of said structures for its own private needs.
+
+ **Section 3.** This conveyance is made for the exclusive purpose of enabling the Rural Bankers Association of the Philippines to construct on the said land a permanent Bank Building approved by the National Planning Commission.
+
+ **Section 4.** The title to the land conveyed by this Act shall not be transferred by the Rural Bankers Association of the Philippines to another person without previous authorization by the President of the Philippines.
+
+ **Section 5.** In the event that Rural Bankers Association of the Philippines is dissolved or ceases for any reason to need the land, the said land shall ipso facto revert to the National Government without compensation: *Provided,* That the improvements thereon may be sold at public auction, and the proceeds thereof shall be used to liquidate any outstanding obligation incurred by the Association in the construction of the building: *Provided, further,* That the purchaser of the improvements shall be allowed to lease the said land from the Government at a reasonable rental.
+
+ **Section 6.** This Act shall take effect upon its approval.
+
+ Approved: May 28, 1959.
+"	success	Republic Act	This act converts the Pototan Emergency Hospital into the Pototan General Hospital, establishes that its operation and maintenance expenses are governed by Republic Act 1939, ensures continued funding by the National Government, and takes effect upon its approval.	"[{""title"": ""Section 1."", ""summary"": ""The Pototan Emergency Hospital in the Municipality of Pototan, Province of Iloilo, is converted into a general hospital to be known as the Pototan General Hospital.""}, {""title"": ""Section 2."", ""summary"": ""The expenses for the operation and maintenance shall be governed by the provisions of Republic Act Numbered One thousand nine hundred thirty-nine, otherwise known as the Hospital Financing Act; the present appropriation for its operation and maintenance shall continue to be borne by the National Government and shall be increased as conditions warrant.""}, {""title"": ""Section 3."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2215	May 16, 1959				"[""Conversion of the Pototan Emergency Hospital into the Pototan General Hospital"", ""Operation and maintenance expenses governed by RA 1939"", ""Funding for operation and maintenance provided by the National Government"", ""Act takes effect upon approval""]"		"[""Health"", ""Hospital"", ""Iloilo""]"	"[""Pototan"", ""General Hospital"", ""Hospital Financing Act"", ""National Government"", ""RA 1939""]"
+repacts:datasets/markdown/repacts/1959/ra_2230_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2230_1959.md	ra_2230_1959	An Act Changing the Name of the Barrio of Tambon in the Municipality of Alicia, Province of Zamboanga del Sur, to Barrio Tandiong Muslim	"**REPUBLIC ACT No. 2230**
+
+ **An Act Increasing the Salary of the Auditor General from Sixteen Thousand Pesos to Twenty-One Thousand Pesos Per Annum, by Further Amending Section One of Commonwealth Act Numbered Five Hundred Thirty-Two**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section one of Commonwealth Act Numbered Five hundred thirty-two, as amended by Republic Act Numbered Nine hundred four, is further amended to read as follows:
+
+ > ""Sec. 1. The Auditor General shall receive an annual salary of twenty-one thousand pesos.""
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act from date of approval to June thirty, nineteen hundred sixty, shall be taken from savings in the appropriations for the General Auditing Office for the current fiscal year and the fiscal year nineteen hundred fifty-nine to nineteen hundred sixty.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: May 28, 1959.
+"	success	Republic Act	This act changes the name of the barrio of Tambon to Barrio Tandiong Muslim.	"[{""title"": ""Section 1."", ""summary"": ""The name of the barrio of Tambon in the Municipality of Alicia, Province of Zamboanga del Sur, is changed to barrio Tandiong Muslim.""}, {""title"": ""Section 2."", ""summary"": ""This act shall take effect upon its approval.""}]"	2216	May 16, 1959			To rename the barrio of Tambon to Barrio Tandiong Muslim.	"[""The name of the barrio of Tambon is changed to barrio Tandiong Muslim."", ""The act takes effect upon its approval.""]"		"[""Republic Act"", ""Name Change"", ""Barangay"", ""Zamboanga del Sur"", ""Municipality of Alicia""]"	"[""Tambon"", ""Tandiong Muslim"", ""barrio"", ""Zamboanga del Sur"", ""Municipality of Alicia"", ""name change"", ""Republic Act 2216""]"

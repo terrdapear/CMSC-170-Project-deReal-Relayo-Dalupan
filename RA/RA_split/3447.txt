@@ -1,0 +1,244 @@
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There is hereby established, under the supervision of the Department of Education, a national high school in Barangay San Rafael I, City of San Jose Del Monte, Province of Bulacan to be known as San Rafael National High School.
+
+ **Section 2.** The Secretary of Education shall immediately include in the Departments program the operationalization of the San Rafael National High School, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 3.** The Secretary of Education shall formulate the rules and regulations implementing the provisions of this Act.
+
+ **Section 4.** This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ **VICENTE C. SOTTO III** President of the Senate
+
+ **GLORIA MACAPAGAL-ARROYO** Speaker of the House of Representatives
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on December 10, 2018 and February 6, 2019, respectively.
+
+ **MYRA MARIE D. VILLARICA** Secretary of the Senate
+
+ **DANTE ROBERTO P. MALING** Acting Secretary General House of Representatives
+
+ Approved: April 12, 2019
+
+ (Sgd.) **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	The act establishes San Rafael National High School in Bulacan, appropriates funds for its operation, mandates the Secretary of Education to include it in the Department’s program, formulate rules and regulations, and sets the effective date fifteen days after publication.	"[{""title"": ""Section 1"", ""summary"": ""Establishes San Rafael National High School under the supervision of the Department of Education.""}, {""title"": ""Section 2"", ""summary"": ""Mandates the Secretary of Education to include the school\u2019s operation and funding in the Department\u2019s program and the General Appropriations Act.""}, {""title"": ""Section 3"", ""summary"": ""Requires the Secretary of Education to formulate rules and regulations implementing the provisions of the Act.""}, {""title"": ""Section 4"", ""summary"": ""The Act takes effect fifteen days after its publication in the Official Gazette or a newspaper of general circulation.""}]"	11265	2019-04-12	"[{""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}, {""name"": ""GLORIA MACAPAGAL-ARROYO"", ""title"": ""Speaker of the House of Representatives""}]"		To establish a national high school in Barangay San Rafael I, City of San Jose Del Monte, Province of Bulacan and appropriate funds for its operation.	"[""Establishment of San Rafael National High School"", ""Appropriation of funds for its operation"", ""Mandate for the Secretary of Education to include it in the Department\u2019s program"", ""Formulation of rules and regulations implementing the Act"", ""Effective date fifteen days after publication""]"		"[""Education"", ""National High School"", ""Bulacan"", ""Department of Education""]"	"[""San Rafael National High School"", ""Department of Education"", ""General Appropriations Act"", ""Operationalization"", ""Rules and Regulations"", ""Effective Date""]"
+repacts:datasets/markdown/repacts/2019/ra_11266_2019.md	repacts	2019		datasets/markdown/repacts/2019/ra_11266_2019.md	ra_11266_2019	An Act Establishing an Elementary School in Sitio Cabagaayan, Barangay Sibulan, Toril District, Davao City to Be Known as the Cabagaayan Elementary School and Appropriating Funds Therefor	"**Seventeenth Congress Third Regular Session**
+
+ Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand eighteen.
+
+ **REPUBLIC ACT No. 11266**
+
+ An Act Establishing an Elementary School in Sitio Cabagaayan, Barangay Sibulan, Toril District, Davao City to Be Known as the Cabagaayan Elementary School and Appropriating Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There is hereby established, under the supervision of the Department of Education, an elementary school in Sitio Cabagaayan, Barangay Sibulan, Toril District, Davao City to be known as the Cabagaayan Elementary School.
+
+ **Section 2.** The Secretary of Education shall immediately include in the Departments program the operationalization of Cabagaayan Elementary School, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 3.** The Secretary of the Department of Education shall formulate the rules and regulations implementing the provisions of this Act.
+
+ **Section 4.** This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ **VICENTE C. SOTTO III** President of the Senate
+
+ **GLORIA MACAPAGAL-ARROYO** Speaker of the House of Representatives
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on December 10, 2018 and February 6, 2019, respectively
+
+ **MYRA MARIE D. VILLARICA** Secretary of the Senate
+
+ **DANTE ROBERTO P. MALING** Acting Secretary General House of Representatives
+
+ Approved: April 12, 2019
+
+ (Sgd.) **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	Establishes Cabagaayan Elementary School in Davao City and appropriates funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""Establishes an elementary school in Sitio Cabagaayan under DOE supervision.""}, {""title"": ""Section 2."", ""summary"": ""Secretary of Education to include the school's operationalization and funding in the annual General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""Secretary of the Department of Education to formulate rules and regulations implementing the provisions of this Act.""}, {""title"": ""Section 4."", ""summary"": ""Act takes effect fifteen (15) days after publication in the Official Gazette or a newspaper of general circulation.""}]"	11266	April 12, 2019			To establish an elementary school in Sitio Cabagaayan, Barangay Sibulan, Toril District, Davao City and appropriate funds for its operation.	"[""Establishment of Cabagaayan Elementary School"", ""Appropriation of funds for the school"", ""Operationalization under Department of Education"", ""Formulation of rules and regulations"", ""Effective date after publication""]"		"[""Education"", ""Elementary School"", ""Republic Act"", ""Davao City"", ""School Establishment""]"	"[""Cabagaayan Elementary School"", ""Sitio Cabagaayan"", ""Barangay Sibulan"", ""Toril District"", ""Davao City"", ""Department of Education"", ""General Appropriations Act"", ""Republic Act 11266""]"
+repacts:datasets/markdown/repacts/2019/ra_11267_2019.md	repacts	2019		datasets/markdown/repacts/2019/ra_11267_2019.md	ra_11267_2019	An Act Establishing an Integrated National School in Barangay Capuy, City of Sorsogon, Province of Sorsogon to Be Known as Capuy Integrated National School and Appropriating Funds Therefor	"**Seventeenth Congress Third Regular Session**
+
+ Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand eighteen.
+
+ **REPUBLIC ACT No. 11267**
+
+ An Act Establishing an Integrated National School in Barangay Capuy, City of Sorsogon, Province of Sorsogon to Be Known as Capuy Integrated National School and Appropriating Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.***Establishment of an Integrated National School.* - There is hereby established, under the supervision of the Department of Education, an integrated national school in Barangay Capuy, City of Sorsogon, Province of Sorsogon to be known as Capuy Integrated National School.
+
+ **Section 2.***Appropriations.* - The Secretary of Education shall immediately include in the Departments program the operationalization of the Capuy Integrated National School, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 3.***Implementation.* - The Secretary of Education shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 4.***Effectivity.* - This Act shall take effect fifteen (15) days after its publication in the Official Gazette.
+
+ Approved,
+
+ **VICENTE C. SOTTO III** President of the Senate
+
+ **GLORIA MACAPAGAL-ARROYO** Speaker of the House of Representatives
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on December 10, 2018 and February 6, 2019, respectively.
+
+ **MYRA MARIE D. VILLARICA** Secretary of the Senate
+
+ **DANTE ROBERTO P. MALING** Acting Secretary General House of Representatives
+
+ Approved: April 12, 2019
+
+ (Sgd.) **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	The Act establishes Capuy Integrated National School and appropriates funds for its operation.	"[{""title"": ""Section 1. Establishment of an Integrated National School"", ""summary"": ""Under the supervision of the Department of Education, an integrated national school is established in Barangay Capuy, City of Sorsogon, Province of Sorsogon, to be known as Capuy Integrated National School.""}, {""title"": ""Section 2. Appropriations"", ""summary"": ""The Secretary of Education shall include the operationalization of Capuy Integrated National School in the Department\u2019s program, with funding to be included in the annual General Appropriations Act.""}, {""title"": ""Section 3. Implementation"", ""summary"": ""The Secretary of Education shall issue rules and regulations necessary to carry out the purpose of this Act.""}, {""title"": ""Section 4. Effectivity"", ""summary"": ""This Act shall take effect fifteen (15) days after its publication in the Official Gazette.""}]"	11267	December 10, 2018			To establish an integrated national school in Barangay Capuy, City of Sorsogon, and appropriate funds for its operation.	"[""Establishment of the Capuy Integrated National School"", ""Appropriations for operationalization"", ""Implementation guidelines by Secretary of Education"", ""Effectivity after 15 days of publication""]"		"[""Education"", ""School"", ""Capuy Integrated National School"", ""Sorsogon""]"	"[""Integrated National School"", ""Capuy"", ""Sorsogon"", ""Appropriation"", ""Education Department""]"
+repacts:datasets/markdown/repacts/2019/ra_11268_2019.md	repacts	2019		datasets/markdown/repacts/2019/ra_11268_2019.md	ra_11268_2019	An Act Establishing a National High School in Barangay Ambiong, Municipality of La Trinidad, Province of Benguet to Be Known as Ambiong National High School and Appropriating Funds Therefor	"**Seventeenth Congress Third Regular Session**
+
+ Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand eighteen.
+
+ **REPUBLIC ACT No. 11268**
+
+ An Act Establishing a National High School in Barangay Ambiong, Municipality of La Trinidad, Province of Benguet to Be Known as Ambiong National High School and Appropriating Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There is hereby established, under the supervision of the Department of Education, a national high school in Barangay Ambiong, Municipality of La Trinidad, Province of Benguet to be known as Ambiong National High School.
+
+ **Section 2.** The Secretary of Education shall immediately include in the Departments program the operationalization of the Ambiong National High School, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 3.** The Secretary of Education shall formulate the rules and regulations implementing the provisions of this Act.
+
+ **Section 4.** This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ **VICENTE C. SOTTO III** President of the Senate
+
+ **GLORIA MACAPAGAL-ARROYO** Speaker of the House of Representatives
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on December 10, 2018 and February 6, 2019. respectively.
+
+ **MYRA MARIE D. VILLARICA** Secretary of the Senate
+
+ **DANTE ROBERTO P. MALING** Acting Secretary General House of Representatives
+
+ Approved: April 12, 2019
+
+ (Sgd.) **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	The Republic Act establishes Ambiong National High School in Barangay Ambiong, La Trinidad, Benguet, authorizes its operationalization and funding through the General Appropriations Act, mandates the Department of Education to formulate implementing rules, and provides for its effective date.	"[{""title"": ""Section 1"", ""summary"": ""Establishes Ambiong National High School under supervision of the Department of Education.""}, {""title"": ""Section 2"", ""summary"": ""Authorizes the Secretary of Education to include the operationalization of the school in the Department\u2019s program, with funding included in the annual General Appropriations Act.""}, {""title"": ""Section 3"", ""summary"": ""Mandates the Secretary of Education to formulate rules and regulations implementing the provisions of the Act.""}, {""title"": ""Section 4"", ""summary"": ""The Act takes effect fifteen (15) days after publication in the Official Gazette or a newspaper of general circulation.""}]"	11268	April 12, 2019			To establish a national high school in Barangay Ambiong, La Trinidad, Benguet, and allocate funds for its operation.	"[""Establishment of Ambiong National High School"", ""Operationalization and funding through the General Appropriations Act"", ""Implementation rules and regulations"", ""Effective date fifteen days post-publication""]"		"[""Education"", ""Benguet"", ""National High School"", ""Local Government""]"	"[""Ambiong"", ""National High School"", ""Department of Education"", ""General Appropriations Act"", ""Benguet"", ""Philippines""]"
+repacts:datasets/markdown/repacts/2019/ra_11269_2019.md	repacts	2019		datasets/markdown/repacts/2019/ra_11269_2019.md	ra_11269_2019	An Act Separating the Malabon National High School (MNHS) Concepcion Technical-Vocational Annex in Barangay Concepcion, City of Malabon, Metro Manila from the Malabon National High School, Converting It into an Independent National High School to Be Known as Concepcion Technical-Vocational School and Appropriating Funds Therefor	"**Seventeenth Congress Third Regular Session**
+
+ Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand eighteen.
+
+ **REPUBLIC ACT No. 11269**
+
+ An Act Separating the Malabon National High School (MNHS) Concepcion Technical-Vocational Annex in Barangay Concepcion, City of Malabon, Metro Manila from the Malabon National High School, Converting It into an Independent National High School to Be Known as Concepcion Technical-Vocational School and Appropriating Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The Malabon National High School (MNHS) Concepcion Technical-Vocational Annex in Barangay Concepcion, City of Malabon, Metro Manila is hereby separated from the Malabon National High School and converted into an independent national high school to be known as Concepcion Technical-Vocational School.
+
+ **Section 2.** All personnel, assets, Labilities and records of the Malabon National High School (MNHS) Concepcion Technical-Vocational Annex are hereby transferred to and absorbed by the Concepcion Technical-Vocational School.
+
+ **Section 3.** The Secretary of Education shall immediately include in the Departments program the operationalization of the Concepcion Technical-Vocational School, the initial funding of which shall be charged against the current years appropriation of the Malabon National High School (MNHS) Concepcion Technical-Vocational Annex. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.
+
+ **Section 4.** The Secretary of Education shall formulate the rules and regulations necessary to carry out the purpose of this Act within one hundred twenty (120) days after its effectivity.
+
+ **Section 5.** This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ **VICENTE C. SOTTO III** President of the Senate
+
+ **GLORIA MACAPAGAL-ARROYO** Speaker of the House of Representatives
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on December 10, 2018 and February 6, 2019, respectively.
+
+ **MYRA MARIE D. VILLARICA** Secretary of the Senate
+
+ **DANTE ROBERTO P. MALING** Acting Secretary General House of Representatives
+
+ Approved: April 12, 2019
+
+ (Sgd.) **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	The act separates the Concepcion Technical-Vocational Annex of Malabon National High School and converts it into an independent national high school named Concepcion Technical-Vocational School, allocating funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""Separates the Concepcion Technical-Vocational Annex from Malabon National High School and establishes it as an independent national high school named Concepcion Technical-Vocational School.""}, {""title"": ""Section 2."", ""summary"": ""Transfers all personnel, assets, liabilities, and records of the annex to the newly established Concepcion Technical-Vocational School.""}, {""title"": ""Section 3."", ""summary"": ""The Secretary of Education shall include the operationalization of the new school in the Department\u2019s program, funding it against current year appropriation and future General Appropriations Act.""}, {""title"": ""Section 4."", ""summary"": ""The Secretary of Education must formulate necessary rules and regulations within 120 days after the act\u2019s effectivity.""}, {""title"": ""Section 5."", ""summary"": ""The act takes effect 15 days after its publication in the Official Gazette or a newspaper of general circulation.""}]"	11269	April 12, 2019			To separate and elevate the Concepcion Technical-Vocational Annex into an independent national high school, ensuring its operationalization and funding.	"[""Separation of annex from MNHS"", ""Transfer of personnel, assets, liabilities, and records"", ""Funding through current year appropriation and future General Appropriations Act"", ""Formulation of rules within 120 days"", ""Effective 15 days after publication""]"		"[""Education"", ""School"", ""Malabon"", ""High School"", ""Vocational""]"	"[""Malabon National High School"", ""Concepcion Technical-Vocational School"", ""Separation"", ""Independent National High School"", ""Education"", ""School""]"
+repacts:datasets/markdown/repacts/2019/ra_11270_2019.md	repacts	2019		datasets/markdown/repacts/2019/ra_11270_2019.md	ra_11270_2019	An Act Converting the Camp Ofelia Elementary School in Barangay Lintangan, Municipality of Sibuco, Province of Zamboanga del Norte into an Integrated School to be Known as Lintangan Integrated School, and Appropriating Funds Therefor	"**Seventeenth Congress Third Regular Session**
+
+ Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand eighteen.
+
+ **REPUBLIC ACT No. 11270**
+
+ An Act Converting the Camp Ofelia Elementary School in Barangay Lintangan, Municipality of Sibuco, Province of Zamboanga del Norte into an Integrated School to be Known as Lintangan Integrated School, and Appropriating Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The Camp Ofelia Elementary School in Barangay Lintangan, Municipality of Sibuco, Province of Zamboanga del Norte is hereby converted into an integrated school to be known as Lintangan Integrated School.
+
+ **Section 2.** All personnel, assets, Liabilities, and records of the Camp Ofelia Elementary School are hereby transferred to and absorbed by the Lintangan Integrated School.
+
+ **Section 3.** The Secretary of Education shall immediately include in the Departments program the operationalization of the Lintangan Integrated School, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 4.** The Secretary of Education shall formulate the rules and regulations implementing the provisions of this Act within one hundred twenty (120) days after its effectivity.
+
+ **Section 5.** This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in any newspaper of general circulation.
+
+ Approved,
+
+ **VICENTE C. SOTTO III** President of the Senate
+
+ **GLORIA MACAPAGAL-ARROYO** Speaker of the House of Representatives
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on January 14, 2019 and February 6, 2019, respectively.
+
+ **MYRA MARIE D. VILLARICA** Secretary of the Senate
+
+ **DANTE ROBERTO P. MALING** Acting Secretary General House of Representatives
+
+ Approved: April 12, 2019
+
+ (Sgd.) **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Education	The Republic Act 11270 converts the Camp Ofelia Elementary School into Lintangan Integrated School, transferring all personnel, assets, liabilities, and records, and appropriates funds for its operation.	"[{""title"": ""Section 1"", ""summary"": ""The Camp Ofelia Elementary School in Barangay Lintangan, Municipality of Sibuco, Province of Zamboanga del Norte is hereby converted into an integrated school to be known as Lintangan Integrated School.""}, {""title"": ""Section 2"", ""summary"": ""All personnel, assets, liabilities, and records of the Camp Ofelia Elementary School are hereby transferred to and absorbed by the Lintangan Integrated School.""}, {""title"": ""Section 3"", ""summary"": ""The Secretary of Education shall immediately include in the Department\u2019s program the operationalization of the Lintangan Integrated School, with funding included in the annual General Appropriations Act.""}, {""title"": ""Section 4"", ""summary"": ""The Secretary of Education shall formulate the rules and regulations implementing the provisions of this Act within one hundred twenty (120) days after its effectivity.""}, {""title"": ""Section 5"", ""summary"": ""This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in any newspaper of general circulation.""}]"	11270	April 12, 2019	"[{""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}, {""name"": ""GLORIA MACAPAGAL-ARROYO"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""MYRA MARIE D. VILLARICA"", ""title"": ""Secretary of the Senate""}, {""name"": ""DANTE ROBERTO P. MALING"", ""title"": ""Acting Secretary General House of Representatives""}]"	To convert Camp Ofelia Elementary School into Lintangan Integrated School and provide necessary funding for its operation.	"[""Conversion of Camp Ofelia Elementary School into Lintangan Integrated School."", ""Transfer of all personnel, assets, liabilities, and records to the new school."", ""Inclusion of the school\u2019s operational funding in the General Appropriations Act."", ""Formulation of rules and regulations within 120 days of effectivity."", ""Effectivity 15 days after publication in the Official Gazette or general circulation newspaper.""]"		"[""Education"", ""School"", ""Integrated School"", ""Republic Act""]"	"[""Camp Ofelia Elementary School"", ""Lintangan Integrated School"", ""Zamboanga del Norte"", ""Republic Act 11270"", ""Education"", ""Integrated school""]"
+repacts:datasets/markdown/repacts/2019/ra_11271_2019.md	repacts	2019		datasets/markdown/repacts/2019/ra_11271_2019.md	ra_11271_2019	An Act Establishing a National High School in Barangay Calube, Municipality of Sultan Naga Dimaporo, Province of Lanao del Norte to be Known as Calube National High School, and Appropriating Funds Therefor	"**Seventeenth Congress Third Regular Session**
+
+ Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand eighteen.
+
+ **REPUBLIC ACT No. 11271**
+
+ An Act Establishing a National High School in Barangay Calube, Municipality of Sultan Naga Dimaporo, Province of Lanao del Norte to be Known as Calube National High School, and Appropriating Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There is hereby established, under the supervision of the Department of Education, a national high school in Barangay Calube, Municipality of Sultan Naga Dimaporo, Province of Lanao del Norte to be known as Calube National High School.
+
+ **Section 2.** The Secretary of Education shall immediately include in the Departments program the operationalization of the Calube National High School, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 3.** The Secretary of Education shall formulate the rules and regulations implementing the provisions of this Act within one hundred twenty (120) days after its effectivity.
+
+ **Section 4.** This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ **VICENTE C. SOTTO III** President of the Senate
+
+ **GLORIA MACAPAGAL-ARROYO** Speaker of the House of Representatives
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on January 14, 2019 and February 6, 2019, respectively.
+
+ **MYRA MARIE D. VILLARICA** Secretary of the Senate
+
+ **DANTE ROBERTO P. MALING** Acting Secretary General House of Representatives
+
+ Approved: April 12, 2019
+
+ (Sgd.) **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Education	Establishes Calube National High School in Barangay Calube, Sultan Naga Dimaporo, Lanao del Norte, and appropriates funds for its operation.	"[{""title"": ""Section 1"", ""summary"": ""There is hereby established, under the supervision of the Department of Education, a national high school in Barangay Calube, Municipality of Sultan Naga Dimaporo, Province of Lanao del Norte to be known as Calube National High School.""}, {""title"": ""Section 2"", ""summary"": ""The Secretary of Education shall immediately include in the Department's program the operationalization of the Calube National High School, the funding of which shall be included in the annual General Appropriations Act.""}, {""title"": ""Section 3"", ""summary"": ""The Secretary of Education shall formulate the rules and regulations implementing the provisions of this Act within one hundred twenty (120) days after its effectivity.""}, {""title"": ""Section 4"", ""summary"": ""This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.""}]"	11271	2019-04-12	"[{""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}, {""name"": ""GLORIA MACAPAGAL-ARROYO"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""MYRA MARIE D. VILLARICA"", ""title"": ""Secretary of the Senate""}, {""name"": ""DANTE ROBERTO P. MALING"", ""title"": ""Acting Secretary General House of Representatives""}]"	Establish a national high school and provide funding for its operation.	"[""Establishes Calube National High School"", ""Provides operationalization under the Department of Education"", ""Funds included in the General Appropriations Act"", ""Rules and regulations formulated within 120 days"", ""Effectivity after 15 days of publication""]"		"[""Education"", ""High School"", ""Lanao del Norte"", ""National High School""]"	"[""National High School"", ""Education"", ""Calube"", ""Sultan Naga Dimaporo"", ""Lanao del Norte"", ""Funding"", ""Operationalization""]"
+repacts:datasets/markdown/repacts/2019/ra_11272_2019.md	repacts	2019		datasets/markdown/repacts/2019/ra_11272_2019.md	ra_11272_2019	An Act Establishing a Specialty Hospital in the City of San Jose Del Monte. Province of Bulacan, to be Known as St. Bernadette Children and Maternity Hospital, and Appropriating Funds Therefor	"**Seventeenth Congress Third Regular Session**
+
+ Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand eighteen.
+
+ **REPUBLIC ACT No. 11272**
+
+ An Act Establishing a Specialty Hospital in the City of San Jose Del Monte. Province of Bulacan, to be Known as St. Bernadette Children and Maternity Hospital, and Appropriating Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*

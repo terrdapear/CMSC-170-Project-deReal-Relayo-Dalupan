@@ -1,0 +1,158 @@
+
+ **Section 2.** Taxes remaining unpaid after said date shall not be covered by the provisions of this Act.
+
+ **Section 3.** Payments already made in the concept of interest, and/or penalties and surcharges due on account of such inheritance and estate taxes shall not be reimbursed but shall be applied to the payment of the basic tax.
+
+ **Section 4.** Nothing in this Act shall be construed to mean the condonation of any tax of whatever nature.
+
+ **Section 5.** This Act shall take effect upon its approval.
+
+ Approved: June 10, 1955.
+"	success	Public Health	An act establishing the terms of appointment for hospital residents in government training hospitals, setting limits on tenure, and providing for the Secretary of Health to designate training hospitals.	"[{""title"": ""Section 1."", ""summary"": ""Specifies that physicians appointed to non\u2011senior residency positions must be licensed, appointable for one\u2011year terms renewable annually, but the total tenure cannot exceed three years, counting any prior residency service in a government training hospital.""}, {""title"": ""Section 2."", ""summary"": ""Defines the term \""hospital residency\"" to include employment requiring use of medical knowledge in fields such as surgery, internal medicine, obstetrics, pediatrics, ENT, pathology, radiology, anesthesiology, and allied laboratory work.""}, {""title"": ""Section 3."", ""summary"": ""Exempts physicians in the voluntary group or serving in government hospitals without compensation from the provisions of Section 1.""}, {""title"": ""Section 4."", ""summary"": ""Empowers the Secretary of Health to designate medical training hospitals under the Department.""}, {""title"": ""Section 5."", ""summary"": ""Repeals all acts or parts thereof inconsistent with this Act.""}, {""title"": ""Section 6."", ""summary"": ""Stipulates that the Act shall take effect upon approval.""}]"	1243	June 10, 1955			To regulate the tenure and appointment conditions of hospital residents in government training hospitals, ensuring licensed physicians are employed under defined limits.	"[""Licensed physicians only"", ""One\u2011year renewable terms"", ""Maximum three\u2011year tenure"", ""Prior residency counted"", ""Exemptions for volunteers and uncompensated physicians"", ""Secretary\u2019s designation authority"", ""Repeal of contradictory laws"", ""Effectivity upon approval""]"		"[""Health"", ""Medical"", ""Hospital Residency"", ""Tenure"", ""Government Training Hospitals""]"	"[""hospital residency"", ""tenure"", ""Department of Health"", ""physician licensing"", ""training hospitals""]"
+repacts:datasets/markdown/repacts/1955/ra_1254_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1254_1955.md	ra_1254_1955	"An Act Amending Paragraph (c), Section One, Part B, Title III of the ""Foreign Service Act of the Philippines"""	"**REPUBLIC ACT No. 1254**
+
+ **An Act to Amend Sub-Items One to Sixteen of Item (d) for the Province of Samar, Sub-Section (e), Title B, Section One, Republic Act Numbered Nine Hundred and Twenty, Otherwise Known as Public Works Act of Nineteen Hundred and Fifty-Three**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Sub-items one to sixteen of Item (d) for the Province of Samar, sub-section (e), Title B, section one of Republic Act Numbered Nine hundred and twenty, otherwise known as the Public Works Act of nineteen hundred and fifty-three, are hereby amended to read as follows:
+
+ | ""(d) For the construction of the municipal building of San Antonio | ₱25,000.00 |
+| --- | --- |
+| ""(d-1) For the completion of the municipal building of Catubig | 8,000.00 |
+| ""(d-2) For the completion of the municipal building of Palapag | 8,000.00 |
+| ""(d-3) For the improvement of the 6-room academic building of the Central Elementary School of Pambujan | 5,000.00 |
+| ""(d-4) For the completion of the municipal building of Las Navas | 4,000.00"" |
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 10, 1955.
+"	success	Republic Act	This act amends the Foreign Service Act to provide exemptions from written and oral examinations for certain qualified personnel who have completed specified training programs or have served continuously in positions of responsibility for designated periods, thereby facilitating their eligibility as Foreign Affairs Officers.	"[{""title"": ""Section 1."", ""summary"": ""Amends paragraph (c) of the Foreign Service Act to grant exam exemptions to individuals who have completed the Foreign Service Training Program in the U.S., have rendered continuous satisfactory service for at least five years, or have met certain service thresholds in the Department or Foreign Service.""}, {""title"": ""Section 2."", ""summary"": ""Specifies that the act shall take effect upon its approval.""}]"	1244	June 10, 1955			To modify the Foreign Service Act by establishing criteria for exemption from examinations, thereby recognizing and rewarding experience and training among potential Foreign Affairs Officers.	"[""Exemption from written and oral exams for those who completed the U.S. Foreign Service Training Program and have at least five years of continuous service.""]"	Foreign Service Act of the Philippines (RA 708) – Paragraph (c), Section One, Part B, Title III	"[""Foreign Service Act"", ""Exemption"", ""Personnel"", ""Legislative amendment""]"	"[""foreign service"", ""exam exemption"", ""training program"", ""service"", ""eligibility""]"
+repacts:datasets/markdown/repacts/1955/ra_1255_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1255_1955.md	ra_1255_1955	An Act Amending Section Twenty-Two Hundred and Nineteen and One-Half of the Revised Administrative Code and for Other Purposes	"**REPUBLIC ACT No. 1255**
+
+ **An Act to Change the Name of the Municipality of Lucena, Province of Iloilo, to that of ""New Lucena""**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Municipality of Lucena, Province of Iloilo, is changed to that of ""New Lucena"".
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 10, 1955.
+"	success	Republic Act	Republic Act No. 1245 amends Section 2219 of the Revised Administrative Code to establish the structure, election procedures, term limits, duties, and powers of barrio councils, thereby formalizing local governance at the barrio level.	"[{""title"": ""Section 1."", ""summary"": ""Amends Section 2219 of the Revised Administrative Code to define the composition of barrio councils, election procedures, term limits, compensation, and the powers and duties of council members.""}, {""title"": ""Section 2."", ""summary"": ""Specifies that the Act takes effect upon its approval on June 10, 1955.""}]"	1245	June 10, 1955			To amend the Revised Administrative Code by establishing barrio councils, outlining their election, composition, duties, and term limits, thereby strengthening local governance.	"[""Establishment of barrio council structure"", ""Election of council members by qualified voters"", ""Annual election schedule on the third Tuesday of January"", ""Term limits of one year with a maximum of four consecutive terms"", ""No compensation for council members"", ""Powers to promulgate resolutions and manage barrio funds"", ""Duties including representation, budgeting, public education, and cooperation with higher government""]"	Section Twenty-Two Hundred and Nineteen and One-Half of the Revised Administrative Code	"[""Revised Administrative Code"", ""Barrio Council"", ""Local Governance"", ""Philippines"", ""1955""]"	"[""barrio council"", ""election"", ""term limits"", ""local government"", ""Revised Administrative Code""]"
+repacts:datasets/markdown/repacts/1955/ra_1256_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1256_1955.md	ra_1256_1955	An Act Changing the Name of the Municipality of Concepcion, Province of Ilocos Sur, to Gregorio Del Pilar	"**REPUBLIC ACT No. 1256**
+
+ **An Act Changing the Name of Manuguit Street, a National Highway in the City of Manila, to Jose Abad Santos Street**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Manuguit Street, a national highway in the City of Manila, shall hereafter be known as Jose Abad Santos Street.
+
+ **Section 2.** This Act take effect upon its approval.
+
+ Approved: June 10, 1955.
+"	success	Republic Act	This act changes the name of the Municipality of Concepcion in Ilocos Sur to Gregorio del Pilar.	"[{""title"": ""Section 1"", ""summary"": ""The name of the Municipality of Concepcion, Province of Ilocos Sur, is hereby changed to Gregorio del Pilar.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	1246	June 10, 1955			To rename the municipality of Concepcion to Gregorio del Pilar.	"[""The name of the Municipality of Concepcion, Province of Ilocos Sur, is changed to Gregorio del Pilar.""]"		"[""municipality"", ""name change""]"	"[""municipality"", ""Concepcion"", ""Gregorio Del Pilar"", ""Ilocos Sur"", ""name change"", ""Republic Act""]"
+repacts:datasets/markdown/repacts/1955/ra_1257_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1257_1955.md	ra_1257_1955	An Act Amending Republic Act Numbered Eight Hundred Thirty-Six, and for Other Purposes	"**REPUBLIC ACT No. 1257**
+
+ **An Act Changing the Name of San Fernando Diversion Road in the Municipality of San Fernando, Province of Pampanga, to Jose Abad Santos Boulevard**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of San Fernando Diversion Road in the Municipality of San Fernando, Province of Pampanga, is hereby changed to Jose Abad Santos Boulevard.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 10, 1955.
+"	success	Legislation	Amends RA 836 to update the allocation of educational funds, bidding procedures, and construction requirements for school facilities.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 3 of RA 836 regarding the distribution of annual education funds to congressional districts based on the number of elementary school children not housed in permanent facilities.""}, {""title"": ""Section 2"", ""summary"": ""Amends Section 4 of RA 836 to require public bidding for projects of \u20b14,000 or more and to give preference to Parent-Teacher Associations in construction and labor.""}, {""title"": ""Section 3"", ""summary"": ""Amends Section 5 of RA 836 to cap the engineering surcharge at two percent of the actual project cost.""}, {""title"": ""Section 4"", ""summary"": ""Amends the policy for small projects under \u20b14,000, allowing PTAs to furnish materials and pre\u2011fabricated parts while labor remains free.""}, {""title"": ""Section 5"", ""summary"": ""Amends Section 6 of RA 836 to specify that buildings must be erected on land owned by the municipality or city, or donated/purchased for school sites.""}, {""title"": ""Section 6"", ""summary"": ""Replaces the term \""province and city\"" with \""Congressional district\"" for apportionment purposes in RA 836.""}, {""title"": ""Section 7"", ""summary"": ""Appropriates \u20b140 million from the National Treasury for the implementation of the amended provisions of RA 836.""}]"	1247				To amend RA 836 for improved allocation and execution of school building projects.	"[""Amendment of RA 836 Section 3 allocation formula"", ""Bidding requirement for projects \u2265\u20b14,000"", ""Engineering surcharge limit at 2%"", ""Parent-Teacher Association roles in small projects"", ""Construction site ownership requirements"", ""Appropriation of \u20b140 million""]"	Republic Act No. 836	"[""Education"", ""School Buildings"", ""Funding"", ""Public Works"", ""Parent-Teacher Association""]"	"[""RA 1247"", ""RA 836"", ""education funding"", ""school construction"", ""bidding"", ""PTA"", ""Congressional district""]"
+repacts:datasets/markdown/repacts/1955/ra_1258_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1258_1955.md	ra_1258_1955	An Act to Create the Municipality of Upi in the Province of Cotabato	"**REPUBLIC ACT No. 1258**
+
+ **An Act to Change the Name of the Barrio of Libertad, Formerly Known as Barrio Umabay Exterior, Municipality of Mobo, Province of Masbate, to San Gregorio**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** In recognition of the eminent and patriotic services rendered by the late Gregorio Castillo, the name of the barrio of Libertad, Province of Masbate, is changed to San Gregorio.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 10, 1955.
+"	success	Legislative Act	Republic Act No. 1248 establishes the Municipality of Upi in Cotabato by separating the barrio of Upi from the Municipality of Dinaig and appointing its first municipal officials.	"[{""title"": ""Section 1"", ""summary"": ""Separates the barrio of Upi from the Municipality of Dinaig and constitutes it as the Municipality of Upi.""}, {""title"": ""Section 2"", ""summary"": ""The President of the Philippines shall appoint the first municipal mayor, vice\u2011mayor, and councilors until they are elected.""}, {""title"": ""Section 3"", ""summary"": ""The Act shall take effect upon its approval.""}]"	1248	June 10, 1955			To create the Municipality of Upi in the Province of Cotabato.	"[""Constitution of the Municipality of Upi"", ""Appointment of initial municipal officials"", ""Effectivity upon approval""]"		"[""municipality"", ""local government"", ""cotabato""]"	"[""municipality creation"", ""UPI"", ""Cotabato"", ""local government charter"", ""Republic Act 1248""]"
+repacts:datasets/markdown/repacts/1955/ra_1259_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1259_1955.md	ra_1259_1955	An Act Changing the Name of the Municipality of Moron, Province of Bataan, to Morong	"**REPUBLIC ACT No. 1259**
+
+ **An Act to Change the Name of Barrio Bugsayon, Municipality of Masbate, Province of Masbate, to Barrio B. Titong**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** In recognition of the eminent and patriotic services of the late Benigno Titong, the name of Barrio Bugsayon, Municipality of Masbate, Province of Masbate, is changed to barrio B. Titong.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 10, 1955.
+"	success	Republic Act	An act to change the name of the municipality of Moron in Bataan to Morong.	"[{""title"": ""Section 1"", ""summary"": ""The name of the Municipality of Moron, Province of Bataan, is hereby changed to Morong.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	RA No. 1249	June 10, 1955			To change the name of a municipality in Bataan.	"[""The municipality of Moron, Bataan is renamed to Morong."", ""The act takes effect upon approval.""]"		"[""Municipality"", ""Name change"", ""Bataan"", ""Republic Act""]"	"[""Moron"", ""Morong"", ""Municipality"", ""Bataan"", ""Republic Act""]"
+repacts:datasets/markdown/repacts/1955/ra_1260_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1260_1955.md	ra_1260_1955	An Act Changing the Name of the Municipality of Moron, Province of Bataan, to Morong	"**REPUBLIC ACT No. 1260**
+
+ **An Act Changing the Name of Visita Street in the District of Paco, City of Manila to Burgos Street**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Visita Street in the District of Paco, City of Manila, is hereby changed to Burgos Street.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 10, 1955.
+"	success	Republic Act	This act changes the name of the municipality of Moron, Bataan, to Morong, and also transfers the seat of the municipality of Sto. Tomas, Pampanga, from Barrio San Matias to Barrio Sto. Tomas.	"[{""title"": ""Section 1."", ""summary"": ""The seat of the Municipality of Sto. Tomas, Province of Pampanga, is hereby transferred from Barrio San Matias to Barrio Sto. Tomas. The municipal government shall occupy the site and building it formerly occupied before the said municipality was annexed to the Municipality of San Fernando in the same province.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	1250	June 10, 1955			To change the name of the municipality of Moron, Bataan, to Morong.	"[""Changes the name of the municipality of Moron, Bataan, to Morong."", ""Transfers the seat of the municipality of Sto. Tomas, Pampanga, from Barrio San Matias to Barrio Sto. Tomas.""]"		"[""Name change"", ""Municipality""]"	"[""Moron"", ""Morong"", ""Bataan"", ""Sto. Tomas"", ""Pampanga""]"
+repacts:datasets/markdown/repacts/1955/ra_1261_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1261_1955.md	ra_1261_1955	"An Act Amending Sub-Items (g), (i) and (j) of Item 37, Subsection (e), Title B, and Item 55, Group I, Subsection (a), Title G, of Section 1, Republic Act Numbered Nine Hundred and Twenty, Entitled ""An Act Appropriating Funds for Public Works"""	"**REPUBLIC ACT No. 1261**
+
+ **An Act Changing the Name of the Municipality of Oteiza, Province of Surigao, to Marihatag**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Municipality of Oteiza in the Province of Surigao is hereby changed to Marihatag.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 10, 1955.
+"	success	Republic Act	This act amends specific sub-items of Republic Act No. 920 to allocate funds for construction and repair of public works in various locations.	"[{""title"": ""Section 1."", ""summary"": ""Amendment to sub-items (g), (i), (j) of Item 37, Subsection (e), Title B.""}, {""title"": ""Section 2."", ""summary"": ""Amendment to Item 55, Group I, Subsection (a), Title G.""}, {""title"": ""Section 3."", ""summary"": ""Effectivity clause stating the act takes effect upon approval.""}]"	1251	June 10, 1955			To amend the appropriation allocations in Republic Act No. 920 for specific public works projects.	"[""Amendment to sub-items (g), (i), (j) allocating \u20b110,000.00 each for construction/repair of Barrio Cansayang Elementary School and municipal building site in Siaton, and \u20b15,000.00 for repair of Palimpinon-Caidyocan Road in Valencia."", ""Amendment to Item 55 allocating \u20b115,000.00 for Liloan feeder road in Maria, Negros Oriental.""]"	Republic Act No. 920	"[""public works"", ""appropriation"", ""amendment""]"	"[""construction"", ""repair"", ""road"", ""school"", ""municipal building""]"
+repacts:datasets/markdown/repacts/1955/ra_1262_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1262_1955.md	ra_1262_1955	An Act to Amend Certain Sections of the Pasture Land Act, by Requiring Persons Leasing or Using Public Land for Pasture to Put Up at Least One Head of Large Cattle Belonging to the Lessee or Permittee for Every Five Hectares Thereof, and Providing Additional Penalty for the Violations of Said Act	"**REPUBLIC ACT No. 1262**
+
+ **An Act Providing for the Supply of Data and Publications by the Various Offices and Branches of the Government and Government-Owned or Controlled Corporations to the Legislative Reference Division of Each House of Congress by Further Amending the First Paragraph of Section Sixteen Hundred and Ninety-Two of the Administrative Code, as Amended**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The first paragraph of section sixteen hundred and ninety-two of Act Numbered Twenty-seven hundred and eleven, as amended, is further amended to read as follows:
+
+ > ""Sec. 1692. *Data and documents to be supplied to Bureau of Public Libraries and to legislative reference division of each House of Congress.* The various Departments, Bureaus, Offices, and branches of the government, including the provinces and municipalities, and government-owned or controlled corporations, shall furnish without charge to the Director of Public Libraries and to the legislative reference division of each House of Congress all data or information that may be required in the performance of the functions of said institutions and it shall be obligatory on the part of the government office, agency or government-owned or controlled corporation ordering the printing of any publication to deliver to the Bureau of Public Libraries at least two hundred copies of all printed reports or documents of any kind published at the instance of said government office, agency or corporation and to each of the said legislative reference divisions three copies of such of said printed reports or documents as are classified as nonsalable.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 10, 1955.
+"	success	Republic Act	This act amends Commonwealth Act 452 (Pasture Land Act) by requiring leaseholders to deposit a bond and to maintain at least one head of large cattle per five hectares of pasture land. It also imposes fines, imprisonment, and automatic cancellation of leases for non‑compliance.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 8 of Commonwealth Act 452 to require applicants to deposit a bond with the Director of Forestry and to put up at least one head of large cattle per five hectares of pasture land, with penalties for non\u2011compliance.""}, {""title"": ""Section 2"", ""summary"": ""Amends Section 11 of Commonwealth Act 452 to impose fines or imprisonment for grazing without a lease or permit, hold corporate executives criminally liable, and mandate automatic cancellation of leases upon violation.""}, {""title"": ""Section 3"", ""summary"": ""States that the act takes effect upon approval.""}]"	1252	June 10, 1955			To strengthen enforcement of the Pasture Land Act by requiring financial guarantees and livestock requirements, and to impose penalties for violations.	"[""Deposit bond requirement with the Director of Forestry"", ""Bond amount and conditions for exceeding two hundred pesos"", ""Requirement to put up at least one head of large cattle per five hectares"", ""Automatic cancellation of leases for non\u2011compliance"", ""Fine of 1,000\u20132,000 pesos or imprisonment up to six months for unauthorized grazing"", ""Corporate executive liability"", ""Automatic cancellation upon violation""]"	Amendment to Sections 8 and 11 of Commonwealth Act 452 (Pasture Land Act)	"[""Republic Act"", ""Pasture Land Act"", ""Lease"", ""Bond"", ""Cattle""]"	"[""pasture"", ""land"", ""lease"", ""permit"", ""bond"", ""cattle"", ""agriculture"", ""fine"", ""penalty"", ""government"", ""grazing""]"
+repacts:datasets/markdown/repacts/1955/ra_1263_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1263_1955.md	ra_1263_1955	An Act Condoning the Payment of Interest, Penalties and Surcharges on Estate and Inheritance Taxes Due from the Estate of Veterans, Guerrillas or Victims of Japanese Atrocities Who Died During the Japanese Occupation Subject to Certain Conditions and for Other Purposes	"**REPUBLIC ACT No. 1263**
+
+ **An Act Changing the Name of Mindanao Street in the City of Cagayan De Oro to Tiano Brothers Street**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Mindanao Street in the City of Cagayan de Oro is hereby changed to Tiano Brothers Street.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 10, 1955.
+"	success	Republic Act	This Act waives interest, penalties and surcharges on estate and inheritance taxes owed by veterans, guerrillas, and victims of Japanese atrocities who died during the Japanese occupation, provided the basic tax is paid by December 31, 1955.	"[{""title"": ""Section 1."", ""summary"": ""Waives interest, penalties and surcharges on estate and inheritance taxes from the estate of eligible veterans, guerrillas, or victims of Japanese atrocities, provided the basic tax is paid by December 31, 1955.""}, {""title"": ""Section 2."", ""summary"": ""States that taxes remaining unpaid after December 31, 1955 are not covered by this Act.""}, {""title"": ""Section 3."", ""summary"": ""Payments already made toward interest, penalties and surcharges will be applied to the basic tax and not reimbursed.""}, {""title"": ""Section 4."", ""summary"": ""Clarifies that this Act does not condone any other type of tax.""}, {""title"": ""Section 5."", ""summary"": ""Specifies that the Act takes effect upon approval.""}]"	1253	June 10, 1955			To provide relief for veterans, guerrillas, and victims of Japanese atrocities by condoning interest, penalties and surcharges on estate and inheritance taxes, subject to payment of the basic tax.	"[""Condonation of interest, penalties and surcharges on estate and inheritance taxes for eligible veterans, guerrillas and victims of Japanese atrocities"", ""Basic tax must be paid by December 31, 1955"", ""Unpaid taxes after that date are not covered"", ""Payments already made are applied to the basic tax"", ""No reimbursement for these payments"", ""No other taxes are condoned""]"	National Internal Revenue Code	"[""tax law"", ""estate tax"", ""inheritance tax"", ""veterans"", ""war victims""]"	"[""condonation"", ""interest"", ""penalties"", ""surcharges"", ""estate tax"", ""inheritance tax"", ""Japanese occupation"", ""veterans"", ""guerrillas"", ""victims""]"
+repacts:datasets/markdown/repacts/1955/ra_1264_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1264_1955.md	ra_1264_1955	An Act to Amend Sub-Items One to Sixteen of Item (d) for the Province of Samar, Sub-Section (e), Title B, Section One, Republic Act Numbered Nine Hundred and Twenty, Otherwise Known as Public Works Act of Nineteen Hundred and Fifty-Three	"**REPUBLIC ACT No. 1264**
+
+ **An Act Constituting the Sub-Province of Siquijor into a Separate, Independent and Regular Highway Engineering District, Amending for the Purpose Act Numbered Thirty-One Hundred Forty-Three**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Act Numbered Thirty-one hundred forty-three is amended by adding after section five thereof a new section, to be known as section 5-A, which shall read as follows:
+
+ > ""Sec. 5-A. Within thirty days after the approval of this amendatory Act, the Sub-province of Siquijor shall be constituted and organized into a separate, independent and regular highway engineering district similar to existing engineering districts, for which a district engineer shall be assigned in accordance with laws rules and regulations applicable thereto.""
+
+ **Section 2.** The title of the said Act is amended to read as follows:
+
+ > ""An Act granting to the Sub-province of Siquijor the right to elect a member to represent the interests of the sub-province in the provincial board of Oriental Negros, and constituting said sub-province into a separate, independent and regular highway engineering district.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 10, 1955.
+"	success	Public Works Amendment	Amends specific construction and improvement items under Republic Act 920 for the Province of Samar to reflect updated funding allocations.	"[{""title"": ""Section 1"", ""summary"": ""Amendments to sub-items (d) through (d-4) specifying construction and improvement projects.""}, {""title"": ""Section 2"", ""summary"": ""Act takes effect upon approval.""}]"	1254	June 10, 1955			To update funding allocations for public works projects in Samar.	"[""Amendment to sub-item (d) for the construction of the municipal building of San Antonio"", ""Amendment to sub-item (d-1) for the completion of the municipal building of Catubig"", ""Amendment to sub-item (d-2) for the completion of the municipal building of Palapag"", ""Amendment to sub-item (d-3) for the improvement of the 6-room academic building of the Central Elementary School of Pambujan"", ""Amendment to sub-item (d-4) for the completion of the municipal building of Las Navas""]"	Republic Act No. 920 (Public Works Act of 1953)	"[""Public Works"", ""Samar"", ""Amendment"", ""Republic Act 1254""]"	"[""sub-items"", ""municipal building"", ""construction"", ""improvement"", ""Samar"", ""Public Works Act"", ""Republic Act 920""]"

@@ -1,0 +1,159 @@
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 20, 1953.
+"	success	Republic Act	This Act criminalizes the forced entry or occupation of public agricultural lands in the Philippines, establishes penalties, and imposes corporate liability.	"[{""title"": ""Section 1"", ""summary"": ""Prohibits any person, corporation or association from forcibly entering or occupying public agricultural lands, including lands granted under the Public Land Act, and prohibits inducing others to commit such acts.""}, {""title"": ""Section 2"", ""summary"": ""Mandates that criminal action for violations be instituted within one year from the time the cause of action arises.""}, {""title"": ""Section 3"", ""summary"": ""Sets fines up to one thousand pesos or imprisonment up to one year, or both, and allows subsidiary imprisonment for insolvent offenders. Corporations or associations are held criminally liable through their leaders.""}, {""title"": ""Section 4"", ""summary"": ""The Act takes effect upon approval.""}]"	947	June 20, 1953			To protect public agricultural lands from unlawful forced occupation and ensure enforcement of penalties.	"[""Prohibition of forced entry or occupation of public agricultural lands"", ""Criminal penalties of fines and imprisonment"", ""Time limit of one year for instituting criminal action"", ""Corporate and managerial liability"", ""Subsidiary imprisonment for insolvent offenders""]"	Public Land Act	"[""land"", ""agriculture"", ""public lands"", ""criminal law""]"	"[""public agricultural land"", ""forced occupation"", ""penalties"", ""criminal action"", ""corporate liability""]"
+repacts:datasets/markdown/repacts/1953/ra_956_1953.md	repacts	1953		datasets/markdown/repacts/1953/ra_956_1953.md	ra_956_1953	AN ACT APPROPRIATING FUNDS TO CARRY OUT THE PURPOSES OF VARIOUS ENABLING ACTS, AND FOR OTHER PURPOSES.	"**[ REPUBLIC ACT NO. 956, June 20, 1953 ]**
+
+ AN ACT TO AMEND ITEM NUMBERED TWENTY-TWO, UNDER ""BATANGAS"", SUBSECTION (a), HEADING ""A. MISCELLANEOUS,"" SECTION ONE, OF REPUBLIC ACT NUMBERED SIX HUNDRED AND SEVENTY.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Item numbered twenty-two, under ""Batangas,"" subsection (a), heading ""A. Miscellaneous,"" section one of Republic Act Numbered Six hundred and seventy, is amended to read as follows:
+
+ | ""22. Repair of Tala Elementary School Building, Nasugbu | P500.00"" |  |
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 20, 1953.
+"	success	Republic Act	This act appropriates ₱6,898,000.00 from the Philippine Treasury to carry out the provisions of Republic Acts No. 731, 775, and 807, and for other specified purposes such as the establishment of a National Indigent Children’s Hospital, construction of the North General Hospital Building, nationalization and maintenance of trade and agricultural schools, and conversion of Bukidnon Agricultural School into the Mindanao Agricultural College.	"[{""title"": ""Section 1."", ""summary"": ""Appropriates \u20b16,898,000.00 to fund projects under Republic Acts No. 731, 775, and 807, including the establishment of a children's hospital, construction of a hospital building, nationalization and maintenance of trade and agricultural schools, and the conversion of an agricultural school into a college.""}, {""title"": ""Section 2."", ""summary"": ""The release of the appropriated funds is subject to Section Nine of the General Appropriation Law for FY 1953-1954.""}, {""title"": ""Section 3."", ""summary"": ""The act takes effect upon its approval.""}]"	948	June 20, 1953			To authorize the appropriation of funds for the implementation of selected enabling acts and other related purposes.	"[""Appropriated \u20b16,898,000.00 for RA 731, 775, and 807 projects"", ""Funding for National Indigent Children\u2019s Hospital"", ""Construction of North General Hospital Building"", ""Nationalization and maintenance of trade and agricultural schools"", ""Conversion of Bukidnon Agricultural School into Mindanao Agricultural College""]"	Republic Acts No. 731, 775, and 807	"[""appropriation"", ""enabling acts"", ""budget"", ""health"", ""education""]"	"[""appropriated funds"", ""Republic Act 731"", ""Republic Act 775"", ""Republic Act 807"", ""National Indigent Children\u2019s Hospital"", ""North General Hospital Building"", ""trade schools"", ""agricultural schools"", ""Mindanao Agricultural College""]"
+repacts:datasets/markdown/repacts/1953/ra_957_1953.md	repacts	1953		datasets/markdown/repacts/1953/ra_957_1953.md	ra_957_1953	An Act Changing the Name of the Municipality of Bitulok in the Province of Nueva Ecija to that of Sabani	"**[ REPUBLIC ACT NO. 957, June 20, 1953 ]**
+
+ AN ACT TO CONVERT THE SITIO OF BUCO IN THE BARRIO OF BALAS, MUNICIPALITY OF TALISAY, PROVINCE OF BATANGAS, INTO A BARRIO.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The sitio of Buco in the barrio of Balas, municipality of Talisay, Province of Batangas, is hereby separated from said barrio and converted into a new barrio to be known as the barrio of Buco.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 20, 1953.
+"	success	Local Government	An act to change the name of the municipality of Bitulok, Nueva Ecija to Sabani.	"[{""title"": ""Section 1"", ""summary"": ""The name of the Municipality of Bitulok in the Province of Nueva Ecija is hereby changed to that of Sabani.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	Republic Act No. 949	June 20, 1953			To change the name of the municipality of Bitulok, Nueva Ecija to Sabani.	"[""The name of the Municipality of Bitulok is changed to Sabani."", ""The Act takes effect upon approval.""]"		"[""Municipality name change"", ""Local government""]"	"[""Bitulok"", ""Sabani"", ""Nueva Ecija"", ""municipality"", ""name change""]"
+repacts:datasets/markdown/repacts/1953/ra_958_1953.md	repacts	1953		datasets/markdown/repacts/1953/ra_958_1953.md	ra_958_1953	An Act Appropriating a Sum of Money for Salary of One Commercial Agent in the Province of Occidental Mindoro	"**[ REPUBLIC ACT NO. 958, June 20, 1953 ]**
+
+ AN ACT TO EXTEND THE EFFECTIVITY OF REPUBLIC ACT NUMBERED FIVE HUNDRED AND EIGHTY-EIGHT, BY FURTHER AMENDING SECTION EIGHT THEREOF, ENTITLED ""AN ACT TO AMEND CERTAIN SECTIONS OF COMMONWEALTH ACT NUMBERED FOUR HUNDRED AND SIXTY-SIX, OTHERWISE KNOWN AS THE NATIONAL INTERNAL REVENUE CODE.""
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Section eight of Republic Act Numbered Five hundred and eighty-eight, as amended by Republic Act Numbered Seven hundred and twenty-six, is further amended to read as follows:
+
+ > ""**Section 8.** This Act shall take effect upon its approval, but unless otherwise expressly extended by Congress, the increased taxes provided for in this Act shall continue in force and effect only until December thirty-one, nineteen hundred and fifty-four, after which period the original rates of tax shall again be in force.""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 20, 1953.
+"	success	Republic Act	Appropriates funds for the salary of one commercial agent in Occidental Mindoro.	"[{""title"": ""Section 1."", ""summary"": ""Appropriated 2,060 pesos for salary of one commercial agent in Occidental Mindoro, to be included in the annual General Appropriation Acts.""}, {""title"": ""Section 2."", ""summary"": ""The Act takes effect upon its approval.""}]"	950	June 20, 1953			Appropriating funds for the salary of a commercial agent in Occidental Mindoro.	"[""Appropriation of 2,060 pesos for salary of one commercial agent in Occidental Mindoro."", ""Inclusion of the necessary sum in the annual General Appropriation Acts."", ""The Act takes effect upon approval.""]"	Republic Act No. 388	"[""Appropriation"", ""Salary"", ""Commercial Agent"", ""Occidental Mindoro"", ""Republic Act"", ""Finance""]"	"[""appropriation"", ""salary"", ""commercial agent"", ""Occidental Mindoro"", ""National Treasury"", ""General Appropriation Acts""]"
+repacts:datasets/markdown/repacts/1953/ra_959_1953.md	repacts	1953		datasets/markdown/repacts/1953/ra_959_1953.md	ra_959_1953	An Act to Amend Republic Act Numbered One Hundred and Twenty-Four	"**[ REPUBLIC ACT NO. 959, June 20, 1953 ]**
+
+ ACT CREATING THE POSITION OF WATERWORKS SUPERINTENDENT UNDER THE ENGINEERING DEPARTMENT IN THE CITY OF SAN PABLO, AND INCREASING THE SALARIES OF THE ASSISTANT CITY ATTORNEY AND THE CHIEF OF THE SECRET SERVICE THEREOF, BY AMENDING COMMONWEALTH ACT NUMBERED FIVE HUNDRED AND TWENTY, OTHERWISE KNOWN AS THE CHARTER OF THE CITY OF SAN PABLO.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Between sections twenty-two and twenty-three of Commonwealth Act Numbered Five hundred and twenty, a new section is hereby inserted to be known as section 22-A, which shall read as follows:
+
+ > ""Section 22-A. There shall be a Waterworks Superintendent, who shall, under the direct supervision of the City Engineer, have charge of the maintenance and operation of the City Waterworks System and shall perform such other duties as may be assigned to him by the City Engineer, or prescribed by law or ordinance. He shall assist the City Engineer, in advisory capacity, during session in the Municipal Board on all matters affecting or relating to the operation of the City Waterworks System and shall assist the City Attorney and/or City Engineer in all hearings in the Public Service Commission in any case arising out of the operation of the Waterworks System. The Waterworks Superintendent shall receive a salary not exceeding four thousand five hundred pesos per annum, chargeable against the Waterworks Fund.""
+
+ **Section 2.** The first paragraph of section twenty-four of the same Act, as amended, is further amended to read as follows:
+
+ > **Section 24.** The City Attorney and Assistant City AttorneyTheir powers and duties.The City Attorney shall be the chief legal adviser of the city. The City Attorney and the Assistant City Attorney shall receive a salary not exceeding five thousand seven hundred pesos and three thousand six hundred pesos, respectively, per annum. The City Attorney shall have the following powers and duties:
+>
+>  * * * * * *
+
+ **Section 3.** The last paragraph of section twenty-six of the same Act is amended to read as follows:
+
+ The Chief of the Secret Service shall receive a salary not exceeding three thousand pesos per annum
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved, June 20, 1953.
+"	success	Act	This act amends Republic Act No. 124 to require private schools, colleges, and universities to provide medical and dental services to pupils and students, and mandates reporting to the Director of Health.	"[{""title"": ""Section 1"", ""summary"": ""Amends Sections one and two of RA 124 to require principals, directors, or presidents of private schools with enrollment of at least 301 to 1000 to provide physicians and dentists, with quarterly reports to the Director of Health.""}, {""title"": ""Section 2"", ""summary"": ""The Bureau of Health is tasked with issuing rules and regulations for the medical and dental services provided by private schools.""}, {""title"": ""Section 2 (Title amendment)"", ""summary"": ""Amends the title of the act to \""An Act to require certain private schools, colleges and universities in the Philippines to provide medical and dental service for pupils and students.\""""}, {""title"": ""Section 3"", ""summary"": ""The act shall take effect upon its approval.""}]"	951	June 20, 1953			To amend RA 124 to require private schools, colleges, and universities to provide medical and dental services to students.	"[""Private schools must provide physicians and dentists."", ""Quarterly reports must be filed to the Director of Health."", ""Bureau of Health will issue rules and regulations."", ""Act takes effect upon approval.""]"	Republic Act No. 124	"[""Education"", ""Health Services"", ""Private Schools""]"	"[""medical service"", ""dental service"", ""private schools"", ""Bureau of Health"", ""RA 124""]"
+repacts:datasets/markdown/repacts/1953/ra_960_1953.md	repacts	1953		datasets/markdown/repacts/1953/ra_960_1953.md	ra_960_1953	An Act Amending Republic Act Numbered Six Hundred Seventy	"**[ REPUBLIC ACT NO. 960, June 20, 1953 ]**
+
+ AN ACT CREATING THE BARRIO OF BAGUIDBIRIN IN THE MUNICIPALITY OF STA. CRUZ, PROVINCE OF MARINDUQUE.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The sitio of Baguidbirin, in the Municipality of Sta. Cruz, Province of Marinduque, is converted into a barrio to be called Baguidbirin.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 20, 1953.
+"	success	Republic Act	This act amends Section 1 of Republic Act No. 670 to modify the public works project details for the Province of Rizal, specifically the asphalting of Haig Street, and declares the act effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Amendment to item three, section one of RA 670 concerning public works projects for the Province of Rizal, specifying details for the asphalting of Haig Street.""}, {""title"": ""Section 2"", ""summary"": ""Act shall take effect upon approval.""}]"	952	June 20, 1953			To amend Republic Act No. 670 regarding public works project for the Province of Rizal, specifically the asphalting of Haig Street.	"[""Amends item three, section one of RA 670 to specify asphalting of Haig Street, from the corner of Shaw Boulevard and Haig, going northward up to the corner of General Kalentong Street.""]"	Republic Act No. 670	"[""Public Works"", ""Infrastructure"", ""Rizal"", ""Road Asphalting""]"	"[""Republic Act 952"", ""RA 670"", ""asphalting"", ""Haig Street"", ""Rizal"", ""public works""]"
+repacts:datasets/markdown/repacts/1953/ra_961_1953.md	repacts	1953		datasets/markdown/repacts/1953/ra_961_1953.md	ra_961_1953	Republic Act No. 953, June 20, 1953	"**[ REPUBLIC ACT No. 961, June 20, 1953 ]**
+
+ AN ACT TRANSFERRING CERTAIN APPROPRIATIONS FOR PUBLIC WORKS PROJECTS UNDER THE HEADING ""BATANGAS,"" SUBSECTION (a), TITLE ""A. MISCELLANEOUS,"" SECTION ONE OF REPUBLIC ACT NUMBERED SIX HUNDRED SEVENTY.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Sub-heading ""Other Public Works Projects,"" under the heading ""Batangas,"" subsection (a), *Title* ""A. Miscellaneous,"" section one of Republic Act Numbered Six hundred seventy, is amended by increasing the appropriation for items numbers fourteen and twenty-three and eliminating items seventeen and twenty-one.
+
+ | ""14. Repair of Mapalad-na-bato Parents-Teachers Association School Building, Nasugbu | Pl.000.00 |  |
+| --- | --- | --- |
+| ""23. Repair Bulihan Parents-Teachers Association School Building, Nasugbu | P1,000.00"" |  |
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 20, 1953.
+"	success	Legal Act	An act providing for the registration of persons dealing with narcotic drugs, imposing fixed and special taxes, and setting internal revenue tax rates on the sale and distribution of opiates and related substances.	"[{""title"": ""Section 1"", ""summary"": ""This Act shall be known as the Narcotic Drugs Law.""}, {""title"": ""Section 2"", ""summary"": ""Requires registration and payment of fixed taxes by importers, manufacturers, producers, and dealers of narcotic drugs; establishes tax rates for different categories of persons; provides exemptions for public officials and certain other persons; imposes an internal revenue tax of five centavos per 30 grams on narcotic drugs.""}]"	953	June 20, 1953			To regulate the registration, taxation, and control of narcotic drugs in the Philippines.	"[""Registration requirement for importers, manufacturers, producers, and dealers of narcotic drugs."", ""Fixed tax rates: 72 pesos for importers, 36 pesos for wholesale dealers, 12 pesos for retail dealers, 6 pesos for physicians and other practitioners."", ""Internal revenue tax of five centavos per 30 grams on narcotic drugs."", ""Exemptions for public officials and employees engaged in official duties.""]"		"[""Narcotic Drugs"", ""Taxation"", ""Drug Control"", ""Registration""]"	"[""opium"", ""marijuana"", ""coca leaves"", ""synthetic drugs"", ""registration"", ""fixed tax"", ""internal revenue tax"", ""exemption"", ""public officials""]"
+repacts:datasets/markdown/repacts/1953/ra_962_1953.md	repacts	1953		datasets/markdown/repacts/1953/ra_962_1953.md	ra_962_1953	AN ACT TO PROHIBIT CERTAIN ACTIVITIES IN CONNECTION WITH HORSE RACES AND BASQUE PELOTA GAMES (JAI-ALAI), AND TO PRESCRIBE PENALTIES FOR ITS VIOLATION.	"**[ REPUBLIC ACT NO. 962, June 20, 1953 ]**
+
+ AN ACT APPROPRIATING THE SUM OF THREE HUNDRED THOUSAND PESOS TO HELP DEFRAY THE EXPENSES FOR THE HOLDING IN THE CITY OF MANILA FROM MAY TWO TO NINE, NINETEEN HUNDRED AND FIFTY-FOUR, INCLUSIVE, OF THE SECOND ASIAN GAMES AND FOR THE TRAINING, PREPARATION, AND PARTICIPATION OF FILIPINO ATHLETES THEREIN.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The sum of three hundred thousand pesos, or so much thereof as may be necessary, is appropriated out of any funds in the National Treasury not otherwise appropriated, as aid to the Philippine Amateur Athletic Federation to defray the expenses for the holding in the City of Manila, Philippines, from May two to nine, nineteen hundred and fifty-four, inclusive, of the Second Asian Games and for the selection, assembling, equipping, preparation and participation of competent Filipino athletes in said games.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 20, 1953.
+"	success	Republic Act	This Act prohibits betting activities related to horse races and Basque pelota games and prescribes penalties for violations.	"[{""title"": ""Section 1."", ""summary"": ""Prohibits offering, taking or arranging bets on horse races or using betting devices, except for licensed entities.""}, {""title"": ""Section 2."", ""summary"": ""Prohibits offering, taking or arranging bets on horse races or using betting devices outside the race venue, except for licensed entities.""}, {""title"": ""Section 3."", ""summary"": ""Prohibits fixing horse races to ensure a predetermined winner.""}, {""title"": ""Section 4."", ""summary"": ""Prohibits betting on Basque pelota games by operators or maintainers of frontons, except for licensed operators.""}, {""title"": ""Section 5."", ""summary"": ""Prohibits betting on Basque pelota games outside the fronton where the game is held.""}, {""title"": ""Section 6."", ""summary"": ""Prohibits fixing Basque pelota games to ensure a predetermined winner.""}, {""title"": ""Section 7."", ""summary"": ""Prescribes penalties: fine up to 2000 pesos or up to six months imprisonment, or both. Liability for corporations falls on responsible officials.""}, {""title"": ""Section 8."", ""summary"": ""Effective date: January first, nineteen hundred and fifty-four.""}]"	954	June 20, 1953			To prohibit certain activities in connection with horse races and Basque pelota games and prescribe penalties for violations.	"[""Prohibits betting on horse races and Basque pelota games"", ""Prohibits fixing races to ensure a predetermined winner"", ""Prescribes fines up to 2000 pesos or imprisonment up to six months""]"		"[""Horse racing"", ""Basque pelota"", ""Betting"", ""Penalties"", ""Republic Act""]"	"[""horse race"", ""betting"", ""totalizator"", ""Basque pelota"", ""penalties"", ""fines"", ""imprisonment"", ""law""]"
+repacts:datasets/markdown/repacts/1953/ra_963_1953.md	repacts	1953		datasets/markdown/repacts/1953/ra_963_1953.md	ra_963_1953	"AN ACT TO EXTEND THE EFFECTIVITY OF REPUBLIC ACT NUMBERED FIVE HUNDRED AND EIGHTY-NINE, BY FURTHER AMENDING SECTION SEVEN THEREOF, ENTITLED ""AN ACT TO AMEND SECTIONS ONE HUNDRED AND THIRTY-THREE, ONE HUNDRED AND THIRTY-FOUR, ONE HUNDRED AND THIRTY-FIVE, ONE HUNDRED AND THIRTY-SEVEN, ONE HUNDRED AND FORTY, AND ONE HUNDRED AND FORTY-SEVEN OF COMMONWEALTH ACT NUMBERED FOUR HUNDRED AND SIXTY-SIX, OTHERWISE KNOWN AS THE NATIONAL INTERNAL REVENUE CODE, AS AMENDED."","	"**[ REPUBLIC ACT NO. 963, June 20, 1953 ]**
+
+ AN ACT GRANTING PHILIPPINE CITIZENSHIP TO COLONEL PEDRO DIAZ DULAY
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Colonel Pedro Diaz Dulay is hereby granted Philippine citizenship.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 20, 1953.
+"	success	Republic Act	The act extends the effectivity of Republic Act No. 589 (the National Internal Revenue Code) by further amending Section 7, specifying that the increased tax rates shall remain in force only until December 31, 1954, after which the original rates resume. The act takes effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 7 of RA 589 (as amended by RA 724) to state that the act\u2019s increased tax rates will continue only until December 31, 1954, after which the original rates resume.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	955	June 20, 1953			To extend the effectivity of Republic Act No. 589 by further amending Section 7 of the National Internal Revenue Code and to specify the temporary nature of the increased tax rates.	"[""Amends Section 7 of RA 589 to extend effectivity until Dec 31, 1954"", ""Specifies that increased tax rates remain in force only until Dec 31, 1954"", ""Act takes effect upon approval""]"	Republic Act No. 589 (National Internal Revenue Code), further amended by RA 724	"[""Revenue Code"", ""Tax Law"", ""Effectivity"", ""Section 7""]"	"[""Republic Act"", ""National Internal Revenue Code"", ""tax rates"", ""effectivity"", ""RA 589"", ""RA 955""]"
+repacts:datasets/markdown/repacts/1953/ra_964_1953.md	repacts	1953		datasets/markdown/repacts/1953/ra_964_1953.md	ra_964_1953	"An Act to Amend Item Numbered Twenty-Two, Under ""Batangas"", Subsection (a), Heading ""A. Miscellaneous,"" Section One, of Republic Act Numbered Six Hundred and Seventy"	"**[ REPUBLIC ACT NO. 964, June 20, 1953 ]**
+
+ AN ACT CHANGING THE NAME OF THE BARRIO OF PATAY, IN THE CITY OF LIPA, TO SAN JOSE
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The name of the barrio of Patay, in the City of Lipa, is hereby changed to San Jose.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 20, 1953.
+"	success	Republic Act	Amends Section 22 of RA 670 to specify the repair cost for Tala Elementary School Building in Nasugbu, Batangas, and establishes its effective date upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Amendment to Item 22 of RA 670 specifying the repair cost of P500.00 for the Tala Elementary School Building, Nasugbu.""}, {""title"": ""Section 2"", ""summary"": ""The Act takes effect upon its approval.""}]"	956	June 20, 1953			To amend RA 670 by specifying the repair cost for a school building in Batangas.	"[""Amendment to Item 22 of RA 670 to specify the repair cost of P500.00 for the Tala Elementary School Building, Nasugbu."", ""The Act takes effect upon its approval.""]"	Republic Act No. 670	"[""Amendment"", ""Education"", ""Public Works""]"	"[""Tala Elementary School"", ""Nasugbu"", ""Batangas"", ""repair"", ""P500.00""]"
+repacts:datasets/markdown/repacts/1953/ra_965_1953.md	repacts	1953		datasets/markdown/repacts/1953/ra_965_1953.md	ra_965_1953	AN ACT TO CONVERT THE SITIO OF BUCO IN THE BARRIO OF BALAS, MUNICIPALITY OF TALISAY, PROVINCE OF BATANGAS, INTO A BARRIO.	"**[ REPUBLIC ACT NO. 965, June 20, 1953 ]**
+
+ AN ACT PROVIDING FOR REACQUISITION OF PHILIPPINE CITIZENSHIP BY PERSONS WHO LOST SUCH CITIZENSHIP BY RENDERING SERVICE TO, OR ACCEPTING COMMISSION IN, THE ARMED FORCES OF AN ALLIED FOREIGN COUNTRY, AND TAKING AN OATH OF ALLEGIANCE INCIDENT THERETO.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Any person who, being a citizen of the Philippines on December eight, nineteen hundred forty-one, had lost said citizenship by rendering service to, or accepting commission in, the armed forces of an allied foreign country, and taking an oath of allegiance incident thereto, may reacquire Philippine citizenship by taking an oath of allegiance to the Republic of the Philippines and registering the same with the Local Civil Registry in the place where he resides or last resided in the Philippines within one year from the date of the approval of this Act. The said oath of allegiance shall contain, in addition, a renunciation of any other citizenship.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 20, 1953.
+"	success	Republic Act	Converts the sitio of Buco into a new barrio.	"[{""title"": ""Section 1."", ""summary"": ""The sitio of Buco in the barrio of Balas is separated and converted into a new barrio called Buco.""}, {""title"": ""Section 2."", ""summary"": ""The Act shall take effect upon its approval.""}]"	957	June 20, 1953			To convert the sitio of Buco into a barrio.	"[""Separation of Buco from Balas barrio"", ""Conversion into new barrio"", ""Effectivity upon approval""]"		"[""Republic Act"", ""Local Government"", ""Barangay""]"	"[""Buco"", ""Balas"", ""Talisay"", ""Batangas"", ""Barrio"", ""Sitio""]"
+repacts:datasets/markdown/repacts/1953/ra_966_1953.md	repacts	1953		datasets/markdown/repacts/1953/ra_966_1953.md	ra_966_1953	"AN ACT TO EXTEND THE EFFECTIVITY OF REPUBLIC ACT NUMBERED FIVE HUNDRED AND EIGHTY-EIGHT, BY FURTHER AMENDING SECTION EIGHT THEREOF, ENTITLED ""AN ACT TO AMEND CERTAIN SECTIONS OF COMMONWEALTH ACT NUMBERED FOUR HUNDRED AND SIXTY-SIX, OTHERWISE KNOWN AS THE NATIONAL INTERNAL REVENUE CODE."","	"**[ REPUBLIC ACT NO. 966, June 20, 1953 ]**
+
+ AN ACT APPROPRIATING THE SUM OF NINE HUNDRED THOUSAND PESOS TO CARRY OUT THE PROVISIONS OF REPUBLIC ACT NUMBERED EIGHT HUNDRED AND THREE.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The sum of nine hundred thousand pesos is hereby appropriated out of any funds in the National Treasury not otherwise appropriated to carry out the provisions of Republic Act Numbered Eight hundred and three, entitled ""An Act to amend sections three and fourteen of Republic Act Numbered Three hundred and forty, otherwise known as the Armed Forces Retirement Law.""
+
+ **Section 2.** Any amount remaining unexpended on June thirty, nineteen hundred and fifty-four, shall revert to the unappropriated surplus of the General Fund in the National Treasury.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved, June 20, 1953.
+"	success	Republic Act	This act extends the effectivity of Republic Act No. 588 by amending Section 8, specifying that the increased taxes remain in force until December 31, 1954, after which the original tax rates resume, and it takes effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 8 of Republic Act No. 588 to state that the act takes effect upon approval and that the increased taxes apply until December 31, 1954, after which the original rates resume.""}, {""title"": ""Section 2"", ""summary"": ""Declares that the act takes effect upon its approval.""}]"	958	June 20, 1953			To extend the effectivity of Republic Act No. 588 by further amending Section 8, thereby extending the period during which increased taxes are applicable and ensuring the act takes effect upon approval.	"[""Amends Section 8 of RA 588 to specify effectivity upon approval and extended taxes until December 31, 1954."", ""The act takes effect upon approval.""]"	Republic Act No. 588, Section 8, and its amendments via RA 726	"[""Tax"", ""Revenue"", ""Internal Revenue Code"", ""Republic Act""]"	"[""Republic Act 958"", ""RA 588"", ""Section 8"", ""effectivity"", ""taxes"", ""December 31, 1954""]"

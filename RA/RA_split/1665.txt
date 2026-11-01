@@ -1,0 +1,202 @@
+repacts:datasets/markdown/repacts/1991/ra_7135_1991.md	repacts	1991		datasets/markdown/repacts/1991/ra_7135_1991.md	ra_7135_1991	An Act Establishing a High School in Barangay Guipos, Municipality of San Miguel, Province of Zamboanga del Sur, to be Known as the Guipos High School, and Appropriating Funds Therefor	"**[ REPUBLIC ACT NO. 7135, August 22, 1991 ]**
+
+ AN ACT ESTABLISHING A HIGH SCHOOL IN BARANGAY GUIPOS, MUNICIPALITY OF SAN MIGUEL, PROVINCE OF ZAMBOANGA DEL SUR, TO BE KNOWN AS THE GUIPOS HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established a high school in Barangay Guipos, Municipality of San Miguel, Province of Zamboanga del Sur, to be known as the Guipos High School.
+
+ **Section 2.** The Secretary of the Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act is hereby authorized to be appropriated in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **JOVITO R. SALONGA** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated from the House of Representatives was finally passed by the House of Representatives and the Senate on November 29, 1989 and March 21, 1991, respectively. |  |
+| (Sgd.) **EDWIN P. ACOBA** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+  Approved: August 22, 1991
+
+ **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Education	Republic Act No. 7135 establishes the Guipos High School and appropriates funds for its operation.	"[{""title"": ""Section 1"", ""summary"": ""There shall be established a high school in Barangay Guipos, Municipality of San Miguel, Province of Zamboanga del Sur, to be known as the Guipos High School.""}, {""title"": ""Section 2"", ""summary"": ""The Secretary of the Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.""}, {""title"": ""Section 3"", ""summary"": ""The amount necessary to carry out the provisions of this Act is hereby authorized to be appropriated in the General Appropriations Act of the year following its enactment into law and thereafter.""}, {""title"": ""Section 4"", ""summary"": ""This Act shall take effect upon its approval.""}]"	7135	August 22, 1991	"[{""name"": ""JOVITO R. SALONGA"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""EDWIN P. ACOBA"", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}]"	To establish a high school in Barangay Guipos, Municipality of San Miguel, Province of Zamboanga del Sur, and to appropriate funds for its operation.	"[""Establishment of Guipos High School"", ""Secretary of DepEd issues rules and regulations"", ""Appropriation of necessary funds in the General Appropriations Act of the following year"", ""Effectivity upon approval""]"		"[""Education"", ""Republic Act"", ""High School"", ""Zamboanga del Sur"", ""Guipos""]"	"[""Guipos High School"", ""high school"", ""education"", ""Zamboanga del Sur"", ""Republic Act 7135""]"
+repacts:datasets/markdown/repacts/1991/ra_7136_1991.md	repacts	1991		datasets/markdown/repacts/1991/ra_7136_1991.md	ra_7136_1991	An Act Establishing a High School in Barangay Payag, Municipality of San Pablo, Province of Zamboanga del Sur, to be Known as the Payag High School, and Appropriating Funds Therefor	"**[ REPUBLIC ACT NO. 7136, August 22, 1991 ]**
+
+ AN ACT ESTABLISHING A HIGH SCHOOL IN BARANGAY PAYAG, MUNICIPALITY OF SAN PABLO, PROVINCE OF ZAMBOANGA DEL SUR, TO BE KNOWN AS THE PAYAG HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established a high school in Barangay Payag, Municipality of San Pablo, Province of Zamboanga del Sur, to be known as the Payag High School.
+
+ **Section 2.** The Secretary of the Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act is hereby authorized to be appropriated in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **JOVITO R. SALONGA** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated from the House of Representatives was finally passed by the House of Representatives and the Senate on November 29, 1989 and March 21, 1991, respectively. |  |
+| (Sgd.) **EDWIN P. ACOBA** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: August 22, 1991
+
+ **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	The act establishes Payag High School in Barangay Payag, San Pablo, Zamboanga del Sur, authorizes the Department of Education to issue necessary regulations, appropriates funds for its operation, and specifies its effective date.	"[{""title"": ""Section 1"", ""summary"": ""Establishment of Payag High School in Barangay Payag, San Pablo, Zamboanga del Sur.""}, {""title"": ""Section 2"", ""summary"": ""The Secretary of the Department of Education, Culture and Sports shall issue rules and regulations necessary to carry out the purpose of the Act.""}, {""title"": ""Section 3"", ""summary"": ""Appropriation of the necessary amount in the General Appropriations Act of the year following the enactment of the Act.""}, {""title"": ""Section 4"", ""summary"": ""The Act shall take effect upon its approval.""}]"	7136	1991-08-22	"[{""name"": ""House of Representatives"", ""title"": ""Legislative Body""}, {""name"": ""Senate"", ""title"": ""Legislative Body""}]"	"[{""name"": ""JOVITO R. SALONGA"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}, {""name"": ""EDWIN P. ACOBA"", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}]"	To establish a high school in Barangay Payag, San Pablo, Zamboanga del Sur, and appropriate funds for its operation.	"[""Establishment of Payag High School"", ""Issuance of regulations by the Department of Education"", ""Appropriation of funds in the General Appropriations Act"", ""Effective date upon approval""]"		"[""Education"", ""School establishment"", ""Zamboanga del Sur"", ""High school""]"	"[""Payag High School"", ""Zamboanga del Sur"", ""Education"", ""Appropriation"", ""Republic Act 7136""]"
+repacts:datasets/markdown/repacts/1991/ra_7137_1991.md	repacts	1991		datasets/markdown/repacts/1991/ra_7137_1991.md	ra_7137_1991	AN ACT ESTABLISHING AN AGRO-FISHERY HIGH SCHOOL IN BARANGAY KIPIT, MUNICIPALITY OF LABASON, PROVINCE OF ZAMBOANGA DEL NORTE, TO BE KNOWN AS THE KIPIT AGRO-FISHERY HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 7137, August 22, 1991 ]**
+
+ AN ACT ESTABLISHING AN AGRO-FISHERY HIGH SCHOOL IN BARANGAY KIPIT, MUNICIPALITY OF LABASON, PROVINCE OF ZAMBOANGA DEL NORTE, TO BE KNOWN AS THE KIPIT AGRO-FISHERY HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established an agro-fishery high school in Barangay Kipit, Municipality of Labason, Province of Zamboanga del Norte, to be known as the Kipit Agro-Fishery High School.
+
+ **Section 2.** The Secretary of the Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act is hereby authorized to be appropriated in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **JOVITO R. SALONGA** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated from the House of Representatives was finally passed by the House of Representatives and the Senate on November 29, 1989 and March 21, 1991, respectively. |  |
+| (Sgd.) **EDWIN P. ACOBA** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: August 22, 1991
+
+ **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Education	This Republic Act establishes the Kipit Agro-Fishery High School in Barangay Kipit, Labason, Zamboanga del Norte, authorizes the appropriation of funds for its construction and operation, and mandates the Department of Education to issue necessary rules and regulations. The Act takes effect upon its approval.	"[{""title"": ""Section 1."", ""summary"": ""Establishes an agro-fishery high school in Barangay Kipit, Labason, Zamboanga del Norte, named Kipit Agro-Fishery High School.""}, {""title"": ""Section 2."", ""summary"": ""Authorizes the Secretary of the Department of Education, Culture and Sports to issue rules and regulations to carry out the purpose of the Act.""}, {""title"": ""Section 3."", ""summary"": ""Appropriates the necessary funds for the Act in the General Appropriations Act of the following year.""}, {""title"": ""Section 4."", ""summary"": ""The Act shall take effect upon its approval.""}]"	7137	August 22, 1991	"[{""name"": ""JOVITO R. SALONGA"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""EDWIN P. ACOBA"", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}]"	To establish an agro-fishery high school in Kipit, Labason, Zamboanga del Norte and to appropriate funds for its construction and operation.	"[""Establishes the Kipit Agro-Fishery High School"", ""Appropriates funds for its construction and operation"", ""Authorizes issuance of rules and regulations by the Department of Education"", ""Effective upon approval""]"		"[""Education"", ""Agro-fishery"", ""High School"", ""Zamboanga del Norte"", ""Republic Act""]"	"[""agro-fishery"", ""high school"", ""Kipit"", ""Labason"", ""Zamboanga del Norte"", ""Republic Act"", ""funds"", ""appropriation"", ""rules"", ""education""]"
+repacts:datasets/markdown/repacts/1991/ra_7138_1991.md	repacts	1991		datasets/markdown/repacts/1991/ra_7138_1991.md	ra_7138_1991	AN ACT ESTABLISHING A HIGH SCHOOL IN BARANGAY TACUL, MUNICIPALITY OF MAGSAYSAY, PROVINCE OF DAVAO DEL SUR, TO BE KNOWN AS THE TACUL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 7138, August 22, 1991 ]**
+
+ AN ACT ESTABLISHING A HIGH SCHOOL IN BARANGAY TACUL, MUNICIPALITY OF MAGSAYSAY, PROVINCE OF DAVAO DEL SUR, TO BE KNOWN AS THE TACUL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established a high school in Barangay Tacul, Municipality of Magsaysay, Province of Davao del Sur, to be known as the Tacul High School.
+
+ **Section 2.** The Secretary of the Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act is hereby authorized to be appropriated in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **JOVITO R. SALONGA** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated from the House of Representatives was finally passed by the House of Representatives and the Senate on November 29, 1989 and April 23, 1991, respectively. |  |
+| (Sgd.) **EDWIN P. ACOBA** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: August 22, 1991
+
+ **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Education	This Act establishes Tacul High School in Barangay Tacul, Magsaysay, Davao del Sur, and appropriates funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""Establishes a high school in Barangay Tacul, Municipality of Magsaysay, Province of Davao del Sur, to be known as Tacul High School.""}, {""title"": ""Section 2."", ""summary"": ""The Secretary of the Department of Education, Culture and Sports shall issue rules and regulations necessary to carry out the purpose of this Act.""}, {""title"": ""Section 3."", ""summary"": ""Authorizes the appropriation of necessary funds in the General Appropriations Act of the year following its enactment.""}, {""title"": ""Section 4."", ""summary"": ""The Act shall take effect upon its approval.""}]"	7138	August 22, 1991	"[{""name"": ""JOVITO R. SALONGA"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""EDWIN P. ACOBA"", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General of the House of Representatives""}]"	Establish a high school in Barangay Tacul, Magsaysay, Davao del Sur, and appropriate funds for its operation.	"[""Establishment of Tacul High School"", ""Authority of the Secretary of DepEd to issue rules and regulations"", ""Authorization of funds in the General Appropriations Act"", ""Effectivity upon approval""]"		"[""Education"", ""High School"", ""Davao del Sur"", ""Public School""]"	"[""Tacul High School"", ""Barangay Tacul"", ""Magsaysay"", ""Davao del Sur"", ""Department of Education"", ""General Appropriations Act"", ""High school establishment""]"
+repacts:datasets/markdown/repacts/1991/ra_7139_1991.md	repacts	1991		datasets/markdown/repacts/1991/ra_7139_1991.md	ra_7139_1991	AN ACT ESTABLISHING A HIGH SCHOOL IN BARANGAY MARBER, MUNICIPALITY OF BANSALAN, PROVINCE OF DAVAO DEL SUR, TO BE KNOWN AS THE MARBER HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	".
+
+ **[ REPUBLIC ACT NO. 7139, August 22, 1991 ]**
+
+ AN ACT ESTABLISHING A HIGH SCHOOL IN BARANGAY MARBER, MUNICIPALITY OF BANSALAN, PROVINCE OF DAVAO DEL SUR, TO BE KNOWN AS THE MARBER HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established a high school in Barangay Marber, Municipality of Bansalan, Province of Davao del Sur, to be known as the Marber High School.
+
+ **Section 2.** The Secretary of the Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act is hereby authorized to be appropriated in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **JOVITO R. SALONGA** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated from the House of Representatives was finally passed by the House of Representatives and the Senate on November 29, 1989 and April 23, 1991, respectively. |  |
+| (Sgd.) **EDWIN P. ACOBA** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: August 22, 1991
+
+ **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	Establishes Marber High School and appropriates funds for its operation.	"[{""title"": ""Section 1"", ""summary"": ""Establishes a high school in Barangay Marber, Municipality of Bansalan, Province of Davao del Sur, to be known as Marber High School.""}, {""title"": ""Section 2"", ""summary"": ""Secretary of the Department of Education, Culture and Sports shall issue rules and regulations necessary to carry out the purpose of this Act.""}, {""title"": ""Section 3"", ""summary"": ""Appropriates the necessary amount in the General Appropriations Act of the following year.""}, {""title"": ""Section 4"", ""summary"": ""Act shall take effect upon approval.""}]"	7139	August 22, 1991	"[{""name"": ""JOVITO R. SALONGA"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""EDWIN P. ACOBA"", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""CORAZON C. AQUINO"", ""title"": ""President of the Philippines""}]"	To establish a high school in Barangay Marber, Municipality of Bansalan, Province of Davao del Sur, and appropriate funds for its operation.	"[""Establishment of Marber High School"", ""Authority to issue rules and regulations by DepEd"", ""Appropriation of funds"", ""Effectivity upon approval""]"		"[""Education"", ""High School"", ""Local Government"", ""Philippines""]"	"[""High school"", ""Barangay Marber"", ""DepEd"", ""Appropriation"", ""Davao del Sur"", ""Republic Act 7139""]"
+repacts:datasets/markdown/repacts/1991/ra_7140_1991.md	repacts	1991		datasets/markdown/repacts/1991/ra_7140_1991.md	ra_7140_1991	AN ACT ESTABLISHING A HIGH SCHOOL IN BARANGAY CANTUHA-ON, MUNICIPALITY OF PALOMPON, PROVINCE OF LEYTE, TO BE KNOWN AS THE CANTUHA-ON HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 7140, August 22, 1991 ]**
+
+ AN ACT ESTABLISHING A HIGH SCHOOL IN BARANGAY CANTUHA-ON, MUNICIPALITY OF PALOMPON, PROVINCE OF LEYTE, TO BE KNOWN AS THE CANTUHA-ON HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established a high school in Barangay Cantuha-on, Municipality of Palompon, Province of Leyte, to be known as the Cantuha-on High School.
+
+ **Section 2.** The Secretary of the Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act is hereby authorized to be appropriated in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **JOVITO R. SALONGA** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated from the House of Representatives was finally passed by the House of Representatives and the Senate on November 29, 1989 and April 23, 1991, respectively. |  |
+| (Sgd.) **EDWIN P. ACOBA** *Secretary of the Senate*Secretary General House of Representatives | (Sgd.) **CAMILO L. SABIO** |
+
+ Approved: August 22, 1991
+
+ **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	This Act establishes the Cantuha-on High School in Barangay Cantuha-on, Palompon, Leyte, and appropriates the necessary funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""Establishes a high school in Barangay Cantuha-on, Municipality of Palompon, Province of Leyte, to be known as the Cantuha-on High School.""}, {""title"": ""Section 2."", ""summary"": ""The Secretary of the Department of Education, Culture and Sports shall issue rules and regulations necessary to carry out the purpose of this Act.""}, {""title"": ""Section 3."", ""summary"": ""Authorizes the appropriation of funds necessary to carry out the provisions of this Act in the General Appropriations Act of the following year.""}, {""title"": ""Section 4."", ""summary"": ""The Act shall take effect upon its approval.""}]"	7140	August 22, 1991	"[{""name"": ""JOVITO R. SALONGA"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"		To establish a high school in Barangay Cantuha-on, Palompon, Leyte, and appropriate funds for its operation.	"[""Establishment of Cantuha-on High School"", ""Authority of the Secretary of the Department of Education, Culture and Sports to issue rules"", ""Appropriation of necessary funds in the General Appropriations Act"", ""Effectivity upon approval""]"		"[""Education"", ""High School"", ""Local Government"", ""Leyte"", ""Republic Act 7140""]"	"[""high school"", ""Cantuha-on"", ""Palompon"", ""Leyte"", ""education"", ""appropriation"", ""Republic Act 7140""]"
+repacts:datasets/markdown/repacts/1991/ra_7141_1991.md	repacts	1991		datasets/markdown/repacts/1991/ra_7141_1991.md	ra_7141_1991	AN ACT ESTABLISHING A HIGH SCHOOL IN BARANGAY SALAUWAGAN, MUNICIPALITY OF DIMATALING, PROVINCE OF ZAMBOANGA DEL SUR, TO BE KNOWN AS THE SALAUWAGAN HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 7141, August 22, 1991 ]**
+
+ AN ACT ESTABLISHING A HIGH SCHOOL IN BARANGAY SALAUWAGAN, MUNICIPALITY OF DIMATALING, PROVINCE OF ZAMBOANGA DEL SUR, TO BE KNOWN AS THE SALAUWAGAN HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established a high school in Barangay Salauwagan, Municipality of Dimataling, Province of Zamboanga del Sur, to be known as the Salauwagan High School.
+
+ **Section 2.** The Secretary of the Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act is hereby authorized to be appropriated in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **JOVITO R. SALONGA** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated from the House of Representatives was finally passed by the House of Representatives and the Senate on November 29, 1989 and April 23, 1991, respectively. |  |
+| (Sgd.) **EDWIN P. ACOBA** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: August 22, 1991
+
+ **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	The Act establishes Salauwagan High School in Barangay Salauwagan, Municipality of Dimataling, Zamboanga del Sur, and appropriates necessary funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""Authorizes the establishment of Salauwagan High School.""}, {""title"": ""Section 2."", ""summary"": ""Mandates the Secretary of the Department of Education, Culture and Sports to issue rules and regulations to carry out the Act.""}, {""title"": ""Section 3."", ""summary"": ""Appropriates the necessary funds for the Act\u2019s provisions in the General Appropriations Act of the following year.""}, {""title"": ""Section 4."", ""summary"": ""The Act takes effect upon its approval.""}]"	7141	August 22, 1991	"[{""name"": ""JOVITO R. SALONGA"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"		To establish a high school in Barangay Salauwagan, Dimataling, Zamboanga del Sur, and allocate funds for its operation.	"[""Establishment of Salauwagan High School"", ""Secretary of DepEd to issue rules and regulations"", ""Appropriation of necessary funds"", ""Act takes effect upon approval""]"		"[""Education"", ""High School"", ""Republic Act"", ""Zamboanga del Sur""]"	"[""Salauwagan High School"", ""Republic Act 7141"", ""Zamboanga del Sur"", ""Education"", ""Appropriation""]"
+repacts:datasets/markdown/repacts/1991/ra_7142_1991.md	repacts	1991		datasets/markdown/repacts/1991/ra_7142_1991.md	ra_7142_1991	AN ACT ESTABLISHING A HIGH SCHOOL IN BARANGAY BALASIAO, MUNICIPALITY OF KIBLAWAN, PROVINCE OF DAVAO DEL SUR, TO BE KNOWN AS THE GOVERNOR NONITO D. LLANOS, SR., HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 7142, August 22, 1991 ]**
+
+ AN ACT ESTABLISHING A HIGH SCHOOL IN BARANGAY BALASIAO, MUNICIPALITY OF KIBLAWAN, PROVINCE OF DAVAO DEL SUR, TO BE KNOWN AS THE GOVERNOR NONITO D. LLANOS, SR., HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established a high school in Barangay Balasiao, Municipality of Kiblawan, Province of Davao del Sur, to be known as the Governor Nonito D. Llanos, Sr., High School.
+
+ **Section 2.** The Secretary of the Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act is hereby authorized to be appropriated in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **JOVITO R. SALONGA** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated from the House of Representatives was finally passed by the House of Representatives and the Senate on November 29, 1989 and April 23, 1991, respectively. |  |
+| (Sgd.) **EDWIN P. ACOBA** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: August 22, 1991
+
+ **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	Establishes Governor Nonito D. Llanos, Sr. High School in Barangay Balasiao, Davao del Sur and appropriates funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""Establishes the high school in Barangay Balasiao, Municipality of Kiblawan, Province of Davao del Sur, named Governor Nonito D. Llanos, Sr., High School.""}, {""title"": ""Section 2."", ""summary"": ""Secretary of the Department of Education, Culture and Sports shall issue rules and regulations necessary to carry out the purpose of this Act.""}, {""title"": ""Section 3."", ""summary"": ""Appropriation authorized in the General Appropriations Act of the year following its enactment into law.""}, {""title"": ""Section 4."", ""summary"": ""Act takes effect upon approval.""}]"	REPUBLIC ACT NO. 7142	August 22, 1991		"[{""name"": ""Jovito R. Salonga"", ""title"": ""President of the Senate""}, {""name"": ""Ram\u00f3n V. Mitra"", ""title"": ""Speaker of the House of Representatives""}, {""name"": ""Edwin P. AcoBA"", ""title"": ""Secretary of the Senate""}, {""name"": ""Camilo L. Sabio"", ""title"": ""Secretary General House of Representatives""}]"	To establish a high school named Governor Nonito D. Llanos, Sr. High School in Barangay Balasiao, Davao del Sur, and appropriate funds for its operation.	"[""Establishment of the high school"", ""Issuance of rules and regulations by DepEd"", ""Appropriation of funds in the next General Appropriations Act"", ""Effectivity upon approval""]"		"[""Education"", ""Republic Act"", ""High School"", ""Davao del Sur""]"	"[""Governor Nonito D. Llanos"", ""Barangay Balasiao"", ""DepEd"", ""Funding"", ""High School"", ""Republic Act 7142""]"

@@ -1,0 +1,137 @@
+repacts:datasets/markdown/repacts/2025/ra_12213_2025.md	repacts	2025		datasets/markdown/repacts/2025/ra_12213_2025.md	ra_12213_2025	AN ACT INCREASING THE BED CAPACITY OF THE SOUTHERN TAGALOG REGIONAL HOSPITAL IN THE CITY OF BACOOR, PROVINCE OF CAVITE, FROM ONE HUNDRED (100) TO THREE HUNDRED (300) BEDS, AND APPROPRIATING FUNDS THEREFOR	"[ REPUBLIC ACT NO. 12213, May 21, 2025 ]
+
+ AN ACT INCREASING THE BED CAPACITY OF THE SOUTHERN TAGALOG REGIONAL HOSPITAL IN THE CITY OF BACOOR, PROVINCE OF CAVITE, FROM ONE HUNDRED (100) TO THREE HUNDRED (300) BEDS, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The authorized bed capacity of the Southern Tagalog Regional Hospital in the City of Bacoor, Province of Cavite, shall be increased from one hundred (100) to three (hundred (300) beds.
+
+ **Section 2.** The existing professional healthcare services and facilities of the Southern Tagalog Regional Hospital shall also be upgraded to conform with and be commensurate to the increase in bed capacity as provided in Section 1 hereof.
+
+ **Section 3.** The existing workforce of the Southern Tagalog Regional Hospital, which includes doctors, nurses, and support personnel, shall be increased correspondingly.
+
+ **Section 4.** The Secretary of Health shall, after consultation with the Medical Center Chief of the Southern Tagalog Regional Hospital, and in coordination with the Secretary of Budget and Management and the Chairperson of the Civil Service Commission, determine the additional new positions to be created.
+
+ **Section 5.** The Secretary of Health shall immediately include in the Department's program the implementation of this Act, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 6.** If any provision of this Act is declared unconstitutional, the remaining parts of provisions not affected shall remain in full force and effect.
+
+ **Section 7.** All laws, decrees, executive orders, issuances, and rules and regulations contrary to or inconsistent with the provisions of this Act are hereby repealed or amended accordingly.
+
+ **Section 8.** This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (Sgd.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate | (Sgd.) **FERDINAND MARTIN G. ROMUALDEZ** Speaker of the House of Representatives |
+
+ This Act, which originated in the House of Representatives, was passed by the House of Representatives on July 30, 2024, amended by the Senate of the Philippines on February 3, 2025, and which amendments were concurred in by the House of Representatives on February 5, 2025.
+
+ | (Sgd.) **RENATO N. BANTUG, JR.** Secretary of the Senate | (Sgd.) **REGINALD S. VELASCO** Secretary General House of Representatives |
+
+ Approved: MAY 21 2025
+
+ (Sgd.) **FERDINAND ROMUALDEZ MARCOS JR.** President of the Philippines
+"	success	Republic Act	The act increases the bed capacity of Southern Tagalog Regional Hospital from 100 to 300 beds, upgrades its facilities and workforce, allocates necessary funds, and repeals conflicting laws.	"[{""title"": ""Section 1"", ""summary"": ""Increases the authorized bed capacity of Southern Tagalog Regional Hospital from one hundred (100) to three hundred (300) beds.""}, {""title"": ""Section 2"", ""summary"": ""Upgrades the hospital\u2019s professional healthcare services and facilities to match the increased bed capacity.""}, {""title"": ""Section 3"", ""summary"": ""Increases the hospital\u2019s workforce, including doctors, nurses, and support personnel.""}, {""title"": ""Section 4"", ""summary"": ""Secretary of Health, with consultation, determines additional new positions to be created.""}, {""title"": ""Section 5"", ""summary"": ""Includes the act\u2019s implementation in the Department\u2019s program and funds it through the General Appropriations Act.""}, {""title"": ""Section 6"", ""summary"": ""If any provision is declared unconstitutional, remaining unaffected provisions remain in force.""}, {""title"": ""Section 7"", ""summary"": ""Repeals or amends laws, decrees, executive orders, issuances, and rules inconsistent with the act.""}, {""title"": ""Section 8"", ""summary"": ""Takes effect fifteen (15) days after publication in the Official Gazette or a newspaper of general circulation.""}]"	12213	May 21, 2025	"[{""name"": ""FRANCIS \""CHIZ\"" G. ESCUDERO"", ""title"": ""President of the Senate""}, {""name"": ""FERDINAND MARTIN G. ROMUALDEZ"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""RENATO N. BANTUG, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""REGINALD S. VELASCO"", ""title"": ""Secretary General House of Representatives""}]"	To increase bed capacity and upgrade facilities and workforce of Southern Tagalog Regional Hospital, allocate necessary funds, and ensure compliance with national health policies.	"[""Increase bed capacity from 100 to 300 beds"", ""Upgrade professional healthcare services and facilities"", ""Increase workforce of doctors, nurses, and support staff"", ""Determine new positions by Secretary of Health"", ""Include implementation in Department program and funding in GA Act"", ""Repeal or amend conflicting laws, decrees, and orders"", ""Effectivity after 15 days post-publication""]"	Repeals or amends any laws, decrees, executive orders, issuances, and rules inconsistent with this Act	"[""Healthcare"", ""Hospital"", ""Bed Capacity"", ""Philippines""]"	"[""Southern Tagalog Regional Hospital"", ""Bed Capacity"", ""Cavite"", ""Health Services"", ""Budget"", ""Republic Act 12213""]"
+repacts:datasets/markdown/repacts/2025/ra_12214_2025.md	repacts	2025		datasets/markdown/repacts/2025/ra_12214_2025.md	ra_12214_2025	Capital Markets Efficiency Promotion Act	"[ REPUBLIC ACT NO. 12214, May 29, 2025 ]
+
+ AN ACT AMENDING SECTIONS 22, 24, 25, 27, 28, 32, 34, 38, 39, 42, 51, 52, 56, 57, 127, 149, 174, 176, 179, 190, 199, AND 259 OF REPUBLIC ACT NO. 8424, OTHERWISE KNOWN AS THE NATIONAL INTERNAL REVENUE CODE OF 1997, AS AMENDED, AND FOR OTHER PURPOSE
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** *Short Title.* - This Act shall be known as the ""Capital Markets Efficiency Promotion Act"".
+
+ **Section 2.** *Declaration of Policy.* - The financial sector plays a significant role in the long-term growth of the national economy. A key policy consideration is to allow capital markets to develop as efficiently as possible, with the least intervention. The optimal taxation of capital markets, and the products and transactions that come with them, is an essential element in developing capital markets. Towards this end, the State recognizes the necessity of a simpler, fairer, more efficient, and regionally competitive passive income tax system to encourage savings, as well as develop and deepen capital markets.
+
+ In the same vein, the State recognizes tax administration as a driver of economic growth, and the equitable taxation of similar products as an essential aspect of progressive taxation. By making tax compliance easier and more equitable, progressivity is ensured, tax effort is improved, discretion is eliminated, and trust in the taxation system is enhanced. Accordingly, the State adopts the following policies:
+
+ (a) The State shall endeavor to simplify an otherwise complex tax system for easy compliance; (b) The State shall ensure that the taxation of passive income is equitable across all stakeholders and discourages arbitrage opportunities; (c) The State shall promote the development and tax competitiveness of capital markets within the context of globalization, increase capital mobility, and financial inclusion; (d) The State shall promote and incentivize investment in the trading of equity and debt securities; and (e) The State shall aid in the capacity of corporate entities to raise capital through capital markets. **Section 3.** Section 22 of the National Internal Revenue Code of 1997, as amended, is hereby further amended to read as follows:
+
+ ""**Section 22.** *Definitions.* - When used in the his Title:
+
+ > x x x
+>
+>  (L) The term 'shares of stock' shall refer to shares of stock of a corporation, warrants, options as well as units of participation in partnerships (except general professional partnerships), joint stock companies, joint account, joint ventures taxable as corporations, associations, and recreation or amusement clubs (such as golf, polo or similar clubs), and mutual fund certificates.
+>
+>  (M) The term 'shareholder' shall refer to a holder of shares of stock, warrants, options, as well as a holder of a unit of participation, in a partnership (except general professional partnership), joint stock company, joint account, taxable joint venture, and holder of a mutual fund certificate, joint stock company, or insurance company, or member in an association, recreation, or amusement club, such as golf, polo, or similar clubs.
+>
+>  x x x
+>
+>  (T) The term 'securities' shall refer to share, participation, or interest in a corporation, commercial enterprise, or profit-making venture evidenced by a certificate, contract, or instrument, whether written or electronic in character, which shall include:
+>
+>  (1) Shares of stock. bonds, debentures, notes evidence of indebtedness, and asset-backed securities; (2) Investment contracts, certificates of interest, or participation in a profit-sharing agreement, such as certificates of deposit for a future subscription; (3) Fractional undivided interests in oil, gas, or other mineral rights; (4) Certificates of assignment, certificates of participation, trust certificates, voting trust certificates, or similar instruments; (5) Proprietary or non-proprietary membership certificates in corporations; and (6) Other similar instruments as may be determined by the Securities and Exchange Commission. x x x
+>
+>  (Y) The term 'deposit substitute' shall refer to an alternative form of obtaining funds from the public other than deposits, through the issuance, endorsement, or acceptance of debt instruments for the borrower's own account, for the purpose of relending or purchasing of receivables and other obligations: *Provided,* That the term 'public' shall mean twenty (20) or more individual or corporate lenders at any given time. These instruments may include, but need not be limited to, bankers' acceptances, promissory notes, repurchase agreements, excluding reverse repurchase agreements entered into by and between the Bangko Sentral ng Pilipinas (BSP) and any authorized agent bank, certificates of assignment or participation, and similar instruments with recourse: *Provided, however,* That debt instruments issued for interbank call loan with maturity of not more than five (5) days to cover deficiency in reserves against deposit liabilities, including those between or among banks and quasi-banks, shall not be considered as deposit substitute debt instruments.
+>
+>  x x x
+>
+>  (MM) The term 'passive income' shall refer to any income that is earned from source that do not require a taxpayer's active pursuit and performance of trade or business and is not subject to value-added tax imposed in this Code.""
+
+ **Section 4.** Section 24 of the National Internal Revenue Code of 1997, as amended, is hereby further amended to read as follows:
+
+ > ""**Section 24.** Income Tax Rates. -
+>
+>  x x x
+>
+>  (B) Rates of Tax on Certain Passive Income. -
+>
+>  (1) Interests, Prizes, and Other Winnings. - A final tax at the rate of twenty percent (20%) is hereby imposed upon the amount of interest, yield, or any other monetary benefit earned from any currency bank deposit or deposit substitute, trust funds, and other similar arrangements; prizes (except prizes amounting to Ten thousand pesos (P10,000) or less which shall be subject to tax under 'Subsection (A) of Section 24); and other winnings (except winning amounting to Ten thousand pesos (P10,000) or less from Philippine Charity Sweepstakes and Lotto which shall be exempt), derived from sources within the Philippines. (2) Cash and/or Property Dividends. - A final tax at the rate of ten percent (10%) shall be imposed upon the cash and/or property dividends actually or constructively received by an individual from a domestic corporation or from a joint stock company, insurance or mutual fund company, or on the share of an individual in the distributable net income after tax of a partnership (except a general professional partnership), of which the individual is a partner, or on the share of an individual in the net income after tax of an association, a joint account, or a joint venture or consortium taxable as a corporation of which the individual is a member or co-venturer. (3) Capital Gains from the Sale, Exchange, or Disposition of Shares of Stock not Traded in a Local or Foreign Stock Exchange. - The provisions of Section 39(B) notwithstanding, a final tax at the rate of fifteen percent (15%) is hereby imposed upon the net capital gains realized during the taxable year from the sale, exchange, or other disposition of shares of stock in a domestic or foreign corporation, except shares sold or disposed through a local or foreign stock exchanges subject to stock transaction tax under Section 127(A) and (B) of this Code. (4) Capital Gains from Sale of Real Property. - x x x
+>
+>  (5) Royalties. - A final tax at the rate of twenty percent (20%) is hereby imposed on royalties earned as passive income: *Provided,* That royalties on books, as well as other literary works and musical compositions, shall be subject to a final tax of ten percent (10%).""
+
+ **Section 5.** Section 25 of the National Internal Revenue Code of 1997, as amended, is hereby further amended to read as follows:
+
+ ""**Section 25.** Tax on Nonresident Alien Individual. -
+
+ (A) Nonresident Alien Engaged n Trade or Business Within the Philippines. - (1) In General. - A nonresident alien individual engaged in trade or business in the Philippines shall be subject to income tax under Section 24 of this Code on taxable income received from all sources within the Philippines. A nonresident alien individual who shall come to the Philippines and stay therein for an aggregate period of more than one hundred eighty (180) days during any calendar year shall be deemed a 'nonresident alien doing business in the Philippines', Section 22(G) of this Act notwithstanding. (2) Cash and/or Property Dividends from a Domestic Corporation or Joint Stock Company, or Insurance or Mutual Fund Company or Share in the Distributable Net Income of a Partnership (Except a General Professional Partnership), Joint Account, Joint Venture Taxable as a Corporation or Association. - Cash and/or property dividends from a domestic corporation, joint stock company, insurance or mutual fund company, or the share of a nonresident alien individual in the distributable net income after tax of a partnership (except a general professional partnership) of which he is a partner, or the share of a nonresident alien individual in the net income after tax of an association, joint account, or joint ventures taxable as a corporation of which he is a member or a co-venturer shall be subject to an income tax of twenty-percent (20%) on the total amount thereof. (3) Nonresident Cinematographic Film Owner, Lessor, or Distributor, - Cinematographic films and similar works shall be subject to the tax provided under Section 28 of this Code. (B) Nonresident Alien Individual Not Engaged in Trade or Business Within the Philippines. - There shall be levied, collected and paid for each taxable year upon the entire income received from all sources within the Philippines by every nonresident alien individual not engaged in trade or business within the Philippines, such as interest, cash and/or property dividends, rents, salaries, wages, premiums, annuities, compensation, remuneration, emoluments, or other fixed or determinable annual or periodic or casual gains, profits, and income, a final tax equal to twenty-five percent (25%) of such income. Capital gains realized by a nonresident alien individual not engaged in trade or business in the Philippines from the sale, exchange, or other disposition of shares of stock not traded in a local or foreign stock exchange and real property shall be subject to the income tax prescribed under Subsections (B)(3) and (B)(4) of **Section 24.** x x x."" **Section 6.** Section 27 of the National Internal Revenue Code of 1997, as amended, is hereby further amended to read as follows:
+
+ > ""**Section 27.** Rates of Income Tax on Domestic Corporations. -
+>
+>  x x x
+>
+>  (D) Rates of Tax on Certain Passive Income. -
+>
+>  (1) Interests. - A final tax of twenty percent (20%) is hereby imposed upon the the amount of interest, yield, or other monetary benefit earned or received from any currency bank deposit, deposit substitute, trust fund, or other similar arrangements.
+>
+>  (2) Tax on Income Derived under the Expanded Foreign Currency Deposit System. - Income derived by a depository bank under the expanded foreign currency deposit system from foreign currency transactions with nonresidents, offshore banking units in the Philippines, local commercial banks including branches of foreign banks that may be authorized by the Bangko Sentral of the Philippines (BSP) to transact business with foreign currency deposit system units and other depository banks under the expanded foreign currency deposit system shall be exempt from all taxes, except net income from such transactions as may be specified by the Secretary of Finance, upon the recommendation by the Monetary Board to be subject to the regular income tax payable by banks: *Provided, however,* That interest income from foreign currency loans granted by such depository banks under said expanded system to residents other than offshore banking units in the Philippines or other depository banks under the expanded system shall be subject to a final tax at the rate of ten percent (10%).
+>
+>  (3) Intercorporate Dividends. - x x x
+>
+>  (4) Capital Gains from the Sale, Exchange, or Disposition of Shares of Stock Not Traded in a Local or Foreign Stock Exchange. - A final tax at the rate of fifteen percent (15%) is hereby imposed upon the net capital gains realized during the taxable year from the sale, exchange, or other modes of disposition of shares of stock of a domestic or foreign corporation, except shares sold or disposed of through a local or foreign stock exchange subject to stock transaction tax under Section 127(A) and (B) of this Code.
+>
+>  (5) Capital Gains Realized from the Sale, Exchange, or Disposition of Lands and/or Buildings. -
+>
+>  (6) Royalties. - A final tax of twenty percent (20%) is hereby imposed on royalties earned as passive income.
+>
+>  x x x.""
+
+ **Section 7.** Section 28 of the National Internal Revenue Code of 1997, as amended, is hereby further amended to read as follows:
+
+ > ""**Section 28.** Rates of Income Tax on Foreign Corporations. -
+>
+>  (A) Tax on Resident Foreign Corporations. -
+>
+>  (1) In General. - x x x The corporate income tax rate shall be applied on the amount computed by multiplying the number of months covered by the new rate within the fiscal year by the taxable income of the corporation for the period, divided by twelve. Interest, intercorporate dividends, capital gains on sale, exchange, or other disposition of shares of stock not traded in a local or foreign stock exchange, and royalties shall be subject to the applicable taxes prescribed under Section 27(D) of this Code. x x x (6) Income Derived under the Expanded Foreign Currency Deposit System - Income derived by a depository bank under the expanded foreign currency deposit system from foreign currency transactions with nonresidents, offshore banking units in the Philippines, local commercial banks including branches of foreign banks that may be authorized by the Bangko Sentral ng Pilipinas (BSP) to transact business with foreign currency deposit system units, and other depository banks under the expanded foreign currency deposit system shall be exempt from all taxes, except net income from such transactions as may be specified by the Secretary of Finance, upon recommendation by the Monetary Board to be subject to the regular income tax payable by banks: *Provided, however,* That the interest income from foreign currency loans granted by such depository banks under said expanded system to residents other than offshore banking units in the Philippines or other depository banks under the expanded system shall be subject to a final tax at the rate of ten percent (10%). (7) Offshore Gaming Licenses. - x x x (B) Tax on Nonresident Foreign Corporations. -
+>
+>  (1) In General. - Except as otherwise provided in this Code, a foreign corporation not engaged in trade or business in the Philippines, effective January 1, 2021 shall pay a tax equal to twenty-five percent (25%) of the gross income received during each taxable year from all sources within the Philippines, such as interests, dividends, rents, royalties, salaries, premiums (except reinsurance premiums), annuities, emoluments or other fixed or determinable annual, periodic or casual gains, profits and income, and capital gains, except capital gains subject to tax under Section 28(A)(1). x x x (5) Tax on Certain Incomes Received by a Nonresident Foreign Corporation. - x x x
+>
+>  (c) Capital Gains from Sale of Shares of Stock not Traded in a Local or Foreign Stock Exchange. - A final tax at the rate of fifteen percent (15%) is hereby imposed upon the net capital gains realized during the taxable year from the sale, exchange, or other disposition of shares of stock in a domestic corporation, except shares sold, or disposed of through a local or foreign stock exchange.""
+
+ **Section 8.** Section 32 of the National Internal Revenue Code of 1997, as amended, is hereby further amended to read as follows:
+
+ > ""**Section 32.** Gross Income. -
+>
+>  (A) General Definition. - Except when otherwise provided in this Title, gross income means all income derived from whatever source, including (but not limited to) the following items:
+>
+>  (1) Compensation for services in whatever form paid, including, but not limited to fees, salaries, wages, commissions, equity-based compensation, such as stock options, restricted stock units, stock appreciation rights, and similar items: *Provided,* That equity-based compensation shall be included in the gross income at the time of exercise; x x x (B) Exclusions from Gross Income. - The following items shall not be included in gross income and shall be exempt from taxation under this Title:
+>
+>  x x x (7) Miscellaneous Items. - x x x (g) Interest Income and Gains from the Sale, Transfer, or Disposition of Project-Specific Bonds. - Specific bonds that are issued by the Republic of the Philippines or any of its instrumentalities to finance capital expenditures or programs covered by the Philippine Development Plan or its equivalent and other high-level priority programs of the national government, as determined by the Secretary of Finance. (h) gains from Redemption of Shares or Units of Participation in Mutual Fund and Unit Investment Trust Fund. - Gains realized by the investor upon redemption of shares f stock in a mutual fund company as defined in Section 22(BB) of this Code, or units of participation in a Mutual Fund or Unit Investment Trust Fund: *Provided,* That prior to such redemption, final taxes due on realized gains have been previously withheld at the level of the underlying assets. x x x.""
+
+ **Section 9.** Section 34 of the National Internal Revenue Code of 1997, as amended, is hereby further amended to read as follows:
+
+ > ""**Section 34.** Deductions from Gross Income. -
+>
+>  x x x
+>
+>  (E) Bad Debts. -
+>
+>  (1) In General. - x x x (2) Securities Becoming Worthless. - If securities, as defined in Section 22(T), are ascertained to be worthless and charged off within the taxable year and are capital assets, the loss resulting therefrom shall be considered as a loss from the sale or exchange of capital assets, on the last day of such taxable year. Securities held by a dealer in securities or an entity licensed by the appropriate government or an entity licensed by the appropriate government regulatory agencies to buy and sell securities either for the entity's own account or for the account of others, including banks and other financial intermediaries, shall be considered ordinary assets, as such securities held that are ascertained to be worthless shall be considered as ordinary losses that are allowed as deduction from taxable income. x x x (M) An additional deduction of fifty percent (50%) of the employer's actual contributions made to personal equity and retirement accounts under Republic Act No. 9505, otherwise known as ""personal Equity and Retirement Account (PERA) Act of 2008,' shall be granted to private employers that contribute at least equal to the contributions of their employees, subject to the maximum allowable contribution under Republic Act No. 9505: *Provided,* That only private employers that contribute to all of their employee' PERA accounts shall be eligible for the additional allowable deduction.""

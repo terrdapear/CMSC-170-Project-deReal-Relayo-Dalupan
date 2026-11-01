@@ -1,0 +1,173 @@
+repacts:datasets/markdown/repacts/1990/ra_6920_1990.md	repacts	1990		datasets/markdown/repacts/1990/ra_6920_1990.md	ra_6920_1990	AN ACT ESTABLISHING A TEN-BED MUNICIPAL HOSPITAL IN BARANGAY SAN RAMON, CITY OF IRIGA, PROVINCE OF CAMARINES SUR, TO BE KNOWN AS THE SAN RAMON MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR	"**Eighth Congress**
+
+   
+  **REPUBLIC ACT No. 6920 March 9, 1990**
+
+ **AN ACT ESTABLISHING A TEN-BED MUNICIPAL HOSPITAL IN BARANGAY SAN RAMON, CITY OF IRIGA, PROVINCE OF CAMARINES SUR, TO BE KNOWN AS THE SAN RAMON MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** There shall be established, under the supervision of the Department of Health, a ten-bed municipal hospital in Barangay San Ramon, City of Iriga, Province of Camarines Sur, to be known as the San Ramon Municipal Hospital.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be charged against the appropriations authorized for the purpose under the Fiscal Year 1989 General Appropriations Act. Thereafter, such sums as may be necessary for the operation and maintenance of the herein hospital shall be included in the annual General Appropriations Act.
+
+ **Section 3.** Before the construction of the hospital, the Secretary of Health shall issue a written assurance that personnel of the hospital will be appointed and that funds for its maintenance and operation have been appropriated.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: **March 9, 1990**
+"	success	Republic Act	Establishes a ten-bed municipal hospital in Barangay San Ramon, City of Iriga, Camarines Sur, and appropriates funds for its construction, operation, and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""Establishes a ten-bed municipal hospital in Barangay San Ramon, City of Iriga, Camarines Sur, under the supervision of the Department of Health.""}, {""title"": ""Section 2."", ""summary"": ""Allocates necessary funds from the Fiscal Year 1989 General Appropriations Act and future appropriations for construction, operation, and maintenance.""}, {""title"": ""Section 3."", ""summary"": ""Requires the Secretary of Health to issue a written assurance that personnel will be appointed and funds have been appropriated.""}, {""title"": ""Section 4."", ""summary"": ""States that the act shall take effect upon its approval.""}]"	6920	March 9, 1990			Establishment of a municipal hospital in Barangay San Ramon, City of Iriga, Camarines Sur	"[""Establishment of a ten-bed municipal hospital"", ""Funding from the General Appropriations Act"", ""Secretary of Health assurance of personnel and funds"", ""Effective date upon approval""]"		"[""Healthcare"", ""Hospital"", ""Local Government"", ""Philippines"", ""Republic Act""]"	"[""municipal hospital"", ""San Ramon"", ""Camarines Sur"", ""Department of Health"", ""General Appropriations Act"", ""funding"", ""construction"", ""operation"", ""maintenance""]"
+repacts:datasets/markdown/repacts/1990/ra_6921_1990.md	repacts	1990		datasets/markdown/repacts/1990/ra_6921_1990.md	ra_6921_1990	AN ACT ESTABLISHING A TEN-BED MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF OLUTANGA, PROVINCE OF ZAMBOANGA DEL SUR, TO BE KNOWN AS THE OLUTANGA MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR	"**Eighth Congress**
+
+   
+  **REPUBLIC ACT No. 6921 March 9, 1990**
+
+ **AN ACT ESTABLISHING A TEN-BED MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF OLUTANGA, PROVINCE OF ZAMBOANGA DEL SUR, TO BE KNOWN AS THE OLUTANGA MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** There shall be established, under the direct supervision of the Department of Health, a ten-bed municipal hospital in the Municipality of Olutanga, Province of Zamboanga del Sur, to be known as the Olutanga Municipal Hospital.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be charged against the appropriations authorized for the purpose under the Fiscal Year 1989 General Appropriations Act. Thereafter, such sums as may be necessary for the operation and maintenance of the herein hospital shall be included in the annual General Appropriations Act.
+
+ **Section 3.** Before the construction of the hospital, the Secretary of Health shall issue a written assurance that personnel of the hospital will be appointed and that funds for its maintenance and operation have been appropriated.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: **March 9, 1990**
+"	success	Republic Act	The Act establishes a ten-bed municipal hospital in Olutanga, Zamboanga del Sur, known as the Olutanga Municipal Hospital, and appropriates funds for its construction, operation, and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""There shall be established, under the direct supervision of the Department of Health, a ten-bed municipal hospital in the Municipality of Olutanga, Province of Zamboanga del Sur, to be known as the Olutanga Municipal Hospital.""}, {""title"": ""Section 2."", ""summary"": ""The amount necessary to carry out the provisions of this Act shall be charged against the appropriations authorized for the purpose under the Fiscal Year 1989 General Appropriations Act. Thereafter, such sums as may be necessary for the operation and maintenance of the herein hospital shall be included in the annual General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""Before the construction of the hospital, the Secretary of Health shall issue a written assurance that personnel of the hospital will be appointed and that funds for its maintenance and operation have been appropriated.""}, {""title"": ""Section 4."", ""summary"": ""This Act shall take effect upon its approval.""}]"	6921	March 9, 1990			To establish a ten-bed municipal hospital in Olutanga, Zamboanga del Sur, and appropriate funds for its operation and maintenance.	"[""Establishment of a ten-bed municipal hospital under DOH supervision"", ""Funding from FY 1989 GA and future General Appropriations Acts"", ""Secretary of Health to issue assurance on personnel and funds"", ""Act effective upon approval""]"		"[""Healthcare"", ""Hospital"", ""Municipal"", ""Zamboanga del Sur"", ""Republic Act""]"	"[""ten-bed"", ""municipal hospital"", ""Olutanga"", ""Zamboanga del Sur"", ""Department of Health"", ""General Appropriations Act"", ""Secretary of Health""]"
+repacts:datasets/markdown/repacts/1990/ra_6922_1990.md	repacts	1990		datasets/markdown/repacts/1990/ra_6922_1990.md	ra_6922_1990	AN ACT ESTABLISHING A TEN-BED MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF ROSARIO, PROVINCE OF BATANGAS, TO BE KNOWN AS THE MAHAL NA VIRGEN MARIA STO. ROSARIO MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR	"**Eighth Congress**
+
+   
+  **REPUBLIC ACT No. 6922 March 9, 1990**
+
+ **AN ACT ESTABLISHING A TEN-BED MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF ROSARIO, PROVINCE OF BATANGAS, TO BE KNOWN AS THE MAHAL NA VIRGEN MARIA STO. ROSARIO MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** There shall be established, under the direct supervision of the Director of Medical Services of the Department of Health, a ten-bed municipal hospital in the Municipality of Rosario, Province of Batangas, to be known as the Mahal na Virgen Maria Sto. Rosario Municipal Hospital.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be charged against the appropriations authorized for the purpose under the Fiscal Year 1989 General Appropriations Act. Thereafter, such sums as may be necessary for the operation and maintenance of the herein hospital shall be included in the annual General Appropriations Act.
+
+ **Section 3.** Before the construction of the hospital, the Secretary of Health shall issue a written assurance that personnel of the hospital will be appointed and that funds for its maintenance and operation have been appropriated.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: **March 9, 1990**
+"	success	Republic Act	Establishes a ten‑bed municipal hospital in Rosario, Batangas, naming it Mahal na Virgen Maria Sto. Rosario Municipal Hospital, and appropriates funds for its construction, operation, and maintenance.	"[{""title"": ""Section 1"", ""summary"": ""Establishes a ten\u2011bed municipal hospital in the Municipality of Rosario, Province of Batangas, named Mahal na Virgen Maria Sto. Rosario Municipal Hospital, under the supervision of the Director of Medical Services of the Department of Health.""}, {""title"": ""Section 2"", ""summary"": ""Specifies that funding for construction will come from the FY1989 General Appropriations Act and that ongoing operational funds will be included in subsequent annual General Appropriations Acts.""}, {""title"": ""Section 3"", ""summary"": ""Requires the Secretary of Health to issue written assurance of staff appointment and appropriated funds before construction.""}, {""title"": ""Section 4"", ""summary"": ""The Act becomes effective upon its approval.""}]"	6922	March 9, 1990			To establish a municipal hospital and allocate funds for its construction, operation, and maintenance.	"[""Establishment of a ten\u2011bed municipal hospital in Rosario, Batangas"", ""Appropriation of funds from FY1989 General Appropriations Act"", ""Requirement of written assurance from the Secretary of Health"", ""Effectivity upon approval""]"		"[""Health"", ""Infrastructure"", ""Municipal Hospital""]"	"[""Mahal na Virgen Maria Sto. Rosario"", ""Municipal Hospital"", ""Batangas"", ""Department of Health"", ""General Appropriations Act""]"
+repacts:datasets/markdown/repacts/1990/ra_6923_1990.md	repacts	1990		datasets/markdown/repacts/1990/ra_6923_1990.md	ra_6923_1990	AN ACT ESTABLISHING A TEN-BED MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF SOUTH UPI, PROVINCE OF MAGUINDANAO, TO BE KNOWN AS THE SOUTH UPI MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR	"**Eighth Congress**
+
+   
+  **REPUBLIC ACT No. 6923 March 9, 1990**
+
+ **AN ACT ESTABLISHING A TEN-BED MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF SOUTH UPI, PROVINCE OF MAGUINDANAO, TO BE KNOWN AS THE SOUTH UPI MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** There shall be established, under the supervision of the Department of Health, a ten-bed municipal hospital in the Municipality of South Upi, Province of Maguindanao, to be known as the South Upi Municipal Hospital.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be charged against the appropriations authorized for the purpose under the Fiscal Year 1989 General Appropriations Act. Thereafter, such sums as may be necessary for the operation and maintenance of the herein hospital shall be included in the annual General Appropriations Act.
+
+ **Section 3.** Before the construction of the hospital, the Secretary of Health shall issue a written assurance that personnel of the hospital will be appointed and that funds for its maintenance and operation have been appropriated.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: **March 9, 1990**
+"	success	Republic Act	An act establishing a ten-bed municipal hospital in South Upi, Maguindanao, and appropriating funds for its construction, operation, and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""There shall be established, under the supervision of the Department of Health, a ten-bed municipal hospital in the Municipality of South Upi, Province of Maguindanao, to be known as the South Upi Municipal Hospital.""}, {""title"": ""Section 2."", ""summary"": ""The amount necessary to carry out the provisions of this Act shall be charged against the appropriations authorized for the purpose under the Fiscal Year 1989 General Appropriations Act. Thereafter, such sums as may be necessary for the operation and maintenance of the herein hospital shall be included in the annual General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""Before the construction of the hospital, the Secretary of Health shall issue a written assurance that personnel of the hospital will be appointed and that funds for its maintenance and operation have been appropriated.""}, {""title"": ""Section 4."", ""summary"": ""This Act shall take effect upon its approval.""}]"	6923	March 9, 1990			To establish a ten-bed municipal hospital in South Upi, Maguindanao, and appropriate funds for its construction, operation, and maintenance.	"[""Establishment of a ten-bed municipal hospital in South Upi"", ""Appropriation of funds under FY 1989 General Appropriations Act"", ""Inclusion of future operating and maintenance funds in annual General Appropriations Act"", ""Requirement for a written assurance from the Secretary of Health"", ""Effectivity upon approval""]"		"[""Healthcare"", ""Hospital"", ""Maguindanao"", ""Local Government""]"	"[""South Upi"", ""Municipal Hospital"", ""Department of Health"", ""Appropriations"", ""Fiscal Year 1989"", ""General Appropriations Act""]"
+repacts:datasets/markdown/repacts/1990/ra_6924_1990.md	repacts	1990		datasets/markdown/repacts/1990/ra_6924_1990.md	ra_6924_1990	An Act establishing a ten-bed municipal hospital in the municipality of San Vicente, Province of Davao, to be known as the San Vicente Municipal Hospital, and appropriating funds therefor	"**Eighth Congress**
+
+   
+  **REPUBLIC ACT No. 6924 March 9, 1990**
+
+ **AN ACT ESTABLISHING A TEN-BED MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF SAN VICENTE, PROVINCE OF DAVAO, TO BE KNOWN AS THE SAN VICENTE MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** There shall be established, under the direct supervision of the Department of Health, a ten-bed municipal hospital in the Municipality of San Vicente, Province of Davao, to be known as the San Vicente Municipal Hospital.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be charged against the appropriations authorized for the purpose under the Fiscal Year 1989 General Appropriations Act. Thereafter, such sums as may be necessary for the operation and maintenance of the herein hospital shall be included in the annual General Appropriations Act.
+
+ **Section 3.** Before the construction of the hospital, the Secretary of Health shall issue a written assurance that personnel of the hospital will be appointed and that funds for its maintenance and operation have been appropriated.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: **March 9, 1990**
+"	success	Republic Act	Establishes a ten-bed municipal hospital in San Vicente, Davao, and appropriates funds for its construction and operation.	"[{""title"": ""Section 1"", ""summary"": ""Establishes the San Vicente Municipal Hospital under the supervision of the Department of Health.""}, {""title"": ""Section 2"", ""summary"": ""Funds for construction and operation are charged to the FY 1989 General Appropriations Act and future General Appropriations Acts.""}, {""title"": ""Section 3"", ""summary"": ""The Secretary of Health shall issue a written assurance that personnel and funds for the hospital have been appointed and appropriated.""}, {""title"": ""Section 4"", ""summary"": ""The Act takes effect upon its approval.""}]"	6924	March 9, 1990			To establish a municipal hospital in San Vicente and provide the necessary funding for its construction and operation.	"[""Establishment of San Vicente Municipal Hospital"", ""Funding through FY 1989 GA and subsequent GA"", ""Secretary of Health to assure personnel and funding"", ""Act effective upon approval""]"		"[""Health"", ""Hospitals"", ""San Vicente"", ""Davao"", ""Republic Act 6924""]"	"[""municipal hospital"", ""funding"", ""Department of Health"", ""San Vicente"", ""Davao""]"
+repacts:datasets/markdown/repacts/1990/ra_6925_1990.md	repacts	1990		datasets/markdown/repacts/1990/ra_6925_1990.md	ra_6925_1990	AN ACT ESTABLISHING A TEN-BED MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF LA PAZ, PROVINCE OF AGUSAN DEL SUR, TO BE KNOWN AS THE LA PAZ MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR	"**Eighth Congress**
+
+   
+  **REPUBLIC ACT No. 6925 March 9, 1990**
+
+ **AN ACT ESTABLISHING A TEN-BED MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF LA PAZ, PROVINCE OF AGUSAN DEL SUR, TO BE KNOWN AS THE LA PAZ MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** There shall be established, under the supervision of the Department of Health, a ten-bed municipal hospital in the Municipality of La Paz, Province of Agusan del Sur, to be known as the La Paz Municipal Hospital.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be charged against the appropriations authorized for the purpose under the Fiscal Year 1989 General Appropriations Act. Thereafter, such sums as may be necessary for the operation and maintenance of the herein hospital shall be included in the annual General Appropriations Act.
+
+ **Section 3.** Before the construction of the hospital, the Secretary of Health shall issue a written assurance that personnel of the hospital will be appointed and that funds for its maintenance and operation have been appropriated.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: **March 9, 1990**
+"	success	Republic Act	An act to establish a ten‑bed municipal hospital in La Paz, Agusan del Sur, known as the La Paz Municipal Hospital, and to appropriate funds for its construction, operation, and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of a ten\u2011bed municipal hospital in La Paz, Agusan del Sur, under the supervision of the Department of Health.""}, {""title"": ""Section 2."", ""summary"": ""Funding for construction and operation to be charged against the 1989 General Appropriations Act and included in subsequent annual General Appropriations Acts.""}, {""title"": ""Section 3."", ""summary"": ""Requirement for the Secretary of Health to issue written assurance of personnel appointment and appropriated funds before construction.""}, {""title"": ""Section 4."", ""summary"": ""Act takes effect upon approval.""}]"	6925	March 9, 1990			To establish a municipal hospital in La Paz, Agusan del Sur, and provide for its funding and operation.	"[""Establishes a ten\u2011bed municipal hospital in La Paz, Agusan del Sur"", ""Appropriates funds for construction and operation"", ""Requires Secretary of Health to issue assurance of personnel and funding"", ""Act takes effect upon approval""]"		"[""health"", ""hospital"", ""municipal"", ""agusan del sur""]"	"[""municipal hospital"", ""agusan del sur"", ""department of health"", ""fiscal appropriation""]"
+repacts:datasets/markdown/repacts/1990/ra_6926_1990.md	repacts	1990		datasets/markdown/repacts/1990/ra_6926_1990.md	ra_6926_1990	An Act Establishing a Ten-Bed Municipal Hospital in the Municipality of Siruma, Province of Camarines Sur, to be Known as the Siruma Municipal Hospital, and Appropriating Funds Therefor	"**Eighth Congress**
+
+   
+  **REPUBLIC ACT No. 6926 March 9, 1990**
+
+ **AN ACT ESTABLISHING A TEN-BED MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF SIRUMA, PROVINCE OF CAMARINES SUR, TO BE KNOWN AS THE SIRUMA MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** There shall be established, under the direct supervision of the Department of Health, a ten-bed municipal hospital in the Municipality of Siruma, Province of Camarines Sur, to be known as the Siruma Municipal Hospital.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be charged against the appropriations authorized for the purpose under the Fiscal Year 1989 General Appropriations Act. Thereafter, such sums as may be necessary for the operation and maintenance of the herein hospital shall be included in the annual General Appropriations Act.
+
+ **Section 3.** Before the construction of the hospital, the Secretary of Health shall issue a written assurance that personnel of the hospital will be appointed and that funds for its maintenance and operation have been appropriated.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: **March 9, 1990**
+"	success	Health	This law establishes a ten-bed municipal hospital in Siruma, Camarines Sur, appropriates the necessary funds, and sets procedural requirements for its operation.	"[{""title"": ""Section 1."", ""summary"": ""Establishes a ten-bed municipal hospital in Siruma under the supervision of the Department of Health.""}, {""title"": ""Section 2."", ""summary"": ""Authorizes appropriation of funds from the FY 1989 General Appropriations Act and future appropriations for operation and maintenance.""}, {""title"": ""Section 3."", ""summary"": ""Requires the Secretary of Health to issue written assurance of personnel appointments and funding for the hospital.""}, {""title"": ""Section 4."", ""summary"": ""The act takes effect upon its approval.""}]"	6926	March 9, 1990				"[""Establishment of a ten-bed municipal hospital in Siruma"", ""Appropriation of funds from FY 1989 General Appropriations Act"", ""Requirement for Secretary of Health to issue assurance"", ""Act becomes effective upon approval""]"		"[""Health"", ""Hospital"", ""Local Government"", ""Public Health""]"	"[""Siruma"", ""Camarines Sur"", ""Municipal Hospital"", ""Department of Health"", ""FY 1989 GA"", ""Appropriations"", ""Healthcare"", ""Philippines""]"
+repacts:datasets/markdown/repacts/1990/ra_6927_1990.md	repacts	1990		datasets/markdown/repacts/1990/ra_6927_1990.md	ra_6927_1990	AN ACT ESTABLISHING A TEN-BED MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF BULAN, PROVINCE OF SORSOGON, TO BE KNOWN AS THE BULAN MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR	"**Eighth Congress**
+
+   
+  **REPUBLIC ACT No. 6927 March 9, 1990**
+
+ **AN ACT ESTABLISHING A TEN-BED MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF BULAN, PROVINCE OF SORSOGON, TO BE KNOWN AS THE BULAN MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** There shall be established, under the supervision of the Department of Health, a ten-bed municipal hospital in the Municipality of Bulan, Province of Sorsogon, to be known as the Bulan Municipal Hospital.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be charged against the appropriations authorized for the purpose under the Fiscal Year 1989 General Appropriations Act. Thereafter, such sums as may be necessary for the operation and maintenance of the herein hospital shall be included in the annual General Appropriations Act.
+
+ **Section 3.** Before the construction of the hospital, the Secretary of Health shall issue a written assurance that personnel of the hospital will be appointed and that funds for its maintenance and operation have been appropriated.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: **March 9, 1990**
+"	success	Republic Act	This act establishes a ten-bed municipal hospital in Bulan, Sorsogon, and appropriates funds for its construction, operation, and maintenance, under the supervision of the Department of Health.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of a ten-bed municipal hospital in the Municipality of Bulan, Province of Sorsogon, to be known as the Bulan Municipal Hospital, under the supervision of the Department of Health.""}, {""title"": ""Section 2."", ""summary"": ""Funding for the hospital will be charged against the appropriations authorized for the Fiscal Year 1989 General Appropriations Act, and subsequent operating and maintenance funds will be included in the annual General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""Prior to construction, the Secretary of Health shall issue a written assurance that hospital personnel will be appointed and that funds for maintenance and operation have been appropriated.""}, {""title"": ""Section 4."", ""summary"": ""The act shall take effect upon its approval.""}]"	REPUBLIC ACT No. 6927	March 9, 1990			To establish a ten-bed municipal hospital in Bulan, Sorsogon, and allocate necessary funds for its construction, operation, and maintenance.	"[""Establishment of a ten-bed municipal hospital in Bulan, Sorsogon"", ""Appropriation of funds for construction and subsequent operation"", ""Requirement of written assurance from the Secretary of Health before construction"", ""Effective date upon approval""]"		"[""Health"", ""Hospital"", ""Municipal"", ""Sorsogon"", ""Republic Act"", ""1990""]"	"[""Bulan"", ""Sorsogon"", ""municipal hospital"", ""funding"", ""appropriations"", ""Department of Health"", ""Secretary of Health""]"
+repacts:datasets/markdown/repacts/1990/ra_6928_1990.md	repacts	1990		datasets/markdown/repacts/1990/ra_6928_1990.md	ra_6928_1990	AN ACT ESTABLISHING A TEN-BED MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF SAN PEDRO, PROVINCE OF LAGUNA, TO BE KNOWN AS THE SAN PEDRO MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR	"**Eighth Congress**
+
+   
+  **REPUBLIC ACT No. 6928 March 9, 1990**
+
+ **AN ACT ESTABLISHING A TEN-BED MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF SAN PEDRO, PROVINCE OF LAGUNA, TO BE KNOWN AS THE SAN PEDRO MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** There shall be established, under the direct supervision of the Director of Medical Services of the Department of Health, a ten-bed municipal hospital in the Municipality of San Pedro, Province of Laguna, to be known as the San Pedro Municipal Hospital.
+
+ **Section 2.** The Department of Health shall promulgate such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act shall be charged against the appropriations authorized for the purpose under the Fiscal Year 1989 General Appropriations Act. Thereafter, such sums as may be necessary for the operation and maintenance of the herein hospital shall be included in the annual General Appropriations Act.
+
+ **Section 4.** Before the construction of the hospital, the Secretary of Health shall issue a written assurance that personnel of the hospital will be appointed and that funds for its maintenance and operation have been appropriated.
+
+ **Section 5.** This Act shall take effect upon its approval.
+
+ Approved: **March 9, 1990**
+"	success	Republic Act	This act establishes a ten-bed municipal hospital in San Pedro, Laguna, and appropriates funds for its construction, operation, and maintenance.	"[{""title"": ""Section 1"", ""summary"": ""Establishes a ten-bed municipal hospital in San Pedro, Laguna under the supervision of the Director of Medical Services.""}, {""title"": ""Section 2"", ""summary"": ""Authorizes the Department of Health to promulgate rules and regulations necessary to carry out the purpose of the Act.""}, {""title"": ""Section 3"", ""summary"": ""Provides for the appropriation of funds for construction and ongoing operation, charging costs against fiscal appropriations.""}, {""title"": ""Section 4"", ""summary"": ""Requiring the Secretary of Health to issue a written assurance of personnel appointment and funding before construction.""}, {""title"": ""Section 5"", ""summary"": ""Specifies that the act takes effect upon its approval.""}]"	6928	March 9, 1990			To establish a municipal hospital in San Pedro, Laguna and appropriate funds for its construction and operation.	"[""Establishment of a ten-bed municipal hospital in San Pedro, Laguna."", ""Department of Health to issue necessary rules and regulations."", ""Appropriation of funds for construction and maintenance from FY 1989 GA Act and subsequent General Appropriations Acts."", ""Requirement of written assurance from Secretary of Health before construction."", ""Effective date upon approval.""]"		"[""Healthcare"", ""Hospital"", ""Municipal"", ""Laguna"", ""San Pedro""]"	"[""ten-bed hospital"", ""public health"", ""Department of Health"", ""Fiscal Year 1989"", ""General Appropriations Act""]"

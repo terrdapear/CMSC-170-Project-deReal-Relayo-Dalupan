@@ -1,0 +1,198 @@
+
+ | (Sgd.) **MYRA MARIE D. VILLARICA** Secretary of the Senate | (Sgd.) **MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved: APR 29 2022
+
+ (Sgd.) **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Legislation	Establishes a cultural center and museum in Dagupan City, Pangasinan, outlining its purpose, governance, funding, and implementation provisions.	"[{""title"": ""Section 1."", ""summary"": ""Affirms the State\u2019s role in promoting arts and cultural heritage as per the Constitution.""}, {""title"": ""Section 2."", ""summary"": ""Establishes the Edades and Bernal Cultural Center and Museum in Dagupan City with objectives to promote culture and arts.""}, {""title"": ""Section 3."", ""summary"": ""Describes collaboration between City Government of Dagupan and the National Commission for Culture and the Arts (NCCA) for governance and operations.""}, {""title"": ""Section 4."", ""summary"": ""Mandates the City Government of Dagupan to provide land for the center\u2019s construction.""}, {""title"": ""Section 5."", ""summary"": ""Allocates funding from the NCCA\u2019s budget and future General Appropriations Act.""}, {""title"": ""Section 6."", ""summary"": ""Requires NCCA and City Government to promulgate rules and regulations within 60 days.""}, {""title"": ""Section 7."", ""summary"": ""Sets effective date to 15 days after publication in Official Gazette or newspaper.""}]"	11726	April 29, 2022			To create a cultural institution that preserves and promotes the artistic heritage of Dagupan City and the nation, fostering creative industries.	"[""Establishment of Edades and Bernal Cultural Center and Museum"", ""Collaboration with NCCA and City Government"", ""Provision of land by City Government"", ""Funding allocation from NCCA and General Appropriations Act"", ""Mandated promulgation of rules within 60 days"", ""Effectivity 15 days after publication""]"		"[""Cultural Heritage"", ""Museums"", ""Arts"", ""Dagupan City"", ""Pangasinan""]"	"[""Cultural Center"", ""Museum"", ""Arts Promotion"", ""NCCA"", ""Dagupan""]"
+repacts:datasets/markdown/repacts/2022/ra_11727_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11727_2022.md	ra_11727_2022	"AN ACT DECLARING JUNE 21 OF EVERY YEAR A SPECIAL NONWORKING HOLIDAY IN TAGAYTAY CITY, PROVINCE OF CAVITE IN COMMEMORATION OF ITS FOUNDATION DAY TO BE KNOWN AS ""CHARTER DAY OF TAGAYTAY CITY"" OR ""ARAW NG TAGAYTAY"""	"Eighteenth Congress Third Regular Session
+
+ **[ REPUBLIC ACT NO. 11727, April 29, 2022 ]**
+
+ AN ACT DECLARING JUNE 21 OF EVERY YEAR A SPECIAL NONWORKING HOLIDAY IN TAGAYTAY CITY, PROVINCE OF CAVITE IN COMMEMORATION OF ITS FOUNDATION DAY TO BE KNOWN AS ""CHARTER DAY OF TAGAYTAY CITY"" OR ""ARAW NG TAGAYTAY,"" AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 10775
+
+ By it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Section of Republic Act No. 10775 is hereby amended to read as follows:
+
+ ""**Section 1.** June 21 of every year is hereby declared as special nonworking holiday in Tagaytay City, Province of Cavite in commemoration of its foundation day to be known as ""Charter Day of Tagaytay City"" or ""Araw ng Lungsod ng Tagaytay"".
+
+ **Section 2.** Section 2 of Republic Act No. 10775 is hereby repealed.
+
+ **Section 3.** This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (Sgd.) **VICENTE C. SOTTO III** President of the Senate | (Sgd.) **LORD ALLAN JAY Q. VELASCO** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on December 17, 2019 and January 31, 2022, respectively.
+
+ | (Sgd.) **MYRA MARIE D. VILLARICA** Secretary of the Senate | (Sgd.) **MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved: APR 29 2022
+
+ (Sgd.) **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	This act declares June 21 as a special nonworking holiday in Tagaytay City, Cavite, to commemorate its foundation day, and amends RA 10775 by adding the holiday and repealing Section 2.	"[{""title"": ""Section 1."", ""summary"": ""June 21 of every year is declared a special nonworking holiday in Tagaytay City, Province of Cavite, to commemorate its foundation day, known as \""Charter Day of Tagaytay City\"" or \""Araw ng Lungsod ng Tagaytay\"".""}, {""title"": ""Section 2."", ""summary"": ""Section 2 of RA 10775 is repealed.""}, {""title"": ""Section 3."", ""summary"": ""The act shall take effect fifteen days after its publication in the Official Gazette or a newspaper of general circulation.""}]"	11727	April 29, 2022	"[{""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}, {""name"": ""LORD ALLAN JAY Q. VELASCO"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""MYRA MARIE D. VILLARICA"", ""title"": ""Secretary of the Senate""}, {""name"": ""MARK LLANDRO L. MENDOZA"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""RODRIGO ROA DUTERTE"", ""title"": ""President of the Philippines""}]"	To declare a special nonworking holiday on June 21 in Tagaytay City, Cavite, commemorating its foundation day, and to amend RA 10775 accordingly.	"[""Declares June 21 as a special nonworking holiday in Tagaytay City"", ""Amends RA 10775 by adding holiday"", ""Repeals Section 2 of RA 10775"", ""Becomes effective 15 days after publication""]"	Republic Act No. 10775	"[""Holiday"", ""Tagaytay City"", ""Cavite"", ""Foundational Day""]"	"[""June 21"", ""special nonworking holiday"", ""Tagaytay City"", ""Charter Day"", ""Araw ng Tagaytay"", ""Republic Act 10775"", ""Amendment"", ""Cavite""]"
+repacts:datasets/markdown/repacts/2022/ra_11728_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11728_2022.md	ra_11728_2022	AN ACT COMMEMORATING THE CITYHOOD OF SAN JOSE DEL MONTE, PROVINCE OF BULACAN THROUGH THE ANNUAL CELEBRATION OF THE TANGLAWAN FESTIVAL ON THE OCCASION OF ITS FOUNDATION DAY IN SEPTEMBER 10, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 9750	"Eighteenth Congress Third Regular Session
+
+ **[ REPUBLIC ACT NO. 11728, April 29, 2022 ]**
+
+ AN ACT COMMEMORATING THE CITYHOOD OF SAN JOSE DEL MONTE, PROVINCE OF BULACAN THROUGH THE ANNUAL CELEBRATION OF THE TANGLAWAN FESTIVAL ON THE OCCASION OF ITS FOUNDATION DAY IN SEPTEMBER 10, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 9750
+
+ By it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Section 1 of Republic Act No. 9750 is hereby amended to read as follows:
+
+ ""**Section 1.** September 10 of every year is hereby declared a special nonworking holiday in the City of San Jose del Monte, Province of Bulacan in commemoration of its cityhood. It shall be known as the 'Foundation Day of the City of San Jose del Monte' and shall be celebrated annually through the Tanglawan Festival"".
+
+ **Section 2.** This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (Sgd.) **VICENTE C. SOTTO III** President of the Senate | (Sgd.) **LORD ALLAN JAY Q. VELASCO** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on March 9, 2020 and January 31, 2022, respectively.
+
+ | (Sgd.) **MYRA MARIE D. VILLARICA** Secretary of the Senate | (Sgd.) **MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved: APR 29 2022
+
+ (Sgd.) **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	Amendment to RA 9750 to declare September 10 as a special nonworking holiday in San Jose del Monte, Bulacan, commemorating its cityhood via the Tanglawan Festival.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 1 of RA 9750 to declare September 10 as a special nonworking holiday, known as the 'Foundation Day of the City of San Jose del Monte', celebrated annually through the Tanglawan Festival.""}, {""title"": ""Section 2"", ""summary"": ""Act takes effect fifteen (15) days after its publication in the Official Gazette or a newspaper of general circulation.""}]"	11728	April 29, 2022	"[{""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}, {""name"": ""LORD ALLAN JAY Q. VELASCO"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""MYRA MARIE D. VILLARICA"", ""title"": ""Secretary of the Senate""}, {""name"": ""MARK LLANDRO L. MENDOZA"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""RODRIGO ROA DUTERTE"", ""title"": ""President of the Philippines""}]"	To commemorate the cityhood of San Jose del Monte, Bulacan by declaring September 10 as a special nonworking holiday and celebrating annually through the Tanglawan Festival.	"[""Amendment to RA 9750 Section 1 to declare September 10 as a special nonworking holiday."", ""Prescribes that the holiday is known as 'Foundation Day of the City of San Jose del Monte'."", ""Act takes effect 15 days after publication.""]"	Republic Act No. 9750	"[""Holiday"", ""Cityhood"", ""Bulacan"", ""San Jose del Monte"", ""Tanglawan Festival"", ""Republic Act"", ""Amendment""]"	"[""San Jose del Monte"", ""Bulacan"", ""Tanglawan Festival"", ""Foundation Day"", ""special nonworking holiday"", ""Republic Act 11728"", ""RA 9750"", ""cityhood"", ""Philippines""]"
+repacts:datasets/markdown/repacts/2022/ra_11729_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11729_2022.md	ra_11729_2022	"AN ACT DECLARING JUNE 10 OF EVERY YEAR A SPECIAL NONWORKING HOLIDAY IN THE PROVINCE OF TARLAC TO BE KNOWN AS ""DANDING COJUANGCO DAY"", IN COMMEMORATION OF THE BIRTH ANNIVERSARY OF EDUARDO ""DANDING"" MURPHY COJUANGCO, JR."	"Eighteenth Congress Third Regular Session
+
+ **[ REPUBLIC ACT NO. 11729, April 29, 2022 ]**
+
+ AN ACT DECLARING JUNE 10 OF EVERY YEAR A SPECIAL NONWORKING HOLIDAY IN THE PROVINCE OF TARLAC TO BE KNOWN AS ""DANDING COJUANGCO DAY"", IN COMMEMORATION OF THE BIRTH ANNIVERSARY OF EDUARDO ""DANDING"" MURPHY COJUANGCO, JR.
+
+ By it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** June 10 of every year is hereby declared as special nonworking holiday in the Province of Tarlac to be known as ***""Danding Cojuangco Day"",*** in commemoration of the birth anniversary of Eduardo ""Danding"" Murphy Cojuangco, Jr.
+
+ **Section 2.** This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (Sgd.) **VICENTE C. SOTTO III** President of the Senate | (Sgd.) **LORD ALLAN JAY Q. VELASCO** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on September 23, 2020 and January 17, 2022, respectively.
+
+ | (Sgd.) **MYRA MARIE D. VILLARICA** Secretary of the Senate | (Sgd.) **MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved: APR 29 2022
+
+ (Sgd.) **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	"This act declares June 10 as a special nonworking holiday in the province of Tarlac, known as ""Danding Cojuangco Day"", to commemorate the birth anniversary of Eduardo ""Danding"" Murphy Cojuangco Jr. The act takes effect fifteen days after publication."	"[{""title"": ""Section 1."", ""summary"": ""June 10 of every year is declared as a special nonworking holiday in the Province of Tarlac to be known as \""Danding Cojuangco Day\"", in commemoration of the birth anniversary of Eduardo \""Danding\"" Murphy Cojuangco Jr.""}, {""title"": ""Section 2."", ""summary"": ""This act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.""}]"	11729	April 29, 2022	"[{""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}, {""name"": ""LORD ALLAN JAY Q. VELASCO"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""MYRA MARIE D. VILLARICA"", ""title"": ""Secretary of the Senate""}, {""name"": ""MARK LLANDRO L. MENDOZA"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""RODRIGO ROA DUTERTE"", ""title"": ""President of the Philippines""}]"	"To commemorate the birth anniversary of Eduardo ""Danding"" Murphy Cojuangco Jr. by declaring June 10 as a special nonworking holiday in Tarlac."	"[""June 10 declared as a special nonworking holiday in the province of Tarlac."", ""The holiday is known as \""Danding Cojuangco Day\""."", ""The act takes effect fifteen days after publication.""]"		"[""Holiday"", ""Special Nonworking Holiday"", ""Tarlac"", ""Danding Cojuangco Day"", ""Republic Act""]"	"[""Danding Cojuangco"", ""June 10"", ""Tarlac"", ""special holiday"", ""birth anniversary"", ""Republic Act 11729""]"
+repacts:datasets/markdown/repacts/2022/ra_11730_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11730_2022.md	ra_11730_2022	AN ACT OFFICIALLY NAMING THE MANDAUE CAUSEWAY LOCATED IN THE CITY OF MANDAUE, PROVINCE OF CEBU, STRETCHING FROM THE CORNER OF S.B. CABAHUG ST., TRAVERSING THE TIPOLO CREEK IN BARANGAY CENTRO AND THE MANDAUE RECLAMATION AREA, UP TO THE BRIDGE OVER THE MAHIGA CREEK AT THE CEBU INTERNATIONAL PORT, AS OUANO AVENUE	"Eighteenth Congress Third Regular Session
+
+ **[ REPUBLIC ACT NO. 11730, April 29, 2022 ]**
+
+ AN ACT OFFICIALLY NAMING THE MANDAUE CAUSEWAY LOCATED IN THE CITY OF MANDAUE, PROVINCE OF CEBU, STRETCHING FROM THE CORNER OF S.B. CABAHUG ST., TRAVERSING THE TIPOLO CREEK IN BARANGAY CENTRO AND THE MANDAUE RECLAMATION AREA, UP TO THE BRIDGE OVER THE MAHIGA CREEK AT THE CEBU INTERNATIONAL PORT, AS OUANO AVENUE
+
+ By it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Mandaue Causeway in the City of Mandaue, Province of Cebu, stretching from the corner of S.B. Cabahug St., traversing the Tipolo Creek in Barangay Centro and the Mandaue Reclamation Area, up to the bridge over the Mahiga Creek at the Cebu International Port, comprising a total distance of 2.489 kilometers, is hereby officially named as Ouano Avenue.
+
+ The Don Andres Soriano Avenue, fronting the existing Mandaue City Cultural and Sports Complex, shall not be a part of the Ouano Avenue consistent with Mandaue City Ordinance No. 97/005 promulgated on March 7, 1997.SEC. 2. The Department of Public Works and Highways shall issue the necessary rules, orders and circulars to implement the provisions of this Act within sixty (60) days from its effectivity.
+
+ **Section 3.** This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (Sgd.) **VICENTE C. SOTTO III** President of the Senate | (Sgd.) **LORD ALLAN JAY Q. VELASCO** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on September 28, 2020 and January 31, 2022, respectively.
+
+ | (Sgd.) **MYRA MARIE D. VILLARICA** Secretary of the Senate | (Sgd.) **MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved: APR 29 2022
+
+ (Sgd.) **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	The act officially names the Mandaue Causeway as Ouano Avenue, excluding the Don Andres Soriano Avenue, and directs the Department of Public Works and Highways to issue necessary rules within 60 days; it takes effect 15 days after publication.	"[{""title"": ""Section 1"", ""summary"": ""The Mandaue Causeway, spanning 2.489 km, is officially named as Ouano Avenue.""}, {""title"": ""Section 2"", ""summary"": ""The Department of Public Works and Highways shall issue rules, orders, and circulars to implement the act within sixty days from its effectivity.""}, {""title"": ""Section 3"", ""summary"": ""The act shall take effect fifteen days after its publication in the Official Gazette or a newspaper of general circulation.""}]"	11730	April 29, 2022		"[{""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}, {""name"": ""LORD ALLAN JAY Q. VELASCO"", ""title"": ""Speaker of the House of Representatives""}, {""name"": ""MYRA MARIE D. VILLARICA"", ""title"": ""Secretary of the Senate""}, {""name"": ""MARK LLANDRO L. MENDOZA"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""RODRIGO ROA DUTERTE"", ""title"": ""President of the Philippines""}]"	To officially name the Mandaue Causeway as Ouano Avenue.	"[""The Mandaue Causeway is officially named as Ouano Avenue."", ""The Don Andres Soriano Avenue is excluded from the naming."", ""The Department of Public Works and Highways will issue necessary rules within 60 days."", ""The act takes effect 15 days after publication.""]"		"[""Infrastructure"", ""Transportation"", ""Cebu"", ""Causeway"", ""Naming Act""]"	"[""Mandaue Causeway"", ""Ouano Avenue"", ""Republic Act 11730"", ""Cebu"", ""Infrastructure"", ""Public Works and Highways""]"
+repacts:datasets/markdown/repacts/2022/ra_11731_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11731_2022.md	ra_11731_2022	AN ACT RENAMING THE CARMEN-SANTO TOMAS ROAD, STRETCHING FROM JUNCTION AGUSAN-DAVAO ROAD FRONTING THE BATTLE OF ISING MONUMENT IN BARANGAY ISING, TRAVERSING THROUGH BARANGAYS NEW CAMILING, ALEJAL AND MAGSAYSAY, ALL IN THE MUNICIPALITY OF CARMEN, PROVINCE OF DAVAO DEL NORTE, AS SATURNINO R. SILVA ROAD	"Eighteenth Congress Third Regular Session
+
+ **[ REPUBLIC ACT NO. 11731, April 29, 2022 ]**
+
+ AN ACT RENAMING THE CARMEN-SANTO TOMAS ROAD, STRETCHING FROM JUNCTION AGUSAN-DAVAO ROAD FRONTING THE BATTLE OF ISING MONUMENT IN BARANGAY ISING, TRAVERSING THROUGH BARANGAYS NEW CAMILING, ALEJAL AND MAGSAYSAY, ALL IN THE MUNICIPALITY OF CARMEN, PROVINCE OF DAVAO DEL NORTE, AS SATURNINO R. SILVA ROAD
+
+ By it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Carmen-Santo Tomas Road, stretching from Junction Agusan-Davao Road fronting the Battle of Ising Monument in Barangay Ising, traversing through barangays New Camiling, Alejal and Magsaysay, all in the Municipality of Carmen, Province of Davao del Norte, is hereby renamed as Saturnino R. Silva Road.
+
+ **Section 2.** The Department of Public Works and Highways shall issue the necessary rules, orders and circulars to implement the provisions of this Act within sixty (60) days from its effectivity.
+
+ **Section 3.** This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (Sgd.) **VICENTE C. SOTTO III** President of the Senate | (Sgd.) **LORD ALLAN JAY Q. VELASCO** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on August 25, 2021 and January 31, 2022, respectively.
+
+ | (Sgd.) **MYRA MARIE D. VILLARICA** Secretary of the Senate | (Sgd.) **MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved: APR 29 2022
+
+ (Sgd.) **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	Renames the Carmen–Santo Tomas Road to Saturnino R. Silva Road in Davao del Norte, with implementation directives and effective date provisions.	"[{""title"": ""Section 1."", ""summary"": ""Renames the Carmen\u2013Santo Tomas Road to Saturnino R. Silva Road.""}, {""title"": ""Section 2."", ""summary"": ""The Department of Public Works and Highways shall issue rules, orders and circulars to implement the Act within sixty days from its effectivity.""}, {""title"": ""Section 3."", ""summary"": ""The Act takes effect fifteen days after publication in the Official Gazette or a newspaper of general circulation.""}]"	11731	April 29, 2022			To rename the Carmen–Santo Tomas Road to Saturnino R. Silva Road in the municipality of Carmen, Davao del Norte.	"[""Renames the Carmen\u2013Santo Tomas Road as Saturnino R. Silva Road."", ""The Department of Public Works and Highways shall issue necessary rules, orders and circulars within sixty days from its effectivity."", ""The Act shall take effect fifteen days after publication in the Official Gazette or a newspaper of general circulation.""]"		"[""Transportation"", ""Road renaming"", ""Philippines"", ""Republic Act""]"	"[""Carmen\u2013Santo Tomas Road"", ""Saturnino R. Silva Road"", ""Davao del Norte"", ""Renaming"", ""Republic Act 11731""]"
+repacts:datasets/markdown/repacts/2022/ra_11732_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11732_2022.md	ra_11732_2022	AN ACT GRANTING PHILIPPINE CITIZENSHIP TO FENG LI	"Eighteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-sixth day of July, two thousand twenty one.*
+
+ **[ REPUBLIC ACT NO. 11732, July 26, 2021 ]**
+
+ **AN ACT GRANTING PHILIPPINE CITIZENSHIP TO FENG LI**
+
+ ***Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:***
+
+ **Section 1.** Mr. Feng Li hereby granted Philippine citizenship wit all the rights, privileges and prerogatives as well as the duties and obligations appurtenant thereto under the Constitution and the laws of the Republic of the Philippines.
+
+ **Section 2.** Mr. Feng Li shall take the Oath of Allegiance to the Republic of the Philippines before an officer duly authorized to administer the same. The Oath of Allegiance shall be registered with the Bureau of Immigration.
+
+ **Section 3.** Upon registration of the Oath of Allegiance, the Bureau of Immigration shall issue a Certificate of Naturalization to Mr.Feng Li who shall thereupon enter into the full enjoynment of Philippine citizenship.
+
+ **Section 4.** This Act shall take effect fifteen (15) days after its publication in the *Official Gazette* or in the newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **VICENTE C. SOTTO III** President of the Senate | (SGD.) **LORD ALLAN JAY Q. VELASCO** Speaker of the House of Representatives |
+| --- | --- |
+| (SGD.) **VICENTE C. SOTTO III** President of the Senate | (SGD.) **LORD ALLAN JAY Q. VELASCO** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on August 2,2021 and January 31,2022, respectively.
+
+ | (SGD.) **MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.) **MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+| --- | --- |
+| (SGD.) **MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.) **MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved: APR 29 2022
+
+ (SGD.) **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	This law grants Philippine citizenship to Feng Li, outlining the conditions, oath, issuance of a certificate of naturalization, and the effective date of the act.	"[{""title"": ""Section 1."", ""summary"": ""Mr. Feng Li is granted Philippine citizenship with all rights, privileges, prerogatives, duties and obligations under the Constitution and laws of the Philippines.""}, {""title"": ""Section 2."", ""summary"": ""Mr. Feng Li shall take the Oath of Allegiance to the Republic of the Philippines before an authorized officer, and the oath shall be registered with the Bureau of Immigration.""}, {""title"": ""Section 3."", ""summary"": ""After registration of the oath, the Bureau of Immigration shall issue a Certificate of Naturalization to Mr. Feng Li, enabling him to enjoy full benefits of Philippine citizenship.""}, {""title"": ""Section 4."", ""summary"": ""The act shall take effect fifteen (15) days after its publication in the Official Gazette or a newspaper of general circulation.""}]"	11732	July 26, 2021	"[{""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}, {""name"": ""LORD ALLAN JAY Q. VELASCO"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""MYRA MARIE D. VILLARICA"", ""title"": ""Secretary of the Senate""}, {""name"": ""MARK LLANDRO L. MENDOZA"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""RODRIGO ROA DUTERTE"", ""title"": ""President of the Philippines""}]"	To grant Philippine citizenship to Feng Li.	"[""Granting citizenship to Feng Li"", ""Oath of Allegiance requirement"", ""Issuance of Certificate of Naturalization"", ""Effective 15 days after publication""]"		"[""Citizenship"", ""Naturalization"", ""Republic Act""]"	"[""Feng Li"", ""Philippine citizenship"", ""Oath of Allegiance"", ""Certificate of Naturalization""]"
+repacts:datasets/markdown/repacts/2022/ra_11733_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11733_2022.md	ra_11733_2022	AN ACT GRANTING PHILIPPINE CITIZENSHIP TO PATRICK FRANCOIS RENUCCI	"Eighteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-sixth day of July, two thousand twenty one.*
+
+ **[ REPUBLIC ACT NO. 11733, April 29, 2022 ]**
+
+ **AN ACT GRANTING PHILIPPINE CITIZENSHIP TO PATRICK FRANCOIS RENUCCI**
+
+ ***Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:***
+
+ **Section 1.** Mr.Patrick Francois Renucci is hereby granted Philippine citizenship with all the rights, priveleges and prerogatives, as well as the duties and obligations appurtenant thereto under the Constitution and the laws of the Republic of the Philippines.
+
+ **Section 2.** Mr.Renucci shall take the Oath of Allegiance to the Republic of the Philippines before an officer duly authorized to administer the same. The Oath of Allegiance shall be registered with the Bureau of Immigration.
+
+ **Section 3.** Upon registration of the Oath of Allegiance, the Bureau of Immigration shall issue a Certificate of Naturalization to Mr.Renucci who shall thereupon enter into the full enjoynment of Philippine citizenship.
+
+ **Section 4.** This Act shall take effect fifteen (15) days after its publication in the *Official Gazette* or in the newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **VICENTE C. SOTTO III** President of the Senate | (SGD.) **LORD ALLAN JAY Q. VELASCO** Speaker of the House of Representatives |
+| --- | --- |
+| (SGD.) **VICENTE C. SOTTO III** President of the Senate | (SGD.) **LORD ALLAN JAY Q. VELASCO** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on August 23,2021 and January 31,2022, respectively.
+
+ | (SGD.) **MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.) **MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |

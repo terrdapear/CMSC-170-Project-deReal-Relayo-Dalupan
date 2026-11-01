@@ -1,0 +1,165 @@
+repacts:datasets/markdown/repacts/1961/ra_3388_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3388_1961.md	ra_3388_1961	An Act Creating the Barrio of Daligdigan in the Municipality of Tuburan, Province of Cebu	"**REPUBLIC ACT No. 3388**
+
+ **An Act Creating the Barrio of Daligdigan in the Municipality of Tuburan, Province of Cebu**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Daligdigan in the Municipality of Tuburan, Province of Cebu, is converted into a barrio of said municipality to be known as the barrio of Daligdigan.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1961.
+"	success	Republic Act	The Act converts the sitio of Daligdigan in Tuburan, Cebu into a barrio and takes effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""The sitio of Daligdigan is converted into a barrio of the municipality of Tuburan.""}, {""title"": ""Section 2."", ""summary"": ""The Act takes effect upon its approval.""}]"	3388	June 18, 1961				"[""Converts the sitio of Daligdigan into a barrio."", ""The Act takes effect upon approval.""]"		"[""Republic Act"", ""Cebu"", ""Municipality"", ""Barrio"", ""Local Government""]"	"[""Daligdigan"", ""Barrio"", ""Municipality"", ""Cebu"", ""Conversion"", ""Local Law""]"
+repacts:datasets/markdown/repacts/1961/ra_3389_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3389_1961.md	ra_3389_1961	An Act Creating Certain Barrios in the Municipality of Alaminos, Province of Pangasinan	"**REPUBLIC ACT No. 3389**
+
+ **An Act Creating Certain Barrios in the Municipality of Alaminos, Province of Pangasinan**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** (a) The sitio of Quibuar East and West in the barrio of Alos, Municipality of Alaminos, Province of Pangasinan, is separated from said barrio and constituted into a distinct and independent barrio of said municipality, to be known as the barrio of Quibuar; and
+
+ (b) The sitio of Dimayat in the barrio of Alos, Municipality of Alaminos, Province of Pangasinan, is separated from said barrio and constituted into a distinct and independent barrio of said municipality, to be known as the barrio of Dimayat.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1961.
+"	success	Republic Act	An act that creates the barrios of Quibuar and Dimayat within the municipality of Alaminos, Pangasinan, by separating specific sitios from the barrio of Alos. The act takes effect upon its approval and was enacted on June 18, 1961.	"[{""title"": ""Section 1"", ""summary"": ""Separates the sitios of Quibuar East and West, and Dimayat from the barrio of Alos to form the independent barrios of Quibuar and Dimayat respectively.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	3389	June 18, 1961			To create new barrios in Alaminos, Pangasinan.	"[""Separates the sitio of Quibuar East and West, and Dimayat from the barrio of Alos to form the independent barrios of Quibuar and Dimayat."", ""The act takes effect upon its approval.""]"		"[""Local Government"", ""Barangay"", ""Administrative Division""]"	"[""barrios"", ""Alaminos"", ""Pangasinan"", ""Quibuar"", ""Dimayat""]"
+repacts:datasets/markdown/repacts/1961/ra_3390_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3390_1961.md	ra_3390_1961	An Act Creating the Barrio of Bugsuk in the Municipality of Balabac, Province of Palawan	"**REPUBLIC ACT No. 3390**
+
+ **An Act Creating the Barrio of Bugsuk in the Municipality of Balabac, Province of Palawan**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Bugsuk in the Municipality of Balabac, Province of Palawan, is converted into a barrio of said municipality, to be known as the barrio of Bugsuk.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1961.
+"	success	Republic Act	The act converts the sitio of Bugsuk into a barrio of the Municipality of Balabac, Palawan, and becomes effective upon approval.	"[{""title"": ""Section 1."", ""summary"": ""The sitio of Bugsuk in the Municipality of Balabac, Province of Palawan, is converted into a barrio of said municipality, to be known as the barrio of Bugsuk.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	3390	June 18, 1961			Creation of the barrio of Bugsuk in the municipality of Balabac.	"[""Conversion of the sitio of Bugsuk into a barrio."", ""Act takes effect upon approval.""]"		"[""Local Government"", ""Barangay"", ""Municipality""]"	"[""Bugsuk"", ""Balabac"", ""Palawan"", ""barrio"", ""sitio"", ""Republic Act"", ""1961""]"
+repacts:datasets/markdown/repacts/1961/ra_3391_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3391_1961.md	ra_3391_1961	An Act Creating Certain Barrios in the Province of Marinduque	"**REPUBLIC ACT No. 3391**
+
+ **An Act Creating Certain Barrios in the Province of Marinduque**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Kay Duque, Mabuhay, Dampulan and Talawan in the Municipality of Torrijos, Province of Marinduque, are converted into barrios to be known as the barrios of Kay Duque, Mabuhay, Dampulan and Talawan, respectively.
+
+ **Section 2.** The sitio of Bambangalon in the Municipality of Boac, same province, is hereby converted into a barrio to be known as the barrio of Bambangalon.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1961.
+"	success	Republic Act	Creates barrios in Marinduque province by converting specified sitios into barrios.	"[{""title"": ""Section 1"", ""summary"": ""Converts the sitios of Kay Duque, Mabuhay, Dampulan and Talawan in the Municipality of Torrijos into barrios named Kay Duque, Mabuhay, Dampulan and Talawan.""}, {""title"": ""Section 2"", ""summary"": ""Converts the sitio of Bambangalon in the Municipality of Boac into the barrio of Bambangalon.""}, {""title"": ""Section 3"", ""summary"": ""The Act shall take effect upon its approval.""}]"	RA 3391	June 18, 1961			To establish new barrios within the province of Marinduque.	"[""Conversion of specified sitios into barrios"", ""Effectiveness upon approval""]"		"[""Barrios"", ""Marinduque"", ""Local Government"", ""Republic Act""]"	"[""Barrios"", ""Marinduque"", ""Sitios"", ""Conversion"", ""Republic Act 3391""]"
+repacts:datasets/markdown/repacts/1961/ra_3392_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3392_1961.md	ra_3392_1961	An Act Creating the Barrio of Sapangan in the Municipality of San Juan, Province of Batangas	"**REPUBLIC ACT No. 3392**
+
+ **An Act Creating the Barrio of Sapangan in the Municipality of San Juan, Province of Batangas**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Sapangan in the barrio of Sampiro, Municipality of San Juan, Province of Batangas, is separated from said barrio and constituted into a distinct and independent barrio of said municipality, to be known as the barrio of Sapangan. The barrio shall be bounded on the North by the Municipality of Rosario along the summit or the highest peak of the mountain of Matan-ag, Talon and a portion of Sabutan Creek; on the East by Sabutan Creek; on the South by an imaginary straight line running from East to West beginning from the bank of Sabutan Creek passing through the center of a big duhat tree and a big tamarind tree located near the terminal of the finished Sampiro Road up to the bank of the Sampiro Creek on the West; and on the West by the Sampiro Creek.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1961.
+"	success	Republic Act	This act creates the barrio of Sapangan in San Juan, Batangas by separating it from barrio Sampiro and establishing its boundaries.	"[{""title"": ""Section 1."", ""summary"": ""The sitio of Sapangan in the barrio of Sampiro, Municipality of San Juan, Province of Batangas, is separated from said barrio and constituted into a distinct and independent barrio of said municipality, to be known as the barrio of Sapangan. The barrio shall be bounded on the North by the Municipality of Rosario along the summit or the highest peak of the mountain of Matan-ag, Talon and a portion of Sabutan Creek; on the East by Sabutan Creek; on the South by an imaginary straight line running from East to West beginning from the bank of Sabutan Creek passing through the center of a big duhat tree and a big tamarind tree located near the terminal of the finished Sampiro Road up to the bank of the Sampiro Creek on the West; and on the West by the Sampiro Creek.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	No. 3392	June 18, 1961			To create a new barrio of Sapangan in San Juan, Batangas.	"[""Section 1: Separation and creation of the barrio of Sapangan."", ""Section 2: Effective date upon approval.""]"		"[""Republic Act"", ""Barrio"", ""Local Government"", ""Administrative Division""]"	"[""barrio"", ""Sapangan"", ""San Juan"", ""Batangas"", ""Republic Act 3392""]"
+repacts:datasets/markdown/repacts/1961/ra_3393_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3393_1961.md	ra_3393_1961	An Act Creating a Certain Barrio in the Municipality of Diffun, Province of Nueva Vizcaya	"**REPUBLIC ACT No. 3393**
+
+ **An Act Creating a Certain Barrio in the Municipality of Diffun, Province of Nueva Vizcaya**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Amañga, Campamiento, Veniado, Peña, Dumanting Decal-la, and Makati, in the Municipality of Diffun, Province of Nueva Vizcaya, are constituted into a distinct and independent barrio, to be known as the barrio of Magsaysay.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1961.
+"	success	Republic Act	Establishes the barrio of Magsaysay in the Municipality of Diffun, Nueva Vizcaya, and sets its effectivity upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Constitutes the sitios of Ama\u00f1ga, Campamiento, Veniado, Pe\u00f1a, Dumanting Decal-la, and Makati into the independent barrio of Magsaysay.""}, {""title"": ""Section 2"", ""summary"": ""The Act shall take effect upon its approval.""}]"	3393	June 18, 1961			To create a new barrio in Diffun for local administrative purposes.	"[""Creation of the barrio of Magsaysay"", ""Effectivity upon approval of the Act""]"		"[""Republic Act"", ""Local Government"", ""Barrio Creation"", ""Nueva Vizcaya""]"	"[""Barrio"", ""Diffun"", ""Nueva Vizcaya"", ""Magsaysay"", ""Philippines""]"
+repacts:datasets/markdown/repacts/1961/ra_3394_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3394_1961.md	ra_3394_1961	An Act Establishing the Palompon School of Arts and Trades in the Municipality of Palompon, Province of Leyte, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 3394**
+
+ **An Act Establishing the Palompon School of Arts and Trades in the Municipality of Palompon, Province of Leyte, and Authorizing the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** A national school of arts and trades, of the Philippine School of Arts and Trades type, to be known as the Palompon School of Arts and Trades, shall be established in the Municipality of Palompon, Province of Leyte. The said school shall be under the supervision of the Bureau of Public Schools and subject to existing laws on public education. Courses of secondary level shall be offered in the said school.
+
+ **Section 2.** The sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of the said school during the fiscal year nineteen hundred sixty-two. Thereafter, the necessary funds for its operation and maintenance shall be included in the annual General Appropriation Acts.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1961.
+"	success	Republic Act	This act establishes the Palompon School of Arts and Trades in Palompon, Leyte, and authorizes the appropriation of funds for its establishment and operation.	"[{""title"": ""Section 1."", ""summary"": ""Establishes the Palompon School of Arts and Trades as a national school of arts and trades under the supervision of the Bureau of Public Schools, offering secondary level courses.""}, {""title"": ""Section 2."", ""summary"": ""Authorizes the appropriation of one hundred thousand pesos from the National Treasury for the school's establishment, operation, and maintenance during the fiscal year 1962, with future funding to be included in the General Appropriation Acts.""}, {""title"": ""Section 3."", ""summary"": ""The act takes effect upon its approval.""}]"	3394	June 18, 1961			To establish a national school of arts and trades in Palompon, Leyte, and authorize appropriation of funds for its operation.	"[""Establishment of the Palompon School of Arts and Trades"", ""Authorization of 100,000 pesos appropriation for 1962 fiscal year"", ""School under supervision of the Bureau of Public Schools"", ""Offering of secondary level courses""]"		"[""Education"", ""Public School"", ""Arts and Trades"", ""Leyte"", ""Palompon""]"	"[""Palompon"", ""School of Arts and Trades"", ""Bureau of Public Schools"", ""National Treasury"", ""General Appropriation Acts""]"
+repacts:datasets/markdown/repacts/1961/ra_3395_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3395_1961.md	ra_3395_1961	An Act Providing for the Establishment of a School of Fisheries in the Municipality of Milagros, Province of Masbate, to be Known as the Milagros School of Fisheries, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 3395**
+
+ **An Act Providing for the Establishment of a School of Fisheries in the Municipality of Milagros, Province of Masbate, to be Known as the Milagros School of Fisheries, and Authorizing the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There is hereby established, under the supervision of the Director of Public Schools, a school of fisheries in the Municipality of Milagros, Province of Masbate, to be known as the Milagros School of Fisheries. The site of the said school shall be determined by the Municipal Council of the Municipality of Milagros, in consultation with the Director of Public Schools.
+
+ **Section 2.** The sum of two hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said school during the fiscal year nineteen hundred sixty-two. Such sums as may be needed for the same purpose in subsequent years shall be included in the annual General Appropriation Acts.
+
+ **Section 3.** This Act shall take effect upon the date the funds herein authorized to be appropriated shall have been provided for.
+
+ Approved: June 18, 1961.
+"	success	Republic Act	This act establishes the Milagros School of Fisheries in Masbate and appropriates funds for its establishment, operation, and maintenance.	"[{""title"": ""Section 1"", ""summary"": ""Establishment of the Milagros School of Fisheries under the supervision of the Director of Public Schools and determination of the site by the Municipal Council.""}, {""title"": ""Section 2"", ""summary"": ""Authorization of two hundred thousand pesos for the school's establishment and operation during FY1962, with future sums to be included in annual General Appropriation Acts.""}, {""title"": ""Section 3"", ""summary"": ""The act will take effect upon the provision of the authorized funds.""}]"	3395	June 18, 1961			To establish a fisheries school in Milagros, Masbate and authorize the appropriation of necessary funds.	"[""Establishment of Milagros School of Fisheries"", ""Appropriation of two hundred thousand pesos for 1962"", ""Effectivity upon provision of funds""]"		"[""Education"", ""Fisheries"", ""Local Government""]"	"[""fisheries"", ""school"", ""Milagros"", ""Masbate"", ""appropriation"", ""public schools""]"
+repacts:datasets/markdown/repacts/1961/ra_3396_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3396_1961.md	ra_3396_1961	An Act Providing for the Establishment of a School of Fisheries in the Municipality of Bongabong, Province of Oriental Mindoro, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 3396**
+
+ **An Act Providing for the Establishment of a School of Fisheries in the Municipality of Bongabong, Province of Oriental Mindoro, and Authorizing the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the direct supervision of the Director of Public Schools, a school of fisheries in the Municipality of Bongabong, Province of Oriental Mindoro, to be known as the Oriental Mindoro School of Fisheries. The site for the said school of fisheries shall be determined by the Director of Public Schools.
+
+ **Section 2.** The Secretary of Education shall promulgate such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The sum of two hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of the said school during the fiscal year nineteen hundred sixty-two. Such sum as may be needed for the same purpose in subsequent years shall be included in the annual General Appropriation Acts.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1961.
+"	success	Education	This act establishes the Oriental Mindoro School of Fisheries in Bongabong, Oriental Mindoro, authorizes the appropriation of funds for its establishment and operation, and mandates the Secretary of Education to promulgate necessary rules and regulations.	"[{""title"": ""Section 1."", ""summary"": ""Establishes a school of fisheries in Bongabong under the supervision of the Director of Public Schools.""}, {""title"": ""Section 2."", ""summary"": ""Mandates the Secretary of Education to promulgate rules and regulations necessary for the implementation of the act.""}, {""title"": ""Section 3."", ""summary"": ""Authorizes the appropriation of two hundred thousand pesos for the establishment, operation, and maintenance of the school during the fiscal year 1962, with future funds to be included in subsequent annual General Appropriation Acts.""}, {""title"": ""Section 4."", ""summary"": ""The act shall take effect upon its approval.""}]"	3396	June 18, 1961			To establish a school of fisheries in Bongabong, Oriental Mindoro, and authorize the appropriation of funds for its establishment and operation.	"[""Establishment of Oriental Mindoro School of Fisheries under Director of Public Schools supervision"", ""Authorization of Secretary of Education to promulgate necessary rules and regulations"", ""Appropriation of two hundred thousand pesos for FY 1962 and future inclusion in General Appropriation Acts"", ""Effectivity of the act upon approval""]"		"[""Education"", ""Fisheries"", ""School"", ""Oriental Mindoro"", ""Establishment""]"	"[""School of Fisheries"", ""Bongabong"", ""Oriental Mindoro"", ""appropriation"", ""Education"", ""Director of Public Schools"", ""Secretary of Education""]"
+repacts:datasets/markdown/repacts/1961/ra_3397_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3397_1961.md	ra_3397_1961	An Act Providing for the Establishment of a National Trade School in the Municipality of Buguias, Mountain Province, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 3397**
+
+ **An Act Providing for the Establishment of a National Trade School in the Municipality of Buguias, Mountain Province, and Authorizing the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the supervision of the Director of Public Schools, a national trade school in the Municipality of Buguias, Mountain Province, to be known as the Buguias National Trade School.
+
+ **Section 2.** The Director of Public Schools shall, with the approval of the Secretary of Education, issue such rules and regulations as may be necessary to carry out the purposes of this Act.
+
+ **Section 3.** The sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said school during the fiscal year nineteen hundred sixty-two. Such sums as may be needed for the same purpose in subsequent years shall be included in the annual General Appropriation Acts.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1961.
+"	success	Act	An act establishing the Buguias National Trade School and authorizing the appropriation of funds for its establishment, operation, and maintenance.	"[{""title"": ""Section 1"", ""summary"": ""Establishment of a national trade school in Buguias under the supervision of the Director of Public Schools.""}, {""title"": ""Section 2"", ""summary"": ""The Director of Public Schools shall issue rules and regulations, with the approval of the Secretary of Education, to carry out the purposes of the Act.""}, {""title"": ""Section 3"", ""summary"": ""Authorization of an appropriation of one hundred thousand pesos for the establishment, operation, and maintenance of the school during the fiscal year 1962, with subsequent years included in the General Appropriation Acts.""}, {""title"": ""Section 4"", ""summary"": ""The Act shall take effect upon its approval.""}]"	3397	June 18, 1961			To establish the Buguias National Trade School and authorize funding for its establishment, operation, and maintenance.	"[""Establishment of Buguias National Trade School"", ""Authority of Director of Public Schools to issue regulations with approval of Secretary of Education"", ""Authorization of 100,000 pesos appropriation for FY 1962 and subsequent years"", ""Effectivity upon approval""]"		"[""Education"", ""Public Schools"", ""Trade School"", ""Appropriation"", ""Buguias"", ""Mountain Province""]"	"[""National Trade School"", ""Buguias"", ""Mountain Province"", ""appropriation"", ""public schools"", ""education""]"
+repacts:datasets/markdown/repacts/1961/ra_3398_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3398_1961.md	ra_3398_1961	An Act Providing for the Establishment of a National Agricultural and Trade School in the Municipality of Virac, Province of Catanduanes, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 3398**
+
+ **An Act Providing for the Establishment of a National Agricultural and Trade School in the Municipality of Virac, Province of Catanduanes, and Authorizing the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the supervision of the Director of Public Schools, a national agricultural and trade school in the Municipality of Virac, Province of Catanduanes, to be known as the Virac National Agricultural and Trade School.
+
+ **Section 2.** The Secretary of Education shall issue such rules and regulation as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The sum of two hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said school during the fiscal year nineteen hundred sixty-two. Such sums as may be needed for the same purpose in subsequent years shall be included in the annual General Appropriation Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1961.
+"	success	Education	This act establishes the Virac National Agricultural and Trade School and appropriates funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""Establishes the Virac National Agricultural and Trade School under the supervision of the Director of Public Schools.""}, {""title"": ""Section 2."", ""summary"": ""Mandates the Secretary of Education to issue necessary rules and regulations.""}, {""title"": ""Section 3."", ""summary"": ""Appropriates 200,000 pesos for the school's establishment, operation, and maintenance during FY 1962, with future appropriations included in the General Appropriation Act.""}, {""title"": ""Section 4."", ""summary"": ""Act takes effect upon approval.""}]"	3398	June 18, 1961			Establish a national agricultural and trade school in Virac, Catanduanes and authorize funds for its operation.	"[""Establishment of Virac National Agricultural and Trade School"", ""Authority of Secretary of Education to issue rules"", ""Appropriation of 200,000 pesos for the school"", ""Effectivity upon approval""]"		"[""Education"", ""Agriculture"", ""Catanduanes"", ""National School""]"	"[""Virac"", ""Catanduanes"", ""National Agricultural and Trade School"", ""appropriation"", ""Secretary of Education"", ""public schools""]"
+repacts:datasets/markdown/repacts/1961/ra_3399_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3399_1961.md	ra_3399_1961	An Act to Provide for the Establishment of a School of Arts and Trades in the Municipality of Calapan, Province of Oriental Mindoro, and to Authorize the Appropriations of Funds Therefor	"**REPUBLIC ACT No. 3399**
+
+ **An Act to Provide for the Establishment of a School of Arts and Trades in the Municipality of Calapan, Province of Oriental Mindoro, and to Authorize the Appropriations of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the direct supervision of the Director of Public Schools, a school of arts and trades of a type similar to that of the Philippine School of Arts and Trades in the Municipality of Calapan, Province of Oriental Mindoro, to be known as the Calapan School of Arts and Trades. Courses of secondary level shall be offered in the said school.
+
+ **Section 2.** The Secretary of Education shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The sum of fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said school during the fiscal year nineteen hundred sixty-two. Such sums as may be necessary for the same purpose in subsequent years shall be included in the annual General Appropriation Acts.
+
+ **Section 4.** This Act shall take effect upon its approval.

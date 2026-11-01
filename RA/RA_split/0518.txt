@@ -1,0 +1,186 @@
+repacts:datasets/markdown/repacts/1959/ra_2177_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2177_1959.md	ra_2177_1959	An Act Transferring the Seat of Government of the Municipality of Hagonoy, Province of Davao, to the Site of the Barrio of Pawa	"**REPUBLIC ACT No. 2177**
+
+ **An Act Creating the Barrio of Saluyong in the Municipality of Manukan, Province of Zamboanga del Norte**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Saluyong, Sipakong, Upper Dipani, Boob, Lupasang and Messes in the Municipality of Manukan, Province of Zamboanga del Norte, are constituted into a distinct and independent barrio of said municipality to be known as the barrio of Saluyong.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: April 26, 1959.
+"	success	Act	This act transfers the seat of government of Hagonoy municipality to the barrio of Pawa and takes effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Transfers the seat of government of the Municipality of Hagonoy to the site of the barrio of Pawa.""}, {""title"": ""Section 2."", ""summary"": ""The act takes effect upon its approval.""}]"	2163	April 24, 1959			Transfer of the municipal seat to a new location within the municipality of Hagonoy.	"[""Transfer of the seat of government to the barrio of Pawa"", ""The act takes effect upon approval""]"		"[""Municipality"", ""Government"", ""Seat Transfer"", ""Davao""]"	"[""seat of government"", ""municipality"", ""Hagonoy"", ""Pawa"", ""Davao""]"
+repacts:datasets/markdown/repacts/1959/ra_2178_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2178_1959.md	ra_2178_1959	An Act Creating Certain Barrios in the Municipality of Patnongon, Province of Antique	"**REPUBLIC ACT No. 2178**
+
+ **An Act Creating Certain Barrios in the Municipality of Faire, Province of Cagayan**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Calassitan, Nagbayugan and Cabalansaan in the Municipality of Faire, province of Cagayan, are converted into barrio of said municipality to be known as the barrios of Calassitan, Nagbayugan and Cabalansaan, respectively.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: May 2, 1959.
+"	success	Republic Act	This act establishes four new barrios in the Municipality of Patnongon, Antique by grouping specified sitios, and declares the act effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Constitutes the sitios of Magranting, Tigangcal, Agsaman, Epgas, Epayo and Eglapang as the barrio of Alva\u00f1iz; Igtuba Maradiona and Igtuba Aureliana as the barrio of Magsaysay; Amarong, Tagbacan, Da-o, Yapo and Embalodan as the barrio of Elio; and Tigabobo, Tiglomabong, Maybangcal, Calagti\u00f1gan and Bongbo\u00f1gan as the barrio of Vista Alegre.""}, {""title"": ""Section 2"", ""summary"": ""States that the act shall take effect upon its approval.""}]"	RA 2164	April 24, 1959			To create and establish barrios within the Municipality of Patnongon, Antique.	"[""Creation of four barrios by grouping specified sitios"", ""Effectivity of the act upon approval""]"		"[""Republic Act"", ""Barrios"", ""Antique"", ""Municipality"", ""Patnongon""]"	"[""barrios"", ""sitios"", ""municipality"", ""Antique"", ""Patnongon"", ""Republic Act"", ""RA 2164""]"
+repacts:datasets/markdown/repacts/1959/ra_2179_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2179_1959.md	ra_2179_1959	An Act Converting the Sitios of Siguinon, Lusod, Cantomoha, Hagnaya and Karapdapan in the Municipality of Salcedo, Province of Samar, to Barrios to be Known as the Barrios of Siguinon, Lusod, Cantomoha, Hagnaya and Karapdapan, Respectively	"**REPUBLIC ACT No. 2179**
+
+ **An Act to Recreate the Municipal District of Imugan, Province of Nueva Vizcaya, Which Name is to be Changed to Santa Fe**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The Municipal District of Imugan in the Province of Nueva Vizcaya is hereby recreated.
+
+ **Section 2.** The boundaries existing between said Municipal District of Imugan and the towns of Aritao and Kayapa before the effectivity of Executive Order Numbered Three hundred sixty-eight, series of nineteen hundred fifty, are hereby restored.
+
+ **Section 3.** The name of Imugan is hereby changed to Santa Fe.
+
+ **Section 4.** The seat of the municipal government shall be located in Santa Fe.
+
+ **Section 5.** The officials of the recreated municipal district shall be appointed by the President of the Philippines.
+
+ **Section 6.** This Act shall take effect upon its approval.
+
+ Approved: May 2, 1959.
+"	success	Republic Act	This act converts the sitios of Siguinon, Lusod, Cantomoha, Hagnaya, and Karapdapan in Salcedo, Samar into barrios, naming them accordingly.	"[{""title"": ""Section 1."", ""summary"": ""Converts the sitios of Siguinon, Lusod, Cantomoha, Hagnaya, and Karapdapan in the Municipality of Salcedo, Province of Samar into barrios.""}, {""title"": ""Section 2."", ""summary"": ""The act shall take effect upon its approval.""}]"	2165	April 24, 1959			To convert the sitios of Siguinon, Lusod, Cantomoha, Hagnaya, and Karapdapan into barrios within the Municipality of Salcedo, Samar.	"[""Conversion of the sitios into barrios"", ""Effectivity upon approval""]"			
+repacts:datasets/markdown/repacts/1959/ra_2180_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2180_1959.md	ra_2180_1959	An Act to Constitute the Sitios of Bugho, Seco, and Cuatro, All in the Municipality of Basey, Province of Samar, into a Barrio to be Known as Barrio Tingib of the Same Municipality	"**REPUBLIC ACT No. 2180**
+
+ **An Act Creating the Barrio of Briones in the Municipality of Kalibo, Province of Aklan**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Eu-ok in the barrio of Mabilo, Municipality of Kalibo, Province of Aklan, is separated from said barrio, and constituted into a distinct and independent barrio of said municipality to be known as the barrio of Briones.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: May 2, 1959.
+"	success	Act	This act consolidates the sitios of Bugho, Seco, and Cuatro in Basey, Samar into a new barrio named Barrio Tingib.	"[{""title"": ""Section 1."", ""summary"": ""The sitios of Bugho, Seco and Cuatro, all in the Municipality of Basey, Province of Samar, are hereby constituted into a barrio to be known as Barrio Tingib of the same municipality.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2166	April 24, 1959			To create a new barrio by consolidating the sitios of Bugho, Seco, and Cuatro in Basey, Samar.	"[""Constitutes the sitios of Bugho, Seco, and Cuatro into the barrio of Barrio Tingib."", ""Act takes effect upon approval.""]"		"[""Local Government"", ""Barangay"", ""Samar""]"	"[""Bugho"", ""Seco"", ""Cuatro"", ""Basey"", ""Samar"", ""Barrio Tingib"", ""Republic Act 2166""]"
+repacts:datasets/markdown/repacts/1959/ra_2181_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2181_1959.md	ra_2181_1959	An Act Changing the Name of the Barrio of Villa Galed in the Municipality of Patnongon, Province of Antique, to Villa Crespo	"**REPUBLIC ACT No. 2181**
+
+ **An Act Creating the Municipality of Balangkayan, Province of Samar**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The barrios of Balangkayan, Kabay, Maramag, Julag and Bangong in the Municipality of Llorente, Province of Samar, are separated from said municipality and are constituted into a distinct and independent municipality to be known as the Municipality of Balangkayan, same province. The seat of government shall be located at the site of the present barrio Balangkayan.
+
+ **Section 2.** The first mayor, vice-mayor and councilors of the new municipality shall be appointed by the President, subject to the confirmation of the Commission on Appointments, and shall hold office until their successors shall have been elected in the next general election for local officials and shall have qualified.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: May 2, 1959.
+"	success	Republic Act	This act changes the name of the barrio of Villa Galed to Villa Crespo and takes effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The name of the barrio of Villa Galed in the Municipality of Patnongon, Province of Antique, is hereby changed to Villa Crespo.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	2167	April 24, 1959			To change the name of the barrio of Villa Galed to Villa Crespo.	"[""Name of the barrio changed to Villa Crespo."", ""Act takes effect upon approval.""]"		"[""local government"", ""name change"", ""municipality"", ""Antique""]"	"[""Villa Galed"", ""Villa Crespo"", ""Patnongon"", ""Antique"", ""barrio"", ""name change""]"
+repacts:datasets/markdown/repacts/1959/ra_2182_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2182_1959.md	ra_2182_1959	An Act Converting the Sitios of Abra, Ambalatungan, Balintocatoc, Baluarte, Bugallon, Calaocan, Divisoria, Luna, Mabini, Naggasican, Pagrang-Ayan Norte, Pagrang-Ayan Sur, Plaridel, Raniag, Rosario, Sagana, Salvador, San Isidro, San Andres, San Jose, Santa Rosa, San Miguel, San Sebastian, Bannawag, Sinili, Victory, Sinaayon and Villasis, All in the Municipality of Santiago, Province of Isabela, into Barrios	"**REPUBLIC ACT No. 2182**
+
+ **An Act Appropriating the Sum of Five Million Pesos to Defray the Expenses of the National Government in Connection with, and Incidental to, the Election of Elective Provincial, City, Municipal and Municipal District Officials and of the Eight Senators to be Held on the Second Tuesday of November, Nineteen Hundred and Fifty-Nine**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated the sum of five million pesos to be spent under the exclusive authority of the Commission on Elections, for payment of the expenses which the National Government may incur in connection with, and incidental to, the holding of the elections on the second Tuesday of November, nineteen hundred and fifty-nine, for all elective provincial, city, municipal and municipal district officials and for the eight senators who will succeed those whose terms of office will expire on December thirtieth, nineteen hundred and fifty-nine: *Provided,* That this appropriation shall be available for expenditure before July one, nineteen hundred and fifty-nine and shall continue to be available after June thirty, nineteen hundred and sixty, exclusively for this purpose: And *Provided, further,* That the unexpended balance, if any, may be used to pay prior years elections obligations.
+
+ **Section 2.** Any provision of existing law to the contrary notwithstanding, officers and employees of the Commission on Elections, or those assigned thereto, except the Chairman and Members of the Commission on Elections, when working overtime on Saturdays, Sundays and holidays or after twelve-thirty oclock post meridian during half day sessions and after five oclock post meridian on regular working days, when authorized by the Commission on Elections may be paid compensation from the appropriation authorized in this Act at rates to be fixed by the Commission on Elections which shall not exceed the rate of their regular monthly compensation. Such additional compensation shall not exceed, for any one month, the equivalent of the regular compensation nor shall it exceed, for any one fiscal year, fifty per centum of such regular compensation.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: May 4, 1959.
+"	success	Republic Act	Converts the specified sitios in Santiago, Isabela into barrios.	"[{""title"": ""Section 1"", ""summary"": ""The sitios of Abra, Ambalatungan, Balintocatoc, Baluarte, Bugallon, Calaocan, Divisoria, Luna, Mabini, Naggasican, Pagrang-Ayan Norte, Pagrang-Ayan Sur, Plaridel, Raniag, Rosario, Sagana, Salvador, San Isidro, San Andres, San Jose, Santa Rosa, San Miguel, San Sebastian, Bannawag, Sinili, Victory, Sinaayon and Villasis, all in the Municipality of Santiago, Province of Isabela, are hereby converted into barrios.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	2168	April 25, 1959			To convert the sitios of Santiago, Isabela into barrios.	"[""Conversion of the specified sitios into barrios"", ""Effectivity of the Act upon approval""]"		"[""municipality"", ""province"", ""Isabela"", ""sitios"", ""barrios""]"	"[""conversion"", ""sitios"", ""barrios"", ""Isabela"", ""municipality""]"
+repacts:datasets/markdown/repacts/1959/ra_2183_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2183_1959.md	ra_2183_1959	An Act Creating Certain Barrio in the Municipality of Tabango, Province of Leyte	"**REPUBLIC ACT No. 2183**
+
+ **An Act Providing for an Additional Judge for the Municipal Court of the City of Baguio, Amending for the Purpose Section Twenty-Five Hundred and Sixty-Two of the Revised Administrative Code, as Amended**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section twenty-five hundred and sixty-two of the Revised Administrative Code, as amended, is further amended to read as follows:
+
+ > ""**Sec. 2562.** *The Municipal Court.* There shall be a Municipal Court for the City of Baguio, for which two judges shall be appointed. In case of absence sickness or incapacity of any of the judges of the Municipal Court, the Secretary of Justice may designate any assistant attorney of the Department of Justice or provincial fiscal to act as judge of the Municipal Court of the City of Baguio, with all the powers of the regular judge of said Court; but such acting judge shall not receive any additional compensation during the time he is acting as judge.""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: May 4, 1959.
+"	success	Republic Act	This act establishes six new barrios in Tabango, Leyte, by designating specific sitios as barrios.	"[{""title"": ""Section 1"", ""summary"": ""The sitios of Sumacab, Mina, Durabod, Lawis, Tipolo Tubig-Baho, So-oy and Payaw (Tabango side) to be known as the barrio of Inancatan; The sitios of Colonia, Tigo, La Fortuna II, Cabato-an, and Danaw to be known as the barrio of Manlawa-an; The sitios of Bahay-Dako, Hamorawon, Sabang, Palid Gamay, Hacienda Bough, Bulalakaw, Dina-ayan and Holipak to be known as the barrio of Gimarco; The sitios of Tangohay, Ruscidelsa, Cocolay and Bagakay to be known as the barrio of Catmon; The sitios of Banoyo, Cota, Palanog, Palanas, Bahay-Camay, Batwan, Arimoso, Binanig, Manapaw and Panowayan to be known as the barrio of Gibacungan; and The sitios of La Fortuna 1, Tambis, Tag-abaka, Lugapak, Divisoria and Pagsa to be known as the barrio of Omaganhan.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	2169	April 25, 1959			To reorganize local administrative units by creating barrios in Tabango, Leyte.	"[""Creation of six new barrios in Tabango, Leyte"", ""Designation of specific sitios as barrios"", ""Act effective upon approval""]"		"[""Local Government"", ""Barrio"", ""Leyte"", ""Republic Act""]"	"[""barrio"", ""sitio"", ""Tabango"", ""Leyte"", ""local government"", ""Republic Act""]"
+repacts:datasets/markdown/repacts/1959/ra_2184_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2184_1959.md	ra_2184_1959	An Act Changing the Name of the Barrio of Paypay in the Municipality of Cabadbaran, Province of Agusan, to Santiago	"**REPUBLIC ACT No. 2184**
+
+ **An Act to Amend Section One Hundred Four, Schedule XV, Chapter 83, Heading Numbered 83.07 and 83.15 of Republic Act Numbered Nineteen Hundred and Thirty-Seven, Otherwise Known as the Tariff and Customs Code of the Philippines**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section one hundred four, Schedule XV, Chapter 83, Heading 83.07 of Republic Act Numbered Nineteen hundred and thirty-seven is hereby amended to read as follows:
+
+ | ""83.07 Lamps and Lighting fitting and parts thereof, of base metal (excluding switches, electric lamp holders, electric lamps for vehicles, electric battery or magneto lamps, and other articles falling within Chapter 85): |  |  |  |
+| --- | --- | --- | --- |
+|  | A. Kerosene air pressure lamps and parts thereof: |  |  |
+|  |  | 1. Assembled | ad val. 65% |
+|  |  | 2. Unassembled | ad val. 20% |
+|  | B. Miners lamps and parts thereof | ad val. 35% |  |
+|  | C. Others | ad val. 100%"" |  |
+
+ **Section 2.** Section one hundred four, Schedule XV, Chapter 83, Heading 83.15 of the same Act is hereby amended to read as follows:
+
+ | ""83.15 Welding electrodes, rods or tubes, solder in wire or roads, coated or cored with flux materials; prepared metal brazing plate of a kind used in metallurgy: |  |  |
+| --- | --- | --- |
+|  | A. Mild steel welding electrodes, coated with flux | ad val. 100% |
+|  | B. Other | ad val. 10%"" |
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: May 6, 1959.
+"	success	Act	An act that changes the name of the barrio of Paypay to Santiago.	"[{""title"": ""Section 1."", ""summary"": ""The name of the barrio of Paypay in the Municipality of Cabadbaran, Province of Agusan, is changed to Santiago.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2170	April 26, 1959			To change the name of the barrio of Paypay to Santiago.	"[""The name of the barrio of Paypay in the Municipality of Cabadbaran, Province of Agusan, is changed to Santiago.""]"		"[""name change"", ""barrio"", ""municipality""]"	"[""Paypay"", ""Santiago"", ""Cabadbaran"", ""Agusan"", ""Republic Act 2170""]"
+repacts:datasets/markdown/repacts/1959/ra_2185_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2185_1959.md	ra_2185_1959	An Act Creating the Barrios of Roxas, Sto. Tomas, Talolora and Salvacion in the Municipality of Mondragon, Province of Samar	"**REPUBLIC ACT No. 2185**
+
+ **An Act Creating the Municipality of Lawa-an, Province of Samar**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The barrios of Lawa-an, Bulosao, Guinoban, Bitaog, Taguite and Maslog are hereby separated from the Municipality of Balangiga, Province of Samar, and are constituted as a separated and independent municipality to be known as the Municipality of Lawa-an in the Province of Samar, with its seat of government in the barrio of Lawa-an.
+
+ **Section 2.** The first municipal mayor, vice-mayor and councilors of the new municipality shall be appointed by the President of the Republic of the Philippines, with the consent of the Commission on Appointments, to hold office until their successors are elected and qualified.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: May 7, 1959.
+"	success	Republic Act	Creates four barrios in the Municipality of Mondragon, Samar.	"[{""title"": ""Section 1."", ""summary"": ""Lists the barrios and their sitios.""}, {""title"": ""Section 2."", ""summary"": ""Act takes effect upon approval.""}]"	2171	April 26, 1959				"[""Creation of four barrios."", ""Effectivity upon approval.""]"		"[""Barrios"", ""Municipality"", ""Samar""]"	"[""Barrios"", ""Municipality"", ""Samar"", ""Republic Act"", ""Local Government""]"
+repacts:datasets/markdown/repacts/1959/ra_2186_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2186_1959.md	ra_2186_1959	An Act Creating the Barrio of Canawan in the Municipality of Liloy, Province of Zamboanga del Norte	"**REPUBLIC ACT No. 2186**
+
+ **An Act Providing that the Santa Cruz Irrigation System in the Province of Laguna be Hereafter Known as the Magsaysay Irrigation System**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The Santa Cruz Irrigation System in the Province of Laguna shall hereafter be known as the Magsaysay Irrigation System.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: May 7, 1959.
+"	success	Republic Act	This Act creates the barrio of Canawan in the municipality of Liloy, Zamboanga del Norte.	"[{""title"": ""Section 1."", ""summary"": ""The sitio of Canawan in the Municipality of Liloy, Province of Zamboanga del Norte, is converted into a barrio of said municipality to be known as the barrio of Canawan.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2172	May 7, 1959			Creation of a new barrio named Canawan within the Municipality of Liloy, Zamboanga del Norte.	"[""Conversion of the sitio of Canawan into a barrio"", ""Effective date upon approval""]"		"[""Local Government"", ""Barangay"", ""Zamboanga del Norte""]"	"[""barrio"", ""Canawan"", ""Liloy"", ""Zamboanga del Norte""]"
+repacts:datasets/markdown/repacts/1959/ra_2187_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2187_1959.md	ra_2187_1959	An Act to Change the Name of the Manambong Community School in the Municipality of Bayambang, Province of Pangasinan, to Asuncion P. Guevara Community School	"**REPUBLIC ACT No. 2187**
+
+ **An Act Creating the Municipality of Claveria in the Province of Masbate**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The barrios of Claveria, Cawayan, Nonoc, Buyo, Taguilid, Boca Engaño, Peñafrancia, Maputing Baybay, Quezon, San Isidro, Mabiton, Nabasagan, San Ramon and Calpi are separated from the Municipality of San Pascual, Province of Masbate, and are constituted into a distinct and independent municipality to be known as the Municipality of Claveria, same province. The boundary line of this municipality and the Municipality of San Pascual shall be a straight line from the northernmost point in the sitio of Boñga in the barrio of Cawayan to the northernmost point of the sitio of Mahabang Baybay in the barrio of Calpi. The seat of the government shall be located at the site of the present barrio of Claveria.
+
+ **Section 2.** The first mayor, vice-mayor, and councilors of the new municipality shall be appointed by the President subject to the confirmation of the Commission on Appointments, and shall hold office until their successors shall have been elected in the next general elections for local officials and shall have qualified.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: May 7, 1959.
+"	success	Republic Act	This act changes the name of the Manambong Community School in Bayambang, Pangasinan to Asuncion P. Guevara Community School and takes effect upon its approval.	"[{""title"": ""Section 1"", ""summary"": ""The name of the Manambong Community School in Bayambang, Pangasinan is hereby changed to Asuncion P. Guevara Community School.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	2173	April 26, 1959			To change the name of a community school in Bayambang, Pangasinan.	"[""Changes the name of the Manambong Community School to Asuncion P. Guevara Community School.""]"		"[""Education"", ""School Naming"", ""Local Government""]"	"[""Manambong Community School"", ""Asuncion P. Guevara"", ""Bayambang"", ""Pangasinan"", ""Name change"", ""Republic Act 2173""]"
+repacts:datasets/markdown/repacts/1959/ra_2188_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2188_1959.md	ra_2188_1959	An Act Creating Certain Barrios in the Municipality of Malitbog, Province of Leyte	"**REPUBLIC ACT No. 2188**
+
+ **An Act Changing the Names of the Emergency Hospitals in the Municipalities of Lopez and Catanauan, Province of Quezon**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Lopez Elementary Hospital in the Municipality of Lopez, and the name of the Catanauan Emergency Hospital in the Municipality of Catanauan, Province of Quezon, are hereby changed to Magsaysay Memorial Hospital and Bondoc Peninsula General Hospital, respectively.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: May 7, 1959.
+"	success	Republic Act	Creates the barrios of Ponong, Hinapo, and Cadaruhan in the Municipality of Malitbog, Leyte.	"[{""title"": ""Section 1"", ""summary"": ""Constitutes the sitios of Mag-ata, Canlupao and Canomay as the barrio of Ponong; the sitios of Canlumen, Sampungen, Santander and Tagpaayaw as the barrio of Hinapo; and the sitios of Cambalhin, Cadaruhan Dos, Catagaman and Ponog as the barrio of Cadaruhan.""}, {""title"": ""Section 2"", ""summary"": ""The Act shall take effect upon its approval.""}]"	2174	April 26, 1959			To establish official barrios within Malitbog for improved local governance and administrative purposes.	"[""Creation of barrios Ponong, Hinapo, and Cadaruhan"", ""Effectivity of the Act upon approval""]"		"[""Republic Act"", ""Local Governance"", ""Barrios"", ""Leyte"", ""Municipality"", ""Malitbog""]"	"[""barrios"", ""Malitbog"", ""Leyte"", ""sitios"", ""municipality"", ""Republic Act 2174""]"
+repacts:datasets/markdown/repacts/1959/ra_2189_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2189_1959.md	ra_2189_1959	An Act Creating the Barrio of Limbujan in the Municipality of General Macarthur, Province of Samar	"**REPUBLIC ACT No. 2189**
+
+ **An Act Creating the Municipality of Maitum, Province of Cotabato**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The barrios of Maitum, Upper Maitum, Maguling, Ticulab, Luan, Mindupok, Lanao, Talukao, Kalaong Mabay, Penal, Kalanig, Malalag, Upper Malalag, Kiayap, Sison, Kambojan, Kiambing, Saub, Milbuk, Linao and Takal, Municipality of Kiamba, Province of Cotabato, are separated from said municipality, and are constituted into a distinct and independent municipality to be known as the Municipality of Maitum, Province of Cotabato, with the seat of government at the present site of the barrio of Maitum: *Provided,* That the boundary of this new municipality shall be more particularly defined as follows:
+
+ > ""Beginning at a point on the mouth of Malisbong River in the Celebes Sea; thence following its course upstream till it reaches the boundary line of the municipalities of Banga and Kiamba; thence following the said boundary to a certain point intersected by the line going south, the declared boundary of the proposed municipality; thence going south to the headwaters of Pañgi River; thence following the Pañgi River downstream to its mouth in the Celebes Sea; thence following the coastline north-westward of the Celebes Sea to the mouth of Malisbong River, the point of beginning.""

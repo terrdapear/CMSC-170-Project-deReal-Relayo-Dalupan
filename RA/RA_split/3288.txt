@@ -1,0 +1,226 @@
+> | 83 | 84 | S | 47 | 44 | E | 398.249 |
+> | 84 | 85 | S | 44 | 18 | E | 339.564 |
+> | 85 | 86 | S | 38 | 34 | E | 349.186 |
+> | 86 | 87 | S | 41 | 42 | E | 144.306 |
+> | 87 | 88 | S | 36 | 43 | W | 169.258 |
+> | 88 | 89 | S | 45 | 31 | W | 195.332 |
+> | 89 | 90 | S | 53 | 13 | W | 121.005 |
+> | 90 | 91 | S | 85 | 26 | W | 141.433 |
+> | 91 | 92 | S | 70 | 14 | W | 80.760 |
+> | 92 | 93 | S | 52 | 14 | W | 90.990 |
+> | 93 | 94 | S | 31 | 40 | W | 60.900 |
+> | 94 | 95 | S | 0 | 44 | E | 50.190 |
+> | 95 | 96 | S | 31 | 30 | E | 81.566 |
+> | 96 | 97 | S | 28 | 38 | E | 112.245 |
+> | 97 | 98 | S | 44 | 48 | E | 57.519 |
+> | 98 | 99 | S | 74 | 23 | E | 52.007 |
+> | 99 | 100 | S | 87 | 55 | E | 71.026 |
+> | 100 | 101 | S | 30 | 8 | E | 44.434 |
+> | 101 | 102 | S | 17 | 21 | E | 33.167 |
+> | 102 | 103 | S | 7 | 17 | E | 62.412 |
+> | 103 | 104 | S | 21 | 12 | E | 28.571 |
+> | 104 | 105 | S | 33 | 36 | E | 32.072 |
+> | 105 | 106 | S | 50 | 45 | E | 14.763 |
+> | 106 | 107 | S | 54 | 11 | E | 17.533 |
+> | 107 | 108 | S | 57 | 18 | E | 28.090 |
+> | 108 | 109 | S | 55 | 33 | E | 26.646 |
+> | 109 | 110 | S | 53 | 46 | E | 16.770 |
+> | 110 | 111 | S | 50 | 30 | E | 15.225 |
+> | 111 | 112 | S | 37 | 1 | E | 14.962 |
+> | 112 | 113 | S | 40 | 14 | E | 21.344 |
+> | 113 | 114 | S | 20 | 8 | E | 18.457 |
+> | 114 | 115 | S | 42 | 55 | E | 15.124 |
+> | 115 | 116 | S | 20 | 50 | E | 2.563 |
+> | 116 | 117 | S | 47 | 49 | W | 18.608 |
+> | 117 | 118 | S | 41 | 48 | W | 95.841 |
+> | 118 | 119 | S | 35 | 4 | W | 46.182 |
+> | 119 | 120 | S | 41 | 6 | E | 217.096 |
+> | 130 | 131 | S | 38 | 45 | W | 53.270 |
+> | 131 | 132 | N | 38 | 45 | E | 53.270 |
+> | 132 | 133 | S | 35 | 59 | E | 84.044 |
+> | 133 | 134 | S | 41 | 12 | W | 126.773 |
+> | 134 | 135 | S | 19 | 45 | W | 161.462 |
+> | 135 | 136 | N | 40 | 8 | W | 26.876 |
+> | 136 | 137 | S | 40 | 8 | E | 26.876 |
+> | 137 | 138 | S | 20 | 14 | E | 98.753 |
+> | 138 | 139 | N | 63 | 12 | W | 150.558 |
+> | 139 | 140 | S | 63 | 12 | E | 150.558 |
+> | 140 | 141 | S | 45 | 9 | E | 139.566 |
+> | 141 | 142 | S | 40 | 18 | E | 75.337 |
+> | 142 | 143 | S | 32 | 47 | E | 96.282 |
+> | 143 | 144 | S | 28 | 43 | E | 233.401 |
+> | 120 | 121 | S | 48 | 30 | E | 77.285 |
+> | 121 | 122 | S | 55 | 55 | E | 73.073 |
+> | 122 | 123 | S | 75 | 58 | E | 86.368 |
+> | 123 | 124 | S | 78 | 16 | E | 102.328 |
+> | 124 | 125 | S | 64 | 44 | E | 56.289 |
+> | 125 | 126 | S | 50 | 15 | E | 100.107 |
+> | 126 | 127 | S | 44 | 59 | E | 101.759 |
+> | 127 | 128 | S | 68 | 22 | E | 162.836 |
+> | 128 | 129 | S | 61 | 57 | E | 146.600 |
+> | 129 | 130 | S | 58 | 55 | E | 531.410 |
+> | 144 | 145 | S | 31 | 14 | E | 45.533 |
+> | 145 | 146 | S | 14 | 19 | E | 242.208 |
+> | 146 | 1 | S | 23 | 26 | E | 33.055 |
+>
+>  Containing an area of 2,749,600.3232 square meters, more or less.""
+
+ **Section 3.***Conduct and Supervision of Plebiscite.* - The Commission on Elections (COMELEC) shall conduct and supervise the plebiscite to be held in Barangay Tanza in the City of Navotas not later than one hundred twenty (120) days from the effectivity of this Act.
+
+ The expenses for such plebiscite shall be borne by the City of Navotas.
+
+ **Section 4.***Special Election of Barangay Officials.* - The first set of officials of barangays created under Section 1 hereof shall be elected not later than ninety (90) days from approval by majority votes cast in a plebiscite held for the purpose.
+
+ The COMELEC shall conduct and supervise the special elections to be held in Barangays Tanza 1 and Tanza 2 in the City of Navotas within sixty (60) days after the ratification of this Act in a plebiscite.
+
+ The expenses for such special elections shall be borne by the City of Navotas.
+
+ **Section 5.***Incumbent Barangay Officials.* - The incumbent barangay officials of Barangay Tanza shall continue to hold office and administer Barangays Tanza 1 and Tanza 2 until such time that the officials of the newly created barangays have been duly elected and qualified.
+
+ **Section 6.***Public Infrastructure and Facilities.* - All existing public infrastructure and facilities for public use within the designated 1territories of the new barangays at the time of the approval of this Act are hereby transferred without cost or compensation to and shall be administered by them.
+
+ **Section 7.***Internal Revenue Allotment (IRA) Shares.* - Barangay Tanza 1 and Barangay Tanza 2 in the City of Navotas shall be entitled to Internal Revenue Allotment (IRA) shares pursuant to Section 285 of Republic Act No. 7160, as amended, otherwise known as the ""Local Government Code of 1991"".
+
+ **Section 8.***Effectivity.* - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in any newspaper of general circulation.
+
+ Approved,
+
+ **PANTALEON D. ALVAREZ** Speaker of the House of Representatives
+
+ **AQUILINO ""KOKO"" PIMENTEL** President of the Senate
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives on December 5, 2016, amended by the Senate on May 15, 2017, and which amendments were concurred in by the House of Representatives on May 30, 2017
+
+ **CESAR STRAIT PAREJA** Secretary General House of Representatives
+
+ **LUTGARDO B. BARBO** Secretary of the Senate
+
+ Approved: August 23, 2017
+
+ (Sgd.) **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	The act divides Barangay Tanza in the City of Navotas into Barangay Tanza 1 and Barangay Tanza 2, providing detailed territorial boundaries for each new barangay.	"[{""title"": ""Section 1. Division of Barangay Tanza"", ""summary"": ""Barangay Tanza in the City of Navotas is hereby divided into two (2) distinct and independent barangays to be known as Barangay Tanza 1 and Barangay Tanza 2.""}, {""title"": ""Section 2. Territorial Boundaries"", ""summary"": ""Specifies the detailed territorial boundaries of Barangay Tanza 1 and Barangay Tanza 2, including point-to-point descriptions and technical coordinates.""}]"	10935	2016-07-25			To divide Barangay Tanza into two independent barangays for better local governance.	"[""Division of Barangay Tanza into Barangay Tanza 1 and Barangay Tanza 2"", ""Detailed territorial boundaries for each new barangay"", ""Technical description of Barangay Tanza 1""]"		"[""Republic Act"", ""Barangay"", ""Navotas"", ""Division""]"	"[""Barangay Tanza"", ""Navotas"", ""Barangay Tanza 1"", ""Barangay Tanza 2"", ""Territorial Boundaries"", ""Cadastral"", ""Dividing Barangay""]"
+repacts:datasets/markdown/repacts/2017/ra_10936_2017.md	repacts	2017		datasets/markdown/repacts/2017/ra_10936_2017.md	ra_10936_2017	An Act Creating a Barangay to be Known as Barangay Comawas in the City of Bislig, Province of Surigao del Sur	"Seventeenth Congress First Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-fifth day of July, two thousand sixteen.*
+
+ **REPUBLIC ACT No. 10936**
+
+ An Act Creating a Barangay to be Known as Barangay Comawas in the City of Bislig, Province of Surigao del Sur
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.***Creation of Barangay Comawas.* - There is hereby created a barangay to be known as Barangay Comawas in the City of Bislig, Province of Surigao del Sur.
+
+ The territorial boundaries of Barangay Comawas are described as follows:
+
+ | LINE | BEARING | DISTANCE | | --- | --- | --- | | 1-2 | S 41 55′ W | 800 mts. | | 2-3 | S 61 35′ W | 1,142 mts. | | 3-4 | S 89 09′ W | 800 mts. | | 4-5 | N 12 01′ W | 1,000 mts. | | 5-6 | W 64 46′ W | 462 mts. | | 6-7 | E 78 03′ E | 1,000 mts. | | 7-8 | N 30 12′ E | 167 mts. | | 8-9 | N 04 38′ E | 183 mts. | | 9-10 | S 70 15′ E | 840 mts. | | 10-11 | S 76 12′ E | 300 mts. | **Section 2.***Conduct and Supervision of Plebiscite.* - The plebiscite conducted and supervised by the Commission on Elections (COMELEC) pursuant to Provincial Ordinance No. 103-94 of the Sangguniang Panlalawigan of the Province of Surigao del Sur, which ratified the creation of Barangay Comawas as proclaimed by the Plebiscite Board of Canvassers on September 9, 1996, shall serve as a substantial compliance with the plebiscite requirement under Section 10 of Republic Act No. 7160, as amended, otherwise known as the ""Local Government Code of l991"".
+
+ **Section 3.***Incumbent Barangay Officials.* - The incumbent barangay officials of Barangay Comawas, City of Bislig, Province of Surigao del Sur shall continue to hold office until such time that their successors have been duly elected and qualified.
+
+ **Section 4.***Public Infrastructure and Facilities.* - All public infrastructure and facilities for public use existing therein at the time of the approval of this Act are hereby transferred without cost or compensation to and shall be administered by the new barangay.
+
+ **Section 5.***Internal Revenue Allotment Shares.* - Barangay Coma was shall be entitled to Internal Revenue Allotment shares pursuant to Section 285 of Republic Act No. 7160, as amended, otherwise known as the ""Local Government Code of 1991"".
+
+ **Section 6.***Effectivity.* - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in any newspaper of general circulation.
+
+ Approved,
+
+ **PANTALEON D. ALVAREZ** Speaker of the House of Representatives
+
+ **AQUILINO ""KOKO"" PIMENTEL** President of the Senate
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives on February 13, 2017, amended by the Senate on May 8, 2017, and which amendments were concurred in by the House of Representatives on May 30, 2017.
+
+ **CESAR STRAIT PAREJA** Secretary General House of Representatives
+
+ **LUTGARDO B. BARBO** Secretary of the Senate
+
+ Approved: August 23, 2017
+
+ (Sgd.) **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	This act creates Barangay Comawas in Bislig, Surigao del Sur, outlining its boundaries, plebiscite compliance, incumbents, infrastructure transfer, IRA shares, and effectivity.	"[{""title"": ""Section 1. Creation of Barangay Comawas"", ""summary"": ""Establishes Barangay Comawas in Bislig, Surigao del Sur, with defined territorial boundaries.""}, {""title"": ""Section 2. Conduct and Supervision of Plebiscite"", ""summary"": ""Plebiscite supervised by COMELEC and compliance with RA 7160 Section 10.""}, {""title"": ""Section 3. Incumbent Barangay Officials"", ""summary"": ""Incumbent officials remain until successors elected.""}, {""title"": ""Section 4. Public Infrastructure and Facilities"", ""summary"": ""Transfers existing public infrastructure and facilities to new barangay without cost.""}, {""title"": ""Section 5. Internal Revenue Allotment Shares"", ""summary"": ""Barangay entitled to IRA shares under RA 7160 Section 285.""}, {""title"": ""Section 6. Effectivity"", ""summary"": ""Act takes effect fifteen days after publication in Official Gazette or newspaper.""}]"	10936	August 23, 2017	"[{""name"": ""PANTALEON D. ALVAREZ"", ""title"": ""Speaker of the House of Representatives""}, {""name"": ""AQUILINO \""KOKO\"" PIMENTEL"", ""title"": ""President of the Senate""}]"	"[{""name"": ""CESAR STRAIT PAREJA"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""LUTGARDO B. BARBO"", ""title"": ""Secretary of the Senate""}]"	To create Barangay Comawas in Bislig, Surigao del Sur, establishing its boundaries, infrastructure, and IRA shares.	"[""Creation of Barangay Comawas with defined boundaries"", ""Compliance with plebiscite requirements"", ""Continuation of incumbent officials"", ""Transfer of public infrastructure and facilities"", ""Entitlement to Internal Revenue Allotment shares"", ""Effectivity fifteen days after publication""]"	Republic Act No. 7160 (Local Government Code of 1991)	"[""Local Government"", ""Barangay"", ""Surigao del Sur"", ""Bislig"", ""Republic Act 10936""]"	"[""Barangay"", ""Comawas"", ""Bislig"", ""Surigao del Sur"", ""Local Government Code"", ""IRA"", ""Plebiscite"", ""Infrastructure"", ""Creation"", ""Act""]"
+repacts:datasets/markdown/repacts/2017/ra_10937_2017.md	repacts	2017		datasets/markdown/repacts/2017/ra_10937_2017.md	ra_10937_2017	An Act Establishing a Multi-Species Marine Hatchery in the City of Bislig, Province of Surigao del Sur and Appropriating Funds Therefor	"Seventeenth Congress First Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-fifth day of July, two thousand sixteen.*
+
+ **REPUBLIC ACT No. 10937**
+
+ An Act Establishing a Multi-Species Marine Hatchery in the City of Bislig, Province of Surigao del Sur and Appropriating Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the supervision of the Bureau of Fisheries and Aquatic Resources of the Department of Agriculture (BFAR-DA), a multi-species marine hatchery in the City of Bislig, Province of Surigao del Sur.
+
+ **Section 2.** The BFAR-DA shall, within two (2) years after the construction of the multi-species marine hatchery, transfer the management of the same to the local government unit concerned through a memorandum of agreement. It shall implement a training and phasing-in program for local government personnel on the management and operation of the hatchery.
+
+ **Section 3.** The Secretary of Agriculture shall include in the Department's programs the establishment of the multi-species marine hatchery in the City of Bislig, Province Surigao del Sur, the funding of which shall be included in the annual General Appropriations Act. The local government unit concerned shall set aside funds from any available local revenue in an amount deemed appropriate for the operationalization of the hatchery.
+
+ **Section 4.** Within sixty (60) days from the passage of this Act, the Secretary of Agriculture shall issue the rules and regulations on the supervision, monitoring, transfer, or withdrawal by the BFAR of the multi-species marine hatchery.
+
+ **Section 5.** This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ **AQUILINO ""KOKO"" PIMENTEL** President of the Senate
+
+ **PANTALEON D. ALVAREZ** Speaker of the House of Representatives
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate on February 27, 2017 and May 30, 2017, respectively.
+
+ **LUTGARDO B. BARBO** Secretary of the Senate
+
+ **CESAR STRAIT PAREJA** Secretary General House of Representatives
+
+ Approved: August 23, 2017
+
+ (Sgd.) **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	Republic Act No. 10937 establishes a multi-species marine hatchery in Bislig, Surigao del Sur, sets the Bureau of Fisheries and Aquatic Resources as the supervising agency, and appropriates funds for its construction, operation, and management transfer to local government. The act also mandates rules, training, and funding provisions, and specifies its effective date.	"[{""title"": ""Section 1."", ""summary"": ""Establishes a multi-species marine hatchery in the City of Bislig under the supervision of BFAR-DA.""}, {""title"": ""Section 2."", ""summary"": ""BFAR-DA shall transfer management to the local government within two years after construction via a memorandum of agreement and implement training for local personnel.""}, {""title"": ""Section 3."", ""summary"": ""The Secretary of Agriculture shall include the hatchery in departmental programs and budget, while the local government shall allocate funds for its operation.""}, {""title"": ""Section 4."", ""summary"": ""The Secretary of Agriculture shall issue rules and regulations on supervision, monitoring, and transfer of the hatchery within 60 days.""}, {""title"": ""Section 5."", ""summary"": ""The act takes effect fifteen days after publication in the Official Gazette or a newspaper of general circulation.""}]"	10937	August 23, 2017			To establish a multi-species marine hatchery in Bislig, facilitate its operation and management, and allocate necessary funding for sustainable aquaculture and marine conservation.	"[""Establishment of the hatchery under BFAR-DA supervision"", ""Transfer of management to local government within two years"", ""Funding allocation by the Secretary of Agriculture and local government"", ""Issuance of rules and regulations within 60 days"", ""Effective date fifteen days after publication""]"		"[""Marine Conservation"", ""Aquaculture"", ""Bureau of Fisheries"", ""Local Government""]"	"[""marine hatchery"", ""Bislig"", ""Surigao del Sur"", ""BFAR"", ""Agriculture"", ""funding"", ""management""]"
+repacts:datasets/markdown/repacts/2017/ra_10938_2017.md	repacts	2017		datasets/markdown/repacts/2017/ra_10938_2017.md	ra_10938_2017	An Act Establishing a Multi-Species Marine Hatchery in the Municipality of Lopez, Province of Quezon and Appropriating Funds Therefor	"Seventeenth Congress First Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-fifth day of July, two thousand sixteen.*
+
+ **REPUBLIC ACT No. 10938**
+
+ An Act Establishing a Multi-Species Marine Hatchery in the Municipality of Lopez, Province of Quezon and Appropriating Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the supervision of the Bureau of Fisheries and Aquatic Resources of the Department of Agriculture (BFAR-DA), a multi-species marine hatchery in the Municipality of Lopez, Province of Quezon.
+
+ **Section 2.** The BFAR-DA shall, within two (2) years after the construction of the multi-species marine hatchery, transfer the management of the same to the local government unit concerned through a memorandum of agreement. It shall implement a training and phasing-in program for local government personnel on the management and operation of the hatchery.
+
+ **Section 3.** The Secretary of Agriculture shall include in the Departments programs the establishment of the multi-species marine hatchery in the Municipality of Lopez, Province of Quezon, the funding of which shall be included in the annual General Appropriations Act. The local government unit concerned shall set aside funds from any available local revenue in an amount deemed appropriate for the operationalization of the hatchery.
+
+ **Section 4.** Within sixty (60) days from the passage of this Act, the Secretary of Agriculture shall issue the rules and regulations on the supervision, monitoring, transfer, or withdrawal by the BFAR of the multi-species marine hatchery.
+
+ **Section 5.** This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ **AQUILINO ""KOKO"" PIMENTEL** President of the Senate
+
+ **PANTALEON D. ALVAREZ** Speaker of the House of Representatives
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate on February 27, 2017 and May 30, 2017, respectively.
+
+ **LUTGARDO B. BARBO** Secretary of the Senate
+
+ **CESAR STRAIT PAREJA** Secretary General House of Representatives
+
+ Approved: August 23, 2017
+
+ (Sgd.) **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	The act establishes a multi-species marine hatchery in Lopez, Quezon, supervised by the Bureau of Fisheries and Aquatic Resources (BFAR-DA), and appropriates funds for its construction, operation, and management transfer to the local government unit.	"[{""title"": ""Section 1"", ""summary"": ""Establishment of a multi-species marine hatchery in Lopez, Quezon, supervised by BFAR-DA.""}, {""title"": ""Section 2"", ""summary"": ""Transfer of management of the hatchery to the local government unit within two years after construction, including a training and phasing-in program for local government personnel.""}, {""title"": ""Section 3"", ""summary"": ""Secretary of Agriculture to include the hatchery in department programs and fund it through the annual General Appropriations Act; local government to set aside operational funds.""}, {""title"": ""Section 4"", ""summary"": ""Issuance of rules and regulations on supervision, monitoring, transfer, or withdrawal of the hatchery by BFAR within sixty days from passage of the act.""}, {""title"": ""Section 5"", ""summary"": ""Effectivity of the act fifteen days after publication in the Official Gazette or a newspaper of general circulation.""}]"	10938	August 23, 2017	"[{""name"": ""AQUILINO \""KOKO\"" PIMENTEL"", ""title"": ""President of the Senate""}, {""name"": ""PANTALEON D. ALVAREZ"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""LUTGARDO B. BARBO"", ""title"": ""Secretary of the Senate""}, {""name"": ""CESAR STRAIT PAREJA"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""RODRIGO ROA DUTERTE"", ""title"": ""President of the Philippines""}]"	To establish a multi-species marine hatchery in Lopez, Quezon, and to appropriate funds for its construction, operation, and management transfer to the local government unit.	"[""Establishment of a multi-species marine hatchery supervised by BFAR-DA"", ""Transfer of management to the local government unit within two years"", ""Inclusion of hatchery funding in the annual General Appropriations Act"", ""Issuance of rules and regulations within sixty days"", ""Effectivity after fifteen days of publication""]"		"[""Marine Hatchery"", ""Bureau of Fisheries"", ""Department of Agriculture"", ""Quezon"", ""Multi-species""]"	"[""marine hatchery"", ""Bureau of Fisheries"", ""Aquatic Resources"", ""Quezon"", ""Lopez"", ""funding"", ""agriculture"", ""local government"", ""training"", ""regulations""]"
+repacts:datasets/markdown/repacts/2017/ra_10939_2017.md	repacts	2017		datasets/markdown/repacts/2017/ra_10939_2017.md	ra_10939_2017	An Act Establishing a Multi-Species Marine Hatchery in the Municipality of Atimonan, Province of Quezon and Appropriating Funds Therefor	"Seventeenth Congress First Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-fifth day of July, two thousand sixteen.*
+
+ **REPUBLIC ACT No. 10939**
+
+ An Act Establishing a Multi-Species Marine Hatchery in the Municipality of Atimonan, Province of Quezon and Appropriating Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the supervision of the Bureau of Fisheries and Aquatic Resources of the Department of Agriculture (BFAR-DA), a multi-species marine hatchery in the Municipality of Atimonan, Province of Quezon.
+
+ **Section 2.** The BFAR-DA shall, within two (2) years after the construction of the multi-species marine hatchery, transfer the management of the same to the local government unit concerned through a memorandum of agreement. It shall implement a training and phasing-in program for local government personnel on the management and operation of the hatchery.

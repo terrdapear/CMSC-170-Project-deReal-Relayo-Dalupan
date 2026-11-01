@@ -1,0 +1,156 @@
+
+ Approved,
+
+ | (Sgd.) **FRANKLIN M. DRILON** Secretary of the Senate | (Sgd.) **MARILYN B. BARUA-YAP** Secretary GeneralHouse of Representatives |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives on June 9, 2014, amended by the Senate on July 28, 2015, and which amendments were concurred in by the House of Representatives on September 23, 2015.
+
+ | (Sgd.) **OSCAR G. YABES** Secretary of the Senate | (Sgd.) **FELICIANO BELMONTE JR.** Secretary General House of Representatives |
+
+ Approved: DEC 09 2015
+
+ (Sgd.) **BENIGNO S. AQUINO, III** President of the Philippines
+"	success	Republic Act	Creates three additional branches of the Regional Trial Court in Pangasinan, amends Section 14(a) of Batas Pambansa Blg. 129, and appropriates funds for their operation.	"[{""title"": ""SECTION 1."", ""summary"": ""Establishes three new branches of the Regional Trial Court in Alaminos, Dagupan, and San Carlos within the First Judicial Region.""}, {""title"": ""SECTION 2."", ""summary"": ""Mandates the Supreme Court to assign branch numbers to the newly created court branches.""}, {""title"": ""SECTION 3."", ""summary"": ""The Chief Justice, in coordination with the Secretary of Justice, will operationalize the new branches, including funding from the Annual General Appropriations Act, with funds released upon organization and personnel appointments.""}, {""title"": ""SECTION 4."", ""summary"": ""Amends, repeals, or modifies Section 14(a) of Batas Pambansa Blg. 129 and any inconsistent laws, executive orders, rules, or regulations.""}, {""title"": ""SECTION 5."", ""summary"": ""The Act takes effect fifteen days after publication in two newspapers of general circulation.""}]"	10710	DEC 09 2015		"[{""name"": ""FRANKLIN M. DRILON"", ""title"": ""Secretary of the Senate""}, {""name"": ""MARILYN B. BARUA-YAP"", ""title"": ""Secretary General, House of Representatives""}, {""name"": ""OSCAR G. YABES"", ""title"": ""Secretary of the Senate""}, {""name"": ""FELICIANO BELMONTE JR."", ""title"": ""Secretary General, House of Representatives""}, {""name"": ""BENIGNO S. AQUINO, III"", ""title"": ""President of the Philippines""}]"	To create additional branches of the Regional Trial Court, amend judiciary reforms, and provide the necessary funding for their operation.	"[""Creation of three RTC branches in Pangasinan"", ""Assignment of branch numbers by the Supreme Court"", ""Operationalization and funding of new branches"", ""Amendment of Section 14(a) of Batas Pambansa Blg. 129"", ""Effective date fifteen days after publication""]"	Section 14(a) of Batas Pambansa Blg. 129	"[""Judiciary"", ""Regional Trial Court"", ""Pangasinan"", ""Amendment"", ""Appropriation""]"	"[""RTC"", ""Pangasinan"", ""Batas Pambansa Blg. 129"", ""Judiciary Reorganization Act"", ""Appropriations""]"
+repacts:datasets/markdown/repacts/2015/ra_10711_2015.md	repacts	2015		datasets/markdown/repacts/2015/ra_10711_2015.md	ra_10711_2015	AN ACT CREATING FIVE (5) ADDITIONAL BRANCHES OF THE REGIONAL TRIAL COURT AND FIVE (5) ADDITIONAL BRANCHES OF THE METROPOLITAN TRIAL COURT, IN THE NATIONAL CAPITAL JUDICIAL REGION, TO BE STATIONED IN PASAY CITY, METRO MANILA, AMENDING FOR THE PURPOSE SECTION 14, PARAGRAPH (D) AND SECTION 27 OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS THE JUDICIARY REORGANIZATION ACT OF 1980, AS AMENDED, AND APPROPRIATING FUNDS THEREFOR	"Sixteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-seventh day of July, two thousand fifteen.*
+
+ **REPUBLIC ACT No. 10711**
+
+ AN ACT CREATING FIVE (5) ADDITIONAL BRANCHES OF THE REGIONAL TRIAL COURT AND FIVE (5) ADDITIONAL BRANCHES OF THE METROPOLITAN TRIAL COURT, IN THE NATIONAL CAPITAL JUDICIAL REGION, TO BE STATIONED IN PASAY CITY, METRO MANILA, AMENDING FOR THE PURPOSE SECTION 14, PARAGRAPH (D) AND SECTION 27 OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS THE JUDICIARY REORGANIZATION ACT OF 1980, AS AMENDED, AND APPROPRIATING FUNDS THEREFOR
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **SECTION 1.** Five (5) additional branches of the Regional Trial Court and five (5) additional branches of the Metropolitan Trial Court to be stationed in Pasay City, Metro Manila are hereby created in the National Capital Judicial Region.
+
+ **SECTION 2.** The Supreme Court shall assign the respective branch numbers of the newly created branches of the Regional Trial Court and Metropolitan Trial Court in the National Capital Judicial Region.
+
+ **SECTION 3.** The Chief Justice of the Supreme Court, in coordination with the Secretary of the Department of Justice, shall immediately include in the Courts program the operationalization of the live (5) additional branches of the Regional Trial Court and five (5) additional branches of the Metropolitan Trial Court to be stationed in Pasay City, Metro Manila, the funding of which shall be included in the Annual General Appropriations Act. The funds necessary for the operation of the courts herein created shall be appropriated and released only upon the actual organization of the courts and the appointment of its personnel.
+
+ **SECTION 4.** Section 14 (d) and Section 27 of Batas Pambansa Blg. 129, otherwise known as The Judiciary Reorganization Act of 1980, as amended, and all other laws, executive orders, and rules and regulations which are inconsistent with this Act are hereby amended, repealed or modified accordingly.
+
+ **SECTION 5.** This Act shall take effect fifteen (15) days after its complete publication in two (2) newspapers of general circulation.
+
+ Approved,
+
+ | (Sgd.) **FRANKLIN M. DRILON** President of the Senate | (Sgd.) **FELICIANO BELMONTE JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives on June 9, 2014, amended by the Senate on July 28, 2015, and which amendments were concurred in by the House of Representatives on September 23, 2015.
+
+ | (Sgd.) **OSCAR G. YABES** Secretary of the Senate | (Sgd.) **MARILYN B. BARUA-YAP** Secretary GeneralHouse of Representatives |
+
+ Approved: DEC 09 2015
+
+ (Sgd.) **BENIGNO S. AQUINO, III** President of the Philippines
+"	success	Republic Act	Republic Act No. 10711 establishes five additional branches each of the Regional Trial Court (RTC) and Metropolitan Trial Court (MTT) in Pasay City, Metro Manila, to enhance judicial access. The act also amends Sections 14(d) and 27 of Batas Pambansa Blg. 129 (the Judiciary Reorganization Act of 1980) and appropriates funds for the operationalization of these courts.	"[{""title"": ""SECTION 1."", ""summary"": ""Creation of five additional RTC and five additional MTT branches in Pasay City, Metro Manila.""}, {""title"": ""SECTION 2."", ""summary"": ""Assignment of branch numbers to the newly created RTC and MTT branches by the Supreme Court.""}, {""title"": ""SECTION 3."", ""summary"": ""Operationalization and funding of the new branches, with appropriations released upon organization and personnel appointment.""}, {""title"": ""SECTION 4."", ""summary"": ""Amendment, repeal, or modification of Sections 14(d) and 27 of Batas Pambansa Blg. 129 and other inconsistent laws.""}, {""title"": ""SECTION 5."", ""summary"": ""Effective date fifteen days after publication in two newspapers of general circulation.""}]"	10711	2015-12-09	"[{""name"": ""FRANKLIN M. DRILON"", ""title"": ""President of the Senate""}, {""name"": ""FELICIANO BELMONTE JR."", ""title"": ""Speaker of the House of Representatives""}]"		To expand judicial capacity in the National Capital Judicial Region by creating additional RTC and MTT branches in Pasay City, improve access to justice, and update the Judiciary Reorganization Act for modern court operations.	"[""Creation of five additional RTC and MTT branches in Pasay City"", ""Assignment of branch numbers by the Supreme Court"", ""Operationalization and funding of new branches"", ""Amendment of Sections 14(d) and 27 of Batas Pambansa Blg. 129"", ""Effective date fifteen days after publication""]"	Sections 14(d) and 27 of Batas Pambansa Blg. 129 (Judiciary Reorganization Act of 1980)	"[""Judiciary"", ""Court"", ""Legislation"", ""Republic Act"", ""Pasay City"", ""Regional Trial Court"", ""Metropolitan Trial Court""]"	"[""regional trial court"", ""metropolitan trial court"", ""Pasay City"", ""Judiciary Reorganization Act"", ""Batas Pambansa Blg. 129"", ""funding"", ""court expansion""]"
+repacts:datasets/markdown/repacts/2015/ra_10712_2015.md	repacts	2015		datasets/markdown/repacts/2015/ra_10712_2015.md	ra_10712_2015	AN ACT CREATING AN ADDITIONAL BRANCH OF THE REGIONAL TRIAL COURT TO BE STATIONED IN SORSOGON CITY, SITUATED IN THE PROVINCE OF SORSOGON, IN THE FIFTH JUDICIAL REGION, FURTHER AMENDING FOR THE PURPOSE SECTION 14, PARAGRAPH (F) OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS THE JUDICIARY REORGANIZATION ACT OF 1980, AS AMENDED, AND APPROPRIATING FUNDS THEREFOR	"Sixteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-seventh day of July, two thousand fifteen.*
+
+ **REPUBLIC ACT No. 10712**
+
+ AN ACT CREATING AN ADDITIONAL BRANCH OF THE REGIONAL TRIAL COURT TO BE STATIONED IN SORSOGON CITY, SITUATED IN THE PROVINCE OF SORSOGON, IN THE FIFTH JUDICIAL REGION, FURTHER AMENDING FOR THE PURPOSE SECTION 14, PARAGRAPH (F) OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS THE JUDICIARY REORGANIZATION ACT OF 1980, AS AMENDED, AND APPROPRIATING FUNDS THEREFOR
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **SECTION 1.** An additional branch of the Regional Trial Court to be stationed in the City of Sorsogon, situated in the Province of Sorsogon, is hereby created in the Fifth Judicial Region.
+
+ **SECTION 2.** The Supreme Court shall assign the branch number for the newly created branch of the Regional Trial Court in the Fifth Judicial Region.
+
+ **SECTION 3.** The Chief Justice of the Supreme Court, in coordination with the Secretary of the Department of Justice, shall immediately include in the Courts program the operationalization of the additional branch of the Regional Trial Court in the City of Sorsogon, the funding of which shall be included in the Annual General Appropriations Act. The funds necessary for the operation of the court herein created shall be appropriated and released only upon the actual organization of the court and the appointment of its personnel.
+
+ **SECTION 4.** Section 14 (f) of Batas Pambansa Blg. 129, otherwise known as The Judiciary Reorganization Act of 1980, as amended, and all other laws, executive orders, and rules and regulations which are inconsistent with this Act are hereby amended, repealed, or modified accordingly.
+
+ **SECTION 5.** This Act shall take effect fifteen (15) days after its complete publication in two (2) newspapers of general circulation.
+
+ Approved,
+
+ | (Sgd.) **FRANKLIN M. DRILON** President of the Senate | (Sgd.) **FELICIANO BELMONTE JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives on June 9, 2014, amended by the Senate on July 28, 2015, and which amendments were concurred in by the House of Representatives on September 23, 2015.
+
+ | (Sgd.) **OSCAR G. YABES** Secretary of the Senate | (Sgd.) **MARILYN B. BARUA-YAP** Secretary GeneralHouse of Representatives |
+
+ Approved: DEC 09 2015
+
+ (Sgd.) **BENIGNO S. AQUINO, III** President of the Philippines
+"	success	Republic Act	This act establishes an additional branch of the Regional Trial Court in Sorsogon City, assigns it a branch number, provides for its operationalization and funding, amends Section 14(f) of Batas Pambansa Blg. 129, repeals inconsistent laws, and sets its effective date.	"[{""title"": ""SECTION 1."", ""summary"": ""Creates an additional branch of the Regional Trial Court to be stationed in the City of Sorsogon, located in the Province of Sorsogon, within the Fifth Judicial Region.""}, {""title"": ""SECTION 2."", ""summary"": ""Mandates the Supreme Court to assign a branch number to the newly created branch of the Regional Trial Court.""}, {""title"": ""SECTION 3."", ""summary"": ""Requires the Chief Justice, in coordination with the Secretary of the Department of Justice, to operationalize the new branch and include its funding in the Annual General Appropriations Act, with appropriations released upon organization and appointment of personnel.""}, {""title"": ""SECTION 4."", ""summary"": ""Amends Section 14(f) of Batas Pambansa Blg. 129 (Judiciary Reorganization Act of 1980) and repeals or modifies any laws, executive orders, rules, and regulations inconsistent with this Act.""}, {""title"": ""SECTION 5."", ""summary"": ""Stipulates that the Act shall take effect fifteen days after its publication in two newspapers of general circulation.""}]"	10712	2015-12-09	"[{""name"": ""FRANKLIN M. DRILON"", ""title"": ""President of the Senate""}, {""name"": ""FELICIANO BELMONTE JR."", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""OSCAR G. YABES"", ""title"": ""Secretary of the Senate""}, {""name"": ""MARILYN B. BARUA-YAP"", ""title"": ""Secretary General of the House of Representatives""}, {""name"": ""BENIGNO S. AQUINO, III"", ""title"": ""President of the Philippines""}]"	To create an additional branch of the Regional Trial Court in Sorsogon City, amend Section 14(f) of Batas Pambansa Blg. 129, and appropriate necessary funds while repealing inconsistent laws.	"[""Creation of an additional branch of the Regional Trial Court in Sorsogon City."", ""Assignment of branch number by the Supreme Court."", ""Operationalization and funding of the new branch."", ""Amendment of Section 14(f) of Batas Pambansa Blg. 129 and repeal of inconsistent laws."", ""Effective date fifteen days after publication in general circulation newspapers.""]"	Section 14(f) of Batas Pambansa Blg. 129 (Judiciary Reorganization Act of 1980) and other inconsistent laws, executive orders, rules, and regulations.	"[""Judiciary"", ""Regional Trial Court"", ""Sorsogon"", ""Batas Pambansa"", ""Amendment"", ""Funding""]"	"[""Regional Trial Court"", ""Sorsogon"", ""Judiciary Reorganization Act"", ""Batas Pambansa Blg. 129"", ""amendment"", ""funding""]"
+repacts:datasets/markdown/repacts/2015/ra_10713_2015.md	repacts	2015		datasets/markdown/repacts/2015/ra_10713_2015.md	ra_10713_2015	AN ACT CREATING THREE (3) ADDITIONAL BRANCHES OF THE REGIONAL TRIAL COURT IN THE NATIONAL CAPITAL JUDICIAL REGION TO BE STATIONED IN PARANAQUE CITY, METRO MANILA, AMENDING FOR THE PURPOSE SECTION 14, PARAGRAPH (D) OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS THE JUDICIARY REORGANIZATION ACT OF 1980, AS AMENDED, AND APPROPRIATING FUNDS THEREFOR	"Sixteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-seventh day of July, two thousand fifteen.*
+
+ **REPUBLIC ACT No. 10713**
+
+ AN ACT CREATING THREE (3) ADDITIONAL BRANCHES OF THE REGIONAL TRIAL COURT IN THE NATIONAL CAPITAL JUDICIAL REGION TO BE STATIONED IN PARANAQUE CITY, METRO MANILA, AMENDING FOR THE PURPOSE SECTION 14, PARAGRAPH (D) OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS THE JUDICIARY REORGANIZATION ACT OF 1980, AS AMENDED, AND APPROPRIATING FUNDS THEREFOR
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **SECTION 1.** Three (3) additional branches of the Regional Trial Court with seats at Paraaque City, Metro Manila are hereby created in the National Capital Judicial Region.
+
+ **SECTION 2.** The Supreme Court shall assign the branch numbers of the newly created branches of the Regional Trial Court in the National Capital Judicial Region.
+
+ **SECTION 3.** The Chief Justice of the Supreme Court, in coordination with the Secretary of the Department of Justice, shall immediately include in the Courts program the operationalization of the three (3) additional branches of the Regional Trial Court to be stationed in Paraaque City, Metro Manila, the funding of winch shall be included in the Annual General Appropriations Act. The funds necessary for the operation of the courts herein created shall be appropriated and released only upon the actual organization of the courts and the appointment of its personnel.
+
+ **SECTION 4.** Section 14(d) of Batas Pambansa Blg. 129, otherwise known as The Judiciary Reorganization Act of 1980, as amended, and all other laws, executive orders, and rules and regulations which are inconsistent with this Act are hereby amended, repealed or modified accordingly.
+
+ **SECTION 5.** This Act shall take effect fifteen (15) days after its complete publication in two (2) newspapers of general circulation.
+
+ Approved,
+
+ | (Sgd.) **FRANKLIN M. DRILON** President of the Senate | (Sgd.) **FELICIANO BELMONTE JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives on June 9, 2014, amended by the Senate on July 28, 2015, and which amendments were concurred in by the House of Representatives on September 23, 2015.
+
+ | (Sgd.) **OSCAR G. YABES** Secretary of the Senate | (Sgd.) **MARILYN B. BARUA-YAP** Secretary GeneralHouse of Representatives |
+
+ Approved: DEC 9 2015
+
+ (Sgd.) **BENIGNO S. AQUINO, III** President of the Philippines
+"	success	Republic Act	The Republic Act establishes three additional branches of the Regional Trial Court in Paraque City, Metro Manila, amends Section 14(d) of Batas Pambansa Blg. 129, and appropriates funds for their operation.	"[{""title"": ""Section 1."", ""summary"": ""Creation of three additional branches of the Regional Trial Court in Paraque City, Metro Manila.""}, {""title"": ""Section 2."", ""summary"": ""The Supreme Court shall assign branch numbers to the newly created branches.""}, {""title"": ""Section 3."", ""summary"": ""The Chief Justice and Secretary of the Department of Justice shall operationalize the new branches and secure funding for their operation.""}, {""title"": ""Section 4."", ""summary"": ""Amendment, repeal, or modification of laws inconsistent with this Act, including Section 14(d) of Batas Pambansa Blg. 129.""}, {""title"": ""Section 5."", ""summary"": ""Act takes effect fifteen days after publication in two newspapers of general circulation.""}]"	10713	December 9, 2015	"[{""name"": ""Franklin M. Drilon"", ""title"": ""President of the Senate""}, {""name"": ""Feliciano Belmonte Jr."", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""Oscar G. Yabes"", ""title"": ""Secretary of the Senate""}, {""name"": ""Marilyn B. Barua-Yap"", ""title"": ""Secretary General of the House of Representatives""}]"	To create three additional branches of the Regional Trial Court in Paraque City, Metro Manila, amend Section 14(d) of Batas Pambansa Blg. 129, and appropriate funds for their operation.	"[""Creation of three additional branches of the Regional Trial Court in Paraque City, Metro Manila"", ""Assignment of branch numbers by the Supreme Court"", ""Operationalization and funding by the Chief Justice and Secretary of the DOJ"", ""Amendment, repeal or modification of laws inconsistent with this Act"", ""Act takes effect 15 days after publication in two newspapers""]"	Section 14(d) of Batas Pambansa Blg. 129 (Judiciary Reorganization Act of 1980)	"[""Judiciary"", ""Regional Trial Court"", ""Amendment"", ""Appropriation"", ""Legal Reform""]"	"[""Regional Trial Court"", ""Paraque City"", ""Batas Pambansa Blg. 129"", ""Judiciary Reorganization Act"", ""Appropriations"", ""Supreme Court"", ""Secretary of Justice"", ""Philippines"", ""Republic Act 10713""]"
+repacts:datasets/markdown/repacts/2015/ra_10714_2015.md	repacts	2015		datasets/markdown/repacts/2015/ra_10714_2015.md	ra_10714_2015	AN ACT CREATING AN ADDITIONAL BRANCH OF THE REGIONAL TRIAL COURT TO BE STATIONED IN THE CITY OF VIGAN, SITUATED IN THE PROVINCE OF ILOCOS SUR, IN THE FIRST JUDICIAL REGION, FURTHER AMENDING FOR THE PURPOSE SECTION 14, PARAGRAPH (A) OF BASTAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS THE JUDICIARY REORGANIZATION ACT OF 1980, AS AMENDED, AND APPROPRIATING FUNDS THEREFOR	"Sixteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-seventh day of July, two thousand fifteen.*
+
+ **REPUBLIC ACT No. 10714**
+
+ AN ACT CREATING AN ADDITIONAL BRANCH OF THE REGIONAL TRIAL COURT TO BE STATIONED IN THE CITY OF VIGAN, SITUATED IN THE PROVINCE OF ILOCOS SUR, IN THE FIRST JUDICIAL REGION, FURTHER AMENDING FOR THE PURPOSE SECTION 14, PARAGRAPH (A) OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS THE JUDICIARY REORGANIZATION ACT OF 1980, AS AMENDED, AND APPROPRIATING FUNDS THEREFOR
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **SECTION 1.** An additional branch of the Regional Trial Court to be stationed in the City of Vigan situated in the Province of Ilocos Sur is hereby created in the First Judicial Region.
+
+ **SECTION 2.** The Supreme Court shall assign the branch number of the newly created branch of the Regional Trial Court in the First Judicial Region.
+
+ **SECTION 3.** The Chief Justice of the Supreme Court, in coordination with the Secretary of the Department of Justice, shall immediately include in the Courts program the operationalization of the additional branch of the Regional Trial Court in the Province of Ilocos Sur to be stationed in the City of Vigan, the funding of which shall be included in the Annual General Appropriations Act. The funds necessary for the operation of the court herein created shall be appropriated and released only upon the actual organization of the court and the appointment of its personnel.
+
+ **SECTION 4.** Section 14 (a) of Batas Pambansa Blg. 129, otherwise known as The Judiciary Reorganization Act of 1980, as amended, and all other laws, executive orders, and rules and regulations which are inconsistent with this Act are hereby amended, repealed or modified accordingly.
+
+ **SECTION 5.** This Act shall take effect fifteen (15) days after its complete publication in two (2) newspapers of general circulation.
+
+ Approved,
+
+ | (Sgd.) **FRANKLIN M. DRILON** President of the Senate | (Sgd.) **FELICIANO BELMONTE JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives on June 9, 2014, amended by the Senate on July 28, 2015, and which amendments were concurred in by the House of Representatives on October 2, 2015.
+
+ | (Sgd.) **OSCAR G. YABES** Secretary of the Senate | (Sgd.) **MARILYN B. BARUA-YAP** Secretary GeneralHouse of Representatives |
+
+ Approved: DEC 9 2015
+
+ (Sgd.) **BENIGNO S. AQUINO, III** President of the Philippines
+"	success	Law	Republic Act No. 10714 establishes a new branch of the Regional Trial Court in Vigan, Ilocos Sur, assigns it a branch number, outlines its operationalization and funding, amends and repeals inconsistencies with Section 14(a) of Batas Pambansa Blg. 129, and takes effect 15 days after publication.	"[{""title"": ""Section 1"", ""summary"": ""Creates a new branch of the Regional Trial Court in Vigan, Ilocos Sur, in the First Judicial Region.""}, {""title"": ""Section 2"", ""summary"": ""Supreme Court shall assign the branch number to the newly created branch.""}, {""title"": ""Section 3"", ""summary"": ""Chief Justice and Secretary of Justice to include operationalization of the new branch in the courts program; funding to be appropriated upon organization and personnel appointment.""}, {""title"": ""Section 4"", ""summary"": ""Amends, repeals or modifies Section 14(a) of Batas Pambansa Blg. 129 and all inconsistent laws, EO's, and regulations.""}, {""title"": ""Section 5"", ""summary"": ""Act takes effect fifteen days after publication in two newspapers of general circulation.""}]"	10714	2015-12-09	"[{""name"": ""Franklin M. Drilon"", ""title"": ""President of the Senate""}, {""name"": ""Feliciano Belmonte Jr."", ""title"": ""Speaker of the House of Representatives""}]"		To establish an additional branch of the Regional Trial Court in Vigan, Ilocos Sur, thereby improving judicial accessibility and efficiency, and to amend inconsistent provisions of the Judiciary Reorganization Act of 1980.	"[""Creation of a new Regional Trial Court branch in Vigan"", ""Assignment of branch number by the Supreme Court"", ""Operationalization and funding procedures"", ""Amendment/repeal of Section 14(a) of Batas Pambansa Blg. 129 and related laws"", ""Effectivity 15 days after publication""]"	Section 14(a) of Batas Pambansa Blg. 129, Judiciary Reorganization Act of 1980	"[""judiciary"", ""regional trial court"", ""Ilocos Sur"", ""Vigan"", ""legal reform""]"	"[""Regional Trial Court"", ""Vigan"", ""Ilocos Sur"", ""Batas Pambansa Blg. 129"", ""Judiciary Reorganization Act"", ""funding"", ""court"", ""branch""]"
+repacts:datasets/markdown/repacts/2015/ra_10715_2015.md	repacts	2015		datasets/markdown/repacts/2015/ra_10715_2015.md	ra_10715_2015	AN ACT CREATING THREE (3) ADDITIONAL BRANCHES OF THE REGIONAL TRIAL COURT TO BE STATIONED IN THE CITY OF BACOLOD, SITUATED IN THE PROVINCE OF NEGROS OCCIDENTAL, IN THE SIXTH JUDICIAL REGION, AMENDING FOR THE PURPOSE SECTION 14, PARAGRAPH (G) OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS THE JUDICIARY REORGANIZATION ACT OF 1980, AS AMENDED, AND APPROPRIATING FUNDS THEREFOR	"Sixteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-seventh day of July, two thousand fifteen.*
+
+ **REPUBLIC ACT No. 10715**
+
+ AN ACT CREATING THREE (3) ADDITIONAL BRANCHES OF THE REGIONAL TRIAL COURT TO BE STATIONED IN THE CITY OF BACOLOD, SITUATED IN THE PROVINCE OF NEGROS OCCIDENTAL, IN THE SIXTH JUDICIAL REGION, AMENDING FOR THE PURPOSE SECTION 14, PARAGRAPH (G) OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS THE JUDICIARY REORGANIZATION ACT OF 1980, AS AMENDED, AND APPROPRIATING FUNDS THEREFOR
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **SECTION 1.** Three (3) additional branches of the Regional Trial Court to be stationed in the City of Bacolod, situated in the Province of Negros Occidental, are hereby created in the Sixth Judicial Region.
+
+ **SECTION 2.** The Supreme Court shall assign the branch numbers of the newly created Regional Trial Court branches in the Sixth Judicial Region.
+
+ **SECTION 3.** The Chief Justice of the Supreme Court, in coordination with the Secretary of the Department of Justice, shall immediately include in the Courts program the operationalization of the additional Regional Trial Court branches to be stationed in the City of Bacolod, Province of Negros Occidental, the funding of which shall be included in the Annual General Appropriations Act. The funds necessary for the operation of the courts herein created shall be appropriated and released only upon the actual organization of the courts and the appointment of its personnel.

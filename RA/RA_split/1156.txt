@@ -1,0 +1,169 @@
+"	success	Act	Amends the name of Calabasa Elementary School in Labo, Camarines Norte to Paaralang Bayan ng Eugenio Dasco Sr.	"[{""title"": ""Section 1"", ""summary"": ""The name of Calabasa Elementary School is changed to Paaralang Bayan ng Eugenio Dasco Sr.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	5029	June 17, 1967			Renaming of a public elementary school to honor Eugenio Dasco Sr.	"[""The name of Calabasa Elementary School is changed to Paaralang Bayan ng Eugenio Dasco Sr.""]"		"[""Education"", ""School"", ""Renaming"", ""Local"", ""Camarines Norte""]"	"[""school name change"", ""Calabasa Elementary School"", ""Paaralang Bayan ng Eugenio Dasco Sr"", ""Labo"", ""Camarines Norte""]"
+repacts:datasets/markdown/repacts/1967/ra_5030_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_5030_1967.md	ra_5030_1967	An Act Changing the Name of Tuaca Elementary School in the Municipality of Basud, Province of Camarines Norte, to Pedro Rada Elementary School	"**REPUBLIC ACT No. 5030**
+
+ An Act Changing the Name of Tuaca Elementary School in the Municipality of Basud, Province of Camarines Norte, to Pedro Rada Elementary School
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Tuaca Elementary School in the Municipality of Basud, Province of Camarines Norte, is hereby changed to Pedro Rada Elementary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Republic Act	This act changes the name of Tuaca Elementary School to Pedro Rada Elementary School in Basud, Camarines Norte.	"[{""title"": ""Section 1"", ""summary"": ""Changes the name of Tuaca Elementary School to Pedro Rada Elementary School.""}, {""title"": ""Section 2"", ""summary"": ""Act shall take effect upon approval.""}]"	5030	June 17, 1967			To rename Tuaca Elementary School to Pedro Rada Elementary School.	"[""Name of Tuaca Elementary School changed to Pedro Rada Elementary School""]"		"[""Education"", ""School"", ""Renaming"", ""Camarines Norte""]"	"[""Tuaca Elementary School"", ""Pedro Rada Elementary School"", ""Basud"", ""Camarines Norte"", ""Renaming""]"
+repacts:datasets/markdown/repacts/1967/ra_5031_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_5031_1967.md	ra_5031_1967	An Act Changing the Name of Tanay Elementary School Building No. 1 in the Municipality of Tanay, Province of Rizal, to Patricio Jarin Memorial Elementary School	"**REPUBLIC ACT No. 5031**
+
+ An Act Changing the Name of Tanay Elementary School Building No. 1 in the Municipality of Tanay, Province of Rizal, to Patricio Jarin Memorial Elementary School
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Tanay Elementary School Building No. 1 in the Municipality of Tanay, Province of Rizal, is hereby changed to Patricio Jarin Memorial Elementary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Act	This act changes the name of Tanay Elementary School Building No. 1 to Patricio Jarin Memorial Elementary School and takes effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The name of Tanay Elementary School Building No. 1 in the Municipality of Tanay, Province of Rizal, is hereby changed to Patricio Jarin Memorial Elementary School.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	5031	June 17, 1967			To change the name of Tanay Elementary School Building No. 1 to Patricio Jarin Memorial Elementary School.	"[""Name of Tanay Elementary School Building No. 1 is changed to Patricio Jarin Memorial Elementary School.""]"		"[""Education"", ""School"", ""Name change""]"	"[""Tanay"", ""Rizal"", ""Patricio Jarin"", ""Elementary School"", ""Name change""]"
+repacts:datasets/markdown/repacts/1967/ra_5032_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_5032_1967.md	ra_5032_1967	An Act Changing the Name of Barcelona Elementary School in the Municipality of Solsona, Province of Ilocos Norte, to Barcelona-Aguitap Elementary School	"**REPUBLIC ACT No. 5032**
+
+ An Act Changing the Name of Barcelona Elementary School in the Municipality of Solsona, Province of Ilocos Norte, to Barcelona-Aguitap Elementary School
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Barcelona Elementary School in the Municipality of Solsona, Province of Ilocos Norte, is hereby changed to Barcelona-Aguitap Elementary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Republic Act	This act changes the name of Barcelona Elementary School in Solsona, Ilocos Norte to Barcelona-Aguitap Elementary School, effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Name changed to Barcelona-Aguitap Elementary School.""}, {""title"": ""Section 2"", ""summary"": ""Act takes effect upon approval.""}]"	5032	June 17, 1967			To change the name of Barcelona Elementary School to Barcelona-Aguitap Elementary School.	"[""Name changed to Barcelona-Aguitap Elementary School"", ""Act takes effect upon approval""]"		"[""Education"", ""School Renaming"", ""Ilocos Norte"", ""Local Government""]"	"[""Barcelona Elementary School"", ""Barcelona-Aguitap Elementary School"", ""Ilocos Norte"", ""School name change""]"
+repacts:datasets/markdown/repacts/1967/ra_5033_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_5033_1967.md	ra_5033_1967	An Act Changing the Name of Manalpac School in the Municipality of Solsona, Province of Ilocos Norte, to Manalpac-Mariquet Primary School	"**REPUBLIC ACT No. 5033**
+
+ An Act Changing the Name of Manalpac School in the Municipality of Solsona, Province of Ilocos Norte, to Manalpac-Mariquet Primary School
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Manalpac School in the Municipality of Solsona, Province of Ilocos Norte, is hereby changed to Manalpac-Mariquet Primary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Act	Changes the name of Manalpac School to Manalpac-Mariquet Primary School.	"[{""title"": ""Section 1"", ""summary"": ""The name of Manalpac School in Solsona, Ilocos Norte is changed to Manalpac-Mariquet Primary School.""}, {""title"": ""Section 2"", ""summary"": ""The Act takes effect upon its approval.""}]"	5033	June 17, 1967			To change the name of a public primary school.	"[""Name changed to Manalpac-Mariquet Primary School"", ""Act takes effect upon approval""]"		"[""Education"", ""School Name Change""]"	"[""Manalpac"", ""Mariquet"", ""Primary School"", ""Ilocos Norte"", ""Ilocos"", ""Name Change"", ""Republic Act 5033""]"
+repacts:datasets/markdown/repacts/1967/ra_5034_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_5034_1967.md	ra_5034_1967	An Act Increasing the Bed Capacity of Bataan Provincial Hospital in the Province of Bataan from Twenty-Five to Seventy-Five Beds, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 5034**
+
+ An Act Increasing the Bed Capacity of Bataan Provincial Hospital in the Province of Bataan from Twenty-Five to Seventy-Five Beds, and Authorizing the Appropriation of Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The bed capacity of Bataan Provincial Hospital in the Province of Bataan is hereby increased from twenty-five to seventy-five beds.
+
+ **Section 2.** The sum of one hundred fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, to carry out the purpose of this Act for fiscal year nineteen hundred and sixty-seven. Thereafter, such sums as may be needed for the operation and maintenance of said hospital shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Republic Act	The Act increases the bed capacity of Bataan Provincial Hospital from 25 to 75 beds and appropriates funds for its operation.	"[{""title"": ""Section 1"", ""summary"": ""The bed capacity of Bataan Provincial Hospital is increased from twenty-five to seventy-five beds.""}, {""title"": ""Section 2"", ""summary"": ""The sum of one hundred fifty thousand pesos is authorized to be appropriated for fiscal year 1967 and future operations and maintenance of the hospital.""}, {""title"": ""Section 3"", ""summary"": ""This Act shall take effect upon its approval.""}]"	5034	June 17, 1967			To increase the bed capacity of Bataan Provincial Hospital and provide appropriation for its operation and maintenance.	"[""Increase bed capacity from 25 to 75 beds"", ""Appropriation of 150,000 pesos for fiscal year 1967 and subsequent operation and maintenance""]"		"[""Hospital"", ""Bed Capacity"", ""Appropriation""]"	"[""Bataan"", ""Provincial Hospital"", ""beds"", ""appropriation"", ""funds"", ""capacity"", ""government"", ""healthcare""]"
+repacts:datasets/markdown/repacts/1967/ra_5035_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_5035_1967.md	ra_5035_1967	An Act Establishing a National Agricultural School in the Municipality of Maria Aurora, Subprovince of Aurora, Province of Quezon, to be Known as Aurora National Agricultural School, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 5035**
+
+ An Act Establishing a National Agricultural School in the Municipality of Maria Aurora, Subprovince of Aurora, Province of Quezon, to be Known as Aurora National Agricultural School, and Authorizing the Appropriation of Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the direct supervision of the Director of Vocational Education, a national agricultural school in the Municipality of Maria Aurora, Subprovince of Aurora, Province of Quezon, to be known as Aurora National Agricultural School.
+
+ **Section 2.** Upon the recommendation of the Director of Vocational Education, the President of the Philippines shall set aside and reserve such portion of the public lands located within the Municipality of Maria Aurora as may be necessary and convenient for the establishment of the school and its farm sites.
+
+ **Section 3.** The sum of three hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of the said school for the current fiscal year. Thereafter, such sum as may be necessary for the purpose shall be included in the annual General Appropriations Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Law	Establishes Aurora National Agricultural School in Maria Aurora, Quezon, authorizes appropriation of funds for its operation and reserves public lands for the institution.	"[{""title"": ""Section 1."", ""summary"": ""Establishes Aurora National Agricultural School under the supervision of the Director of Vocational Education.""}, {""title"": ""Section 2."", ""summary"": ""Authorizes the President to set aside public lands in Maria Aurora for the school and its farm sites, upon recommendation of the Director of Vocational Education.""}, {""title"": ""Section 3."", ""summary"": ""Appropriates three hundred thousand pesos for the school's establishment, operation, and maintenance for the current fiscal year, with future funding to be included in the General Appropriations Act.""}, {""title"": ""Section 4."", ""summary"": ""The Act takes effect upon its approval.""}]"	5035	June 17, 1967			To establish a national agricultural school in Maria Aurora, Quezon, and authorize appropriation of funds and reservation of public lands for its development.	"[""Establishment of Aurora National Agricultural School"", ""Reservation of public lands for the school and farm sites"", ""Appropriation of three hundred thousand pesos for establishment, operation, and maintenance""]"		"[""Education"", ""Agriculture"", ""School"", ""Public Lands""]"	"[""National Agricultural School"", ""Aurora"", ""Quezon"", ""Public Lands"", ""Appropriation"", ""Vocational Education"", ""Director of Vocational Education"", ""President of the Philippines""]"
+repacts:datasets/markdown/repacts/1967/ra_5036_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_5036_1967.md	ra_5036_1967	An Act Establishing a School of Fisheries in Barrio Matarinao, Municipality of Salcedo, Province of Samar, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 5036**
+
+ An Act Establishing a School of Fisheries in Barrio Matarinao, Municipality of Salcedo, Province of Samar, and Authorizing the Appropriation of Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the direct supervision of the Director of Vocational Education, a school of fisheries in Barrio Matarinao, Municipality of Salcedo, Province of Samar, to be known as the Southern Samar School of Fisheries.
+
+ **Section 2.** The sum of two hundred fifty thousand pesos is authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said school during the fiscal year nineteen hundred and sixty-seven. Thereafter, such sums may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Republic Act	The act establishes the Southern Samar School of Fisheries in Barrio Matarinao, Salcedo, Samar, and appropriates 250,000 pesos for its establishment, operation, and maintenance for the fiscal year 1967, with future funding as needed. The act takes effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Establishes the Southern Samar School of Fisheries under the direct supervision of the Director of Vocational Education.""}, {""title"": ""Section 2."", ""summary"": ""Authorizes the appropriation of 250,000 pesos for the school's establishment, operation, and maintenance in 1967, and allows future funding as required.""}, {""title"": ""Section 3."", ""summary"": ""The act takes effect upon its approval.""}]"	5036	June 17, 1967			To establish a fisheries school in Samar and authorize necessary funds for its operation.	"[""Establishment of Southern Samar School of Fisheries"", ""Appropriation of 250,000 pesos for 1967"", ""Future funding for operation and maintenance"", ""Effectivity upon approval""]"		"[""Education"", ""Fisheries"", ""Samar"", ""Public School"", ""Appropriation""]"	"[""school of fisheries"", ""Samar"", ""Salcedo"", ""Vocational Education"", ""fund appropriation""]"
+repacts:datasets/markdown/repacts/1967/ra_5037_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_5037_1967.md	ra_5037_1967	An Act Establishing a Vocational School in the Municipality of Lubang, Province of Occidental Mindoro, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 5037**
+
+ An Act Establishing a Vocational School in the Municipality of Lubang, Province of Occidental Mindoro, and Authorizing the Appropriation of Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the supervision of the Director of Public Schools, a vocational school in the Municipality of Lubang, Province of Occidental Mindoro, to be known as the National Vocational School of Northern Mindoro.
+
+ **Section 2.** The sum of one hundred fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said school during the fiscal year nineteen hundred sixty-seven. Thereafter, such sum as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Republic Act	The act establishes the National Vocational School of Northern Mindoro in Lubang, Occidental Mindoro, and authorizes the appropriation of one hundred fifty thousand pesos for its establishment, operation, and maintenance. It takes effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""There shall be established, under the supervision of the Director of Public Schools, a vocational school in the Municipality of Lubang, Province of Occidental Mindoro, to be known as the National Vocational School of Northern Mindoro.""}, {""title"": ""Section 2"", ""summary"": ""The sum of one hundred fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said school during the fiscal year 1967. Thereafter, such sum as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.""}, {""title"": ""Section 3"", ""summary"": ""This Act shall take effect upon its approval.""}]"	5037	June 17, 1967			To establish a vocational school in Lubang, Occidental Mindoro and authorize funding for its establishment, operation, and maintenance.	"[""Establishment of the National Vocational School of Northern Mindoro"", ""Authorization of 150,000 pesos for establishment, operation, and maintenance"", ""Effectivity upon approval""]"		"[""Education"", ""Vocational"", ""School"", ""Funding""]"	"[""Vocational School"", ""Appropriation"", ""Lubang"", ""Occidental Mindoro"", ""National Vocational School of Northern Mindoro"", ""June 1967""]"
+repacts:datasets/markdown/repacts/1967/ra_5038_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_5038_1967.md	ra_5038_1967	An Act Establishing a School of Craftsmanship and Home Industries in the Municipality of Lawa-an, Province of Samar, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 5038**
+
+ An Act Establishing a School of Craftsmanship and Home Industries in the Municipality of Lawa-an, Province of Samar, and Authorizing the Appropriation of Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established in the Municipality of Lawa-an, Province of Samar, a school of craftsmanship and home industries to be known as the Lawa-an School of Craftsmanship and Home Industries.
+
+ **Section 2.** Subject to the approval of the Secretary of Education, the Director of Vocational Education is hereby authorized to issue such rules and regulations as are necessary to carry out the purposes of this Act.
+
+ **Section 3.** The sum of two hundred fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said school for fiscal year nineteen hundred sixty-seven. Thereafter, the sums necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Act	Establishes the Lawa-an School of Craftsmanship and Home Industries, authorizes necessary rules, appropriates funds, and sets effectivity for the municipality of Lawa-an, Samar.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of the Lawa-an School of Craftsmanship and Home Industries in the Municipality of Lawa-an, Samar.""}, {""title"": ""Section 2."", ""summary"": ""Authorizes the Director of Vocational Education to issue rules and regulations, subject to approval of the Secretary of Education.""}, {""title"": ""Section 3."", ""summary"": ""Appropriates two hundred fifty thousand pesos for the establishment, operation, and maintenance of the school for fiscal year 1967, with future sums to be included in the General Appropriations Act.""}, {""title"": ""Section 4."", ""summary"": ""The Act shall take effect upon its approval.""}]"	5038	June 17, 1967			To establish a vocational school in Lawa-an, Samar, and authorize the necessary appropriation and regulations for its operation.	"[""Establishment of Lawa-an School of Craftsmanship and Home Industries"", ""Authorization of Director of Vocational Education to issue rules and regulations"", ""Appropriation of 250,000 pesos for FY 1967"", ""Effectivity upon approval""]"		"[""Education"", ""Vocational"", ""Samar"", ""Craftsmanship""]"	"[""School of Craftsmanship"", ""Home Industries"", ""Lawa-an"", ""Samar"", ""Appropriation"", ""Secretary of Education""]"
+repacts:datasets/markdown/repacts/1967/ra_5039_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_5039_1967.md	ra_5039_1967	An Act Establishing a School of Craftsmanship and Home Industries in Barrio Alugan, Municipality of San Policarpo, Province of Samar, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 5039**
+
+ An Act Establishing a School of Craftsmanship and Home Industries in Barrio Alugan, Municipality of San Policarpo, Province of Samar, and Authorizing the Appropriation of Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established in Barrio Alugan, Municipality of San Policarpo, Province of Samar, a school of craftsmanship and home industries to be known as the Alugan School of Craftsmanship and Home Industries.
+
+ **Section 2.** Subject to the approval of the Secretary of Education, the Director of Vocational Education is hereby authorized to promulgate rules and regulations necessary to carry out the purpose of this Act.
+
+ **Section 3.** The sum of two hundred fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said school for fiscal year nineteen hundred sixty-seven. Thereafter, the sums necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Republic Act	This act establishes the Alugan School of Craftsmanship and Home Industries in Barrio Alugan, San Policarpo, Samar, and authorizes the appropriation of funds for its establishment, operation, and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of the Alugan School of Craftsmanship and Home Industries in Barrio Alugan, San Policarpo, Samar.""}, {""title"": ""Section 2."", ""summary"": ""Authorization for the Director of Vocational Education to promulgate rules and regulations necessary to carry out the purpose of this act, subject to the approval of the Secretary of Education.""}, {""title"": ""Section 3."", ""summary"": ""Appropriation of \u20b1250,000 for the establishment, operation, and maintenance of the school for the fiscal year 1967, with subsequent funding to be included in the annual General Appropriations Act.""}, {""title"": ""Section 4."", ""summary"": ""The act shall take effect upon its approval.""}]"	5039	June 17, 1967			To establish a vocational school in Alugan, San Policarpo, Samar and provide the necessary funding for its operation.	"[""Establishment of Alugan School of Craftsmanship and Home Industries"", ""Authorization of Director of Vocational Education to promulgate rules"", ""Appropriation of \u20b1250,000 for 1967 fiscal year"", ""Subsequent funding to be included in General Appropriations Act""]"		"[""Education"", ""Vocational"", ""Samar"", ""School"", ""Craftsmanship""]"	"[""School of Craftsmanship"", ""Home Industries"", ""Appropriation"", ""Vocational Education"", ""Samar""]"
+repacts:datasets/markdown/repacts/1967/ra_5040_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_5040_1967.md	ra_5040_1967	An Act Establishing a School of Craftsmanship and Home Industries in Barrio Alugan, Municipality of San Policarpo, Province of Samar, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 5040**
+
+ An Act Establishing a School of Craftsmanship and Home Industries in Barrio Alugan, Municipality of San Policarpo, Province of Samar, and Authorizing the Appropriation of Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established in Barrio Alugan, Municipality of San Policarpo, Province of Samar, a school of craftsmanship and home industries to be known as the Alugan School of Craftsmanship and Home Industries.
+
+ **Section 2.** Subject to the approval of the Secretary of Education, the Director of Vocational Education is hereby authorized to promulgate rules and regulations necessary to carry out the purpose of this Act.
+
+ **Section 3.** The sum of two hundred fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said school for fiscal year nineteen hundred sixty-seven. Thereafter, the sums necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Education	An act to establish the Alugan School of Craftsmanship and Home Industries in Samar and authorize appropriation of funds for its establishment and operation.	"[{""title"": ""Section 1"", ""summary"": ""Establishes the Alugan School of Craftsmanship and Home Industries in Barrio Alugan, Municipality of San Policarpo, Province of Samar.""}, {""title"": ""Section 2"", ""summary"": ""Authorizes the Director of Vocational Education to promulgate rules and regulations necessary to carry out the purpose of the act.""}, {""title"": ""Section 3"", ""summary"": ""Appropriates two hundred fifty thousand pesos for the establishment, operation, and maintenance of the school for fiscal year 1967, and includes subsequent sums in the General Appropriations Act.""}, {""title"": ""Section 4"", ""summary"": ""The act shall take effect upon its approval.""}]"	5040	June 17, 1967			To establish a vocational school in Samar and authorize the necessary appropriation of funds for its creation and operation.	"[""Establishment of the Alugan School of Craftsmanship and Home Industries"", ""Authorization for the Director of Vocational Education to promulgate rules"", ""Appropriation of 250,000 pesos for 1967"", ""Effectivity upon approval""]"		"[""Education"", ""Vocational"", ""Samar"", ""School"", ""Craftsmanship""]"	"[""school"", ""craftsmanship"", ""home industries"", ""appropriation"", ""San Policarpo"", ""Samar""]"
+repacts:datasets/markdown/repacts/1967/ra_5041_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_5041_1967.md	ra_5041_1967	An Act Constituting the Second Representative District of the Province of Leyte into a Separate Highway Engineering District	"**REPUBLIC ACT No. 5041**
+
+ An Act Constituting the Second Representative District of the Province of Leyte into a Separate Highway Engineering District
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Any provision of law to contrary notwithstanding, the Second Representative District of the Province of Leyte shall be constituted into a separate highway engineering district.
+
+ **Section 2.** The office of the said highway engineering district shall be in the Municipality of Carigara, Province of Leyte, and shall have one highway district engineer who shall be appointed in accordance with existing laws.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Republic Act	This act establishes the Second Representative District of Leyte as a separate highway engineering district, designating its office in Carigara and appointing a highway district engineer.	"[{""title"": ""Section 1. Constitution of the District"", ""summary"": ""The Second Representative District of the Province of Leyte is constituted into a separate highway engineering district.""}, {""title"": ""Section 2. Office and Engineer Appointment"", ""summary"": ""The office of the highway engineering district will be in the Municipality of Carigara, Province of Leyte, and a highway district engineer shall be appointed in accordance with existing laws.""}, {""title"": ""Section 3. Effectiveness"", ""summary"": ""The act shall take effect upon its approval.""}]"	Republic Act No. 5041	June 17, 1967			To create a separate highway engineering district for the Second Representative District of Leyte, thereby improving highway infrastructure management.	"[""Constitutes the Second Representative District of Leyte into a separate highway engineering district"", ""Establishes the office in Carigara"", ""Appoints a highway district engineer"", ""Act takes effect upon approval""]"		"[""Highway"", ""Leyte"", ""District"", ""Engineering"", ""Republic Act""]"	"[""Leyte"", ""Highway Engineering District"", ""Carigara"", ""Republic Act 5041"", ""Infrastructure"", ""Transportation""]"

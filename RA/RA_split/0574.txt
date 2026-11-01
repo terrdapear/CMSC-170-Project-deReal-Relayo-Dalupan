@@ -1,0 +1,159 @@
+repacts:datasets/markdown/repacts/1959/ra_2459_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2459_1959.md	ra_2459_1959	An Act to Amend Item (17), Page 4, Section 1-A-a, Title (A) of Republic Act Numbered Nineteen Hundred	"**REPUBLIC ACT No. 2459**
+
+ **An Act Amending Certain Items of Republic Act Numbered Nineteen Hundred, for the Province of Cebu**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item (u), for the Province of Cebu, page 259, paragraph f, section two of Republic Act Numbered Nineteen hundred is amended to read as follows:
+
+ > ""(u1) Perrelos Elementary School, Carcar Construction of one-room standard shop building, Noel type-size: 6.90 8.55 M 5,000.00
+>
+>  ""(u2) Tuyan Elementary School, Naga Construction of one-room standard shop building, Noel type-size: 6.90 8.55 M 5,000.00""
+
+ **Section 2.** Item (au), for the Province of Cebu, page 260, paragraph ""f"" of section two, Republic Act Numbered Nineteen hundred is amended to read as follows:
+
+ > ""(au1) Tabunoc Elementary School, Talisay Construction of one-room standard shop building, Noel type-size: 6.90 8.55 M 5,000.00
+>
+>  ""(au2) Lipata Elementary School, Minglanilla Construction of one-room standard shop building, Noel type-size: 6.90 8.55 M 5,000.00""
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Amendment	Amendment to Item (17) of Republic Act Numbered Nineteen Hundred, adding an Industrial Arts Annex for Iloilo Vocational High School-Lambunao.	"[{""title"": ""Section 1"", ""summary"": ""Item (17) of the referenced Republic Act is amended to read: \""(17) Industrial Arts Annex, Iloilo Vocational High School-Lambunao \u20b120,000.00\"".""}, {""title"": ""Section 2"", ""summary"": ""The Act shall take effect upon its approval.""}]"	2445	June 21, 1959			To amend Item (17) of Republic Act Numbered Nineteen Hundred by adding an Industrial Arts Annex for a specific vocational high school.	"[""Item (17) amended to \""(17) Industrial Arts Annex, Iloilo Vocational High School-Lambunao \u20b120,000.00\""""]"	Republic Act Numbered Nineteen Hundred	"[""Amendment"", ""Industrial Arts"", ""Vocational Education"", ""Iloilo"", ""High School""]"	"[""Item 17"", ""Industrial Arts Annex"", ""Iloilo Vocational High School-Lambunao"", ""Philippine Congress"", ""June 21 1959""]"
+repacts:datasets/markdown/repacts/1959/ra_2460_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2460_1959.md	ra_2460_1959	An Act to Amend Certain Items in Section One, Republic Act Numbered Two Thousand Ninety-Three	"**REPUBLIC ACT No. 2460**
+
+ **An Act to Amend Item (g), Page 205, Paragraph f, Title M, Section One of Republic Act Numbered Twenty Hundred Ninety-Three**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item (g), for the Province of Cebu, page 205, paragraph f, Title M, section one of Republic Act Numbered Twenty hundred ninety-three is amended to read as follows:
+
+ > ""(g1) Kalangyawon Barrio School, Carcar Construction of 1-room school building ₱4,000.00
+>
+>  ""(g2) Bolinawan Primary School, Carcar Completion, repair and painting 3,500.00""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	An amendment to Republic Act No. 2393 altering items (m) and (n) pertaining to waterworks in Leyte province.	"[{""title"": ""Section 1"", ""summary"": ""Amends items (m) and (n) in Section One of Republic Act 2393 for Leyte, specifying updated waterworks and monetary amounts.""}, {""title"": ""Section 2"", ""summary"": ""States that the act takes effect upon its approval.""}]"	2446	June 21, 1959			To amend specific items in an existing law regarding waterworks in Leyte.	"[""Amendment of items (m) and (n) in Republic Act 2393 for Leyte province"", ""Updated monetary values for San Roque Waterworks in Macrohon and San Isidro Waterworks in Malitbog""]"	Republic Act No. 2393	"[""Amendment"", ""Waterworks"", ""Leyte""]"	"[""San Roque"", ""Macrohon"", ""San Isidro"", ""Malitbog"", ""Waterworks"", ""Leyte""]"
+repacts:datasets/markdown/repacts/1959/ra_2461_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2461_1959.md	ra_2461_1959	An Act Providing for the Operation and Maintenance of a Public Emergency Hospital in the Municipality of Diffun, Province of Nueva Vizcaya, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 2461**
+
+ **An Act Amending Item (g), Page 258, Paragraph f, Section Two of Republic Act Numbered Nineteen Hundred**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item (g), for the Province of Cebu, page 258, paragraph f, section two of Republic Act Numbered Nineteen hundred is amended to read as follows:
+
+ > ""(g) Guadalupe Elementary School, Carcar, Construction of one room standard shop building, Noel type-size: 6.90 X 8.55 M ₱5,000.00""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Public Health	This act establishes the Northeastern Nueva Vizcaya Emergency Hospital in Diffun, Nueva Vizcaya, designates a governing board, appropriates funds for its establishment and operation, and sets its effective date upon funding.	"[{""title"": ""Section 1"", ""summary"": ""Establishment of the Northeastern Nueva Vizcaya Emergency Hospital and composition of its governing board, consisting of the Director of Medical Services, the municipal mayor, the district engineer, and two municipal council members.""}, {""title"": ""Section 2"", ""summary"": ""Authorization of 75,000 pesos for the hospital\u2019s establishment, operation, and maintenance during FY 1960, with future operational funds to be included in subsequent General Appropriation Acts.""}, {""title"": ""Section 3"", ""summary"": ""The act takes effect upon the provision of the authorized funds.""}]"	2447	June 21, 1959			To establish and fund a public emergency hospital in Diffun, Nueva Vizcaya, ensuring its operation and maintenance.	"[""Establishment of Northeastern Nueva Vizcaya Emergency Hospital"", ""Appropriation of 75,000 pesos for FY 1960"", ""Funding for subsequent years in General Appropriation Acts"", ""Act takes effect upon funding""]"		"[""public health"", ""hospital"", ""funding"", ""Nueva Vizcaya"", ""municipality of Diffun""]"	"[""public emergency hospital"", ""funding appropriation"", ""municipality"", ""Nueva Vizcaya"", ""health care""]"
+repacts:datasets/markdown/repacts/1959/ra_2462_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2462_1959.md	ra_2462_1959	An Act to Amend Item (g), Page 953, Subparagraph 41, for the Province of Sorsogon, Paragraph a, Title G, Section Three of Republic Act Numbered Nineteen Hundred	"**REPUBLIC ACT No. 2462**
+
+ **An Act to Amend Item Fifteen (C), Paragraph G, Title M, Section One of Republic Act Numbered Twenty Hundred Ninety-Three**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item (15 (c), paragraph g, Title M, section one of Republic Act Numbered Twenty hundred ninety-three, is amended to read as follows:
+
+ > ""(c) R. K. Kangleon Memorial Grandstand Annex ₱10,000.00.""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	Amends item (g) of Republic Act 19 for the Province of Sorsogon by adding the Tuba-Malapoc Communal Irrigation Project, Donsol with an amount of ₱25,000.00.	"[{""title"": ""Section 1"", ""summary"": ""Amends item (g) to read: '(g) Tuba-Malapoc Communal Irrigation Project, Donsol \u20b125,000.00'.""}, {""title"": ""Section 2"", ""summary"": ""Act shall take effect upon approval.""}]"	2448	June 21, 1959			To amend item (g) of RA 19 for the Province of Sorsogon by adding details about the Tuba-Malapoc Communal Irrigation Project, Donsol.	"[""Item (g) of RA 19 amended to include the Tuba-Malapoc Communal Irrigation Project, Donsol, with \u20b125,000.00.""]"	Republic Act Numbered Nineteen Hundred (RA 19)	"[""Republic Act"", ""Agriculture"", ""Irrigation"", ""Sorsogon"", ""Amendment""]"	"[""Item (g)"", ""Tuba-Malapoc Communal Irrigation Project"", ""Donsol"", ""\u20b125,000.00"", ""Sorsogon"", ""RA 19""]"
+repacts:datasets/markdown/repacts/1959/ra_2463_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2463_1959.md	ra_2463_1959	An Act Providing for the Establishment of a Hospital in the Municipality of Guiuan, Province of Samar, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 2463**
+
+ **An Act Amending Item D-173.7, Page 934-A of Republic Act Numbered Sixteen Hundred Thirteen**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item D-173.7, for the Province of Cebu, page 934-A of Republic Act Numbered Sixteen hundred thirteen, is amended to read as follows:
+
+ Proposed priority
+
+ | Project number | Name and location of project | Finance method | Total estimated cost in | Total for 5 years | Year in which expenditure is needed for |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 1956-57 | 1957-58 | 1958-59 | 1959-60 | 1960-61 |  |  |  |
+|  | ₱1,000 | ₱1,000 | ₱1,000 | ₱1,000 | ₱1,000 | ₱1,000 | ₱1,000 |  |
+| Carcar Waterworks | GR | 25.00 | 25.00 | 25.00 |  |  |  |  |
+| Cantabaco-Naga Waterworks | GR | 10.00 |  |  |  |  |  |  |
+| Can-Asujan Waterworks, Carcar | GR | 15.00 |  |  |  |  |  |  |
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	The act establishes the Guiuan Emergency Hospital in Samar and authorizes the appropriation of fifty thousand pesos for its establishment, operation, and maintenance, effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Establishes a hospital in Guiuan, Samar under the supervision of the Director of Medical Services, named Guiuan Emergency Hospital.""}, {""title"": ""Section 2"", ""summary"": ""The Secretary of Health shall issue rules and regulations necessary to carry out the purpose of this Act.""}, {""title"": ""Section 3"", ""summary"": ""Authorizes the appropriation of fifty thousand pesos for the hospital during FY 1960, with future sums included in annual General Appropriation Acts.""}, {""title"": ""Section 4"", ""summary"": ""The act shall take effect upon its approval.""}]"	2449	June 21, 1959			Providing for the establishment of a hospital in Guiuan, Samar, and authorizing the appropriation of funds for its operation.	"[""Establishment of Guiuan Emergency Hospital"", ""Authority for Secretary of Health to issue rules"", ""Appropriation of 50,000 pesos for FY 1960 and future needs"", ""Effectiveness upon approval""]"		"[""healthcare"", ""hospital"", ""Samar"", ""funding"", ""public health""]"	"[""Guiuan Emergency Hospital"", ""Samar"", ""fifty thousand pesos"", ""Secretary of Health"", ""General Appropriation Acts"", ""Republic Act 2449"", ""1959"", ""funding"", ""hospital establishment""]"
+repacts:datasets/markdown/repacts/1959/ra_2464_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2464_1959.md	ra_2464_1959	"An Act to Repeal Republic Act Numbered Fourteen Hundred Seventy, Entitled ""An Act to Amend and Repeal Certain Items in Republic Act Numbered Fourteen Hundred Eleven, Regarding Public Works Projects for the Province of Bohol"""	"**REPUBLIC ACT No. 2464**
+
+ **An Act to Amend Item (p), Page 406, Group III, Subparagraph (47), for the Province of Samar, Paragraph ""f"", Section Two of Republic Act Numbered Nineteen Hundred**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item (p), page 406, group III, subparagraph (47), for the Province of Samar, paragraph ""f"", section two of Republic Act Numbered Nineteen hundred is amended to read as follows:
+
+ > ""(p) Borongan Police Department Purchase of mobile unit ₱10,000.00
+>
+>  ""(p-1) Borongan Municipal Building Completion 20,000.00""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	Repeals RA 1470 and reenacts certain provisions of RA 1411 that were affected by RA 1470.	"[{""title"": ""Section 1."", ""summary"": ""RA 1470 is repealed.""}, {""title"": ""Section 2."", ""summary"": ""Reenacts items in RA 1411 that were amended or repealed by RA 1470.""}, {""title"": ""Section 3."", ""summary"": ""Act takes effect upon approval.""}]"	2450	June 21, 1959			To repeal RA 1470 and restore affected provisions of RA 1411.	"[""Repeal of Republic Act 1470"", ""Reenactment of items in Republic Act 1411 that were affected by RA 1470""]"	Republic Act 1470, Republic Act 1411	"[""Repeal"", ""Public Works"", ""Bohol""]"	"[""Republic Act"", ""Repeal"", ""Public Works"", ""Bohol"", ""RA 1470"", ""RA 1411""]"
+repacts:datasets/markdown/repacts/1959/ra_2465_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2465_1959.md	ra_2465_1959	An Act Providing for the Establishment of an Emergency Hospital in the Island of Ticao, Province of Masbate, to be Known as the Ticao Emergency Hospital, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 2465**
+
+ **An Act Creating the Barrios of Salvacion, Roxas, Sundra, Solosogon, Bahay, Bana-Ao, Agrupacion, Arapison, Victory, Caasloman, Barabod, Nabulo, Mahayag, Inoragyao, Mabuhay, Lambao, Moroporo, Campeig, Canipulan, Gajo, Panaro-An, Perito, Palale and Caganahao in the Municipality of Sta. Margarita, Province of Samar**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The following barrios are hereby created in the Municipality of Sta. Margarita, Province of Samar:
+
+ (1) Barrio Salvacion, consisting of the sitios of Hemaangno, Tina, Kinabugsohan Pana-awan, and Bungnog; (2) Barrio Roxas, consisting of the sitio of Panogoran, Misikpisik and Cadigamhon; (3) Barrio Sundra, consisting of the sitios of Naporo and Pasig; (4) Barrio Solsogon, consisting of the sitios of Cagbatilisan, Da-o, Cagsumhi, Calirangan, Nabura-West, Tigdaraja, Canmeriu and Mahabol; (5) Barrio Bahay, consisting of the sitios of Panlulogayan, Canhurao, Pamamaliwan and Minorosan; (6) Barrio Bana-ao, consisting of the sitios of Laboyao, Macatol, Cabariwan, Sinagoksokan, Kinarangdangan and Pasongon; (7) Barrio Agrupacion, consisting of the sitio of Anoling; (8) Barrio Arapison, consisting of the sitios of Bangon, Illawod, Guincatol-an Magcahibang and Campagote; (9) Barrio Victory, consisting of the sitios of Hinaango, Lotang, Canati-an, Logos, Macalayalaya, Cahanagdongan and Ombo-bo; (10) Barrio Caasloman, consisting of the sitios of Heogba, Natopo, Capudlosan, Cabacongan and Tibobnot; (11) Barrio Burabod, consisting of the sitios of Caglagting, Epil, Malicolico and Canloncas; (12) Barrio Nabulo, consisting of the sitios of Tibalad, Napuliron, Dalakit, Canamailon and Bakung; (13) Barrio Mahayag, consisting of the sitios of Aliat, Pangalaw-an, Panihwan, Capantapan, Hecaloty, Maloyapayo, Barrayong and Cabatuan; (14) Barrio Inoragyao, consisting of the sitios of Guin haran, Nabulo-Sur, Agusip, Canmalon, Pinamaliwan and Capinyahan; (15) Barrio Mabuhay, consisting of the sitios of Can Tomas, Mueblo, Castillano and Cangkokong; (16) Barrio Lambao, consisting of the sitios of Da-o, Nabora and Restituloriwa; (17) Barrio Moroporo, consisting of the sitios of Lininiti-an and Magcayongod; (18) Barrio Campeig, consisting of the sitios of Canba-nog, Sosocon, Alao and Felehan; (19) Barrio Canipulan, consisting of the sitios of Cantimbang, Cancappilong and Cangodio; (20) Barrio Gajo, consisting of the sitios of Malolonod, Guinbologo-an Canbanog and Biad; (21) Barrio Panaro-an consisting of the sitio of Kinabogsocan, Cambanog and Caninaria; (22) Barrio Perito, consisting of the sitios of Tinbobonot, Honoapan and Caboago-an; (23) Barrio Palale, consisting of the sitios of Magdodilot, Saquib, Guinsohayan, Pangpang, Lobtong and Cataynazan; and (24) Barrio Caganahao, consisting of the sitios of Pangogob-an, Lumaras and Hindang. **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Act	The Republic Act No. 2451 establishes the Ticao Emergency Hospital in San Jacinto, Masbate, under the Bureau of Medical Services, and authorizes the appropriation of funds for its establishment and operation.	"[{""title"": ""Section 1"", ""summary"": ""Creates and establishes the Ticao Emergency Hospital under the direct supervision of the Bureau of Medical Services, specifying the site in San Jacinto to be provided by the municipal council in consultation with the bureau.""}, {""title"": ""Section 2"", ""summary"": ""Authorizes the Secretary of Health to promulgate necessary rules and regulations to implement the purposes of the Act.""}, {""title"": ""Section 3"", ""summary"": ""Appropriates one hundred fifty thousand pesos for the establishment and operation of the hospital during the fiscal year ending June 30, 1960, and allows for future operational and maintenance funds in subsequent General Appropriation Acts.""}, {""title"": ""Section 4"", ""summary"": ""The Act takes effect upon the provision of the authorized funds.""}]"	2451	June 21, 1959			To establish an emergency hospital in Ticao and authorize necessary appropriations for its construction and operation.	"[""Establishment of Ticao Emergency Hospital under Bureau of Medical Services supervision"", ""Appropriation of 150,000 pesos for hospital establishment and operation during FY 1960"", ""Authorization for Secretary of Health to promulgate rules and regulations"", ""Effectivity upon provision of authorized funds""]"		"[""Emergency Hospital"", ""Healthcare"", ""Appropriation""]"	"[""Ticao"", ""Masbate"", ""Bureau of Medical Services"", ""Secretary of Health"", ""National Treasury"", ""General Appropriation Acts"", ""Republic Act 2451""]"
+repacts:datasets/markdown/repacts/1959/ra_2466_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2466_1959.md	ra_2466_1959	An Act Creating Municipal Districts in the Province of Quezon	"**REPUBLIC ACT No. 2466**
+
+ **An Act Creating the Barrios of Kilikili, Acedillo, Dagum, Tomaleguis, Nijaga, Rizal, Limarayon, Cacaransan, Malopalo, San Isidro, Bante, Amampacang, Bantian, Salvacion, Peña, Cagnipa, Binalew, Nabang, Quezon, Cabacongan, Sinidman Oriental, Longsob, Quirino, Bohang, Cagbilwang, and Roxas in the City of Calbayog**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The following barrios are hereby created in the City of Calbayog.
+
+ (1) Barrio of Kilikili, consisting of the sitios of Guincatol-an, Cambahog, Somhag and Lomoy; (2) Barrio of Acedillo, consisting of the sitios of Bontay, Malorag, Palanas and Camatorog; (3) Barrio of Dagum, consisting of the sitios of Engagan, Nagboong, Labuyao and Guinkamalegan; (4) Barrio of Tomaleguis, consisting of the sitios of Rawis, Ba-ot, and Cagagting; (5) Barrio of Nijaga, consisting of the sitio of Nagboong Daco; (6) Barrio of Rizal, consisting of the sitios of Cawayan, Cag-abaca, Caballero and Cagboborac; (7) Barrio of Limarayon, consisting of the sitios of Gaway-gaway, Guintago-an, Cagsasaly and Lauong; (8) Barrio of Cacaransan, consisting of the sitios of Enora, Bontay, Camayze, Morabno, Elawod and Camalig; (9) Barrio of Malopalo, consisting of the sitios of Liguiron, Masarot, and Cagonga-an; (10) Barrio of San Isidro, consisting of the sitios of Nasipitan, Hitaosan and Cagbasiran; (11) Barrio of Bante, consisting of the sitios of Soboc, Egot, Borawosan and Tunga-a; (12) Barrio of Amampacang, consisting of the sitios of Burabod, Duro-ongan, Or. Baut and Oc. Lonoy; (13) Barrio of Bantian, consisting of the sitios of Mangenoo, Masapara, Cauloyanan and Palanas; (14) Barrio of Salvacion, consisting of the sitios of Cagmanipes-Daco, Borobadjing, Malobago and Onglob; (15) Barrio of Peña, consisting of the sitios of Cangoma-ud, Taboc, Canoctan Oc. and Cog-olango; (16) Barrio of Cagnipa, consisting of the sitios of Canoctan Or., Talahid, Bagacay and Culo; (17) Barrio of Binalew, consisting of the sitios of Baay, Sulop and Pingket; (18) Barrio of Nabang, consisting of the sitio of Tagcarisan; (19) Barrio of Quezon, consisting of the sitios of Loyang, Cabalawa, Datan, Dinanlan, Alalawig and Cambaisa; (20) Barrio of Cabacongan, consisting of the sitios of Lanquio, Esao and Henologan; (21) Barrio of Sinidman Or., consisting of the sitio of Caranas; (22) Barrio of Longsob, consisting of the sitios of Parasan, Cabadyangan and Longsob; (23) Barrio of Quirino, consisting of the sitios of Denaolan, Tabacno, Cagbayang and Talo-loan; (24) Barrio of Bohang, consisting of the sitios of Pagsanghang, Cag-aguingay and Caransan; (25) Barrio of Cagbilwang, consisting of the sitios of Cabugwan, Pungdol, Catan-agan, Capilihan and Cagbilwang left; and (26) Barrio of Roxas, consisting of the sitio of Lonoy and Minaudiong. **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	Creates municipal districts in Quezon Province by separating specific barrios from existing municipalities.	"[{""title"": ""Section 1."", ""summary"": ""Separates the barrios of Mangetahan, Dimasisit, Dilasag and Esperanza from the Municipality of Casiguran to constitute the Municipal District of Dilasag.""}, {""title"": ""Section 2."", ""summary"": ""Separates the barrios of San Luis, Bacong and Ditumabo from the Municipality of Baler to constitute the Municipal District of San Luis.""}, {""title"": ""Section 3."", ""summary"": ""Separates the barrios of Panukulan, Calasumanga, Libo, and Lipata from the Municipality of Polillo to constitute the Municipal District of Panukulan.""}, {""title"": ""Section 4."", ""summary"": ""The Act shall take effect upon its approval.""}]"	2452	June 21, 1959			To create municipal districts in Quezon Province.	"[""Creation of the Municipal District of Dilasag"", ""Creation of the Municipal District of San Luis"", ""Creation of the Municipal District of Panukulan""]"		"[""municipal districts"", ""Quezon"", ""local government""]"	"[""municipal district"", ""Quezon"", ""municipality"", ""barrio"", ""local governance""]"
+repacts:datasets/markdown/repacts/1959/ra_2467_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2467_1959.md	ra_2467_1959	Republic Act No. 2453	"**REPUBLIC ACT No. 2467**
+
+ **An Act Creating the Barrios of Tubang, Camangaran and San Isidro in the Municipality of Pambujan, Province of Samar**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The following barrios are hereby created in the Municipality of Pambujan, Province of Samar:
+
+ (1) Barrio Tubang, consisting of the sitios of Irinlum and Bajuaticlum; (2) Barrio Camangaran, consisting of the sitios of Geyaot, Balud and Colawingan; and (3) Barrio San Isidro, consisting of the sitios of Anis-lagan, Nabaye, Guenalomsan and Gebonawan. **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success		An act amending certain items of Republic Act Numbered Twenty Hundred and Ninety-Three, specifically Item III (f) to include construction projects in Carcar.	"[{""title"": ""Section 1."", ""summary"": ""Amends Item III (f) of RA 2393 to include construction of an additional room at Oca\u00f1a Elementary School and a standard shop building in Carcar.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2453	June 21, 1959			To amend specific items of RA 2393 concerning construction projects.	"[""Amended Item III (f) of RA 2393 to include construction of an additional room at Oca\u00f1a Elementary School and a standard shop building in Carcar.""]"	Republic Act No. 2393	"[""Amendment"", ""Construction"", ""Education""]"	"[""Oca\u00f1a Elementary School"", ""Carcar"", ""construction"", ""room"", ""shop building"", ""Republic Act 2393"", ""Amendment""]"
+repacts:datasets/markdown/repacts/1959/ra_2468_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2468_1959.md	ra_2468_1959	An Act to Amend Priority Number Five, Page Twenty-Eight-B, Group III, for the Province of Cebu, Appendix B of Republic Act Numbered Sixteen Hundred Thirteen	"**REPUBLIC ACT No. 2468**
+
+ **An Act Creating the Barrios of Campidico, Magsaysay, Maragano, Nipa, Bagacay, Mabaras, Binay, Sumoroy, Sinalaran, Paysud and Osmeña, in the Municipality of Palapag, Province of Samar**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The following barrios are hereby created in the Municipality of Palapag, Province of Samar:
+
+ (1) Barrio Campidico, consisting of the sitios of Tubay, Nasohong and Banica; (2) Barrio Magsaysay consisting of the sitios of Malihao, Napo and Cale; (3) Barrio Maragano, consisting of the sitios of Kalinawan, Canbisco, Mampogay, Cabotonan and Maitmait; (4) Barrio Nipa, consisting of the sitios of Doljongan, Libas, Cabarasan, Malobago, Dinodogho-an, Sumalidsid, Son-og and Panagdanan; (5) Barrio Bagacay, consisting of the sitios of Tubag, Pong-ol, Binatiklan, Manganino, Caghoguinog, Kanonghan, Pangodtan, Cagomasam, Capdanogan, Guindago-an, Hibatuan, Can-irib and Borac; (6) Barrio Mabaras, consisting of the sitios of Camayawan, Culipapa; (7) Barrio Binay, consisting of the sitios of Solangan, Lalangoyon, Doro-ongan, Bungalon and Inom-enom; (8) Barrio Sumoroy, consisting of the sitios of Guinparican, Tinampo, Guinpontingan, Cancalaton, Baho, Bolagsong and Salagan; (9) Barrio Sinalaran, consisting of the sitios of Labidao and Balud; (10) Barrio Paysud, consisting of the sitios of Cabongaan, Danao, Nabatasan and Darag; and (11) Barrio Osmeña, consisting of the sitios of Capirisan, Carogyao, Bongcag, Gadgad, Borac, Hibatuan and Alibangbang. **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	Amends the priority number five, page twenty-eight-B, Group III, for the Province of Cebu, adding three new items (5a, 5b, 5c) related to construction and painting works in Carcar.	"[{""title"": ""Section 1"", ""summary"": ""Amends priority number five by adding items 5a, 5b, and 5c concerning works in Carcar.""}, {""title"": ""Section 2"", ""summary"": ""Specifies that the Act takes effect upon its approval.""}]"	2454	June 21, 1959			To amend existing priority schedule for the Province of Cebu.	"[""5a. Carcar, TalutCompletion and painting \u20b11,000.00"", ""5b. Carcar, PoblacionRepair, improvement and painting of Central School Home Economics Building 2,500.00"", ""5c. Carcar, ValenciaCompletion and painting of Home Economic Building 1,500.00""]"	Republic Act No. 1613	"[""Amendment"", ""Priority Schedule"", ""Cebu"", ""Republic Act""]"	"[""priority"", ""amendment"", ""Carcar"", ""Poblacion"", ""Valencia"", ""painting"", ""repair"", ""improvement"", ""Cebu""]"
+repacts:datasets/markdown/repacts/1959/ra_2469_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2469_1959.md	ra_2469_1959	An Act Creating the Barrios of Quezon, Hinaonawan, Capoto-An, Victory, San Jorge, Sto. Tomas, Balugo, Quirino, Catoto-gan, Tagan-ayan, Hangi, Geguinta, Roxas, San Andres, San Jose, Del Pilar, Jolejole, Epao, San Isidro, Bugay, Lourdes, Lakandola, Matelarag and San Fernando in the Municipality of Las Navas, Province of Samar	"**REPUBLIC ACT No. 2469**
+
+ **An Act Creating the Barrios of Quezon, Hinaonawan, Capoto-An, Victory, San Jorge, Sto. Tomas, Balugo, Quirino, Catoto-gan, Tagan-ayan, Hangi, Geguinta, Roxas, San Andres, San Jose, Del Pilar, Jolejole, Epao, San Isidro, Bugay, Lourdes, Lakandola, Matelarag and San Fernando in the Municipality of Las Navas, Province of Samar**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The following barrios are hereby created in the Municipality of Las Navas, Province of Samar:

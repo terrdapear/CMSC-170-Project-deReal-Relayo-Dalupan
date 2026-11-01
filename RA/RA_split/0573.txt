@@ -1,0 +1,177 @@
+
+ **Section 2.** The sum of seventy-five thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital during the fiscal year nineteen hundred sixty. Such sums as may be necessary for its operation and maintenance in subsequent years shall be included in the annual General Appropriation Acts.
+
+ **Section 3.** This Act shall take effect upon the date the funds authorized herein to be appropriated are provided for.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This law converts the Balangiga Junior High School into the Balangiga Rural High School, authorizes an additional appropriation of one hundred fifty thousand pesos for its operation and maintenance, and sets the effectivity of the act upon the availability of the authorized funds.	"[{""title"": ""Section 1."", ""summary"": ""Converts the Balangiga Junior High School into a rural high school and empowers the Director of Public Schools to reorganize the school with the approval of the Secretary of Education.""}, {""title"": ""Section 2."", ""summary"": ""Authorizes the appropriation of 150,000 pesos, in addition to existing funds, for the operation and maintenance of the school for the school years 1959-1960 and thereafter as part of the annual General Appropriation Acts.""}, {""title"": ""Section 3."", ""summary"": ""Specifies that the act takes effect upon the provision of the authorized funds.""}]"	2433	June 21, 1959			To convert and reorganize Balangiga Junior High School into Balangiga Rural High School and authorize its funding.	"[""Conversion of the school to a rural high school"", ""Authorization of 150,000 pesos for operation and maintenance"", ""Effectivity upon provision of funds""]"		"[""education"", ""school"", ""appropriation""]"	"[""Balangiga"", ""Samar"", ""rural high school"", ""appropriation"", ""conversion""]"
+repacts:datasets/markdown/repacts/1959/ra_2448_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2448_1959.md	ra_2448_1959	An Act to Establish a National Regional Agricultural School in the Municipality of Borongan, Province of Samar, to be Known as the Eastern Samar, National Regional Agricultural School	"**REPUBLIC ACT No. 2448**
+
+ **An Act to Amend Item (g), Page 953, Subparagraph 41, for the Province of Sorsogon, Paragraph a, Title G, Section Three of Republic Act Numbered Nineteen Hundred**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1** Item (g), page 953, subparagraph 41, for the Province of Sorsogon, paragraph a, Title G, section three of Republic Act Numbered Nineteen hundred is amended to read as follows:
+
+ > ""(g) Tuba-Malapoc Communal Irrigation Project, Donsol ₱25,000.00""
+
+ **Section 2** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	Establishes the Eastern Samar National Regional Agricultural School in Borongan, Samar, providing for its establishment, funding, and operations.	"[{""title"": ""Section 1"", ""summary"": ""Establishes the school under the supervision of the Director of Public Schools.""}, {""title"": ""Section 2"", ""summary"": ""Presidential reservation of land in Borongan for the school and its farm site.""}, {""title"": ""Section 3"", ""summary"": ""Authorizes 300,000 pesos for the school's establishment, operation, and maintenance for the fiscal year ending June 30, 1960.""}, {""title"": ""Section 4"", ""summary"": ""Effective upon availability of authorized funds.""}]"	2434	June 21, 1959			To establish a national regional agricultural school in Borongan, Samar, and provide for its funding and operations.	"[""Establishment of Eastern Samar National Regional Agricultural School"", ""Reservation of public lands in Borongan for the school and farm site"", ""Authorization of 300,000 pesos for school establishment, operation and maintenance"", ""Effectivity upon availability of authorized funds""]"		"[""Education"", ""Agriculture"", ""Samar"", ""Regional School""]"	"[""National Regional Agricultural School"", ""Eastern Samar"", ""Borongan"", ""Samar"", ""Republic Act"", ""Education"", ""Agriculture""]"
+repacts:datasets/markdown/repacts/1959/ra_2449_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2449_1959.md	ra_2449_1959	An Act to Convert the Samar Provincial Trade School into a National School of Arts and Trades and to Authorize the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 2449**
+
+ **An Act Providing for the Establishment of a Hospital in the Municipality of Guiuan, Province of Samar, and Authorizing the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the supervision of the Director of Medical Services, a hospital in the Municipality of Guiuan, Province of Samar, to be known as the Guiuan Emergency Hospital.
+
+ **Section 2.** The Secretary of Health shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The sum of fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital during the fiscal year nineteen hundred sixty. Such sums as may be needed for the same purpose in subsequent years shall be included in the annual General Appropriation Acts.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act converts the Samar Provincial Trade School into the Samar National School of Arts and Trades and authorizes the appropriation of funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""Converts the Samar Provincial Trade School into the Samar National School of Arts and Trades and empowers the Secretary of Education to reorganize it.""}, {""title"": ""Section 2."", ""summary"": ""Appropriates 200,000 pesos for the Act's implementation during FY 1960 and allows future appropriations in subsequent General Appropriation Acts.""}, {""title"": ""Section 3."", ""summary"": ""The Act takes effect upon approval.""}]"	2435	June 21, 1959			Conversion of a provincial trade school into a national school of arts and trades with authorized funding.	"[""Conversion of Samar Provincial Trade School into Samar National School of Arts and Trades"", ""Authorization of 200,000 pesos appropriated for FY 1960"", ""Effective upon approval""]"		"[""Education"", ""Samar"", ""Catbalogan"", ""Appropriation""]"	"[""Samar Provincial Trade School"", ""Samar National School of Arts and Trades"", ""appropriation"", ""National Treasury"", ""Secretary of Education"", ""Catbalogan"", ""Samar Province"", ""Republic Act 2435""]"
+repacts:datasets/markdown/repacts/1959/ra_2450_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2450_1959.md	ra_2450_1959	An Act Providing for the Maintenance and Operation of a National Vocational High School in the Municipality of Dapitan, Province of Zamboanga del Norte to be Known as the Rizal Memorial National Vocational High School and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 2450**
+
+ **An Act to Repeal Republic Act Numbered Fourteen Hundred Seventy, Entitled ""An Act to Amend and Repeal Certain Items in Republic Act Numbered Fourteen Hundred Eleven, Regarding Public Works Projects for the Province of Bohol**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Republic Act Numbered Fourteen hundred seventy is hereby repealed.
+
+ **Section 2.** The items in Republic Act Numbered Fourteen hundred eleven which were amended or repealed by Republic Act Numbered Fourteen hundred seventy are hereby reenacted and revived.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act establishes the Rizal Memorial National Vocational High School in Dapitan, Zamboanga del Norte, authorizes the appropriation of 200,000 pesos for its operation and maintenance, and sets its effective date upon the provision of the authorized funds.	"[{""title"": ""Section 1."", ""summary"": ""Establishes a national vocational school in Dapitan, supervised by the Director of Public Schools.""}, {""title"": ""Section 2."", ""summary"": ""Authorizes the appropriation of 200,000 pesos for operation and maintenance for the fiscal year 1960, with future appropriations included in the General Appropriation Acts.""}, {""title"": ""Section 3."", ""summary"": ""The act takes effect upon the provision of the authorized funds.""}]"	2436	June 21, 1959			To establish and operate a national vocational high school in Dapitan, Zamboanga del Norte.	"[""Establishment of Rizal Memorial National Vocational High School"", ""Authorization of 200,000 pesos appropriation for operation and maintenance"", ""Effective upon provision of authorized funds""]"		"[""Education"", ""Vocational"", ""School"", ""Zamboanga del Norte"", ""Dapitan""]"	"[""Rizal Memorial National Vocational High School"", ""National Vocational School"", ""Zamboanga del Norte"", ""Dapitan"", ""200,000 pesos"", ""1960 fiscal year"", ""Republic Act 2436""]"
+repacts:datasets/markdown/repacts/1959/ra_2451_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2451_1959.md	ra_2451_1959	An Act Converting the Gonzaga High School in the Province of Cagayan into a National Rural High School of the Alcala Rural High School Type to be Known as the Gonzaga National Rural High School and Authorizing the Appropriation of the Sum of Seventy-Five Thousand Pesos for the Purpose	"**REPUBLIC ACT No. 2451**
+
+ **An Act Providing for the Establishment of an Emergency Hospital in the Island of Ticao, Province of Masbate, to be Known as the Ticao Emergency Hospital, and Authorizing the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be created and established, under the direct supervision of the Bureau of Medical Services, an emergency hospital in the Island of Ticao, Province of Masbate, to be known as the Ticao Emergency Hospital. The site for the said hospital shall be the Municipality of San Jacinto to be provided by the Municipal Council of said municipality in consultation with the Director of the Bureau of Medical Services.
+
+ **Section 2.** The Secretary of Health shall promulgate such rules and regulations as may be necessary to carry into effect the purposes of this Act.
+
+ **Section 3.** The sum of one hundred fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment and operation of the said hospital during the fiscal year ending June thirty, nineteen hundred sixty. Such sums as may be necessary for its operation and maintenance in subsequent years shall be included in the annual General Appropriation Acts.
+
+ **Section 4.** This Act shall take effect upon the date the funds authorized herein to be appropriated are provided for.
+
+ Approved: June 21, 1959.
+"	success	Education	This Act converts Gonzaga High School into Gonzaga National Rural High School and authorizes the appropriation of ₱75,000 for its operation in the first year 1959-1960, with subsequent funding to be included in the General Appropriation Act. It takes effect when the authorized funds are provided.	"[{""title"": ""Section 1."", ""summary"": ""The Gonzaga High School is converted into a national rural high school of the Alcala type, to be known as Gonzaga National Rural High School. The Secretary of Education is empowered to reorganize the school accordingly, and all assets and liabilities are transferred to the new institution.""}, {""title"": ""Section 2."", ""summary"": ""Appropriates \u20b175,000 for operation and maintenance of the new school for the year 1959-1960. Future operational funds are to be included in the annual General Appropriation Act.""}, {""title"": ""Section 3."", ""summary"": ""The Act takes effect upon the provision of the authorized funds.""}]"	2437	June 21, 1959			To convert Gonzaga High School into a national rural high school and to provide initial funding for its operation.	"[""Conversion of Gonzaga High School into Gonzaga National Rural High School"", ""Appropriation of \u20b175,000 for first-year operation (1959-1960)"", ""Effective upon provision of authorized funds""]"		"[""School Conversion"", ""Education Funding"", ""National Rural High School""]"	"[""Gonzaga High School"", ""Gonzaga National Rural High School"", ""Alcala Rural High School type"", ""Seventy-Five Thousand Pesos"", ""Appropriation"", ""Cagayan"", ""1959""]"
+repacts:datasets/markdown/repacts/1959/ra_2452_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2452_1959.md	ra_2452_1959	An Act Amending Sections One and Two of Republic Act Numbered Nineteen Hundred Sixty-Five Relative to the Site of the Bataan Agricultural High School	"**REPUBLIC ACT No. 2452**
+
+ **An Act Creating Municipal Districts in the Province of Quezon**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The barrios of Mangetahan, Dimasisit, Dilasag and Esperanza are separated from the Municipality of Casiguran, Province of Quezon, and are constituted into a distinct and independent municipal district to be known as the Municipal District of Dilasag.
+
+ **Section 2.** The barrios of San Luis, Bacong and Ditumabo are hereby separated from the Municipality of Baler, same province, and are constituted into a distinct and independent municipal district to be known as the Municipal District of San Luis.
+
+ **Section 3.** The barrios of Panukulan, Calasumanga, Libo, and Lipata are hereby separated from the Municipality of Polillo, same province, and are constituted into a distinct and independent municipal district to be known as the Municipal District of Panukulan.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	Amends RA 1965 to establish the Bataan Agricultural High School in Dinalupihan, Bataan, and reserve public lands for its site.	"[{""title"": ""Section 1"", ""summary"": ""Amends RA 1965 to establish the Bataan Agricultural High School and reserve public lands for its farm site.""}, {""title"": ""Section 2"", ""summary"": ""The Act takes effect upon its approval.""}]"	RA No. 2438	June 21, 1959			To provide a suitable site for the Bataan Agricultural High School by amending RA 1965 and reserving public lands in Dinalupihan.	"[""Establishment of the Bataan Agricultural High School under the Director of Public Schools"", ""Reservation of public lands in the Municipality of Dinalupihan for the school and farm site"", ""Act takes effect upon approval""]"	Republic Act No. 1965	"[""Education"", ""Agricultural"", ""Public Lands"", ""Bataan""]"	"[""Bataan Agricultural High School"", ""public lands"", ""Director of Public Schools"", ""RA 1965"", ""Dinalupihan""]"
+repacts:datasets/markdown/repacts/1959/ra_2453_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2453_1959.md	ra_2453_1959	"An Act to Amend the First Paragraph of Section Two of the ""Tondo Foreshore Land Act of 1956"""	"**REPUBLIC ACT No. 2453**
+
+ **An Act Amending Certain Items of Republic Act Numbered Twenty Hundred and Ninety-Three**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item III (f), for the Province of Cebu, page two hundred five of Republic Act Numbered Twenty hundred and ninety-three, is hereby amended to read as follows:
+
+ III
+
+ > ""(f) Ocaña Elementary School, Carcar Construction of one additional room ₱6,000.00
+>
+>  ""(f) Standard shop building, Noel-type, size: 6.90 X 8.55, Carcar Construction ₱6,000.00""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Amendment	Republic Act No. 2439 amends the first paragraph of Section Two of the Tondo Foreshore Land Act of 1956 by authorizing the Director of Lands to survey and subdivide the Tondo foreshore area, directing the Land Tenure Administration to sell the lots, and providing preference to existing lessees and occupants.	"[{""title"": ""Section 1"", ""summary"": ""Amends the first paragraph of Section Two of RA 1597 to authorize the Director of Lands to survey and subdivide the Tondo foreshore land within one year, transfer records to the Land Tenure Administration for sale, and grant preference to existing lessees and occupants in the allocation of vacant lots.""}, {""title"": ""Section 2"", ""summary"": ""The Act shall take effect upon its approval.""}]"	2439	June 21, 1959			To amend the first paragraph of Section Two of the Tondo Foreshore Land Act of 1956 and facilitate the surveying, subdivision, and sale of the Tondo foreshore land while protecting existing lessees and occupants.	"[""Amends the first paragraph of Section Two of RA 1597"", ""Authorizes the Director of Lands to survey and subdivide the Tondo foreshore land within one year"", ""Transfers survey and subdivision records to the Land Tenure Administration for sale"", ""Grants preference to existing lessees and occupants in the allocation of vacant lots"", ""Provides for awarding remaining vacant lots by lot"", ""Provides further preference for lessees to acquire lots on reclaimed area or housing projects""]"	Amendment to RA 1597 (Tondo Foreshore Land Act of 1956)	"[""Amendment"", ""Land reform"", ""Foreshore land"", ""Tondo"", ""Manila""]"	"[""Tondo Foreshore Land Act"", ""Public Land Act"", ""Proclamation 187"", ""Director of Lands"", ""Land Tenure Administration"", ""housing projects"", ""Peoples Homesite and Housing Corporation""]"
+repacts:datasets/markdown/repacts/1959/ra_2454_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2454_1959.md	ra_2454_1959	An Act to Establish a National Trade School in the Municipality of Laoang, Province of Samar	"**REPUBLIC ACT No. 2454**
+
+ **An Act to Amend Priority Number Five, Page Twenty-Eight-B, Group III, for the Province of Cebu, Appendix B of Republic Act Numbered Sixteen Hundred Thirteen**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Priority number five, page twenty-eight-B, Group III, for the Province of Cebu, Appendix B of Republic Act Numbered Sixteen hundred thirteen, is amended to read as follows:
+
+ > ""5a. Carcar, TalutCompletion and painting ₱1,000.00
+>
+>  ""5b. Carcar, PoblacionRepair, improvement and painting of Central School Home Economics Building 2,500.00
+>
+>  ""5c. Carcar, ValenciaCompletion and painting of Home Economic Building 1,500.00""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This Act establishes the Laoang National Trade School in Samar, authorizes funding for its operation, and sets the effective date of the school.	"[{""title"": ""Section 1"", ""summary"": ""Establishes the Laoang National Trade School as a Philippine School of Arts and Trades type, under the supervision of the Bureau of Public Schools, offering secondary level courses.""}, {""title"": ""Section 2"", ""summary"": ""Authorizes appropriation of 100,000 pesos for the school's establishment, operation, and maintenance for the fiscal year ending June 30, 1960, and provisions for future funding.""}, {""title"": ""Section 3"", ""summary"": ""States that the Act takes effect upon approval.""}]"	2440	June 21, 1959			To establish a national trade school in Laoang, Samar.	"[""Establishment of the Laoang National Trade School"", ""Authorization of 100,000 pesos for establishment and operation"", ""Effective date upon approval""]"		"[""Education"", ""Trade School"", ""Samar""]"	"[""National Trade School"", ""Laoang"", ""Samar"", ""School Law"", ""Bureau of Public Schools"", ""appropriation""]"
+repacts:datasets/markdown/repacts/1959/ra_2455_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2455_1959.md	ra_2455_1959	An Act Providing for the Establishment of a National Vocational School in Calbayog City to be Known as the Tiburcio Tancinco Memorial Vocational School, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 2455**
+
+ **An Act to Amend Item (g) Group II, Page 29, Subparagraph (10), for the Province of Bulacan, Paragraph ""f"", Section Two of Republic Act Numbered Sixteen Hundred Thirteen**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item (g), group II, page 29, subparagraph (10), for the Province of Bulacan, paragraph ""f,"" section two of Republic Act Numbered Sixteen hundred thirteen is amended to read as follows:
+
+ > ""(g) Sta. Maria Public Market Acquisition of site and construction ₱15,000.00""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act establishes the Tiburcio Tancinco Memorial Vocational School in Calbayog City and authorizes the appropriation of funds for its establishment, operation, and maintenance.	"[{""title"": ""Section 1"", ""summary"": ""Establishment of a national vocational school named Tiburcio Tancinco Memorial Vocational School under the supervision of the Director of Public Schools.""}, {""title"": ""Section 2"", ""summary"": ""Authorizes the Director of Public Schools, with approval from the Secretary of Education, to issue necessary rules and regulations.""}, {""title"": ""Section 3"", ""summary"": ""Appropriates one hundred thousand pesos for the school's establishment, operation, and maintenance for FY 1960; future appropriations to be included in General Appropriations Acts.""}, {""title"": ""Section 4"", ""summary"": ""The act takes effect upon its approval.""}]"	2441	June 21, 1959			Establish a national vocational school in Calbayog City and authorize funding for its establishment and operations.	"[""Establishment of Tiburcio Tancinco Memorial Vocational School"", ""Approval of rules and regulations by Director of Public Schools and Secretary of Education"", ""Appropriation of 100,000 pesos for FY 1960"", ""Effective date upon approval""]"		"[""Education"", ""Vocational Training"", ""Public Schools"", ""Appropriation""]"	"[""Tiburcio Tancinco"", ""Vocational School"", ""Calbayog City"", ""Public Schools"", ""Appropriation"", ""Education""]"
+repacts:datasets/markdown/repacts/1959/ra_2456_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2456_1959.md	ra_2456_1959	An Act to Amend Item (c), Page 212, Subparagraph (6), for the Province of Bataan, Paragraph f, Section Two of Republic Act Numbered Nineteen Hundred	"**REPUBLIC ACT No. 2456**
+
+ **An Act Providing for the Establishment of a Branch Hospital of the Cagayan Provincial Hospital in the Municipality of Piat, Province of Cagayan, to be Known as the Itawes Provincial Hospital and Authorizing the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the supervision of the Director of Medical Services, a branch hospital of the Cagayan Provincial Hospital in the Municipality of Piat, Province of Cagayan, to be known as the Itawes Provincial Hospital.
+
+ **Section 2.** The Secretary of Health shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Legislation	This act amends Item (c) of Republic Act 19 for the Province of Bataan.	"[{""title"": ""Section 1"", ""summary"": ""Item (c) of Republic Act 19 for Province of Bataan is amended to read: \""(c) District Engineer Building, BalangaConstruction \u20b17,000.00.\""""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	2442	June 21, 1959	"[{""name"": ""Senate"", ""title"": ""Legislative Body""}, {""name"": ""House of Representatives"", ""title"": ""Legislative Body""}]"		Amend Item (c) of Republic Act 19 for the Province of Bataan	"[""Amendment to Item (c) of Republic Act 19 for Province of Bataan""]"	Republic Act 19	"[""Amendment"", ""Republic Act"", ""Bataan""]"	"[""Item (c)"", ""Subparagraph (6)"", ""Province of Bataan"", ""Republic Act 19"", ""June 21 1959""]"
+repacts:datasets/markdown/repacts/1959/ra_2457_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2457_1959.md	ra_2457_1959	Republic Act No. 2443: An Act to Increase the Bed Capacity of the Eastern Pangasinan General Hospital and Authorizing the Appropriation of Funds for the Purpose	"**REPUBLIC ACT No. 2457**
+
+ **An Act to Amend Item (e), for the Province of Cebu, Page 258, Paragraph f, Section Two of Republic Act Numbered Nineteen Hundred**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item (e), for the Province of Cebu, page 258, paragraph f, section two of Republic Act Numbered Nineteen hundred is amended to read as follows:
+
+ > ""(e) Valladoid Elementary School building, CarcarCompletion and painting ₱3,500.00""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act increases the bed capacity of the Eastern Pangasinan General Hospital from 25 to 50 beds and authorizes the appropriation of fifty thousand pesos for the hospital’s operation and maintenance, taking effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The bed capacity of the Eastern Pangasinan General Hospital is hereby increased from twenty-five to fifty.""}, {""title"": ""Section 2"", ""summary"": ""The amount of fifty thousand pesos is hereby authorized to be appropriated for the operation and maintenance of the hospital.""}, {""title"": ""Section 3"", ""summary"": ""This Act shall take effect upon its approval.""}]"	2443	June 21, 1959			Increase bed capacity of Eastern Pangasinan General Hospital and allocate funds for its operation and maintenance.	"[""Bed capacity increased from 25 to 50."", ""Fifty thousand pesos authorized for operation and maintenance."", ""Act takes effect upon approval.""]"		"[""Healthcare"", ""Hospital"", ""Funding"", ""Capacity""]"	"[""bed capacity"", ""Eastern Pangasinan General Hospital"", ""appropriation"", ""funds"", ""operation"", ""maintenance""]"
+repacts:datasets/markdown/repacts/1959/ra_2458_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2458_1959.md	ra_2458_1959	An Act Amending Item 81, for the Province of Laguna, Page 162, Paragraph g, Section Two of Republic Act Numbered Sixteen Hundred Thirteen	"**REPUBLIC ACT No. 2458**
+
+ **An Act to Amend Item 88, for the Province of Laguna, Page 163, Paragraph ""g,"" Section Two of Republic Act Numbered Sixteen Hundred Thirteen**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item 88, for the Province of Laguna, page 163, paragraph ""g,"" section two of Republic Act Numbered Sixteen hundred thirteen is amended to read as follows:
+
+ > ""88. Memorial Public Library building, Lumban ₱5,000.00""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act amends Item 81 of Republic Act No. 1631 to specify the Santa Cruz Town Hall in Laguna with a budget of ₱10,000.00.	"[{""title"": ""Section 1."", ""summary"": ""Item 81 is amended to read: \""81. Santa Cruz Town Hall, Sta. Cruz \u20b110,000.00.\""""}, {""title"": ""Section 2."", ""summary"": ""The act shall take effect upon its approval.""}]"	2444	June 21, 1959			Amend Item 81 of Republic Act No. 1631 concerning the Santa Cruz Town Hall in Laguna.	"[""Item 81 is amended to read: \""81. Santa Cruz Town Hall, Sta. Cruz \u20b110,000.00.\""""]"	Republic Act No. 1631	"[""amendment"", ""municipal"", ""budget"", ""Laguna"", ""Santa Cruz"", ""town hall""]"	"[""Item 81"", ""Santa Cruz Town Hall"", ""Laguna"", ""Republic Act 1631"", ""\u20b110,000.00""]"

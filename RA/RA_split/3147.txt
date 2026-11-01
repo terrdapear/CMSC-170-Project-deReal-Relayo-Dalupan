@@ -1,0 +1,142 @@
+"	success	Republic Act	Establishment of a fish port and cold storage facility in Sasmuan, Pampanga, with funding appropriation through the Department of Agriculture and the Philippine Fisheries Development Authority.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of a fish port and cold storage facility in the Municipality of Sasmuan under the supervision of the Department of Agriculture and the Philippine Fisheries Development Authority.""}, {""title"": ""Section 2."", ""summary"": ""The PFDA, in coordination with the local government unit, shall formulate necessary rules and regulations for effective implementation.""}, {""title"": ""Section 3."", ""summary"": ""The Secretary of Agriculture shall include the establishment of the fish port and cold storage facility in the Department\u2019s programs, with funding included in the annual General Appropriations Act, and the local government shall set aside operational funds.""}, {""title"": ""Section 4."", ""summary"": ""The Act shall take effect fifteen days after its publication in two newspapers of general circulation.""}]"	10621	September 6, 2013	"[{""name"": ""Jinggoy Ejercito Estrada"", ""title"": ""Acting Senate President""}, {""name"": ""Feliciano Belmonte Jr."", ""title"": ""Speaker of the House of Representatives""}]"		To establish a fish port and cold storage facility in Sasmuan, Pampanga, and allocate funds for its operation through the Department of Agriculture and the Philippine Fisheries Development Authority.	"[""Establishment of a fish port and cold storage facility in Sasmuan"", ""Supervision by the Department of Agriculture and PFDA"", ""Formulation of rules and regulations by PFDA and local government"", ""Inclusion of funding in the General Appropriations Act"", ""Effectivity fifteen days after publication""]"		"[""Fish Port"", ""Cold Storage"", ""Pampanga"", ""Agriculture"", ""Fisheries""]"	"[""fish port"", ""cold storage"", ""Pampanga"", ""PFDA"", ""Department of Agriculture""]"
+repacts:datasets/markdown/repacts/2013/ra_10622_2013.md	repacts	2013		datasets/markdown/repacts/2013/ra_10622_2013.md	ra_10622_2013	AN ACT CHANGING THE NAME OF LAZI NATIONAL AGRICULTURAL SCHOOL IN BARANGAY TIGBAWAN, MUNICIPALITY OF LAZI, PROVINCE OF SIQUIJOR INTO LAZI TECHNICAL INSTITUTE	"Fifteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand twelve.*
+
+ **REPUBLIC ACT NO. 10622**
+
+ AN ACT CHANGING THE NAME OF LAZI NATIONAL AGRICULTURAL SCHOOL IN BARANGAY TIGBAWAN, MUNICIPALITY OF LAZI, PROVINCE OF SIQUIJOR INTO LAZI TECHNICAL INSTITUTE
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** *Renaming of a National Agricultural School.* The name of Lazi National Agricultural School in Barangay Tigbawan, Municipality of Lazi, Province of Siquijor is hereby changed to Lazi Technical Institute.
+
+ **Section 2.** *Location of the Main Campus.* The main campus of the Lazi Technical Institute shall continue to remain in its present location in Barangay Tigbawan, Municipality of Lazi, Province of Siquijor.
+
+ **Section 3.** *Effectivity.* This Act shall take effect fifteen (15) days after its publication in the *Official Gazette.*
+
+ Approved,
+
+   
+ | (Sgd.) **JINGGOY EJERCITO ESTRADA** Acting Senate President | (Sgd.) **FELICIANO BELMONTE JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on February 6, 2013 and February 4, 2013, respectively.
+
+   
+ | (Sgd.) **EMMA LIRIO-REYES** Secretary of the Senate | (Sgd.) **MARILYN B. BARUA-YAP** Secretary General House of Representatives |
+
+ Approved: SEP 06 2013
+
+ **(Sgd.) BENIGNO S. AQUINO III** *President of the Philippines*
+"	success	Republic Act	This act renames Lazi National Agricultural School to Lazi Technical Institute, maintains its location in Barangay Tigbawan, Municipality of Lazi, and takes effect fifteen days after publication in the Official Gazette.	"[{""title"": ""Section 1. Renaming of a National Agricultural School"", ""summary"": ""The name of Lazi National Agricultural School in Barangay Tigbawan, Municipality of Lazi, Province of Siquijor is changed to Lazi Technical Institute.""}, {""title"": ""Section 2. Location of the Main Campus"", ""summary"": ""The main campus of Lazi Technical Institute remains in its present location in Barangay Tigbawan, Municipality of Lazi, Province of Siquijor.""}, {""title"": ""Section 3. Effectivity"", ""summary"": ""The Act shall take effect fifteen (15) days after its publication in the Official Gazette.""}]"	10622	2013-09-06			To rename Lazi National Agricultural School to Lazi Technical Institute.	"[""Renaming of Lazi National Agricultural School to Lazi Technical Institute"", ""Maintaining the main campus location in Barangay Tigbawan"", ""Effectivity fifteen days after publication in the Official Gazette""]"		"[""Education"", ""School"", ""Renaming"", ""Republic Act""]"	"[""Lazi Technical Institute"", ""Lazi National Agricultural School"", ""Siquijor"", ""Republic Act 10622""]"
+repacts:datasets/markdown/repacts/2013/ra_10623_2013.md	repacts	2013		datasets/markdown/repacts/2013/ra_10623_2013.md	ra_10623_2013	"An Act Amending Certain Provisions of Republic Act No. 7581, Entitled ""An Act Providing Protection to Consumers by Stabilizing the Prices of Basic Necessities and Prime Commodities and by Prescribing Measures Against Undue Price Increases During Emergency Situations and Like Occasions"" and for Other Purposes"	"Fifteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand twelve.*
+
+ **REPUBLIC ACT NO. 10623**
+
+ AN ACT AMENDING CERTAIN PROVISIONS OF REPUBLIC ACT NO. 7581, ENTITLED ""AN ACT PROVIDING PROTECTION TO CONSUMERS BY STABILIZING THE PRICES OF BASIC NECESSITIES AND PRIME COMMODITIES AND BY PRESCRIBING MEASURES AGAINST UNDUE PRICE INCREASES DURING EMERGENCY SITUATIONS AND LIKE OCCASIONS"" AND FOR OTHER PURPOSES
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** Section 3(1) of Republic Act No. 7581, otherwise known as the ""Price Act"", is hereby amended to read as follows:
+
+ ""Section 3. *Definition of Terms.* For purposes of this Act, the term: ""(1) Basic necessities are goods vital to the needs of consumers for their sustenance and existence in times of any of the cases provided under Section 6 or 7 of this Act such as, but not limited to, rice, corn, root crops, bread; fresh, dried or canned fish and other marine products; fresh pork, beef and poultry meat; fresh eggs; potable water in bottles and containers; fresh and processed milk; fresh vegetables and fruits; locally manufactured instant noodles; coffee; sugar; cooking oil; salt; laundry soap and detergents; firewood; charcoal; household liquefied petroleum gas (LPG) and kerosene; candles; drugs classified as essential by the Department of Health and such other goods as may be included under Section 4 of this Act;"" **Section 2.** Section 3(8) of Republic Act No. 7581 is hereby amended to read as follows:
+
+ ""Section 3. *Definition of Terms.* ""x x x ""(8) Prime Commodities are goods not considered as basic necessities but are essential to consumers in times of any of the cases provided under Section 7 of this Act such as, but not limited to, flour; dried, processed or canned pork, beef and poultry meat; dairy products not falling under basic necessities; onions, garlic, vinegar, patis, soy sauce; toilet soap; fertilizer, pesticides and herbicides; poultry, livestock and fishery feeds and veterinary products; paper; school supplies; *nipa* shingles; *sawali*; cement; clinker; GI sheets; hollow blocks; plywood; plyboard; construction nails; batteries; electrical supplies; light bulbs; steel wire; all drugs not classified as essential drugs by the Department of Health and such other goods as may be included under Section 4 of this Act."" **Section 3.** Section 4 of Republic Act No. 7581 is hereby amended to read as follows:
+
+ ""Section 4. *Inclusion or Exclusion from the Coverage of this Act.* Upon petition of the concerned parties or *motu proprio* action from the concerned agency of the Price Coordinating Council and after public hearing, the implementing agency, with the approval of the President, may include in the definition of basic necessities or prime commodities types and brands of the goods or may exclude from the coverage of this Act, types or brands of the goods included in the definition of basic necessities and prime commodities, which may be deemed as nonessential goods or luxury goods: *Provided*, That, any type or brand so excluded may be reinstated by the implementing agency during occasions of acute shortage in the supply of the basic necessity or prime commodity to which the excluded type or brand used to belong."" **Section 4.** Section 6 of Republic Act No. 7581 is hereby amended to read as follows:
+
+ ""Section 6. *Automatic Price Control.* ""x x x ""Unless sooner lifted by the President, price control of basic necessities under this section shall remain effective for the duration of the condition that brought it about, but not for more than sixty (60) days: *Provided*, That, in the case of basic necessities that are wholly imported and deregulated under existing laws such as, but not limited to, household LPG and kerosene, price control thereon shall remain effective for a period of not more than fifteen (15) days, taking into consideration the current inventory or supply levels thereof."" **Section 5.** Section 11 of Republic Act No. 7581 is hereby amended to read as follows:
+
+ ""Section 11. *Price Coordinating Council.* There is hereby created a Price Coordinating Council, hereinafter referred to as the Council, to be composed of the following members: ""(1) The Secretary of Trade and Industry, as chairman; ""(2) The Secretary of Agriculture; ""(3) The Secretary of Health; ""(4) The Secretary of Environment and Natural Resources; ""(5) The Secretary of Local Government; ""(6) The Secretary of Transportation and Communications; ""(7) The Secretary of Justice; ""(8) The Secretary of Energy; ""(9) The Director General of the National Economic and Development Authority; ""(10) One (1) representative from the consumers sector; ""(11) One (1) representative from the agricultural producers sector; ""(12) One (1) representative from the trading sector; and ""(13) One (1) representative from the manufacturers sector. ""x x x."" **Section 6.** Section 12(2) of Republic Act No. 7581 is hereby amended to read as follows:
+
+ ""Section 12. *Functions of the Price Coordinating Council.* ""x x x ""(2) It shall report at least semi-annually to the President and to the Congress of the Philippines the status and progress of the programs, projects, and measures undertaken by each implementing department, agency or office as well as the comprehensive strategies developed by the Council to stabilize the prices of basic necessities and prime commodities. The report shall include goods that have been included or excluded from the list of basic necessities and prime commodities as provided for under Section 4 of this Act; ""x x x."" **Section 7.** *Implementing Rules and Regulations.* The Department of Trade and Industry shall, in consultation with the members of the Price Coordinating Council and stakeholders, promulgate the necessary rules, regulations and procedures for the effective implementation of this Act within ninety (90) days upon its effectivity and shall monitor strict compliance therewith. They shall also review the existing implementing rules and regulations of Republic Act No. 7581 and revise its provisions as maybe appropriate.
+
+ **Section 8.** *Repealing Clause.* All laws, decrees, executive orders, issuances or regulations inconsistent with the provisions of this Act are hereby revised or amended accordingly.
+
+ **Section 9.** *Separability Clause.* If any part of this Act is declared unconstitutional or invalid, such parts or provisions hereof not so declared shall remain valid and subsisting.
+
+ **Section 10.** *Effectivity Clause.* This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation in the country.
+
+ Approved,
+
+   
+ | (Sgd.) **JINGGOY EJERCITO ESTRADA** Acting Senate President | (Sgd.) **FELICIANO BELMONTE JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on June 5, 2013.
+
+   
+ | (Sgd.) **EMMA LIRIO-REYES** Secretary of the Senate | (Sgd.) **MARILYN B. BARUA-YAP** Secretary General House of Representatives |
+
+ Approved: SEP 06 2013
+
+ **(Sgd.) BENIGNO S. AQUINO III** *President of the Philippines*
+"	success	Law	Republic Act No. 10623 amends RA 7581 to refine definitions of basic necessities and prime commodities, establish a mechanism for inclusion or exclusion of goods, regulate automatic price control periods, create a Price Coordinating Council with specified membership, mandate its reporting duties, and require the Department of Trade and Industry to promulgate implementing rules within 90 days.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 3(1) of RA 7581 to redefine basic necessities.""}, {""title"": ""Section 2"", ""summary"": ""Amends Section 3(8) of RA 7581 to redefine prime commodities.""}, {""title"": ""Section 3"", ""summary"": ""Amends Section 4 of RA 7581 to establish inclusion/exclusion of goods from coverage.""}, {""title"": ""Section 4"", ""summary"": ""Amends Section 6 of RA 7581 to set automatic price control periods.""}, {""title"": ""Section 5"", ""summary"": ""Creates the Price Coordinating Council and specifies its membership.""}, {""title"": ""Section 6"", ""summary"": ""Defines functions of the Price Coordinating Council, including semi-annual reporting to the President and Congress.""}, {""title"": ""Section 7"", ""summary"": ""Mandates the Department of Trade and Industry to issue implementing rules and regulations within 90 days.""}]"	10623	2012-07-23			To amend RA 7581 for enhanced consumer protection and price stabilization during emergencies.	"[""Amendment of definitions of basic necessities and prime commodities"", ""Establishment of inclusion/exclusion mechanism for goods"", ""Regulation of automatic price control periods for basic necessities"", ""Creation of the Price Coordinating Council with specified members"", ""Mandate for semi-annual reporting to the President and Congress"", ""Requirement for implementing rules within 90 days""]"	Republic Act No. 7581	"[""Consumer Protection"", ""Price Stabilization"", ""RA 10623"", ""RA 7581""]"	"[""basic necessities"", ""prime commodities"", ""price control"", ""Price Coordinating Council"", ""consumer protection"", ""RA 10623"", ""RA 7581""]"
+repacts:datasets/markdown/repacts/2013/ra_10624_2013.md	repacts	2013		datasets/markdown/repacts/2013/ra_10624_2013.md	ra_10624_2013	AN ACT PROVIDING FOR THE CONSTRUCTION OF A FISH PORT IN BARANGAY SABANG, MUNICIPALITY OF CALABANGA, PROVINCE OF CAMARINES SUR AND APPROPRIATING FUNDS THEREFOR	"Fifteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand twelve.*
+
+ **REPUBLIC ACT NO. 10624**
+
+ AN ACT PROVIDING FOR THE CONSTRUCTION OF A FISH PORT IN BARANGAY SABANG, MUNICIPALITY OF CALABANGA, PROVINCE OF CAMARINES SUR AND APPROPRIATING FUNDS THEREFOR
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** There shall be constructed, under the supervision of the Department of Agriculture (DA) through the Philippine Fisheries Development Authority (PFDA), a fish port in Barangay Sabang, Municipality of Calabanga, Province of Camarines Sur.
+
+ **Section 2.** The PFDA, in coordination with the local government unit concerned, shall formulate the rules and regulations necessary for the effective implementation of this Act.
+
+ **Section 3.** The amount necessary for the construction of said fish port shall be included in the annual General Appropriations Act. The local government shall set aside funds from any available local revenues in an amount deemed appropriate for its operationalization.
+
+ **Section 4.** This Act shall take effect fifteen (15) days after its publication in two (2) newspapers of general circulation.
+
+ Approved,
+
+   
+ | (Sgd.) **JINGGOY EJERCITO ESTRADA** Acting Senate President | (Sgd.) **FELICIANO BELMONTE JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on May 23, 2011 and June 6, 2013, respectively.
+
+   
+ | (Sgd.) **EMMA LIRIO-REYES** Secretary of the Senate | (Sgd.) **MARILYN B. BARUA-YAP** Secretary General House of Representatives |
+
+ Approved: SEP 06 2013
+
+ **(Sgd.) BENIGNO S. AQUINO III** *President of the Philippines*
+"	success	Republic Act	An act establishing a fish port in Barangay Sabang, Calabanga, Camarines Sur, and appropriating funds for its construction and operation.	"[{""title"": ""Section 1"", ""summary"": ""The Philippine Fisheries Development Authority, under the supervision of the Department of Agriculture, shall construct a fish port in Barangay Sabang, Calabanga, Camarines Sur.""}, {""title"": ""Section 2"", ""summary"": ""The PFDA, in coordination with the local government unit concerned, shall formulate the necessary rules and regulations for the effective implementation of this Act.""}, {""title"": ""Section 3"", ""summary"": ""The necessary funds for the construction of the fish port shall be included in the annual General Appropriations Act, and the local government shall set aside appropriate operational funds from available local revenues.""}, {""title"": ""Section 4"", ""summary"": ""The Act shall take effect fifteen days after its publication in two newspapers of general circulation.""}]"	10624	September 6, 2013			To provide for the construction of a fish port in Barangay Sabang, Calabanga, Camarines Sur, and to appropriate funds for its construction and operation.	"[""Construction of fish port under PFDA supervision"", ""Formulation of rules and regulations by PFDA and local government"", ""Inclusion of construction costs in General Appropriations Act"", ""Local government to set aside operational funds"", ""Act effective 15 days after publication""]"		"[""Infrastructure"", ""Fishery"", ""Port"", ""Camarines Sur"", ""Republic Act""]"	"[""fish port"", ""Barangay Sabang"", ""Calabanga"", ""Camarines Sur"", ""PFDA"", ""General Appropriations Act"", ""funding"", ""construction""]"
+repacts:datasets/markdown/repacts/2013/ra_10625_2013.md	repacts	2013		datasets/markdown/repacts/2013/ra_10625_2013.md	ra_10625_2013	"AN ACT REORGANIZING THE PHILIPPINE STATISTICAL SYSTEM, REPEALING FOR THE PURPOSE EXECUTIVE ORDER NUMBERED ONE HUNDRED TWENTY-ONE, ENTITLED ""REORGANIZING AND STRENGTHENING THE PHILIPPINE STATISTICAL SYSTEM AND FOR OTHER PURPOSES"""	"Fifteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand twelve.*
+
+ **REPUBLIC ACT NO. 10625**
+
+ AN ACT REORGANIZING THE PHILIPPINE STATISTICAL SYSTEM, REPEALING FOR THE PURPOSE EXECUTIVE ORDER NUMBERED ONE HUNDRED TWENTY-ONE, ENTITLED ""REORGANIZING AND STRENGTHENING THE PHILIPPINE STATISTICAL SYSTEM AND FOR OTHER PURPOSES""
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** *Short Title.* This Act shall be known as the ""Philippine Statistical Act of 2013"".
+
+ **Section 2.** *Declaration of Policy.* It shall be the policy of the State to effect the necessary and proper changes in the organizational and functional structures of the Philippine Statistical System (PSS), its agencies and instrumentalities, in order to rationalize and promote efficiency and effectiveness in the delivery of statistical services, maintain an integrated statistical system characterized by independence, objectivity and integrity so as to enhance responsiveness to the requirements of equitable national development, promote the orderly development of a statistical system capable of providing timely, accurate and useful data for the government and the public, and support decentralization through the establishment of the statistical infrastructure necessary to service the statistical needs of local development planning.
+
+ **Section 3.** *Reorganization.* The Philippine Statistical System, hereinafter referred to as the PSS, shall be reorganized structurally and functionally, in accordance with the provisions of this Act.
+
+ **Section 4.** *Philippine Statistical System (PSS).* The PSS shall consist of statistical organizations at all administrative levels, the personnel therein and the national statistical program. This includes a policy-making body, a coordinating body with primary data collection capability, a statistical research and training institute, and all executive departments, bureaus, offices, agencies and instrumentalities of the national and local governments and all government-owned and -controlled corporations (GOCCs) and their subsidiaries that are engaged in statistical activities either as their primary functions or as part of their administrative or regulatory functions. The PSS shall remain decentralized with a strong coordination feature to be achieved through postings of trained personnel and closer linkage between statistical programming and budgeting.
+
+ **Section 5.** *Philippine Statistics Authority.* There shall be created a Philippine Statistics Authority, hereinafter referred to as the PSA, attached to the National Economic and Development Authority (NEDA) for purposes of policy coordination. It shall be comprised of the PSA Board and offices on sectoral statistics, censuses and technical coordination, civil registration and central support and field statistical services.
+
+ The PSA Board shall be the highest policy-making body on statistical matters. The data produced by the PSA shall be the official and controlling statistics of the government. The PSA shall be primarily responsible for all national censuses and surveys, sectoral statistics, consolidation of selected administrative recording systems and compilation of the national accounts.
+
+ The PSA shall be constituted from among the existing personnel of the major statistical agencies engaged in primary data collection and compilation of secondary data, i.e., the National Statistics Office, herein referred to as the NSO; the Technical Staff of the National Statistical Coordination Board herein referred to as the NSCB; the Bureau of Agricultural Statistics, herein referred to as the BAS; and the Bureau of Labor and Employment Statistics, herein referred to as the BLES.
+
+ The Departmentof Economic Statistics of the Bangko Sentral ng Pilipinas (BSP) will continue to take charge of banking and financial statistics, including the Balance of Payments (BOP) and flow of funds.
+
+ **Section 6.** *Functions of the PSA.* The PSA shall have the following functions:
+
+ a. Serve as the central statistical authority of the Philippine government on primary data collection; b. Prepare and conduct periodic censuses on population, housing, agriculture, fisheries, business, industry and other sectors of the economy; c. Collect, compile, analyze, abstract and publish statistical information relating to the countrys economic, social, demographic, political affairs and general activities and condition of the people; d. Prepare and conduct statistical sample surveys on all aspects of socioeconomic life including agriculture, industry, trade, finance, prices and marketing information, income and expenditure, education, health, culture and social situations as well as the government and the political sector for the use of the government and the public; e. Carry out, enforce and administer civil registration functions in the country as provided for in Act No. 3753, otherwise known as the Civil Registry Law; f. Collaborate with departments of the national government including GOCCs and their subsidiaries in the collection, compilation, maintenance and publication of statistical information, including special statistical data derived from the activities of those departments, corporations and their subsidiaries; g. Promote and develop integrated social and economic statistics and coordinate plans for the integration of those statistics, including the national accounts; h. Develop and maintain appropriate frameworks and standards for the collection, processing, analysis and dissemination of data; i. Coordinate with government departments and local government units (LGUs) on the promotion and adoption of statistical standards involving techniques, methodologies, concepts, definitions and classifications, and on the avoidance of duplication in the collection of statistical information; j. Conduct continuing methodological, analytical and development activities, in coordination with the Philippine Statistical Research and Training Institute (PSRTI) to improve the conduct of censuses, surveys and other data collection activities; k. Recommend executive and legislative measures to enhance the development of the statistical activities and programs of the government; l. Prepare, in consultation with the PSA Board, a Philippine Statistical Development Program (PSDP); m. Implement policies on statistical matters and coordination, as directed by the PSA Board; and n. Perform other functions as may be assigned by the PSA Board and as may be necessary to carry out the purposes of this Act. **Section 7.** *Composition of the PSA Board.* The PSA Board shall be composed of the following: the NEDA Director-General, as Chairperson; the Secretary of the Department of Budget and Management (DBM) or the duly designated Undersecretary, as Vice Chairperson; National Statistician; one (1) representative each from the other departments in the national government; a representative of the BSP; the Executive Director of the PSRTI; a representative of the Philippine Statistical Association; a representative from the GOCCs; a representative each from the Union of Local Authorities of the Philippines (ULAP) and the private sector to be appointed by the Chairperson of the PSA Board for a term of three (3) years, with reappointment, from a list of nominees submitted by the other members of the Board.
+
+ In the absence or temporary incapacity of the NEDA Director-General, the DBM Secretary or the duly designated Undersecretary shall act as the Chairperson of the Board.
+
+ The PSA Board shall constitute five (5) sections, each with a maximum of seven (7) members. Each section shall meet as often as possible to deliberate on matters to be discussed by the PSA Board. These sections are the following:
+
+ a. Agriculture, Industry, Trade and Services, Environment and Natural Resources, Prices and National Accounts; b. Labor and Employment, Population, Women and Gender, Health and Welfare, Education, Science and Technology and other Socioeconomic Sectors; c. Census and Survey Design; d. Theoretical Statistics and Statistical Modeling; and e. Statistical Information System and Information Technology. The Board may create sections as deemed necessary and appropriate.

@@ -1,0 +1,190 @@
+
+ Approved: April 24, 1959.
+"	success	Republic Act	This act changes the name of the barrio of Butubut to Barrio Miramar in Magsingal, Ilocos Sur, effective upon approval on April 7, 1959.	"[{""title"": ""Section 1."", ""summary"": ""The name of the barrio of Butubut in the Municipality of Magsingal, Province of Ilocos Sur, is changed to barrio Miramar.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2130	April 7, 1959			To change the name of the barrio of Butubut to Barrio Miramar.	"[""The name of the barrio of Butubut is changed to Barrio Miramar.""]"		"[""Republic Act"", ""Name Change"", ""Local Government"", ""Ilocos Sur""]"	"[""Butubut"", ""Magsingal"", ""Ilocos Sur"", ""Miramar""]"
+repacts:datasets/markdown/repacts/1959/ra_2145_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2145_1959.md	ra_2145_1959	An Act Creating the Barrio of Bunog in the Municipality of Quezon, Province of Palawan	"**REPUBLIC ACT No. 2145**
+
+ **An Act Creating Certain Barrios in the Municipality of Sindangan, Province of Zamboanga del Norte**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Tigbao, Nato, Pangalalan and Maras in the Municipality of Sindangan, Province of Zamboanga del Norte, are converted into barrios of said municipality to be known as the barrios of Tigbao, Nato, Pangalalan and Maras, respectively.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: April 24, 1959.
+"	success	Republic Act	This act establishes the barrio of Bunog in the municipality of Quezon, Palawan, by constituting the sitios of Isugod, Canikitan, Bunog, and Tagbuaya into a single barrio, and sets its effectivity.	"[{""title"": ""Section 1"", ""summary"": ""Constitutes the sitios of Isugod, Canikitan, Bunog, and Tagbuaya into the barrio of Bunog.""}, {""title"": ""Section 2"", ""summary"": ""States that the act shall take effect upon its approval.""}]"	2131	April 7, 1959			To create a barrio within the municipality of Quezon, Palawan.	"[""Creation of the barrio of Bunog"", ""Effectivity upon approval""]"		"[""barrio"", ""Quezon"", ""Palawan""]"	"[""barrio"", ""Quezon"", ""Palawan"", ""Republic Act"", ""Bunog""]"
+repacts:datasets/markdown/repacts/1959/ra_2146_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2146_1959.md	ra_2146_1959	An Act Creating the Barrio of Liberty in the Municipality of Palompon, Province of Leyte	"**REPUBLIC ACT No. 2146**
+
+ **An Act to Change the Name of the Kiañgan Hospital to Ifugao Hospital**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Kiañgan Hospital in the Municipality of Ifugao, Mountain Province, is hereby changed to Ifugao Hospital.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: April 24, 1959.
+"	success	Republic Act	Establishes the Barrio of Liberty, comprising specific sitios, within the municipality of Palompon, Leyte.	"[{""title"": ""Section 1"", ""summary"": ""Constitutes the sitios of Liberty, Calunasan, Cabulihan, Casagawan, Otap, and Cabaliwan into a new barrio named Liberty.""}, {""title"": ""Section 2"", ""summary"": ""The act takes effect upon approval.""}]"	2132	April 7, 1959			To create a new barrio and formalize administrative boundaries within the municipality of Palompon, Leyte.	"[""Creation of barrio of Liberty"", ""Constitution of sitios into the barrio"", ""Effectivity of the act upon approval""]"		"[""Local Government"", ""Administrative Division"", ""Leyte"", ""Municipality""]"	"[""barrio"", ""Liberty"", ""Palompon"", ""Leyte"", ""sitios"", ""creation""]"
+repacts:datasets/markdown/repacts/1959/ra_2147_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2147_1959.md	ra_2147_1959	An Act Creating the Barrio of Cubay Sur in the Municipality of Bugasong, Province of Antique	"**REPUBLIC ACT No. 2147**
+
+ **An Act Creating the Barrio of Cogon in the Municipality of Dipolog, Province of Zamboanga del Norte**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Cogon in the Municipality of Dipolog, Province of Zamboanga del Norte, is converted into a barrio of said municipality to be known as the barrio of Cogon.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: April 24, 1959.
+"	success	Republic Act	This act creates the barrio of Cubay Sur in Bugasong, Antique, by converting the sitio into a barrio, effective upon approval, enacted April 7, 1959.	"[{""title"": ""Section 1"", ""summary"": ""Converts the sitio of Cubay Sur into a barrio of Bugasong.""}, {""title"": ""Section 2"", ""summary"": ""The act takes effect upon its approval.""}]"	2133	April 7, 1959			To create a new barrio by converting an existing sitio.	"[""Conversion of sitio Cubay Sur into a barrio"", ""Act takes effect upon approval""]"		"[""Republic Act"", ""Local Government"", ""Antique""]"	"[""Cubay Sur"", ""Burgasong"", ""Antique"", ""barrio"", ""sitio"", ""Republic Act 2133""]"
+repacts:datasets/markdown/repacts/1959/ra_2148_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2148_1959.md	ra_2148_1959	An Act Converting the Sitio of Manggahan in the Barrio of San Martin, Municipality of San Luis, Province of Batangas, into a Barrio	"**REPUBLIC ACT No. 2148**
+
+ **An Act Creating the Barrio of Bayakbakin in the Municipality of Torrijos, Province of Marinduque**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Bayakbakin in the Municipality of Torrijos, Province of Marinduque, is converted into a barrio of said municipality to be known as the barrio of Bayakbakin.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: April 24, 1959.
+"	success	Republic Act	Converts the sitio of Manggahan from San Martin barrio into its own barrio.	"[{""title"": ""Section 1."", ""summary"": ""Separates the sitio of Manggahan from the barrio of San Martin and establishes it as a new barrio.""}, {""title"": ""Section 2."", ""summary"": ""The Act takes effect upon its approval.""}]"	2134	April 7, 1959			To convert the sitio of Manggahan into a barrio.	"[""Separates Manggahan from San Martin barrio and establishes it as a new barrio."", ""The Act takes effect upon its approval.""]"		"[""Republic Act"", ""Barrio"", ""Local Government"", ""Municipality"", ""Batangas""]"	"[""Manggahan"", ""San Martin"", ""San Luis"", ""Batangas"", ""barrio"", ""sitio"", ""conversion""]"
+repacts:datasets/markdown/repacts/1959/ra_2149_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2149_1959.md	ra_2149_1959	An Act Creating the Barrio of Santo Tomas in the Municipality of Tingloy, Province of Batangas	"**REPUBLIC ACT No. 2149**
+
+ **An Act Changing the Name of the Barrio of Lagnas in the Municipality of Bauan, Province of Batangas, to San Pascual**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the barrio of Lagnas in the Municipality of Bauan, Province of Batangas, is changed to San Pascual.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: April 24, 1959.
+"	success	Republic Act	Establishes the barrio of Santo Tomas by separating the sitios of Pook, Ricodo and Pulang-Buli from their respective parent barrios, and declares the new barrio effective upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Separates the sitios of Pook and Ricodo from the poblacion of Tingloy, and the sitio of Pulang-Buli from the barrio of Talahib, constituting a new independent barrio named Santo Tomas.""}, {""title"": ""Section 2."", ""summary"": ""The act takes effect upon its approval.""}]"	2135	April 7, 1959			Establish the barrio of Santo Tomas within Tingloy, Batangas.	"[""Separation of sitios Pook, Ricodo and Pulang-Buli from their parent barrios."", ""Creation of the independent barrio of Santo Tomas."", ""Act becomes effective upon approval.""]"		"[""Republic Act"", ""Local Government"", ""Batangas""]"	"[""santo tomas"", ""tingloy"", ""batangas"", ""barrio"", ""sitio"", ""pook"", ""ricodo"", ""pulang-buli"", ""talahib""]"
+repacts:datasets/markdown/repacts/1959/ra_2150_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2150_1959.md	ra_2150_1959	An Act Converting the Sitio of Malibayo, Municipality of Batangas, Province of Batangas, into a Barrio to be Known as the Barrio of Malibayo	"**REPUBLIC ACT No. 2150**
+
+ **An Act Creating the Barrio of San Vicente in the Municipality of Bauan, Province of Batangas**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There is created a barrio in Municipality of Bauan, Province of Batangas, to be known as the barrio of San Vicente, and which shall be bounded on the north by the barrio of San Diego, on the east by the barrio of Alagao, on the south by the barrio of Baguilaua, and on the west by the school building of the barrio of Manalupang and a line running northward and southward from said building.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: April 24, 1959.
+"	success	Republic Act	This Act converts the sitio of Malibayo into an official barrio named Malibayo within the municipality of Batangas, effective upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Converts the sitio of Malibayo, barrio of Simlong, Municipality of Batangas, Province of Batangas, into a barrio of said municipality to be known as the barrio of Malibayo.""}, {""title"": ""Section 2."", ""summary"": ""The Act shall take effect upon its approval.""}]"	2136	April 7, 1959			To convert the sitio of Malibayo into a barrio under the administrative jurisdiction of the Municipality of Batangas.	"[""Conversion of the sitio of Malibayo into a barrio named Malibayo"", ""Effective date upon approval""]"		"[""Republic Act"", ""Barangay conversion"", ""Malibayo"", ""Batangas""]"	"[""sitio"", ""barrio"", ""conversion"", ""Municipality of Batangas"", ""Province of Batangas""]"
+repacts:datasets/markdown/repacts/1959/ra_2151_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2151_1959.md	ra_2151_1959	An Act Creating the Barrio of Bagacay in the Municipality of Lapinig, Province of Samar	"**REPUBLIC ACT No. 2151**
+
+ **An Act to Provide that the Seat of Government of the Municipality of Aglipay, Nueva Vizcaya, be Located at Guinalbin**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The seat of government of the Municipality of Aglipay, Nueva Vizcaya, shall be located at Guinalbin.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: April 24, 1959.
+"	success	Republic Act	An act that establishes the barrio of Bagacay in the Municipality of Lapinig, Samar, and specifies its effectivity upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Constitutes the sitios of Kajaguekjekan and Lobok into the barrio of Bagacay.""}, {""title"": ""Section 2."", ""summary"": ""Specifies that the act shall take effect upon its approval.""}]"	2137	April 7, 1959			To create the barrio of Bagacay within the Municipality of Lapinig, Samar.	"[""Creation of barrio of Bagacay from sitios Kajaguekjekan and Lobok"", ""Act takes effect upon approval""]"		"[""Republic Act"", ""Local Government"", ""Samar"", ""Barangay""]"	"[""Bagacay"", ""Lapinig"", ""Samar"", ""barrio"", ""municipality""]"
+repacts:datasets/markdown/repacts/1959/ra_2152_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2152_1959.md	ra_2152_1959	An Act to Convert the Sitios of Malaguining and Cancorvenus, Both in the Municipality of Talalora, Province of Samar, to a Barrio to be Known as Barrio San Francisco of the Same Municipality	"**REPUBLIC ACT No. 2152**
+
+ **An Act Creating the Barrio of Malidong in the Municipality of Gamay, Province of Samar**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Candayong, Malidong and Malaspagas in the Municipality of Gamay, Province of Samar, are hereby constituted into a barrio in the said municipality to be known as the barrio of Malidong.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: April 24, 1959.
+"	success	Republic Act	This Act converts the sitios of Malaguining and Cancorvenus in Talalora, Samar into a new barrio named Barrio San Francisco.	"[{""title"": ""Section 1"", ""summary"": ""The sitios of Malaguining and Cancorvenus are hereby converted to a barrio named Barrio San Francisco.""}, {""title"": ""Section 2"", ""summary"": ""The Act shall take effect upon its approval.""}]"	2138	April 7, 1959			To convert specific sitios into a barrio within Talalora municipality.	"[""Conversion of sitios Malaguining and Cancorvenus into Barrio San Francisco"", ""Act takes effect upon approval""]"		"[""Republic Act"", ""Local Government"", ""Samar""]"	"[""Sitios"", ""Barrio"", ""Talalora"", ""Samar""]"
+repacts:datasets/markdown/repacts/1959/ra_2153_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2153_1959.md	ra_2153_1959	An Act Amending Certain Sections of Republic Act Numbered Nine Hundred Eighty-One, Otherwise Known as the Charter of the City of Trece Martires	"**REPUBLIC ACT No. 2153**
+
+ **An Act Creating the Barrio of Da-o in the Municipality of San Jose, Province of Samar**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Little Doñgon, Big Doñgon, Patag, Ongos-ongos and Dao-Fishpond in the Municipality of San Jose, Province of Samar, are hereby constituted into a barrio in the said municipality to be known as the barrio of Da-o.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: April 24, 1959.
+"	success	Republic Act	Amends sections of RA 981 to extend the jurisdiction of the City of Trece Martires, clarify city officials, set appropriation limits and prohibit extra compensation for ex‑officio officials.	"[{""title"": ""Section 1"", ""summary"": ""Amends Secs. 3 and 5 of RA 981 to extend police jurisdiction over radial roads and water supply areas, define city officials, and designate ex\u2011officio members.""}, {""title"": ""Section 2"", ""summary"": ""Amends the appropriation provision of Sec. 10 to limit salary payments to 60% of expected revenue and authorize provincial aid for operating expenses.""}, {""title"": ""Section 3"", ""summary"": ""Inserts Sec. 41\u2011A prohibiting additional compensation for ex\u2011officio officials, with a provision for future payment if funds permit.""}, {""title"": ""Section 4"", ""summary"": ""Repeals or modifies any acts inconsistent with this amendment.""}, {""title"": ""Section 5"", ""summary"": ""States the act takes effect upon approval.""}]"	2139	April 7, 1959			To amend RA 981 regarding the jurisdiction, officials, and appropriations of the City of Trece Martires.	"[""Amendment of Secs. 3 and 5 of RA 981"", ""Extension of police jurisdiction over radial roads and water supply areas"", ""Designation of city officials and ex\u2011officio members"", ""Limitation of salary appropriations to 60% of expected revenue"", ""Provision for provincial aid for operating expenses"", ""Prohibition of extra compensation for ex\u2011officio officials""]"	Republic Act No. 981	"[""City Charter"", ""Trece Martires"", ""Police Jurisdiction"", ""Municipal Governance""]"	"[""RA 2139"", ""RA 981"", ""Trece Martires"", ""City Charter"", ""Jurisdiction"", ""Appropriations"", ""Ex\u2011officio Officials""]"
+repacts:datasets/markdown/repacts/1959/ra_2154_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2154_1959.md	ra_2154_1959	An Act Changing the Name of Highway 54 in the Province of Rizal to Epifanio De Los Santos Avenue in Honor of Don Epifanio De Los Santos, a Filipino Scholar, Jurist and Historian	"**REPUBLIC ACT No. 2154**
+
+ **An Act Changing the Name of the Municipality of Asia, Province of Occidental Negros, to Municipality of Hinoba-An**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Municipality of Asia, Province of Occidental Negros, is changed to Municipality of Hinoba-an, and its seat of government shall be, as it is now, the site of the present barrio of Hinoba-an.
+
+ **Section 2.** Executive Order Numbered One hundred eighty-six, series of 1948, is amended accordingly.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: April 24, 1959.
+"	success	Act	This act changes the name of Highway 54 in Rizal province to Epifanio de los Santos Avenue in honor of Don Epifanio de los Santos.	"[{""title"": ""Section 1"", ""summary"": ""The name of Highway 54 in the Province of Rizal is changed to Epifanio de los Santos Avenue in honor of Don Epifanio de los Santos, a Filipino scholar, jurist and historian.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	RA 2140	April 7, 1959			Change the name of Highway 54 to honor Don Epifanio de los Santos.	"[""Name of Highway 54 changed to Epifanio de los Santos Avenue""]"		"[""Infrastructure"", ""Roads"", ""Legislation"", ""Historical Figures""]"	"[""Epifanio de los Santos"", ""Highway 54"", ""Rizal"", ""Philippines"", ""Road naming""]"
+repacts:datasets/markdown/repacts/1959/ra_2155_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2155_1959.md	ra_2155_1959	An Act Creating the Sub-Province of Biliran	"**REPUBLIC ACT No. 2155**
+
+ AN ACT CONVERTING THE SITIO OF PANTOK, MUNICIPALITY OF MEYCAUAYAN, PROVINCE OF BULACAN, INTO A BARRIO TO BE KNOWN AS THE BARRIO OF PANTOK.
+
+ **Section 1.** The sitio of Pantok, Municipality of Meycauayan, Province of Bulacan, is converted into a barrio of said municipality to be known as the barrio of Pantok.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Enacted without executive approval, April 24, 1959.
+"	success	Republic Act	Republic Act No. 2141 establishes the sub-province of Biliran within Leyte, designating its seat of government, providing for its representation in the provincial board, detailing the duties and compensation of its officials, and setting forth administrative provisions including a highway engineering district.	"[{""title"": ""Section 1."", ""summary"": ""Creates the sub-province of Biliran by constituting the municipalities of Almeria, Biliran, Cabucgayan, Caibiran, Culaba, Kawayan, Maripipi, and Naval, with its seat of government in Naval.""}, {""title"": ""Section 2."", ""summary"": ""States that applicable provisions of the Revised Administrative Code apply to the sub-province as long as they are not inconsistent with this Act.""}, {""title"": ""Section 3."", ""summary"": ""Provides for the election of a member to represent Biliran in Leyte's provincial board, outlines qualifications, duties, and compensation, and specifies the member's role as lieutenant-governor when necessary.""}, {""title"": ""Section 4."", ""summary"": ""Mandates the formation of a separate, independent highway engineering district for Biliran and the assignment of a district engineer.""}, {""title"": ""Section 5."", ""summary"": ""Designates Biliran as a province for purposes of Republic Act No. 917.""}, {""title"": ""Section 6."", ""summary"": ""Declares that the lieutenant-governor of Biliran cannot be a member of Leyte's provincial board.""}, {""title"": ""Section 7."", ""summary"": ""Sets the lieutenant-governor\u2019s annual compensation at three thousand six hundred pesos.""}, {""title"": ""Section 8."", ""summary"": ""Specifies that the first lieutenant-governor and first board member are appointed by the President with consent of the Commission on Appointments, serving until successors are elected.""}, {""title"": ""Section 9."", ""summary"": ""States the Act shall take effect upon its approval.""}]"	2141	April 8, 1959			To establish the sub-province of Biliran within Leyte, providing it with governmental representation, administrative structure, and integration into national legal frameworks.	"[""Creation of the sub-province of Biliran"", ""Applicability of the Revised Administrative Code to Biliran"", ""Election and duties of a representative in Leyte's provincial board"", ""Establishment of a highway engineering district for Biliran"", ""Designation of Biliran as a province under RA 917"", ""Compensation and role of the lieutenant-governor"", ""Appointment process for the first lieutenant-governor and board member"", ""Effective date upon approval""]"	Republic Act No. 917; Revised Administrative Code – Article XI, Chapter 56, Title VIII, Book III	"[""Republic Act"", ""Sub-Province"", ""Biliran"", ""Leyte"", ""Administrative Law""]"	"[""sub-province"", ""Biliran"", ""Leyte"", ""provincial board"", ""lieutenant-governor"", ""highway engineering district"", ""Revised Administrative Code"", ""RA 917""]"
+repacts:datasets/markdown/repacts/1959/ra_2156_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2156_1959.md	ra_2156_1959	An Act Providing for Two Assistant Fiscals for the Province of Aklan, Amending for the Purpose Section Sixteen Hundred Seventy-Four of the Administrative Code, as Amended	"**REPUBLIC ACT No. 2156**
+
+ **An Act Converting the Sitio of Balite in the Barrio of Banoyo, Municipality of San Luis, Province of Batangas, into a Barrio**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Balite in the barrio of Banoyo Municipality of San Luis, Province of Batangas, is hereby separated from the said barrio and converted into a new barrio to be known as the barrio of Balite.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: April 24, 1959.
+"	success	Republic Act	The act amends Section 1674 of the Administrative Code to create assistant provincial fiscals for each province, specifying the number of fiscals per province, their salaries by class, appointment procedures, and eligibility requirements, thereby institutionalizing a cadre of fiscal officers to assist in provincial governance.	"[{""title"": ""Section 1."", ""summary"": ""Amendment to Section 1674 of the Administrative Code, adding assistant provincial fiscals for all provinces, detailing their number, salaries per class, appointment by the President with CPA consent, and eligibility criteria.""}, {""title"": ""Section 2."", ""summary"": ""The act takes effect upon its approval.""}]"	2142	April 14, 1959			To establish assistant provincial fiscals and provide a framework for their appointment, duties, and compensation.	"[""Amendment to Section 1674 to create assistant provincial fiscals"", ""Specification of number of fiscals per province"", ""Salaries for fiscals by province class"", ""Appointment by President with Commission on Appointments consent"", ""Eligibility requirements for appointment""]"	Section Sixteen Hundred Seventy-Four of the Administrative Code, as amended by Republic Act 1799	"[""Fiscal"", ""Administrative Code"", ""Local Government"", ""Assistant Provincial Fiscal""]"	"[""assistant provincial fiscal"", ""administrative code"", ""salary"", ""appointment"", ""province""]"
+repacts:datasets/markdown/repacts/1959/ra_2157_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2157_1959.md	ra_2157_1959	An Act Creating Certain Barrios in the Municipality of Bulan, Province of Sorsogon	"**REPUBLIC ACT No. 2157**
+
+ **An Act Creating the Barrio of Pangalalan in the Municipality of Sindangan, Province of Zamboanga del Norte**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Pangalalan in the Municipality of Sindangan, Province of Zamboanga del Norte, is converted into a barrio of said municipality to be known as the barrio of Pangalalan.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: April 24, 1959.
+"	success	Republic Act	An act that converts specific sitios into barrios within the Municipality of Bulan, Sorsogon.	"[{""title"": ""Section 1"", ""summary"": ""Converts the sitios of Cabogaan, San Juan Daan, Cadandanan, Tanga, Togbog\u00f1on and Bag\u00f1og into barrios named Cabogaan, San Juan Daan, Cadandanan, Tanga, San Rafael and Magsaysay.""}, {""title"": ""Section 2"", ""summary"": ""The Act shall take effect upon its approval.""}]"	2143	April 24, 1959			To establish new barrios in the Municipality of Bulan, Province of Sorsogon.	"[""Conversion of the sitios Cabogaan, San Juan Daan, Cadandanan, Tanga, Togbog\u00f1on and Bag\u00f1og into barrios named Cabogaan, San Juan Daan, Cadandanan, Tanga, San Rafael and Magsaysay.""]"		"[""Municipality"", ""Barrios"", ""Sorsogon"", ""Bulan"", ""Republic Act""]"	"[""Barrios"", ""Sitios"", ""Bulan"", ""Sorsogon"", ""Republic Act 2143""]"
+repacts:datasets/markdown/repacts/1959/ra_2158_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2158_1959.md	ra_2158_1959	An Act to Create Certain Barrios in the Municipality of Santa Fe, Province of Romblon	"**REPUBLIC ACT No. 2158**
+
+ **An Act Changing the Name of the Municipality of Jones, Province of Romblon, to Municipality of Banton**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Municipality of Jones, Province of Romblon, is changed to Municipality of Banton.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: April 24, 1959.
+"	success	Act	Creates nine barrios in the Municipality of Santa Fe, Romblon, Philippines.	"[{""title"": ""Section 1. Creation of Barrios"", ""summary"": ""Establishes the barrios of Magsaysay, Mat-i, Agmanic, Tabugon, Canyayo, Pandan, Danao Norte, Pinamihagan, and Busay, specifying their constituent sitios.""}, {""title"": ""Section 2. Effectivity"", ""summary"": ""States that the Act takes effect upon its approval.""}]"	2144	April 24, 1959			To create and officially recognize barrios within the Municipality of Santa Fe, Romblon.	"[""Creation of nine barrios in Santa Fe, Romblon.""]"		"[""Local Government"", ""Municipality"", ""Barrios""]"	"[""Barrios"", ""Santa Fe"", ""Romblon"", ""Republic Act 2144""]"
+repacts:datasets/markdown/repacts/1959/ra_2159_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2159_1959.md	ra_2159_1959	An Act Creating Certain Barrios in the Municipality of Sindangan, Province of Zamboanga del Norte	"**REPUBLIC ACT No. 2159**
+
+ **An Act Creating the Barrio of San Rafael in the Municipality of Busuanga, Province of Palawan**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of San Rafael in the Municipality of Busuanga, Province of Palawan, is converted into a barrio of said municipality to be known as the barrio of San Rafael.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: April 24, 1959.
+"	success	Republic Act	This act converts the sitios of Tigbao, Nato, Pangalalan, and Maras into barrios within Sindangan municipality, Zamboanga del Norte.	"[{""title"": ""Section 1"", ""summary"": ""Lists the sitios of Tigbao, Nato, Pangalalan, and Maras to be converted into barrios of Sindangan municipality.""}, {""title"": ""Section 2"", ""summary"": ""Specifies that the act shall take effect upon its approval.""}]"	2145	April 24, 1959			To establish official barrio status for certain sitios in Sindangan, thereby formalizing local administrative units.	"[""Conversion of the sitios of Tigbao, Nato, Pangalalan, and Maras into barrios.""]"		"[""Zamboanga del Norte"", ""Sindangan"", ""Barrios"", ""Local Government""]"	"[""Barrios"", ""Sitios"", ""Municipality"", ""Zamboanga del Norte""]"
+repacts:datasets/markdown/repacts/1959/ra_2160_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2160_1959.md	ra_2160_1959	An Act to Change the Name of the Kiañgan Hospital to Ifugao Hospital	"**REPUBLIC ACT No. 2160**
+
+ **An Act Changing the Name of the Barrio of Bolobolo in the Municipality of Jabonga, Province of Agusan, to San Vicente**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the barrio of Bolobolo in the Municipality of Jabonga, Province of Agusan, is changed to San Vicente.

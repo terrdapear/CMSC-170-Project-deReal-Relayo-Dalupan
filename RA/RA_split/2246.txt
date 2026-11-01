@@ -1,0 +1,142 @@
+
+ **Section 4.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 5.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **ERNESTO M. MACEDA** President of the Senate | (Sgd.) **JOSE DE VENECIA JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on January 19, 1998 and November 17, 1997, respectively.
+
+ | (Sgd.) **LORENZO E. LEYNES JR.** Secretary of the Senate | (Sgd.) **ROBERTO P. NAZARENO** Secretary General House of Representatives |
+
+ Approved:
+
+ **FIDEL V. RAMOS** President of the Philippines
+
+ Lapsed into law on July 26, 1998, without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.
+"	success	Education	An act establishing a national science high school in Binangonan, Rizal, known as the Rizal National Science High School, and appropriating funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of the Rizal National Science High School in Binangonan, Rizal.""}, {""title"": ""Section 2."", ""summary"": ""The school shall provide science and technology training authorized by the Department of Education, Culture and Sports, in coordination with the Department of Science and Technology.""}, {""title"": ""Section 3."", ""summary"": ""The school shall be supervised by the Department of Education, Culture and Sports, with coordination from the Department of Science and Technology, and both departments shall issue necessary rules and regulations.""}, {""title"": ""Section 4."", ""summary"": ""The necessary funds shall be included in the General Appropriations Act of the year following enactment.""}, {""title"": ""Section 5."", ""summary"": ""The act shall take effect upon its approval.""}]"	8724	1998-07-26	"[{""name"": ""ERNESTO M. MACEDA"", ""title"": ""President of the Senate""}, {""name"": ""JOSE DE VENECIA JR."", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""LORENZO E. LEYNES JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""ROBERTO P. NAZARENO"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""FIDEL V. RAMOS"", ""title"": ""President of the Philippines""}]"	To establish a national science high school in Binangonan, Rizal and authorize its funding and operation.	"[""Establishment of the Rizal National Science High School"", ""Provision of science and technology training"", ""Direct supervision by the Department of Education, Culture and Sports"", ""Coordination with the Department of Science and Technology"", ""Appropriation of funds in the General Appropriations Act"", ""Effective date upon approval""]"		"[""Education"", ""Science"", ""High School"", ""Rizal"", ""Philippines"", ""National Science High School""]"	"[""Rizal National Science High School"", ""National Science High School"", ""Binangonan"", ""Department of Education"", ""Department of Science and Technology"", ""General Appropriations Act""]"
+repacts:datasets/markdown/repacts/1998/ra_8725_1998.md	repacts	1998		datasets/markdown/repacts/1998/ra_8725_1998.md	ra_8725_1998	AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN THE MUNICIPALITY OF DILASAG, PROVINCE OF AURORA, TO BE KNOWN AS THE MANGGITAHAN NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"Eleventh Congress
+
+ **[ REPUBLIC ACT NO. 8725, July 26, 1998 ]**
+
+ **AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN THE MUNICIPALITY OF DILASAG, PROVINCE OF AURORA, TO BE KNOWN AS THE MANGGITAHAN NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** There shall be established, under the supervision of the Department of Education, Culture and Sports, a national high school in Barangay Manggitahan in the Municipality of Dilasag, Province of Aurora, to be known as the Manggitahan National High School.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 3.** The Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** President of the Senate | (Sgd.) **JOSE DE VENECIA JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on January 12, 1998 and February 19, 1998, respectively.
+
+ | (Sgd.) **HEZEL P. GACUTAN** Secretary of the Senate | (Sgd.) **ROBERTO P. NAZARENO** Secretary General House of Representatives |
+
+ Approved:
+
+ **FIDEL V. RAMOS** President of the Philippines
+
+ Lapsed into law on July 26, 1998, without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.
+"	success	Education	Republic Act No. 8725 establishes the Manggitahan National High School in Dilasag, Aurora, and appropriates funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""Establishes a national high school in Barangay Manggitahan, Municipality of Dilasag, Province of Aurora under the supervision of the Department of Education.""}, {""title"": ""Section 2."", ""summary"": ""The necessary funds for the Act will be included in the General Appropriations Act of the year following its enactment.""}, {""title"": ""Section 3."", ""summary"": ""The Act takes effect upon its approval.""}]"	8725	July 26, 1998			To establish a national high school in Dilasag, Aurora and appropriate funds for its operation.	"[""Establishment of Manggitahan National High School"", ""Appropriation of funds through the General Appropriations Act of the following year"", ""Effectiveness upon approval""]"	General Appropriations Act of the year following enactment	"[""Education"", ""Public School"", ""Republic Act"", ""Aurora"", ""Dilasag"", ""Manggitahan National High School""]"	"[""national high school"", ""Manggitahan"", ""Aurora"", ""DepEd"", ""funding"", ""appropriations""]"
+repacts:datasets/markdown/repacts/1998/ra_8726_1998.md	repacts	1998		datasets/markdown/repacts/1998/ra_8726_1998.md	ra_8726_1998	AN ACT GRANTING THE BLOCKBUSTER BROADCASTING SYSTEM, INC., A FRANCHISE TO CONSTRUCT, INSTALL, ESTABLISH, OPERATE AND MAINTAIN RADIO AND TELEVISION STATIONS IN THE PHILIPPINES	"Eleventh Congress
+
+ **[ REPUBLIC ACT NO. 8726, August 03, 1998 ]**
+
+ **AN ACT GRANTING THE BLOCKBUSTER BROADCASTING SYSTEM, INC., A FRANCHISE TO CONSTRUCT, INSTALL, ESTABLISH, OPERATE AND MAINTAIN RADIO AND TELEVISION STATIONS IN THE PHILIPPINES**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.***Nature and Scope of Franchise.* - Subject to the provisions of the Constitution and applicable laws, rules and regulations, there is hereby granted to the Blockbuster Broadcasting System, Inc., hereunder referred to as the grantee, its successors or assigns, a franchise to construct, install, establish, operate and maintain for commercial purposes and in the public interest, radio and/or television broadcasting stations in the Philippines, where frequencies and/or channels are still available for radio and/or television broadcasting, with the corresponding technological auxiliaries or facilities, special broadcast and other program and distribution services and relay stations.
+
+ **Section 2.***Manner of Operation of Stations or Facilities.*- The stations or facilities of the grantee shall be constructed and operated in a manner as will, at most, result only in the minimum interference on the wavelengths or frequencies of existing stations or other stations which may be established by law, without in any way diminishing its own right to use its selected wavelengths or frequencies and the quality of transmission or reception thereon as should maximize rendition of the grantee's services and/or the availability thereof.
+
+ **Section 3.***Prior Approval of the National Telecommunications Commission.*- The grantee shall secure from the National Telecommunications Commission the appropriate permits and licenses for the construction and operation of its stations and facilities and shall not use any frequency in the radio/television spectrum without having been authorized by the Commission. The Commission, however, shall not unreasonably withhold or delay the grant of any such authority.
+
+ **Section 4.***Responsibility to the Public.*- The grantee shall provide adequate public service time to enable the government, through the said broadcasting stations or facilities, to reach the population on important public issues; provide at all times sound and balanced programming; assist in the functions of public information and education; conform to the ethics of honest enterprise; and not use its stations or facilities for the broadcasting of obscene and indecent language, speech, act or scene, or for the dissemination of deliberately false information or willful misrepresentation, to the detriment of the public interest, or to incite, encourage or assist in subversive or treasonable acts.
+
+ **Section 5.***Right of Government.* - A special right is hereby reserved to the President of the Philippines, in times of war, rebellion, public peril, calamity, emergency, disaster or disturbance of peace and order, to temporarily take over and operate the stations or facilities of the grantee, to temporarily suspend the operation of any station or facility in the interest of public safety, security and public welfare, or to authorize the temporary use and operation thereof by any agency of the government, upon due compensation to the grantee, for the use of said stations or facilities during the period when they shall be so operated.
+
+ The radio spectrum is a finite resource that is a part of the national patrimony and the use thereof is a privilege conferred upon the grantee by the State and may be withdraw anytime, after due process.
+
+ **Section 6.***Term of Franchise.*- This franchise shall be for a term of twenty-five (25) years from the date of effectivity of this Act, unless sooner revoked or cancelled. This franchise shall be deemed*ipso facto*revoked in the event the grantee fails to comply with any of the following conditions:
+
+ a. Commence operations within one (1) year from the approval of its permit by the National Telecommunications Commission; b. Operate continuously for two (2) years; and c. Commence operations within three (3) years from the effectivity of this Act. **Section 7.***Acceptance and Compliance.*- Acceptance of this franchise shall be given in writing within sixty (60) days from the effectivity of this Act. Upon giving such acceptance, the grantee shall exercise the privileges granted under this Act. Non acceptance shall render the franchise void.
+
+ **Section 8.***Bond.*- The grantee shall file a bond in favor of the National Telecommunications Commission, which shall determine the amount, to guarantee the compliance with and fulfillment of the conditions under which this franchise is granted. If after three (3) years from the date of the approval of its permit by the Commission, the grantee shall have fulfilled the same, the bond shall be cancelled by the Commission. Otherwise, the bond shall be forfeited in favor of the government and the franchise*ipso facto*revoked.
+
+ **Section 9.***Tax Provisions.*- The grantee, its successors or assigns, shall be liable to pay the same taxes on their real estate, buildings and personal property, exclusive of this franchise, as other persons or corporations are now or hereafter may be required by law to pay. In addition thereto, the grantee, its successors or assigns, shall pay the value-added tax under Republic Act No. 7716, as amended, on all gross receipts of its radio/ television business transacted under this franchise:*Provided,*That the grantee, its successors or assigns, shall continue to be liable for income taxes payable under Title II of the National Internal Revenue Code pursuant to Section 2 of Executive Order No.72, unless the latter enactment is amended or repealed, in which case the amendment or repeal shall be applicable thereto.
+
+ The grantee shall file the return with and pay the taxes due thereon to the Commissioner of Internal Revenue or his duly authorized representatives in accordance with the National Internal Revenue Code and the return shall be subject to audit by the Bureau of Internal Revenue.
+
+ **Section 10.***Self-regulation by and Undertaking of Grantee.*- The grantee shall not require any previous censorship of any speech, play, act or scene, or other matter to be broadcast from its stations:*Provided,* That the grantee, during any broadcast, shall cut off from the air the speech, play, act or scene, or other matter being broadcast if the tendency thereof is to propose and/or incite treason, rebellion or sedition; or the language used therein or the theme thereof is indecent or immoral; and willful failure to do so shall constitute a valid cause for the cancellation of this franchise.
+
+ **Section 11.***Warranty in Favor of the National and Local Governments.*- The grantee shall hold the national, provincial, city and municipal governments of the Philippines harmless from all claims, accounts, demands or actions arising out of accidents or injuries, whether to property or to persons, caused by the construction or operation of the stations of the grantee.
+
+ **Section 12.***Sale, Lease, Transfer, Usufruct, Etc.*- The grantee shall not lease, transfer, grant the usufruct of, to sell nor assign this franchise or the rights and privileges acquired there under to any person, firm, company, corporation or other commercial or legal entity, nor merge with any corporation or entity, nor shall the controlling interest of the grantee be transferred, whether as a whole or in parts and whether simultaneously or contemporaneously, to any such person, firm, company, corporation or entity without the prior approval of the Congress of the Philippines. Any person or entity to which this franchise is sold, transferred or assigned, shall be subject to the same conditions, terms, restrictions and limitations of this Act.
+
+ **Section 13.***Dispersal of Ownership.*- In accordance with the constitutional provisions to encourage public participation in public utilities, the grantee shall offer at least thirtypercentum(30%) of its outstanding capital stock or a higher percentage that may hereafter be provided by law in any securities exchange in the Philippines within five (5) years from the time it has achieved the status of the national broadcasting network. A ""national broadcasting network"" is hereby defined as one that operates three or more radio and/or television stations. Non-compliance therewith shall render the franchise*ipso facto*revoked.
+
+ **Section 14.***General Broadcast Policy Law.*- The grantee shall comply with and be subject to the provisions of a general broadcast policy law which Congress may hereafter enact.
+
+ **Section 15.***Separability Clause.*- If any of the sections or provisions of this Act is held invalid, all other provisions not affected thereby shall remain valid.
+
+ **Section 16.***Repealability and Nonexclusivity Clause.*- This franchise shall be subject to amendment, alteration, or repeal by the Congress of the Philippines when the public interest so requires and shall not be interpreted as an exclusive grant of the privileges herein provided for.
+
+ **Section 17.***Reportorial Requirement.*- The grantee shall submit an annual report to the Congress of the Philippines on its compliance with the terms and conditions of its franchise and on its operations within sixty, (60) days from the end of the year.
+
+ **Section 18.***Effectivity Clause.*- This Act shall take effect fifteen (15) days from the date of its publication in at least two (2) newspapers of general circulation.
+
+ Approved,
+
+ | (Sgd.) **ERNESTO M. MACEDA** President of the Senate | (Sgd.) **JOSE DE VENECIA JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on December 16, 1997 and December 8, 1997, respectively.
+
+ | (Sgd.) **LORENZO E. LEYNES JR.** Secretary of the Senate | (Sgd.) **ROBERTO P. NAZARENO** Secretary General House of Representatives |
+
+ Approved:
+
+ **FIDEL V. RAMOS** President of the Philippines
+
+ Lapsed into law on August 3, 1998, without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.
+"	success	Republic Act	The act grants Blockbuster Broadcasting System, Inc. a franchise to construct, install, establish, operate, and maintain radio and television stations in the Philippines, outlining operational requirements, responsibilities, and conditions for compliance.	"[{""title"": ""Nature and Scope of Franchise"", ""summary"": ""Grants Blockbuster Broadcasting System, Inc. a franchise to construct, install, establish, operate, and maintain radio and/or television broadcasting stations for commercial and public interest purposes.""}, {""title"": ""Manner of Operation of Stations or Facilities"", ""summary"": ""Stations must operate to minimize interference with existing frequencies while maximizing service quality.""}, {""title"": ""Prior Approval of the National Telecommunications Commission"", ""summary"": ""Grantee must secure permits and licenses from the NTC and cannot use frequencies without authorization.""}, {""title"": ""Responsibility to the Public"", ""summary"": ""Grantee must provide public service time, balanced programming, avoid obscene content, and not disseminate false or subversive content.""}, {""title"": ""Right of Government"", ""summary"": ""President may temporarily take over or suspend operations during emergencies, with compensation to the grantee.""}, {""title"": ""Term of Franchise"", ""summary"": ""Franchise lasts 25 years, subject to conditions such as commencing operations within 1 year, operating continuously for 2 years, and within 3 years from effectivity. Noncompliance revokes the franchise.""}, {""title"": ""Acceptance and Compliance"", ""summary"": ""Acceptance must be in writing within 60 days of effectivity; otherwise the franchise is void.""}, {""title"": ""Bond"", ""summary"": ""Grantee must file a bond to guarantee compliance; the bond is forfeited if conditions are unmet after 3 years.""}, {""title"": ""Tax Provisions"", ""summary"": ""Grantee is liable for applicable taxes, VAT on gross receipts, and income taxes as per the National Internal Revenue Code and Executive Order No. 72.""}]"	8726	August 03, 1998			To grant a broadcasting franchise to Blockbuster Broadcasting System, Inc. for radio and television operations in the Philippines.	"[""Grant of a 25-year franchise"", ""Requirements for operation and compliance"", ""Government right to take over during emergencies"", ""Bond requirement for compliance"", ""Tax obligations for the grantee""]"	Republic Act No. 7716 (VAT law), Executive Order No. 72 (Income tax provisions)	"[""Broadcasting"", ""Franchise"", ""Television"", ""Radio"", ""Philippines"", ""Republic Act""]"	"[""Blockbuster Broadcasting System"", ""RA 8726"", ""Broadcasting franchise"", ""Television stations"", ""Radio stations"", ""National Telecommunications Commission"", ""Tax provisions""]"
+repacts:datasets/markdown/repacts/1998/ra_8727_1998.md	repacts	1998		datasets/markdown/repacts/1998/ra_8727_1998.md	ra_8727_1998	AN ACT GRANTING THE ELFRENB, SERVANDO, JR., BROADCASTING NETWORK A FRANCHISE TO CONSTRUCT, INSTALL, ESTABLISH, OPERATE AND MAINTAIN RADIO AND TELEVISION STATIONS IN THE CITY OF PUERTO PRINCESA, PROVINCE OF PALAWAN	"Eleventh Congress
+
+ **[ REPUBLIC ACT NO. 8727, August 06, 1998 ]**
+
+ **AN ACT GRANTING THE ELFRENB, SERVANDO, JR., BROADCASTING NETWORK A FRANCHISE TO CONSTRUCT, INSTALL, ESTABLISH, OPERATE AND MAINTAIN RADIO AND TELEVISION STATIONS IN THE CITY OF PUERTO PRINCESA, PROVINCE OF PALAWAN**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.***Nature and Scope of Franchise.* - Subject to the provisions of the Constitution and the applicable laws, rules and regulations, there is hereby granted to the Elfren B. Servando, Jr., (EBS) Broadcasting Network, hereunder referred to as the grantee, its successors or assigns, a franchise to construct, install, establish, operate and maintain for commercial purposes and in the public interest, radio and/or television broadcasting stations in the City of Puerto Princesa, Province of Palawan where frequencies and/or channels are still available for radio and/or television broadcasting, with the corresponding technological auxiliaries of facilities, special broadcast and other program and distribution services and relay stations.
+
+ **Section 2.***Manner of Operation of Stations or Facilities.*- The stations or facilities of the grantee shall be constructed and operated in a manner as will, at most, result only in the minimum interference on the wavelengths or frequencies of existing stations or other stations which may be established by law, without in any way diminishing its own right to use its selected wavelengths or frequencies and the quality of transmission or reception thereon as should maximize rendition of the grantee's services and/or the availability thereof.
+
+ **Section 3.***Prior Approval of the National Telecommunications Commission.*- The grantee shall secure from the National Telecommunications Commission the appropriate permits and licenses for the construction and operation of its stations and facilities and shall not use any frequency in the radio/television spectrum without having been authorized by the Commission.
+
+ The Commission, however, shall not unreasonably withhold or delay the grant of any such authority.
+
+ **Section 4.***Responsibility to the Public.*- The grantee shall provide adequate public service time to enable the government, through the said broadcasting stations or facilities, to reach the population on important public issues; provide at all times sound and balanced programming; assist in the functions of public information and education; conform to the ethics and honest enterprise; and not use its stations or facilities for the broadcasting of obscene and indecent language, speech, act or scene; or for the dissemination of deliberately false information or willful misrepresentation to the detriment of the public interest, or to incite, encourage or assist in subversive or treasonable acts.
+
+ **Section 5.***Right of Government.*- A special right is hereby reserved to the President of the Philippines, in times of war, rebellion, public peril, calamity, emergency, disaster or disturbance of peace and order, to temporarily take over and operate the stations or facilities of the grantee, to temporarily suspend the operation of any station or facility in the interest of public safety, security and public welfare, or to authorize the temporary use and operation thereof by any agency of the government, upon due compensation to the grantee for the use of said stations, or facilities during the period when they shall be operated.
+
+ The radio spectrum is a finite resource that is a part of the national patrimony and the use thereof is a privilege conferred upon the grantee by the State and may be withdrawn anytime, after due process.
+
+ **Section 6.***Term of Franchise.*- This franchise shall be for a term of twenty-five (25) years from the date of effectivity of this Act, unless sooner revoked or cancelled. This franchise shall be deemed*ipso facto*revoked in the event the grantee fails to comply with any of the following conditions:
+
+ a. Commence operations within one (1) year from the approval of its permit by the National Telecommunications Commission; b. Operate continuously for two (2) years; and c. Commence operations within three (3) years from the effectivity of this Act. **Section 7.***Acceptance and Compliance.*- Acceptance of this franchise shall be given in writing within sixty (60) days from the effectivity of this Act. Upon giving, such acceptance, the grantee shall exercise the privileges granted under this Act. Non-acceptance shall render the franchise void.
+
+ **Section 8.***Bond.*- The grantee shall file a bond issued in favor of the National Telecommunications Commission, which shall determine the amount, to guarantee the compliance with and fulfillment of the conditions under which this franchise is granted. If after three (3) years from the date of the approval of its permit by the Commission, the grantee shall have fulfilled the same, the bond shall be cancelled by the Commission. Otherwise, the bond shall be forfeited in favor of the government and the franchise*ipso facto*revoked.
+
+ **Section 9.***Tax Provisions.*- The grantee, its successors or assigns, shall be liable to pay the same taxes on their real estate, buildings, and personal property, exclusive of this franchise, as other persons or corporations are now or hereafter may be required by law to pay. In addition thereto, the grantee, its successors or assigns, shall pay the value-added tax under Republic Act No. 7716, as amended, on all gross receipts of its radio/television business transacted under this franchise:*Provided,*That the grantee, its successors or assigns, shall continue to be liable for income taxes payable under Title II of the National Internal Revenue Code pursuant to Section 2 of Executive Order No. 72, unless the latter enactment is amended or repealed, in which case the amendment or repeal shall be applicable thereto.
+
+ The grantee shall file the return with, and pay the taxes due thereon the Commissioner of Internal Revenue or his duly authorized representatives in accordance with the National Internal Revenue Code and the return shall be subject to audit by the Bureau of Internal Revenue.
+
+ **Section 10.***Self-regulation by and Undertaking of Grantee.*- The grantee shall not require any previous censorship of any speech, play, act or scene, or other matter to be broadcast from its stations:*Provided,*That the grantee, during any broadcast shall cut off from the air the speech, play, act or scene, or other matter being broadcast if the tendency thereof is to propose and/or incite treason, rebellion or sedition; or the language used therein or the theme thereof is indecent or immoral; and willful failure to do so shall constitute a valid cause for the cancellation of this franchise.

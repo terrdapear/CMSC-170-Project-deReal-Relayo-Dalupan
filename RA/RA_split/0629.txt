@@ -1,0 +1,155 @@
+
+ **Section 1.** Item (73), page 737, subparagraph aj, for Mountain Province, paragraph b, Title A, Section three of Republic Act Numbered Nineteen hundred is amended to read as follows:
+
+ > ""(73) Construction and completion of 3 rooms, Mompolia Barrio School, Burnay ₱11,000.00""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	An amendment to Item (73), page 737, subparagraph aj, of Republic Act No. 1900, modifying the construction and completion of three rooms at Mompolia Barrio School in Mountain Province, with a cost of ₱11,000.00, and the act takes effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Item (73), page 737, subparagraph aj, for Mountain Province, paragraph b, Title A, Section Three of Republic Act No. 1900 is amended to read: \""(73) Construction and completion of 3 rooms, Mompolia Barrio School, Burnay \u20b111,000.00\"".""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2722	June 19, 1960			To amend Republic Act No. 1900 regarding the construction of educational facilities in Mountain Province.	"[""Amendment to Item (73) of Republic Act No. 1900 to construct 3 rooms at Mompolia Barrio School, costing \u20b111,000.00""]"	Republic Act No. 1900	"[""Amendment"", ""Education"", ""Construction"", ""Mountain Province""]"	"[""Republic Act 2722"", ""Item 73"", ""Mompolia Barrio School"", ""Mountain Province"", ""construction"", ""rooms"", ""\u20b111,000"", ""1960""]"
+repacts:datasets/markdown/repacts/1960/ra_2723_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2723_1960.md	ra_2723_1960	An Act Providing for the Maintenance and Operation of a Hospital in the Municipality of Sta. Cruz, Province of Marinduque, and Authorizing the Appropriation of the Sum of Fifty Thousand Pesos for the Purpose	"**REPUBLIC ACT No. 2723**
+
+ **An Act Providing for the Maintenance and Operation of a Hospital in the Municipality of Sta. Cruz, Province of Marinduque, and Authorizing the Appropriation of the Sum of Fifty Thousand Pesos for the Purpose**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be, under the Bureau of Medical Services, a twenty-five-bed general hospital in the Municipality of Sta. Cruz, Province of Marinduque, to be known as the Sta. Cruz Hospital. The site for the said hospital shall be provided by the Municipal Council of the Municipality of Sta. Cruz in consultation with the Director of Medical Services.
+
+ **Section 2.** The Secretary of Health shall promulgate such rules and regulations as may be necessary to carry into effect the purpose of this Act.
+
+ **Section 3.** The sum of fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the maintenance and operation of the said hospital during the fiscal year ending June thirty nineteen hundred sixty-one: *Provided,* That no amount herein authorized to be appropriated will be released unless the Secretary of Health certifies that a suitable hospital building is available. Such sums as may be necessary for its maintenance and operation in subsequent years shall be included in the annual General Appropriations Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	An act establishing a 25-bed general hospital in Sta. Cruz, Marinduque, and authorizing the appropriation of fifty thousand pesos for its maintenance and operation.	"[{""title"": ""Section 1."", ""summary"": ""Establishes a 25-bed general hospital in Sta. Cruz under the Bureau of Medical Services, with site provided by the municipal council in consultation with the Director of Medical Services.""}, {""title"": ""Section 2."", ""summary"": ""Mandates the Secretary of Health to promulgate necessary rules and regulations to implement the act.""}, {""title"": ""Section 3."", ""summary"": ""Authorizes the appropriation of fifty thousand pesos for the hospital\u2019s maintenance and operation for the fiscal year ending June 30, 1961, subject to certification of a suitable building by the Secretary of Health.""}, {""title"": ""Section 4."", ""summary"": ""States that the act takes effect upon approval.""}]"	2723	June 19, 1960			To provide for the maintenance and operation of a hospital in Sta. Cruz, Marinduque.	"[""Authorizes fifty thousand pesos for hospital maintenance and operation"", ""Requires Secretary of Health certification of suitable building"", ""Establishes a 25-bed general hospital under the Bureau of Medical Services""]"		"[""Health"", ""Hospitals"", ""Marinduque""]"	"[""Sta. Cruz"", ""Hospital"", ""Fifty Thousand Pesos"", ""National Treasury""]"
+repacts:datasets/markdown/repacts/1960/ra_2724_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2724_1960.md	ra_2724_1960	An Act to Amend Certain Items in Republic Act Numbered Sixteen Hundred and Thirteen	"**REPUBLIC ACT No. 2724**
+
+ **An Act to Amend Certain Items in Republic Act Numbered Sixteen Hundred and Thirteen**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Items twenty-two and forty-two of paragraph g, Section two, page 166 of Republic Act Numbered Sixteen hundred and thirteen are amended to read as follows:
+
+ > ""22. Lungsodaan Barrio School building, Hinundaya ₱2,000.00
+>
+>  ""42. Shop building, Triana Elementary School, Limasawa Island Malitbo 4,000.00""
+>
+>  Section 2. The name and location of Project No. B-273.34, Title B, Appendix A, page 534-A, Republic Act Numbered Sixteen hundred and thirteen are amended to read as follows:
+>
+>  ""Otama-Biasong feeder road, Hinunangan""
+
+ **Section 3.** The ""Remarks"" on Project No. C-000.1 (27) Title C, Appendix A, page 894-A of Republic Act Numbered Sixteen hundred and thirteen are amended to read as follows:
+
+ > ""Provided one well each be drilled at Abgao Pananawan, Tam-is, Guadalupe, Ibarra, Maria Clara, Mantahan, Laboon, Tagnipa, Isagani and Balilahay, Municipality of Maasin; San Roque, Mabini and Manaya, Municipality of Macrohon; Sacob (Triana), Sto. Rosario (Burgos), Lungsodaan (Burgos), Concepcion school site (Concepcion), Abgao, Timba I, Magata (San Isidro), Tinago (Banday), Maanyag (Banday), and Maslog, Municipality of Malitbog; Himbangan, Municipality of St. Bernard; and two wells in Paco, Maasin.""
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Legislation	Republic Act No. 2724 amends specific items in RA 1613 concerning project details and remarks, effective June 19, 1960.	"[{""title"": ""Section 1"", ""summary"": ""Amends items 22 and 42 of paragraph g, Section two, page 166 of RA 1613 to specify new amounts and locations for the Lungsodaan Barrio School building and Shop building in Triana Elementary School.""}, {""title"": ""Section 2"", ""summary"": ""Amends the name and location of Project No. B-273.34 to \""Otama-Biasong feeder road, Hinunangan\"".""}, {""title"": ""Section 3"", ""summary"": ""Amends the remarks for Project No. C-000.1 (27), Title C, Appendix A, page 894-A of RA 1613 to list new well locations and details.""}, {""title"": ""Section 4"", ""summary"": ""States that the Act shall take effect upon its approval.""}]"	2724	June 19, 1960			To amend specific items in RA 1613 related to project locations and facilities.	"[""Amendment of items 22 and 42 of RA 1613"", ""Modification of Project B-273.34 details"", ""Modification of remarks for Project C-000.1""]"	Republic Act No. 1613	"[""Amendment"", ""RA 1613"", ""Infrastructure"", ""Roads"", ""Water wells""]"	"[""RA 2724"", ""RA 1613"", ""Lungsodaan"", ""Triana Elementary School"", ""Hinundaya"", ""Otama-Biasong feeder road"", ""Abgao"", ""Maasin"", ""Macrohon"", ""Malitbog""]"
+repacts:datasets/markdown/repacts/1960/ra_2725_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2725_1960.md	ra_2725_1960	An Act Providing for the Maintenance and Operation of a Hospital in the Municipality of Mlang, Province of Cotabato, to be Known as the Mlang Hospital, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 2725**
+
+ **An Act Providing for the Maintenance and Operation of a Hospital in the Municipality of Mlang, Province of Cotabato, to be Known as the Mlang Hospital, and Authorizing the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be under the direct supervision of the Director of Medical Services, twenty-five-bed general hospital in the Municipality of Mlang, Province of Cotabato, to be known as the Mlang Hospital. The site for the said hospital shall be determined by the Municipal Council of the Municipality of Mlang, in consultation with the Director of Medical Services.
+
+ **Section 2.** The Secretary of Health shall promulgate rules and regulations which may be necessary to carry into effect the purpose of this Act.
+
+ **Section 3.** The sum of fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of the said hospital for the fiscal year nineteen hundred sixty-one: *Provided,* That no amount herein authorized to be appropriated will be released unless the Secretary of Health certifies that a suitable hospital building is available. Such sum as may be necessary for its operation and maintenance in subsequent years shall be included in the annual General Appropriations Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	This act establishes a 25-bed general hospital in Mlang, Cotabato, authorizes the appropriation of fifty thousand pesos for its operation and maintenance, and empowers the Secretary of Health to promulgate necessary rules.	"[{""title"": ""Section 1"", ""summary"": ""Establishes a 25-bed general hospital in Mlang, under the supervision of the Director of Medical Services, with the site determined by the Municipal Council in consultation with the Director.""}, {""title"": ""Section 2"", ""summary"": ""Authorizes the Secretary of Health to promulgate rules and regulations necessary to implement the act.""}, {""title"": ""Section 3"", ""summary"": ""Appropriates fifty thousand pesos for the hospital\u2019s operation and maintenance for FY 1961, subject to certification of a suitable building by the Secretary of Health; future amounts to be included in the General Appropriations Act.""}, {""title"": ""Section 4"", ""summary"": ""Specifies that the act takes effect upon approval.""}]"	2725	June 19, 1960			To provide for the maintenance and operation of a hospital in Mlang, Cotabato, and to authorize necessary funds for its operation.	"[""Establishment of a 25-bed general hospital"", ""Authorization of fifty thousand pesos for operation and maintenance"", ""Empowerment of Secretary of Health to promulgate rules"", ""Funds to be released upon certification of suitable building""]"		"[""Healthcare"", ""Hospital"", ""Local Government"", ""Health Services""]"	"[""hospital"", ""Mlang"", ""Cotabato"", ""maintenance"", ""operation"", ""funds"", ""Secretary of Health"", ""National Treasury""]"
+repacts:datasets/markdown/repacts/1960/ra_2726_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2726_1960.md	ra_2726_1960	An Act Authorizing the Appropriation of the Sum of Fifty Thousand Pesos for the Maintenance and Operation of a Public Hospital in the Municipality of Kapatagan, Province of Lanao	"**REPUBLIC ACT No. 2726**
+
+ **An Act Authorizing the Appropriation of the Sum of Fifty Thousand Pesos for the Maintenance and Operation of a Public Hospital in the Municipality of Kapatagan, Province of Lanao**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be in the Municipality of Kapatagan, Province of Lanao, a twenty-five-bed general hospital, to be known as the Kapatagan Public Hospital.
+
+ **Section 2.** The Secretary of Health shall promulgate such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The sum of fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the maintenance and operation of said public hospital during the fiscal year nineteen hundred sixty-one: *Provided,* That no amount herein appropriated will be released unless the Secretary of Health certifies that a suitable hospital building is available. Such sums as may be necessary for its maintenance and operation in subsequent years shall be included in the annual General Appropriations Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Public Health	Authorizes appropriation of 50,000 pesos for the maintenance and operation of the Kapatagan Public Hospital, establishes a 25-bed general hospital, and sets conditions for the release of funds.	"[{""title"": ""Section 1"", ""summary"": ""Establishes a 25-bed general hospital in Kapatagan, Province of Lanao, to be known as the Kapatagan Public Hospital.""}, {""title"": ""Section 2"", ""summary"": ""Mandates the Secretary of Health to promulgate necessary rules and regulations to carry out the purpose of the Act.""}, {""title"": ""Section 3"", ""summary"": ""Appropriates 50,000 pesos for maintenance and operation of the hospital, with release contingent on the Secretary of Health certifying a suitable building; future maintenance costs to be included in the General Appropriations Act.""}, {""title"": ""Section 4"", ""summary"": ""The Act takes effect upon its approval.""}]"	2726	June 19, 1960			Provide funding for the establishment and operation of a public hospital in Kapatagan, Lanao.	"[""Appropriation of 50,000 pesos for maintenance and operation of Kapatagan Public Hospital"", ""Establishment of a 25-bed general hospital"", ""Secretary of Health must certify suitable building before release of funds"", ""Funds to be included in the annual General Appropriations Act""]"		"[""Health"", ""Hospital"", ""Public Health"", ""Appropriation"", ""Lanao""]"	"[""public hospital"", ""Kapatagan"", ""Lanao"", ""appropriation"", ""maintenance"", ""operation"", ""Secretary of Health""]"
+repacts:datasets/markdown/repacts/1960/ra_2727_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2727_1960.md	ra_2727_1960	An Act to Provide for a Public Hospital in the City of Iligan and to Authorize the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 2727**
+
+ **An Act to Provide for a Public Hospital in the City of Iligan and to Authorize the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be in the City of Iligan a public hospital, to be known as the Iligan City Hospital. The site of said hospital shall be determined by a board of five members, namely, the Director of Health Services or his duly authorized representative who shall act as chairman, the City Mayor, the City Engineer, and two members of the Municipal Board of said city to be designated by the City Mayor.
+
+ **Section 2.** The sum of one hundred fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of said hospital during the fiscal year nineteen hundred sixty-one. Such sums as may be necessary for its operation and maintenance in subsequent years shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Health	Establishes Iligan City Hospital and authorizes funding for its operation and maintenance, with appropriation of ₱150,000 for FY1961.	"[{""title"": ""Section 1: Hospital Establishment"", ""summary"": ""Establishes the Iligan City Hospital and defines the board responsible for determining its site.""}, {""title"": ""Section 2: Funding Authorization"", ""summary"": ""Authorizes \u20b1150,000 for operation and maintenance in FY1961, with future years included in the General Appropriations Act.""}, {""title"": ""Section 3: Effectivity"", ""summary"": ""The Act takes effect upon approval.""}]"	2727	June 19, 1960			To establish a public hospital and provide financial resources for its operation and maintenance.	"[""Establishment of Iligan City Hospital"", ""Composition of the site-determining board"", ""Authorization of \u20b1150,000 for FY1961 operations"", ""Provision for future funding in the General Appropriations Act"", ""Effectivity upon approval""]"		"[""Health"", ""Hospital"", ""Funding"", ""Iligan City""]"	"[""public hospital"", ""Iligan City"", ""funding"", ""National Treasury"", ""General Appropriations Act""]"
+repacts:datasets/markdown/repacts/1960/ra_2728_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2728_1960.md	ra_2728_1960	An Act to Establish an Emergency Hospital in the Municipality of General Santos, Province of Cotabato, to be Known as the General Santos Emergency Hospital, and to Authorize the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 2728**
+
+ **An Act to Establish an Emergency Hospital in the Municipality of General Santos, Province of Cotabato, to be Known as the General Santos Emergency Hospital, and to Authorize the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the direct supervision of the Director of Medical Services, an emergency hospital in the Municipality of General Santos, Province of Cotabato, to be known as the General Santos Emergency Hospital. The site for the said hospital shall be determined by the Municipal Council of the Municipality of General Santos in consultation with the Director of Medical Services.
+
+ **Section 2.** The Secretary of Health shall promulgate such rules and regulations as may be necessary to carry into effect the purpose of this Act.
+
+ **Section 3.** The sum of fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of the said hospital for the fiscal year nineteen hundred sixty-one. Such sum as may be necessary for its operation and maintenance in subsequent years shall be included in the annual General Appropriations Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	The act establishes an emergency hospital in General Santos, authorizes the appropriation of funds for its creation and operation, mandates the Secretary of Health to issue necessary rules, and specifies that the act takes effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Establishes the General Santos Emergency Hospital under the supervision of the Director of Medical Services; the site is to be determined by the Municipal Council in consultation with the Director.""}, {""title"": ""Section 2"", ""summary"": ""Requires the Secretary of Health to promulgate rules and regulations necessary to carry out the purpose of the act.""}, {""title"": ""Section 3"", ""summary"": ""Appropriates fifty thousand pesos for the fiscal year 1961 for the establishment, operation, and maintenance of the hospital; future funds to be included in the General Appropriations Act.""}, {""title"": ""Section 4"", ""summary"": ""States that the act shall take effect upon its approval.""}]"	2728	June 19, 1960			To establish an emergency hospital in General Santos and authorize the appropriation of funds for its construction, operation, and maintenance.	"[""Establishment of the General Santos Emergency Hospital"", ""Appropriation of 50,000 pesos for fiscal year 1961"", ""Mandate for the Secretary of Health to promulgate necessary rules"", ""Act takes effect upon approval""]"		"[""Health"", ""Hospital"", ""Emergency"", ""General Santos"", ""Funding""]"	"[""Emergency Hospital"", ""General Santos"", ""Health Services"", ""Appropriation"", ""Medical Services""]"
+repacts:datasets/markdown/repacts/1960/ra_2729_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2729_1960.md	ra_2729_1960	An Act Converting the Sitio of Magapo, Municipality of Tabaco, Province of Albay, into a Barrio of Said Municipality	"**REPUBLIC ACT No. 2729**
+
+ **An Act Converting the Sitio of Magapo, Municipality of Tabaco, Province of Albay, into a Barrio of Said Municipality**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Magapo, Municipality of Tabaco, Province of Albay, is converted into a barrio of said municipality, to be known as the barrio of Magapo.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	Converts the sitio of Magapo in Tabaco, Albay into a barrio, effective upon approval.	"[{""title"": ""Section 1."", ""summary"": ""The sitio of Magapo, Municipality of Tabaco, Province of Albay, is converted into a barrio of said municipality, to be known as the barrio of Magapo.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2729	June 19, 1960			To convert the sitio of Magapo into a barrio within the municipality of Tabaco, Albay.	"[""Conversion of the sitio of Magapo into a barrio."", ""Act takes effect upon approval.""]"		"[""magapo"", ""tabaco"", ""albay"", ""sitio"", ""barrio""]"	"[""conversion"", ""sitio"", ""barrio"", ""municipality"", ""Albay""]"
+repacts:datasets/markdown/repacts/1960/ra_2730_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2730_1960.md	ra_2730_1960	An Act Providing for the Maintenance and Operation of a General Hospital in the Municipality of Escalante, Province of Negros Occidental, and Authorizing the Appropriation of the Sum of Fifty Thousand Pesos for the Purpose	"**REPUBLIC ACT No. 2730**
+
+ **An Act Providing for the Maintenance and Operation of a General Hospital in the Municipality of Escalante, Province of Negros Occidental, and Authorizing the Appropriation of the Sum of Fifty Thousand Pesos for the Purpose**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be, under the Bureau of Medical Services, a twenty-five-bed general hospital in the Municipality of Escalante, Province of Negros Occidental, to be known as the Occidental Negros North General Hospital. The site for the said hospital shall be provided by the Municipal Council of the Municipality of Escalante in consultation with the Director of Medical Services.
+
+ **Section 2.** The Secretary of Health shall promulgate such rules and regulations as may be necessary to carry into effect the purpose of this Act.
+
+ **Section 3.** The sum of fifty thousand pesos is authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the maintenance and operation of said hospital during the fiscal year ending June thirty, nineteen hundred and sixty-one: *Provided,* That no amount herein authorized to be appropriated will be released unless the Secretary of Health certifies that a suitable hospital building is available. In subsequent years, the operation and maintenance of said hospital shall be financed in accordance with Republic Act Numbered Nineteen hundred and thirty-nine.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Health	An act providing for the establishment, maintenance, and operation of a 25‑bed general hospital in Escalante, Negros Occidental, authorizing appropriation of 50,000 pesos for its operation.	"[{""title"": ""Section 1"", ""summary"": ""Establishes a 25\u2011bed general hospital in Escalante, known as Occidental Negros North General Hospital, to be operated under the Bureau of Medical Services.""}, {""title"": ""Section 2"", ""summary"": ""The Secretary of Health shall promulgate rules and regulations necessary for the implementation of the act.""}, {""title"": ""Section 3"", ""summary"": ""Authorizes the appropriation of fifty thousand pesos for the maintenance and operation of the hospital, with future financing pursuant to Republic Act No. 1939.""}, {""title"": ""Section 4"", ""summary"": ""The act shall take effect upon its approval.""}]"	2730	June 19, 1960			To provide for the establishment, maintenance, and operation of a general hospital in Escalante, Negros Occidental, and to authorize appropriation of funds for its operation.	"[""Establishment of a 25\u2011bed general hospital in Escalante"", ""Secretary of Health to promulgate necessary rules and regulations"", ""Appropriation of fifty thousand pesos for maintenance and operation"", ""Act becomes effective upon approval""]"		"[""Health"", ""Hospital"", ""Negros Occidental"", ""Escalante"", ""Public Health""]"	"[""General Hospital"", ""Escalante"", ""Negros Occidental"", ""Appropriation"", ""Secretary of Health"", ""Bureau of Medical Services"", ""National Treasury""]"
+repacts:datasets/markdown/repacts/1960/ra_2731_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2731_1960.md	ra_2731_1960	An Act to Provide for the Maintenance and Operation of a Hospital in the Municipality of Janiuay, Province of Iloilo, to be Known as the Janiuay Hospital, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 2731**
+
+ **An Act to Provide for the Maintenance and Operation of a Hospital in the Municipality of Janiuay, Province of Iloilo, to be Known as the Janiuay Hospital, and Authorizing the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be, under the direct supervision of the Director of Medical Services, a twenty-five-bed general hospital in the Municipality of Janiuay, Province of Iloilo, to be known as the Janiuay Hospital. The site for the said hospital shall be determined by the Municipal Council of the Municipality of Janiuay in consultation with the Director of Medical Services.
+
+ **Section 2.** The Secretary of Health shall promulgate such rules and regulations as may be necessary to carry into effect the purpose of this Act.
+
+ **Section 3.** The sum of fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of the said hospital for the fiscal year nineteen hundred sixty-one: *Provided,* That no amount herein appropriated will be released unless the Secretary of Health certifies that a suitable hospital building is available. Such sums as may be necessary for its operation and maintenance in subsequent years shall be included in the annual General Appropriations Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	This Republic Act authorizes the establishment of a 25-bed general hospital in Janiuay, Iloilo, and appropriates funds for its operation and maintenance, requiring regulatory provisions by the Secretary of Health and effective upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Establishes a 25-bed general hospital in Janiuay, Iloilo, under the supervision of the Director of Medical Services, with the site determined by the Municipal Council in consultation with the Director.""}, {""title"": ""Section 2."", ""summary"": ""Mandates the Secretary of Health to promulgate necessary rules and regulations to implement the Act.""}, {""title"": ""Section 3."", ""summary"": ""Appropriates fifty thousand pesos for the operation and maintenance of the hospital for the fiscal year 1961, contingent on certification of a suitable building, and allows for future appropriations.""}, {""title"": ""Section 4."", ""summary"": ""The Act shall take effect upon its approval.""}]"	2731	1960-06-19			Provide for the maintenance and operation of a hospital in Janiuay, Iloilo, and authorize appropriation of funds.	"[""Establishment of a 25-bed general hospital"", ""Appropriation of 50,000 pesos for operation and maintenance"", ""Conditions requiring Secretary of Health certification"", ""Authority to promulgate rules and regulations"", ""Effective upon approval""]"		"[""Health"", ""Hospital"", ""Janiuay"", ""Iloilo"", ""Republic Act""]"	"[""Hospital"", ""Maintenance"", ""Operation"", ""Appropriation"", ""Janiuay"", ""Iloilo""]"

@@ -1,0 +1,152 @@
+repacts:datasets/markdown/repacts/1965/ra_4276_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4276_1965.md	ra_4276_1965	REPUBLIC ACT No. 4276 An Act Converting Romblon Maternity and Childrens Hospital in the Province of Romblon into a General Hospital to be Known as Romblon General Hospital, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 4276**
+
+ An Act Converting Romblon Maternity and Childrens Hospital in the Province of Romblon into a General Hospital to be Known as Romblon General Hospital, and Authorizing the Appropriation of Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The Romblon Maternity and Childrens Hospital in the Province of Romblon is hereby converted into a general hospital to be known as Romblon General Hospital.
+
+ **Section 2.** The sum of one hundred fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the conversion, operation and maintenance of said hospital during the fiscal year nineteen hundred sixty-six. Thereafter, such sum as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1965.
+"	success	Republic Act	This Act converts Romblon Maternity and Childrens Hospital into Romblon General Hospital and authorizes the appropriation of funds for its conversion, operation, and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""The Romblon Maternity and Childrens Hospital is hereby converted into a general hospital to be known as Romblon General Hospital.""}, {""title"": ""Section 2."", ""summary"": ""An amount of one hundred fifty thousand pesos is authorized to be appropriated for the conversion, operation, and maintenance of the hospital during FY 1966, with the possibility of additional funds thereafter.""}, {""title"": ""Section 3."", ""summary"": ""The Act shall take effect upon its approval.""}]"	4276	June 19, 1965			To convert the Romblon Maternity and Childrens Hospital into a general hospital and authorize the appropriation of funds for its conversion, operation, and maintenance.	"[""Conversion of Romblon Maternity and Childrens Hospital into Romblon General Hospital"", ""Authorization of \u20b1150,000.00 for conversion, operation, and maintenance of the hospital during FY 1966"", ""Provision for future appropriations for operation and maintenance"", ""Effectivity upon approval""]"		"[""Hospital"", ""Romblon"", ""Healthcare"", ""Public Hospital""]"	"[""Romblon"", ""Maternity"", ""Children's Hospital"", ""General Hospital"", ""Appropriation"", ""Conversion"", ""Philippines""]"
+repacts:datasets/markdown/repacts/1965/ra_4277_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4277_1965.md	ra_4277_1965	Naming the Emergency Hospital in the Municipality of Ligao, Province of Albay, to Pio Duran Memorial Hospital	"**REPUBLIC ACT No. 4277**
+
+ An Act Naming the Emergency Hospital in the Municipality of Ligao, Province of Albay, to Pio Duran Memorial Hospital
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The emergency hospital in the Municipality of Ligao, Province of Albay, shall hereafter be known as the Pio Duran Memorial Hospital.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1965.
+"	success	Republic Act	An Act naming the emergency hospital in Ligao, Albay as the Pio Duran Memorial Hospital.	"[{""title"": ""Section 1."", ""summary"": ""The emergency hospital in the Municipality of Ligao, Province of Albay, shall be known as the Pio Duran Memorial Hospital.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	4277	June 19, 1965			To name the emergency hospital in Ligao as the Pio Duran Memorial Hospital.	"[""The emergency hospital in Ligao, Albay shall be named the Pio Duran Memorial Hospital."", ""The Act shall take effect upon its approval.""]"		"[""hospital"", ""Albay"", ""Republic Act""]"	"[""emergency hospital"", ""Pio Duran Memorial Hospital"", ""Ligao"", ""Albay""]"
+repacts:datasets/markdown/repacts/1965/ra_4278_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4278_1965.md	ra_4278_1965	An Act Granting Francisca R. Justiniani a Franchise to Install, Maintain and Operate an Electric Light, Heat and Power System in the Municipality of Plaridel, Province of Bulacan	"**REPUBLIC ACT No. 4278**
+
+ An Act Granting Francisca R. Justiniani a Franchise to Install, Maintain and Operate an Electric Light, Heat and Power System in the Municipality of Plaridel, Province of Bulacan
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Subject to the terms and conditions established in Act Numbered Thirty-six hundred and thirty-six, as amended by Commonwealth Act Numbered One hundred and thirty-two, and to the provisions of the Constitution, there is granted to Francisca R. Justiniani, for a period of twenty-five years from the approval of this Act, the right, privilege and authority to install, maintain and operate an electric light, heat and power system for the purpose of generating and distributing electric light, heat and/or power for sale within the Municipality of Plaridel, Province of Bulacan.
+
+ **Section 2.** In the event that the grantee shall purchase and secure energy and power from the National Power Corporation, the latter is hereby authorized to negotiate and transact for the benefit and in behalf of the public consumers with reference to rates.
+
+ **Section 3.** It is expressly provided that in the event the Government shall desire to maintain and operate for itself the system and enterprise herein authorized, the grantee shall surrender her franchise and will turn over to the Government all serviceable equipment therein, at cost, less reasonable depreciation.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1965.
+"	success	Republic Act	This law grants Francisca R. Justiniani a 25‑year franchise to install, maintain and operate an electric light, heat and power system in Plaridel, Bulacan. It authorizes the National Power Corporation to supply energy, allows the government to take over the system if desired, and becomes effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Grants a 25\u2011year franchise to Francisca R. Justiniani for installing, maintaining, and operating an electric light, heat, and power system in Plaridel, Bulacan, subject to prior acts and the Constitution.""}, {""title"": ""Section 2"", ""summary"": ""Authorizes the National Power Corporation to negotiate and transact energy supply on behalf of public consumers.""}, {""title"": ""Section 3"", ""summary"": ""Provides that if the government wishes to operate the system, the grantee must surrender the franchise and turn over equipment.""}, {""title"": ""Section 4"", ""summary"": ""The Act shall take effect upon its approval.""}]"	4278	1965-06-19			To grant a franchise for the installation and operation of an electric system in Plaridel, Bulacan.	"[""Granting a 25\u2011year franchise to Francisca R. Justiniani"", ""Authorizing NGC to supply energy"", ""Allowing government takeover of the system"", ""Effectivity upon approval""]"	Act Numbered Thirty‑six hundred and thirty‑six, Commonwealth Act Numbered One hundred and thirty‑two	"[""franchise"", ""electricity"", ""public utility"", ""municipality"", ""Bulacan""]"	"[""franchise"", ""electricity"", ""power system"", ""Bulacan"", ""Plaridel""]"
+repacts:datasets/markdown/repacts/1965/ra_4279_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4279_1965.md	ra_4279_1965	An Act to Convert the Maigo Trade School in the Municipality of Maigo, Province of Lanao del Norte, into a Regional School of Arts and Trades of Secondary and Collegiate Levels, and to Authorize the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 4279**
+
+ An Act to Convert the Maigo Trade School in the Municipality of Maigo, Province of Lanao del Norte, into a Regional School of Arts and Trades of Secondary and Collegiate Levels, and to Authorize the Appropriation of Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The Maigo Trade School in Maigo, Lanao del Norte, is hereby converted into a regional school of arts and trades of the Zamboanga City Regional School of Arts and Trades type, to be known as the Maigo School of Arts and Trades. The said school shall be under the supervision of the Bureau of Vocational Education and subject to the provisions of the School Law. Courses of secondary and collegiate levels shall be offered in the school.
+
+ **Section 2.** The sum of one hundred thousand pesos, or so much thereof as may be necessary, is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of the Maigo School of Arts and Trades during the school year nineteen hundred sixty-five-sixty-six. Thereafter, such sums as may needed for the same purpose shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1965.
+"	success	Education	Republic Act No. 4279 converts Maigo Trade School into a regional school of arts and trades, authorizes appropriation of funds for its operation, and specifies its effective date.	"[{""title"": ""Section 1"", ""summary"": ""Converts Maigo Trade School into the Maigo School of Arts and Trades under the supervision of the Bureau of Vocational Education and subject to the School Law.""}, {""title"": ""Section 2"", ""summary"": ""Appropriates one hundred thousand pesos for operation and maintenance during the 1965-1966 school year, with future sums included in the General Appropriations Act.""}, {""title"": ""Section 3"", ""summary"": ""Specifies that the act takes effect upon its approval.""}]"	4279	June 19, 1965			To establish a regional school of arts and trades in Maigo and provide for its funding.	"[""Conversion of Maigo Trade School to Maigo School of Arts and Trades"", ""Establishment of supervisory structure under Bureau of Vocational Education"", ""Authorization of appropriation of funds for operation and maintenance"", ""Effective date upon approval""]"		"[""Education"", ""Vocational"", ""School Conversion""]"	"[""Maigo Trade School"", ""Maigo School of Arts and Trades"", ""Regional School of Arts and Trades"", ""Lanao del Norte"", ""Bureau of Vocational Education"", ""School Law"", ""appropriation of funds""]"
+repacts:datasets/markdown/repacts/1965/ra_4280_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4280_1965.md	ra_4280_1965	An Act Granting Juan G. Galinato a Franchise to Install, Maintain and Operate Electric Light, Heat and Power System in the Municipality of Paoay, Province of Ilocos Norte	"**REPUBLIC ACT No. 4280**
+
+ An Act Granting Juan G. Galinato a Franchise to Install, Maintain and Operate Electric Light, Heat and Power System in the Municipality of Paoay, Province of Ilocos Norte
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Subject to the terms and conditions established in Act Numbered Thirty-six hundred and thirty-six, as amended by Commonwealth Act Numbered One hundred and thirty-two, and to the provisions of the Constitution, there is granted to Juan G. Galinato, for a period of twenty-five years from the approval of this Act, the right, privilege and authority to install, maintain and operate electric light, heat and power system for the purpose of generating and distributing electric light, heat and/or power for sale within the Municipality of Paoay, Province of Ilocos Norte.
+
+ **Section 2.** In the event that the grantee shall purchase and secure electric energy and power from the National Power Corporation, the latter is hereby authorized to negotiate and transact for the benefit and in behalf of the public consumers with reference to rates.
+
+ **Section 3.** It is expressly provided that in the event the Government shall desire to maintain and operate for itself the system and enterprise herein authorized, the grantee shall surrender his franchise and turn over to the Government all serviceable equipment therein, at cost, less reasonable depreciation.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1965.
+"	success	Republic Act	This Act grants a 25-year franchise to Juan G. Galinato to install, maintain, and operate an electric light, heat, and power system in Paoay, Ilocos Norte, allowing procurement from the National Power Corporation and stipulating surrender of the franchise if the government assumes operation.	"[{""title"": ""Section 1."", ""summary"": ""Grants a 25-year franchise to Juan G. Galinato for installation, maintenance, and operation of electric system in Paoay.""}, {""title"": ""Section 2."", ""summary"": ""Authorizes the National Power Corporation to negotiate and transact rates on behalf of public consumers if the grantee purchases energy.""}, {""title"": ""Section 3."", ""summary"": ""Mandates surrender of franchise and transfer of equipment to the government if it decides to operate the system.""}, {""title"": ""Section 4."", ""summary"": ""Act takes effect upon approval.""}]"	4280	June 19, 1965			To grant a franchise for the installation, maintenance, and operation of an electric light, heat, and power system in Paoay, Ilocos Norte, and to establish procurement and surrender provisions.	"[""Grants a 25-year franchise to Juan G. Galinato for electric system in Paoay."", ""Allows the National Power Corporation to negotiate rates for energy procurement."", ""Requires franchise surrender and equipment transfer if government takes over operation."", ""Act becomes effective upon approval.""]"	Act 3636, as amended by CA 132.	"[""Electricity"", ""Franchise"", ""Public Utility"", ""Ilocos Norte"", ""Paoay""]"	"[""electricity"", ""franchise"", ""power system"", ""Ilocos Norte"", ""Juan G. Galinato"", ""National Power Corporation"", ""municipality"", ""Paoay""]"
+repacts:datasets/markdown/repacts/1965/ra_4281_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4281_1965.md	ra_4281_1965	An Act Providing for the Establishment of a School of Fisheries in the Municipality of Bolinao, Province of Pangasinan, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 4281**
+
+ An Act Providing for the Establishment of a School of Fisheries in the Municipality of Bolinao, Province of Pangasinan, and Authorizing the Appropriation of Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the supervision of the Director of Vocational Education, a school of fisheries in the Municipality of Bolinao, Province of Pangasinan, to be known as Bolinao School of Fisheries.
+
+ **Section 2.** The Secretary of Education shall issue such rules and regulations as may be necessary to carry out the provisions of this Act.
+
+ **Section 3.** The sum of two hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said school during the fiscal year nineteen hundred sixty-five. Thereafter, such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriation Acts.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1965.
+"	success	Education	Republic Act No. 4281 establishes a school of fisheries in Bolinao, Pangasinan, and authorizes the appropriation of funds for its establishment, operation, and maintenance.	"[{""title"": ""Section 1"", ""summary"": ""Establishes a school of fisheries in Bolinao under the supervision of the Director of Vocational Education.""}, {""title"": ""Section 2"", ""summary"": ""The Secretary of Education shall issue rules and regulations necessary to carry out the provisions of the Act.""}, {""title"": ""Section 3"", ""summary"": ""Appropriates two hundred thousand pesos for the establishment, operation, and maintenance of the school for the fiscal year 1965, with subsequent funding to be included in annual General Appropriation Acts.""}, {""title"": ""Section 4"", ""summary"": ""The Act shall take effect upon its approval.""}]"	4281	June 19, 1965			To establish a school of fisheries in Bolinao, Pangasinan and authorize appropriation of funds for its establishment, operation, and maintenance.	"[""Establishment of a school of fisheries"", ""Authority to issue rules and regulations"", ""Authorization of appropriation of funds for establishment, operation, and maintenance""]"		"[""Education"", ""Fisheries"", ""Pangasinan"", ""School""]"	"[""School of Fisheries"", ""Bolinao"", ""Pangasinan"", ""Appropriation"", ""Education""]"
+repacts:datasets/markdown/repacts/1965/ra_4282_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4282_1965.md	ra_4282_1965	An Act Providing for the Establishment of an Emergency Hospital with a Fifty-Bed Capacity in the Municipality of Sibalom, Province of Antique, to be Known as Sibalom Emergency Hospital, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 4282**
+
+ An Act Providing for the Establishment of an Emergency Hospital with a Fifty-Bed Capacity in the Municipality of Sibalom, Province of Antique, to be Known as Sibalom Emergency Hospital, and Authorizing the Appropriation of Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established under the supervision of the Director of Medical Services, an emergency hospital with a fifty-bed capacity in the Municipality of Sibalom, Province of Antique, to be known as Sibalom Emergency Hospital.
+
+ **Section 2.** The sum of one hundred fifty thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital during the fiscal year nineteen hundred sixty-six. Thereafter, such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1965.
+"	success	Healthcare	This act establishes a fifty‑bed emergency hospital in Sibalom, Antique, and appropriates funds for its establishment, operation, and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of a fifty\u2011bed emergency hospital in Sibalom, supervised by the Director of Medical Services.""}, {""title"": ""Section 2."", ""summary"": ""Authorization of 150,000 pesos for establishment, operation and maintenance during fiscal year 1966, with future sums included in the General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""The act takes effect upon its approval.""}]"	4282	June 19, 1965			To establish an emergency hospital in Sibalom, Antique, and provide the necessary funding for its operation.	"[""Establishment of a fifty\u2011bed emergency hospital."", ""Appropriation of 150,000 pesos for its operation and maintenance."", ""Effectivity upon approval.""]"		"[""Emergency Hospital"", ""Sibalom"", ""Antique"", ""Healthcare"", ""Philippines""]"	"[""Emergency Hospital"", ""Sibalom"", ""Antique"", ""Healthcare"", ""Philippines""]"
+repacts:datasets/markdown/repacts/1965/ra_4283_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4283_1965.md	ra_4283_1965	An Act Changing the Name of Washington Street in Iligan City to General Emilio Aguinaldo Street	"**REPUBLIC ACT No. 4283**
+
+ An Act Changing the Name of Washington Street in Iligan City to General Emilio Aguinaldo Street
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Washington Street in Iligan City shall hereafter be known and referred to as General Emilio Aguinaldo Street.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1965.
+"	success	Republic Act	This act renames Washington Street in Iligan City to General Emilio Aguinaldo Street and takes effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Washington Street in Iligan City shall hereafter be known and referred to as General Emilio Aguinaldo Street.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	4283	June 19, 1965			Rename Washington Street in Iligan City to General Emilio Aguinaldo Street.	"[""Renaming Washington Street to General Emilio Aguinaldo Street."", ""Act takes effect upon approval.""]"		"[""Renaming"", ""Infrastructure"", ""Local Governance""]"	"[""Washington Street"", ""General Emilio Aguinaldo Street"", ""Iligan City""]"
+repacts:datasets/markdown/repacts/1965/ra_4284_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4284_1965.md	ra_4284_1965	An Act to Convert the Pasuquin National Agricultural School in the Municipality of Pasuquin, Province of Ilocos Norte, into a College to be Known as Ilocos Norte Agricultural College, and to Authorize the Appropriation of the Necessary Funds Therefor	"**REPUBLIC ACT No. 4284**
+
+ An Act to Convert the Pasuquin National Agricultural School in the Municipality of Pasuquin, Province of Ilocos Norte, into a College to be Known as Ilocos Norte Agricultural College, and to Authorize the Appropriation of the Necessary Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The Pasuquin National Agricultural School located in the Municipality of Pasuquin, Province of Ilocos Norte, is hereby converted into a college to be known as Ilocos Norte Agricultural College.
+
+ **Section 2.** The Ilocos Norte Agricultural College shall offer, in addition to the secondary agricultural curriculum, any or all of the following collegiate courses at the discretion of the Director of the Bureau of Vocational Education:
+
+ (a) Two-year technical agricultural course leading to the title of Associate in Agriculture; (b) Four-year teacher education course leading to the degree of Bachelor of Science in Agricultural Education; (c) Four-year technical agricultural course leading to the degree of Bachelor of Science in Agriculture. **Section 3.** The Ilocos Norte Agricultural College shall be headed by a Superintendent of Agricultural Instruction and shall be under the Bureau of Vocational Education. The Superintendent shall have direct administration and supervision over all the agricultural schools in the Province of Ilocos Norte under the Bureau of Vocational Education.
+
+ **Section 4.** The physical and financial assets, liabilities, personnel, equipment, and records of the Pasuquin National Agricultural School stand transferred to the Ilocos Norte Agricultural College.
+
+ **Section 5.** The sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of the said school for the fiscal year nineteen hundred sixty-six. Thereafter, the necessary sum for said purpose shall be included in the annual General Appropriations Act.
+
+ **Section 6.** The Secretary of Education is hereby empowered to reorganize said school accordingly.
+
+ **Section 7.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1965.
+"	success	Education	The act converts the Pasuquin National Agricultural School into Ilocos Norte Agricultural College, authorizes appropriation of funds for its operation, outlines curricular offerings, defines administrative structure, and includes provisions for asset transfer and reorganization.	"[{""title"": ""Section 1."", ""summary"": ""Converts the Pasuquin National Agricultural School into Ilocos Norte Agricultural College.""}, {""title"": ""Section 2."", ""summary"": ""Lists collegiate courses offered under the college and delegated to the Director of the Bureau of Vocational Education.""}, {""title"": ""Section 3."", ""summary"": ""Designates a Superintendent of Agricultural Instruction to head the college and oversee agricultural schools in Ilocos Norte.""}, {""title"": ""Section 4."", ""summary"": ""Transfers all assets, liabilities, personnel, equipment, and records of the former school to the new college.""}, {""title"": ""Section 5."", ""summary"": ""Authorizes one hundred thousand pesos for the college\u2019s operation and maintenance for FY 1966 and future budgets.""}, {""title"": ""Section 6."", ""summary"": ""Empowers the Secretary of Education to reorganize the school accordingly.""}, {""title"": ""Section 7."", ""summary"": ""States that the act takes effect upon approval.""}]"	4284	June 19, 1965			To convert a national agricultural school into a college and authorize necessary funding and reorganization.	"[""Conversion of institution to college"", ""Specification of collegiate courses"", ""Designation of superintendent and administrative oversight"", ""Transfer of assets and records"", ""Appropriation of funds for operation"", ""Reorganization authority for Secretary of Education""]"		"[""Education"", ""Agriculture"", ""Legislation"", ""Republic Act""]"	"[""Pasuquin"", ""Ilocos Norte"", ""Agricultural College"", ""Bureau of Vocational Education"", ""Appropriation"", ""Education Law""]"
+repacts:datasets/markdown/repacts/1965/ra_4285_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4285_1965.md	ra_4285_1965	"An Act to Amend Republic Act Numbered Thirty-Six Hundred Sixteen, Entitled ""An Act to Provide for the Establishment, Operation and Maintenance of a Hospital in the Municipality of Salcedo, Province of Ilocos Sur, to be Known as the Interior Ilocos Sur Hospital, and to Authorize the Appropriation of Funds Therefor"""	"**REPUBLIC ACT No. 4285**
+
+ An Act to Amend Republic Act Numbered Thirty-Six Hundred Sixteen, Entitled ""An Act to Provide for the Establishment, Operation and Maintenance of a Hospital in the Municipality of Salcedo, Province of Ilocos Sur, to be Known as the Interior Ilocos Sur Hospital, and to Authorize the Appropriation of Funds Therefor""
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Sections one and two of Republic Act Numbered Thirty-six hundred sixteen are hereby amended to read as follows:
+
+ > ""Sec. 1. There shall be established, under the direct supervision of the Department of Health, a twenty-five bed hospital in the Municipality of Salcedo, Province of Ilocos Sur, to be known as the Tirad Pass Memorial Hospital.""
+>
+>  ""Sec. 2. The sum of one hundred and fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of the said hospital during the fiscal year nineteen hundred sixty-four. Thereafter, the Secretary of Health shall include in the annual budget of that Department such sum as may be required for the operation and maintenance of the Tirad Pass Memorial Hospital, which amount shall then be included in the General Appropriations Act.""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1965.
+"	success	Republic Act	This act amends Republic Act No. 3616 to establish a 25‑bed hospital named Tirad Pass Memorial Hospital in Salcedo, Ilocos Sur, and authorizes the appropriation of 150,000 pesos for its establishment, operation, and maintenance.	"[{""title"": ""Section 1"", ""summary"": ""Amends Sections 1 and 2 of RA 3616 to establish a 25\u2011bed hospital under DOH supervision and authorize 150,000 pesos for its operation and maintenance.""}, {""title"": ""Section 2"", ""summary"": ""The act takes effect upon approval.""}]"	4285	1965-06-19			To establish and fund a 25‑bed hospital in Salcedo, Ilocos Sur, and to ensure appropriate budgetary support for its operation.	"[""Establishment of a 25\u2011bed hospital under the direct supervision of the Department of Health."", ""Authorization of 150,000 pesos for the establishment, operation and maintenance of the hospital."", ""Hospital to be named Tirad Pass Memorial Hospital."", ""The act takes effect upon its approval.""]"	Republic Act No. 3616	"[""health"", ""hospital"", ""Ilocos Sur"", ""DOH"", ""budget appropriation""]"	"[""hospital"", ""Salcedo"", ""Ilocos Sur"", ""DOH"", ""appropriation"", ""budget"", ""Tirad Pass Memorial Hospital""]"

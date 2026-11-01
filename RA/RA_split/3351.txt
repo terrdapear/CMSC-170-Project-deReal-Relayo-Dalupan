@@ -1,0 +1,223 @@
+
+ **Section 3.** This Act shall take effect fifteen (15) following the completion of its publication in the *Official Gazette* or in two (2) newspapers of general circulation.
+
+ Approved,
+
+ **VICENTE C. SOTTO III** President of the Senate
+
+ **PANTALEON D. ALVAREZ** Speaker of the House of Representatives
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate on August 9, 2017 and May 28, 2018, respectively.
+
+ **MYRA MARIE D. VILLARICA** Secretary of the Senate
+
+ **CESAR STRAIT PAREJA** Secretary General House of Representatives
+
+ Approved: August 23, 2018
+
+ (Sgd.) **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	Converts the LTO Licensing Center in San Pablo City into a regular licensing center and appropriates funds for its operationalization.	"[{""title"": ""Section 1"", ""summary"": ""The LTO Licensing Center in San Pablo City is converted into a Regular Licensing Center named San Pablo City LTO Licensing Center.""}, {""title"": ""Section 2"", ""summary"": ""The Secretary of the Department of Transportation shall include the operationalization of the new center in the Department's program and fund it through the current year's appropriations and future General Appropriations Acts.""}, {""title"": ""Section 3"", ""summary"": ""The Act takes effect fifteen days after its publication in the Official Gazette or in two newspapers of general circulation.""}]"	11068	August 23, 2018	"[{""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}, {""name"": ""PANTALEON D. ALVAREZ"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""MYRA MARIE D. VILLARICA"", ""title"": ""Secretary of the Senate""}, {""name"": ""CESAR STRAIT PAREJA"", ""title"": ""Secretary General House of Representatives""}]"	To convert the LTO Licensing Center in San Pablo City into a regular licensing center and allocate funds for its operation.	"[""Conversion of LTO Licensing Center to Regular Licensing Center"", ""Funding appropriation for operationalization"", ""Effective date following publication""]"		"[""LTO"", ""San Pablo City"", ""Licensing Center"", ""Transportation"", ""Philippines""]"	"[""Land Transportation Office"", ""San Pablo City"", ""Regular Licensing Center"", ""Appropriations"", ""Official Gazette""]"
+repacts:datasets/markdown/repacts/2018/ra_11069_2018.md	repacts	2018		datasets/markdown/repacts/2018/ra_11069_2018.md	ra_11069_2018	AN ACT AMENDING SECTION 1 OF REPUBLIC ACT NO. 9727, REAPPORTIONING THE PROVINCE OF CAVITE INTO EIGHT (8) LEGISLATIVE DISTRICTS	"Seventeenth Congress Third Regular Session Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand eighteen.
+
+ **REPUBLIC ACT No. 11069**
+
+ **AN ACT AMENDING SECTION 1 OF REPUBLIC ACT NO. 9727, REAPPORTIONING THE PROVINCE OF CAVITE INTO EIGHT (8) LEGISLATIVE DISTRICTS**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** Section 1 of Republic Act No. 9727 is hereby amended to read as follows:
+
+ > ""Section 1. *Legislative Districts.* The Province of Cavite, which shall have eight (8) legislative districts to commence on the next national and local elections after the effectivity of this Act, is hereby reapportioned as follows:
+>
+>  FIRST LEGISLATIVE DISTRICT (1) Cavite City (2) Kawit (3) Noveleta (4) Rosario SECOND LEGISLATIVE DISTRICT (1) Bacoor City THIRD LEGISLATIVE DISTRICT (1) Imus City FOURTH LEGISLATIVE DISTRICT (1) Dasmariñas City FIFTH LEGISLATIVE DISTRICT (1) Carmona (2) General Mariano Alvarez (GMA) (3) Silang SIXTH LEGISLATIVE DISTRICT (1) General Trias City SEVENTH LEGISLATIVE DISTRICT (1) Trece Martires City (2) Indang (3) Tanza (4) Amadeo EIGHTH LEGISLATIVE DISTRICT (1) Tagaytay City (2) Alfonso (3) General Aguinaldo (4) Magallanes (5) Maragondon (6) Mendez (7) Naic (8) Ternate.""
+
+ **Section 2.** *Incumbent Representatives.* The incumbent Representatives of the Sixth and Seventh Legislative Districts of the Province of Cavite shall continue to represent their respective legislative districts until the new Representative shall have been elected and qualified.
+
+ **Section 3.** *Rules and Regulations.* The Commission on Elections shall issue the necessary rules and regulations within thirty (30) days upon the approval of this Act.
+
+ **Section 4.** *Repealing Clause.* Republic Act No. 9727 and all other laws, rules and regulations which are inconsistent with this Act are hereby repealed, amended or modified accordingly.
+
+ **Section 5.** *Effectivity.* This Act shall take effect fifteen (15) days after its publication in the *Official Gazette* or in a newspaper of general circulation.
+
+ Approved,
+
+ **VICENTE C. SOTTO III** President of the Senate
+
+ **GLORIA MACAPAGAL-ARROYO** Speaker of the House of Representatives
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives on May 15, 2017, amended by the Senate on March 5, 2018, and which amendments were concurred in by the House of Representatives on July 31, 2018.
+
+ **MYRA MARIE D. VILLARICA** Secretary of the Senate
+
+ **DANTE ROBERTO P. MALING** Acting Secretary General House of Representatives
+
+ Approved: September 14, 2018
+
+ (Sgd.) **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	This Act amends Section 1 of Republic Act No. 9727 to reapportion the province of Cavite into eight legislative districts, effective after the next national and local elections, and sets forth the boundaries of each district.	"[{""title"": ""Section 1: Amendment to Section 1 of RA 9727"", ""summary"": ""Amends the legislative districting provision in RA 9727 to create eight districts in Cavite, listing the municipalities and cities for each district.""}, {""title"": ""Section 2: Incumbent Representatives"", ""summary"": ""Specifies that the current representatives of the Sixth and Seventh districts will continue to serve until the new representatives are elected and qualified.""}, {""title"": ""Section 3: Rules and Regulations"", ""summary"": ""Mandates the Commission on Elections to issue necessary rules and regulations within thirty days of the Act\u2019s approval.""}, {""title"": ""Section 4: Repealing Clause"", ""summary"": ""Repeals, amends, or modifies RA 9727 and any other inconsistent laws, rules, or regulations.""}, {""title"": ""Section 5: Effectivity"", ""summary"": ""The Act takes effect fifteen days after its publication in the Official Gazette or a newspaper of general circulation.""}]"	11069	September 14, 2018	"[{""name"": ""Myra Marie D. Villarica"", ""title"": ""Secretary of the Senate""}, {""name"": ""Dante Roberto P. Maling"", ""title"": ""Acting Secretary General House of Representatives""}]"		To improve representation by reapportioning Cavite into eight legislative districts in accordance with population changes.	"[""Amends Section 1 of RA 9727 to reapportion Cavite into eight districts"", ""Defines the boundaries and constituents of each new district"", ""Allows incumbent representatives to serve until new elections"", ""Mandates the Commission on Elections to issue rules within 30 days"", ""Repeals or amends inconsistent laws"", ""Effectivity 15 days after publication""]"	Republic Act No. 9727	"[""Reapportionment"", ""Cavite"", ""Legislative Districts""]"	"[""Cavite"", ""legislative districts"", ""reapportionment"", ""Republic Act 11069"", ""RA 9727"", ""Senate"", ""House of Representatives""]"
+repacts:datasets/markdown/repacts/2018/ra_11070_2018.md	repacts	2018		datasets/markdown/repacts/2018/ra_11070_2018.md	ra_11070_2018	AN ACT SEPARATING THE HERACLEO CASCO NATIONAL HIGH SCHOOL ANNEX IN BARANGAY SAN ISIDRO, MUNICIPALITY OF STA. MARIA, PROVINCE OF DAVAO OCCIDENTAL FROM THE HERACLEO CASCO NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN IN DEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS PEDRO MARISCAL NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"Seventeenth Congress Third Regular Session Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand eighteen.
+
+ **REPUBLIC ACT No. 11070**
+
+ **AN ACT SEPARATING THE HERACLEO CASCO NATIONAL HIGH SCHOOL ANNEX IN BARANGAY SAN ISIDRO, MUNICIPALITY OF STA. MARIA, PROVINCE OF DAVAO OCCIDENTAL FROM THE HERACLEO CASCO NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN IN D EPEN D EN T NATIONAL HIGH SCHOOL TO BE KNOWN AS PEDRO MARISCAL NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** The Heracleo Casco National High School Annex in Barangay San Isidro, Municipality of Sta. Maria, Province of Davao Occidental is hereby separated from the Heracleo Casco National High School and converted into an independent national high school to be known as Pedro Mariscal National High School.
+
+ **Section 2.** All personnel, assets, liabilities, and records of the Heracleo Casco National High School Annex are hereby transferred to and absorbed by the Pedro Mariscal National High School.
+
+ **Section 3.** The Secretary of Education shall immediately include in the Departments program the operationalization of the Pedro Mariscal National High School, the initial funding of which shall be charged against the current years appropriation of the Heracleo Casco National High School Annex. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.
+
+ **Section 4.** The Secretary of Education shall formulate the rules and regulations necessary to carry out the purpose of this Act within one hundred twenty (120) days after its effectivity.
+
+ **Section 5.** This Act shall take effect fifteen (15) days after its publication in the *Official Gazette* or in a newspaper of general circulation.
+
+ Approved,
+
+ **VICENTE C. SOTTO III** President of the Senate
+
+ **PANTALEON D. ALVAREZ** Speaker of the House of Representatives
+
+ This act which originated in the House of Representatives was passed by the House of Representatives and the Senate on December 11, 2017 and May 28, 2018, respectively.
+
+ **MYRA MARIE D. VILLARICA** Secretary of the Senate
+
+ **CESAR STRAIT PAREJA** Secretary General House of Representatives
+
+ Approved: August 23, 2018
+
+ (Sgd.) **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	Separates the Heracleo Casco National High School Annex and converts it into Pedro Mariscal National High School, appropriating funds for its operation.	"[{""title"": ""Section 1"", ""summary"": ""The Annex is separated from the main school and converted into an independent national high school named Pedro Mariscal National High School.""}, {""title"": ""Section 2"", ""summary"": ""All personnel, assets, liabilities, and records of the Annex are transferred to the new school.""}, {""title"": ""Section 3"", ""summary"": ""The Secretary of Education will include the school in the department's program, funding initially from the annex's appropriation and thereafter from the General Appropriations Act.""}, {""title"": ""Section 4"", ""summary"": ""Rules and regulations necessary for the act's purpose to be formulated within 120 days after effectivity.""}, {""title"": ""Section 5"", ""summary"": ""The act takes effect 15 days after publication in the Official Gazette or a newspaper of general circulation.""}]"	11070	August 23, 2018	"[{""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}, {""name"": ""PANTALEON D. ALVAREZ"", ""title"": ""Speaker of the House of Representatives""}]"		To separate the Heracleo Casco National High School Annex and convert it into an independent national high school named Pedro Mariscal National High School, and to appropriate funds for its operation.	"[""Separates the Annex from the main school"", ""Transfers personnel, assets, liabilities, and records to the new school"", ""Funds the new school via Secretary of Education, initially from annex appropriation and subsequently from General Appropriations Act"", ""Formulates rules and regulations within 120 days"", ""Effective 15 days after publication in the Official Gazette or newspaper""]"		"[""Education"", ""School"", ""Republic Act"", ""High School"", ""Davao Occidental""]"	"[""Heracleo Casco National High School"", ""Pedro Mariscal National High School"", ""Davao Occidental"", ""Education"", ""Republic Act 11070""]"
+repacts:datasets/markdown/repacts/2018/ra_11071_2018.md	repacts	2018		datasets/markdown/repacts/2018/ra_11071_2018.md	ra_11071_2018	An act converting the Mamagum Elementary School in Barangay Mamagum, Municipality of Sultan Naga Dimaporo, Province of Lanao del Norte into an integrated school to be known as Mamagum Integrated School, and appropriating funds therefor	"Seventeenth Congress Third Regular Session Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand eighteen.
+
+ **REPUBLIC ACT No. 11071**
+
+ **AN ACT CONVERTING THE MAMAGUM ELEMENTARY SCHOOL IN BARANGAY MAMAGUM, MUNICIPALITY OF SULTAN NAGA DIMAPORO. PRO\TNCE OF LANAO DEL NORTE INTO AN INTEGRATED SCHOOL TO BE KNOWN AS MAMAGUM INTEGRATED SCHOOL, AND APPROPRIATING FUNDS THEREFOR**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** The Mamagum Elementary School in Barangay Mamagum, Municipality of Sultan Naga Dimaporo, Province of Lanao del Norte is hereby converted into an integrated school to be known as Mamagum Integrated School.
+
+ **Section 2.** All personnel, assets, liabihties, and records of the Mamagum Elementary School are hereby transferred to and absorbed by the Mamagum Integrated School.
+
+ **Section 3.** The Secretary of Education shall immediately include in the Departments program the operationalization of the Mamagum Integrated School, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 4.** The Secretary of Education shall formulate the rules and regulations implementing the provisions of this Act within one hundred twenty (120) days after its effectivity.
+
+ **Section 5.** This Act shall take effect fifteen (15) days after its publication in the *Official Gazette* or in a newspaper of general circulation.
+
+ Approved,
+
+ **VICENTE C. SOTTO III** President of the Senate
+
+ **PANTALEON D. ALVAREZ** Speaker of the House of Representatives
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate on January 22, 2018 and May 28, 2018, respectively.
+
+ **MYRA MARIE D. VILLARICA** Secretary of the Senate
+
+ **CESAR STRAIT PAREJA** Secretary General House of Representatives
+
+ Approved: August 23, 2018
+
+ (Sgd.) **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	This act converts Mamagum Elementary School into Mamagum Integrated School, transfers all personnel, assets, liabilities, and records, appropriates funds for its operation, requires the Secretary of Education to formulate rules within 120 days, and becomes effective 15 days after publication.	"[{""title"": ""Section 1."", ""summary"": ""The Mamagum Elementary School in Barangay Mamagum, Municipality of Sultan Naga Dimaporo, Province of Lanao del Norte is hereby converted into an integrated school to be known as Mamagum Integrated School.""}, {""title"": ""Section 2."", ""summary"": ""All personnel, assets, liabilities, and records of the Mamagum Elementary School are hereby transferred to and absorbed by the Mamagum Integrated School.""}, {""title"": ""Section 3."", ""summary"": ""The Secretary of Education shall immediately include in the Department's program the operationalization of the Mamagum Integrated School, with funding included in the annual General Appropriations Act.""}, {""title"": ""Section 4."", ""summary"": ""The Secretary of Education shall formulate the rules and regulations implementing the provisions of this Act within one hundred twenty (120) days after its effectivity.""}, {""title"": ""Section 5."", ""summary"": ""This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.""}]"	11071	August 23, 2018			To convert Mamagum Elementary School into an integrated school and provide appropriate funding for its operation.	"[""Conversion of the elementary school to an integrated school"", ""Transfer of all personnel, assets, liabilities, and records"", ""Appropriation of funds for the integrated school"", ""Formulation of rules and regulations within 120 days"", ""Effectivity 15 days after publication""]"		"[""Education"", ""School"", ""Integrated School"", ""Philippines"", ""Republic Act""]"	"[""Mamagum"", ""Integrated School"", ""Lanao del Norte"", ""Sultan Naga Dimaporo"", ""Education"", ""Republic Act 11071""]"
+repacts:datasets/markdown/repacts/2018/ra_11072_2018.md	repacts	2018		datasets/markdown/repacts/2018/ra_11072_2018.md	ra_11072_2018	AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY PAN-AY DAKO, MUNICIPALITY OF CLARIN, PROVINCE OF MISAMIS OCCIDENTAL TO BE KNOWN AS FELINA SEVILLA OAMINAL NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDSTHEREFOR	"Seventeenth Congress Third Regular Session Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand eighteen.
+
+ **REPUBLIC ACT No. 11072**
+
+ **AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY PAN-AY DAKO, MUNICIPALITY OF CLARIN, PROVINCE OF MISAMIS OCCIDENTAL TO BE KNOWN AS FELINA SEVILLA OAMINAL NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDSTHEREFOR**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** There is hereby established, under the supervision of the Department of Education, a national high school in Barangay Pan-ay Dako, Municipality of Clarin, Province of Misamis Occidental to be known as Felina Sevilla Oaminal National High School.
+
+ **Section 2.** The Secretary of Education shall immediately include in the Departments program the operationalization of the Felina Sevilla Oaminal National High School, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 3.** The Secretary of Education shall formulate the rules and regulations implementing the provisions of this Act within one hundred twenty (120) days after its effectivity.
+
+ **Section 4.** This Act shall take effect fifteen (15) days after its publication in the *Official Gazette* or in a newspaper of general circulation.
+
+ Approved,
+
+ **VICENTE C. SOTTO III** President of the Senate
+
+ **PANTALEON D. ALVAREZ** Speaker of the House of Representatives
+
+ This act which originated in the House of Representatives was passed by the House of Representatives and the Senate on January 22, 2018 and May 28, 2018, respectively.
+
+ **MYRA MARIE D. VILLARICA** Secretary of the Senate
+
+ **CESAR STRAIT PAREJA** Secretary General House of Representatives
+
+ Approved: August 23, 2018
+
+ (Sgd.) **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	The Republic Act establishes a national high school in Barangay Pan-ay Dako, Municipality of Clarin, Province of Misamis Occidental, named Felina Sevilla Oaminal National High School, and appropriates funds for its operation.	"[{""title"": ""Section 1"", ""summary"": ""There is hereby established, under the supervision of the Department of Education, a national high school in Barangay Pan-ay Dako, Municipality of Clarin, Province of Misamis Occidental to be known as Felina Sevilla Oaminal National High School.""}, {""title"": ""Section 2"", ""summary"": ""The Secretary of Education shall immediately include in the Departments program the operationalization of the Felina Sevilla Oaminal National High School, the funding of which shall be included in the annual General Appropriations Act.""}, {""title"": ""Section 3"", ""summary"": ""The Secretary of Education shall formulate the rules and regulations implementing the provisions of this Act within one hundred twenty (120) days after its effectivity.""}, {""title"": ""Section 4"", ""summary"": ""This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.""}]"	11072	August 23, 2018	"[{""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}, {""name"": ""PANTALEON D. ALVAREZ"", ""title"": ""Speaker of the House of Representatives""}, {""name"": ""MYRA MARIE D. VILLARICA"", ""title"": ""Secretary of the Senate""}, {""name"": ""CESAR STRAIT PAREJA"", ""title"": ""Secretary General House of Representatives""}]"		To establish a national high school in Barangay Pan-ay Dako, Clarin, Misamis Occidental, and to appropriate funds for its operation.	"[""Establishment of Felina Sevilla Oaminal National High School"", ""Operationalization by Secretary of Education"", ""Rule-making within 120 days"", ""Effectivity after 15 days of publication""]"		"[""Education"", ""National High School"", ""Misamis Occidental"", ""Republic Act""]"	"[""Felina Sevilla Oaminal National High School"", ""Department of Education"", ""General Appropriations Act"", ""Official Gazette""]"
+repacts:datasets/markdown/repacts/2018/ra_11073_2018.md	repacts	2018		datasets/markdown/repacts/2018/ra_11073_2018.md	ra_11073_2018	AN ACT CONVERTING THE MABUHAY ELEMENTARY SCHOOL IN BARANGAY MABUHAY, MUNICIPALITY OF SULTAN NAGA DIMAPORO, PROVINCE OF LANAO DEL NORTE INTO AN INTEGRATED SCHOOL TO BE KNOWN AS MABUHAY INTEGRATED SCHOOL AND APPROPRIATING FUNDS THEREFOR	"Seventeenth Congress Third Regular Session Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand eighteen.
+
+ **REPUBLIC ACT No. 11073**
+
+ **AN ACT CONVERTING THE MABUHAY ELEMENTARY SCHOOL IN BARANGAY MABUHAY, MUNICIPALITY OF SULTAN NAGA DIMAPORO, PROVINCE OF LANAO DEL NORTE INTO AN INTEGRATED SCHOOL TO BE KNOWN AS MABUHAY INTEGRATED SCHOOL AND APPROPRIATING FUNDS THEREFOR**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** The Mabuhay Elementary School in Barangay Mabuhay, Municipality of Sultan Naga Dimaporo, Province of Lanao del Norte is hereby converted into an integrated school to be known as Mabuhay Integrated School.
+
+ **Section 2.** All personnel, assets, liabilities, and records of the Mabuhay Elementary School are hereby transferred to and absorbed by the Mabuhay Integrated School.
+
+ **Section 3.** The Secretary of Education shall immediately include in the Departments program the operationalization of the Mabuhay Integrated School, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 4.** The Secretary of Education shall formulate the rules and regulations implementing the provisions of this Act within one hundred twenty (120) days after its effectivity.
+
+ **Section 5.** This Act shall take effect fifteen (15) days after its publication in the *Official Gazette* or in a newspaper of general circulation.
+
+ Approved,
+
+ **VICENTE C. SOTTO III** President of the Senate
+
+ **PANTALEON D. ALVAREZ** Speaker of the House of Representatives
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate on January 22, 2018 and May 28, 2018, respectively.
+
+ **MYRA MARIE D. VILLARICA** Secretary of the Senate
+
+ **CESAR STRAIT PAREJA** Secretary General House of Representatives
+
+ Approved: August 23, 2018
+
+ (Sgd.) **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	The act converts Mabuhay Elementary School into Mabuhay Integrated School, transfers its personnel, assets, and liabilities, appropriates funds for its operation, and establishes procedures for implementation.	"[{""title"": ""Section 1"", ""summary"": ""Converts Mabuhay Elementary School into Mabuhay Integrated School.""}, {""title"": ""Section 2"", ""summary"": ""Transfers all personnel, assets, liabilities, and records of the elementary school to the integrated school.""}, {""title"": ""Section 3"", ""summary"": ""The Secretary of Education shall include the integrated school's operation and funding in the Department\u2019s program and the General Appropriations Act.""}, {""title"": ""Section 4"", ""summary"": ""The Secretary of Education shall formulate rules and regulations to implement the act within 120 days after effectivity.""}, {""title"": ""Section 5"", ""summary"": ""The act takes effect 15 days after publication in the Official Gazette or a newspaper of general circulation.""}]"	11073	August 23, 2018	"[{""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}, {""name"": ""PANTALEON D. ALVAREZ"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""MYRA MARIE D. VILLARICA"", ""title"": ""Secretary of the Senate""}, {""name"": ""CESAR STRAIT PAREJA"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""RODRIGO ROA DUTERTE"", ""title"": ""President of the Philippines""}]"	Convert the Mabuhay Elementary School into an integrated school and appropriate funds for its operation in accordance with national education policies.	"[""Conversion of the elementary school into an integrated school"", ""Transfer of personnel, assets, liabilities, and records"", ""Appropriation of funds for operation"", ""Formulation of rules and regulations within 120 days"", ""Effective date set 15 days after publication""]"		"[""Education"", ""School"", ""Republic Act"", ""Lanao del Norte""]"	"[""Mabuhay Elementary School"", ""Mabuhay Integrated School"", ""Lanao del Norte"", ""Education"", ""Appropriation"", ""School Conversion""]"
+repacts:datasets/markdown/repacts/2018/ra_11074_2018.md	repacts	2018		datasets/markdown/repacts/2018/ra_11074_2018.md	ra_11074_2018	AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY BIGNAY, VALENZUELA CITY TO BE KNOWN AS DISIPLINA VILLAGE-BIGNAY NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"Seventeenth Congress Third Regular Session Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand eighteen.
+
+ **REPUBLIC ACT No. 11074**
+
+ **AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY BIGNAY, VALENZUELA CITY TO BE KNOWN AS DISIPLINA VILLAGE-BIGNAY NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** There is hereby established, under the supervision of the Department of Education, a national high school in Barangay Bignay, Valenzuela City to be known as Disiplina Village-Bignay National High School.
+
+ **Section 2.** The Secretary of Education shall immediately include in the Departments program the operationalization of the Disiplina Village-Bignay National High School, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 3.** The Secretary of Education shall formulate the rules and regulations implementing the provisions of this Act within one hundred twenty (120) days after its effectivity.
+
+ **Section 4.** This Act shall take effect fifteen (15) days after its publication in the *Official Gazette* or in a newspaper of general circulation.
+
+ Approved,
+
+ **VICENTE C. SOTTO III** President of the Senate
+
+ **PANTALEON D. ALVAREZ** Speaker of the House of Representatives
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate on January 22, 2018 and May 28, 2018, respectively.
+
+ **MYRA MARIE D. VILLARICA** Secretary of the Senate
+
+ **CESAR STRAIT PAREJA** Secretary General House of Representatives
+
+ Approved: August 23, 2018
+
+ (Sgd.) **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	Establishes Disiplina Village-Bignay National High School in Barangay Bignay, Valenzuela City, allocates funding, outlines operationalization and rules.	"[{""title"": ""Section 1."", ""summary"": ""Creates a national high school in Barangay Bignay, Valenzuela City under the supervision of the Department of Education.""}, {""title"": ""Section 2."", ""summary"": ""Mandates the Secretary of Education to include the school's operationalization and funding in the Department\u2019s program and the General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""Requires the Secretary of Education to formulate rules and regulations for the Act within 120 days after its effectivity.""}, {""title"": ""Section 4."", ""summary"": ""Specifies that the Act takes effect 15 days after publication in the Official Gazette or a newspaper of general circulation.""}]"	11074	August 23, 2018	"[{""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}, {""name"": ""PANTALEON D. ALVAREZ"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""MYRA MARIE D. VILLARICA"", ""title"": ""Secretary of the Senate""}, {""name"": ""CESAR STRAIT PAREJA"", ""title"": ""Secretary General House of Representatives""}]"	To establish a national high school in Barangay Bignay, Valenzuela City, and appropriate funds for its operation.	"[""Creation of Disiplina Village-Bignay National High School"", ""Operationalization and funding of the school"", ""Rules and regulations to be formulated within 120 days"", ""Effective 15 days after publication""]"		"[""Education"", ""School"", ""Valenzuela City"", ""National High School""]"	"[""Disiplina Village-Bignay National High School"", ""Baranggay Bignay"", ""Valenzuela City"", ""Department of Education"", ""Funding"", ""Operationalization"", ""Rules and Regulations"", ""General Appropriations Act""]"

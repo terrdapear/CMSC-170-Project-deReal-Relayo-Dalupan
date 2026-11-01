@@ -1,0 +1,187 @@
+repacts:datasets/markdown/repacts/1992/ra_7333_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7333_1992.md	ra_7333_1992	AN ACT CHANGING THE NAME OF THE ABUYOG GENERAL HOSPITAL IN THE MUNICIPALITY OF ABUYOG, PROVINCE OF LEYTE, TO OCTAVIO TRAYA, SR., MEMORIAL HOSPITAL	"**[ REPUBLIC ACT NO. 7333, March 31, 1992 ]**
+
+ AN ACT CHANGING THE NAME OF THE ABUYOG GENERAL HOSPITAL IN THE MUNICIPALITY OF ABUYOG, PROVINCE OF LEYTE, TO OCTAVIO TRAYA, SR., MEMORIAL HOSPITAL
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The name of the Abuyog General Hospital in the Municipality of Abuyog, Province of Leyte, is hereby changed to Octavio Traya, Sr., Memorial Hospital.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on January 23, 1991 and January 23, 1992, respectively. |  |
+| (Sgd.)**ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.)**CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: March 31, 1992
+
+ (Sgd.)**CORAZON C. AQUINO** *President of the Philippines*
+"	success	Act	This act changes the name of the Abuyog General Hospital to Octavio Traya, Sr., Memorial Hospital.	"[{""title"": ""Section 1."", ""summary"": ""The name of the Abuyog General Hospital in the Municipality of Abuyog, Province of Leyte, is hereby changed to Octavio Traya, Sr., Memorial Hospital.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	7333	March 31, 1992	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""ANACLETO D. BADOY, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""CORAZON C. AQUINO"", ""title"": ""President of the Philippines""}]"	To rename the Abuyog General Hospital to Octavio Traya, Sr., Memorial Hospital.	"[""The name of the Abuyog General Hospital is changed to Octavio Traya, Sr., Memorial Hospital."", ""The Act shall take effect upon its approval.""]"		"[""Republic Act"", ""Health"", ""Hospital"", ""Leyte"", ""Abuyog"", ""Renaming""]"	"[""Abuyog"", ""Leyte"", ""Hospital"", ""Octavio Traya"", ""Renaming"", ""Republic Act 7333""]"
+repacts:datasets/markdown/repacts/1992/ra_7334_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7334_1992.md	ra_7334_1992	AN ACT CHANGING THE NAME OF THE ISABELA DISTRICT HOSPITAL IN THE MUNICIPALITY OF ISABELA, PROVINCE OF NEGROS OCCIDENTAL, TO DON GIL MONTILLA MEMORIAL HOSPITAL	"**[ REPUBLIC ACT NO. 7334, March 31, 1992 ]**
+
+ AN ACT CHANGING THE NAME OF THE ISABELA DISTRICT HOSPITAL IN THE MUNICIPALITY OF ISABELA, PROVINCE OF NEGROS OCCIDENTAL, TO DON GIL MONTILLA MEMORIAL HOSPITAL
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The name of the Isabela District Hospital in the Municipality of Isabela, Province of Negros Occidental, is hereby changed to Don Gil Montilla Memorial Hospital.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.)**NEPTALI A. GONZALES** *President of the Senate* | (Sgd.)**RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on January 23, 1991 and January 23, 1992, respectively. |  |
+| (Sgd.)**ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.)**CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: March 31, 1992
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	The law changes the name of the Isabela District Hospital in Isabela, Negros Occidental to Don Gil Montilla Memorial Hospital and stipulates that it takes effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""The name of the Isabela District Hospital in the Municipality of Isabela, Province of Negros Occidental, is hereby changed to Don Gil Montilla Memorial Hospital.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	7334	March 31, 1992	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}, {""name"": ""CORAZON C. AQUINO"", ""title"": ""President of the Philippines""}]"	"[{""name"": ""ANACLETO D. BADOY, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}]"	To change the name of the Isabela District Hospital to Don Gil Montilla Memorial Hospital.	"[""The name of the hospital is changed to Don Gil Montilla Memorial Hospital."", ""The Act takes effect upon approval.""]"		"[""Health"", ""Hospital"", ""Renaming""]"	"[""Isabela District Hospital"", ""Don Gil Montilla Memorial Hospital"", ""Negros Occidental"", ""Republic Act 7334""]"
+repacts:datasets/markdown/repacts/1992/ra_7335_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7335_1992.md	ra_7335_1992	AN ACT ESTABLISHING A HIGH SCHOOL IN THE MUNICIPALITY OF TACURONG, PROVINCE OF SULTAN KUDARAT, TO BE KNOWN AS THE TACURONG HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 7335, April 01, 1992 ]**
+
+ AN ACT ESTABLISHING A HIGH SCHOOL IN THE MUNICIPALITY OF TACURONG, PROVINCE OF SULTAN KUDARAT, TO BE KNOWN AS THE TACURONG HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established a high school in the Municipality of Tacurong, Province of Sultan Kudarat, to be known as the Tacurong High School.
+
+ **Section 2.** The Secretary of the Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The amount needed to carry out the provisions of this Act is hereby authorized to be appropriated in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on November 20, 1990 and January 23, 1992, respectively. |  |
+| (Sgd.) **ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: April 1, 1992
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Education	Republic Act No. 7335 establishes the Tacurong High School in the municipality of Tacurong, Sultan Kudarat, and appropriates funds for its operation. It authorizes the Secretary of the Department of Education, Culture and Sports to issue necessary rules and regulations, and stipulates that the act will take effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Establishes Tacurong High School as a public high school within the municipality of Tacurong.""}, {""title"": ""Section 2"", ""summary"": ""Empowers the Secretary of the Department of Education, Culture and Sports to issue rules and regulations required to implement the act.""}, {""title"": ""Section 3"", ""summary"": ""Authorizes appropriation of the necessary funds in the General Appropriations Act of the year following enactment.""}, {""title"": ""Section 4"", ""summary"": ""States that the act takes effect upon its approval.""}]"	7335	April 1, 1992	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""ANACLETO D. BADOY, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}]"	To establish a public high school in Tacurong and secure funding for its operation.	"[""Establishment of Tacurong High School"", ""Authorization of rules by the Secretary of the Department of Education, Culture and Sports"", ""Appropriation of funds in the General Appropriations Act"", ""Effectivity upon approval""]"		"[""Education"", ""High School"", ""Sultan Kudarat"", ""Philippines"", ""Republic Act""]"	"[""Tacurong"", ""high school"", ""funds"", ""appropriation"", ""rules"", ""Department of Education, Culture and Sports""]"
+repacts:datasets/markdown/repacts/1992/ra_7336_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7336_1992.md	ra_7336_1992	An Act Converting the Ramon Magsaysay Memorial School of Arts and Trades in the Municipality of Iba, Province of Zambales, into a Polytechnic College to be Known as the Ramon Magsaysay Polytechnic College, and Appropriating Funds Therefor	"**[ REPUBLIC ACT NO. 7336, April 01, 1992 ]**
+
+ AN ACT CONVERTING THE RAMON MAGSAYSAY MEMORIAL SCHOOL OF ARTS AND TRADES IN THE MUNICIPALITY OF IBA, PROVINCE OF ZAMBALES, INTO A POLYTECHNIC COLLEGE TO BE KNOWN AS THE RAMON MAGSAYSAY POLYTECHNIC COLLEGE, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Ramon Magsaysay Memorial School of Arts and Trades in the Municipality of Iba, Province of Zambales, is hereby converted into a polytechnic college to be known as the Ramon Magsaysay Polytechnic College, hereinafter referred to as the College.
+
+ **Section 2.** The College shall be under the supervision and control of the Department of Education, Culture and Sports.
+
+ **Section 3.** The College shall offer one-year to three-year technical vocational courses and undergraduate courses in the field of industrial education and technology or such other courses which are relevant to the needs of its service area.
+
+ **Section 4.** The College shall be headed by a vocational college superintendent to be appointed by the Secretary of Education, Culture and Sports.
+
+ **Section 5.** The academic and administrative staff of the College shall be organized following the staffing pattern of the Department of Education, Culture and Sports for such type of schools pursuant to existing laws, rules and regulations.
+
+ **Section 6.** All assets, fixed and movable, personnel, records and documents of the Ramon Magsaysay Memorial School of Arts and Trades in the Municipality of Iba, Province of Zambales, as well as its liabilities shall be transferred to the Ramon Magsaysay Polytechnic College:*Provided, however,*That the positions, rights and security of tenure of personnel therein employed pursuant to the existing laws prior to its conversion into the Ramon Magsaysay Polytechnic College are not impaired.
+
+ **Section 7.** All parcels of land belonging to the Government occupied by the Ramon Magsaysay Memorial School of Arts and Trades are hereby declared to be the property of the Ramon Magsaysay Polytechnic College and shall be titled under that name:*Provided,*That should the Ramon Magsaysay Polytechnic College cease to exist or such aforementioned parcels of land be no longer needed by the College, the same shall revert to the Province of Zambales.
+
+ **Section 8.** In addition to the current appropriations of the Ramon Magsaysay Memorial School of Arts and Trades, the amount needed to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 9.** Tuition and other fees to be paid by students enrolled in post-secondary and higher education courses shall be retained and directly used by the College to improve the learning/training facilities.
+
+ **Section 10.** Income derived from production and service activities undertaken in aid of instruction and training and from auxiliary enterprises shall be retained by the College and shall be used exclusively for the acquisition of tools, equipment and other laboratory facilities for instruction, research and produce/process development and for incentives of students, teachers and other school personnel directly involved in production and service activities:*Provided, however,*That such incentives shall not exceed thirty percent (30%) of the income: *Provided, further,* That the utilization of this income shall be in accordance with auditing rules and regulations.
+
+ **Section 11.** Salary grades of faculty members, officials and other employees of the College shall be equal to that of their counterparts in state colleges and universities pursuant to the provisions of Republic Act Numbered Sixty-seven hundred and fifty-eight.
+
+ **Section 12.** If for any reason any section or provision of this Act shall be held unconstitutional or invalid, no other section or provision hereof shall be affected thereby.
+
+ **Section 13.** All laws, presidential decrees, executive orders, rules and regulations inconsistent with the provisions of this Act are hereby repealed, amended or modified accordingly.
+
+ **Section 14.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on May 16, 1991 and January 23, 1992, respectively. |  |
+| (Sgd.) **ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** Secretary General House of Representatives |
+
+ Approved: April 1, 1992
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Public Law	This act converts the Ramon Magsaysay Memorial School of Arts and Trades into a polytechnic college, establishes its governance and funding, and repeals inconsistent laws.	"[{""title"": ""Section 1"", ""summary"": ""Converts the Ramon Magsaysay Memorial School of Arts and Trades into the Ramon Magsaysay Polytechnic College.""}, {""title"": ""Section 2"", ""summary"": ""The college shall be supervised by the Department of Education, Culture and Sports.""}, {""title"": ""Section 3"", ""summary"": ""The college shall offer technical vocational and undergraduate courses in industrial education and technology.""}, {""title"": ""Section 4"", ""summary"": ""The college shall be headed by a vocational college superintendent appointed by the Secretary of Education, Culture and Sports.""}, {""title"": ""Section 5"", ""summary"": ""Staffing of the college shall follow the pattern of the Department of Education, Culture and Sports.""}, {""title"": ""Section 6"", ""summary"": ""All assets and liabilities of the former school shall be transferred to the college, preserving personnel rights.""}, {""title"": ""Section 7"", ""summary"": ""All government land used by the former school shall become property of the college and revert to the province if the college ceases to exist.""}, {""title"": ""Section 8"", ""summary"": ""Funds needed for the act's provisions shall be included in the General Appropriations Act of the following year.""}, {""title"": ""Section 9"", ""summary"": ""Tuition and fees paid by students shall be retained to improve facilities.""}, {""title"": ""Section 10"", ""summary"": ""Income from production and auxiliary enterprises shall be used for equipment and student incentives, not exceeding 30% of income.""}, {""title"": ""Section 11"", ""summary"": ""Faculty and staff salary grades shall equal those of state colleges and universities per RA 6758.""}, {""title"": ""Section 12"", ""summary"": ""Any unconstitutional or invalid section does not affect other provisions.""}, {""title"": ""Section 13"", ""summary"": ""All laws inconsistent with the act are repealed, amended, or modified.""}, {""title"": ""Section 14"", ""summary"": ""The act shall take effect upon approval.""}]"	7336	April 1, 1992	"[{""name"": ""Neptali A. Gonzales"", ""title"": ""President of the Senate""}, {""name"": ""Ram\u00f3n V. Mitra"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""Anacleto D. Badoy, Jr."", ""title"": ""Secretary of the Senate""}, {""name"": ""Camilo L. Sabio"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""Corazon C. Aquino"", ""title"": ""President of the Philippines""}]"	To convert a municipal school into a polytechnic college and provide appropriate funding for its operation.	"[""Conversion of the school into a polytechnic college"", ""Establishment of supervision by the Department of Education, Culture and Sports"", ""Offering of technical vocational and undergraduate courses"", ""Appointment of a college superintendent"", ""Staffing pattern alignment"", ""Transfer of assets and personnel rights"", ""Transfer of government land"", ""Appropriation of funds in the General Appropriations Act"", ""Retention of tuition for facilities"", ""Use of income from activities for equipment and incentives"", ""Salary alignment with state colleges"", ""Repeal of inconsistent laws"", ""Effectivity upon approval""]"	Republic Act No. 6758	"[""Education"", ""Polytechnic"", ""Zambales"", ""Public Law""]"	"[""Ramon Magsaysay"", ""Polytechnic"", ""Education"", ""Zambales"", ""School"", ""Conversion"", ""Funds""]"
+repacts:datasets/markdown/repacts/1992/ra_7337_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7337_1992.md	ra_7337_1992	AN ACT AUTHORIZING THE DANIEL Z. ROMUALDEZ MEMORIAL SCHOOL OF FISHERIES IN TOLOSA, LEYTE, TO CONTINUE TO OFFER THE BACHELOR OF SCIENCE IN FISHERIES PROGRAM	"**[ REPUBLIC ACT NO. 7337, April 01, 1992 ]**
+
+ AN ACT AUTHORIZING THE DANIEL Z. ROMUALDEZ MEMORIAL SCHOOL OF FISHERIES IN TOLOSA, LEYTE, TO CONTINUE TO OFFER THE BACHELOR OF SCIENCE IN FISHERIES PROGRAM
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Daniel Z. Romualdez Memorial School of Fisheries in Tolosa, Leyte, is hereby authorized to continue to offer the Bachelor of Science in Fisheries Program.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on August 28, 1991 and January 23, 1992, respectively. |  |
+| (Sgd.) **ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: April 1, 1992
+
+ (Sgd.)**CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	The act authorizes the Daniel Z. Romualdez Memorial School of Fisheries in Tolosa, Leyte, to continue offering the Bachelor of Science in Fisheries program.	"[{""title"": ""Section 1."", ""summary"": ""The Daniel Z. Romualdez Memorial School of Fisheries in Tolosa, Leyte, is hereby authorized to continue to offer the Bachelor of Science in Fisheries Program.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	7337	April 1, 1992	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}, {""name"": ""CORAZON C. AQUINO"", ""title"": ""President of the Philippines""}]"	"[{""name"": ""ANACLETO D. BADOY, JR"", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}]"	To authorize the Daniel Z. Romualdez Memorial School of Fisheries in Tolosa, Leyte, to continue offering the Bachelor of Science in Fisheries program.	"[""Authorization of the Daniel Z. Romualdez Memorial School of Fisheries to continue offering the Bachelor of Science in Fisheries program"", ""Effectivity of the act upon approval""]"		"[""Education"", ""Fisheries"", ""Legislation"", ""Republic Act"", ""Philippines""]"	"[""Daniel Z. Romualdez Memorial School of Fisheries"", ""Bachelor of Science in Fisheries"", ""Republic Act 7337"", ""Education legislation"", ""Leyte""]"
+repacts:datasets/markdown/repacts/1992/ra_7338_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7338_1992.md	ra_7338_1992	AN ACT CONVERTING THE LAGUNA SCHOOL OF ARTS AND TRADES IN THE MUNICIPALITY OF SANTA CRUZ, PROVINCE OF LAGUNA, INTO A COLLEGE TO BE KNOWN AS THE LAGUNA COLLEGE OF ARTS AND TRADES, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES	"**[ REPUBLIC ACT NO. 7338, April 01, 1992 ]**
+
+ AN ACT CONVERTING THE LAGUNA SCHOOL OF ARTS AND TRADES IN THE MUNICIPALITY OF SANTA CRUZ, PROVINCE OF LAGUNA, INTO A COLLEGE TO BE KNOWN AS THE LAGUNA COLLEGE OF ARTS AND TRADES, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Laguna School of Arts and Trades in the Municipality of Santa Cruz, Province of Laguna, is hereby converted into a national college of arts and trades, to be known as the Laguna College of Arts and Trades.
+
+ **Section 2.** The properties, records, equipment, facilities, assets and liabilities of the Laguna School of Arts and Trades shall be transferred to the Laguna College of Arts and Trades. Subject to Civil Service Laws, all personnel of the Laguna School of Arts and Trades shall be absorbed by the Laguna College of Arts and Trades.
+
+ In addition to the current appropriations of the Laguna School of Arts and Trades, the amount needed to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 3.** The Department of Education, Culture and Sports shall take the necessary steps for the immediate implementation of this Act.
+
+ **Section 4.** All laws, decrees and orders inconsistent with any provision of this Act are hereby repealed or modified accordingly.
+
+ **Section 5.** This Act shall take effect upon its approval.
+
+ Approved, April 1, 1992.
+"	success	Republic Act	Converts the Laguna School of Arts and Trades into the Laguna College of Arts and Trades, appropriates necessary funds, and establishes implementation steps.	"[{""title"": ""Section 1"", ""summary"": ""The Laguna School of Arts and Trades is converted into a national college, to be known as the Laguna College of Arts and Trades.""}, {""title"": ""Section 2"", ""summary"": ""Transfers all properties, records, equipment, facilities, assets, liabilities, and personnel of the school to the new college.""}, {""title"": ""Section 3"", ""summary"": ""The Department of Education, Culture and Sports shall take necessary steps for immediate implementation.""}, {""title"": ""Section 4"", ""summary"": ""Repeals or modifies all laws, decrees, and orders inconsistent with this Act.""}, {""title"": ""Section 5"", ""summary"": ""The Act shall take effect upon its approval.""}]"	7338	April 01, 1992			To convert the Laguna School of Arts and Trades into a national college and provide the necessary appropriation and implementation measures.	"[""Conversion of the school to a national college"", ""Transfer of all properties, records, equipment, facilities, assets, liabilities, and personnel"", ""Appropriation of funds for the new college"", ""Implementation by the Department of Education, Culture and Sports"", ""Repeal or modification of inconsistent laws"", ""Effectivity upon approval""]"		"[""Education"", ""College"", ""Laguna"", ""Republic Act""]"	"[""Laguna College of Arts and Trades"", ""conversion"", ""appropriation"", ""education""]"
+repacts:datasets/markdown/repacts/1992/ra_7339_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7339_1992.md	ra_7339_1992	AN ACT RENAMING THE SAN ISIDRO ELEMENTARY SCHOOL IN BARANGAY SAN ISIDRO, SORSOGON, TO PIO JEBULAN ELEMENTARY SCHOOL, AND FOR OTHER PURPOSES	"**[ REPUBLIC ACT NO. 7339, April 01, 1992 ]**
+
+ AN ACT RENAMING THE SAN ISIDRO ELEMENTARY SCHOOL IN BARANGAY SAN ISIDRO, SORSOGON, TO PIO JEBULAN ELEMENTARY SCHOOL, AND FOR OTHER PURPOSES
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The San Isidro Elementary School in Barangay San Isidro, Sorsogon, is hereby renamed and called as the Pio Jebulan Elementary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on October 14, 1991 and January 23, 1992, respectively. |  |
+| (Sgd.) **ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: April 1, 1992
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	An act that renames the San Isidro Elementary School in Barangay San Isidro, Sorsogon to Pio Jebulan Elementary School and provides for its effective date.	"[{""title"": ""Section 1"", ""summary"": ""Renames the San Isidro Elementary School in Barangay San Isidro, Sorsogon to the Pio Jebulan Elementary School.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	7339	April 1, 1992	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""ANACLETO D. BADOY, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}]"	To rename the San Isidro Elementary School to Pio Jebulan Elementary School.	"[""Renaming of the school"", ""Effective date upon approval""]"		"[""education"", ""school renaming"", ""Sorsogon""]"	"[""San Isidro Elementary School"", ""Pio Jebulan Elementary School"", ""renaming"", ""Sorsogon"", ""Philippines""]"
+repacts:datasets/markdown/repacts/1992/ra_7340_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7340_1992.md	ra_7340_1992	Act Changing the Name of the Jose Abad Santos High School to Pampanga High School	"**[ REPUBLIC ACT NO. 7340, April 01, 1992 ]**
+
+ AN ACT CHANGING THE NAME OF THE JOSE ABAD SANTOS HIGH SCHOOL TO PAMPANGA HIGH SCHOOL
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Jose Abad Santos High School in San Fernando, Pampanga, shall hereafter be known and referred to as the Pampanga High School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |

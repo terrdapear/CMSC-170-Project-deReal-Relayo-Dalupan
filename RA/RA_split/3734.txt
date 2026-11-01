@@ -1,0 +1,204 @@
+
+ **Section 5.** If any provision or part of this Act is declared unconstitutional, the remaining parts or provisions not affected shall remain in full force and effect.
+
+ **Section 6.** All laws, executive orders, issuances, rules and regulations inconsistent with this Act are hereby modified accordingly.
+
+ **Section 7.** This Act shall take effect fifteen (15) days after its publication in theOfficial Gazetteor in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **LORD ALAN JAY Q. VELASCO** Speaker of the House of Representatives | (SGD.)**VICENTE C. SOTTO III** President of the Senate |
+| --- | --- |
+| (SGD.) **LORD ALAN JAY Q. VELASCO** Speaker of the House of Representatives | (SGD.)**VICENTE C. SOTTO III** President of the Senate |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives on January 20, 2021, amended by the Senate of the Philippines on May 31, 2022, and which amendment was concurred in by the House of Representatives on June 1, 2022.
+
+ | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.)**MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved:JUN 29 2022
+
+ (SGD.)**RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Legislation	Republic Act No. 11870 increases the authorized bed capacity of Dr. Serapio B. Montaner, Jr. Memorial Hospital in Malabang, Lanao del Sur from twenty-five to one hundred beds, upgrades its facilities and workforce, and appropriates funds from the Bangsamoro Autonomous Region and the Department of Health to support the expansion.	"[{""title"": ""Section 1"", ""summary"": ""Increases the hospital's authorized bed capacity from 25 to 100 beds and sets a framework for future increases consistent with a hospital development plan prepared by the Department of Health.""}, {""title"": ""Section 2"", ""summary"": ""Upgrades existing professional health care services and facilities to match the increased bed capacity.""}, {""title"": ""Section 3"", ""summary"": ""Increases the workforce correspondingly and authorizes the Secretary of Health to determine additional positions with coordination from the Department of Budget and Management and the Civil Service Commission.""}, {""title"": ""Section 4"", ""summary"": ""Mandates the Bangsamoro Government to provide necessary funds for maintenance, operating expenses, and human resource complement, and includes the hospital in the Department of Health subsidy program.""}, {""title"": ""Section 5"", ""summary"": ""Provides that if any provision is declared unconstitutional, the remaining provisions remain in force.""}, {""title"": ""Section 6"", ""summary"": ""Modifies any laws, executive orders, issuances, rules and regulations inconsistent with this Act.""}, {""title"": ""Section 7"", ""summary"": ""Specifies that the Act takes effect fifteen days after publication in the Official Gazette or a newspaper of general circulation.""}]"	RA 11870	June 29, 2022	"[{""name"": ""Lord Alan J. Q. Velasco"", ""title"": ""Speaker of the House of Representatives""}, {""name"": ""Vicente C. Sotto III"", ""title"": ""President of the Senate""}]"		To increase the bed capacity of a regional hospital, upgrade its facilities and workforce, and appropriate necessary funds for its operation and development.	"[""Increase bed capacity from 25 to 100"", ""Upgrade services and facilities"", ""Increase workforce"", ""Funding from BARMM and DOH"", ""Provision for future increases"", ""Constitutionality clause"", ""Modification of inconsistent laws"", ""Effective date 15 days after publication""]"		"[""Health"", ""Hospital"", ""Bed Capacity"", ""Bangsamoro"", ""Lanao del Sur""]"	"[""bed capacity"", ""hospital"", ""Dr. Serapio B. Montaner"", ""Malabang"", ""Lanao del Sur"", ""Bangsamoro"", ""Department of Health"", ""Department of Budget and Management"", ""Civil Service Commission""]"
+repacts:datasets/markdown/repacts/2022/ra_11871_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11871_2022.md	ra_11871_2022	AN ACT INCREASING THE BED CAPACITY OF THE MARTIN MARASIGAN MEMORIAL HOSPITAL IN THE MUNICIPALITY OF CUENCA, PROVINCE OF BATANGAS FROM TWENTY-FIVE (25) TO EIGHTY (80) BEDS, AND APPROPRIATING FUNDS THEREFOR	"Eighteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-sixth day of July, two thousand twenty one.*
+
+ **[ REPUBLIC ACT NO. 11871, June 29, 2022 ]**
+
+ **AN ACT INCREASING THE BED CAPACITY OF THE MARTIN MARASIGAN MEMORIAL HOSPITAL IN THE MUNICIPALITY OF CUENCA, PROVINCE OF BATANGAS FROM TWENTY-FIVE (25) TO EIGHTY (80) BEDS, AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** The authorized bed capacity of the Martin Marasigan Memorial Hospital (MMMH) in the Municipality of Cuenca, Province of Batangas is hereby increased from twenty-five (25) to eighty (80) beds. Any future increase in bed capacity shall be consistent with the hospital development plan which shall be prepared by the Chief of Hospital of the MMMH.
+
+ **Section 2.** The existing professional health care services and facilities of the MMMH are hereby upgraded to conform with and be commensurate to the increase in its authorized bed capacity as provided for in Section 1 hereof.
+
+ **Section 3.** The existing workforce of the MMMH, which includes doctors, nurses, and support personnel, shall also be increased correspondingly.
+
+ **Section 4.** The Provincial Government of Batangas shall provide the necessary funds to support the increase in bed capacity of the MMMH and the corresponding upgrading of its facilities and services.
+
+ **Section 5.** The Secretary of the Department of Health shall include in the Departments subsidy program its support for the capital outlay requirements of the hospital.
+
+ **Section 6.** If any provision or part of this Act is declared unconstitutional, the remaining parts or provisions not affected shall remain in full force and effect.
+
+ **Section 7.** All laws, executive orders, issuances, rules and regulations inconsistent with this Act are hereby modified accordingly.
+
+ **Section 8.** This Act shall take effect fifteen (15) days after its publication in theOfficial Gazetteor in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **LORD ALAN JAY Q. VELASCO** Speaker of the House of Representatives | (SGD.)**VICENTE C. SOTTO III** President of the Senate |
+| --- | --- |
+| (SGD.) **LORD ALAN JAY Q. VELASCO** Speaker of the House of Representatives | (SGD.)**VICENTE C. SOTTO III** President of the Senate |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on January 20, 2021 and May 31, 2022, respectively.
+
+ | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.)**MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved:JUN 29 2022
+
+ (SGD.)**RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	The Act increases the authorized bed capacity of the Martin Marasigan Memorial Hospital (MMMH) in Cuenca, Batangas from 25 to 80 beds, upgrades its facilities and workforce, and appropriates necessary funds through provincial and national support.	"[{""title"": ""Section 1"", ""summary"": ""Increases the authorized bed capacity of MMMH from 25 to 80 beds.""}, {""title"": ""Section 2"", ""summary"": ""Upgrades existing professional health care services and facilities to match the increased bed capacity.""}, {""title"": ""Section 3"", ""summary"": ""Increases the workforce of MMMH, including doctors, nurses, and support personnel.""}, {""title"": ""Section 4"", ""summary"": ""Provincial Government of Batangas shall provide necessary funds for bed capacity increase and facility upgrades.""}, {""title"": ""Section 5"", ""summary"": ""Secretary of the Department of Health shall include support in the subsidy program for capital outlay.""}, {""title"": ""Section 6"", ""summary"": ""Unconstitutional provisions do not affect the remaining valid parts of the Act.""}, {""title"": ""Section 7"", ""summary"": ""All inconsistent laws, executive orders, issuances, rules and regulations are modified accordingly.""}, {""title"": ""Section 8"", ""summary"": ""Act takes effect fifteen days after publication in the Official Gazette or a newspaper of general circulation.""}]"	11871	June 29, 2022			Increase the bed capacity of MMMH to meet growing healthcare demands in Cuenca, Batangas.	"[""Increase bed capacity from 25 to 80"", ""Upgrade facilities and professional services"", ""Increase workforce accordingly"", ""Funding from Provincial Government and DH subsidy program"", ""Modification of inconsistent laws""]"		"[""healthcare"", ""hospital"", ""bed capacity"", ""public health""]"	"[""Martin Marasigan Memorial Hospital"", ""Cuenca"", ""Batangas"", ""bed capacity"", ""funding"", ""healthcare workforce""]"
+repacts:datasets/markdown/repacts/2022/ra_11872_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11872_2022.md	ra_11872_2022	AN ACT ESTABLISHING IN THE CITY OF PANABO, PROVINCE OF DAVAO DEL NORTE, A DISTRICT HOSPITAL TO BE KNOWN AS THE PANABO CITY DISTRICT HOSPITAL, AND APPROPRIATING FUNDS THEREFOR	"Eighteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-sixth day of July, two thousand twenty one.*
+
+ **[ REPUBLIC ACT NO. 11872, June 29, 2022 ]**
+
+ **AN ACT ESTABLISHING IN THE CITY OF PANABO, PROVINCE OF DAVAO DEL NORTE, A DISTRICT HOSPITAL TO BE KNOWN AS THE PANABO CITY DISTRICT HOSPITAL, AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** There shall be established in the City of Panabo, Province of Davao del Norte, a district hospital to be known as the Panabo City District Hospital, which shall be under the direct control and supervision of the Provincial Government of Davao del Norte.
+
+ **Section 2.** The Provincial Government of Davao del Norte shall manage the Panabo City District Hospital, and prepare, in consultation with the Department of Health (DOH), a hospital development plan that is aligned with the Philippine Health Facility Development Plan. Any future increase in bed capacity, health care facilities, service capability, and human resources complement shall be based on the hospital development plan.
+
+ **Section 3.** The Provincial Government of Davao del Norte shall provide the necessary funds for the establishment of the Panabo City District Hospital. The Secretary of the DOH shall include in the Departments subsidy program, support for the capital outlay requirements of the Panabo City District Hospital.
+
+ **Section 4.** If any provision or part of this Act is declared unconstitutional, the remaining parts or provisions not affected shall remain in full force and effect.
+
+ **Section 5.** All laws, executive orders, issuances, rules and regulations inconsistent with this Act are hereby modified accordingly.
+
+ **Section 6.** This Act shall take effect fifteen (15) days after its publication in theOfficial Gazetteor in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **LORD ALAN JAY Q. VELASCO** Speaker of the House of Representatives | (SGD.)**VICENTE C. SOTTO III** President of the Senate |
+| --- | --- |
+| (SGD.) **LORD ALAN JAY Q. VELASCO** Speaker of the House of Representatives | (SGD.)**VICENTE C. SOTTO III** President of the Senate |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on January 20, 2021 and May 31, 2022, respectively.
+
+ | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.)**MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved:JUN 29 2022
+
+ (SGD.)**RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	The act establishes the Panabo City District Hospital in Davao del Norte, places it under provincial control, outlines management and development planning, allocates funding, and sets its effective date.	"[{""title"": ""Section 1"", ""summary"": ""Establishes the Panabo City District Hospital and places it under the direct control and supervision of the Provincial Government of Davao del Norte.""}, {""title"": ""Section 2"", ""summary"": ""Mandates the Provincial Government to manage the hospital and develop a hospital development plan in consultation with the Department of Health.""}, {""title"": ""Section 3"", ""summary"": ""Provides that the Provincial Government will supply necessary funds and the Secretary of the DOH will include the hospital in the department\u2019s subsidy program.""}, {""title"": ""Section 4"", ""summary"": ""States that if any provision is declared unconstitutional, the remaining provisions remain in force.""}, {""title"": ""Section 5"", ""summary"": ""Modifies all laws, executive orders, issuances, rules and regulations inconsistent with this Act.""}, {""title"": ""Section 6"", ""summary"": ""Specifies that the Act takes effect fifteen days after publication in the Official Gazette or a newspaper of general circulation.""}]"	11872	June 29, 2022	"[{""name"": ""Lord Alan Jay Q. Velasco"", ""title"": ""Speaker of the House of Representatives""}, {""name"": ""Vicente C. Sotto III"", ""title"": ""President of the Senate""}]"		To establish a district hospital in Panabo City, provide a management framework, secure funding, and align it with national health development plans.	"[""Establishment of the Panabo City District Hospital"", ""Hospital under provincial control"", ""Management and development planning with DOH"", ""Funding and subsidy provisions"", ""Severability of unconstitutional provisions"", ""Modification of inconsistent laws"", ""Effective date after 15 days of publication""]"	Modifies laws inconsistent with this Act	"[""Healthcare"", ""District Hospital"", ""Public Health"", ""Davao del Norte"", ""Republic Act""]"	"[""Panabo"", ""Davao del Norte"", ""district hospital"", ""healthcare"", ""funding"", ""DOH"", ""Philippines""]"
+repacts:datasets/markdown/repacts/2022/ra_11873_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11873_2022.md	ra_11873_2022	AN ACT ESTABLISHING IN THE MUNICIPALITY OF DON MARCELINO, PROVINCE OF DAVAO OCCIDENTAL, A COMMUNITY HOSPITAL TO BE KNOWN AS THE LAMIDAN COMMUNITY HOSPITAL, AND APPROPRIATING FUNDS THEREFOR	"Eighteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-sixth day of July, two thousand twenty one.*
+
+ **[ REPUBLIC ACT NO. 11873, June 29, 2022 ]**
+
+ **AN ACT ESTABLISHING IN THE MUNICIPALITY OF DON MARCELINO, PROVINCE OF DAVAO OCCIDENTAL, A COMMUNITY HOSPITAL TO BE KNOWN AS THE LAMIDAN COMMUNITY HOSPITAL, AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** There shall be established in the Municipality of Don Marcelino. Province of Davao Occidental, a community hospital to be known as the Lamidan Community Hospital, which shall be under the direct control and supervision of the Provincial Government of Davao Occidental.
+
+ **Section 2.** The Provincial Government of Davao Occidental shall manage the Lamidan Community Hospital, and prepare, in consultation with the Department of Health (DOH), a hospital development plan that is aligned with the Philippine Health Facility Development Plan. Any future increase in bed capacity, health care facilities, service capability, and human resources complement shall be based on the hospital development plan.
+
+ **Section 3.** The Provincial Government of Davao Occidental shall provide the necessary funds for the establishment of the Lamidan Community Hospital. The Secretary of the DOH shall include in the Departments subsidy program, support for the capital outlay requirements of the Lamidan Community Hospital.
+
+ **Section 4.** If any provision or part of this Act is declared unconstitutional, the remaining parts or provisions not affected shall remain in full force and effect.
+
+ **Section 5.** All laws, executive orders, issuances, rules and regulations inconsistent with this Act are hereby modified accordingly.
+
+ **Section 6.** This Act shall take effect fifteen (15) days after its publication in theOfficial Gazetteor in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **LORD ALAN JAY Q. VELASCO** Speaker of the House of Representatives | (SGD.)**VICENTE C. SOTTO III** President of the Senate |
+| --- | --- |
+| (SGD.) **LORD ALAN JAY Q. VELASCO** Speaker of the House of Representatives | (SGD.)**VICENTE C. SOTTO III** President of the Senate |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on March 17, 2021 and May 31, 2022, respectively.
+
+ | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.)**MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved:JUN 29 2022
+
+ (SGD.)**RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Health	Republic Act No. 11873 establishes the Lamidan Community Hospital in Don Marcelino, Davao Occidental, under the direct control of the provincial government, and appropriates funds for its construction and operation. The act outlines management responsibilities, funding provisions, and procedural requirements for its implementation.	"[{""title"": ""Section 1."", ""summary"": ""Establishes the Lamidan Community Hospital in Don Marcelino under the direct control and supervision of the Provincial Government of Davao Occidental.""}, {""title"": ""Section 2."", ""summary"": ""Mandates the Provincial Government to manage the hospital and develop a hospital plan in consultation with the Department of Health, aligning with national health facility development plans.""}, {""title"": ""Section 3."", ""summary"": ""Requires the Provincial Government to provide necessary funds and the DOH Secretary to include the hospital in the Department\u2019s subsidy program.""}, {""title"": ""Section 4."", ""summary"": ""Provides that if any provision is declared unconstitutional, the remaining provisions remain in effect.""}, {""title"": ""Section 5."", ""summary"": ""Modifies any laws, executive orders, issuances, rules, or regulations inconsistent with this Act.""}, {""title"": ""Section 6."", ""summary"": ""The Act takes effect fifteen days after publication in the Official Gazette or a newspaper of general circulation.""}]"	11873	June 29, 2022	"[{""name"": ""LORD ALAN JAY Q. VELASCO"", ""title"": ""Speaker of the House of Representatives""}, {""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}]"	"[{""name"": ""MYRA MARIE D. VILLARICA"", ""title"": ""Secretary of the Senate""}, {""name"": ""MARK LLANDRO L. MENDOZA"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""RODRIGO ROA DUTERTE"", ""title"": ""President of the Philippines""}]"	To establish a community hospital in Don Marcelino, Davao Occidental, and appropriate funds for its establishment.	"[""Establishment of Lamidan Community Hospital under provincial control"", ""Provincial government to manage hospital with DOH consultation"", ""Provincial government to provide funds and DOH to include hospital in subsidy program"", ""Unconstitutional provisions do not affect remaining provisions"", ""Modification of inconsistent laws and regulations"", ""Effective 15 days after publication""]"		"[""Healthcare"", ""Community Hospital"", ""Davao Occidental"", ""Philippines"", ""Republic Act""]"	"[""Lamidan Community Hospital"", ""Don Marcelino"", ""Davao Occidental"", ""Public Health"", ""Hospital Establishment"", ""DOH"", ""Provincial Government"", ""Funds appropriation""]"
+repacts:datasets/markdown/repacts/2022/ra_11874_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11874_2022.md	ra_11874_2022	AN ACT ESTABLISHING IN THE MUNICIPALITY OF JOSE ABAD SANTOS, PROVINCE OF DAVAO OCCIDENTAL, A COMMUNITY HOSPITAL TO BE KNOWN AS THE NUING COMMUNITY HOSPITAL, AND APPROPRIATING FUNDS THEREFOR	"Eighteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-sixth day of July, two thousand twenty one.*
+
+ **[ REPUBLIC ACT NO. 11874, June 29, 2022 ]**
+
+ **AN ACT ESTABLISHING IN THE MUNICIPALITY OF JOSE ABAD SANTOS, PROVINCE OF DAVAO OCCIDENTAL, A COMMUNITY HOSPITAL TO BE KNOWN AS THE NUING COMMUNITY HOSPITAL, AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** There shall be established in the Municipality of Jose Abad Santos. Province of Davao Occidental, a community hospital to be known as the Nuing Community Hospital, which shall be under the direct control and supervision of the Provincial Government of Davao Occidental.
+
+ **Section 2.** The Provincial Government of Davao Occidental shall manage the Nuing Community Hospital, and prepare, in consultation with the Department of Health (DOH), a hospital development plan that is aligned with the Philippine Health Facility Development Plan. Any future increase in bed capacity, health care facilities, service capability, and human resources complement shall be based on the hospital development plan.
+
+ **Section 3.** The Provincial Government of Davao Occidental shall provide the necessary funds for the establishment of the Nuing Community Hospital. The Secretary of the DOH shall include in the Departments subsidy program, support for the capital outlay requirements of the Nuing Community Hospital.
+
+ **Section 4.** If any provision or part of this Act is declared unconstitutional, the remaining parts or provisions not affected shall remain in full force and effect.
+
+ **Section 5.** All laws, executive orders, issuances, rules and regulations inconsistent with this Act are hereby modified accordingly.
+
+ **Section 6.** This Act shall take effect fifteen (15) days after its publication in theOfficial Gazetteor in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **VICENTE C. SOTTO III** President of the Senate | (SGD.) **LORD ALAN JAY Q. VELASCO** Speaker of the House of Representatives |
+| --- | --- |
+| (SGD.) **VICENTE C. SOTTO III** President of the Senate | (SGD.) **LORD ALAN JAY Q. VELASCO** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on March 17, 2021 and May 31, 2022, respectively.
+
+ | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.)**MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved:JUN 29 2022
+
+ (SGD.)**RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	Establishes the Nuing Community Hospital in Jose Abad Santos, Davao Occidental, and appropriates funds for its establishment, with management by the provincial government and support from the Department of Health.	"[{""title"": ""Section 1"", ""summary"": ""Establishment of the Nuing Community Hospital under the direct control of the Provincial Government of Davao Occidental.""}, {""title"": ""Section 2"", ""summary"": ""The Provincial Government shall manage the hospital and prepare a development plan with the DOH.""}, {""title"": ""Section 3"", ""summary"": ""The Provincial Government shall provide necessary funds, and the DOH Secretary shall include it in the subsidy program.""}, {""title"": ""Section 4"", ""summary"": ""Unconstitutional provisions do not affect the remaining parts of the Act.""}, {""title"": ""Section 5"", ""summary"": ""All inconsistent laws, executive orders, issuances, rules, and regulations are modified accordingly.""}, {""title"": ""Section 6"", ""summary"": ""The Act takes effect fifteen days after publication in the Official Gazette or a newspaper of general circulation.""}]"	REPUBLIC ACT NO. 11874	June 29, 2022			To establish a community hospital in Jose Abad Santos, Davao Occidental and provide funding for its construction and operation.	"[""Establishment of the Nuing Community Hospital"", ""Provincial Government of Davao Occidental to manage the hospital"", ""Appropriation of funds for establishment"", ""DOH support through subsidy program"", ""Effectivity fifteen days after publication"", ""Modification of inconsistent laws""]"		"[""Healthcare"", ""Hospital"", ""Davao Occidental"", ""Community Hospital""]"	"[""Nuing Community Hospital"", ""Jose Abad Santos"", ""Davao Occidental"", ""Department of Health"", ""Health Facility Development Plan"", ""Republic Act 11874""]"
+repacts:datasets/markdown/repacts/2022/ra_11875_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11875_2022.md	ra_11875_2022	AN ACT INCREASING THE BED CAPACITY OF THE LINGAYEN DISTRICT HOSPITAL IN THE MUNICIPALITY OF LINGAYEN, PROVINCE OF PANGASINAN FROM SIXTY (60) TO ONE HUNDRED (100) BEDS, AND APPROPRIATING FUNDS THEREFOR	"Eighteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-sixth day of July, two thousand twenty one.*
+
+ **[ REPUBLIC ACT NO. 11875, June 29, 2022 ]**
+
+ **AN ACT INCREASING THE BED CAPACITY OF THE LINGAYEN DISTRICT HOSPITAL IN THE MUNICIPALITY OF LINGAYEN, PROVINCE OF PANGASINAN FROM SIXTY (60) TO ONE HUNDRED (100) BEDS, AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** The authorized bed capacity of the Lingayen District Hospital, Province of Pangasinan is hereby increased from sixty (60) to one hundred (100) beds. Any future increase in bed capacity shall be consistent with its hospital development plan which shall prepared by Chief of Hospital of the Lingayen District Hospital.
+
+ **Section 2.** The existing professional health care services and facilities shall also be upgraded to conform with and be commensurate to the bed capacity increase as provided for Section 1 hereof.
+
+ **Section 3.** The existing workforce of the Lingayen District Hospital, which includes doctors, nurses and support personnel, shall also be increased correspondingly.
+
+ **Section 4.** The Provincial Government of Pangasinan shall provide the necessary funds to support the increase in bed capacity of the Lingayen District Hospital and the corresponding upgrading of its facilities and services.
+
+ **Section 5.** The Secretary of the Department of Health (DOH) shall include in the DOHs subsidy program its support for the capital outlay requirements of the hospital.
+
+ **Section 6.** If any provision or part of this Act is declared unconstitutional, the remaining parts or provisions not affected shall remain in full force and effect.
+
+ **Section 7.** All laws, executive orders, issuances, rules and regulations inconsistent with this Act are hereby modified accordingly.
+
+ **Section 8.** This Act shall take effect fifteen (15) days after its publication in theOfficial Gazetteor in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **LORD ALAN JAY Q. VELASCO** Speaker of the House of Representatives | (SGD.)**VICENTE C. SOTTO III** President of the Senate |
+| --- | --- |
+| (SGD.) **LORD ALAN JAY Q. VELASCO** Speaker of the House of Representatives | (SGD.)**VICENTE C. SOTTO III** President of the Senate |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on May 25, 2021 and May 31, 2022, respectively.
+
+ | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.)**MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |

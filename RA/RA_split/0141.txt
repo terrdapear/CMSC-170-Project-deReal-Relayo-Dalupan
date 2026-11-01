@@ -1,0 +1,153 @@
+
+ **Section 9.** All acts or parts of acts inconsistent with the provisions of this Act are hereby repealed.
+
+ **Section 10.** This Act shall take effect upon its approval.
+
+ Approved, June 10, 1949.
+"	success	Legislative Act	Republic Act No. 367 establishes the Bureau of Industrial Safety, defines its powers and functions, outlines safety requirements for employers, establishes a Commissioner, and specifies enforcement mechanisms to protect workers and prevent industrial accidents.	"[{""title"": ""Section 1"", ""summary"": ""Creates the Bureau of Industrial Safety and enumerates its powers, including issuing safety orders, inspecting industrial establishments, registering establishments, collecting fees, and promoting safety measures.""}, {""title"": ""Section 2"", ""summary"": ""Defines key terms such as \""employer\"" and \""safety,\"" providing clarity on the scope of the Act's application.""}, {""title"": ""Section 3"", ""summary"": ""Provides for the appointment of a Commissioner by the President with Senate confirmation, and sets the annual compensation for the position.""}, {""title"": ""Section 4"", ""summary"": ""Lists the specific powers of the Commissioner, including administering oaths, issuing permits, inspecting facilities, and ordering repairs for unsafe conditions.""}]"	367	June 10, 1949			To establish a governmental body responsible for ensuring safe working conditions and preventing industrial accidents in the Philippines.	"[""Creation of the Bureau of Industrial Safety"", ""Powers to issue safety orders and regulations"", ""Inspection and enforcement of industrial safety"", ""Appointment of a Commissioner"", ""Collection of safety inspection fees""]"		"[""Industrial Safety"", ""Labor"", ""Bureau"", ""Republic Act"", ""Philippines""]"	"[""Bureau of Industrial Safety"", ""industrial accidents"", ""employer safety"", ""Commissioner"", ""Department of Labor""]"
+repacts:datasets/markdown/repacts/1949/ra_368_1949.md	repacts	1949		datasets/markdown/repacts/1949/ra_368_1949.md	ra_368_1949	AN ACT TO FIX THE SALARIES OF PROVINCIAL GOVERNORS, PROVINCIAL TREASURERS, PROVINCIAL AUDITORS, DISTRICT HEALTH OFFICERS, AND PROVINCIAL ASSESSORS.	"**[ REPUBLIC ACT NO. 368, June 10, 1949 ]**
+
+ AN ACT TO FIX THE SALARIES OF PROVINCIAL GOVERNORS, PROVINCIAL TREASURERS, PROVINCIAL AUDITORS, DISTRICT HEALTH OFFICERS, AND PROVINCIAL ASSESSORS.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The annual salaries of provincial governor provincial treasurers, provincial auditors, district health officers, and provincial assessors shall be as hereinbelow fixed:
+
+ In first class A provinces: for provincial governors, eight thousand four hundred pesos; for provincial treasurers six thousand six hundred pesos; for provincial auditor district health officers, five thousand seven hundred pesos; and for provincial assessors, four thousand eight hundred pesos.
+
+ In first class B provinces: for provincial governors, seven thousand eight hundred pesos; for provincial treasurers, six thousand three hundred pesos; for provincial auditors and district health officers, five thousand four hundred pesos; and for provincial assessors, four thousand five hundred pesos.
+
+ In regular first-class provinces: for provincial governors, seven thousand two hundred pesos; for provincial treasurers, six thousand pesos; for provincial auditors and district health officers, five thousand one hundred pesos; and for provincial assessors, four thousand two hundred pesos.
+
+ In second-class provinces: for provincial governors, six thousand six hundred pesos; for provincial treasurers, five thousand seven hundred pesos; for provincial auditors and district health officers, four thousand eight hundred pesos; and for provincial assessors, three thousand six hundred pesos.
+
+ In third-class provinces: for provincial governors, six thousand pesos; for provincial treasurers, five thousand one hundred pesos; for provincial auditors and district health officers, four thousand five hundred pesos; and for provincial assessors, three thousand three hundred pesos.
+
+ In fourth-class provinces: for provincial governors, five thousand four hundred pesos; for provincial treasurers, four thousand eight hundred pesos; for provincial auditors and district health officers, three thousand nine hundred sixty pesos; and for provincial assessors, three thousand one hundred twenty pesos.
+
+ In fifth-class provinces: for provincial governors, four thousand eight hundred pesos; for provincial treasurers, four thousand two hundred pesos; for provincial auditors and district health officers, three thousand seven hundred twenty pesos; and for provincial assessors, three thousand pesos.
+
+ *Provided,* That if after the salary of a provincial governor or a provincial treasurer or a provincial auditor or a district health officer or a provincial assessor has been increased by virtue of the provisions hereof, the province concerned incurs an overdraft in its general fund or the operating expenses thereof exceed the revenue collections the President of the Philippines, upon recommendation of the proper department head shall reduce the salary of that official to the maximum rate fixed for the corresponding official in the next lower class of province.
+
+ **Section 2.** One-half of the salary of the provincial auditor and of the district health officer shall be paid out of the national funds and the other half shall be paid out of the general fund and health fund respectively of the province concerned: *Provided,* however, That an increase in salary of any provincial auditor or district health officer as herein fixed shall not take effect until after one-half thereof shall have been provided for in the General Appropriation Act.
+
+ **Section 3.** All acts and regulations inconsistent with the provisions of this Act are repealed,
+
+ **Section 4.** This Act shall take effect on July 1, 1949.
+
+ Approved, June 10, 1949.
+"	success	Republic Act	Republic Act No. 368 fixes salaries for provincial officials across classes of provinces and sets provisions for salary adjustments, split payments, and repeal of inconsistent acts.	"[{""title"": ""Section 1"", ""summary"": ""Defines fixed annual salaries for provincial governors, treasurers, auditors, district health officers, and assessors in first class A, first class B, regular first\u2011class, second\u2011, third\u2011, fourth\u2011, and fifth\u2011class provinces.""}, {""title"": ""Section 2"", ""summary"": ""States that one\u2011half of the salary of provincial auditors and district health officers shall be paid from national funds, the other half from provincial funds, and that salary increases take effect only after provisions in the General Appropriation Act.""}, {""title"": ""Section 3"", ""summary"": ""Repeals all acts and regulations inconsistent with this Act.""}, {""title"": ""Section 4"", ""summary"": ""Provides effectivity of the Act on July 1, 1949.""}]"	368	June 10, 1949			To fix the salaries of provincial governors, provincial treasurers, provincial auditors, district health officers, and provincial assessors.	"[""Fixed salary scales for provincial officials across all classes of provinces"", ""Reduction provision for provinces exceeding budgetary limits"", ""Half salary payment from national funds for auditors and health officers"", ""Requiring General Appropriation Act provisions before salary increases"", ""Repeal of inconsistent acts"", ""Effectivity on July 1, 1949""]"		"[""salaries"", ""provincial officials"", ""public finance""]"	"[""salaries"", ""provincial governors"", ""provincial treasurers"", ""provincial auditors"", ""district health officers"", ""provincial assessors"", ""Republic Act 368"", ""1949"", ""Philippines""]"
+repacts:datasets/markdown/repacts/1949/ra_369_1949.md	repacts	1949		datasets/markdown/repacts/1949/ra_369_1949.md	ra_369_1949	AN ACT PROVIDING FOR THE REDEMPTION OF EMERGENCY AND GUERRILLA CURRENCY NOTES REGISTERED AND DEPOSITED UNDER THE PROVISIONS OF REPUBLIC ACT NUMBERED TWENTY-TWO, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES	"**[ REPUBLIC ACT NO. 369, June 10, 1949 ]**
+
+ AN ACT PROVIDING FOR THE REDEMPTION OF EMERGENCY AND GUERRILLA CURRENCY NOTES REGISTERED AND DEPOSITED UNDER THE PROVISIONS OF REPUBLIC ACT NUMBERED TWENTY-TWO, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Subject to the examination and segregation made by the provincial or city committees created under the provisions of section nine of Republic Act Numbered Twenty-two, holders of certificates of registration and deposit of emergency and guerrilla currency notes duly and properly issued to them by the registering officials designated under the aforesaid Act, except notes which are counterfeit or were redeemed by the Japanese-sponsored government in the Philippines or those still held in trust by former Government officials and employees or officers of the USAFFE and of the defunct Commonwealth Government in the field during the enemy occupation representing unexpended balances of their accountabilities in emergency and guerrilla currency funds prior to the liberation and which were accepted for deposit and safe-keeping only, shall be entitled to the payment of their holdings as follows:
+
+ > (a) For holders of the following pre-surrender emergency currency issues, one hundred per centum:
+>
+>  | Name of Issuing Board or Committee | Name of Chairman |
+> | --- | --- |
+> | 1. Cebu Currency Committee | S. C. Miranda |
+> | 2. Iloilo Currency Committee | G. S. Cervantes |
+> | 3. Negros Occidental Currency Committee | J. V. Buenaventura |
+> | 4. Masbate, Provincial Government of | M. S. Pecson |
+> | 5. Negros Occidental Provincial Currency Committee | N. Encarnacion |
+> | 6. Mountain Province Emergency Currency Board | R. Perido |
+> | 7. Misamis Oriental Currency Committee | U. D. Laya |
+> | 8. Lanao Currency Committee | P. Encarnacion |
+> | 9. Nueva Vizcaya Emergency Currency Board | D. Quirino |
+> | 10. Culion Emergency Currency Committee (Palawan) | H. W. Wade |
+> | 11. Cebu Emergency Currency Board | B. T. del Bando |
+> | 12. Isabela Emergency Legal Tender Currency Committee | G. Visaya |
+> | 13. Mindanao Emergency Currency Board | T. Guingona |
+> | 14. Leyte Emergency Currency Board | A. Santa Cruz |
+>
+>  the redemption of the foregoing pre-surrender issues the sum of six million seven hundred sixty-three thousand three hundred twelve pesos and forty-one centavos is appropriated from the fiduciary fund received by the government of the Philippines from the Government of the United States pursuant to Republic Act Numbered Thirty-three, and, in addition thereto, such sum as may be necessary, not exceeding eighteen million pesos appropriated out of any funds in the National Treasury not otherwise appropriated: *Provided,* however, That in case of unavailability of funds for the redemption in full of said issues, any amount in excess of one thousand pesos in any holding shall be redeemed when funds shall be available.
+>
+>  (b) For holders of the following registered post-guerrilla notes one hundred per centum for the first five hundred pesos; fifty per centum for all amounts in excess of five hundred pesos up to one thousand pesos; thirty per centum for all amounts in excess of one thousand pesos up to ten thousand pesos; and fifteen per centum for all amounts in excess of ten thousand pesos, with preference to the payment in favor of holders of small amounts:
+>
+>  | Name of Issuing Board or Committee | Name of Chairman |
+> | --- | --- |
+> | 1. Misamis Occidental Currency Committee | F. Pacana |
+> | 2. Palawan Provincial Emergency Currency Committee | G. K. Abordo |
+> | 3. Ilocos Norte Emergency Currency Board | R. Ablan |
+> | 4. Zamboanga Emergency Currency Committee | F. Azcuna |
+> | 5. Cagayan Currency Board | M. Adduru |
+> | 6. Iloilo Currency Committee | J. Buenafe |
+> | 7. Free Negros Military Currency Committee | E. S. Mata |
+> | 8. Mindanao Emergency Currency Board | F. Saguin |
+> | 9. Bohol Emergency Currency Board | D. Ramos |
+> | 10. Negros Emergency Currency Board | A. Montelibano |
+> | 11. Leyte Emergency Currency Board | E. Potente |
+> | 12. Apayao Legal Tender Emergency Currency Committee | M. Ayochock |
+> | 13. USAFFE or AUSA (Samar) Currency Board | P. V. Merritt |
+> | 14. Municipal Issues, Palawan | Local Office |
+> | 15. Free Samar Currency Committee | V. Dira |
+> | 16 Negros Oriental Emergency Currency Committee | J. Valente |
+> | 17 Free Samar Currency Board E. | C. Chicano |
+>
+>  *Provided,* however, That in case the amount claimed hall be beyond any of the group in the scales above enumerated but not beyond the succeeding scale, redemption shall in no case be less than the maximum amount of the last preceding scale.
+>
+>  The sum of forty-three million two hundred thirty-six thousand six hundred eighty-seven pesos and fifty-nine centavos is appropriated from the fiduciary fund received by the Government of the Philippines from the Government of the United States pursuant to Republic Act Numbered Thirty-three for the redemption of the said post-surrender issues.
+
+ **Section 2.** The foregoing settlement of guerrilla and emergency issues (pre- and post-surrender issues) shall be without prejudice to any further settlement which may be effected by virtue of any sum of money which may be received by the Government of the Philippines from the Government of the United States as a result of posterior negotiations for the further redemption of such issues.
+
+ **Section 3.** In the case of mutilated emergency and guerrilla currency notes, the same shall first be given value in accordance with the existing regulations of the Treasury of the Philippines concerning the redemption of mutilated Treasury certificates, upon which value the redemption rates shall be applied; and in the case of a husband and wife who registered their holdings separately and who are not legally divorced or separated, their registered holdings shall be treated as one and the percentages of redemption provided for in this section shall be applied thereto.
+
+ **Section 4.** Subject to such rules and regulations as may be prescribed by the Secretary of Finance, the redemption of emergency and guerrilla currency notes authorized in this Act shall be effected by the corresponding provincial, city or Municipal treasurer and payments shall be made by them to owners of the notes upon surrender by the latter of the certificates of registration and deposit of emergency currency. The date for the commencement of redemption shall be announced by the Secretary of Finance, which shall not be later than three months after the approval of this Act.
+
+ **Section 5.** No payment shall be made to the Philippine National Bank or to its branches and agencies and to other government entities, including provincial, city and municipal governments, without the approval of the President of the Philippines, and only after all deposits of private persons and entities under Republic Act Numbered Twenty-two shall have actually been settled.
+
+ **Section 6.** So much amount as may be deemed actually necessary for the operational expenses of the Emergency Currency Board in continuing its duties and functions under Republic Act Numbered Twenty-two and in carrying out the provisions of this Act is hereby authorized to be allotted out of the funds herein made available for the redemption of registered emergency currency notes.
+
+ **Section 7.** The balance remaining unredeemed as a result of the foregoing scale of redemption shall be payable in treasury certificates of indebtedness collectible in twenty years.
+
+ **Section 8.** This Act shall take effect upon its approval.
+
+ Approved, June 10, 1949.
+"	success	Republic Act	This law establishes the redemption of emergency and guerrilla currency notes issued under Republic Act No. 22, appropriating funds from the fiduciary fund received from the U.S. government and the national treasury to pay holders of pre‑surrender and post‑surrender currency notes at specified rates, with provisions for cases of insufficient funds, mutilated notes, and joint registration of spouses.	"[{""title"": ""Section 1"", ""summary"": ""Specifies redemption rates for holders of pre\u2011surrender and post\u2011surrender emergency currency notes, appropriates amounts from the fiduciary fund and national treasury, and sets conditions for partial redemption if funds are unavailable.""}, {""title"": ""Section 2"", ""summary"": ""Affirms that the settlement of guerrilla and emergency issues under this Act is without prejudice to any further settlement that may be effected by future sums received from the U.S. government.""}, {""title"": ""Section 3"", ""summary"": ""Provides for the valuation and redemption of mutilated emergency and guerrilla currency notes and addresses the handling of jointly registered holdings by spouses.""}]"	369	June 10, 1949			To provide for the redemption of emergency and guerrilla currency notes and to appropriate funds for the same.	"[""Redemption of pre\u2011surrender emergency currency notes at 100% or specified amounts for post\u2011surrender notes based on tiers."", ""Appropriation of \u20b16,763,312.41 from the fiduciary fund and up to \u20b118,000,000 from the national treasury."", ""Redemption of post\u2011surrender notes with tiered rates: 100% up to \u20b1500, 50% for amounts above \u20b1500 to \u20b11,000, 30% for amounts above \u20b11,000 to \u20b110,000, and 15% for amounts above \u20b110,000."", ""Provision for partial redemption if funds are insufficient and for handling mutilated notes.""]"	Republic Act No. 22, Republic Act No. 33	"[""currency"", ""redemption"", ""emergency"", ""guerrilla"", ""funds""]"	"[""Emergency Currency"", ""Guerrilla Currency"", ""Redemption"", ""Republic Act 369"", ""Philippines"", ""federal fund"", ""treasury""]"
+repacts:datasets/markdown/repacts/1949/ra_370_1949.md	repacts	1949		datasets/markdown/repacts/1949/ra_370_1949.md	ra_370_1949	AN ACT TO AMEND SECTION EIGHTEEN HUNDRED AND TWENTY-ONE OF ACT NUMBERED TWENTY-SEVEN HUNDRED AND ELEVEN, KNOWN AS THE REVISED ADMINISTRATIVE CODE.	"**[ REPUBLIC ACT NO. 370, June 14, 1949 ]**
+
+ AN ACT TO AMEND SECTION EIGHTEEN HUNDRED AND TWENTY-ONE OF ACT NUMBERED TWENTY-SEVEN HUNDRED AND ELEVEN, KNOWN AS THE REVISED ADMINISTRATIVE CODE.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Section eighteen hundred and twenty-one of Act Numbered Twenty-seven hundred and eleven, known as the Revised Administrative Code, is hereby amended to read as follows:
+
+ > ""Section 1821.Groups of trees. The various trees shall be divided into four groups;
+>
+>  ""The first group shall include Akle, Akleng-parang, Al-maciga, Ai'anga, Bakan, Balu, Bansalagin, Banuyo, Bati-kuling, Batitihan, Betis, Caa-fistula, Dagula, Dao, Dugon Dungon-late, Duyok-duyok, Ebony, Gisok, Guijo, Gisok-gisok, Ipil, Kaburo, Kalamansanai, Kalantas, Kaliot, Kamagon, Kulilisiau, Lanete, Magasusu, Malabunga, Malaguijo, Malakadios, Malakauayan, Mancono, Manggachapui, Maranggo, Margapali, Matang-usa, Molave, Narek, Narig, Narra, Saplugan, Sudiang, Supa, Tambulian, Teak, Tindalo, Urung and Yakal.
+>
+>  ""The second group shall include Afu, Alupag, Alupag-amo, Amugis, Anubing, Apitong, Banaba, Bagras (Amamanit), Batino, Binggas, Bitanghol or Palomaria del monte, Bitaog, Bolong-eta, Dagang, Hagakhak, Kamatog, Kamuning, Katmon, Katmon-kalabau, Kayu-galu, Kubi, Lanutan, Lumbayau, Lumbayau-bato, Makaasim, Malabatino, Malabayabas, Malakatmon, Malugai, Manggis, Mangkas, Ma-pilig, Marabitaog, Mayapis, Nato, Pagatpat, Palosapis, Pamitaogen, Panau, Piagau, Pili, Pine Benguet, Philippine chestnut, Red lauan, Sangilo, Taba, Tabau, Tabigi, Tamayuan, Tangile, Tanglin, Tiga and Tukang-kalau.
+>
+>  ""The third grorp shall include Agoho, Agoho del monte, Almon, Amayan, Anislag, Antipolo, Bagtikan, Batete, Batukanag, Bayanti, Bayok, Bogo, Bulala, Bulog, Dalinsi, Gisihan, Gubas, Haras, Kaligag, Kalumpit, Kalunti, Kansulud, Kato, Kayatau, Kulingmanok, Lamio, Lago, Lamog, Lanipau, Liusin, Malaanonang, Malakamias, Malanbigan, Malapapaya, Malasaging, Malasantol, Malatumbaga, Matamata Miao, Nangka, Oak, Pahutan, Sakat, Salakin, Salinkugi Sandit, Santol, Tanghas, Talisai, Talisai-gubat, Taluto, Toog, Unik and White lauan.
+>
+>  The fourth group shall include all species not included in any of the other groups.
+>
+>  ""The Director of Forestry may in his discretion by public order or regulation and with the approval of the Department Head change the permanent grouping of any trees but no change in the grouping of a particular tree shall be made greater frequency than at intervals of three years:*Provided,* however, That this period shall be computed from the date of the last order or regulation changing the grouping.""
+
+ **Section 2.** This Act shall take effect upon its approval
+
+ Approved, June 14, 1949.
+"	success	Republic Act	This act amends Section 1821 of the Revised Administrative Code to classify trees into four distinct groups, authorize the Director of Forestry to adjust groupings by public order or regulation with Department Head approval, and establish a three-year interval for such changes. The act becomes effective upon approval on June 14, 1949.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 1821 of the Revised Administrative Code by defining four groups of trees, listing species in each group, and allowing the Director of Forestry to change groupings via public order or regulation with Department Head approval, subject to a minimum interval of three years between changes.""}, {""title"": ""Section 2"", ""summary"": ""Declares that the act shall take effect upon its approval.""}]"	370	June 14, 1949			To amend Section 1821 of the Revised Administrative Code to establish tree classification groups and govern adjustments to those groupings.	"[""Amendment of Section 1821 to classify trees into four groups"", ""Authority granted to Director of Forestry to change groupings by public order or regulation with Department Head approval"", ""Changes to grouping prohibited more frequently than every three years""]"	Section 1821 of Act 2711 (Revised Administrative Code)	"[""Amendment"", ""Revised Administrative Code"", ""Forestry"", ""Tree Classification""]"	"[""tree grouping"", ""Revised Administrative Code"", ""Forestry"", ""Department of Environment"", ""Act 370""]"
+repacts:datasets/markdown/repacts/1949/ra_371_1949.md	repacts	1949		datasets/markdown/repacts/1949/ra_371_1949.md	ra_371_1949	AN ACT PROVIDING FOR AN EQUAL DISTRIBUTION BETWEEN THE NATIONAL GOVERNMENT AND THE CITY, MUNICIPALITY OR MUNICIPAL DISTRICT CONCERNED, OF ALL FINES AND SURCHARGES COLLECTED FOR VIOLATIONS OF FOREST LAWS AND REGULATIONS.	"**[ REPUBLIC ACT NO. 371, June 14, 1949 ]**
+
+ AN ACT PROVIDING FOR AN EQUAL DISTRIBUTION BETWEEN THE NATIONAL GOVERNMENT AND THE CITY, MUNICIPALITY OR MUNICIPAL DISTRICT CONCERNED, OF ALL FINES AND SURCHARGES COLLECTED FOR VIOLATIONS OF FOREST LAWS AND REGULATIONS.
+
+ Be it enacted by the Senate and House of Representative of the Philippines in Congress assembled:
+
+ **Section 1.** Any provision of law to the contrary notwithstanding, in all cases of violation of forest laws and regulations, one-half of the fine or surcharge impose shall accrue to the general fund of the National Government, and the other half, to the general fund of the municipality or municipal district where the violate was committed and the fine or surcharge collected.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 14, 1949.
+"	success	Republic Act	This act mandates that fines and surcharges collected for violations of forest laws and regulations be equally divided between the national government and the local government where the violation occurred.	"[{""title"": ""Section 1"", ""summary"": ""In all cases of violation of forest laws, one-half of the fine or surcharge shall accrue to the general fund of the National Government, and the other half to the general fund of the municipality or municipal district where the violation was committed.""}, {""title"": ""Section 2"", ""summary"": ""The Act shall take effect upon its approval.""}]"	371	June 14, 1949			To ensure an equitable distribution of fines and surcharges related to forest law violations between national and local governments.	"[""One-half of fines and surcharges to the national general fund."", ""One-half of fines and surcharges to the local general fund of the municipality or district."", ""Act takes effect upon approval.""]"		"[""forest law"", ""fines"", ""surcharges"", ""distribution"", ""local government""]"	"[""forest laws"", ""fines"", ""surcharges"", ""distribution"", ""national government"", ""municipality""]"
+repacts:datasets/markdown/repacts/1949/ra_372_1949.md	repacts	1949		datasets/markdown/repacts/1949/ra_372_1949.md	ra_372_1949	AN ACT TO APPROPRIATE THE SUM OF TWO MILLION PESOS FOR THE REHABILITATION OF STOCK FARMS, BREEDING STATIONS AND BREEDING CENTERS AND FOR THE ESTABLISHMENT AND OPERATION OF NEW FARMS.	"**[ REPUBLIC ACT NO. 372, June 14, 1949 ]**
+
+ AN ACT TO APPROPRIATE THE SUM OF TWO MILLION PESOS FOR THE REHABILITATION OF STOCK FARMS, BREEDING STATIONS AND BREEDING CENTERS AND FOR THE ESTABLISHMENT AND OPERATION OF NEW FARMS.
+
+ Be it enacted to the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated the sum of two million pesos for the rehabilitation of stock farms, breeding stations and breeding centers and for the establishment and operation of new stock farms. The said sum shall be disbursed, in accordance with the objectives of this Act, by the Director of Animal Industry, subject to the approval of the Secretary of Agriculture and Natural Resources, for the purchase of breeding animals; for the acquisition of the necessary land, including a survey; for the construction, maintenance and repair of buildings, sheds, stables, corrals, fences and other necessary structures; for the payment of salaries and wages and traveling expenses of necessary personnel; for freight and delivery service; for the purchase of needed furniture and equipment, supplies and materials; and for such other expenses as may be deemed necessary to carry out the purposes of this Act, provided, that at least eight hundred thousand pesos shall be spent for the purchase of animals to be distributed equitably among the existing stock farms, and the balance for new farms.

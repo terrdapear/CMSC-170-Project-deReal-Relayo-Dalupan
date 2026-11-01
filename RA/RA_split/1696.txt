@@ -1,0 +1,210 @@
+repacts:datasets/markdown/repacts/1992/ra_7270_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7270_1992.md	ra_7270_1992	AN ACT INCREASING THE BED CAPACITY OF THE MALIMONO DISTRICT HOSPITAL IN THE MUNICIPALITY OF MALIMONO, PROVINCE OF SURIGAO DEL NORTE, FROM TEN (10) TO TWENTY-FIVE (25) BEDS, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 7270, March 20, 1992 ]**
+
+ AN ACT INCREASING THE BED CAPACITY OF THE MALIMONO DISTRICT HOSPITAL IN THE MUNICIPALITY OF MALIMONO, PROVINCE OF SURIGAO DEL NORTE, FROM TEN (10) TO TWENTY-FIVE (25) BEDS, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The bed capacity of the Malimono District Hospital in the Municipality of Malimono, Province of Surigao del Norte, is hereby increased from ten (10) to twenty-five (25) beds.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on January 16, 1992 and December 17, 1991, respectively. |  |
+| (Sgd.) **ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: March 20, 1992
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	The act increases the bed capacity of the Malimono District Hospital from ten (10) to twenty‑five (25) beds and appropriates funds for its implementation.	"[{""title"": ""Section 1"", ""summary"": ""The bed capacity of the Malimono District Hospital is increased from ten (10) to twenty\u2011five (25) beds.""}, {""title"": ""Section 2"", ""summary"": ""The necessary amount for the Act shall be included in the General Appropriations Act of the following year and thereafter.""}, {""title"": ""Section 3"", ""summary"": ""The Act shall take effect upon its approval.""}]"	7270	March 20, 1992			Increase bed capacity of Malimono District Hospital from ten to twenty‑five beds and appropriate funds.	"[""The bed capacity of Malimono District Hospital is increased from ten (10) to twenty\u2011five (25) beds."", ""The necessary amount for the Act shall be included in the General Appropriations Act of the following year and thereafter."", ""The Act shall take effect upon its approval.""]"		"[""Healthcare"", ""Hospital"", ""Bed Capacity"", ""Surigao del Norte"", ""Public Health""]"	"[""bed capacity"", ""Malimono District Hospital"", ""Surigao del Norte"", ""appropriation"", ""public health"", ""hospital beds""]"
+repacts:datasets/markdown/repacts/1992/ra_7271_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7271_1992.md	ra_7271_1992	AN ACT INCREASING THE BED CAPACITY OF THE BARILI DISTRICT HOSPITAL IN THE PROVINCE OF CEBU, FROM TEN (10) TO TWENTY-FIVE (25) BEDS, AND APPROPRIATING FUNDS THEREFOR	"Fifth Regular Session
+
+ BBegun and held in Metro Manila on Monday, the twenty-second day of July, nineteen hundred and ninety-one
+
+ **[ REPUBLIC ACT NO. 7271, March 20, 1992 ]**
+
+ AN ACT INCREASING THE BED CAPACITY OF THE BARILI DISTRICT HOSPITAL IN THE PROVINCE OF CEBU, FROM TEN (10) TO TWENTY-FIVE (25) BEDS, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The bed capacity of the Barili District Hospital in the Municipality of Barili, Province of Cebu, is hereby increased from ten (10) to twenty five (25) beds.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on March 12, 1991 and December 3, 1991, respectively. |  |
+| (Sgd.) **ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: March 20, 1992
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	An act to increase the bed capacity of Barili District Hospital from ten to twenty-five beds, appropriating necessary funds and including the amount in the General Appropriations Act of the following year.	"[{""title"": ""Section 1."", ""summary"": ""The bed capacity of the Barili District Hospital in the Municipality of Barili, Province of Cebu, is hereby increased from ten (10) to twenty five (25) beds.""}, {""title"": ""Section 2."", ""summary"": ""The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law.""}, {""title"": ""Section 3."", ""summary"": ""This Act shall take effect upon its approval.""}]"	7271	1992-03-20	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""ANACLETO D. BADOY, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""CORAZON C. AQUINO"", ""title"": ""President of the Philippines""}]"	To increase the bed capacity of Barili District Hospital and appropriate necessary funds.	"[""Increase bed capacity from ten to twenty-five beds"", ""Appropriation of funds for the increase"", ""Inclusion of funds in the following year's General Appropriations Act"", ""Effective upon approval""]"		"[""Healthcare"", ""Hospital"", ""Bed Capacity"", ""Cebu"", ""Republic Act""]"	"[""bed capacity"", ""Barili District Hospital"", ""Cebu"", ""Republic Act 7271"", ""hospital beds"", ""funds appropriation"", ""General Appropriations Act""]"
+repacts:datasets/markdown/repacts/1992/ra_7272_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7272_1992.md	ra_7272_1992	AN ACT CONVERTING THE ZAMBOANGA REGIONAL HOSPITAL IN ZAMBOANGA CITY INTO ZAMBOANGA CITY MEDICAL CENTER, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 7272, March 24, 1992 ]**
+
+ AN ACT CONVERTING THE ZAMBOANGA REGIONAL HOSPITAL IN ZAMBOANGA CITY INTO ZAMBOANGA CITY MEDICAL CENTER, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The existing Zamboanga Regional Hospital in Zamboanga City is hereby converted into and shall henceforth be known as the Zamboanga City Medical Center, hereinafter called the Medical Center.
+
+ **Section 2.** The Medical Center shall serve as the principal hospital facility of Region IX. It shall have a minimum bed capacity of two hundred fifty (250).
+
+ **Section 3.** The Medical Center shall be under the jurisdiction of the Department of Health which is hereby authorized to organize the management and administration thereof in accordance with existing laws, rules and regulations: *Provided, however,* That the present staff and personnel of the Zamboanga Regional Hospital shall be transferred to and absorbed by the Medical Center.
+
+ **Section 4.** The amount necessary to carry out the provisions of this Act shall be charged against the lump-sum appropriations authorized for the purpose under the current General Appropriations Act. Thereafter, such sums as may be necessary for the operation and maintenance of the hospital shall be included in the annual General Appropriations Act.
+
+ **Section 5.** All lands, buildings, unexpected appropriations, and other properties and assets, fixed and movable, belonging to the Zamboanga Regional Hospital are hereby transferred to the Zamboanga City Medical Center.
+
+ **Section 6.** The Secretary of the Department of Health is hereby directed to immediately implement this Act.
+
+ **Section 7.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on January 23, 1991 and January 23, 1992, respectively. |  |
+| (Sgd.) **ANACLETO D. BADOY, JR** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: March 24, 1992
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Act	The Republic Act No. 7272 converts the Zamboanga Regional Hospital into the Zamboanga City Medical Center, establishes its bed capacity, jurisdiction, funding, property transfer, and effective date.	"[{""title"": ""Section 1."", ""summary"": ""Conversion of the Zamboanga Regional Hospital into the Zamboanga City Medical Center.""}, {""title"": ""Section 2."", ""summary"": ""The Medical Center shall serve as the principal hospital facility of Region IX with a minimum capacity of 250 beds.""}, {""title"": ""Section 3."", ""summary"": ""The Medical Center falls under the jurisdiction of the Department of Health, and existing staff are transferred to the new center.""}, {""title"": ""Section 4."", ""summary"": ""Funding for the Act is to be charged to the lump-sum appropriations and future General Appropriations Acts.""}, {""title"": ""Section 5."", ""summary"": ""All lands, buildings, and assets of the former hospital are transferred to the Medical Center.""}, {""title"": ""Section 6."", ""summary"": ""The Secretary of the Department of Health is directed to implement the Act immediately.""}, {""title"": ""Section 7."", ""summary"": ""The Act takes effect upon its approval.""}]"	7272	March 24, 1992	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""ANACLETO D. BADOY, JR"", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}]"	To convert the Zamboanga Regional Hospital into the Zamboanga City Medical Center, establish its capacity and jurisdiction, secure funding, and transfer its assets.	"[""Conversion of the hospital into a medical center"", ""Minimum bed capacity of 250"", ""Jurisdiction under the Department of Health"", ""Transfer of staff and assets"", ""Funding through General Appropriations Acts"", ""Immediate implementation"", ""Effective upon approval""]"		"[""healthcare"", ""hospital"", ""regional"", ""Zamboanga"", ""medical center"", ""Republic Act""]"	"[""healthcare"", ""hospital"", ""regional"", ""Zamboanga"", ""medical center"", ""Republic Act""]"
+repacts:datasets/markdown/repacts/1992/ra_7273_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7273_1992.md	ra_7273_1992	Increasing the Bed Capacity of the Liloy Medicare Community Hospital in the Municipality of Liloy, Province of Zamboanga del Norte, from Ten (10) to Twenty-Five (25) Beds, and Appropriating Funds Therefor	"**[ REPUBLIC ACT NO. 7273, March 24, 1992 ]**
+
+ AN ACT INCREASING THE BED CAPACITY OF THE LILOY MEDICARE COMMUNITY HOSPITAL IN THE MUNICIPALITY OF LILOY, PROVINCE OF ZAMBOANGA DEL NORTE, FROM TEN (10) TO TWENTY-FIVE (25) BEDS, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The bed capacity of the Liloy Medicare Community Hospital in the Municipality of Liloy, Province of Zamboanga del Norte, is hereby increased from ten (10) to twenty-five (25) beds.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on February 3, 1992 and January 23, 1992, respectively. |  |
+| (Sgd.) **ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: March 24,1992
+
+ (Sgd.) *CORAZON C. AQUINO* *President of the Philippines*
+"	success	Republic Act	Act increases bed capacity of Liloy Medicare Community Hospital from 10 to 25 beds and appropriates necessary funds.	"[{""title"": ""Section 1"", ""summary"": ""The bed capacity of Liloy Medicare Community Hospital is increased from ten (10) to twenty-five (25) beds.""}, {""title"": ""Section 2"", ""summary"": ""The necessary amount for this Act will be included in the General Appropriations Act of the following year.""}, {""title"": ""Section 3"", ""summary"": ""The Act shall take effect upon its approval.""}]"	7273	March 24, 1992	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"		To increase bed capacity of Liloy Medicare Community Hospital and allocate necessary funds for its operation.	"[""Increase bed capacity from ten to twenty-five beds"", ""Include necessary funds in the General Appropriations Act"", ""Act takes effect upon approval""]"		"[""Health"", ""Hospital"", ""Bed Capacity"", ""Philippines""]"	"[""Liloy"", ""Zamboanga del Norte"", ""hospital"", ""bed capacity"", ""funding"", ""General Appropriations Act""]"
+repacts:datasets/markdown/repacts/1992/ra_7274_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7274_1992.md	ra_7274_1992	AN ACT INCREASING THE BED CAPACITY OF THE NEGROS ORIENTAL PROVINCIAL HOSPITAL IN DUMAGUETE CITY, PROVINCE OF NEGROS ORIENTAL, FROM TWO HUNDRED FIFTY (250) TO THREE HUNDRED (300) BEDS, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 7274, March 24, 1992 ]**
+
+ AN ACT INCREASING THE BED CAPACITY OF THE NEGROS ORIENTAL PROVINCIAL HOSPITAL IN DUMAGUETE CITY, PROVINCE OF NEGROS ORIENTAL, FROM TWO HUNDRED FIFTY (250) TO THREE HUNDRED (300) BEDS, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The bed capacity of the Negros Oriental Provincial Hospital in Dumaguete City, Province of Negros Oriental, is hereby increased from two hundred fifty (250) to three hundred (300) beds.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on February 3, 1992 and January 23, 1992, respectively. |  |
+| (Sgd.) **ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: March 24, 1992
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	An act to increase the bed capacity of the Negros Oriental Provincial Hospital from 250 to 300 beds and to appropriate funds for its implementation.	"[{""title"": ""Section 1."", ""summary"": ""The bed capacity of the Negros Oriental Provincial Hospital in Dumaguete City is increased from two hundred fifty (250) to three hundred (300) beds.""}, {""title"": ""Section 2."", ""summary"": ""The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law.""}, {""title"": ""Section 3."", ""summary"": ""This Act shall take effect upon its approval.""}]"	7274	March 24, 1992	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""ANACLETO D. BADOY, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""CORAZON C. AQUINO"", ""title"": ""President of the Philippines""}]"	Increase the bed capacity of the Negros Oriental Provincial Hospital and appropriate necessary funds.	"[""Bed capacity increased from 250 to 300 beds."", ""Funding to be included in the General Appropriations Act of the following year."", ""Act takes effect upon approval.""]"		"[""hospital"", ""bed capacity"", ""Negros Oriental"", ""public health"", ""appropriations""]"	"[""bed capacity"", ""hospital"", ""Negros Oriental"", ""public health"", ""appropriations""]"
+repacts:datasets/markdown/repacts/1992/ra_7275_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7275_1992.md	ra_7275_1992	AN ACT CHANGING THE NAME OF THE MORONG GENERAL HOSPITAL IN THE MUNICIPALITY OF MORONG, PROVINCE OF RIZAL, TO RIZAL PROVINCIAL HOSPITAL	"Fifth Regular Session
+
+ Begun and held in Metro Manilam on Monday, the twenty-second day of July, nineteen hundred and ninety-one
+
+ **[ REPUBLIC ACT NO. 7275, March 24, 1992 ]**
+
+ AN ACT CHANGING THE NAME OF THE MORONG GENERAL HOSPITAL IN THE MUNICIPALITY OF MORONG, PROVINCE OF RIZAL, TO RIZAL PROVINCIAL HOSPITAL
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The name of the Morong General Hospital located in the Municipality of Morong, Province of Rizal, is hereby changed to Rizal Provincial Hospital.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representative* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on January 15, 1991 and January 23, 1992, respectively. |  |
+| (Sgd.) **ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: March 24, 1992
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Act	This act changes the name of Morong General Hospital to Rizal Provincial Hospital and takes effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""The name of the Morong General Hospital located in the Municipality of Morong, Province of Rizal, is hereby changed to Rizal Provincial Hospital.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	7275	March 24, 1992	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""ANACLETO D. BADOY, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""CORAZON C. AQUINO"", ""title"": ""President of the Philippines""}]"	To change the name of Morong General Hospital to Rizal Provincial Hospital.	"[""Name of Morong General Hospital is changed to Rizal Provincial Hospital"", ""Act takes effect upon approval""]"		"[""Healthcare"", ""Hospital"", ""Renaming"", ""Rizal Province""]"	"[""Morong General Hospital"", ""Rizal Provincial Hospital"", ""Rizal Province"", ""Hospital Renaming"", ""Republic Act 7275""]"
+repacts:datasets/markdown/repacts/1992/ra_7276_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7276_1992.md	ra_7276_1992	AN ACT INCREASING THE BED CAPACITY OF THE GUIHULNGAN DISTRICT HOSPITAL IN GUIHULNGAN, NEGROS ORIENTAL, FROM FIFTY (50) TO SEVENTY-FIVE (75) BEDS, AND APPROPRIATING FUNDS THEREFOR.	"**[ REPUBLIC ACT NO. 7276, March 24, 1992 ]**
+
+ AN ACT INCREASING THE BED CAPACITY OF THE GUIHULNGAN DISTRICT HOSPITAL IN GUIHULNGAN, NEGROS ORIENTAL, FROM FIFTY (50) TO SEVENTY-FIVE (75) BEDS, AND APPROPRIATING FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The bed capacity of the Guihulngan District Hospital in Guihulngan, Negros Oriental, is hereby increased from fifty (50) to seventy-five (75) beds.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on May 16, 1991 and January 23, 1992, respectively. |  |
+| (Sgd.) **ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: March 24, 1992
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	The Republic Act increases the bed capacity of Guihulngan District Hospital from 50 to 75 beds and appropriates funds for the expansion.	"[{""title"": ""Section 1."", ""summary"": ""The bed capacity of Guihulngan District Hospital is increased from fifty (50) to seventy-five (75) beds.""}, {""title"": ""Section 2."", ""summary"": ""The necessary funds for the act will be included in the General Appropriations Act of the following year.""}, {""title"": ""Section 3."", ""summary"": ""The act shall take effect upon its approval.""}]"	7276	March 24, 1992	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""ANACLETO D. BADOY, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""CORAZON C. AQUINO"", ""title"": ""President of the Philippines""}]"	To increase healthcare capacity by expanding the bed capacity of Guihulngan District Hospital and secure funding for the expansion.	"[""Increase bed capacity from 50 to 75 beds"", ""Appropriate funds for the expansion"", ""Funds to be included in the General Appropriations Act of the following year"", ""Act takes effect upon approval""]"		"[""Health"", ""Hospital"", ""Bed Capacity""]"	"[""Guihulngan District Hospital"", ""Negros Oriental"", ""bed capacity"", ""appropriations"", ""Republic Act 7276""]"
+repacts:datasets/markdown/repacts/1992/ra_7277_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7277_1992.md	ra_7277_1992	AN ACT PROVIDING FOR THE REHABILITATION, SELF-DEVELOPMENT AND SELF-RELIANCE OF DISABLED PERSONS AND THEIR INTEGRATION INTO THE MAINSTREAM OF SOCIETY AND FOR OTHER PURPOSES	"**[ REPUBLIC ACT NO. 7277, March 24, 1992 ]**
+
+ AN ACT PROVIDING FOR THE REHABILITATION, SELF-DEVELOPMENT AND SELF-RELIANCE OF DISABLED PERSONS AND THEIR INTEGRATION INTO THE MAINSTREAM OF SOCIETY AND FOR OTHER PURPOSES
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ TITLE ONE - GENERAL PROVISIONS
+
+ CHAPTER 1 - *Basic Principle*
+
+ **Section 1.***Title*.- This Act shall be known and cited as the ""Magna Carta for Disabled Persons"".
+
+ **Section 2.***Declaration of Policy*.- The grant of the rights and privileges for disabled persons shall be guided by the following principles:
+
+ a. Disabled persons are part of Philippine society, thus the State shall give full support to the improvement of the total well-being of disabled persons and their integration into the mainstream of society. Toward this end, the State shall adopt policies ensuring the rehabilitation, self-development and self-reliance of disabled persons. It shall develop their skills and potentials to enable them to compete favorably for available opportunities.
+
+ b. Disabled persons have the same rights as other people to take their proper place in society. They should be able to live freely and as independently as possible. This must be the concern of everyone - the family, community and all government and non government organizations. Disabled persons' rights must never be perceived as welfare services by the Government.
+
+ c. The rehabilitation of the disabled persons shall be the concern of the Government in order to foster their capacity to attain a more meaningful, productive and satisfying life. To reach out to a greater number of disabled persons, the rehabilitation services and benefits shall be expanded beyond the traditional urban-based centers to community based programs, that will ensure full participation of different sectors as supported by national and local government agencies.
+
+ d. The State also recognizes the role of the private sector in promoting the welfare of disabled persons and shall encourage partnership in programs that address their needs and concerns.
+
+ e. To facilitate integration of disabled persons into the mainstream of society, the State shall advocate for and encourage respect for disabled persons. The State shall exert all efforts to remove all social, cultural, economic, environmental and attitudinal barriers that are prejudicial to disabled persons.
+
+ **Section 3.***Coverage*.- This Act shall cover all disabled persons and, to the extent herein provided, departments, offices and agencies of the National Government or non-government organizations involved in the attainment of the objectives of this Act.
+
+ **Section 4.**Definition of Terms.- For purposes of this Act, these terms are defined as follows:
+
+ a. Disabled Persons are those suffering from restriction or different abilities, as a result of a mental, physical or sensory impairment, to perform an activity in the manner or within the range considered normal for a human being;
+
+ b. Impairment is any loss, diminution or aberration of psychological, physiological, or anatomical structure or function;
+
+ c. Disability shall mean 1) a physical or mental impairment that substantially limits one or more psychological, physiological or anatomical function of an individual or activities of such individual; 2) a record of such an impairment; or 3) being regarded as having such an impairment;
+
+ d. Handicap refers to a disadvantage for a given individual, resulting from an impairment or a disability, that limits or prevents the function or activity, that is considered normal given the age and sex of the individual;

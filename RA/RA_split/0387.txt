@@ -1,0 +1,156 @@
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 14, 1956.
+"	success	Republic Act	The act grants the Pepsi-Cola Bottling Company a temporary permit to construct, maintain and operate private radio stations in the Philippines, subject to conditions and approvals.	"[{""title"": ""Section 1."", ""summary"": ""Grants Pepsi-Cola a temporary permit to construct and operate private fixed point-to-point and base radio stations with land mobile units for wireless communications.""}, {""title"": ""Section 2."", ""summary"": ""Empowers the President to permit the location of the private radio stations as prescribed.""}, {""title"": ""Section 3."", ""summary"": ""Permit remains in force until a similar service is established; construction must begin within one year and be completed within two years.""}, {""title"": ""Section 4."", ""summary"": ""Prohibits the grantee from engaging in domestic telecommunications business without congressional assent.""}, {""title"": ""Section 5."", ""summary"": ""No fees may be charged for radio stations established under the Act.""}, {""title"": ""Section 6."", ""summary"": ""Grantee must ensure stations do not interfere with other radio stations.""}, {""title"": ""Section 7."", ""summary"": ""Grantee is subject to existing and future Philippine corporation laws.""}, {""title"": ""Section 8."", ""summary"": ""Grantee holds government entities harmless from claims arising from station construction or operation.""}, {""title"": ""Section 9."", ""summary"": ""Permit doesn't take effect until frequencies and wavelengths are allotted by the Secretary.""}, {""title"": ""Section 10."", ""summary"": ""President reserves right to close or reallocate stations during emergencies, with just compensation.""}, {""title"": ""Section 11."", ""summary"": ""Permit is not exclusive and may be amended, altered, or repealed by Congress as needed.""}, {""title"": ""Section 12."", ""summary"": ""Act takes effect upon approval.""}]"	1448	June 14, 1956			To grant Pepsi-Cola Bottling Company a temporary permit for private radio station operations, ensuring regulatory compliance and national security provisions.	"[""Temporary permit granted to construct and operate private radio stations"", ""Construction must begin within one year of approval and be completed within two years"", ""Permit terminates if similar service established by government"", ""No fees for stations used for company business"", ""Stations must not interfere with other stations"", ""President retains emergency control rights"", ""Act subject to amendment or repeal by Congress""]"		"[""Telecommunications"", ""Radio"", ""Pepsi-Cola"", ""Temporary Permit""]"	"[""Pepsi-Cola Bottling Company"", ""radio stations"", ""temporary permit"", ""Republic Act"", ""Philippines""]"
+repacts:datasets/markdown/repacts/1956/ra_1460_1956.md	repacts	1956		datasets/markdown/repacts/1956/ra_1460_1956.md	ra_1460_1956	An Act Granting A. Soriano y Cia., a Temporary Permit to Construct, Maintain and Operate Private Fixed Point-to-Point Coastal, Aeronautical, Land Based and Land Mobile Radio Stations for the Reception and Transmission of Radio Communications Within the Philippines	"**REPUBLIC ACT No. 1460**
+
+ **An Act to Amend Certain Sections of Republic Act Numbered One Hundred Eighty-Three Otherwise Known as the Charter of Pasay City, as Amended**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The second paragraph of section seven of Republic Act Numbered One hundred eighty-three is hereby amended to read as follows:
+
+ > ""He shall receive a salary of eight thousand four hundred pesos a year.""
+
+ **Section 2.** The first paragraph of section twenty-two of Republic Act Numbered One hundred eighty-three is hereby amended to read as follows:
+
+ > ""Sec. 22. *The City Treasurer His powers, duties and compensation.* -There shall be a city treasurer who shall have charge of the department of finance and shall act as chief fiscal officer and financial adviser of the city and custodian of its funds. He shall receive a salary of seven thousand two hundred pesos per annum. He shall have the following general powers and duties:""
+
+ **Section 3.** The first paragraph of section twenty-three of Republic Act Numbered One hundred eighty-three is hereby amended to read as follows:
+
+ > ""Sec. 23. *The City Engineer His powers, duties and compensation.* -There shall be a city engineer, who shall be in charge of the department of engineering and public works. He shall receive a salary of seven thousand two hundred pesos per annum. He shall have the following powers and duties:""
+
+ **Section 4.** Section twenty-six of Republic Act Numbered One hundred eighty-three is amended to read as follows:
+
+ > ""Sec. 26. *Compensation of City Attorney and his Assistants.* -The city attorney and his assistants shall receive the salaries hereinafter set forth, which shall be paid by Pasay City:
+>
+>  ""(a) City attorney, not exceeding seven thousand two hundred pesos per annum. ""(b) First assistant city attorney, not exceeding six thousand six hundred pesos per annum. ""(c) Second assistant city attorney, not exceeding six thousand pesos per annum. ""(d) Two third assistant city attorneys, not exceeding five thousand four hundred pesos each per annum. ""(e) Two fourth assistant city attorneys, not exceeding four thousand eight hundred pesos each per annum.""
+
+ **Section 5.** This Act shall take effect upon its approval.
+
+ Approved: June 14, 1956.
+"	success	Republic Act	This act authorizes A. Soriano y Cia. to construct, maintain, and operate temporary private radio stations in areas where the company operates mining and other business, subject to conditions and approvals by the Secretary of Public Works and Communications.	"[{""title"": ""Section 1."", ""summary"": ""Grants A. Soriano y Cia. a temporary permit to construct, maintain, and operate private fixed point-to-point, coastal, aeronautical, land-based, and land mobile radio stations in places where it conducts mining and other business, subject to the approval of the Secretary of Public Works and Communications.""}, {""title"": ""Section 2."", ""summary"": ""The temporary permit remains in force until July 4, 1974, and requires construction to begin within two years from the act\u2019s approval and completion within three years.""}, {""title"": ""Section 3."", ""summary"": ""The grantee may not engage in domestic telecommunications business; the permit is limited to promoting and protecting the company\u2019s mining and other interests.""}, {""title"": ""Section 4."", ""summary"": ""No fees shall be charged to the grantee for the radio stations, which are restricted to communications related to the grantee\u2019s business.""}, {""title"": ""Section 5."", ""summary"": ""The grantee must construct and operate its radio stations so as not to interfere with other radio stations in the Philippines.""}, {""title"": ""Section 6."", ""summary"": ""The grantee holds the national, provincial, city, and municipal governments harmless from claims arising from the construction or operation of its radio stations.""}, {""title"": ""Section 7."", ""summary"": ""The grantee is subject to the existing and future corporation laws of the Philippines.""}, {""title"": ""Section 8."", ""summary"": ""The grantee may operate its radio stations in medium, high, and very high frequency bands assigned by the Secretary of Public Works and Communications or any licensing authority.""}, {""title"": ""Section 9."", ""summary"": ""The President retains the right to close or reallocate the grantee\u2019s radio stations during war, insurrection, public peril, calamity, or disaster, with just compensation.""}, {""title"": ""Section 10."", ""summary"": ""The temporary permit may be amended, altered, or repealed by Congress when the public interest requires and does not constitute an exclusive grant.""}, {""title"": ""Section 11."", ""summary"": ""The act takes effect upon its approval.""}]"	1449	June 14, 1956			To grant a temporary permit for the construction, maintenance, and operation of private radio stations by A. Soriano y Cia. for the purpose of supporting its mining and related business activities.	"[""Grant of temporary permit to construct, maintain and operate private radio stations"", ""Permit valid until July 4, 1974 with construction and completion deadlines"", ""No fees for radio station operations"", ""Non-interference with other stations"", ""Immunity from claims related to construction or operation"", ""Authority to operate in assigned frequency bands"", ""Presidential right to close or reallocate stations during emergencies""]"		"[""telecommunications"", ""radio"", ""temporary permit"", ""private radio stations""]"	"[""A. Soriano y Cia."", ""public works"", ""radio communications"", ""mining"", ""Philippines""]"
+repacts:datasets/markdown/repacts/1956/ra_1461_1956.md	repacts	1956		datasets/markdown/repacts/1956/ra_1461_1956.md	ra_1461_1956	An Act Granting the Notre Dame Broadcasting Corporation a Franchise to Construct, Maintain and Operate Radio Broadcasting Stations in the Province of Cotabato for Religious, Educational and Cultural as Well as for Commercial Purposes	"**REPUBLIC ACT No. 1461**
+
+ **An Act to Amend Certain Items in Republic Act Numbered Fourteen Hundred Eleven, Regarding Public Works Projects for the Province of Negros Oriental**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item (h), Group I, paragraph thirty-seven, subsection of section two of Republic Act Numbered Fourteen hundred eleven, is amended to read as follows:
+
+ | ""(h) La Libertad Waterworks Improvement | ₱10,000.00."" |
+
+ **Section 2.** Item eight, under caption ""Other Buildings,"" for the Province of Negros Oriental, under subsection g, section two of Republic Act Numbered Fourteen hundred eleven, is amended to read as follows:
+
+ | ""8. Public Market, La Libertad | ₱4,000.00"" |
+
+ **Section 3.** Items twenty-five, forty, forty-one and forty-two, Group I, paragraph aj, section three of Republic Act Numbered Fourteen hundred eleven, are amended to read as follows:
+
+ | ""25. Majuyod Central School BuildingConstruction of five room | ₱25,000.00."" |
+| --- | --- |
+| ""40. San Jose School Building, San Jose Construction of one room | 5,000.00."" |
+| ""41. Tubod Barrio School Building, ManjuyodConstruction of one room | 5,000.00."" |
+| ""42. Cambaloctot Barrio School Building San JoseConstruction of one room | 5,000.00."" |
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 14, 1956.
+"	success	Broadcasting	Republic Act No. 1450 grants the Notre Dame Broadcasting Corporation a 25‑year franchise to construct, maintain and operate radio broadcasting stations in Cotabato for religious, educational, cultural and commercial purposes, subject to specific conditions and regulatory requirements.	"[{""title"": ""Section 1"", ""summary"": ""Grants a franchise to the Notre Dame Broadcasting Corporation to construct, maintain and operate radio broadcasting stations in Cotabato for religious, educational, cultural and commercial purposes, subject to constitutional and statutory provisions.""}, {""title"": ""Section 2"", ""summary"": ""The franchise lasts 25 years from operation, void if construction of at least one station does not begin within one year of approval and complete within two years.""}, {""title"": ""Section 3"", ""summary"": ""Grantee must provide adequate public service time, assist in public information, conform to ethical standards, and avoid false or harmful broadcasts.""}, {""title"": ""Section 4"", ""summary"": ""Stations may not operate until the Secretary of Public Works and Communications assigns frequencies and issues a license.""}, {""title"": ""Section 5"", ""summary"": ""Stations must be constructed and operated to avoid interference with existing stations.""}, {""title"": ""Section 6"", ""summary"": ""The President may close or temporarily operate stations in times of war or public peril without compensating the grantee.""}, {""title"": ""Section 7"", ""summary"": ""Grantee is liable for taxes on real estate, buildings, and personal property as required by law.""}, {""title"": ""Section 8"", ""summary"": ""Franchise is subject to amendment, alteration, or repeal by Congress when public interest requires.""}, {""title"": ""Section 9"", ""summary"": ""Grantee must accept the franchise in writing within six months after approval.""}, {""title"": ""Section 10"", ""summary"": ""Grantee must file a bond of five thousand pesos; bond may be cancelled after satisfaction of conditions within two years.""}, {""title"": ""Section 11"", ""summary"": ""No prior censorship required; grantee may cut off broadcasts that incite treason, rebellion, sedition, or are indecent.""}, {""title"": ""Section 12"", ""summary"": ""Franchise cannot be leased, transferred, sold or assigned without Congressional approval; any transfer subject to existing laws.""}, {""title"": ""Section 13"", ""summary"": ""Franchise is not exclusive to any entity.""}]"	1450				To grant a broadcasting franchise to the Notre Dame Broadcasting Corporation for the operation of radio stations in Cotabato, ensuring public service and regulatory compliance.	"[""25\u2011year franchise period"", ""Construction and operation conditions"", ""Public service time requirement"", ""Frequency assignment by government"", ""Tax liability"", ""Bond requirement"", ""No censorship except for prohibited content"", ""Non\u2011transferability without Congress""]"	Act No. 3846, Act No. 3997, Commonwealth Act No. 146	"[""Broadcasting"", ""Franchise"", ""Religion"", ""Education"", ""Culture"", ""Commercial""]"	"[""Notre Dame Broadcasting Corporation"", ""Province of Cotabato"", ""radio broadcasting"", ""franchise"", ""25 years"", ""public service time"", ""frequency assignment"", ""bond"", ""taxes""]"
+repacts:datasets/markdown/repacts/1956/ra_1462_1956.md	repacts	1956		datasets/markdown/repacts/1956/ra_1462_1956.md	ra_1462_1956	An Act Amending Section Eighty-Six of Republic Act Numbered Three Hundred Twenty-Eight, Otherwise Known as the Charter of the City of Calbayog	"**REPUBLIC ACT No. 1462**
+
+ **An Act to Amend Item Ten, ab. Marinduque, Section Three of Republic Act Numbered Fourteen Hundred Eleven**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item ten, ab. Marinduque, section three of Republic Act Numbered Fourteen hundred eleven, is hereby amended to read as follows:
+
+ | ""10. Cabahuan Barrio School BuildingBoac, Construction | ₱5,000.00"" |
+| --- | --- |
+| ""10-a. Binunga Barrio School BuildingBoac, Construction | 5,000.00 |
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 14, 1956.
+"	success	Republic Act	This act amends Section 86 of RA 328, redefining the jurisdiction and compensation of the Director of Public Schools and the Division Superintendent of Schools for the Province of Samar, who will act as ex officio City Superintendent of Schools for Calbayog.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 86 of RA 328 to state that the Director of Public Schools shall exercise the same jurisdiction and powers in Calbayog as elsewhere, and that the Division Superintendent for Samar shall act as ex officio City Superintendent of Schools with additional compensation of \u20b1800 per annum.""}, {""title"": ""Section 2"", ""summary"": ""Specifies that the act shall take effect on July 1, 1952.""}]"	1451	June 14, 1956			To update the governance structure of public schools in Calbayog by clarifying the roles and compensation of key educational officials.	"[""Section 86 amended to grant the Director of Public Schools equal jurisdiction in Calbayog"", ""Division Superintendent of Samar acts as ex officio City Superintendent with \u20b1800 annual compensation""]"	Republic Act No. 328 (Charter of the City of Calbayog)	"[""Education"", ""Local Government"", ""Charter Amendment""]"	"[""Public Schools"", ""Director of Public Schools"", ""Division Superintendent"", ""Calbayog"", ""Samar"", ""City Superintendent"", ""Charter""]"
+repacts:datasets/markdown/repacts/1956/ra_1463_1956.md	repacts	1956		datasets/markdown/repacts/1956/ra_1463_1956.md	ra_1463_1956	"An Act Amending Sub-Item Ten of Item al, Subsection One, Title B of Section One, Republic Act Numbered Twelve Hundred, Entitled ""An Act Appropriating Funds for Public Works and Amending Republic Act Numbered Nine Hundred and Twenty"""	"**REPUBLIC ACT No. 1463**
+
+ **An Act to Amend Item Six, ab. Marinduque, Section Three of Republic Act Numbered Fourteen Hundred Eleven**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item six, ab. Marinduque, section three of Republic Act Numbered Fourteen hundred eleven, is hereby amended to read as follows:
+
+ | ""6. Lamesa Barrio School, MogpogConstruction | ₱5,000.00"" |
+| --- | --- |
+| ""6-a. Mogpog Central SchoolRepair and Improvement | ₱5,000.00 |
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 14, 1956
+"	success	Republic Act	Amends sub-item ten of RA 1200 to specify asphalt paving of certain streets in Balawan, Negros Oriental, with an allocated amount of ₱15,000.00 and takes effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Amendment of sub-item ten of RA 1200 to include asphalt paving of specified streets in the Municipality of Balawan, Negros Oriental, with a budget of \u20b115,000.00.""}, {""title"": ""Section 2."", ""summary"": ""The Act shall take effect upon its approval.""}]"	1452	June 14, 1956			To allocate funds for asphalt paving of streets in Balawan, Negros Oriental.	"[""Amendment of sub-item ten to include asphalt paving of specified streets in Balawan, Negros Oriental"", ""Allocation of \u20b115,000.00 for paving"", ""Act takes effect upon approval""]"	Republic Act No. 1200	"[""public works"", ""road paving"", ""budget appropriation""]"	"[""asphalt paving"", ""Balawan"", ""Negros Oriental"", ""public works"", ""RA 1200"", ""budget""]"
+repacts:datasets/markdown/repacts/1956/ra_1464_1956.md	repacts	1956		datasets/markdown/repacts/1956/ra_1464_1956.md	ra_1464_1956	An Act Granting A.S. Diaz Electric Service a Franchise to Install, Operate, and Maintain an Electric Light, Heat, and Power System in the City of Bacolod and its Suburbs	"**REPUBLIC ACT No. 1464**
+
+ **An Act Amending Item One, Subparagraph I, Under Provincial Capitols, Paragraph Four, Section One of Republic Act Numbered Twelve Hundred**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item one, subparagraph i, paragraph four, section one of Republic Act Numbered Twelve hundred, is amended to read as follows:
+
+ | ""1. Nueva Vizcaya Provincial Capitol(1) Construction of Annex to Office of Provincial Governor | ₱5,000.00."" |
+
+ **Section 2.** Insert the following item as Item seven, subparagraph am, paragraph four, section one of Republic Act Numbered Twelve hundred to compensate for the deletion in the preceding section:
+
+ | ""(7) Diffun Municipal Town HallConstruction | ₱10,000.00."" |
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 14, 1956.
+"	success	Republic Act	The act grants a 50-year franchise to A.S. Diaz Electric Service to construct, maintain, and operate an electric light, heat, and power system in Bacolod, authorizes the National Power Corporation to negotiate rates for the public, and imposes a franchise tax equal to 2% of gross earnings from electric current sold under the franchise.	"[{""title"": ""Section 1"", ""summary"": ""Grants A.S. Diaz Electric Service a 50\u2011year franchise to construct, maintain, and operate an electric light, heat, and power system in Bacolod and its suburbs, subject to constitution and previous act provisions.""}, {""title"": ""Section 2"", ""summary"": ""Authorizes the National Power Corporation to negotiate and transact on behalf of the public consumers for rates if the grantee purchases electric heat and power from NPC.""}, {""title"": ""Section 3"", ""summary"": ""Mandates the grantee to pay a franchise tax equal to 2% of gross earnings for electric current sold under the franchise.""}]"	1453	June 14, 1956			To grant a franchise for the operation and maintenance of an electric system in Bacolod, ensuring service provision and public interest through rate negotiations and tax collection.	"[""50-year franchise to A.S. Diaz Electric Service"", ""Authorization of NPC to negotiate rates"", ""Franchise tax of 2% of gross earnings""]"	Act Numbered Thirty-six hundred and thirty-six, amended by Commonwealth Act Numbered One hundred and thirty-two	"[""franchise"", ""electricity"", ""Bacolod""]"	"[""electric light"", ""heat"", ""power"", ""franchise"", ""tax"", ""National Power Corporation""]"
+repacts:datasets/markdown/repacts/1956/ra_1465_1956.md	repacts	1956		datasets/markdown/repacts/1956/ra_1465_1956.md	ra_1465_1956	An Act to Amend Certain Provisions of Republic Act Numbered Twelve Hundred	"**REPUBLIC ACT No. 1465**
+
+ **An Act Amending Item (Six), Paragraph Aj, for the Mountain Province, Title B, Section One, Page Two Hundred Sixty-Eight, of Republic Act Numbered Twelve Hundred**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item (six), paragraph (aj), for the Mountain Province, Title B, Section One, page two hundred sixty-eight, of Republic Act Numbered Twelve hundred is amended to read as follows:
+
+ | ""(6) Sagada Poblacion RoadCompletion | ₱15,000.00"" |
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 14, 1956.
+"	success	Act	"The act amends section two of Republic Act 1200 for the City of Manila by revising item (one), paragraph ""bq"" to specify the construction of a sixteen-room concrete administration building with office and a library, and repeals item (two), paragraph ""bq"". It takes effect upon approval and was enacted on June 14, 1956."	"[{""title"": ""Section 1."", ""summary"": ""Amends item (one), paragraph \""bq\"" of section two of RA 1200 for the City of Manila to include construction of a sixteen\u2011room concrete administration building, office, and library.""}, {""title"": ""Section 2."", ""summary"": ""Repeals item (two), paragraph \""bq\"" of section two of RA 1200 for the City of Manila.""}, {""title"": ""Section 3."", ""summary"": ""The act shall take effect upon its approval.""}]"	1454	June 14, 1956			To amend specific provisions of Republic Act 1200 pertaining to the City of Manila.	"[""Amendment of item (one), paragraph \""bq\"" in section two of RA 1200 to specify construction of a sixteen\u2011room concrete administration building with office and library."", ""Repeal of item (two), paragraph \""bq\"" in section two of RA 1200."", ""Effective upon approval.""]"	Republic Act 1200	"[""Amendment"", ""RA 1454"", ""RA 1200"", ""City of Manila""]"	"[""construction"", ""administration building"", ""library"", ""repeal"", ""effectivity""]"
+repacts:datasets/markdown/repacts/1956/ra_1466_1956.md	repacts	1956		datasets/markdown/repacts/1956/ra_1466_1956.md	ra_1466_1956	An Act Amending the Project Number and Location of the Project in Appendix A, Title G, of Republic Act Numbered Fourteen Hundred Eleven	"**REPUBLIC ACT No. 1466**
+
+ **An Act Amending Items Eighty-One, Eighty-Two, Eighty-Three, and Eighty-Four, Subsection d, for the Province of Antique, Section Three of Republic Act Numbered Fourteen Hundred Eleven**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Items eighty-one, eighty-two, eighty-three, and eighty-four, subsection d, for the Province of Antique, section three of Republic Act Numbered Fourteen hundred eleven, are amended to read as follows:
+
+ | ""82. Bitas Primary School BuildingConstruction of two Type B room | ₱4,000.00"" |
+| --- | --- |
+| ""83. Villa-Solomon Primary School Building, PatnongonConstruction of two Type B room | ₱4,000.00"" |
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 14, 1956.
+"	success	Republic Act	This act amends the project number and location of the project listed in Appendix A, Title G of Republic Act 1411 to G-32.1: Camalig-Catmon Irrigation Project, Albay.	"[{""title"": ""Section 1."", ""summary"": ""Amends the project number and location to G-32.1: Camalig-Catmon Irrigation Project, Albay.""}, {""title"": ""Section 2."", ""summary"": ""The act shall take effect upon its approval.""}]"	1455	June 14, 1956			To amend the project number and location of the project in Appendix A, Title G, of Republic Act 1411.	"[""Amendment of project number and location to G-32.1: Camalig-Catmon Irrigation Project, Albay.""]"	Republic Act 1411	"[""Amendment"", ""Irrigation"", ""Albay""]"	"[""Project Number"", ""Location"", ""Camalig-Catmon Irrigation Project"", ""Albay""]"
+repacts:datasets/markdown/repacts/1956/ra_1467_1956.md	repacts	1956		datasets/markdown/repacts/1956/ra_1467_1956.md	ra_1467_1956	An Act to Amend Republic Act Numbered Nine Hundred Eighty Which Grants to the Lyceum of the Philippines a Franchise to Construct, Maintain and Operate a Radio Broadcasting Station in Manila	"**REPUBLIC ACT No. 1467**
+
+ **An Act to Amend Item (e) Page One Hundred Twenty-Five, Section Two-43 (Quezon) of Republic Act Numbered Fourteen Hundred Eleven**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item (e), page one hundred twenty-five, section two-43 (Quezon) of Republic Act Numbered Fourteen hundred eleven, is hereby amended to read as follows:
+
+ | ""e-1. Candelaria Public Market premises, Asphalting and canalization | ₱5,000.00 |
+| --- | --- |
+| ""e-2. Masalakot Barrio Road, Candelaria, Repair | 3,000.00 |
+| ""e-3. Sta. Catalina Barrio Road, Candelaria, Repair | 1,000.00."" |
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 14, 1956.
+"	success	Republic Act	Republic Act No. 1456 amends RA 980 to grant the Lyceum of the Philippines a franchise to construct, maintain and operate a radio broadcasting station in Manila, specifies tax liabilities, requires a bond for compliance, and sets censorship provisions.	"[{""title"": ""Section 1. Amended provision granting franchise"", ""summary"": ""Amends RA 980 Section 1 to grant the Lyceum of the Philippines a franchise to construct, maintain and operate a radio broadcasting station in Manila for educational and commercial purposes.""}, {""title"": ""Section 2. Amended tax liabilities"", ""summary"": ""Amends RA 980 Section 7 to specify that the grantee is liable for taxes on real estate, buildings, personal property, and other taxes as per NIRC, unless exempted.""}, {""title"": ""Section 3. New Sections 9-A and 9-B"", ""summary"": ""Inserts new Sections 9-A and 9-B: 9-A requires a bond of PHP20,000 to guarantee compliance for the first 3 years; 9-B sets censorship provisions, allowing removal of broadcasts inciting treason, rebellion, sedition or containing indecent or immoral content.""}, {""title"": ""Section 4. Taking effect"", ""summary"": ""Act takes effect upon approval.""}]"	Republic Act No. 1456	June 14, 1956			To amend RA 980 to grant the Lyceum of the Philippines a franchise for a radio broadcasting station and establish related tax, bond, and censorship provisions.	"[""Grant of franchise to Lyceum of the Philippines for a radio broadcasting station"", ""Specification of tax liabilities for the grantee"", ""Requirement of a bond of PHP20,000 for compliance"", ""Censorship provisions allowing removal of certain broadcasts""]"	Republic Act No. 980	"[""Broadcasting"", ""Franchise"", ""Radio"", ""Lyceum of the Philippines"", ""Legislation"", ""Taxation"", ""Censorship""]"	"[""Lyceum"", ""radio station"", ""franchise"", ""tax"", ""bond"", ""censorship"", ""broadcasting"", ""RA 1456""]"

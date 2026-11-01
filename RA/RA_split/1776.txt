@@ -1,0 +1,206 @@
+
+ **[ REPUBLIC ACT NO. 7588, June 01, 1992 ]**
+
+ AN ACT INCREASING THE BED CAPACITY OF THE SOUTHERN ISLANDS MEDICAL CENTER FROM THREE HUNDRED FIFTY (350) TO FOUR HUNDRED (400) BEDS, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The bed capacity of the Southern Islands Medical Center is hereby increased from three hundred fifty (350) to four hundred (400) beds.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on September 4, 1991 and January 30, 1992, respectively. |  |
+| (Sgd.) **ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: June 01 1992
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Legislation	The act increases the bed capacity of the Southern Islands Medical Center from 350 to 400 beds and appropriates funds for the expansion.	"[{""title"": ""Section 1"", ""summary"": ""The bed capacity of the Southern Islands Medical Center is hereby increased from three hundred fifty (350) to four hundred (400) beds.""}, {""title"": ""Section 2"", ""summary"": ""The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.""}, {""title"": ""Section 3"", ""summary"": ""This Act shall take effect upon its approval.""}]"	7588	June 01 1992	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""ANACLETO D. BADOY, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""CORAZON C. AQUINO"", ""title"": ""President of the Philippines""}]"	Increase bed capacity of the Southern Islands Medical Center.	"[""Increase bed capacity from 350 to 400 beds"", ""Appropriate funds for the increase"", ""Act to take effect upon approval"", ""Funds to be included in the General Appropriations Act of the following year""]"		"[""Healthcare"", ""Medical Facilities"", ""Budget"", ""Public Health""]"	"[""bed capacity"", ""Southern Islands Medical Center"", ""Republic Act 7588"", ""appropriation"", ""public health"", ""Philippines""]"
+repacts:datasets/markdown/repacts/1992/ra_7589_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7589_1992.md	ra_7589_1992	An Act Increasing the Bed Capacity of the Dr. Rafael Tumbokon Memorial Hospital in the Municipality of Kalibo, Province of Aklan, from One Hundred (100) to One Hundred Fifty (150) Beds, and Appropriating Funds Therefor	"**[ REPUBLIC ACT NO. 7589, June 01, 1992 ]**
+
+ AN ACT INCREASING THE BED CAPACITY OF THE DR. RAFAEL TUMBOKON MEMORIAL HOSPITAL IN THE MUNICIPALITY OF KALIBO, PROVINCE OF AKLAN, FROM ONE HUNDRED (100) TO ONE HUNDRED FIFTY (150) BEDS, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The bed capacity of the Dr. Rafael Tumbokon Memorial hospital in the Municipality of Kalibo, Province of Aklan, is hereby increased from one hundred (100) to one hundred fifty (150) beds.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 3.** This act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on May 14, 199 and November 25, 1991, respectively. |  |
+| (Sgd.) **ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: June 1, 1992
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	This Act increases the bed capacity of Dr. Rafael Tumbokon Memorial Hospital from 100 to 150 beds and appropriates funds for the expansion, with the provisions to be included in the General Appropriations Act of the following year.	"[{""title"": ""Section 1"", ""summary"": ""The bed capacity of Dr. Rafael Tumbokon Memorial Hospital is increased from 100 to 150 beds.""}, {""title"": ""Section 2"", ""summary"": ""The necessary funds to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment.""}, {""title"": ""Section 3"", ""summary"": ""This act shall take effect upon its approval.""}]"	REPUBLIC ACT NO. 7589	June 1, 1992	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""ANACLETO D. BADOY, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}]"	To increase the bed capacity of Dr. Rafael Tumbokon Memorial Hospital and appropriate funds for the expansion.	"[""Increase of bed capacity from 100 to 150 beds"", ""Appropriation of funds to be included in the General Appropriations Act of the following year"", ""Effective upon approval""]"		"[""Hospital"", ""Bed Capacity"", ""Aklan"", ""Healthcare"", ""Public Health""]"	"[""Rafael Tumbokon"", ""Kalibo"", ""beds"", ""hospital"", ""appropriation"", ""General Appropriations Act""]"
+repacts:datasets/markdown/repacts/1992/ra_7590_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7590_1992.md	ra_7590_1992	AN ACT INCREASING THE BED CAPACITY OF THE SIPOCOT DISTRICT HOSPITAL IN THE MUNICIPALITY OF SIPOCOT, PROVINCE OF CAMARINES SUR, FROM TWENTY-FIVE (25) TO FIFTY (50) BEDS, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 7590, June 01, 1992 ]**
+
+ AN ACT INCRESING THE BED CAPACITY OF THE SIPOCOT DISTRICT HOSPITAL IN THE MUNICIPALITY OF SIPOCOT, PROVINCE OF CAMARINES SUR, FROM TWENTY-FIVE (25) TO FIFTY (50) BEDS, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representative s of the Philippines in Congress assembled:
+
+ **Section 1.** The bed capacity of the Sipocot District Hospital in the Municipality of Sipocot, Province of Camarines Sur, is hereby increased from twenty-five (25) to fifty (50) beds.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriation of the year following its enactment into law.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 1, 1992
+"	success	Republic Act	An act to increase the bed capacity of the Sipocot District Hospital from 25 to 50 beds and appropriating funds for its implementation.	"[{""title"": ""Section 1."", ""summary"": ""The bed capacity of the Sipocot District Hospital is increased from twenty-five (25) to fifty (50) beds.""}, {""title"": ""Section 2."", ""summary"": ""The necessary amount to carry out the provisions of this Act shall be included in the General Appropriation of the year following its enactment into law.""}, {""title"": ""Section 3."", ""summary"": ""This Act shall take effect upon its approval.""}]"	7590	1992-06-01			To increase healthcare capacity in the Camarines Sur region by expanding hospital bed capacity and ensuring funding.	"[""Increase bed capacity from 25 to 50 beds"", ""Appropriate funds included in the General Appropriation"", ""Effective upon approval""]"		"[""Health"", ""Hospital"", ""Bed Capacity"", ""Philippines""]"	"[""Sipocot"", ""Camarines Sur"", ""bed capacity"", ""hospital"", ""appropriation""]"
+repacts:datasets/markdown/repacts/1992/ra_7591_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7591_1992.md	ra_7591_1992	AN ACT CONVERTING THE RURAL HEALTH UNIT IN THE MUNICIPALITY OF STA. ANA, PROVINCE OF CAGAYAN, INTO A FIVE-BED CAPACITY HEALTH INFIRMARY, TO BE KNOWN AS THE STA. ANA HEALTH INFIRMARY, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 7591, June 01, 1992 ]**
+
+ AN ACT CONVERTING THE RURAL HEALTH UNIT IN THE MUNICIPALITY OF STA. ANA, PROVINCE OF CAGAYAN, INTO A FIVE-BED CAPACITY HEALTH INFIRMARY, TO BE KNOWN AS THE STA. ANA HEALTH INFIRMARY, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The rural health unit in the Municipality of Sta. Ana, Province of Cagayan, is hereby converted into a five-bed capacity health infirmary, to be known as the Sta. Ana Health Infirmary.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on September 4, 1991 and January 30, 1992, respectively.< |  |
+| (Sgd.) **ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: June 1, 1992
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	Converts the rural health unit in Sta. Ana, Cagayan into a five‑bed health infirmary and appropriates funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""Converts the rural health unit in Sta. Ana, Cagayan into a five\u2011bed health infirmary named Sta. Ana Health Infirmary.""}, {""title"": ""Section 2."", ""summary"": ""Funds for implementation to be included in the next year\u2019s General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""Act takes effect upon approval.""}]"	7591	June 01, 1992	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""ANACLETO D. BADOY, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}]"	To convert the rural health unit in Sta. Ana, Cagayan into a five‑bed capacity health infirmary and appropriate funds for its operation.	"[""Conversion of the rural health unit into a five\u2011bed health infirmary."", ""Appropriation of necessary funds via the General Appropriations Act."", ""Effectivity upon approval.""]"		"[""Health"", ""Rural Health"", ""Infirmary"", ""Philippines"", ""Republic Act"", ""Cagayan""]"	"[""Rural Health Unit"", ""Sta. Ana"", ""Cagayan"", ""Five-bed"", ""Health Infirmary"", ""Appropriations"", ""June 1992""]"
+repacts:datasets/markdown/repacts/1992/ra_7592_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7592_1992.md	ra_7592_1992	AN ACT INCREASING THE BED CAPACITY OF THE ARAYAT DISTRICT HOSPITAL IN THE MUNICIPALITY OF ARAYAT, PROVINCE OF PAMPANGA, FROM TWENTY-FIVE (25) TO FIFTY (50) BEDS, AND APPROPRIATING FUNDS THEREFOR	"Fifth Regular Session
+
+ Begun and held in Metro Manila, on Monday, the twenty-second day of July, nineteen hundred and ninety-one.
+
+ **[ REPUBLIC ACT NO. 7592, June 01, 1992 ]**
+
+ AN ACT INCREASING THE BED CAPACITY OF THE ARAYAT DISTRICT HOSPITAL IN THE MUNICIPALITY OF ARAYAT, PROVINCE OF PAMPANGA, FROM TWENTY-FIVE (25) TO FIFTY (50) BEDS, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The bed capacity of the Arayat District Hospital in the Municipality of Arayat, Province of Pampanga, is hereby increased from twenty-five (25) to fifty (50) beds.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on September 4, 1991 and January 30, 1992, respectively.< |  |
+| (Sgd.) **ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: June 1, 1992
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Legislation	Republic Act No. 7592 increases the bed capacity of Arayat District Hospital from 25 to 50 beds and appropriates funds for its implementation.	"[{""title"": ""Section 1"", ""summary"": ""The bed capacity of the Arayat District Hospital is increased from twenty-five (25) to fifty (50) beds.""}, {""title"": ""Section 2"", ""summary"": ""The necessary funds to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment.""}, {""title"": ""Section 3"", ""summary"": ""This Act shall take effect upon its approval.""}]"	REPUBLIC ACT NO. 7592	June 1, 1992	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""ANACLETO D. BADOY, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""CORAZON C. AQUINO"", ""title"": ""President of the Philippines""}]"	To increase the bed capacity of Arayat District Hospital from 25 to 50 beds and appropriate funds for its implementation.	"[""Bed capacity increased from 25 to 50 beds."", ""Funds to be included in the General Appropriations Act following enactment."", ""Act takes effect upon approval.""]"		"[""Healthcare"", ""Hospital"", ""Bed Capacity"", ""Pampanga"", ""Arayat District Hospital"", ""Republic Act 7592"", ""Philippines""]"	"[""bed capacity"", ""hospital beds"", ""Pampanga"", ""Arayat""]"
+repacts:datasets/markdown/repacts/1992/ra_7593_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7593_1992.md	ra_7593_1992	An Act Increasing the Bed Capacity of the Balitucan District Hospital in Magalang, Pampanga, from Twenty-Five (25) to Fifty (50) Beds, and Appropriating Funds Therefor	"**[ REPUBLIC ACT NO. 7593, June 01, 1992 ]**
+
+ AN ACT INCREASING THE BED CAPACITY OF THE BALITUCAN DISTRICT HOSPITAL IN MAGALANG, PAMPANGA, FROM TWENTY-FIVE (25) TO FIFTY (50) BEDS, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The bed capacity of the Balitucan District Hospital in Magalang, Pampanga, is hereby increased from twenty-five (25) to fifty (50) beds.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on September 4, 1991 and January 30, 1992, respectively. |  |
+| (Sgd.) **ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: June 01 1992
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	The act increases the bed capacity of Balitucan District Hospital from 25 to 50 beds and appropriates funds for the expansion.	"[{""title"": ""Section 1"", ""summary"": ""Increases the bed capacity of Balitucan District Hospital from twenty-five (25) to fifty (50) beds.""}, {""title"": ""Section 2"", ""summary"": ""The necessary amount to carry out the provisions of this Act shall be included in the General Appropriations Act of the following year.""}, {""title"": ""Section 3"", ""summary"": ""The Act shall take effect upon its approval.""}]"	7593	1992-06-01		"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	To increase bed capacity at Balitucan District Hospital and secure funding for its expansion.	"[""Increase bed capacity from 25 to 50 beds"", ""Appropriate funds in the General Appropriations Act of the following year"", ""Act takes effect upon approval""]"		"[""Healthcare"", ""Hospital"", ""Bed Capacity"", ""Pampanga""]"	"[""bed capacity"", ""hospital"", ""Balitucan District Hospital"", ""Pampanga"", ""funding"", ""appropriation"", ""Republic Act 7593""]"
+repacts:datasets/markdown/repacts/1992/ra_7594_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7594_1992.md	ra_7594_1992	AN ACT INCREASING THE BED CAPACITY OF THE TAYTAY DISTRICT HOSPITAL IN THE MUNICIPALITY OF TAYTAY, PROVINCE OF PALAWAN, FROM TWENTY-FIVE (25) TO FIFTY (50) BEDS, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 7594, June 01, 1992 ]**
+
+ AN ACT INCREASING THE BED CAPACITY OF THE TAYTAY DISTRICT HOSPITAL IN THE MUNICIPALITY OF TAYTAY, PROVINCE OF PALAWAN, FROM TWENTY-FIVE (25) TO FIFTY (50) BEDS, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippine in Congress assembled:
+
+ **Section 1.** The bed capacity of the Taytay District Hospital in the Municipality of Taytay, Province of Palawan, is hereby increased from twenty-five (25) to fifty (50) beds.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on May 16, 1991 and December 17, 1991, respectively. |  |
+| (Sgd.) **ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: June 01 1992
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	An act increasing the bed capacity of Taytay District Hospital from 25 to 50 beds and appropriating funds for its expansion.	"[{""title"": ""Section 1."", ""summary"": ""The bed capacity of Taytay District Hospital increased from twenty-five (25) to fifty (50) beds.""}, {""title"": ""Section 2."", ""summary"": ""The necessary amount to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment.""}, {""title"": ""Section 3."", ""summary"": ""This Act shall take effect upon its approval.""}]"	7594	June 01, 1992			To increase bed capacity in a provincial hospital and allocate appropriate funding.	"[""Increase bed capacity from 25 to 50 beds"", ""Allocate funding through the General Appropriations Act"", ""Effectivity upon approval""]"		"[""Health"", ""Hospital"", ""Bed capacity"", ""Palawan""]"	"[""bed capacity"", ""Taytay District Hospital"", ""Palawan"", ""Republic Act 7594""]"
+repacts:datasets/markdown/repacts/1992/ra_7595_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7595_1992.md	ra_7595_1992	AN ACT UPGRADING AND CONVERTING THE PRESENT ARAKAN VALLEY MUNICIPAL HOSPITAL IN THE PROVINCE OF COTABATO, INTO A TWENTY-FIVE-BED CAPACITY DISTRICT HOSPITAL, TO BE KNOWN AS THE ARAKAN VALLEY DISTRICT HOSPITAL, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 7595, June 01, 1992 ]**
+
+ AN ACT UPGRADING AND CONVERTING THE PRESENT ARAKAN VALLEY MUNICIPAL HOSPITAL IN THE PROVINCE OF COTABATO, INTO A TWENTY-FIVE-BED CAPACITY DISTRICT HOSPITAL, TO BE KNOWN AS THE ARAKAN VALLEY DISTRICT HOSPITAL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Arakan Valley Municipal Hospital in the Municipality of Antipas, Province of Cotabato, is hereby upgraded and converted into a twenty-five-bed capacity district hospital, to be known as the Arakan Valley District hospital.
+
+ **Section 2.** This amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 3.** Thereafter, such sum its may be necessary for the maintenance and operation of the said hospital shall be included in the annual General Appropriations Act.
+
+ **Section 4.** This Act shall take upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on September 4, 1991 and January 30, 1992, respectively. |  |
+| (Sgd.) **ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: June 01 1992
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Health	The act upgrades Arakan Valley Municipal Hospital in Cotabato to a 25-bed district hospital and appropriates funds for its conversion and operation.	"[{""title"": ""Section 1."", ""summary"": ""Upgrades the Arakan Valley Municipal Hospital to a twenty-five-bed capacity district hospital.""}, {""title"": ""Section 2."", ""summary"": ""The necessary amount for the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment.""}, {""title"": ""Section 3."", ""summary"": ""Any sum required for maintenance and operation of the hospital shall be included in the annual General Appropriations Act.""}, {""title"": ""Section 4."", ""summary"": ""The Act shall take effect upon its approval.""}]"	Republic Act No. 7595	June 01, 1992	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""ANACLETO D. BADOY, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}]"	To upgrade and convert the Arakan Valley Municipal Hospital into a 25-bed district hospital and appropriate funds for its operation.	"[""Upgrades Arakan Valley Municipal Hospital to a 25-bed district hospital"", ""Appropriates funds for its conversion and operation"", ""Includes necessary funds in the General Appropriations Act"", ""Includes maintenance funds in subsequent General Appropriations Acts""]"		"[""Health"", ""Hospital"", ""District Hospital"", ""Appropriations""]"	"[""Arakan Valley"", ""Cotabato"", ""hospital"", ""upgrade"", ""conversion"", ""25-bed"", ""Republic Act 7595"", ""General Appropriations Act""]"
+repacts:datasets/markdown/repacts/1992/ra_7596_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7596_1992.md	ra_7596_1992	REPUBLIC ACT NO. 7596, June 02, 1992	"**[ REPUBLIC ACT NO. 7596, June 02, 1992 ]**
+
+ ISANG BATAS NA NAGDEDEKLARA SA IKA-2 NG SETYEMBRE BILANG ARAW NG NUEBA ESIHA AT TANGING WALANG GAWAING ARAW O SPECIAL NONWORKING HOLIDAY SA LALAWIGAN NG NUEBA ESIHA
+
+ Dapat pagtibayin ng Senado at ng Kapulungan ng mga Kinatawan ng Pilipinas na ngayon ay nagpupulong:
+
+ **SEKSYON 1.** Ang ika-2 ng Setyembre ng bawat taon ay sa pamamagitan dito idinedeklara bilang Araw ng Nueba Esiha at isang tanging walang pasok na araw sa lalawigan ng Nueba Esiha.
+
+ **SEKSYON 2.** Ang Batas na ito ay magkakabisa labinlimang (15) araw pagkatapos na malathala ito sa isang pambansang pahayagan.
+
+ Pinagtibay,
+
+ | (Sgd.) **NEPTALI A. GONZALES** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on September 4, 1991 and January 30, 1992, respectively. |  |
+| (Sgd.) **ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: June 02 1992
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	Declares September 2 as a holiday in the province of Nueva Ecija, establishing it as a special nonworking day.	"[{""title"": ""SEKSYON 1"", ""summary"": ""Declares the second day of September of each year as a holiday in Nueva Ecija.""}, {""title"": ""SEKSYON 2"", ""summary"": ""The act takes effect fifteen (15) days after its publication in a national newspaper.""}]"	7596	June 02, 1992	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""ANACLETO D. BADOY, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""CORAZON C. AQUINO"", ""title"": ""President of the Philippines""}]"	To declare September 2 as a holiday in the province of Nueva Ecija, thereby providing a special nonworking day for its residents.	"[""Section 1 declares September 2 as a holiday in Nueva Ecija."", ""Section 2 specifies that the act becomes effective fifteen days after publication in a national newspaper.""]"		"[""Holiday"", ""Nueva Ecija"", ""Public Holiday"", ""Republic Act""]"	"[""September 2"", ""Nueva Ecija"", ""holiday"", ""public holiday"", ""Republic Act 7596""]"
+repacts:datasets/markdown/repacts/1992/ra_7597_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7597_1992.md	ra_7597_1992	AN ACT INCREASING THE BED CAPACITY OF THE RIZAL MEMORIAL DISTRICT HOSPITAL IN DAPITAN CITY FROM SEVENTY-FIVE (75) TO ONE HUNDRED (100) BEDS, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 7597, June 02, 1992 ]**
+
+ AN ACT INCREASING THE BED CAPACITY OF THE RIZAL MEMORIAL DISTRICT HOSPITAL IN DAPITAN CITY FROM SEVENTY-FIVE (75) TO ONE HUNDRED (100) BEDS, AND APPROPRIATING FUNDS THEREFOR

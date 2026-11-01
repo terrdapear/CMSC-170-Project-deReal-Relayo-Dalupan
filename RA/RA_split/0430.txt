@@ -1,0 +1,209 @@
+repacts:datasets/markdown/repacts/1957/ra_1672_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1672_1957.md	ra_1672_1957	An Act Changing the Name of the Municipality of Badajoz, Province of Romblon, to San Agustin	"**REPUBLIC ACT No. 1672**
+
+ **An Act Converting the Sitio of Bugang in the Municipality of Pio V. Corpus, Province of Masbate, into a Barrio to be Known as Barrio Bugang**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Bugang in the Municipality of Pio V. Corpus, Province of Masbate, is hereby converted into a barrio to be known as barrio Bugang.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	This act changes the name of the Municipality of Badajoz in the Province of Romblon to San Agustin, effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The name of the Municipality of Badajoz is changed to San Agustin.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	1660	June 20, 1957			To change the name of the Municipality of Badajoz to San Agustin.	"[""Section 1: Name of Municipality of Badajoz is changed to San Agustin."", ""Section 2: Act shall take effect upon approval.""]"		"[""Municipality"", ""Name Change"", ""Romblon""]"	"[""Badajoz"", ""San Agustin"", ""Romblon"", ""Municipality name change""]"
+repacts:datasets/markdown/repacts/1957/ra_1673_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1673_1957.md	ra_1673_1957	An Act Converting the Sitio of Igdacoton in the Barrio of Magdalena, Municipality of Anini-y, Province of Antique, into a Barrio to be Known as the Barrio of San Ramon	"**REPUBLIC ACT No. 1673**
+
+ **An Act Converting the Sitio of Del Pilar, Municipality of Saug, Province of Davao, into a Barrio to be Known as Barrio Del Pilar**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Del Pilar, Municipality of Saug, Province of Davao, is converted into a barrio to be known as barrio Del Pilar.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	This act converts the sitio of Igdacoton into a barrio named San Ramon and takes effect upon its approval.	"[{""title"": ""Section 1."", ""summary"": ""The sitio of Igdacoton in the barrio of Magdalena, Municipality of Anini-y, Province of Antique, is hereby converted into a barrio to be known as the barrio of San Ramon.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	1661	June 20, 1957			To convert the sitio of Igdacoton into a barrio.	"[""The sitio of Igdacoton in the barrio of Magdalena, Municipality of Anini-y, Province of Antique, is hereby converted into a barrio to be known as the barrio of San Ramon."", ""This Act shall take effect upon its approval.""]"		"[""Local Government"", ""Barangay"", ""Republic Act"", ""Antique"", ""San Ramon""]"	"[""Sitio"", ""Barrio"", ""Igdacoton"", ""Magdalena"", ""Anini-y"", ""Antique"", ""San Ramon"", ""Republic Act 1661""]"
+repacts:datasets/markdown/repacts/1957/ra_1674_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1674_1957.md	ra_1674_1957	An Act Creating Certain Barrios in the Municipality of Alitagtag, Province of Batangas	"**REPUBLIC ACT No. 1674**
+
+ **An Act Converting Certain Sitios in the Municipality of Bansalan, Province of Davao, into Barrios**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Buas, Mabunga, Manga, Tacul, Kanapolo, San Isidro, San Miguel, Bacongan, Dalawinon, New Clarin, Kasuga, Rizal, Dalumay, Darapuay, Kinuskusan, Tubod, Bitaug, Libertad, Buenavista, Mabini, Pananag, Union, Upper Managa, Mabuhay, Bonifacio, San Vicente, Kibao, Tinongtongan, Kabasagan, Tuwak, Maliit Digos, Tamlangon, New Katipunan, Upper Sacub, Sinarangan, Kibuaya, and Managa, Municipality of Bansalan, Province of Davao, are converted into barrios of said municipality, to be known as the barrios of Buas, Mabunga, Manga, Tacul, Kanapolo, San Isidro, San Miguel, Bacongan, Dalawinon, New Clarin, Kasuga, Rizal, Dalumay, Darapuay, Kinuskusan, Tubod, Bitaug, Libertad, Buenavista, Mabini, Pananag, Union, Upper Managa, Mabuhay, Bonifacio, San Vicente, Kibao, Tinongtongan, Kabasagan, Tuwak, Maliit Digos, Tamlangon, New Katipunan, Upper Sacub, Sinaragan, Kibuaya and Managa, respectively.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	Establishes Barrio Pingas, Barrio Tadlak, and Barrio Sambi in Alitagtag, Batangas.	"[{""title"": ""Section 1"", ""summary"": ""Creation of Barrio Pingas, Barrio Tadlak, and Barrio Sambi in the Municipality of Alitagtag, Batangas.""}, {""title"": ""Section 2"", ""summary"": ""The act takes effect upon its approval.""}]"	RA 1662	June 20, 1957			To create new barrios in Alitagtag.	"[""Creation of Barrio Pingas"", ""Creation of Barrio Tadlak"", ""Creation of Barrio Sambi"", ""Act takes effect upon approval""]"		"[""Local Government"", ""Barangay"", ""Municipality"", ""Batangas""]"	"[""Barrios"", ""Alitagtag"", ""Batangas"", ""Republic Act 1662""]"
+repacts:datasets/markdown/repacts/1957/ra_1675_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1675_1957.md	ra_1675_1957	An Act to Amend Certain Items in Republic Act Numbered Fourteen Hundred Eleven, Regarding Public Works Projects for the Province of Masbate	"**REPUBLIC ACT No. 1675**
+
+ **An Act Changing the Name of the Municipality of Saug, Province of Davao, to Asuncion**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Municipality of Saug, Province of Davao, is changed to Asuncion.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	This act amends specific items in Republic Act 1411 concerning municipal building construction costs for projects in Masbate province, revising the amounts for several items and taking effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Amends items (f), (g), (h) and (i) paragraph thirty, page eighty-eight of RA 1411 to set the construction cost of municipal buildings in Placer and Uson to \u20b15,000.00.""}, {""title"": ""Section 2"", ""summary"": ""Amends item seven, page two hundred ten of RA 1411 to set the construction cost of the municipal building in Placer to \u20b15,000.00.""}, {""title"": ""Section 3"", ""summary"": ""The act shall take effect upon its approval.""}]"	1663	June 20, 1957			To amend certain items in RA 1411 related to public works projects for the Province of Masbate.	"[""Amendment of items (f), (g), (h), (i) paragraph thirty, page eighty-eight of RA 1411."", ""Amendment of item seven, page 210 of RA 1411."", ""Act takes effect upon approval.""]"	Republic Act 1411	"[""Public Works"", ""Municipal Building"", ""Masbate"", ""Amendment""]"	"[""RA 1663"", ""RA 1411"", ""public works"", ""municipal building"", ""Masbate"", ""amendment"", ""construction""]"
+repacts:datasets/markdown/repacts/1957/ra_1676_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1676_1957.md	ra_1676_1957	An Act Changing the Name of Barrio Paghaluban, Municipality of Barcelona, Province of Sorsogon, to Peña Francia	"**REPUBLIC ACT No. 1676**
+
+ **An Act Converting the Sitio of Kalangkang, Barrio of Kasily, Municipality of Sta. Cruz, Province of Marinduque, into a Barrio to be Known as the Barrio of Kalangkang of Said Municipality**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Kalangkang, barrio of Kasily, Municipality of Sta. Cruz, Province of Marinduque, is converted into a barrio of said municipality to be known as the barrio of Kalangkang.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	This act changes the name of Barrio Paghaluban to Peña Francia.	"[{""title"": ""Section 1"", ""summary"": ""The name of the barrio of Paghaluban, Municipality of Barcelona, Province of Sorsogon, is changed to Pe\u00f1a Francia.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	1664	June 20, 1957			To change the name of a barrio in the province of Sorsogon.	"[""Name of Barrio Paghaluban changed to Pe\u00f1a Francia."", ""Act takes effect upon approval.""]"		"[""Name change"", ""Local government""]"	"[""Barrio"", ""Sorsogon"", ""Pe\u00f1a Francia"", ""Barcelona"", ""Philippines""]"
+repacts:datasets/markdown/repacts/1957/ra_1677_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1677_1957.md	ra_1677_1957	An Act Changing the Name of the Municipality of Papaya in the Province of Nueva Ecija to General Tinio	"**REPUBLIC ACT No. 1677**
+
+ **An Act to Convert the Sitio of Durado in the Municipality of Pakil, Province of Laguna, into a Barrio to be Known as the Barrio of Durado of Said Municipality**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Durado in the Municipality of Pakil, Province of Laguna, is hereby converted into a barrio to be known as the barrio of Durado of said municipality.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Act	An act that changes the official name of the Municipality of Papaya in Nueva Ecija to General Tinio, effective upon its approval.	"[{""title"": ""Section 1"", ""summary"": ""The name of the Municipality of Papaya in the Province of Nueva Ecija is hereby changed to General Tinio.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	1665	June 20, 1957			To rename the Municipality of Papaya to General Tinio in accordance with local government naming regulations.	"[""The name of the Municipality of Papaya in the Province of Nueva Ecija is changed to General Tinio."", ""The Act shall take effect upon its approval.""]"		"[""municipality"", ""name change"", ""local government""]"	"[""Republic Act 1665"", ""General Tinio"", ""Papaya"", ""Nueva Ecija""]"
+repacts:datasets/markdown/repacts/1957/ra_1678_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1678_1957.md	ra_1678_1957	An Act Changing to General Roxas the Name of the Barrio of Dacudao in the City of Davao	"**REPUBLIC ACT No. 1678**
+
+ **An Act Creating the Barrio of Milad, Municipality of Polanco, Province of Zamboanga del Norte**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Dilawa, Desin, Lambog, Gumatob, Boboringan, Tubongon, Debolok, Tiaman, Guintom, Lower Disoy, and New Tipan, Municipality of Polanco, Province of Zamboanga del Norte, are constituted into a barrio to be known as the barrio of Milad of said municipality.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	An act that changes the name of the barrio of Dacudao in the City of Davao to General Roxas.	"[{""title"": ""Section 1."", ""summary"": ""The name of the barrio of Dacudao in the City of Davao is hereby changed to General Roxas.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	1666	June 20, 1957			To rename the barrio of Dacudao to General Roxas.	"[""The name of the barrio of Dacudao is changed to General Roxas."", ""The act takes effect upon its approval.""]"		"[""Renaming"", ""Local Government"", ""Geography""]"	"[""General Roxas"", ""Dacudao"", ""Davao"", ""Barrio"", ""Renaming""]"
+repacts:datasets/markdown/repacts/1957/ra_1679_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1679_1957.md	ra_1679_1957	An Act Changing the Name of Barrio Lipras, Municipality of Manukan, Province of Zamboanga del Norte, to Villa Ramos	"**REPUBLIC ACT No. 1679**
+
+ **An Act to Further Amend Section Twenty of the Charter of the City of Davao**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section twenty of Commonwealth Act Numbered Fifty-one, otherwise known as the Charter of the City of Davao, as amended by Republic Act Numbered Thirteen hundred sixty-eight, is further amended to read as follows:
+
+ > ""Sec. 20. *The Assistant City Attorneys.* -The city attorney shall have five assistants who shall each receive a compensation as follows: the first assistant, three thousand nine hundred sixty pesos; the second assistant, three thousand seven hundred twenty pesos; the third assistant, three thousand four hundred eighty pesos; the fourth assistant, three thousand three hundred pesos; and the fifth assistant, three thousand one hundred twenty pesos.""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Local Government	This Republic Act changes the name of Barrio Lipras in the Municipality of Manukan, Zamboanga del Norte to Villa Ramos.	"[{""title"": ""Section 1."", ""summary"": ""Renames Barrio Lipras to Villa Ramos.""}, {""title"": ""Section 2."", ""summary"": ""Act takes effect upon approval.""}]"	1667	June 20, 1957			To rename Barrio Lipras to Villa Ramos.	"[""Name of Barrio Lipras changed to Villa Ramos"", ""Act takes effect upon approval""]"		"[""Renaming"", ""Municipality"", ""Zamboanga del Norte"", ""Barrio""]"	"[""Barrio Lipras"", ""Villa Ramos"", ""Manukan"", ""Zamboanga del Norte"", ""Republic Act 1667""]"
+repacts:datasets/markdown/repacts/1957/ra_1680_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1680_1957.md	ra_1680_1957	An Act Converting the Sitio of Dampigan in the Municipality of Santa Rita, Province of Samar, into a Barrio	"**REPUBLIC ACT No. 1680**
+
+ **An Act Amending Item (b), Group III, Paragraph Thirty-Five, for the Mountain Province, Subsection f, Section Two of Republic Act Numbered One Thousand Four Hundred Eleven**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item (b), group III, paragraph thirty-five, for the Mountain Province, subsection f, section two of Republic Act Numbered One thousand four hundred eleven, is hereby amended to read as follows:
+
+ | ""(b) Besao Municipal Building Construction | ₱5,000.00"" |
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	Converts the sitio of Dampigan into a barrio.	"[{""title"": ""Section 1."", ""summary"": ""The sitio of Dampigan in the Municipality of Santa Rita, Province of Samar, is hereby converted into a barrio to be known as the barrio of Dampigan.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	1668	June 20, 1957			To convert the sitio of Dampigan into a barrio.	"[""Conversion of the sitio of Dampigan into a barrio"", ""Act takes effect upon approval.""]"		"[""Samar"", ""Santa Rita"", ""barrio"", ""territorial conversion""]"	"[""sitio"", ""barrio"", ""conversion"", ""Samar""]"
+repacts:datasets/markdown/repacts/1957/ra_1681_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1681_1957.md	ra_1681_1957	An Act Dividing the Barrio of Talumpoc, Municipality of Batangas, Province of Batangas, into Two Barrios to be Known as the Barrios of Talumpoc Silangan and Talumpoc Kanluran of Said Municipality	"**REPUBLIC ACT No. 1681**
+
+ **An Act to Amend Certain Items in Republic Act Numbered One Thousand Two Hundred**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item (37), on page 18, paragraph 2a, title A, section one of Republic Act Numbered Twelve hundred is amended to read as follows:
+
+ | ""(37) Negros Occidental Provincial Hospital, Bacolod A-000.2a (76) |  |
+| --- | --- |
+| (a) Construction of Kitchen for Contagious Diseases Pavilion | ₱15,000.00 |
+| (b) Construction of Laboratory Building | 15,000.00"" |
+
+ **Section 2.** The following item is hereby inserted on page 22, after item (62) (d), paragraph 2a, title A, section one of same Act:
+
+ | ""(63) Negros Occidental Emergency Hospital Himamaylan A-000.2a (80) Construction | ₱25,000.00"" |
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	This law divides the barrio of Talumpoc in the Municipality of Batangas into two separate barrios—Talumpoc Silangan and Talumpoc Kanluran—specifying their constituent sitios and boundaries, and declares the act effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The barrio of Talumpoc is divided into two barrios: Talumpoc Silangan, comprising the sitios of Romano, Poyesan, Bondeo, and Latag; and Talumpoc Kanluran, comprising the sitios of Ginto, Duhatan, Kulingkang, Piit, and Cuaba. The boundaries are defined by Bilogo Bridge to the north, the barrio school building and Bondoc\u00f1g Sapangan at the center, and Munting Bondoc to the south.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	1669	June 20, 1957			To subdivide the barrio of Talumpoc into two distinct barrios for administrative and local governance purposes.	"[""Divides Talumpoc into Talumpoc Silangan and Talumpoc Kanluran"", ""Specifies constituent sitios for each new barrio"", ""Defines boundaries of the new barrios"", ""Effective upon approval""]"		"[""Local Government"", ""Barangay"", ""Territorial Division""]"	"[""Talumpoc"", ""Batangas"", ""Silangan"", ""Kanluran"", ""Sitios"", ""Borough"", ""Division""]"
+repacts:datasets/markdown/repacts/1957/ra_1682_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1682_1957.md	ra_1682_1957	An Act Changing the Name of Barrio Tudela, Municipality of Araceli, Province of Palawan, to Calandagan	"**REPUBLIC ACT No. 1682**
+
+ **An Act to Establish a Breeding Station in the Province of Iloilo and Another One in the Province of Isabela and to Appropriate the Necessary Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established under the direct supervision of the Director of Animal Industry a breeding station in the Province of Iloilo to be known as the Iloilo Breeding Station and another one in the Province of Isabela to be known as the Isabela Breeding Station.
+
+ **Section 2.** Subject to the promulgation of such rules and regulations not inconsistent with law by the Secretary of Agriculture and Natural Resources, the Director of Animal Industry will establish said breeding stations on suitable public or private land of not less than twenty-five hectares that may be reserved or acquired for the purpose.
+
+ **Section 3.** The sum of one hundred thousand pesos is hereby appropriated, out of the funds in the National Treasury not otherwise appropriated; said sum to be spent by the Director of Animal Industry, subject to the approval of the Secretary of Agriculture and Natural Resources, for the purchase of breeding animals; for the purchase of supplies and materials; for the construction of buildings, sheds, corrals and other structures; for the establishment of water system; for salaries and wages; and for other expenses as may be necessary to carry out the purposes of this Act for the fiscal year ending June thirty, nineteen hundred and fifty-eight, and for its operation and maintenance in subsequent years.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	This act changes the name of Barrio Tudela to Barrio Calandagan in the Municipality of Araceli, Province of Palawan.	"[{""title"": ""Section 1."", ""summary"": ""The name of barrio Tudela, Municipality of Araceli, Province of Palawan, is changed to barrio Calandagan.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	1670	June 20, 1957			To change the name of a barrio.	"[""The name of barrio Tudela is changed to barrio Calandagan."", ""The act takes effect upon approval.""]"		"[""Local Government"", ""Palawan"", ""Name Change""]"	"[""Barrio"", ""Tudela"", ""Calandagan"", ""Araceli"", ""Palawan""]"
+repacts:datasets/markdown/repacts/1957/ra_1683_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1683_1957.md	ra_1683_1957	An Act Converting the Sitios of Kanhaayon, Kapudlosan, Himokilan, Anolon, Mahilom, Baldoza and Tagbibi, Municipality of Hindang, Province of Leyte, into Barrios of Said Municipality	"**REPUBLIC ACT No. 1683**
+
+ **An Act Creating the Barrio of Tagodtod in the Municipality of San Nicolas, Province of Batangas**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Tagodtod is separated from the barrio of Munlawin, Municipality of San Nicolas, Province of Batangas, and constituted into a barrio in the said municipality to be known as the barrio of Tagodtod.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	Converts several sitios in the Municipality of Hindang, Leyte into barrios.	"[{""title"": ""Section 1"", ""summary"": ""The sitios of Kanhaayon, Kapudlosan, Himokilan, Anolon, Mahilom, Baldoza and Tagbibi in the Municipality of Hindang, Province of Leyte, are converted into barrios of said municipality to be known as the barrios of Kanhaayon, Kapudlosan, Himokilan, Anolon, Mahilom, Baldoza and Tagbibi, respectively.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	1671	June 20, 1957			Conversion of specified sitios into barrios within the Municipality of Hindang, Leyte.	"[""Conversion of the sitios of Kanhaayon, Kapudlosan, Himokilan, Anolon, Mahilom, Baldoza and Tagbibi into barrios."", ""The Act takes effect upon approval.""]"		"[""Republic Act"", ""Law"", ""Municipality"", ""Leyte"", ""Barrios""]"	"[""Sitios"", ""Barrios"", ""Hindang"", ""Leyte"", ""Conversion""]"
+repacts:datasets/markdown/repacts/1957/ra_1684_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1684_1957.md	ra_1684_1957	An Act Converting the Sitio of Bugang in the Municipality of Pio V. Corpus, Province of Masbate, into a Barrio to be Known as Barrio Bugang	"**REPUBLIC ACT No. 1684**
+
+ **An Act Creating the Barrio of Burol in the Municipality of San Nicolas, Province of Batangas**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Burol is separated from the barrio of Tambo, Municipality of San Nicolas, Province of Batangas, and constituted into a barrio in the said municipality to be known as the barrio of Burol.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	Converts the sitio of Bugang in Pio V. Corpus, Masbate into a barrio named Barrio Bugang.	"[{""title"": ""Section 1"", ""summary"": ""The sitio of Bugang is converted into a barrio called Barrio Bugang.""}, {""title"": ""Section 2"", ""summary"": ""The act becomes effective upon approval.""}]"	1672	June 20, 1957			To officially convert the sitio of Bugang into a barrio within the municipality of Pio V. Corpus, Masbate.	"[""The sitio of Bugang is converted into a barrio named Barrio Bugang."", ""The act takes effect upon its approval.""]"		"[""Republic Act"", ""Barrio"", ""Masbate"", ""Municipality"", ""Pio V. Corpus""]"	"[""Bugang"", ""Masbate"", ""Barrio"", ""Sitio"", ""Pio V. Corpus"", ""Republic Act 1672""]"
+repacts:datasets/markdown/repacts/1957/ra_1685_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1685_1957.md	ra_1685_1957	An Act Converting the Sitio of Del Pilar, Municipality of Saug, Province of Davao, into a Barrio to be Known as Barrio Del Pilar	"**REPUBLIC ACT No. 1685**
+
+ **An Act Creating the Barrio of Kalawit in the Municipality of San Nicolas, Province of Batangas**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Kalawit is separated from the barrio of Alas-as, Municipality of San Nicolas, Province of Batangas, and constituted into a barrio of the said municipality to be known as the barrio of Kalawit.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	Converts the sitio of Del Pilar into a barrio named Barrio Del Pilar.	"[{""title"": ""Section 1."", ""summary"": ""The sitio of Del Pilar, Municipality of Saug, Province of Davao, is converted into a barrio to be known as barrio Del Pilar.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	1673	June 20, 1957			To convert the sitio of Del Pilar into a barrio.	"[""Conversion of the sitio of Del Pilar into a barrio named Barrio Del Pilar."", ""Act takes effect upon approval.""]"		"[""Republic Act"", ""Local Government""]"	"[""Del Pilar"", ""Saug"", ""Davao"", ""barrio"", ""sitio"", ""conversion""]"
+repacts:datasets/markdown/repacts/1957/ra_1686_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1686_1957.md	ra_1686_1957	An Act Converting Certain Sitios in the Municipality of Bansalan, Province of Davao, into Barrios	"**REPUBLIC ACT No. 1686**
+
+ **An Act Creating the Barrio of Baluk-Balok in the Municipality of San Nicolas, Province of Batangas**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Baluk-Balok is separated from the barrio of Gipit, Municipality of San Nicolas, Province of Batangas, and constituted into a barrio in the said municipality to be known as the barrio of Baluk-Balok.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	Converts specified sitios of Bansalan municipality into barrios.	"[{""title"": ""Section 1"", ""summary"": ""Lists sitios to be converted into barrios of Bansalan municipality.""}, {""title"": ""Section 2"", ""summary"": ""States that the act takes effect upon approval.""}]"	1674	June 20, 1957			To convert certain sitios in Bansalan into barrios.	"[""Conversion of specified sitios into barrios"", ""Act takes effect upon approval""]"		"[""Republic Act"", ""Local Government"", ""Barangay Conversion""]"	"[""sitios"", ""barrios"", ""Bansalan"", ""Davao"", ""conversion""]"
+repacts:datasets/markdown/repacts/1957/ra_1687_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1687_1957.md	ra_1687_1957	An Act Changing the Name of the Municipality of Saug, Province of Davao, to Asuncion	"**REPUBLIC ACT No. 1687**
+
+ **An Act Creating the Barrio of Pulang-Bato in the Municipality of San Nicolas, Province of Batangas**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Pulang-Bato is separated from the barrio of Alas-as, Municipality of San Nicolas, Province of Batangas, and constituted into a barrio in the said municipality to be known as the barrio of Pulang-Bato.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Act	An act to change the name of the Municipality of Saug to Asuncion.	"[{""title"": ""Section 1."", ""summary"": ""The name of the Municipality of Saug, Province of Davao, is changed to Asuncion.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	1675	June 20, 1957			To change the name of the Municipality of Saug to Asuncion.	"[""Change the name of the Municipality of Saug to Asuncion""]"		"[""Name change"", ""Municipality"", ""Province of Davao""]"	"[""Saug"", ""Asuncion"", ""Davao""]"

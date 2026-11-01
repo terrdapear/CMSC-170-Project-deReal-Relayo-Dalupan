@@ -1,0 +1,153 @@
+repacts:datasets/markdown/repacts/1997/ra_8268_1997.md	repacts	1997		datasets/markdown/repacts/1997/ra_8268_1997.md	ra_8268_1997	AN ACT CONVERTING THE NAVA BARANGAY HIGH SCHOOL IN BARANGAY NAVA, MUNICIPALITY OF HINUNANGAN, PROVINCE OF SOUTHERN LEYTE, INTO A NATIONAL HIGH SCHOOL, TO BE KNOWN AS THE NAVA NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"Tenth Congress Second Regular Session
+
+ **[ REPUBLIC ACT NO. 8268, March 01, 1997 ]**
+
+ AN ACT CONVERTING THE NAVA BARANGAY HIGH SCHOOL IN BARANGAY NAVA, MUNICIPALITY OF HINUNANGAN, PROVINCE OF SOUTHERN LEYTE, INTO A NATIONAL HIGH SCHOOL, TO BE KNOWN AS THE NAVA NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Nava Barangay High School in Barangay Nava, Municipality of Hinunangan, Province of Southern Leyte, is hereby converted into a national high school, to be known as the Nava National High School.
+
+ **Section 2.** All personnel, assets, liabilities and records of the Nava Barangay High School shall be transferred to and absorbed by the Nava National High School.
+
+ **Section 3.** The Secretary of Education, Culture and Sports shall issue the necessary rules and regulations for the conversion and operations of the school.
+
+ **Section 4.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 5.** This Act shall take effect upon its approval.
+
+ Approved, Lapsed into law on March 1, 1997, without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.
+"	success	Republic Act	Converts the Nava Barangay High School in Barangay Nava, Hinunangan, Southern Leyte into a national high school known as Nava National High School; transfers all personnel, assets, liabilities, and records; authorizes the Secretary of Education, Culture and Sports to issue necessary rules and regulations; appropriates funds in the following General Appropriations Act; takes effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Converts the Nava Barangay High School into a national high school known as Nava National High School.""}, {""title"": ""Section 2."", ""summary"": ""Transfers all personnel, assets, liabilities, and records of the Nava Barangay High School to the Nava National High School.""}, {""title"": ""Section 3."", ""summary"": ""The Secretary of Education, Culture and Sports shall issue the necessary rules and regulations for the conversion and operations of the school.""}, {""title"": ""Section 4."", ""summary"": ""The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment.""}, {""title"": ""Section 5."", ""summary"": ""This Act shall take effect upon its approval.""}]"	REPUBLIC ACT NO. 8268	1997-03-01			Conversion of Nava Barangay High School into a National High School and appropriation of funds.	"[""Conversion of Nava Barangay High School into Nava National High School"", ""Transfer of personnel, assets, liabilities, and records"", ""Secretary of Education to issue rules and regulations"", ""Funds appropriated in the following General Appropriations Act"", ""Act takes effect upon approval""]"		"[""Education"", ""School Conversion"", ""High School"", ""Republic Act""]"	"[""Nava Barangay High School"", ""Nava National High School"", ""Southern Leyte"", ""General Appropriations Act"", ""Secretary of Education""]"
+repacts:datasets/markdown/repacts/1997/ra_8269_1997.md	repacts	1997		datasets/markdown/repacts/1997/ra_8269_1997.md	ra_8269_1997	AN ACT CONVERTING THE ANTADAO HIGH SCHOOL ANNEX IN BARANGAY ANTADAO, MUNICIPALITY OF SAGADA, MOUNTAIN PROVINCE, INTO AN INDEPENDENT NATIONAL HIGH SCHOOL, TO BE KNOWN AS THE ANTADAO NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"Tenth Congress Second Regular Session
+
+ **[ REPUBLIC ACT NO. 8269, March 01, 1997 ]**
+
+ AN ACT CONVERTING THE ANTADAO HIGH SCHOOL ANNEX IN BARANGAY ANTADAO, MUNICIPALITY OF SAGADA, MOUNTAIN PROVINCE, INTO AN INDEPENDENT NATIONAL HIGH SCHOOL, TO BE KNOWN AS THE ANTADAO NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established, under the supervision of the Department of Education, Culture and Sports, a national high school in Barangay Antadao, Municipality of Sagada, and Mountain Province, to be known as the Antadao National High School.
+
+ **Section 2.** The Secretary of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The amount necessary for the implementation of this Act shall be charged against the current year's appropriations of the Mt. Province National General Comprehensive High School - Antadao Annex. Thereafter, such amount as may be necessary for the operation and maintenance of the Antadao National High School shall be included in the annual General Appropriations Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved, Lapsed into law on March 1, 1997, without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.
+"	success	Republic Act	This Act converts the Antadao High School Annex into an independent national high school known as Antadao National High School and appropriates funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""Establishes Antadao National High School under the supervision of the Department of Education, Culture and Sports.""}, {""title"": ""Section 2."", ""summary"": ""Empowers the Secretary of Education, Culture and Sports to issue necessary rules and regulations.""}, {""title"": ""Section 3."", ""summary"": ""Allocates funds from the current year's appropriations and future General Appropriations Act for implementation and operation.""}, {""title"": ""Section 4."", ""summary"": ""States the Act shall take effect upon approval.""}]"	8269	March 1, 1997			To establish Antadao National High School as an independent national high school and secure appropriate funding.	"[""Establishment of Antadao National High School."", ""Issuance of rules and regulations by the Secretary of Education, Culture and Sports."", ""Funding appropriation from current and future General Appropriations Acts."", ""Effectivity upon approval.""]"		"[""Education"", ""High School"", ""Republic Act"", ""Antadao"", ""Sagada"", ""Mountain Province""]"	"[""Antadao National High School"", ""Department of Education, Culture and Sports"", ""General Appropriations Act"", ""Mt. Province National General Comprehensive High School""]"
+repacts:datasets/markdown/repacts/1997/ra_8270_1997.md	repacts	1997		datasets/markdown/repacts/1997/ra_8270_1997.md	ra_8270_1997	AN ACT SEPARATING THE CALINAN NATIONAL HIGH SCHOOL ANNEX IN BARANGAY DACUDAO, FROM THE CALINAN NATIONAL HIGH SCHOOL IN CALINAN, BOTH IN DAVAO CITY, AND CONVERTING IT INTO A SEPARATE AND INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS THE DACUDAO NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"Tenth Congress Second Regular Session
+
+ **[ REPUBLIC ACT NO. 8270, March 01, 1997 ]**
+
+ AN ACT SEPARATING THE CALINAN NATIONAL HIGH SCHOOL ANNEX IN BARANGAY DACUDAO, FROM THE CALINAN NATIONAL HIGH SCHOOL IN CALINAN, BOTH IN DAVAO CITY, AND CONVERTING IT INTO A SEPARATE AND INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS THE DACUDAO NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Calinan National High School Annex in Barangay Dacudao, Calinan, Davao City, is hereby separated from the Calinan National High School in Calinan, also of the same city, and converted into a separate and independent national high school, to be known as the Dacudao National High School.
+
+ **Section 2.** The Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the provisions of this Act.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved, Lapsed into law on March 1, 1997, without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.
+"	success	Education	Separates the Calinan National High School Annex in Barangay Dacudao from Calinan National High School and establishes it as the Dacudao National High School, providing appropriations and regulatory guidance.	"[{""title"": ""Section 1."", ""summary"": ""Separates the Calinan National High School Annex in Barangay Dacudao from Calinan National High School and establishes it as Dacudao National High School.""}, {""title"": ""Section 2."", ""summary"": ""Authorizes the Department of Education, Culture and Sports to issue rules and regulations necessary to implement the Act.""}, {""title"": ""Section 3."", ""summary"": ""Mandates that the necessary funds be included in the General Appropriations Act of the following year.""}, {""title"": ""Section 4."", ""summary"": ""States that the Act takes effect upon its approval.""}]"	RA 8270	March 1, 1997	"[{""name"": ""Senate of the Philippines"", ""title"": ""Senate""}, {""name"": ""House of Representatives of the Philippines"", ""title"": ""House of Representatives""}]"		To establish Dacudao National High School as an independent national high school, ensuring appropriate funding and regulatory oversight.	"[""Separation of Calinan National High School Annex into Dacudao National High School"", ""Conversion into independent national high school"", ""Appropriations for the new school"", ""Issuance of rules and regulations by DepEd"", ""Effective date upon approval""]"		"[""Education"", ""School"", ""Davao"", ""National High School"", ""Appropriation""]"	"[""Calinan National High School Annex"", ""Dacudao National High School"", ""Department of Education"", ""General Appropriations Act"", ""Republic Act 8270""]"
+repacts:datasets/markdown/repacts/1997/ra_8271_1997.md	repacts	1997		datasets/markdown/repacts/1997/ra_8271_1997.md	ra_8271_1997	AN ACT PROVIDING FOR THE SEPARATION OF MARBEL 7 HIGH SCHOOL ANNEX SITUATED IN BARANGAY CONCEPCION, KORONADAL, SOUTH COTABATO, FROM THE MARBEL 7 HIGH SCHOOLS (MAIN), INTO AN INDEPENDENT NATIONAL HIGH SCHOOL, TO BE KNOWN AS THE CONCEPCION NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"Tenth Congress Second Regular Session
+
+ **[ REPUBLIC ACT NO. 8271, March 01, 1997 ]**
+
+ AN ACT PROVIDING FOR THE SEPARATION OF MARBEL 7 HIGH SCHOOL ANNEX SITUATED IN BARANGAY CONCEPCION, KORONADAL, SOUTH COTABATO, FROM THE MARBEL 7 HIGH SCHOOLS (MAIN), INTO AN INDEPENDENT NATIONAL HIGH SCHOOL, TO BE KNOWN AS THE CONCEPCION NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Marbel 7 High School Annex in the Municipality of Koronadal, Province of South Cotabato, is hereby separated from the Marbel 7 High School (Main) and shall operate independently under the supervision of the Department of Education, Culture and Sports and be known as the Concepcion National High School.
+
+ **Section 2.** All personnel, records, assets and properties including buildings, sites and improvements thereof, obligations, funds and appropriations of the Marbel 7 High School Annex are hereby transferred to the Concepcion National High School.
+
+ **Section 3.** The amount necessary for the implementation of this Act shall be charged against the current year's appropriations of the Marbel 7 National High School-Annex (Concepcion High School). Thereafter, such sums as may be necessary for the operation and maintenance of the Concepcion National High School shall be included in the annual General Appropriations Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved, Lapsed into law on March 1, 1997, without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.
+"	success		The act separates the Marbel 7 High School Annex from the main school, establishes the Concepcion National High School, transfers all assets and personnel, appropriates necessary funds, and takes effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""The Marbel 7 High School Annex is separated from the Marbel 7 High School (Main) and will operate independently as Concepcion National High School under the supervision of the Department of Education.""}, {""title"": ""Section 2."", ""summary"": ""All personnel, records, assets, properties, obligations, funds, and appropriations of the Marbel 7 High School Annex are transferred to Concepcion National High School.""}, {""title"": ""Section 3."", ""summary"": ""The necessary funds for implementation are charged against the current year's appropriations, and subsequent funds for operation and maintenance will be included in the annual General Appropriations Act.""}, {""title"": ""Section 4."", ""summary"": ""The act takes effect upon its approval.""}]"	RA 8271	March 01, 1997			To separate the Marbel 7 High School Annex and create an independent national high school, transferring assets and appropriating funds for its operation.	"[""Separation of Marbel 7 High School Annex from main school"", ""Transfer of all assets, personnel, and records"", ""Appropriation of necessary funds for implementation and operation"", ""Act takes effect upon approval""]"		"[""Education"", ""High School"", ""South Cotabato"", ""Appropriations"", ""Department of Education""]"	"[""Marbel 7 High School"", ""Concepcion National High School"", ""South Cotabato"", ""Department of Education"", ""Appropriations""]"
+repacts:datasets/markdown/repacts/1997/ra_8272_1997.md	repacts	1997		datasets/markdown/repacts/1997/ra_8272_1997.md	ra_8272_1997	AN ACT CHANGING THE NAME OF THE SAN MIGUEL ELEMENTARY SCHOOL IN BARANGAY SAN MIGUEL IN THE MUNICIPALITY OF STO. TOMAS, PROVINCE OF BATANGAS, TO TIBURCIA CARPIO MALVAR ELEMENTARY SCHOOL	"Tenth Congress Second Regular Session
+
+ **[ REPUBLIC ACT NO. 8272, March 03, 1997 ]**
+
+ AN ACT CHANGING THE NAME OF THE SAN MIGUEL ELEMENTARY SCHOOL IN BARANGAY SAN MIGUEL IN THE MUNICIPALITY OF STO. TOMAS, PROVINCE OF BATANGAS, TO TIBURCIA CARPIO MALVAR ELEMENTARY SCHOOL
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The name of the San Miguel Elementary School in Sto. Tomas, Batangas, is hereby changed to Tiburcia Carpio Malvar Elementary School.
+
+ **Section 2.** This Act shall take effect immediately upon its approval.
+
+ Approved, Lapsed into law on March 3, 1997, without the signature of the President, In accordance with Article VI, Section 27 (1) of the Constitution.
+"	success	Education	This act changes the name of San Miguel Elementary School in Sto. Tomas, Batangas to Tiburcia Carpio Malvar Elementary School.	"[{""title"": ""Section 1"", ""summary"": ""The name of the San Miguel Elementary School in Sto. Tomas, Batangas is hereby changed to Tiburcia Carpio Malvar Elementary School.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect immediately upon its approval.""}]"	8272	March 3, 1997			Renaming of a public elementary school in Sto. Tomas, Batangas.	"[""Name change of San Miguel Elementary School to Tiburcia Carpio Malvar Elementary School."", ""Immediate effect upon approval.""]"		"[""Education"", ""Renaming"", ""School""]"	"[""San Miguel Elementary School"", ""Tiburcia Carpio Malvar Elementary School"", ""Batangas"", ""School renaming"", ""Republic Act 8272""]"
+repacts:datasets/markdown/repacts/1997/ra_8273_1997.md	repacts	1997		datasets/markdown/repacts/1997/ra_8273_1997.md	ra_8273_1997	AN ACT CONVERTING THE LAS PIAS NORTH MUNICIPAL HIGH SCHOOL IN BARANGAY PULANGLUPA II, MUNICIPALITY OF LAS PIAS, METRO MANILA, INTO AN INDEPENDENT HIGH SCHOOL, TO BE KNOWN AS THE LAS PIAS NORTH NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"Tenth Congress Second Regular Session
+
+ **[ REPUBLIC ACT NO. 8273, March 03, 1997 ]**
+
+ AN ACT CONVERTING THE LAS PIAS NORTH MUNICIPAL HIGH SCHOOL IN BARANGAY PULANGLUPA II, MUNICIPALITY OF LAS PIAS, METRO MANILA, INTO AN INDEPENDENT HIGH SCHOOL, TO BE KNOWN AS THE LAS PIAS NORTH NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Las Pias North Municipal High School in Barangay Pulanglupa II, Las Pias, Metro Manila, shall be converted into an independent high school to be known as the Las Pias North National High School.
+
+ **Section 2.** All the assets, movable and immovable, records and personnel of the Las Pias North Municipal High School, as well its liabilities or obligations, are hereby transferred to the Las Pias North National High School: *Provided, however,* That the positions, rights and security of tenure of personnel therein employed under existing laws are not impaired.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved, Lapsed into law on March 3, 1997, without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.
+"	success	Education	Republic Act No. 8273 converts the Las Pias North Municipal High School into an independent high school named Las Pias North National High School, transferring all assets and personnel and allocating necessary funds.	"[{""title"": ""Section 1"", ""summary"": ""The Las Pias North Municipal High School is converted into an independent high school known as Las Pias North National High School.""}, {""title"": ""Section 2"", ""summary"": ""All assets, records, personnel, and liabilities of the former school are transferred to the new school, ensuring personnel rights and tenure are preserved.""}, {""title"": ""Section 3"", ""summary"": ""Funds required for the conversion are included in the General Appropriations Act of the following year.""}, {""title"": ""Section 4"", ""summary"": ""The Act takes effect upon its approval.""}]"	8273	March 3, 1997			To convert Las Pias North Municipal High School into an independent high school and appropriate necessary funds.	"[""Conversion of the school into an independent institution"", ""Transfer of all assets and personnel"", ""Provision of funds through the General Appropriations Act"", ""Effectivity upon approval""]"		"[""Education"", ""High School"", ""Conversion"", ""Philippines""]"	"[""Las Pias"", ""North Municipal High School"", ""Independent High School"", ""Appropriations"", ""Act""]"
+repacts:datasets/markdown/repacts/1997/ra_8274_1997.md	repacts	1997		datasets/markdown/repacts/1997/ra_8274_1997.md	ra_8274_1997	AN ACT CONVERTING THE MANINGALAO BARANGAY HIGH SCHOOL IN LAS NIEVES, AGUSAN DEL NORTE, INTO A NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"Tenth Congress Second Regular Session
+
+ **[ REPUBLIC ACT NO. 8274, March 03, 1997 ]**
+
+ AN ACT CONVERTING THE MANINGALAO BARANGAY HIGH SCHOOL IN LAS NIEVES, AGUSAN DEL NORTE, INTO A NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The barangay high school of Barangay Maningalao in the Municipality of Las Nieves, Agusan del Norte, is hereby converted into a national high school to be known as the Maningalao High School.
+
+ **Section 2.** Upon organization of Maningalao High School, all assets, liabilities, personnel, equipment and records of the Maningalao Barangay High School shall be transferred to the Maningalao High School.
+
+ **Section 3.** The Secretary of Education, Culture and Sports is hereby empowered to promulgate such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 4.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 5.** This Act shall take effect upon its approval.
+
+ Approved, Lapsed into law on March 3, 1997, without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.
+"	success	Education	Converts the Maningalao Barangay High School into a national high school and appropriates funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""The barangay high school of Barangay Maningalao in the Municipality of Las Nieves, Agusan del Norte, is hereby converted into a national high school to be known as the Maningalao High School.""}, {""title"": ""Section 2."", ""summary"": ""Upon organization of Maningalao High School, all assets, liabilities, personnel, equipment and records of the Maningalao Barangay High School shall be transferred to the Maningalao High School.""}, {""title"": ""Section 3."", ""summary"": ""The Secretary of Education, Culture and Sports is hereby empowered to promulgate such rules and regulations as may be necessary to carry out the purpose of this Act.""}, {""title"": ""Section 4."", ""summary"": ""The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.""}, {""title"": ""Section 5."", ""summary"": ""This Act shall take effect upon its approval.""}]"	RA 8274	March 3, 1997			To convert the Maningalao Barangay High School into a national high school and appropriate funds for its operation.	"[""Conversion of the Barangay High School into a National High School."", ""Transfer of all assets, liabilities, personnel, equipment and records to the new institution."", ""Empowerment of the Secretary of Education to promulgate necessary rules and regulations."", ""Appropriation of necessary funds in the following General Appropriations Act."", ""Effective date upon approval.""]"		"[""Education"", ""School Conversion""]"	"[""Maningalao"", ""Barangay High School"", ""National High School"", ""Agusan del Norte"", ""Republic Act 8274"", ""Education"", ""Appropriations""]"
+repacts:datasets/markdown/repacts/1997/ra_8275_1997.md	repacts	1997		datasets/markdown/repacts/1997/ra_8275_1997.md	ra_8275_1997	An Act Establishing a National Technology and Vocational High School in Barangay Barong-Barong, Municipality of Brooke's Point, Province of Palawan, to be Known as the Governor Alfredo Abueg, Sr. National Technology and Vocational Memorial High School, and Appropriating Funds Therefor	"Tenth Congress Second Regular Session
+
+ **[ REPUBLIC ACT NO. 8275, April 04, 1997 ]**
+
+ AN ACT ESTABLISHING A NATIONAL TECHNOLOGY AND VOCATIONAL HIGH SCHOOL IN BARANGAY BARONG-BARONG, MUNICIPALITY OF BROOKE'S POINT, PROVINCE OF PALAWAN, TO BE KNOWN AS THE GOVERNOR ALFREDO ABUEG, SR. NATIONAL TECHNOLOGY AND VOCATIONAL MEMORIAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There is hereby established under the supervision of the Department of Education, Culture and Sports, a national technology and vocational high school in Barangay Barong-Barong, Municipality of Brooke's Point, Province of Palawan, to be known as the Governor Alfredo Abueg, Sr. National Technology and Vocational Memorial High School. Its curriculum shall give emphasis on technology and vocational training education.
+
+ **Section 2.** The Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act shall be included in the annual General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved, Lapsed into law on April 4, 1997, without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.
+"	success	Education	This law establishes a national technology and vocational high school in Barangay Barong-Barong, Palawan, named the Governor Alfredo Abueg Sr. National Technology and Vocational Memorial High School, and appropriates funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""Establishes a national technology and vocational high school under the supervision of the Department of Education, Culture and Sports, located in Barangay Barong-Barong, Municipality of Brooke's Point, Province of Palawan, and specifies its curriculum focus on technology and vocational training.""}, {""title"": ""Section 2."", ""summary"": ""Mandates the Department of Education, Culture and Sports to issue rules and regulations necessary to carry out the purpose of the Act.""}, {""title"": ""Section 3."", ""summary"": ""Provides that the necessary funds for the Act will be included in the annual General Appropriations Act of the year following its enactment.""}, {""title"": ""Section 4."", ""summary"": ""States that the Act shall take effect upon its approval.""}]"	8275	April 04, 1997			To establish a national technology and vocational high school in Barangay Barong-Barong, Palawan, and appropriate funds for its operation.	"[""Establishment of the Governor Alfredo Abueg Sr. National Technology and Vocational Memorial High School"", ""Department of Education, Culture and Sports to issue necessary rules and regulations"", ""Funding to be included in the annual General Appropriations Act"", ""Effectivity upon approval""]"		"[""Education"", ""School"", ""Public Service"", ""Palawan"", ""Technology"", ""Vocational""]"	"[""National Technology and Vocational High School"", ""Governor Alfredo Abueg"", ""Brooke's Point"", ""Palawan"", ""Department of Education"", ""General Appropriations Act"", ""Establishment"", ""Funding""]"
+repacts:datasets/markdown/repacts/1997/ra_8276_1997.md	repacts	1997		datasets/markdown/repacts/1997/ra_8276_1997.md	ra_8276_1997	AN ACT GRANTING THE PACIFIC CABLE AND DTU SYSTEMS, INC., A FRANCHISE TO ESTABLISH, CONSTRUCT, INSTALL, OPERATE AND MAINTAIN FOR COMMERCIAL PURPOSES CABLE/COMMUNITY ANTENNAE TELEVISION SYSTEMS AND/OR DIRECT TO USER SATELLITE SYSTEMS THROUGHOUT THE PHILIPPINES	"Tenth Congress Second Regular Session
+
+ **[ REPUBLIC ACT NO. 8276, April 05, 1997 ]**
+
+ AN ACT GRANTING THE PACIFIC CABLE AND DTU SYSTEMS, INC., A FRANCHISE TO ESTABLISH, CONSTRUCT, INSTALL, OPERATE AND MAINTAIN FOR COMMERCIAL PURPOSES CABLE/COMMUNITY ANTENNAE TELEVISION SYSTEMS AND/OR DIRECT TO USER SATELLITE SYSTEMS THROUGHOUT THE PHILIPPINES
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** *Nature and Scope of Franchise.* Subject to the provisions of the Constitution and applicable laws, rules and regulations, there is hereby granted to Pacific Cable and DTU Systems, Inc., hereunder referred to as the grantee, its successors or assigns, a franchise to construct, install, establish, operate and maintain for commercial purposes and in the public interest, cable/community antennae television (CATV) systems and/or direct to user satellite systems throughout the Philippines, and between the Philippines and other countries and territories, through the reception of audio, visual and other signals from any broadcast station, program provider or any other source within and outside the Philippines, and the distribution or transmission of the same to homes, offices, condominiums, multiple dwelling units, subdivisions, hotels, restaurants, and other residential, commercial and industrial structures and other public and private conveyances within and outside the Philippines, by means of microwave or other electromagnetic waves, optics, satellite, or any other kind of energy, force, variations or impulses, radiated through space or transmitted through any other medium as may be allowed by law; to originate, store, distribute, transmit, retransmit and receive through said systems, news and documentaries, entertainment, cultural, informational and educational radio and television programs, both live and recorded; to construct, establish, install, operate, manage, lease, maintain and purchase transmitting, receiving and switching stations, both for local and international services, lines, fiber optics, microwave facilities, cables, satellite transmit and receive systems, control signals, audio and video systems, information service bureau, computer and interactive computer systems, pay TV and pay per view television, video on demand and public information on demand service, multi-disc read only memory network delivery, packet and frame relay and electronic mail services and other value added services and all other related technologies as are present available, or to be made available through technological advances or innovations in the future, as is, or are, convenient to or essential to efficiently carry out the purposes of this franchise.

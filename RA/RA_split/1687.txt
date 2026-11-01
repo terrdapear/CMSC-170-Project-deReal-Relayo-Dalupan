@@ -1,0 +1,193 @@
+repacts:datasets/markdown/repacts/1992/ra_7215_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7215_1992.md	ra_7215_1992	AN ACT INCREASING THE BED CAPACITY OF THE ANGONO DISTRICT HOSPITAL IN THE MUNICIPALITY OF ANGONO, PROVINCE OF RIZAL, FROM FIFTY (50) TO ONE HUNDRED (100) BEDS, AND APPROPRIATING FUNDS THEREFOR.	"Begun and held in Metro Manila, on Monday, the twenty-second day of July, nineteen hundred and ninety-one.
+
+ **[ REPUBLIC ACT NO. 7215, March 06, 1992 ]**
+
+ AN ACT INCREASING THE BED CAPACITY OF THE ANGONO DISTRICT HOSPITAL IN THE MUNICIPALITY OF ANGONO, PROVINCE OF RIZAL, FROM FIFTY (50) TO ONE HUNDRED (100) BEDS, AND APPROPRIATING FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The bed capacity of the Angono District Hospital in the Municipality of Angono, Province of Rizal, is hereby increased from fifty (50) to one hundred (100) beds.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.)**NEPTALI A. GONZALES** *President of the Senate* | (Sgd.)**RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on March 21, 1991 and December 11, 1991, respectively. |  |
+| (Sgd.)**ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.)**CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: March 6, 1992
+
+ (Sgd.)**CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	This act increases the bed capacity of the Angono District Hospital from 50 to 100 beds and appropriates funds for the expansion.	"[{""title"": ""Section 1."", ""summary"": ""The bed capacity of the Angono District Hospital is increased from fifty (50) to one hundred (100) beds.""}, {""title"": ""Section 2."", ""summary"": ""The necessary funds will be included in the General Appropriations Act of the year following the enactment.""}, {""title"": ""Section 3."", ""summary"": ""The act shall take effect upon its approval.""}]"	7215	1992-03-06	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""ANACLETO D. BADOY, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}]"	To increase bed capacity of the Angono District Hospital and appropriate necessary funds.	"[""Increase bed capacity from 50 to 100 beds."", ""Appropriation of funds through the General Appropriations Act."", ""Effective upon approval.""]"		"[""Healthcare"", ""Hospital"", ""Bed Capacity"", ""Philippines""]"	"[""Angono District Hospital"", ""bed capacity"", ""Republic Act"", ""Rizal"", ""Philippines"", ""healthcare""]"
+repacts:datasets/markdown/repacts/1992/ra_7216_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7216_1992.md	ra_7216_1992	An Act Increasing the Bed Capacity of the Paquibato Emergency Hospital in the District of Paquibato, Davao City, from Ten (10) to Twenty-Five (25) Beds, Upgrading it into a District Hospital to be Known as the Paquibato District Hospital, and Appropriating Funds Therefor	"**[ REPUBLIC ACT NO. 7216, March 06, 1992 ]**
+
+ AN ACT INCREASING THE BED CAPACITY OF THE PAQUIBATO EMERGENCY HOSPITAL IN THE DISTRICT OF PAQUIBATO, DAVAO CITY, FROM TEN (10) TO TWENTY-FIVE (25) BEDS, UPGRADING IT INTO A DISTRICT HOSPITAL TO BE KNOWN AS THE PAQUIBATO DISTRICT HOSPITAL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The bed capacity of the Paquibato Emergency Hospital in the District of Paquibato, Davao City, is hereby increased from ten (10) to twenty-five (25) beds and upgrading it into a district hospital to be known as the Paquibato District Hospital.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.)**NEPTALI A. GONZALES** *President of the Senate* | (Sgd.)**RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on March 12, 1991 and December 11, 1991, respectively. |  |
+| (Sgd.)**ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.)**CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: March 6, 1992
+
+ (Sgd.)**CORAZON C. AQUINO** *President of the Philippines*
+"	success	Healthcare	This Republic Act increases the bed capacity of the Paquibato Emergency Hospital from ten to twenty-five beds and upgrades it into a district hospital named Paquibato District Hospital, while appropriating funds for its operation.	"[{""title"": ""Section 1"", ""summary"": ""The bed capacity of the Paquibato Emergency Hospital is increased from ten (10) to twenty-five (25) beds and it is upgraded into a district hospital to be known as the Paquibato District Hospital.""}, {""title"": ""Section 2"", ""summary"": ""The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law.""}, {""title"": ""Section 3"", ""summary"": ""This Act shall take effect upon its approval.""}]"	7216	March 06, 1992	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""ANACLETO D. BADOY, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}]"	To increase the bed capacity of the Paquibato Emergency Hospital and upgrade it into a district hospital, thereby improving healthcare services in the District of Paquibato, Davao City.	"[""Increase bed capacity from 10 to 25 beds"", ""Upgrade the hospital to a district hospital"", ""Appropriate funds for the hospital"", ""Include necessary funds in the following year's General Appropriations Act"", ""Act takes effect upon approval""]"		"[""Healthcare"", ""Hospital"", ""Bed Capacity"", ""Davao City"", ""Public Health""]"	"[""Paquibato Emergency Hospital"", ""Paquibato District Hospital"", ""bed capacity"", ""district hospital"", ""General Appropriations Act"", ""Philippines"", ""Davao City""]"
+repacts:datasets/markdown/repacts/1992/ra_7217_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7217_1992.md	ra_7217_1992	AN ACT INCREASING THE BED CAPACITY OF THE AMAI-PAKPAK GENERAL HOSPITAL IN MARAWI CITY, LANAO DEL SUR, FROM SEVENTY-FIVE (75) TO ONE HUNDRED (100) BEDS, UPGRADING IT INTO A PROVINCIAL HOSPITAL TO BE KNOWN AS THE AMAI-PAKPAK PROVINCIAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 7217, March 06, 1992 ]**
+
+ AN ACT INCREASING THE BED CAPACITY OF THE AMAI-PAKPAK GENERAL HOSPITAL IN MARAWI CITY, LANAO DEL SUR, FROM SEVENTY-FIVE (75) TO ONE HUNDRED (100) BEDS, UPGRADING IT INTO A PROVINCIAL HOSPITAL TO BE KNOWN AS THE AMAI-PAKPAK PROVINCIAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The bed capacity of the Amai-Pakpak General Hospital in Marawi City, Lanao del Sur, is hereby increased from seventy-five (75) to one hundred (100) beds and upgrading it into a provincial hospital to be known as the Amai-Pakpak Provincial Hospital.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.)**NEPTALI A. GONZALES** *President of the Senate* | (Sgd.)**RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on March 12, 1991 and December 10, 1991, respectively. |  |
+| (Sgd.)**ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.)**CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: March 6, 1992
+
+ (Sgd.)**CORAZON C. AQUINO** *President of the Philippines*
+"	success	Act	Republic Act No. 7217 increases the bed capacity of the Amai-Pakpak General Hospital in Marawi City from 75 to 100 beds and upgrades it into a provincial hospital, while allocating necessary funds through the General Appropriations Act.	"[{""title"": ""Section 1"", ""summary"": ""Increases bed capacity from 75 to 100 beds and upgrades the hospital to provincial status.""}, {""title"": ""Section 2"", ""summary"": ""Provides that the necessary funds will be included in the following year's General Appropriations Act.""}, {""title"": ""Section 3"", ""summary"": ""The Act takes effect upon its approval.""}]"	REPUBLIC ACT NO. 7217	March 06, 1992	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""ANACLETO D. BADOY, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""CORAZON C. AQUINO"", ""title"": ""President of the Philippines""}]"	Increase bed capacity and upgrade the hospital to provincial status, ensuring adequate healthcare services for the region.	"[""Increase bed capacity from 75 to 100 beds"", ""Upgrade to provincial hospital"", ""Allocation of funds via General Appropriations Act"", ""Effect upon approval""]"		"[""Health"", ""Hospital"", ""Bed Capacity"", ""Provincial Hospital"", ""Philippines""]"	"[""bed capacity"", ""provincial hospital"", ""Amai-Pakpak"", ""Marawi City"", ""Lanao del Sur"", ""appropriations"", ""Republic Act""]"
+repacts:datasets/markdown/repacts/1992/ra_7218_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7218_1992.md	ra_7218_1992	AN ACT INCREASING THE BED CAPACITY OF THE VALENZUELA DISTRICT HOSPITAL IN VALENZUELA, METRO MANILA, FROM TWENTY-FIVE (25) TO ONE HUNDRED (100) BEDS, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 7218, March 06, 1992 ]**
+
+ AN ACT INCREASING THE BED CAPACITY OF THE VALENZUELA DISTRICT HOSPITAL IN VALENZUELA, METRO MANILA, FROM TWENTY-FIVE (25) TO ONE HUNDRED (100) BEDS, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The bed capacity of the Valenzuela District Hospital in Valenzuela, Metro Manila, is hereby increased from twenty-five (25) to one hundred (100) beds.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.)**NEPTALI A. GONZALES** *President of the Senate* | (Sgd.)**RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on March 12, 1991 and December 3, 1991, respectively. |  |
+| (Sgd.)**ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.)**CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: March 6, 1992
+
+ (Sgd.)**CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	This act increases the bed capacity of Valenzuela District Hospital from 25 to 100 beds and appropriates necessary funds for its implementation.	"[{""title"": ""Section 1."", ""summary"": ""The bed capacity of Valenzuela District Hospital is increased from twenty-five (25) to one hundred (100) beds.""}, {""title"": ""Section 2."", ""summary"": ""The necessary funds to implement this act shall be included in the General Appropriations Act of the year following its enactment.""}, {""title"": ""Section 3."", ""summary"": ""The act shall take effect upon its approval.""}]"	7218	March 06, 1992	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""ANACLETO D. BADOY, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""CORAZON C. AQUINO"", ""title"": ""President of the Philippines""}]"	To increase the bed capacity of Valenzuela District Hospital and allocate necessary funds for its construction and operations.	"[""Bed capacity increased from 25 to 100 beds"", ""Funds to be included in the General Appropriations Act of the following year"", ""Act takes effect upon approval""]"		"[""Hospital"", ""Bed Capacity"", ""Valenzuela"", ""Healthcare"", ""Infrastructure""]"	"[""Valenzuela District Hospital"", ""bed capacity"", ""General Appropriations Act"", ""Philippines"", ""Republic Act 7218""]"
+repacts:datasets/markdown/repacts/1992/ra_7219_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7219_1992.md	ra_7219_1992	AN ACT INCREASING THE BED CAPACITY OF THE EASTERN SAMAR PROVINCIAL HOSPITAL IN THE MUNICIPALITY OF BORONGAN, PROVINCE OF EASTERN SAMAR, FROM ONE HUNDRED (100) TO ONE HUNDRED FIFTY (150) BEDS, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 7219, March 06, 1992 ]**
+
+ AN ACT INCREASING THE BED CAPACITY OF THE EASTERN SAMAR PROVINCIAL HOSPITAL IN THE MUNICIPALITY OF BORONGAN, PROVINCE OF EASTERN SAMAR, FROM ONE HUNDRED (100) TO ONE HUNDRED FIFTY (150) BEDS, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The bed capacity of the Eastern Samar Provincial Hospital in the Municipality of Borongan, Province of Eastern Samar, is hereby increased from one hundred (100) to one hundred fifty (150) beds.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.)**NEPTALI A. GONZALES** *President of the Senate* | (Sgd.)**RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on May 16, 1991 and December 3, 1991, respectively. |  |
+| (Sgd.)**ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.)**CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: March 6, 1992
+
+ (Sgd.)**CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	Increases the bed capacity of Eastern Samar Provincial Hospital from 100 to 150 beds and appropriates funds for the expansion, effective March 6, 1992.	"[{""title"": ""Section 1."", ""summary"": ""The bed capacity of the Eastern Samar Provincial Hospital in the Municipality of Borongan, Province of Eastern Samar, is increased from one hundred (100) to one hundred fifty (150) beds.""}, {""title"": ""Section 2."", ""summary"": ""The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.""}, {""title"": ""Section 3."", ""summary"": ""This Act shall take effect upon its approval.""}]"	REPUBLIC ACT NO. 7219	March 6, 1992	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""ANACLETO D. BADOY, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}]"	Increase the bed capacity of Eastern Samar Provincial Hospital and provide the necessary funding for the expansion.	"[""Increase bed capacity from 100 to 150 beds"", ""Appropriate funds for the expansion"", ""Funding to be included in the General Appropriations Act of the following year"", ""Act takes effect upon approval""]"		"[""Healthcare"", ""Hospital"", ""Bed Capacity"", ""Philippines"", ""Republic Act""]"	"[""Eastern Samar"", ""Borongan"", ""bed capacity"", ""hospital"", ""funding"", ""General Appropriations Act""]"
+repacts:datasets/markdown/repacts/1992/ra_7220_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7220_1992.md	ra_7220_1992	AN ACT INCREASING THE BED CAPACITY OF THE CAMARINES NORTE PROVINCIAL HOSPITAL IN DAET, PROVINCE OF CAMARINES NORTE, FROM ONE HUNDRED (100) TO ONE HUNDRED FIFTY (150) BEDS, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 7220, March 06, 1992 ]**
+
+ AN ACT INCREASING THE BED CAPACITY OF THE CAMARINES NORTE PROVINCIAL HOSPITAL IN DAET, PROVINCE OF CAMARINES NORTE, FROM ONE HUNDRED (100) TO ONE HUNDRED FIFTY (150) BEDS, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The bed capacity of the Camarines Norte Provincial Hospital in Daet, Province of Camarines Norte, is hereby increased from one hundred (100) to one hundred fifty (150) beds.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.)**NEPTALI A. GONZALES** *President of the Senate* | (Sgd.)**RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on February 28, 1991 and December 3, 1991, respectively. |  |
+| (Sgd.)**ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.)**CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: March 6, 1992
+
+ (Sgd.)**CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	This act increases the bed capacity of Camarines Norte Provincial Hospital from 100 to 150 beds and appropriates funds for its implementation.	"[{""title"": ""Section 1."", ""summary"": ""The bed capacity of Camarines Norte Provincial Hospital in Daet, Province of Camarines Norte, is increased from one hundred (100) to one hundred fifty (150) beds.""}, {""title"": ""Section 2."", ""summary"": ""The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law.""}, {""title"": ""Section 3."", ""summary"": ""This Act shall take effect upon its approval.""}]"	7220	March 6, 1992			To increase the bed capacity and allocate funds for the Camarines Norte Provincial Hospital.	"[""Increase bed capacity from 100 to 150 beds"", ""Appropriation of funds for the hospital"", ""Effectivity upon approval""]"		"[""Health"", ""Hospital"", ""Bed Capacity"", ""Philippines"", ""Republic Act""]"	"[""Camarines Norte"", ""Daet"", ""bed capacity"", ""hospital"", ""appropriation"", ""Republic Act 7220""]"
+repacts:datasets/markdown/repacts/1992/ra_7221_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7221_1992.md	ra_7221_1992	AN ACT CHANGING THE NAME OF THE WAWA ELEMENTARY SCHOOL IN SAN AGUSTIN VILLAGE (FORMERLY SITIO WAWA-BUKID) IN BARANGAY MOONWALK, MUNICIPALITY OF PARAAQUE, METRO MANILA, TO SAN AGUSTIN ELEMENTARY SCHOOL	"**[ REPUBLIC ACT NO. 7221, March 11, 1992 ]**
+
+ AN ACT CHANGING THE NAME OF THE WAWA ELEMENTARY SCHOOL IN SAN AGUSTIN VILLAGE (FORMERLY SITIO WAWA-BUKID) IN BARANGAY MOONWALK, MUNICIPALITY OF PARAAQUE, METRO MANILA, TO SAN AGUSTIN ELEMENTARY SCHOOL
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The name of the Wawa Elementary School in San Agustin Village (formerly Sitio Wawa-Bukid) in Barangay Moonwalk, Municipality of Paraaque, Metro Manila, is hereby changed to San Agustin Elementary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.)**NEPTALI A. GONZALES** *President of the Senate* | (Sgd.)**RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on April 5, 1990 and December 11, 1991, respectively. |  |
+| (Sgd.)**ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.)**CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved, March 11, 1992
+
+ (Sgd.)**CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	This act changes the name of the Wawa Elementary School in San Agustin Village, Barangay Moonwalk, Municipality of Paraaque, Metro Manila to San Agustin Elementary School.	"[{""title"": ""Section 1"", ""summary"": ""The name of the Wawa Elementary School in San Agustin Village is hereby changed to San Agustin Elementary School.""}, {""title"": ""Section 2"", ""summary"": ""This act shall take effect upon its approval.""}]"	7221	March 11, 1992	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""ANACLETO D. BADOY, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""CORAZON C. AQUINO"", ""title"": ""President of the Philippines""}]"	To change the name of Wawa Elementary School to San Agustin Elementary School in San Agustin Village, Barangay Moonwalk, Municipality of Paraaque, Metro Manila.	"[""Name of Wawa Elementary School changed to San Agustin Elementary School"", ""Act takes effect upon approval""]"		"[""Education"", ""School"", ""Name Change"", ""Republic Act""]"	"[""Wawa Elementary School"", ""San Agustin Elementary School"", ""Barangay Moonwalk"", ""Municipality of Paraaque"", ""Metro Manila"", ""Republic Act 7221"", ""Name change""]"
+repacts:datasets/markdown/repacts/1992/ra_7222_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7222_1992.md	ra_7222_1992	AN ACT CHANGING THE NAME OF THE ARANJUEZ ELEMENTARY SCHOOL IN BARANGAY ARANJUEZ, MUNICIPALITY OF BALASAN, PROVINCE OF ILOILO, TO PEDRO BEDEZ ELEMENTARY SCHOOL	"**[ REPUBLIC ACT NO. 7222, March 11, 1992 ]**
+
+ AN ACT CHANGING THE NAME OF THE ARANJUEZ ELEMENTARY SCHOOL IN BARANGAY ARANJUEZ, MUNICIPALITY OF BALASAN, PROVINCE OF ILOILO, TO PEDRO BEDEZ ELEMENTARY SCHOOL
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The name of the Aranjuez Elementary School in Barangay Aranjuez, Municipality of Balasan, Province of Iloilo, is hereby changed to Pedro Bedez Elementary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.)**NEPTALI A. GONZALES** *President of the Senate* | (Sgd.)**RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on April 26, 1991 and December 11, 1991, respectively. |  |
+| (Sgd.)**ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.)**CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved, March 11, 1992
+
+ (Sgd.)**CORAZON C. AQUINO** *President of the Philippines*
+"	success	Education	An act that changes the name of Aranjuez Elementary School to Pedro Bedez Elementary School.	"[{""title"": ""Section 1"", ""summary"": ""The name of the Aranjuez Elementary School in Barangay Aranjuez, Municipality of Balasan, Province of Iloilo is changed to Pedro Bedez Elementary School.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	7222	March 11, 1992	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""ANACLETO D. BADOY, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}]"	To rename a public elementary school in the Philippines.	"[""Section 1: Name change of Aranjuez Elementary School to Pedro Bedez Elementary School."", ""Section 2: Act takes effect upon approval.""]"		"[""Education"", ""Public School"", ""Philippines"", ""Republic Act""]"	"[""name change"", ""Aranjuez Elementary School"", ""Pedro Bedez Elementary School"", ""Balasan"", ""Iloilo"", ""Republic Act 7222""]"
+repacts:datasets/markdown/repacts/1992/ra_7223_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7223_1992.md	ra_7223_1992	AN ACT GRANTING GATEWAY U.H.F. TELEVISION BROADCASTING, INC., A FRANCHISE TO CONSTRUCT, INSTALL, OPERATE AND MAINTAIN FOR COMMERCIAL PURPOSES UHF TELEVISION BROADCASTING STATIONS IN THE PHILIPPINES, AND FOR OTHER PURPOSES	"**[ REPUBLIC ACT NO. 7223, March 11, 1992 ]**
+
+ AN ACT GRANTING GATEWAY U.H.F. TELEVISION BROADCASTING, INC., A FRANCHISE TO CONSTRUCT, INSTALL, OPERATE AND MAINTAIN FOR COMMERCIAL PURPOSES UHF TELEVISION BROADCASTING STATIONS IN THE PHILIPPINES, AND FOR OTHER PURPOSES
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.***Nature and Scope of Franchise.* - Subject to the provisions of the Constitution and applicable laws, rules and regulations, there is hereby granted to Gateway U.H.F. Television Broadcasting, Inc., hereunder referred to as the grantee, its successors or assigns a franchise to construct, install, operate and maintain for commercial purposes and in the public interest UHF television broadcasting stations in the Philippines with the corresponding technological auxiliaries or facilities, special broadcast distribution services and relay stations:*Provided,* however,That only one (1) UHF channel shall be allocated to any given locality.
+
+ **Section 2.***Manner of Operation of Stations or Facilities.*- The stations or facilities of the grantee shall be constructed and operated in a manner as will at most result only in the minimum interference on the wavelengths or frequencies of the existing stations or other stations which may be established in accordance with law of other telecommunications services grantees without in any way diminishing its own right to use its selected wavelengths or frequencies and the quality of transmission or reception thereon as should maximize rendition of the grantee-s services and/or the availability thereof.
+
+ **Section 3.***Prior Approval of the National Telecommunications Commission.*- The grantee shall secure from the National Telecommunications Commission the appropriate permits and licenses for its stations and shall not use any frequency in the television spectrum without having been authorized by the Commission. The Commission, however, shall not unreasonably withhold or delay the grant of any such authority.

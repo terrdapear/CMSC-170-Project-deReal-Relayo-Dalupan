@@ -1,0 +1,162 @@
+
+ **Section 2.** The first mayor, vice-mayor, and councilors of the new municipality shall be appointed by the President, with the consent of the Commission on Appointments, and shall hold office until their successors shall have been elected in the next general elections for local officials and shall have qualified.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	The act separates a group of barrios from the Municipality of Datu Piang in Cotabato Province and establishes them as the new independent Municipality of Ampatuan, designating Decalungan as its seat and specifying its boundaries.	"[{""title"": ""Section 1. Separation of Barrios"", ""summary"": ""Defines the barrios to be separated from Datu Piang and establishes them as the Municipality of Ampatuan, including a detailed description of its boundaries.""}, {""title"": ""Section 2. Appointment of Officials"", ""summary"": ""Provides that the first mayor, vice-mayor, and councilors of the new municipality shall be appointed by the President with the consent of the Commission on Appointments and shall serve until the next general elections.""}, {""title"": ""Section 3. Effectivity"", ""summary"": ""States that the act shall take effect upon its approval.""}]"	2509	June 21, 1959			To create a new municipality within Cotabato Province to better serve local administrative and governance needs.	"[""Separation of specified barrios from Datu Piang"", ""Creation of Municipality of Ampatuan"", ""Designation of Decalungan as seat of government"", ""Specification of municipal boundaries"", ""Appointment of first local officials by the President"", ""Effectivity upon approval""]"		"[""Municipality"", ""Local Government"", ""Cotabato"", ""Republic Act"", ""1959""]"	"[""Ampatuan"", ""Municipality"", ""Cotabato"", ""Republic Act"", ""Local Governance"", ""Barangay"", ""Decalungan""]"
+repacts:datasets/markdown/repacts/1959/ra_2510_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2510_1959.md	ra_2510_1959	An Act Creating the Municipality of Salug, Province of Zamboanga del Norte	"**REPUBLIC ACT No. 2510**
+
+ **An Act Creating the Municipality of Salug, Province of Zamboanga del Norte**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The barrios of Salug, Mucas, Libertad, Tambalang, Balacan, Danao, Caracol, Canawan, Bacong, Lipakan, and Palandok in the Municipality of Liloy, Province of Zamboanga del Norte, are separated from said municipality, and are constituted into a distinct and independent municipality to be known as the Municipality of Salug, same province, with the seat of government located at the site of the present barrio of Mucas.
+
+ **Section 2.** The first mayor, vice-mayor, and councilors of the new municipality shall be appointed by the President, with the consent of the Commission on Appointments, and shall hold office until their successors shall have been elected in the next general elections for local officials and shall have qualified.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act establishes the Municipality of Salug in the Province of Zamboanga del Norte, delineating its territorial boundaries and governance structure.	"[{""title"": ""Section 1"", ""summary"": ""Separates the barrios of Salug, Mucas, Libertad, Tambalang, Balacan, Danao, Caracol, Canawan, Bacong, Lipakan, and Palandok from the Municipality of Liloy and constitutes them into the independent Municipality of Salug with its seat at Mucas.""}, {""title"": ""Section 2"", ""summary"": ""Provides that the first mayor, vice-mayor, and councilors of the new municipality shall be appointed by the President, with the consent of the Commission on Appointments, and shall hold office until successors are elected in the next general elections.""}, {""title"": ""Section 3"", ""summary"": ""States that the act shall take effect upon its approval.""}]"	2510	June 21, 1959			To create a new municipality in Zamboanga del Norte and establish its local government structure.	"[""Separation of specified barrios to form the Municipality of Salug"", ""Appointment of the first mayor, vice-mayor, and councilors by the President with COA consent"", ""Effectivity of the act upon approval""]"		"[""municipality"", ""local government"", ""Zamboanga del Norte"", ""Republic Act""]"	"[""Salug"", ""Zamboanga del Norte"", ""municipality"", ""local government"", ""Republic Act 2510""]"
+repacts:datasets/markdown/repacts/1959/ra_2511_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2511_1959.md	ra_2511_1959	An Act Fixing the Boundary Line Between the Municipalities of Allen and San Isidro Province of Samar	"**REPUBLIC ACT No. 2511**
+
+ **An Act Fixing the Boundary Line Between the Municipalities of Allen and San Isidro Province of Samar**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The boundary line between the municipalities of Allen and San Isidro, Province of Samar, shall be the center of the Mawo River up to the intersection of Mawo River and Igot River (San Ramon Creek), and from the center of the mount of Igot River to the intersection of Igot River and Binalabag Creek which runs eastward up to the boundary of the Municipality of San Jose.
+
+ **Section 2.** The Municipality of San Isidro shall include the barrios of San Ramon, Erenas, San Juan, Palanit, Veriato, Acedillo, Tangolan, Buenavista, Among, Happy Valley, Caaguit-itan, Corocolab-og and Caglanipao.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act defines the boundary line between the municipalities of Allen and San Isidro in Samar, specifying the river segments and including certain barrios within San Isidro.	"[{""title"": ""Section 1"", ""summary"": ""Defines the boundary line as the center of the Mawo River up to its intersection with the Igot River and continues along the Igot River to its intersection with Binalabag Creek, extending to the boundary of San Jose.""}, {""title"": ""Section 2"", ""summary"": ""Specifies the barrios included in the San Isidro municipality.""}, {""title"": ""Section 3"", ""summary"": ""The act takes effect upon its approval.""}]"	2511	June 21, 1959			To fix the boundary line between the municipalities of Allen and San Isidro in the Province of Samar.	"[""Boundary line defined by river segments"", ""Barrios included in San Isidro"", ""Effectivity upon approval""]"		"[""Boundary"", ""Municipality"", ""Samar""]"	"[""boundary"", ""municipality"", ""river"", ""Samar"", ""Allen"", ""San Isidro"", ""barrio"", ""Mawo River"", ""Igot River""]"
+repacts:datasets/markdown/repacts/1959/ra_2512_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2512_1959.md	ra_2512_1959	An Act Transferring the Seat of Government of Taluksangay District, City of Zamboanga, to Pasilmanta, Sakol Island	"**REPUBLIC ACT No. 2512**
+
+ **An Act Transferring the Seat of Government of Taluksangay District, City of Zamboanga, to Pasilmanta, Sakol Island**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The seat of government of Taluksangay District, City of Zamboanga, is hereby transferred from Taluksangay proper to Pasilmanta, Sakol Island.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act transfers the seat of government of Taluksangay District, City of Zamboanga, from Taluksangay proper to Pasilmanta, Sakol Island, effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Transfers seat of government from Taluksangay proper to Pasilmanta, Sakol Island.""}, {""title"": ""Section 2"", ""summary"": ""Act takes effect upon approval.""}]"	2512	June 21, 1959			To transfer the seat of government of Taluksangay District to Pasilmanta, Sakol Island.	"[""Transfer of seat of government"", ""Effectivity upon approval""]"		"[""Government"", ""Zamboanga"", ""Taluksangay"", ""Sakol Island""]"	"[""seat of government"", ""Taluksangay"", ""Pasilmanta"", ""Sakol Island"", ""Zamboanga"", ""Republic Act 2512""]"
+repacts:datasets/markdown/repacts/1959/ra_2513_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2513_1959.md	ra_2513_1959	An Act Defining the Boundary Between the Municipalities of Polillo and Burdeos, Province of Quezon	"**REPUBLIC ACT No. 2513**
+
+ **An Act Defining the Boundary Between the Municipalities of Polillo and Burdeos, Province of Quezon**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The barrio of Kaniwan situated between the municipalities of Polillo and Burdeos, making Pilion River as the boundary between the aforesaid municipalities.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	The Act establishes the Pilion River as the boundary between the municipalities of Polillo and Burdeos in Quezon Province.	"[{""title"": ""Section 1."", ""summary"": ""Defines the barrio of Kaniwan and establishes the Pilion River as the boundary between Polillo and Burdeos.""}, {""title"": ""Section 2."", ""summary"": ""States that the Act shall take effect upon its approval.""}]"	2513	June 21, 1959			To define the boundary between the municipalities of Polillo and Burdeos, ensuring clear jurisdictional limits.	"[""Defines the Pilion River as the boundary between Polillo and Burdeos."", ""The Act takes effect upon its approval.""]"		"[""Boundary"", ""Municipal"", ""Quezon"", ""Polillo"", ""Burdeos""]"	"[""boundary"", ""municipality"", ""Quezon"", ""Polillo"", ""Burdeos"", ""Pilion River""]"
+repacts:datasets/markdown/repacts/1959/ra_2514_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2514_1959.md	ra_2514_1959	An Act Creating the Municipality of Bansud in the Province of Oriental Mindoro	"**REPUBLIC ACT No. 2514**
+
+ **An Act Creating the Municipality of Bansud in the Province of Oriental Mindoro**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The barrios of Tiguisan I, Alcadesma, Salcedo, Rosacara, Villa-Pag-asa, Putput, New Bansud, Old Bansud, Corazon Lancauan and Sumagui are separated from the Municipality of Bongabon, Province of Oriental Mindoro, and are constituted into a distinct and independent municipality to be known as the Municipality of Bansud, same province, with the seat of government to be located at the site of the present barrio of New Bansud.
+
+ **Section 2.** The first mayor, vice-mayor and councilors of the new municipality shall be appointed by the President, with the consent of the Commission on Appointments, and shall hold office until their successors shall have been elected in the next general elections for local officials and shall have qualified.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act establishes the Municipality of Bansud in Oriental Mindoro by separating specified barrios from the Municipality of Bongabon, designating New Bansud as its seat of government, appointing initial local officials, and taking effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Separates the barrios of Tiguisan I, Alcadesma, Salcedo, Rosacara, Villa-Pag-asa, Putput, New Bansud, Old Bansud, Corazon Lancauan and Sumagui from Bongabon and constitutes them into the Municipality of Bansud with New Bansud as the seat.""}, {""title"": ""Section 2"", ""summary"": ""Provides that the first mayor, vice-mayor and councilors of Bansud shall be appointed by the President with the consent of the Commission on Appointments and shall serve until the next general elections.""}, {""title"": ""Section 3"", ""summary"": ""States that the act shall take effect upon its approval.""}]"	2514	June 21, 1959			To create a new municipality in Oriental Mindoro and establish its local government structure.	"[""Creation of the Municipality of Bansud"", ""Separation of specified barrios from Bongabon"", ""Designation of New Bansud as the seat of government"", ""Appointment of initial mayor, vice-mayor and councilors by the President"", ""Effectivity upon approval""]"		"[""Municipality"", ""Local Government"", ""Republic Act"", ""Oriental Mindoro""]"	"[""Bansud"", ""Municipality"", ""Oriental Mindoro"", ""Bongabon"", ""New Bansud"", ""Local Officials"", ""President"", ""Commission on Appointments""]"
+repacts:datasets/markdown/repacts/1959/ra_2515_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2515_1959.md	ra_2515_1959	An Act to Amend Section One of Republic Act Numbered Nineteen Hundred Seventy-Two	"**REPUBLIC ACT No. 2515**
+
+ **An Act to Amend Section One of Republic Act Numbered Nineteen Hundred Seventy-Two**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section one of Republic Act Numbered Nineteen hundred seventy-two is amended to read as follow:
+
+ > **Sec. 1**. The barrios of Ibung and Bintawan, Municipality of Solano, Province of Nueva Vizcaya, are separated from said municipality and are constituted into a distinct and independent municipality to be known as the Municipality of Villa Verde, Province of Nueva Vizcaya, with the seat of government at the site of the present barrio of Bintawan: *Provided,* However, That within a year from approval hereof, by a vote of two-third of all the members of the municipal council elected in the general elections of nineteen hundred and fifty-nine for local officials, such seat of government may be transferred to any other site.""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	Amends Section 1 of Republic Act 1972 to create the Municipality of Villa Verde from the barrios of Ibung and Bintawan in Solano, Nueva Vizcaya, and provides for the transfer of its seat of government within one year.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 1 of RA 1972, separating the barrios of Ibung and Bintawan into the newly constituted Municipality of Villa Verde, with its seat of government at the present site of Bintawan, and provides that the seat may be transferred to another site within one year by a two\u2011third vote of the municipal council.""}, {""title"": ""Section 2"", ""summary"": ""The Act shall take effect upon its approval.""}]"	2515	June 21, 1959			To amend RA 1972 to create a new municipality and define its seat of government.	"[""Creation of the Municipality of Villa Verde"", ""Seat of government at Bintawan"", ""Option to transfer seat within one year by two\u2011third vote of council"", ""Act takes effect upon approval""]"	Republic Act 1972, Section 1	"[""Local Government"", ""Municipality"", ""Amendment"", ""Nueva Vizcaya""]"	"[""Villa Verde"", ""Solano"", ""Nueva Vizcaya"", ""Municipality"", ""Amendment"", ""RA 1972""]"
+repacts:datasets/markdown/repacts/1959/ra_2516_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2516_1959.md	ra_2516_1959	An Act to Establish a National Agricultural High School in the Municipality of Salcedo, Province of Samar, to be Known as the Southern Samar National Agricultural School, and to Authorize the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 2516**
+
+ **An Act to Establish a National Agricultural High School in the Municipality of Salcedo, Province of Samar, to be Known as the Southern Samar National Agricultural School, and to Authorize the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the direct supervision of the Director of Public Schools, a national agricultural school in the Municipality of Salcedo, Province of Samar, at a suitable site to be selected by said Director, to be known as the Southern Samar National Agricultural School.
+
+ **Section 2.** Upon the recommendation of the Director of Public Schools, the President shall set aside and reserve such portion of the public lands located in the Municipality of Salcedo of said province, as may be necessary and convenient for the establishment of the said school and of its farm site.
+
+ **Section 3.** The sum of two hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of the said school during the fiscal year ending June thirty, nineteen hundred sixty. Such sums as may be necessary for its operation and maintenance in subsequent years shall be included in the annual General Appropriation Acts.
+
+ **Section 4.** This Act shall take effect upon the date the funds authorized herein to be appropriated shall have been provided for.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	The act establishes the Southern Samar National Agricultural School in Salcedo, Samar, and authorizes the appropriation of funds for its establishment, operation, and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""A national agricultural school will be established in Salcedo, Samar, supervised by the Director of Public Schools, and named Southern Samar National Agricultural School.""}, {""title"": ""Section 2."", ""summary"": ""The President will reserve public lands in Salcedo for the school's establishment and farm site upon recommendation of the Director.""}, {""title"": ""Section 3."", ""summary"": ""Two hundred thousand pesos are authorized for the school's establishment and maintenance for FY ending June 30, 1960; future necessary funds to be included in annual General Appropriation Acts.""}, {""title"": ""Section 4."", ""summary"": ""The act takes effect when the authorized funds are provided.""}]"	2516	June 21, 1959			To establish a national agricultural school in Salcedo, Samar and authorize appropriation of funds for its establishment, operation, and maintenance.	"[""Establishment of Southern Samar National Agricultural School under supervision of Director of Public Schools."", ""Reservation of public lands in Salcedo for school and farm site."", ""Authorization of two hundred thousand pesos for establishment, operation and maintenance during FY ending June 30, 1960."", ""Effectivity upon provision of authorized funds.""]"		"[""Education"", ""Agriculture"", ""Samar"", ""National Agricultural School""]"	"[""Southern Samar National Agricultural School"", ""Salcedo"", ""Samar"", ""appropriation"", ""public lands"", ""FY 1960"", ""June 21 1959""]"
+repacts:datasets/markdown/repacts/1959/ra_2517_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2517_1959.md	ra_2517_1959	An Act Creating the Municipality of Bunawan, Province of Agusan	"**REPUBLIC ACT No. 2517**
+
+ **An Act Creating the Municipality of Bunawan, Province of Agusan**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The municipal districts of Mambili, Bunawan, Libertad, Basa, Tudela, San Isidro, Santa Maria, Trento, Cuevas and San Salvacion, together with the Villages of San Marcos and San Ignacio in the Province of Agusan are constituted into a distinct and independent municipality to be known as the Municipality of Bunawan, with the seat of government at the present site of the Municipal District of Bunawan. The said municipality shall be bounded in the North by Mandawiton and Mambogongon lakes and the Municipality of San Francisco, on the East by the Municipality of San Francisco and the Province of Surigao, of the South by the Province of Davao, and on the West by the municipal districts of Veruela, Sta. Josefa, Patrocinio and the village of San Gabriel.
+
+ **Section 2.** The first mayor, vice-mayor and councilors of the new municipality shall be appointed by the President, with the consent of the Commission on Appointments, and shall hold office until their successors shall have been elected in the next general elections for local officials and shall have qualified.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	An act that creates the Municipality of Bunawan in the Province of Agusan, establishing its territory, seat of government, and appointing its first officials.	"[{""title"": ""Section 1"", ""summary"": ""Defines the territorial boundaries and composition of the new Municipality of Bunawan, including its seat of government.""}, {""title"": ""Section 2"", ""summary"": ""Provides for the appointment of the first mayor, vice-mayor, and councilors by the President with consent of the Commission on Appointments.""}, {""title"": ""Section 3"", ""summary"": ""States that the act takes effect upon its approval.""}]"	2517	June 21, 1959			To create a new municipality within the Province of Agusan, thereby providing local governance structure and administrative organization for the area.	"[""Establishment of the Municipality of Bunawan and its defined territorial boundaries."", ""Designation of the seat of government at the current Municipal District of Bunawan."", ""Appointment of the first mayor, vice-mayor, and councilors by the President with consent of the Commission on Appointments."", ""Effective date upon approval.""]"		"[""Municipality creation"", ""Local government"", ""Agusan""]"	"[""Bunawan"", ""Agusan"", ""municipality"", ""local government act""]"
+repacts:datasets/markdown/repacts/1959/ra_2518_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2518_1959.md	ra_2518_1959	An Act Creating the Municipality of San Francisco, Province of Agusan	"**REPUBLIC ACT No. 2518**
+
+ **An Act Creating the Municipality of San Francisco, Province of Agusan**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The municipal districts of Borbon, Ebro, Novele, Cabawan, Rosario, Alegria, Cabanto and San Francisco in the Province of Agusan are constituted into a distinct and independent municipality to be known as the Municipality of San Francisco, same province. The seat of government shall be located at the site of the present Municipal District of San Francisco.
+
+ **Section 2.** The first mayor, vice-mayor and councilors of the new municipality shall be appointed by the President, with the consent of the Commission on Appointments, and shall hold office until their successors shall have been elected in the next general elections for local officials and shall have qualified.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Act	Establishes the Municipality of San Francisco in Agusan province, appoints officials, effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Constitutes municipal districts of Borbon, Ebro, Novele, Cabawan, Rosario, Alegria, Cabanto and San Francisco into the Municipality of San Francisco.""}, {""title"": ""Section 2"", ""summary"": ""Appoints the first mayor, vice\u2011mayor and councilors of the new municipality; they hold office until elected successors.""}, {""title"": ""Section 3"", ""summary"": ""Act takes effect upon approval.""}]"	2518	June 21, 1959			Create a new municipality in Agusan province.	"[""Constitution of the Municipality of San Francisco"", ""Appointment of first mayor, vice\u2011mayor and councilors"", ""Effectivity upon approval""]"		"[""municipality"", ""Agusan"", ""creation""]"	"[""municipality"", ""San Francisco"", ""Agusan"", ""local government"", ""creation"", ""appointment""]"
+repacts:datasets/markdown/repacts/1959/ra_2519_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2519_1959.md	ra_2519_1959	An Act Creating the Municipality of Saguday in the Province of Nueva Vizcaya	"**REPUBLIC ACT No. 2519**
+
+ **An Act Creating the Municipality of Saguday in the Province of Nueva Vizcaya**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The barrios of Saguday, La Paz, Salvacion and Sto. Tomas are separated from the Municipality of Diffun, and the barrios of Dibol, Tres Reyes and Mangandingay are separated from the Municipality of Aglipay, all in the Province of Nueva Vizcaya, and constituted into a new and separate municipality of said province to be known as the Municipality of Saguday, with the seat of government at the present site of the barrio of Saguday.
+
+ **Section 2.** The first mayor, vice-mayor and councilors of the new municipality shall be appointed by the President of the Philippines with the consent of the Commission on Appointments, and shall hold office until their successors shall have been elected and shall have qualified.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Municipality Creation	An act establishing the municipality of Saguday in Nueva Vizcaya, defining its boundaries and appointing its initial officials.	"[{""title"": ""Section 1."", ""summary"": ""Separates designated barrios from Diffun and Aglipay to form the new municipality of Saguday with its seat of government in the barrio of Saguday.""}, {""title"": ""Section 2."", ""summary"": ""Provides that the first mayor, vice-mayor, and councilors shall be appointed by the President with Commission on Appointments consent, serving until elected successors qualify.""}, {""title"": ""Section 3."", ""summary"": ""States that the act takes effect upon its approval.""}]"	2519	June 21, 1959	"[{""name"": ""Senate"", ""title"": ""Senate""}, {""name"": ""House of Representatives"", ""title"": ""House of Representatives""}]"		To create a new municipality in Nueva Vizcaya, delineating its jurisdiction and establishing its initial governance structure.	"[""Creation of the Municipality of Saguday"", ""Designation of barrios forming the municipality"", ""Appointment of first mayor, vice-mayor, and councilors"", ""Effective date upon approval""]"		"[""Municipality"", ""Local Government"", ""Nueva Vizcaya"", ""Republic Act"", ""1959""]"	"[""Saguday"", ""Nueva Vizcaya"", ""municipality"", ""creation"", ""local government"", ""Republic Act"", ""1959""]"
+repacts:datasets/markdown/repacts/1959/ra_2520_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2520_1959.md	ra_2520_1959	An Act Changing the Name of the Municipality of Libog, Province of Albay, to Municipality of Sto. Domingo	"**REPUBLIC ACT No. 2520**
+
+ **An Act Changing the Name of the Municipality of Libog, Province of Albay, to Municipality of Sto. Domingo**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The Municipality of Libog, Province of Albay, shall hereafter be known as the Municipality of Sto. Domingo.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act changes the name of the Municipality of Libog in the Province of Albay to the Municipality of Sto. Domingo.	"[{""title"": ""Section 1"", ""summary"": ""Renames the Municipality of Libog, Province of Albay, to the Municipality of Sto. Domingo.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	2520	June 21, 1959			To rename the municipality of Libog to Sto. Domingo.	"[""The municipality of Libog, Province of Albay, is renamed to the Municipality of Sto. Domingo.""]"		"[""Municipality"", ""Name change"", ""Albay"", ""Local government""]"	"[""Libog"", ""Sto. Domingo"", ""Albay"", ""Municipality"", ""Name change""]"
+repacts:datasets/markdown/repacts/1959/ra_2521_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2521_1959.md	ra_2521_1959	An Act Creating the Barrios of Uson, Diraya and Jubang in the Municipality of Capul, Province of Samar	"**REPUBLIC ACT No. 2521**
+
+ **An Act Creating the Barrios of Uson, Diraya and Jubang in the Municipality of Capul, Province of Samar**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*

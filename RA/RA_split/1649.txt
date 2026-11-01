@@ -1,0 +1,183 @@
+repacts:datasets/markdown/repacts/1991/ra_7049_1991.md	repacts	1991		datasets/markdown/repacts/1991/ra_7049_1991.md	ra_7049_1991	AN ACT ESTABLISHING A HIGH SCHOOL IN THE MUNICIPALITY OF INOPACAN, PROVINCE OF LEYTE, TO BE KNOWN AS THE INOPACAN HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 7049, June 19, 1991 ]**
+
+ AN ACT ESTABLISHING A HIGH SCHOOL IN THE MUNICIPALITY OF INOPACAN, PROVINCE OF LEYTE, TO BE KNOWN AS THE INOPACAN HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established a high school in the Municipality of Inopacan, Province of Leyte, to be known as the Inopacan High School.
+
+ **Section 2.** The Secretary of the Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act is hereby authorized to be appropriated in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **JOVITO R. SALONGA** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated from the House of Representatives was finally passed by the House of Representatives and the Senate on December 14, 1989 and March 14, 1991, respectively. |  |
+| (Sgd.) **EDWIN P. ACOBA** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: June 19, 1991
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Education	The Act establishes Inopacan High School in Leyte, authorizes appropriate funds, and empowers the Secretary of Education, Culture and Sports to issue necessary regulations. It takes effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of a high school in the Municipality of Inopacan, Province of Leyte, named Inopacan High School.""}, {""title"": ""Section 2."", ""summary"": ""The Secretary of the Department of Education, Culture and Sports shall issue rules and regulations necessary to carry out the purpose of the Act.""}, {""title"": ""Section 3."", ""summary"": ""Authorization to appropriate the necessary amount in the General Appropriations Act of the year following its enactment.""}, {""title"": ""Section 4."", ""summary"": ""The Act shall take effect upon its approval.""}]"	7049	June 19, 1991	"[{""name"": ""JOVITO R. SALONGA"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""EDWIN P. ACOBA"", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""CORAZON C. AQUINO"", ""title"": ""President of the Philippines""}]"	To establish a high school in Inopacan, Leyte, and appropriate funds for its operation.	"[""Establishment of Inopacan High School"", ""Authorization of funds in the General Appropriations Act"", ""Issuance of rules and regulations by the Secretary of Education, Culture and Sports"", ""Effectivity upon approval""]"		"[""Education"", ""High School"", ""Leyte"", ""Republic Act"", ""Infrastructure""]"	"[""Inopacan"", ""Leyte"", ""High School"", ""Education"", ""Appropriations"", ""Republic Act 7049""]"
+repacts:datasets/markdown/repacts/1991/ra_7050_1991.md	repacts	1991		datasets/markdown/repacts/1991/ra_7050_1991.md	ra_7050_1991	AN ACT ESTABLISHING A HIGH SCHOOL IN THE MUNICIPALITY OF SABLAN, PROVINCE OF BENGUET, TO BE KNOWN AS THE SABLAN HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 7050, June 19, 1991 ]**
+
+ AN ACT ESTABLISHING A HIGH SCHOOL IN THE MUNICIPALITY OF SABLAN, PROVINCE OF BENGUET, TO BE KNOWN AS THE SABLAN HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established a high school in the Municipality of Sablan, Province of Benguet, to be known as the Sablan High School.
+
+ **Section 2.** The Secretary of the Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act is hereby authorized to be appropriated in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **JOVITO R. SALONGA** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated from the House of Representatives was finally passed by the House of Representatives and the Senate on November 23, 1989 and March 14, 1991, respectively. |  |
+| (Sgd.) **EDWIN P. ACOBA** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: June 19, 1991
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Education	This law establishes Sablan High School in Benguet and appropriates funds for its operation.	"[{""title"": ""Section 1"", ""summary"": ""Establishes a high school in the Municipality of Sablan, Province of Benguet, to be known as Sablan High School.""}, {""title"": ""Section 2"", ""summary"": ""The Secretary of the Department of Education, Culture and Sports shall issue rules and regulations necessary to carry out the purpose of this Act.""}, {""title"": ""Section 3"", ""summary"": ""The amount necessary to carry out the provisions of this Act is authorized to be appropriated in the General Appropriations Act of the year following its enactment.""}, {""title"": ""Section 4"", ""summary"": ""This Act shall take effect upon its approval.""}]"	7050	June 19, 1991	"[{""name"": ""JOVITO R. SALONGA"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""EDWIN P. ACOBA"", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}]"	To establish Sablan High School and provide necessary funding for its operation.	"[""Establishment of Sablan High School"", ""Secretary of Education to issue necessary rules and regulations"", ""Appropriation of funds in the General Appropriations Act"", ""Effectivity upon approval""]"		"[""Education"", ""Public School"", ""Benguet"", ""Sablan""]"	"[""Sablan High School"", ""Benguet"", ""Education"", ""Appropriation"", ""High School""]"
+repacts:datasets/markdown/repacts/1991/ra_7051_1991.md	repacts	1991		datasets/markdown/repacts/1991/ra_7051_1991.md	ra_7051_1991	AN ACT ESTABLISHING A HIGH SCHOOL IN THE MUNICIPALITY OF BOKOD, PROVINCE OF BENGUET, TO BE KNOWN AS THE BOKOD HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 7051, June 19, 1991 ]**
+
+ AN ACT ESTABLISHING A HIGH SCHOOL IN THE MUNICIPALITY OF BOKOD, PROVINCE OF BENGUET, TO BE KNOWN AS THE BOKOD HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established a high school in the Municipality of Bokod, Province of Benguet, to be known as the Bokod High School.
+
+ **Section 2.** The Secretary of the Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act is hereby authorized to be appropriated in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **JOVITO R. SALONGA** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated from the House of Representatives was finally passed by the House of Representatives and the Senate on November 23, 1989 and March 14, 1991, respectively. |  |
+| (Sgd.) **EDWIN P. ACOBA** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: June 19, 1991
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Education	An act to establish Bokod High School in the Municipality of Bokod, Benguet, and to appropriate funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of Bokod High School in the Municipality of Bokod, Province of Benguet.""}, {""title"": ""Section 2."", ""summary"": ""The Secretary of the Department of Education, Culture and Sports shall issue rules and regulations necessary to carry out the purpose of the Act.""}, {""title"": ""Section 3."", ""summary"": ""Authorization of appropriation of necessary funds in the General Appropriations Act of the following year.""}, {""title"": ""Section 4."", ""summary"": ""The Act shall take effect upon its approval.""}]"	7051	June 19, 1991	"[{""name"": ""JOVITO R. SALONGA"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""EDWIN P. ACOBA"", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}]"	To establish a high school in Bokod, Benguet and appropriate funds for its operation.	"[""Establishment of Bokod High School"", ""Issuance of rules and regulations by the Secretary of DEDCS"", ""Appropriation of funds in the General Appropriations Act"", ""Effectivity upon approval""]"		"[""Education"", ""School"", ""Bokod"", ""Benguet""]"	"[""High school"", ""Bokod"", ""Benguet"", ""appropriation"", ""education"", ""public institution""]"
+repacts:datasets/markdown/repacts/1991/ra_7052_1991.md	repacts	1991		datasets/markdown/repacts/1991/ra_7052_1991.md	ra_7052_1991	An Act Establishing a High School in the Poblacion, Municipality of Sta. Cruz, Province of Ilocos Sur, to be known as the Sta. Cruz High School, and Appropriating Funds Therefor	"**[ REPUBLIC ACT NO. 7052, June 19, 1991 ]**
+
+ AN ACT ESTABLISHING A HIGH SCHOOL IN THE POBLACION, MUNICIPALITY OF STA. CRUZ, PROVINCE OF ILOCOS SUR, TO BE KNOWN AS THE STA. CRUZ HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established a high school in the Poblacion, Municipality of Sta. Cruz, Province of Ilocos Sur, to be known as the Sta. Cruz High School.
+
+ **Section 2.** The Secretary of the Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act is hereby authorized to be appropriated in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **JOVITO R. SALONGA** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated from the House of Representatives was finally passed by the House of Representatives and the Senate on November 23, 1989 and March 14, 1991, respectively. |  |
+| (Sgd.) **EDWIN P. ACOBA** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: June 19, 1991
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Law	Establishes Sta. Cruz High School and appropriates funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""Establishes a high school in the Poblacion, Municipality of Sta. Cruz, Province of Ilocos Sur, to be known as Sta. Cruz High School.""}, {""title"": ""Section 2."", ""summary"": ""The Secretary of the Department of Education, Culture and Sports shall issue rules and regulations necessary to carry out the purpose of the Act.""}, {""title"": ""Section 3."", ""summary"": ""Authorizes appropriation of necessary funds in the General Appropriations Act of the following year.""}, {""title"": ""Section 4."", ""summary"": ""The Act shall take effect upon its approval.""}]"	7052	June 19, 1991	"[{""name"": ""JOVITO R. SALONGA"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""EDWIN P. ACOBA"", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""CORAZON C. AQUINO"", ""title"": ""President of the Philippines""}]"	To establish a high school in Sta. Cruz, Ilocos Sur, and appropriate funds for its operation.	"[""Establishment of Sta. Cruz High School"", ""Issuance of rules and regulations by the Secretary of Education"", ""Appropriation of funds in the General Appropriations Act"", ""Effectivity upon approval""]"		"[""Education"", ""High School"", ""Ilocos Sur""]"	"[""high school"", ""Sta. Cruz"", ""Ilocos Sur"", ""appropriation"", ""education""]"
+repacts:datasets/markdown/repacts/1991/ra_7053_1991.md	repacts	1991		datasets/markdown/repacts/1991/ra_7053_1991.md	ra_7053_1991	An Act Establishing an Agricultural High School in Barangay Dolores, Municipality of Pinabacdao, Province of Samar, to be Known as the West Coast Agricultural High School, and Appropriating Funds Therefor	"**[ REPUBLIC ACT NO. 7053, June 19, 1991 ]**
+
+ AN ACT ESTABLISHING AN AGRICULTURAL HIGH SCHOOL IN BARANGAY DOLORES, MUNICIPALITY OF PINABACDAO, PROVINCE OF SAMAR, TO BE KNOWN AS THE WEST COAST AGRICULTURAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established an agricultural high school in Barangay Dolores, Municipality of Pinabacdao, Province of Samar, to be known as the West Coast Agricultural High School.
+
+ **Section 2.** The Secretary of the Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act is hereby authorized to be appropriated in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **JOVITO R. SALONGA** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated from the House of Representatives was finally passed by the House of Representatives and the Senate on November 20, 1989 and March 14, 1991, respectively. |  |
+| (Sgd.) **EDWIN P. ACOBA** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: June 19, 1991
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Education	Republic Act No. 7053 (June 19, 1991) provides for the establishment of the West Coast Agricultural High School in Barangay Dolores, Pinabacdao, Samar, and appropriates funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of West Coast Agricultural High School in Barangay Dolores, Municipality of Pinabacdao, Province of Samar.""}, {""title"": ""Section 2."", ""summary"": ""The Secretary of the Department of Education, Culture and Sports shall issue rules and regulations necessary to carry out the purpose of the Act.""}, {""title"": ""Section 3."", ""summary"": ""Appropriation of necessary funds in the General Appropriations Act of the year following enactment.""}, {""title"": ""Section 4."", ""summary"": ""Act shall take effect upon its approval.""}]"	7053	June 19, 1991	"[{""name"": ""JOVITO R. SALONGA"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""EDWIN P. ACOBA"", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}]"	To establish an agricultural high school in Barangay Dolores, Pinabacdao, Samar, and provide for its appropriation of funds.	"[""Establishment of West Coast Agricultural High School"", ""Secretary of the Department of Education, Culture and Sports to issue necessary rules and regulations"", ""Appropriation of funds in the General Appropriations Act of the following year"", ""Act takes effect upon its approval""]"		"[""Education"", ""Agriculture"", ""High School"", ""Samar"", ""Republic Act""]"	"[""agricultural high school"", ""West Coast Agricultural High School"", ""Barangay Dolores"", ""Pinabacdao"", ""Samar"", ""Republic Act 7053""]"
+repacts:datasets/markdown/repacts/1991/ra_7054_1991.md	repacts	1991		datasets/markdown/repacts/1991/ra_7054_1991.md	ra_7054_1991	AN ACT ESTABLISHING A HIGH SCHOOL IN BARANGAY KIMAMON, MUNICIPALITY OF STO. TOMAS, PROVINCE OF DAVAO, TO BE KNOWN AS THE KIMAMON HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 7054, June 19, 1991 ]**
+
+ AN ACT ESTABLISHING A HIGH SCHOOL IN BARANGAY KIMAMON, MUNICIPALITY OF STO. TOMAS, PROVINCE OF DAVAO, TO BE KNOWN AS THE KIMAMON HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established a high school in Barangay Kimamon, Municipality of Sto. Tomas, Province of Davao, to be known as the Kimamon High School.
+
+ **Section 2.** The Secretary of the Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act is hereby authorized to be appropriated in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **JOVITO R. SALONGA** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated from the House of Representatives was finally passed by the House of Representatives and the Senate on November 23, 1989 and March 14, 1991, respectively. |  |
+| (Sgd.) **EDWIN P. ACOBA** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: June 19, 1991
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	This act establishes Kimamon High School in Barangay Kimamon, Sto. Tomas, Davao, and appropriates funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""Establishes Kimamon High School in Barangay Kimamon, Sto. Tomas, Davao.""}, {""title"": ""Section 2."", ""summary"": ""Empowers the Secretary of the Department of Education, Culture and Sports to issue rules and regulations to implement the act.""}, {""title"": ""Section 3."", ""summary"": ""Authorizes appropriation of necessary funds in the following year's General Appropriations Act.""}, {""title"": ""Section 4."", ""summary"": ""The act takes effect upon its approval.""}]"	7054	June 19, 1991	"[{""name"": ""JOVITO R. SALONGA"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}, {""name"": ""CORAZON C. AQUINO"", ""title"": ""President of the Philippines""}]"	"[{""name"": ""EDWIN P. ACOBA"", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General of the House of Representatives""}]"	To establish a high school in Barangay Kimamon, Sto. Tomas, Davao and provide the necessary funding for its operation.	"[""Establishment of Kimamon High School"", ""Authority for the Secretary of DepEd to issue implementing rules"", ""Appropriation of funds in the following year's General Appropriations Act"", ""Effective upon approval""]"		"[""Education"", ""High School"", ""Local Government"", ""Philippines""]"	"[""Kimamon High School"", ""Barangay Kimamon"", ""Sto. Tomas"", ""Davao"", ""Education"", ""Appropriation"", ""Republic Act 7054""]"
+repacts:datasets/markdown/repacts/1991/ra_7055_1991.md	repacts	1991		datasets/markdown/repacts/1991/ra_7055_1991.md	ra_7055_1991	AN ACT STRENGTHENING CIVILIAN SUPREMACY OVER THE MILITARY RETURNING TO THE CIVIL COURTS THE JURISDICTION OVER CERTAIN OFFENSES INVOLVING MEMBERS OF THE ARMED FORCES OF THE PHILIPPINES, OTHER PERSONS SUBJECT TO MILITARY LAW, AND THE MEMBERS OF THE PHILIPPINE NATIONAL POLICE, REPEALING FOR THE PURPOSE CERTAIN PRESIDENTIAL DECREES	"**Eighth Congress**
+
+   
+ **Republic Act No. 7055 June 20, 1991**
+
+ **AN ACT STRENGTHENING CIVILIAN SUPREMACY OVER THE MILITARY RETURNING TO THE CIVIL COURTS THE JURISDICTION OVER CERTAIN OFFENSES INVOLVING MEMBERS OF THE ARMED FORCES OF THE PHILIPPINES, OTHER PERSONS SUBJECT TO MILITARY LAW, AND THE MEMBERS OF THE PHILIPPINE NATIONAL POLICE, REPEALING FOR THE PURPOSE CERTAIN PRESIDENTIAL DECREES**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** Members of the Armed Forces of the Philippines and other persons subject to military law, including members of the citizens Armed Forces Geographical Units, who commit crimes or offenses penalized under the Revised Penal Code other special penal laws, or local government ordinances regardless of whether or not civilians are co-accused, victims, or offended parties which may be natural or juridical persons, shall be tried by the proper civil court except when the offense, as determined before arraignment by the civil court, is service-connected, in which case the offense shall be tried by court-martial: provided, that the President of the Philippines may, in the interest of justice, order or direct at any time before arraignment that any such crimes or offenses be tried by the proper civil courts.
+
+ As used in this Section, service-connected crimes or offenses shall be limited to those defined in Articles 54 to 70, Articles 72 to 92, and Articles 95 to 97 of Commonwealth Act No. 408, as amended.
+
+ In imposing the penalty for such crimes or offenses, the court-martial may take into consideration the penalty prescribed thereforee in the Revised Penal Code, other special laws, or local government ordinances.
+
+ **Section 2.** Subject to the provisions of Section 1 hereof, all cases filed or pending for filing with court-martial or other similar bodies, except those where the accused had already been arraigned, shall within thirty (30) days following the effectivity of this Act transferred to the proper civil courts: provided, that the Chief of the Armed Forces of the Philippines shall, upon petition before commencement of trial and with the written consent of the accused, order the transfer of such excepted case or cases to the proper civil courts for trial and resolution.
+
+ **Section 3.** Presidential Decrees Nos. 1822, 1822-A, 1850 and 1952, and all acts, general orders, executive orders, and other presidential issuances, rules and regulations inconsistent with this Act are hereby repealed or amended accordingly.
+
+ **Section 4.** This Act shall take effect fifteen (15) days following its publication in the Official Gazette or in at least two (2) newspapers of general circulation.
+
+ Approved: **June 20, 1991.**
+"	success	Republic Act	Republic Act No. 7055 strengthens civilian supremacy by vesting jurisdiction over crimes committed by armed forces personnel and other persons subject to military law in the proper civil courts, except for service‑connected offenses, and repeals several presidential decrees that are inconsistent with this act.	"[{""title"": ""Section 1"", ""summary"": ""Members of the Armed Forces of the Philippines and other persons subject to military law who commit crimes are tried by the proper civil court, except for service\u2011connected offenses which are tried by court\u2011martial, with the President able to direct criminal cases to civil courts before arraignment.""}, {""title"": ""Section 2"", ""summary"": ""All cases pending or filed with military courts are to be transferred to the proper civil courts within thirty days of the act\u2019s effectivity, except for cases where the accused has already been arraigned.""}, {""title"": ""Section 3"", ""summary"": ""Presidential Decrees Nos. 1822, 1822\u2011A, 1850 and 1952, along with other inconsistent presidential issuances, are hereby repealed or amended accordingly.""}, {""title"": ""Section 4"", ""summary"": ""The Act takes effect fifteen days after publication in the Official Gazette or in at least two newspapers of general circulation.""}]"	7055	June 20, 1991			To reinforce civilian control over the military by ensuring that crimes committed by military personnel are primarily prosecuted by civilian courts and to eliminate conflicting presidential decrees.	"[""Civilian courts have jurisdiction over crimes committed by armed forces members and other persons subject to military law, except service\u2011connected offenses."", ""Pending cases in military courts are transferred to civil courts within 30 days, except those already arraigned."", ""Repeal of Presidential Decrees Nos. 1822, 1822\u2011A, 1850 and 1952."", ""Act becomes effective 15 days after publication.""]"	Repeal of Presidential Decrees Nos. 1822, 1822‑A, 1850 and 1952, and all acts, general orders, executive orders, and other presidential issuances inconsistent with this Act	"[""Civilian supremacy"", ""Military law"", ""Revised Penal Code"", ""Repeal"", ""Judiciary""]"	"[""civilian courts"", ""armed forces"", ""military law"", ""service\u2011connected crimes"", ""court\u2011martial"", ""transfer of cases"", ""repeal"", ""presidential decrees""]"
+repacts:datasets/markdown/repacts/1991/ra_7056_1991.md	repacts	1991		datasets/markdown/repacts/1991/ra_7056_1991.md	ra_7056_1991	AN ACT PROVIDING FOR THE NATIONAL AND LOCAL ELECTIONS IN 1992, PAVING THE WAY FOR SYNCHRONIZED AND SIMULTANEOUS ELECTIONS BEGINNING 1995, AND AUTHORIZING APPROPRIATIONS THEREFOR	"**Eighth Congress**
+
+   
+ **Republic Act No. 7056 June 20, 1991**
+
+ **AN ACT PROVIDING FOR THE NATIONAL AND LOCAL ELECTIONS IN 1992, PAVING THE WAY FOR SYNCHRONIZED AND SIMULTANEOUS ELECTIONS BEGINNING 1995, AND AUTHORIZING APPROPRIATIONS THEREFOR**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1. *Statement of Policy.*** - It is the policy of the State to start, as much as practicable, the synchronization of the elections so that the process can be completed in the 1995 elections with the result that beginning 1995 there shall be only one (1) simultaneous regular elections for national and local elective officials once every three (3) years.

@@ -1,0 +1,163 @@
+>
+>  ""Existing educational institutions organized as stock corporations may automatically apply for renewal of their corporate existence when the original period is about to expire.
+>
+>  ""*Provided, finally,*That stock educational institutions may be allowed only in capital-intensive courses of study as may be determined by the Department of Education, Culture and Sports, the Commission on Higher Education, and the Department of Science and Technology, as the case may be.
+>
+>  ""Any school that is established or organized as a stock corporation shall be ineligible for any form of government subsidy, incentive or assistance, except those given to individual students and teachers in the form of scholarships, student loans or other forms of subsidy as already mandated under existing laws. Government assistance to non-stock schools for educational programs shall be used exclusively for that purpose.
+>
+>  ""Taxes shall not be due on donations to educational corporations.""
+
+ **Section 2.** The Department of Education, Culture and Sports and the Commission on Higher Education, as the case may be, are hereby authorized to formulate within sixty (60) days from the approval of this Act implementing rules and guidelines governing the establishment and operation of stock educational corporations that may be organized pursuant to this Act with particular emphasis on meeting the objectives of quality education and academic excellence provided for by the provisions of Batas Pambansa Blg. 232, otherwise known as the Education Act of 1982.
+
+ **Section 3.** All laws, rules and ordinances inconsistent with this Act are hereby repealed or modified accordingly.
+
+ **Section 4.** This Act shall take effect fifteen (15) days after its publication in at least two (2) national newspapers of general circulation.
+
+ Approved, August 25, 1994.
+"	success	Republic Act	This Act amends Section 25 of the Education Act of 1982 to regulate the establishment of schools, requiring incorporation as stock or non‑stock educational corporations with specified minimum paid‑up capital, limiting stock institutions to capital‑intensive courses, restricting subsidy eligibility, and exempting donations to educational corporations from tax. It authorizes the Department of Education and the Commission on Higher Education to issue implementing rules within 60 days and repeals inconsistent laws.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 25 to establish schools, requiring incorporation as stock or non\u2011stock educational corporations with minimum paid\u2011up capital thresholds; allows existing stock corporations renewal; restricts stock institutions to capital\u2011intensive courses; makes stock schools ineligible for subsidies except scholarships; exempts donations to educational corporations from taxes.""}, {""title"": ""Section 2"", ""summary"": ""Authorizes the Department of Education and the Commission on Higher Education to formulate implementing rules and guidelines within sixty days.""}, {""title"": ""Section 3"", ""summary"": ""Repeals or modifies all laws, rules and ordinances inconsistent with this Act.""}, {""title"": ""Section 4"", ""summary"": ""The Act takes effect fifteen days after publication in at least two national newspapers.""}]"	7798	August 25, 1994			To regulate the establishment of schools under the Education Act of 1982, ensuring proper incorporation, capital requirements, and alignment with national education policies.	"[""Requires schools to incorporate as stock or non\u2011stock educational corporations"", ""Sets minimum paid\u2011up capital thresholds for stock institutions"", ""Limits stock institutions to capital\u2011intensive courses"", ""Prohibits stock schools from receiving government subsidies except scholarships"", ""Exempts donations to educational corporations from tax"", ""Authorizes the Department of Education and the CHED to issue implementing rules within 60 days"", ""Repeals inconsistent laws, rules and ordinances""]"	Batas Pambansa Blg. 232 (Education Act of 1982)	"[""Education"", ""School Establishment"", ""Stock Corporations"", ""Capital Requirements"", ""Government Subsidy"", ""Tax Exemption""]"	"[""Education Act"", ""Batas Pambansa"", ""Stock educational corporations"", ""Capital requirements"", ""Government subsidy"", ""Tax exemption"", ""Department of Education"", ""Commission on Higher Education"", ""Department of Science and Technology""]"
+repacts:datasets/markdown/repacts/1994/ra_7799_1994.md	repacts	1994		datasets/markdown/repacts/1994/ra_7799_1994.md	ra_7799_1994	AN ACT ESTABLISHING A DISTRICT HOSPITAL IN THE MUNICIPALITY OF TALISAY, PROVINCE OF CEBU, TO BE KNOWN AS THE TALISAY DISTRICT HOSPITAL, AND APPROPRIATING FUNDS THEREFOR	"Republic of the Philippines Congress of the Philippines Second Regular Session
+
+ **[ REPUBLIC ACT NO. 7799, August 26, 1994 ]**
+
+ AN ACT ESTABLISHING A DISTRICT HOSPITAL IN THE MUNICIPALITY OF TALISAY, PROVINCE OF CEBU, TO BE KNOWN AS THE TALISAY DISTRICT HOSPITAL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established a district hospital in the Municipality of Talisay, Province of Cebu, to be known as the Talisay District Hospital.
+
+ **Section 2.** The Department of Health, in consultation and coordination with local government officials concerned, shall promulgate the necessary rules and regulations for the effective implementation of this Act.
+
+ **Section 3.** The amount necessary for the establishment of the hospital shall be included in the General Appropriations Act of the year following the enactment of this Act into law. Thereafter, funds necessary for its maintenance and operation shall be provided in accordance with the provision of the Local Government Code.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved, August 26, 1994.
+"	success	Republic Act	Establishes the Talisay District Hospital in Cebu and appropriates funds for its establishment, operation, and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""Establishes a district hospital in the Municipality of Talisay, Province of Cebu, named the Talisay District Hospital.""}, {""title"": ""Section 2."", ""summary"": ""The Department of Health, in consultation and coordination with local government officials, shall promulgate the necessary rules and regulations for the effective implementation of this Act.""}, {""title"": ""Section 3."", ""summary"": ""The amount necessary for the establishment of the hospital shall be included in the General Appropriations Act of the year following the enactment of this Act into law; maintenance and operation funds shall be provided in accordance with the Local Government Code.""}, {""title"": ""Section 4."", ""summary"": ""The Act shall take effect upon its approval.""}]"	7799	August 26, 1994			To establish a district hospital in Talisay, Cebu and allocate funds for its construction, operation, and maintenance.	"[""Establishment of the Talisay District Hospital"", ""Department of Health to promulgate rules and regulations"", ""Funding for establishment to be included in next year's General Appropriations Act"", ""Act takes effect upon approval""]"		"[""healthcare"", ""hospital"", ""local government"", ""Cebu"", ""district hospital""]"	"[""district hospital"", ""Talisay"", ""Cebu"", ""Revised General Appropriations Act"", ""Department of Health"", ""Local Government Code""]"
+repacts:datasets/markdown/repacts/1994/ra_7800_1994.md	repacts	1994		datasets/markdown/repacts/1994/ra_7800_1994.md	ra_7800_1994	AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY MANAMBULAN, TUGBOK DISTRICT, DAVAO CITY, TO BE KNOWN AS THE OPTACIANO HILAY HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"Republic of the Philippines Congress of the Philippines Second Regular Session
+
+ **[ REPUBLIC ACT NO. 7800, September 01, 1994 ]**
+
+ AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY MANAMBULAN, TUGBOK DISTRICT, DAVAO CITY, TO BE KNOWN AS THE OPTACIANO HILAY HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established under the supervision of the Department of Education, Culture and Sports a national high school in Barangay Manambulan, Tugbok District, Davao City, to be known as the Optaciano Hilay High School.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act is hereby authorized to be appropriated in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Lapsed into law on September 1, 1994 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.
+"	success	Act	An act establishing the Optaciano Hilay High School in Barangay Manambulan, Davao City, under the supervision of the Department of Education, Culture and Sports, and authorizing funds for its operation.	"[{""title"": ""Section 1"", ""summary"": ""Establishes a national high school in Barangay Manambulan, Tugbok District, Davao City, known as the Optaciano Hilay High School, under the supervision of the Department of Education, Culture and Sports.""}, {""title"": ""Section 2"", ""summary"": ""Authorizes the appropriation of necessary funds in the General Appropriations Act of the year following the act's enactment.""}, {""title"": ""Section 3"", ""summary"": ""The act takes effect upon its approval.""}]"	7800	September 01, 1994			To establish a national high school in Barangay Manambulan, Davao City, and appropriate funds for its operation.	"[""Establishment of Optaciano Hilay High School"", ""Appropriation of funds for the school"", ""Effectivity upon approval""]"		"[""Education"", ""Public school"", ""Infrastructure""]"	"[""National high school"", ""Optaciano Hilay High School"", ""Barangay Manambulan"", ""Davao City"", ""Department of Education"", ""Appropriation""]"
+repacts:datasets/markdown/repacts/1994/ra_7801_1994.md	repacts	1994		datasets/markdown/repacts/1994/ra_7801_1994.md	ra_7801_1994	AN ACT CONVERTING THE CONCEPCION COLLEGE OF FISHERIES IN THE MUNICIPALITY OF CONCEPCION, PROVINCE OF ILOILO, INTO A POLYTECHNIC COLLEGE, TO BE KNOWN AS THE CONCEPCION POLYTECHNIC COLLEGE, AND APPROPRIATING FUNDS THEREFOR	"Republic of the Philippines Congress of the Philippines Second Regular Session
+
+ **[ REPUBLIC ACT NO. 7801, September 01, 1994 ]**
+
+ AN ACT CONVERTING THE CONCEPCION COLLEGE OF FISHERIES IN THE MUNICIPALITY OF CONCEPCION, PROVINCE OF ILOILO, INTO A POLYTECHNIC COLLEGE, TO BE KNOWN AS THE CONCEPCION POLYTECHNIC COLLEGE, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Concepcion College of Fisheries in the Municipality of Concepcion, Province of Iloilo, is hereby converted into a polytechnic college, to be known as the Concepcion Polytechnic College.
+
+ **Section 2.** The Department of Education, Culture and Sports shall take the necessary steps for the immediate implementation of this Act.
+
+ **Section 3.** The amount necessary for the implementation of this Act shall be charged against the current year's appropriations of the Concepcion College of Fisheries. Thereafter, such sums as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Lapsed into law on September 1, 1994 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.
+"	success	Republic Act	An act converting the Concepcion College of Fisheries into the Concepcion Polytechnic College and appropriating funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""The Concepcion College of Fisheries is converted into a polytechnic college, to be known as the Concepcion Polytechnic College.""}, {""title"": ""Section 2."", ""summary"": ""The Department of Education, Culture and Sports shall take the necessary steps for the immediate implementation of this Act.""}, {""title"": ""Section 3."", ""summary"": ""The amount necessary for implementation shall be charged against the current year's appropriations of the Concepcion College of Fisheries, with subsequent sums included in the annual General Appropriations Act.""}, {""title"": ""Section 4."", ""summary"": ""This Act shall take effect upon its approval.""}]"	REPUBLIC ACT NO. 7801	September 1, 1994			Conversion of a college to a polytechnic college and appropriation of funds for its operation.	"[""Conversion of Concepcion College of Fisheries into a polytechnic college"", ""Department of Education, Culture and Sports to implement the conversion"", ""Appropriations for the implementation and ongoing operations"", ""Act takes effect upon approval""]"		"[""Education"", ""Polytechnic"", ""Iloilo"", ""Fishery"", ""Conversion"", ""Appropriation""]"	"[""Concepcion College of Fisheries"", ""Concepcion Polytechnic College"", ""Iloilo"", ""Department of Education"", ""Appropriations"", ""Republic Act"", ""1994""]"
+repacts:datasets/markdown/repacts/1994/ra_7802_1994.md	repacts	1994		datasets/markdown/repacts/1994/ra_7802_1994.md	ra_7802_1994	AN ACT CHANGING THE NAME OF MINUHANG BARANGAY HIGH SCHOOL IN THE MUNICIPALITY OF BARUGO, PROVINCE OF LEYTE, TO CELESTINO DE GUZMAN MEMORIAL NATIONAL HIGH SCHOOL	"**[ REPUBLIC ACT NO. 7802, September 01, 1994 ]**
+
+ AN ACT CHANGING THE NAME OF MINUHANG BARANGAY HIGH SCHOOL IN THE MUNICIPALITY OF BARUGO, PROVINCE OF LEYTE, TO CELESTINO DE GUZMAN MEMORIAL NATIONAL HIGH SCHOOL
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The name of Minuhang Barangay High School in the Municipality of Barugo, Province of Leyte, is hereby changed to Celestino de Guzman Memorial National High School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, Lapsed into law on September 1, 1994 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.
+"	success	Education	This act changes the name of Minuhang Barangay High School to Celestino de Guzman Memorial National High School, effective upon approval.	"[{""title"": ""Section 1."", ""summary"": ""The name of Minuhang Barangay High School in the Municipality of Barugo, Province of Leyte, is changed to Celestino de Guzman Memorial National High School.""}, {""title"": ""Section 2."", ""summary"": ""The act shall take effect upon its approval.""}]"	7802	September 01, 1994			To change the name of Minuhang Barangay High School to Celestino de Guzman Memorial National High School.	"[""Name of the school is changed to Celestino de Guzman Memorial National High School."", ""Act takes effect upon approval.""]"		"[""Education"", ""School"", ""Name Change"", ""Philippines""]"	"[""Minuhang Barangay High School"", ""Celestino de Guzman Memorial National High School"", ""Leyte"", ""Barugo""]"
+repacts:datasets/markdown/repacts/1994/ra_7803_1994.md	repacts	1994		datasets/markdown/repacts/1994/ra_7803_1994.md	ra_7803_1994	An Act Establishing a High School in the Barangay of Taclobo, City of Dumaguete, Province of Negros Oriental, to be Known as the Taclobo High School, and Appropriating Funds Therefor	"Republic of the Philippines Congress of the Philippines Second Regular Session
+
+ **[ REPUBLIC ACT NO. 7803, September 01, 1994 ]**
+
+ AN ACT ESTABLISHING A HIGH SCHOOL IN THE BARANGAY OF TACLOBO, CITY OF DUMAGUETE, PROVINCE OF NEGROS ORIENTAL, TO BE KNOWN AS THE TACLOBO HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established a high school in the Barangay of Taclobo, City of Dumaguete, Province of Negros Oriental, to be known as the Taclobo High School.
+
+ **Section 2.** The Secretary of the Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Lapsed into law on September 1, 1994 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.
+"	success	Education	Establishes Taclobo High School in Dumaguete, Negros Oriental and appropriates funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""Establishes the Taclobo High School.""}, {""title"": ""Section 2."", ""summary"": ""Authorizes the Secretary of the Department of Education, Culture and Sports to issue necessary rules and regulations.""}, {""title"": ""Section 3."", ""summary"": ""Appropriates the necessary funds in the General Appropriations Act of the following year.""}, {""title"": ""Section 4."", ""summary"": ""The Act takes effect upon its approval.""}]"	REPUBLIC ACT NO. 7803	1994-09-01			To establish a high school in Barangay Taclobo, City of Dumaguete and appropriate funds for its operation.	"[""Section 1 establishes the Taclobo High School."", ""Section 2 authorizes the Secretary to issue rules and regulations."", ""Section 3 appropriates necessary funds in the following year's General Appropriations Act."", ""Section 4 provides that the Act takes effect upon approval.""]"		"[""Education"", ""High School"", ""Negros Oriental"", ""Dumaguete""]"	"[""high school"", ""Taclobo"", ""Dumaguete"", ""Negros Oriental"", ""appropriation"", ""education""]"
+repacts:datasets/markdown/repacts/1994/ra_7804_1994.md	repacts	1994		datasets/markdown/repacts/1994/ra_7804_1994.md	ra_7804_1994	AN ACT CREATING THE BANTAYAN NATIONAL HIGH SCHOOL IN THE MUNICIPALITY OF BANTAYAN, PROVINCE OF CEBU	"Republic of the Philippines Congress of the Philippines Second Regular Session
+
+ **[ REPUBLIC ACT NO. 7804, September 01, 1994 ]**
+
+ AN ACT CREATING THE BANTAYAN NATIONAL HIGH SCHOOL IN THE MUNICIPALITY OF BANTAYAN, PROVINCE OF CEBU
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There is hereby created the Bantayan National High School in the Municipality of Bantayan, Province of Cebu, to be administered, maintained and run by the Department of Education, Culture and Sports.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 3.** The Department of Education, Culture and Sports shall henceforth undertake the proper administration as well as maintenance and upkeep of Bantayan National High School under its yearly appropriation in the General Appropriations Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Lapsed into law on September 1, 1994 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.
+"	success	Republic Act	An act creating Bantayan National High School in Bantayan, Cebu, to be administered by the Department of Education, Culture and Sports; its funding is to be included in the General Appropriations Act of the following year; the act takes effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Establishes Bantayan National High School in Bantayan, Cebu, to be administered, maintained, and run by the Department of Education, Culture and Sports.""}, {""title"": ""Section 2."", ""summary"": ""Provides that the necessary funds for the act will be included in the General Appropriations Act of the year following its enactment.""}, {""title"": ""Section 3."", ""summary"": ""Mandates the Department of Education, Culture and Sports to properly administer and maintain the school under its yearly appropriation.""}, {""title"": ""Section 4."", ""summary"": ""The act shall take effect upon its approval.""}]"	7804	September 01, 1994			To establish and provide for the administration of a national high school in Bantayan, Cebu, thereby expanding secondary education in the region.	"[""Creation of Bantayan National High School"", ""Administration by the Department of Education, Culture and Sports"", ""Funding to be provided through the General Appropriations Act"", ""Effective upon approval""]"		"[""Education"", ""School"", ""Bantayan"", ""Cebu"", ""Republic Act""]"	"[""Bantayan National High School"", ""Department of Education"", ""General Appropriations Act"", ""Cebu"", ""Republic Act 7804""]"
+repacts:datasets/markdown/repacts/1994/ra_7805_1994.md	repacts	1994		datasets/markdown/repacts/1994/ra_7805_1994.md	ra_7805_1994	AN ACT DECLARING JANUARY 28 OF EVERY YEAR AS A NONWORKING SPECIAL PUBLIC HOLIDAY IN THE CITY OF CAVITE TO BE KNOWN AS JULIAN FELIPE DAY	"Republic of the Philippines Congress of the Philippines Second Regular Session
+
+ **[ REPUBLIC ACT NO. 7805, September 01, 1994 ]**
+
+ AN ACT DECLARING JANUARY 28 OF EVERY YEAR AS A NONWORKING SPECIAL PUBLIC HOLIDAY IN THE CITY OF CAVITE TO BE KNOWN AS JULIAN FELIPE DAY
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** In celebration of the birth anniversary of Professor Julian R. Felipe and in recognition of his talent and ingenuity in the masterful constitution of the national anthem, the 28th of January of every year is hereby declared as a nonworking special public holiday in the City of Cavite to be known as Julian Felipe Day.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Lapsed into law on September 1, 1994 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.
+"	success	Republic Act	Declares January 28 each year as a nonworking special public holiday in the City of Cavite, known as Julian Felipe Day, to honor Professor Julian R. Felipe.	"[{""title"": ""Section 1"", ""summary"": ""Declares January 28 as a nonworking special public holiday in the City of Cavite, known as Julian Felipe Day.""}, {""title"": ""Section 2"", ""summary"": ""The Act shall take effect upon its approval.""}]"	7805	September 01, 1994			To commemorate the birth anniversary of Professor Julian R. Felipe by declaring January 28 as a nonworking special public holiday in the City of Cavite.	"[""Declares January 28 as a nonworking special public holiday in Cavite, known as Julian Felipe Day."", ""The Act takes effect upon approval.""]"		"[""public holiday"", ""Cavite"", ""Julian Felipe"", ""nonworking holiday""]"	"[""Julian R. Felipe"", ""public holiday"", ""Cavite"", ""nonworking"", ""special holiday""]"
+repacts:datasets/markdown/repacts/1994/ra_7806_1994.md	repacts	1994		datasets/markdown/repacts/1994/ra_7806_1994.md	ra_7806_1994	AN ACT DECLARING MARCH 23 OF EVERY YEAR AS A SPECIAL PUBLIC HOLIDAY IN THE PROVINCE OF AKLAN TO COMMEMORATE THE DEATH ANNIVERSARY OF THE XIX MARTYRS OF AKLAN	"Republic of the Philippines Congress of the Philippines Second Regular Session
+
+ **[ REPUBLIC ACT NO. 7806, September 01, 1994 ]**
+
+ AN ACT DECLARING MARCH 23 OF EVERY YEAR AS A SPECIAL PUBLIC HOLIDAY IN THE PROVINCE OF AKLAN TO COMMEMORATE THE DEATH ANNIVERSARY OF THE XIX MARTYRS OF AKLAN
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** In order to commemorate the death anniversary of the 19 martyrs of Aklan, the pioneers of the propaganda campaign of the Katipunan and who were instrumental in the suppression of the atrocities committed towards the patriots of Aklan, the 23rd day of March of every year is hereby declared as a special public holiday in the Province of Aklan.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Lapsed into law on September 1, 1994 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.
+"	success	Republic Act	The act declares March 23 of every year as a special public holiday in the Province of Aklan to commemorate the death anniversary of the 19 martyrs of Aklan.	"[{""title"": ""Section 1."", ""summary"": ""In order to commemorate the death anniversary of the 19 martyrs of Aklan, the pioneers of the propaganda campaign of the Katipunan and who were instrumental in the suppression of the atrocities committed towards the patriots of Aklan, the 23rd day of March of every year is hereby declared as a special public holiday in the Province of Aklan.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	7806	September 01, 1994			To declare March 23 of every year as a special public holiday in the Province of Aklan to commemorate the death anniversary of the 19 martyrs of Aklan.	"[""Declares March 23 as a special public holiday in the Province of Aklan."", ""The Act takes effect upon its approval.""]"		"[""public holiday"", ""Aklan"", ""martyrs"", ""commemoration""]"	"[""Aklan"", ""March 23"", ""public holiday"", ""martyrs"", ""death anniversary""]"
+repacts:datasets/markdown/repacts/1994/ra_7807_1994.md	repacts	1994		datasets/markdown/repacts/1994/ra_7807_1994.md	ra_7807_1994	AN ACT ESTABLISHING A HIGH SCHOOL IN THE MUNICIPALITY OF STA. TERESITA, PROVINCE OF BATANGAS, TO BE KNOWN AS THE STA. TERESITA HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"Republic of the Philippines Congress of the Philippines Second Regular Session
+
+ **[ REPUBLIC ACT NO. 7807, August 30, 1994 ]**
+
+ AN ACT ESTABLISHING A HIGH SCHOOL IN THE MUNICIPALITY OF STA. TERESITA, PROVINCE OF BATANGAS, TO BE KNOWN AS THE STA. TERESITA HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established a high school in the Poblacion, Municipality of Sta. Teresita, Province of Batangas, to be known as the Sta. Teresita High School.
+
+ **Section 2.** The Secretary of the Department of Education, Culture and Sports shall issue and publish the necessary rules and regulations to implement the provisions of this Act.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect fifteen (15) days after its publication in Filipino and English in at least two (2) newspapers of general circulation.
+
+ Approved, August 30, 1994.
+"	success	Republic Act	Establishes Sta. Teresita High School and appropriates funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""Establishes a high school in the Poblacion, Municipality of Sta. Teresita, Province of Batangas, to be known as the Sta. Teresita High School.""}, {""title"": ""Section 2."", ""summary"": ""Secretary of the Department of Education, Culture and Sports to issue and publish necessary rules and regulations to implement the provisions of this Act.""}, {""title"": ""Section 3."", ""summary"": ""The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment.""}, {""title"": ""Section 4."", ""summary"": ""This Act shall take effect fifteen (15) days after its publication in Filipino and English in at least two newspapers of general circulation.""}]"	7807	August 30, 1994			To establish a high school in Sta. Teresita and appropriate funds for its operation.	"[""Establishment of Sta. Teresita High School"", ""Issuance of rules and regulations by Secretary of DepEd"", ""Appropriation of funds in General Appropriations Act"", ""Effectivity fifteen days after publication""]"		"[""Education"", ""High School"", ""Republic Act"", ""Local Government"", ""Batangas""]"	"[""Sta. Teresita"", ""Batangas"", ""high school"", ""appropriation"", ""DepEd"", ""Republic Act 7807""]"

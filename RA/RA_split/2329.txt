@@ -1,0 +1,200 @@
+
+ | (Sgd.) **OSCAR G. YABES** Secretary of Senate | (Sgd.) **ROBERTO P. NAZARENO** Secretary General House of Representatives |
+
+ Approved: August 22, 2000
+
+ (Sgd.) **JOSEPH E. ESTRADA** President of the Philippines
+"	success	Education	An act creating Perelos National High School by separating it from Valladolid National High School Extension and appropriating funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""The Valladolid National High School Extension in Barangay Perelos, Municipality of Carcar, Province of Cebu, is hereby separated from the Valladolid National High School and converted into an independent national high school to be known as the Perelos National High School.""}, {""title"": ""Section 2."", ""summary"": ""The Department of Education, Culture and Sports shall issue rules and regulations necessary to carry out the provisions of this Act.""}, {""title"": ""Section 3."", ""summary"": ""All personnel, assets, liabilities and records of the Valladolid National High School Extension are transferred to and absorbed by the Perelos National High School.""}, {""title"": ""Section 4."", ""summary"": ""The necessary amount for implementation of this Act shall be charged against the current year's appropriations of the Perelos National High School under the DOE and thereafter in the annual General Appropriations Act.""}, {""title"": ""Section 5."", ""summary"": ""This Act shall take effect upon its approval.""}]"	8859	August 22, 2000	"[{""name"": ""FRANKLIN M. DRILON"", ""title"": ""President of Senate""}, {""name"": ""MANUEL B. VILLAR JR."", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""OSCAR G. YABES"", ""title"": ""Secretary of Senate""}, {""name"": ""ROBERTO P. NAZARENO"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""JOSEPH E. ESTRADA"", ""title"": ""President of the Philippines""}]"	To separate the Valladolid National High School Extension from its parent institution and establish it as an independent national high school, Perelos National High School, with appropriate funding and governance.	"[""Separation and conversion of Valladolid National High School Extension into Perelos National High School"", ""Issuance of rules and regulations by the Department of Education, Culture and Sports"", ""Transfer of personnel, assets, liabilities, and records to the new school"", ""Appropriation of funds for implementation from current year's appropriations and General Appropriations Act"", ""Effectivity of the act upon approval""]"		"[""Education"", ""School"", ""Local Government"", ""Philippines""]"	"[""Valladolid National High School"", ""Perelos National High School"", ""Carcar"", ""Cebu"", ""Department of Education"", ""Appropriations""]"
+repacts:datasets/markdown/repacts/2000/ra_8860_2000.md	repacts	2000		datasets/markdown/repacts/2000/ra_8860_2000.md	ra_8860_2000	AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN THE MUNICIPALITY OF STA. ANA, PROVINCE OF PAMPANGA TO BE KNOWN AS THE STA. ANA NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR	"Eleventh Congress
+
+ **[ REPUBLIC ACT NO. 8860, August 22, 2000 ]**
+
+ **AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN THE MUNICIPALITY OF STA. ANA, PROVINCE OF PAMPANGA TO BE KNOWN AS THE STA. ANA NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.***Establishment of the National High School.*- There shall be established a national high school in the Municipality of Sta. Ana, Province of Pampanga to be known as the Sta. Ana National High School.
+
+ **Section 2.***Implementing Rules and Regulations.*- The Secretary of the Department of Education, Culture and Sports shall issue and publish rules and regulations necessary for the effective implementation of this Act.
+
+ **Section 3.***Appropriation.*- The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.***Effectivity.*- This Act shall take effect upon its approval.
+
+ Approved, August 22, 2000.
+
+ | (Sgd.) **FRANKLIN M. DRILON** President of Senate | (Sgd.) **MANUEL B. VILLAR JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on February 16, 2000 and May 22, 2000, respectively.
+
+ | (Sgd.) **OSCAR G. YABES** Secretary of Senate | (Sgd.) **ROBERTO P. NAZARENO** Secretary General House of Representatives |
+
+ Approved: August 22, 2000
+
+ (Sgd.) **JOSEPH E. ESTRADA** President of the Philippines
+"	success	Education	This act establishes a national high school in Sta. Ana, Pampanga, known as Sta. Ana National High School, and appropriates funds for its operation.	"[{""title"": ""Section 1. Establishment of the National High School"", ""summary"": ""There shall be established a national high school in the Municipality of Sta. Ana, Province of Pampanga to be known as the Sta. Ana National High School.""}, {""title"": ""Section 2. Implementing Rules and Regulations"", ""summary"": ""The Secretary of the Department of Education, Culture and Sports shall issue and publish rules and regulations necessary for the effective implementation of this Act.""}, {""title"": ""Section 3. Appropriation"", ""summary"": ""The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.""}, {""title"": ""Section 4. Effectivity"", ""summary"": ""This Act shall take effect upon its approval.""}]"	REPUBLIC ACT NO. 8860	August 22, 2000			To establish Sta. Ana National High School and appropriate funds for its operation.	"[""Establishment of a national high school in Sta. Ana, Pampanga"", ""Issuance of implementing rules and regulations by the Department of Education, Culture and Sports"", ""Appropriation of necessary funds included in the General Appropriations Act"", ""Effectivity upon approval of the law""]"		"[""Education"", ""Public School"", ""Pampanga"", ""National High School""]"	"[""National High School"", ""Sta. Ana"", ""Pampanga"", ""Education Act"", ""Appropriation""]"
+repacts:datasets/markdown/repacts/2000/ra_8861_2000.md	repacts	2000		datasets/markdown/repacts/2000/ra_8861_2000.md	ra_8861_2000	AN ACT SEPARATING THE BECURAN NATIONAL HIGH SCHOOL-SAN BASILIO ANNEX IN BARANGAY SAN BASILIO, MUNICIPALITY OF STA. RITA, PROVINCE OF PAMPANGA FROM THE BECURAN NATIONAL HIGH SCHOOL IN THE MUNICIPALITY OF STA. RITA, PROVINCE OF PAMPANGA AND CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS THE SAN BASILIO NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"Eleventh Congress
+
+ **[ REPUBLIC ACT NO. 8861, August 22, 2000 ]**
+
+ **AN ACT SEPARATING THE BECURAN NATIONAL HIGH SCHOOL-SAN BASILIO ANNEX IN BARANGAY SAN BASILIO, MUNICIPALITY OF STA. RITA, PROVINCE OF PAMPANGA FROM THE BECURAN NATIONAL HIGH SCHOOL IN THE MUNICIPALITY OF STA. RITA, PROVINCE OF PAMPANGA AND CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS THE SAN BASILIO NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** The Becuran National High School-San Basilio Annex in Barangay San Basilio, Municipality of Sta. Rita, Province of Pampanga is hereby separated from the Becuran National High School in the Municipality of Sta. Rita, Province of Pampanga, and converted into an independent national high school to be known as the San Basilio National High School.
+
+ **Section 2.** The Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** All personnel, records, assets and liabilities of the Becuran National High School-San Basilio Annex are hereby transferred to and absorbed by the San Basilio National High School.
+
+ **Section 4.** The amount necessary to implement the provisions of this Act shall be charged against the current year's appropriations of Becuran National High School-San Basilio Annex. Thereafter, such sums as may be necessary for the continuous operation and maintenance of the San Basilio National High School shall be included in the annual General Appropriations Act.
+
+ **Section 5.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **FRANKLIN M. DRILON** President of Senate | (Sgd.) **MANUEL B. VILLAR JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on February 16, 2000 and June 8, 2000, respectively.
+
+ | (Sgd.) **OSCAR G. YABES** Secretary of Senate | (Sgd.) **ROBERTO P. NAZARENO** Secretary General House of Representatives |
+
+ Approved: August 22, 2000
+
+ (Sgd.) **JOSEPH E. ESTRADA** President of the Philippines
+"	success	Education	The act separates the Becuran National High School-San Basilio Annex from the main school and converts it into an independent national high school named San Basilio National High School, providing appropriate funding and regulations for its operation.	"[{""title"": ""Section 1."", ""summary"": ""The Becuran National High School-San Basilio Annex is separated from the main school and converted into an independent national high school named San Basilio National High School.""}, {""title"": ""Section 2."", ""summary"": ""The Department of Education, Culture and Sports shall issue necessary rules and regulations to carry out the purpose of the act.""}, {""title"": ""Section 3."", ""summary"": ""All personnel, records, assets and liabilities of the annex are transferred and absorbed by the new school.""}, {""title"": ""Section 4."", ""summary"": ""Funding to implement the act is charged against the annex's appropriations; ongoing operations will be included in the General Appropriations Act.""}, {""title"": ""Section 5."", ""summary"": ""The act shall take effect upon its approval.""}]"	8861	August 22, 2000	"[{""name"": ""FRANKLIN M. DRILON"", ""title"": ""President of Senate""}, {""name"": ""MANUEL B. VILLAR JR."", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""OSCAR G. YABES"", ""title"": ""Secretary of Senate""}, {""name"": ""ROBERTO P. NAZARENO"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""JOSEPH E. ESTRADA"", ""title"": ""President of the Philippines""}]"	To separate the Becuran National High School-San Basilio Annex from the main school and convert it into an independent national high school named San Basilio National High School, thereby enhancing access to secondary education in the region.	"[""Separation of the annex and conversion into an independent school"", ""Department of Education to issue regulations"", ""Transfer of personnel, records, assets and liabilities"", ""Funding appropriation for implementation and operation"", ""Effectivity upon approval""]"		"[""Education"", ""High School"", ""Pampanga"", ""Republic Act"", ""School Separation""]"	"[""Becuran National High School"", ""San Basilio"", ""Annex"", ""Independent National High School"", ""Pampanga"", ""Education"", ""Republic Act 8861""]"
+repacts:datasets/markdown/repacts/2000/ra_8862_2000.md	repacts	2000		datasets/markdown/repacts/2000/ra_8862_2000.md	ra_8862_2000	AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY KAKIDUGUEN, MUNICIPALITY OF KASIBU, PROVINCE OF NUEVA VIZCAYA TO BE KNOWN AS THE KAKIDUGUEN NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR	"Eleventh Congress
+
+ **[ REPUBLIC ACT NO. 8862, August 22, 2000 ]**
+
+ **AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY KAKIDUGUEN, MUNICIPALITY OF KASIBU, PROVINCE OF NUEVA VIZCAYA TO BE KNOWN AS THE KAKIDUGUEN NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** There shall be established, under the supervision of the Department of Education, Culture and Sports, a national high school in Barangay Kakiduguen, Municipality of Kasibu, Province of Nueva Vizcaya, to be known as the Kakiduguen National High School.
+
+ **Section 2.** The Secretary of Education, Culture and Sports shall promulgate the necessary rules and regulations for the effective implementation of this Act.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **FRANKLIN M. DRILON** President of Senate | (Sgd.) **MANUEL B. VILLAR JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on March 9, 1999 and June 5, 2000, respectively.
+
+ | (Sgd.) **OSCAR G. YABES** Secretary of Senate | (Sgd.) **ROBERTO P. NAZARENO** Secretary General House of Representatives |
+
+ Approved: August 22, 2000
+
+ (Sgd.) **JOSEPH E. ESTRADA** President of the Philippines
+"	success	Education	This act establishes the Kakiduguen National High School in Barangay Kakiduguen, Municipality of Kasibu, Nueva Vizcaya and appropriates funds for its operation.	"[{""title"": ""Section 1"", ""summary"": ""Establishment of the Kakiduguen National High School under the supervision of the Department of Education, Culture and Sports.""}, {""title"": ""Section 2"", ""summary"": ""The Secretary of Education, Culture and Sports shall promulgate the necessary rules and regulations for effective implementation of the act.""}, {""title"": ""Section 3"", ""summary"": ""The funds necessary for implementation shall be included in the General Appropriations Act of the year following the act's enactment.""}, {""title"": ""Section 4"", ""summary"": ""The act shall take effect upon its approval.""}]"	8862	August 22, 2000			To establish a national high school in Barangay Kakiduguen and appropriate funds for its establishment and operation.	"[""Establishment of the Kakiduguen National High School"", ""Secretary of Education to promulgate rules and regulations"", ""Funding to be included in the next General Appropriations Act"", ""Effective upon approval""]"		"[""Education"", ""Public School"", ""Kakiduguen"", ""Nueva Vizcaya""]"	"[""National High School"", ""Kakiduguen"", ""Nueva Vizcaya"", ""Education"", ""Appropriations""]"
+repacts:datasets/markdown/repacts/2000/ra_8863_2000.md	repacts	2000		datasets/markdown/repacts/2000/ra_8863_2000.md	ra_8863_2000	AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY BASCARAN, MUNICIPALITY OF SOLANO, PROVINCE OF NUEVA VIZCAYA TO BE KNOWN AS THE BASCARAN NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR	"Eleventh Congress
+
+ **[ REPUBLIC ACT NO. 8863, August 22, 2000 ]**
+
+ **AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY BASCARAN, MUNICIPALITY OF SOLANO, PROVINCE OF NUEVA VIZCAYA TO BE KNOWN AS THE BASCARAN NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** There shall be established, under the supervision of the Department of Education, Culture and Sports, a national high school in Barangay Bascaran, Municipality of Solano, Province of Nueva Vizcaya, to be known as the Bascaran National High School.
+
+ **Section 2.** The Secretary of Education, Culture and Sports shall promulgate the necessary rules and regulations for the effective implementation of this Act.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **FRANKLIN M. DRILON** President of Senate | (Sgd.) **MANUEL B. VILLAR JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on September 15, 1999 and June 5, 2000, respectively.
+
+ | (Sgd.) **OSCAR G. YABES** Secretary of Senate | (Sgd.) **ROBERTO P. NAZARENO** Secretary General House of Representatives |
+
+ Approved: August 22, 2000
+
+ (Sgd.) **JOSEPH E. ESTRADA** President of the Philippines
+"	success	Republic Act	This law establishes the Bascaran National High School in Barangay Bascaran, Solano, Nueva Vizcaya, and appropriates the necessary funds for its operation under the supervision of the Department of Education, Culture and Sports.	"[{""title"": ""Section 1"", ""summary"": ""Establishment of Bascaran National High School under the supervision of the Department of Education, Culture and Sports.""}, {""title"": ""Section 2"", ""summary"": ""Secretary of Education, Culture and Sports to promulgate rules and regulations for effective implementation.""}, {""title"": ""Section 3"", ""summary"": ""Funding for the Act to be included in the General Appropriations Act of the following year.""}, {""title"": ""Section 4"", ""summary"": ""Act takes effect upon approval.""}]"	8863	August 22, 2000	"[{""name"": ""FRANKLIN M. DRILON"", ""title"": ""President of Senate""}, {""name"": ""MANUEL B. VILLAR JR."", ""title"": ""Speaker of the House of Representatives""}]"		To establish a national high school in Barangay Bascaran, Solano, Nueva Vizcaya, and appropriate funds for its operation.	"[""Establishment of Bascaran National High School."", ""Secretary of Education, Culture and Sports to promulgate rules and regulations."", ""Funding to be included in the General Appropriations Act of the following year."", ""Act takes effect upon approval.""]"		"[""Education"", ""School"", ""Nueva Vizcaya"", ""Bascaran National High School""]"	"[""national high school"", ""Bascaran"", ""Nueva Vizcaya"", ""education"", ""funding"", ""appropriations""]"
+repacts:datasets/markdown/repacts/2000/ra_8864_2000.md	repacts	2000		datasets/markdown/repacts/2000/ra_8864_2000.md	ra_8864_2000	AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY CAMAYAAN, MUNICIPALITY OF LOBOC, PROVINCE OF BOHOL, TO BE KNOWN AS CAMAYAAN NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR	"Eleventh Congress
+
+ **[ REPUBLIC ACT NO. 8864, August 22, 2000 ]**
+
+ **AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY CAMAYAAN, MUNICIPALITY OF LOBOC, PROVINCE OF BOHOL, TO BE KNOWN AS CAMAYAAN NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** There shall be established under the direct supervision of the Department of Education, Culture and Sports, a national high school in Barangay Camayaan, Municipality of Loboc, Province of Bohol to be known as Camayaan National High School.
+
+ **Section 2.** The Secretary of the Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **FRANKLIN M. DRILON** President of Senate | (Sgd.) **MANUEL B. VILLAR JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on September 15, 1999 and May 22, 2000, respectively.
+
+ | (Sgd.) **OSCAR G. YABES** Secretary of Senate | (Sgd.) **ROBERTO P. NAZARENO** Secretary General House of Representatives |
+
+ Approved: August 22, 2000
+
+ (Sgd.) **JOSEPH E. ESTRADA** President of the Philippines
+"	success	Education	Establishes Camayaan National High School in Bohol and appropriates funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""A national high school will be established in Barangay Camayaan, Municipality of Loboc, Province of Bohol, under the supervision of the Department of Education, Culture and Sports.""}, {""title"": ""Section 2."", ""summary"": ""The Secretary of the Department of Education, Culture and Sports shall issue rules and regulations necessary to carry out the purposes of the Act.""}, {""title"": ""Section 3."", ""summary"": ""The necessary amount to carry out the provisions of the Act shall be included in the General Appropriations Act of the following year after its enactment.""}, {""title"": ""Section 4."", ""summary"": ""The Act shall take effect upon its approval.""}]"	8864	August 22, 2000	"[{""name"": ""FRANKLIN M. DRILON"", ""title"": ""President of Senate""}, {""name"": ""MANUEL B. VILLAR JR."", ""title"": ""Speaker of the House of Representatives""}]"		To establish a national high school in Barangay Camayaan, Loboc, Bohol, and appropriate funds for its operation.	"[""Establishment of a national high school in Barangay Camayaan, Loboc, Bohol."", ""Issuance of rules and regulations by the Secretary of DEDC to implement the Act."", ""Funding included in the General Appropriations Act of the following year."", ""Act takes effect upon approval.""]"		"[""Education"", ""High School"", ""Bohol"", ""Republic Act"", ""Public School""]"	"[""Camayaan National High School"", ""Bohol"", ""Department of Education"", ""General Appropriations Act"", ""August 22 2000""]"
+repacts:datasets/markdown/repacts/2000/ra_8865_2000.md	repacts	2000		datasets/markdown/repacts/2000/ra_8865_2000.md	ra_8865_2000	AN ACT CONVERTING THE BILAR HIGH SCHOOL, MUNICIPALITY OF BILAR, PROVINCE OF BOHOL INTO A NATIONAL HIGH SCHOOL TO BE KNOWN AS THE BILAR NATIONAL HIGH SCHOOL, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES	"Eleventh Congress
+
+ **[ REPUBLIC ACT NO. 8865, August 22, 2000 ]**
+
+ **AN ACT CONVERTING THE BILAR HIGH SCHOOL, MUNICIPALITY OF BILAR, PROVINCE OF BOHOL INTO A NATIONAL HIGH SCHOOL TO BE KNOWN AS THE BILAR NATIONAL HIGH SCHOOL, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** The Bilar High School of the Municipality of Bilar, Province of Bohol is hereby converted into a national high school to be known as the Bilar National High School under the direct supervision of the Department of Education, Culture and Sports.
+
+ **Section 2.** The Secretary of the Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **FRANKLIN M. DRILON** President of Senate | (Sgd.) **MANUEL B. VILLAR JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on April 4, 2000 and June 8, 2000, respectively.
+
+ | (Sgd.) **OSCAR G. YABES** Secretary of Senate | (Sgd.) **ROBERTO P. NAZARENO** Secretary General House of Representatives |
+
+ Approved: August 22, 2000
+
+ (Sgd.) **JOSEPH E. ESTRADA** President of the Philippines
+"	success	Education	The Act converts Bilar High School in Bohol into Bilar National High School, appropriates funds for its operation, and authorizes the Department of Education, Culture and Sports to issue necessary rules and regulations. The Act takes effect upon approval and is funded through the General Appropriations Act of the following year.	"[{""title"": ""Section 1"", ""summary"": ""The Bilar High School is converted into Bilar National High School under the supervision of the Department of Education, Culture and Sports.""}, {""title"": ""Section 2"", ""summary"": ""The Secretary of the Department of Education, Culture and Sports shall issue rules and regulations necessary to carry out the Act.""}, {""title"": ""Section 3"", ""summary"": ""The necessary funds are to be included in the General Appropriations Act of the year following the Act's enactment.""}, {""title"": ""Section 4"", ""summary"": ""The Act shall take effect upon its approval.""}]"	8865	August 22, 2000	"[{""name"": ""FRANKLIN M. DRILON"", ""title"": ""President of Senate""}, {""name"": ""MANUEL B. VILLAR JR."", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""OSCAR G. YABES"", ""title"": ""Secretary of Senate""}, {""name"": ""ROBERTO P. NAZARENO"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""JOSEPH E. ESTRADA"", ""title"": ""President of the Philippines""}]"	To convert Bilar High School into a national high school and appropriate funds for its operation.	"[""Conversion of Bilar High School into Bilar National High School"", ""Appropriation of funds for the school"", ""Issuance of rules and regulations by the Secretary of DECS"", ""Funding provided through the following year's General Appropriations Act"", ""Effectiveness upon approval""]"		"[""Education"", ""School"", ""Bohol"", ""National High School""]"	"[""Bilar"", ""National High School"", ""Appropriation"", ""Education"", ""Department of Education, Culture and Sports""]"
+repacts:datasets/markdown/repacts/2000/ra_8866_2000.md	repacts	2000		datasets/markdown/repacts/2000/ra_8866_2000.md	ra_8866_2000	AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL AT MADATAG, MUNICIPALITY OF KABUGAO, PROVINCE OF APAYAO TO BE KNOWN AS MAYOR BARTOLOME SERUT NATIONAL AGRICULTURAL AND TRADE HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"Eleventh Congress
+
+ **[ REPUBLIC ACT NO. 8866, August 22, 2000 ]**
+
+ **AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL AT MADATAG, MUNICIPALITY OF KABUGAO, PROVINCE OF APAYAO TO BE KNOWN AS MAYOR BARTOLOME SERUT NATIONAL AGRICULTURAL AND TRADE HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** There shall be established a national high school at Madatag, Municipality of Kabugao, Province of Apayao to be known as Mayor Bartolome Serut National Agricultural and Trade High School.
+
+ **Section 2.** The school shall offer secondary education proper as well as other vocational courses to carry out its objectives as may be authorized by the Secretary of the Department of Education, Culture and Sports (DECS) and in coordination with the Technical Education and Skills Development Authority (TESDA) and other appropriate offices and agencies.
+
+ **Section 3.** The Department of Education, Culture and Sports shall issue rules and regulations as may be necessary to carry out the provisions of this Act.
+
+ **Section 4.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 5.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **FRANKLIN M. DRILON** President of Senate | (Sgd.) **MANUEL B. VILLAR JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on March 9, 1999 and June 5, 2000, respectively.

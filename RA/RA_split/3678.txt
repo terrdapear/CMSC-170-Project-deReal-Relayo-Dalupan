@@ -1,0 +1,174 @@
+
+ | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of Senate | (SGD.)**MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved: APR 16 2022
+
+ (SGD.)**RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	Republic Act No. 11704 increases the bed capacity of the Dr. Paulino J. Garcia Memorial Research and Medical Center from 400 to 1,000 beds, upgrades its facilities and workforce, and appropriates necessary funds, while repealing inconsistent laws and taking effect 15 days after publication.	"[{""title"": ""Section 1"", ""summary"": ""The bed capacity of the Dr. Paulino J. Garcia Memorial Research and Medical Center (PJGMRMC) shall be increased from four hundred (400) to one thousand (1,000) beds. Any future increase in bed capacity shall be consistent with the hospital development plan which shall be prepared by the Department of Health (DOH).""}, {""title"": ""Section 2"", ""summary"": ""The existing professional health care services and facilities of the PJGMRMC are also hereby upgraded to conform with and be commensurate to the increase in bed capacity as provided for in Section 1.""}, {""title"": ""Section 3"", ""summary"": ""The existing workforce of the PJGMRMC, including doctors, nurses, and support personnel, shall also be increased correspondingly. The Secretary of the DOH shall, after consultation with the Chief of the PJGMRMC, and in coordination with the Secretary of the Department of Budget and Management and the Commissioner of the Civil Service Commission, determine the additional new positions to be created and filled up.""}, {""title"": ""Section 4"", ""summary"": ""The Secretary of the DOH shall immediately include in the Department's program the implementation of this Act, the funding of which shall be included in the annual General Appropriations Act.""}, {""title"": ""Section 5"", ""summary"": ""If any provision or part of this Act is declared unconstitutional, the remaining parts or provisions not affected shall remain in full force and effect.""}, {""title"": ""Section 6"", ""summary"": ""All laws, executive orders, issuances, and rules and regulations inconsistent with this Act are hereby repealed or modified accordingly.""}, {""title"": ""Section 7"", ""summary"": ""This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.""}]"	11704	April 16, 2022			To increase the bed capacity and upgrade services of the Dr. Paulino J. Garcia Memorial Research and Medical Center, thereby improving healthcare delivery in Cabanatuan, Nueva Ecija.	"[""Increase bed capacity from 400 to 1,000."", ""Upgrade professional health care services and facilities."", ""Increase workforce correspondingly."", ""Include implementation and funding in the DOH program and General Appropriations Act."", ""Provide for partial invalidity if unconstitutional."", ""Repeal or modify inconsistent laws, executive orders, issuances, and regulations."", ""Take effect 15 days after publication.""]"	All laws, executive orders, issuances, and rules and regulations inconsistent with this Act are repealed or modified accordingly.	"[""Healthcare"", ""Hospital"", ""Bed Capacity"", ""Philippines"", ""Republic Act""]"	"[""Dr. Paulino J. Garcia Memorial Research and Medical Center"", ""Cabanatuan"", ""Nueva Ecija"", ""bed capacity"", ""healthcare services"", ""Department of Health"", ""National Health Policy"", ""Republic Act 11704""]"
+repacts:datasets/markdown/repacts/2022/ra_11705_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11705_2022.md	ra_11705_2022	AN ACT ESTABLISHING IN THE CITY OF CANDON, PROVINCE OF ILOCOS SUR, A TERTIARY HOSPITAL TO BE KNOWN AS THE ILOCOS SUR MEDICAL CENTER, AND APPROPRIATING FUNDS THEREFOR	"Eighteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-sixth day of July, two thousand twenty one.*
+
+ **[ REPUBLIC ACT NO. 11705, April 16, 2022 ]**
+
+ **AN ACT ESTABLISHING IN THE CITY OF CANDON, PROVINCE OF ILOCOS SUR, A TERTIARY HOSPITAL TO BE KNOWN AS THE ILOCOS SUR MEDICAL CENTER, AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** There shall be established in the City of Candon, Province of Ilocos Sur a tertiary hospital, to be known as the Ilocos Sur Medical Center, which shall be under the direct control and supervision of the Department of Health (DOH).
+
+ **Section 2.** The DOH shall develop a hospital development plan to define the service capacity, development goals and targets of the hospital. Any future increase in bed capacity and upgrading of health care facilities, service capability, and human resource complement shall be based on the hospital development plan.
+
+ **Section 3.** The DOH shall consult the local government units in the Province of Ilocos Sur and the City of Candon, and the other stakeholders in determining the site of the hospital.
+
+ **Section 4.** The Secretary of the DOH shall immediately include in the Department's program the implementation of this Act, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 5.** If any provision or part of this Act is declared unconstitutional, the remaining parts or provisions not affected shall remain in full force and effect.
+
+ **Section 6.** All laws, executive orders, issuances, and rules and regulations inconsistent with this Act are hereby repealed or modified accordingly.
+
+ **Section 7.** This Act shall take effect fifteen (15) days after its publication in theOfficial Gazetteor in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.)**VICENTE C. SOTTO III** President of Senate | (SGD.)**LORD ALLAN JAY Q. VELASCO** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on January 20, 2021 and January 31, 2022, respectively.
+
+ | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of Senate | (SGD.)**MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved: APR 16 2022
+
+ (SGD.)**RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	Establishes the Ilocos Sur Medical Center in Candon, Ilocos Sur, under the Department of Health, with a development plan, site selection, and funding, repealing inconsistent laws and effective 15 days after publication.	"[{""title"": ""Section 1"", ""summary"": ""Establishes the Ilocos Sur Medical Center as a tertiary hospital under DOH control.""}, {""title"": ""Section 2"", ""summary"": ""DOH to develop a hospital development plan for capacity, goals, and targets.""}, {""title"": ""Section 3"", ""summary"": ""DOH to consult local governments and stakeholders for site selection.""}, {""title"": ""Section 4"", ""summary"": ""DOH to include the hospital in its program and fund it through the General Appropriations Act.""}, {""title"": ""Section 5"", ""summary"": ""Unconstitutional provisions are severed, leaving the rest in force.""}, {""title"": ""Section 6"", ""summary"": ""Repeals or modifies laws, executive orders, issuances, and regulations inconsistent with this Act.""}, {""title"": ""Section 7"", ""summary"": ""Effective 15 days after publication in the Official Gazette or a newspaper of general circulation.""}]"	11705	April 16, 2022	"[{""name"": ""MYRA MARIE D. VILLARICA"", ""title"": ""Secretary of Senate""}, {""name"": ""MARK LLANDRO L. MENDOZA"", ""title"": ""Secretary General House of Representatives""}]"		To establish a tertiary hospital in Candon, Ilocos Sur, improving healthcare access and services for the region.	"[""Establishment of Ilocos Sur Medical Center"", ""DOH development plan for hospital capacity and goals"", ""Consultation with LGUs and stakeholders for site selection"", ""Inclusion of hospital funding in DOH program and GAAs"", ""Repeal or modification of inconsistent laws, executive orders, issuances, and regulations"", ""Effective 15 days after publication"", ""Severance of unconstitutional provisions""]"	Repeals or modifies any laws, executive orders, issuances, and rules and regulations inconsistent with this Act	"[""Health"", ""Hospital"", ""Ilocos Sur"", ""DOH"", ""Republic Act 11705""]"	"[""Ilocos Sur Medical Center"", ""tertiary hospital"", ""Department of Health"", ""hospital development plan"", ""funding"", ""public health"", ""Ilocos Sur"", ""Candon""]"
+repacts:datasets/markdown/repacts/2022/ra_11706_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11706_2022.md	ra_11706_2022	"AN ACT PROVIDING FOR THE ESTABLISHMENT OF TIMBANGAN NG BAYAN CENTERS IN PUBLIC AND PRIVATE MARKETS, AMENDING FOR THE PURPOSE CHAPTER II, TITLE III OF REPUBLIC ACT NO. 7394, OTHERWISE KNOWN AS THE ""CONSUMER ACT OF THE PHILIPPINES"""	"Eighteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-sixth day of July, two thousand twenty one.*
+
+ **[ REPUBLIC ACT NO. 11706, April 13, 2022 ]**
+
+ **AN ACT PROVIDING FOR THE ESTABLISHMENT OF TIMBANGAN NG BAYAN CENTERS IN PUBLIC AND PRIVATE MARKETS, AMENDING FOR THE PURPOSE CHAPTER II, TITLE III OF REPUBLIC ACT NO. 7394, OTHERWISE KNOWN AS THE ""CONSUMER ACT OF THE PHILIPPINES""**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** Chapter II, Title III of Republic Act No. 7394, otherwise known as the ""*Consumer Act of the Philippines*"", is hereby amended to read as follows:
+
+ > **""CHAPTER II ""Regulation of Practices Relative to Weights and Measures**
+>
+>  ""General Provision
+>
+>  ""ARTICLE 61. x x x
+>
+>  ""ARTICLE 62. x x x
+>
+>  ""ARTICLE 62-A. Establishment of Timbangan ng Bayan Centers. - All provincial, city and municipal governments shall establish accessible Timbangan ng Bayan Centers in all public and private markets, including supermarkets, and when practicable, in flea markets ortianggesand grocery stores, within their respective localities.
+>
+>  ""These centers must have the necessary instruments for determining weights and measures, which shall be available, free of charge, to all persons who need to confirm the accuracy of the quantity or measurements of products purchased or about to be purchased.
+>
+>  ""The marker supervisor shall be in charge of the safekeeping and routine maintenance of the Timbangan ng Bayan instruments and shall be responsible for maintaining a record of every product found to be deficient in quantity or is substandard in dimension, as well as the establishment where the same was bought including the name/s of the proprietor/s or manager/s thereof. A certification duly issued by the marker supervisor or his/her authorized representative reflecting the contents of such record shall beprima facieevidence of a violation of Article 64 of this Act.
+>
+>  ""The prohibited acts provided under Article 64 of this Act shall likewise apply to Timbangan ng Bayan instruments.""
+>
+>  ""ARTICLE 62-B. *Coverage.* - The market mentioned in Article 62-A of this Act, which refers to a public place, building, or structure, where goods, merchandise, foodstuff, commodities or articles of commerce are displayed and offered for sale to the general public, includes the following:
+>
+>  ""a) *Flea market or tiangge* - a temporary market where goods, merchandise, or food products are sold; ""b) *Grocery store* - a retail shop that primarily sells food and household items in a specific community; and ""c) *Supermarket* - a market larger than a grocery store in which shoppers serve themselves by using baskets or pushcarts in selecting commodities from shelves or cold display storages and paying for their purchases at the exit."" ""ARTICLE 62-C. *Assistance to Provincial, City and Municipal Governments.* - The Department of Trade and Industry shall provide assistance to provinces, cities and municipalities in the establishments of Timbangan ng Bayan Centers nationwide:*Provided,*That priority shall be accorded to provinces, cities and municipalities belonging to the fourth-, fifth- and sixth-income classifications.""
+>
+>  ""ARTICLE 63. x x x
+>
+>  ""Prohibited Acts
+>
+>  ""ARTICLE 64. *Fraudulent Practices Relative to Weights and Measures.* - The following acts relating to weights and measures are prohibited:
+>
+>  ""x x x
+>
+>  ""h) for any person to fraudulently alter, tamper, vandalize or destroy any scale, balance, timbangan ng bayan instrument, weight or measure after it is officially sealed;
+>
+>  ""x x x.""
+>
+>  ""ARTICLE 65. *Penalties.* -
+>
+>  ""a) Any person who shall violate the provisions of paragraphs (a) to (g) and paragraph (l) of Article 64 of this Act or its implementing rules and regulations shall, upon conviction, be subject to a fine of not less than Fifty thousand pesos (P50,000.00) but not more than Three hundred thousand pesos (P300,000.00) or by imprisonment of not less than one (1) year but not more than five (5) years or both upon the discretion of the court. ""b) The owner, possessor or user of instruments of weights and measures enumerated in paragraphs (h) to (k) of Article 64 of this Act shall, upon conviction, be subject to a fine of not less than Fifty thousand pesos (P50,000.00) but not more than Three hundred thousand pesos (P300,000.00) or by imprisonment of not less than one (1) year but not more than five (5) years or both upon the discretion of the court:*Provided,*That two (2) successive violations of Article 64 of this Act shall, when applicable, automatically result in the cancellation of the business permit of the erring individual or business establishment.""
+
+ **Section 2.***Implementing Rules and Regulations.* -Within ninety (90) days from the effectivity of this Act, the Department of the Interior and Local Government and the Department of Trade and Industry shall, in coordination with the Union of Local Authorities of the Philippines, the League of Provinces of the Philippines, the League of Cities of the Philippines, the League of Municipalities of the Philippines, and other relevant government agencies and stakeholders, promulgate the rules and regulations to effectively implement the provisions of this Act.
+
+ **Section 3.***Appropriations.* -The amount necessary to carry out the provisions of the new Article 62-A of the Consumer Act of the Philippines shall be charged against the national tax allotment and other funds of the local government unit concerned.
+
+ **Section 4.***Separability Clause.* -If any provision, section or part of this Act shall be declared unconstitutional or invalid, such judgment shall not affect, invalidate or impair any other provisions, sections or parts thereof.
+
+ **Section 5.***Repealing Clause.* -All laws, decrees, orders, rules or regulations which are inconsistent with the provisions of this Act is hereby repealed, or modified accordingly.
+
+ **Section 6.***Effectivity.* -The Act shall take effect fifteen (15) days folowing its publication in at least two (2) newspapers of general circulation or in theOfficial Gazette.
+
+ Approved,
+
+ | (SGD.)**LORD ALLAN JAY Q. VELASCO** Speaker of the House of Representatives | (SGD.) **VICENTE C. SOTTO III** President of the Senate |
+
+ This Act which is a consolidation of Senate Bill No. 1241 and House Bill No. 3255 was passed by the Senate of the Philippines and the House of Representatives on January 31, 2022 and February 2, 2022, respectively.
+
+ | (SGD.) **MARK LLANDRO L. MENDOZA** Secretary General House of Representatives | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate |
+| --- | --- |
+| (SGD.) **MARK LLANDRO L. MENDOZA** Secretary General House of Representatives | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate |
+
+ Approved: APR 13 2022
+
+ (SGD.)**RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	This act establishes Timbangan ng Bayan centers in public and private markets to ensure accurate weights and measures, amending Chapter II, Title III of Republic Act No. 7394 (the Consumer Act of the Philippines). It mandates free instruments, defines coverage, sets marker supervisor duties, outlines penalties, and provides for implementing rules and appropriations.	"[{""title"": ""Section 1"", ""summary"": ""Amends Chapter II, Title III of RA 7394 to add Article 62-A establishing Timbangan ng Bayan centers, outlines coverage (flea markets, grocery stores, supermarkets), marker supervisor duties, and penalties for violations.""}, {""title"": ""Section 2"", ""summary"": ""Provides for the promulgation of implementing rules and regulations within 90 days by relevant government agencies.""}, {""title"": ""Section 3"", ""summary"": ""Allocates necessary funds from national tax allotment and local government units for implementation.""}, {""title"": ""Section 4"", ""summary"": ""Separability clause stating invalidity of any provision does not affect others.""}, {""title"": ""Section 5"", ""summary"": ""Repealing clause repealing laws inconsistent with this act.""}]"	11706	April 13, 2022			To establish Timbangan ng Bayan centers across markets and amend the Consumer Act to improve accuracy in weights and measures.	"[""Establishment of Timbangan ng Bayan centers in all public and private markets"", ""Free access to measuring instruments for consumers"", ""Marker supervisor responsible for maintenance and record-keeping"", ""Coverage includes flea markets, grocery stores, and supermarkets"", ""Assistance from Department of Trade and Industry to local governments"", ""Prohibited acts and penalties for fraudulent practices"", ""Implementing rules and regulations to be promulgated within 90 days"", ""Appropriations for implementation""]"	Republic Act No. 7394	"[""Consumer Protection"", ""Weights and Measures"", ""Public Markets"", ""Philippines""]"	"[""Timbangan ng Bayan"", ""Consumer Act"", ""Weights and Measures"", ""Public Markets"", ""Philippines""]"
+repacts:datasets/markdown/repacts/2022/ra_11707_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11707_2022.md	ra_11707_2022	AN ACT DECLARING THE MUNICIPALITY OF SAN JOSE IN THE PROVINCE OF BATANGAS, AS THE EGG BASKET OF THE PHILIPPINES	"Eighteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-sixth day of July, two thousand twenty one.*
+
+ **[ REPUBLIC ACT NO. 11707, April 17, 2022 ]**
+
+ **AN ACT DECLARING THE MUNICIPALITY OF SAN JOSE IN THE PROVINCE OF BATANGAS, AS THE EGG BASKET OF THE PHILIPPINES**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.***Short Title.* -This Act shall be known as the ***Egg Basket Act.***
+
+ **Section 2.***Egg Basket of the Philippines.* -The Municipality of San Jose in the Province of Batangas is hereby declared as the Egg Basket of the Philippines in recognition of the economic significance of its egg industry in both local and national levels.
+
+ **Section 3.** *RepealingAct.* -Any law, presidential decree or issuance, executive order, letter of instruction, rule or regulation inconsistent or contrary to the provisions of this Act is hereby repealed or modified accordingly.
+
+ **Section 4.***Effectivity.* -This Act shall take effect fifteen (15) days after its publication in theOfficial Gazetteor in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **LORD ALLAN JAY Q. VELASCO** Speaker of the House of Representatives | (SGD.)**VICENTE C. SOTTO III** President of the Senate |
+| --- | --- |
+| (SGD.) **LORD ALLAN JAY Q. VELASCO** Speaker of the House of Representatives | (SGD.)**VICENTE C. SOTTO III** President of the Senate |
+
+ This Act was passed by the Senate of the Philippines as Senate Bill No. 2044 on January 31, 2022 and adopted by the House of Representatives as an amendment to House Bill No. 7660 on February 2, 2022.
+
+ | (SGD.) **MARK LLANDRO L. MENDOZA** Secretary General House of Representatives | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate |
+| --- | --- |
+| (SGD.) **MARK LLANDRO L. MENDOZA** Secretary General House of Representatives | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate |
+
+ Approved:Lapsed into law onApril 17 2022without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution,
+
+ **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	This act declares the Municipality of San Jose, Batangas as the Egg Basket of the Philippines, repeals inconsistent laws, and sets its effectivity.	"[{""title"": ""Section 1. Short Title"", ""summary"": ""The Act shall be known as the Egg Basket Act.""}, {""title"": ""Section 2. Egg Basket of the Philippines"", ""summary"": ""The Municipality of San Jose in the Province of Batangas is hereby declared as the Egg Basket of the Philippines.""}, {""title"": ""Section 3. Repealing Act"", ""summary"": ""Any law or regulation inconsistent with this Act is repealed or modified accordingly.""}, {""title"": ""Section 4. Effectivity"", ""summary"": ""This Act shall take effect fifteen days after its publication in the Official Gazette or a newspaper of general circulation.""}]"	11707	April 17, 2022	"[{""name"": ""LORD ALLAN JAY Q. VELASCO"", ""title"": ""Speaker of the House of Representatives""}, {""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}]"	"[{""name"": ""MARK LLANDRO L. MENDOZA"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""MYRA MARIE D. VILLARICA"", ""title"": ""Secretary of the Senate""}]"	To recognize San Jose as the Egg Basket of the Philippines and promote its egg industry.	"[""Declaration of San Jose as Egg Basket"", ""Repeal of inconsistent laws"", ""Effectivity after publication""]"	Repeals laws inconsistent with this Act	"[""Egg Basket"", ""San Jose"", ""Batangas"", ""Republic Act 11707""]"	"[""egg"", ""basket"", ""municipality"", ""San Jose"", ""Batangas"", ""economy"", ""agriculture""]"
+repacts:datasets/markdown/repacts/2022/ra_11708_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11708_2022.md	ra_11708_2022	AN ACT CREATING THE METROPOLITAN DAVAO DEVELOPMENT AUTHORITY, DEFINING ITS POWERS AND FUNCTIONS, AND PROVIDING FUNDS THEREFOR	"Eighteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-sixth day of July, two thousand twenty one.*
+
+ **[ REPUBLIC ACT NO. 11708, April 13, 2022 ]**
+
+ **AN ACT CREATING THE METROPOLITAN DAVAO DEVELOPMENT AUTHORITY, DEFINING ITS POWERS AND FUNCTIONS, AND PROVIDING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.***Short Title.* - This Act shall be known as the Metropolitan Davao Development Authority Act.
+
+ **Section 2.***Declaration of Policy.* - It is hereby declared the policy of the State to adopt a national dispersion through regional agglomeration strategy to revitalize large cities and eventually stir them to expand their physical areas for planning as well as their service areas for urban service delivery.
+
+ Considering the rapid urbanization of Davao City and the increasing population of the cities of Panabo, Tagum, and the Island Garden City of Samal (IgaCoS), in Davao del Norte; the City of Digos in Davao del Sur; and the City of Mati in Davao Oriental, and the spatial, functional, and economic interdependence of these cities with the municipalities of Sta. Cruz, Hagonoy, Padaa, Malalag, andSulop in Davao del Sur, Carmen in Davao del Norte, Maco in Davao de Oro, and Malita and Sta. Maria in Davao Occidental, it is likewise hereby declared the policy of the State to consider these local government units (LGUs) as a special development and administrative region, to be known as Metropolitan Davao.
+
+ **Section 3.***Creation of the Metropolitan Davao Development Authority.*- There is hereby created a special body to be known as the Metropolitan Davao Development Authority, hereinafter referred to as MDDA, which shall be organized within thirty (30) days after the approval of this Act, to coordinate and promote socioeconomic growth and sustainable development of Metropolitan Davao.
+
+ The MDDA shall execute the powers and functions herein vested which shall, however, in no way diminish the autonomy of the LGUs of Metropolitan Davao concerning purely local matters, within framework and subject to the mandate and limitations of the Constitution and the pertinent provisions of Republic Act No.7160, otherwise known as the Local Government Code of 1991.
+
+ **Section 4.***Jurisdiction of the Metropolitan Davao Development Authority.*- For the purposes of this Act, the MDDA shall have jurisdiction over Davao City; the cities of Panabo, Tagum, and the IGaCoS in Davao del Norte; the City of Digos in Davao del Sur; the City of Mati in Davao Oriental; and the municipalities of Sta. Cruz, Hagonoy, Padada, Malalag, and Sulop in Davao del Sur, Carmen in Davao del Norte, Maco in Davao de Oro, and Malita and Sta. Maria in Davao Occidental, and such other cities and municipalities as shall be created in the future within these LGUs as provided by law.
+
+ **Section 5.***Scope of the Metropolitan Davao Development Authority.* - The services of the MDDA are delivered across boundaries to multiple and often interdependent political entities whose activities impact each other significantly, and entail huge expenditures such that it would not be viable for said services to be provided by the individual LGUs. These services shall include:
+
+ (a) Development planning, which includes preparing medium-and-long-term development plans; developing, evaluating and packaging of projects; investments programming; and coordinating and monitoring plans, program and project implementations; (b) Transport management, which includes formulating, coordinating, and monitoring policies, standards, programs, and projects to rationalize the existing transport operations, infrastructure requirements, and promotion of safe and convenient movement of persons and goods; providing a mass transport system and instituting a system to regulate road users; administering and implementing all traffic enforcement operations, traffic engineering services and traffic education programs, including instituting a single ticketing system within the MDDA jurisdiction; (c) Solid waste disposal and management, which includes formulating and implementing policies, standards, programs, and projects for proper and sanitary waste disposal. It shall likewise include establishing and operating a sanitary landfill and related facilities, such as waste-to-energy technologies and implementing other alternative programs intended to reduce, reuse, and recycle solid waste; (d) Flood control and sewerage management, which include formulating and implementing policies, standards, programs, and projects for an integrated flood control, drainage, and sewerage system; (e) Urban renewal, zoning, land use planning, and shelter services, which include formulating, adopting and implementing policies, standards, rules and regulations, programs and projects to rationalize and optimize urban land use and provide direction to urban growth and expansion, rehabilitating and developing slums and blighted areas, developing shelter and housing facilities, and providing necessary social services thereof; (f) Health and sanitation, urban protection, and pollution control, which include formulating and implementing policies, rules regulations, standards, programs, and projects for promoting and safeguarding health and sanitation to enhance ecological balance and prevent, control, and abate environmental pollution; and (g) Public safety, which includes formulating and implementing programs, policies and procedures to achieve public safety, especially preparedness for preventive or rescue operations during times of calamity and disaster such as conflagration, earthquakes, flood; and coordinating and mobilizing resources and implementing contingency plans for rehabilitation and relief operations in coordination with national agencies concerned. **Section 6.***Functions of the Metropolitan Davao Development Authority.*- The MDDA shall exercise the following functions:

@@ -1,0 +1,146 @@
+
+ **Section 11. *Effectivity.*** - This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation.
+
+ Approved
+
+ | (Sgd.) **PROSPERO C. NOGRALES** Speaker of the House of Representatives | (Sgd.) **JUAN PONCE ENRILE** President of the Senate |
+"	success	Republic Act	The act designates the Philippine Normal University as the National Center for Teacher Education, appropriates funds for its modernization program, establishes research and development functions, and provides tax exemptions for its educational activities.	"[{""title"": ""Section 1. Short Title"", ""summary"": ""Establishes the short title of the act as \""Philippine Normal University Modernization Act of 2009\"".""}, {""title"": ""Section 2. Declaration of Policy"", ""summary"": ""Declares the state's priority to continue professional training and development of teachers, focusing on innovation and alternative systems.""}, {""title"": ""Section 3. National Center for Teacher Education"", ""summary"": ""Designates PNU as the National Center for Teacher Education and outlines its support functions to the Department of Education and CHED.""}, {""title"": ""Section 4. Teacher Education Standards Development"", ""summary"": ""Orders PNU to annually present proposed standards for teacher training and education to relevant government bodies and the public.""}, {""title"": ""Section 5. Education Policy Research and Development"", ""summary"": ""Establishes an office for policy research and development, responsible for database creation, model testing, dissemination of research, and advising policymakers.""}, {""title"": ""Section 6. Philippine Normal University Modernization Program"", ""summary"": ""Mandates PNU to prepare and submit a modernization plan to its Board of Regents, including curricular, staff development, and facility upgrades.""}, {""title"": ""Section 7. Tax Exemptions"", ""summary"": ""Provides tax exemptions for revenues and assets used for educational purposes and for gifts and donations.""}]"	9647	June 30, 2009			To establish the Philippine Normal University as the National Center for Teacher Education and to provide for its modernization and research functions.	"[""PNU designated as National Center for Teacher Education"", ""Appropriation of funds for modernization program"", ""Creation of an Education Policy Research and Development Office"", ""Annual presentation of teacher education standards"", ""Tax exemptions for educational activities""]"		"[""Education"", ""Teacher Training"", ""National Center"", ""PNU"", ""Philippines""]"	"[""Philippine Normal University"", ""National Center for Teacher Education"", ""modernization"", ""tax exemption"", ""policy research"", ""teacher development""]"
+repacts:datasets/markdown/repacts/2009/ra_9648_2009.md	repacts	2009		datasets/markdown/repacts/2009/ra_9648_2009.md	ra_9648_2009	AN ACT EXEMPTING FROM DOCUMENTARY STAMP TAX ANY SALE, BARTER OR EXCHANGE OF SHARES OF STOCK LISTED AND TRADED THROUGH THE STOCK EXCHANGE, FURTHER AMENDING FOR THE PURPOSE SECTION 199 OF THE NATIONAL INTERNAL REVENUE CODE OF 1997, AS AMENDED BY REPUBLIC ACT NO. 9243, AND FOR OTHER PURPOSES	"Fourteenth Congress Second Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-eighth day of July, two thousand eight.*
+
+ **REPUBLIC ACT No. 9648 June 30, 2009**
+
+ **AN ACT EXEMPTING FROM DOCUMENTARY STAMP TAX ANY SALE, BARTER OR EXCHANGE OF SHARES OF STOCK LISTED AND TRADED THROUGH THE STOCK EXCHANGE, FURTHER AMENDING FOR THE PURPOSE SECTION 199 OF THE NATIONAL INTERNAL REVENUE CODE OF 1997, AS AMENDED BY REPUBLIC ACT NO. 9243, AND FOR OTHER PURPOSES**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*:
+
+ **Section 1.** Section 199 of the National Internal Revenue Code of 1997, as amended by [Republic Act No. 9243](../../../statutes/repacts/ra2004/ra_9243_2004.html), is hereby further amended to read as follows:
+
+ ""SEC. 199. *Documents and Papers Not Subject to Stamp Tax.* - The provisions of Section 173 to the contrary notwithstanding, the following instruments, documents and papers shall be exempt from the documentary stamp tax: ""x x x ""(e) Sale, barter or exchange of shares of stock listed and traded through the local stock exchange."" **Section 2. *Implementing Rules and Regulations.*** - The Secretary of Finance shall promulgate and publish the necessary rules and regulations for the effective enforcement of this Act.
+
+ **Section 3. *Separability Clause.*** - If any provision of this Act is held unconstitutional or invalid, all other provisions not affected thereby shall remain valid.
+
+ **Section 4. *Repealing Clause.*** - All laws, decrees, executive orders, rules and regulations or parts thereof, which are inconsistent with this Act, are hereby repealed, amended or modified accordingly.
+
+ **Section 5. *Effectivity.*** - This Act shall take effect on March 20, 2009 or immediately upon the expiration of the five (5)-year exemption from the documentary stamp tax on the sale, barter or exchange of shares of stock listed and traded through the local stock exchange pursuant to Republic Act No. 9243.
+
+ Approved,
+
+ | (Sgd.) **JUAN PONCE ENRILE** President of the Senate | (Sgd.) **PROSPERO C. NOGRALES** Speaker of the House of Representatives |
+"	success	Republic Act	This Act amends Section 199 of the National Internal Revenue Code to exempt the sale, barter, or exchange of shares of stock listed and traded through the stock exchange from documentary stamp tax, and provides for implementing rules, separability, repealing clauses, and effectivity.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 199 of the NIRC to exempt documents, papers, and instruments related to the sale, barter, or exchange of shares of stock listed and traded through the local stock exchange from documentary stamp tax.""}, {""title"": ""Section 2"", ""summary"": ""Mandates the Secretary of Finance to promulgate and publish necessary rules and regulations for effective enforcement of the Act.""}, {""title"": ""Section 3"", ""summary"": ""States that if any provision is found unconstitutional or invalid, all other provisions remain valid (separability clause).""}, {""title"": ""Section 4"", ""summary"": ""Repeals, amends, or modifies all laws, decrees, executive orders, rules, and regulations inconsistent with this Act.""}, {""title"": ""Section 5"", ""summary"": ""The Act takes effect on March 20, 2009, or immediately upon the expiration of the five-year exemption period under Republic Act No. 9243.""}]"	RA 9648	June 30, 2009	"[{""name"": ""JUAN PONCE ENRILE"", ""title"": ""President of the Senate""}, {""name"": ""PROSPERO C. NOGRALES"", ""title"": ""Speaker of the House of Representatives""}]"		To exempt the sale, barter, or exchange of shares of stock listed and traded through the stock exchange from documentary stamp tax, thereby simplifying tax compliance for securities transactions.	"[""Exemption of documentary stamp tax for sale, barter, or exchange of shares of stock listed and traded through the stock exchange"", ""Amendment of Section 199 of the National Internal Revenue Code"", ""Implementation of rules and regulations by the Secretary of Finance"", ""Separability clause ensuring survivability of provisions"", ""Repealing clause for inconsistent laws"", ""Effectivity date March 20, 2009""]"	Section 199 of the National Internal Revenue Code of 1997, as amended by Republic Act No. 9243	"[""stamp tax"", ""shares"", ""stock exchange"", ""Republic Act"", ""National Internal Revenue Code""]"	"[""documentary stamp tax"", ""shares of stock"", ""stock exchange"", ""NIRC Section 199"", ""Republic Act 9648""]"
+repacts:datasets/markdown/repacts/2009/ra_9649_2009.md	repacts	2009		datasets/markdown/repacts/2009/ra_9649_2009.md	ra_9649_2009	AN ACT AMENDING REPUBLIC ACT NO. 5412, AS AMENDED, OTHERWISE KNOWN AS THE CHARTER OF THE CITY OF GENERAL SANTOS	"Fourteenth Congress Second Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-eighth day of July, two thousand eight.*
+
+ **REPUBLIC ACT No. 9649 July 07, 2009**
+
+ AN ACT AMENDING REPUBLIC ACT NO. 5412, AS AMENDED, OTHERWISE KNOWN AS THE CHARTER OF THE CITY OF GENERAL SANTOS
+
+ *Be it enacted by the Senate and House of Representative of the Philippines in Congress assembled:*
+
+ **Section 1.** Sections 98 and 101 of Republic Act No. 5412, as amended, are hereby further amended to read as follows:
+
+ **""Section 98.** All lands of the public domain having been ceded by the national government to the City of General Santos, the city shall exercise the rights and prerogatives over such lands in the concept of a beneficial owner. The disposition of all lands of the public domain within the city shall be in accordance with the provisions of Commonwealth Act No. 141, as amended, and all other pertinent laws, executive issuances, rules and regulations: *Provided,*That all incomes and receipts derived from such disposition, administration and management of all lands of the public domain shall accrue exclusively and to be turned over immediately without need of demand to the city as provided in this Act: *Provided, further,* That the city government shall at all times be consulted and informed of such disposition, administration and management: *Provided, finally,* That the city government shall concur prior to any disposition, administration and management of such public lands."" **Section 101.** *Ownership of Waterworks, Electric Light and Power and Telephone Systems, Roads, Streets, Etc.* - Any provisions of law to the contrary notwithstanding, all existing waterworks, electric light and power, and/or telephone systems presently operated by the Municipality of General Santos shall be owned by the city, and revenues therefrom shall accrue to the general fund of the city. ""All existing municipal and provincial roads, streets, bridges, docks, piers, wharves, machineries, equipment and other public works improvements shall be owned by the city, and the funds and assets of the Municipality of Genral Santos shall be owned by the city and its liabilities shall be assumed by the city, any provision of law to the contrary notwithstanding. ""Notwithstanding the provisions of Republic Act Nos. 8371, 7916 and 6657, as amended, the city government shall be informed and its concurrence shall be sought on all matters relating to lands by agencies of government concerned, which the city council determines for the use of the city."" **Section 2.** Republic Act No. 5412, as amended, is hereby further amended to add a new Section 101-A as follows:
+
+ **""Section 101-A.** Establishement and/or operation of any form of gambling authorized under existing laws such as, but not limited to, Presidential Decree Nos. 420, 1869 and Republic Act No. 1169, as amended, and the city shall not be allowed except upon prior concurrence of the City Government of General Santos."" **Section 3.** Within sixty (60) days from the date of the effectivity of this Act, all concerned agencies of the government shall submit comprehensive and detailed report of all dispositions of public lands in the city to the City Government.
+
+ **Section 4.** The provisions of this Act rendered ineffective by virtue by virtue of Republic Act No. 7160 or the Local Government Code, as amended, specifically paragraph (f), Section 534 thereof, are hereby deemed repealed and superseded accordingly.
+
+ **Section 5.** Any person who shall violate the provisions of this Act shall in addition to the administrative, civil or criminal liability imposable under other existing laws, suffer the penalty of six (6) months imprisonment: *Provided,* That in the case of a government official or personnel, he/she shall likewise suffer the penalty of perpetual disqualification to hold public office.
+
+ **Section 6.** If any provision or part hereof is held invalid or unconstitutional, the remainder of the law or the provision not otherwise affected shall remain valid and subsisting.
+
+ **Section 7.** All laws, presidential decrees, executive orders, proclamations and/or administrative regulations which are inconsistent with the provisions of this Act are hereby amended, modified, superseded or repealed accordingly.
+
+ **Section 8.** To effectively implement the provision of this Act, the City Council of General Santos City, in coordination with the agencies of government concerned, shall promulgate the necessary implementing rules and regulations within sixty (60) days from the date of the effectivity of this Act.
+
+ **Section 9.** This Act shall take effect fifteen (15) days from its publication in at least two (2) newspapers of national circulation.
+
+ Approved,
+
+ | **JUAN PONCE ENRILE** President of the Senate | **PROSPERO C. NOGRALES** Speaker of the House of Representatives |
+
+ This Act which is a consolidation of House Bill No. 6014 and Senate Bill No. 3275 was finally passed by the House of Representatives and Senate on June 1, 2009.
+
+ | **EMMA LIRIO-REYES** Secretary of the Senate | **MARILYN B. BARUA-YAP** Secretary General House of Representatives |
+
+ Approved: JUL 07 2009
+
+ **GLORIA MACAPAGAL - ARROYO** President of the Philippines
+"	success	Republic Act	Amends RA 5412 to clarify the City of General Santos’ ownership and management of public lands, utilities, roads, and public works, introduces regulation of gambling, establishes penalties for violations, and provides for implementation and reporting requirements.	"[{""title"": ""Section 1: Further Amendments to Sections 98 and 101 of RA 5412"", ""summary"": ""Clarifies the City of General Santos\u2019 rights over ceded public lands and ownership of utilities, roads, and public works, and establishes procedures for disposition and revenue allocation.""}, {""title"": ""Section 2: Addition of Section 101-A"", ""summary"": ""Introduces regulation of gambling operations, requiring city concurrence.""}, {""title"": ""Section 3: Reporting Requirement"", ""summary"": ""Mandates agencies to submit reports on public land dispositions within 60 days of effectivity.""}, {""title"": ""Section 4: Supersession of conflicting provisions"", ""summary"": ""Repeals ineffective provisions under RA 7160 and Local Government Code.""}, {""title"": ""Section 5: Penalties for violations"", ""summary"": ""Sets six\u2011month imprisonment and perpetual disqualification for officials violating the act.""}, {""title"": ""Section 6: Doctrine of Severability"", ""summary"": ""Ensures remaining provisions remain valid if any part is invalidated.""}, {""title"": ""Section 7: Amendment and repeal of inconsistent laws"", ""summary"": ""Amends or repeals other laws inconsistent with this act.""}, {""title"": ""Section 8: Implementation"", ""summary"": ""City Council to promulgate implementing rules within 60 days of effectivity.""}, {""title"": ""Section 9: Effectivity"", ""summary"": ""Act takes effect 15 days after publication in two national newspapers.""}]"	9649	July 07, 2009	"[{""name"": ""JUAN PONCE ENRILE"", ""title"": ""President of the Senate""}, {""name"": ""PROSPERO C. NOGRALES"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""EMMA LIRIO-REYES"", ""title"": ""Secretary of the Senate""}, {""name"": ""MARILYN B. BARUA-YAP"", ""title"": ""Secretary General House of Representatives""}]"	To amend RA 5412 to strengthen city governance and clarify land and infrastructure management for General Santos.	"[""Reaffirms City of General Santos\u2019 ownership and management of public lands."", ""Transfers ownership of utilities and infrastructure to the city."", ""Adds Section 101-A for gambling operations requiring city concurrence."", ""Establishes penalties and disqualification for violations of the act.""]"	Amends Republic Act No. 5412; supersedes portions of RA 7160, Local Government Code, RA 8371, RA 7916, RA 6657.	"[""Republic Act"", ""General Santos"", ""Land Management"", ""Utilities"", ""Gambling"", ""Local Government"", ""Amendment""]"	"[""RA 9649"", ""RA 5412"", ""General Santos City"", ""public lands"", ""utilities"", ""gambling"", ""penalties"", ""implementation""]"
+repacts:datasets/markdown/repacts/2009/ra_9650_2009.md	repacts	2009		datasets/markdown/repacts/2009/ra_9650_2009.md	ra_9650_2009	AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY BAMBANG, MUNICIPALITY OF BOCAUE, PROVINCE OF BULACAN TO BE KNOWN AS BAMBANG NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR	"Fourteenth Congress Second Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-eighth day of July, two thousand eight.*
+
+ **REPUBLIC ACT No. 9650 July 07, 2009**
+
+ **AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY BAMBANG, MUNICIPALITY OF BOCAUE, PROVINCE OF BULACAN TO BE KNOWN AS BAMBANG NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*:
+
+ **Section 1. *Establishment of a National High School.*** - There is hereby established, under the supervision of the Department of Education, a national High School in Barangay Bambang, Municipality of Bocaue, Province of Bulacan to be known as Bambang National High School.
+
+ **Section 2. *Appropriations.*** - The Secretary of Education shall immediately include in the Department's program the operationalization of the Bambang National High School, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 3. *Implementation.*** - The Secretary of Education shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 4. *Effectivity.*** - This Act shall take effect fifteen (15) days after its publication in the *Official Gazette.*
+
+ Approved,
+
+ | (Sgd.) **JUAN PONCE ENRILE** President of the Senate | (Sgd.) **PROSPERO C. NOGRALES** Speaker of the House of Representatives |
+"	success	Education	An act establishing Bambang National High School in Barangay Bambang, Bocaue, Bulacan and appropriating funds for its operation.	"[{""title"": ""Section 1. Establishment of a National High School"", ""summary"": ""The act establishes a national high school in Barangay Bambang, under the supervision of the Department of Education.""}, {""title"": ""Section 2. Appropriations"", ""summary"": ""Funds for operationalization of the school are to be included in the annual General Appropriations Act.""}, {""title"": ""Section 3. Implementation"", ""summary"": ""The Secretary of Education shall issue rules and regulations necessary to carry out the purpose of the act.""}, {""title"": ""Section 4. Effectivity"", ""summary"": ""The act takes effect fifteen days after publication in the Official Gazette.""}]"	9650	July 07, 2009	"[{""name"": ""JUAN PONCE ENRILE"", ""title"": ""President of the Senate""}]"	"[{""name"": ""PROSPERO C. NOGRALES"", ""title"": ""Speaker of the House of Representatives""}]"	To establish a national high school and provide for its operational funding.	"[""Establishment of Bambang National High School"", ""Appropriation of funds for the school"", ""Authority for the Secretary of Education to issue rules"", ""Effectivity of the act after publication""]"		"[""Education"", ""Public Schools"", ""Bulacan"", ""Bambang"", ""National High School""]"	"[""Bambang National High School"", ""Bulacan"", ""Department of Education"", ""General Appropriations Act""]"
+repacts:datasets/markdown/repacts/2009/ra_9651_2009.md	repacts	2009		datasets/markdown/repacts/2009/ra_9651_2009.md	ra_9651_2009	AN ACT ESTABLSING A NATIONAL SCIENCE HIGH SCHOOL IN DAPA, PROVINCE OF SIARGAO ISLAND, PROVINCE OF SURIGAO DEL NORTE TO BE KNOWN AS SIARGAO NATIONAL SCIENCE HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR	"Fourteenth Congress Second Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-eighth day of July, two thousand eight.*
+
+ **REPUBLIC ACT No. 9651 July 07, 2009**
+
+ AN ACT ESTABLSING A NATIONAL SCIENCE HIGH SCHOOL IN DAPA, PROVINCE OF SIARGAO ISLAND, PROVINCE OF SURIGAO DEL NORTE TO BE KNOWN AS SIARGAO NATIONAL SCIENCE HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR
+
+ *Be it enacted by the Senate and House of Representative of the Philippines in Congress assembled:*
+
+ **Section 1.** *Establishment of a National High School.* - There is hereby established, under the supervision of the Department of Education, a national science high school in Dapa, Siargao Island, Province of Surigao del Norte to be known as Siargao National Science High School.
+
+ **Section 2.** *Appropriations.*- The Secretary of Education shall immediately include in the Department's program the operationalization of the Siargao National Science High School, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 3.** *Implementation.*- The Secretary of Education shall issue rules and regulations that may be necessary to carry out the purpose of this Act.
+
+ **Section 4.** *Effectivity.*- This Act shall take effect fifteen (15) days after its publication in the *Official Gazette.*
+
+ Approved,
+
+ | **JUAN PONCE ENRILE** President of the Senate | **PROSPERO C. NOGRALES** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on May 20, 2009 and February 3, 2009, respectively.
+
+ | **EMMA LIRIO-REYES** Secretary of the Senate | **MARILYN B. BARUA-YAP** Secretary General House of Representatives |
+
+ Approved: JUL 07 2009
+
+ **GLORIA MACAPAGAL - ARROYO** President of the Philippines
+"	success	Republic Act	This act establishes the Siargao National Science High School in Dapa, Surigao del Norte, and appropriates funds for its operation, with provisions for supervision, funding, implementation, and effectivity.	"[{""title"": ""Establishment of a National High School"", ""summary"": ""Establishes the national science high school in Dapa, under the Department of Education.""}, {""title"": ""Appropriations"", ""summary"": ""Authorizes the Secretary of Education to include funding in the annual General Appropriations Act.""}, {""title"": ""Implementation"", ""summary"": ""Secretary to issue rules and regulations necessary for the act.""}, {""title"": ""Effectivity"", ""summary"": ""Act becomes effective fifteen days after publication in Official Gazette.""}]"	9651	July 07, 2009			To establish a national science high school in Dapa, Siargao Island, Surigao del Norte, and allocate funds for its operation.	"[""Establishment of the school"", ""Funding appropriation"", ""Implementation by Secretary of Education"", ""Effectivity after publication""]"		"[""Education"", ""Science High School"", ""National"", ""Philippines"", ""Republic Act""]"	"[""Siargao"", ""Surigao del Norte"", ""National Science High School"", ""Department of Education"", ""Funding"", ""Implementation"", ""Effectivity"", ""Official Gazette""]"
+repacts:datasets/markdown/repacts/2009/ra_9652_2009.md	repacts	2009		datasets/markdown/repacts/2009/ra_9652_2009.md	ra_9652_2009	AN ACT GRANTING THE INFORMATION BROADCAST UNLIMITED, INC. A FRANCHISE TO CONSTRUCT, INSTALL, ESTABLISH, OPERATE AND MAINTAIN RADIO AND TELEVISION BROADCASTING STATIONS IN THE PHILIPPINES	"Fourteenth Congress Second Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-eighth day of July, two thousand eight.*
+
+ **REPUBLIC ACT No. 9652 July 12, 2009**
+
+ AN ACT GRANTING THE INFORMATION BROADCAST UNLIMITED, INC. A FRANCHISE TO CONSTRUCT, INSTALL, ESTABLISH, OPERATE AND MAINTAIN RADIO AND TELEVISION BROADCASTING STATIONS IN THE PHILIPPINES
+
+ *Be it enacted by the Senate and House of Representative of the Philippines in Congress assembled:*
+
+ **Section 1.** *Nature and Scope of Franchise.* - Subject to the provisions of the Constitution and applicable laws, rules and regulations, there is hereby granted to Information Broadcast Unlimited, Inc., hereunder referred to as the grantee, its successors or assigns, a franchise to construct, install, establish, operate and maintain for commercial purposes and in the public interest, radio and/or television broadcasting stations in the Philippines, where frequencies and/or channels are still available for radio and/or television broadcasting, including digital radio and television system, internet protocol (IP) related services and IP value-added services, through microwave, satellite or whatever means, including the use of any new technology that may hereafter or in the future be developed in the field of radio and television broadcasting, with the corresponding technological auxiliaries and facilities, special broadcasting and other program and distribution services and relay stations.
+
+ **Section 2.** *Manner of Operation of Stations or Facilities.* - THe stations or facilities of the grantee shall be constructed and operated in a manner as will, at most, result only in the minimum interference on the wavelengths or frequencies of existing stations or other stations which may be established by law, without in any way diminishing its own right to use its selected wavelengths or frequencies and the quality of transmission or reception thereon as should maximize rendition of the grantee's services and/or availability thereof.
+
+ **Section 3.** *Prior Approval of the National Telecommunications Commission.* - The grantee shall secure from the National Telecommunications Commission (NTC) the appropriations permits and licenses for the construction and operation of its stations and facilities and shall not use any frequency in the radio/television spectrum without having been authorized by the Commission. The Commission, however, shall not unreasonably withhold or delay the grant of any such authority.
+
+ **Section 4.** *Responsibility to the Public.*- The grantee shall provide adequate public service time to enable the government, through the said broadcasting stations or facilities, to reach the population on important public issues; provide at all times sound and balanced programming; assist in the functions of public information and education; conform to the ethics of hones enterprise; and not use its stations and facilities for the broadcasting of obscene and indecent language, speech, act or scene; or for the dissemination of deliberately false information or willful misrepresentation, to the detriment of the public interest, or to incite, encourage or assist in subversive or treasonable acts.
+
+ **Section 5.** *Right of Government.* - A special right is hereby reserved to the President of the Philippines, in times of war, rebellion, public peril, calamity, emergency, disaster or disturbance of peace and order, to temporarily take over and operate the stations or facilities of the grantee, to temporarily suspend the operation of any station or facility in the interest of public safety, security and public welfare, or to authorize the temporary use and operation thereof by any agency of the government, upon due compensation to the grantee, for the use of said stations or facilities during the period when they shall be so operated.
+
+ The radio spectrum is a finite resource that is part of the national patrimony and the use thereof is a privilege conferred upon the grantee by the State and may be withdrawn anytime after due process.
+
+ **Section 6.** *Term of Franchise.*- This franchise shall be for a term of twenty-five (25) years from the date of effectivity of this Act, unless sooner revoked or cancelled. This franchise shall be deemed *ipso facto* revoked in the event the grantee fails to comply with any of the following conditions:

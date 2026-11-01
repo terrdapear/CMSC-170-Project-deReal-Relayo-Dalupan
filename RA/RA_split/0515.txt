@@ -1,0 +1,260 @@
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: April 7, 1959.
+"	success	Republic Act	This act converts the sitio of Bonsoran into a barrio of Odiongan, Romblon, establishing its boundaries and taking effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The sitio of Bonsoran is converted into a barrio with boundaries: north by the Agnocnoc River, east by the mountain range from Macatol Point to Laposlapos Point, west by the sea, and south by Looc Bay.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	2121	April 5, 1959			To convert the sitio of Bonsoran into a barrio, defining its boundaries and establishing its effectivity.	"[""Conversion of the sitio to a barrio"", ""Establishment of geographic boundaries"", ""Effective date upon approval""]"		"[""Republic Act"", ""Local Government"", ""Boundary"", ""Romblon""]"	"[""Sitio"", ""Bonsoran"", ""Borough"", ""Romblon"", ""Odiongan"", ""Boundary"", ""Conversion""]"
+repacts:datasets/markdown/repacts/1959/ra_2136_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2136_1959.md	ra_2136_1959	An Act Changing the Name of the Municipality of Payo in the Province of Catanduanes to Panganiban	"**REPUBLIC ACT No. 2136**
+
+ **An Act Converting the Sitio of Malibayo, Municipality of Batangas, Province of Batangas, into a Barrio to be Known as the Barrio of Malibayo**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Malibayo, barrio of Simlong, Municipality of Batangas, Province of Batangas, is converted into a barrio of said municipality to be known as the barrio of Malibayo.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: April 7, 1959.
+"	success	Republic Act	This act changes the name of the municipality of Payo in Catanduanes to Panganiban.	"[{""title"": ""Section 1."", ""summary"": ""The name of the Municipality of Payo in the Province of Catanduanes is changed to Panganiban.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2122	April 5, 1959			To officially rename the municipality of Payo to Panganiban in Catanduanes province.	"[""The name of the Municipality of Payo in the Province of Catanduanes is changed to Panganiban."", ""The act shall take effect upon its approval.""]"		"[""municipality"", ""name change"", ""Catanduanes"", ""Payo"", ""Panganiban""]"	"[""Municipality"", ""Catanduanes"", ""Payo"", ""Panganiban"", ""Name Change""]"
+repacts:datasets/markdown/repacts/1959/ra_2137_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2137_1959.md	ra_2137_1959	An Act Creating the Barrios of Santo Domingo in the Municipality of Batangas, Province of Batangas	"**REPUBLIC ACT No. 2137**
+
+ **An Act Creating the Barrio of Bagacay in the Municipality of Lapinig, Province of Samar**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Kajaguekjekan and Lobok in the Municipality of Lapinig, Province of Samar, are hereby constituted into a barrio in the said municipality to be known as the barrio of Bagacay.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: April 7, 1959.
+"	success	Republic Act	Creates the barrio of Santo Domingo in the Municipality of Batangas.	"[{""title"": ""Section 1."", ""summary"": ""The sitios of Suha, Bakis, Tolong Bata and Talon are separated from the barrio of Conde Itaas and constituted into an independent and distinct barrio of Santo Domingo.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2123	April 5, 1959			To create the barrio of Santo Domingo.	"[""Creation of the barrio of Santo Domingo""]"		"[""Republic Act"", ""Local Government"", ""Municipality""]"	"[""barrios"", ""Batangas"", ""Santo Domingo"", ""sitios"", ""Conde Itaas""]"
+repacts:datasets/markdown/repacts/1959/ra_2138_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2138_1959.md	ra_2138_1959	An Act Converting the Sitio of Kapitan, Barrio of Pila, Municipality of Bauan, Province of Batangas, into a Barrio of Said Municipality to be Known as the Barrio of Kapitan	"**REPUBLIC ACT No. 2138**
+
+ **An Act to Convert the Sitios of Malaguining and Cancorvenus, Both in the Municipality of Talalora, Province of Samar, to a Barrio to be Known as Barrio San Francisco of the Same Municipality**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Malaguining and Cancorvenus, both in the Municipality of Talalora, Province of Samar, are hereby converted to a barrio to be known as Barrio San Francisco of the same municipality.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: April 7, 1959.
+"	success	Republic Act	Converts the sitio of Kapitan in the Barrio of Pila, Municipality of Bauan, Province of Batangas into a barrio named Kapitan. The act becomes effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The sitio of Kapitan, barrio of Pila, Municipality of Bauan, Province of Batangas, is converted into a barrio of said municipality to be known as the barrio of Kapitan.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	2124	April 5, 1959			To convert the sitio of Kapitan into an official barrio of Bauan.	"[""Conversion of sitio to barrio"", ""Effectivity upon approval""]"		"[""Local Government"", ""Barrio"", ""Conversion""]"	"[""sitio"", ""barrio"", ""Kapitan"", ""Bauan"", ""Batangas""]"
+repacts:datasets/markdown/repacts/1959/ra_2139_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2139_1959.md	ra_2139_1959	An Act Creating the Barrios of Libertad and San Isidro in the Municipality of Dolores, Province of Samar	"**REPUBLIC ACT No. 2139**
+
+ **An Act Amending Certain Sections of Republic Act Numbered Nine Hundred Eighty-One, Otherwise Known as the Charter of the City of Trece Martires**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Sections three and five of Republic Act Numbered Nine hundred eighty-one are amended to read as follows:
+
+ > ""**Sec. 3.** *Jurisdiction of city for police and other purposes.* The jurisdiction of the City of Trece Martires for police and other purposes shall extend within the territorial limits of the said city; for the purpose of highway administration and protecting and insuring safe travel to and from the city, such jurisdiction shall also extend over the following: (a) Trece Martires-Tanza Road (from Km. 46.655 to Km. 34.20), (b) Trece Martires-Indang Road (from Km. 46.655 to Km. 58.811), (c) Trece Martires-Dasmarinas Road (from Km. 44.254 to Km. 34.218), (d) Trece Martires-Naic Road (from Km. 44.254 to Km. 56, 971), fifty meters to both sides from the center of the road right-of-way of said radial roads, (e) Tres Cruces and Matanda Dams, including the access roads to said dams: *Provided,* That the Tres Cruces and Matanda Dams shall be considered for all intents and purposes as parts of the City of Trece Martires; and for the purpose of protecting and insuring the purity and quantity of water supply of the city, such police jurisdiction shall also extend over all territory within the drainage area of such water supply, or within one hundred meters of any reservoir, conduit, canal, aqueduct, pumping station or watershed, used in connection with the city water service. The municipal court of the city shall have concurrent jurisdiction with the justice of the peace courts of the municipalities within which the said radial roads, the said territory within the drainage area and the said space of one hundred meters are situated to try crimes or offenses committed therein. The court first taking jurisdiction of such an offense shall thereafter retain exclusive jurisdiction thereof. All fines, forfeitures, fees and costs imposed by reason of offenses committed within the said radial roads, the said space of one hundred meters and territory within the said drainage area shall accrue not to the treasury of the City of Trece Martires but to the treasury of the municipality in which the said space or territory in which the offense committed is located.""
+>
+>  ""**Sec. 5.** *Chief officials of city government.* The Chief officials of the government of the city are the City Mayor, vice-mayor, members of the City Council, city engineer, city treasurer-assessor, city fiscal, city health officer, chief of police, judge of the municipal court and secretary of the City Mayor.
+>
+>  ""The Provincial Governor, the secretary of the provincial board, members of the provincial board, the district engineer, the provincial treasurer, the provincial fiscal, and the district health officer of the Province of Cavite, shall be ex-officio City Mayor, vice-mayor members of the City Council, city engineer, city treasurer-assessor, city fiscal and city health officer of the city, respectively. Said provincial treasurer, district engineer, district health officer, the provincial auditor and the secretary of the provincial board shall also be ex-officio members of the City Council.
+>
+>  ""The Secretary of the Provincial Board of Cavite shall act as secretary to the City Mayor and of the City Council.""
+
+ **Section 2.** Subsection (b), section ten of the same Act, is amended to read as follows:
+
+ > ""(b) To make all appropriations for the expenses of the government of the city: *Provided,* That without the express authorization of the President of the Philippines, the appropriation for the payment of salaries and wages of officers and employees of the city government for any fiscal year shall not be more than sixty per cent of the expected revenue of the city for such fiscal year: *Provided, further,* That until such time as the operating expenses of the city government can be met by its revenue, the Province of Cavite shall, through its provincial board, appropriate out of its funds as aid to the city amounts necessary to cover said operating expenses of the city.""
+
+ **Section 3.** The same Act is amended by inserting between sections forty-one and forty-two thereof a new section which shall read as follows:
+
+ > ""**Sec. 41-A.** *Compensation of ex-officio officials.* No official of the Province of Cavite acting as ex-officio official of the City of Trece Martires shall receive any additional compensation: *Provided,* That when the financial condition of the city so permits, the City Council may authorize the payment of additional compensation upon previous certification as to the availability of funds by the city treasurer and with the approval of the Secretary of Finance.""
+
+ **Section 4.** All Acts, executive orders, administrative orders, proclamations and municipal ordinances or parts thereof inconsistent with any of the provisions of this Act are hereby repealed or modified accordingly.
+
+ **Section 5.** This Act shall take effect upon its approval.
+
+ Approved: April 7, 1959.
+"	success	Republic Act	An act establishing new barrios in Dolores, Samar, effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Creation of Barrio Libertad and Barrio San Isidro in the Municipality of Dolores.""}, {""title"": ""Section 2"", ""summary"": ""Act takes effect upon approval.""}]"	2125	April 5, 1959			To create new barrios in the municipality of Dolores, Samar.	"[""Creation of Barrio Libertad"", ""Creation of Barrio San Isidro"", ""Act takes effect upon approval""]"		"[""Republic Act"", ""Local Government""]"	"[""barrios"", ""Dolores"", ""Samar"", ""municipality"", ""Tanawan"", ""Gape"", ""Borac"", ""Tangcop"", ""Ojot"", ""Japay"", ""Deit"", ""Maynipa""]"
+repacts:datasets/markdown/repacts/1959/ra_2140_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2140_1959.md	ra_2140_1959	An Act Changing the Name of the Tallag Barrio School in the Municipality of Cabagan, Province of Isabela, to Biuag Community School	"**REPUBLIC ACT No. 2140**
+
+ **An Act Changing the Name of Highway 54 in the Province of Rizal to Epifanio De Los Santos Avenue in Honor of Don Epifanio De Los Santos, a Filipino Scholar, Jurist and Historian**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Highway 54 in the Province of Rizal is changed to Epifanio de los Santos Avenue in honor of Don Epifanio de los Santos, a son of said province and the foremost Filipino scholar, jurist and historian of his time.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: April 7, 1959.
+"	success	Education	This act changes the name of Tallag Barrio School to Biuag Community School and sets the effective date to the day of approval.	"[{""title"": ""Section 1"", ""summary"": ""The name of the Tallag Barrio School in the Municipality of Cabagan, Province of Isabela, is hereby changed to Biuag Community School.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	2126	April 7, 1959			To change the name of the Tallag Barrio School to Biuag Community School.	"[""Change of school name to Biuag Community School"", ""Act takes effect upon approval""]"		"[""Education"", ""School"", ""Renaming""]"	"[""Tallag Barrio School"", ""Biuag Community School"", ""Cabagan"", ""Isabela"", ""Republic Act 2126"", ""Renaming"", ""School"", ""Act""]"
+repacts:datasets/markdown/repacts/1959/ra_2141_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2141_1959.md	ra_2141_1959	An Act Creating Certain Barrios in the Municipality of Dapitan Province of Zamboanga del Norte	"**REPUBLIC ACT No. 2141**
+
+ **An Act Creating the Sub-Province of Biliran**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The municipalities of Almeria, Biliran, Cabucgayan, Caibiran, Culaba, Kawayan, Maripipi and Naval, and all the territories comprised therein, are constituted into a sub-province of Leyte to be known as the Sub-province of Biliran with the seat of government in the Municipality of Naval.
+
+ **Section 2.** The provisions of Article XI, Chapter 56, Title VIII, Book III of the Revised Administrative Code, as amended, insofar as they are not inconsistent with the provisions of this Act, shall apply to the Sub-province of Biliran.
+
+ **Section 3.** The Sub-province of Biliran shall elect a member to represent the interests of the sub-province in the provincial board of Leyte. The qualifications for the office of member for the Sub-province of Biliran shall be the same as prescribed for provincial offices in general. It shall be his duty to attend the sessions of the provincial board when the latter has to pass on matters concerning the sub-province; but he shall have no vote except as regards such matters. He shall take the place and perform the duties and exercise the powers of the lieutenant-governor in case of the absence, suspension, or other temporary incapacity of the same. He shall receive a compensation equal to that paid to any member of the provincial board of Leyte as per diem for each session attended; and shall also be entitled to reimbursement of his actual and necessary traveling expenses upon going to and returning from the sessions of the provincial board. His compensation as well as his traveling expenses shall be paid out of the funds of the sub-province.
+
+ **Section 4.** The Sub-province of Biliran shall be constituted and organized into a separate, independent and regular highway engineering district similar to existing engineering districts, for which a district engineer shall be assigned in accordance with the laws, rules and regulations applicable thereto.
+
+ **Section 5.** The Sub-province of Biliran shall be considered as a province for the purpose of Republic Act Numbered Nine hundred seventeen.
+
+ **Section 6.** The lieutenant-governor of the Sub-province of Biliran shall not be a member of the Provincial Board of Leyte.
+
+ **Section 7.** The lieutenant-governor shall receive a compensation of three thousand six hundred pesos per annum.
+
+ **Section 8.** The first lieutenant-governor of the Sub-province of Biliran and the first member to represent it in the provincial board of Leyte shall be appointed by the President of the Philippines with the consent of the Commission on Appointments, and shall hold office until their successors shall have been elected in the next general elections for provincial and municipal officials and shall have qualified to said offices.
+
+ **Section 9.** This Act shall take effect upon its approval.
+
+ Approved: April 8, 1959.
+"	success	Republic Act	This act establishes new barrios in the municipality of Dapitan, Zamboanga del Norte, by converting specified sitios into barrios and sets the act to take effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Constitutes the sitios of Sicayab, Larayan, Pagatpatan, Boton, Aligway Island, Tag-olo, Banbanan, Tobod, Silonog Island, Loang, Masidlakon, Socon, and Simay into the barrios of Sicayab, Tag-olo, and Aseniero, respectively.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	2127	April 7, 1959			To create and officially recognize new barrios within the municipality of Dapitan for administrative purposes.	"[""Creation of the barrios of Sicayab, Tag-olo, and Aseniero by converting specified sitios"", ""The act takes effect upon approval""]"		"[""Republic Act"", ""Municipality"", ""Barrios"", ""Zamboanga del Norte""]"	"[""barrios"", ""municipality"", ""Dapitan"", ""Zamboanga del Norte"", ""sitios"", ""creation""]"
+repacts:datasets/markdown/repacts/1959/ra_2142_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2142_1959.md	ra_2142_1959	An Act Creating Certain Barrios in the Municipality of New Piñan, Province of Zamboanga del Norte	"**REPUBLIC ACT No. 2142**
+
+ **An Act Providing for Two Assistant Fiscals for the Province of Aklan, Amending for the Purpose Section Sixteen Hundred Seventy-Four of the Administrative Code, as Amended**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section sixteen hundred seventy-four of the Administrative Code, as amended by Republic Act Numbered Seventeen hundred ninety-nine, is further amended to read as follows:
+
+ > ""**Sec. 1674.** *Assistant Provincial Fiscals.* In the following provinces there shall be assistant provincial fiscals in such members as are hereinafter provided:
+>
+>  ""Abra, one assistant provincial fiscal;
+>
+>  ""Agusan, one assistant provincial fiscal;
+>
+>  ""Aklan, two assistant provincial fiscals;
+>
+>  ""Albay, four assistant provincial fiscals;
+>
+>  ""Antique, one assistant provincial fiscal;
+>
+>  ""Bataan, one assistant provincial fiscal;
+>
+>  ""Batangas, five assistant provincial fiscals;
+>
+>  ""Bohol, three assistant provincial fiscals;
+>
+>  ""Bukidnon, one assistant provincial fiscals;
+>
+>  ""Bulacan, three assistant provincial fiscals;
+>
+>  ""Cagayan, three assistant provincial fiscals;
+>
+>  ""Camarines Norte, two assistant provincial fiscals;
+>
+>  ""Camarines Sur, four assistant provincial fiscals;
+>
+>  ""Capiz, three assistant provincial fiscals;
+>
+>  ""Catanduanes, one assistant provincial fiscal;
+>
+>  ""Cavite, four assistant provincial fiscals;
+>
+>  ""Cebu, nine assistant provincial fiscals;
+>
+>  ""Cotabato, four assistant provincial fiscals;
+>
+>  ""Davao, four assistant provincial fiscals;
+>
+>  ""Ilocos Norte, three assistant provincial fiscals;
+>
+>  ""Ilocos Sur, four assistant provincial fiscals;
+>
+>  ""Iloilo, eight assistant provincial fiscals;
+>
+>  ""Isabela, three assistant provincial fiscals;
+>
+>  ""Laguna, four assistant provincial fiscals;
+>
+>  ""Lanao, four assistant provincial fiscals;
+>
+>  ""La Union, three assistant provincial fiscals;
+>
+>  ""Leyte, eight assistant provincial fiscals;
+>
+>  ""Marinduque, one assistant provincial fiscal;
+>
+>  ""Masbate, one assistant provincial fiscal;
+>
+>  ""Mountain Province, two assistant provincial fiscals;
+>
+>  ""Nueva Ecija, six assistant provincial fiscals;
+>
+>  ""Nueva Vizcaya, three assistant provincial fiscals;
+>
+>  ""Occidental Mindoro, one assistant provincial fiscal;
+>
+>  ""Oriental Mindoro, one assistant provincial fiscal;
+>
+>  ""Occidental Misamis, two assistant provincial fiscals;
+>
+>  ""Oriental Misamis, two assistant provincial fiscals;
+>
+>  ""Occidental Negros, four assistant provincial fiscals;
+>
+>  ""Oriental Negros, four assistant provincial fiscals;
+>
+>  *Provided,* That one assistant fiscal shall be assigned to the Subprovince of Siquijor with station at Larena;
+>
+>  ""Palawan, one assistant provincial fiscal;
+>
+>  ""Pampanga, six assistant provincial fiscals;
+>
+>  ""Pangasinan, nine assistant provincial fiscals;
+>
+>  ""Quezon, five assistant provincial fiscals;
+>
+>  ""Rizal, nine assistant provincial fiscals;
+>
+>  ""Romblon, one assistant provincial fiscals;
+>
+>  ""Samar, six assistant provincial fiscals;
+>
+>  ""Sorsogon, two assistant provincial fiscals;
+>
+>  ""Sulu, two assistant provincial fiscals;
+>
+>  ""Surigao, two assistant provincial fiscals;
+>
+>  ""Tarlac, three assistant provincial fiscals;
+>
+>  ""Zambales, two assistant provincial fiscals;
+>
+>  ""Zamboanga del Norte, two assistant provincial fiscals;
+>
+>  ""Zamboanga del Sur, two assistant provincial fiscals;
+
+ Assistant provincial fiscals shall receive such salaries as hereinafter provided:
+
+ > ""(A) In first class provinces A and B, the first assistant provincial fiscal, six thousand pesos per annum, the second assistant provincial fiscal, four thousand eight hundred pesos per annum, and the other assistant provincial fiscals; four thousand two hundred pesos each, per annum;
+>
+>  ""(B) In first, class provinces, the first assistant provincial fiscal, four thousand eight hundred pesos per annum, the other assistant provincial fiscals, four thousand two hundred pesos each per annum;
+>
+>  ""(C) In second, third, fourth, and fifth class provinces, four thousand two hundred pesos each, per annum;
+>
+>  ""These officers shall be appointed by the President of the Philippines with the consent of the Commission on Appointments of the Congress of the Philippines, and their salaries shall be paid by the provinces concerned. The salary of the assistant provincial fiscal shall be included in the annual appropriations of the province in the same manner as the salary of the provincial fiscal. To be eligible for appointment to this position, a person must be a citizen of the Philippines who has been duly admitted to practice law in the Court of said Islands, and has been in actual practice for at least five years, prior to his appointment: *Provided,* *However*, That incumbent assistant provincial fiscals whose appointments have been duly acted upon and approved by the Commission on Appointments of the Congress of the Philippines prior to the approval of this Act, shall be deemed reappointed and their appointments confirmed and, therefore, entitled to the benefits of this Act.""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: April 14, 1959.
+"	success	law	The act constitutively creates two barrios, Villarico and Teresita, in the Municipality of New Piñan by grouping specified sitios, and declares that the act shall take effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The sitios of Desin, Upper Disoy, San Fernando, San Vicente, Santa Fe, Sikitan, Dewacat, Dilawa and Lambog are constituted into the barrio of Villarico; and the sitios of Upper Boboringan, Lower Boboringan, Penacio, Bagong Silang and Situbo are constituted into the barrio of Teresita.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	Republic Act No. 2128	April 7, 1959			To establish new barrios by grouping existing sitios within the municipality of New Piñan for administrative and local governance purposes.	"[""Constitution of barrio of Villarico from specified sitios"", ""Constitution of barrio of Teresita from specified sitios"", ""Effectivity of the act upon approval""]"		"[""local government"", ""municipal law"", ""barrios""]"	"[""barrios"", ""sitios"", ""New Pi\u00f1an"", ""Zamboanga del Norte"", ""Republic Act 2128""]"
+repacts:datasets/markdown/repacts/1959/ra_2143_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2143_1959.md	ra_2143_1959	An Act Converting the Sitio of Naganacan in the Municipality of Sta. Maria, Province of Isabela, into a Barrio to be Known as Barrio Naganacan	"**REPUBLIC ACT No. 2143**
+
+ **An Act Creating Certain Barrios in the Municipality of Bulan, Province of Sorsogon**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Cabogaan, San Juan Daan, Cadandanan, Tanga, Togbogñon and Bagñog in the Municipality of Bulan, Province of Sorsogon, are converted into barrios of said municipality to be known as the barrios of Cabogaan, San Juan Daan, Cadandanan, Tanga, San Rafael and Magsaysay, respectively.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: April 24, 1959.
+"	success	Republic Act	Converts the sitio of Naganacan in Sta. Maria, Isabela into a barrio named Barrio Naganacan, taking effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""The sitio of Naganacan is converted into a barrio named Barrio Naganacan.""}, {""title"": ""Section 2."", ""summary"": ""The Act takes effect upon its approval.""}]"	2129	April 7, 1959				"[""The sitio of Naganacan is converted into a barrio named Barrio Naganacan."", ""The Act takes effect upon its approval.""]"		"[""Republic Act"", ""Local Government"", ""Isabela"", ""Barrio""]"	"[""Sitio"", ""Barrio"", ""Naganacan"", ""Sta. Maria"", ""Isabela""]"
+repacts:datasets/markdown/repacts/1959/ra_2144_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2144_1959.md	ra_2144_1959	An Act Changing the Name of the Barrio of Butubut in the Municipality of Magsingal, Province of Ilocos Sur, to Barrio Miramar	"**REPUBLIC ACT No. 2144**
+
+ **An Act to Create Certain Barrios in the Municipality of Santa Fe, Province of Romblon**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The following barrios in the Municipality of Santa Fe, Province of Romblon, are created:
+
+ (a) Barrio Magsaysay to be composed of the present sitios of Catolog, Palate, Layog, Simbiray and Mambong: (b) Barrio Mat-i to be composed of the present sitios of Mat-i, Guinpasilan, Bolagsong, Aglagtang and Isabela; (c) Barrio Agmanic to be composed of the present sitios of Agmanic, Capdang, Tipolo-Bahol, Bolocawe, Binaloca and Cabali-an; (d) Barrio Tabugon to be composed of the present sitios of Tabugon, Cabungahan, Pitugo, Guinpoyuñgan, Grande, Cahawagan and Hinaclopan; (e) Barrio Canyayo to be composed of the present sitios of Canyayo, Lonoc, Campong, Payong-payong and Capid; (f) Barrio Pandan to be composed of the present sitios of Pandan, Sayao, Guinda, Camonsel, Capinayan, Baybay, Candoyong, Lojo and Catopaz; (g) Barrio Danao Norte to be composed of the present sitios of Danao Norte, Hacienda, Sabang, Timba-on, Danao Sur and Bunga; (h) Barrio Pinamihagan to be composed of the present sitios of Pinamihagan, Pacol, Buyahon, Sugod, Pinamandayan, Pajo and Angas; and (i) Barrio Busay to be composed of the present sitios of Busay, Hinologan, Buenavista, Nausa, Tipocpoc, Agborot, Boyongboyoñgan and Mihason. **Section 2.** This Act shall take effect upon its approval.

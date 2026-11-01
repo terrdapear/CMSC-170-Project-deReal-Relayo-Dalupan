@@ -1,0 +1,181 @@
+repacts:datasets/markdown/repacts/1959/ra_2497_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2497_1959.md	ra_2497_1959	An Act Creating the Barrio of Lucban in the Municipality of Abulug, Province of Cagayan	"**REPUBLIC ACT No. 2497**
+
+ **An Act Creating the Barrio of Lucban in the Municipality of Abulug, Province of Cagayan**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Lucban in the Municipality of Abulug, Province of Cagayan, is converted into a barrio of said municipality to be known as the barrio of Lucban.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	An act establishing the barrio of Lucban within the municipality of Abulug, Cagayan, and setting its effective date.	"[{""title"": ""Section 1."", ""summary"": ""The sitio of Lucban in the Municipality of Abulug, Province of Cagayan, is converted into a barrio of said municipality to be known as the barrio of Lucban.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2497	June 21, 1959			To create the barrio of Lucban in the Municipality of Abulug, Province of Cagayan.	"[""Section 1: Conversion of sitio to barrio."", ""Section 2: Effective date upon approval.""]"		"[""Local Government"", ""Barangay"", ""Cagayan"", ""Municipality"", ""Abulug""]"	"[""Lucban"", ""Abulug"", ""Cagayan"", ""barrio"", ""sitio"", ""creation""]"
+repacts:datasets/markdown/repacts/1959/ra_2498_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2498_1959.md	ra_2498_1959	An Act Creating the Barrios of Luz, Linantuyan and Hilaitan in the Municipality of Guihulungan, Province of Negros Oriental	"**REPUBLIC ACT No. 2498**
+
+ **An Act Creating the Barrios of Luz, Linantuyan and Hilaitan in the Municipality of Guihulungan, Province of Negros Oriental**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The following barrios are hereby created in the Municipality of Guihulungan, Province of Negros Oriental:
+
+ 1. Barrio Luz, consisting of the sitios of Magbala-as, (large), Cambalo, Dadiangao, Agbabakid, Banogbanog, Hinoba-an (small), Taluktok, Hinogpayan, Balingos, Kanapu-an, Mahilig, Takung and Bonbong; 2. Barrio Linantuyan, consisting of the sitios of Magbala-as (small), Aya (small), Magkilignit, Taloto, Hinoba-an (large), Gusa (small), Alamag and Salong; and 3. Barrio Hilaitan, consisting of the sitios of Marilao, Ilaya, Kambulongnon, Busay, Danao, Manhantik, Tinagducan, Katawan, Mambug, Panlubiran and Himaya. **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	An act that establishes the barrios of Luz, Linantuyan and Hilaitan in Guihulungan, Negros Oriental, detailing their constituent sitios and taking effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Specifies the creation of Barrio Luz, Barrio Linantuyan and Barrio Hilaitan, listing their respective sitios.""}, {""title"": ""Section 2"", ""summary"": ""States that the act shall take effect upon its approval.""}]"	2498	June 21, 1959			To establish new barrios for local governance in Guihulungan, Negros Oriental.	"[""Creation of three barrios and listing of their sitios"", ""Effectivity upon approval""]"		"[""Barrios"", ""Local Government"", ""Negros Oriental"", ""Guihulungan"", ""Republic Act"", ""1959""]"	"[""barrios"", ""sitios"", ""Guihulungan"", ""Negros Oriental"", ""Republic Act 2498"", ""local governance""]"
+repacts:datasets/markdown/repacts/1959/ra_2499_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2499_1959.md	ra_2499_1959	An Act Creating Certain Barrios in the Municipality of Palompon, Province of Leyte	"**REPUBLIC ACT No. 2499**
+
+ **An Act Creating Certain Barrios in the Municipality of Palompon, Province of Leyte**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The following sitios in the Municipality of Palompon, Province of Leyte, are converted into barrios thereof, as follows:
+
+ 1. The sitio of Caduhaan to be known as the barrio of Caduhaan; 2. The sitio of Cambakbak to be known as the barrio of Cambakbak; 3. The sitio of San Guillermo to be known as the barrio of San Guillermo; 4. The sitio of Lu-uk to be known as the barrio of San Isidro. 5. The sitio of Lat-osan to be known as the barrio of Lat-osan; 6. The sitio of San Joaquin to be known as the barrio of San Joaquin; and 7. The sitio of Cangmuya to be known as the barrio of Cangmuya. **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act converts specific sitios in Palompon, Leyte into barrios.	"[{""title"": ""Section 1"", ""summary"": ""Lists the sitios to be converted into barrios.""}, {""title"": ""Section 2"", ""summary"": ""The act takes effect upon approval.""}]"	2499	June 21, 1959			To establish official barrios in Palompon, Leyte by converting existing sitios.	"[""Conversion of specific sitios into barrios"", ""Effectivity upon approval""]"		"[""Republic Act"", ""Local Government"", ""Barangay"", ""Leyte"", ""Palompon""]"	"[""barrios"", ""sitios"", ""Palompon"", ""Leyte"", ""municipality"", ""conversion"", ""local government""]"
+repacts:datasets/markdown/repacts/1959/ra_2500_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2500_1959.md	ra_2500_1959	An Act to Convert Certain Sitios of the Municipality of Looc, Province of Romblon, into Barrios	"**REPUBLIC ACT No. 2500**
+
+ **An Act to Convert Certain Sitios of the Municipality of Looc, Province of Romblon, into Barrios**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Clagonsao and Bonlao of Barrio Tugdan, the sitios of San Isidro (Icogan) and Comod-om of Barrio Alcantara, the sitios of Guinhaya-an, Manhac and Tuguis of Barrio Punta, and the sitios of Camandag and Balatucan of Barrio Buenavista, all in the Municipality of Looc, province of Romblon, are converted into barrios of the same names.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	An act converting specific sitios in the Municipality of Looc, Romblon into barrios to formalize local administrative units.	"[{""title"": ""Section 1"", ""summary"": ""The sitios of Clagonsao and Bonlao in Barrio Tugdan, San Isidro (Icogan) and Comod-om in Barrio Alcantara, Guinhaya-an, Manhac and Tuguis in Barrio Punta, and Camandag and Balatucan in Barrio Buenavista are converted into barrios of the same names.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	2500	June 21, 1959			To formalize the conversion of sitios into barrios for better local governance in Looc, Romblon.	"[""The sitios of Clagonsao, Bonlao, San Isidro (Icogan), Comod-om, Guinhaya-an, Manhac, Tuguis, Camandag, and Balatucan are converted into barrios of the same names.""]"		"[""Local Government"", ""Barangay"", ""Romblon""]"	"[""Sitios"", ""Barrios"", ""Looc"", ""Romblon"", ""Conversion""]"
+repacts:datasets/markdown/repacts/1959/ra_2501_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2501_1959.md	ra_2501_1959	An Act Changing the Names of the Caparan Primary School and Dalangin Primary School in the Municipality of Ipil, Province of Zamboanga del Sur, to Tiayon Primary School and Darol Moslem Primary School, Respectively	"**REPUBLIC ACT No. 2501**
+
+ **An Act Changing the Names of the Caparan Primary School and Dalangin Primary School in the Municipality of Ipil, Province of Zamboanga del Sur, to Tiayon Primary School and Darol Moslem Primary School, Respectively**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The names of Caparan Primary School and Dalangin Primary School, both in the Municipality of Ipil, Province of Zamboanga del Sur, are changed to Tiayon Primary School and Darol Moslem Primary School, respectively.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act changes the names of two primary schools in Ipil, Zamboanga del Sur to new names.	"[{""title"": ""Section 1."", ""summary"": ""The names of Caparan Primary School and Dalangin Primary School, both in the Municipality of Ipil, Province of Zamboanga del Sur, are changed to Tiayon Primary School and Darol Moslem Primary School, respectively.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2501	June 21, 1959			To rename the schools.	"[""Names of Caparan Primary School changed to Tiayon Primary School"", ""Names of Dalangin Primary School changed to Darol Moslem Primary School""]"		"[""school name change"", ""local education"", ""Republic Act""]"	"[""Caparan Primary School"", ""Dalangin Primary School"", ""Tiayon Primary School"", ""Darol Moslem Primary School"", ""Ipil"", ""Zamboanga del Sur""]"
+repacts:datasets/markdown/repacts/1959/ra_2502_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2502_1959.md	ra_2502_1959	An Act Creating Certain Barrios in the Province of Zamboanga del Sur	"**REPUBLIC ACT No. 2502**
+
+ **An Act Creating Certain Barrios in the Province of Zamboanga del Sur**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Bolarong, Talanusa, Guinimanan, Bius, Linoguayan, Kapatagan, Waling Waling, Limason, Lonib, Cogon, Lumbog, Macaulay, Limbatong, Tulapok, Calian and Igat Islan in the Municipality of Margosatubig, province of Zamboanga del Sur, are converted into barrios of said municipality to be known as the barrios of Bolarong, Talanusa, Guinimanan, Bius, Linoguayan, Kapatagan, Waling Waling, Limason, Lonib, Cogon, Lumbog, Macaulay, Limbatong, Tulapok, Calian, and Igat Island, respectively.
+
+ **Section 2.** The sitio of Loy-a in the Municipality of San Pablo, same province, is converted into a barrio of said municipality to be known as the barrio of Regla.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	An act converting specified sitios in Zamboanga del Sur into barrios.	"[{""title"": ""Section 1."", ""summary"": ""Conversion of the sitios of Bolarong, Talanusa, Guinimanan, Bius, Linoguayan, Kapatagan, Waling Waling, Limason, Lonib, Cogon, Lumbog, Macaulay, Limbatong, Tulapok, Calian and Igat Islan in the Municipality of Margosatubig into barrios with the same names.""}, {""title"": ""Section 2."", ""summary"": ""Conversion of the sitio of Loy-a in the Municipality of San Pablo into the barrio of Regla.""}, {""title"": ""Section 3."", ""summary"": ""The act shall take effect upon its approval.""}]"	2502	June 21, 1959			To convert certain sitios into barrios in Zamboanga del Sur.	"[""Conversion of specified sitios into barrios"", ""Effective upon approval""]"		"[""Republic Act"", ""Zamboanga del Sur"", ""Barrios"", ""Sitios""]"	"[""barrios"", ""sitios"", ""Zamboanga del Sur"", ""Republic Act 2502""]"
+repacts:datasets/markdown/repacts/1959/ra_2503_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2503_1959.md	ra_2503_1959	An Act Creating Certain Barrios in the Municipality of Aborlan, Province of Palawan	"**REPUBLIC ACT No. 2503**
+
+ **An Act Creating Certain Barrios in the Municipality of Aborlan, Province of Palawan**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Tinagong-dagat, Apoaporawan and Malatgao in the Municipality of Aborlan, Province of Palawan, are converted into barrios of said municipality to be known as the barrios of Tinagong-dagat, Sandoval and Malatgao, respectively.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	Converts several sitios in the Municipality of Aborlan into barrios, establishing Tinagong-dagat, Sandoval, and Malatgao as new barrios.	"[{""title"": ""Section 1"", ""summary"": ""Converts the sitios of Tinagong-dagat, Apoaporawan, and Malatgao into barrios named Tinagong-dagat, Sandoval, and Malatgao.""}, {""title"": ""Section 2"", ""summary"": ""The act takes effect upon approval.""}]"	2503	June 21, 1959			To create barrios in the Municipality of Aborlan, Province of Palawan.	"[""Conversion of the sitios of Tinagong-dagat, Apoaporawan, and Malatgao into barrios.""]"		"[""Local Government"", ""Municipality"", ""Barrios"", ""Palawan""]"	"[""Barrios"", ""Sitios"", ""Aborlan"", ""Palawan"", ""Republic Act 2503""]"
+repacts:datasets/markdown/repacts/1959/ra_2504_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2504_1959.md	ra_2504_1959	An Act Creating Certain Barrios in the Province of Surigao	"**REPUBLIC ACT No. 2504**
+
+ **An Act Creating Certain Barrios in the Province of Surigao**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Bognan, Mone, Luha, Tumanan, Sta. Cruz, Sute, Tabon and Caguyao in the Municipality of Bislig, province of Surigao, are converted into barrios of said municipality to be known as the barrios of Bognan, Mone, Luha, Tumanan, Sta. Cruz, Sute, Tabon and Caguyao, respectively.
+
+ **Section 2.** The sitios of Lahi, Hayangabon, Cagdianao, Cabugo and Sapa in the Municipality of Claver, same province, are converted into barrios of said municipality to be known as the barrios of Lahi, Hayangabon, Cagdianao, Cabugo and Sapa, respectively.
+
+ **Section 3.** The sitio of Balibadon in the Municipality of Cortes, same province, is converted into a barrio of said municipality to be known as the barrio of Balibadon.
+
+ **Section 4.** The sitios of Caman-onan, Lahi, Cambo-ayon and Anibongan in the Municipality of Gigaquit, same province, are converted into barrios of said municipality to be known as the barrios of Caman-onan, Lahi, Cambo-ayon and Anibongan, respectively.
+
+ **Section 5.** The sitios of Cambatong and Tagasaka in the Municipality of Hinatuan, same province, are converted into barrios of said municipality to be known as the barrios of Cambatong and Tagasaka, respectively.
+
+ **Section 6.** The sitios of Cabacungan, Unidad, Kinayan, Barobo, Anibungan, Diatagon, Javier, San Vicente, Amaga, Cangbagang and Bahi in the Municipality of Liangan, same province, are converted into barrios of said municipality to be known as the barrios of Cabacungan, Unidad, Kinayan, Barobo, Anibungan, Diatagon, Javier, San Vicente, Amaga, Cangbagang and Bahi, respectively.
+
+ **Section 7.** The sitio of Cabiton-an in the Municipality of Loreto, same province, is converted into a barrio of said municipality to be known as the barrio of Magsaysay.
+
+ **Section 8.** The sitios of San Jose, Dayano and Ombong in the Municipality of Mainit, same province, are converted into barrios of said municipality to be known as the barrios of San Jose, Dayano and Ombong, respectively.
+
+ **Section 9.** The sitios of Cagtenae, Cawayan, Hanagdong and Carihatag in the Municipality of Malimono, same province, are converted into barrios of said municipality to be known as the barrios of Cagtenae, Cayawan, Hanagdong and Carihatag, respectively.
+
+ **Section 10.** The sitio of Bito-on in the Municipality of Numacia, same province, is converted into a barrio of said municipality to be known as the barrio of Bito-on.
+
+ **Section 11.** The sitios of Garcia, Magsaysay and Coboy in the Municipality of Sapao, same province, are converted into barrios of said municipality to be known as the barrios of Garcia, Magsaysay and San Juan, respectively.
+
+ **Section 12.** The sitios of Poctoy and Mayag in the Municipality of Surigao, same province, are converted into barrios of said municipality to be known as the barrios of Poctoy and Mayag, respectively.
+
+ **Section 13.** The sitios of Libas Gua, Barras, Layog, Jubang, Umbay, Carromata, Kinabigtasan, Bangsud, Ciagao, Maitum, Cayale, Bajao and Dayo-an in the Municipality of Tago, same province, are converted into barrios of said municipality to be known as the barrios of Libas Gua, Barras, Layog, Jubang, Umbay, Carromata, Kinabigtasan, Bangsud, Ciagao, Maitum, Cayale, Bajao and Dayo-an, respectively.
+
+ **Section 14.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	An act that converts specified sitios into barrios within the province of Surigao, Philippines, thereby redefining local administrative units.	"[{""title"": ""Section 1."", ""summary"": ""Conversion of the sitios of Bognan, Mone, Luha, Tumanan, Sta. Cruz, Sute, Tabon and Caguyao in Bislig into barrios of the same names.""}, {""title"": ""Section 2."", ""summary"": ""Conversion of the sitios of Lahi, Hayangabon, Cagdianao, Cabugo and Sapa in Claver into barrios of the same names.""}, {""title"": ""Section 3."", ""summary"": ""Conversion of the sitio of Balibadon in Cortes into a barrio of the same name.""}, {""title"": ""Section 4."", ""summary"": ""Conversion of the sitios of Caman-onan, Lahi, Cambo-ayon and Anibongan in Gigaquit into barrios of the same names.""}, {""title"": ""Section 5."", ""summary"": ""Conversion of the sitios of Cambatong and Tagasaka in Hinatuan into barrios of the same names.""}, {""title"": ""Section 6."", ""summary"": ""Conversion of the sitios of Cabacungan, Unidad, Kinayan, Barobo, Anibungan, Diatagon, Javier, San Vicente, Amaga, Cangbagang and Bahi in Liangan into barrios of the same names.""}, {""title"": ""Section 7."", ""summary"": ""Conversion of the sitio of Cabiton-an in Loreto into a barrio named Magsaysay.""}, {""title"": ""Section 8."", ""summary"": ""Conversion of the sitios of San Jose, Dayano and Ombong in Mainit into barrios of the same names.""}, {""title"": ""Section 9."", ""summary"": ""Conversion of the sitios of Cagtenae, Cawayan, Hanagdong and Carihatag in Malimono into barrios of the same names.""}, {""title"": ""Section 10."", ""summary"": ""Conversion of the sitio of Bito-on in Numacia into a barrio of the same name.""}, {""title"": ""Section 11."", ""summary"": ""Conversion of the sitios of Garcia, Magsaysay and Coboy in Sapao into barrios of the same names.""}, {""title"": ""Section 12."", ""summary"": ""Conversion of the sitios of Poctoy and Mayag in Surigao into barrios of the same names.""}, {""title"": ""Section 13."", ""summary"": ""Conversion of the sitios of Libas Gua, Barras, Layog, Jubang, Umbay, Carromata, Kinabigtasan, Bangsud, Ciagao, Maitum, Cayale, Bajao and Dayo-an in Tago into barrios of the same names.""}, {""title"": ""Section 14."", ""summary"": ""The act shall take effect upon its approval.""}]"	2504	June 21, 1959			To convert specific sitios into barrios within the province of Surigao, thereby redefining local administrative units.	"[""Conversion of specified sitios into barrios"", ""Redefinition of local administrative boundaries in Surigao""]"		"[""Local Government"", ""Barrios"", ""Surigao""]"	"[""Barrios"", ""Sitios"", ""Surigao"", ""Republic Act"", ""Local Government""]"
+repacts:datasets/markdown/repacts/1959/ra_2505_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2505_1959.md	ra_2505_1959	An Act Changing the Name of the Municipality of Daraga, Province of Albay, to Municipality of Locsin	"**REPUBLIC ACT No. 2505**
+
+ **An Act Changing the Name of the Municipality of Daraga, Province of Albay, to Municipality of Locsin**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Municipality of Daraga, Province of Albay, is changed to Municipality of Locsin.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act changes the name of the Municipality of Daraga in Albay to Municipality of Locsin.	"[{""title"": ""Section 1."", ""summary"": ""The name of the Municipality of Daraga, Province of Albay, is changed to Municipality of Locsin.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2505	June 21, 1959			To change the municipal name from Daraga to Locsin in Albay province.	"[""The name of the Municipality of Daraga, Province of Albay, is changed to Municipality of Locsin."", ""This Act shall take effect upon its approval.""]"		"[""municipality"", ""name change"", ""Albay"", ""local government""]"	"[""Daraga"", ""Locsin"", ""Albay"", ""municipality"", ""name change""]"
+repacts:datasets/markdown/repacts/1959/ra_2506_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2506_1959.md	ra_2506_1959	An Act Creating the Barrios of Santa Cruz in the Municipality of Puerto Princesa, Province of Palawan	"**REPUBLIC ACT No. 2506**
+
+ **An Act Creating the Barrios of Santa Cruz in the Municipality of Puerto Princesa, Province of Palawan**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Kalatubog and Kilometer 32 of Puerto Princesa North Road in the Municipality of Puerto Princesa, Province of Palawan, are constituted into a barrio of said municipality to be known as the barrio of Santa Cruz.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	The act creates the barrio of Santa Cruz in Puerto Princesa, Palawan, comprising the sitios of Kalatubog and Kilometer 32 of Puerto Princesa North Road, and takes effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The sitios of Kalatubog and Kilometer 32 of Puerto Princesa North Road are constituted into a barrio named Santa Cruz.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	2506	June 21, 1959			To establish the barrio of Santa Cruz in Puerto Princesa, Palawan, comprising the sitios of Kalatubog and Kilometer 32, thereby providing local governance and administrative recognition.	"[""Creation of the barrio of Santa Cruz comprising the sitios of Kalatubog and Kilometer 32."", ""Act takes effect upon approval.""]"		"[""Local Government"", ""Barrios"", ""Palawan"", ""Puerto Princesa""]"	"[""barrios"", ""Santa Cruz"", ""Puerto Princesa"", ""Palawan"", ""sitios"", ""Kalatubog"", ""Kilometer 32"", ""municipality"", ""local governance""]"
+repacts:datasets/markdown/repacts/1959/ra_2507_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2507_1959.md	ra_2507_1959	An Act Creating Certain Barrios in the Municipality of Lupon, Province of Davao	"**REPUBLIC ACT No. 2507**
+
+ **An Act Creating Certain Barrios in the Municipality of Lupon, Province of Davao**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The following sitios in the Municipality of Lupon, Province of Davao, are converted into barrios of said municipality to be known as follows:
+
+ Sitio Cuabo to Barrio Cuabo; Sitio San Roque to Barrio San Roque; Sitio Crossing Manikling to Barrio Crossing Manikling; Sitio Dogmanon to Barrio Dogmanon; Sitio Eva to Barrio Eva; Sitio Kabangkalan to Barrio Kabangkalan; Sitio Magsaysay to Barrio Magsaysay; Sitio San Jose to Barrio San Jose; Sitio Kauswagon to Barrio Kauswagon; Sitio Kalubihan to Barrio Kalubihan; Sitio Mugbongcugon to Barrio Mugbongcugon; Sitio Kabaddiangan to Barrio Kabaddiangan; Sitio Kalapagan to Barrio Kalapagan; Sitio San Vicente to Barrio San Vicente; Sitio Maragatas to Barrio Maragatas; and Sitio Mahayag to Barrio Mahayag.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Act	An act that converts specified sitios in Lupon, Davao Province into barrios.	"[{""title"": ""Section 1"", ""summary"": ""Lists the sitios that are converted into barrios of Lupon, Davao Province.""}, {""title"": ""Section 2"", ""summary"": ""States that the act takes effect upon its approval.""}]"	2507	June 21, 1959			To convert specified sitios into barrios in the Municipality of Lupon, Davao Province.	"[""Conversion of specified sitios into barrios"", ""Act takes effect upon approval""]"		"[""Republic Act"", ""Local Government"", ""Municipality"", ""Barrios"", ""Davao"", ""Lupon""]"	"[""Barrios"", ""Sitios"", ""Lupon"", ""Davao"", ""Republic Act"", ""Local Government""]"
+repacts:datasets/markdown/repacts/1959/ra_2508_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2508_1959.md	ra_2508_1959	An Act Changing the Name of the Santo Domingo High School in the Municipality of Santo Domingo, Province of Nueva Ecija, to Julia Ortiz Luis High School	"**REPUBLIC ACT No. 2508**
+
+ **An Act Changing the Name of the Santo Domingo High School in the Municipality of Santo Domingo, Province of Nueva Ecija, to Julia Ortiz Luis High School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Santo Domingo High School in the Municipality of Santo Domingo, Province of Nueva Ecija, is changed to Julia Ortiz Luis High School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Education	This act changes the name of the Santo Domingo High School to Julia Ortiz Luis High School.	"[{""title"": ""Section 1"", ""summary"": ""The name of the Santo Domingo High School in the Municipality of Santo Domingo, Province of Nueva Ecija, is changed to Julia Ortiz Luis High School.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	2508	June 21, 1959			To change the name of the Santo Domingo High School to Julia Ortiz Luis High School.	"[""The name of the Santo Domingo High School is changed to Julia Ortiz Luis High School."", ""This Act shall take effect upon its approval.""]"		"[""Education"", ""School Name Change"", ""Public Institution"", ""Nueva Ecija""]"	"[""Santo Domingo High School"", ""Julia Ortiz Luis High School"", ""Nueva Ecija"", ""School Name Change"", ""Republic Act 2508""]"
+repacts:datasets/markdown/repacts/1959/ra_2509_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2509_1959.md	ra_2509_1959	An Act Creating the Municipality of Ampatuan, Province of Cotabato	"**REPUBLIC ACT No. 2509**
+
+ **An Act Creating the Municipality of Ampatuan, Province of Cotabato**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The barrios of Decalungan, Esperanza, Kauran, Manibba (Banaba), Matiompong, Kalandagan, Kayakaya, Upper Mao, Lower Mao, Guinibon, Makaubas, Buluan, Kamasi, Sampao, Upper Kakal, Lower Kakal, Tuka, Maganoy, Kaliawa, Malatimon, Kapimpilan, Laguinding and Timbangan, Municipality of Datu Piang, Province of Cotabato, are separated from said municipality, and are constituted into a district and independent municipality to be known as the Municipality of Ampatuan, Province of Cotabato, with the seat of government at the present site of the barrio of Decalungan, and the boundary of this new municipality shall be more definitely defined as follows:
+
+ > ""Beginning at Cabuban Bridge, on the Cotabato-Dalican-Allah Road, going due west to a point on the boundary line of the municipalities of Dinaig and Upi; thence going on a southwesterly direction following the boundary line of Dinaig and Upi to a point following the boundary lines of the municipalities of Lebak, Upi, Datu Piang and Dinaig meet; thence going on a southeasterly direction following the boundary line of the municipalities of Lebak and Datu Piang to a point where the boundary lines of the municipalities of Lebak, Datu Piang and Isulan meet; thence going due east following the boundary line of the municipalities of Datu Piang and Isulan to Allah Bridge, on the Cotabato-Dalican-Allah Road; thence going on a northeasterly direction following the course of the Allah River downstream to the junction of the Allah and Kapingkong Rivers, thence going on a northwesterly direction following the Allah River downstream to the junction of the Allah and Cabulnan Rivers; thence going on a southwesterly direction following the course of the Cotabato-Dalican-Allah Road, the point of beginning.""\

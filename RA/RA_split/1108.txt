@@ -1,0 +1,131 @@
+repacts:datasets/markdown/repacts/1966/ra_4772_1966.md	repacts	1966		datasets/markdown/repacts/1966/ra_4772_1966.md	ra_4772_1966	An Act Changing the Name of Tacloban Airport in the Province of Leyte to Speaker Daniel Z. Romualdez Airport	"**REPUBLIC ACT No. 4772**
+
+ An Act Changing the Name of Tacloban Airport in the Province of Leyte to Speaker Daniel Z. Romualdez Airport
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Tacloban Airport in the Province of Leyte is hereby changed to Speaker Daniel Z. Romualdez Airport.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1966.
+"	success	Republic Act	This act changes the name of Tacloban Airport to Speaker Daniel Z. Romualdez Airport.	"[{""title"": ""Section 1"", ""summary"": ""The name of the Tacloban Airport in the Province of Leyte is hereby changed to Speaker Daniel Z. Romualdez Airport.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	4772	June 18, 1966			To rename Tacloban Airport to Speaker Daniel Z. Romualdez Airport.	"[""Section 1: name of the airport changed to Speaker Daniel Z. Romualdez Airport."", ""Section 2: act takes effect upon approval.""]"		"[""Airport"", ""Name change"", ""Leyte""]"	"[""Tacloban Airport"", ""Speaker Daniel Z. Romualdez"", ""Leyte"", ""name change""]"
+repacts:datasets/markdown/repacts/1966/ra_4773_1966.md	repacts	1966		datasets/markdown/repacts/1966/ra_4773_1966.md	ra_4773_1966	An Act Increasing the Bed Capacity of the Samar Provincial Hospital in the Municipality of Catbalogan, Province of Samar, to One Hundred Beds and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 4773**
+
+ An Act Increasing the Bed Capacity of the Samar Provincial Hospital in the Municipality of Catbalogan, Province of Samar, to One Hundred Beds and Authorizing the Appropriation of Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The bed capacity of Samar Provincial Hospital in the Municipality of Catbalogan, Province of Samar, is hereby increased to one hundred beds.
+
+ **Section 2.** The sum of two hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of said hospital during the fiscal year nineteen hundred sixty-seven. Thereafter, such sum as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1966.
+"	success	Legislation	An act to increase the bed capacity of Samar Provincial Hospital to one hundred beds and authorize the appropriation of 200,000 pesos for its operation and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""The bed capacity of Samar Provincial Hospital is increased to one hundred beds.""}, {""title"": ""Section 2."", ""summary"": ""Appropriation of two hundred thousand pesos for operation and maintenance during fiscal year 1967, with future amounts to be included in the General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""The act shall take effect upon its approval.""}]"	4773	June 18, 1966			To increase the bed capacity of Samar Provincial Hospital to 100 beds and authorize the appropriation of funds for its operation and maintenance.	"[""Increase bed capacity to 100 beds."", ""Authorize appropriation of 200,000 pesos for operation and maintenance during fiscal year 1967."", ""Effectivity upon approval.""]"		"[""Healthcare"", ""Hospital"", ""Bed Capacity"", ""Appropriation"", ""Legislation""]"	"[""bed capacity"", ""hospital"", ""Samar"", ""Catbalogan"", ""appropriation"", ""fund"", ""operation"", ""maintenance""]"
+repacts:datasets/markdown/repacts/1966/ra_4774_1966.md	repacts	1966		datasets/markdown/repacts/1966/ra_4774_1966.md	ra_4774_1966	An Act Appropriating Five Million Pesos for Relief and Aid to the Fire Victims in Iloilo City and Roxas City	"**REPUBLIC ACT No. 4774**
+
+ An Act Appropriating Five Million Pesos for Relief and Aid to the Fire Victims in Iloilo City and Roxas City
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, the sum of five million pesos for relief and aid to the Filipino victims of the fire which occurred in Iloilo City on February seven and eight, nineteen hundred and sixty-six, said aid and relief to be administered and distributed by the city relief committee to be composed of the representative of the Social Welfare Administration as chairman, with the city engineer, city assessor, city treasurer, and representative of the Red Cross as members: *Provided,* However, That out of the amount herein appropriated, one million pesos shall be allocated and/or set aside for the relief and aid to Filipino victims of the fire which occurred in Roxas City in January, nineteen hundred and sixty-six.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1966.
+"	success	Republic Act	An appropriation of five million pesos to provide relief and aid to victims of fires in Iloilo City (February 7-8, 1966) and Roxas City (January 1966). The funds are to be administered by a city relief committee comprising representatives of the Social Welfare Administration, city engineer, city assessor, city treasurer, and the Red Cross.	"[{""title"": ""Section 1"", ""summary"": ""Appropriates five million pesos for relief and aid to fire victims in Iloilo City, with one million pesos set aside for Roxas City. The funds are to be administered by a city relief committee with specified members.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	4774	June 18, 1966			To provide financial assistance and relief to victims of the 1966 fires in Iloilo City and Roxas City.	"[""Appropriation of five million pesos for fire relief"", ""One million pesos allocated for Roxas City victims"", ""Administration by city relief committee"", ""Effectivity upon approval""]"		"[""appropriation"", ""fire relief"", ""Iloilo City"", ""Roxas City"", ""social welfare""]"	"[""five million pesos"", ""relief"", ""aid"", ""fire victims"", ""Iloilo City"", ""Roxas City"", ""Social Welfare Administration"", ""Red Cross""]"
+repacts:datasets/markdown/repacts/1966/ra_4775_1966.md	repacts	1966		datasets/markdown/repacts/1966/ra_4775_1966.md	ra_4775_1966	An Act Including the Province of Romblon in the Region Served by Panay Development Authority, Amending for the Purpose Republic Act Numbered Thirty-Eight Hundred Fifty-Six	"**REPUBLIC ACT No. 4775**
+
+ An Act Including the Province of Romblon in the Region Served by Panay Development Authority, Amending for the Purpose Republic Act Numbered Thirty-Eight Hundred Fifty-Six
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section one of Republic Act Numbered Thirty-eight hundred fifty-six is amended to read as follows:
+
+ > ""Sec. 1. *Declaration of Policy.* It is hereby declared to be the policy of Congress to adopt accelerated measures and to utilize to the maximum local resources and talents to bolster agro-industrial development through the leadership, guidance and support of the Government. To this end, cognizant of the necessity of grouping together regional areas having similar economic and geographical basis, the provinces grouped together as one region comprising the Island of Panay and the Province of Romblon, hereinafter referred to as the region, shall constitute a Regional Development Authority for the purpose of conducting economic surveys to determine its agricultural and industrial potentialities and mapping out and implementing plans and programs to effect the coordinated and integrated efforts of various government agencies, as well as private entities engaged in activities conducive to rapid regional agro-industrial development; of providing active leadership in the establishment of pioneering industrial, agricultural or similar enterprises and lending financial, managerial and/or technical assistance to existing or prospective ventures within the region.""
+
+ **Section 2.** Section twelve of the same Act is amended to read as follows:
+
+ > ""Sec. 12. *Board of DirectorsComposition.* The corporate powers of the Authority shall be vested in and exercised by a Board of Directors herein referred to as the Board, which shall be composed of five members including its chairman, appointed by the President of the Philippines with the consent of the Commission on Appointments. The governors of the Provinces of Aklan, Capiz, Antique, Iloilo and Romblon shall be members ex-officio of the Board and as such shall take part in all its meetings, deliberations and discussions, but shall not have the right to vote, except as hereinafter provided.""
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1966.
+"	success	Legislative Act	Republic Act No. 4775 amends RA 3856 to incorporate Romblon province into the Panay Development Authority region, establishes policy for regional agro-industrial development, and defines the composition of the Authority’s Board of Directors.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 1 of RA 3856 to declare policy for accelerated regional agro-industrial development, including Romblon as part of the Panay region, and outlines objectives for coordination among government agencies and private entities.""}, {""title"": ""Section 2"", ""summary"": ""Amends Section 12 of RA 3856 to compose the Board of Directors of the Panay Development Authority with five members plus ex-officio governors of Aklan, Capiz, Antique, Iloilo, and Romblon, specifying appointment procedures and voting rights.""}, {""title"": ""Section 3"", ""summary"": ""States that the act shall take effect upon its approval.""}]"	4775	June 18, 1966			To include Romblon province in the Panay Development Authority region and amend RA 3856 accordingly.	"[""Inclusion of Romblon province in the Panay region"", ""Declaration of policy for regional agro-industrial development"", ""Composition and appointment of the Board of Directors"", ""Effectuation upon approval""]"	Republic Act No. 3856	"[""regional development"", ""agro-industrial"", ""Panay Development Authority"", ""Romblon""]"	"[""Romblon"", ""Panay"", ""Development Authority"", ""agro-industrial"", ""Board of Directors""]"
+repacts:datasets/markdown/repacts/1966/ra_4776_1966.md	repacts	1966		datasets/markdown/repacts/1966/ra_4776_1966.md	ra_4776_1966	Republic Act No. 4776	"**REPUBLIC ACT No. 4776**
+
+ An Act Amending Certain Provisions of Republic Act Numbered Thirty Hundred Sixty-Eight, Known as the Revised Charter of the City of Tacloban, and for Other Purposes
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section five of Republic Act Numbered Thirty hundred sixty-eight is hereby amended to read as follows:
+
+ > ""Sec. 5. *Territory of the City of Tacloban.* The City of Tacloban shall comprise the territorial jurisdiction of the former Municipality of Tacloban in the Province of Leyte, and shall be divided, for all administrative and other municipal purposes, into the city proper which shall be divided by ordinance into districts, and the rest of the territory of the city into barrios in accordance with Article IV hereof.""
+
+ **Section 2.** Section six of the same Act is amended to read as follows:
+
+ > ""Sec. 6. *Jurisdiction of the City.* The jurisdiction of the City of Tacloban for police purposes only shall be co-extensive with its territorial jurisdiction; and shall extend to the mid-channel of the San Juanico Strait and three miles from the shore into San Pedro Bay; however, for the purpose of effecting the arrest of a person who has committed an offense within the jurisdiction of the city, the police authorities of the city shall exercise concurrent jurisdiction with police forces of other municipalities where said offender may have fled or escaped; and for the purpose of protecting and insuring the purity of the water supply of the city, such police jurisdiction shall also extend over all territory within the drainage area of such water supply, or within one hundred meters of any reservoir, conduit, canal, aqueduct, or pumping station used in connection with the city water service. The city court of the city shall have concurrent jurisdiction with the municipal court of the respective municipalities to try crimes and misdemeanors committed within said drainage area, or within said spaces of one hundred meters. The court first taking jurisdiction of such an offense shall thereafter retain exclusive jurisdiction thereof. The police force of the several municipalities concerned shall have concurrent jurisdiction with the police force of the city for the maintenance of good order and the enforcement of ordinances throughout said zone, area and spaces. But any license that may be issued within said zone, area or space shall be granted by the proper authorities of the municipalities concerned and the fees arising therefrom shall accrue to the treasury of the said municipality concerned and not to that of the city.""
+
+ **Section 3.** Section seven of the same Act is amended to read as follows:
+
+ > ""Sec. 7. *The Mayor.* The Mayor shall be the chief executive of the city. He shall be elected at large by the qualified voters of the city. No person shall be eligible for the position of Mayor unless, at the time of his election, he is at least twenty-five years of age, a resident of the city for at least two years prior to his election, and a qualified voter therein. He shall hold office for four years unless sooner removed for just cause and with due process of law, and shall receive a salary of not less than fifteen thousand pesos per annum. The Municipal Board may appropriate such sum of money as may be necessary for the housing and representation allowance of the Mayor, not to exceed six thousand pesos annually or commute the same in addition to his salary.""
+
+ **Section 4.** Paragraphs one and three, Section eight of the same Act are amended to read as follows:
+
+ > ""Sec. 8. *The Vice-Mayor.* There shall be elected a Vice-Mayor who shall perform the duties and exercise the powers of the Mayor, in the event of sickness, absence or other temporary incapacity of the Mayor. In the event of death, resignation or definite and permanent vacancy in the position of Mayor, the Vice-Mayor shall become the Mayor. The Vice-Mayor shall be elected in the same manner as the Mayor and shall, at the time of his election, possess the same qualifications as the Mayor.
+>
+>  ""The Vice-Mayor shall perform such other duties as may be assigned to him by the Mayor or prescribed by law or ordinance. He shall receive a salary of not less than ten thousand two hundred pesos per annum.""
+
+ **Section 5.** Sub-paragraph (e), Section nine, of the same Act is amended to read as follows:
+
+ > ""(e) To see that the executive officers and employees of the city property discharge their respective duties. The Mayor may, in the interest of the service, transfer officers and employees not appointed by the President of the Philippines from one section, division, or service to another section, division, or service without changing the compensation they receive.""
+
+ **Section 6.** Section ten of the same Act is amended to read as follows:
+
+ > ""Sec. 10. *Secretary to the Mayor.* The Mayor shall appoint one secretary, who shall have the rank of a department head and who shall have charge and custody of all records and documents of the city and of any office or department thereof for which provision is not otherwise made; shall keep the corporate seal and affix the same with his signature on all ordinances and resolutions signed by the Mayor and all other official documents and papers of the government of the city as may be required by law or ordinance; shall attest all executive orders, proclamations, ordinances and resolutions signed by the Mayor and shall perform such other duties as the Mayor may require of him; shall, upon request, furnish certified copies of all city records and documents in his charge which are not of confidential nature, and collect and receive such fees as may be prescribed by law or resolution of the Municipal Board. He shall also perform such duties as are required of the heads of departments of the city government under Section twenty-one hereof. The position of the secretary shall be regarded as within the unclassified civil service but may be filled in the manner in which classified positions are filled, and if so filled, the appointee shall be entitled to all the benefits and privileges of classified employees, except that he shall hold office only during the term of the appointing Mayor and until a successor in the office of the secretary is appointed and qualified, unless sooner separated. He shall receive a salary of not less than nine thousand six hundred pesos per annum.""
+
+ **Section 7.** The same Act is amended by inserting between Sections ten and eleven thereof a new section to be known as Section ten-A, to read as follows:
+
+ > ""Sec. 10-A. *Assistant Secretary.* There shall be an assistant secretary to the Mayor who shall assist the secretary to the Mayor in the discharge of his official duties and perform such other duties as the Mayor may required of him.
+>
+>  ""The position of the assistant secretary shall be regarded as within the unclassified civil service but may be filed in the manner in which classified positions are filled, and if so filled, the appointee shall be entitled to all the benefits and privileges of classified employees, except that he shall hold office only during the term of the appointing Mayor and until a successor in the office of assistant secretary is appointed and qualified, unless sooner separated.
+>
+>  ""In the absence of the secretary, or in cases of illness or inability of the secretary to discharge his duties, the assistant secretary shall assume the powers and duties of the former. He shall receive a salary of not less than six thousand six hundred pesos per annum.""
+
+ **Section 8.** The third paragraph, Section eleven of the same Act is amended to read as follows:
+
+ > ""The members of the Municipal Board shall receive a salary of not less than seven thousand eight hundred pesos each per annum.""
+
+ **Section 9.** The last paragraph, Section thirteen of the same Act is amended to read as follows:
+
+ > ""The Secretary shall be in charge of the records of the Municipal Board. He shall keep a full record of the proceedings of the Board, and file all documents relating thereto; shall record in a book kept for that purpose; all ordinances, and all resolutions and motions directing the payment of money or creating liability, enacted or adopted by the Board, with the dates of passage of the same, and of the publication of ordinances; shall keep a seal, circular in form, with the inscription Municipal BoardCity of Tacloban in the center of which shall be placed the arms of the city, and affix the same, with his signature to all ordinances and other official acts of the Board, and shall present the same for signature to the Presiding Officer; shall cause each ordinance passed to be published as herein provided; shall, upon request, furnish certified copies of all records of public character in his charge under the seal of his office; and collect and receive therefor such fees as may be prescribed by resolution of the Board; and shall keep his office and all records therein which are not of a confidential nature, open to public inspection during usual business hours. The compensation of the Secretary shall be not less than nine thousand six hundred pesos per annum.""
+
+ **Section 10.** The first paragraph, Section fourteen of the same Act is amended to read as follows:
+
+ > ""Sec. 14. *Legislative Procedure.* The Board shall hold two ordinary sessions for the transaction of business during each week on days which it shall fix by resolutions, and such extraordinary sessions, as may be called by the Mayor. It shall sit with open doors unless otherwise ordered by the affirmative vote of a majority of all the members. It shall keep a record of all its proceedings and determine its rules of procedure not herein set forth, as well as determine its officers except the presiding officer, the number thereof and the method of their election and their terms of office. A majority of all the members of the Board shall constitute a quorum for the transaction of business, but a smaller number may adjourn from day to day and may compel the immediate attendance of any member who is absent without good cause by issuing to the police of the city an order for his arrest and production at the session under such penalties as shall have been previously prescribed by ordinance. The affirmative vote of a majority of all the members shall be necessary for the passage of any ordinance, or of any resolution or motion directing the payment of money or creating liability, but other measures shall prevail upon the majority vote of the members present at any session duly called and held. The ayes and nays shall be taken and recorded upon the passage of all ordinances, upon all resolutions or motions directing the payment of money or creating liability, and, at the request of any member, upon any other resolution or motion. Each approved ordinance, resolution or motion shall be sealed with the seal of the Municipal Board, and recorded in a book kept for the purpose and shall, on the day following its passage, be posted by the secretary at the main entrance of the city hall and in at least two other public places, and shall take effect and be in force on and after the tenth day following its passage, unless otherwise stated in said ordinance, resolution or motion or vetoed by the Mayor as hereinafter provided. A vetoed ordinance, if repassed, shall take effect ten days after the veto is overridden by the required votes, unless otherwise stated in the ordinance, resolution or motion or again disapproved by the Mayor.""
+
+ **Section 11.** Sub-paragraphs (b), (s), and (u), Section fifteen of the same Act are amended to read as follows:
+
+ > ""(b) To fix the number and salaries of officials and employees of the city not otherwise provided for in this Act or other laws.
+>
+>  ""(s) To permit, regulate and tax motor and other vehicles operating within the City of Tacloban, the provisions of any existing law to the contrary notwithstanding, and draft animals not paying any national tax: *Provided,* That all automobiles and trucks belonging to the National Government or to any provincial or municipal government shall be exempt from such tax.
+>
+>  ""(u) To impose a sales tax of not exceeding two per centum of the gross value in money of all articles sold, bartered, exchanged, transferred, delivered or consigned within the City, regardless of the origin of said articles or goods.""
+
+ **Section 12.** The same Act is amended by adding sub-paragraph (uu) to Section fifteen hereof:
+
+ > ""(uu) The provisions of existing law to the contrary notwithstanding, to undertake the reclamation of any foreshore lands within the jurisdiction of the city, either by administration or by contract, and which reclaimed area may be leased, sold or bartered by the city subject to the provisions of existing laws and regulations on contracts.""
+
+ **Section 13.** Section seventeen of the same Act is amended to read as follows:
+
+ > ""Sec. 17. *Creation of new barrios.* Upon petition of a majority of the voters in the areas affected, a new barrio may be created or the name of an existing one may be changed by the municipal board, in the latter case, upon recommendation of the barrio council.
+>
+>  ""No barrio may be created if its population is less than five hundred.
+>
+>  ""Barrios shall not be created or their boundaries altered nor their names changed except under the provisions hereof or by an Act of Congress.""
+
+ **Section 14.** The same Act is amended by inserting between Sections seventeen and eighteen thereof new sections to be known as Sections seventeen-A, seventeen-B, seventeen-C, seventeen-D, seventeen-E, seventeen-F, seventeen-G and seventeen-H, to read as follows:
+
+ > ""Sec. 17-A. *Barrio Assembly.* The barrio assembly shall consist of all persons who have been residents of the barrio for at least six months, are twenty-one years of age or over, citizens of the Republic of the Philippines and who are duly registered in the list of barrio assembly members kept by the barrio secretary.

@@ -1,0 +1,215 @@
+
+ **Section 26.** *Limitations on the Practice of Public Accountancy.* - Hereafter, all partners or partnerships organized for the practice of public accountancy shall be registered certified public accountants in the Philippines. The Commissioner of the Securities and Exchange Commission shall not register any corporation organized for the practice of public accountancy.
+
+ **Section 27.** *Appropriation.* - To carry out the provisions of this Act, there is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, the sum of twenty thousand pesos.
+
+ **Section 28.** *Repealing Clause.* - Commonwealth Act Numbered Three hundred forty-two and all Acts, executive orders, administrative orders, rules and regulations, or parts thereof inconsistent with the provisions of this Act are repealed or modified accordingly.
+
+ **Section 29.** *Effectivity.* - This Act shall take effect upon its approval:*Provided*, That the Board of Accounting Education shall prescribe the necessary collegiate courses and employment or apprenticeship experience requirements within one year from the date of approval of this Act: *And provided*,*further*, That the admission requirements for examination pertaining to education and experience shall take effect after four years from the date of prescription by the Board of Accounting Education.
+
+ Approved, August 4, 1967.
+"	success	Republic Act	This act establishes the standardization and regulation of accounting education, the examination and registration of Certified Public Accountants, and creates the Boards of Accounting Education and Accountancy to oversee these functions.	"[{""title"": ""ARTICLE I Objectives and Implementation"", ""summary"": ""Introduces the objectives of the Act and establishes the bodies responsible for its implementation.""}, {""title"": ""Section 1. Objectives"", ""summary"": ""Provides for the standardization and regulation of accounting education, the examination for registration of certified public accountants, and the supervision of accountancy practice.""}, {""title"": ""Section 2. Implementation"", ""summary"": ""Creates the Board of Accounting Education and the Board of Accountancy to implement the provisions of the Act.""}, {""title"": ""ARTICLE II The Board of Accounting Education - Its Functions"", ""summary"": ""Describes the composition, compensation, and functions of the Board of Accounting Education, including setting educational standards and prescribing courses.""}, {""title"": ""Section 3. Composition of the Board of Accounting Education"", ""summary"": ""Lists the members of the Board of Accounting Education, including the Secretary of Education, Chairman of the Board of Accountancy, and others.""}, {""title"": ""Section 4. Compensation and Traveling Expenses"", ""summary"": ""States that Board members receive only traveling expenses and outlines administrative procedures.""}, {""title"": ""Section 5. Functions"", ""summary"": ""Outlines the Board\u2019s responsibilities in setting admission requirements, employment experience, certification requirements, and enforcing regulations.""}, {""title"": ""Section 6. Collegiate Courses"", ""summary"": ""Prescribes mandatory units for accounting and related subjects required for admission to the CPA examination.""}, {""title"": ""Section 7. Employment or Apprenticeship Experience Requirements"", ""summary"": ""Specifies one\u2011year employment or apprenticeship experience requirements and allows substitution with academic training.""}, {""title"": ""ARTICLE III The Board of Accountancy; Registration of Certified Public Accountants"", ""summary"": ""Defines the composition, duties, examination procedures, and qualifications of the Board of Accountancy.""}, {""title"": ""Section 8. The Board of Accountancy, its Composition and Duties"", ""summary"": ""Details the appointment process, examination locations, grading, and reporting responsibilities of the Board.""}, {""title"": ""Section 9. Qualifications of Examiners"", ""summary"": ""Lists the eligibility criteria for members of the Board of Accountancy.""}]"	5166	1967			To establish standards for accounting education, examination, and regulation of the accounting profession in the Philippines.	"[""Establishes the Board of Accounting Education and the Board of Accountancy"", ""Sets standards for CPA examinations and educational requirements"", ""Requires minimum educational and experience prerequisites for CPA candidates"", ""Regulates the conduct and supervision of the accounting profession""]"		"[""Accountancy"", ""Professional Regulation"", ""Education"", ""Philippines""]"	"[""Certified Public Accountant"", ""Accounting Education"", ""Board of Accountancy"", ""Examination"", ""Regulation""]"
+repacts:datasets/markdown/repacts/1967/ra_5167_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_5167_1967.md	ra_5167_1967	"An Act to Amend Act Numbered Fourteen Hundred Fifty-Nine, Otherwise Known as the ""Corporation Law"" by Amending Subparagraph Five and Adding a New Subparagraph Five-A, Therein"	"**REPUBLIC ACT No. 5167**
+
+ An Act to Amend Act Numbered Fourteen Hundred Fifty-Nine, Otherwise Known as the ""Corporation Law"" by Amending Subparagraph Five and Adding a New Subparagraph Five-A, Therein
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Subparagraph five, Section thirteen of Act Numbered Fourteen hundred fifty-nine, as amended, is further amended to read as follows:
+
+ > ""(5) To purchase, hold, convey, sell, lease, let, mortgage, encumber, and otherwise deal with such real and personal property as the purposes for which the corporation was formed may permit, and the transaction of the lawful business of the corporation may reasonably and necessarily require unless otherwise prescribed in this Act: *Provided,* That no corporation shall be authorized to conduct the business of buying and selling public lands or be permitted to hold or own real estate except such as may be reasonably necessary to enable it to carry out the purposes for which it is created, and every corporation authorized to engage in agriculture shall be restricted to the ownership and control of not to exceed one thousand and twenty-four hectares of land; and it shall be unlawful for any corporation organized for the purpose of engaging in agriculture to be in anywise interested in any other corporation organized for the purpose of engaging in agriculture; it shall be unlawful for any person owning stock in more than one corporation organized for the purpose of engaging in agriculture to own more than fifteen per centum of the capital stock then outstanding and entitled to vote of each of such corporations; it shall be unlawful for any corporation to own in excess of fifteen per centum of the capital stock then outstanding and entitled to vote of any corporation organized for the purpose of engaging in agriculture; any stockholder of more than one corporation organized for the purpose of engaging in agriculture may hold his stock in such corporations solely for investment and not for the purpose of bringing about or attempting to bring about a combination to exercise control of such corporations, or to directly or indirectly violate any of the provisions of the Public Land Law, and any corporation holding stock in any corporation organized for the purpose of engaging in agriculture may hold such stock solely for investment, and not for the purpose of bringing about or attempting to bring about a combination to effect control of such corporation, or to directly or indirectly violate any of the provisions of the Public Land Law. Corporations, however, may loan funds upon real estate security and purchase real estate when necessary for the collection of loans but they shall dispose of real estate so obtained within five years after receiving the title.""
+
+ **Section 2.** Subparagraph five Section thirteen of Act Numbered Fourteen hundred fifty-nine, as amended, is hereby further amended by adding a new subparagraph 5-A to read as follows:
+
+ > ""(5-A) Any domestic or foreign corporation, and its stockholders organized for the purpose of engaging in mining may acquire and hold not more than forty per centum of the capital stock then outstanding and entitled to vote of only one other corporation organized for the purpose of engaging in mining in the Philippines: *Provided,* That it shall likewise be unlawful for said latter corporation to be in any wise interested in any other corporation organized for the purpose of engaging in mining: *Provided, further,* That the acquisition of up to forty per centum of the outstanding capital stock in a mining corporation already in commercial production shall be as follows: not more than fifteen per centum of the outstanding capital stock and twenty-five per centum through subscription to unissued shares.
+>
+>  ""Any domestic or foreign corporation organized for any purpose other than mining may acquire and hold not more than thirty per centum of the capital stock then outstanding and entitled to vote of each of not more than three corporations organized for the purpose of engaging in mining in the Philippines: *Provided,* That it shall be unlawful for any stockholder of such corporation organized for any purpose other than mining to be a stockholder of any of the said three corporations organized for the purpose of engaging in mining. It shall be unlawful for any person owning a stock in more than one corporation organized for the purpose of engaging in mining to own more than fifteen per centum, of the capital stock then outstanding and entitled to vote of each corporation. Any stockholder of more than one corporation organized for the purpose of engaging in mining may hold his stock in such corporation solely for investment and not for the purpose of bringing about or attempting to bring about a combination to exercise control of such corporation, or to directly or indirectly violate any of the provisions of the mining and the public land laws. Any corporation holding stock in any corporation organized for the purpose of engaging in mining may hold such stock solely for investment, and not for the purpose of bringing about or attempting to bring about a combination to exercise control of such corporation, or directly or indirectly violate any of the provisions of the mining and public land laws. Any corporation not engaged in mining, who before the approval of this amendatory Act had investments of not more than fifteen per centum in each of more than three mining corporations shall be allowed to keep such holding.""
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: August 4, 1967.
+"	success	Republic Act	Republic Act No. 5167 amends the Corporation Law (Act No. 1499) by imposing stricter limits on land ownership and stock holdings for agricultural and mining corporations, adding new restrictions on corporate acquisitions and foreign ownership, and clarifying the legal status of corporations engaged in these industries.	"[{""title"": ""Section 1"", ""summary"": ""Amends Subparagraph five of Section thirteen of Act No. 1499 to restrict agricultural corporations to a maximum of 1,024 hectares of land, limit stock ownership to 15%, and prohibit cross-corporate control among agricultural entities.""}, {""title"": ""Section 2"", ""summary"": ""Adds a new Subparagraph 5-A to Section thirteen of Act No. 1499, limiting domestic or foreign corporations and their stockholders in mining to 40% (15% for commercial production) and imposing mutual restrictions among mining corporations.""}, {""title"": ""Section 3"", ""summary"": ""States that the Act takes effect upon approval.""}]"	5167	August 4, 1967			To restrict land ownership and stock holdings for agricultural and mining corporations, thereby protecting public lands and preventing excessive corporate concentration.	"[""Agricultural corporations limited to 1,024 hectares of land."", ""Stock ownership in agricultural corporations capped at 15%."", ""Prohibition of cross-ownership among agricultural corporations."", ""Domestic/foreign corporations limited to 40% ownership in mining corporations (15% for commercial production)."", ""Restrictions on stockholders owning shares in multiple mining corporations."", ""New Subparagraph 5-A added to the Corporation Law.""]"	Act No. 1499 – Corporation Law	"[""corporate law"", ""land ownership"", ""agriculture"", ""mining"", ""stock limits""]"	"[""corporation law"", ""public lands"", ""agriculture"", ""mining"", ""stock ownership limits"", ""land restrictions""]"
+repacts:datasets/markdown/repacts/1967/ra_5168_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_5168_1967.md	ra_5168_1967	An Act to Standardize the Salaries of Public School Teachers and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 5168**
+
+ An Act to Standardize the Salaries of Public School Teachers and Authorizing the Appropriation of Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** This Act shall be known as the ""Public School Teachers Salary Standardization Act of 1967.""
+
+ **Section 2.** The term ""public school teachers"" as used in this Act and as herein otherwise provided, shall be limited to persons actually engaged in classroom teaching and those performing administrative and/or supervisory functions over particular phases of instruction or subject areas, or of particular schools or districts in the Bureau of Public Schools and the Bureau of Vocational Education.
+
+ The term ""public school teachers"" shall likewise include officials and employees in the Bureau of Private Schools performing supervisory functions over schools or over particular phases of instruction or subject areas whose salaries are paid from national funds.
+
+ **Section 3.** The minimum to maximum rates of compensation of officials and employees covered under this Act are hereby fixed in accordance with schedule ""B"" hereto attached as an integral part of this Act.
+
+ **Section 4.** *Salary Schedule.* The position classification and the corresponding salary ranges are fixed as follows:
+
+ | Group I |  |
+| --- | --- |
+| General Education Supervisor III | Range 56 - ₱9,288 (min.)₱11,328 (max.) |
+| General Secondary School Principal III Group II |  |
+| Division Academic Supervisor | Range 54 - ₱8,400 (min.)₱10,260 (max.) |
+| General Education Supervisor II |  |
+| Curriculum Coordinator II |  |
+| Vocational Education Supervisor |  |
+| Community Adult Education Supervisor II |  |
+| Private Schools Vocational Education Supervisor |  |
+| Private Schools Curriculum Coordinator II |  |
+| School of Arts and Trades Department Head (college) |  |
+| Agriculture School Department Head (college) |  |
+| Fisheries School Department Head (college) |  |
+| Supervisor of Student Teaching |  |
+| Home Industries Training Supervisor |  |
+| Trade School Principal III Group III |  |
+| Dean of Students I | Range 53 - ₱7992 (min.)₱9,756 (max.) |
+| Group IV |  |
+| General Education Supervisor I | Range 51 - ₱7,236 (min.)₱8,832 (max.) |
+| Grade Supervisor |  |
+| Community And Adult Education Supervisor I |  |
+| General Secondary Principal II |  |
+| Special School Principal |  |
+| Vocational Placement Coordinator |  |
+| Curriculum Coordinator I |  |
+| Private Schools Area Supervisor |  |
+| Private Schools Curriculum Coordinator I |  |
+| Test Constructor |  |
+| Educational Researcher |  |
+| Supervising Librarian |  |
+| Senior Librarian |  |
+| Private Schools Supervising Librarian I |  |
+| Teacher Credentials Evaluator |  |
+| Fisheries School Principal II |  |
+| Secondary Agricultural School Principal II |  |
+| Trade School Principal II |  |
+| Vocational Instruction Supervisor II-3 |  |
+| Group V |  |
+| Public School District Supervisor | Range 50 - ₱6,888 (min.)₱8,400 (max.) |
+| Instructor III |  |
+| Vocational Instruction Supervisor III-2 |  |
+| College Librarian 3 |  |
+| Group VI |  |
+| General Secondary Principal I | Range 49 - ₱6,552 (min.)₱7,992 (max.) |
+| Secondary Agriculture Principal I |  |
+| Fisheries Secondary Principal I |  |
+| Trade School Principal I |  |
+| Secondary School Head Teacher III-4 |  |
+| Elementary School Principal III |  |
+| Assistant Supervisor of Student Teaching |  |
+| Assistant General Secondary Principal II |  |
+| Vocational Instruction Supervisor II-1 |  |
+| Group VII |  |
+| Instructor II | Range 48 - ₱6,240 (min.)₱7,608 (max.) |
+| Assistant General Secondary Principal I |  |
+| College Librarian 2 |  |
+| Secondary School Head Teacher III-3 |  |
+| Group VIII |  |
+| Elementary School Principal II | Range 47 - ₱5,928 (min.)₱7,236 (max.) |
+| Assistant Special School Principal |  |
+| Supervising Home Economics Demonstrator |  |
+| Assistant Curriculum Coordinator |  |
+| Secondary School Head Teacher II-5 |  |
+| Junior College Instructor 5 |  |
+| Crafts Demonstrator II |  |
+| Secondary School Head Teacher III-2 |  |
+| Group IX |  |
+| Instructor I | Range 45 - ₱5,376 (min.)₱6,552 (max.) |
+| Secondary School Head Teacher II-4 |  |
+| Junior College Instructor 4 |  |
+| College Librarian I Group X |  |
+| Elementary School Principal I | Range 44 - ₱5,112 (min.)₱6,240 (max.) |
+| Secondary School Head Teacher II-3 |  |
+| Junior College Instructor 3 |  |
+| Secondary School Head Teacher I-5 |  |
+| Special Education Teacher 5 |  |
+| Guidance Coordinator 5 |  |
+| Elementary School Head Teacher 5 |  |
+| School Farming Coordinator 5 |  |
+| Secondary School Head Teacher III-1 |  |
+| Group XI |  |
+| Assistant Instructor | Range 42 - ₱4,632 (min.)₱5,640 (max.) |
+| Secondary School Department Head I |  |
+| Special Education Teacher 4 |  |
+| Guidance Coordinator 4 |  |
+| Secondary School Head Teacher I-4 |  |
+| Elementary School Head Teacher 4 |  |
+| School Farming Coordinator 4 |  |
+| Group XII |  |
+| Secondary School Teacher 5 | Range 41 - ₱4,404 (min.)₱5,376 (max.) |
+| Elementary Grades Teacher 5 |  |
+| Special Education Teacher 3 |  |
+| Guidance Coordinator 3 |  |
+| Elementary School Head Teacher 3 |  |
+| School Librarian 5 |  |
+| Guidance Counselor 5 |  |
+| Kindergarten Teacher 5 |  |
+| Secondary School Head Teacher II-2 |  |
+| Junior College Instructor 2 |  |
+| Secondary School Head Teacher I-3 |  |
+| School Farming Coordinator 3 |  |
+| Group XIII |  |
+| Secondary School Teacher 4 | Range 40 - ₱4,188 (min.)₱5,112 (max.) |
+| Elementary Grades Teacher 4 |  |
+| School Librarian 4 |  |
+| Guidance Counselor 4 |  |
+| Kindergarten Teacher 4 |  |
+| Group XIV |  |
+| Secondary School Teacher 3 | Range 38 - ₱3,792 (min.)₱4,632 (max.) |
+| Elementary Grades Teacher 3 |  |
+| Special Education Teacher 2 |  |
+| Guidance Coordinator 2 |  |
+| Elementary School Head Teacher 2 |  |
+| Secondary School Head Teacher I-2 |  |
+| School Librarian 3 |  |
+| Guidance Counselor 3 |  |
+| Kindergarten Teacher 3 |  |
+| School Farming Coordinator 2 |  |
+| Crafts Demonstrator I Group XV |  |
+| Secondary School Head Teacher II-1 | Range 37 - ₱3,612 (min.)₱4,404 (max.) |
+| Junior College Instructor I Group XVI |  |
+| Secondary School Teacher 2 | Range 36 - ₱3,432 (min.)₱4,188 (max.) |
+| Elementary Grades Teacher 2 |  |
+| School Librarian 2 |  |
+| Guidance Counselor 2 |  |
+| Kindergarten Teacher 2 |  |
+| Group XVII |  |
+| Special Education Teacher I | Range 35 - ₱3,264 (min.)₱3,984 (max.) |
+| Guidance Coordinator I |  |
+| Elementary School Head Teacher I |  |
+| Secondary School Head Teacher I-1 |  |
+| School Farming Coordinator |  |
+| Group XVIII |  |
+| Secondary School Teacher 1 | Range 32 - ₱2,808 (min.)₱3,432 (max.) |
+| Elementary Grades Teacher 1 |  |
+| School Librarian 1 |  |
+| Guidance Counselor 1 |  |
+| Kindergarten Teacher 1 |  |
+
+ **Section 5.** *Salary Adjustment to the Minimum Rates.* The salary adjustment from existing rates to the minimum as provided under this new salary schedule shall cover a period of five years, starting with the existing minimum rate of the range of the position to the minimum rate under the new schedule as indicated in Schedule ""A"" hereto attached and made a portion of this Act: *Provided,* That the length of the period or the number of years for any official or employee to reach the minimum as herein provided will depend on the step to which his existing salary may properly be classified: *Provided, further,* That should the existing salary rate be between authorized rates in the five-year pre-minimum schedule, the same shall be adjusted to the rate of the proper step without the official or employee suffering a reduction in salary thereby.
+
+ **Section 6.** *Salary Progression from Minimum to Maximum.* The salary progression from minimum to maximum shall consist of four steps, each succeeding step to be granted automatically after three years of service: *Provided,* That the progression from minimum to the maximum of the salary scale shall not extend beyond a period of ten years subject to the provisions of Section 8 of this Act.
+
+ **Section 7.** *New Appointments.* The rate of salary of new appointees and those promoted to new positions shall not be lower than the rates fixed for officials and employees holding such positions on the date of effectivity of this Act.
+
+ **Section 8.** *Acceleration of Automatic Increases.* The three-year period required for automatic increase in salary from one step to the next as provided in Section six of this Act may, upon the approval of the Secretary of Education, be accelerated to no sooner than two years in favor of deserving officials and employees in recognition of outstanding services in accordance with such rules as the Secretary of Education may prescribe.
+
+ **Section 9.** All incumbent officials and employees covered by this Act shall be entitled to salary adjustments as herein provided without the necessity of a new appointment. Special orders relative to salary adjustments under this Act shall, however, be furnished to all offices concerned by the Secretary of Education.
+
+ **Section 10.** The rate of salary of any official or employee occupying an existing position or one which may be created after the approval of this Act which is not included or specified in Section four of this Act shall be determined by the Secretary of Education upon the recommendation of the respective Bureau head concerned as to the proper classification, of such positions in accordance with the WAPCO classification and pay plan.
+
+ **Section 11.** *Appropriation.* There is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, the sum of Twenty Million Pesos (₱20,000,000.00) annually for five consecutive fiscal years, starting with the fiscal year 1969-1970, to effect the initial adjustment of salaries of all officials and employees covered by this Act to the minimum rates as herein provided: *Provided,* That to cover any deficiency in the annual national appropriations for said purpose, there shall be set aside from the aggregate savings of the Bureaus concerned the sum of not less than Five Million Pesos (₱5,000,000.00) annually for the corresponding five-year period.
+
+ **Section 12.** To provide funds for the implementation of the ten year program of salary progression from the minimum to maximum rates as provided in Section six hereof, there shall be appropriated in the annual General Appropriations Act the sum of Five Million Pesos (₱5,000,000.00) annually, for ten consecutive fiscal years, starting with the fiscal year immediately following the full adjustment of salaries to the minimum rates, which shall be used exclusively to meet the automatic step increases in salary from minimum to maximum during the ten-year period as provided herein: *Provided,* That any deficiency in said fund during the ten-year period of implementation of the progression from minimum to maximum as herein provided, shall be covered from the aggregate savings of the bureaus concerned.
+
+ **Section 13.** All Acts or parts of Acts contrary to or inconsistent with the provisions of this Act are hereby repealed or amended accordingly.
+
+ **Section 14.** This Act shall take effect upon its approval.
+
+ **Schedule A Salary Adjustment**
+
+ THE FIVE-YEAR PRE-MINIMUM SALARY SCHEDULE
+
+ | **WAPCO** |  |
+| --- | --- |
+| Pre-Adjusted Range | Adjusted Range |
+"	success	Act	This Republic Act establishes a standardized salary schedule for public school teachers and related personnel, defines the scope of 'public school teachers', and authorizes the appropriation of funds to implement the salary grades.	"[{""title"": ""Section 1"", ""summary"": ""The Act shall be known as the 'Public School Teachers Salary Standardization Act of 1967'.""}, {""title"": ""Section 2"", ""summary"": ""Defines 'public school teachers' to include classroom teachers, supervisors, and certain bureau employees with national fund salaries.""}, {""title"": ""Section 3"", ""summary"": ""Fixes minimum to maximum compensation rates for covered officials and employees in accordance with Schedule B.""}, {""title"": ""Section 4"", ""summary"": ""Provides the Salary Schedule detailing salary grades and ranges for various teaching and supervisory positions.""}]"	5168				To standardize salaries for public school teachers and related personnel and provide appropriate funding under the Philippine tax system.	"[""Establishes a salary schedule (Schedule B) for public school teachers and supervisors."", ""Defines the eligibility of 'public school teachers' including certain bureau employees."", ""Specifies minimum and maximum compensation rates for various grades."", ""Authorizes appropriation of funds to implement the salary schedule.""]"		"[""Education"", ""Salary"", ""Public School"", ""Philippines""]"	"[""public school teachers"", ""salary standardization"", ""Philippines"", ""Republic Act"", ""education salary schedule""]"

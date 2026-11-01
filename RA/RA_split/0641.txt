@@ -1,0 +1,141 @@
+repacts:datasets/markdown/repacts/1960/ra_2876_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2876_1960.md	ra_2876_1960	An Act Creating the Barrio of Looc Norte in the Municipality of Asturias, Province of Cebu	"**REPUBLIC ACT No. 2876**
+
+ **An Act Creating the Barrio of Looc Norte in the Municipality of Asturias, Province of Cebu**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Looc Norte in the Municipality of Asturias, Province of Cebu, is converted into a barrio of the said municipality, to be known as barrio of Looc Norte.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	This act establishes the sitio of Looc Norte as a barrio of the municipality of Asturias, Cebu, effective upon approval.	"[{""title"": ""Section 1."", ""summary"": ""The sitio of Looc Norte is converted into a barrio of the municipality of Asturias, Province of Cebu, to be known as barrio of Looc Norte.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2876	June 19, 1960			To create a barrio of Looc Norte within the municipality of Asturias, Cebu.	"[""Conversion of the sitio of Looc Norte into a barrio of the Municipality of Asturias, Cebu.""]"		"[""local government"", ""barangay"", ""Cebu"", ""municipality""]"	"[""barrio"", ""Looc Norte"", ""Asturias"", ""Cebu"", ""Republic Act"", ""1960""]"
+repacts:datasets/markdown/repacts/1960/ra_2877_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2877_1960.md	ra_2877_1960	An Act to Amend Item (3), Subparagraph (ab), for the Province of Leyte, Page 700, Paragraph b, Title A, Section Three of Republic Act Numbered Nineteen Hundred	"**REPUBLIC ACT No. 2877**
+
+ **An Act to Amend Item (3), Subparagraph (ab), for the Province of Leyte, Page 700, Paragraph b, Title A, Section Three of Republic Act Numbered Nineteen Hundred**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item (3), subparagraph (ab), for the Province of Leyte, page 700, paragraph b, Title A, Section three of Republic Act Numbered Nineteen hundred is hereby amended to read as follows:
+
+ > ""(3) Construction of 2-room building including painting, Campokpok Barrio School, Tabango ₱12,000.00""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	Amends item (3) subparagraph (ab) of Republic Act 1900 for the Province of Leyte, specifying construction of a 2‑room building including painting at Campokpok Barrio School, Tabango.	"[{""title"": ""Section 1"", ""summary"": ""Amends item (3) subparagraph (ab) to read: \""(3) Construction of 2\u2011room building including painting, Campokpok Barrio School, Tabango \u20b112,000.00.\""""}, {""title"": ""Section 2"", ""summary"": ""Act shall take effect upon its approval.""}]"	2877	June 19, 1960			To modify a specific provision of Republic Act 1900 concerning construction in Leyte.	"[""(3) Construction of 2\u2011room building including painting, Campokpok Barrio School, Tabango \u20b112,000.00""]"	Republic Act Numbered Nineteen Hundred (RA 1900)	"[""Amendment"", ""Construction"", ""Leyte"", ""RA 1900""]"	"[""construction"", ""2-room building"", ""painting"", ""school"", ""Leyte"", ""RA 1900""]"
+repacts:datasets/markdown/repacts/1960/ra_2878_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2878_1960.md	ra_2878_1960	An Act Amending a Certain Item Under Appendix B of Republic Act Numbered Sixteen Hundred Thirteen	"**REPUBLIC ACT No. 2878**
+
+ **An Act Amending a Certain Item Under Appendix B of Republic Act Numbered Sixteen Hundred Thirteen**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Priority No. 39, page 77-B, under ""Pangasinan III,"" Appendix B of Republic Act Numbered Sixteen hundred thirteen is amended to read as follows:
+
+ > ""39. Sta. Barbara Sonquil Repair and Improvement ₱2,500.00.""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Act	This act amends item 39 in Appendix B of Republic Act No. 1613, specifying Sta. Barbara Sonquil Repair and Improvement amount of ₱2,500.00 and takes effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Amendment of item 39 in Appendix B of RA 1613 to read \""39. Sta. Barbara Sonquil Repair and Improvement \u20b12,500.00.\""""}, {""title"": ""Section 2."", ""summary"": ""Act takes effect upon approval.""}]"	2878	June 19, 1960			To amend the specified item in Appendix B of RA 1613 to reflect updated repair and improvement details.	"[""Item 39 in Appendix B of RA 1613 is amended to read \""39. Sta. Barbara Sonquil Repair and Improvement \u20b12,500.00.\""""]"	Republic Act No. 1613	"[""Amendment"", ""Appendix B"", ""Pangasinan III""]"	"[""RA 2878"", ""RA 1613"", ""Sta. Barbara Sonquil"", ""Repair and Improvement"", ""Pangasinan""]"
+repacts:datasets/markdown/repacts/1960/ra_2879_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2879_1960.md	ra_2879_1960	An Act Changing the Name of the Ecuan Primary School in the Barrio of Golictop, Municipality of Dumingag, Province of Zamboanga del Sur, to Golictop Primary School	"**REPUBLIC ACT No. 2879**
+
+ **An Act Changing the Name of the Ecuan Primary School in the Barrio of Golictop, Municipality of Dumingag, Province of Zamboanga del Sur, to Golictop Primary School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Ecuan Primary School in the barrio of Golictop, Municipality of Dumingag, Province of Zamboanga del Sur, is hereby changed to Golitop Primay School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	This act changes the name of Ecuan Primary School to Golictop Primary School in Dumingag, Zamboanga del Sur, and takes effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Name of Ecuan Primary School changed to Golitop Primay School.""}, {""title"": ""Section 2"", ""summary"": ""Act takes effect upon approval.""}]"	2879	June 19, 1960			Change school name	"[""Change name of Ecuan Primary School to Golictop Primary School"", ""Act takes effect upon approval""]"		"[""Education"", ""School"", ""Name Change"", ""Zamboanga del Sur""]"	"[""Ecuan Primary School"", ""Golictop Primary School"", ""Dumingag"", ""Zamboanga del Sur"", ""Republic Act 2879""]"
+repacts:datasets/markdown/repacts/1960/ra_2880_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2880_1960.md	ra_2880_1960	An Act Changing the Name of the Barrio of Sominot in the Municipality of Liargao, Province of Zamboanga del Sur, to San Antonio	"**REPUBLIC ACT No. 2880**
+
+ **An Act Changing the Name of the Barrio of Sominot in the Municipality of Liargao, Province of Zamboanga del Sur, to San Antonio**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the barrio of Sominot in the Municipality of Liargao, Province of Zamboanga del Sur, is changed to San Antonio.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	This act changes the name of the barrio of Sominot in Liargao, Zamboanga del Sur to San Antonio, effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The name of the barrio of Sominot in the Municipality of Liargao, Province of Zamboanga del Sur is changed to San Antonio.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	2880	June 19, 1960			To change the name of the barrio of Sominot in Liargao, Zamboanga del Sur to San Antonio.	"[""The name of the barrio of Sominot in the Municipality of Liargao, Province of Zamboanga del Sur is changed to San Antonio."", ""The Act shall take effect upon its approval.""]"		"[""Name Change"", ""Barrio"", ""Local Government""]"	"[""Sominot"", ""San Antonio"", ""Liargao"", ""Zamboanga del Sur"", ""Republic Act 2880""]"
+repacts:datasets/markdown/repacts/1960/ra_2881_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2881_1960.md	ra_2881_1960	An Act Creating the Barrio of San Isidro in the Municipality of Labangan, Province of Zamboanga del Sur	"**REPUBLIC ACT No. 2881**
+
+ **An Act Creating the Barrio of San Isidro in the Municipality of Labangan, Province of Zamboanga del Sur**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Matico, Panabagon, West Luya and Nabalan in the Municipality of Labangan, Province of Zamboanga del Sur, are constituted into a distinct and independent barrio of said municipality to be known as the barrio of San Isidro.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	This act creates the barrio of San Isidro by constituting the sitios of Matico, Panabagon, West Luya and Nabalan into a distinct barrio within the Municipality of Labangan, Zamboanga del Sur.	"[{""title"": ""Section 1."", ""summary"": ""The sitios of Matico, Panabagon, West Luya and Nabalan in the Municipality of Labangan, Province of Zamboanga del Sur, are constituted into a distinct and independent barrio of said municipality to be known as the barrio of San Isidro.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2881	June 19, 1960			Create a new barrio within the Municipality of Labangan, Zamboanga del Sur.	"[""Constitutes the sitios of Matico, Panabagon, West Luya and Nabalan into the barrio of San Isidro."", ""The act takes effect upon its approval.""]"		"[""Local Government"", ""Barangay"", ""Zamboanga del Sur""]"	"[""San Isidro"", ""Labangan"", ""Zamboanga del Sur"", ""barrio"", ""sitios"", ""Matico"", ""Panabagon"", ""West Luya"", ""Nabalan""]"
+repacts:datasets/markdown/repacts/1960/ra_2882_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2882_1960.md	ra_2882_1960	AN ACT AMENDING ITEM (13) ON PAGE 151, SUBPARAGRAPH 38 FOR THE PROVINCE OF NEGROS ORIENTAL, UNDER PARAGRAPH C, TITLE A OF SECTION ONE OF REPUBLIC ACT NUMBERED TWENTY-THREE HUNDRED AND ONE.	"**REPUBLIC ACT No. 2882**
+
+ AN ACT AMENDING ITEM (13) ON PAGE 151, SUBPARAGRAPH 38 FOR THE PROVINCE OF NEGROS ORIENTAL, UNDER PARAGRAPH C, TITLE A OF SECTION ONE OF REPUBLIC ACT NUMBERED TWENTY-THREE HUNDRED AND ONE.
+
+ **Section 1.** Item (13) on page 151, subparagraph 38 for the Province of Negros Oriental, under paragraph c, Title A of Section one of Republic Act Numbered Twenty-three hundred and one is amended to read as follows:
+
+ ""(13) Pacuan Elementary School Building,
+
+ La Libertad P10,000.00.""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Enacted without Executive approval, June 19, 1960.
+"	success	Republic Act	This act amends Item (13) of Section 1 of Republic Act No. 2301 to specify the Pacuan Elementary School Building in La Libertad with an amount of P10,000.00, and takes effect upon its approval.	"[{""title"": ""Section 1"", ""summary"": ""Amendment to Item (13) of Section 1 of RA 2301: \""(13) Pacuan Elementary School Building, La Libertad P10,000.00.\""""}, {""title"": ""Section 2"", ""summary"": ""The Act shall take effect upon its approval.""}]"	RA 2882	June 19, 1960			To amend Item (13) of Section 1 of Republic Act No. 2301 for the Province of Negros Oriental.	"[""Amendment to Item (13) of Section 1 of RA 2301 to include Pacuan Elementary School Building, La Libertad, P10,000.00."", ""Effectivity upon approval.""]"	Republic Act No. 2301	"[""Amendment"", ""Infrastructure"", ""Education"", ""Negros Oriental""]"	"[""Republic Act"", ""Item 13"", ""Pacuan Elementary School"", ""P10,000.00"", ""Negros Oriental"", ""Effectivity"", ""Amendment""]"
+repacts:datasets/markdown/repacts/1960/ra_2883_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2883_1960.md	ra_2883_1960	An Act to Amend Subparagraphs 22 and 23 for the Provinces of Lanao and Leyte	"**[ REPUBLIC ACT NO. 2883, June 19, 1960 ]** **AN ACT TO AMEND SUBPARAGRAPHS 22 AND 23 FOR THE PROVINCES OP LANAO AND LEYTE, RESPECTIVELY, PAGES 142 AND 143, PARAGRAPHa, TITLE D, SECTION ONE OF REPUBLIC ACT NUMBERED TWENTY HUNDRED NINETY-THREE.** *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:* **Section 1.** Subparagraphs 22 and 23 for the provinces of Lanao and Leyte, respectively, pages 142 and 143( paragraph a, *Title* D, Section one of Republic Act, Numbered Twenty hundred and ninety-three, are hereby amended by deleting item (c) from said subparagraph. 22 and by adding the same to subparagraph 23, to be, known as item (o), so that the said subparagraphs shall read as follows: | ""22. Lanao | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | ""(a) Butig Water System Improvement of Spring and Water System............ | 3,000.00 | ""(b) Pantar Water Supply, Baloi.................................................................... | 10,000.000 | ""23. Leyte | ""(a) Matag-ob Waterworks Completion........................................................ | 5,000.00 | ""(b) Almeria Waterworks Construction......................................................... | 15,000.000 | ""(c) Caibiran Waterworks Repair and improvement..................................... | 10,000.000 | ""(d) Calubian Waterworks Repair and improvement..................................... | 10,000.000 | ""(e) Barrio Cahagnaan Waterworks, Matalom Repair and improvement...... | 5,000.000 | ""(f) Anahawan Waterworks Completion........................................................ | 18,000.000 | ""(g) La Paz Waterwork Construction............................................................. | 10,000.000 | ""(h) Burauen Waterworks Repair and improvement..................................... | 10,000.000 | ""(i) Sta. Cruz Waterworks Repair and improvement..................................... | 10,000.000 | ""(j) Macrohon Waterworks Construction....................................................... | 15,000.000 | ""(k) Barrio Guindapunan Waterworks, Carigara Construction...................... | 15,000.000 | ""(l) Barrio Laboon Waterworks, Maasin Construction and/or improvement.. | 6,000.000 | ""(m) San Roque Waterworks........................................................................ | 5,000.000 | ""(n) San Isidro Waterworks........................................................................... | 20,000.000 | ""(o) Tabango Waterworks............................................................................. | 30,000.000 | | ""(b) Pantar Water Supply, Baloi.................................................................... | 10,000.000 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | ""23. Leyte | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | ""(a) Matag-ob Waterworks Completion........................................................ | 5,000.00 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | ""(b) Almeria Waterworks Construction......................................................... | 15,000.000 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | ""(c) Caibiran Waterworks Repair and improvement..................................... | 10,000.000 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | ""(d) Calubian Waterworks Repair and improvement..................................... | 10,000.000 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | ""(e) Barrio Cahagnaan Waterworks, Matalom Repair and improvement...... | 5,000.000 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | ""(f) Anahawan Waterworks Completion........................................................ | 18,000.000 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | ""(g) La Paz Waterwork Construction............................................................. | 10,000.000 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | ""(h) Burauen Waterworks Repair and improvement..................................... | 10,000.000 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | ""(i) Sta. Cruz Waterworks Repair and improvement..................................... | 10,000.000 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | ""(j) Macrohon Waterworks Construction....................................................... | 15,000.000 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | ""(k) Barrio Guindapunan Waterworks, Carigara Construction...................... | 15,000.000 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | ""(l) Barrio Laboon Waterworks, Maasin Construction and/or improvement.. | 6,000.000 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | ""(m) San Roque Waterworks........................................................................ | 5,000.000 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | ""(n) San Isidro Waterworks........................................................................... | 20,000.000 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | ""(o) Tabango Waterworks............................................................................. | 30,000.000 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | **Section 2.** This Act shall take effect upon its approval. Enacted without Executive approval, June 19, 1960.
+"	success	Act	This Act amends subparagraphs 22 and 23 of Republic Act 293 for the provinces of Lanao and Leyte by deleting item (c) from subparagraph 22 and adding item (o) to subparagraph 23.	"[{""title"": ""Section 1"", ""summary"": ""Subparagraphs 22 and 23 for the provinces of Lanao and Leyte are amended by deleting item (c) from subparagraph 22 and adding item (o) to subparagraph 23.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval. Enacted without Executive approval, June 19, 1960.""}]"	Republic Act No. 2883	June 19, 1960			To amend subparagraphs 22 and 23 of Republic Act 293 for the provinces of Lanao and Leyte.	"[""Deletion of item (c) from subparagraph 22 of RA 293 for Lanao."", ""Addition of item (o) to subparagraph 23 of RA 293 for Leyte.""]"	Republic Act No. 293	"[""Republic Act"", ""Waterworks"", ""Amendment"", ""Lanao"", ""Leyte""]"	"[""subparagraph 22"", ""subparagraph 23"", ""Republic Act 293"", ""Lanao"", ""Leyte"", ""waterworks"", ""amendment"", ""June 19 1960""]"
+repacts:datasets/markdown/repacts/1960/ra_2884_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2884_1960.md	ra_2884_1960	An Act to Amend Item (D), Subparagraph 53, for the Province of Zamboanga del Norte, Page 113, Paragraph A, Title B, Section One of Republic Act Numbered Nineteen Hundred	"**REPUBLIC ACT No. 2884**
+
+ **An Act to Amend Item (D), Subparagraph 53, for the Province of Zamboanga del Norte, Page 113, Paragraph A, Title B, Section One of Republic Act Numbered Nineteen Hundred**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item (d), subparagraph 53, for the Province of Zamboanga del Norte, page 113, paragraph a, Title B, Section one of Republic Act Numbered Nineteen hundred is hereby amended to read as follows:
+
+ > (d) Rizal Damasing-Nasipang Road Construction 60,000.00.""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	Amends Item (d), subparagraph 53 of Republic Act 19 to specify the construction of Rizal Damasing-Nasipang Road in Zamboanga del Norte, with a cost of 60,000.00, and declares the act effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Amends Item (d), subparagraph 53 of Republic Act 19 to include the construction of Rizal Damasing-Nasipang Road costing 60,000.00.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	2884	June 19, 1960			To amend Item (d), subparagraph 53 of Republic Act 19 for the Province of Zamboanga del Norte, specifying the construction of Rizal Damasing-Nasipang Road.	"[""Amendment of Item (d), subparagraph 53 to include Rizal Damasing-Nasipang Road Construction of 60,000.00."", ""The act takes effect upon approval.""]"	Republic Act No. 19	"[""Amendment"", ""Infrastructure"", ""Road Construction""]"	"[""Rizal Damasing-Nasipang Road"", ""60,000.00"", ""Zamboanga del Norte"", ""Republic Act 19""]"
+repacts:datasets/markdown/repacts/1960/ra_2885_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2885_1960.md	ra_2885_1960	An Act Reappropriating the Sum of Two Thousand Pesos Appropriated Under Item (128), Page 708, Subparagraph (ab), for the Province of Leyte, Paragraph B, Title A, Section Three of Republic Act Numbered Nineteen Hundred	"**REPUBLIC ACT No. 2885**
+
+ **An Act Reappropriating the Sum of Two Thousand Pesos Appropriated Under Item (128), Page 708, Subparagraph (ab), for the Province of Leyte, Paragraph B, Title A, Section Three of Republic Act Numbered Nineteen Hundred**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sum of two thousand pesos appropriated under item (128), page 108, subparagraph (ab), for the Province of Leyte, paragraph b, Title A, Section three of Republic Act Numbered Nineteen hundred, to wit:
+
+ > ""(128) Construction, Sitio Panyi Templanza Barrio School, Matalom ₱2,000.00""
+
+ is hereby reappropriated for the construction of a school building in the barrio of San Juan, Municipality of Matalom, Province of Leyte.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Act	Reappropriates ₱2,000, originally appropriated for the construction of a school in Matalom, Leyte, to be used for constructing a school building in the barrio of San Juan, Matalom, Leyte.	"[{""title"": ""Section 1"", ""summary"": ""Reappropriation of \u20b12,000 for the construction of a school building in San Juan, Matalom, Leyte.""}, {""title"": ""Section 2"", ""summary"": ""The Act shall take effect upon its approval.""}]"	No. 2885	June 19, 1960			Reappropriation of funds for school construction in Leyte.	"[""Reappropriation of \u20b12,000 for construction of a school building in San Juan, Matalom, Leyte."", ""Act takes effect upon approval.""]"		"[""Reappropriation"", ""Education"", ""Local Government"", ""Leyte"", ""School Construction""]"	"[""Republic Act"", ""Reappropriation"", ""Leyte"", ""School"", ""Funding""]"
+repacts:datasets/markdown/repacts/1960/ra_2886_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2886_1960.md	ra_2886_1960	An Act Reappropriating the Sum of Two Thousand Five Hundred Pesos Appropriated Under Item (ak), Page 232, Group II, Subparagraph 28, for the Province of Leyte, Paragraph f, Title M, Section One of Republic Act Numbered Two Thousand Ninety-Three	"**REPUBLIC ACT No. 2886**
+
+ **An Act Reappropriating the Sum of Two Thousand Five Hundred Pesos Appropriated Under Item (ak), Page 232, Group II, Subparagraph 28, for the Province of Leyte, Paragraph f, Title M, Section One of Republic Act Numbered Two Thousand Ninety-Three**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sum of two thousand five hundred pesos appropriated under item (ak), page 232, group II, subparagraph 28, for the Province of Leyte, paragraph f, Title M, Section one of Republic Act Numbered Two thousand ninety-three, to wit:
+
+ > ""(ak) Victory Barrio School, Matalom Construction and/or improvement ₱2,500.00""
+
+ is hereby reappropriated for the construction of a school building in the barrio of Taylan, Municipality of Matalom, Province of Leyte.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	Reappropriates ₱2,500 from Republic Act 293 for the construction of a school building in Taylan, Matalom, Leyte.	"[{""title"": ""Section 1."", ""summary"": ""Reappropriates \u20b12,500 for construction of a school building in Taylan, Municipality of Matalom, Province of Leyte.""}, {""title"": ""Section 2."", ""summary"": ""The Act shall take effect upon its approval.""}]"	2886	June 19, 1960			To reallocate funds for the construction of a school building in Taylan, Leyte.	"[""Reappropriation of \u20b12,500 for construction of a school building in Taylan, Leyte.""]"		"[""Reappropriation"", ""Education"", ""Leyte"", ""School construction""]"	"[""Reappropriation"", ""School building"", ""Taylan"", ""Leyte"", ""Republic Act 2886""]"
+repacts:datasets/markdown/repacts/1960/ra_2887_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2887_1960.md	ra_2887_1960	An Act Reappropriating Certain Sums Appropriated in Republic Act Numbered Nineteen Hundred and Republic Act Numbered Sixteen Hundred Thirteen	"**REPUBLIC ACT No. 2887**
+
+ **An Act Reappropriating Certain Sums Appropriated in Republic Act Numbered Nineteen Hundred and Republic Act Numbered Sixteen Hundred Thirteen**

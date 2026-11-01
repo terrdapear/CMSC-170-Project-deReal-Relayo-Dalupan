@@ -1,0 +1,142 @@
+"	success	Republic Act	Amends Item (i) in Republic Act No. 1411 to include the Salay Barrio School Building, Dipaculao-Repair with a funding amount of ₱1,000.00.	"[{""title"": ""Section 1."", ""summary"": ""Item (i), page 125, section 2-43 (Quezon) of Republic Act No. 1411 is amended to read as follows: (i) Salay Barrio School Building, Dipaculao-Repair \u2013 \u20b11,000.00.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	1471	June 14, 1956			To amend the funding provision for the Salay Barrio School Building in RA 1411.	"[""Amends Item (i) of RA 1411 to add Salay Barrio School Building, Dipaculao-Repair with \u20b11,000.00""]"	Republic Act No. 1411	"[""Amendment"", ""Education"", ""Funding""]"	"[""Salay Barrio School Building"", ""Dipaculao-Repair"", ""\u20b11,000.00"", ""RA 1411"", ""Republic Act 1471""]"
+repacts:datasets/markdown/repacts/1956/ra_1483_1956.md	repacts	1956		datasets/markdown/repacts/1956/ra_1483_1956.md	ra_1483_1956	An Act Amending Item G-038.10 Under the Province of Nueva Vizcaya, Title G, Appendix A of Republic Act Numbered Fourteen Hundred and Eleven	"**REPUBLIC ACT No. 1483**
+
+ **An Act Appropriating the Amount of Sixty Thousand Pesos to Carry Out the Provisions of Republic Act Numbered Eight Hundred Forty-Two with Respect to Officials and Employees of the Bureau of Private Schools for the Fiscal Year Nineteen Hundred Fifty-Five-Nineteen Hundred Fifty-Six**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sum of sixty thousand pesos (₱60,000) or so much thereof as may be necessary is appropriated out of any unexpended balance from the collection of one per cent assessment on the gross income of private schools, colleges, and universities from tuition and other fees to carry out the provisions of Republic Act Numbered Eight hundred forty-two with respect to officials and employees of the Bureau of Private Schools.
+
+ **Section 2.** This Act shall take effect on July one, nineteen hundred and fifty-five.
+
+ Approved: June 16, 1956.
+"	success	Republic Act	This act amends Item G-038.10 under the Province of Nueva Vizcaya, Title G, Appendix A of Republic Act No. 1111, adding details about the Bone Communal Irrigation System.	"[{""title"": ""Section 1."", ""summary"": ""Item G-038.10 under the Province of Nueva Vizcaya, Title G, Appendix A of Republic Act Numbered Fourteen hundred and eleven, is amended to read as follows: 'G-038.10. Bone Communal Irrigation System, Construction and repair of canalsGR-3-3-3.'""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	1472	June 14, 1956			To amend Item G-038.10 concerning the Bone Communal Irrigation System in the Province of Nueva Vizcaya as per Republic Act No. 1111.	"[""G-038.10. Bone Communal Irrigation System, Construction and repair of canalsGR-3-3-3.""]"	Republic Act No. 1111	"[""Amendment"", ""Irrigation"", ""Nueva Vizcaya"", ""Republic Act"", ""Agriculture""]"	"[""Item G-038.10"", ""Bone Communal Irrigation System"", ""canals"", ""Nueva Vizcaya"", ""RA 1472""]"
+repacts:datasets/markdown/repacts/1956/ra_1484_1956.md	repacts	1956		datasets/markdown/repacts/1956/ra_1484_1956.md	ra_1484_1956	An Act to Amend Section Two, ap. Quezon, Item Thirty-Three, Page Five Hundred Seventy-Eight, of Republic Act Numbered Twelve Hundred	"**REPUBLIC ACT No. 1484**
+
+ **An Act Appropriating the Sum of Seventy-Five Thousand Pesos as Aid to the Philippine Public School Teachers Association, Inc. in Sponsoring the Nineteen Hundred and Fifty-Six Delegate Conference of the World Confederation of Organizations of the Teaching Profession (Wcotp), to be Held in the City of Manila and the City of Baguio in August, Nineteen Hundred and Fifty-Six**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sum of seventy-five thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, as aid to the Philippine Public School Teachers Association, Inc., in sponsoring the Nineteen hundred and fifty-six Delegate Conference of the World Confederation of Organizations of the Teaching Profession (WCOTP), to be held in the City of Manila and the City of Baguio in August, nineteen hundred and fifty-six.
+
+ **Section 2.** The funds herein appropriated shall be disbursed by the Secretary of the Department of Education, with the approval of the President of the Philippines, subject to the established rules and regulations governing the expenditures of public funds and all unexpended balance shall revert to the general fund.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 16, 1956.
+"	success	Republic Act	Amends Section 2 of RA 1200 to add construction of an additional building at Bignay Barrio School, Sariaya.	"[{""title"": ""Section 1"", ""summary"": ""Section two, ap. Quezon, Item thirty-three, page five hundred seventy-eight, of Republic Act Numbered Twelve hundred is amended to read as follows: \""33. Construction of additional building, Bignay Barrio School, Sariaya | \u20b16,000.00\"".""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	1473	June 14, 1956			To amend RA 1200 by adding a construction project for an additional building at Bignay Barrio School, Sariaya.	"[""Amends Section 2 of RA 1200 to include construction of an additional building at Bignay Barrio School, Sariaya.""]"	Republic Act No. 1200	"[""Amendment"", ""Education"", ""Construction""]"	"[""Republic Act"", ""RA 1473"", ""RA 1200"", ""Bignay Barrio School"", ""Sariaya"", ""construction""]"
+repacts:datasets/markdown/repacts/1956/ra_1485_1956.md	repacts	1956		datasets/markdown/repacts/1956/ra_1485_1956.md	ra_1485_1956	An Act to Amend Republic Act Numbered Eight Hundred Forty-Two Entitled 'An Act Providing for Automatic Salary Increases for Public School Officials, Teachers, and Other School Personnel of the Government of the Philippines'	"**REPUBLIC ACT No. 1485**
+
+ **An Act Amending Certain Sections of Republic Act Numbered Fourteen Hundred, Otherwise Known as the ""Land Reform Act of 1955""**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section eleven of Republic Act Numbered Fourteen hundred is amended to read as follows:
+
+ > ""Sec. 11. *Lands subject to purchase.* The Administration, acting for and on behalf of the Government, may negotiate to purchase any privately-owned agricultural land when the majority of the tenants therein or occupants thereof in case of abandoned land petition for such purchase.""
+
+ **Section 2.** Section sixteen of the same Act is amended to read as follows:
+
+ > ""Sec. 16. *When proper.* -The Administration may initiate and prosecute expropriation proceedings for the acquisition of private agricultural land subject to the provisions of section six, paragraph (2), upon petition of a majority of the tenants or occupants thereof in case of abandoned land and after it is convinced of the suitability of such land for subdivision into family-size farm units, and that public interest will be served by its immediate acquisition, when any of the following conditions exists:
+>
+>  ""(1) That the landowner falling within the terms of section six, paragraph (2), continues to refuse to sell after all efforts have been exhausted by the Administration to negotiate for its purchase; or
+>
+>  ""(2) The landowner is willing to sell under sections eleven and twelve but cannot agree with the Administration as to the price and/or the manner of its payment.""
+
+ **Section 3.** Paragraph (3) of section twenty-three of the same Act is amended to read as follows:
+
+ > ""(3) At costshall mean the purchase price plus six per cent interest per annum which includes the one per cent per annum for administration expenses, plus actual expenses for survey, subdivision and registration. The cost shall be paid on the basis of a twenty-five-year amortization plan.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 16, 1956.
+"	success	Republic Act	This act amends Republic Act No. 842 by modifying Section 3(b) to give preference to applicants with professional training in education and suitable civil service eligibility for clerical vacancies, except employees already in service as of May 1, 1953. It takes effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Section 3, paragraph (b) of Republic Act Numbered Eight Hundred Forty-Two is amended to read: In the event of vacancies occurring in the clerical service, applicants with professional training in education and suitable civil service eligibility shall be given preference. Provided, that this proviso shall not apply to employees in the clerical service already in the employment of the government as of May 1, 1953. Failure to give preference to duly qualified applicants shall be ground for suspension from the service.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	1474	June 14, 1956			To amend RA 842 regarding automatic salary increases for public school officials and related personnel by adjusting preference criteria for clerical vacancies.	"[""Amends Section 3(b) of RA 842 to give preference to applicants with professional training in education and suitable civil service eligibility for clerical vacancies"", ""Excludes employees already employed as of May 1, 1953 from this preference""]"	Republic Act No. 842	"[""Education"", ""Public Service"", ""Salary Increase""]"	"[""clerical service"", ""professional training"", ""education"", ""civil service eligibility"", ""vacancies"", ""suspension"", ""automatic salary increase"", ""public school officials"", ""teachers""]"
+repacts:datasets/markdown/repacts/1956/ra_1486_1956.md	repacts	1956		datasets/markdown/repacts/1956/ra_1486_1956.md	ra_1486_1956	An Act Amending Title F of Section One of Republic Act Numbered One Thousand Two Hundred	"**REPUBLIC ACT No. 1486**
+
+ **An Act Amending Item (b), Group I, Paragraph Seventeen, for the Province of Cebu, Subsection ""f,"" Section Two of Republic Act Numbered Fourteen Hundred Eleven**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item (b), Group I, paragraph seventeen, for the Province of Cebu, subsection ""f,"" section two of Republic Act Numbered Fourteen hundred eleven is amended to read as follows:
+
+ | ""(b) Barrio Schools to be designated by the Municipal Mayor, Danao Construction and/or repair | ₱18,000.00"" |
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 16, 1956.
+"	success	Republic Act	Amends Title F of Section One of Republic Act No. 1200 by transferring sub-item H (5) from Negros Occidental to Capiz.	"[{""title"": ""Section 1"", ""summary"": ""Title F of section one of Republic Act numbered One thousand two hundred is hereby amended by transferring sub-item H (5) of item \""af. Negros Occidental\"" to item \""n. Capiz\"" as sub-item (4) thereof.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	1475	June 14, 1956			To amend RA 1200's Title F.	"[""Transfer of sub-item H(5) from Negros Occidental to Capiz within Title F of RA 1200.""]"	Republic Act No. 1200	"[""Amendment"", ""Republic Act"", ""Legislation""]"	"[""Republic Act"", ""RA 1475"", ""Title F"", ""Negros Occidental"", ""Capiz"", ""sub-item H(5)""]"
+repacts:datasets/markdown/repacts/1956/ra_1487_1956.md	repacts	1956		datasets/markdown/repacts/1956/ra_1487_1956.md	ra_1487_1956	An Act Repealing Sections Two Hundred Ninety-Six, Two Hundred Ninety-Seven, Two Hundred Ninety-Eight, Two Hundred Ninety-Nine, and Three Hundred of Commonwealth Act Numbered Four Hundred Sixty-Six, as Amended	"**REPUBLIC ACT No. 1487**
+
+ **An Act Amending Certain Items of Republic Acts Numbered Twelve Hundred and Fourteen Hundred Eleven**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item one hundred two, paragraph m, section two of Republic Act Numbered Twelve hundred, is hereby amended to read as follows:
+
+ | ""(102) Construction of Home Economics Building, San Vicente (Sur) Barrio School | ₱1,000.00"" |
+
+ **Section 2.** Items fifty-eight and sixty of paragraph m, group II, section three of Republic Act Numbered Fourteen hundred eleven, are hereby amended to read as follows:
+
+  | ""(58) San Vicente (Sur) Barrio School, Home Economics Building, Iriga Construction | ₱3,000.00 |
+| --- | --- |
+| ""(60) San Nicolas School Building, Completion | 1,800.00"" |
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 16, 1956.
+"	success	Republic Act	This act repeals specific sections (296-300) of Commonwealth Act No. 466, continues fee disbursement under the amended Act, condones uncollected fees, and takes effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Repeals sections 296-300 of Commonwealth Act No. 466 and ensures that all fees collected under those sections continue to be disbursed according to the Act. ""}, {""title"": ""Section 2"", ""summary"": ""Condones all uncollected fees under the specified provisions of Commonwealth Act No. 466. ""}, {""title"": ""Section 3"", ""summary"": ""States that the Act shall take effect upon its approval. ""}]"	1476	June 15, 1956			To repeal specified sections of Commonwealth Act No. 466 and address the handling of fees associated with those sections.	"[""Repeal of sections 296-300 of Commonwealth Act No. 466"", ""Continuation of fee disbursement under amended Act"", ""Condonation of uncollected fees"", ""Effectivity of the act upon approval""]"	Commonwealth Act No. 466	"[""Repeal"", ""Fee Disbursement"", ""Condonation"", ""Effectivity""]"	"[""Republic Act"", ""Repeal"", ""Commonwealth Act 466"", ""Fee"", ""Condonation"", ""June 1956""]"
+repacts:datasets/markdown/repacts/1956/ra_1488_1956.md	repacts	1956		datasets/markdown/repacts/1956/ra_1488_1956.md	ra_1488_1956	"An Act Amending Section One of Republic Act Numbered Fifty-Three, Entitled ""An Act to Exempt the Publisher, Editor, Columnist or Reporter of Any Publication from Revealing the Source of Published News or Information Obtained in Confidence"""	"**REPUBLIC ACT No. 1488**
+
+ **An Act Granting the Monserrat Transportation, Inc. a Temporary Permit to Construct, Maintain and Operate Private Fixed Point-to-Point and Land Based and Land Mobile Radio Stations for the Reception and Transmission of Radio Communications in the Cities of Manila, Quezon, and Pasay and in the Provinces of Rizal, Bulacan, Laguna, and Cavite**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There is hereby granted to Monserrat Transportation, Inc., its successors or assigns, a temporary permit to construct, maintain and operate in the cities of Manila, Quezon, and Pasay and in the provinces of Rizal, Bulacan, Laguna and Cavite, private fixed point-to-point and land based and land mobile radio stations for the reception and transmission of wireless messages on radiotelegraphy or radiotelephone, each station to be provided with a radio transmitting apparatus and a radio receiving apparatus.
+
+ **Section 2.** This temporary permit shall continue to be in force during the time that the Government has not established similar service at the places stated above, and is granted upon the express condition that the same shall be void unless the construction or installation of said stations be begun within one year from the date of the approval of this Act and be completed within two years from said date.
+
+ **Section 3.** The grantee, its successors, or assigns, shall not engage in domestic business of telecommunications in the Philippines, it being understood that the purpose of this temporary permit is to secure to the grantee the right to construct, install, maintain, and operate private fixed point-to-point and land based and land mobile radio stations in such places within the Philippines as the interests of the grantee may justify.
+
+ **Section 4.** No fees shall be charged by the grantee as the radio stations that may be established by virtue of this Act shall engage in communications regarding the grantees business only.
+
+ **Section 5.** The grantee, its successors or assigns, shall so construct and operate its radio stations as not to interfere with the operation of other radio stations maintained and operated in the Philippines.
+
+ **Section 6.** The grantee, its successors or assigns, shall hold the national, provincial, city and municipal governments of the Philippines harmless from all claims, accounts, demands or actions arising out of accidents or injuries, whether to property or to persons, caused by the construction or operation of its radio stations.
+
+ **Section 7.** The grantee, its successors or assigns, is authorized to operate its private fixed point-to-point and land based and land mobile radio stations on the medium frequency, high frequency, and very high frequency, that may be assigned to him by the Secretary of Public Works and Communications.
+
+ **Section 8.** A special right is hereby reserved to the President of the Philippines in time of war, insurrection, public peril, calamity or disaster to cause the closing of the grantees radio stations or to authorize the temporary use, or possession thereof by any department of the Government upon just compensation.
+
+ **Section 9.** This temporary permit shall be subject to the amendment, alteration, or repeal by the Congress of the Philippines when public interest so requires, and shall not be interpreted as an exclusive grant of the privilege herein provided for.
+
+ **Section 10.** This Act shall take effect upon its approval.
+
+ Approved: June 16, 1956.
+"	success	Republic Act	This act amends Section 1 of RA 53 to protect publishers, editors, columnists and reporters of general circulation publications from being compelled to reveal confidential sources, except when a court or Congress determines that disclosure is necessary for state security. The act takes effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Amended text of Section\u202f1 of RA\u202f53, protecting confidentiality of sources for publishers, editors, columnists and reporters unless required by court or Congress for state security.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	1477	June 15, 1956			To safeguard the confidentiality of news sources and reinforce press freedom while balancing national security interests.	"[""Amends Section\u202f1 of RA\u202f53 to protect publishers, editors, columnists, and reporters from being compelled to reveal confidential sources unless required by court or Congress for state security.""]"	Republic Act No. 53	"[""media law"", ""source confidentiality"", ""publisher rights""]"	"[""confidentiality"", ""news sources"", ""press freedom"", ""national security""]"
+repacts:datasets/markdown/repacts/1956/ra_1489_1956.md	repacts	1956		datasets/markdown/repacts/1956/ra_1489_1956.md	ra_1489_1956	AN ACT TO CREATE A BOARD OF TRAVEL AND TOURIST INDUSTRY, DEFINING ITS POWERS, DUTIES AND RESPONSIBILITIES, AND FOR OTHER PURPOSES	"**REPUBLIC ACT No. 1489**
+
+ **An Act Granting Bartolome E. San Diego, a Franchise to Construct, Operate and Maintain an Ice Plant and Cold Storage in the City of Manila, and to Sell Ice and to Supply Cold Storage Therein**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Subject to the conditions imposed by this Act, there is hereby granted Bartolome E. San Diego, hereinafter referred to as the grantee, a franchise to construct, operate and maintain an ice plant and cold storage in the City of Manila, for the purpose of manufacturing and distributing ice and supplying cold storage therein and to charge and collect a schedule of prices and rates for the ice and cold storage so furnished, which schedule of prices and rates shall at all times be subject to regulation by the Public Service Commission or its legal successor.
+
+ **Section 2.** Said grantee shall manufacture and supply ice up to the limit of the capacity of its plant, said limit to be determined by the Public Service Commission or its legal successor in such certificate of convenience and public necessity as may be issued by it as prescribed by section four of this Act.
+
+ **Section 3.** All the apparatus and appurtenances to be used by the grantee shall be modern, safe, and first class in every respect, and the grantee shall, whenever the Public Service Commission or its legal successor shall determine that public interest reasonably requires it, change or alter any of its apparatus and appurtenances at grantees expense.
+
+ **Section 4.** The grantee shall not exercise any right or privilege under this franchise nor commence any construction thereunder, unless and until the grantee shall first file with the Public Service Commission within one hundred and twenty days from the date of the approval of this Act:
+
+ (1) Its written acceptance of the terms and provisions of this Act; (2) Its written acceptance of the terms and conditions of the certificate of convenience and public necessity required by law for the granting of this franchise and issued by the Public Service Commission of the form and character provided for in Commonwealth Act Numbered One hundred and forty-six, as amended; and (3) A document or documents evidencing receipt by the Treasurer of the Philippines of the deposit or deposits required by law for each certificate of convenience and public necessity as an earnest proof of good faith and guaranty that the grantee shall complete the work within the period to be fixed by the Commission. If the grantee shall not commence the manufacture and distribution of ice and the supplying of cold storage in the places referred to in the certificate of convenience and public necessity, obtained and filed as herein provided, within such period as the Public Service Commission or its legal successor shall have fixed, unless prevented by an act of God or force majeure, martial law, riot, civil commotion, usurpation by a military power or any other cause beyond the grantees control, said Commission or its legal successor may in its discretion declare such certificate to be null and void, and the deposit or deposits made by the grantee forfeited in favor of the National Government.
+
+ **Section 5.** After grantees compliance with the requirements of the next preceding section, the Public Service Commission or its legal successor, by proper order or writ, shall authorize the construction of necessary work for the purposes of this franchise within a reasonable time to be determined by the said Commission.
+
+ Upon determination by the Public Service Commission or its legal successor after a hearing, upon reasonable written notice to the grantee, that the grantee has violated any of the provisions of this section as to the commencement and/or completion of work authorized by the certificate of convenience and public necessity, the said Commission or its legal successor shall declare the bond or bonds forfeited as liquidated damages and not as a penalty to the National Government. The said Commission or its legal successor shall order return of the deposit as aforestated, together with any interest or dividends thereon received by the Treasurer of the Philippines, to the grantee upon the satisfactory completion of any work authorized by its certificate of convenience and public necessity, in accordance with the terms and conditions of said certificate obtained, and the Treasurer of the Philippines shall return said deposit to the grantee together with said interest and/or dividends immediately upon presentation to him of a certified copy of such order of the Public Service Commission or its legal successor.
+
+ **Section 6.** This franchise is granted subject to the provisions of the Constitution and Commonwealth Act Numbered One hundred forty-six, as amended, and with the understanding and upon the condition that it shall be subject to amendment, alteration, or repeal by the Congress of the Philippines when public interest so requires, and that it shall be subject to the pertinent provisions of Act Numbered Fourteen hundred and fifty-nine, as amended.
+
+ The Public Service Commission shall prescribe as a condition for the issuance of the certificate of convenience and public necessity to the grantee that the certificate shall be valid only for a definite period of time and that the violation of any of these conditions shall cause the immediate cancellation of the certificate without the necessity of any express action on the part of the Commission.
+
+ **Section 7.** The books, records and accounts of the grantee shall always be open to the inspection of the city treasurer or his authorized representatives, and it shall be the duty of the grantee to submit to the city treasurer quarterly reports in duplicate showing the gross receipts for the quarter past, one of which shall be forwarded by the city treasurer to the Auditor-General, who shall keep the same on file.
+
+ **Section 8.** The grantee, with the approval of the Congress of the Philippines first had, may sell, lease, grant, convey, assign, give in usufruct, or transfer this franchise and all property and rights acquired thereunder to any individual, co-partnership, private, public or quasi-public association, corporation, or joint-stock company competent to operate the business hereby authorized, but transfer of title to the franchise or any right of ownership or interest acquired under sale, lease, grant, conveyance, assignment, gift in usufruct, or transfer shall not be effective even after such approval shall have been obtained until there shall have been filed in the office of the Public Service Commission or its legal successor an agreement in writing by which the individual, co-partnership, private, public or quasi-public association, corporation, or joint-stock company in whose favor such sale, lease, grant, conveyance, assignment, gift in usufruct, or transfer is made, shall be firmly bound to comply with all the terms and conditions imposed upon the grantee by this franchise and by any and all certificates of convenience and public necessity theretofore issued by the Public Service Commission or its legal successor, and to accept the same subject to all existing terms and conditions.

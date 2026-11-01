@@ -1,0 +1,148 @@
+"	success	Republic Act	Republic Act No. 3500 appropriates funds for the operation of the Philippine government for the fiscal year 1962-1963, stipulates the use of savings to cover deficits, protects civil service personnel from layoffs or salary reductions, mandates quarterly reporting to Congress, and authorizes the President to use savings for specified purposes.	"[{""title"": ""Section 1. Appropriation of funds"", ""summary"": ""Appropriates sums from the Treasury for the operation of the government during July 1, 1962 to June 30, 1963, with itemized expenditures omitted in the text.""}, {""title"": ""Section 2. Personnel in the classified Civil Service not to be affected by the adoption of the Performance Budget"", ""summary"": ""Ensures that the shift to a performance-based budget system does not result in layoffs, salary reductions, demotions, or status changes for classified civil service personnel except as law allows.""}, {""title"": ""Section 3. Authority to use savings in appropriations to cover deficits"", ""summary"": ""Allows savings from regular appropriations for personal services, maintenance, and equipment to be used, with presidential approval, to cover deficits in other items, subject to a 30% maximum increase.""}, {""title"": ""Section 4. Quarterly report to Congress on transfers of appropriations and accomplishments of bureaus and offices"", ""summary"": ""Mandates the Auditor General, Budget Commissioner, and bureau heads to submit quarterly reports to Congress detailing transfers of appropriations and accomplishments.""}, {""title"": ""Section 5. Authority to use savings for other purposes"", ""summary"": ""Authorizes the President to use savings for specific obligations such as workers\u2019 compensation claims, equipment replacement, salary payments, and other listed purposes.""}]"	3500	1962-06-16			Appropriating funds for the operation of the Philippine government for the fiscal year 1962-1963 and outlining provisions for the use of savings and reporting requirements.	"[""Appropriates funds for government operation during 1962-1963"", ""Protects civil service personnel from layoffs and salary reductions under performance budgeting"", ""Allows use of savings to cover deficits with presidential approval"", ""Mandates quarterly reporting to Congress on appropriations and accomplishments"", ""Authorizes President to use savings for specified obligations""]"		"[""budget"", ""appropriation"", ""government finance""]"	"[""appropriation"", ""budget"", ""salary"", ""performance budget"", ""savings"", ""quarterly report""]"
+repacts:datasets/markdown/repacts/1962/ra_3501_1962.md	repacts	1962		datasets/markdown/repacts/1962/ra_3501_1962.md	ra_3501_1962	An Act Changing the Name of Ilang Primary School in the District of Tibungco, Davao City, to Sixto Babao Primary School	"**REPUBLIC ACT No. 3501**
+
+ **An Act Changing the Name of Ilang Primary School in the District of Tibungco, Davao City, to Sixto Babao Primary School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Ilang Primary School in the District of Tibungco, Davao City, is changed to Sixto Babao Primary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 16, 1962.
+"	success	Education	This act changes the name of Ilang Primary School to Sixto Babao Primary School.	"[{""title"": ""Section 1"", ""summary"": ""The name of the Ilang Primary School in the District of Tibungco, Davao City, is changed to Sixto Babao Primary School.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	3501	June 16, 1962			To rename Ilang Primary School to Sixto Babao Primary School.	"[""Change the name of Ilang Primary School to Sixto Babao Primary School.""]"		"[""Education"", ""Local Government"", ""School Name Change"", ""Davao City"", ""Primary School""]"	"[""name change"", ""primary school"", ""Sixto Babao"", ""Ilang"", ""Tibungco"", ""Davao City""]"
+repacts:datasets/markdown/repacts/1962/ra_3502_1962.md	repacts	1962		datasets/markdown/repacts/1962/ra_3502_1962.md	ra_3502_1962	An Act Changing the Name of Albay Normal School to Bicol Teachers College	"**REPUBLIC ACT No. 3502**
+
+ **An Act Changing the Name of Albay Normal School to Bicol Teachers College**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Albay Normal School is hereby changed to Bicol Teachers College.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 16, 1962.
+"	success	Education	This act changes the name of Albay Normal School to Bicol Teachers College and provides for its effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The name of Albay Normal School is hereby changed to Bicol Teachers College.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	3502	June 16, 1962			To change the name of Albay Normal School to Bicol Teachers College.	"[""Name of Albay Normal School changed to Bicol Teachers College."", ""Act takes effect upon approval.""]"		"[""Education"", ""School Name Change""]"	"[""Albay Normal School"", ""Bicol Teachers College"", ""Republic Act 3502"", ""name change""]"
+repacts:datasets/markdown/repacts/1962/ra_3503_1962.md	repacts	1962		datasets/markdown/repacts/1962/ra_3503_1962.md	ra_3503_1962	An Act Changing the Name of the Tuburan National Vocational School in the Municipality of Tuburan, Province of Cebu, to Tuburan National School	"**REPUBLIC ACT No. 3503**
+
+ **An Act Changing the Name of the Tuburan National Vocational School in the Municipality of Tuburan, Province of Cebu, to Tuburan National School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Tuburan National Vocational School in the Municipality of Tuburan, Province of Cebu, is hereby changed to Tuburan National School. General courses as well as vocational courses shall be offered in said school.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 16, 1962.
+"	success	Republic Act	This act changes the name of the Tuburan National Vocational School to Tuburan National School and authorizes the offering of general and vocational courses. The act takes effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The name of the Tuburan National Vocational School is hereby changed to Tuburan National School, with general and vocational courses to be offered.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	3503	June 16, 1962			To change the name of the Tuburan National Vocational School to Tuburan National School and authorize its courses.	"[""Name changed to Tuburan National School"", ""General and vocational courses shall be offered"", ""Act takes effect upon approval""]"		"[""Name change"", ""Education"", ""School"", ""Cebu"", ""Tuburan"", ""Republic Act"", ""1962""]"	"[""Tuburan National Vocational School"", ""Tuburan National School"", ""Cebu"", ""Education"", ""Name change""]"
+repacts:datasets/markdown/repacts/1962/ra_3504_1962.md	repacts	1962		datasets/markdown/repacts/1962/ra_3504_1962.md	ra_3504_1962	An Act Changing the Name of the Milibili Barrio School in Roxas City to Don Manuel Arnaldo Memorial School	"**REPUBLIC ACT No. 3504**
+
+ **An Act Changing the Name of the Milibili Barrio School in Roxas City to Don Manuel Arnaldo Memorial School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Milibili Barrio School in Roxas City is hereby changed to Don Manuel Arnaldo Memorial School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 16, 1962.
+"	success	Republic Act	An act to rename the Milibili Barrio School in Roxas City to Don Manuel Arnaldo Memorial School, effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The name of the Milibili Barrio School in Roxas City is hereby changed to Don Manuel Arnaldo Memorial School.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	3504	June 16, 1962			Changing the name of a public school in Roxas City.	"[""Name of Milibili Barrio School changed to Don Manuel Arnaldo Memorial School"", ""Act takes effect upon approval""]"		"[""Education"", ""School"", ""Name Change""]"	"[""Milibili Barrio School"", ""Don Manuel Arnaldo Memorial School"", ""Roxas City"", ""name change"", ""education""]"
+repacts:datasets/markdown/repacts/1962/ra_3505_1962.md	repacts	1962		datasets/markdown/repacts/1962/ra_3505_1962.md	ra_3505_1962	An Act Changing the Name of the Tinio-an Elementary School in the Municipality of Cabanatuan, Province of Iloilo, to Doroteo Lujan Elementary School	"**REPUBLIC ACT No. 3505**
+
+ **An Act Changing the Name of the Tinio-an Elementary School in the Municipality of Cabanatuan, Province of Iloilo, to Doroteo Lujan Elementary School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Tinio-an Elementary School in the Municipality of Cabanatuan, Province of Iloilo, is changed to Doroteo Lujan Elementary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 16, 1962.
+"	success	Republic Act	This act changes the name of Tinio-an Elementary School to Doroteo Lujan Elementary School and takes effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The name of the Tinio-an Elementary School in the Municipality of Cabanatuan, Province of Iloilo, is changed to Doroteo Lujan Elementary School.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	3505	June 16, 1962			Rename a public elementary school to honor Doroteo Lujan.	"[""The name of Tinio-an Elementary School is changed to Doroteo Lujan Elementary School.""]"		"[""education"", ""school"", ""renaming""]"	"[""Tinio-an Elementary School"", ""Doroteo Lujan Elementary School"", ""renaming"", ""Iloilo"", ""Cabanatuan""]"
+repacts:datasets/markdown/repacts/1962/ra_3506_1962.md	repacts	1962		datasets/markdown/repacts/1962/ra_3506_1962.md	ra_3506_1962	An Act Changing the Name of the La Loma Elementary School in Quezon City to Magsaysay Elementary School	"**REPUBLIC ACT No. 3506**
+
+ **An Act Changing the Name of the La Loma Elementary School in Quezon City to Magsaysay Elementary School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the La Loma Elementary School in Quezon City is changed to Magsaysay Elementary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 16, 1962.
+"	success	Education	The act changes the name of La Loma Elementary School in Quezon City to Magsaysay Elementary School.	"[{""title"": ""Section 1"", ""summary"": ""The name of La Loma Elementary School in Quezon City is changed to Magsaysay Elementary School.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	3506	June 16, 1962			To change the name of a public elementary school.	"[""Renames La Loma Elementary School to Magsaysay Elementary School.""]"		"[""Education"", ""School"", ""Renaming""]"	"[""La Loma Elementary School"", ""Magsaysay Elementary School"", ""Quezon City"", ""Name change"", ""Republic Act""]"
+repacts:datasets/markdown/repacts/1962/ra_3507_1962.md	repacts	1962		datasets/markdown/repacts/1962/ra_3507_1962.md	ra_3507_1962	An Act Changing the Name of the Sibutu Central Elementary School in the Municipality of Sitangkai, Province of Sulu, to Datu Jaafar Central Elementary School	"**REPUBLIC ACT No. 3507**
+
+ **An Act Changing the Name of the Sibutu Central Elementary School in the Municipality of Sitangkai, Province of Sulu, to Datu Jaafar Central Elementary School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Sibutu Central Elementary School in the Municipality of Sitangkai, Province of Sulu, is changed to Datu Jaafar Central Elementary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 16, 1962.
+"	success	Republic Act	An act that changes the name of the Sibutu Central Elementary School to Datu Jaafar Central Elementary School.	"[{""title"": ""Section 1."", ""summary"": ""The name of the Sibutu Central Elementary School in the Municipality of Sitangkai, Province of Sulu, is changed to Datu Jaafar Central Elementary School.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	3507	June 16, 1962			To change the name of a public elementary school in Sitangkai, Sulu.	"[""The name of the Sibutu Central Elementary School is changed to Datu Jaafar Central Elementary School."", ""The Act shall take effect upon its approval.""]"		"[""education"", ""school name change"", ""Sulu"", ""Philippines""]"	"[""Sibutu Central Elementary School"", ""Datu Jaafar Central Elementary School"", ""Sitangkai"", ""Sulu"", ""Philippines""]"
+repacts:datasets/markdown/repacts/1962/ra_3508_1962.md	repacts	1962		datasets/markdown/repacts/1962/ra_3508_1962.md	ra_3508_1962	An Act Changing the Name of the Maimbung Central Elementary School in the Municipality of Maimbung, Province of Sulu, to Sultan Mohamad Jamalul Kiram Central Elementary School	"**REPUBLIC ACT No. 3508**
+
+ **An Act Changing the Name of the Maimbung Central Elementary School in the Municipality of Maimbung, Province of Sulu, to Sultan Mohamad Jamalul Kiram Central Elementary School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Maimbung Central Elementary School in the Municipality of Maimbung, Province of Sulu, is changed to Sultan Mohamad Jamalul Kiram Central Elementary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 16, 1962.
+"	success	Philippine law	An act that changes the name of the Maimbung Central Elementary School to Sultan Mohamad Jamalul Kiram Central Elementary School in Maimbung, Sulu, and takes effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The name of the Maimbung Central Elementary School in the Municipality of Maimbung, Province of Sulu, is changed to Sultan Mohamad Jamalul Kiram Central Elementary School.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	3508	June 16, 1962			To rename a public elementary school in the Province of Sulu.	"[""The name of Maimbung Central Elementary School is changed to Sultan Mohamad Jamalul Kiram Central Elementary School.""]"		"[""Education"", ""School"", ""Renaming"", ""Sulu"", ""Philippines""]"	"[""Maimbung"", ""Sulu"", ""Sultan Mohamad Jamalul Kiram"", ""Central Elementary School"", ""name change"", ""Republic Act 3508""]"
+repacts:datasets/markdown/repacts/1962/ra_3509_1962.md	repacts	1962		datasets/markdown/repacts/1962/ra_3509_1962.md	ra_3509_1962	An Act Changing the Name of the Ungus Matata Central Elementary School in the Municipality of Tandubas, Province of Sulu, to Panglima Biteng Central Elementary School	"**REPUBLIC ACT No. 3509**
+
+ **An Act Changing the Name of the Ungus Matata Central Elementary School in the Municipality of Tandubas, Province of Sulu, to Panglima Biteng Central Elementary School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Ungus Matata Central Elementary School in the Municipality of Tandubas, Province of Sulu, is changed to Panglima Biteng Central Elementary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 16, 1962.
+"	success	Education	This act changes the name of Ungus Matata Central Elementary School to Panglima Biteng Central Elementary School and takes effect upon its approval.	"[{""title"": ""Section 1"", ""summary"": ""Renames the Ungus Matata Central Elementary School in Tandubas, Sulu to Panglima Biteng Central Elementary School.""}, {""title"": ""Section 2"", ""summary"": ""The act takes effect upon its approval.""}]"	3509	June 16, 1962				"[""Renames the school from Ungus Matata Central Elementary School to Panglima Biteng Central Elementary School."", ""The act takes effect upon approval.""]"		"[""School name change""]"	"[""school"", ""name change"", ""Sulu"", ""Tandubas""]"
+repacts:datasets/markdown/repacts/1962/ra_3510_1962.md	repacts	1962		datasets/markdown/repacts/1962/ra_3510_1962.md	ra_3510_1962	An Act Changing the Name of the Tubig Indangan Central Elementary School in the Municipality of Simunul, Province of Sulu, to Ratag Haruon Central Elementary School	"**REPUBLIC ACT No. 3510**
+
+ **An Act Changing the Name of the Tubig Indangan Central Elementary School in the Municipality of Simunul, Province of Sulu, to Ratag Haruon Central Elementary School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Tubig Indangan Central Elementary School in the Municipality of Simunul, Province of Sulu, is changed to Ratag Haruon Central Elementary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 16, 1962.
+"	success	Republic Act	This Republic Act changes the name of Tubig Indangan Central Elementary School to Ratag Haruon Central Elementary School and takes effect upon its approval.	"[{""title"": ""Section 1"", ""summary"": ""The name of the Tubig Indangan Central Elementary School is changed to Ratag Haruon Central Elementary School.""}, {""title"": ""Section 2"", ""summary"": ""The Act shall take effect upon its approval.""}]"	3510	June 16, 1962			To rename a public elementary school in Simunul, Sulu.	"[""Section 1: Renames the Tubig Indangan Central Elementary School to Ratag Haruon Central Elementary School."", ""Section 2: The Act becomes effective upon approval.""]"		"[""Education"", ""Name change"", ""Sulu"", ""Simunul""]"	"[""Tubig Indangan"", ""Ratag Haruon"", ""Central Elementary School"", ""Sulu"", ""Simunul""]"
+repacts:datasets/markdown/repacts/1962/ra_3511_1962.md	repacts	1962		datasets/markdown/repacts/1962/ra_3511_1962.md	ra_3511_1962	An Act Changing the Name of the Jolo Central Elementary School in the Municipality of Jolo, Province of Sulu, to Mohammad Tulawie Central Elementary School	"**REPUBLIC ACT No. 3511**
+
+ **An Act Changing the Name of the Jolo Central Elementary School in the Municipality of Jolo, Province of Sulu, to Mohammad Tulawie Central Elementary School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Jolo Central Elementary School in the Municipality of Jolo, Province of Sulu, is changed to Mohammad Tulawie Central Elementary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 16, 1962.
+"	success	Republic Act	This act changes the name of Jolo Central Elementary School to Mohammad Tulawie Central Elementary School.	"[{""title"": ""Section 1."", ""summary"": ""The name of the Jolo Central Elementary School in the Municipality of Jolo, Province of Sulu, is changed to Mohammad Tulawie Central Elementary School.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	3511	June 16, 1962			Change of school name.	"[""Name of Jolo Central Elementary School changed to Mohammad Tulawie Central Elementary School.""]"		"[""Education"", ""School Name Change"", ""Sulu"", ""Philippines""]"	"[""Jolo"", ""Sulu"", ""Mohammad Tulawie"", ""Elementary School"", ""Name Change""]"
+repacts:datasets/markdown/repacts/1963/ra_3512_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3512_1963.md	ra_3512_1963	AN ACT CREATING A FISHERIES COMMISSION DEFINING ITS POWERS, DUTIES AND FUNCTIONS, AND APPROPRIATING FUNDS THEREFOR.	"**REPUBLIC ACT No. 3512**
+
+ AN ACT CREATING A FISHERIES COMMISSION DEFINING ITS POWERS, DUTIES AND FUNCTIONS, AND APPROPRIATING FUNDS THEREFOR.
+
+ **Section 1.** It is hereby declared a national policy to encourage, promote and conserve our fishing resources in order to insure a steady and sufficient supply of fish, and other fishery products for our increasing population, and to reduce to a minimum level possible the importation of such produce so as to help stabilize the national economy by enlarging the office charged with the development, improvement, management and conservation of our fishery resources.
+
+ **Section 2.** *Creation.* In pursuance of said policy, there is hereby created an office to be known as the Philippine Fisheries Commission under the direct control and supervision of the Secretary of Agriculture and Natural Resources.
+
+ **Section 3.** *Composition and Organization.* The Philippine Fisheries Commission shall have a chief to be known as Commissioner and two assistants to be known as Deputy Commissioners who shall be appointed by the President of the Philippines with the consent of the Commission on Appointment. The Commissioner shall receive a salary range of 68, the Deputy Commissioners a salary range of 62 in accordance with the salary pattern of the Wage and Position Classification Office (WAPCO).
+
+ The Commissioner shall, subject to the approval of the Secretary of Agriculture and Natural Resources, organize the commission into such divisions, sections, and other units as he deems proper to insure the maximum efficiency of its operation; establish and maintain field offices and stations at suitable and appropriate places in the Philippines as may be needed to carry out the purposes of this Act; and create an advisory committee on fishery and allied matters to be composed of the Commissioner as chairman, with the two Deputy Commissioners and four from the private sector engaged in deep-sea fishing, fish culture, fish processing and allied industries, as members. Each member from the private sector shall receive a per diem not exceeding twenty pesos for each meeting actually attended which meetings shall be held not more than twice each month.
+
+ **Section 4.** *Powers, duties and functions.* The Commissioner shall have the following powers, duties and functions:
+
+ (a) To supervise and control the management, development, production, occupancy, demarcation, protection and utilization of national and municipal fisheries, public fishery reserves and fishery reservations. (b) To issue, in accordance with law, licenses or permits for the removal or taking of aquatic products and to suspend or revoke the same for cause. (c) To carry out the provisions of this Act and Act Numbered Four thousand three, as amended, otherwise known as the Fisheries Act, and all rules and regulations promulgated thereunder and all other laws pertaining to the supervision, administration, and disposition of aquatic resources. (d) To increase and conserve the fishery resources of the Philippines by; studying the life cycle of fishes; establishing fish hatcheries, nurseries and demonstration fishponds; intensify fish stocking in inland waters; and protecting the spawning or breeding grounds of fishes. (e) To conduct studies of fishing practices and methods of fish capture in relation to protection of aquatic resources, economical operation and prevention of waste, and to disseminate the results and information obtained from such studies through bulletins or circulars and economic maps. (f) To conduct demonstration services so as to acquaint the people with the various methods and trends of modern fishery practices. (g) To conduct oceanographical and limnological surveys and explore fishing areas, fishing banks, and fisheries of the Philippines as well as international waters for necessary expansion of fishing operations. (h) To prepare and execute upon the approval of the Secretary of Agriculture and Natural Resources, forms, instructions, rules and regulations consistent with the purpose of this Act and for the development of fisheries. (i) To make arrests personally or through his duly authorize representatives in accordance with Rule One hundred nine of the Rules of Court of the Philippines. (j) To make searches and seizures personally or thru his duly authorized representatives in accordance with the Rules of Court of the Philippines when the things to be seized are explosives such as blasting caps, dynamites and the like, fish poison and poisoned or dynamited fish; including fishery products, fishing equipment, tackle and other things that are subject to seizure under existing fishery laws. (k) To administer oaths, receive affidavits, issue subpoena and take testimonies in official investigations personally or through his duly authorized representatives. (l) To make investigations concerning the nature, organization and resources of any or all fishery business. (m) To render technical assistance and advisory services to fishing boat operators on the proper construction, operation, rigging, appropriate gear, equipment and other devices of fishing boats for deep-sea fishing. (n) To establish regional, city, provincial, and municipal fisheries stations in the Philippines whenever necessary for extension work, in such a manner as to facilitate practical training of fishermen in the operation of modern fishing gear and devices; to conduct experiments and tests related to fishing activities and the suitability and modification of foreign fisheries methods in the Philippines for commercial adoption, etcetera and to effectively implement the enforcement of existing fishery laws on illegal fishing. (o) To admeasure and inspect safety devices, boilers and fishing gear and certify to the same, whenever a loan is applied for such vessel and/or gear with the Development Bank of the Philippines or any other government banking and/or financing institution. The certification in favor of the applicant which shall be a requirement for obtaining a loan, shall be issued only upon payment of a fee, the amount shall in no case exceed twenty pesos. (p) To assist private persons or entities in the procurement of fishing equipment supplies and fishing boats. (q) To assist private parties in the proper distribution or marketing of their catch through the establishment of a central fish market, fish piers, ice plants and cold storage in strategic fishing centers of the Philippines to be determined by the Commissioner. (r) To maintain an information service which shall disseminate practical information and pertinent data on findings of research, studies and observations and rules and regulations promulgated by the Secretary of Agriculture and Natural Resources for the benefit of the people in the industry. (s) To perform such other related functions which will promote the development and exploitation of deep-sea fisheries in the Philippines. (t) To classify available swamp lands according to their suitability or fitness for fishpond purposes. The certification of the Commissioner as to the suitability or fitness of swamps lands for fishpond purposes shall be a requirement for obtaining loan from the Development Bank of the Philippines or any other government banking and/or financing institutions. Such certification shall be issued upon payment of a fee in an amount to be determined by the Commissioner, but which shall in no case exceed twenty pesos. **Section 5.** *Power over fishing vessels and fishery matters.* All powers, functions and duties heretofore exercised by the Bureau of Customs, Philippine Navy and Philippine Constabulary over fishing vessels and fishery matters are hereby transferred to and vested in the Philippine Fisheries Commission and all the corresponding records and documents kept in the custody of the Commission. The Commissioner or his authorized representatives shall collect all the fees and charges on fishing vessels which are now collected by the Bureau of Customs.

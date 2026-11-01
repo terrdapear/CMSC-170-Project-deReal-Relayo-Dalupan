@@ -1,0 +1,190 @@
+
+ **Section 11.** *Research and Development.* -The Board shall, in coordination with the National Science Development Board and similar agencies of the government, strive to promote research and development to improve efficiency in surveying and map-making. The Chairman is authorized to conduct development work for the improvement of surveying and cartographic methods, instruments and equipment.
+
+ **Section 12.** *Gifts and Bequests.* -The Board is authorized to accept and utilize gifts or bequests of money and other real or personal property for the purpose of aiding or facilitating the work of the Board and such gifts and bequests and the income therefrom shall be exempt from taxes.
+
+ **Section 13.** *Transitory Provisions.* -The President is authorized, prior to the approval by Congress of a regular budget for the normal operation of the Board:
+
+ (1) To create a revolving fund by transferring funds from the income of the Manila International Airport, for the printing of aeronautical charts; and (2) To create another revolving fund for the printing of other maps specified in this Act, which may be secured from reparations fund and from any existing and/or expected ICA-NEC assistance fund or from similar revolving funds at present frozen in the Treasury. **Section 14.** *Appropriation.* -There is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, such sums as may be necessary to carry out the provisions of this Act.
+
+ **Section 15.** *Funds.* -Funds appropriated for the Board shall, if obligated by contracts during the fiscal year for which appropriated, remain available for expenditures for four years following the expiration of the fiscal year for which appropriated or for the duration of the contract under which it is obligated.
+
+ **Section 16.** *Separability Clause.* -If any provision of this Act should be held invalid, the other provisions shall not be affected thereby.
+
+ **Section 17.** *Repealing Clause.* -All Acts, executive orders, administrative orders, rules and regulations or parts thereof, which are inconsistent with this Act are hereby repealed or modified accordingly.
+
+ **Section 18.** *Effectivity.* -This Act shall take effect after thirty days from its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	Establishes the Board of Technical Surveys and Maps to coordinate and standardize surveying and mapping activities in the Philippines, defines its functions, powers, and composition, and appropriates funds for its operation.	"[{""title"": ""Section 1. Title"", ""summary"": ""The Act shall be known as the Surveying and Mapping Act of 1960.""}, {""title"": ""Section 2. Policy"", ""summary"": ""Declares policy for independence in map making, systematization and coordination of agencies, and production of economic, topographical, geological, and aeronautical maps.""}, {""title"": ""Section 3. Board of Technical Surveys and Maps; Powers, Functions and Duties"", ""summary"": ""Creates the Board, outlines its powers to promulgate standards, coordinate agencies, develop private enterprise, promote research, and report annually.""}, {""title"": ""Section 4. Composition of the Board"", ""summary"": ""Specifies the Board\u2019s composition including the chairman, vice-chairman, and various officials and professional members.""}, {""title"": ""Section 5. Chairman of the Board"", ""summary"": ""Designates the Secretary of National Defense as chairman and details per diem compensation.""}, {""title"": ""Section 6. Vice-Chairman and Executive Director"", ""summary"": ""States appointment of the vice-chairman and executive director by the President with confirmation.""}]"	2912	1960			To create a Board of Technical Surveys and Maps to coordinate surveying and mapping activities, define its functions, and appropriate funds for its operation.	"[""Creation of Board of Technical Surveys and Maps"", ""Definition of Board functions, powers, and duties"", ""Composition of the Board"", ""Designation of Secretary of National Defense as Chairman"", ""Appointment of Vice-Chairman and Executive Director"", ""Annual reporting requirement"", ""Appropriation of funds""]"		"[""Surveying"", ""Mapping"", ""Board"", ""Technical Surveys"", ""Philippines"", ""Republic Act""]"	"[""surveying"", ""mapping"", ""board"", ""technical surveys"", ""geodesy"", ""photogrammetry"", ""civil engineering"", ""policy"", ""standards"", ""coordination""]"
+repacts:datasets/markdown/repacts/1960/ra_2913_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2913_1960.md	ra_2913_1960	An Act Creating the Barrios of Remedios I and Remedios II in the Municipality of Mauban, Province of Quezon	"**REPUBLIC ACT No. 2913**
+
+ **An Act Creating the Barrios of Remedios I and Remedios II in the Municipality of Mauban, Province of Quezon**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Bundok, Pantay and Labak in the barrio of Remedios, Municipality of Mauban, Province of Quezon, are hereby separated from the barrio and are constituted into a new distinct and independent barrio to be known as the barrio of Remedios I.
+
+ **Section 2.** The remaining sitios of Aluyanin, Bagacay and Bulakan of the same barrio are hereby constituted into a new distinct and independent barrio to be known as the barrio of Remedios II, making Mabanga River as the boundary between the two new barrios herein constituted.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	Establishes the barrios of Remedios I and Remedios II by separating specified sitios within the municipality of Mauban, Quezon.	"[{""title"": ""Section 1"", ""summary"": ""Separates the sitios of Bundok, Pantay and Labak from the existing barrio of Remedios to form the new barrio of Remedios I.""}, {""title"": ""Section 2"", ""summary"": ""Separates the remaining sitios of Aluyanin, Bagacay and Bulakan to form the new barrio of Remedios II, with the Mabanga River as the boundary between the two barrios.""}, {""title"": ""Section 3"", ""summary"": ""Specifies that the Act shall take effect upon its approval.""}]"	2913	June 19, 1960			To create the barrios of Remedios I and Remedios II in the Municipality of Mauban, Province of Quezon.	"[""Establishment of Remedios I barrio from sitios Bundok, Pantay and Labak"", ""Establishment of Remedios II barrio from sitios Aluyanin, Bagacay and Bulakan"", ""Boundary of the two barrios defined by the Mabanga River"", ""Act takes effect upon approval""]"		"[""local government"", ""barrios"", ""municipality"", ""Quezon""]"	"[""Remedios I"", ""Remedios II"", ""Mauban"", ""Quezon"", ""barrios"", ""sitios""]"
+repacts:datasets/markdown/repacts/1960/ra_2914_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2914_1960.md	ra_2914_1960	An Act Transferring the Provincial Capital of the Province of Cotabato to the Municipality of Sultan sa Baroñgis	"**REPUBLIC ACT No. 2914**
+
+ **An Act Transferring the Provincial Capital of the Province of Cotabato to the Municipality of Sultan sa Baroñgis**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section** **1**. The Municipality of Sultan sa Baroñgis, Province of Cotabato, shall be the capital of said province: *Provided,* That until the necessary buildings to be used for housing the different offices of the Provincial Government of Cotabato shall have been constructed, the City of Cotabato shall continue to be the capital of the Province of Cotabato.
+
+ **Section** **2**. This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	The act transfers the provincial capital of Cotabato from the City of Cotabato to the Municipality of Sultan sa Baroñgis, with a transitional provision that Cotabato remains the capital until necessary buildings are constructed.	"[{""title"": ""Section 1"", ""summary"": ""The Municipality of Sultan sa Baro\u00f1gis becomes the capital of Cotabato, but the City of Cotabato remains capital until necessary buildings are constructed.""}, {""title"": ""Section 2"", ""summary"": ""The act takes effect upon approval.""}]"	2914	June 19, 1960				"[""Transfers provincial capital to Sultan sa Baro\u00f1gis"", ""City of Cotabato remains capital until necessary buildings constructed"", ""Act takes effect upon approval""]"			
+repacts:datasets/markdown/repacts/1960/ra_2915_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2915_1960.md	ra_2915_1960	An Act to Amend a Certain Item of Republic Act Numbered Sixteen Hundred Thirteen	"**REPUBLIC ACT No. 2915**
+
+ **An Act to Amend a Certain Item of Republic Act Numbered Sixteen Hundred Thirteen**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item (31) on page 148 of Republic Act Numbered Sixteen hundred thirteen is amended to read as follows:
+
+ > ""(31) Cantabaco Elementary School, Naga, Plan No. 4, modifiedConstruction of one additional room ₱6,000.00.""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Act	An amendment to Item (31) of Republic Act No. 1613 to modify the construction of an additional room at Cantabaco Elementary School, Naga, with a cost of ₱6,000.00, taking effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Item (31) on page 148 of Republic Act No. 1613 is amended to read: \""Cantabaco Elementary School, Naga, Plan No. 4, modified Construction of one additional room \u20b16,000.00.\""""}, {""title"": ""Section 2"", ""summary"": ""The Act shall take effect upon its approval.""}]"	2915	June 19, 1960			To amend a specific item of an existing law (RA 1613) regarding educational infrastructure.	"[""Amendment to Item (31) of RA 1613 to add construction of one additional room at Cantabaco Elementary School, Naga, costing \u20b16,000.00""]"	Republic Act No. 1613	"[""Education"", ""Amendment""]"	"[""Cantabaco Elementary School"", ""RA 1613"", ""amendment"", ""room construction"", ""Naga""]"
+repacts:datasets/markdown/repacts/1960/ra_2916_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2916_1960.md	ra_2916_1960	An Act Reappropriating Certain Sums Appropriated in Republic Acts Numbered Sixteen Hundred Thirteen and Nineteen Hundred	"**REPUBLIC ACT No. 2916**
+
+ **An Act Reappropriating Certain Sums Appropriated in Republic Acts Numbered Sixteen Hundred Thirteen and Nineteen Hundred**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sums appropriated in Republic Act Numbered Sixteen hundred thirteen under:
+
+ Item (b), group II, subparagraph (27) for the Province of Leyte, paragraph f, Section two, for Baybay Central Market building, Construction ₱50,000.00;
+
+ Item 58 for the Province of Leyte, page 167, paragraph g, Section two of Central Market building, Baybay 6,000.00,
+
+ and the sum appropriated in Republic Act Numbered Nineteen hundred under:
+
+ Item (f), page 309, group II, subparagraph (28) for the Province of Leyte, paragraph f, Section two, for Baybay Super Market (Washington corner of Luna Streets) Additional appropriation ₱30,000.00,
+
+ totalling eighty-six thousand pesos, are hereby reappropriated for the construction, repair and improvement of the Baybay Municipal Hall in the Municipality of Baybay, Province of Leyte.
+
+ **Section 2.** The Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Act	This act reappropriates specific sums appropriated under Republic Acts 1613 and 1900 for the construction, repair, and improvement of the Baybay Municipal Hall in Leyte.	"[{""title"": ""Section 1."", ""summary"": ""Reappropriates \u20b150,000.00 and \u20b16,000.00 from RA 1613 and \u20b130,000.00 from RA 1900, totaling \u20b186,000.00, for the Baybay Municipal Hall.""}, {""title"": ""Section 2."", ""summary"": ""The act shall take effect upon its approval.""}]"	2916	June 19, 1960			To reallocate appropriated funds for the development of Baybay Municipal Hall.	"[""Reappropriation of \u20b150,000.00 from RA 1613 for Baybay Central Market building."", ""Reappropriation of \u20b16,000.00 from RA 1613 for Baybay Central Market building."", ""Reappropriation of \u20b130,000.00 from RA 1900 for Baybay Super Market."", ""Total appropriation of \u20b186,000.00 for Baybay Municipal Hall.""]"		"[""Reappropriation"", ""Municipal Hall"", ""Leyte"", ""Baybay""]"	"[""Reappropriation"", ""Republic Act"", ""Leyte"", ""Baybay Municipal Hall""]"
+repacts:datasets/markdown/repacts/1960/ra_2917_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2917_1960.md	ra_2917_1960	An Act to Convert the Sitio of Malusak in the Municipality of Mogpog, Province of Marinduque, into a Barrio	"**REPUBLIC ACT No. 2917**
+
+ **An Act to Convert the Sitio of Malusak in the Municipality of Mogpog, Province of Marinduque, into a Barrio**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Malusak in the Municipality of Mogpog, Province of Marinduque, is converted into a barrio.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Act	The act converts the sitio of Malusak into a barrio under the jurisdiction of Mogpog, Marinduque, and establishes its effectivity upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The sitio of Malusak in the Municipality of Mogpog, Province of Marinduque, is converted into a barrio.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	2917	June 19, 1960			To convert the sitio of Malusak into a barrio, thereby establishing a formal local government unit within Mogpog, Marinduque.	"[""Sitio of Malusak is converted into a barrio"", ""Act shall take effect upon approval""]"		"[""Republic Act"", ""Local Government"", ""Barangay"", ""Marinduque""]"	"[""Malusak"", ""Mogpog"", ""Marinduque"", ""barrio"", ""sitio"", ""conversion"", ""Republic Act 2917""]"
+repacts:datasets/markdown/repacts/1960/ra_2918_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2918_1960.md	ra_2918_1960	An Act Transferring the Seat of Government of the Municipality of Burgos, Province of Ilocos Sur, to the Barrio of Luna	"**REPUBLIC ACT No. 2918**
+
+ **An Act Transferring the Seat of Government of the Municipality of Burgos, Province of Ilocos Sur, to the Barrio of Luna**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The seat of government of the Municipality of Burgos, Province of Ilocos Sur, is transferred from the present site to the barrio of Luna.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	An act transferring the seat of government of Burgos municipality to Luna barrio, taking effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""The seat of government of the Municipality of Burgos, Province of Ilocos Sur, is transferred from the present site to the barrio of Luna.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2918	June 19, 1960			Transfer seat of government of Burgos municipality to Luna barrio.	"[""Transfer seat of government to Luna barrio"", ""Act takes effect upon approval""]"		"[""government"", ""municipality"", ""Ilocos Sur"", ""Burgos"", ""Luna""]"	"[""seat of government"", ""transfer"", ""municipality"", ""Ilocos Sur"", ""Burgos"", ""Luna""]"
+repacts:datasets/markdown/repacts/1960/ra_2919_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2919_1960.md	ra_2919_1960	An Act to Authorize the Establishment of a Fresh-Water Experimental Demonstration Fish Farm Nursery at San Mateo, Province of Isabela, and to Authorize the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 2919**
+
+ **An Act to Authorize the Establishment of a Fresh-Water Experimental Demonstration Fish Farm Nursery at San Mateo, Province of Isabela, and to Authorize the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established and maintained, under the supervision of the Director of Fisheries, a fresh-water experiment demonstration fish farm nursery at San Mateo in the Province of Isabela.
+
+ **Section 2.** The sum of fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, to carry into effect the purpose of this Act during the fiscal year ending June thirtieth, nineteen hundred and sixty-one. Thereafter, the necessary amount for the purpose shall be included in the General Appropriations Act of each year.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	The Act authorizes the creation of a fresh-water experimental fish farm nursery in San Mateo, Isabela, and appropriates fifty thousand pesos for its establishment and maintenance. It stipulates the nursery’s supervision by the Director of Fisheries and sets the appropriation for the fiscal year ending June 30, 1961, with subsequent funding to be included in yearly General Appropriations Acts.	"[{""title"": ""Section 1"", ""summary"": ""Establishes and maintains a fresh-water experimental fish farm nursery in San Mateo, Isabela, under the supervision of the Director of Fisheries.""}, {""title"": ""Section 2"", ""summary"": ""Authorizes the appropriation of fifty thousand pesos from the National Treasury for the nursery\u2019s establishment during the fiscal year ending June 30, 1961, with future funding to be included in annual General Appropriations Acts.""}, {""title"": ""Section 3"", ""summary"": ""Effectiveness of the Act upon approval.""}]"	2919	June 19, 1960			To authorize the establishment of a fish farm nursery in San Mateo, Isabela, and to allocate appropriate funding for its operation.	"[""Establishment of a fresh-water experimental fish farm nursery in San Mateo, Isabela"", ""Authorization of fifty thousand pesos for the nursery\u2019s establishment"", ""Supervision by the Director of Fisheries"", ""Effectiveness upon approval""]"		"[""fishing"", ""agriculture"", ""fisheries"", ""Isabela"", ""freshwater""]"	"[""fishing"", ""fisheries"", ""agriculture"", ""Isabela"", ""freshwater""]"
+repacts:datasets/markdown/repacts/1960/ra_2920_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2920_1960.md	ra_2920_1960	An Act Authorizing the Appropriation of One Hundred Fifty Thousand Pesos for the Operation and Maintenance of the Danao National Hospital and the Bogo National Hospital, Both in the Province of Cebu	"**REPUBLIC ACT No. 2920**
+
+ **An Act Authorizing the Appropriation of One Hundred Fifty Thousand Pesos for the Operation and Maintenance of the Danao National Hospital and the Bogo National Hospital, Both in the Province of Cebu**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sum of one hundred fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of the Danao National Hospital in the Municipality of Danao, Province of Cebu, and the Bogo National Hospital in the Municipality of Bogo, same province, during the fiscal year nineteen hundred sixty-one. Thereafter, such sums as may be needed for the said purpose shall be included in the annual General Appropriations Act.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	Appropriates 150,000 pesos for the operation and maintenance of Danao and Bogo National Hospitals in Cebu during the fiscal year 1961.	"[{""title"": ""Section 1"", ""summary"": ""The sum of one hundred fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of the Danao National Hospital in the Municipality of Danao, Province of Cebu, and the Bogo National Hospital in the Municipality of Bogo, same province, during the fiscal year nineteen hundred sixty-one. Thereafter, such sums as may be needed for the said purpose shall be included in the annual General Appropriations Act.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	2920	June 19, 1960			Appropriating funds for the operation and maintenance of the Danao and Bogo National Hospitals in Cebu.	"[""Appropriates 150,000 pesos for the operation and maintenance of Danao and Bogo National Hospitals during FY 1961."", ""Includes provision for future required sums in the General Appropriations Act.""]"		"[""Healthcare"", ""Budget"", ""Appropriation""]"	"[""Danao National Hospital"", ""Bogo National Hospital"", ""Cebu"", ""National Treasury"", ""General Appropriations Act""]"
+repacts:datasets/markdown/repacts/1960/ra_2921_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2921_1960.md	ra_2921_1960	An Act Amending Item (i), Page 151, Paragraph 4, Title A, Section One of Republic Act Numbered Twelve Hundred	"**REPUBLIC ACT No. 2921**
+
+ **An Act Amending Item (i), Page 151, Paragraph 4, Title A, Section One of Republic Act Numbered Twelve Hundred**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item (i), page 151, paragraph 4, Title A, Section one of Republic Act Numbered Twelve hundred, as amended by Republic Act Numbered Fourteen hundred and sixty-four, is further amended to read as follows:
+
+ > ""i. Nueva Vizcaya
+>
+>  ""(2) Bayombong Home Economics Building, Bayombong ₱5,000.00""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	Amends Item (i) of Republic Act No. 1200 to include Nueva Vizcaya and Bayombong Home Economics Building with a ₱5,000.00 allocation.	"[{""title"": ""Section 1"", ""summary"": ""Amends Item (i) of RA 1200 by adding Nueva Vizcaya and Bayombong Home Economics Building with a \u20b15,000.00 allocation.""}, {""title"": ""Section 2"", ""summary"": ""The Act shall take effect upon its approval.""}]"	2921	June 19, 1960			To update RA 1200 regarding educational funding for Nueva Vizcaya and Bayombong.	"[""Adds Nueva Vizcaya to Item (i) of RA 1200"", ""Adds Bayombong Home Economics Building with \u20b15,000.00 allocation""]"	Republic Act No. 1200, amended by RA 1464	"[""amendment"", ""education"", ""budget""]"	"[""Republic Act 2921"", ""Nueva Vizcaya"", ""Bayombong"", ""Home Economics Building"", ""budget allocation"", ""RA 1200""]"
+repacts:datasets/markdown/repacts/1960/ra_2922_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2922_1960.md	ra_2922_1960	An Act to Amend Priority Numbers 7 and 13, Page 58-B, Group III for the Province of Leyte, Appendix B of Republic Act Numbered Sixteen Hundred Thirteen	"**REPUBLIC ACT No. 2922**
+
+ **An Act to Amend Priority Numbers 7 and 13, Page 58-B, Group III for the Province of Leyte, Appendix B of Republic Act Numbered Sixteen Hundred Thirteen**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Priority numbers 7 and 13, page 58-B, Group III for the Province of Leyte, Appendix B of Republic Act Numbered Sixteen hundred thirteen are hereby amended to read as follows:
+
+ > ""7 Malitbog Maningning CommunityConstruction school building ₱4,000.00
+>
+>  ""13 Malitbog Sta. Cruz Construction of shop building 4,000.00
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	Amends Priority Numbers 7 and 13 for Leyte, detailing construction of a school building and a shop building, and specifies that the Act takes effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Amends Priority Numbers 7 and 13 for the Province of Leyte, specifying construction details for Malitbog Maningning Community construction school building and Malitbog Sta. Cruz shop building.""}, {""title"": ""Section 2."", ""summary"": ""The Act shall take effect upon its approval.""}]"	2922	June 19, 1960			To amend priority numbers for Leyte, specifying construction projects and establishing effective date upon approval.	"[""Amendment of Priority Numbers 7 and 13 for Leyte with construction details for Malitbog Maningning Community construction school building and Malitbog Sta. Cruz shop building."", ""The Act takes effect upon approval.""]"	Republic Act 1613	"[""Republic Act"", ""Leyte"", ""Construction"", ""Priority Numbers""]"	"[""Priority Numbers"", ""Leyte"", ""Construction"", ""School"", ""Shop Building""]"
+repacts:datasets/markdown/repacts/1960/ra_2923_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2923_1960.md	ra_2923_1960	An Act Changing the Names of Certain Barrios in the Municipality of Prieto-Diaz, Province of Sorsogon	"**REPUBLIC ACT No. 2923**
+
+ **An Act Changing the Names of Certain Barrios in the Municipality of Prieto-Diaz, Province of Sorsogon**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The names of the following barrios in the Municipality of Prieto-Diaz, Province of Sorsogon, are changed as follows:
+
+ 1. Barrio Cayo to Barrio Santa Lourdes; 2. Barrio Manao to Barrio San Fernando; 3. Barrio Visitang-Daan to Barrio San Isidro; 4. Barrio Cagbulalacao to Barrio San Ramon; 5. Barrio Binuntulan to Barrio Santo Domingo; and 6. Barrio Pigbanua to Barrio San Rafael. **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	This act changes the names of six barrios in Prieto-Diaz, Sorsogon to new names and takes effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The names of the following barrios are changed: Barrio Cayo to Barrio Santa Lourdes; Barrio Manao to Barrio San Fernando; Barrio Visitang-Daan to Barrio San Isidro; Barrio Cagbulalacao to Barrio San Ramon; Barrio Binuntulan to Barrio Santo Domingo; and Barrio Pigbanua to Barrio San Rafael.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	2923	June 19, 1960			To rename barrios within Prieto-Diaz for administrative purposes.	"[""Change of barrio names: Barrio Cayo to Santa Lourdes; Manao to San Fernando; Visitang-Daan to San Isidro; Cagbulalacao to San Ramon; Binuntulan to Santo Domingo; Pigbanua to San Rafael."", ""Act takes effect upon approval.""]"		"[""Local Government"", ""Administrative Law"", ""Municipality"", ""Sorsogon""]"	"[""barrios"", ""municipality"", ""Prieto-Diaz"", ""Sorsogon"", ""renaming"", ""Republic Act 2923""]"
+repacts:datasets/markdown/repacts/1960/ra_2924_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2924_1960.md	ra_2924_1960	An Act Amending Certain Items in Republic Act Numbered Sixteen Hundred Thirteen	"**REPUBLIC ACT No. 2924**
+
+ **An Act Amending Certain Items in Republic Act Numbered Sixteen Hundred Thirteen**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item nineteen for the Province of Bataan, page 134, paragraph g, Section two of Republic Act Numbered Sixteen hundred thirteen is amended to read as follows:
+
+ > ""19. South Central Elementary School Building and premises Improvement, Orani ₱5,000.00""
+
+ **Section 2.** Project numbers B-05.40 and B-05.51, page 258-A, and Project number B-05.60, page 260-A, Title B, for Highways (Feeder and Secondary Roads) Appendix A of the same Act, are amended to read as follows:
+
+ > ""B-05.40 Municipal Roads and Streets, Hermosa Improvement and asphalt paving GR 15.00 15.00 15.00 - - - - - - 2
+>
+>  ""B-05.51 Mabini Street, Dinalupihan Improvement GR 35.00 35.00 5.0 10.00 15.00 - 5.00 - - 2

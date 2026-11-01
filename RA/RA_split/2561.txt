@@ -1,0 +1,772 @@
+>
+>  thence S37 51W 40.90 m to point 270;
+>
+>  thence S24 39W 37.60 m to point 271;
+>
+>  thence S55 28W 9.30 m to point 272;
+>
+>  thence N76 13W 22.20 m to point 273;
+>
+>  thence S84 10W 18.70 m to point 274;
+>
+>  thence S47 03W 27.70 m to point 275;
+>
+>  thence S62 57W 15.60 m to point 276;
+>
+>  thence S30 58W 22.20 m to point 277;
+>
+>  thence S46 31W 29.40 m to point 278;
+>
+>  thence S26 17W 18.30 m to point 279;
+>
+>  thence S27 05E 48.48 m to point 280;
+>
+>  thence S04 26W 11.60 m to point 281;
+>
+>  thence N78 56W 22.90 m to point 282;
+>
+>  thence S71 26W 13.50 m to point 283;
+>
+>  thence S10 25W 18.80 m to point 284;
+>
+>  thence S30 51E 27.50 m to point 285;
+>
+>  thence S51 57W 35.70 m to point 286;
+>
+>  thence N79 32W 19.80 m to point 287;
+>
+>  thence N40 01W 84.00 m to point 288;
+>
+>  thence N71 09W 13.30 m to point 289;
+>
+>  thence N87 14W 29.00 m to point 290;
+>
+>  thence S85 24W 22.50 m to point 291;
+>
+>  thence S73 40W 66.20 m to point 292;
+>
+>  thence S77 53W 25.30 m to point 293;
+>
+>  thence S67 25W 68.20 m to point 294;
+>
+>  thence S17 11E 30.50 m to point 295;
+>
+>  thence S18 40E 64.10 m to point 296;
+>
+>  thence S65 33E 15.70 m to point 297;
+>
+>  thence S40 36W 37.80 m to point 298;
+>
+>  thence S76 50W 48.30 m to point 299;
+>
+>  thence S00 35W 31.10 m to point 300;
+>
+>  thence S28 54W 27.50 m to point 301;
+>
+>  thence S79 09W 12.20 m to point 302;
+>
+>  thence N63 44W 33.70 m to point 303;
+>
+>  thence N36 32W 51.90 m to point 304;
+>
+>  thence N83 50W 21.40 m to point 305;
+>
+>  thence N45 36W 46.90 m to point 306;
+>
+>  thence S79 20W 70.80 m to point 307;
+>
+>  thence S10 19W 29.60 m to point 308;
+>
+>  thence S45 11E 21.70 m to point 309;
+>
+>  thence S04 52W 9.40 m to point 310;
+>
+>  thence S24 47W 27.40 m to point 311;
+>
+>  thence S26 07E 22.70 m to point 312;
+>
+>  thence S74 30E 24.70 m to point 313;
+>
+>  thence N27 55E 17.10 m to point 314;
+>
+>  thence N10 32E 30.10 m to point 315;
+>
+>  thence S24 25E 23.90 m to point 316;
+>
+>  thence S06 26W 14.30 m to point 317;
+>
+>  thence S34 31E 19.40 m to point 318;
+>
+>  thence S53 22W 24.30 m to point 319;
+>
+>  thence S38 13W 42.50 m to point 320;
+>
+>  thence N89 46W 24.60 m to point 321;
+>
+>  thence S53 27W 21.20 m to point 322;
+>
+>  thence S14 51W 17.20 m to point 323;
+>
+>  thence S56 26W 40.00 m to point 324;
+>
+>  thence S19 49W 24.80 m to point 325;
+>
+>  thence S30 29W 28.80 m to point 326;
+>
+>  thence S01 34E 11.00 m to point 327;
+>
+>  thence S36 13E 15.70 m to point 328;
+>
+>  thence S63 44E 25.10 m to point 329;
+>
+>  thence S10 03E 9.80 m to point 330;
+>
+>  thence S72 34W 30.70 m to point 331;
+>
+>  thence S24 48W 16.00 m to point 332;
+>
+>  thence S32 11E 32.80 m to point 333;
+>
+>  thence S85 20W 19.70 m to point 334;
+>
+>  thence N80 19W 38.00 m to point 335;
+>
+>  thence S58 31W 53.20 m to point 336;
+>
+>  thence S21 27W 32.60 m to point 337;
+>
+>  thence S62 06W 15.40 m to point 338;
+>
+>  thence N86 19W 45.20 m to point 339;
+>
+>  thence S70 30W 24.00 m to point 340;
+>
+>  thence S15 54W 15.70 m to point 341;
+>
+>  thence S37 21E 26.00 m to point 342;
+>
+>  thence S57 53W 37.40 m to point 343;
+>
+>  thence S79 14W 41.20 m to point 344;
+>
+>  thence S31 42W 8.00 m to point 345;
+>
+>  thence S35 55W 32.20 m to point 346;
+>
+>  thence S00 53W 19.40 m to point 347;
+>
+>  thence S49 05E 13.90 m to point 348;
+>
+>  thence N72 52E 12.60 m to point 349;
+>
+>  thence N41 35E 19.00 m to point 350;
+>
+>  thence S43 47E 19.90 m to point 351;
+>
+>  thence S39 17W 15.60 m to point 352;
+>
+>  thence S07 19W 22.80 m to point 353;
+>
+>  thence S47 56W 17.90 m to point 354;
+>
+>  thence S29 20W 22.20 m to point 355;
+>
+>  thence S26 59W 18.50 m to point 356;
+>
+>  thence S02 56E 21.50 m to point 357;
+>
+>  thence S46 48E 11.20 m to point 358;
+>
+>  thence N74 45E 14.80 m to point 359;
+>
+>  thence S23 15E 17.00 m to point 360;
+>
+>  thence S26 38W 37.50 m to point 361;
+>
+>  thence S24 13E 25.10 m to point 362;
+>
+>  thence S82 48E 27.90 m to point 363;
+>
+>  thence S27 03W 47.00 m to point 364;
+>
+>  thence S47 38E 23.10 m to point 365;
+>
+>  thence S10 24W 19.90 m to point 366;
+>
+>  thence S21 21W 25.60 m to point 367;
+>
+>  thence S63 43W 18.10 m to point 368;
+>
+>  thence S85 04W 50.10 m to point 369;
+>
+>  thence S36 23W 14.20 m to point 370;
+>
+>  thence S07 27E 19.30 m to point 371;
+>
+>  thence S55 49W 19.60 m to point 372;
+>
+>  thence S34 39W 21.60 m to point 373;
+>
+>  thence S10 17W 21.80 m to point 374;
+>
+>  thence S20 54E 11.80 m to point 375;
+>
+>  thence N79 24E 15.80 m to point 376;
+>
+>  thence S70 34E 5.40 m to point 377;
+>
+>  thence S05 08E 24.60 m to point 378;
+>
+>  thence S27 13W 16.20 m to point 379;
+>
+>  thence N89 10W 13.70 m to point 380;
+>
+>  thence N63 01W 18.70 m to point 381;
+>
+>  thence S66 31W 18.30 m to point 382;
+>
+>  thence S43 28W 23.70 m to point 383;
+>
+>  thence S11 19E 18.40 m to point 384;
+>
+>  thence S32 56W 33.80 m to point 385;
+>
+>  thence N70 18W 7.10 m to point 386;
+>
+>  thence N04 36E 22.50 m to point 387;
+>
+>  thence N72 54W 16.30 m to point 388;
+>
+>  thence S56 13W 32.40 m to point 389;
+>
+>  thence S63 26W 22.80 m to point 390;
+>
+>  thence S43 51W 49.50 m to point 391;
+>
+>  thence N53 40W 15.00 m to point 392;
+>
+>  thence S78 14W 29.40 m to point 393;
+>
+>  thence N42 30W 40.40 m to point 394;
+>
+>  thence S68 33W 66.70 m to point 395;
+>
+>  thence N65 58W 22.30 m to point 396;
+>
+>  thence S42 20W 44.00 m to point 397;
+>
+>  thence N79 49W 53.80 m to point 398;
+>
+>  thence S59 30W 61.30 m to point 399;
+>
+>  thence S83 30W 8.00 m to point 400;
+>
+>  thence N54 57W 15.20 m to point 401;
+>
+>  thence N85 52W 9.70 m to point 402;
+>
+>  thence S26 59W 30.40 m to point 403;
+>
+>  thence S86 07W 23.60 m to point 404;
+>
+>  thence S39 09W 47.20 m to point 405;
+>
+>  thence S57 43W 48.50 m to point 406;
+>
+>  thence S09 43W 18.40 m to point 407;
+>
+>  thence N69 03W 59.90 m to point 408;
+>
+>  thence S88 45W 50.30 m to point 409;
+>
+>  thence S41 05W 71.50 m to point 410;
+>
+>  thence S78 52W 25.40 m to point 411;
+>
+>  thence S17 17W 61.00 m to point 412;
+>
+>  thence N82 09W 11.70 m to point 413;
+>
+>  thence N36 28E 11.40 m to point 414;
+>
+>  thence N86 49W 72.00 m to point 415;
+>
+>  thence S78 03W 37.20 m to point 416;
+>
+>  thence N35 55W 15.70 m to point 417;
+>
+>  thence S69 18W 67.40 m to point 418;
+>
+>  thence N57 52W 15.20 m to point 419;
+>
+>  thence S69 58W 36.60 m to point 420;
+>
+>  thence N58 31W 47.50 m to point 421;
+>
+>  thence N78 23W 22.40 m to point 422;
+>
+>  thence S65 06W 63.40 m to point 423;
+>
+>  thence S11 44W 21.60 m to point 424;
+>
+>  thence S47 40W 28.80 m to point 425;
+>
+>  thence N60 27W 35.30 m to point 426;
+>
+>  thence N82 04W 8.00 m to point 427;
+>
+>  thence S01 54W 39.30 m to point 428;
+>
+>  thence S01 50W 279.40 m to point 429;
+>
+>  thence S01 50W 34.20 m to point 430;
+>
+>  thence N61 59W 54.90 m to point 431;
+>
+>  thence S31 52W 250.30 m to point 432;
+>
+>  thence S57 34W 112.80 m to point 433;
+>
+>  thence S69 43W 19.60 m to point 434;
+>
+>  thence S81 20W 41.20 m to point 435;
+>
+>  thence N57 44W 63.90 m to point 436;
+>
+>  thence N85 02W 47.30 m to point 437;
+>
+>  thence N57 11W 59.60 m to point 438;
+>
+>  thence N85 26W 74.00 m to point 439;
+>
+>  thence S51 16W 110.10 m to point 440;
+>
+>  thence S64 06W 92.50 m to point 441;
+>
+>  thence S59 59W 55.80 m to point 442;
+>
+>  thence N14 27W 112.30 m to point 443;
+>
+>  thence N84 57W 74.90 m to point 444;
+>
+>  thence S02 25E 61.80 m to point 445;
+>
+>  thence S17 42E 68.40 m to point 446;
+>
+>  thence S13 53W 136.30 m to point 447;
+>
+>  thence S55 53W 7.50 m to point 448;
+>
+>  thence S80 49W 66.40 m to point 449;
+>
+>  thence S70 34W 65.80 m to point 450;
+>
+>  thence N75 35W 54.60 m to point 451;
+>
+>  thence S49 46W 68.10 m to point 452;
+>
+>  thence S64 35W 130.80 m to point 453;
+>
+>  OMITTED to point 454;
+>
+>  OMITTED to point 455;
+>
+>  thence S14 50E 93.70 m to point 456;
+>
+>  thence N89 36E 145.70 m to point 457;
+>
+>  thence N33 09E 126.00 m to point 458;
+>
+>  thence S82 11E 17.70 m to point 459;
+>
+>  thence S30 28E 38.00 m to point 460;
+>
+>  thence S02 42E 10.60 m to point 461;
+>
+>  thence S21 52W 33.80 m to point 462;
+>
+>  thence S54 40W 49.20 m to point 463;
+>
+>  thence S65 05W 88.30 m to point 464;
+>
+>  thence S47 44W 26.60 m to point 465;
+>
+>  thence S89 31W 168.50 m to point 466;
+>
+>  thence S85 47W 53.00 m to point 467;
+>
+>  thence S74 36E 184.10 m to point 468;
+>
+>  thence S33 32W 125.10 m to point 469;
+>
+>  thence S14 33E 104.20 m to point 470;
+>
+>  thence S71 06E 19.80 m to point 471;
+>
+>  thence N62 10E 54.60 m to point 472;
+>
+>  thence S51 00E 25.70 m to point 473;
+>
+>  thence S16 15W 34.00 m to point 474;
+>
+>  thence S63 04W 119.00 m to point 475;
+>
+>  thence S10 08W 87.00 m to point 476;
+>
+>  thence N82 44W 54.50 m to point 477;
+>
+>  thence N62 09W 129.50 m to point 478;
+>
+>  thence S86 24W 153.00 m to point 479;
+>
+>  thence S35 05W 45.60 m to point 480;
+>
+>  thence S32 00W 45.30 m to point 481;
+>
+>  thence S13 08W 167.30 m to point 482;
+>
+>  thence N37 57W 67.50 m to point 483;
+>
+>  thence S85 28W 107.20 m to point 484;
+>
+>  thence N82 23W 200.60 m to point 485;
+>
+>  thence S84 31W 210.30 m to point 486;
+>
+>  thence S13 17W 57.40 m to point 487;
+>
+>  thence S27 48W 26.80 m to point 488;
+>
+>  thence S43 58W 102.10 m to point 489;
+>
+>  thence S88 09W 213.00 m to point 490;
+>
+>  thence S73 16W 14.90 m to point 491;
+>
+>  thence S41 15W 111.50 m to point 492;
+>
+>  thence N83 54W 78.00 m to point 493;
+>
+>  thence S61 38W 46.90 m to point 494;
+>
+>  thence S39 45W 25.50 m to point 495;
+>
+>  thence S05 53E 63.30 m to point 496;
+>
+>  thence S62 08W 61.40 m to point 497;
+>
+>  thence N56 09W 60.00 m to point 498;
+>
+>  thence S49 37W 66.80 m to point 499;
+>
+>  thence S74 14W 58.50 m to point 500;
+>
+>  thence S29 30W 88.40 m to point 501;
+>
+>  thence N54 20W 99.50 m to point 502;
+>
+>  thence N84 01W 21.10 m to point 503;
+>
+>  thence S66 49W 96.30 m to point 504;
+>
+>  thence S19 50W 62.20 m to point 505;
+>
+>  thence S26 06E 114.10 m to point 506;
+>
+>  thence S23 32W 75.40 m to point 507;
+>
+>  thence S55 59W 191.20 m to point 508;
+>
+>  thence N83 55W 114.20 m to point 509;
+>
+>  thence S17 00W 25.30 m to point 510;
+>
+>  thence S13 24E 64.80 m to point 511;
+>
+>  thence S57 26W 39.80 m to point 512;
+>
+>  thence N82 48W 70.20 m to point 513;
+>
+>  thence S70 09W 46.20 m to point 514;
+>
+>  thence S32 00W 91.50 m to point 515;
+>
+>  thence S49 13W 119.10 m to point 516;
+>
+>  thence N85 56W 36.60 m to point 517;
+>
+>  thence N11 02W 71.10 m to point 518;
+>
+>  thence N14 34W 81.90 m to point 519;
+>
+>  thence N58 47W 19.80 m to point 520;
+>
+>  thence S85 51W 94.00 m to point 521;
+>
+>  thence N75 28W 131.60 m to point 522;
+>
+>  thence S85 24W 48.70 m to point 523;
+>
+>  thence S57 42W 12.50 m to point 524;
+>
+>  thence S33 24W 87.60 m to point 525;
+>
+>  thence S20 04E 53.30 m to point 526;
+>
+>  thence N74 01E 78.30 m to point 527;
+>
+>  thence S49 50E 18.40 m to point 528;
+>
+>  thence S73 13W 308.30 m to point 529;
+>
+>  thence S19 25W 117.60 m to point 530;
+>
+>  thence S54 05W 31.40 m to point 531;
+>
+>  thence S22 59W 60.90 m to point 532;
+>
+>  thence N81 29W 156.00 m to point 533;
+>
+>  thence S81 17W 70.00 m to point 534;
+>
+>  thence N77 37W 177.20 m to point 535;
+>
+>  thence N87 41W 98.70 m to point 536;
+>
+>  thence N56 27W 137.10 m to point 537;
+>
+>  thence N18 49W 72.30 m to point 538;
+>
+>  thence N18 52W 735.60 m to point 539;
+>
+>  thence N18 49W 350.50 m to point 540;
+>
+>  thence N18 44W 6.20 m to point 541;
+>
+>  thence N19 08W 10.40 m to point 542;
+>
+>  thence N18 18W 101.60 m to point 543;
+>
+>  thence N18 20W 35.00 m to point 544;
+>
+>  thence N27 40E 76.70 m to point 545;
+>
+>  thence N49 22E 105.80 m to point 546;
+>
+>  thence N62 54E 29.20 m to point 547;
+>
+>  thence N16 14E 105.50 m to point 548;
+>
+>  thence N03 18E 45.20 m to point 549;
+>
+>  thence N28 13E 51.20 m to point 550;
+>
+>  thence N57 16E 97.80 m to point 551;
+>
+>  thence N38 45E 39.60 m to point 552;
+>
+>  thence N64 35W 130.80 m to point 553;
+>
+>  thence N39 49E 88.40 m to point 554;
+>
+>  thence N64 39E 114.40 m to point 555;
+>
+>  thence N22 00E 61.90 m to point 556;
+>
+>  thence N41 37E 38.40 m to point 557;
+>
+>  thence N21 51E 95.10 m to point 558;
+>
+>  thence N15 52E 66.20 m to point 559;
+>
+>  thence N32 58W 85.50 m to point 560;
+>
+>  thence N34 10W 13.50 m to point 561;
+>
+>  thence N17 53E 59.30 m to point 562;
+>
+>  thence N29 17E 138.00 m to point 563;
+>
+>  thence N17 36E 62.80 m to point 564;
+>
+>  thence N04 36W 103.30 m to point 565;
+>
+>  thence N37 18E 136.60 m to point 566;
+>
+>  thence N46 19E 159.70 m to point 567;
+>
+>  thence N04 25W 27.30 m to point 568;
+>
+>  thence N15 44E 117.60 m to point 569;
+>
+>  thence N19 24E 72.80 m to point 570;
+>
+>  thence N20 46E 51.30 m to point 571;
+>
+>  thence N10 57E 109.00 m to point 572;
+>
+>  thence N14 19W 63.10 m to point 573;
+>
+>  thence N20 07E 34.60 m to point 574;
+>
+>  thence N52 21E 48.10 m to point 575;
+>
+>  thence N38 52E 142.90 m to point 576;
+>
+>  thence N02 46W 105.60 m to point 577;
+>
+>  thence N12 59W 34.30 m to point 578;
+>
+>  thence N18 00W 178.30 m to point 579;
+>
+>  thence N66 45W 92.70 m to point 580;
+>
+>  thence N37 47W 90.10 m to point 581;
+>
+>  thence N11 10W 96.00 m to point 582;
+>
+>  thence N24 24W 67.30 m to point 583;
+>
+>  thence N14 42E 169.40 m to point 584;
+>
+>  thence N01 40E 123.50 m to point 585;
+>
+>  thence N21 32W 4.10 m to point 586;
+>
+>  thence N24 23W 57.40 m to point 587;
+>
+>  thence N07 44W 51.30 m to point 588;
+>
+>  thence N21 08E 80.40 m to point 589;
+>
+>  thence N46 58E 41.30 m to point 590;
+>
+>  thence N82 58E 40.00 m to point 591;
+>
+>  thence N83 09E 5.00 m to point 592;
+>
+>  thence N82 59E 31.90 m to point 593;
+>
+>  thence N43 23E 45.10 m to point 594;
+>
+>  thence N10 12W 38.40 m to point 595;
+>
+>  thence N58 10E 38.50 m to point 596;
+>
+>  thence N57 52E 31.80 m to point 597;
+>
+>  thence N41 31E 24.40 m to point 598;
+>
+>  thence N14 57E 63.60 m to point 599;
+>
+>  thence N46 00E 40.70 m to point 600;
+>
+>  thence N17 40E 82.70 m to point 601;
+>
+>  thence N34 53E 129.60 m to point 602;
+>
+>  thence N37 51W 48.20 m to point 603;
+>
+>  thence N10 28W 70.00 m to point 604;
+>
+>  thence N38 43E 27.80 m to point 605;
+>
+>  thence N63 39E 115.60 m to point 606;
+>
+>  thence N10 29E 79.10 m to point 607;
+>
+>  thence N11 10E 54.70 m to point 608;
+>
+>  thence N18 23E 40.90 m to point 609;
+>
+>  thence S87 36E 52.60 m to point 610;
+>
+>  thence S67 24E 65.90 m to point 611;
+>
+>  thence N63 16E 61.40 m to point 612;
+>
+>  thence N08 35E 114.00 m to point 613;
+>
+>  thence N48 32E 85.90 m to point 614;
+>
+>  thence N61 43E 79.40 m to point 615;
+>
+>  thence N60 26E 30.70 m to point 616;
+>
+>  thence N12 09E 99.30 m to point 617;
+>
+>  thence N54 58E 58.00 m to point 618;
+>
+>  thence N77 02E 99.40 m to point 619;
+>
+>  thence N28 10E 54.40 m to point 620;
+>
+>  thence N07 44W 52.80 m to point 621;
+>
+>  thence N27 17E 28.60 m to point 622;
+>
+>  thence N36 05E 192.40 m to point 623;
+>
+>  thence N45 34E 50.60 m to point 624;
+>
+>  thence N63 01E 130.30 m to point 625;
+>
+>  thence N50 04E 48.00 m to point 626;
+>
+>  thence N19 46E 55.90 m to point 627;
+>
+>  thence N16 09E 147.00 m to point 628;
+>
+>  thence N80 43E 31.60 m to point 629;
+>
+>  thence S18 29E 43.20 m to point 630;
+>
+>  thence S11 04E 32.30 m to point 631;
+>
+>  thence N85 41E 41.20 m to point 632;
+>
+>  thence N24 28E 62.50 m to point 633;
+>
+>  thence N84 04E 50.30 m to point 634;
+>
+>  thence N53 12E 86.80 m to point 635;
+>
+>  thence N27 40E 69.80 m to point 636;
+>
+>  thence N15 11W 60.30 m to point 637;
+>
+>  thence N30 58E 9.90 m to point 638;
+>
+>  thence S87 53E 10.80 m to point 639;
+>
+>  thence S64 57E 42.30 m to point 640;
+>
+>  thence N56 32E 20.90 m to point 641;
+>
+>  thence N59 21E 43.40 m to point 642;
+>
+>  thence N66 37E 12.10 m to point 643;
+>
+>  thence N46 13E 79.90 m to point 644;
+>
+>  thence N06 51W 31.00 m to point 645;
+>
+>  thence N26 30W 84.20 m to point 646;
+>
+>  thence N23 58W 17.70 m to point 647;
+>
+>  thence S84 17E 27.10 m to point 648;
+>
+>  thence N61 04E 42.20 m to point 649;
+>
+>  thence N58 17E 28.90 m to point 650;
+>
+>  thence N55 28E 28.80 m to point 651;
+>
+>  thence N87 29E 31.80 m to point 652;
+>
+>  thence N86 26E 51.50 m to point 653;
+>
+>  thence N34 31E 72.30 m to point 654;
+>
+>  thence N59 42E 77.70 m to point 655;

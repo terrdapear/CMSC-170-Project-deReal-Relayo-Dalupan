@@ -1,0 +1,154 @@
+
+ **Section 33.** *Separability Clause.* If any part, section or provision of this Act is declared invalid or unconstitutional, no other parts, sections or provisions hereof shall be affected thereby.
+
+ **Section 34.** *Repealing Clause.* Executive Order No. 121 is hereby repealed. All other laws, decrees, ordinances, rules, regulations, other issuances or parts thereof which are inconsistent with this Act are hereby repealed or modified accordingly.
+
+ **Section 35.** *Effectivity Clause.* This Act shall take effect upon its approval.
+
+ Approved,
+
+   
+ | (Sgd.) **JINGGOY EJERCITO ESTRADA** Acting Senate President | (Sgd.) **FELICIANO BELMONTE JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on June 6, 2013.
+
+   
+ | (Sgd.) **EMMA LIRIO-REYES** Secretary of the Senate | (Sgd.) **MARILYN B. BARUA-YAP** Secretary General House of Representatives |
+
+ Approved: SEP 12 2013
+
+ **(Sgd.) BENIGNO S. AQUINO III** *President of the Philippines*
+"	success	Republic Act	An act reorganizing the Philippine Statistical System, repealing Executive Order No. 121, establishing the Philippine Statistics Authority, and providing for the rationalization and strengthening of statistical services.	"[{""title"": ""Section 1. Short Title"", ""summary"": ""Defines the short title of the act as the \""Philippine Statistical Act of 2013\"".""}, {""title"": ""Section 2. Declaration of Policy"", ""summary"": ""States the policy to reorganize the Philippine Statistical System (PSS) to improve efficiency, effectiveness, and integration of statistical services, and to support decentralization.""}, {""title"": ""Section 3. Reorganization"", ""summary"": ""Mandates the structural and functional reorganization of the PSS in accordance with the provisions of the Act.""}, {""title"": ""Section 4. Philippine Statistical System (PSS)"", ""summary"": ""Describes the composition of the PSS, including agencies at all administrative levels, and emphasizes its decentralized nature with coordinated statistical programming.""}, {""title"": ""Section 5. Philippine Statistics Authority"", ""summary"": ""Creates the Philippine Statistics Authority (PSA) under the National Economic and Development Authority (NEDA), outlines its board and offices, and defines its responsibilities for national censuses, data production, and coordination among statistical agencies.""}, {""title"": ""Section 6. Functions of the PSA"", ""summary"": ""Lists the PSA\u2019s functions, including primary data collection, census preparation, data analysis, civil registration, coordination with government departments, development of statistical standards, and promotion of integrated statistical information.""}]"	10625	July 23, 2012			To reorganize and strengthen the Philippine Statistical System, establish the Philippine Statistics Authority, and repeal Executive Order No. 121.	"[""Reorganization of the Philippine Statistical System (PSS) structure and functions"", ""Creation of the Philippine Statistics Authority (PSA) under NEDA"", ""Definition of PSA\u2019s board and offices and their mandates"", ""Specification of PSA\u2019s functions: data collection, census, civil registration, coordination, standard development"", ""Repeal of Executive Order No. 121 (Reorganizing and Strengthening the Philippine Statistical System)"", ""Decentralized yet coordinated statistical framework across national and local levels""]"	Repeals Executive Order No. 121 (Reorganizing and Strengthening the Philippine Statistical System and for Other Purposes).	"[""Statistical System"", ""Reorganization"", ""Philippine Statistics Authority"", ""PSS"", ""Executive Order"", ""Statistical Services""]"	"[""Philippine Statistics"", ""PSS"", ""PSA"", ""Reorganization"", ""Statistical Act"", ""Executive Order 121"", ""Statistical System""]"
+repacts:datasets/markdown/repacts/2013/ra_10626_2013.md	repacts	2013		datasets/markdown/repacts/2013/ra_10626_2013.md	ra_10626_2013	AN ACT UPGRADING THE COTABATO SUBDISTRICT ENGINEERING OFFICE INTO A REGULAR DISTRICT ENGINEERING OFFICE TO BE KNOWN AS THE COTABATO CITY DISTRICT ENGINEERING OFFICE AND APPROPRIATING FUNDS THEREFOR	"Fifteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand twelve.*
+
+ **REPUBLIC ACT NO. 10626**
+
+ AN ACT UPGRADING THE COTABATO SUBDISTRICT ENGINEERING OFFICE INTO A REGULAR DISTRICT ENGINEERING OFFICE TO BE KNOWN AS THE COTABATO CITY DISTRICT ENGINEERING OFFICE AND APPROPRIATING FUNDS THEREFOR
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** The Cotabato Subdistrict Engineering Office is hereby upgraded into a regular district engineering office to be known as the Cotabato City District Engineering Office.
+
+ **Section 2.** The said district engineering office shall comprise all the barangays in Cotabato City and shall assume jurisdiction over all infrastructure and public works in Cotabato City.
+
+ **Section 3.** The Secretary of Public Works and Highways shall immediately include in the Departments program the operationalization of the Cotabato City District Engineering Office, the initial funding of which shall be charged against the current years appropriations of the Cotabato Subdistrict Engineering Office. Thereafter, the amount necessary for the continued operation of the said district engineering office shall be included in the annual General Appropriations Act.
+
+ **Section 4.** This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation.
+
+ Approved,
+
+   
+ | (Sgd.) **JINGGOY EJERCITO ESTRADA** Acting Senate President | (Sgd.) **FELICIANO BELMONTE JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on May 21, 2012 and June 6, 2013, respectively.
+
+   
+ | (Sgd.) **EMMA LIRIO-REYES** Secretary of the Senate | (Sgd.) **MARILYN B. BARUA-YAP** Secretary General House of Representatives |
+
+ Approved: SEP 12 2013
+
+ **(Sgd.) BENIGNO S. AQUINO III** *President of the Philippines*
+"	success	Republic Act	The act upgrades the Cotabato Subdistrict Engineering Office to a regular district engineering office, establishing the Cotabato City District Engineering Office, outlining its jurisdiction, funding, and operationalization.	"[{""title"": ""Section 1."", ""summary"": ""The Cotabato Subdistrict Engineering Office is upgraded into a regular district engineering office known as the Cotabato City District Engineering Office.""}, {""title"": ""Section 2."", ""summary"": ""The district engineering office comprises all barangays in Cotabato City and assumes jurisdiction over all infrastructure and public works in the city.""}, {""title"": ""Section 3."", ""summary"": ""The Secretary of Public Works and Highways shall include the operationalization of the office in the Departments program, with initial funding charged against current appropriations and continued funding included in the annual General Appropriations Act.""}, {""title"": ""Section 4."", ""summary"": ""The act shall take effect fifteen (15) days after its publication in at least two newspapers of general circulation.""}]"	REPUBLIC ACT NO. 10626	2013-09-12	"[{""name"": ""JINGGOY EJERCITO ESTRADA"", ""title"": ""Acting Senate President""}, {""name"": ""FELICIANO BELMONTE JR."", ""title"": ""Speaker of the House of Representatives""}]"		To upgrade the Cotabato Subdistrict Engineering Office into a regular district engineering office, thereby improving the efficiency of infrastructure and public works management in Cotabato City.	"[""Upgrade to regular district engineering office"", ""Jurisdiction over all barangays and infrastructure in Cotabato City"", ""Funding appropriation and operationalization"", ""Effectivity fifteen days after publication""]"		"[""Republic Act"", ""Engineering Office"", ""Infrastructure"", ""Cotabato City"", ""Public Works""]"	"[""Cotabato Subdistrict Engineering Office"", ""Cotabato City District Engineering Office"", ""Public Works"", ""Infrastructure"", ""General Appropriations Act"", ""Department of Public Works and Highways""]"
+repacts:datasets/markdown/repacts/2013/ra_10627_2013.md	repacts	2013		datasets/markdown/repacts/2013/ra_10627_2013.md	ra_10627_2013	Anti-Bullying Act of 2013	"Fifteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand twelve.*
+
+ **REPUBLIC ACT NO. 10627**
+
+ AN ACT REQUIRING ALL ELEMENTARY AND SECONDARY SCHOOLS TO ADOPT POLICIES TO PREVENT AND ADDRESS THE ACTS OF BULLYING IN THEIR INSTITUTIONS
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** *Short Title.* This Act shall be known as the ""Anti-Bullying Act of 2013"".
+
+ **Section 2.** *Acts of Bullying.* For purposes of this Act, ""bullying"" shall refer to any severe or repeated use by one or more students of a written, verbal or electronic expression, or a physical act or gesture, or any combination thereof, directed at another student that has the effect of actually causing or placing the latter in reasonable fear of physical or emotional harm or damage to his property; creating a hostile environment at school for the other student; infringing on the rights of the other student at school; or materially and substantially disrupting the education process or the orderly operation of a school; such as, but not limited to, the following:
+
+ a. Any unwanted physical contact between the bully and the victim like punching, pushing, shoving, kicking, slapping, tickling, headlocks, inflicting school pranks, teasing, fighting and the use of available objects as weapons; b. Any act that causes damage to a victims psyche and/or emotional well-being; c. Any slanderous statement or accusation that causes the victim undue emotional distress like directing foul language or profanity at the target, name-calling, tormenting and commenting negatively on victims looks, clothes and body; and d. Cyber-bullying or any bullying done through the use of technology or any electronic means. **Section 3.** *Adoption of Anti-Bullying Policies.* All elementary and secondary schools are hereby directed to adopt policies to address the existence of bullying in their respective institutions. Such policies shall be regularly updated and, at a minimum, shall include provisions which:
+
+ (a) Prohibit the following acts: (1) Bullying on school grounds; property immediately adjacent to school grounds; at school-sponsored or school-related activities, functions or programs whether on or off school grounds; at school bus stops; on school buses or other vehicles owned, leased or used by a school; or through the use of technology or an electronic device owned, leased or used by a school; (2) Bullying at a location, activity, function or program that is not school-related and through the use of technology or an electronic device that is not owned, leased or used by a school if the act or acts in question create a hostile environment at school for the victim, infringe on the rights of the victim at school, or materially and substantially disrupt the education process or the orderly operation of a school; and (3) Retaliation against a person who reports bullying, who provides information during an investigation of bullying, or who is a witness to or has reliable information about bullying; (b) Identify the range of disciplinary administrative actions that may be taken against a perpetrator for bullying or retaliation which shall be commensurate with the nature and gravity of the offense: *Provided*, That, in addition to the disciplinary sanctions imposed upon a perpetrator of bullying or retaliation, he/she shall also be required to undergo a rehabilitation program which shall be administered by the institution concerned. The parents of the said perpetrator shall be encouraged by the said institution to join the rehabilitation program; (c) Establish clear procedures and strategies for: (1) Reporting acts of bullying or retaliation; (2) Responding promptly to and investigating reports of bullying or retaliation; (3) Restoring a sense of safety for a victim and assessing the students need for protection; (4) Protecting from bullying or retaliation of a person who reports acts of bullying, provides information during an investigation of bullying, or is witness to or has reliable information about an act of bullying; and (5) Providing counseling or referral to appropriate services for perpetrators, victims and appropriate family members of said students; (d) Enable students to anonymously report bullying or retaliation: *Provided, however*, That no disciplinary administrative action shall be taken against a perpetrator solely on the basis of an anonymous report; (e) Subject a student who knowingly makes a false accusation of bullying to disciplinary administrative action; (f) Educate students on the dynamics of bullying, the anti-bullying policies of the school as well as the mechanisms of such school for the anonymous reporting of acts of bullying or retaliation; (g) Educate parents and guardians about the dynamics of bullying, the anti-bullying policies of the school and how parents and guardians can provide support and reinforce such policies at home; and (h) Maintain a public record of relevant information and statistics on acts of bullying or retaliation in school: *Provided*, That the names of students who committed acts of bullying or retaliation shall be strictly confidential and only made available to the school administration, teachers directly responsible for the said students and parents or guardians of students who are or have been victims of acts of bullying or retaliation. All elementary and secondary schools shall provide students and their parents or guardians a copy of the anti-bullying policies being adopted by the school. Such policies shall likewise be included in the schools student and/or employee handbook and shall be conspicuously posted on the school walls and website, if there is any.
+
+ The Department of Education (DepED) shall include in its training programs, courses or activities which shall provide opportunities for school administrators, teachers and other employees to develop their knowledge and skills in preventing or responding to any bullying act.
+
+ **Section 4.** *Mechanisms to Address Bullying.* The school principal or any person who holds a comparable role shall be responsible for the implementation and oversight of policies intended to address bullying.
+
+ Any member of the school administration, student, parent or volunteer shall immediately report any instance of bullying or act of retaliation witnessed, or that has come to ones attention, to the school principal or school officer or person so designated by the principal to handle such issues, or both. Upon receipt of such a report, the school principal or the designated school officer or person shall promptly investigate. If it is determined that bullying or retaliation has occurred, the school principal or the designated school officer or person shall:
+
+ (a) Notify the law enforcement agency if the school principal or designee believes that criminal charges under the Revised Penal Code may be pursued against the perpetrator; (b) Take appropriate disciplinary administrative action; (c) Notify the parents or guardians of the perpetrator; and (d) Notify the parents or guardians of the victim regarding the action taken to prevent any further acts of bullying or retaliation. If an incident of bullying or retaliation involves students from more than one school, the school first informed of the bullying or retaliation shall promptly notify the appropriate administrator of the other school so that both may take appropriate action.
+
+ **Section 5.** *Reporting Requirement.* All schools shall inform their respective schools division superintendents in writing about the anti-bullying policies formulated within six (6) months from the effectivity of this Act. Such notification shall likewise be an administrative requirement prior to the operation of new schools.
+
+ Beginning with the school year after the effectivity of this Act, and every first week of the start of the school year thereafter, schools shall submit a report to their respective schools division superintendents all relevant information and statistics on acts of bullying or retaliation. The schools division superintendents shall compile these data and report the same to the Secretary of the DepED who shall likewise formally transmit a comprehensive report to the Committee on Basic Education of both the House of Representatives and the Senate.
+
+ **Section 6.** *Sanction for Noncompliance.* In the rules and regulations to be implemented pursuant to this Act, the Secretary of the DepED shall prescribe the appropriate administrative sanctions on school administrators who shall fail to comply with the requirements under this Act. In addition thereto, erring private schools shall likewise suffer the penalty of suspension of their permits to operate.
+
+ **Section 7.** *Implementing Rules and Regulations.* Within ninety (90) days from the effectivity of this Act, the DepED shall promulgate the necessary rules and regulations to implement the provisions of this Act.
+
+ **Section 8.** *Separability Clause.* If, for any reason, any provision of this Act is declared to be unconstitutional or invalid, the other sections or provisions hereof which are not affected thereby shall continue to be in full force or effect.
+
+ **Section 9.** *Repealing Clause.* All laws, decrees, orders, rules and regulations or parts thereof which are inconsistent with or contrary to the provisions of this Act are hereby repealed, amended or modified accordingly.
+
+ **Section 10.** *Effectivity.* This Act shall take effect fifteen (15) days after its publication in at least two (2) national newspapers of general circulation.
+
+ Approved,
+
+   
+ | (Sgd.) **JINGGOY EJERCITO ESTRADA** Acting Senate President | (Sgd.) **FELICIANO BELMONTE JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on June 5, 2013.
+
+   
+ | (Sgd.) **EMMA LIRIO-REYES** Secretary of the Senate | (Sgd.) **MARILYN B. BARUA-YAP** Secretary General House of Representatives |
+
+ Approved: SEP 12 2013
+
+ **(Sgd.) BENIGNO S. AQUINO III** *President of the Philippines*
+"	success	Republic Act	An act requiring all elementary and secondary schools to adopt policies to prevent and address bullying within their institutions.	"[{""title"": ""Section 1. Short Title"", ""summary"": ""The act shall be known as the \""Anti-Bullying Act of 2013\"".""}, {""title"": ""Section 2. Acts of Bullying"", ""summary"": ""Defines bullying as any severe or repeated use of physical, verbal, electronic expressions or gestures that cause fear or harm, including cyberbullying.""}, {""title"": ""Section 3. Adoption of Anti-Bullying Policies"", ""summary"": ""Mandates schools to adopt policies that prohibit bullying, establish reporting mechanisms, disciplinary actions, rehabilitation, confidentiality, and training.""}]"	10627	2012-07-23			To prevent and address bullying in elementary and secondary schools by requiring the adoption of comprehensive policies.	"[""Schools must adopt anti\u2011bullying policies"", ""Prohibition of bullying acts and retaliation"", ""Establishment of reporting and investigation procedures"", ""Disciplinary actions commensurate with severity"", ""Rehabilitation program for perpetrators"", ""Confidentiality of victim and perpetrator information"", ""Training for school personnel""]"		"[""Education"", ""Bullying"", ""School safety""]"	"[""bullying"", ""anti-bullying"", ""schools"", ""policies"", ""rehabilitation"", ""reporting"", ""disciplinary action""]"
+repacts:datasets/markdown/repacts/2013/ra_10628_2013.md	repacts	2013		datasets/markdown/repacts/2013/ra_10628_2013.md	ra_10628_2013	AN ACT PROVIDING FOR THE CONSTRUCTION OF FISH PORTS IN THE MUNICIPALITIES OF TONGKIL, TAPUL, LUGUS, KALINGGALAN CALUANG AND SIASI, PROVINCE OF SULU AND APPROPRIATING FUNDS THEREFOR	"Fifteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand twelve.*
+
+ **REPUBLIC ACT NO. 10628**
+
+ AN ACT PROVIDING FOR THE CONSTRUCTION OF FISH PORTS IN THE MUNICIPALITIES OF TONGKIL, TAPUL, LUGUS, KALINGGALAN CALUANG AND SIASI, PROVINCE OF SULU AND APPROPRIATING FUNDS THEREFOR
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** There shall be constructed, under the supervision of the Department of Agriculture (DA) through the Philippine Fisheries Development Authority (PFDA), fish ports in the municipalities of Tongkil, Tapul, Lugus, Kalinggalan Caluang and Siasi, Province of Sulu.
+
+ **Section 2.** The PFDA, in coordination with the local government units concerned, shall formulate the rules and regulations necessary for the effective implementation of this Act.
+
+ **Section 3.** The Secretary of Agriculture shall include in the Departments programs the construction of said fish ports, the funding of which shall be included in the annual General Appropriations Act. The local government unit concerned shall set aside funds from any available local revenues in an amount deemed appropriate for its operationalization.
+
+ **Section 4.** This Act shall take effect fifteen (15) days after its publication in two (2) newspapers of general circulation.
+
+ Approved,
+
+   
+ | (Sgd.) **JINGGOY EJERCITO ESTRADA** Acting Senate President | (Sgd.) **FELICIANO BELMONTE JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on August 6, 2012 and June 6, 2013, respectively.
+
+   
+ | (Sgd.) **EMMA LIRIO-REYES** Secretary of the Senate | (Sgd.) **MARILYN B. BARUA-YAP** Secretary General House of Representatives |
+
+ Approved: SEP 26 2013
+
+ **(Sgd.) BENIGNO S. AQUINO III** *President of the Philippines*
+"	success	Republic Act	The act mandates the construction of fish ports in selected municipalities of Sulu and appropriates funds for the project, with oversight by the Department of Agriculture through the Philippine Fisheries Development Authority.	"[{""title"": ""Section 1"", ""summary"": ""There shall be constructed, under the supervision of the Department of Agriculture (DA) through the Philippine Fisheries Development Authority (PFDA), fish ports in the municipalities of Tongkil, Tapul, Lugus, Kalinggalan Caluang and Siasi, Province of Sulu.""}, {""title"": ""Section 2"", ""summary"": ""The PFDA, in coordination with the local government units concerned, shall formulate the rules and regulations necessary for the effective implementation of this Act.""}, {""title"": ""Section 3"", ""summary"": ""The Secretary of Agriculture will include the construction in departmental programs and funding in the General Appropriations Act; local units shall set aside funds.""}, {""title"": ""Section 4"", ""summary"": ""This Act shall take effect fifteen (15) days after its publication in two (2) newspapers of general circulation.""}]"	10628	2013-09-26			To provide for the construction of fish ports in specified municipalities of Sulu and appropriate funding.	"[""Construction of fish ports supervised by DA through PFDA"", ""Formulation of rules and regulations by PFDA with LGUs"", ""Inclusion of construction in departmental programs and funding in General Appropriations Act"", ""Effectivity fifteen days post-publication""]"		"[""Fish Ports"", ""Infrastructure"", ""Sulu"", ""Agriculture"", ""Fisheries""]"	"[""fish ports"", ""Sulu"", ""Philippine Fisheries Development Authority"", ""Department of Agriculture"", ""General Appropriations Act""]"
+repacts:datasets/markdown/repacts/2013/ra_10629_2013.md	repacts	2013		datasets/markdown/repacts/2013/ra_10629_2013.md	ra_10629_2013	"An Act Providing for the Retention by the Protected Area Management Board of Seventy-Five Percent (75%) of the Revenues Accruing to the Integrated Protected Areas Fund (IPAF), Amending for the Purpose Section 16 of Republic Act No. 7586, Otherwise Known as the ""National Integrated Protected Areas System Act of 1992"""	"Fifteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand twelve.*
+
+ **REPUBLIC ACT NO. 10629**
+
+ AN ACT PROVIDING FOR THE RETENTION BY THE PROTECTED AREA MANAGEMENT BOARD OF SEVENTY-FIVE PERCENT (75%) OF THE REVENUES ACCRUING TO THE INTEGRATED PROTECTED AREAS FUND (IPAF), AMENDING FOR THE PURPOSE SECTION 16 OF [REPUBLIC ACT NO. 7586](../ra1992/ra_7586_1992.html), OTHERWISE KNOWN AS THE ""NATIONAL INTEGRATED PROTECTED AREAS SYSTEM ACT OF 1992″
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** *Amendments to Section 16 of Republic Act No. 7586.* Section 16 of Republic Act No. 7586, otherwise known as the ""National Integrated Protected Areas System Act of 1992″ is hereby amended to read as follows:
+
+ ""SEC. 16. *Integrated Protected Areas Fund.* There is hereby established a trust fund to be known as Integrated Protected Areas Fund (IPAF) for purposes of financing projects of the System. The IPAF may solicit and receive donations, endowments, and grants in the form of contributions, and such endowments shall be exempted from income or gift taxes and all other taxes, charges or fees imposed by the Government or any political subdivision or instrumentality thereof. ""All incomes generated from the operation of the System or management of wild flora and fauna shall accrue to the Fund subject to the retention by the Board of each protected area, of seventy-five percent (75%) of all the revenue raised therefrom. These incomes shall be derived from: ""(a) Taxes from the permitted sale and export of flora and fauna and other resources from protected areas; ""(b) Proceeds from lease of multiple-use areas; ""(c) Contributions from industries and facilities directly benefiting from the protected area; and ""(d) Such other fees and incomes derived from the operation of the protected area. ""The Fund, including all donations, grants, endowments from various sources and other contributions shall be deposited in any government bank within the locality where each protected area is located: *Provided,*That if there is no government bank available in the locality, an account shall be opened in a government bank nearest to the locality. ""Disbursements from the Fund shall be made solely for the protection, maintenance, administration, and management of the System, and duly approved projects endorsed by the PAMBs, in the amounts authorized by the DENR in accordance with existing accounting, budgeting and auditing rules and regulations: *Provided, further,*That the Fund shall not be used to cover personal services expenditures."" **Section 2.** *Separability Clause.* If any part of this Act is declared invalid or unconstitutional, such declaration shall not affect the other parts of this Act.
+
+ **Section 3.** *Repealing Clause.* All laws, acts, presidential decrees, executive orders, administrative orders, rules and regulations inconsistent herewith or contrary to the provisions of this Act are deemed amended, modified or repealed accordingly.

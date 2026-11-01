@@ -1,0 +1,143 @@
+repacts:datasets/markdown/repacts/1998/ra_8699_1998.md	repacts	1998		datasets/markdown/repacts/1998/ra_8699_1998.md	ra_8699_1998	"AN ACT AMENDING REPUBLIC ACT NO. 8079, ENTITLED ""AN ACT GRANTING THE FIRST UNITED BROADCASTING CORPORATION (FUBC) A FRANCHISE TO CONSTRUCT, INSTALL, OPERATE AND MAINTAIN FOR COMMERCIAL PURPOSES RADIO AND TELEVISION BROADCASTING STATIONS ANYWHERE IN THE PHILIPPINES, AND FOR OTHER PURPOSES"""	"Eleventh Congress
+
+ **[ REPUBLIC ACT NO. 8699, July 09, 1998 ]**
+
+ **AN ACT AMENDING REPUBLIC ACT NO. 8079, ENTITLED ""AN ACT GRANTING THE FIRST UNITED BROADCASTING CORPORATION (FUBC) A FRANCHISE TO CONSTRUCT, INSTALL, OPERATE AND MAINTAIN FOR COMMERCIAL PURPOSES RADIO AND TELEVISION BROADCASTING STATIONS ANYWHERE IN THE PHILIPPINES, AND FOR OTHER PURPOSES""**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** Section 1 of Republic Act No. 8079 is hereby amended to read as follows
+
+ > ""**Section 1.***Nature and Scope of Franchise.* - Subject to the provisions of the Constitution and applicable laws, rules and regulations, there is hereby granted to the First United Broadcasting Corporation (FUBC), its successors or assigns and hereunder referred to as the grantee, its successors or assigns, a franchise to construct, install, operate and maintain for commercial purposes and in the public interest, radio, television and satellite broadcasting stations throughout the Philippines, including multi-channel microwave transmission, repeater stations, translators, satellite transmission, and direct to home user satellite broadcast system, cable or community antennae television system (CATV), multi-point distribution system (MUDS), local multi-point distribution system (LMDS), interactive system of station, transmitting, receiving and switching stations, both for local and international services, lines, fiber optics, microwave, satellite, transmit and receive systems, control signals, audio and video systems, information service bureau, pay and pay per view television, video on demand and public information on demand services, multi-disc read only memory, memory network delivery, packet and frame relay and electronic mail services and other value added. services and all other technologies as are presently available through technical, advances or innovations in the future, as is, or are convenient to or essential to efficiently carry out the purposes of this franchise and to install radio communication facilities for the grantee's private use in its broadcast services, means of distribution including the use of all new technologies in broadcasting as are at present available or to be made available through technological advances or innovations in the future, with the corresponding technological auxiliaries and facilities, special broadcast and other broadcast distribution services, and to install radio communication facilities for the grantee's private use in its broadcast services.""
+
+ **Section 2.** Section 2 of Republic Act No 8079 is hereby amended to read as follows
+
+ > ""**Section 2.***Manner of Operation of Stations or Facilities.*- The stations or facilities of the grantee shall be constructed and operated in a manner as will, at most, result only in the minimum interference on the wavelengths or frequencies of the other existing stations or stations which may be established by law without diminishing its own right to use its selected wavelengths or frequencies and the quality of transmission or reception thereon as should maximize rendition of the grantee's services and/or the availability thereof.""
+
+ **Section 3.** Section 6 of Republic Act No. 8079 is hereby amended to read as follows:
+
+ > ""**Section 6.***Term of Franchise.*- This franchise shall be for a term of twenty-five (25) years from the date of effectivity of this Act, unless sooner revoked or cancelled. This franchise shall be deemed*ipso facto*revoked in the event the grantee fails to comply with any of the following conditions:
+>
+>  a. Commence operations within one (1) year from the approval of its permit by the National Telecommunications Commission; b. Operate continuously for two (2) years; and c. Commence operations within three (3) years from the effectivity of this Act. **Section 12.***Lease of Equipment.* - In order to maximize the use of its facilities or equipment and its satellite facilities, the grantee is hereby authorized to lease to other entities such equipment or facilities and to sublease the excess or unused portion of satellite bandwidth space to other satellite users.
+
+ **Section 5.***Effectivity.* - This Act shall take effect fifteen (15) days from the date of its publication in at least two (2) newspapers of general circulation in the Philippines.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** President of the Senate | (Sgd.) **JOSE DE VENECIA JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on December 15, 1997 and February 6, 1998, respectively.
+
+ | (Sgd.) **HEZEL P. GACUTAN** Secretary of the Senate | (Sgd.) **ROBERTO P. NAZARENO** Secretary General House of Representatives |
+
+ Approved:
+
+ **FIDEL V. RAMOS** President of the Philippines
+
+ Lapsed into law on July 09, 1998, without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.
+"	success	Republic Act	This act amends Republic Act No. 8079 to expand the franchise granted to the First United Broadcasting Corporation (FUBC), updating its scope, operational requirements, term, leasing provisions, and effectivity.	"[{""title"": ""Section 1. Nature and Scope of Franchise"", ""summary"": ""Amends RA 8079 to grant FUBC a comprehensive franchise covering radio, television, satellite, cable, and emerging broadcasting technologies across the Philippines.""}, {""title"": ""Section 2. Manner of Operation of Stations or Facilities"", ""summary"": ""Mandates that FUBC operate stations with minimal interference to other frequencies, preserving service quality.""}, {""title"": ""Section 3. Term of Franchise (and Lease of Equipment)"", ""summary"": ""Establishes a 25-year term with conditions for commencement, continuous operation, and allows the grantee to lease equipment and satellite bandwidth to third parties.""}, {""title"": ""Section 5. Effectivity"", ""summary"": ""Act takes effect 15 days after publication in at least two newspapers of general circulation.""}]"	REPUBLIC ACT NO. 8699	July 09, 1998	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""JOSE DE VENECIA JR."", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""HEZEL P. GACUTAN"", ""title"": ""Secretary of the Senate""}, {""name"": ""ROBERTO P. NAZARENO"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""FIDEL V. RAMOS"", ""title"": ""President of the Philippines""}]"	To amend RA 8079 to expand and clarify the franchise granted to FUBC, ensuring updated operational and technical provisions.	"[""Expanded franchise scope to include satellite and cable systems"", ""Minimum interference requirement for station operations"", ""25-year franchise term with specific commencement conditions"", ""Authorization to lease equipment and satellite bandwidth to third parties"", ""Effectivity after 15 days of publication in at least two newspapers""]"	Republic Act No. 8079	"[""Broadcasting"", ""Franchise"", ""Telecommunications"", ""Law"", ""Philippines""]"	"[""First United Broadcasting Corporation"", ""FUBC"", ""Republic Act 8699"", ""franchise"", ""broadcasting"", ""television"", ""radio"", ""satellite"", ""term"", ""lease"", ""effectivity""]"
+repacts:datasets/markdown/repacts/1998/ra_8700_1998.md	repacts	1998		datasets/markdown/repacts/1998/ra_8700_1998.md	ra_8700_1998	AN ACT AMENDING SECTIONS 1, 3, 4, 7, AND 12 OF REPUBLIC ACT NO. 7296, ENTITLED 'AN ACT GRANTING THE DAVAO AGRITECH, INC., A FRANCHISE TO ESTABLISH, OPERATE AND MAINTAIN DOMESTIC AIR SPRAYING SERVICES WITH DAVAO AS ITS MAJOR HUB'	"Eleventh Congress
+
+ **[ REPUBLIC ACT NO. 8700, July 09, 1998 ]**
+
+ **AN ACT AMENDING SECTIONS 1, 3, 4, 7, AND 12 OF REPUBLIC ACT NO. 7296, ENTITLED ""AN ACT GRANTING THE DAVAO AGRITECH, INC., A FRANCHISE TO ESTABLISH, OPERATE AND MAINTAIN DOMESTIC AIR SPRAYING SERVICES WITH DAVAO AS ITS MAJOR HUB""**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** Section 1 of Republic Act No. 7296 is hereby amended to read as follows:
+
+ > **Section 1.***Nature and Scope of Franchise.* - Subject to the provisions of the Constitution and applicable laws, rules and regulations, there is hereby granted to the Davao Agritech, Inc., hereunder referred to as the grantee, its successors or assigns, a franchise to establish, operate and maintain domestic air spraying and passenger and cargo air charter transport services with Davao as its major hub.
+>
+>  ""Air spraying and passenger and cargo air charter transport services shall include the maintenance and operation of hangars and aircraft service stations and facilities and other services of similar nature which may be necessary, convenient or useful as an auxiliary to air spraying services.
+>
+>  ""The grantee shall be given the right at its terminals and landing fields, as well as in its aircraft, to construct, operate and maintain stations or transmitting sets for wireless telegraphy and direction findings, and other radio aids to air navigation, using wavelengths in accordance with the rules and regulations issued from time to time by the proper agencies of the government. The wireless communication facilities shall be used solely for receiving and transmitting weather forecasts and other matters in connection with the grantee's services.""
+
+ **Section 2.** Section 3 of Republic Act No. 7296 is hereby amended to read as follows:
+
+ > ""**Section 3.***Responsibility to the Public.* - Excepting cases offorce majeureand whenever weather conditions permit, the grantee shall maintain air spraying and passenger and cargo air charter transport services within Davao and any and all points and places throughout the Philippines as traffic needs may require.""
+
+ **Section 3.** Section 4 of Republic Act No. 7296 is hereby amended to read as follows:
+
+ > ""**Section 4.***Rates for Services.* - The grantee shall fix just and reasonable rates for its air spraying and passenger and cargo air charter transport operation, subject to the regulations and approval of the Civil Aeronautics Board other proper regulatory agencies of the government.""
+
+ **Section 4.** Section 7 of Republic Act No. 7296 is hereby amended to read as follows:
+
+ > ""**Section 7.***Contracts.* - The grantee is authorized to enter into air spraying and air spraying maintenance and/or servicing contracts, and such other contracts relating to air spraying activities. The grantee is likewise authorized to enter into transportation contracts, including the carrying of mails and such other contracts relating to air transport activities. The grantee shall give preferential consideration to contracts with the Philippine Government.""
+
+ **Section 5.** Section 12 of Republic Act No. 7296 is hereby amended to read as follows:
+
+ > ""**Section 12.***Tax Provisions.* - The grantee, its successors or assigns, shall be liable to pay the same taxes on their real estate, buildings and personal property, exclusive of this franchise, as other persons or corporations are now or hereafter may be required by law to pay. In addition thereto, the grantee, its successors or assigns, shall pay the value-added tax under Republic Act No. 7716, as amended, or a franchise tax of five percent (5%)per annumor at such percentage as may be prescribed by law, on all gross receipts of the air spraying and air transport business transacted under this franchise, whichever is higher:*Provided,*That the grantee, its successors or assigns, shall continue to be liable for income taxes payable under Title II of the National Internal Revenue Code pursuant to Section 2 of Executive Order No 72, unless the latter enactment is amended, or repealed, in which case the amendment or repeal shall be applicable thereto.
+>
+>  ""The grantee shall file the return with, and pay the taxes due thereon to the Commissioner of Internal Revenue or his duly authorized representatives in accordance with the National Internal Revenue Code and the return shall be subject to audit by the Bureau of Internal Revenue.""
+
+ **Section 6.***Effectivity Clause.* - This Act shall take effect fifteen (15) days from the date of its publication in at least two (2) newspapers of general circulation.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** President of the Senate | (Sgd.) **JOSE DE VENECIA JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on December 11, 1997 and February 6, 1998, respectively.
+
+ | (Sgd.) **HEZEL P. GACUTAN** Secretary of the Senate | (Sgd.) **ROBERTO P. NAZARENO** Secretary General House of Representatives |
+
+ Approved:
+
+ **FIDEL V. RAMOS** President of the Philippines
+
+ Lapsed into law on July 09, 1998 without the signature of the President, in accordance with Article VI, Section 27 (1) off the Constitution.
+"	success	Republic Act	This act amends specific sections of Republic Act No. 7296 to expand the franchise of Davao Agritech, Inc. for domestic air spraying and charter services, outlining the scope of operations, responsibilities, rates, contract authority, tax obligations, and effectivity.	"[{""title"": ""Nature and Scope of Franchise"", ""summary"": ""Grants Davao Agritech, Inc. a franchise to establish, operate, and maintain domestic air spraying, passenger and cargo air charter transport services with Davao as its major hub.""}, {""title"": ""Responsibility to the Public"", ""summary"": ""Specifies responsibilities of the grantee to maintain air spraying and charter services across the Philippines as needed.""}, {""title"": ""Rates for Services"", ""summary"": ""Mandates the grantee to fix just and reasonable rates subject to regulation and approval by the Civil Aeronautics Board.""}, {""title"": ""Contracts"", ""summary"": ""Authorizes the grantee to enter into contracts for air spraying maintenance, servicing, and transportation, including preferential consideration for government contracts.""}, {""title"": ""Tax Provisions"", ""summary"": ""Defines tax liabilities of the grantee, including real estate, VAT under RA 7716, franchise tax, and income tax obligations.""}, {""title"": ""Effectivity Clause"", ""summary"": ""States the act takes effect fifteen days after publication in at least two newspapers of general circulation.""}]"	8700	July 09, 1998	"[{""name"": ""Neptali A. Gonzales"", ""title"": ""President of the Senate""}, {""name"": ""Jose De Venecia Jr."", ""title"": ""Speaker of the House of Representatives""}, {""name"": ""Fidel V. Ramos"", ""title"": ""President of the Philippines""}]"	"[{""name"": ""Hezel P. Gacutan"", ""title"": ""Secretary of the Senate""}, {""name"": ""Roberto P. Nazareno"", ""title"": ""Secretary General House of Representatives""}]"	To amend sections of RA 7296 to grant and expand the franchise of Davao Agritech, Inc. for domestic air spraying and charter services, establishing operational scope, responsibilities, rates, contracts, and tax provisions.	"[""Amendment of Section 1 to grant franchise for domestic air spraying and charter services"", ""Amendment of Section 3 to define responsibilities to maintain services"", ""Amendment of Section 4 to fix just and reasonable rates"", ""Amendment of Section 7 to authorize contracts for air spraying and transportation"", ""Amendment of Section 12 to outline tax obligations under RA 7296 and related laws"", ""Effectivity clause requiring publication in at least two newspapers""]"	Republic Act No. 7296	"[""Republic Act"", ""Air Spraying"", ""Franchise"", ""Davao Agritech"", ""Domestic Air Services"", ""Tax Provisions""]"	"[""Davao Agritech Inc."", ""air spraying"", ""domestic air charter"", ""franchise"", ""rates"", ""contracts"", ""taxes"", ""Civil Aeronautics Board""]"
+repacts:datasets/markdown/repacts/1998/ra_8701_1998.md	repacts	1998		datasets/markdown/repacts/1998/ra_8701_1998.md	ra_8701_1998	AN ACT GRANTING THE IMAGE BROADCASTING CORP. A FRANCHISE TO CONSTRUCT INSTALL, ESTABLISH, OPERATE AN MAINTAIN RADIO AND TELEVISION STATIONS IN THE ISLAND OF MINDANAO	"Eleventh Congress
+
+ **[ REPUBLIC ACT NO. 8701, July 09, 1998 ]**
+
+ **AN ACT GRANTING THE IMAGE BROADCASTING CORP. A FRANCHISE TO CONSTRUCT INSTALL, ESTABLISH, OPERATE AN MAINTAIN RADIO AND TELEVISION STATIONS IN THE ISLAND OF MINDANAO**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.***Nature and Scope of Franchise.* - Subject to the provisions of the Constitution and applicable laws, rules and regulations, there is hereby granted to the Image Broadcasting Corp., hereunder referred to as the grantee, its successors or assigns, a franchise to construct, install, establish operate and maintain for commercial purposes and in the public interest, radio and/or television broadcasting stations throughout the Island of Mindanao, where frequencies and/or channels are still available for radio and/or television broadcasting, with the corresponding technological auxiliaries or ties, special broadcast and other program and distribution services and relay stations.
+
+ **Section 2.***Manner of Operation of Stations or facilities.*- The stations or facilities of the grantee shall be constructed and operated in a manner as will, at most, result only in the minimum interference on the wavelengths or frequencies of existing stations or other stations which may be established by law, without in any way diminishing its own right to use its selected wavelengths or frequencies and the quality of transmission or reception thereon as should maximize rendition of the grantee's services and/or the availability thereof.
+
+ **Section 3.***Prior Approval of the National Telecommunications Commission.*- The grantee shall secure from the National Telecommunications Commission, the appropriate permits and licenses for the construction and operation of its stations and facilities and shall not use any frequency in radio/television spectrum without having been authorized by the Commission.
+
+ The Commission, however, shall not unreasonably withhold or delay the grant of any such authority.
+
+ **Section 4.***Responsibility to the Public.*- The grantee shall provide adequate public service time to enable the government, through the said broadcasting stations or facilities, to reach the population on important public issues; provide at all times sound and balanced programming; assist in the functions of public information and education; conform to the ethics of honest enterprise; and not use its stations or facilities for the broadcasting of obscene and indecent language, speech, act or scene, or for the dissemination of deliberately false information or willful misrepresentation, to the detriment of the public interest, or to incite, encourage or assist in subversive or treasonable acts.
+
+ **Section 5.***Right of Government.* - A special right is hereby reserved to the President of the Philippines, in times of war, rebellion, public peril, calamity, emergency, disaster or disturbance of peace and order, to temporarily take over and operate the stations or facilities of the grantee , to temporarily suspend the operation of any station or facility in the interest of public safety, security and public welfare, or to authorize the temporary use and operation thereof by any agency of the government, upon due compensation to the grantee for the use of said stations or facilities during the period when they shall be so operated.
+
+ The radio spectrum is a finite resource that is a part of the national patrimony and the use thereof is a privilege conferred upon the grantee by the State and may be withdrawn anytime, after due process.
+
+ **Section 6.***Term of Franchise.*- This franchise shall be for a term of twenty-five (25) years from the date of effectivity of this Act, unless sooner revoked or cancelled. This franchise shall be deemed*ipso facto*revoked in the event the grantee fails to comply with any of the following conditions:
+
+ a. Commence operations within one (1) year from the approval of its permit by the National Telecommunications Commission; b. Operate continuously for two (2) years; and c. Commence operations within three (3) years from the effectivity of this Act. **Section 7.***Acceptance and Compliance.* - Acceptance of this franchise shall be given in writing within sixty (60) days after the effectivity of this Act. Upon giving such acceptance, the grantee shall exercise the privileges granted under this Act. Non acceptance shall render the franchise void.
+
+ **Section 8.***Bond.*- The grantee shall file a bond issued in favor of the National Telecommunications Commission, which shall determine the amount, to guarantee the compliance with and fulfillment of the conditions under which this franchise is granted. If after three (3) years from the date of the approval of its permit by the Commission, the grantee shall have fulfilled the same, the bond shall be canceled by the Commission. Otherwise the bond shall be forfeited in favor of the government and the franchise*ipso facto*revoked.
+
+ **Section 9.***Tax Provisions.*- The grantee, its successors or assigns, shall be liable to pay the same taxes on their real estate, buildings and personal property, exclusive of this franchise, as other persons or corporations are now or hereafter may be required by law to pay. In addition thereto, the grantee, its successors or assigns shall pay the value-added tax under Republic Act No. 7716, as amended, on all gross receipts of its radio/ television business transacted under this franchise:*Provided,*That the grantee, its successors or assigns, shall continue to be liable for income taxes payable under Title II of the National Internal Revenue Code pursuant to Section 2 of Executive Order No. 72, unless the latter enactment is amended or repealed, in which case the amendment or repeal shall be applicable thereto.
+
+ The grantee shall file the return with, and pay the tax due thereon to the Commissioner of Internal Revenue or his duly authorized representatives in accordance with the National Internal Revenue Code and the return shall be subject to audit by the Bureau of Internal Revenue.
+
+ **Section 10.***Self-regulation by and Undertaking of Grantee.* - The grantee shall not require any previous censorship of any speech, play, act or scene, or other matter to be broadcast from its stations:*Provided,*That the grantee, during any broadcast, shall cut off from the air speech, play, act or scene, or other matter being broadcast if the tendency thereof is to propose and/or incite treason, rebellion or sedition; or the language used therein or the theme thereof is indecent or immoral; and willful failure to do so shall constitute a valid cause for the cancellation of this franchise.
+
+ **Section 11.***Warranty in Favor of National and Local Governments.* - The grantee shall hold the national, provincial and municipal governments of the Philippines harmless from all claims, accounts, demands or actions arising out of accidents or injuries, whether to property or to persons, caused by the construction or operation of the stations, of the grantee.
+
+ **Section 12.***Sale, Lease, Transfer, Usufruct etc.*- The grantee shall not lease, transfer grant the usufruct of, sell nor assign this franchise or the rights and privileges acquired there under to any person, firm, company, corporation or other commercial or legal entity, nor merge with any other corporation or entity, nor shall the controlling interest of the grantee be transferred, whether as a whole or in parts and whether simultaneously or contemporaneously, to any such person, firm, company, corporation or entity without the prior approval of the Congress of the Philippines. Any person or entity to which this franchise is sold, transferred or assigned shall be subject to the same conditions, terms, restrictions and limitations of this Act.
+
+ **Section 13.***Dispersal of Ownerships.* - In accordance with constitutional provisions to encourage public participation in the public utilities, the grantee shall offer at least thirtyper centum(30%) of its outstanding capital stock or a higher percentage that may hereafter be provided by law in any securities exchange in the Philippines within five (5) years from the time it has achieved the status of a national broadcasting network. A ""national broadcasting network"" is hereby defined as one that operates three or more radio and/or television stations. Noncompliance therewith shall render the franchise*ipso facto*revoked.
+
+ **Section 14.***General Broadcast Policy Law.*- The grantee shall comply with and be subject to the provisions of a general broadcast policy law which Congress may hereafter enact.
+
+ **Section 15.***Separability Clause.*- If any of the sections or provisions of this Act is held invalid, all other provisions not affected thereby shall remain valid.
+
+ **Section 16.***Repealability and Nonexclusivity Clause.* - This franchise shall be subject to amendment, alteration, or repeal by the Congress of the Philippines when the public interest so requires and shall not be interpreted as an exclusive grant of the privileges herein provided for.
+
+ **Section 17.***Reportorial Requirement.*- The grantee shall submit an annual report to the Congress of the Philippines on its compliance with the terms and conditions of its franchise and on its operations within sixty (60) days from the end of every year.
+
+ **Section 18.***Effectivity.*- This Act shall take effect fifteen (15) days from the date of its publication in at least two (2) newspapers of general circulation.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** President of the Senate | (Sgd.) **JOSE DE VENECIA JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on February 6, 1998.

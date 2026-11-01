@@ -1,0 +1,163 @@
+
+ **Section 1.** Item (f -1), page 352, Group II, for the Province of Negros Oriental, Section two, entitled ""Short Term Projects,"" of Republic Act Numbered Nineteen hundred, as amended by Republic Act Numbered Twenty-eight hundred fifty-eight, is hereby further amended to read as follows:
+
+ > ""(f-1) Larena-Basac-Maria Road Repair and/or improvement ₱10,000.00""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1961.
+"	success	Public Works	This act further amends RA 1900 to modify item (f-1) for the Larena-Basac-Maria Road Repair and/or improvement in Negros Oriental, allocating ₱10,000.00.	"[{""title"": ""Section 1"", ""summary"": ""Item (f-1) of the Short Term Projects section of RA 1900, as amended by RA 2858, is further amended to read: \""(f-1) Larena-Basac-Maria Road Repair and/or improvement \u20b110,000.00\"".""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	3316	June 18, 1961			To further amend appropriations for public works projects in Negros Oriental.	"[""Item (f-1) Larena-Basac-Maria Road Repair and/or improvement \u20b110,000.00""]"	Republic Act 1900, as amended by RA 2858	"[""Public Works"", ""Infrastructure"", ""Appropriations""]"	"[""Larena-Basac-Maria Road"", ""Repair"", ""Improvement"", ""Negros Oriental""]"
+repacts:datasets/markdown/repacts/1961/ra_3317_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3317_1961.md	ra_3317_1961	An Act to Establish, Maintain and Operate a School of Nursing and Midwifery in the Isabela Provincial Hospital Located in the Municipality of Ilagan, Province of Isabela, and to Authorize the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 3317**
+
+ **An Act to Establish, Maintain and Operate a School of Nursing and Midwifery in the Isabela Provincial Hospital Located in the Municipality of Ilagan, Province of Isabela, and to Authorize the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established a school of nursing and midwifery in the Isabela Provincial Hospital located in the Municipality of Ilagan, Province of Isabela. The establishment, maintenance and operation of said school of nursing and midwifery shall be under the control and management of the Director of the said Isabela Provincial Hospital, subject to the executive supervision of the Director of Medical Services.
+
+ **Section 2.** The sum of two hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, maintenance and operation of the school of nursing and midwifery under this Act, which shall be disbursed by the Director of the Isabela Provincial Hospital, subject to the approval of the Director of Medical Services.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1961.
+"	success	Republic Act	This act establishes a nursing and midwifery school at the Isabela Provincial Hospital, authorizes the appropriation of funds for its establishment, maintenance, and operation, and sets its effective date.	"[{""title"": ""Section 1"", ""summary"": ""Establishes a school of nursing and midwifery under the control and management of the hospital director, subject to executive supervision.""}, {""title"": ""Section 2"", ""summary"": ""Authorizes the appropriation of two hundred thousand pesos from the national treasury for the school's establishment, maintenance, and operation, to be disbursed by the hospital director with approval of the Director of Medical Services.""}, {""title"": ""Section 3"", ""summary"": ""The act takes effect upon its approval.""}]"	3317	June 18, 1961			To establish a nursing and midwifery school in Isabela Provincial Hospital and authorize funding for its operation.	"[""Establishment of a nursing and midwifery school at Isabela Provincial Hospital"", ""Authorization of appropriation of 200,000 pesos for the school"", ""Effective date upon approval""]"		"[""Education"", ""Healthcare"", ""Nursing"", ""Midwifery""]"	"[""nursing school"", ""midwifery"", ""Isabela Provincial Hospital"", ""fund appropriation"", ""hospital education""]"
+repacts:datasets/markdown/repacts/1961/ra_3318_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3318_1961.md	ra_3318_1961	An Act Reappropriating the Sum of Five Thousand Pesos Appropriated Under Republic Act Numbered Fourteen Hundred Eleven for the Purchase of Additional Site to Expand the School Lot of the Barrio School of Palaca, Municipality of Pulupandan, Province of Negros Occidental	"**REPUBLIC ACT No. 3318**
+
+ **An Act Reappropriating the Sum of Five Thousand Pesos Appropriated Under Republic Act Numbered Fourteen Hundred Eleven for the Purchase of Additional Site to Expand the School Lot of the Barrio School of Palaca, Municipality of Pulupandan, Province of Negros Occidental**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sum of five thousand pesos appropriated under item 20, page 527, group II, subparagraph ai, for the Province of Negros Occidental, Section three of Republic Act Numbered Fourteen hundred eleven, for the construction of an additional room for the Palaca Barrio School building, Barrio Palaca, Municipality of Pulupandan, is hereby reappropriated for the purchase of additional site to expand the school lot of the said barrio school.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1961.
+"	success	Act	This Republic Act reappropriates ₱5,000 originally appropriated under RA 1411 for the purpose of acquiring additional land to expand the school lot of the Palaca Barrio School in Pulupandan, Negros Occidental.	"[{""title"": ""Section 1"", ""summary"": ""Reappropriates \u20b15,000 under item 20, page 527, group II, subparagraph ai of RA 1411 for the purchase of additional site to expand the school lot of the Palaca Barrio School.""}, {""title"": ""Section 2"", ""summary"": ""States that the act shall take effect upon its approval.""}]"	3318	June 18, 1961			To reallocate appropriated funds for purchasing additional land to expand the school lot of the Palaca Barrio School.	"[""Reappropriation of \u20b15,000 from RA 1411"", ""Purchase of additional site to expand school lot"", ""Effectivity upon approval""]"		"[""Education"", ""Reappropriation"", ""School Expansion"", ""Budget Appropriation""]"	"[""reappropriation"", ""school"", ""Palaca"", ""Pulupandan"", ""Negros Occidental"", ""five thousand pesos"", ""Republic Act 3318""]"
+repacts:datasets/markdown/repacts/1961/ra_3319_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3319_1961.md	ra_3319_1961	An Act Declaring Regular and Official the Barrios of Cebu, Pabel, Gud, Victoria, Gomez, Villaflor, Malibago, Babaran, Sta. Cruz, Rumang-Say, San Felipe, Sta. Monica, Ramos, Maligaya, Castillo, San Fabian, Pangal Norte, and Villa Victoria in the Municipality of Echague, Province of Isabela	"**REPUBLIC ACT No. 3319**
+
+ **An Act Declaring Regular and Official the Barrios of Cebu, Pabel, Gud, Victoria, Gomez, Villaflor, Malibago, Babaran, Sta. Cruz, Rumang-Say, San Felipe, Sta. Monica, Ramos, Maligaya, Castillo, San Fabian, Pangal Norte, and Villa Victoria in the Municipality of Echague, Province of Isabela**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The barrios of Cebu, Pabel, Gud, Victoria, Gomez, Villaflor, Malibago, Babaran, Sta. Cruz, Rumangsay, San Felipe, Sta. Monica, Ramos, Maligaya, Castillo, San Fabian, Pangal Norte, and Villa Victoria in the Municipality of Echague, Province of Isabela, are hereby declared regular and official barrios.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1961.
+"	success	Republic Act	This Act declares the specified barrios in Echague, Isabela as regular and official.	"[{""title"": ""Section 1"", ""summary"": ""The barrios of Cebu, Pabel, Gud, Victoria, Gomez, Villaflor, Malibago, Babaran, Sta. Cruz, Rumang-Say, San Felipe, Sta. Monica, Ramos, Maligaya, Castillo, San Fabian, Pangal Norte, and Villa Victoria in the Municipality of Echague, Province of Isabela are hereby declared regular and official barrios.""}, {""title"": ""Section 2"", ""summary"": ""The Act shall take effect upon its approval.""}]"	3319	June 18, 1961			To declare the specified barrios in Echague, Isabela as regular and official.	"[""The barrios of Cebu, Pabel, Gud, Victoria, Gomez, Villaflor, Malibago, Babaran, Sta. Cruz, Rumang-Say, San Felipe, Sta. Monica, Ramos, Maligaya, Castillo, San Fabian, Pangal Norte, and Villa Victoria are declared regular and official barrios."", ""The Act takes effect upon its approval.""]"		"[""Republic Act"", ""Local Government"", ""Isabela"", ""Barrios"", ""Echague""]"	"[""barrios"", ""Echague"", ""Isabela"", ""regular"", ""official"", ""Republic Act 3319""]"
+repacts:datasets/markdown/repacts/1961/ra_3320_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3320_1961.md	ra_3320_1961	An Act Creating the Municipality of Ramon in the Province of Isabela	"**REPUBLIC ACT No. 3320**
+
+ **An Act Creating the Municipality of Ramon in the Province of Isabela**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The barrios of Bugallon, Burgos, San Miguel, San Sebastian, Raniag and Pagrang-ayan are separated from the Municipality of Santiago, and the barrios of Oscariz, Nagbacalan and Bantug Petinez are separated from the Municipality of San Mateo, all in the Province of Isabela, and constituted into a new and separate municipality of said province to be known as the Municipality of Ramon, with the seat of government at the present site of the barrio of Burgos.
+
+ **Section 2.** This Act shall take effect upon the election of the new municipal officials in the general election for local officials in November of nineteen hundred sixty-three.
+
+ Approved: June 18, 1961.
+"	success	Republic Act	This act establishes the Municipality of Ramon in Isabela by separating specific barrios from the municipalities of Santiago and San Mateo, designating Burgos as its seat of government, and stipulating that the act take effect upon the election of municipal officials in 1963.	"[{""title"": ""Section 1"", ""summary"": ""Separates the barrios of Bugallon, Burgos, San Miguel, San Sebastian, Raniag, and Pagrang-ayan from Santiago, and Oscariz, Nagbacalan, and Bantug Petinez from San Mateo, forming the new municipality of Ramon with its seat in Burgos.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon the election of the new municipal officials in the general election for local officials in November 1963.""}]"	3320	June 18, 1961			To create the Municipality of Ramon in the Province of Isabela.	"[""Separates specified barrios from Santiago and San Mateo to form a new municipality"", ""Designates Burgos as the seat of government for Ramon"", ""The act takes effect upon the election of municipal officials in November 1963""]"		"[""municipality"", ""Isabela"", ""local government"", ""Republic Act 3320""]"	"[""Ramon"", ""Isabela"", ""municipality"", ""barangays"", ""local government"", ""Republic Act 3320""]"
+repacts:datasets/markdown/repacts/1961/ra_3321_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3321_1961.md	ra_3321_1961	An Act Fixing the Boundaries of the Municipal District of Carasi, Province of Ilocos Norte	"**REPUBLIC ACT No. 3321**
+
+ **An Act Fixing the Boundaries of the Municipal District of Carasi, Province of Ilocos Norte**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The area comprising the Municipal District of Carasi, Province of Ilocos Norte, shall be bounded as follows:
+
+ Beginning at Corner 1, which is N 60 E, 6,000 meters from B.L.L.M. No. 1 of the Municipality of Solsona, Province of Ilocos Norte; thence N 20 W, 8,000 meters to Corner 2; thence N 75 E, 13,850 meters to Corner 3; thence S 42 E, 3,500 meters to Corner 4; thence S 67 E, 2,300 meters to Corner 5; thence S 70 W, 2,050 meter to Corner 6; thence S 80 W, 2,000 meters to Corner 7; thence S 74 W, 6,150 meters to Corner 8; thence S 46 W, 6,750 meters to the point of beginning, containing an area of 8,296.7 hectares, more or less.
+
+ **Section 2.** The sum of ten thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the boundary survey thereof.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1961.
+"	success	Republic Act	This act defines the boundaries of the municipal district of Carasi in Ilocos Norte and authorizes funds for the boundary survey.	"[{""title"": ""Section 1"", ""summary"": ""Describes the boundary lines and area of the municipal district of Carasi.""}, {""title"": ""Section 2"", ""summary"": ""Authorizes appropriation of ten thousand pesos for the boundary survey.""}, {""title"": ""Section 3"", ""summary"": ""Act takes effect upon approval.""}]"	3321	June 18, 1961			To fix the boundaries of the municipal district of Carasi, Ilocos Norte.	"[""Boundary description of Carasi municipal district"", ""Authorization of ten thousand pesos for boundary survey"", ""Effectivity upon approval""]"		"[""Boundary law"", ""Municipal district"", ""Ilocos Norte"", ""Republic Act"", ""Carasi""]"	"[""Carasi"", ""Ilocos Norte"", ""boundary"", ""municipal district"", ""survey"", ""appropriation"", ""June 1961""]"
+repacts:datasets/markdown/repacts/1961/ra_3322_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3322_1961.md	ra_3322_1961	An Act Creating a Branch Office of the Register of Deeds of the Province of Quezon, with Permanent Station at the Municipality of Baler, Subprovince of Aurora, Same Province, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 3322**
+
+ **An Act Creating a Branch Office of the Register of Deeds of the Province of Quezon, with Permanent Station at the Municipality of Baler, Subprovince of Aurora, Same Province, and Authorizing the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There is hereby created a branch office of the Register of Deeds of the Province of Quezon, with permanent station at the Municipality of Baler, Subprovince of Aurora, same province, which shall perform all the duties and functions of the register of deeds for the following municipalities: Baler, Casiguran, Dipaculao, Maria Aurora and Dingalan.
+
+ **Section 2.** To carry out the provision of this Act, there is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, the sum of eight thousand two hundred eighty pesos which shall be spent for the following:
+
+ | (a) Deputy Register of Deeds | ₱2,400.00 | | --- | --- | | (b) One Clerk | 1,440.00 | | (c) One janitor messenger | 1,440.00 | | (d) Sundry expenses | 3,000.00 | | | ₱8,280.00 | Such sums as may be necessary for the same purpose in subsequent years shall be included in the annual General Appropriation Acts.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1961.
+"	success	Republic Act	Creates a branch office of the Register of Deeds in Baler, Aurora, and appropriates funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""Establishes a branch office of the Register of Deeds in Baler, Aurora, to perform duties for Baler, Casiguran, Dipaculao, Maria Aurora, and Dingalan.""}, {""title"": ""Section 2."", ""summary"": ""Appropriates \u20b18,280.00 for staff and expenses including Deputy Register of Deeds, Clerk, janitor messenger, and sundry expenses.""}, {""title"": ""Section 3."", ""summary"": ""The Act takes effect upon approval.""}]"	3322	June 18, 1961			Establish a branch office of the Register of Deeds to serve municipalities in Quezon and Aurora province, ensuring proper record-keeping and documentation.	"[""Creation of branch office in Baler, Aurora"", ""Appropriation of \u20b18,280.00 for staff and operating costs"", ""Designation of Deputy Register, Clerk, janitor messenger, and sundry expenses"", ""Effectivity upon approval""]"		"[""Register of Deeds"", ""Quezon"", ""Aurora"", ""Baler"", ""Republic Act"", ""Appropriation""]"	"[""branch office"", ""register of deeds"", ""funds appropriation"", ""municipalities"", ""Baler"", ""Quezon"", ""Aurora""]"
+repacts:datasets/markdown/repacts/1961/ra_3323_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3323_1961.md	ra_3323_1961	An Act to Convert the Cauayan High School in the Province of Isabela into a Rural High School, to be Known as the Cauayan Rural High School	"**REPUBLIC ACT No. 3323**
+
+ **An Act to Convert the Cauayan High School in the Province of Isabela into a Rural High School, to be Known as the Cauayan Rural High School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The Cauayan High School in the Province of Isabela is hereby converted into a rural high school to be known as the Cauayan Rural High School.
+
+ **Section 2.** The sum of seventy-five thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of said school for the school year nineteen hundred sixty-two. Thereafter, the necessary sum for said purpose shall be included in the annual General Appropriation Acts.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1961.
+"	success	Education	The Republic Act of 1961 converts Cauayan High School into Cauayan Rural High School and appropriates funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""The Cauayan High School is converted into a rural high school named Cauayan Rural High School.""}, {""title"": ""Section 2."", ""summary"": ""Seventy-five thousand pesos is authorized for the school's operation and maintenance for 1962, with future funding included in General Appropriation Acts.""}, {""title"": ""Section 3."", ""summary"": ""The Act takes effect upon approval.""}]"	3323	June 18, 1961			To convert a high school into a rural high school and provide funding for its operation.	"[""Conversion of Cauayan High School to Cauayan Rural High School"", ""Authorization of 75,000 pesos for operation and maintenance"", ""Effectivity upon approval""]"		"[""Education"", ""Public School"", ""Isabela"", ""Rural High School""]"	"[""Cauayan"", ""High School"", ""Rural"", ""Isabela"", ""Appropriation"", ""Conversion""]"
+repacts:datasets/markdown/repacts/1961/ra_3324_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3324_1961.md	ra_3324_1961	An Act Creating a Position of Deputy Register of Deeds for Northern Cagayan	"**REPUBLIC ACT No. 3324**
+
+ **An Act Creating a Position of Deputy Register of Deeds for Northern Cagayan**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There is hereby created a position of deputy of register of deeds for Northern Cagayan.
+
+ **Section 2.** The Deputy Register of Deeds for Northern Cagayan shall hold office in the Municipality of Aparri and shall record and sign exclusively registerable titles, documents and other instruments relative to lands situated in the Municipalities of Aparri, Camalaniugan, Lallo, Gattaran, Lasam, Allacapan, Buguey, Gonzaga, Abulug, Claveria, Ballesteros, Pamplona, Sanchez Mira, Calayan, Langangan and Sta. Ana: *Provided,* That he shall be under the administrative supervision of the Register of Deeds of Cagayan.
+
+ **Section 3.** The Deputy Register of Deeds for the Province of Cagayan at the approval of this Act shall be assigned to take over all the duties and functions of the Deputy of Register of Deeds for Northern Cagayan.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1961.
+"	success	Act	Establishes a deputy register of deeds position for Northern Cagayan to manage land registration in specified municipalities.	"[{""title"": ""Section 1."", ""summary"": ""Creation of the deputy register of deeds position for Northern Cagayan.""}, {""title"": ""Section 2."", ""summary"": ""Defines duties, jurisdiction over land titles and documents in specified municipalities, and administrative supervision by the Register of Deeds of Cagayan.""}, {""title"": ""Section 3."", ""summary"": ""Assigns the deputy register of deeds for the Province of Cagayan to assume duties of the deputy for Northern Cagayan.""}, {""title"": ""Section 4."", ""summary"": ""Effectivity of the act upon approval.""}]"	3324	June 18, 1961			To create a deputy register of deeds position for Northern Cagayan to streamline land registration processes in the region.	"[""Creation of deputy register of deeds position"", ""Jurisdiction over land titles in specified municipalities"", ""Administrative supervision by Cagayan Register of Deeds"", ""Assignment of duties to Cagayan Deputy register"", ""Effectivity upon approval""]"		"[""Land Registration"", ""Local Government"", ""Cagayan""]"	"[""Deputy Register of Deeds"", ""Northern Cagayan"", ""land registration"", ""Municipality of Aparri""]"
+repacts:datasets/markdown/repacts/1961/ra_3325_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3325_1961.md	ra_3325_1961	An Act Creating an Additional Position of Assistant Provincial Fiscal in the Province of Isabela, Amending for This Purpose Section Sixteen Hundred Seventy-Four of the Administrative Code, as Amended	"**REPUBLIC ACT No. 3325**
+
+ **An Act Creating an Additional Position of Assistant Provincial Fiscal in the Province of Isabela, Amending for This Purpose Section Sixteen Hundred Seventy-Four of the Administrative Code, as Amended**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section sixteen hundred seventy-four of the Administrative Code, as amended, relative to the number of assistant provincial fiscals in the Province of Isabela, is further amended to read as follows:
+
+ > ""Isabela, four assistant provincial fiscals;""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1961.
+"	success	Republic Act	Republic Act No. 3325 increases the number of assistant provincial fiscals in Isabela to four by amending Section 1674 of the Administrative Code.	"[{""title"": ""Section 1."", ""summary"": ""Amends Section 1674 to state \""Isabela, four assistant provincial fiscals;\"".""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	3325	June 18, 1961			To amend Section 1674 of the Administrative Code to increase assistant provincial fiscals in Isabela.	"[""Amends Section 1674 of the Administrative Code to increase the number of assistant provincial fiscals in Isabela to four.""]"	Section Sixteen Hundred Seventy-Four of the Administrative Code	"[""Isabela"", ""Assistant Provincial Fiscal"", ""Administrative Code"", ""Republic Act"", ""Fiscal""]"	"[""assistant provincial fiscal"", ""Isabela"", ""Administrative Code"", ""amendment"", ""Republic Act"", ""fiscal""]"
+repacts:datasets/markdown/repacts/1961/ra_3326_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3326_1961.md	ra_3326_1961	An Act Creating Four Additional Positions of Assistant Provincial Fiscal in the Province of Oriental Misamis, Amending for This Purpose Section Sixteen Hundred Seventy-Four of the Administrative Code, as Amended	"**REPUBLIC ACT No. 3326**
+
+ **An Act Creating Four Additional Positions of Assistant Provincial Fiscal in the Province of Oriental Misamis, Amending for This Purpose Section Sixteen Hundred Seventy-Four of the Administrative Code, as Amended**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The provisions of Section sixteen hundred seventy-four of the Administrative Code, as amended, relative to the number of assistant provincial fiscals in the Province of Oriental Misamis, is further amended to read as follows:
+
+ > ""Oriental Misamis, six assistant provincial fiscals;""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1961.
+"	success	Republic Act	This act amends Section 1674 of the Administrative Code to increase the number of assistant provincial fiscals in Oriental Misamis to six, thereby creating four additional positions.	"[{""title"": ""Section 1"", ""summary"": ""Amendment to Section 1674 of the Administrative Code specifying the number of assistant provincial fiscals in Oriental Misamis to be six.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	3326	June 18, 1961			To increase the number of assistant provincial fiscals in Oriental Misamis and amend the Administrative Code accordingly.	"[""Amends Section 1674 of the Administrative Code to set the number of assistant provincial fiscals in Oriental Misamis to six.""]"	Section 1674 of the Administrative Code	"[""Local Government"", ""Finance"", ""Philippines"", ""Administrative Code"", ""Assistant Provincial Fiscal""]"	"[""Assistant Provincial Fiscal"", ""Oriental Misamis"", ""Administrative Code"", ""Republic Act"", ""Philippines""]"
+repacts:datasets/markdown/repacts/1961/ra_3327_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3327_1961.md	ra_3327_1961	An Act Fixing the Time for Holding Court Sessions at the Municipalities of San Agustin and Odiongan, Province of Romblon, Amending for the Purpose Section Fifty-Four of the Judiciary Act of 1948, as Amended	"**REPUBLIC ACT No. 3327**
+
+ **An Act Fixing the Time for Holding Court Sessions at the Municipalities of San Agustin and Odiongan, Province of Romblon, Amending for the Purpose Section Fifty-Four of the Judiciary Act of 1948, as Amended**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The ninth paragraph of Section fifty-four of Republic Act Numbered Two hundred ninety-six, otherwise known as ""The Judiciary Act of 1948,"" as amended, is further amended to read as follows:
+
+ > ""Eleventh Judicial District: At Culasi, Province of Antique, on the first Tuesday of December of each year, and at Mambusao, Province of Capiz, a special term of court shall be held at least once a year on dates to be fixed by district judge. Special terms of court shall also be held at San Agustin, Province of Romblon, on the third Tuesday of August, December and April of each year; and at Odiongan, same province, at least once year on dates to be fixed by the district judge.""
+
+ Section 2. This Act shall take effect upon its approval.
+
+ Approved: June 18, 1961.
+"	success	Act	Amends Section 54 of the Judiciary Act of 1948 to specify court session dates and times in San Agustin and Odiongan, Romblon.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 54 of Republic Act No. 296 to set special court terms at San Agustin and Odiongan, specifying dates for the first Tuesday of December, third Tuesday of August, December and April, and additional terms as fixed by the district judge.""}, {""title"": ""Section 2"", ""summary"": ""The Act takes effect upon its approval.""}]"	3327	June 18, 1961			To fix the time for holding court sessions in the municipalities of San Agustin and Odiongan, Romblon.	"[""Amendment to Section 54 of RA 296 to set court session dates in San Agustin and Odiongan"", ""Specification of special terms: first Tuesday of December, third Tuesday of August, December and April"", ""Provision for additional terms as fixed by the district judge""]"	Judiciary Act of 1948 (RA 296), Section 54	"[""Judiciary Act"", ""Court Sessions"", ""Romblon"", ""San Agustin"", ""Odiongan"", ""Amendment"", ""RA 3327""]"	"[""court sessions"", ""municipalities"", ""Romblon"", ""Judiciary Act"", ""special terms"", ""district judge"", ""August"", ""December"", ""April""]"

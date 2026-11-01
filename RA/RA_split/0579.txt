@@ -1,0 +1,194 @@
+
+ **Section 1** The following barrios are hereby created in the Municipality of Capul, Province of Samar:
+
+ (1) Barrio of Uson, consisting of the sitios of Lungib, Pahot, Suriyawan, Muyac and Catandocolan; (2) Barrio of Diraya, consisting of the sitios of Danao, Minanga, Bocason, Camayao-payawan and Dalairo; and (3) Barrio of Jubang, consisting of the sitios of Londres, Boquid, Mapapak, Catandocolan and Sagaosawan. **Section 2** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act creates three barrios—Uson, Diraya, and Jubang—in Capul municipality, Samar, and becomes effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Creation of the barrios of Uson, Diraya, and Jubang, detailing the constituent sitios for each barrio.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	RA 2521	June 21, 1959			To organize and formalize the administrative divisions of Capul municipality by creating new barrios.	"[""Creation of Barrio of Uson, comprising the sitios of Lungib, Pahot, Suriyawan, Muyac, and Catandocolan."", ""Creation of Barrio of Diraya, comprising the sitios of Danao, Minanga, Bocason, Camayao-payawan, and Dalairo."", ""Creation of Barrio of Jubang, comprising the sitios of Londres, Boquid, Mapapak, Catandocolan, and Sagaosawan."", ""The act takes effect upon approval.""]"		"[""Municipal division"", ""Barrios"", ""Capul"", ""Samar""]"	"[""Barrios"", ""Uson"", ""Diraya"", ""Jubang"", ""Capul"", ""Samar"", ""Republic Act 2521""]"
+repacts:datasets/markdown/repacts/1959/ra_2522_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2522_1959.md	ra_2522_1959	An Act Changing the Name of Santol I Elementary School in the Municipality of Bigaa, Province of Bulacan, to Marciano C. Rivera Elementary School	"**REPUBLIC ACT No. 2522**
+
+ **An Act Changing the Name of Santol I Elementary School in the Municipality of Bigaa, Province of Bulacan, to Marciano C. Rivera Elementary School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Santol I Elementary School in the Municipality of Bigaa, Province of Bulacan, is hereby changed to Marciano C. Rivera Elementary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	An act that changes the name of Santol I Elementary School to Marciano C. Rivera Elementary School.	"[{""title"": ""Section 1."", ""summary"": ""The name of Santol I Elementary School in the Municipality of Bigaa, Province of Bulacan, is hereby changed to Marciano C. Rivera Elementary School.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2522	June 21, 1959			To rename a public elementary school in Bigaa, Bulacan.	"[""Name change of Santol I Elementary School to Marciano C. Rivera Elementary School."", ""Act takes effect upon approval.""]"		"[""Education"", ""School Renaming"", ""Bulacan""]"	"[""Santol I Elementary School"", ""Marciano C. Rivera Elementary School"", ""Bulacan"", ""name change""]"
+repacts:datasets/markdown/repacts/1959/ra_2523_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2523_1959.md	ra_2523_1959	An Act Creating Certain Barrios in the Province of Surigao	"**REPUBLIC ACT No. 2523**
+
+ **An Act Creating Certain Barrios in the Province of Surigao**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Amontay, Macopa and Magtanghali in the Municipality of Anao-aon, Province of Surigao, are converted into barrios of said municipality to be known as the barrios of Amontay, Macopa and Magtangali, respectively.
+
+ **Section 2.** The sitios of Tawagan, Panaosawon, Cabogo, Unidad, Lactudan, Pagbahanan and Salimbabayog in the Municipality of Cagwait, Province of Surigao, are converted into barrios of said municipality to be known as the barrios of Tawagan, Panaosawon, Cabogo, Unidad, Lactudan, Palhi, Pagbahanan and Bitaugan West, respectively.
+
+ **Section 3.** The sitio of Cabawan in the Municipality of Dapa, Province of Surigao, is converted into a barrio of said municipality to be known as the barrio of Cabawa.
+
+ **Section 4.** The sitios of Tagbina, Port Lamon, Dugmanon, Sasa, Manambia, Biga-an, Maglambing and Talisay in the Municipality of Hintuan, Province of Surigao, are converted into barrios of said municipality to be known as the barrios of Tagbina, Port Lamon, Dugmanon, Sasa, Manambia, Biga-an, Maglambing and Talisay, respectively.
+
+ **Section 5.** The sitios of Bungan, Salvacion, Mandus and Sabang in the Municipality of Lingig, Province of Surigao, are converted into barrios of said municipality to be known as the barrios of Bungan, Salvacion, Mandus and Sabang, respectively.
+
+ **Section 6.** The sitios of San Pedro, Alipao, Matinao, Tapian, Mansayao, Binga, San Francisco, Cantugas and Mainit in the Municipality of Mainit, Province of Surigao, are converted into barrios of said municipality to be known as the barrios of San Pedro, Alipao, Matinao, Tapian, Mansayao, Binga, San Francisco, Cantugas and Mainit, respectively.
+
+ **Section 7.** The sitios of Cabongbongan, Cajuyao, Sabang, Punta Bilar, Nabago, Togbongo, Cagutsan, Balibayon, Orok, Cagniog, Mabuhay, Mabua, Alang-alang, Auora and Baybay in the Municipality of Surigao, Province of Surigao, are converted into barrios of said municipality to be known as the barrios of Cabongbongan, Cajuyao, Sabang, Punta Bilar, Nabago, Togbongan, Cagutsan, Balibayon, Orok, Cagniog, Mabuhay, Mabua Alang-alang, Aurora and Baybay, respectively.
+
+ **Section 8.** The sitios of Awasan Norte, Buanbuan, Cagbaoto, Unahan and Abaga in the Municipality of Tago, Province of Surigao, are converted into barrios of said municipality to be known as the barrios of Awasan Norte, Buanbuan, Cagbaoto, Unahan and San Roque, respectively.
+
+ **Section 9.** The sitios of Rosario Tabontabon, Sotil and Carmen in the Municipality of Tandag, Province of Surigao, are converted into barrios of said municipality to be known as the barrios of Rosario, Tabontabon, Sotil and Carmen, respectively.
+
+ **Section 10.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This law converts several sitios in the Province of Surigao into barrios, specifying the names of the new barrios for each municipality.	"[{""title"": ""Section 1."", ""summary"": ""Converts the sitios of Amontay, Macopa and Magtanghali in Anao-aon into barrios named Amontay, Macopa and Magtangali.""}, {""title"": ""Section 2."", ""summary"": ""Converts the sitios of Tawagan, Panaosawon, Cabogo, Unidad, Lactudan, Pagbahanan and Salimbabayog in Cagwait into barrios named Tawagan, Panaosawon, Cabogo, Unidad, Lactudan, Palhi, Pagbahanan and Bitaugan West.""}, {""title"": ""Section 3."", ""summary"": ""Converts the sitio of Cabawan in Dapa into the barrio of Cabawa.""}, {""title"": ""Section 4."", ""summary"": ""Converts the sitios of Tagbina, Port Lamon, Dugmanon, Sasa, Manambia, Biga-an, Maglambing and Talisay in Hintuan into barrios named accordingly.""}, {""title"": ""Section 5."", ""summary"": ""Converts the sitios of Bungan, Salvacion, Mandus and Sabang in Lingig into barrios named accordingly.""}, {""title"": ""Section 6."", ""summary"": ""Converts the sitios of San Pedro, Alipao, Matinao, Tapian, Mansayao, Binga, San Francisco, Cantugas and Mainit in Mainit into barrios named accordingly.""}, {""title"": ""Section 7."", ""summary"": ""Converts the sitios of Cabongbongan, Cajuyao, Sabang, Punta Bilar, Nabago, Togbongo, Cagutsan, Balibayon, Orok, Cagniog, Mabuhay, Mabua, Alang-alang, Auora and Baybay in Surigao into barrios named accordingly.""}, {""title"": ""Section 8."", ""summary"": ""Converts the sitios of Awasan Norte, Buanbuan, Cagbaoto, Unahan and Abaga in Tago into barrios named accordingly.""}, {""title"": ""Section 9."", ""summary"": ""Converts the sitios of Rosario Tabontabon, Sotil and Carmen in Tandag into barrios named accordingly.""}, {""title"": ""Section 10."", ""summary"": ""The Act takes effect upon approval.""}]"	2523	June 21, 1959			To convert specific sitios into barrios within the Province of Surigao, thereby formalizing local administrative units.	"[""Conversion of sitios of Anao-aon into barrios of Amontay, Macopa, Magtangali"", ""Conversion of sitios of Cagwait into barrios of Tawagan, Panaosawon, Cabogo, Unidad, Lactudan, Palhi, Pagbahanan, Bitaugan West"", ""Conversion of sitio of Cabawan in Dapa into barrio Cabawa"", ""Conversion of sitios of Hintuan into corresponding barrios"", ""Conversion of sitios of Lingig into corresponding barrios"", ""Conversion of sitios of Mainit into corresponding barrios"", ""Conversion of sitios of Surigao into corresponding barrios"", ""Conversion of sitios of Tago into corresponding barrios"", ""Conversion of sitios of Tandag into corresponding barrios"", ""Act takes effect upon approval""]"		"[""local government"", ""barangay"", ""Surigao"", ""Republic Act""]"	"[""barrios"", ""sitios"", ""conversion"", ""Province of Surigao"", ""Republic Act 2523""]"
+repacts:datasets/markdown/repacts/1959/ra_2524_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2524_1959.md	ra_2524_1959	An Act Converting the Sitio of Calbayog, Municipality of Malilipot, Province of Albay, into a Barrio of Said Municipality	"**REPUBLIC ACT No. 2524**
+
+ **An Act Converting the Sitio of Calbayog, Municipality of Malilipot, Province of Albay, into a Barrio of Said Municipality**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Calbayog, Municipality of Malilipot, Province of Albay, is converted into a barrio of said municipality to be known as the barrio of Calbayog.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act converts the sitio of Calbayog in the Municipality of Malilipot, Albay into a barrio named Calbayog, thereby changing its administrative status.	"[{""title"": ""Section 1."", ""summary"": ""The sitios of Calbayog, Municipality of Malilipot, Province of Albay, is converted into a barrio of said municipality to be known as the barrio of Calbayog.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2524	June 21, 1959			To convert the sitio of Calbayog into a barrio, thereby formalizing its administrative status within the municipality of Malilipot.	"[""The sitio of Calbayog is converted into the barrio of Calbayog."", ""The act takes effect upon approval.""]"		"[""local government"", ""administrative division"", ""Albay"", ""Malilipot"", ""Calbayog""]"	"[""Sitio"", ""Barrio"", ""Albay"", ""Malilipot"", ""Philippines"", ""Republic Act""]"
+repacts:datasets/markdown/repacts/1959/ra_2525_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2525_1959.md	ra_2525_1959	An Act Changing the Name of Cuasi Elementary School in the Barrio of Tontonan, Municipality of Loon, Province of Bohol, to Tontonan Elementary School	"**REPUBLIC ACT No. 2525**
+
+ **An Act Changing the Name of Cuasi Elementary School in the Barrio of Tontonan, Municipality of Loon, Province of Bohol, to Tontonan Elementary School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Cuasi Elementary School in the barrio of Tontonan, Municipality of Loon, Province of Bohol, is changed to Tontonan Elementary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act changes the name of Cuasi Elementary School to Tontonan Elementary School.	"[{""title"": ""Section 1"", ""summary"": ""The name of Cuasi Elementary School in the barrio of Tontonan, Municipality of Loon, Province of Bohol, is changed to Tontonan Elementary School.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	2525	June 21, 1959			Change the name of a public elementary school.	"[""Name of Cuasi Elementary School is changed to Tontonan Elementary School.""]"		"[""education"", ""school"", ""name change""]"	"[""Cuasi Elementary School"", ""Tontonan Elementary School"", ""Bohol"", ""Loon"", ""Republic Act""]"
+repacts:datasets/markdown/repacts/1959/ra_2526_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2526_1959.md	ra_2526_1959	An Act Changing the Name of the Municipality of Payabon, Province of Negros Oriental, to Municipality of Bindoy	"**REPUBLIC ACT No. 2526**
+
+ **An Act Changing the Name of the Municipality of Payabon, Province of Negros Oriental, to Municipality of Bindoy**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** In order to honor the memory of one of the greatest statement produced by the Province of Negros Oriental, the name of the Municipality of Payabon, Province of Negros Oriental, is changed to Municipality of Bindoy.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act changes the name of the Municipality of Payabon to Bindoy in the Province of Negros Oriental.	"[{""title"": ""Section 1."", ""summary"": ""The name of the Municipality of Payabon is changed to Municipality of Bindoy.""}, {""title"": ""Section 2."", ""summary"": ""This act shall take effect upon its approval.""}]"	2526	June 21, 1959			To rename the municipality of Payabon to Bindoy in honor of its historical significance.	"[""Section 1: Name change from Payabon to Bindoy."", ""Section 2: Effectivity upon approval.""]"		"[""Republic Act"", ""Municipality"", ""Name Change"", ""Negros Oriental""]"	"[""municipality"", ""Payabon"", ""Bindoy"", ""Negros Oriental"", ""name change""]"
+repacts:datasets/markdown/repacts/1959/ra_2527_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2527_1959.md	ra_2527_1959	An Act Converting the Sitio of Dunglayan in the Municipality of Santa Maria, Province of Ilocos Sur, into a Barrio to be Known as the Barrio of Dunglayan	"**REPUBLIC ACT No. 2527**
+
+ **An Act Converting the Sitio of Dunglayan in the Municipality of Santa Maria, Province of Ilocos Sur, into a Barrio to be Known as the Barrio of Dunglayan**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Dunglayan in the Municipality of Santa Maria, Province of Ilocos Sur, is converted into a barrio of said municipality to be known as the barrio of Dunglayan.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Act	The Republic Act converts the sitio of Dunglayan into a barrio within the municipality of Santa Maria, Ilocos Sur.	"[{""title"": ""Section 1."", ""summary"": ""The sitio of Dunglayan in the Municipality of Santa Maria, Province of Ilocos Sur, is converted into a barrio of said municipality to be known as the barrio of Dunglayan.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2527	June 21, 1959			To convert the sitio of Dunglayan into a barrio within Santa Maria, Ilocos Sur.	"[""Convert the sitio of Dunglayan into a barrio"", ""Act takes effect upon approval""]"		"[""Local Government"", ""Municipality"", ""Ilocos Sur"", ""Borough"", ""Sitio""]"	"[""Republic Act"", ""Borough"", ""Municipality"", ""Ilocos Sur"", ""Sitio"", ""Conversion""]"
+repacts:datasets/markdown/repacts/1959/ra_2528_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2528_1959.md	ra_2528_1959	An Act Creating Certain Barrios in the Municipality of Bani, Province of Pangasinan	"**REPUBLIC ACT No. 2528**
+
+ **An Act Creating Certain Barrios in the Municipality of Bani, Province of Pangasinan**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The following barrios in the Municipality of Bani, Province of Pangasinan, are created:
+
+ 1. Barrio of Tiep comprising the sitios of Tiep, Calabeng, Banlag, Colobo, East Macabit Norte, Marangles, Mutdit, Rongos Peas, Simmilya, and Ondoy; 2. Barrio of Loac comprising the sitios of Loac, Tagumbao, Apora, Pataga, Apalang, Lambes, Tambac Island and Gayaman; and 3. Barrio of Ranao comprising the sitios of Ranao, Bacari, Sinaburan, Sapa-Ongot, Caradikid, Malimpec, Puro-Olay, Puit-dalen, Lomboy-Bugtong, Pinariric and Sungay. **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act establishes three new barrios—Tiep, Loac, and Ranao—in the Municipality of Bani, Pangasinan, detailing the sitios that comprise each barrio and specifies that the act takes effect upon its approval.	"[{""title"": ""Section 1"", ""summary"": ""Defines the creation of the barrios of Tiep, Loac, and Ranao, listing the sitios that constitute each barrio.""}, {""title"": ""Section 2"", ""summary"": ""States that the act shall take effect upon its approval.""}]"	2528	June 21, 1959			To create and establish new barrios within the municipality of Bani, Pangasinan.	"[""Creation of Barrio Tiep with its sitios"", ""Creation of Barrio Loac with its sitios"", ""Creation of Barrio Ranao with its sitios"", ""Act takes effect upon approval""]"		"[""Republic Act"", ""Barrios"", ""Municipality of Bani"", ""Pangasinan"", ""1959""]"	"[""barrios"", ""Bani"", ""Pangasinan"", ""municipality"", ""creation"", ""sitios"", ""effective date""]"
+repacts:datasets/markdown/repacts/1959/ra_2529_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2529_1959.md	ra_2529_1959	An Act Changing the Name of the Pantal-Samat Primary School in the Barrio of Pantal-Samat, Municipality of Bugallon, Province of Pangasinan, to Magsaysay Primary School	"**REPUBLIC ACT No. 2529**
+
+ **An Act Changing the Name of the Pantal-Samat Primary School in the Barrio of Pantal-Samat, Municipality of Bugallon, Province of Pangasinan, to Magsaysay Primary School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Pantal-Samat Primary School in the barrio of Pantal-Samat, Municipality of Bugallon, Province of Pangasinan, is changed to Magsaysay Primary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act changes the name of the Pantal-Samat Primary School in Bugallon, Pangasinan from Pantal-Samat Primary School to Magsaysay Primary School.	"[{""title"": ""Section 1."", ""summary"": ""Changes the name of the Pantal-Samat Primary School to Magsaysay Primary School.""}, {""title"": ""Section 2."", ""summary"": ""The act takes effect upon approval.""}]"	2529	June 21, 1959			To change the name of the Pantal-Samat Primary School to Magsaysay Primary School.	"[""Name change of the primary school"", ""Act takes effect upon approval""]"		"[""education"", ""school"", ""name change"", ""Republic Act""]"	"[""Pantal-Samat"", ""Bugallon"", ""Pangasinan"", ""Magsaysay"", ""primary school"", ""name change""]"
+repacts:datasets/markdown/repacts/1959/ra_2530_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2530_1959.md	ra_2530_1959	An Act Changing the Name of the Irosin High School in the Municipality of Irosin, Province of Sorsogon, to Gallanosa High School	"**REPUBLIC ACT No. 2530**
+
+ **An Act Changing the Name of the Irosin High School in the Municipality of Irosin, Province of Sorsogon, to Gallanosa High School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Irosin High School in the Municipality of Irosin Province of Sorsogon, is hereby changed to Gallanosa High School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act changes the name of Irosin High School to Gallanosa High School.	"[{""title"": ""Section 1."", ""summary"": ""The name of the Irosin High School in the Municipality of Irosin Province of Sorsogon, is hereby changed to Gallanosa High School.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2530	June 21, 1959			To modify the name of Irosin High School to Gallanosa High School.	"[""Name of Irosin High School changed to Gallanosa High School."", ""Act takes effect upon approval.""]"		"[""Education"", ""School Renaming""]"	"[""Irosin"", ""Sorsogon"", ""High School"", ""Renaming"", ""Gallanosa""]"
+repacts:datasets/markdown/repacts/1959/ra_2531_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2531_1959.md	ra_2531_1959	An Act Changing the Name of Barrio Boho in the Municipality of Casiguran, Province of Sorsogon, to San Antonio	"**REPUBLIC ACT No. 2531**
+
+ **An Act Changing the Name of Barrio Boho in the Municipality of Casiguran, Province of Sorsogon, to San Antonio**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Barrio Boho in the Municipality of Casiguran, Province of Sorsogon, is hereby changed to San Antonio.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	The act changes the name of Barrio Boho to San Antonio, effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The name of Barrio Boho in the Municipality of Casiguran, Province of Sorsogon, is hereby changed to San Antonio.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	RA 2531	June 21, 1959			To change the name of Barrio Boho to San Antonio.	"[""The name of Barrio Boho is changed to San Antonio."", ""The act takes effect upon approval.""]"		"[""local government"", ""name change""]"	"[""Barrio Boho"", ""San Antonio"", ""Sorsogon"", ""Casiguran"", ""name change""]"
+repacts:datasets/markdown/repacts/1959/ra_2532_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2532_1959.md	ra_2532_1959	An Act Creating the Barrio of Magsaysay in the Municipality of Magallanes, Province of Sorsogon	"**REPUBLIC ACT No. 2532**
+
+ **An Act Creating the Barrio of Magsaysay in the Municipality of Magallanes, Province of Sorsogon**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Tamboleled in the Municipality of Magallanes, Province of Sorsogon, is converted into a barrio of said municipality to be known as the barrio of Magsaysay.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	Creates the barrio of Magsaysay in Magallanes, Sorsogon by converting the sitio of Tamboleled into a barrio.	"[{""title"": ""Section 1"", ""summary"": ""Converts the sitio of Tamboleled into the barrio of Magsaysay.""}, {""title"": ""Section 2"", ""summary"": ""The act takes effect upon approval.""}]"	RA 2532	June 21, 1959			To create the barrio of Magsaysay in the Municipality of Magallanes, Sorsogon.	"[""Conversion of the sitio of Tamboleled into a barrio named Magsaysay."", ""Act takes effect upon approval.""]"		"[""Local Government"", ""Barangay"", ""Sorsogon""]"	"[""barrio"", ""Magsaysay"", ""Magallanes"", ""Sorsogon"", ""Republic Act"", ""local governance""]"
+repacts:datasets/markdown/repacts/1959/ra_2533_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2533_1959.md	ra_2533_1959	An Act to Change the Name of the Mabini Primary School in the Municipality of Valladolid, Province of Negros Occidental, to Emilio Infante Primary School	"**REPUBLIC ACT No. 2533**
+
+ **An Act to Change the Name of the Mabini Primary School in the Municipality of Valladolid, Province of Negros Occidental, to Emilio Infante Primary School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Mabini Primary School in the Municipality of Valladoid, Province of Negros Occidental, is hereby changed to Emilio Infante Primary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This Act changes the name of the Mabini Primary School to Emilio Infante Primary School in Valladolid, Negros Occidental, Philippines.	"[{""title"": ""Section 1"", ""summary"": ""The name of the Mabini Primary School in the Municipality of Valladolid, Province of Negros Occidental, is hereby changed to Emilio Infante Primary School.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	2533	June 21, 1959			To change the name of Mabini Primary School to Emilio Infante Primary School.	"[""The name of the Mabini Primary School is changed to Emilio Infante Primary School.""]"		"[""Education"", ""School"", ""Name Change"", ""Negros Occidental""]"	"[""Mabini Primary School"", ""Emilio Infante Primary School"", ""Valladolid"", ""Negros Occidental"", ""School Name Change""]"
+repacts:datasets/markdown/repacts/1959/ra_2534_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2534_1959.md	ra_2534_1959	An Act Creating the Barrio of Tagpupungan in the Municipality of Babak, Province of Davao	"**REPUBLIC ACT No. 2534**
+
+ **An Act Creating the Barrio of Tagpupungan in the Municipality of Babak, Province of Davao**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Tagpupungan in the Municipality of Babak, Province of Davao, is converted into a distinct and independent barrio of said municipality to be known as the barrio of Tagpupungan.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	Creates the barrio of Tagpupungan in Babak, Davao.	"[{""title"": ""Section 1"", ""summary"": ""Converts the sitio of Tagpupungan into a distinct and independent barrio of the Municipality of Babak.""}, {""title"": ""Section 2"", ""summary"": ""Specifies that the Act shall take effect upon its approval.""}]"	2534	June 21, 1959			To establish the barrio of Tagpupungan within the Municipality of Babak, Davao.	"[""Conversion of the sitio of Tagpupungan into a barrio"", ""Effectivity of the Act upon approval""]"		"[""Local Government"", ""Barangay"", ""Municipality"", ""Davao""]"	"[""Tagpupungan"", ""Babak"", ""Davao"", ""barrio"", ""sitio"", ""Republic Act 2534""]"
+repacts:datasets/markdown/repacts/1959/ra_2535_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2535_1959.md	ra_2535_1959	An Act Changing the Name of Buayan Elementary School in the Municipality of General P. Santos, Province of Cotabato, to Lagao Elementary School	"**REPUBLIC ACT No. 2535**
+
+ **An Act Changing the Name of Buayan Elementary School in the Municipality of General P. Santos, Province of Cotabato, to Lagao Elementary School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Buayan Elementary School in the Municipality of General P. Santos, Province of Cotabato, is changed to Lagao Elementary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	An act that changes the name of Buayan Elementary School to Lagao Elementary School.	"[{""title"": ""Section 1"", ""summary"": ""The name of Buayan Elementary School in the Municipality of General P. Santos, Province of Cotabato, is changed to Lagao Elementary School.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	2535	June 21, 1959				"[""The name of Buayan Elementary School is changed to Lagao Elementary School.""]"		"[""Education"", ""School Name Change"", ""Republic Act"", ""Cotabato""]"	"[""Buayan Elementary School"", ""Lagao Elementary School"", ""General P. Santos"", ""Cotabato"", ""School Name Change"", ""Republic Act 2535""]"
+repacts:datasets/markdown/repacts/1959/ra_2536_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2536_1959.md	ra_2536_1959	An Act Changing the Name of Fraternidad Street, District of Pandacan, City of Manila, to Teodora San Luis Street	"**REPUBLIC ACT No. 2536**
+
+ **An Act Changing the Name of Fraternidad Street, District of Pandacan, City of Manila, to Teodora San Luis Street**

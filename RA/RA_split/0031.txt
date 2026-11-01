@@ -1,0 +1,134 @@
+
+ **Section 11.** In order to carry out the purposes of this Act, the Judge Advocate General or his duly authorized representative is hereby empowered to administer oaths and summon witnesses to require them to appear and testify upon oath before him.
+
+ **Section 12.** The monies to which the legal heirs of the deceased may be entitled to receive shall be exempt from execution and taxation.
+
+ **Section 13.** All documents which the Judge Advocate General or his representative may require from the legal heirs of the deceased in order to prove their claim to said monies are hereby exempt from the documentary stamp tax.
+
+ **Section 14.** No attorney, agent, or other person charged with the preparation, filing, or prosecution, settlement, or payment of any claim for monies under this Act shall demand or charge for his services fees amounting to more than five per centum of the total of such monies, and said fees shall become due and demandable only after said monies are paid to the persons entitled thereto. The retention or deduction of any amount from such monies for the payment of fees for such services is prohibited. A violation of any provision of this section shall upon conviction be punished by imprisonment of from six months to one year, or by a fine of from six hundred to one thousand pesos, or by both such imprisonment and fine.
+
+ **Section 15.** In order to carry out the provisions of this Act, the amount of not exceeding one hundred fifty thousand pesos is set aside yearly out of any funds from the National Treasury not otherwise appropriated, to be released as the President may authorize, upon the recommendation of the Judge Advocate General of the Philippine Army.
+
+ **Section 16.** All acts or parts of acts inconsistent herewith are, for the purposes of this Act, hereby repealed.
+
+ **Section 17.** This Act shall take effect upon its approval.
+
+ Approved: June 14, 1947.
+"	success	Republic Act	Provides immediate payment of dues owed to deceased Filipino military personnel and civilians affiliated with U.S. and Philippine forces, directing administration by the Judge Advocate General of the Philippine Army.	"[{""title"": ""Section 1."", ""summary"": ""Defines the monies due to deceased Filipinos in U.S. and Philippine armed forces and civilian employees, and establishes the Judge Advocate General as the administrator.""}, {""title"": ""Section 2."", ""summary"": ""Designates provincial and city fiscals, except those of Manila, and justices of the peace as ex\u2011officio representatives of the Judge Advocate General for assistance.""}, {""title"": ""Section 3."", ""summary"": ""Mandates the Judge Advocate General to ascertain heirs and distribute monies, with specific provisions on usufructuary rights and reservation obligations.""}, {""title"": ""Section 4."", ""summary"": ""Establishes a presumption of death after twelve months of last contact, with provisions for appointing representatives and bond requirements.""}, {""title"": ""Section 5."", ""summary"": ""Specifies distribution of monies to non\u2011citizens domiciled in the Philippines under Civil Code succession rules.""}, {""title"": ""Section 6."", ""summary"": ""Allows the Judge Advocate General to determine the status of acknowledged natural children or parents in accordance with the Civil Code.""}, {""title"": ""Section 7."", ""summary"": ""Empowers the Judge Advocate General to appoint guardians for minor or incompetent heirs, with preference for widows or eldest children.""}]"	136				To ensure the prompt payment of owed sums to deceased Filipinos who served in U.S. and Philippine military or civilian capacities, by establishing administrative procedures and succession rules.	"[""Immediate payment of monies due to deceased Filipino military and civilian personnel"", ""Administration of payments by the Judge Advocate General of the Philippine Army"", ""Designation of provincial and city fiscals and justices of the peace as ex\u2011officio representatives"", ""Presumption of death after twelve months of last contact"", ""Distribution of funds in accordance with Civil Code succession rules"", ""Authority to determine status of acknowledged natural children or parents"", ""Appointment of guardians for minor or incompetent heirs""]"		"[""Republic Act"", ""Military"", ""Civil Code"", ""Succession""]"	"[""deceased"", ""monies"", ""Judge Advocate General"", ""succession"", ""Civil Code"", ""guerrilla"", ""U.S. Army"", ""U.S. Navy"", ""Philippine Army""]"
+repacts:datasets/markdown/repacts/1947/ra_137_1947.md	repacts	1947		datasets/markdown/repacts/1947/ra_137_1947.md	ra_137_1947	AN ACT TO PROHIBIT COCKFIGHTING, HORSE RACING AND JAI-ALAI GAMES ON THE FOURTH OF JULY OF EACH YEAR	"**REPUBLIC ACT No. 137 June 14, 1947**
+
+ **AN ACT TO PROHIBIT COCKFIGHTING, HORSE RACING AND JAI-ALAI GAMES ON THE FOURTH OF JULY OF EACH YEAR**
+
+ **Section 1.** Any provision of the existing law to the contrary notwithstanding, cockfighting, horse racing and jai-alai games are hereby prohibited on the fourth day of July of each year, the birthday of the Republic of the Philippines.
+
+ **Section 2.** Any person who shall violate the provisions of this Act, or permit or allow the violation thereof, shall be punished by a fine not exceeding two hundred pesos or by imprisonment not exceeding six months, or both, at the discretion of the court. In the case of partnerships, corporations, or associations, the criminal liability shall devolve upon the president, director, or any other official responsible for the violation.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 14, 1947
+"	success	Law	This act prohibits cockfighting, horse racing, and jai-alai games on July 4, the birthday of the Republic of the Philippines, and prescribes penalties for violators.	"[{""title"": ""Section 1"", ""summary"": ""Prohibits cockfighting, horse racing, and jai-alai games on July 4 each year, the Republic's birthday.""}, {""title"": ""Section 2"", ""summary"": ""Imposes fines up to 200 pesos or imprisonment up to six months for violators, and holds corporate officials liable.""}, {""title"": ""Section 3"", ""summary"": ""The act takes effect upon its approval.""}]"	137	June 14, 1947			To prohibit cockfighting, horse racing, and jai-alai games on the Republic’s birthday and to impose penalties for violations.	"[""Prohibition of cockfighting, horse racing, and jai-alai games on July 4"", ""Penalties of up to 200 pesos fine or six months imprisonment"", ""Corporate liability for violations"", ""Effectivity upon approval""]"		"[""Prohibition"", ""Sports"", ""Public Safety"", ""July 4""]"	"[""cockfighting"", ""horse racing"", ""jai-alai"", ""penalty"", ""fine"", ""imprisonment"", ""July 4"", ""Republic of the Philippines""]"
+repacts:datasets/markdown/repacts/1947/ra_138_1947.md	repacts	1947		datasets/markdown/repacts/1947/ra_138_1947.md	ra_138_1947	AN ACT TO DEFINE THE PAY STATUS OF PERSONNEL IN THE ARMED FORCES OF THE PHILIPPINES AND FOR OTHER PURPOSES	"**REPUBLIC ACT No. 138 June 14, 1947**
+
+ **AN ACT TO DEFINE THE PAY STATUS OF PERSONNEL IN THE ARMED FORCES OF THE PHILIPPINES AND FOR OTHER PURPOSES**
+
+ **ARTICLE I**
+
+ **Definition of Terms**
+
+ **Section 1.** For the purposes of this Act. -
+
+ (a) ""Pay"" includes base pay and all additional pay for length of service or type of duty such as longevity pay and flying pay. (b) ""Allowance"" includes quarters, subsistence, travel and such other allowances as may by law become payable to Army personnel. (c) ""Officers"" refers to commissioned officers and Army nurses only. (d) ""Army"" includes all military personnel or persons in the active service of the armed forces of the Philippines. **ARTICLE II**
+
+ **Pay Status in General**
+
+ **Section 2.** The pay and allowances of military personnel are prescribed by law and as long as a person is in the active military service of the Philippines he is entitled to receive pay and allowances corresponding to his rank or grade, unless said pay and allowances have not accrued or have been forfeited under this Act or any other provision of law.
+
+ **Section 3.** The Army shall be paid in such manner that the arrears shall at no time exceed two months, unless circumstances shall make further arrears unavoidable.
+
+ **Section 4.** Separation of any person from the active service cannot be effected for purposes of pay and allowances, before the date on which the individual receives or become legally chargeable with notice of his separation from the active service, whether by resignation, discharge, reversion to inactive status, retirement or dismissal: *Provided*, That the date on which a person is to be legally chargeable with notice of his separation shall be determined in accordance with pertinent Army regulations.
+
+ **ARTICLE III**
+
+ **Military Personnel Missing; Missing in Action; Interned in a Neutral Country; Captured or Besieged by Enemy Forces**
+
+ **Section 5.** Any person who is in the active service and who is officially reported as missing, missing in action, interned in a neutral country, or captured by an enemy, shall, while so absent, be entitled to receive or to have credited to his account the same pay and allowances to which such person was entitled at the time of the beginning of the absence or may become entitled to thereafter: *Provided*, That such person shall not have been officially reported as having been absent from his post of duty without authority: *Provided*, *further*, That expiration of the agreed terms of service during the period of such absence shall not operate to terminate the right to receive such pay and allowances: *Provided*, *further*, That should proper authority subsequently determine that the person concerned has been absent from his post of duty without authority, such person shall be indebted to the Government in the amount for which payments have been made or pay and allowances credited to his account in accordance with the provisions of this Act during such absence.
+
+ **Section 6.** In case any person is entitled under section five of this Act to receive pay and allowances, the Secretary of National Defense or such persons as he may designate, may direct that so much of the absent person's pay and allowances necessary for the reasonable support of his dependents and/or payment of insurance premiums, shall be paid by the appropriate disbursing officer for a period of twelve months from the date of commencement of absence: *Provided*, That any premiums paid by the Government subsequent to the declared date of death and unearned on insurance issued on the life of a person shall revert to the appropriations of the Philippine Army.
+
+ **Section 7.** When the twelve month's period from the commencement of absence is about to expire in any case of a person missing or missing in action and no official report of death or of being interned has been received, the Chief of Staff is authorized to direct the continuance of the person's missing status, if the person may be reasonably presumed to be living, or to make a finding of death. In the event a continuance of the missing person's status is directed, the Chief of Staff shall order a review of the case whenever warranted by information received or other circumstances. When a finding of death is made, it shall include the date upon which death shall be presumed to have occurred for the purpose of termination of crediting pay and allowances, settlement of accounts, and payment of death gratuities and other benefits arising by reason of death. Such date shall be the day following the date of expiration of an absence of twelve months, or in cases in which the missing status shall have been continued as authorized herein, a day to be determined by the Chief of Staff.
+
+ **Section 8.** When the circumstances surrounding the absence of a missing person of one of the classes mentioned in section five of this Act justifies such action, the Chief of Staff, or such persons as he may designate, may direct the continuance, suspension, or resumption or payments of the pay and allowance of such person. Except as provided in section seven of this Act, payment of insurance premiums or amounts necessary for the support of dependents shall not continue beyond the twelve months' period following the officially reported date of commencement of absence.
+
+ **Section 9.** Within the scope of the authority granted by this Act, the determination by the Chief of Staff or by such persons as he may designate, of the status of a person in the armed forces of the Philippines or of the fact of dependency under the provisions of this Act, or his direction relative to continuance, temporary suspension, or resumption of payment of pay and allowances, or finding of death, shall be conclusive.
+
+ **ARTICLE IV**
+
+ **Unauthorized Absence as Affecting Pay and Allowances**
+
+ **Section 10.** Neither pay nor allowances accrue to any person in the military service during unauthorized absence, unless excused as unavoidable.
+
+ **Section 11.** For purposes of entitlement to pay and allowances, the question whether absence from duty of any person in the military service is authorized or not and, if not, whether it is absence without leave or in desertion, is determined administratively. In the absence of court-martial finding thereon, it is sufficient to justify the withholding of pay and allowances that the fact of an unauthorized absence appears upon the morning report of the company, battery, troop or squadron, as the case may be.
+
+ **Section 12.** The computation of unauthorized absence for purposes of withholding pay and allowances shall be in accordance with such rules and regulations as the Chief of Staff shall promulgate with the approval of the Secretary of National Defense.
+
+ **ARTICLE V**
+
+ **Military Personnel Absent Due to Diseases Arising from Misconduct**
+
+ **Section 13.** No person in the military service who shall be absent from his regular duties on account of the effects of a disease, as distinguished from injury, which is directly attributed to and immediately follows his own intemperate use of alcoholic liquor or habit-forming drugs shall, except as hereinafter provided be entitled to any pay and allowances, for the period of such absence.
+
+ **Section 14.** No person in the military service who shall be absent from his regular duties on account of the direct effects of a venereal disease due to his own misconduct, shall, except as hereinafter provided, be entitled to any pay and allowances, for the period of such absence: *Provided*, That such absence is within a period of one year following the appearance of the initial symptoms of such venereal disease and regardless of whether the appearance of the initial symptoms occurs prior or subsequent to the date of entry into the service.
+
+ **Section 15.** Each person whose pay and allowances are forfeited for a period in excess of one month at any one time pursuant to the provisions of sections thirteen or fourteen of this Act shall be paid the sum of five pesos for each full month during which his pay is so forfeited.
+
+ **Section 16.** For all purposes within the scope of Article V of this Act, the period of absence and the cause thereof shall be determined under such procedure and regulations as may be prescribed by the Chief of Staff and such determination shall be final and conclusive.
+
+ **ARTICLE VI**
+
+ **Personnel Awaiting Trial by Courts-Martial or Detained by Civil Authorities**
+
+ **Section 17.** An officer awaiting trial by court-martial or the final result thereof is entitled to receive full pay and allowances for the period during which his case is pending, unless he is suspended from office by the President: *Provided*, That an officer suspended by the President shall continue to receive pay and allowances of the President shall so direct in the order of suspension.
+
+ **Section 18.** An enlisted man awaiting trial by court-martial or the result thereof is not entitled to receive pay and allowances, until the result of the trial is known, unless the Chief of Staff shall direct continuance of pay.
+
+ **Section 19.** Pay and allowances of an enlisted man who has been in desertion or absent without leave and who surrenders or is apprehended after the expiration of his term of enlistment, will not again accrue until he shall have been restored to a duty status.
+
+ **Section 20.** Pay and allowances of an enlisted man whose term of enlistment expires while he is in confinement awaiting trial or serving sentence, terminates on date of the expiration of his term of service, and will not again accrue until he shall have been restored to a duty status.
+
+ **Section 21.** Officers and enlisted men in arrest and confinement by the civil authorities, or temporarily released on bail, or convicted by the civil courts and released under bond pending final determination of an appeal to a higher court, will receive no pay and allowances for the time of such absence. If unconditionally released without trial, or after trial and acquittal, their right to pay and allowances for the period of such absence is restored.
+
+ **Section 22.** An officer or enlisted man discharged or released from active service while in the hands of civil authorities awaiting trial, will be paid only to the date of his arrest and will not be paid travel pay: *Provided*, That if the officer or enlisted man is acquitted, he is entitled to pay and allowances to date of discharge or relief from active duty.
+
+ **Section 23.** Notwithstanding section twenty-one of this Act, an officer on authorized leave or an enlisted man on furlough, who is arrested by civil authorities and convicted, is entitled to pay until the date of expiration of his leave or furlough, respectively.
+
+ **Section 24.** This Act shall take effect upon its approval.
+
+ Approved: June 14, 1947
+"	success	Act	Republic Act No. 138 defines the pay status, allowances, and procedures for personnel in the Philippine Armed Forces, including provisions for missing, missing in action, and unauthorized absence cases, and establishes the authority of the Chief of Staff in determining pay continuance.	"[{""title"": ""Article I. Definition of Terms"", ""summary"": ""Establishes the definitions of key terms such as Pay, Allowance, Officers, and Army for the purposes of the Act.""}, {""title"": ""Article II. Pay Status in General"", ""summary"": ""Specifies that military personnel are entitled to pay and allowances corresponding to their rank or grade while in active service, limits arrears to two months, and outlines separation provisions.""}, {""title"": ""Article III. Military Personnel Missing; Missing in Action; Interned in a Neutral Country; Captured or Besieged by Enemy Forces"", ""summary"": ""Provides that missing or MIA personnel are entitled to full pay and allowances during absence, sets a twelve\u2011month period for continued support, and grants the Chief of Staff authority to continue, suspend, or resume payments.""}, {""title"": ""Article IV. Unauthorized Absence as Affecting Pay and Allowances"", ""summary"": ""Declares that no pay or allowances accrue during unauthorized absence unless excused as unavoidable.""}]"	Republic Act No. 138	June 14, 1947			To define the pay status and allowances of personnel in the Armed Forces of the Philippines and establish procedures for missing, MIA, and unauthorized absence cases.	"[""Defines Pay and Allowance terms"", ""Prescribes pay and allowances for active service"", ""Limits arrears to two months"", ""Provides for pay during missing/MIA status"", ""Sets twelve\u2011month period for continued support"", ""Empowers Chief of Staff to continue or suspend payments"", ""No pay during unauthorized absence unless excused""]"		"[""Armed Forces"", ""Military Pay"", ""Personnel"", ""Missing in Action"", ""Unauthorized Absence""]"	"[""pay"", ""allowance"", ""missing in action"", ""armed forces"", ""pay status"", ""personnel"", ""RA 138"", ""1947""]"
+repacts:datasets/markdown/repacts/1947/ra_139_1947.md	repacts	1947		datasets/markdown/repacts/1947/ra_139_1947.md	ra_139_1947	An Act to Amend Certain Sections of Act Numbered Twenty-Nine Hundred and Fifty-Seven, Entitled An Act Creating a Board to Have Charge of the Selection and Approval of the Textbooks to be Used by the Colleges and Schools of the Government, and for Other Purposes, as Amended by Act Numbered Thirty-One Hundred and Eighty-Five, Thirty-Four Hundred and Two, and Thirty-Seven Hundred and Seventy-Two	"**REPUBLIC ACT No. 139**
+
+ **An Act to Amend Certain Sections of Act Numbered Twenty-Nine Hundred and Fifty-Seven, Entitled An Act Creating a Board to Have Charge of the Selection and Approval of the Textbooks to be Used by the Colleges and Schools of the Government, and for Other Purposes, as Amended by Act Numbered Thirty-One Hundred and Eighty-Five, Thirty-Four Hundred and Two, and Thirty-Seven Hundred and Seventy-Two**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section one of Act Numbered Twenty-nine hundred and fifty-seven, as amended by Acts Numbered Thirty-one hundred and eighty-five, Thirty-four hundred and two, and Thirty-seven hundred and seventy-two, is further amended to read as follows:
+
+ > Sec. 1. A board is hereby created which shall be known as the Board on Textbooks and shall have charge of the selection and approval of textbooks to be used in the public schools. The textbooks selected and approved shall be used for a period of at least six years from the date of their adoption.
+>
+>  The textbooks to be used in the private schools recognized or authorized by the Government shall be submitted to the Board which shall have the power to prohibit the use of any of said textbooks which it may find to be against the law or to offend the dignity and honor of the Government and people of the Philippines, or which it may find to be against the general policies of the Government, or which it may deem pedagogically unsuitable.
+>
+>  Decisions of the Board on Textbooks shall be subject to the approval of the Secretary of Instruction upon the recommendation of the National Council of Education.
+
+ **Section 2.** Section two of Act Numbered Twenty-nine hundred and fifty-seven, as amended by Act Numbered Thirty-seven hundred and seventy-two, is hereby further amended to read as follows:
+
+ > Sec. 2. The Board of Textbooks shall be composed of five members to be appointed by the President of the Philippines with the consent of the Commissioner of Appointments. The members of the Board shall hold office for a period of six years, and shall serve without compensation. In making the appointment of the first Board, one member shall be appointed for a period of two years, two members for a period of four years, and two members for a period of six years. Every two years the Board shall select a Chairman from among its members.
+
+ All members of said Board shall be citizens of the Philippines.
+
+ It shall be unlawful for the Board to consider for adoption or to adopt any treatise, textbook, or manuscript in whose authorship, editorship, or preparation a member of the Board may have direct or indirect interest: Provided, That this prohibition shall not apply to the deliberation of the Board to consider for adoption or to adopt any treatise, textbook, or manuscript written by any member thereof during the period of his incumbency, who shall not participate in said deliberation: Provided, Further, That said treatise, textbook, or manuscript shall be turned over to the Government which may undertake the printing and distribution thereof. It shall likewise be unlawful for any member of the Board, during the period of his incumbency, to own, directly or indirectly, any interest whatsoever in any firm, partnership, or corporation publishing or dealing in school textbooks.
+
+ **Section 3.** Section four of Act Numbered Twenty-nine hundred and fifty-seven is hereby amended to read as follows:
+
+ > Sec. 4. For administrative purposes, the Board on Textbooks created by this Act shall be directly under the Secretary of Instruction. The Chairman of the Board shall have authority, with the approval of the Department Head, to obtain the technical assistance of officers and employees of any department, bureau or office of the Government which may be considered necessary for the proper performance of its duties. The Board shall, likewise, have a permanent secretary with compensation at the rate of four thousand eight hundred pesos per annum, and such additional employees as may be necessary.
+
+ **Section 4.** For the purposes of carrying out the provisions of this Act, including the purchase of the necessary equipment and supplies, there is hereby appropriated out of any funds in the National Treasury not otherwise appropriated, the sum of ten thousand pesos for the current fiscal year. Thereafter, a like amount shall be included in the annual General Appropriation Act to meet the expenses herein authorized for the succeeding years.

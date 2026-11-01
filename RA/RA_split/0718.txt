@@ -1,0 +1,159 @@
+repacts:datasets/markdown/repacts/1961/ra_3158_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3158_1961.md	ra_3158_1961	An Act Providing for the Establishment of a Maternity and Childrens Hospital in the Municipality of Romblon, Province of Romblon, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 3158**
+
+ **An Act Providing for the Establishment of a Maternity and Childrens Hospital in the Municipality of Romblon, Province of Romblon, and Authorizing the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established under the direct supervision of the Director of Medical Services, a maternity and childrens hospital in the Municipality of Romblon, Province of Romblon, to be known as the Romblon Maternity and Childrens Hospital.
+
+ **Section 2.** The Secretary of Health shall promulgate such rules and regulations as may be necessary to carry into effect the provisions of this Act.
+
+ **Section 3.** The sum of fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, maintenance and operation of said hospital for the fiscal year ending June thirty nineteen hundred sixty-two. Thereafter, the same amount for the maintenance, operation and improvement of said hospital shall be included in the annual General Appropriation Acts.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1961.
+"	success	Republic Act	Establishes the Romblon Maternity and Children's Hospital and authorizes the appropriation of funds for its establishment, maintenance, and operation.	"[{""title"": ""Section 1."", ""summary"": ""Establishes a maternity and childrens hospital in Romblon under the supervision of the Director of Medical Services.""}, {""title"": ""Section 2."", ""summary"": ""Mandates the Secretary of Health to promulgate necessary rules and regulations to implement the Act.""}, {""title"": ""Section 3."", ""summary"": ""Authorizes the appropriation of fifty thousand pesos for the hospital's establishment, maintenance, and operation for FY 1962, and its inclusion in future General Appropriation Acts.""}, {""title"": ""Section 4."", ""summary"": ""The Act takes effect upon approval.""}]"	3158	1961-06-17			To create a maternity and childrens hospital in Romblon and ensure funding for its operation.	"[""Establishment of Romblon Maternity and Children's Hospital"", ""Authorization of fifty thousand pesos for establishment, maintenance and operation"", ""Mandate for the Secretary of Health to promulgate rules"", ""Act takes effect upon approval""]"		"[""Health"", ""Hospital"", ""Maternity"", ""Romblon"", ""Philippines""]"	"[""Maternity"", ""Children's Hospital"", ""Romblon"", ""Health"", ""Appropriation""]"
+repacts:datasets/markdown/repacts/1961/ra_3159_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3159_1961.md	ra_3159_1961	An Act Providing for the Establishment of an Emergency Hospital in the Municipality of San Miguel, Province of Bulacan, to be Known as the San Miguel Emergency Hospital	"**REPUBLIC ACT No. 3159**
+
+ **An Act Providing for the Establishment of an Emergency Hospital in the Municipality of San Miguel, Province of Bulacan, to be Known as the San Miguel Emergency Hospital**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the direct supervision of the Director of Medical Services, an emergency hospital in the Municipality of San Miguel, Province of Bulacan, to be known as the San Miguel Emergency Hospital.
+
+ **Section 2.** The Secretary of Health shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The operation and maintenance of this hospital shall be governed by the provisions of Republic Act Numbered Nineteen hundred thirty-nine, otherwise known as the Hospital Financing Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1961.
+"	success	Republic Act	Establishes an emergency hospital in San Miguel, Bulacan, supervised by the Director of Medical Services, with rules issued by the Secretary of Health and governed by Republic Act 1939.	"[{""title"": ""Section 1"", ""summary"": ""Establishment of the San Miguel Emergency Hospital under the supervision of the Director of Medical Services.""}, {""title"": ""Section 2"", ""summary"": ""The Secretary of Health shall issue necessary rules and regulations to implement this Act.""}, {""title"": ""Section 3"", ""summary"": ""The operation and maintenance of the hospital shall be governed by Republic Act 1939 (Hospital Financing Act).""}, {""title"": ""Section 4"", ""summary"": ""This Act shall take effect upon its approval.""}]"	3159	June 17, 1961			To provide an emergency hospital in San Miguel, Bulacan, enhancing local healthcare services.	"[""Establishment of the San Miguel Emergency Hospital (Sec 1)"", ""Issuance of rules by the Secretary of Health (Sec 2)"", ""Governance under Republic Act 1939 (Sec 3)"", ""Effectiveness upon approval (Sec 4)""]"	Republic Act 1939 (Hospital Financing Act)	"[""Health"", ""Hospital"", ""Emergency"", ""Bulacan""]"	"[""Emergency Hospital"", ""San Miguel"", ""Bulacan"", ""Healthcare"", ""RA 3159""]"
+repacts:datasets/markdown/repacts/1961/ra_3160_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3160_1961.md	ra_3160_1961	An Act Providing for the Establishment of an Emergency Hospital in the Municipality of Kapangan, Mountain Province	"**REPUBLIC ACT No. 3160**
+
+ **An Act Providing for the Establishment of an Emergency Hospital in the Municipality of Kapangan, Mountain Province**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the direct supervision of the Director of Medical Services, an emergency hospital in the Municipality of Kapangan, Mountain Province, to be known as the Kapangan Emergency Hospital.
+
+ **Section 2.** The Secretary of Health shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The operation and maintenance of this hospital shall be governed by the provisions of Republic Act Numbered Nineteen hundred thirty-nine, otherwise known as the Hospital Financing Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1961.
+"	success	Republic Act	The act establishes an emergency hospital in Kapangan, Mountain Province, and outlines its governance and regulatory framework.	"[{""title"": ""Section 1."", ""summary"": ""There shall be established, under the direct supervision of the Director of Medical Services, an emergency hospital in the Municipality of Kapangan, Mountain Province, to be known as the Kapangan Emergency Hospital.""}, {""title"": ""Section 2."", ""summary"": ""The Secretary of Health shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.""}, {""title"": ""Section 3."", ""summary"": ""The operation and maintenance of this hospital shall be governed by the provisions of Republic Act Numbered Nineteen hundred thirty-nine, otherwise known as the Hospital Financing Act.""}, {""title"": ""Section 4."", ""summary"": ""This Act shall take effect upon its approval.""}]"	3160	June 17, 1961			To establish an emergency hospital in Kapangan, Mountain Province, ensuring medical services are available under the supervision of the Director of Medical Services and governed by existing health legislation.	"[""Establishment of the Kapangan Emergency Hospital"", ""Issuance of rules and regulations by the Secretary of Health"", ""Governance under Republic Act 1939"", ""Effective upon approval""]"	Republic Act Numbered Nineteen hundred thirty-nine (Hospital Financing Act)	"[""Healthcare"", ""Hospital"", ""Emergency"", ""Mountain Province""]"	"[""Kapangan"", ""Mountain Province"", ""Emergency Hospital"", ""Health Services"", ""RA 3160""]"
+repacts:datasets/markdown/repacts/1961/ra_3161_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3161_1961.md	ra_3161_1961	An Act Converting the Pagalungan Health Center in the Municipality of Pagalungan, Province of Cotabato, into an Emergency Hospital, to be Known as the Pagalungan Emergency Hospital	"**REPUBLIC ACT No. 3161**
+
+ **An Act Converting the Pagalungan Health Center in the Municipality of Pagalungan, Province of Cotabato, into an Emergency Hospital, to be Known as the Pagalungan Emergency Hospital**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The Pagalungan Health Center in the Municipality of Pagalungan, Province of Cotabato, is hereby converted into an emergency hospital, to be known as the Pagalungan Emergency Hospital.
+
+ **Section 2.** Said emergency hospital shall be under the direct supervision of the Director of Medical Services, and the Secretary of Health shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The operation and maintenance of said hospital shall be governed by the provisions of Republic Act Numbered Nineteen hundred thirty-nine, otherwise known as the Hospital Financing Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1961.
+"	success	Republic Act	Converts the Pagalungan Health Center into Pagalungan Emergency Hospital, outlining its supervision, regulation, and operation under existing laws, and establishes its effectivity upon approval.	"[{""title"": ""Section 1."", ""summary"": ""The Pagalungan Health Center is converted into an emergency hospital named Pagalungan Emergency Hospital.""}, {""title"": ""Section 2."", ""summary"": ""The hospital is supervised by the Director of Medical Services, with the Secretary of Health issuing necessary rules and regulations.""}, {""title"": ""Section 3."", ""summary"": ""The hospital\u2019s operation and maintenance are governed by Republic Act 1939, the Hospital Financing Act.""}, {""title"": ""Section 4."", ""summary"": ""The Act takes effect upon its approval.""}]"	3161	June 17, 1961			To convert the Pagalungan Health Center into an emergency hospital to enhance healthcare services in the municipality.	"[""Conversion of the Pagalungan Health Center into an emergency hospital"", ""Supervision by Director of Medical Services and Secretary of Health"", ""Operation governed by RA 1939"", ""Effectivity upon approval""]"	Republic Act No. 1939 (Hospital Financing Act)	"[""Healthcare"", ""Hospital"", ""Conversion"", ""Cotabato"", ""Emergency""]"	"[""Pagalungan"", ""Health Center"", ""Emergency Hospital"", ""Cotabato"", ""RA 3161"", ""Hospital Financing Act""]"
+repacts:datasets/markdown/repacts/1961/ra_3162_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3162_1961.md	ra_3162_1961	An Act to Establish an Emergency Hospital in the Municipality of Infanta, Province of Quezon, and to Authorize the Appropriation of One Hundred Thousand Pesos for the Purpose	"**REPUBLIC ACT No. 3162**
+
+ **An Act to Establish an Emergency Hospital in the Municipality of Infanta, Province of Quezon, and to Authorize the Appropriation of One Hundred Thousand Pesos for the Purpose**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established under the direct supervision of the Director of Medical Services, an emergency hospital in the Municipality of Infanta, Province of Quezon. The site for the said hospital shall be in a public land of said town which is hereby set aside for this purpose, to be determined by the said Director of Medical Services in consultation with the Director of the Bureau of Lands.
+
+ **Section 2.** Upon recommendation of the Director of Medical Services, the President shall set aside and reserve such portion of the public land located in the Municipality of Infanta, said province, as may be necessary and convenient for the hospital site.
+
+ **Section 3.** The sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of the said hospital for the fiscal year ending June thirty, nineteen hundred and sixty-two. Such sum as may be necessary for its operation and maintenance in subsequent years shall be included in the annual General Appropriation Acts.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1961.
+"	success	Health Infrastructure	Republic Act No. 3162 establishes an emergency hospital in Infanta, Quezon and appropriates one hundred thousand pesos for its establishment, operation, and maintenance.	"[{""title"": ""Section 1"", ""summary"": ""Establishment of an emergency hospital under the supervision of the Director of Medical Services.""}, {""title"": ""Section 2"", ""summary"": ""The President shall reserve necessary public land for the hospital site upon recommendation of the Director of Medical Services.""}, {""title"": ""Section 3"", ""summary"": ""Authorization of one hundred thousand pesos for the hospital for FY ending June 30, 1962, with subsequent years covered by General Appropriation Acts.""}, {""title"": ""Section 4"", ""summary"": ""Act shall take effect upon approval.""}]"	3162	June 17, 1961			To establish an emergency hospital and authorize appropriation of funds for its establishment, operation, and maintenance.	"[""Establishment of emergency hospital in Infanta, Quezon"", ""Appropriation of one hundred thousand pesos for the hospital"", ""Effective date upon approval""]"		"[""Health"", ""Hospital"", ""Emergency"", ""Infanta"", ""Quezon""]"	"[""emergency hospital"", ""appropriation"", ""Quezon"", ""Infanta"", ""public land""]"
+repacts:datasets/markdown/repacts/1961/ra_3163_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3163_1961.md	ra_3163_1961	An Act Providing for the Establishment of an Emergency Hospital in the Municipality of Carmen, Province of Bohol, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 3163**
+
+ **An Act Providing for the Establishment of an Emergency Hospital in the Municipality of Carmen, Province of Bohol, and Authorizing the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the supervision of the Director of Medical Services, an emergency hospital in the Municipality of Carmen, Province of Bohol, to be known as the Carmen Emergency Hospital.
+
+ **Section 2.** The sum of two hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital during the fiscal year nineteen hundred sixty-two. Thereafter, such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriations Acts.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1961.
+"	success	Republic Act	This act establishes the Carmen Emergency Hospital and authorizes the appropriation of ₱200,000 for its establishment, operation, and maintenance in fiscal year 1962, with subsequent appropriations to be included in annual General Appropriations Acts. The act takes effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of the Carmen Emergency Hospital under the supervision of the Director of Medical Services.""}, {""title"": ""Section 2."", ""summary"": ""Appropriation of \u20b1200,000 for the hospital's establishment, operation, and maintenance for fiscal year 1962, with future sums to be included in annual General Appropriations Acts.""}, {""title"": ""Section 3."", ""summary"": ""The act takes effect upon its approval.""}]"	3163	June 17, 1961			To establish an emergency hospital in Carmen, Bohol, and authorize funding for its operation.	"[""Establishment of Carmen Emergency Hospital"", ""Appropriation of \u20b1200,000 for 1962"", ""Subsequent appropriations for operation and maintenance"", ""Effectivity upon approval""]"		"[""Healthcare"", ""Emergency Hospital"", ""Bohol"", ""Carmen""]"	"[""Emergency Hospital"", ""Carmen"", ""Bohol"", ""Appropriation"", ""Republic Act 3163""]"
+repacts:datasets/markdown/repacts/1961/ra_3164_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3164_1961.md	ra_3164_1961	An Act Providing for the Establishment of an Emergency Hospital in the Municipality of Luisiana, Province of Laguna, to be Known as the Luisiana Emergency Hospital, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 3164**
+
+ **An Act Providing for the Establishment of an Emergency Hospital in the Municipality of Luisiana, Province of Laguna, to be Known as the Luisiana Emergency Hospital, and Authorizing the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the supervision of the Director of Medical Services, an emergency hospital in the Municipality of Luisiana, Province of Laguna, to be known as the Luisiana Emergency Hospital.
+
+ **Section 2.** The Secretary of Health shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The sum of seventy-five thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital during the fiscal year nineteen hundred sixty-two, including the purchase of equipment and for the administrative expenses. Thereafter, such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriation Acts.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1961.
+"	success	Republic Act	This act establishes the Luisiana Emergency Hospital in the Municipality of Luisiana, Laguna, and authorizes the appropriation of funds for its establishment, operation, and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of the Luisiana Emergency Hospital under the supervision of the Director of Medical Services.""}, {""title"": ""Section 2."", ""summary"": ""The Secretary of Health shall issue rules and regulations necessary to carry out the purpose of the Act.""}, {""title"": ""Section 3."", ""summary"": ""Authorizes the appropriation of seventy-five thousand pesos for the establishment, operation, and maintenance of the hospital during fiscal year 1962, with provisions for future funding.""}, {""title"": ""Section 4."", ""summary"": ""The Act shall take effect upon its approval.""}]"	3164	June 17, 1961			To establish an emergency hospital in Luisiana, Laguna, and authorize its funding and operational framework.	"[""Establishment of Luisiana Emergency Hospital"", ""Issuance of rules by Secretary of Health"", ""Appropriation of 75,000 pesos for 1962"", ""Provision for ongoing funding"", ""Effective upon approval""]"		"[""Health"", ""Hospital"", ""Emergency"", ""Laguna"", ""Luisiana""]"	"[""emergency hospital"", ""Luisiana"", ""Laguna"", ""health"", ""funding"", ""Republic Act 3164""]"
+repacts:datasets/markdown/repacts/1961/ra_3165_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3165_1961.md	ra_3165_1961	An Act Providing for the Establishment of a National Hospital in the Municipality of San Francisco, Province of Cebu, to be Known as the San Francisco National Hospital and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 3165**
+
+ **An Act Providing for the Establishment of a National Hospital in the Municipality of San Francisco, Province of Cebu, to be Known as the San Francisco National Hospital and Authorizing the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the supervision of the Director of Medical Services, a national hospital in the Municipality of San Francisco, Province of Cebu, to be known as the San Francisco National Hospital.
+
+ **Section 2.** The Secretary of Health shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital during the fiscal year nineteen hundred sixty-two. Thereafter, such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriation Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1961.
+"	success	Republic Act	Establishes the San Francisco National Hospital in Cebu and authorizes the appropriation of funds for its establishment, operation, and maintenance.	"[{""title"": ""Section 1"", ""summary"": ""Establishment of a national hospital in the Municipality of San Francisco, Province of Cebu, under the supervision of the Director of Medical Services.""}, {""title"": ""Section 2"", ""summary"": ""The Secretary of Health shall issue rules and regulations necessary to carry out the purpose of this Act.""}, {""title"": ""Section 3"", ""summary"": ""Authorization of the appropriation of one hundred thousand pesos for the establishment, operation, and maintenance of the hospital during the fiscal year 1962, with subsequent sums to be included in the annual General Appropriation Act.""}, {""title"": ""Section 4"", ""summary"": ""This Act shall take effect upon its approval.""}]"	3165	June 17, 1961			To establish a national hospital in San Francisco, Cebu, and provide for the necessary funding and regulatory framework.	"[""Establishment of San Francisco National Hospital"", ""Authorization of appropriation of funds for establishment and operation"", ""Issuance of rules and regulations by the Secretary of Health"", ""Effectivity upon approval""]"		"[""Healthcare"", ""Hospital"", ""Cebu"", ""National Hospital""]"	"[""San Francisco National Hospital"", ""Republic Act 3165"", ""Health Services"", ""Appropriation"", ""Cebu""]"
+repacts:datasets/markdown/repacts/1961/ra_3166_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3166_1961.md	ra_3166_1961	An Act Converting the Calubian Emergency Hospital in the Municipality of Calubian, Province of Leyte, into a General Hospital to be Known as the Northwestern Leyte General Hospital, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 3166**
+
+ **An Act Converting the Calubian Emergency Hospital in the Municipality of Calubian, Province of Leyte, into a General Hospital to be Known as the Northwestern Leyte General Hospital, and Authorizing the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The Calubian Emergency Hospital in the Municipality of Calubian, Province of Leyte, is hereby converted into a general hospital to be known as the Northwestern Leyte General Hospital.
+
+ **Section 2.** The sum of two hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the conversion, operation and maintenance of said hospital during the fiscal year nineteen hundred sixty-two. Thereafter, such sum as may be needed for its operation and maintenance shall be included in the annual General Appropriation Acts.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1961.
+"	success	Republic Act	Converts the Calubian Emergency Hospital into the Northwestern Leyte General Hospital and authorizes appropriation of funds for its conversion, operation, and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""The Calubian Emergency Hospital is converted into the Northwestern Leyte General Hospital.""}, {""title"": ""Section 2."", ""summary"": ""Authorizes appropriation of two hundred thousand pesos for the conversion, operation, and maintenance of the hospital during FY 1962 and future needs.""}, {""title"": ""Section 3."", ""summary"": ""The Act shall take effect upon its approval.""}]"	3166	June 17, 1961			To convert a regional emergency hospital into a general hospital and to authorize appropriation of funds for its conversion, operation, and maintenance.	"[""Conversion of Calubian Emergency Hospital into Northwestern Leyte General Hospital"", ""Authorization of 200,000 pesos appropriation for conversion, operation, and maintenance"", ""Act takes effect upon approval""]"		"[""Healthcare"", ""Hospital"", ""Public Health"", ""Leyte""]"	"[""Calubian"", ""Northwestern Leyte General Hospital"", ""200,000 pesos"", ""conversion"", ""appropriation"", ""Leyte"", ""hospital""]"
+repacts:datasets/markdown/repacts/1961/ra_3167_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3167_1961.md	ra_3167_1961	An Act Providing for the Establishment of an Emergency Hospital in the Municipality of Gamay, Province of Samar, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 3167**
+
+ **An Act Providing for the Establishment of an Emergency Hospital in the Municipality of Gamay, Province of Samar, and Authorizing the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the direct supervision of the Director of Medical Services, an emergency hospital in the Municipality of Gamay, Province of Samar, to be known as the Gala Emergency Hospital.
+
+ **Section 2.** The Secretary of Health shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The sum of one hundred fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital during the fiscal year nineteen hundred sixty-two. Thereafter, such sum as may be needed for the same purpose shall be included in the annual General Appropriation Acts.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1961.
+"	success	Republic Act	An act establishing the Gala Emergency Hospital in Gamay, Samar, authorizing its appropriation and outlining its supervision and regulation.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of an emergency hospital under the direct supervision of the Director of Medical Services.""}, {""title"": ""Section 2."", ""summary"": ""The Secretary of Health will issue rules and regulations necessary to carry out the purpose of the Act.""}, {""title"": ""Section 3."", ""summary"": ""Authorization of an appropriation of PHP 150,000 for the hospital\u2019s establishment, operation, and maintenance during FY 1962, with future funding to be included in annual General Appropriation Acts.""}, {""title"": ""Section 4."", ""summary"": ""The Act takes effect upon approval.""}]"	3167	June 17, 1961			To establish an emergency hospital in Gamay, Samar and authorize funds for its operation.	"[""Establishment of Gala Emergency Hospital"", ""Direct supervision by Director of Medical Services"", ""Rules and regulations by Secretary of Health"", ""Appropriation of PHP 150,000 for FY 1962"", ""Effectivity upon approval""]"		"[""healthcare"", ""hospital"", ""Samar""]"	"[""emergency hospital"", ""Gamay"", ""Samar"", ""appropriation"", ""Director of Medical Services""]"
+repacts:datasets/markdown/repacts/1961/ra_3168_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3168_1961.md	ra_3168_1961	An Act Granting the Southern Industrial Projects, Inc. a Temporary Permit to Construct, Maintain and Operate Private Fixed Point-to-Point Radio Stations for the Reception and Transmission of Radio Communications from Manila to the Municipality of Cortes, Province of Bohol, and Vice Versa	"**REPUBLIC ACT No. 3168**
+
+ **An Act Granting the Southern Industrial Projects, Inc. a Temporary Permit to Construct, Maintain and Operate Private Fixed Point-to-Point Radio Stations for the Reception and Transmission of Radio Communications from Manila to the Municipality of Cortes, Province of Bohol, and Vice Versa**

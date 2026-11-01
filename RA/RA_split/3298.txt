@@ -1,0 +1,250 @@
+> | --- | --- | --- | --- | --- | --- | --- |
+> | BLLM# 1-A (PRS' 92) (PB-03-000061), CAD 274, Tarlac Cadastre |  |  |  |  |  |  |
+> | N. 1712915.536 E.455693.776 |  |  |  |  |  |  |
+> | 1 | 2 | N | 53 | 31 | W | 15.76 |
+> | 2 | 3 | S | 35 | 13 | E | 1430 |
+> | 3 | 4 | S | 40 | 49 | E | 212.14 |
+> | 4 | 5 | S | 37 | 51 | E | 128.99 |
+> | 5 | 6 | S | 37 | 52 | E | 11418 |
+> | 6 | 7 | S | 38 | 04 | E | 103.24 |
+> | 7 | 8 | S | 17 | 16 | W | 10.90 |
+> | 8 | 9 | S | 59 | 54 | W | 4403 |
+> | 9 | 10 | S | 65 | 14 | W | 29.12 |
+> | 10 | 11 | N | 74 | 20 | W | 6.97 |
+> | 11 | 12 | N | 47 | 23 | W | 26.51 |
+> | 12 | 13 | N | 89 | 09 | W | 27.40 |
+> | 13 | 14 | S | 73 | 47 | W | 15.75 |
+> | 14 | 15 | N | 82 | 59 | W | 13.80 |
+> | 15 | 16 | N | 48 | 53 | W | 19.38 |
+> | 16 | 17 | N | 82 | 14 | W | 28.34 |
+> | 17 | 18 | S | 38 | 49 | W | 2402 |
+> | 18 | 19 | S | 61 | 55 | W | 26.48 |
+> | 19 | 20 | S | 03 | 00 | E | 2463 |
+> | 20 | 21 | S | 29 | 39 | W | 401 |
+> | 21 | 22 | N | 88 | 01 | W | 30.50 |
+> | 22 | 23 | N | 84 | 59 | W | 43.28 |
+> | 23 | 24 | S | 40 | 35 | W | 88.65 |
+> | 24 | 25 | S | 80 | 08 | W | 59.32 |
+> | 25 | 26 | S | 22 | 33 | W | 23.07 |
+> | 26 | 27 | S | 60 | 25 | W | 11.04 |
+> | 27 | 28 | N | 39 | 25 | W | 37.41 |
+> | 28 | 29 i | N | 54 | 49 | W | 31.14 |
+> | 29 | 30 | N | 86 | 27 | W | 47.98 |
+> | 30 | 31 | S | 15 | 21 | E | 33.27 |
+> | 31 | 32 | S | 78 | 56 | W | 10.22 |
+> | 32 | 33 | N | 62 | 35 | W | 40.82 |
+> | 33 | 34 | S | 61 | 29 | W | 50.89 |
+> | 34 | 35 | S | 04 | 46 | W | 43.77 |
+> | 35 | 36 | N | 62 | 16 | W | 58.30 |
+> | 36 | 37 | S | 77 | 00 | W | 6.22 |
+> | 37 | 38 | S | 03 | 11 | E | 30.85 |
+> | 38 | 39 | S | 73 | 08 | W | 30.01 |
+> | 39 | 40 | S | 53 | 02 | W | 2407 |
+> | 40 | 41 | S | 20 | 44 | W | 29.63 |
+> | 41 | 42 | S | 74 | 16 | W | 6414 |
+> | 42 | 43 | S | 48 | 36 | E | 39.87 |
+> | 43 | 44 | S | 05 | 05 | E | 18.65 |
+> | 44 | 45 | S | 32 | 33 | E | 41.80 |
+> | 45 | 46 | S | 07 | 29 | E | 30.61 |
+> | 46 | 47 | S | 70 | 16 | W | 42.63 |
+> | 47 | 48 | S | 49 | 14 | W | 19.21 |
+> | 48 | 49 | S | 11 | 41 | W | 33.11 |
+> | 49 | 50 | S | 44 | 53 | W | 110.08 |
+> | 50 | 51 | S | 23 | 24 | W | 56.38 |
+> | 51 | 52 | S | 27 | 07 | W | 39.93 |
+> | 52 | 53 | S | 51 | 50 | E | 102.33 |
+> | 53 | 54 | S | 52 | 49 | W | 97.50 |
+> | 54 | 55 | S | 45 | 28 | W | 15.43 |
+> | 55 | 56 | S | 07 | 58 | W | 93.72 |
+> | 56 | 57 | S | 33 | 58 | W | 82.59 |
+> | 57 | 58 | S | 83 | 17 | W | 36.02 |
+> | 58 | 59 | S | 32 | 27 | W | 49.11 |
+> | 59 | 60 | S | 85 | 44 | W | 71.09 |
+> | 60 | 61 | S | 75 | 43 | W | 23.71 |
+> | 61 | 62 | S | 18 | 04 | E | 25.95 |
+> | 62 | 63 | S | 00 | 13 | E | 70.49 |
+> | 63 | 64 | S | 57 | 09 | W | 124.44 |
+> | 64 | 65 | S | 39 | 47 | W | 60.05 |
+> | 65 | 66 | S | 34 | 49 | E | 25.20 |
+> | 66 | 67 | S | 85 | 41 | E | 80.29 |
+> | 67 | 68 | N | 67 | 19 | E | 39.79 |
+> | 68 | 69 | S | 53 | 31 | E | 21.48 |
+> | 69 | 70 | S | 04 | 09 | W | 91.62 |
+> | 70 | 71 | N | 88 | 30 | W | 47.11 |
+> | 71 | 72 | S | 53 | 41 | W | 159.27 |
+> | 72 | 73 | S | 52 | 48 | W | 216.99 |
+> | 73 | 74 | N | 85 | 21 | W | 41.02 |
+> | 74 | 75 | S | 51 | 02 | W | 11.45 |
+> | 75 | 76 | S | 58 | 04 | W | 10.40 |
+> | 76 | 77 | N | 30 | 37 | W | 17.52 |
+> | 77 | 78 | N | 72 | 16 | W | 3430 |
+> | 78 | 79 | N | 45 | 31 | W | 55.94 |
+> | 79 | 80 | S | 78 | 54 | W | 107.38 |
+> | 80 | 81 | N | 78 | 14 | W | 59.17 |
+> | 81 | 82 | S | 84 | 21 | W | 20.50 |
+> | 82 | 83 | S | 55 | 58 | W | 2.71 |
+> | 83 | 84 | S | 61 | 53 | W | 22.94 |
+> | 84 | 85 | S | 27 | 21 | E | 2.83 |
+> | 85 | 86 | S | 58 | 38 | W | 301.30 |
+> | 86 | 87 | S | 53 | 11 | W | 236.56 |
+> | 87 | 88 | N | 68 | 02 | W | 355.17 |
+> | 88 | 89 | S | 04 | 52 | E | 99.36 |
+> | 89 | 90 | N | 70 | 38 | W | 625.14 |
+> | 90 | 91 | N | 57 | 55 | W | 359.83 |
+> | 91 | 92 | S | 75 | 37 | W | 189.51 |
+> | 92 | 93 | S | 54 | 24 | W | 453 |
+> | 93 | 94 | S | 38 | 21 | E | 305.13 |
+> | 94 | 95 | S | 68 | 49 | W | 29483 |
+> | 95 | 96 | N | 47 | 38 | W | 307.57 |
+> | 96 | 97 | N | 47 | 39 | W | 195.13 |
+> | 97 | 98 | N | 29 | 58 | W | 399.44 |
+> | 98 | 99 | N | 80 | 05 | E | 89.32 |
+> | 99 | 100 | N | 05 | 56 | W | 28435 |
+> | 100 | 101 | N | 09 | 51 | W | 33.47 |
+> | 101 | 102 | N | 25 | 32 | W | 100.63 |
+> | 102 | 103 | N | 25 | 39 | W | 68.60 |
+> | 103 | 104 | N | 25 | 40 | W | 21L70 |
+> | 104 | 105 | N | 17 | 23 | E | 240.80 |
+> | 105 | 106 | N | 17 | 34 | W | 235.32 |
+> | 106 | 107 | N | 28 | 52 | E | 223.43 |
+> | 107 | 108 | N | 65 | 32 | E | 233.43 |
+> | 108 | 109 | S | 32 | 11 | E | 191.36 |
+> | 109 | 110 | N | 72 | 47 | E | 3409 |
+> | 110 | 111 | S | 28 | 33 | E | 96.94 |
+> | 111 | 112 | S | 65 | 18 | E | 10278 |
+> | 112 | 113 | N | 82 | 52 | E | 25217 |
+> | 113 | 114 | N | 87 | 24 | E | 78.87 |
+> | 114 | 115 | N | 87 | 24 | E | 11237 |
+> | 115 | 116 | N | 01 | 22 | W | 239.24 |
+> | 116 | 117 | S | 89 | 37 | E | 38L84 |
+> | 117 | 118 | S | 20 | 39 | E | 49.33 |
+> | 118 | 119 | N | 62 | 39 | E | 100.00 |
+> | 119 | 120 | N | 62 | 39 | E | 8269 |
+> | 120 | 121 | N | 04 | 08 | W | 2420 |
+> | 121 | 122 | N | 68 | 21 | E | 176.70 |
+> | 122 | 123 | N | 70 | 23 | E | 128.82 |
+> | 123 | 124 | N | 20 | 11 | W | 109.70 |
+> | 124 | 125 | N | 67 | 26 | E | 9426 |
+> | 125 | 126 | S | 16 | 02 | E | 62L57 |
+> | 126 | 127 | N | 52 | 02 | E | 31484 |
+> | 127 | 128 | N | 23 | 02 | E | 11456 |
+> | 128 | 129 | S | 26 | 49 | E | 216.48 |
+> | 129 | 130 | N | 81 | 55 | E | 143.03 |
+> | 130 | 130 | N | 58 | 14 | E | 415.97 |
+> | 130 | 132 | N | 59 | 30 | E | 131.84 |
+> | 132 | 133 | S | 50 | 09 | E | 203.27 |
+> | 133 | 134 | N | 75 | 02 | E | 59.29 |
+> | 134 | 135 | N | 73 | 53 | E | 175.50 |
+> | 135 | 136 | N | 83 | 50 | E | 97.55 |
+> | 136 | 137 | N | 62 | 28 | E | 355.93 |
+> | 137 | 138 | S | 04 | 30 | E | 212.15 |
+> | 138 | 139 | S | 87 | 20 | E | 25.25 |
+> | 139 | 140 | N | 60 | 41 | E | 208.04 |
+> | 140 | 141 | N | 60 | 41 | E | 7.95 |
+> | 141 | 142 | S | 39 | 16 | E | 73.97 |
+> | 142 | 143 | N | 35 | 13 | W | 1430 |
+> | 143 | 1 | S | 53 | 31 | E | 15.76 |
+>
+>  Containing an area of 6,835,492 square meters, more or less.
+
+ **Section 3.***Conduct and Supervision of Plebiscite.* - The plebiscite conducted and supervised by the Commission on Elections (COMELEC) on March 14, 1993 pursuant to Provincial Ordinance No. 2, Series of 1991, dated September 5, 1991 of the Sangguniang Panlalawigan of the Province of Tarlac, which ratified the creation of Barangay Care, shall serve as substantial compliance with the plebiscite requirement under Section 10 of Republic Act No. 7160, as amended, otherwise known as the ""Local Government Code of 1991"".
+
+ **Section 4.***Incumbent Barangay Officials.* - The incumbent barangay officials of Barangay Care shall continue to hold office until such time that their successors have been duly elected and qualified.
+
+ **Section 5.***Public Infrastructure and Facilities.* - All public infrastructure and facilities for public use existing therein at the time of the approval of this Act are hereby transferred without cost or compensation to and shall be administered by the new barangay.
+
+ **Section 6.***Internal Revenue Allotment Shares.* - Barangay Care shall be entitled to Internal Revenue Allotment (IRA) shares pursuant to Section 285 of Republic Act No. 7160, as amended, otherwise known as the ""Local Government Code of 1991"".
+
+ **Section 7.***Effectivity.* - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ **AQUILINO ""KOKO"" PIMENTEL** President of the Senate
+
+ **PANTALEON D. ALVAREZ** Speaker of the House of Representatives
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives on March 13, 2017, amended by the Senate on August 14, 2017, and which amendments were concurred in by the House of Representatives on August 30, 2017.
+
+ **LUTGARDO BARBO** Secretary of the Senate
+
+ **CESAR STRAIT PAREJA** Secretary General House of Representatives
+
+ Approved: October 30, 2017
+
+ (Sgd.) **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	Republic Act No. 10956 establishes Barangay Care in Tarlac City, defining its territorial boundaries and setting it up as a new administrative unit.	"[{""title"": ""Section 1. Creation of Barangay Care"", ""summary"": ""Creates Barangay Care as a new barangay in City of Tarlac.""}, {""title"": ""Section 2. Territorial Boundaries"", ""summary"": ""Specifies the borders of Barangay Care by referencing adjacent barangays and providing detailed coordinates.""}]"	10956	2017-07-24			To create Barangay Care in Tarlac City for better local governance and community development.	"[""Establishment of Barangay Care as a new barangay."", ""Definition of territorial boundaries with neighboring barangays.""]"		"[""Barangay"", ""Local Government"", ""Tarlac"", ""Republic Act 10956""]"	"[""Barangay Care"", ""Tarlac"", ""Local Governance"", ""Republic Act"", ""Boundaries""]"
+repacts:datasets/markdown/repacts/2017/ra_10957_2017.md	repacts	2017		datasets/markdown/repacts/2017/ra_10957_2017.md	ra_10957_2017	An Act Creating a Barangay to be Known as Barangay Liwon in the Municipality of Asipulo, Province of Ifugao	"**Seventeenth Congress Second Regular Session Begun and held in Metro Manila, on Monday, the twenty-fourth day of July, two thousand seventeen.**
+
+ **REPUBLIC ACT No. 10957**
+
+ An Act Creating a Barangay to be Known as Barangay Liwon in the Municipality of Asipulo, Province of Ifugao
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.***Creation of Barangay Liwon.* - The Special Economic Zone of Liwon in Barangay Amduntog, Municipality of Asipulo, Province of Ifugao is hereby constituted as a distinct and independent barangay to be known as Barangay Liwon.
+
+ **Section 2.***Territorial Boundaries.* - The territorial boundaries of Barangay Liwon shall be identified as follows:
+
+ > Bounded on the South (S), along line 1 to 2, by Barangay Namal;
+>
+>  On the West (W), along line 2 to 3, by Municipality of Tinoc, Province of Ifugao;
+>
+>  On the North (N), along line 3 to 4, by Municipality of Kiangan;
+>
+>  On the Northeast (NE), along lines 4 to 6: by Barangay Nunggawa;
+>
+>  On the East (E), along lines 6 to 11, by Barangay Amduntog;
+>
+>  On the Southwest (SW), along lines 11 to 1, by Barangay Antipolo.
+>
+>  The technical description of Barangay Liwon is as follows:
+>
+>  | Line | Bearing | Distance | Description |  |  |  |
+> | --- | --- | --- | --- | --- | --- | --- |
+> | 1-2 | N | 81 | 32 | W | 3996.23 | BBM 9 |
+> | 2-3 | N | 28 | 50 | E | 3430.02 | MBM 15 |
+> | 3-4 | N | 69 | 30 | E | 4621.94 | MBM 1 |
+> | 4-5 | S | 25 | 04 | W | 674.00 | BBM 10 |
+> | 5-6 | S | 58 | 38 | E | 1582.48 | BBM 19 |
+> | 6-7 | S | 12 | 56 | W | 1068.01 |  |
+> | 7-8 | N | 85 | 12 | W | 1106.55 |  |
+> | 8-9 | S | 01 | 08 | W | 684.88 |  |
+> | 9-10 | S | 10 | 15 | E | 704.86 |  |
+> | 10-11 | S | 20 | 29 | W | 536.56 |  |
+> | 11-1 | S | 60 | 31 | W | 1928.38 |  |
+>
+>  Containing an area of 20,938,874 square meters, which includes 1,090,407 square meters boundary dispute between Barangay Liwon and Municipality of Kiangan.
+
+ **Section 3.***Conduct and Supervision of Plebiscite.* - Pursuant to Section 10 of Republic Act No. 7160, as amended, otherwise known as the ""Local Government Code of 1991"", the new barangay shall exist upon obtaining a majority of the votes cast in a plebiscite to be conducted and supervised by the Commission on Elections (COMELEC) in Barangay Amduntog, Municipality of Asipulo, Province of Ifugao not later than one hundred twenty (120) days from the effectivity of this Act.
+
+ The expenses for the plebiscite shall be borne by the Municipality of Asipulo, Province of Ifugao.
+
+ **Section 4.***Barangay Officials.* - The first set of barangay officials of Barangay Liwon shall be appointed by the Provincial Governor of the Province of Ifugao and shall hold office until such time that the new set of officers have been duly elected and qualified.
+
+ **Section 5.***Public Infrastructure and Facilities.* - All public infrastructure and facilities for public use existing therein at the time of the approval of this Act are hereby transferred without cost or compensation to and shall be administered by the new barangay.
+
+ **Section 6.***Internal Revenue Allotment Shares.* - Barangay Liwon shall be entitled to Internal Revenue Allotment (IRA) shares pursuant to Section 285 of Republic Act No. 7160, as amended, otherwise known as the ""Local Government Code of 1991"".
+
+ **Section 7.***Effectivity.* - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ **PANTALEON D. ALVAREZ** Speaker of the House of Representatives
+
+ **AQUILINO ""KOKO"" PIMENTEL** President of the Senate
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives on March 13, 2017, amended by the Senate on August 14, 2017, and which amendments were concurred in by the House of Representatives on August 30, 2017.
+
+ **CESAR STRAIT PAREJA** Secretary General House of Representatives
+
+ **LUTGARDO BARBO** Secretary of the Senate
+
+ Approved: October 30, 2017
+
+ (Sgd.) **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	This law establishes Barangay Liwon as a distinct barangay, defines its territorial boundaries, specifies plebiscite procedures, appoints officials, transfers public infrastructure, allocates IRA shares, and sets its effectivity.	"[{""title"": ""Creation of Barangay Liwon"", ""summary"": ""Constitutes Barangay Liwon as a distinct barangay in Asipulo, Ifugao.""}, {""title"": ""Territorial Boundaries"", ""summary"": ""Defines the precise boundaries of Barangay Liwon with detailed line and bearing descriptions.""}, {""title"": ""Conduct and Supervision of Plebiscite"", ""summary"": ""Mandates a plebiscite supervised by COMELEC within 120 days for the barangay's creation.""}, {""title"": ""Barangay Officials"", ""summary"": ""Provides for appointment of barangay officials by the provincial governor until elections are held.""}, {""title"": ""Public Infrastructure and Facilities"", ""summary"": ""Transfers existing public infrastructure and facilities to the new barangay at no cost.""}, {""title"": ""Internal Revenue Allotment Shares"", ""summary"": ""Entitles Barangay Liwon to IRA shares per Section 285 of RA 7160.""}, {""title"": ""Effectivity"", ""summary"": ""The act takes effect 15 days after publication.""}]"	10957	October 30, 2017	"[{""name"": ""PANTALEON D. ALVAREZ"", ""title"": ""Speaker of the House of Representatives""}, {""name"": ""AQUILINO \""KOKO\"" PIMENTEL"", ""title"": ""President of the Senate""}]"		To create Barangay Liwon as a distinct barangay within Asipulo, Ifugao, and to establish its boundaries, governance, and administrative provisions.	"[""Creation of Barangay Liwon"", ""Defined territorial boundaries"", ""Plebiscite requirements"", ""Appointment of barangay officials"", ""Transfer of public infrastructure"", ""IRA shares allocation"", ""Effectivity after 15 days""]"	Republic Act No. 7160 (Local Government Code of 1991)	"[""Barangay"", ""Local Government"", ""Ifugao"", ""Republic Act 10957""]"	"[""Barangay Liwon"", ""Asipulo"", ""Ifugao"", ""Local Government Code"", ""IRA"", ""Plebiscite"", ""Boundary""]"
+repacts:datasets/markdown/repacts/2017/ra_10958_2017.md	repacts	2017		datasets/markdown/repacts/2017/ra_10958_2017.md	ra_10958_2017	An Act Dividing Barangay Canumay in the City of Valenzuela into Two (2) Distinct and Independent Barangays to be Known as Barangay Canumay West and Barangay Canumay East	"**Seventeenth Congress Second Regular Session Begun and held in Metro Manila, on Monday, the twenty-fourth day of July, two thousand seventeen.**
+
+ **REPUBLIC ACT No. 10958**
+
+ An Act Dividing Barangay Canumay in the City of Valenzuela into Two (2) Distinct and Independent Barangays to be Known as Barangay Canumay West and Barangay Canumay East

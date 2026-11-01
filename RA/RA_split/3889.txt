@@ -1,0 +1,166 @@
+
+ **Section 5.** *Effectivity.* - This Act shall take effect after fifteen (15) days following its publication in the Official Gazette or in a national newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate | (SGD.) **FERDINAND MARTIN G. ROMUALDEZ** Speaker of the House of Representatives |
+
+ This Act was passed by the Senate of the Philippines as Senate Bill No. 2415 on September 23, 2024 and adopted by the House of Representatives as an amendment to House Bill No. 7192 on September 24, 2024.
+
+ | (SGD.) **REGINALD S. VELASCO** Secretary General House of Representatives | (SGD.) **RENATO N. BANTUG, JR.** Secretary of the Senate |
+
+ Approved: DEC 06 2024
+
+ (SGD.) **FERDINAND ROMUALDEZ MARCOS JR.** President of the Philippines
+"	success	Finance	An act establishing a VAT refund mechanism for non-resident tourists and adding Section 112-A to the National Internal Revenue Code.	"[{""title"": ""Section 1. A new section designated as Section 112-A"", ""summary"": ""Insertion of Section 112-A providing VAT refund for tourists, detailing eligibility criteria, minimum purchase threshold, periodic review, engagement of VAT refund operators, refund methods, and funding mechanism.""}, {""title"": ""Section 2. Implementing Rules and Regulations"", ""summary"": ""Secretary of Finance to promulgate rules within 90 days after effectivity, in consultation with relevant ministries and agencies.""}, {""title"": ""Section 3. Separability Clause"", ""summary"": ""If any provision is declared unconstitutional, remaining provisions remain in force.""}, {""title"": ""Section 4. Repealing Clause"", ""summary"": ""Repeals or amends any law inconsistent with this act.""}, {""title"": ""Section 5. Effectivity"", ""summary"": ""Act takes effect 15 days after publication in the Official Gazette or a national newspaper.""}]"	REPUBLIC ACT NO. 12079	December 06, 2024	"[{""name"": ""FRANCIS \""CHIZ\"" G. ESCUDERO"", ""title"": ""President of the Senate""}, {""name"": ""FERDINAND MARTIN G. ROMUALDEZ"", ""title"": ""Speaker of the House of Representatives""}]"		To provide a VAT refund mechanism for non-resident tourists and amend the NIRC by adding Section 112-A.	"[""Eligibility criteria for VAT refund for tourists"", ""Minimum purchase threshold of P3,000.00 per transaction"", ""Periodic review of threshold every 3 years"", ""Engagement of reputable VAT refund operators"", ""Refund methods: electronic or cash"", ""Funding sourced from special account in the General Fund"", ""Definition of 'tourist' as a non-resident foreign passport holder""]"	National Internal Revenue Code of 1997, as amended – addition of Section 112-A	"[""VAT"", ""Tourism"", ""Tax"", ""Revenue"", ""Refund"", ""Non-Resident""]"	"[""VAT refund"", ""non-resident tourist"", ""National Internal Revenue Code"", ""Section 112-A"", ""tax incentive"", ""tourism revenue""]"
+repacts:datasets/markdown/repacts/2024/ra_12081_2024.md	repacts	2024		datasets/markdown/repacts/2024/ra_12081_2024.md	ra_12081_2024	AN ACT SEPARATING THE BINAGASBASAN NATIONAL HIGH SCHOOL - DENRICA HIGH SCHOOL ANNEX IN BARANGAY DENRICA, MUNICIPALITY OF GARCHITORENA, PROVINCE OF CAMARINES SUR FROM THE BINAGASBASAN NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS THE DENRICA NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"Nineteenth Congress Third Regular Session
+
+ [ REPUBLIC ACT NO. 12081, December 13, 2024 ]
+
+ AN ACT SEPARATING THE BINAGASBASAN NATIONAL HIGH SCHOOL - DENRICA HIGH SCHOOL ANNEX IN BARANGAY DENRICA, MUNICIPALITY OF GARCHITORENA, PROVINCE OF CAMARINES SUR FROM THE BINAGASBASAN NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS THE DENRICA NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Binagasbasan National High School - Denrica High School Annex in Barangay Denrica, Municipality of Garchitorena, Province of Camarines Sur is hereby separated from the Binagasbasan National High School and converted into an independent national high school to be known as the Denrica National High School.
+
+ **Section 2.** All personnel, assets, liabilities and records of the Binagasbasan National High School - Denrica High School Annex are hereby transferred to and absorbed by the Denrica National High School.
+
+ **Section 3.** The Secretary of Education shall immediately include in the Department's program the operationalization of the Denrica National High School, the initial funding of which shall be charged against the current year's appropriation of the Binagasbasan National High School - Denrica High School Annex. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.
+
+ **Section 4.** Within ninety (90) days from the approval of this Act, the Secretary of Education shall formulate the rules and regulations implementing the provisions of this Act. Such implementing rules and regulations shall provide for the school's organization, administration, operations and management, in accordance with Republic Act No. 9155, or the ""Governance of Basic Education Act of 2001"", Republic Act No. 10533, or the ""Enhanced Basic Education Act of 2013"", and other basic education-related laws.
+
+ **Section 5.** This Act shall take effect after fifteen (15) days following its publication in the Official Gazette or in a national newspaper of general circulation.
+
+ Approved,
+
+ | (Sgd.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate | (Sgd.) **FERDINAND MARTIN G. ROMUALDEZ** Speaker of the House of Representatives |
+
+ This Act, which originated in the House of Representatives, was passed by the House of Representatives and the Senate of the Philippines on November 7, 2023 and August 28, 2024, respectively.
+
+ | (Sgd.) **RENATO N. BANTUG, JR.** Secretary of the Senate | (Sgd.) **REGINALD S. VELASCO** Secretary General House of Representatives |
+
+ Approved: DEC 13 2024
+
+ (Sgd.) **FERDINAND ROMUALDEZ MARCOS JR.** President of the Philippines
+"	success	Republic Act	This Republic Act separates the Denrica High School Annex from Binagasbasan National High School and establishes it as an independent Denrica National High School. It transfers personnel, assets, and liabilities, appropriates funds for its operation, and mandates the Secretary of Education to implement operational rules within 90 days. The Act takes effect 15 days after publication.	"[{""title"": ""Section 1"", ""summary"": ""Separates Denrica High School Annex from Binagasbasan National High School and establishes it as Denrica National High School.""}, {""title"": ""Section 2"", ""summary"": ""Transfers all personnel, assets, liabilities, and records of the Annex to the new Denrica National High School.""}, {""title"": ""Section 3"", ""summary"": ""Appropriates initial funding from the current year\u2019s budget and ensures continued operation through the General Appropriations Act.""}, {""title"": ""Section 4"", ""summary"": ""Mandates the Secretary of Education to formulate implementing rules and regulations within 90 days, aligning with RA 9155 and RA 10533.""}, {""title"": ""Section 5"", ""summary"": ""Specifies the Act\u2019s effective date: 15 days after publication in the Official Gazette or a national newspaper.""}]"	12081	December 13, 2024			To create an independent national high school in Denrica by separating its annex from Binagasbasan National High School and provide necessary funding and operational guidelines.	"[""Separation of Denrica High School Annex from Binagasbasan National High School"", ""Transfer of personnel, assets, and liabilities"", ""Appropriation of funds for initial and continued operation"", ""Mandate for Secretary of Education to formulate implementing rules within 90 days"", ""Effective date 15 days after publication""]"	Republic Act No. 9155, Republic Act No. 10533	"[""Education"", ""National High School"", ""Republic Act""]"	"[""Denrica National High School"", ""Binagasbasan National High School"", ""separation"", ""appropriation"", ""operationalization""]"
+repacts:datasets/markdown/repacts/2024/ra_12082_2024.md	repacts	2024		datasets/markdown/repacts/2024/ra_12082_2024.md	ra_12082_2024	AN ACT SEPARATING THE SIOCON CENTRAL SCHOOL - J.P. BRILLANTES EXTENSION IN BARANGAY JOSE P. BRILLANTES, SR., MUNICIPALITY OF SIOCON, PROVINCE OF ZAMBOANGA DEL SUR FROM THE SIOCON CENTRAL SCHOOL, CONVERTING IT INTO AN INDEPENDENT ELEMENTARY SCHOOL TO BE KNOWN AS THE JOSE P. BRILLANTES ELEMENTARY SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"Nineteenth Congress Third Regular Session
+
+ [ REPUBLIC ACT NO. 12082, December 13, 2024 ]
+
+ AN ACT SEPARATING THE SIOCON CENTRAL SCHOOL - J.P. BRILLANTES EXTENSION IN BARANGAY JOSE P. BRILLANTES, SR., MUNICIPALITY OF SIOCON, PROVINCE OF ZAMBOANGA DEL SUR FROM THE SIOCON CENTRAL SCHOOL, CONVERTING IT INTO AN INDEPENDENT ELEMENTARY SCHOOL TO BE KNOWN AS THE JOSE P. BRILLANTES ELEMENTARY SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Siocon Central School - J.P. Brillantes Extension in Barangay Jose P. Brillantes, Sr., Municipality of Siocon, Province of Zamboanga del Norte is hereby separated from the Siocon Central School and converted into an independent elementary school to be known as the Jose P. Brillantes Elementary School.
+
+ **Section 2.** All personnel, assets, liabilities and records of the Siocon Central School - J.P. Brillantes Extension are hereby transferred to and absorbed by the Jose P. Brillantes Elementary School.
+
+ **Section 3.** The Secretary of Education shall immediately include in the Department's program the operationalization of the Jose P. Brillantes Elementary School, the initial funding of which shall be charged against the current year's appropriation of the Siocon Central School - J.P. Brillantes Extension. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.
+
+ **Section 4.** Within ninety (90) days from the approval of this Act, the Secretary of Education shall formulate the rules and regulations implementing the provisions of this Act. Such implementing rules and regulations shall provide for the school's organization, administration, operations and management, in accordance with Republic Act No. 9155, or the ""Governance of Basic Education Act of 2001"", Republic Act No. 10533, or the ""Enhanced Basic Education Act of 2013"", and other basic education-related laws.
+
+ **Section 5.** This Act shall take effect after fifteen (15) days following its publication in the Official Gazette or in a national newspaper of general circulation.
+
+ Approved,
+
+ | (Sgd.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate | (Sgd.) **FERDINAND MARTIN G. ROMUALDEZ** Speaker of the House of Representatives |
+
+ This Act, which originated in the House of Representatives, was passed by the House of Representatives and the Senate of the Philippines on November 7, 2023 and August 28, 2024, respectively.
+
+ | (Sgd.) **RENATO N. BANTUG, JR.** Secretary of the Senate | (Sgd.) **REGINALD S. VELASCO** Secretary General House of Representatives |
+
+ Approved: DEC 13 2024
+
+ (Sgd.) **FERDINAND ROMUALDEZ MARCOS JR.** President of the Philippines
+"	success	Republic Act	This act separates the Siocon Central School – J.P. Brillantes Extension from the main school, converts it into the independent Jose P. Brillantes Elementary School, and appropriates funds for its operation.	"[{""title"": ""Section 1"", ""summary"": ""Separation of the J.P. Brillantes Extension from Siocon Central School and its conversion into Jose P. Brillantes Elementary School.""}, {""title"": ""Section 2"", ""summary"": ""Transfer of all personnel, assets, liabilities and records of the extension to the new elementary school.""}, {""title"": ""Section 3"", ""summary"": ""Funding arrangements: initial funding charged to current year's appropriation and future funding included in General Appropriations Act.""}, {""title"": ""Section 4"", ""summary"": ""Implementation: Secretary of Education to formulate rules and regulations within 90 days, aligned with RA 9155, RA 10533 and other basic education laws.""}, {""title"": ""Section 5"", ""summary"": ""Effective date: Fifteen days after publication in the Official Gazette or a national newspaper.""}]"	12082	2024-12-13	"[{""name"": ""Francis G. Escudero"", ""title"": ""President of the Senate""}, {""name"": ""Ferdinand Martin G. Romualdez"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""Renato N. Bantug, Jr."", ""title"": ""Secretary of the Senate""}, {""name"": ""Reginald S. Velasco"", ""title"": ""Secretary General of the House of Representatives""}, {""name"": ""Ferdinand Romualdez Marcos Jr."", ""title"": ""President of the Philippines""}]"	To establish an independent elementary school by separating the J.P. Brillantes Extension from Siocon Central School and ensure its operational funding and governance.	"[""Separation of the J.P. Brillantes Extension from Siocon Central School."", ""Conversion into an independent elementary school named Jose P. Brillantes Elementary School."", ""Transfer of all personnel, assets, liabilities and records to the new school."", ""Initial funding charged to current year's appropriation; future funding included in General Appropriations Act."", ""Secretary of Education to formulate implementation rules within 90 days."", ""Act takes effect 15 days after publication.""]"	Republic Act No. 9155 (Governance of Basic Education Act of 2001) and Republic Act No. 10533 (Enhanced Basic Education Act of 2013).	"[""Education"", ""Philippines"", ""Republic Act"", ""Zamboanga del Norte"", ""Elementary School""]"	"[""Siocon Central School"", ""Jose P. Brillantes Elementary School"", ""independent elementary school"", ""funding"", ""implementation rules"", ""effective date"", ""Republic Act 12082""]"
+repacts:datasets/markdown/repacts/2024/ra_12083_2024.md	repacts	2024		datasets/markdown/repacts/2024/ra_12083_2024.md	ra_12083_2024	AN ACT SEPARATING THE BUCANA ELEMENTARY SCHOOL - HATIB ASAMUDDIN EXTENSION IN BARANGAY BUCANA, MUNICIPALITY OF SIOCON, PROVINCE OF ZAMBOANGA DEL SUR FROM THE BUCANA ELEMENTARY SCHOOL, CONVERTING IT INTO AN INDEPENDENT ELEMENTARY SCHOOL TO BE KNOWN AS THE HATIB ASAMUDDIN ELEMENTARY SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"Nineteenth Congress Third Regular Session
+
+ [ REPUBLIC ACT NO. 12083, December 13, 2024 ]
+
+ AN ACT SEPARATING THE BUCANA ELEMENTARY SCHOOL - HATIB ASAMUDDIN EXTENSION IN BARANGAY BUCANA, MUNICIPALITY OF SIOCON, PROVINCE OF ZAMBOANGA DEL SUR FROM THE BUCANA ELEMENTARY SCHOOL, CONVERTING IT INTO AN INDEPENDENT ELEMENTARY SCHOOL TO BE KNOWN AS THE HATIB ASAMUDDIN ELEMENTARY SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** *The Bucana Elementary School* - Hatib Asamuddin Extension in Barangay Bucana, Municipality of Siocon, Province of Zamboanga del Norte is hereby separated from the Bucana Elementary School and converted into an independent elementary school to be known as the Hatib Asamuddin Elementary School.
+
+ **Section 2.** All personnel, assets, liabilities and records of the Bucana Elementary School - Hatib Asamuddin Extension are hereby transferred to and absorbed by the Hatib Asamuddin Elementary School.
+
+ **Section 3.** The Secretary of Education shall immediately include in the Department's program the operationalization of the Hatib Asamuddin Elementary School, the initial funding of which shall be charged against the current year's appropriation of the Bucana Elementary School - Hatib Asamuddin Extension. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.
+
+ **Section 4.** Within ninety (90) days from the approval of this Act, the Secretary of Education shall formulate the rules and regulations implementing the provisions of this Act. Such implementing rules and regulations shall provide for the school's organization, administration, operations and management, in accordance with Republic Act No. 9155, or the ""Governance of Basic Education Act of 2001"", Republic Act No. 10533, or the ""Enhanced Basic Education Act of 2013"", and other basic education-related laws.
+
+ **Section 5.** This Act shall take effect after fifteen (15) days following its publication in the Official Gazette or in a national newspaper of general circulation.
+
+ Approved,
+
+ | (Sgd.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate | (Sgd.) **FERDINAND MARTIN G. ROMUALDEZ** Speaker of the House of Representatives |
+
+ This Act, which originated in the House of Representatives, was passed by the House of Representatives and the Senate of the Philippines on November 7, 2023 and August 28, 2024, respectively.
+
+ | (Sgd.) **RENATO N. BANTUG, JR.** Secretary of the Senate | (Sgd.) **REGINALD S. VELASCO** Secretary General House of Representatives |
+
+ Approved: DEC 13 2024
+
+ (Sgd.) **FERDINAND ROMUALDEZ MARCOS JR.** President of the Philippines
+"	success	Education	Separates the Hatib Asamuddin Extension of Bucana Elementary School, converting it into an independent elementary school named Hatib Asamuddin Elementary School and appropriates funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""The Bucana Elementary School \u2013 Hatib Asamuddin Extension in Barangay Bucana, Municipality of Siocon, Province of Zamboanga del Norte is hereby separated from the Bucana Elementary School and converted into an independent elementary school to be known as the Hatib Asamuddin Elementary School.""}, {""title"": ""Section 2."", ""summary"": ""All personnel, assets, liabilities and records of the Bucana Elementary School \u2013 Hatib Asamuddin Extension are hereby transferred to and absorbed by the Hatib Asamuddin Elementary School.""}, {""title"": ""Section 3."", ""summary"": ""The Secretary of Education shall immediately include in the Department's program the operationalization of the Hatib Asamuddin Elementary School, with initial funding charged against the current year's appropriation of the Bucana Elementary School \u2013 Hatib Asamuddin Extension, and subsequent funding included in the annual General Appropriations Act.""}, {""title"": ""Section 4."", ""summary"": ""Within ninety (90) days from the approval of this Act, the Secretary of Education shall formulate the rules and regulations implementing this Act, providing for the school's organization, administration, operations and management in accordance with Republic Act No. 9155, Republic Act No. 10533, and other basic education-related laws.""}, {""title"": ""Section 5."", ""summary"": ""This Act shall take effect fifteen (15) days after its publication in the Official Gazette or a national newspaper of general circulation.""}]"	REPUBLIC ACT NO. 12083	2024-12-13	"[{""name"": ""FRANCIS \""CHIZ\"" G. ESCUDERO"", ""title"": ""President of the Senate""}, {""name"": ""FERDINAND MARTIN G. ROMUALDEZ"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""RENATO N. BANTUG, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""REGINALD S. VELASCO"", ""title"": ""Secretary General House of Representatives""}]"	To separate and convert the Hatib Asamuddin Extension into an independent elementary school and appropriate funds for its operation.	"[""Separation and conversion of the Hatib Asamuddin Extension into an independent elementary school"", ""Transfer of all personnel, assets, liabilities and records to the new school"", ""Funding appropriation for operationalization and continued operation"", ""Formulation of rules and regulations within 90 days of approval"", ""Act takes effect 15 days after publication""]"	Republic Act No. 9155 (Governance of Basic Education Act of 2001) and Republic Act No. 10533 (Enhanced Basic Education Act of 2013)	"[""Education"", ""School"", ""Republic Act"", ""Zamboanga""]"	"[""Hatib Asamuddin"", ""Bucana Elementary School"", ""Zamboanga del Norte"", ""Independent Elementary School"", ""Funding"", ""Secretary of Education""]"
+repacts:datasets/markdown/repacts/2024/ra_12084_2024.md	repacts	2024		datasets/markdown/repacts/2024/ra_12084_2024.md	ra_12084_2024	AN ACT CHANGING THE NAME OF NEW PARTIDO HIGH SCHOOL IN BARANGAY CATAGBACAN, MUNICIPALITY OF GOA, PROVINCE OF CAMARINES SUR TO NEW PARTIDO NATIONAL HIGH SCHOOL	"Nineteenth Congress Third Regular Session
+
+ [ REPUBLIC ACT NO. 12084, December 13, 2024 ]
+
+ AN ACT CHANGING THE NAME OF NEW PARTIDO HIGH SCHOOL IN BARANGAY CATAGBACAN, MUNICIPALITY OF GOA, PROVINCE OF CAMARINES SUR TO NEW PARTIDO NATIONAL HIGH SCHOOL
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The name of New Partido High School in Barangay Catagbacan, Municipality of Goa, Province of Camarines Sur is hereby changed to New Partido National High School.
+
+ **Section 2.** This Act shall take effect after fifteen (15) days following its publication in the Official Gazette or in a national newspaper of general circulation.
+
+ Approved,
+
+ | (Sgd.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate | (Sgd.) **FERDINAND MARTIN G. ROMUALDEZ** Speaker of the House of Representatives |
+
+ This Act, which originated in the House of Representatives, was passed by the House of Representatives and the Senate of the Philippines on November 29, 2023 and August 27, 2024, respectively.
+
+ | (Sgd.) **RENATO N. BANTUG, JR.** Secretary of the Senate | (Sgd.) **REGINALD S. VELASCO** Secretary General House of Representatives |
+
+ Approved: DEC 13 2024
+
+ (Sgd.) **FERDINAND ROMUALDEZ MARCOS JR.** President of the Philippines
+"	success	Republic Act	An act that changes the name of New Partido High School in Barangay Catagbacan, Municipality of Goa, Province of Camarines Sur to New Partido National High School.	"[{""title"": ""Section 1."", ""summary"": ""The name of New Partido High School in Barangay Catagbacan, Municipality of Goa, Province of Camarines Sur is hereby changed to New Partido National High School.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect after fifteen (15) days following its publication in the Official Gazette or in a national newspaper of general circulation.""}]"	12084	December 13, 2024	"[{""name"": ""FRANCIS \""CHIZ\"" G. ESCUDERO"", ""title"": ""President of the Senate""}, {""name"": ""FERDINAND MARTIN G. ROMUALDEZ"", ""title"": ""Speaker of the House of Representatives""}]"		To change the name of a public secondary school.	"[""Name change of New Partido High School to New Partido National High School"", ""Effectivity after 15 days following publication""]"		"[""Education"", ""School"", ""Republic Act"", ""Name Change""]"	"[""New Partido High School"", ""New Partido National High School"", ""Baranggay Catagbacan"", ""Municipality of Goa"", ""Province of Camarines Sur"", ""Republic Act 12084"", ""change of name""]"
+repacts:datasets/markdown/repacts/2024/ra_12085_2024.md	repacts	2024		datasets/markdown/repacts/2024/ra_12085_2024.md	ra_12085_2024	AN ACT CHANGING THE NAME OF SAN SEBASTIAN FISHERIES HIGH SCHOOL IN BARANGAY SAN SEBASTIAN, MUNICIPALITY OF LAGONOY, PROVINCE OF CAMARINES SUR TO SAN SEBASTIAN NATIONAL HIGH SCHOOL	"Nineteenth Congress Third Regular Session
+
+ [ REPUBLIC ACT NO. 12085, December 13, 2024 ]
+
+ AN ACT CHANGING THE NAME OF SAN SEBASTIAN FISHERIES HIGH SCHOOL IN BARANGAY SAN SEBASTIAN, MUNICIPALITY OF LAGONOY, PROVINCE OF CAMARINES SUR TO SAN SEBASTIAN NATIONAL HIGH SCHOOL
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The name of San Sebastian Fisheries High School in Barangay San Sebastian, Municipality of Lagonoy, Province of Camarines Sur is hereby changed to San Sebastian National High School.
+
+ **Section 2.** This Act shall take effect after fifteen (15) days following its publication in the Official Gazette or in a national newspaper of general circulation.
+
+ Approved,
+
+ | (Sgd.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate | (Sgd.) **FERDINAND MARTIN G. ROMUALDEZ** Speaker of the House of Representatives |
+
+ This Act, which originated in the House of Representatives, was passed by the House of Representatives and the Senate of the Philippines on November 29, 2023 and August 27, 2024, respectively.
+
+ | (Sgd.) **RENATO N. BANTUG, JR.** Secretary of the Senate | (Sgd.) **REGINALD S. VELASCO** Secretary General House of Representatives |
+
+ Approved: DEC 13 2024
+
+ (Sgd.) **FERDINAND ROMUALDEZ MARCOS JR.** President of the Philippines
+"	success	Republic Act	This Act changes the name of San Sebastian Fisheries High School in Barangay San Sebastian, Municipality of Lagonoy, Province of Camarines Sur to San Sebastian National High School.	"[{""title"": ""Section 1."", ""summary"": ""The name of San Sebastian Fisheries High School in Barangay San Sebastian, Municipality of Lagonoy, Province of Camarines Sur is hereby changed to San Sebastian National High School.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a national newspaper of general circulation.""}]"	12085	December 13, 2024	"[{""name"": ""FRANCIS \""CHIZ\"" G. ESCUDERO"", ""title"": ""President of the Senate""}, {""name"": ""FERDINAND MARTIN G. ROMUALDEZ"", ""title"": ""Speaker of the House of Representatives""}]"		To rename San Sebastian Fisheries High School to San Sebastian National High School.	"[""Name of the school is changed to San Sebastian National High School."", ""Act takes effect 15 days after publication in the Official Gazette or national newspaper.""]"		"[""Education"", ""School"", ""Name Change""]"	"[""San Sebastian"", ""Fisheries High School"", ""National High School"", ""Camarines Sur"", ""Lagonoy"", ""Republic Act 12085""]"
+repacts:datasets/markdown/repacts/2024/ra_12086_2024.md	repacts	2024		datasets/markdown/repacts/2024/ra_12086_2024.md	ra_12086_2024	An Act Separating the Lapuyan National High School - Karpok Extension in Barangay Karpok, Municipality of Lapuyan, Province of Zamboanga del Sur from the Lapuyan National High School, Converting it into an Independent National High School School to be known as the Karpok National High School, and Appropriating Funds Therefor	"Nineteenth Congress Third Regular Session
+
+ [ REPUBLIC ACT NO. 12086, December 13, 2024 ]
+
+ AN ACT SEPARATING THE LAPUYAN NATIONAL HIGH SCHOOL - KARPOK EXTENSION IN BARANGAY KARPOK, MUNICIPALITY OF LAPUYAN, PROVINCE OF ZAMBOANGA DEL SUR FROM THE LAPUYAN NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL SCHOOL TO BE KNOWN AS THE KARPOK NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Lapuyan National High School - Karpok Extension in Barangay Karpok, Municipality of Lapuyan, Province of Zamboanga del Norte is hereby separated from the Lapuyan National High School and converted into an independent national high school to be known as the Karpok National High School.
+
+ **Section 2.** All personnel, assets, liabilities and records of the Lapuyan National High School - Karpok Extension are hereby transferred to and absorbed by the Karpok National High School.
+
+ **Section 3.** The Secretary of Education shall immediately include in the Department's program the operationalization of the Karpok National High School, the initial funding of which shall be charged against the current year's appropriation of the Lapuyan National High School - Karpok Extension. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.

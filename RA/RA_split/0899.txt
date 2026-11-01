@@ -1,0 +1,137 @@
+repacts:datasets/markdown/repacts/1964/ra_3954_1964.md	repacts	1964		datasets/markdown/repacts/1964/ra_3954_1964.md	ra_3954_1964	An Act Changing the Name of Mambalite Primary School in Barrio Mambalite, Municipality of Daet, Province of Camarines Norte, to Guito Pimentel Community School	"**REPUBLIC ACT No. 3954**
+
+ **An Act Changing the Name of Mambalite Primary School in Barrio Mambalite, Municipality of Daet, Province of Camarines Norte, to Guito Pimentel Community School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Mambalite Primary School in the barrio of Mambalite, Municipality of Daet, Province of Camarines Norte, is hereby changed to Guito Pimentel Community School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1964.
+"	success	Republic Act	This act changes the name of Mambalite Primary School to Guito Pimentel Community School.	"[{""title"": ""Section 1."", ""summary"": ""Changes the name of Mambalite Primary School to Guito Pimentel Community School.""}, {""title"": ""Section 2."", ""summary"": ""Act takes effect upon approval.""}]"	3954	June 18, 1964			To change the name of Mambalite Primary School to Guito Pimentel Community School.	"[""Name of the school changed to Guito Pimentel Community School."", ""Act takes effect upon approval.""]"		"[""Education"", ""School"", ""Name Change""]"	"[""Mambalite"", ""Daet"", ""Camarines Norte"", ""Guito Pimentel"", ""Primary School""]"
+repacts:datasets/markdown/repacts/1964/ra_3955_1964.md	repacts	1964		datasets/markdown/repacts/1964/ra_3955_1964.md	ra_3955_1964	An Act Changing the Name of the Calabagas Community School in the Barrio of Calabagas, Municipality of San Vicente, Province of Camarines Norte, to Orendain Community School	"**REPUBLIC ACT No. 3955**
+
+ **An Act Changing the Name of the Calabagas Community School in the Barrio of Calabagas, Municipality of San Vicente, Province of Camarines Norte, to Orendain Community School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Calabagas Community School in the barrio of Calabagas, Municipality of San Vicente, Province of Camarines Norte, is hereby changed to Orendain Community School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1964.
+"	success	Republic Act	Amendment changing the name of Calabagas Community School to Orendain Community School.	"[{""title"": ""Section 1."", ""summary"": ""The name of the Calabagas Community School in the barrio of Calabagas, Municipality of San Vicente, Province of Camarines Norte, is hereby changed to Orendain Community School.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	3955	June 18, 1964			To change the name of a community school.	"[""Change the name of Calabagas Community School to Orendain Community School"", ""Act takes effect upon approval""]"			
+repacts:datasets/markdown/repacts/1964/ra_3956_1964.md	repacts	1964		datasets/markdown/repacts/1964/ra_3956_1964.md	ra_3956_1964	An Act Providing for the Establishment of an Emergency Hospital in the Municipality of San Juan, Province of Batangas, to be Known as San Juan Emergency Hospital, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 3956**
+
+ **An Act Providing for the Establishment of an Emergency Hospital in the Municipality of San Juan, Province of Batangas, to be Known as San Juan Emergency Hospital, and Authorizing the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established under the supervision of the Director of Medical Services, an emergency hospital with thirty-bed capacity in the Municipality of San Juan, Province of Batangas, to be known as San Juan Emergency Hospital.
+
+ **Section 2.** The sum of one hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital during the fiscal year nineteen hundred sixty-five. Thereafter, such sums as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1964.
+"	success	Act	Establishes San Juan Emergency Hospital with a thirty-bed capacity and appropriates funds for its establishment and operation.	"[{""title"": ""Section 1."", ""summary"": ""An emergency hospital with thirty-bed capacity is established under the supervision of the Director of Medical Services.""}, {""title"": ""Section 2."", ""summary"": ""Authorizes the appropriation of one hundred thousand pesos for the hospital\u2019s establishment, operation, and maintenance during FY 1965, with future sums to be included in the General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""The Act takes effect upon its approval.""}]"	3956	June 18, 1964			To establish an emergency hospital in San Juan, Batangas and provide for its funding.	"[""Establishment of a thirty-bed emergency hospital"", ""Appropriation of 100,000 pesos for FY 1965"", ""Future funding to be included in General Appropriations Act"", ""Effectivity upon approval""]"		"[""Healthcare"", ""Hospital"", ""Emergency"", ""San Juan"", ""Batangas""]"	"[""emergency hospital"", ""San Juan"", ""Batangas"", ""appropriation"", ""federal treasury""]"
+repacts:datasets/markdown/repacts/1964/ra_3957_1964.md	repacts	1964		datasets/markdown/repacts/1964/ra_3957_1964.md	ra_3957_1964	An Act Providing for the Establishment of a School of Fisheries in the Municipality of Siasi, Province of Sulu, to be Known as Siasi School of Fisheries, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 3957**
+
+ **An Act Providing for the Establishment of a School of Fisheries in the Municipality of Siasi, Province of Sulu, to be Known as Siasi School of Fisheries, and Authorizing the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established under the direct supervision of the Director of Vocational Education, a school of fisheries in the Municipality of Siasi, Province of Sulu, to be known as Siasi School of Fisheries.
+
+ **Section 2.** The sum of three hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said school during the fiscal year nineteen hundred sixty-five. Thereafter, such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1964.
+"	success	Republic Act	This act establishes the Siasi School of Fisheries under the supervision of the Director of Vocational Education, appropriates ₱300,000 for its establishment and operation for the fiscal year 1965, and authorizes future appropriations through the General Appropriations Act. The act takes effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Establishes the Siasi School of Fisheries in the Municipality of Siasi, Province of Sulu, under the direct supervision of the Director of Vocational Education.""}, {""title"": ""Section 2"", ""summary"": ""Appropriates \u20b1300,000 for the establishment, operation, and maintenance of the school for FY1965 and authorizes inclusion of future operational funds in the General Appropriations Act.""}, {""title"": ""Section 3"", ""summary"": ""The act takes effect upon its approval.""}]"	3957	June 18, 1964			To establish a fisheries school in Siasi and authorize funds for its operation.	"[""Establishment of Siasi School of Fisheries"", ""Appropriation of \u20b1300,000 for FY1965"", ""Future operational funds to be included in General Appropriations Act"", ""Effective upon approval""]"		"[""Education"", ""Fisheries"", ""Siasi"", ""Sulu"", ""Vocational Education""]"	"[""school of fisheries"", ""Siasi"", ""Sulu"", ""appropriation"", ""vocational education""]"
+repacts:datasets/markdown/repacts/1964/ra_3958_1964.md	repacts	1964		datasets/markdown/repacts/1964/ra_3958_1964.md	ra_3958_1964	An Act Granting Jose de Leon Electric Plant a Franchise for an Electric Light, Heat and Power System in the Municipality of San Miguel, Province of Bulacan	"**REPUBLIC ACT No. 3958**
+
+ **An Act Granting Jose de Leon Electric Plant a Franchise for an Electric Light, Heat and Power System in the Municipality of San Miguel, Province of Bulacan**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Subject to the terms and conditions established in Act Numbered Thirty-six hundred and thirty-six, as amended by Commonwealth Act Numbered One hundred and thirty-two, and to the provisions of the Constitution, there is granted to Jose de Leon Electric Plant, for a period of fifty years from the approval of this Act, the right, privilege and authority to construct, maintain and operate an electric light, heat and power system for the purpose of generating and distributing electric light, heat and/or power for sale within the Municipality of San Miguel, Province of Bulacan.
+
+ **Section 2.** In the event that the grantee shall purchase and secure from the National Power Corporation electric energy and power, the National Power Corporation is hereby authorized to negotiate and transact thru the Public Service Commission for the benefit and in behalf of the public consumers with reference to rates.
+
+ **Section 3.** The rate for the sale of electric light, heat and power shall always be subject to the regulation of the Public Service Commission.
+
+ **Section 4.** It is expressly provided that in the event the Government should desire to maintain and operate for itself the system and enterprise herein authorized, the grantee shall surrender its franchise and will turn over to the Government all serviceable equipment therein, at cost, less reasonable depreciation. It is likewise provided that within two years from approval hereof, the grantee shall extend its service to the barrios of Salacot, Camias, San Agustin, Santa Rita, Salangan, Batasan, and Sibul, all in the Municipality of San Miguel, Province of Bulacan. The Public Service Commission is enjoined to enforce this provision.
+
+ **Section 5.** This Act shall take effect upon its approval: *Provided,* That should the grantee shall fail to construct and operate its electric light, heat and power system within three years from the approval of this Act, the franchise therefor shall be null and void.
+
+ Approved: June 18, 1964.
+"	success	Republic Act	This act grants Jose de Leon Electric Plant a 50‑year franchise to construct, maintain, and operate an electric light, heat and power system in San Miguel, Bulacan, subject to conditions such as rate regulation by the Public Service Commission and provisions for surrender or extension to nearby barrios.	"[{""title"": ""Section 1."", ""summary"": ""Grant of a 50\u2011year franchise to Jose de Leon Electric Plant for constructing and operating an electric power system in San Miguel, Bulacan.""}, {""title"": ""Section 2."", ""summary"": ""Authorization for the National Power Corporation to negotiate and transact electricity supplies with the Public Service Commission on behalf of consumers.""}, {""title"": ""Section 3."", ""summary"": ""Mandates that the sale of electric light, heat and power is regulated by the Public Service Commission.""}, {""title"": ""Section 4."", ""summary"": ""Provides conditions for surrendering the franchise to the government and extending service to specified barrios within two years.""}, {""title"": ""Section 5."", ""summary"": ""Effectivity of the act and nullity clause if the franchisee fails to construct the system within three years.""}]"	3958	June 18, 1964			To grant a franchise for the operation of an electric light, heat and power system in San Miguel, Bulacan.	"[""50\u2011year franchise granted to Jose de Leon Electric Plant."", ""NPC authorized to procure electric energy through the Public Service Commission."", ""Rates for sale subject to Public Service Commission regulation."", ""Franchise can be surrendered to the government with equipment return at cost."", ""Extension of service to specified barrios within two years."", ""Null and void if system not constructed within three years.""]"	Act Numbered Thirty‑six hundred and thirty‑six, as amended by Commonwealth Act Numbered One hundred and thirty‑two.	"[""Electricity"", ""Franchise"", ""Bulacan"", ""San Miguel"", ""Public Service Commission""]"	"[""Jose de Leon Electric Plant"", ""Electric Light"", ""Heat"", ""Power"", ""Franchise"", ""National Power Corporation"", ""Public Service Commission""]"
+repacts:datasets/markdown/repacts/1964/ra_3959_1964.md	repacts	1964		datasets/markdown/repacts/1964/ra_3959_1964.md	ra_3959_1964	"An Act Amending Section One of Republic Act Numbered Seven Hundred Sixty-Two, Entitled ""An Act Converting the Provincial Trade School in the City of Cagayan De Oro to a Regional National Vocational Trade School of the Philippine School of Arts and Trades Type, and Authorizing the Appropriation of Funds Therefor"""	"**REPUBLIC ACT No. 3959**
+
+ **An Act Amending Section One of Republic Act Numbered Seven Hundred Sixty-Two, Entitled ""An Act Converting the Provincial Trade School in the City of Cagayan De Oro to a Regional National Vocational Trade School of the Philippine School of Arts and Trades Type, and Authorizing the Appropriation of Funds Therefor""**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section one of Republic Act Numbered Seven hundred sixty-two is hereby amended to read as follows:
+
+ > ""Sec. 1. The provincial trade school of the City of Cagayan de Oro is converted to a regional national vocational trade school of the Philippine School of Arts and Trades type, which shall be known as Mindanao School of Arts and Trades. Said school shall include in its present curriculum teacher education course leading to the degree of Bachelor of Science in Industrial Education and the degree of Bachelor of Science in Industrial Arts, to be offered in evening classes.""
+
+ **Section 2.** The sum of two hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, to carry out the purpose of this Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1964.
+"	success	Act	This Act amends Section 1 of RA 762 to convert the provincial trade school in Cagayan de Oro into the Mindanao School of Arts and Trades, adds teacher education courses for Bachelor of Science degrees, and authorizes the appropriation of 200,000 pesos for its implementation.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 1 of RA 762 to convert the provincial trade school to a regional national vocational trade school named Mindanao School of Arts and Trades, adding a teacher education curriculum for Bachelor of Science degrees.""}, {""title"": ""Section 2"", ""summary"": ""Authorizes the appropriation of 200,000 pesos from the National Treasury for the purpose of this Act.""}, {""title"": ""Section 3"", ""summary"": ""States that the Act shall take effect upon its approval.""}]"	3959	June 18, 1964			To convert the provincial trade school in Cagayan de Oro into a regional national vocational trade school, add relevant teacher education programs, and authorize the necessary funding.	"[""Amends Section 1 of RA 762 to convert the provincial trade school to the Mindanao School of Arts and Trades"", ""Adds Bachelor of Science in Industrial Education and Industrial Arts courses"", ""Appropriates 200,000 pesos for implementation"", ""Act takes effect upon approval""]"	Republic Act No. 762	"[""Education"", ""Vocational Training"", ""School Conversion"", ""Appropriation""]"	"[""Republic Act 3959"", ""Mindanao School of Arts and Trades"", ""Cagayan de Oro"", ""teacher education"", ""Bachelor of Science in Industrial Education"", ""Bachelor of Science in Industrial Arts"", ""200,000 pesos"", ""June 18 1964""]"
+repacts:datasets/markdown/repacts/1964/ra_3960_1964.md	repacts	1964		datasets/markdown/repacts/1964/ra_3960_1964.md	ra_3960_1964	An Act Granting Enrique Navarro II a Franchise to Construct, Operate and Maintain an Electric Light, Heat and Power System and Ice Plant in the Island of Siargao, Province of Surigao del Norte	"**REPUBLIC ACT No. 3960**
+
+ **An Act Granting Enrique Navarro II a Franchise to Construct, Operate and Maintain an Electric Light, Heat and Power System and Ice Plant in the Island of Siargao, Province of Surigao del Norte**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Subject to the terms and conditions established in Act Numbered Thirty-six hundred and thirty-six, as amended by Commonwealth Act Numbered One hundred and thirty-two and to the provisions of the Constitution, there is granted to Enrique Navarro II, for a period of twenty-five years from the approval of this Act, the right, privilege, and authority to construct, maintain and operate an electric light, heat and power system and ice plant in the Island of Siargao, Province of Surigao del Norte.
+
+ **Section 2.** It is expressly provided that in the event the Government should desire to maintain and operate for itself the system and enterprise herein authorized, the grantee shall surrender his franchise and will turn over to the Government all serviceable equipment therein at cost, less reasonable depreciation.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1964.
+"	success	Republic Act	This law grants Enrique Navarro II a 25‑year franchise to construct, operate and maintain an electric light, heat and power system and ice plant in Siargao, Surigao del Norte, with provisions for surrendering the franchise if the government wishes to take over the system. The act takes effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Grants Enrique Navarro II a 25\u2011year franchise to construct, maintain and operate an electric light, heat and power system and ice plant in Siargao, Surigao del Norte, subject to conditions set in Act No. 3636 and Commonwealth Act No. 132.""}, {""title"": ""Section 2"", ""summary"": ""Provides that if the government desires to maintain and operate the system, the grantee must surrender the franchise and return all serviceable equipment to the government at cost, less reasonable depreciation.""}, {""title"": ""Section 3"", ""summary"": ""The act shall take effect upon its approval.""}]"	3960	June 18, 1964			To grant a franchise for the construction, operation, and maintenance of an electric power and ice plant system in Siargao, Surigao del Norte.	"[""Grant of 25\u2011year franchise to Enrique Navarro II"", ""Provision to surrender franchise if government takes over"", ""Effectivity upon approval""]"	Act No. 3636, as amended by Commonwealth Act No. 132	"[""Franchise"", ""Electric Power"", ""Siargao"", ""Surigao del Norte"", ""Ice Plant""]"	"[""Enrique Navarro II"", ""electric light"", ""heat"", ""power system"", ""ice plant"", ""franchise"", ""Siargao"", ""Surigao del Norte""]"
+repacts:datasets/markdown/repacts/1964/ra_3961_1964.md	repacts	1964		datasets/markdown/repacts/1964/ra_3961_1964.md	ra_3961_1964	An Act Creating the San Juanico Strait Tourist Development Authority, Authorizing the Appropriation of Funds Therefor, and for Other Purposes	"**REPUBLIC ACT No. 3961**
+
+ **An Act Creating the San Juanico Strait Tourist Development Authority, Authorizing the Appropriation of Funds Therefor, and for Other Purposes**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** *Purpose; creation.* -For the purpose of developing the San Juanico Strait, which separates the Provinces of Samar, Leyte and Southern Leyte, there is hereby created a non-stock corporate body to be known as the San Juanico Strait Tourist Development Authority, hereinafter referred to as Authority, which shall have its principal office in Tacloban and a sub-office in Sta. Rita, Samar.
+
+ **Section 2.** *Governing board; meetings.* -The powers and functions of the Authority shall be vested in, and exercised by, a Board of Directors composed of the Secretary of Commerce and Industry, as chairman, the Secretary of Public Works and Communications, the Tourist Commissioner and the Provincial Governors of Samar, Leyte and Southern Leyte as members.
+
+ The chairman and members of the Board shall receive no per diems but may be allowed to draw travel allowances.
+
+ The Board shall meet regularly once a month and may hold such special meetings, at the call of the chairman or a majority of the members of the Board, as may be necessary in the interests of the Authority. The meetings may be held in any place at the discretion of the Board.
+
+ **Section 3.** *General corporate powers.* -The Authority shall have the power to adopt, alter, and use a corporate seal which shall be judicially noticed; to lease or own real and personal property and to sell, mortgage or otherwise dispose of the same; to sue and be sued; and to exercise such other general powers as are authorized under the Corporation Law.
+
+ **Section 4.** *Special corporate powers.* -The Authority shall, likewise, have the power to borrow money; float bonds, securities, and other certificates of indebtedness with the approval of the Central Bank and the President of the Philippines, which shall be guaranteed by the Philippine Government, both as to principal and interest; to enter into contracts with any person, association or corporation, public or private; to construct hotels, lodging houses, rest houses and other improvements that, in the discretion of the Board, may redound to the interests of the Authority; and to appoint a general manager and such other subordinate personnel as may be necessary to accomplish its ends, to fix their duties and salaries.
+
+ **Section 5.** *Corporate Auditor.* -The Auditor General shall appoint an auditor of the Authority and such other personnel as may be necessary to compose the auditing personnel of the Authority, and fix their salaries after prior consultation with and approval of the Board of Directors of the Authority. Any disagreement as to the number and salaries of the auditing personnel, and to the sum appropriated by the Authority, for equipment and supplies of the Auditing Service shall be referred to the President of the Philippines whose decision thereon shall be final.
+
+ **Section 6.** *Appropriation.* -There is hereby authorized to be appointed out of any funds in the National Treasury not otherwise appropriated, the sum of five hundred thousand pesos for the initial organization and operation of the Authority. Thereafter, such sums as may be necessary to augment the income of the Authority shall be included in the annual General Appropriations Act.
+
+ **Section 7.** *Effectivity.* -This Act shall take effect upon its approval.
+
+ Approved: June 18, 1964.
+"	success	Republic Act	Creates the San Juanico Strait Tourist Development Authority, authorizes appropriation of funds, and outlines its structure, powers, and governance.	"[{""title"": ""Purpose; creation"", ""summary"": ""Establishes the San Juanico Strait Tourist Development Authority to develop the San Juanico Strait area.""}, {""title"": ""Governing board; meetings"", ""summary"": ""Defines composition of board, meeting frequency, and allowances.""}, {""title"": ""General corporate powers"", ""summary"": ""Authorizes authority to adopt seal, own property, sue, and other corporate powers under Corporation Law.""}, {""title"": ""Special corporate powers"", ""summary"": ""Allows borrowing, issuing bonds, entering contracts, constructing facilities, and appointing personnel.""}, {""title"": ""Corporate Auditor"", ""summary"": ""Mandates appointment of auditor and auditing personnel, salary consultation, and dispute resolution with President.""}, {""title"": ""Appropriation"", ""summary"": ""Approves initial appropriation of 500,000 pesos and future appropriations.""}, {""title"": ""Effectivity"", ""summary"": ""Act takes effect upon approval.""}]"	3961	June 18, 1964			To establish the San Juanico Strait Tourist Development Authority and provide for its funding and governance.	"[""Creation of San Juanico Strait Tourist Development Authority"", ""Composition of governing board"", ""General and special corporate powers"", ""Appropriation of 500,000 pesos"", ""Authority to appoint auditor and personnel""]"		"[""Tourism"", ""San Juanico Strait"", ""Authority"", ""Republic Act"", ""Philippines""]"	"[""San Juanico Strait"", ""Tourist Development"", ""Authority"", ""Appropriation"", ""Corporate Powers""]"
+repacts:datasets/markdown/repacts/1964/ra_3962_1964.md	repacts	1964		datasets/markdown/repacts/1964/ra_3962_1964.md	ra_3962_1964	An Act Granting the Calbayog Electric Powers, Inc. a Franchise to Install, Operate and Maintain an Electric Light, Heat and Power System in the City of Calbayog and its Suburbs	"**REPUBLIC ACT No. 3962**
+
+ **An Act Granting the Calbayog Electric Powers, Inc. a Franchise to Install, Operate and Maintain an Electric Light, Heat and Power System in the City of Calbayog and its Suburbs**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Subject to the provisions of the Constitution and to the terms and conditions established in Act Numbered Thirty-six hundred and thirty-six, as amended by Commonwealth Act Numbered one hundred and thirty-two, there is granted to the Calbayog Electric Power, Inc., for a period of twenty-five years from the date of the approval of this Act the right, privilege and authority to construct, operate and maintain an electric light, heat and/or power system for the purpose of generating and distributing electric light, heat and/or power for sale within the City of Calbayog and its suburbs.
+
+ **Section 2.** The rates for the sale of electric light, heat and/or power shall always be subject to regulation by the Public Service Commission.
+
+ **Section 3.** In consideration of the franchise and rights hereby granted, the grantee shall pay a franchise tax equal to three per centum of the gross earnings for electric current sold under this franchise, of which two per centum goes into the National Treasury and one per centum goes into the city treasury of Calbayog: *Provided,* That the said franchise tax of three per centum of the gross earnings shall be in lieu of all taxes and assessments of whatever authority upon franchise, privileges, earnings, income, rights, and all other property owned or operated by the grantee under this concession or franchise, from which taxes and assessments the grantee is hereby expressly exempted.

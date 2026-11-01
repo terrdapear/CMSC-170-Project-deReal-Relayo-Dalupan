@@ -1,0 +1,161 @@
+repacts:datasets/markdown/repacts/1960/ra_2732_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2732_1960.md	ra_2732_1960	An Act Providing for the Maintenance and Operation of a Hospital in the Municipality of Tagudin, Province of Ilocos Sur, to be Known as the Southern Ilocos Sur Hospital, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 2732**
+
+ **An Act Providing for the Maintenance and Operation of a Hospital in the Municipality of Tagudin, Province of Ilocos Sur, to be Known as the Southern Ilocos Sur Hospital, and Authorizing the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be under the direct supervision of the Director of Medical Services, a twenty-five-bed general hospital in the Municipality of Tagudin, Province of Ilocos Sur, to be known as the Southern Ilocos Sur Hospital. The site for the said hospital shall be provided by the Municipal Council of the Municipality of Tagudin in consultation with the Director of Medical Services.
+
+ **Section 2.** The Secretary of Health shall promulgate such rules and regulations as may be necessary to carry into effect the purpose of this Act.
+
+ **Section 3.** The sum of fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the maintenance and operation of the said hospital during the fiscal year nineteen hundred and sixty-one: *Provided,* That no amount herein authorized to be appropriated will be released unless the Secretary of Health certifies that a suitable hospital building is available. Such sums as may be necessary for its maintenance and operation in subsequent years shall be included in the annual General Appropriations Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	Establishes a 25-bed general hospital in Tagudin, Ilocos Sur, and authorizes appropriation of 50,000 pesos for its operation, subject to certain conditions.	"[{""title"": ""Section 1."", ""summary"": ""Establishes a 25-bed general hospital under supervision of Director of Medical Services, with site provided by Municipal Council.""}, {""title"": ""Section 2."", ""summary"": ""Secretary of Health to promulgate rules and regulations necessary for the Act's purpose.""}, {""title"": ""Section 3."", ""summary"": ""Authorizes appropriation of 50,000 pesos for 1961 fiscal year, with conditions about certification and future appropriations.""}, {""title"": ""Section 4."", ""summary"": ""Act takes effect upon approval.""}]"	2732	June 19, 1960			To establish and fund a hospital for Tagudin, Ilocos Sur.	"[""Establishment of a 25-bed general hospital under Director of Medical Services."", ""Authorization of 50,000 pesos appropriation for 1961 fiscal year."", ""Conditions requiring Secretary of Health certification of suitable building."", ""Authorization for future maintenance and operation funds.""]"		"[""Healthcare"", ""Hospital"", ""Ilocos Sur"", ""Public Health"", ""Republic Act"", ""Funding""]"	"[""hospital"", ""Tagudin"", ""Ilocos Sur"", ""healthcare"", ""funding"", ""public health"", ""Republic Act 2732""]"
+repacts:datasets/markdown/repacts/1960/ra_2733_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2733_1960.md	ra_2733_1960	An Act to Declare the Site in Magallanes, Limasawa Island in the Province of Leyte, Where the First Mass in the Philippines was Held as a National Shrine, to Provide for the Preservation of Historical Monuments and Landmarks Thereat, and for Other Purposes	"**REPUBLIC ACT No. 2733**
+
+ **An Act to Declare the Site in Magallanes, Limasawa Island in the Province of Leyte, Where the First Mass in the Philippines was Held as a National Shrine, to Provide for the Preservation of Historical Monuments and Landmarks Thereat, and for Other Purposes**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The site in Magallanes, Limasawa Island in the Province of Leyte, where the first Mass in the Philippines was held is hereby declared a national shrine to commemorate the birth of Christianity in the Philippines.
+
+ **Section 2.** All historical monuments and landmarks in said site shall be preserved and/or reconstructed whenever necessary as much as possible in their original form and are hereby declared national historical monuments and landmarks.
+
+ **Section 3.** The National Planning Commission shall exercise supervision and control over the reconstruction and/or preservation of the aforesaid site and monuments, and shall issue rules and regulations to effectuate the preceding sections of this Act.
+
+ **Section 4.** Necessary funds for the purposes of this Act shall be provided for in the annual appropriations for public works and disbursements shall be made by the National Planning Commission under such rules and regulations as the Auditor General may prescribe.
+
+ **Section 5.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	This act declares the site in Magallanes, Limasawa Island, as a national shrine commemorating the first Mass in the Philippines, mandates preservation and reconstruction of historical monuments and landmarks, establishes the National Planning Commission for supervision, provides funding through public works appropriations, and takes effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""The site in Magallanes, Limasawa Island where the first Mass was held is declared a national shrine to commemorate the birth of Christianity in the Philippines.""}, {""title"": ""Section 2."", ""summary"": ""All historical monuments and landmarks in the site shall be preserved and/or reconstructed as much as possible in their original form and are declared national historical monuments and landmarks.""}, {""title"": ""Section 3."", ""summary"": ""The National Planning Commission shall supervise and control the reconstruction and preservation of the site and monuments, and issue rules and regulations to effectuate this Act.""}, {""title"": ""Section 4."", ""summary"": ""Necessary funds for this Act shall be provided in the annual appropriations for public works, and disbursements shall be made by the National Planning Commission under rules prescribed by the Auditor General.""}, {""title"": ""Section 5."", ""summary"": ""The Act shall take effect upon its approval.""}]"	2733	June 19, 1960			To declare the site of the first Mass as a national shrine and preserve historical monuments and landmarks within it.	"[""Declaration of the site as a national shrine"", ""Preservation and reconstruction of historical monuments and landmarks"", ""Supervision by the National Planning Commission"", ""Funding through public works appropriations"", ""Effective upon approval""]"		"[""National Shrine"", ""Historical Preservation"", ""Leyte"", ""Limasawa Island""]"	"[""Magallanes"", ""Limasawa Island"", ""first Mass"", ""national shrine"", ""historical monuments"", ""National Planning Commission"", ""public works""]"
+repacts:datasets/markdown/repacts/1960/ra_2734_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2734_1960.md	ra_2734_1960	An Act to Authorize the Establishment of Two Fresh-Water Experimental and Demonstration Fish Nursery Stations in the Towns of Santa Cruz and Calamba, Province of Laguna, and to Authorize the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 2734**
+
+ **An Act to Authorize the Establishment of Two Fresh-Water Experimental and Demonstration Fish Nursery Stations in the Towns of Santa Cruz and Calamba, Province of Laguna, and to Authorize the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established and maintained, under the supervision of the Director of Fisheries, two fresh-water experimental and demonstration fish nursery stations in Laguna de Bay, one in the Municipality of Santa Cruz, and another in the Municipality of Calamba, both within the Province of Laguna.
+
+ **Section 2.** The sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, to carry into effect the purpose of this Act during the fiscal year ending June thirtieth, nineteen hundred and sixty-one. Thereafter, the necessary amount for the purpose shall be included in the General Appropriations Act of each year.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	Authorizes the establishment of two fish nursery stations in Santa Cruz and Calamba, Laguna, and appropriates funds for their operation.	"[{""title"": ""Section 1"", ""summary"": ""Establishes two fresh-water experimental and demonstration fish nursery stations in the Municipality of Santa Cruz and the Municipality of Calamba, both within the Province of Laguna, under the supervision of the Director of Fisheries.""}, {""title"": ""Section 2"", ""summary"": ""Authorizes the appropriation of one hundred thousand pesos for the implementation of the Act during the fiscal year ending June 30, 1961, and requires inclusion of necessary amounts in subsequent General Appropriations Acts.""}, {""title"": ""Section 3"", ""summary"": ""The Act shall take effect upon its approval.""}]"	2734	June 19, 1960			To authorize the establishment of fish nursery stations and to appropriate funds for their operation.	"[""Appropriation of 100,000 pesos for fish nursery stations"", ""Establishment of two fish nursery stations in Santa Cruz and Calamba"", ""Funds to be included in the General Appropriations Act thereafter"", ""Act takes effect upon approval""]"		"[""Fishery"", ""Agriculture"", ""Laguna"", ""Establishment""]"	"[""fresh-water fish nursery"", ""Laguna de Bay"", ""Santa Cruz"", ""Calamba"", ""fisheries"", ""fund appropriation"", ""Republic Act 2734""]"
+repacts:datasets/markdown/repacts/1960/ra_2735_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2735_1960.md	ra_2735_1960	An Act to Authorize the Establishment of an Experimental and Demonstration Oyster Farm in Sta. Maria, Ilocos Sur, and to Authorize the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 2735**
+
+ **An Act to Authorize the Establishment of an Experimental and Demonstration Oyster Farm in Sta. Maria, Ilocos Sur, and to Authorize the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The Director of Fisheries is hereby authorized to establish an experimental and demonstration oyster farm in the Municipality of Sta. Maria, Province of Ilocos Sur, which shall be called Ilocos Sur Oyster Experimental and Demonstration Station.
+
+ **Section 2.** The sum of thirty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, to carry into effect the purpose of this Act during the fiscal year ending June thirtieth, nineteen hundred and sixty-one. Thereafter, the necessary amount for the purpose shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	This act authorizes the establishment of an experimental and demonstration oyster farm in Sta. Maria, Ilocos Sur, and appropriates thirty thousand pesos for its operation.	"[{""title"": ""Section 1"", ""summary"": ""Authorizes the Director of Fisheries to establish the Ilocos Sur Oyster Experimental and Demonstration Station in Sta. Maria.""}, {""title"": ""Section 2"", ""summary"": ""Appropriates thirty thousand pesos for the farm during the fiscal year ending June 30, 1961, and mandates future inclusion in the General Appropriations Act.""}, {""title"": ""Section 3"", ""summary"": ""The act takes effect upon its approval.""}]"	2735	June 19, 1960			To authorize the establishment of an experimental oyster farm and appropriate funds for its operation.	"[""Authorization of the establishment of an experimental and demonstration oyster farm in Sta. Maria, Ilocos Sur."", ""Appropriation of thirty thousand pesos for the farm during the fiscal year ending June 30, 1961."", ""Future inclusion of the necessary amount in the annual General Appropriations Act."", ""Effectivity of the act upon approval.""]"		"[""fisheries"", ""agriculture"", ""Ilocos Sur"", ""oyster farm""]"	"[""oyster farm"", ""Ilocos Sur"", ""fisheries"", ""fund appropriation"", ""experimental farm""]"
+repacts:datasets/markdown/repacts/1960/ra_2736_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2736_1960.md	ra_2736_1960	An Act Providing for the Establishment, Operation and Maintenance of a School of Fisheries in the Municipality of Palanan, Province of Isabela	"**REPUBLIC ACT No. 2736**
+
+ **An Act Providing for the Establishment, Operation and Maintenance of a School of Fisheries in the Municipality of Palanan, Province of Isabela**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the supervision and administration of the Director of the Bureau of Public Schools, a school of fisheries in the Municipality of Palanan, Province of Isabela, to be known as the Isabela School of Fisheries. The Director of Public Schools shall promulgate, subject to the approval of the Secretary of Education, such rules and regulations to carry out the purpose of this Act. Said Director shall also acquire the necessary site for the school.
+
+ **Section 2.** The sum of one hundred fifty thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of the said school for the fiscal year nineteen hundred sixty-one; and for its operation and maintenance in subsequent years, the yearly General Appropriations Act shall provide for its appropriation.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Public Law	This act establishes the Isabela School of Fisheries in Palanan, Isabela, authorizes the Bureau of Public Schools to supervise its operation, and provides for its funding and effective date.	"[{""title"": ""Section 1"", ""summary"": ""Establishes the Isabela School of Fisheries under the supervision of the Director of the Bureau of Public Schools, with rules to be promulgated by the Director and approved by the Secretary of Education.""}, {""title"": ""Section 2"", ""summary"": ""Authorizes appropriation of 150,000 pesos for the fiscal year 1961 and requires future appropriations through the General Appropriations Act.""}, {""title"": ""Section 3"", ""summary"": ""The act takes effect upon its approval.""}]"	2736	June 19, 1960			To establish, operate, and maintain a school of fisheries in Palanan, Isabela.	"[""Establishment of the Isabela School of Fisheries"", ""Supervision and administration by the Director of Public Schools"", ""Appropriation of 150,000 pesos for FY 1961 and future years"", ""Act takes effect upon approval""]"		"[""Education"", ""Fisheries"", ""School"", ""Isabela"", ""Public Law""]"	"[""Isabela School of Fisheries"", ""Palanan"", ""Isabela Province"", ""Bureau of Public Schools"", ""Appropriations"", ""National Treasury"", ""Secretary of Education""]"
+repacts:datasets/markdown/repacts/1960/ra_2737_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2737_1960.md	ra_2737_1960	An Act Providing for the Establishment of a Hospital in the Municipal District of Mayaoyao, Subprovince of Ifugao, Mountain Province, and Authorizing the Appropriation of One Hundred Fifty Thousand Pesos for the Purpose	"**REPUBLIC ACT No. 2737**
+
+ **An Act Providing for the Establishment of a Hospital in the Municipal District of Mayaoyao, Subprovince of Ifugao, Mountain Province, and Authorizing the Appropriation of One Hundred Fifty Thousand Pesos for the Purpose**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the Bureau of Medical Services, a twenty-five-bed general hospital in the Municipal District of Mayaoyao, Subprovince of Ifugao, Mountain Province, to be known as the Mayaoyao Hospital. The site for the said hospital shall be provided by the Municipal District Council of Mayaoyao in consultation with the Director of Medical Services.
+
+ **Section 2.** The Secretary of Health shall promulgate such rules and regulations as may be necessary to carry into effect the purpose of this Act.
+
+ **Section 3.** The sum of one hundred fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment and operation of the said hospital during the fiscal year ending June thirty, nineteen hundred sixty-one. Such sums as may be necessary for its operation and maintenance in subsequent years shall be included in the annual General Appropriations Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Healthcare	Establishes a 25‑bed general hospital in Mayaoyao, Ifugao, and authorizes appropriation of 150,000 pesos for its construction and operation.	"[{""title"": ""Section 1."", ""summary"": ""Establishes a 25\u2011bed general hospital under the Bureau of Medical Services in Mayaoyao, Ifugao.""}, {""title"": ""Section 2."", ""summary"": ""Authorizes the Secretary of Health to promulgate rules and regulations necessary to implement the Act.""}, {""title"": ""Section 3."", ""summary"": ""Appropriates one hundred fifty thousand pesos for the hospital\u2019s establishment and operation during the fiscal year ending June 30, 1961, with subsequent yearly appropriations covered by the General Appropriations Act.""}, {""title"": ""Section 4."", ""summary"": ""The Act takes effect upon approval.""}]"	2737	June 19, 1960			To establish a hospital in Mayaoyao, Ifugao, and allocate funds for its construction and operation.	"[""Establishment of a 25\u2011bed general hospital in Mayaoyao"", ""Appropriation of 150,000 pesos for hospital construction and operation"", ""Authority for the Secretary of Health to promulgate necessary rules"", ""Effectivity of the Act upon approval""]"		"[""Healthcare"", ""Hospital"", ""Ifugao"", ""Public Health"", ""Infrastructure""]"	"[""hospital"", ""Mayaoyao"", ""Ifugao"", ""Medical Services"", ""appropriation"", ""health"", ""budget"", ""construction"", ""operation""]"
+repacts:datasets/markdown/repacts/1960/ra_2738_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2738_1960.md	ra_2738_1960	"An Act Amending Group III, Paragraph ""ah,"" for Mountain Province, Section Three of Republic Act Numbered Fourteen Hundred Eleven, by Adding Thereto a New Item to be Known as Item (49)"	"**REPUBLIC ACT No. 2738**
+
+ **An Act Amending Group III, Paragraph ""ah,"" for Mountain Province, Section Three of Republic Act Numbered Fourteen Hundred Eleven, by Adding Thereto a New Item to be Known as Item (49)**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Group III, paragraph ""ah,"" for Mountain Province, Section three of Republic Act Numbered Fourteen hundred eleven is amended by adding thereto the following new item:
+
+ > ""(49) Namilangan Barrio School building, potiaConstruction of three rooms ₱6,000.00""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	Amends Section Three of Republic Act 1411 to add a new item (49) concerning the construction of a school building in Namilangan Barrio, Mountain Province.	"[{""title"": ""Section 1"", ""summary"": ""Amendment of Group III, paragraph \""ah,\"" for Mountain Province, adding new item (49) regarding Namilangan Barrio School building construction.""}, {""title"": ""Section 2"", ""summary"": ""The Act shall take effect upon its approval.""}]"	2738	June 19, 1960			To amend Republic Act 1411 by adding a new item for school construction in Mountain Province.	"[""Addition of item (49) for Namilangan Barrio School building construction, including three rooms, costing \u20b16,000.00""]"	Republic Act 1411	"[""amendment"", ""education"", ""construction""]"	"[""Mountain Province"", ""Namilangan Barrio"", ""school building"", ""construction"", ""budget""]"
+repacts:datasets/markdown/repacts/1960/ra_2739_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2739_1960.md	ra_2739_1960	An Act to Constitute the Sitios of Salokegue, Can-Abay, Soksokon, Capatagan, Danglay and Lologayan, All in the Municipality of Basey, Province of Samar, into a Barrio to be Known as Barrio May-et of the Same Municipality	"**REPUBLIC ACT No. 2739**
+
+ **An Act to Constitute the Sitios of Salokegue, Can-Abay, Soksokon, Capatagan, Danglay and Lologayan, All in the Municipality of Basey, Province of Samar, into a Barrio to be Known as Barrio May-et of the Same Municipality**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Salokegue, Can-abay, Soksokon, Capatagan, Danglay and Lologayan, all in the Municipality of Basey, Province of Samar, are hereby constituted into a barrio to be known as Barrio May-et of the same municipality.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	This act constitutes the sitios of Salokegue, Can-Abay, Soksokon, Capatagan, Danglay, and Lologayan in Basey, Samar into a barrio named Barrio May-et.	"[{""title"": ""Section 1"", ""summary"": ""The sitios of Salokegue, Can-abay, Soksokon, Capatagan, Danglay and Lologayan, all in the Municipality of Basey, Province of Samar, are hereby constituted into a barrio to be known as Barrio May-et of the same municipality.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	2739	June 19, 1960			To constitute the sitios of Salokegue, Can-Abay, Soksokon, Capatagan, Danglay and Lologayan into a barrio named Barrio May-et.	"[""Section 1: Constitutes the sitios into a barrio."", ""Section 2: Act takes effect upon approval.""]"		"[""Local Government"", ""Barangay"", ""Samar""]"	"[""sitios"", ""barrio"", ""Basey"", ""Samar"", ""constitution"", ""R.A. 2739""]"
+repacts:datasets/markdown/repacts/1960/ra_2740_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2740_1960.md	ra_2740_1960	An Act to Constitute the Sitios of Sagney, Lanaga, Asgad, and Cometa, All in the Municipality of Basey, Province of Samar, into a Barrio to be Known as Barrio Guirang of the Same Municipality	"**REPUBLIC ACT No. 2740**
+
+ **An Act to Constitute the Sitios of Sagney, Lanaga, Asgad, and Cometa, All in the Municipality of Basey, Province of Samar, into a Barrio to be Known as Barrio Guirang of the Same Municipality**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Sagney, Lanaga, Asgad and Cometa, all in the Municipality of Basey, Province of Samar, are hereby constituted into a barrio to be known as Barrio Guirang of the same municipality.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	This act constitutes the sitios of Sagney, Lanaga, Asgad, and Cometa into a barrio named Barrio Guirang in the municipality of Basey, Samar.	"[{""title"": ""Section 1"", ""summary"": ""The sitios of Sagney, Lanaga, Asgad and Cometa, all in the Municipality of Basey, Province of Samar, are hereby constituted into a barrio to be known as Barrio Guirang of the same municipality.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	2740	June 19, 1960			To create a new barrio in Basey, Samar by consolidating the sitios of Sagney, Lanaga, Asgad, and Cometa.	"[""Constitution of the sitios into a barrio named Barrio Guirang"", ""Effectivity upon approval""]"		"[""Local Government"", ""Barangay"", ""Samar""]"	"[""sitios"", ""barrio"", ""Basey"", ""Samar""]"
+repacts:datasets/markdown/repacts/1960/ra_2741_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2741_1960.md	ra_2741_1960	An Act to Amend Items 50 and 51, for the Province of Pangasinan, Page 230, Paragraph g, Section Two of Republic Act Numbered Fourteen Hundred Eleven	"**REPUBLIC ACT No. 2741**
+
+ **An Act to Amend Items 50 and 51, for the Province of Pangasinan, Page 230, Paragraph g, Section Two of Republic Act Numbered Fourteen Hundred Eleven**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Items 50 and 51, for the Province of Pangasinan, page 230, paragraph g, Section two of Republic Act Numbered Fourteen hundred eleven are amended to read as follows:
+
+ > ""50. Polong Barrio School Building, Malasiqui ₱4,500.00
+>
+>  ""51. Apaya Barrio School Building, Malisiqui 4,500.00""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	Amends items 50 and 51 of Republic Act 1411 concerning school buildings in Pangasinan.	"[{""title"": ""Section 1"", ""summary"": ""Amends items 50 and 51 to specify amounts for Polong Barrio School Building and Apaya Barrio School Building.""}, {""title"": ""Section 2"", ""summary"": ""Act takes effect upon approval.""}]"	RA 2741	June 19, 1960			To amend specific items regarding school building costs in Pangasinan.	"[""Amendment of item 50 to specify \u20b14,500.00 for Polong Barrio School Building."", ""Amendment of item 51 to specify \u20b14,500.00 for Apaya Barrio School Building.""]"	Republic Act 1411	"[""Education"", ""School Buildings"", ""Pangasinan"", ""Amendment""]"	"[""Pangasinan"", ""school building"", ""Polong"", ""Apaya"", ""Republic Act 1411"", ""Amendment"", ""education""]"
+repacts:datasets/markdown/repacts/1960/ra_2742_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2742_1960.md	ra_2742_1960	An Act Changing the Name of Cabugao Elementary School in the City of Roxas to Anatolia A. Arcenas Memorial School	"**REPUBLIC ACT No. 2742**
+
+ **An Act Changing the Name of Cabugao Elementary School in the City of Roxas to Anatolia A. Arcenas Memorial School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Cabugao Elementary School located at Barrio Cabugao, Loctugan, City of Roxas, is changed to Anatolia A. Arcenas Memorial School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Education	This act changes the name of Cabugao Elementary School to Anatolia A. Arcenas Memorial School.	"[{""title"": ""Section 1."", ""summary"": ""The name of Cabugao Elementary School located at Barrio Cabugao, Loctugan, City of Roxas, is changed to Anatolia A. Arcenas Memorial School.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2742	June 19, 1960			To change the name of a public elementary school in Roxas to honor Anatolia A. Arcenas.	"[""The name of Cabugao Elementary School is changed to Anatolia A. Arcenas Memorial School.""]"		"[""Education"", ""School"", ""Name Change""]"	"[""Cabugao Elementary School"", ""Anatolia A. Arcenas"", ""Roxas"", ""School name change""]"
+repacts:datasets/markdown/repacts/1960/ra_2743_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2743_1960.md	ra_2743_1960	An Act to Amend a Certain Item in Republic Act Numbered Nineteen Hundred for the Province of Leyte	"**REPUBLIC ACT No. 2743**
+
+ **An Act to Amend a Certain Item in Republic Act Numbered Nineteen Hundred for the Province of Leyte**

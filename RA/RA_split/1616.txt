@@ -1,0 +1,164 @@
+
+ Approved: March 9, 1990
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	Establishes a ten-bed municipal hospital in Dumaran, Palawan, and appropriates funds for its construction, operation, and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of a ten-bed municipal hospital in Dumaran under the supervision of the Department of Health.""}, {""title"": ""Section 2."", ""summary"": ""Appropriation of funds from the Fiscal Year 1989 General Appropriations Act and subsequent annual appropriations for operation and maintenance.""}, {""title"": ""Section 3."", ""summary"": ""Secretary of Health to issue a written assurance of personnel appointment and funding for maintenance and operation.""}, {""title"": ""Section 4."", ""summary"": ""The Act takes effect upon its approval.""}]"	6899	March 9, 1990	"[{""name"": ""JOVITO R. SALONGA"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""EDWIN P. ACOBA"", ""title"": ""Secretary of the Senate""}, {""name"": ""QUIRINO D. ABAD SANTOS, JR."", ""title"": ""Secretary of the House of Representatives""}]"	To establish a municipal hospital in Dumaran and allocate necessary funds for its construction and operation.	"[""Establishment of a ten-bed municipal hospital in Dumaran under the Department of Health."", ""Appropriation of funds from FY1989 General Appropriations Act for construction and maintenance."", ""Secretary of Health to assure personnel and funding availability."", ""Act takes effect upon approval.""]"		"[""Health"", ""Hospital"", ""Municipal"", ""Palawan"", ""Republic Act 6899""]"	"[""Dumaran"", ""Dumaran Municipal Hospital"", ""Department of Health"", ""Fiscal Year 1989 General Appropriations Act"", ""General Appropriations Act"", ""Secretary of Health"", ""President of the Senate"", ""Speaker of the House"", ""Secretary of the Senate"", ""Secretary of the House of Representatives""]"
+repacts:datasets/markdown/repacts/1990/ra_6900_1990.md	repacts	1990		datasets/markdown/repacts/1990/ra_6900_1990.md	ra_6900_1990	An Act Establishing a Ten-Bed Municipal Hospital in the Municipality of Maragusan, Province of Davao del Norte, to be Known as the Maragusan Municipal Hospital, and Appropriating Funds Therefor	"**[ REPUBLIC ACT NO. 6900, March 09, 1990 ]**
+
+ AN ACT ESTABLISHING A TEN-BED MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF MARAGUSAN, PROVINCE OF DAVAO DEL NORTE, TO BE KNOWN AS THE MARAGUSAN MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established a ten-bed municipal hospital in the Municipality of Maragusan, Province of Davao del Norte, to be known as the Maragusan Municipal Hospital.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be charged against the appropriations authorized for the purpose under the Fiscal Year 1989 General Appropriations Act. Thereafter, such sums as may be necessary for the operation and maintenance of the herein hospital shall be included in the annual General Appropriations Act.
+
+ **Section 3.** The Secretary of Health and/or his duly authorized representatives are hereby directed to issue directives for the implementation of this Act.
+
+ **Section 4.** All existing laws, decrees and orders that are inconsistent with or contrary to this Act, or any part thereof, shall be deemed repealed, modified, amended and of no effect.
+
+ **Section 5.** Before the construction of the hospital, the Secretary of Health shall issue a written assurance that personnel or the hospital will be appointed and that funds for its maintenance and operation have been appropriated.
+
+ **Section 6.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **JOVITO R. SALONGA** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on December 22, 1989. |  |
+| (Sgd.) **EDWIN P. ACOBA** *Secretary of the Senate* | (Sgd.) **QUIRINO D. ABAD SANTOS, JR.** *Secretary of the House of Representatives* |
+
+ Approved: March 9, 1990
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Health	Establishes a ten-bed municipal hospital in Maragusan, Davao del Norte; appropriates funds; directs the Secretary of Health to issue implementation directives; repeals inconsistent laws; requires written assurance for personnel and funding before construction; takes effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of a ten-bed municipal hospital in the Municipality of Maragusan.""}, {""title"": ""Section 2."", ""summary"": ""Funding allocated through FY 1989 General Appropriations Act and future appropriations.""}, {""title"": ""Section 3."", ""summary"": ""Secretary of Health directed to issue directives for implementation.""}, {""title"": ""Section 4."", ""summary"": ""Repeal of existing laws, decrees, and orders inconsistent with the Act.""}, {""title"": ""Section 5."", ""summary"": ""Secretary of Health to issue written assurance of personnel and funding before construction.""}, {""title"": ""Section 6."", ""summary"": ""Act takes effect upon approval.""}]"	6900	March 9, 1990	"[{""name"": ""JOVITO R. SALONGA"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""EDWIN P. ACOBA"", ""title"": ""Secretary of the Senate""}, {""name"": ""QUIRINO D. ABAD SANTOS, JR."", ""title"": ""Secretary of the House of Representatives""}]"	To establish a municipal hospital in Maragusan and appropriate funds for its operation and maintenance.	"[""Establishment of a ten-bed municipal hospital"", ""Funding appropriated through FY 1989 GAA and future appropriations"", ""Directive to Secretary of Health for implementation"", ""Repeal of inconsistent laws and orders"", ""Requirement of written assurance for personnel and funds before construction"", ""Effectivity upon approval""]"	Repeal of existing laws, decrees, and orders that are inconsistent with or contrary to this Act.	"[""Health"", ""Hospital"", ""Municipal"", ""Public Health"", ""Infrastructure""]"	"[""hospital"", ""municipal"", ""health"", ""Davao del Norte"", ""Maragusan"", ""funding"", ""appropriation"", ""implementation"", ""repeal""]"
+repacts:datasets/markdown/repacts/1990/ra_6901_1990.md	repacts	1990		datasets/markdown/repacts/1990/ra_6901_1990.md	ra_6901_1990	AN ACT ESTABLISHING A TEN-BED MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF PRESIDENT CARLOS P. GARCIA, PROVINCE OF BOHOL, TO BE KNOWN AS THE PRESIDENT CARLOS P. GARCIA MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR.	"**[ REPUBLIC ACT NO. 6901, March 09, 1990 ]**
+
+ AN ACT ESTABLISHING A TEN-BED MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF PRESIDENT CARLOS P. GARCIA, PROVINCE OF BOHOL, TO BE KNOWN AS THE PRESIDENT CARLOS P. GARCIA MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established, under the supervision of the Department of Health, a ten-bed municipal hospital in the Municipality of President Carlos P. Garcia, Province of Bohol, to be known as the President Carlos P. Garcia Municipal Hospital.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be charged against the appropriations authorized for the purpose under the Fiscal Year 1989 General Appropriations Act. Thereafter, such sums as may be necessary for the operation and maintenance of the herein hospital shall be included in the annual General Appropriations Act.
+
+ **Section 3.** Before the construction of the hospital, the Secretary of Health shall issue a written assurance that personnel of the hospital will be appointed and that funds for its maintenance and operation have been appropriated.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **JOVITO R. SALONGA** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on December 22, 1989. |  |
+| (Sgd.) **EDWIN P. ACOBA** *Secretary of the Senate* | (Sgd.) **QUIRINO D. ABAD SANTOS, JR.** *Secretary of the House of Representatives* |
+
+ Approved: March 9, 1990
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	Establishes a ten-bed municipal hospital in President Carlos P. Garcia, Bohol, and appropriates funds for its construction, operation, and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of a ten-bed municipal hospital under the supervision of the Department of Health.""}, {""title"": ""Section 2."", ""summary"": ""Funding for the hospital to be charged against FY 1989 General Appropriations Act and future appropriations for operation.""}, {""title"": ""Section 3."", ""summary"": ""Secretary of Health to issue written assurance of personnel appointment and appropriated funds.""}, {""title"": ""Section 4."", ""summary"": ""Act takes effect upon its approval.""}]"	6901	March 09, 1990	"[{""name"": ""JOVITO R. SALONGA"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""EDWIN P. ACOBA"", ""title"": ""Secretary of the Senate""}, {""name"": ""QUIRINO D. ABAD SANTOS, JR."", ""title"": ""Secretary of the House of Representatives""}]"	To establish a municipal hospital in President Carlos P. Garcia, Bohol, and secure appropriated funds for its construction, operation, and maintenance.	"[""Establishment of a ten-bed municipal hospital under the Department of Health supervision"", ""Funding appropriated from FY 1989 General Appropriations Act and future appropriations"", ""Secretary of Health to issue written assurance of personnel and funding"", ""Act takes effect upon approval""]"		"[""Health"", ""Hospital"", ""Municipal"", ""Bohol"", ""Republic Act"", ""Infrastructure""]"	"[""municipal hospital"", ""ten-bed"", ""President Carlos P. Garcia"", ""Bohol"", ""Department of Health"", ""funding"", ""appropriations""]"
+repacts:datasets/markdown/repacts/1990/ra_6902_1990.md	repacts	1990		datasets/markdown/repacts/1990/ra_6902_1990.md	ra_6902_1990	An Act Establishing a Ten-Bed Municipal Hospital in Barangay Tamdagan, Municipality of Vintar, Province of Ilocos Norte, to be Known as the Vintar Municipal Hospital, and Appropriating Funds Therefor	"**[ REPUBLIC ACT NO. 6902, March 09, 1990 ]**
+
+ AN ACT ESTABLISHING A TEN-BED MUNICIPAL HOSPITAL IN BARANGAY TAMDAGAN, MUNICIPALITY OF VINTAR, PROVINCE OF ILOCOS NORTE, TO BE KNOWN AS THE VINTAR MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established a ten-bed municipal hospital in Barangay Tamdagan, Municipality of Vintar, Province of Ilocos Norte, to be known as the Vintar Municipal Hospital.
+
+ **Section 2.** The Secretary of Health and/or its duly authorized representatives are hereby directed to issue orders and/or directives for the implementation of this Act.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act shall be charged against the appropriations authorized for the purpose under the Fiscal Year 1989 General Appropriations Act. Thereafter, such sums as may be necessary for the operation and maintenance of the herein hospital shall be included in the annual General Appropriations Act.
+
+ **Section 4.** All existing laws, decrees, and orders that are inconsistent and contrary with this Act, or any part thereof, shall be deemed repealed, modified, amended and of no effect.
+
+ **Section 5.** Before the construction of the hospital, the Secretary of Health shall issue a written assurance that personnel of the hospital will be appointed and that funds for its maintenance and operation have been appropriated.
+
+ **Section 6.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **JOVITO R. SALONGA** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on December 22, 1989. |  |
+| (Sgd.) **EDWIN P. ACOBA** *Secretary of the Senate* | (Sgd.) **QUIRINO D. ABAD SANTOS, JR.** *Secretary of the House of Representatives* |
+
+ Approved: March 9, 1990
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Health	This act establishes a ten-bed municipal hospital in Barangay Tamdagan, Vintar, Ilocos Norte, known as the Vintar Municipal Hospital, directs the Secretary of Health to issue orders for its implementation, appropriates necessary funds from the Fiscal Year 1989 General Appropriations Act and future appropriations, repeals inconsistent laws, requires assurance of personnel and funds prior to construction, and becomes effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Establishes a ten-bed municipal hospital in Barangay Tamdagan, Municipality of Vintar, Ilocos Norte, known as the Vintar Municipal Hospital.""}, {""title"": ""Section 2"", ""summary"": ""Directs the Secretary of Health and/or authorized representatives to issue orders and/or directives for the implementation of this act.""}, {""title"": ""Section 3"", ""summary"": ""Appropriates the necessary amount from the Fiscal Year 1989 General Appropriations Act and includes future sums for operation and maintenance in the annual General Appropriations Act.""}, {""title"": ""Section 4"", ""summary"": ""Repeals, modifies, amends, and renders void all existing laws, decrees, and orders inconsistent or contrary to this act.""}, {""title"": ""Section 5"", ""summary"": ""Requires the Secretary of Health to issue a written assurance that hospital personnel will be appointed and funds for maintenance and operation have been appropriated before construction.""}, {""title"": ""Section 6"", ""summary"": ""States that this act shall take effect upon its approval.""}]"	6902	March 9, 1990			To establish a municipal hospital facility for the residents of Barangay Tamdagan, Vintar, Ilocos Norte, providing accessible health services and ensuring adequate funding and personnel.	"[""Establishment of a ten-bed municipal hospital"", ""Directive to Secretary of Health for implementation orders"", ""Appropriation of necessary funds from FY 1989 GA and future GA"", ""Repeal of inconsistent laws"", ""Requirement of written assurance of personnel and funds before construction"", ""Effectiveness upon approval""]"	All existing laws, decrees, and orders that are inconsistent and contrary to this act, or any part thereof, shall be deemed repealed, modified, amended and of no effect.	"[""Health"", ""Hospital"", ""Ilocos Norte"", ""Municipal Hospital"", ""Republic Act""]"	"[""hospital"", ""municipal"", ""Ilocos Norte"", ""Vintar"", ""health"", ""funding"", ""Secretary of Health"", ""appropriations""]"
+repacts:datasets/markdown/repacts/1990/ra_6903_1990.md	repacts	1990		datasets/markdown/repacts/1990/ra_6903_1990.md	ra_6903_1990	An Act establishing a ten-bed municipal hospital in the Municipality of Matalum, Province of Leyte, to be known as the Matalum Municipal Hospital, and appropriating funds therefor	"**[ REPUBLIC ACT NO. 6903, March 09, 1990 ]**
+
+ AN ACT ESTABLISHING A TEN-BED MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF MATALUM, PROVINCE OF LEYTE, TO BE KNOWN AS THE MATALUM MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established, under the direct supervision of the Department of health, a ten-bed municipal hospital in the Municipality of Matalum, Province of Leyte, to be known as the Matalum Municipal Hospital.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be charged against the appropriations authorized for the purpose under the Fiscal Year 1989 General Appropriations Act. Thereafter, such sums as may be necessary for the operation and maintenance of the herein hospital shall be included in the annual General Appropriations Act.
+
+ **Section 3.** Before the construction of the hospital, the Secretary of Health shall issue a written assurance that personnel of the hospital will be appointed and that funds for its maintenance and operation have been appropriated.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **JOVITO R. SALONGA** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on December 22, 1989. |  |
+| **Sgd.) EDWIN P. ACOBA** *Secretary of the Senate* | (Sgd.) **QUIRINO D. ABAD SANTOS, JR.** *Secretary of the House of Representatives* |
+
+ Approved: March 9, 1990
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Act	Republic Act No. 6903 establishes a ten-bed municipal hospital in Matalum, Leyte, appropriates funds for its construction and operation, requires a written assurance from the Secretary of Health, and takes effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Establishes a ten-bed municipal hospital under the supervision of the Department of Health.""}, {""title"": ""Section 2"", ""summary"": ""Details the appropriation of funds from the FY 1989 General Appropriations Act and future appropriations for operation and maintenance.""}, {""title"": ""Section 3"", ""summary"": ""Mandates the Secretary of Health to issue a written assurance regarding personnel appointment and funding.""}, {""title"": ""Section 4"", ""summary"": ""States that the act takes effect upon its approval.""}]"	6903	March 09, 1990	"[{""name"": ""JOVITO R. SALONGA"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""EDWIN P. ACOBA"", ""title"": ""Secretary of the Senate""}, {""name"": ""QUIRINO D. ABAD SANTOS, JR."", ""title"": ""Secretary of the House of Representatives""}, {""name"": ""CORAZON C. AQUINO"", ""title"": ""President of the Philippines""}]"	To establish a municipal hospital in Matalum, Leyte, thereby improving access to health services for the local population.	"[""Establish a ten-bed municipal hospital in Matalum, Leyte."", ""Appropriate funds for construction, operation, and maintenance."", ""Require a written assurance from the Secretary of Health regarding personnel and funding."", ""Provision of the act takes effect upon approval.""]"		"[""Health"", ""Municipal Hospital"", ""Leyte"", ""Republic Act"", ""1990""]"	"[""hospital"", ""health"", ""Matalum"", ""Leyte"", ""appropriations"", ""Department of Health""]"
+repacts:datasets/markdown/repacts/1990/ra_6904_1990.md	repacts	1990		datasets/markdown/repacts/1990/ra_6904_1990.md	ra_6904_1990	AN ACT ESTABLISHING A TEN-BED MUNICIPAL HOSPITAL IN BARANGAY KULAMAN (TOWNSITE OF THE PROPOSED NEW MUNICIPALITY OF SENATOR BENIGNO AQUINO, JR. UNDER HOUSE BILL NO. 78), MUNICIPALITY OF BAGUMBAYAN, PROVINCE OF SULTAN KUDARAT, TO BE KNOWN AS THE SENATOR BENIGNO AQUINO, JR. MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 6904, March 09, 1990 ]**
+
+ AN ACT ESTABLISHING A TEN-BED MUNICIPAL HOSPITAL IN BARANGAY KULAMAN (TOWNSITE OF THE PROPOSED NEW MUNICIPALITY OF SENATOR BENIGNO AQUINO, JR. UNDER HOUSE BILL NO. 78), MUNICIPALITY OF BAGUMBAYAN, PROVINCE OF SULTAN KUDARAT, TO BE KNOWN AS THE SENATOR BENIGNO AQUINO, JR. MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established, under the direct supervision of the Director of Medical Services of the Department of Health, a ten-bed municipal hospital in the area covered by the proposed new Municipality of Senator Benigno Aquino., Jr. (House Bill No.78) to be located in Barangay Kulaman, Municipality of Bagumbayan, Province of Sultan Kudarat, to be known as the Senator Benigno Aquino, Jr. Municipal Hospital.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be charged against the appropriations authorized for the purpose under the Fiscal Year 1989 General Appropriations Act. Thereafter, such sums as may be necessary for the operation and maintenance of the herein hospital shall be included in the annual General Appropriations Act.
+
+ **Section 3.** Before the construction of the hospital, the Secretary of Health shall issue a written assurance that personnal of the hospital will be appointed and that funds for its maintenance and operation have been appropriated.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **JOVITO R. SALONGA** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on December 22, 1989. |  |
+| (Sgd.) **EDWIN P. ACOBA** *Secretary of the Senate* | (Sgd.) **QUIRINO D. ABAD SANTOS, JR.** *Secretary of the House of Representatives* |
+
+ Approved: March 9, 1990
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	This law establishes a ten‑bed municipal hospital named Senator Benigno Aquino, Jr. Municipal Hospital in Barangay Kulaman, Bagumbayan, Sultan Kudarat, and appropriates funds for its construction, operation, and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of a ten\u2011bed municipal hospital in Barangay Kulaman, to be known as Senator Benigno Aquino, Jr. Municipal Hospital, under the supervision of the Director of Medical Services of the Department of Health.""}, {""title"": ""Section 2."", ""summary"": ""Allocation of necessary funds from the Fiscal Year 1989 General Appropriations Act for construction and inclusion of operating and maintenance funds in the annual General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""Requirement for the Secretary of Health to issue written assurance that personnel will be appointed and funds appropriated for hospital maintenance and operation.""}, {""title"": ""Section 4."", ""summary"": ""Act takes effect upon approval.""}]"	6904	March 9, 1990	"[{""name"": ""JOVITO R. SALONGA"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""EDWIN P. ACOBA"", ""title"": ""Secretary of the Senate""}, {""name"": ""QUIRINO D. ABAD SANTOS, JR."", ""title"": ""Secretary of the House of Representatives""}, {""name"": ""CORAZON C. AQUINO"", ""title"": ""President of the Philippines""}]"	To establish a ten‑bed municipal hospital and provide the necessary funding and administrative framework for its operation in the proposed Municipality of Senator Benigno Aquino, Jr. in Sultan Kudarat.	"[""Establishment of a ten\u2011bed municipal hospital"", ""Allocation of construction and operational funds from appropriations"", ""Requirement for staff appointment and financial assurance by the Secretary of Health"", ""Act takes effect upon approval""]"		"[""Health"", ""Hospital"", ""Municipal"", ""Sultan Kudarat"", ""Republic Act""]"	"[""Ten-bed municipal hospital"", ""Barangay Kulaman"", ""Senator Benigno Aquino Jr."", ""Department of Health"", ""Fiscal Year 1989 General Appropriations Act""]"
+repacts:datasets/markdown/repacts/1990/ra_6905_1990.md	repacts	1990		datasets/markdown/repacts/1990/ra_6905_1990.md	ra_6905_1990	AN ACT ESTABLISHING A TEN-BED MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF PASIG, METRO MANILA, TO BE KNOWN AS THE PASIG MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 6905, March 09, 1990 ]**
+
+ AN ACT ESTABLISHING A TEN-BED MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF PASIG, METRO MANILA, TO BE KNOWN AS THE PASIG MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established, under the supervision of the Department of Health, a ten-bed municipal hospital in the Municipality of Pasig, Metro Manila, to be known as the Pasig Municipal Hospital.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be charged against the appropriations authorized for the purpose under the Fiscal Year 1989 General Appropriations Act. Thereafter, such sums as may be necessary for the operation and maintenance of herein hospital shall be included in the annual General Appropriations Act.
+
+ **Section 3.** Before the construction of the hospital, the Secretary of Health shall issue a written assurance that personnel of the hospital will be appointed and that funds for its maintenance and operation have been appropriated.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **JOVITO R. SALONGA** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on December 22, 1989. |  |
+| (Sgd.) **EDWIN P. ACOBA** *Secretary of the Senate* | (Sgd.) **QUIRINO D. ABAD SANTOS, JR.** *Secretary of the House of Representatives* |
+
+ Approved: March 9, 1990
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	Establishes a ten-bed municipal hospital in Pasig, Metro Manila, and appropriates funds for its construction, operation, and maintenance.	"[{""title"": ""Section 1. Establishment of Pasig Municipal Hospital"", ""summary"": ""Establishes the Pasig Municipal Hospital under the supervision of the Department of Health.""}, {""title"": ""Section 2. Funding provisions"", ""summary"": ""Funds for construction, operation, and maintenance to be charged to FY 1989 General Appropriations Act and subsequent GAs.""}, {""title"": ""Section 3. Assurance by Secretary of Health"", ""summary"": ""Secretary of Health must issue written assurance that personnel and funds will be appointed before construction.""}, {""title"": ""Section 4. Effective date"", ""summary"": ""Act takes effect upon its approval.""}]"	6905	March 9, 1990	"[{""name"": ""JOVITO R. SALONGA"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""EDWIN P. ACOBA"", ""title"": ""Secretary of the Senate""}, {""name"": ""QUIRINO D. ABAD SANTOS, JR."", ""title"": ""Secretary of the House of Representatives""}, {""name"": ""CORAZON C. AQUINO"", ""title"": ""President of the Philippines""}]"	To establish a ten-bed municipal hospital in Pasig and appropriate funds for its construction, operation, and maintenance.	"[""Establishment of Pasig Municipal Hospital"", ""Funding through FY 1989 GA and subsequent GAs"", ""Secretary of Health to assure personnel and funds before construction"", ""Act effective upon approval""]"		"[""healthcare"", ""hospital"", ""municipal"", ""Pasig"", ""Philippines"", ""Republic Act""]"	"[""Pasig"", ""municipal hospital"", ""ten-bed"", ""Department of Health"", ""funding"", ""General Appropriations Act"", ""Secretary of Health"", ""approval"", ""Republic Act 6905""]"
+repacts:datasets/markdown/repacts/1990/ra_6906_1990.md	repacts	1990		datasets/markdown/repacts/1990/ra_6906_1990.md	ra_6906_1990	AN ACT ESTABLISHING A TEN-BED MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF DIMASALANG, PROVINCE OF MASBATE, TO BE KNOWN AS THE MOISES ESPINOSA MEMORIAL MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 6906, March 09, 1990 ]**

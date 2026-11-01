@@ -1,0 +1,141 @@
+repacts:datasets/markdown/repacts/1968/ra_5388_1968.md	repacts	1968		datasets/markdown/repacts/1968/ra_5388_1968.md	ra_5388_1968	An Act Exempting Certain Workers in Cottage Industries from the Provisions of Republic Act Numbered Six Hundred Two, Further Amending for the Purpose Subsection (d) of Section Three of Said Act, as Amended	"**REPUBLIC ACT No. 5388**
+
+ An Act Exempting Certain Workers in Cottage Industries from the Provisions of Republic Act Numbered Six Hundred Two, Further Amending for the Purpose Subsection (d) of Section Three of Said Act, as Amended
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Subsection (d) of Section three of Republic Act Numbered Six hundred two, as amended by Republic Act Numbered Four thousand one hundred eighty, is hereby further amended to read as follows:
+
+ > ""(d) This Act shall not apply to farm tenancy, domestic servants and persons working in their respective homes in any cottage industry registered under the provisions of Republic Act Numbered Three thousand four hundred seventy.""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 15, 1968.
+"	success	Act	The act exempts farm tenancy, domestic servants, and persons working in their respective homes in any cottage industry registered under RA 3470 from the amended subsection (d) of RA 602.	"[{""title"": ""Subsection (d) of Section three of Republic Act Numbered Six hundred two, as amended by Republic Act Numbered Four thousand one hundred eighty"", ""summary"": ""(d) This Act shall not apply to farm tenancy, domestic servants and persons working in their respective homes in any cottage industry registered under the provisions of Republic Act Numbered Three thousand four hundred seventy.""}, {""title"": ""Effectiveness"", ""summary"": ""This Act shall take effect upon its approval.""}]"	5388	June 15, 1968			To exempt certain workers in cottage industries from the provisions of RA 602.	"[""(d) This Act shall not apply to farm tenancy, domestic servants and persons working in their respective homes in any cottage industry registered under the provisions of Republic Act Numbered Three thousand four hundred seventy.""]"	Republic Act Numbered Six Hundred Two and Republic Act Numbered Four thousand one hundred eighty	"[""Cottage Industry"", ""Labor Law"", ""Exemption""]"	"[""Workers"", ""Cottage Industries"", ""Farm Tenancy"", ""Domestic Servants"", ""RA 602""]"
+repacts:datasets/markdown/repacts/1968/ra_5389_1968.md	repacts	1968		datasets/markdown/repacts/1968/ra_5389_1968.md	ra_5389_1968	An Act Providing for One Additional Judge for the Eleventh Judicial District to Preside Over the Court of First Instance of Aklan with Permanent Station in the Municipality of Ibajay, Province of Aklan, Amending for the Purpose Sections Fifty and Fifty-Two of the Judiciary Act of 1948	"**REPUBLIC ACT No. 5389**
+
+ An Act Providing for One Additional Judge for the Eleventh Judicial District to Preside Over the Court of First Instance of Aklan with Permanent Station in the Municipality of Ibajay, Province of Aklan, Amending for the Purpose Sections Fifty and Fifty-Two of the Judiciary Act of 1948
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The eleventh paragraph of Section fifty of Republic Act Numbered Two hundred ninety-six, known as ""The Judiciary Act of 1948,"" as amended, is further amended to read as follows:
+
+ > ""Sixteen judges shall be commissioned for the Eleventh Judicial District. Three judges shall preside over the Courts of First Instance of Capiz and Roxas City and shall be known as judges of the first, second and third branches thereof, respectively; one judge shall preside over the Court of First Instance of the Province of Romblon; one judge shall preside over the Court of First Instance of Marinduque; three judges shall preside over the Court of First Instance of Aklan and shall be known as judges of the first, second and third branches thereof respectively; seven judges shall preside over the Courts of First Instance of the Province of Iloilo and the City of Iloilo and shall be known as the judges of the first, second, third, fourth, fifth, sixth and seventh branches thereof, respectively; and one judge shall preside over the Court of First Instance of the Province of Antique.""
+
+ **Section 2.** The eleventh subparagraph of the second paragraph of Section fifty-two of the same Act, as amended, is further amended to read as follows:
+
+ > ""For the Eleventh Judicial District, two judges shall be stationed in Roxas City; one judge in the Municipality of Mambusao, Province of Capiz; one judge in the Municipality of Romblon, Province of Romblon; one judge in the Municipality of Boac, Province of Marinduque; two judges in the Municipality of Kalibo, Province of Aklan; one judge in the Municipality of Ibajay, same province; seven judges in the City of Iloilo; and one judge in the Municipality of San Jose de Buenavista, Province of Antique.""
+
+ **Section 3.** There is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, the sum of sixty thousand pesos or so much thereof as may be necessary to carry out the purposes of this Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 15, 1968.
+"	success	Act	Provides for an additional judge for the Eleventh Judicial District, specifically for the Court of First Instance of Aklan, and amends sections of the Judiciary Act.	"[{""title"": ""Section 1. Amendment to Section 50"", ""summary"": ""Amends Section 50 of the Judiciary Act of 1948 to increase the number of judges in the Eleventh Judicial District and specifies the distribution of judges across courts in Capiz, Romblon, Marinduque, Aklan, Iloilo, and Antique.""}, {""title"": ""Section 2. Amendment to Section 52"", ""summary"": ""Amends Section 52 of the Judiciary Act of 1948 to detail the stationing of judges in specific municipalities within the Eleventh Judicial District, including Ibajay, Aklan.""}, {""title"": ""Section 3. Appropriation"", ""summary"": ""Appropriates sixty thousand pesos from the National Treasury for the implementation of this Act.""}, {""title"": ""Section 4. Effective Date"", ""summary"": ""Stipulates that the Act shall take effect upon its approval.""}]"	5389	June 15, 1968			To provide an additional judge for the Eleventh Judicial District’s Court of First Instance in Aklan and amend relevant provisions of the Judiciary Act of 1948.	"[""Amends Section 50 of the Judiciary Act to increase judges in the Eleventh Judicial District."", ""Amends Section 52 to specify judge stationing in the Eleventh Judicial District."", ""Appropriates funds for the implementation of the Act."", ""The Act takes effect upon approval.""]"	Judiciary Act of 1948, Sections 50 and 52	"[""Judiciary"", ""Judicial Appointment"", ""Amendment"", ""Act"", ""Philippines""]"	"[""judicial district"", ""court of first instance"", ""Aklan"", ""judge"", ""amendment"", ""judiciary act"", ""Philippines""]"
+repacts:datasets/markdown/repacts/1968/ra_5390_1968.md	repacts	1968		datasets/markdown/repacts/1968/ra_5390_1968.md	ra_5390_1968	An Act Changing the Name of Barrio San Jose Sur in the Municipality of Talibon, Province of Bohol, to Barrio Santo Niño	"**REPUBLIC ACT No. 5390**
+
+ An Act Changing the Name of Barrio San Jose Sur in the Municipality of Talibon, Province of Bohol, to Barrio Santo Niño
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Barrio San Jose Sur in the Municipality of Talibon, Province of Bohol, is hereby changed to Barrio Santo Niño.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 15, 1968.
+"	success	Act	This act changes the name of Barrio San Jose Sur to Barrio Santo Niño.	"[{""title"": ""Section 1."", ""summary"": ""The name of Barrio San Jose Sur in the Municipality of Talibon, Province of Bohol, is hereby changed to Barrio Santo Ni\u00f1o.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	5390	June 15, 1968			Renaming a barrio in Bohol	"[""Change the name of Barrio San Jose Sur to Barrio Santo Ni\u00f1o.""]"		"[""Renaming"", ""Local Government"", ""Bohol"", ""Barrio""]"	"[""Barrio"", ""San Jose Sur"", ""Santo Ni\u00f1o"", ""Talibon"", ""Bohol"", ""Renaming""]"
+repacts:datasets/markdown/repacts/1968/ra_5391_1968.md	repacts	1968		datasets/markdown/repacts/1968/ra_5391_1968.md	ra_5391_1968	An Act Providing for the Establishment of a Chest Clinic in the Municipality of General Santos, Province of South Cotabato, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 5391**
+
+ An Act Providing for the Establishment of a Chest Clinic in the Municipality of General Santos, Province of South Cotabato, and Authorizing the Appropriation of Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the supervision of the Director of Health Services, a chest clinic in the Municipality of General Santos, Province of South Cotabato, to be known as the South Cotabato Chest Clinic. This clinic shall attend to all forms of chest diseases especially pulmonary tuberculosis.
+
+ **Section 2.** The Secretary of Health shall issue such rules and regulations as may be necessary to carry out the purposes of this Act.
+
+ **Section 3.** The sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said clinic during the fiscal year nineteen hundred sixty-nine. Such sum as may be necessary for the same purpose in subsequent years shall be included in the annual General Appropriations Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 15, 1968.
+"	success	Republic Act	This Act establishes the South Cotabato Chest Clinic in General Santos to address chest diseases, particularly pulmonary tuberculosis, and appropriates funds for its establishment and operation.	"[{""title"": ""Section 1"", ""summary"": ""Establishment of the South Cotabato Chest Clinic under the supervision of the Director of Health Services to attend to chest diseases.""}, {""title"": ""Section 2"", ""summary"": ""The Secretary of Health is authorized to issue rules and regulations necessary to carry out the purposes of the Act.""}, {""title"": ""Section 3"", ""summary"": ""Appropriates one hundred thousand pesos for the clinic\u2019s establishment, operation, and maintenance for FY 1969, with provisions for future funding.""}, {""title"": ""Section 4"", ""summary"": ""The Act takes effect upon its approval.""}]"	RA No. 5391	June 15, 1968	"[{""name"": ""Senate"", ""title"": ""Senate""}, {""name"": ""House of Representatives"", ""title"": ""House of Representatives""}]"		To establish a specialized chest clinic in General Santos and secure the necessary funding for its operation.	"[""Establishment of the South Cotabato Chest Clinic"", ""Appropriation of P100,000.00 for FY 1969"", ""Authority to issue rules and regulations"", ""Effective immediately upon approval""]"		"[""health"", ""public hospital"", ""South Cotabato"", ""General Santos"", ""tuberculosis""]"	"[""chest clinic"", ""pulmonary tuberculosis"", ""appropriation"", ""health services"", ""South Cotabato""]"
+repacts:datasets/markdown/repacts/1968/ra_5392_1968.md	repacts	1968		datasets/markdown/repacts/1968/ra_5392_1968.md	ra_5392_1968	An Act Amending Section One of Republic Act Numbered Forty Hundred Twenty	"**REPUBLIC ACT No. 5392**
+
+ An Act Amending Section One of Republic Act Numbered Forty Hundred Twenty
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section one of Republic Act Numbered Forty hundred twenty is hereby amended to read as follows:
+
+ > ""Sec. 1. There is hereby granted to Virginia Development Corporation (VIRDECOR), its successors or assigns, a temporary permit to construct, maintain and operate within the Philippines, subject to the approval of the Secretary of Public Works and Communications, private fixed point-to-point and land-based and land-mobile radio stations for the reception and transmission of wireless messages on radiotelegraphy or radiotelephony, each station to be provided with a radio transmitting apparatus and a radio receiving apparatus.""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 15, 1968.
+"	success	Act	This act amends Section 1 of Republic Act 420 to grant Virginia Development Corporation a temporary permit to construct, maintain and operate radio stations in the Philippines.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 1 of RA 420 to grant a temporary permit to Virginia Development Corporation for radio stations.""}, {""title"": ""Section 2"", ""summary"": ""Act takes effect upon approval.""}]"	5392	June 15, 1968			To amend Section 1 of Republic Act No. 420 to allow Virginia Development Corporation a temporary permit for radio stations.	"[""\""There is hereby granted to Virginia Development Corporation (VIRDECOR), its successors or assigns, a temporary permit to construct, maintain and operate within the Philippines, subject to the approval of the Secretary of Public Works and Communications, private fixed point-to-point and land-based and land-mobile radio stations for the reception and transmission of wireless messages on radiotelegraphy or radiotelephony, each station to be provided with a radio transmitting apparatus and a radio receiving apparatus.\""""]"	Republic Act No. 420	"[""Amendment"", ""Radio Stations"", ""Virginia Development Corporation""]"	"[""Virginia Development Corporation"", ""temporary permit"", ""radio stations"", ""radiotelegraphy"", ""radiotelephony""]"
+repacts:datasets/markdown/repacts/1968/ra_5393_1968.md	repacts	1968		datasets/markdown/repacts/1968/ra_5393_1968.md	ra_5393_1968	An Act Authorizing Jesus B. Pacquing to Assign or Mortgage His Franchise to Any Government-Owned or Controlled Financial and/or Banking Institution	"**REPUBLIC ACT No. 5393**
+
+ An Act Authorizing Jesus B. Pacquing to Assign or Mortgage His Franchise to Any Government-Owned or Controlled Financial and/or Banking Institution
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Any provision of law to the contrary notwithstanding, Jesus B. Pacquing is hereby authorized to assign or mortgage his franchise granted under Republic Act Numbered Forty-three hundred and forty-four, to any government-owned or controlled financial and/or banking institution: *Provided,* However, That the machineries and equipment used in the business are also mortgaged together with the franchise.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 15, 1968.
+"	success	Act	This act authorizes Jesus B. Pacquing to assign or mortgage his franchise granted under Republic Act No. 444 to any government-owned or controlled financial and/or banking institution, with the machinery and equipment used in the business mortgaged together with the franchise. The act takes effect upon its approval.	"[{""title"": ""Section 1"", ""summary"": ""Jesus B. Pacquing is authorized to assign or mortgage his franchise granted under Republic Act No. 444 to any government-owned or controlled financial and/or banking institution, and the machinery and equipment used in the business are also mortgaged together with the franchise.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	Republic Act No. 5393	June 15, 1968			To authorize the assignment or mortgage of Jesus B. Pacquing’s franchise and its associated machinery and equipment to a government-owned or controlled financial institution.	"[""Authorizes assignment/mortgage of franchise under RA 444"", ""Includes machinery and equipment mortgaged together"", ""Effective upon approval""]"		"[""Franchise"", ""Assignment"", ""Mortgage"", ""Government-Owned"", ""Financial Institution""]"	"[""Jesus B. Pacquing"", ""Franchise"", ""Assignment"", ""Mortgage"", ""Government-Owned Financial Institution"", ""Republic Act 5393""]"
+repacts:datasets/markdown/repacts/1968/ra_5394_1968.md	repacts	1968		datasets/markdown/repacts/1968/ra_5394_1968.md	ra_5394_1968	An Act Granting Herminio S. Pilar a Franchise to Construct, Operate and Maintain an Ice Plant and Cold Storage in the City of Manila and to Sell Ice and Supply Cold Storage Therein	"**REPUBLIC ACT No. 5394**
+
+ An Act Granting Herminio S. Pilar a Franchise to Construct, Operate and Maintain an Ice Plant and Cold Storage in the City of Manila and to Sell Ice and Supply Cold Storage Therein
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Subject to the terms and conditions established in this Act and in Commonwealth Act Numbered One hundred forty-six, as amended, and to the provisions of the Constitution, there is hereby granted to Herminio S. Pilar, for a period of twenty-five years from the approval of this Act, the right, privilege and authority to construct, maintain and operate an ice plant and cold storage in the City of Manila, for the purpose of manufacturing ice for distribution and sale, and for supplying cold storage therein and to charge and collect a schedule of prices and rates therefor which schedule of prices shall at all times be subject to regulation by the Public Service Commission or its legal successors.
+
+ **Section 2.** The grantee shall manufacture and supply ice up to the limit of the capacity of his plant.
+
+ **Section 3.** The apparatus and appurtenances to be used by the grantee shall be modern, safe and first class in every respect. Whenever the Public Service Commission shall determine that public interest reasonably requires it, the grantee shall change or alter any of the apparatus and appurtenances at grantee's expense, and should the demand for ice at any time increase beyond the capacity of the plant of the grantee to supply the same, said capacity of the plant shall be increased by the grantee to meet such demand and in accordance with the decision of the Public Service Commission or its legal successor.
+
+ **Section 4.** If the grantee shall not commence the construction of his ice plant and cold storage within two years from the approval of this Act, unless prevented by an act of God or force majeure, martial law, riot, civil commotion, usurpation by a military power or any other cause beyond the grantee's control, this franchise shall become null and void.
+
+ **Section 5.** This franchise is granted with the understanding and upon the condition that it shall be subject to amendment, alteration, or repeal by the Congress of the Philippines when the public interest so requires.
+
+ **Section 6.** The books, records and accounts of the grantee shall always be open to inspection by the city treasurer or his authorized representatives, and it shall be the duty of the grantee to submit to the city treasurer quarterly reports in duplicate showing the gross receipts for the past quarter, one of which shall be forwarded by the city treasurer to the Auditor General who shall keep the same on file.
+
+ **Section 7.** In consideration of the franchise and rights hereby granted, the grantee shall pay a franchise tax equal to five per centum of the gross earnings under this franchise, two per centum of which shall accrue to the National Government and three per centum to the city where the franchise is in operation.
+
+ **Section 8.** This franchise is granted subject to the provisions of Commonwealth Act Numbered One hundred forty-six, as amended, only with respect to the fixing of rates.
+
+ **Section 9.** In the event of any competing individual, association of persons, of corporation receiving from the Congress of the Philippines a similar franchise in which there shall be any term or terms more favorable than those herein granted or tending to place the herein grantee at any disadvantage, then such term or terms shall ipso facto become part of the terms hereof and shall operate equally in favor of the grantee as in the case of said competing individual, association of persons, or corporation.
+
+ **Section 10.** This Act shall take effect upon its approval.
+
+ Approved: June 15, 1968.
+"	success	Republic Act	This act grants Herminio S. Pilar a 25‑year franchise to construct, operate and maintain an ice plant and cold storage in Manila, authorizing ice production and storage with regulatory oversight, tax provisions, and conditions for operation.	"[{""title"": ""Section 1"", ""summary"": ""Grants Herminio S. Pilar a 25\u2011year franchise to construct, maintain, and operate an ice plant and cold storage in Manila, subject to conditions and regulatory oversight by the Public Service Commission.""}, {""title"": ""Section 2"", ""summary"": ""Grantee must manufacture and supply ice up to the capacity of his plant.""}, {""title"": ""Section 3"", ""summary"": ""Grantee must use modern, safe, first\u2011class apparatus; may alter as required by PSC; may increase capacity if demand exceeds.""}, {""title"": ""Section 4"", ""summary"": ""Franchise becomes null if construction is not begun within two years from approval, unless prevented by act of God or other force majeure.""}, {""title"": ""Section 5"", ""summary"": ""Franchise is subject to amendment, alteration, or repeal by Congress when public interest requires.""}, {""title"": ""Section 6"", ""summary"": ""Grantee\u2019s books are open to inspection; must submit quarterly reports to city treasurer, who forwards them to the Auditor General.""}, {""title"": ""Section 7"", ""summary"": ""Franchise tax of 5% of gross earnings: 2% to national government, 3% to city.""}, {""title"": ""Section 8"", ""summary"": ""Franchise is subject to Commonwealth Act No. 146 regarding rate fixing.""}, {""title"": ""Section 9"", ""summary"": ""If a competing franchise has more favorable terms, those terms become part of this franchise.""}, {""title"": ""Section 10"", ""summary"": ""Act takes effect upon approval.""}]"	No. 5394	June 15, 1968			To grant a franchise to Herminio S. Pilar for the construction, operation, and maintenance of an ice plant and cold storage facility in Manila, enabling ice production and cold storage services.	"[""25\u2011year franchise"", ""Construction, operation, and maintenance of ice plant and cold storage"", ""Regulatory oversight by Public Service Commission"", ""Franchise tax of 5% of gross earnings (2% national, 3% city)"", ""Franchise void if not constructed within two years unless force majeure"", ""Books open to inspection and quarterly reporting"", ""Subject to amendment by Congress"", ""Reference to Commonwealth Act No. 146 for rate fixing"", ""Competing franchise terms incorporated if more favorable""]"	Commonwealth Act No. 146 (as amended)	"[""Franchise"", ""Ice plant"", ""Cold storage"", ""Public Service Commission"", ""Republic Act""]"	"[""Herminio S. Pilar"", ""ice plant"", ""cold storage"", ""Manila"", ""franchise tax"", ""Public Service Commission"", ""Commonwealth Act 146""]"
+repacts:datasets/markdown/repacts/1968/ra_5395_1968.md	repacts	1968		datasets/markdown/repacts/1968/ra_5395_1968.md	ra_5395_1968	An Act Changing the Name of Masbate North Elementary School in the Municipality of Masbate, Province of Masbate, to Amancio Aguilar Elementary School	"**REPUBLIC ACT No. 5395**
+
+ An Act Changing the Name of Masbate North Elementary School in the Municipality of Masbate, Province of Masbate, to Amancio Aguilar Elementary School
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Masbate North Elementary School in the Municipality of Masbate, Province of Masbate, is hereby changed to Amancio Aguilar Elementary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 15, 1968.
+"	success	Republic Act	An act that changes the name of Masbate North Elementary School to Amancio Aguilar Elementary School.	"[{""title"": ""Section 1"", ""summary"": ""The name of Masbate North Elementary School in the Municipality of Masbate, Province of Masbate, is hereby changed to Amancio Aguilar Elementary School.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	5395	June 15, 1968			To rename Masbate North Elementary School to Amancio Aguilar Elementary School.	"[""Change of name of Masbate North Elementary School to Amancio Aguilar Elementary School.""]"		"[""Education"", ""School renaming""]"	"[""Masbate North Elementary School"", ""Amancio Aguilar Elementary School"", ""name change"", ""Republic Act 5395""]"
+repacts:datasets/markdown/repacts/1968/ra_5396_1968.md	repacts	1968		datasets/markdown/repacts/1968/ra_5396_1968.md	ra_5396_1968	An Act Changing the Name of Masbate South Elementary School in the Municipality of Masbate, Province of Masbate, to Jose Zurbito, Sr. Elementary School	"**REPUBLIC ACT No. 5396**
+
+ An Act Changing the Name of Masbate South Elementary School in the Municipality of Masbate, Province of Masbate, to Jose Zurbito, Sr. Elementary School
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Masbate South Elementary School in the Municipality of Masbate, Province of Masbate, is hereby changed to Jose Zurbito, Sr. Elementary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 15, 1968.
+"	success	Republic Act	This act changes the name of Masbate South Elementary School to Jose Zurbito, Sr. Elementary School and takes effect upon its approval.	"[{""title"": ""Section 1."", ""summary"": ""The name of Masbate South Elementary School in the Municipality of Masbate, Province of Masbate, is hereby changed to Jose Zurbito, Sr. Elementary School.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	5396	June 15, 1968			To change the name of a public elementary school in Masbate.	"[""Changes the name of Masbate South Elementary School to Jose Zurbito, Sr. Elementary School.""]"		"[""Education"", ""School"", ""Name Change""]"	"[""Masbate"", ""Elementary School"", ""Jose Zurbito"", ""Name Change"", ""Republic Act 5396""]"
+repacts:datasets/markdown/repacts/1968/ra_5397_1968.md	repacts	1968		datasets/markdown/repacts/1968/ra_5397_1968.md	ra_5397_1968	An Act Providing for the Establishment of a Hospital in the Municipality of Surala, Province of South Cotabato, to be Known as Surala General Hospital, and Authorizing the Appropriations of Funds Therefor	"**REPUBLIC ACT No. 5397**

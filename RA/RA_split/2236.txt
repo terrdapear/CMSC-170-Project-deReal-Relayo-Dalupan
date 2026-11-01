@@ -1,0 +1,201 @@
+
+ **Section 18.***Effectivity Clause.*- This Act shall take effect fifteen (15) days from the date of its publication in at least two (2) newspapers of general publication.
+
+ Approved,
+
+ | (Sgd.) **ERNESTO M. MACEDA** President of the Senate | (Sgd.) **JOSE DE VENECIA JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on December 15, 1997 and December 8, 1997, respectively.
+
+ | (Sgd.) **LORENZO E. LEYNES JR.** Secretary of the Senate | (Sgd.) **ROBERTO P. NAZARENO** Secretary General House of Representatives |
+
+ Approved:
+
+ **FIDEL V. RAMOS** President of the Philippines
+
+ Lapsed into law on July 04, 1998, without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.
+"	success	Republic Act	This act grants Zambales Broadcasting and Development Corporation a 25‑year franchise to construct, install, operate, and maintain radio stations across the Philippines, providing for public service obligations, government takeover rights, tax responsibilities, and conditions for revocation.	"[{""title"": ""Section 1. Nature and Scope of Franchise"", ""summary"": ""The act grants the grantee a franchise to construct, install, establish, operate and maintain radio stations anywhere in the Philippines for commercial purposes and public interest, subject to existing laws and regulations.""}, {""title"": ""Section 2. Manner of Operation of Stations or Facilities"", ""summary"": ""Stations must be operated to minimize interference with existing frequencies and maintain quality of transmission, ensuring maximum service availability.""}, {""title"": ""Section 3. Prior Approval of the National Telecommunications Commission"", ""summary"": ""The grantee must secure permits and licenses from the NTC before using any frequency, and the NTC shall not unreasonably withhold or delay authorization.""}, {""title"": ""Section 4. Responsibility to the Public"", ""summary"": ""The grantee is required to provide public service time, balanced programming, community programming, and avoid obscene or false content, upholding public interest.""}, {""title"": ""Section 5. Right of Government"", ""summary"": ""The President may temporarily take over, suspend, or allow government use of the stations during emergencies, with due compensation to the grantee.""}, {""title"": ""Section 6. Term of Franchise"", ""summary"": ""The franchise is for 25 years, revocable if the grantee fails to commence operations within specified time frames or otherwise fails to comply with conditions.""}, {""title"": ""Section 7. Acceptance and Compliance"", ""summary"": ""Acceptance of the franchise must be in writing within 60 days of effectivity; non\u2011acceptance renders the franchise void.""}, {""title"": ""Section 8. Bond"", ""summary"": ""The grantee must file a bond with the NTC to guarantee compliance; failure to meet obligations forfeits the bond and revokes the franchise.""}, {""title"": ""Section 9. Tax Provisions"", ""summary"": ""The grantee is liable for taxes on real estate, buildings, and personal property, VAT under RA 7716, and income taxes under the National Internal Revenue Code, subject to existing laws.""}]"	8692	July 04, 1998			To grant a franchise for radio broadcasting to Zambales Broadcasting and Development Corporation.	"[""25\u2011year franchise term"", ""Public service and balanced programming requirements"", ""Government takeover rights during emergencies"", ""Bond requirement for compliance"", ""Revocation conditions if operations are not commenced on time"", ""Tax obligations including VAT and income tax""]"	Republic Act No. 7716 (VAT), Executive Order No. 72 (Income Tax), National Internal Revenue Code	"[""Broadcasting"", ""Franchise"", ""Radio"", ""Republic Act"", ""Philippines""]"	"[""Zambales Broadcasting"", ""franchise"", ""radio stations"", ""public service"", ""tax"", ""government takeover""]"
+repacts:datasets/markdown/repacts/1998/ra_8693_1998.md	repacts	1998		datasets/markdown/repacts/1998/ra_8693_1998.md	ra_8693_1998	AN ACT ESTABLISHING A FIFTY-BED EXTENSION OF THE GOV. CELESTINO GALLARES MEMORIAL REGIONAL TRAINING HOSPITAL IN THE MUNICIPALITY OF UBAY, PROVINCE OF BOHOL, TO BE KNOWN AS THE DON EMILIO DEL VALLE MEMORIAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR	"Eleventh Congress
+
+ **[ REPUBLIC ACT NO. 8693, July 09, 1998 ]**
+
+ **AN ACT ESTABLISHING A FIFTY-BED EXTENSION OF THE GOV. CELESTINO GALLARES MEMORIAL REGIONAL TRAINING HOSPITAL IN THE MUNICIPALITY OF UBAY, PROVINCE OF BOHOL, TO BE KNOWN AS THE DON EMILIO DEL VALLE MEMORIAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** There shall be established, under the supervision of the Department of Health, a fifty-bed extension hospital of the Gov. Celestino Gallares Memorial Regional Training Hospital in the Municipality of Ubay, Province of Bohol, to be known as the Don Emilio del Valle Memorial Hospital.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 3.** The Department of Health shall issue the necessary guidelines for the operation of the said extension hospital within sixty (60) days from approval hereof.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** President of the Senate | (Sgd.) **JOSE DE VENECIA JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on July 24, 1996 and February 6, 1998, respectively.
+
+ | (Sgd.) **HEZEL P. GACUTAN** Secretary of the Senate | (Sgd.) **ROBERTO P. NAZARENO** Secretary General House of Representatives |
+
+ Approved:
+
+ **FIDEL V. RAMOS** President of the Philippines
+
+ Lapsed into law on July 09, 1998, without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution
+"	success	Republic Act	Establishes a fifty-bed extension of Gov. Celestino Gallares Memorial Regional Training Hospital in Ubay, Bohol, named Don Emilio del Valle Memorial Hospital, and appropriates funds for its operation.	"[{""title"": ""Section 1"", ""summary"": ""Establishes a fifty-bed extension hospital under the supervision of the Department of Health.""}, {""title"": ""Section 2"", ""summary"": ""Funds for the extension will be appropriated in the following year's General Appropriations Act.""}, {""title"": ""Section 3"", ""summary"": ""Department of Health to issue operational guidelines within 60 days.""}, {""title"": ""Section 4"", ""summary"": ""Act takes effect upon approval.""}]"	REPUBLIC ACT NO. 8693	July 09, 1998	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""JOSE DE VENECIA JR."", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""HEZEL P. GACUTAN"", ""title"": ""Secretary of the Senate""}, {""name"": ""ROBERTO P. NAZARENO"", ""title"": ""Secretary General House of Representatives""}]"	To establish a fifty-bed extension of the Gov. Celestino Gallares Memorial Regional Training Hospital in Ubay, Bohol, known as Don Emilio del Valle Memorial Hospital, and to appropriate funds for its operation.	"[""Establishes a fifty-bed extension of the Gov. Celestino Gallares Memorial Regional Training Hospital in Ubay, Bohol."", ""Allocates funds for the extension in the following year's General Appropriations Act."", ""Department of Health to issue guidelines for operation within 60 days."", ""Act takes effect upon approval.""]"		"[""Healthcare"", ""Hospital"", ""Bohol"", ""Republic Act""]"	"[""hospital"", ""extension"", ""Bohol"", ""healthcare"", ""funding"", ""department of health"", ""public health"", ""regional training""]"
+repacts:datasets/markdown/repacts/1998/ra_8694_1998.md	repacts	1998		datasets/markdown/repacts/1998/ra_8694_1998.md	ra_8694_1998	AN ACT CHANGING THE NAME OF THE SOUTHERN SAMAR AGRICULTURAL COLLEGE IN THE MUNICIPALITY OF SALCEDO, PROVINCE OF EASTERN SAMAR, INTO A COLLEGE OF AGRICULTURE, SCIENCE AND TECHNOLOGY TO BE KNOWN AS THE SOUTHERN SAMAR COLLEGE OF AGRICULTURE, SCIENCE AND TECHNOLOGY, AND APPROPRIATING FUNDS THEREFOR	"Eleventh Congress
+
+ **[ REPUBLIC ACT NO. 8694, July 09, 1998 ]**
+
+ **AN ACT CHANGING THE NAME OF THE SOUTHERN SAMAR AGRICULTURAL COLLEGE IN THE MUNICIPALITY OF SALCEDO, PROVINCE OF EASTERN SAMAR, INTO A COLLEGE OF AGRICULTURE, SCIENCE AND TECHNOLOGY TO BE KNOWN AS THE SOUTHERN SAMAR COLLEGE OF AGRICULTURE, SCIENCE AND TECHNOLOGY, AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** The Southern Samar Agricultural College in the Municipality of Salcedo, Province of Eastern Samar, is hereby changed into a college of agriculture, science and technology, to be known as the Southern Samar College of Agriculture, Science and Technology, hereinafter referred to as the College.
+
+ **Section 2.** In addition to its existing curricular offerings, the College shall offer degree and short-term courses in the fields of industrial education, science and technology as may be deemed relevant to the needs of the community.
+
+ **Section 3.** The College shall be under the supervision of the Commission on Higher Education. It shall be headed by the incumbent vocational school superintendent who shall be upgraded to vocational college superintendent position. The other relevant academic and technical positions shall likewise be upgraded to be at par with positions in state colleges and universities.
+
+ **Section 4.** The Commission on Higher Education shall take the necessary steps for the immediate operationalization of the Southern Samar College of Agriculture, Science and Technology and the implementation of the provisions of this Act.
+
+ **Section 5.** The amount necessary to carry out the provisions of this Act shall be charged against the current year's appropriation of the Southern Samar Agricultural College. Thereafter, such sums as may be necessary for its operations and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 6.** All laws, decrees, executive orders, rules and regulations and other issuances or parts thereof, which are inconsistent with the provisions of this Act are hereby repealed, amended or modified accordingly.
+
+ **Section 7.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** President of the Senate | (Sgd.) **JOSE DE VENECIA JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on January 12, 1998 and February 19, 1998, respectively.
+
+ | (Sgd.) **HEZEL P. GACUTAN** Secretary of the Senate | (Sgd.) **ROBERTO P. NAZARENO** Secretary General House of Representatives |
+
+ Approved:
+
+ **FIDEL V. RAMOS** President of the Philippines
+
+ Lapsed into law on July 09, 1998, without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.
+"	success	Republic Act	The act changes the name of the Southern Samar Agricultural College to Southern Samar College of Agriculture, Science and Technology, expands its academic offerings, places it under the supervision of the Commission on Higher Education, appropriates necessary funds, repeals inconsistent laws, and takes effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The Southern Samar Agricultural College is renamed Southern Samar College of Agriculture, Science and Technology.""}, {""title"": ""Section 2"", ""summary"": ""The college will offer degree and short\u2011term courses in industrial education, science, and technology.""}, {""title"": ""Section 3"", ""summary"": ""The college will be supervised by the Commission on Higher Education and its staff will be upgraded to positions comparable to those in state colleges.""}, {""title"": ""Section 4"", ""summary"": ""The Commission on Higher Education will take steps for the operationalization of the new college and implementation of this act.""}, {""title"": ""Section 5"", ""summary"": ""Funds necessary for the act will be charged against the current year's appropriation of the former college and future sums will be included in the General Appropriations Act.""}, {""title"": ""Section 6"", ""summary"": ""All laws, decrees, executive orders, rules and regulations inconsistent with this act are repealed, amended or modified.""}, {""title"": ""Section 7"", ""summary"": ""The act will take effect upon its approval.""}]"	REPUBLIC ACT NO. 8694	July 09, 1998	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""JOSE DE VENECIA JR."", ""title"": ""Speaker of the House of Representatives""}]"		To rename the Southern Samar Agricultural College, expand its academic offerings, integrate it under the Commission on Higher Education, and appropriate funds for its operations.	"[""Name changed to Southern Samar College of Agriculture, Science and Technology"", ""Expanded academic programs in industrial education, science and technology"", ""Supervision by the Commission on Higher Education"", ""Operationalization steps to be taken by COE"", ""Appropriation of necessary funds from the college's budget and General Appropriations Act"", ""Repeal or amendment of inconsistent laws"", ""Act takes effect upon approval""]"	Section 6 repeals or amends laws, decrees, executive orders, rules, and regulations inconsistent with this act	"[""Higher Education"", ""Institutional Change"", ""Appropriation"", ""Public Law""]"	"[""Southern Samar Agricultural College"", ""Southern Samar College of Agriculture, Science and Technology"", ""Commission on Higher Education"", ""Appropriation"", ""Name change""]"
+repacts:datasets/markdown/repacts/1998/ra_8695_1998.md	repacts	1998		datasets/markdown/repacts/1998/ra_8695_1998.md	ra_8695_1998	AN ACT CONVERTING THE MUNICIPAL DOLORES NATIONAL HIGH SCHOOL IN BARANGAY TALOGTOG, MUNICIPALITY OF DOLORES, PROVINCE OF ABRA, INTO A NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"Eleventh Congress
+
+ **[ REPUBLIC ACT NO. 8695, July 09, 1998 ]**
+
+ **AN ACT CONVERTING THE MUNICIPAL DOLORES NATIONAL HIGH SCHOOL IN BARANGAY TALOGTOG, MUNICIPALITY OF DOLORES, PROVINCE OF ABRA, INTO A NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** The municipal government-funded Dolores National High School in Barangay Talogtog, Municipality of Dolores, Province of Abra, is hereby converted, under the direct supervision of the Department of Education, Culture and Sports, into a nationally funded high school, to be known as the Rosalio Eduarte National High School.
+
+ **Section 2.** The Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** President of the Senate | (Sgd.) **JOSE DE VENECIA JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on October 30, 1997 and February 19, 1998, respectively.
+
+ | (Sgd.) **HEZEL P. GACUTAN** Secretary of the Senate | (Sgd.) **ROBERTO P. NAZARENO** Secretary General House of Representatives |
+
+ Approved:
+
+ **FIDEL V. RAMOS** President of the Philippines
+
+ Lapsed into law on July 09, 1998, without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.
+"	success	Education Act	This act converts the municipal Dolores National High School into a nationally funded high school, known as the Rosalio Eduarte National High School, and appropriates funds for its operation.	"[{""title"": ""Section 1"", ""summary"": ""The municipal government-funded Dolores National High School is converted into a nationally funded high school under the supervision of the Department of Education, Culture and Sports and renamed as the Rosalio Eduarte National High School.""}, {""title"": ""Section 2"", ""summary"": ""The Department of Education, Culture and Sports shall issue rules and regulations necessary to carry out the purpose of this Act.""}, {""title"": ""Section 3"", ""summary"": ""The necessary amount to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment.""}, {""title"": ""Section 4"", ""summary"": ""This Act shall take effect upon its approval.""}]"	RA 8695	July 09, 1998			To convert the municipal Dolores National High School into a nationally funded high school and appropriate funds for its operation.	"[""Conversion of the municipal school into a national high school under DOE supervision"", ""Issuance of necessary rules and regulations by the Department of Education"", ""Appropriation of funds in the following General Appropriations Act"", ""Effectivity upon approval""]"		"[""Education"", ""School"", ""National High School"", ""Appropriation"", ""Republic Act""]"	"[""Dolores National High School"", ""Rosalio Eduarte National High School"", ""Abra"", ""Department of Education"", ""General Appropriations Act""]"
+repacts:datasets/markdown/repacts/1998/ra_8696_1998.md	repacts	1998		datasets/markdown/repacts/1998/ra_8696_1998.md	ra_8696_1998	An Act Establishing a Barangay National High School in Barangay Cansilayan, Municipality of Murcia, Province of Negros Occidental, to be Known as the Barangay Cansilayan National High School, and Appropriating Funds Therefor	"Eleventh Congress
+
+ **[ REPUBLIC ACT NO. 8696, July 09, 1998 ]**
+
+ **AN ACT ESTABLISHING A BARANGAY NATIONAL HIGH SCHOOL IN BARANGAY CANSILAYAN, MUNICIPALITY OF MURCIA, PROVINCE OF NEGROS OCCIDENTAL, TO BE KNOWN AS THE BARANGAY CANSILAYAN NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** There shall be established a barangay national high school in Barangay Cansilayan, Municipality of Murcia, Province of Negros Occidental, to be known as the Barangay Cansilayan National High School.
+
+ **Section 2.** The Secretary of the Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** President of the Senate | (Sgd.) **JOSE DE VENECIA JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on August 4, 1997 and December 15, 1997, respectively.
+
+ | (Sgd.) **HEZEL P. GACUTAN** Secretary of the Senate | (Sgd.) **ROBERTO P. NAZARENO** Secretary General House of Representatives |
+
+ Approved:
+
+ **FIDEL V. RAMOS** President of the Philippines
+
+ Lapsed into law on July 09, 1998, without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.
+"	success	Education	The act establishes a barangay national high school in Barangay Cansilayan, Murcia, Negros Occidental, authorizes the Department of Education to issue rules for its operation, appropriates necessary funds, and sets its effective date.	"[{""title"": ""Section 1"", ""summary"": ""Establishment of the Barangay Cansilayan National High School.""}, {""title"": ""Section 2"", ""summary"": ""The Secretary of the Department of Education, Culture and Sports shall issue rules and regulations necessary to carry out the purpose of this Act.""}, {""title"": ""Section 3"", ""summary"": ""The necessary amount for the Act's provisions shall be included in the General Appropriations Act of the following year.""}, {""title"": ""Section 4"", ""summary"": ""The Act shall take effect upon its approval.""}]"	Republic Act No. 8696	July 09, 1998		"[{""name"": ""HEZEL P. GACUTAN"", ""title"": ""Secretary of the Senate""}, {""name"": ""ROBERTO P. NAZARENO"", ""title"": ""Secretary General House of Representatives""}]"	To establish a Barangay National High School in Barangay Cansilayan, Municipality of Murcia, Negros Occidental, and appropriate funds for its operation.	"[""Establishment of the Barangay Cansilayan National High School"", ""Authorization for the Secretary of the Department of Education, Culture and Sports to issue necessary rules and regulations"", ""Appropriation of funds to be included in the General Appropriations Act of the following year"", ""Effective date upon approval""]"		"[""Education"", ""Public School"", ""Barangay"", ""Negros Occidental"", ""Republic Act""]"	"[""Barangay National High School"", ""Cansilayan"", ""Murcia"", ""Negros Occidental"", ""Education Department"", ""Republic Act 8696""]"
+repacts:datasets/markdown/repacts/1998/ra_8697_1998.md	repacts	1998		datasets/markdown/repacts/1998/ra_8697_1998.md	ra_8697_1998	AN ACT CHANGING THE NAME OF SANTA FE EXTENSION HIGH SCHOOL IN THE MUNICIPALITY OF SAN MARCELINO, PROVINCE OF ZAMBALES, TO SAN GUILLERMO NATIONAL HIGH SCHOOL	"Eleventh Congress
+
+ **[ REPUBLIC ACT NO. 8697, July 09, 1998 ]**
+
+ **AN ACT CHANGING THE NAME OF SANTA FE EXTENSION HIGH SCHOOL IN THE MUNICIPALITY OF SAN MARCELINO, PROVINCE OF ZAMBALES, TO SAN GUILLERMO NATIONAL HIGH SCHOOL**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** The name of Santa Fe Extension High School in the Municipality of San Marcelino, Province of Zambales, is hereby changed to San Guillermo National High School.
+
+ **Section 2.** The Secretary of the Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** President of the Senate | (Sgd.) **JOSE DE VENECIA JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on January 12, 1998 and February 19, 1998, respectively.
+
+ | (Sgd.) **HEZEL P. GACUTAN** Secretary of the Senate | (Sgd.) **ROBERTO P. NAZARENO** Secretary General House of Representatives |
+
+ Approved:
+
+ **FIDEL V. RAMOS** President of the Philippines
+
+ Lapsed into law on July 09, 1998, without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.
+"	success	Education	This act changes the name of Santa Fe Extension High School in San Marcelino, Zambales to San Guillermo National High School, authorizes the Department of Education to issue necessary rules, and takes effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The name of Santa Fe Extension High School in the Municipality of San Marcelino, Province of Zambales, is hereby changed to San Guillermo National High School.""}, {""title"": ""Section 2"", ""summary"": ""The Secretary of the Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.""}, {""title"": ""Section 3"", ""summary"": ""This Act shall take effect upon its approval.""}]"	8697	July 09, 1998	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""JOSE DE VENECIA JR."", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""HEZEL P. GACUTAN"", ""title"": ""Secretary of the Senate""}, {""name"": ""ROBERTO P. NAZARENO"", ""title"": ""Secretary General House of Representatives""}]"	To change the name of Santa Fe Extension High School in San Marcelino, Zambales to San Guillermo National High School.	"[""Name of Santa Fe Extension High School is changed to San Guillermo National High School."", ""Secretary of the Department of Education, Culture and Sports shall issue necessary rules and regulations."", ""Act takes effect upon approval.""]"		"[""Education"", ""School"", ""Renaming"", ""Philippines"", ""RA 8697""]"	"[""Santa Fe Extension High School"", ""San Guillermo National High School"", ""San Marcelino"", ""Zambales"", ""Education"", ""Renaming""]"
+repacts:datasets/markdown/repacts/1998/ra_8698_1998.md	repacts	1998		datasets/markdown/repacts/1998/ra_8698_1998.md	ra_8698_1998	AN ACT CONVERTING THE PINES NATIONALIZED HIGH SCHOOL IN BARANGAY PINES, CITY OF OROQUIETA, PROVINCE OF MISAMIS OCCIDENTAL, INTO A SCIENCE AND TECHNOLOGICAL SCHOOL TO BE KNOWN AS THE MISAMIS OCCIDENTAL SCIENCE HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"Eleventh Congress
+
+ **[ REPUBLIC ACT NO. 8698, July 09, 1998 ]**
+
+ **AN ACT CONVERTING THE PINES NATIONALIZED HIGH SCHOOL IN BARANGAY PINES, CITY OF OROQUIETA, PROVINCE OF MISAMIS OCCIDENTAL, INTO A SCIENCE AND TECHNOLOGICAL SCHOOL TO BE KNOWN AS THE MISAMIS OCCIDENTAL SCIENCE HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** The Pines Nationalized High School in Barangay Pines, Oroquieta City, Misamis Occidental, is hereby converted, under the supervision of the Department of Education, Culture and Sports, into a science and technological school to be known as the Misamis Occidental Science High School.
+
+ **Section 2.** The Department of Education, Culture and Sports shall issue the rules and regulations necessary for the conversion of the Pines Nationalized High School into a science and technological school.
+
+ **Section 3.** The amount necessary for the implementation of this Act shall be charged against current year's appropriation of the Pines Nationalized High School. Thereafter, such sums as may be necessary for the operation and maintenance of the Misamis Occidental Science High School shall be included in the annual General Appropriations Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** President of the Senate | (Sgd.) **JOSE DE VENECIA JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on January 26, 1998 and August 25, 1997, respectively.
+
+ | (Sgd.) **LORENZO E. LEYNES JR.** Secretary of the Senate | (Sgd.) **ROBERTO P. NAZARENO** Secretary General House of Representatives |
+
+ Approved:
+
+ **FIDEL V. RAMOS** President of the Philippines
+
+ Lapsed into law on July 09, 1998, without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.
+"	success	Republic Act	The Act converts the Pines Nationalized High School in Oroquieta City into the Misamis Occidental Science High School and appropriates funds for its conversion, operation, and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""Converts the Pines Nationalized High School into a science and technological school known as the Misamis Occidental Science High School under the supervision of the Department of Education, Culture and Sports.""}, {""title"": ""Section 2."", ""summary"": ""Mandates the Department of Education, Culture and Sports to issue the necessary rules and regulations for the conversion.""}, {""title"": ""Section 3."", ""summary"": ""Allocates funds from the school's current year's appropriation for implementation and includes future sums in the annual General Appropriations Act.""}, {""title"": ""Section 4."", ""summary"": ""The Act takes effect upon approval.""}]"	REPUBLIC ACT NO. 8698	July 09, 1998	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""JOSE DE VENECIA JR."", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""LORENZO E. LEYNES JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""ROBERTO P. NAZARENO"", ""title"": ""Secretary General House of Representatives""}]"	To convert a nationalized high school into a science and technological school and secure appropriate funding for its establishment and operation.	"[""Conversion of Pines Nationalized High School into Misamis Occidental Science High School"", ""Issuance of rules and regulations by the Department of Education, Culture and Sports"", ""Appropriation of funds from current year's school allocation"", ""Inclusion of future operational funds in the General Appropriations Act"", ""Effectivity upon approval""]"		"[""Education"", ""Science High School"", ""Misamis Occidental""]"	"[""Pines Nationalized High School"", ""Misamis Occidental Science High School"", ""Department of Education, Culture and Sports"", ""General Appropriations Act"", ""Conversion"", ""Funding""]"

@@ -1,0 +1,199 @@
+repacts:datasets/markdown/repacts/1959/ra_2119_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2119_1959.md	ra_2119_1959	An Act Creating Certain Barrios in the Municipality of Cateel, Province of Davao	"**REPUBLIC ACT No. 2119**
+
+ **An Act Converting the Sitio of Dallao in the Municipality of Cordon, Province of Isabela, into a Barrio to be Known as Barrio Dallao**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Dallao in the Municipality of Cordon, Province of Isabela, is hereby converted into a barrio to be known as barrio Dallao.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: April 5, 1959.
+"	success	Republic Act	An act that converts the sitios of Santa Filomena, Mainit and Alegria in the Municipality of Cateel, Province of Davao into barrios, thereby officially recognizing them as such.	"[{""title"": ""Section 1"", ""summary"": ""The sitios of Santa Filomena, Mainit and Alegria are converted into barrios of the Municipality of Cateel and are respectively named Santa Filomena, Mainit and Alegria. ""}, {""title"": ""Section 2"", ""summary"": ""The Act shall take effect upon its approval. ""}]"	2105	April 3, 1959			To recognize and establish the barrios of Santa Filomena, Mainit and Alegria within the Municipality of Cateel, Province of Davao.	"[""Conversion of the sitios of Santa Filomena, Mainit and Alegria into officially recognized barrios.""]"		"[""local government"", ""municipality"", ""barrios"", ""Cateel"", ""Davao""]"	"[""barrios"", ""Cateel"", ""Davao"", ""sitios"", ""Santa Filomena"", ""Mainit"", ""Alegria"", ""Republic Act"", ""1959""]"
+repacts:datasets/markdown/repacts/1959/ra_2120_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2120_1959.md	ra_2120_1959	An Act Changing the Name of the Barrio of Kialeg in the Municipality of Bansalan, Province of Davao, to Barrio Magsaysay	"**REPUBLIC ACT No. 2120**
+
+ **An Act Creating the Barrio of San Isidro in the Municipality of Sta. Cruz, Province of Marinduque**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of San Isidro in the Municipality of Sta. Cruz, Province of Marinduque, is converted into a barrio of said municipality to be known as the barrio of San Isidro.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: April 5, 1959.
+"	success	Republic Act	An act that officially changes the name of the barrio of Kialeg to Barrio Magsaysay.	"[{""title"": ""Section 1"", ""summary"": ""The name of the barrio of Kialeg in the Municipality of Bansalan, Province of Davao, is changed to Barrio Magsaysay.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	2106	April 3, 1959			To rename the barrio of Kialeg to Barrio Magsaysay.	"[""Change of barrio name to Barrio Magsaysay"", ""Effective upon approval""]"		"[""Renaming"", ""Local Government""]"	"[""Barrio"", ""Kialeg"", ""Magsaysay"", ""Bansalan"", ""Davao"", ""Name change""]"
+repacts:datasets/markdown/repacts/1959/ra_2121_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2121_1959.md	ra_2121_1959	An Act Creating the Barrio of Capatan in the Municipality of Tuguegarao, Province of Cagayan	"**REPUBLIC ACT No. 2121**
+
+ **An Act Converting the Sitio of Bonsoran in the Barrio of Ginag-Oman, Municipality of Odiongan, Province of Romblon, into a Barrio of Said Municipality**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Bonsoran in the barrio of Ginag-oman, Municipality of Odiongan, Province of Romblon, is converted into a barrio of said municipality with the following as boundaries: on the north by the Agnocnoc River, on the east by the mountain range starting from Macatol Point to Laposlapos Point, on the west by the sea, and on the south by the Looc Bay.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: April 5, 1959.
+"	success	Republic Act	An act to convert the sitio of Capatan into a barrio within the municipality of Tuguegarao, Cagayan, effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The sitio of Capatan in the barrio of Libag, Municipality of Tuguegarao, Province of Cagayan, is converted into a barrio of said municipality to be known as the barrio of Capatan.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	2107	April 3, 1959			To establish the barrio of Capatan within the Municipality of Tuguegarao, Cagayan.	"[""Conversion of the sitio of Capatan into a barrio named Capatan."", ""The act takes effect upon approval.""]"		"[""barrio"", ""municipality"", ""province"", ""Cagayan"", ""Tuguegarao""]"	"[""barrio"", ""Tuguegarao"", ""Cagayan""]"
+repacts:datasets/markdown/repacts/1959/ra_2122_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2122_1959.md	ra_2122_1959	An Act Creating Certain Barrios in the Municipality of Del Gallego, Province of Camarines Sur	"**REPUBLIC ACT No. 2122**
+
+ **An Act Changing the Name of the Municipality of Payo in the Province of Catanduanes to Panganiban**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Municipality of Payo in the Province of Catanduanes is changed to Panganiban.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: April 5, 1959.
+"	success	Republic Act	An act that converts specified sitios within the Municipality of Del Gallego into barrios, thereby reorganizing local administrative units.	"[{""title"": ""Section 1"", ""summary"": ""Lists the sitios\u2014Sinuknipan, Sabang, Pasay, and Bajo (now San Juan)\u2014to be converted into barrios.""}, {""title"": ""Section 2"", ""summary"": ""Declares the act effective upon approval.""}]"	2108	April 3, 1959			To reorganize local administrative units by converting designated sitios into barrios within the Municipality of Del Gallego.	"[""Conversion of the sitio of Sinuknipan into the barrio of Sinuknipan"", ""Conversion of the sitio of Sabang into the barrio of Sabang"", ""Conversion of the sitio of Pasay into the barrio of Pasay"", ""Conversion of the sitio of Bajo into the barrio of San Juan""]"		"[""Local government"", ""Barrios"", ""Municipality"", ""Del Gallego"", ""Camarines Sur""]"	"[""Republic Act"", ""Barrios"", ""Sitios"", ""Del Gallego"", ""Camarines Sur""]"
+repacts:datasets/markdown/repacts/1959/ra_2123_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2123_1959.md	ra_2123_1959	An Act Converting the Sitio of Poscolon in the Barrio of Calaigang, Municipality of Barotac Viejo, Province of Iloilo into a Barrio of Said Municipality to be Known as the Barrio of Poscolon	"**REPUBLIC ACT No. 2123**
+
+ **An Act Creating the Barrios of Santo Domingo in the Municipality of Batangas, Province of Batangas**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Suha, Bakis, Tolong Bata and Talon are separated from the barrio of Conde Itaas, Municipality of Batangas, Province of Batangas, and are constituted into an independent and distinct barrio of Santo Domingo.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: April 5, 1959.
+"	success	Republic Act	This act converts the sitio of Poscolon in the barrio of Calaigang, municipality of Barotac Viejo, Iloilo into a barrio known as Poscolon, effective upon approval.	"[{""title"": ""Section 1."", ""summary"": ""The sitio of Poscolon in the barrio of Calaigang, Municipality of Barotac Viejo, Province of Iloilo is converted into a barrio of said municipality to be known as the barrio of Poscolon.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2109	April 3, 1959			To convert the sitio of Poscolon into a barrio within the municipality of Barotac Viejo, Iloilo.	"[""Conversion of the sitio of Poscolon into a barrio named Poscolon."", ""Effective date upon approval.""]"		"[""Local Government"", ""Municipality"", ""Barangay"", ""Iloilo"", ""Republic Act""]"	"[""Poscolon"", ""Barotac Viejo"", ""Iloilo"", ""sitio"", ""barrio"", ""conversion"", ""Republic Act 2109""]"
+repacts:datasets/markdown/repacts/1959/ra_2124_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2124_1959.md	ra_2124_1959	An Act Creating the Barrio of Gonayen in the Municipality of Sindangan, Province of Zamboanga del Norte	"**REPUBLIC ACT No. 2124**
+
+ **An Act Converting the Sitio of Kapitan, Barrio of Pila, Municipality of Bauan, Province of Batangas, into a Barrio of Said Municipality to be Known as the Barrio of Kapitan**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Kapitan, barrio of Pila, Municipality of Bauan, Province of Batangas, is converted into a barrio of said municipality to be known as the barrio of Kapitan.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: April 5, 1959.
+"	success	Republic Act	This act creates the barrio of Gonayen in Sindangan, Zamboanga del Norte, by constituting specified sitios into a distinct and independent barrio.	"[{""title"": ""Section 1."", ""summary"": ""Constitutes the sitios of Gonayen, Gowayan, Domogok, Dinoyak, Mangilay, Pange, Balak, Laclac, Siriac, Macasing and Diongan into a distinct and independent barrio of Gonayen.""}, {""title"": ""Section 2."", ""summary"": ""The act shall take effect upon its approval.""}]"	2110	April 3, 1959			To create and formalize the barrio of Gonayen within the municipality of Sindangan, Zamboanga del Norte.	"[""Creates the barrio of Gonayen by constitution of specified sitios."", ""The act takes effect upon approval.""]"		"[""Republic Act"", ""Local Governance"", ""Barangay"", ""Zamboanga del Norte"", ""1950s""]"	"[""barrio"", ""Gonayen"", ""Sindangan"", ""Zamboanga del Norte"", ""sitios"", ""municipality""]"
+repacts:datasets/markdown/repacts/1959/ra_2125_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2125_1959.md	ra_2125_1959	An Act Creating the Municipal District of Lamut in the Mountain Province	"**REPUBLIC ACT No. 2125**
+
+ **An Act Creating the Barrios of Libertad and San Isidro in the Municipality of Dolores, Province of Samar**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The following barrios are hereby created in the Municipality of Dolores, Province of Samar:
+
+ (1) Barrio Libertad consisting of the sitios of Tanawan, Gape and Borac; and (2) Barrio San Isidro consisting of the sitios of Tangcop, Ojot, Japay, Deit and Maynipa. **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: April 5, 1959.
+"	success	Republic Act	Establishes the Municipal District of Lamut in Mountain Province, separating it from Kiangan, and appoints its first mayor, vice-mayor, and councilors.	"[{""title"": ""Section 1"", ""summary"": ""Separates the barrios of Lamut, Mabatobato, Lawig, Panopdopan, Magulon, Peiza, Payawan, Nayon, Halog, Pulaan, Dilan, Pangka, Hapid, Bulao, Allupapan, Pugol and Salamagui from the Municipal District of Kiangan and creates the Municipal District of Lamut.""}, {""title"": ""Section 2"", ""summary"": ""Appoints the first mayor, vice-mayor, and councilors of the Municipal District of Lamut, who shall hold office until their successors are duly elected.""}, {""title"": ""Section 3"", ""summary"": ""The Act shall take effect upon its approval.""}]"	2111	April 5, 1959			To create a new municipal district in Mountain Province.	"[""Creation of the Municipal District of Lamut"", ""Separation of specified barrios from Kiangan"", ""Appointment of first mayor, vice-mayor, and councilors"", ""Effectivity upon approval""]"		"[""municipal district"", ""Mountain Province"", ""Lamut"", ""Republic Act"", ""1959""]"	"[""Lamut"", ""Mountain Province"", ""municipal district"", ""Republic Act 2111"", ""local government""]"
+repacts:datasets/markdown/repacts/1959/ra_2126_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2126_1959.md	ra_2126_1959	An Act Changing the Name of the Barrio of Baquilao in the Municipality of Alcala, Province of Cagayan, to San Esteban	"**REPUBLIC ACT No. 2126**
+
+ **An Act Changing the Name of the Tallag Barrio School in the Municipality of Cabagan, Province of Isabela, to Biuag Community School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Tallag Barrio School in the Municipality of Cabagan, Province of Isabela, is hereby changed to Biuag Community School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: April 7, 1959.
+"	success	Republic Act	This act changes the name of the barrio of Baquilao to San Esteban in Alcala, Cagayan.	"[{""title"": ""Section 1."", ""summary"": ""The name of the barrio of Baquilao in the Municipality of Alcala, Province of Cagayan, is changed to San Esteban.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2112	April 5, 1959			To rename a barrio in accordance with local government reorganization.	"[""Change of barrio name to San Esteban""]"		"[""Name change"", ""Local government"", ""Barangay""]"	"[""Barrio"", ""Baquilao"", ""San Esteban"", ""Alcala"", ""Cagayan""]"
+repacts:datasets/markdown/repacts/1959/ra_2127_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2127_1959.md	ra_2127_1959	An Act Creating the Barrio of Tible in the Municipality of Sipocot, Province of Camarines Sur	"**REPUBLIC ACT No. 2127**
+
+ **An Act Creating Certain Barrios in the Municipality of Dapitan Province of Zamboanga del Norte**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The following sitios are constituted into barrios in the Municipality of Dapitan, Province of Zamboanga del Norte:
+
+ 1. The sitios of Sicayab, Larayan, Pagatpatan, Boton, and Aligway Island, bounded on the north by Polawan River, on the east by Polawan Lo-ok, on the south by Dapitan and Dipolog, and on the west by Dapitan Sea, to be known as the barrio of Sicayab; 2. The sitios of Tag-olo, Banbanan, Tobod, and Silonog Island to be known as the barrio of Tag-olo; and 3. The sitios of Loang, Masidlakon, Socon and Simay to be known as the barrio of Aseniero. **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: April 7, 1959.
+"	success	Republic Act	This act creates the barrio of Tible by consolidating the sitios of Tigman, Belnas, Cacao, and Binatagan in Sipocot, Camarines Sur.	"[{""title"": ""Section 1."", ""summary"": ""Constitutes the sitios Tigman, Belnas, Cacao, and Binatagan into the barrio of Tible.""}, {""title"": ""Section 2."", ""summary"": ""Act takes effect upon approval.""}]"	2113	April 5, 1959			To establish the barrio of Tible as a distinct and independent unit within the municipality of Sipocot.	"[""Constitution of the barrio of Tible"", ""Effectivity upon approval""]"		"[""barrio"", ""municipality"", ""Sipocot"", ""Camarines Sur"", ""Republic Act""]"	"[""barrio"", ""Tible"", ""Sipocot"", ""Camarines Sur"", ""Republic Act 2113""]"
+repacts:datasets/markdown/repacts/1959/ra_2128_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2128_1959.md	ra_2128_1959	An Act Changing the Name of the Bajo Barrio School in the Municipality of Del Gallego, Province of Camarines Sur, to San Juan Barrio School	"**REPUBLIC ACT No. 2128**
+
+ **An Act Creating Certain Barrios in the Municipality of New Piñan, Province of Zamboanga del Norte**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The following sitios are constituted into barrios in the Municipality of New Piñan, Province of Zamboanga del Norte:
+
+ 1. The sitios of Desin, Upper Disoy, San Fernando, San Vicente, Santa Fe, Sikitan, Dewacat, Dilawa and Lambog to be known as the barrio of Villarico; and 2. The sitios of Upper Boboringan, Lower Boboringan, Penacio, Bagong Silang and Situbo to be known as the barrio of Teresita. **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: April 7, 1959.
+"	success	Republic Act	An act that changes the name of the Bajo Barrio School in Del Gallego, Camarines Sur, to San Juan Barrio School.	"[{""title"": ""Section 1."", ""summary"": ""The name of the Bajo Barrio School in the Municipality of Del Gallego, Province of Camarines Sur, is changed to San Juan Barrio School.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2114	April 5, 1959			To change the name of the Bajo Barrio School to San Juan Barrio School.	"[""The name of the Bajo Barrio School is changed to San Juan Barrio School"", ""The act shall take effect upon its approval""]"		"[""Education"", ""School"", ""Name change"", ""Camarines Sur""]"	"[""Education"", ""School"", ""Name change"", ""Camarines Sur""]"
+repacts:datasets/markdown/repacts/1959/ra_2129_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2129_1959.md	ra_2129_1959	An Act Creating the Barrio of Beton in the Municipality of Taytay, Province of Palawan	"**REPUBLIC ACT No. 2129**
+
+ **An Act Converting the Sitio of Naganacan in the Municipality of Sta. Maria, Province of Isabela, into a Barrio to be Known as Barrio Naganacan**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Naganacan in the Municipality of Sta. Maria, Province of Isabela, is hereby converted into a barrio to be known as barrio Naganacan.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: April 7, 1959.
+"	success	Republic Act	Creates the barrio of Beton in Taytay, Palawan, effective upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Constitutes the Island of Icaduang Banua in the Municipality of Taytay, Province of Palawan as the barrio of Beton.""}, {""title"": ""Section 2."", ""summary"": ""The act shall take effect upon its approval.""}]"	2115	April 5, 1959			To create a new barrio in the municipality of Taytay, Palawan.	"[""Constitutes the Island of Icaduang Banua as the barrio of Beton.""]"		"[""barrio"", ""municipality"", ""Palawan"", ""Republic Act""]"	"[""barrio"", ""Taytay"", ""Palawan"", ""Republic Act 2115"", ""icaduang banua""]"
+repacts:datasets/markdown/repacts/1959/ra_2130_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2130_1959.md	ra_2130_1959	An Act Changing the Name of the Barrio of Cabicalan in the Municipal District of Potia, Ifugao, Mountain Province, to Barrio San Domingo	"**REPUBLIC ACT No. 2130**
+
+ **An Act Changing the Name of the Barrio of Butubut in the Municipality of Magsingal, Province of Ilocos Sur, to Barrio Miramar**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the barrio of Butubut in the Municipality of Magsingal, Province of Ilocos Sur, is changed to barrio Miramar.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: April 7, 1959.
+"	success	Republic Act	This act changes the name of the barrio Cabicalan to San Domingo in Potia, Ifugao, Mountain Province.	"[{""title"": ""Section 1"", ""summary"": ""The name of the barrio of Cabicalan in the Municipal District of Potia, Ifugao, Mountain Province is changed to barrio San Domingo.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	2116	April 5, 1959			To change the name of the barrio of Cabicalan to San Domingo.	"[""Name of the barrio of Cabicalan is changed to San Domingo."", ""Act takes effect upon approval.""]"		"[""Name change"", ""Local government units"", ""Republic Act""]"	"[""Cabicalan"", ""San Domingo"", ""Potia"", ""Ifugao"", ""Mountain Province"", ""barrio"", ""name change""]"
+repacts:datasets/markdown/repacts/1959/ra_2131_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2131_1959.md	ra_2131_1959	An Act Transferring the Seat of Government of the Municipality of San Pablo, Province of Isabela, to the Site in the Old Poblacion Commonly Known as Centro	"**REPUBLIC ACT No. 2131**
+
+ **An Act Creating the Barrio of Bunog in the Municipality of Quezon, Province of Palawan**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Isugod, Canikitan, Bunog and Tagbuaya in the Municipality of Quezon, Province of Palawan, are constituted into a barrio of said municipality to be known as the barrio of Bunog.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: April 7, 1959.
+"	success	Republic Act	This act transfers the seat of government of San Pablo, Isabela to the old poblacion known as Centro, repeals Republic Act 117, and takes effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The seat of government of the Municipality of San Pablo, Province of Isabela, is transferred to the site in the old poblacion commonly known as Centro in the same municipality.""}, {""title"": ""Section 2"", ""summary"": ""Republic Act Numbered Eleven hundred seventy-seven is hereby repealed.""}, {""title"": ""Section 3"", ""summary"": ""This Act shall take effect upon its approval.""}]"	2117	April 5, 1959			To transfer the seat of government of the Municipality of San Pablo, Province of Isabela to the old poblacion known as Centro.	"[""Transfer of the seat of government of San Pablo, Isabela to the old poblacion known as Centro."", ""Repeal of Republic Act 117."", ""Act takes effect upon approval.""]"	Republic Act No. 117 repealed.	"[""Republic Act"", ""Municipality"", ""Isabela"", ""San Pablo"", ""Seat of Government""]"	"[""seat of government"", ""San Pablo"", ""Isabela"", ""Centro"", ""repeal"", ""RA 117""]"
+repacts:datasets/markdown/repacts/1959/ra_2132_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2132_1959.md	ra_2132_1959	An Act Creating the Barrio of Del Pilar in the Municipality of Bauan, Province of Batangas	"**REPUBLIC ACT No. 2132**
+
+ **An Act Creating the Barrio of Liberty in the Municipality of Palompon, Province of Leyte**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Liberty, Calunasan, Cabulihan, Casagawan, Otap and Cabaliwan in the Municipality of Palompon, Province of Leyte, are constituted into a barrio of said municipality to be known as the barrio of Liberty.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: April 7, 1959.
+"	success	Republic Act	Establishes the barrio of Del Pilar by separating the sitio of Malaking Pook Ibaba from the barrio of Malaking Pook in the Municipality of Bauan, Province of Batangas.	"[{""title"": ""Section 1"", ""summary"": ""The sitio of Malaking Pook Ibaba is separated from the barrio of Malaking Pook, Municipality of Bauan, Province of Batangas, and is constituted into a distinct and independent barrio of said municipality to be known as the barrio of Del Pilar.""}]"	2118	April 5, 1959			Create the barrio of Del Pilar within Bauan municipality.	"[""The sitio of Malaking Pook Ibaba is separated from the barrio of Malaking Pook, Municipality of Bauan, Province of Batangas, and is constituted into a distinct and independent barrio of said municipality to be known as the barrio of Del Pilar.""]"		"[""barrio"", ""municipality"", ""province""]"	"[""Del Pilar"", ""Bauan"", ""Batangas"", ""barrio"", ""sitio"", ""Malaking Pook Ibaba""]"
+repacts:datasets/markdown/repacts/1959/ra_2133_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2133_1959.md	ra_2133_1959	An Act Converting the Sitio of Dallao in the Municipality of Cordon, Province of Isabela, into a Barrio to be Known as Barrio Dallao	"**REPUBLIC ACT No. 2133**
+
+ **An Act Creating the Barrio of Cubay Sur in the Municipality of Bugasong, Province of Antique**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Cubay Sur in the Municipality of Bugasong, Province of Antique, is converted into a barrio of said municipality to be known as the barrio of Cubay Sur.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: April 7, 1959.
+"	success	Republic Act	An act converting the sitio of Dallao into a barrio named Barrio Dallao, effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The sitio of Dallao in the Municipality of Cordon, Province of Isabela, is hereby converted into a barrio to be known as barrio Dallao.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	Republic Act No. 2119	April 5, 1959			To convert the sitio of Dallao into a barrio named Barrio Dallao.	"[""Conversion of the sitio of Dallao into a barrio named Barrio Dallao"", ""Act takes effect upon approval""]"		"[""local governance"", ""barangay"", ""Isabela"", ""Municipality of Cordon""]"	"[""sitio"", ""barrio"", ""Cordon"", ""Isabela"", ""Republic Act"", ""1959""]"
+repacts:datasets/markdown/repacts/1959/ra_2134_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2134_1959.md	ra_2134_1959	An Act Creating the Barrio of San Isidro in the Municipality of Sta. Cruz, Province of Marinduque	"**REPUBLIC ACT No. 2134**
+
+ **An Act Converting the Sitio of Manggahan in the Barrio of San Martin, Municipality of sa Luis, Province of Batangas, into a Barrio**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Manggahan in the barrio of San Martin, Municipality of San Luis, Province of Batangas, is hereby separated from the said barrio and converted into a new barrio to be known as the barrio of Manggahan.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: April 7, 1959.
+"	success	Local Government	An act that converts the sitio of San Isidro into a barrio of Sta. Cruz and establishes it as a recognized administrative unit.	"[{""title"": ""Section 1"", ""summary"": ""The sitio of San Isidro is converted into a barrio of Sta. Cruz, known as the barrio of San Isidro.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	2120	April 5, 1959			To create and recognize the barrio of San Isidro within the Municipality of Sta. Cruz, thereby formalizing its administrative status.	"[""Conversion of the sitio of San Isidro into a barrio."", ""The act takes effect upon approval.""]"		"[""Local Government"", ""Barangay Formation"", ""Marinduque""]"	"[""San Isidro"", ""Sta. Cruz"", ""Marinduque"", ""Barrio"", ""Republic Act 2120""]"
+repacts:datasets/markdown/repacts/1959/ra_2135_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2135_1959.md	ra_2135_1959	An Act Converting the Sitio of Bonsoran in the Barrio of Ginag-Oman, Municipality of Odiongan, Province of Romblon, into a Barrio of Said Municipality	"**REPUBLIC ACT No. 2135**
+
+ **An Act Creating the Barrio of Santo Tomas in the Municipality of Tingloy, Province of Batangas**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Pook and Ricodo are separated from the poblacion of the Municipality of Tingloy, Province of Batangas, and the sitio of Pulang-Buli is separated from the barrio of Talahib of the same municipality, and constituted into a distinct and independent barrio of said municipality to be known as the barrio of Santo Tomas.

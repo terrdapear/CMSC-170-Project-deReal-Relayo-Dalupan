@@ -1,0 +1,157 @@
+repacts:datasets/markdown/repacts/2019/ra_11242_2019.md	repacts	2019		datasets/markdown/repacts/2019/ra_11242_2019.md	ra_11242_2019	An Act Granting Philippine Citizenship to Kitson Soriano Kho	"**Seventeenth Congress Third Regular Session**
+
+ Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand eighteen.
+
+ **REPUBLIC ACT No. 11242**
+
+ An Act Granting Philippine Citizenship to Kitson Soriano Kho
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Mr. Kitson Soriano Kho is hereby granted Philippine citizenship with all the rights, privileges and prerogatives, as well as the duties and obligations appurtenant thereto under the Constitution and the laws of the Republic of the Philippines.
+
+ **Section 2.** Mr. Kitson Soriano Kho shall take the Oath of Allegiance to the Republic of the Philippines before an officer duly authorized to administer the same. The Oath of Allegiance shall he registered with the Bureau of Immigration.
+
+ **Section 3.** Upon registration of the Oath of Allegiance, the Bureau of Immigration shall issue a Certificate of Naturalization to Mr. Kitson Soriano Kho who shall thereupon enter into the full enjoyment of Philippine citizenship.
+
+ **Section 4.** This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ **VICENTE C. SOTTO III** President of the Senate
+
+ **GLORIA MACAPAGAL-ARROYO** Speaker of the House of Representatives
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate on November 21, 2018 and January 21, 2019, respectively.
+
+ **MYRA MARIE D. VILLARICA** Secretary of the Senate
+
+ **DANTE ROBERTO P. MALING** Acting Secretary General House of Representatives
+
+ Approved: March 11, 2019
+
+ (Sgd.) **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	An act granting Philippine citizenship to Mr. Kitson Soriano Kho, outlining the process of oath of allegiance, issuance of a certificate of naturalization, and the effectivity of the act.	"[{""title"": ""Section 1."", ""summary"": ""Mr. Kitson Soriano Kho is hereby granted Philippine citizenship with all rights, privileges, prerogatives, duties, and obligations under the Constitution and laws.""}, {""title"": ""Section 2."", ""summary"": ""Mr. Kho shall take the Oath of Allegiance to the Republic of the Philippines before an authorized officer and have it registered with the Bureau of Immigration.""}, {""title"": ""Section 3."", ""summary"": ""Upon registration of the oath, the Bureau of Immigration shall issue a Certificate of Naturalization to Mr. Kho enabling full enjoyment of citizenship.""}, {""title"": ""Section 4."", ""summary"": ""The act shall take effect fifteen (15) days after its publication in the Official Gazette or a newspaper of general circulation.""}]"	11242	March 11, 2019	"[{""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}, {""name"": ""GLORIA MACAPAGAL-ARROYO"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""MYRA MARIE D. VILLARICA"", ""title"": ""Secretary of the Senate""}, {""name"": ""DANTE ROBERTO P. MALING"", ""title"": ""Acting Secretary General House of Representatives""}, {""name"": ""RODRIGO ROA DUTERTE"", ""title"": ""President of the Philippines""}]"	To grant Philippine citizenship to Kitson Soriano Kho and establish the procedure for his naturalization.	"[""Granting citizenship to Mr. Kitson Soriano Kho"", ""Mandating oath of allegiance"", ""Issuing Certificate of Naturalization"", ""Effectivity after 15 days of publication""]"		"[""Citizenship"", ""Naturalization"", ""Republic Act"", ""Philippines""]"	"[""Kitson Soriano Kho"", ""citizenship"", ""oath of allegiance"", ""Bureau of Immigration"", ""Certificate of Naturalization""]"
+repacts:datasets/markdown/repacts/2019/ra_11243_2019.md	repacts	2019		datasets/markdown/repacts/2019/ra_11243_2019.md	ra_11243_2019	An Act Reapportioning the First Legislative District of the Province of South Cotabato Thereby Creating the Lone Legislative District of General Santos City	"**Seventeenth Congress Third Regular Session**
+
+ Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand eighteen.
+
+ **REPUBLIC ACT No. 11243**
+
+ An Act Reapportioning the First Legislative District of the Province of South Cotabato Thereby Creating the Lone Legislative District of General Santos City
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** *Reapportioning of the First Legislative District.* - The First Legislative District of the Province of South Cotabato is hereby reapportioned in order to create the Lone Legislative District of General Santos City to commence in the next national and local elections after the effectivity of this Act. The Legislative Districts of the Province shall now be composed of the following:
+
+ (a) First Legislative District: (1) Polomolok (2) Tampakan (3) Tupi (b) Second Legislative District: (1) Koronadal City (2) Banga (3) Lake Sebu (4) Norala (5) Santo Niño (6) Surallah (7) Tantangan (8) TBoli (c) Third Legislative District: (1) General Santos City. **Section 2.** *Holdover.* - The incumbent Representatives of the present First and Second Legislative Districts of the Province of South Cotabato shall continue to represent the districts until the new Representatives shall have been elected and qualified.
+
+ **Section 3.** *Rules and Regulations.* - The Commission on Elections shall issue the necessary rules and regulations to implement this Act within thirty (30) days after its effectivity.
+
+ **Section 4.** *Repealing Clause.* - All laws, rules and regulations which are inconsistent with this Act are hereby repealed, amended or modified accordingly.
+
+ **Section 5.** *Effectivity.* - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ **VICENTE C. SOTTO III** President of the Senate
+
+ **GLORIA MACAPAGAL-ARROYO** Speaker of the House of Representatives
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives on May 2, 2017, amended by the Senate on September 3, 2018, and which amendments were concurred in by the House of Representatives on January 29, 2019.
+
+ **MYRA MARIE D. VILLARICA** Secretary of the Senate
+
+ **DANTE ROBERTO P. MALING** Acting Secretary General House of Representatives
+
+ Approved: March 11, 2019
+
+ (Sgd.) **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	This act redefines the legislative districts of South Cotabato, creating a lone district for General Santos City, providing holdover provisions for incumbents, requiring the Commission on Elections to issue rules, repealing inconsistent laws, and taking effect fifteen days after publication.	"[{""title"": ""Section 1. Reapportioning of the First Legislative District"", ""summary"": ""Reapportions the first legislative district of South Cotabato, creating a new lone district for General Santos City, effective at the next national and local elections.""}, {""title"": ""Section 2. Holdover"", ""summary"": ""Allows incumbents of the former first and second districts to continue representing until new representatives are elected and qualified.""}, {""title"": ""Section 3. Rules and Regulations"", ""summary"": ""Mandates the Commission on Elections to issue necessary rules and regulations within thirty days of the act's effectivity.""}, {""title"": ""Section 4. Repealing Clause"", ""summary"": ""Repeals, amends, or modifies all laws, rules, and regulations inconsistent with this act.""}, {""title"": ""Section 5. Effectivity"", ""summary"": ""The act takes effect fifteen days after publication in the Official Gazette or a newspaper of general circulation.""}]"	11243	March 11, 2019			To reapportion the First Legislative District of South Cotabato and create a lone legislative district for General Santos City.	"[""Reapportionment of the First Legislative District to create a lone district for General Santos City"", ""Holdover provisions for incumbent representatives"", ""Commission on Elections to issue implementation rules within 30 days"", ""Repealing clause for inconsistent laws"", ""Effectivity fifteen days after publication""]"		"[""Reapportionment"", ""Legislative District"", ""South Cotabato"", ""General Santos City"", ""Republic Act"", ""Political Geography""]"	"[""reapportionment"", ""legislative district"", ""South Cotabato"", ""General Santos City"", ""election"", ""Commission on Elections"", ""effectivity""]"
+repacts:datasets/markdown/repacts/2019/ra_11244_2019.md	repacts	2019		datasets/markdown/repacts/2019/ra_11244_2019.md	ra_11244_2019	An Act Granting the Volunteer Life Care Ministries, Inc. A Franchise to Construct, Install, Establish, Operate and Maintain Noncommercial Radio Broadcasting Stations in the Philippines	"**Seventeenth Congress Third Regular Session**
+
+ Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand eighteen.
+
+ **REPUBLIC ACT No. 11244**
+
+ An Act Granting the Volunteer Life Care Ministries, Inc. A Franchise to Construct, Install, Establish, Operate and Maintain Noncommercial Radio Broadcasting Stations in the Philippines
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** *Nature and Scope of Franchise.* - Subject to the provisions of the Philippine Constitution and applicable laws, rules and regulations, there is hereby granted to Volunteer Lifecare Ministries, Inc., hereunder referred to as the grantee, its successors or assignees, a franchise to construct, install, establish, operate and maintain for noncommercial purposes and in the public interest, radio and/or television broadcasting stations in the Philippines, where frequencies and/or channels are still available for radio and/or television broadcasting, including digital television system, through microwave, satellite or whatever means, including the use of any new technology in television and radio systems, with the corresponding technological auxiliaries and facilities, special broadcast and other program and distribution services and relay stations.
+
+ **Section 2.** *Manner of Operation of Stations or Facilities.* - The stations or facilities of the grantee shall be constructed and operated in a manner as will, at most, result only in the minimum interference on the wavelengths or frequencies of existing stations or other stations which may be established by law, without in any way diminishing its own privilege to use its assigned wavelengths or frequencies and the quality of transmission or reception thereon as should maximize rendition of the grantees services and/or the availability thereof.
+
+ **Section 3.** *Prior Approval of the. National Telecommunications Commission.* - The grantee shall secure from the National Telecommunications Commission (NTC) the appropriate permits and licenses for the construction and operation of its stations or facilities and shall not use any frequency in the radio/television spectrum without authorization from the NTC. The NTC, however, shall not unreasonably withhold or delay the grant of any such authority.
+
+ The grantee shall not dispose nor lease its facilities except to entities with radio or television franchise: *Provided,* That the grantee shall inform and secure written authorization to proceed from the NTC, and report the transaction to the NTC within sixty (60) days after its completion: *Provided, further,* That the NTC shall determine the corresponding sanction for any violation of this provision.
+
+ **Section 4.** *Responsibility to the Public.* - The grantee shall provide, free of charge, adequate public service time which is reasonable and sufficient to enable the government, through the broadcasting stations or facilities of the grantee, to reach the pertinent populations or portions thereof, on important public issues and relay important public announcements and warnings concerning public emergencies and calamities, as necessity, urgency or law may require; provide at all times sound and balanced programming; promote public participation; assist in the functions of public information and education; conform to the ethics of honest enterprise; promote audience sensibility and empowerment including closed captioning; and not use its stations or facilities for the broadcasting of obscene or indecent language, speech, act, or scene; or for the dissemination of deliberately false information or willful misrepresentation, to the detriment of the public interest; or to incite, encourage, or assist in subversive or treasonable acts.
+
+ Public service time referred herein shall be equivalent to a maximum aggregate of ten percent (10%) of paid commercials or advertisements which shall be allocated based on need to the executive, legislative, judiciary, constitutional commissions and international humanitarian organizations duly recognized by statutes: *Provided,* That the NTC shall increase the public service time in case of extreme emergency or calamity. The NTC shall issue rules and regulations for this purpose, the effectivity of which shall commence upon applicability with other similarly situated broadcast network franchise holders.
+
+ **Section 5.** *Right of the Government.* - The radio spectrum is a finite resource that is part of the national patrimony and the use thereof is a privilege conferred upon the grantee by the State and may be withdrawn any time after due process.
+
+ A special right is hereby reserved to the President of the Philippines, in times of war, rebellion, public peril, calamity, emergency, disaster, or disturbance of peace and order: to temporarily take over and operate the stations or facilities of the grantee; to temporarily suspend the operation of any station or facility in the interest of public safety, security and public welfare; or to authorize the temporary use and operation thereof by any agency of the government, upon due compensation to the grantee, for the use of said stations or facilities during the period when these shall be so operated.
+
+ **Section 6.** *Term of Franchise.* - This franchise shall be in effect for a period of twenty-five (25) years from the effectivity of this Act, unless sooner revoked or cancelled. This franchise shall be deemed ipso facto revoked in the event the grantee fails to comply with any of the following conditions:
+
+ (a) Commence operations within one (1) year from the approval of its operating permit by the NTC; (b) Commence operations within three (3) years from the effectivity of this Act; and (c) Operate continuously for two (2) years. **Section 7.** *Bond.* - The grantee shall file a bond with the NTC, in the amount that the NTC shall determine, to guarantee compliance with and fulfillment cf the conditions under which this franchise is granted. If, after three (3) years from the date of the approval of its permit by the NTC, the grantee shall have fulfilled the same, the bond shall be cancelled by the NTC. Otherwise, the bond shall be forfeited in favor of the government and the franchise ipso facto revoked.
+
+ **Section 8.** *Self-regulation by and Undertaking of the Grantee.* - The grantee shall not require any previous censorship of any speech, play, act, or scene, or other matter to be broadcast from its stations: *Provided,* That the grantee, during any broadcast, shall cut off from the air the speech, play, act, or scene, or other matter being broadcast if the tendency thereof is to propose and/or incite treason, rebellion or sedition: or the language used therein or the theme thereof is indecent or immoral: *Provided, further,* That willful failure to do so shall constitute a valid cause for the cancellation of this franchise.
+
+ **Section 9.** *Warranty in Favor of the National and Local Governments.* - The grantee shall hold the national, provincial, city, and municipal governments of the Philippines free from all claims, liabilities, demands, or actions arising out of accidents, causing injury to persons or damage to properties, during the construction or operation of the stations of the grantee.
+
+ **Section 10.** *Commitment to Provide and Promote the Creation of Employment Opportunities.* - The grantee shall create employment opportunities and shall allow on-the-job trainings in their franchise operation: *Provided,* That priority shall be accorded to the residents where their principal office is located: *Provided, further,* That the grantee shall follow the applicable labor standards and allowance entitlement under existing labor laws, rules and regulations and similar issuances: *Provided, finally,* That the employment opportunities or jobs created shall be reflected in the General information Sheet (GI.S) to be submitted to Securities and Exchange Commission annually.
+
+ **Section 11.** *Sale, Lease, Transfer, Grant of Usufruct, or Assignment of Franchise.* - The grantee shall not sell, lease, transfer, grant the usufruct of, nor assign this franchise or the rights and privileges acquired thereunder to any person, firm, company, corporation or other commercial or legal entity, nor merge with any other corporation or entity, nor shall transfer the controlling interest of the grantee, simultaneously or contemporaneously, to any such person, firm, company, corporation, or entity without the prior approval of the Congress of the Philippines. Congress shall be informed of any sale, lease, transfer, grant of usufruct, or assignment of franchise or the rights and privileges acquired thereunder, or of the merger or transfer of the controlling interest of the grantee, within sixty (60) days after the completion of said transaction. Failure to report to Congress such change of ownership shall render the franchise ipso facto revoked. Any person or entity to which this franchise is sold, transferred, or assigned shall be subject to the same conditions, terms, restrictions, and limitations of this Act,
+
+ **Section 12.** *Reportorial Requirement.* - The grantee shall submit an annual report to the Congress of the Philippines, through the Committee on Legislative Franchises of the House of Representatives and the Committee on Public Services of the Philippine Senate, on its compliance with the terms and conditions of the franchise and on its operations on or before April 30 of every year during the term of its franchise. The reportorial compliance certificate issued by Congress shall, be required before any application for permit or certificate is accepted by the NTC.
+
+ **Section 13.** *Fine.* - Failure of the grantee to submit the requisite annual report to Congress shall be penalized by a fine of Five hundred pesos (₱500.00) per working day of noncompliance. The fine shall be collected by the NTC from the delinquent franchise grantee separate from the reportorial penalties imposed by the NTC and the same shall be remitted to the National Treasury.
+
+ **Section 14.** *Equality Clause.* - Except for taxes and customs duties, any advantage, favor, privilege, exemption, or immunity granted under existing franchises, or which may hereafter be granted for radio and/or television broadcasting, upon prior review and approval of Congress, shall become part of this franchise and shall be accorded immediately and unconditionally to the herein grantee: *Provided,* That the foregoing shall neither apply to nor affect provisions of broadcasting franchises concerning territory covered by the franchise, the life span of the franchise, or the type of service authorized by the franchise.
+
+ **Section 15.** *Repealability and Nonexclusivity Clause.* - This franchise shall be subject to amendment, alteration, or repeal by the Congress of the Philippines when the public interest so requires and shall not be interpreted as an exclusive grant of the privileges herein provided for.
+
+ **Section 16.** *Separability Clause.* - If any of the sections or provisions of this Act is held invalid, all other provisions not affected thereby shall remain valid.
+
+ **Section 17.** *Repealing Clause.* - All laws, decrees, orders, resolutions, instructions, rules and regulations, and other issuances or parts thereof which are not consistent with this Act are hereby repealed, amended, or modified accordingly.
+
+ **Section 18.** *Effectivity.* - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ **VICENTE C. SOTTO III** President of the Senate
+
+ **GLORIA MACAPAGAL-ARROYO** Speaker of the House of Representatives
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate on January 21, 2019
+
+ **MYRA MARIE D. VILLARICA** Secretary of the Senate
+
+ **DANTE ROBERTO P. MALING** Acting Secretary General House of Representatives
+
+ Approved: March 22, 2019
+
+ (Sgd.) **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	Republic Act No. 11244 grants Volunteer Lifecare Ministries, Inc. a 25‑year franchise to construct, install, operate and maintain noncommercial radio and television broadcasting stations in the Philippines, subject to conditions and oversight by the National Telecommunications Commission (NTC) and public service obligations.	"[{""title"": ""Section 1. Nature and Scope of Franchise."", ""summary"": ""Confers to Volunteer Lifecare Ministries a franchise to construct, install, establish, operate and maintain noncommercial radio/TV stations on available frequencies, including digital systems, while ensuring compliance with constitutional and legal provisions.""}, {""title"": ""Section 2. Manner of Operation of Stations or Facilities."", ""summary"": ""Requires the grantee to operate stations in a manner that minimizes interference with existing stations, preserving its quality of service.""}, {""title"": ""Section 3. Prior Approval of the National Telecommunications Commission."", ""summary"": ""Mandates that the grantee secure NTC permits and licenses before using any frequency, prohibiting unauthorized use and forbidding unreasonable withholding of authority.""}, {""title"": ""Section 4. Responsibility to the Public."", ""summary"": ""Obligates the grantee to provide up to 10% of its airtime as free public service time for government use, and to maintain balanced programming, while prohibiting obscene or false content.""}, {""title"": ""Section 5. Right of the Government."", ""summary"": ""Recognizes the radio spectrum as national patrimony and reserves the President\u2019s right to temporarily take over or suspend operations for public safety during emergencies.""}, {""title"": ""Section 6. Term of Franchise."", ""summary"": ""The franchise is valid for 25 years, with conditions on commencement of operations within one year of NTC permit, within 3 years of effectivity, and continuous operation for 2 years.""}, {""title"": ""Section 7. Bond."", ""summary"": ""Requires the grantee to file a bond with the NTC to guarantee compliance with the franchise conditions.""}]"	11244	2018-07-23				"[""Grants a 25\u2011year franchise to Volunteer Lifecare Ministries for noncommercial radio/TV broadcasting."", ""Requires NTC approval and licensing before operation."", ""Mandates minimizing interference with existing stations."", ""Obligates up to 10% free public service time."", ""Preserves President\u2019s right to take over during emergencies."", ""Sets commencement and continuity conditions for operation."", ""Requires a bond to guarantee compliance.""]"		"[""Franchise"", ""Broadcasting"", ""Noncommercial"", ""NTC"", ""Public Service""]"	"[""Volunteer Lifecare Ministries"", ""franchise"", ""radio broadcasting"", ""television broadcasting"", ""NTC"", ""public service time"", ""government right"", ""term of franchise"", ""bond""]"
+repacts:datasets/markdown/repacts/2019/ra_11245_2019.md	repacts	2019		datasets/markdown/repacts/2019/ra_11245_2019.md	ra_11245_2019	An Act Granting Northeastern Broadcasting Services, Inc. A Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Broadcasting Stations in Isabela Province and Region II	"**Seventeenth Congress Third Regular Session**
+
+ Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand eighteen.
+
+ **REPUBLIC ACT No. 11245**
+
+ An Act Granting Northeastern Broadcasting Services, Inc. A Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Broadcasting Stations in Isabela Province and Region II
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** *Nature and Scope of Franchise.* - Subject to the provisions of the Philippine Constitution and applicable laws, rules and regulations, there is hereby granted to Northeastern Broadcasting Services, Inc., hereunder referred to as the grantee, its successors or assignees, a franchise to construct, install, establish, operate and maintain for commercial purposes and in the public interest, radio and/or television broadcasting stations in Isabela Province and Region II, where frequencies and/or channels are still available for radio and/or television broadcasting, including digital television system, through microwave, satellite or whatever means, including the use of any new technology in television and radio systems, with the corresponding technological auxiliaries and facilities, special broadcast and other program and distribution services and relay stations.
+
+ **Section 2.** *Manner of Operation of Stations or Facilities.* - The stations or facilities of the grantee shall be constructed and operated in a manner as will, at most, result only in the minimum interference on the wavelengths or frequencies of existing stations or other stations which may be established by law, without in any way diminishing its own privilege to use its assigned wavelengths or frequencies and the quality of transmission or reception thereon as should maximize rendition of the grantees services and/or the availability thereof.
+
+ **Section 3.** *Prior Approval of the National Telecommunications Commission.* - The grantee shall secure from the National Telecommunications Commission (NTC) the appropriate permits and licenses for the construction and operation of its stations or facilities and shall not use any frequency in the radio/television spectrum without authorization from the NTC. The NTC, however, shall not unreasonably withhold or delay the grant of any such authority.
+
+ The grantee shall not dispose or lease its facilities except to entities with radio or television franchise: *Provided,* That the grantee shall inform and secure written authorization to proceed from the NTC, and report the transaction to the NTC within sixty (60) days after its completion: *Provided, further,* That the NTC shall determine the corresponding sanction for any violation of this provision.
+
+ **Section 4.** *Responsibility to the Public.* - The grantee shall provide, free of charge, adequate public service time which is reasonable and sufficient to enable the government, through the broadcasting stations or facilities of the grantee, to reach the pertinent populations or portions thereof, on important public issues and relay important public announcements and warnings concerning public emergencies and calamities, as necessity, urgency or law may require; provide at all times sound and balanced programming; promote public participation; assist in the functions of public information and education; conform to the ethics of honest enterprise; promote audience sensibility and empowerment including closed captioning; and not use its stations or facilities for the broadcasting of obscene or indecent language, speech, act, or scene; or for the dissemination of deliberately false information or willful misrepresentation, to the detriment of the public interest; or to incite, encourage, or assist in subversive or treasonable acts.

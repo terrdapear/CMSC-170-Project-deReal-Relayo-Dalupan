@@ -1,0 +1,131 @@
+repacts:datasets/markdown/repacts/2025/ra_12240_2025.md	repacts	2025		datasets/markdown/repacts/2025/ra_12240_2025.md	ra_12240_2025	An Act Establishing in the Municipality of Baler, Province of Aurora, a Level III General Hospital, to be known as the Aurora Medical Center, and Appropriating Funds therefor	"[ REPUBLIC ACT NO. 12240, August 29, 2025 ]
+
+ AN ACT ESTABLISHING IN THE MUNICIPALITY OF BALER, PROVINCE OF AURORA, A LEVEL III GENERAL HOSPITAL, TO BE KNOWN AS THE AURORA MEDICAL CENTER, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established in the Municipality of Baler, Province of Aurora, a Level III general hospital with a bed capacity of two hundred (200) beds to be known as the Aurora Medical Center, which shall be under the direct control and supervision of the Department of Health (DOH).
+
+ **Section 2.** The Secretary of Health shall immediately include in the Department's program the implementation of this Act, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 3.** If any provisions or part of this Act is declared unconstitutional, the remaining parts or provisions not affected shall remain in full force and effect.
+
+ **Section 4.** All laws, executive orders, issuances, and rules and regulations inconsistent with this Act are hereby repealed or modified accordingly.
+
+ **Section 5.** This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate | (SGD.) **FERDINAND MARTIN G. ROMUALDEZ** Speaker of the House of Representatives |
+
+ This Act, which originated in the House of Representatives, was passed by the House of Representatives on December 18, 2024, amended by the Senate of the Philippines on June 9, 2025, and which amendments were concurred in by the House of Representatives on June 10, 2025.
+
+ | (SGD.) **RENATO N. BANTUG, JR.** Secretary of the Senate | (SGD.) **REGINALD S. VELASCO** Secretary General House of Representatives |
+
+ Approved: AUG 29 2025
+
+ (SGD.) **FERDINAND ROMUALDEZ MARCOS JR.** President of the Philippines
+"	success	Health	Establishes Aurora Medical Center, a Level III general hospital in Baler, Aurora, with 200 beds, under DOH supervision, and appropriates funds	"[{""title"": ""Section 1."", ""summary"": ""Establishes a Level III general hospital in Baler, Aurora, with 200 beds, named Aurora Medical Center, under DOH control.""}, {""title"": ""Section 2."", ""summary"": ""Secretary of Health to include implementation in the Department's program and funding in the annual General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""If any provisions declared unconstitutional, remaining provisions remain in full force and effect.""}, {""title"": ""Section 4."", ""summary"": ""All laws, executive orders, issuances, rules and regulations inconsistent with this Act are repealed or modified accordingly.""}, {""title"": ""Section 5."", ""summary"": ""Act takes effect fifteen days after publication in the Official Gazette or a newspaper of general circulation.""}]"	12240	August 29, 2025	"[{""name"": ""FRANCIS \""CHIZ\"" G. ESCUDERO"", ""title"": ""President of the Senate""}, {""name"": ""FERDINAND MARTIN G. ROMUALDEZ"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""RENATO N. BANTUG, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""REGINALD S. VELASCO"", ""title"": ""Secretary General House of Representatives""}]"	To establish a Level III general hospital in Baler, Aurora, providing healthcare services and securing appropriate funding	"[""Establishment of Aurora Medical Center with 200 bed capacity"", ""Funding appropriation and inclusion in the annual General Appropriations Act"", ""Implementation under DOH supervision"", ""Effectivity 15 days after publication"", ""Repeal or modification of conflicting laws, executive orders, issuances, rules and regulations""]"	Any laws, executive orders, issuances, rules and regulations inconsistent with this Act	"[""Health"", ""Hospital"", ""Infrastructure"", ""Aurora""]"	"[""Aurora Medical Center"", ""Level III hospital"", ""Department of Health"", ""General Appropriations Act"", ""DOH"", ""Baler""]"
+repacts:datasets/markdown/repacts/2025/ra_12241_2025.md	repacts	2025		datasets/markdown/repacts/2025/ra_12241_2025.md	ra_12241_2025	"AN ACT CREATING ONE (1) ADDITIONAL BRANCH OF THE REGIONAL TRIAL COURT IN THE SEVENTH JUDICIAL REGION TO BE STATIONED IN THE MUNICIPALITY OF MOALBOAL, PROVINCE OF CEBU, AND APPROPRIATING FUNDS THEREFOR, AMENDING FOR THE PURPOSE SECTION 14(H) OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS ""THE JUDICIARY REORGANIZATION ACT OF 1980"", AS AMENDED"	"[ REPUBLIC ACT NO. 12241, August 29, 2025 ]
+
+ AN ACT CREATING ONE (1) ADDITIONAL BRANCH OF THE REGIONAL TRIAL COURT IN THE SEVENTH JUDICIAL REGION TO BE STATIONED IN THE MUNICIPALITY OF MOALBOAL, PROVINCE OF CEBU, AND APPROPRIATING FUNDS THEREFOR, AMENDING FOR THE PURPOSE SECTION 14(H) OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS ""THE JUDICIARY REORGANIZATION ACT OF 1980"", AS AMENDED
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** One (1) additional branch of the Regional Trial Court in the Seventh Judicial Region is hereby created and stationed in the Municipality of Moalboal, Province of Cebu.
+
+ The Supreme Court shall assign the respective branch number for the newly converted branch of the Regional Trial Court.
+
+ **Section 2.** The Chief Justice of the Supreme Court, in coordination with the Secretary of the Department of Justice, shall immediately include in the Court's program the operationalization of the additional branch of the Regional Trial Court in the Municipality of Moalboal, Province of Cebu. The Supreme Court shall issue the necessary rules and regulations for the effective implementation of this Act and, if warranted, the realignment of seats of existing branches and their territorial jurisdiction.
+
+ **Section 3.** The funds necessary for the implementation of this Act, including appropriations for personnel services such as salaries, benefits and emoluments for judges and court personnel, court operations under maintenance and other operating expenses (MOOE), and provisions for Halls of Justice or courtrooms to accommodate judges and court staff, as well as funds necessary for the implementation of automatically-created prosecutor positions pursuant to Section 13 of Republic Act No. 10071 or the ""Prosecution Service Act of 2010"" and appointment of public attorneys pursuant to Section 7 of Republic Act No. 9406 or the ""Act Reorganizing and Strengthening the Public Attorney's Office (PAO), resulting from the creation of these courts, including appropriations for personnel services such as salaries, benefits, and emoluments for prosecutors and public attorneys, shall be included in the annual General Appropriations Act.
+
+ The funds necessary for the operation of the courts herein created shall be appropriated and released only upon the actual organization of the court and the appointment of its personnel.
+
+ **Section 4.** In view of the proposed additional branch of the Regional Trial Court, the Regional Trial Court in the Municipality of Moalboal, Province of Cebu, shall have a staffing pattern as follows:
+
+ | No. of Positions | Position Title | Salary Grade | | --- | --- | --- | | 1 | Regional Trial Court Judge | 29 | | 1 | Clerk of Court VI | 25 | | 1 | Court Legal Researcher II | 15 | | 1 | Interpreter III | 12 | | 4 | Court Stenographer III | 12 | | 1 | Sheriff IV | 12 | | 1 | Data Entry Machine Operator II | 8 | | 2 | Clerk III | 5 | | 1 | Process Server | 5 | | 1 | Utility Worker I | 1 | | 14 | Personnel | | The staff complement of the OCC shall be composed of nine (9) personnel, while the data entry machine operator (DEMO) from the original RTC will be transferred to the OCC, unless modified as determined by the Supreme Court.
+
+ In addition, there shall be appointed the corresponding number of prosecutor/s and public attorney/s and their support staff based on the ratio outlined in Republic Act No. 10071 and Republic Act No. 9406, respectively.
+
+ **Section 5.** Section 14(h) of Batas Pambansa Blg. 129, otherwise known as ""The Judiciary Reorganization Act of 1980"", as amended, and all other laws, rules and regulations which are inconsistent with this Act are hereby amended, repealed or modified accordingly.
+
+ **Section 6.** This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate | (SGD.) **FERDINAND MARTIN G. ROMUALDEZ** Speaker of the House of Representatives |
+
+ This Act, which originated in the House of Representatives, was passed by the House of Representatives on November 29, 2023, amended by the Senate of the Philippines on February 3, 2025, and which amendments were concurred in by the House of Representatives on June 9, 2025.
+
+ | (SGD.) **RENATO N. BANTUG, JR.** Secretary of the Senate | (SGD.) **REGINALD S. VELASCO** Secretary General House of Representatives |
+
+ Approved: AUG 29 2025
+
+ (SGD.) **FERDINAND ROMUALDEZ MARCOS JR.** President of the Philippines
+"	success	Republic Act	The act establishes an additional branch of the Regional Trial Court in Moalboal, Cebu, allocates funding for personnel and operations, and amends Section 14(h) of Batas Pambansa Blg. 129.	"[{""title"": ""Section 1."", ""summary"": ""Creates one additional branch of the Regional Trial Court in the Seventh Judicial Region, stationed in Moalboal, Cebu.""}, {""title"": ""Section 2."", ""summary"": ""Supreme Court shall coordinate operationalization with DOJ, issue necessary rules, and realign existing branches as needed.""}, {""title"": ""Section 3."", ""summary"": ""Appropriations for personnel, operations, and prosecutor positions under RA 10071 and RA 9406.""}, {""title"": ""Section 4."", ""summary"": ""Defines staffing pattern and personnel composition for the new RTC branch.""}, {""title"": ""Section 5."", ""summary"": ""Amends Section 14(h) of Batas Pambansa Blg. 129 and related laws.""}, {""title"": ""Section 6."", ""summary"": ""Effective 15 days after publication in the Official Gazette or a newspaper of general circulation.""}]"	12241	August 29, 2025	"[{""name"": ""Francis \""Chiz\"" G. Escudero"", ""title"": ""President of the Senate""}, {""name"": ""Ferdinand Martin G. Romualdez"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""Renato N. Bantug, Jr."", ""title"": ""Secretary of the Senate""}, {""name"": ""Reginald S. Velasco"", ""title"": ""Secretary General, House of Representatives""}]"	To create an additional branch of the Regional Trial Court in Moalboal, Cebu, allocate necessary funds, and amend Section 14(h) of Batas Pambansa Blg. 129.	"[""Creation of an additional RTC branch in Moalboal, Cebu"", ""Allocation of funds for personnel, operations and prosecutor positions"", ""Staffing pattern for the new branch"", ""Supreme Court coordination for operationalization"", ""Amendment to Section 14(h) of Batas Pambansa Blg. 129"", ""Effective date after publication""]"	Section 14(h) of Batas Pambansa Blg. 129 (The Judiciary Reorganization Act of 1980).	"[""Judiciary"", ""Regional Trial Court"", ""Cebu"", ""Funding"", ""Amendment""]"	"[""Regional Trial Court"", ""Moalboal"", ""Cebu"", ""Batas Pambansa Blg. 129"", ""Judiciary Reorganization Act"", ""funding"", ""staffing"", ""court""]"
+repacts:datasets/markdown/repacts/2025/ra_12242_2025.md	repacts	2025		datasets/markdown/repacts/2025/ra_12242_2025.md	ra_12242_2025	"AN ACT CREATING ONE (1) ADDITIONAL BRANCH OF THE REGIONAL TRIAL COURT IN THE SECOND JUDICIAL REGION TO BE STATIONED IN THE MUNICIPALITY OF ALICIA, PROVINCE OF ISABELA, AND APPROPRIATING FUNDS THEREFOR, AMENDING FOR THE PURPOSE SECTION 14(B) OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS ""THE JUDICIARY REORGANIZATION ACT OF 1980"", AS AMENDED"	"[ REPUBLIC ACT NO. 12242, August 29, 2025 ]
+
+ AN ACT CREATING ONE (1) ADDITIONAL BRANCH OF THE REGIONAL TRIAL COURT IN THE SECOND JUDICIAL REGION TO BE STATIONED IN THE MUNICIPALITY OF ALICIA, PROVINCE OF ISABELA, AND APPROPRIATING FUNDS THEREFOR, AMENDING FOR THE PURPOSE SECTION 14(B) OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS ""THE JUDICIARY REORGANIZATION ACT OF 1980"", AS AMENDED
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** One (1) additional branch of the Regional Trial Court in the Second Judicial Region is hereby created and stationed in the Municipality of Alicia, Province of Isabela.
+
+ The Supreme Court shall assign the respective branch number for the newly converted branch of the Regional Trial Court.
+
+ **Section 2.** The Chief Justice of the Supreme Court, in coordination with the Secretary of the Department of Justice, shall immediately include in the Court's program the operationalization of the additional branch of the Regional Trial Court in the Municipality of Moalboal, Province of Cebu. The Supreme Court shall issue the necessary rules and regulations for the effective implementation of this Act and, if warranted, the realignment of seats of existing branches and their territorial jurisdiction.
+
+ **Section 3.** The funds necessary for the implementation of this Act, including appropriations for personnel services such as salaries, benefits and emoluments for judges and court personnel, court operations under maintenance and other operating expenses (MOOE), and provisions for Halls of Justice or courtrooms to accommodate judges and court staff, as well as funds necessary for the implementation of automatically-created prosecutor positions pursuant to Section 13 of Republic Act No. 10071 or the ""Prosecution Service Act of 2010"" and appointment of public attorneys pursuant to Section 7 of Republic Act No. 9406 or the ""Act Reorganizing and Strengthening the Public Attorney's Office (PAO), resulting from the creation of these courts, including appropriations for personnel services such as salaries, benefits, and emoluments for prosecutors and public attorneys, shall be included in the annual General Appropriations Act.
+
+ The funds necessary for the operation of the courts herein created shall be appropriated and released only upon the actual organization of the court and the appointment of its personnel.
+
+ **Section 4.** In view of the proposed additional branch of the Regional Trial Court, the Regional Trial Court in the Municipality of Alicia, Province of Isabela, shall have a staffing pattern as follows:
+
+ | No. of Positions | Position Title | Salary Grade | | --- | --- | --- | | 1 | Regional Trial Court Judge | 29 | | 1 | Clerk of Court VI | 25 | | 1 | Court Legal Researcher II | 15 | | 1 | Interpreter III | 12 | | 4 | Court Stenographer III | 12 | | 1 | Sheriff IV | 12 | | 1 | Data Entry Machine Operator II | 8 | | 2 | Clerk III | 6 | | 1 | Process Server | 5 | | 1 | Utility Worker I | 1 | | 14 | Personnel | | The staff complement of the OCC shall be composed of nine (9) personnel, while the data entry machine operator (DEMO) from the original RTC will be transferred to the OCC, unless modified as determined by the Supreme Court.
+
+ In addition, there shall be appointed the corresponding number of prosecutor/s and public attorney/s and their support staff based on the ratio outlined in Republic Act No. 10071 and Republic Act No. 9406, respectively.
+
+ **Section 5.** Section 14(b) of Batas Pambansa Blg. 129, otherwise known as ""The Judiciary Reorganization Act of 1980"", as amended, and all other laws, rules and regulations which are inconsistent with this Act are hereby amended, repealed or modified accordingly.
+
+ **Section 6.** This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate | (SGD.) **FERDINAND MARTIN G. ROMUALDEZ** Speaker of the House of Representatives |
+
+ This Act, which originated in the House of Representatives, was passed by the House of Representatives and the Senate of the Philippines on June 10, 2025 and June 9, 2025, respectively.
+
+ | (SGD.) **RENATO N. BANTUG, JR.** Secretary of the Senate | (SGD.) **REGINALD S. VELASCO** Secretary General House of Representatives |
+
+ Approved: AUG 29 2025
+
+ (SGD.) **FERDINAND ROMUALDEZ MARCOS JR.** President of the Philippines
+"	success	Republic Act	This Act establishes an additional branch of the Regional Trial Court (RTC) in Alicia, Isabela, provides for its funding and staffing, and amends Section 14(b) of Batas Pambansa Blg. 129 to accommodate the new branch. The Act also outlines operationalization, appropriation of funds, and staffing patterns, and specifies its effective date following publication.	"[{""title"": ""Section 1"", ""summary"": ""Creation and stationing of an additional RTC branch in Alicia, Isabela.""}, {""title"": ""Section 2"", ""summary"": ""Coordination between the Chief Justice and DOJ Secretary to operationalize the new branch, including necessary rules and potential realignment of existing branches.""}, {""title"": ""Section 3"", ""summary"": ""Appropriation of funds for personnel, operations, and court facilities, and inclusion of provisions for prosecutor and public attorney positions.""}, {""title"": ""Section 4"", ""summary"": ""Staffing pattern for the new RTC branch, detailing positions, salary grades, and personnel numbers.""}, {""title"": ""Section 5"", ""summary"": ""Amendment of Section 14(b) of Batas Pambansa Blg. 129 and related laws inconsistent with this Act.""}, {""title"": ""Section 6"", ""summary"": ""Effective date of the Act, fifteen days after publication in the Official Gazette or a newspaper of general circulation.""}]"	12242	August 29, 2025	"[{""name"": ""FRANCIS \""CHIZ\"" G. ESCUDERO"", ""title"": ""President of the Senate""}, {""name"": ""FERDINAND MARTIN G. ROMUALDEZ"", ""title"": ""Speaker of the House of Representatives""}]"		To establish an additional RTC branch in Alicia, Isabela, allocate necessary funds, define staffing, and amend Batas Pambansa Blg. 129 to accommodate the new branch.	"[""Creation of an additional RTC branch in Alicia, Isabela"", ""Funding appropriation for personnel, operations, and facilities"", ""Staffing pattern and salary grades for the new branch"", ""Amendment of Section 14(b) of Batas Pambansa Blg. 129"", ""Effective date provision""]"	Section 14(b) of Batas Pambansa Blg. 129 (Judiciary Reorganization Act of 1980)	"[""RTC"", ""Isabela"", ""Judiciary"", ""Reorganization""]"	"[""Regional Trial Court"", ""Alicia"", ""Isabela"", ""Batas Pambansa"", ""Judiciary Reorganization Act"", ""Funding"", ""Personnel""]"
+repacts:datasets/markdown/repacts/2025/ra_12243_2025.md	repacts	2025		datasets/markdown/repacts/2025/ra_12243_2025.md	ra_12243_2025	"AN ACT CREATING TWO (2) ADDITIONAL BRANCHES OF THE REGIONAL TRIAL COURT AND TWO (2) ADDITIONAL BRANCHES OF THE MUNICIPAL TRIAL COURT IN CITIES IN THE ELEVENTH JUDICIAL REGION TO BE STATIONED IN THE CITY OF MATI, PROVINCE OF DAVAO ORIENTAL, AND APPROPRIATING FUNDS THEREFOR, AMENDING FOR THE PURPOSE SECTION 14(L) AND SECTION 29 OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS ""THE JUDICIARY REORGANIZATION ACT OF 1980"", AS AMENDED"	"[ REPUBLIC ACT NO. 12243, August 29, 2025 ]
+
+ AN ACT CREATING TWO (2) ADDITIONAL BRANCHES OF THE REGIONAL TRIAL COURT AND TWO (2) ADDITIONAL BRANCHES OF THE MUNICIPAL TRIAL COURT IN CITIES IN THE ELEVENTH JUDICIAL REGION TO BE STATIONED IN THE CITY OF MATI, PROVINCE OF DAVAO ORIENTAL, AND APPROPRIATING FUNDS THEREFOR, AMENDING FOR THE PURPOSE SECTION 14(L) AND SECTION 29 OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS ""THE JUDICIARY REORGANIZATION ACT OF 1980"", AS AMENDED
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Two (2) additional branches of the Regional Trial Court and two (2) additional branches of the Municipal Trial Court in Cities in the Eleventh Judicial Region are hereby created and stationed in the City of Mati, Province of Davao Oriental.
+
+ The Supreme Court shall assign the respective branch numbers for the newly converted branches of the Regional Trial Court and Municipal Trial Court in Cities.
+
+ **Section 2.** The Chief Justice of the Supreme Court, in coordination with the Secretary of the Department of Justice, shall immediately include in the Court's program the operationalization of the additional branches of the Regional Trial Court and Municipal Trial Court in Cities in the City of Mati, Province of Davao Oriental. The Supreme Court shall issue the necessary rules and regulations for the effective implementation of this Act and, if warranted, the realignment of seats of existing branches and their territorial jurisdiction.
+
+ **Section 3.** The funds necessary for the implementation of this Act, including appropriations for personnel services such as salaries, benefits and emoluments for judges and court personnel, court operations under maintenance and other operating expenses (MOOE), and provisions for Halls of Justice or courtrooms to accommodate judges and court staff, as well as funds necessary for the implementation of automatically-created prosecutor positions pursuant to Section 13 of Republic Act No. 10071 or the ""Prosecution Service Act of 2010"" and appointment of public attorneys pursuant to Section 7 of Republic Act No. 9406 or the ""Act Reorganizing and Strengthening the Public Attorney's Office (PAO), resulting from the creation of these courts, including appropriations for personnel services such as salaries, benefits, and emoluments for prosecutors and public attorneys, shall be included in the annual General Appropriations Act.
+
+ The funds necessary for the operation of the courts herein created shall be appropriated and released only upon the actual organization of the court and the appointment of its personnel.
+
+ **Section 4.** In view of the proposed additional branches of the Regional Trial Court, the Regional Trial Court in the City of Mati, Province of Davao Oriental, shall have a staffing pattern as follows:
+
+ | No. of Positions | Position Title | Salary Grade | | --- | --- | --- | | 1 | Regional Trial Court Judge | 29 | | 1 | Clerk of Court V | 24 | | 1 | Court Legal Researcher II | 15 | | 1 | Interpreter III | 12 | | 4 | Court Stenographer III | 12 | | 1 | Sheriff IV | 12 | | 2 | Clerk III | 6 | | 1 | Process Server | 5 | | 1 | Utility Worker I | 1 | | 13 | Personnel | | The staff complement of the new Office of the Clerk of Court (OCC) shall have a staffing pattern as follows, unless modified as determined by the Supreme Court.
+
+ | No. of Positions | Position Title | Salary Grade | | --- | --- | --- | | 1 | Clerk of Court VI | 25 | | 1 | Clerk of Court V | 24 | | 1 | Social Welfare Officer II | 15 | | 2 | Sheriff IV | 12 | | 1 | Data Entry Machine Operator II | 8 | | 1 | Process Server | 5 | | 1 | Utility Worker I | 1 | | 1 | Clerk IV | 8 | | 1 | Clerk III | 6 | | 1 | Librarian I | 11 | | 1 | Clerk III | 6 | | 1 | Utility Worker I | 1 | | 13 | Personnel | | In addition, there shall be appointed the corresponding number of prosecutor/s and public attorney/s and their support staff based on the ratio outlined in Republic Act No. 10071 and Republic Act No. 9406, respectively.
+
+ **Section 5.** In view of the proposed additional branches of the Municipal Trial Court in Cities, the Municipal Trial Court in Cities in the City of Mati, Province of Davao Oriental, shall have a staffing pattern as follows:
+
+ | No. of Positions | Position Title | Salary Grade | | --- | --- | --- | | 1 | City Trial Court Judge | 28 | | 1 | Clerk of Court III | 22 | | 1 | Court Legal Researcher I | 12 | | 1 | Interpreter II | 10 | | 3 | Court Stenographer II | 10 | | 1 | Sheriff III | 10 | | 1 | Clerk IV | 8 | | 1 | Clerk III | 6 | | 1 | Process Server | 5 | | 1 | Utility Worker I | 1 | | 12 | Personnel | | The staff complement of the new Office of the Clerk of Court (OCC) shall have a staffing pattern as follows, unless modified as determined by the Supreme Court.
+
+ | No. of Positions | Position Title | Salary Grade | | --- | --- | --- | | 1 | Clerk of Court VI | 23 | | 1 | Sheriff III | 10 | | 2 | Process Server | 5 | | 1 | Utility Worker I | 1 | | 1 | Records Officer I | 10 | | 1 | Clerk IV | 8 | | 1 | Clerk III | 6 | | 1 | Utility Worker I | 1 | | 1 | Cashier I | 10 | | 1 | Cask Clerk II | 6 | | 11 | Personnel | | In addition, there shall be appointed the corresponding number of prosecutor/s and public attorney/s and their support staff based on the ratio outlined in Republic Act No. 10071 and Republic Act No. 9406, respectively.

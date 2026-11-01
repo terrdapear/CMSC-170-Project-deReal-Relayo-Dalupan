@@ -1,0 +1,203 @@
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Fraternidad Street in the District of Pandacan, City of Manila, is changed to Teodora San Luis Street.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	An act enacted to change the name of Fraternidad Street in Pandacan, Manila, to Teodora San Luis Street.	"[{""title"": ""Section 1."", ""summary"": ""The name of Fraternidad Street in the District of Pandacan, City of Manila, is changed to Teodora San Luis Street.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2536	June 21, 1959			To change the name of Fraternidad Street to Teodora San Luis Street in Pandacan, Manila.	"[""The name of Fraternidad Street is changed to Teodora San Luis Street."", ""The act takes effect upon its approval.""]"		"[""Street name change"", ""Manila"", ""Pandacan"", ""Republic Act 2536""]"	"[""Fraternidad Street"", ""Teodora San Luis Street"", ""Pandacan"", ""Manila"", ""Republic Act 2536""]"
+repacts:datasets/markdown/repacts/1959/ra_2537_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2537_1959.md	ra_2537_1959	An Act Changing the Name of the Barrio of Calansayan in the Municipality of Batangas, Province of Batangas, to Barrio Concepcion	"**REPUBLIC ACT No. 2537**
+
+ **An Act Changing the Name of the Barrio of Calansayan in the Municipality of Batangas, Province of Batangas, to Barrio Concepcion**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the barrio of Calansayan in the Municipality of Batangas, Province of Batangas, is changed to Barrio Concepcion.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act changes the name of the barrio of Calansayan in the Municipality of Batangas, Province of Batangas, to Barrio Concepcion, effective upon its approval.	"[{""title"": ""Section 1."", ""summary"": ""The name of the barrio of Calansayan in the Municipality of Batangas, Province of Batangas, is changed to Barrio Concepcion.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2537	June 21, 1959			To change the name of the barrio of Calansayan to Barrio Concepcion.	"[""Name of the barrio changed to Barrio Concepcion"", ""Act takes effect upon approval""]"		"[""Name change"", ""Local government"", ""Barrio""]"	"[""Calansayan"", ""Batangas"", ""Concepcion"", ""name change"", ""Barrio""]"
+repacts:datasets/markdown/repacts/1959/ra_2538_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2538_1959.md	ra_2538_1959	An Act Creating Certain Barrios in the Municipality of Daraga, Province of Albay	"**REPUBLIC ACT No. 2538**
+
+ **An Act Creating Certain Barrios in the Municipality of Daraga, Province of Albay**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Banadero in the barrio of Budiao, Salvacion in the barrio of Malabog, Malobago in the barrio of Kilicao, and Pandan in the barrio of Lacag, all in the Municipality of Daraga, Province of Albay, are separated from said barrios, and constituted into distinct and independent barrios of said municipality, to be known as the barrios of Banadero, Salvacion, Malobago and Pandan, respectively.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	Creates new barrios in Daraga, Albay by separating specific sitios from existing barrios.	"[{""title"": ""Section 1."", ""summary"": ""Separates the sitios of Banadero, Salvacion, Malobago, and Pandan from their respective barrios and constitutes them into distinct and independent barrios of Daraga.""}, {""title"": ""Section 2."", ""summary"": ""The Act shall take effect upon its approval.""}]"	2538	June 21, 1959			To establish new barrios by separating specified sitios from existing barrios in the Municipality of Daraga, Province of Albay.	"[""Separates specified sitios into new barrios"", ""Act takes effect upon approval""]"		"[""Barrios"", ""Municipality"", ""Albay"", ""Republic Act 2538""]"	"[""barrios"", ""municipality"", ""Daraga"", ""Albay"", ""sitios"", ""Republic Act""]"
+repacts:datasets/markdown/repacts/1959/ra_2539_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2539_1959.md	ra_2539_1959	An Act Creating the Barrio of Bogtong in the Municipality of Busuanga, Province of Palawan	"**REPUBLIC ACT No. 2539**
+
+ **An Act Creating the Barrio of Bogtong in the Municipality of Busuanga, Province of Palawan**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Bogtong in the Municipality of Busuanga, Province of Palawan, is converted into a barrio of said municipality to be known as the barrio of Bogtong.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act converts the sitio of Bogtong into a barrio of the Municipality of Busuanga, Palawan.	"[{""title"": ""Section 1"", ""summary"": ""The sitio of Bogtong in Busuanga is converted into a barrio known as the barrio of Bogtong.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	RA 2539	June 21, 1959			To create the barrio of Bogtong in Busuanga, Palawan.	"[""Conversion of the sitio of Bogtong into a barrio"", ""Effectivity upon approval""]"		"[""barrio"", ""municipality"", ""Palawan"", ""local government""]"	"[""Bogtong"", ""Busuanga"", ""Palawan"", ""barrio"", ""sitio""]"
+repacts:datasets/markdown/repacts/1959/ra_2540_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2540_1959.md	ra_2540_1959	An Act Creating Certain Barrios in the Municipality of Olutanga, Province of Zamboanga del Sur	"**REPUBLIC ACT No. 2540**
+
+ **An Act Creating Certain Barrios in the Municipality of Olutanga, Province of Zamboanga del Sur**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The following sitios in the Municipality of Olutanga, Province of Zamboanga del Sur, are converted into barrios thereof:
+
+ 1. Sitio Baganipay to be known as the barrio of Malipay; 2. Sitio Tabian to be known as the barrio of Mercedes; 3. Sitio Sibayog to be known as the barrio of Salagunting; 4. Sitio Tandu Taba to be known as the barrio of Estancia; 5. Sitio Bagurod to be known as the barrio of Balasan; 6. Sitio Dao to be known as the barrio of Dayag; and 7. Sitio Cawilan Sur to be known as the barrio of Fama. **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act converts listed sitios in the Municipality of Olutanga, Province of Zamboanga del Sur into barrios and declares that the act takes effect upon its approval.	"[{""title"": ""Section 1"", ""summary"": ""Lists and converts specific sitios into barrios: Malipay, Mercedes, Salagunting, Estancia, Balasan, Dayag, and Fama.""}, {""title"": ""Section 2"", ""summary"": ""Declares that the act shall take effect upon its approval.""}]"	2540	June 21, 1959			To convert certain sitios into barrios within the Municipality of Olutanga.	"[""Converts specified sitios into barrios"", ""Act takes effect upon approval""]"		"[""Republic Act"", ""Zamboanga del Sur"", ""Barrios"", ""Municipality of Olutanga""]"	"[""sitios"", ""barrios"", ""municipality"", ""Zamboanga del Sur"", ""Olutanga""]"
+repacts:datasets/markdown/repacts/1959/ra_2541_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2541_1959.md	ra_2541_1959	An Act Creating Certain Barrios in the Municipality of Liargao, Province of Zamboanga del Sur	"**REPUBLIC ACT No. 2541**
+
+ **An Act Creating Certain Barrios in the Municipality of Liargao, Province of Zamboanga del Sur**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Lumangoy, Lumpanid, Montay, Midsapin, Patang, Dipalusan, Guminambon, Dinuyog, San Miguel, Bibilog and Dipalutao in the Municipality of Liargao, Province of Zamboanga Sur, are converted into barrios of said municipality to be known as the barrios of Lumangoy, Lumpanid, Montay, Midsapin, Patang, Dipalusan, Guminambon, Dinuyog, San Miguel, Bibilog and Dipaluto, respectively.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Local Law	Republic Act No. 2541 converts specified sitios within the Municipality of Liargao, Zamboanga del Sur into barrios, thereby formalizing their status and names. The act takes effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""The sitios of Lumangoy, Lumpanid, Montay, Midsapin, Patang, Dipalusan, Guminambon, Dinuyog, San Miguel, Bibilog and Dipalutao in the Municipality of Liargao, Province of Zamboanga Sur, are converted into barrios of said municipality to be known as the barrios of Lumangoy, Lumpanid, Montay, Midsapin, Patang, Dipalusan, Guminambon, Dinuyog, San Miguel, Bibilog and Dipaluto, respectively.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2541	June 21, 1959			To convert specified sitios into barrios within the municipality of Liargao, Zamboanga del Sur.	"[""Converts the sitios of Lumangoy, Lumpanid, Montay, Midsapin, Patang, Dipalusan, Guminambon, Dinuyog, San Miguel, Bibilog, and Dipalutao into barrios of the same names"", ""Act takes effect upon approval""]"		"[""Local Law"", ""Barrios"", ""Zamboanga del Sur"", ""Municipality""]"	"[""barrios"", ""municipality"", ""Zamboanga del Sur"", ""Lumangoy"", ""Lumpanid"", ""Montay"", ""Midsapin"", ""Patang"", ""Dipalusan"", ""Guminambon"", ""Dinuyog"", ""San Miguel"", ""Bibilog"", ""Dipalutao"", ""Dipaluto""]"
+repacts:datasets/markdown/repacts/1959/ra_2542_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2542_1959.md	ra_2542_1959	An Act Changing the Names of Certain Barrios in the Municipality of Olutanga, Province of Zamboanga del Sur	"**REPUBLIC ACT No. 2542**
+
+ **An Act Changing the Names of Certain Barrios in the Municipality of Olutanga, Province of Zamboanga del Sur**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The names of the following barrios in the Municipality of Olutanga, Province of Zamboanga del Sur, are changed as follows:
+
+ 1. Barrio Pinalim to Barrio Bagdad; 2. Barrio Tandu Comot to Barrio Katipunan; 3. Barrio Bongalan to Barrio Esperanza; 4. Barrio Bontalian to Barrio Tuburan; 5. Barrio Sagasa to Barrio Malinao; 6. Barrio Calabasa to Barrio Abunda; 7. Barrio Subanipa to Barrio solar; 8. Barrio Galais to Barrio Calines; 9. Barrio Gawilan to Barrio Noque; 10. Barrio Taguisian to Barrio Tampohan; 11. Barrio Cabatuan to Barrio Catipan; and 12. Barrio Talusan to Barrio Jerusalim. **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act changes the names of twelve barrios in the Municipality of Olutanga, Zamboanga del Sur.	"[{""title"": ""Section 1"", ""summary"": ""List of name changes for twelve barrios.""}, {""title"": ""Section 2"", ""summary"": ""The act takes effect upon its approval.""}]"	2542	June 21, 1959			To update the official names of barrios for administrative and territorial purposes.	"[""Name changes of 12 barrios: Pinalim to Bagdad, Tandu Comot to Katipunan, Bongalan to Esperanza, Bontalian to Tuburan, Sagasa to Malinao, Calabasa to Abunda, Subanipa to Solar, Galais to Calines, Gawilan to Noque, Taguisian to Tampohan, Cabatuan to Catipan, Talusan to Jerusalim."", ""Effectivity upon approval.""]"		"[""Local Government"", ""Territorial Naming"", ""Municipality"", ""Zamboanga del Sur""]"	"[""Republic Act"", ""Barrios"", ""Olutanga"", ""Zamboanga del Sur"", ""Name change""]"
+repacts:datasets/markdown/repacts/1959/ra_2543_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2543_1959.md	ra_2543_1959	An Act Creating the Barrio of Maruclap in the Municipality of Batangas, Province of Batangas	"**REPUBLIC ACT No. 2543**
+
+ **An Act Creating the Barrio of Maruclap in the Municipality of Batangas, Province of Batangas**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Maruclap and Cotocoto in the barrio of Haliging Kanluran, Maarangan in the barrio of Haliging Silangan, Cacawan in the barrio of Sto. Niño, and Payapa in the barrio of Talahib Payapa, all in the Municipality of Batangas, Province of Batangas, are separated from the said barrios, and constituted into a distinct and independent barrio of said municipality to be known as the barrio of Maruclap.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act establishes the barrio of Maruclap by separating the sitios of Maruclap, Cotocoto, Maarangan, Cacawan, and Payapa from existing barrios in the Municipality of Batangas.	"[{""title"": ""Section 1"", ""summary"": ""Separates the sitios of Maruclap and Cotocoto in Haliging Kanluran, Maarangan in Haliging Silangan, Cacawan in Sto. Ni\u00f1o, and Payapa in Talahib Payapa from their respective barrios and constitutes them as the distinct barrio of Maruclap.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	2543	June 21, 1959			To create a new barrio within the Municipality of Batangas.	"[""Separates specific sitios from existing barrios to form the barrio of Maruclap"", ""Establishes Maruclap as an independent administrative unit"", ""Effective upon approval""]"		"[""Republic Act"", ""Barrio"", ""Municipality"", ""Administrative Division""]"	"[""Barrio of Maruclap"", ""Batangas"", ""Municipality"", ""Sitios"", ""Administrative Division"", ""Republic Act 2543""]"
+repacts:datasets/markdown/repacts/1959/ra_2544_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2544_1959.md	ra_2544_1959	An Act Changing the Name of Barrio San Pedro, Municipality of Gumaca, Province of Quezon, to Biga	"**REPUBLIC ACT No. 2544**
+
+ **An Act Changing the Name of Barrio San Pedro, Municipality of Gumaca, Province of Quezon, to Biga**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Barrio San Pedro, Municipality of Gumaca, Province of Quezon, is hereby changed to Biga.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act changes the name of Barrio San Pedro in Gumaca, Quezon to Biga.	"[{""title"": ""Section 1."", ""summary"": ""The name of Barrio San Pedro, Municipality of Gumaca, Province of Quezon, is hereby changed to Biga.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2544	June 21, 1959				"[""Name of Barrio San Pedro changed to Biga."", ""Act takes effect upon approval.""]"			
+repacts:datasets/markdown/repacts/1959/ra_2545_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2545_1959.md	ra_2545_1959	An Act Changing the Name of Barrio San Fernando, Municipality of Gumaca, Province of Quezon, to Camohaguin	"**REPUBLIC ACT No. 2545**
+
+ **An Act Changing the Name of Barrio San Fernando, Municipality of Gumaca, Province of Quezon, to Camohaguin**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Barrio San Fernando, Municipality of Gumaca, Province of Quezon, is hereby changed to Camohaguin.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act changes the name of Barrio San Fernando in Gumaca, Quezon to Camohaguin.	"[{""title"": ""Section 1"", ""summary"": ""The name of Barrio San Fernando, Municipality of Gumaca, Province of Quezon, is hereby changed to Camohaguin.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	2545	June 21, 1959			To change the name of the barrio from San Fernando to Camohaguin.	"[""Name of Barrio San Fernando changed to Camohaguin."", ""Act takes effect upon approval.""]"			
+repacts:datasets/markdown/repacts/1959/ra_2546_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2546_1959.md	ra_2546_1959	An Act Changing the Name of the Pantalan Barrio School in the Municipality of Carles, Province of Iloilo, to Tiburcio Betita Memorial School	"**REPUBLIC ACT No. 2546**
+
+ **An Act Changing the Name of the Pantalan Barrio School in the Municipality of Carles, Province of Iloilo, to Tiburcio Betita Memorial School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Pantalan Barrio School in the Municipality of Carles, Province of Iloilo, is changed to Tiburcio Betita Memorial School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act changes the name of Pantalan Barrio School to Tiburcio Betita Memorial School in Carles, Iloilo.	"[{""title"": ""Section 1"", ""summary"": ""The name of the Pantalan Barrio School in the Municipality of Carles, Province of Iloilo, is changed to Tiburcio Betita Memorial School.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	2546	June 21, 1959			Change the name of Pantalan Barrio School to Tiburcio Betita Memorial School.	"[""Name of Pantalan Barrio School changed to Tiburcio Betita Memorial School."", ""Act takes effect upon approval.""]"		"[""Education"", ""School Name Change"", ""Iloilo""]"	"[""Pantalan Barrio School"", ""Tiburcio Betita Memorial School"", ""Carles"", ""Iloilo"", ""School name change""]"
+repacts:datasets/markdown/repacts/1959/ra_2547_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2547_1959.md	ra_2547_1959	An Act Changing the Name of Barrio Ibabang Banot, Municipality of Gumaca, Province of Quezon, to Gitnang Barrio	"**REPUBLIC ACT No. 2547**
+
+ **An Act Changing the Name of Barrio Ibabang Banot, Municipality of Gumaca, Province of Quezon, to Gitnang Barrio**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Barrio Ibabang Banot, Municipality of Gumaca, Province of Quezon, is hereby changed to Gitnang Barrio.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This Act changes the name of a barrio in Gumaca, Quezon from Ibabang Banot to Gitnang Barrio.	"[{""title"": ""Section 1"", ""summary"": ""Name changed to Gitnang Barrio.""}, {""title"": ""Section 2"", ""summary"": ""Act takes effect upon approval.""}]"	2547	June 21, 1959			To change the name of a barrio.	"[""Change of barrio name from Ibabang Banot to Gitnang Barrio."", ""Act takes effect upon approval.""]"			"[""Barrio"", ""Name Change"", ""Gumaca"", ""Quezon""]"
+repacts:datasets/markdown/repacts/1959/ra_2548_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2548_1959.md	ra_2548_1959	An Act Naming the Barrios and Sitios in the Municipality of Diffun, Province of Nueva Vizcaya	"**REPUBLIC ACT No. 2548**
+
+ **An Act Naming the Barrios and Sitios in the Municipality of Diffun, Province of Nueva Vizcaya**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The barrios and sitios in the Municipality of Diffun, Province of Nueva Vizcaya, are hereby enumerated and named as follows:
+
+ Barrio San Antonio (formerly known as Calimaturog) with its sitios of Guribang, Batarra and Navarro; Barrio San Isidro with its sitios of Rancho, Silang (formerly known as Magsaysayot) and Mabini (formerly known as Amelingan); Barrio Maria Clara with its sitio of Lucban; Barrio Villa Pascua with its sitio of San Pedro; Barrio Luttuad with its sitio of Capannikian; barrio of Mangandingay, with its sitios of Dallapan and Malini barrio of Gundaway with its sitios of Cabugbogan, Dinait, Diagay, Tarlac (formerly known as Difuncia) and Dumatata; barrio of Cahel with its sitio of Nagbukel; barrio of Liwayway (formerly known as Disinaba) with its sitios of Bayabat, Simbahan and San Francisco; barrio of Ricarte with its sitios of Pakipak, Bontutan, Bender formerly known as Lanna), San Juan and Dinaliang; barrio of Tandang Sora (formerly known as Dumanisi) with its sitios of Andapat, Dumanting, Dapungan, Anonang, Lorad, Hunters (formerly known as Campamiento), Makate, Amugawen and Pena, and the barrios of I. Paredes, Gulac, Bannawag, La Paz, Salvacion, Sto. Tomas, Saguday, Balagbag and San Marcos (formerly known as Cannuanga).
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	An act enumerating and naming the barrios and sitios within the municipality of Diffun, Nueva Vizcaya, establishing official designations for local subdivisions.	"[{""title"": ""Section 1."", ""summary"": ""Enumerates and names the barrios and their constituent sitios in Diffun, specifying former names where applicable.""}, {""title"": ""Section 2."", ""summary"": ""Declares that the act shall take effect upon its approval.""}]"	2548	June 21, 1959			To officially name and delineate the barrios and sitios within the municipality of Diffun, Nueva Vizcaya.	"[""Enumerates and names all barrios and their sitios in Diffun, including former names.""]"		"[""Barrios"", ""Sitios"", ""Diffun"", ""Nueva Vizcaya"", ""Municipality"", ""Naming""]"	"[""Barrios"", ""Sitios"", ""Diffun"", ""Nueva Vizcaya"", ""Municipality"", ""Naming""]"
+repacts:datasets/markdown/repacts/1959/ra_2549_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2549_1959.md	ra_2549_1959	An Act Changing the Name of Barrio Ipil Pequeno in the Municipality of Echague, Province of Isabela, to Barrio Quezon	"**REPUBLIC ACT No. 2549**
+
+ **An Act Changing the Name of Barrio Ipil Pequeno in the Municipality of Echague, Province of Isabela, to Barrio Quezon**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Barrio Ipil Pequeno in the Municipality of Echague, Province of Isabela, is hereby changed to Barrio Quezon.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act changes the name of Barrio Ipil Pequeno to Barrio Quezon in Echague, Isabela.	"[{""title"": ""Section 1."", ""summary"": ""The name of Barrio Ipil Pequeno in the Municipality of Echague, Province of Isabela, is hereby changed to Barrio Quezon.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2549	June 21, 1959			Change the name of a barrio.	"[""Change the name of Barrio Ipil Pequeno to Barrio Quezon.""]"		"[""barrio"", ""name change"", ""Isabela"", ""Echague""]"	"[""Barrio Ipil Pequeno"", ""Barrio Quezon"", ""Isabela"", ""Echague"", ""Name change""]"
+repacts:datasets/markdown/repacts/1959/ra_2550_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2550_1959.md	ra_2550_1959	An Act Dividing the Barrio of Manaring in the Municipality of Ilagan, Province of Isabela, into Two Barrios to be Known as Barrio Manaring Primero and Barrio Manaring Segundo	"**REPUBLIC ACT No. 2550**
+
+ **An Act Dividing the Barrio of Manaring in the Municipality of Ilagan, Province of Isabela, into Two Barrios to be Known as Barrio Manaring Primero and Barrio Manaring Segundo**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The barrio of Manaring in the Municipality of Ilagan, Province of Isabela, is hereby divided into two barrios to be known as Barrio Manaring Primero and Barrio Manaring Segundo.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	An act to divide the barrio of Manaring into two barrios, Barrio Manaring Primero and Barrio Manaring Segundo, effective upon its approval.	"[{""title"": ""Section 1."", ""summary"": ""The barrio of Manaring in the Municipality of Ilagan, Province of Isabela, is hereby divided into two barrios to be known as Barrio Manaring Primero and Barrio Manaring Segundo.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2550	June 21, 1959			To divide the barrio of Manaring into two separate barrios for administrative purposes.	"[""Division of the barrio of Manaring into Barrio Manaring Primero and Barrio Manaring Segundo.""]"		"[""barrio"", ""division"", ""Ilagan"", ""Isabela""]"	"[""Manaring"", ""Ilagan"", ""Isabela"", ""barrio"", ""division""]"
+repacts:datasets/markdown/repacts/1959/ra_2551_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2551_1959.md	ra_2551_1959	An Act Naming the Primary School of Barrio Malabo in the Municipality of Valencia, Province of Negros Oriental, as Carson Primary School	"**REPUBLIC ACT No. 2551**
+
+ **An Act Naming the Primary School of Barrio Malabo in the Municipality of Valencia, Province of Negros Oriental, as Carson Primary School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The primary school of Barrio Malabo, Municipality of Valencia, Province of Negros Oriental, is hereby named Carson Primary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act names the primary school of Barrio Malabo in Valencia, Negros Oriental as Carson Primary School and provides that it takes effect upon its approval.	"[{""title"": ""Section 1."", ""summary"": ""The primary school of Barrio Malabo, Municipality of Valencia, Province of Negros Oriental, is hereby named Carson Primary School.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2551	June 21, 1959			To name a primary school in the municipality of Valencia, Negros Oriental.	"[""The primary school of Barrio Malabo is named Carson Primary School."", ""The act takes effect upon its approval.""]"		"[""Education"", ""School"", ""Naming""]"	"[""Carson Primary School"", ""Barrio Malabo"", ""Valencia"", ""Negros Oriental"", ""Republic Act 2551""]"
+repacts:datasets/markdown/repacts/1959/ra_2552_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2552_1959.md	ra_2552_1959	An Act Creating Certain Barrios in the Municipality of Hilongos, Province of Leyte	"**REPUBLIC ACT No. 2552**
+
+ **An Act Creating Certain Barrios in the Municipality of Hilongos, Province of Leyte**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The following sitios in the Municipality of Hilongos, Province of Leyte, are constituted or converted as barrios of said municipality, to wit:
+
+ 1. The sitios of Tagnate, Mahangin, Panas and Hibunlod to be known as the barrio of Tagnate; 2. The sitios of Agutayan, Lagtangon, Kandasig and Katungawan to be known as the barrio of Agutayan; 3. The sitios of Campina and Matigbaw to be known as the barrio of Campina; and 4. The sitio of Magnangoy to be known as the barrio of Magnangoy. **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act establishes four new barrios—Tagnate, Agutayan, Campina, and Magnangoy—by converting specified sitios in Hilongos, Leyte, and becomes effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Constitutes or converts the sitios of Tagnate, Mahangin, Panas, Hibunlod, Agutayan, Lagtangon, Kandasig, Katungawan, Campina, Matigbaw, and Magnangoy into the barrios of Tagnate, Agutayan, Campina, and Magnangoy, respectively.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	2552	June 21, 1959			To create barrios in Hilongos, Leyte by converting designated sitios into official barrios.	"[""Creation of barrio Tagnate from sitios Tagnate, Mahangin, Panas, Hibunlod"", ""Creation of barrio Agutayan from sitios Agutayan, Lagtangon, Kandasig, Katungawan"", ""Creation of barrio Campina from sitios Campina, Matigbaw"", ""Creation of barrio Magnangoy from sitio Magnangoy"", ""Effectivity upon approval""]"		"[""Republic Act"", ""Leyte"", ""Barrios"", ""Municipality"", ""Hilongos""]"	"[""barrios"", ""sitios"", ""Leyte"", ""Hilongos"", ""Republic Act 2552""]"

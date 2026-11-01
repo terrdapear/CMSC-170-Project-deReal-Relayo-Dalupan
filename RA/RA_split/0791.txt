@@ -1,0 +1,164 @@
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Subject to the terms and conditions established in Act Numbered Thirty-six hundred and thirty-six, as amended by Commonwealth Act Numbered One hundred and thirty-two, and to the provisions of the Constitution, there is granted to the Municipality of Basco, Province of Batanes, for a period of fifty years from the approval of this Act, the right, privilege and authority to construct, maintain and operate an electric light, heat and power system for the purpose of generating and distributing electric light, heat and/or power for sale within the limits of the said municipality.
+
+ **Section 2.** In the event that the grantee shall purchase and secure from the National Power Corporation electric heat and power, the National Power Corporation is hereby authorized to negotiate and transact for the benefit and in behalf of the public consumers with reference to rates.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 16, 1962.
+"	success	Republic Act	An Act granting Basco municipality franchise to construct, maintain, and operate an electric light, heat, and power system for 50 years.	"[{""title"": ""Section 1"", ""summary"": ""Grants Basco municipality the right to construct, maintain, and operate an electric light, heat, and power system for a period of fifty years.""}, {""title"": ""Section 2"", ""summary"": ""Authorizes the National Power Corporation to negotiate and transact rates on behalf of the public consumers if the grantee purchases electric heat and power.""}, {""title"": ""Section 3"", ""summary"": ""Declares the Act effective upon its approval.""}]"	3486	June 16, 1962			Granting franchise for an electric light, heat and power system in Basco.	"[""Grant franchise for 50 years"", ""Authorizes NPP to negotiate rates"", ""Act takes effect upon approval""]"	Act Numbered Thirty-six hundred and thirty-six, as amended by Commonwealth Act Numbered One hundred and thirty-two	"[""Electricity"", ""Franchise"", ""Basco"", ""Batanes"", ""Republic Act 3486""]"	"[""electric light"", ""heat"", ""power"", ""Basco"", ""Batanes"", ""municipality"", ""franchise"", ""electricity""]"
+repacts:datasets/markdown/repacts/1962/ra_3487_1962.md	repacts	1962		datasets/markdown/repacts/1962/ra_3487_1962.md	ra_3487_1962	An Act to Convert the Municipality District of San Luis, Subprovince of Aurora, Province of Quezon, into a Municipality	"**REPUBLIC ACT No. 3487**
+
+ **An Act to Convert the Municipality District of San Luis, Subprovince of Aurora, Province of Quezon, into a Municipality**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The Municipal District of San Luis, Subprovince of Aurora, Province of Quezon, is hereby converted into a municipality.
+
+ **Section 2.** The present mayor, vice-mayor and councilors of the Municipal District of San Luis shall be the mayor, vice-mayor and councilors, respectively, of the new municipality until their successors shall have been elected in the next regular elections for provincial and municipal officials and shall have qualified.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 16, 1962.
+"	success	Republic Act	Converts the Municipal District of San Luis in Subprovince of Aurora, Province of Quezon into an official municipality, establishing its governance structure until the next elections.	"[{""title"": ""Section 1."", ""summary"": ""Converts the Municipal District of San Luis into a municipality.""}, {""title"": ""Section 2."", ""summary"": ""The current mayor, vice-mayor and councilors of the Municipal District shall serve as the mayor, vice-mayor and councilors of the new municipality until the next elections.""}, {""title"": ""Section 3."", ""summary"": ""The Act takes effect upon its approval.""}]"	3487	June 16, 1962			To convert the Municipal District of San Luis into an official municipality.	"[""Conversion of Municipal District into a municipality."", ""Current officials serve until next elections."", ""Act takes effect upon approval.""]"		"[""municipality"", ""local government"", ""Aurora"", ""Quezon"", ""Republic Act""]"	"[""Municipality"", ""San Luis"", ""Aurora"", ""Quezon"", ""Republic Act 3487""]"
+repacts:datasets/markdown/repacts/1962/ra_3488_1962.md	repacts	1962		datasets/markdown/repacts/1962/ra_3488_1962.md	ra_3488_1962	An Act Creating the Municipality of Paracales in Mountain Province	"**REPUBLIC ACT No. 3488**
+
+ **An Act Creating the Municipality of Paracales in Mountain Province**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The barrios of Paracales, Kiling, Bagwang, Palitod, Danral, Bunot, Calao, Anonat, Inwagan, Paungong, Catao, Buringal, Bacari and Botique in the Municipality of Natonin, Mountain Province, are separated from said municipality, and constituted into a distinct and independent municipality, to be known as the Municipality of Paracales, same province. The seat of government of the new municipality shall be in the present site of the barrio of Paracales.
+
+ **Section 2.** The first mayor, vice-mayor and councilors of the new municipality shall be appointed by the President of the Philippines with the consent of the Commission on Appointments and shall hold office until their successors shall have been elected in the next general elections for local officials and shall have qualified.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 16, 1962.
+"	success	Republic Act	This act establishes the municipality of Paracales in Mountain Province, separating several barrios from Natonin and delineating its governance structure.	"[{""title"": ""Section 1."", ""summary"": ""Separates specified barrios from the Municipality of Natonin and forms them into the new Municipality of Paracales, with its seat in the barrio of Paracales.""}, {""title"": ""Section 2."", ""summary"": ""Designates the first mayor, vice-mayor, and councilors, to be appointed by the President with Senate approval, serving until the next local elections.""}, {""title"": ""Section 3."", ""summary"": ""The act becomes effective upon its approval.""}]"	3488	June 16, 1962			To establish the Municipality of Paracales in Mountain Province.	"[""Creation of the municipality of Paracales."", ""Separation of specified barrios from Natonin."", ""Appointment of the first local officials by the President."", ""Effectivity upon approval.""]"		"[""Municipality"", ""Local Government"", ""Mountain Province""]"	"[""Paracales"", ""Mountain Province"", ""Municipality"", ""Republic Act 3488""]"
+repacts:datasets/markdown/repacts/1962/ra_3489_1962.md	repacts	1962		datasets/markdown/repacts/1962/ra_3489_1962.md	ra_3489_1962	An Act Creating the Municipality of Oteiza in the Province of Surigao del Sur	"**REPUBLIC ACT No. 3489**
+
+ **An Act Creating the Municipality of Oteiza in the Province of Surigao del Sur**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The barrios of Oteiza, Salvacion and Santo Niño in the Municipality of Marihatag, Province of Surigao del Sur, are separated from said municipality, and constituted into a distinct and independent municipality, to be known as the Municipality of Oteiza, same province. The seat of government of the new municipality shall be in the present site of the barrio of Oteiza.
+
+ **Section 2.** The first mayor, vice-mayor and councilors of the new municipality shall be appointed by the President with the consent of the Commission on Appointments and shall hold office until their successors shall have been elected in the next general elections for local officials and shall have qualified.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 16, 1962.
+"	success	Republic Act	This act establishes the Municipality of Oteiza by separating the barrios of Oteiza, Salvacion, and Santo Niño from the Municipality of Marihatag, designates its seat of government, appoints the first local officials, and sets the act to take effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""The barrios of Oteiza, Salvacion and Santo Ni\u00f1o in the Municipality of Marihatag, Province of Surigao del Sur, are separated from said municipality, and constituted into a distinct and independent municipality, to be known as the Municipality of Oteiza, same province. The seat of government of the new municipality shall be in the present site of the barrio of Oteiza.""}, {""title"": ""Section 2."", ""summary"": ""The first mayor, vice-mayor and councilors of the new municipality shall be appointed by the President with the consent of the Commission on Appointments and shall hold office until their successors shall have been elected in the next general elections for local officials and shall have qualified.""}, {""title"": ""Section 3."", ""summary"": ""This Act shall take effect upon its approval.""}]"	3489	June 16, 1962			Creation of a new municipality and establishment of its local government	"[""Separation of barrios to form Municipality of Oteiza"", ""Designation of Oteiza as seat of government"", ""Appointment of first mayor, vice-mayor, and councilors by President with Commission on Appointments"", ""Effectivity upon approval""]"		"[""Municipality"", ""Local Government"", ""Surigao del Sur"", ""Oteiza""]"	"[""municipality"", ""Oteiza"", ""Surigao del Sur"", ""local officials"", ""constitution""]"
+repacts:datasets/markdown/repacts/1962/ra_3490_1962.md	repacts	1962		datasets/markdown/repacts/1962/ra_3490_1962.md	ra_3490_1962	An Act to Convert the Municipal District of Dingalan, Subprovince of Aurora, Province of Quezon, into a Municipality	"**REPUBLIC ACT No. 3490**
+
+ **An Act to Convert the Municipal District of Dingalan, Subprovince of Aurora, Province of Quezon, into a Municipality**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The Municipal District of Dingalan, Subprovince of Aurora, Province of Quezon, is hereby converted into a municipality.
+
+ **Section 2.** The present mayor, vice-mayor and councilors of the Municipal District of Dingalan shall be the mayor, vice-mayor and councilors, respectively, of the new municipality until their successors shall have been elected in the next regular elections for provincial and municipal officials and shall have qualified.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 16, 1962.
+"	success	Republic Act	This act converts the municipal district of Dingalan into a municipality, transfers the existing mayor, vice‑mayor and councilors to the new municipal government until successors are elected, and takes effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""The Municipal District of Dingalan is converted into a municipality.""}, {""title"": ""Section 2."", ""summary"": ""The current mayor, vice\u2011mayor and councilors of the district will serve as mayor, vice\u2011mayor and councilors of the new municipality until successors are elected.""}, {""title"": ""Section 3."", ""summary"": ""The act takes effect upon its approval.""}]"	3490	June 16, 1962			To convert the municipal district of Dingalan into a municipality.	"[""Conversion of the municipal district of Dingalan into a municipality."", ""Transfer of existing municipal officials to the new municipality until successors are elected."", ""Act takes effect upon approval.""]"		"[""municipality"", ""local government"", ""Dingalan"", ""Aurora"", ""Quezon""]"	"[""Dingalan"", ""municipal district"", ""municipality"", ""conversion"", ""Quezon"", ""Aurora""]"
+repacts:datasets/markdown/repacts/1962/ra_3491_1962.md	repacts	1962		datasets/markdown/repacts/1962/ra_3491_1962.md	ra_3491_1962	An Act Creating the Municipality of San Miguel in the Province of Surigao del Sur	"**REPUBLIC ACT No. 3491**
+
+ **An Act Creating the Municipality of San Miguel in the Province of Surigao del Sur**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The barrios of Libas Gua, Libas Sub, San Roque, Baras, Maitum, Siagao, Caromata, Umalag, Calatangan, Badying, Bitaogan and San Miguel in the Municipality of Tago, Province of Surigao del Sur, are separated from said municipality, and constituted into a distinct and independent municipality, to be known as the Municipality of San Miguel, same province. The seat of government of the new municipality shall be in the present site of the barrio of San Miguel.
+
+ **Section 2.** The first mayor, vice-mayor and councilors of the new municipality shall be appointed by the President with the consent of the Commission on Appointments and shall hold office until their successors shall have been elected in the next general elections for local officials and shall have qualified.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 16, 1962.
+"	success	Republic Act	This act establishes the Municipality of San Miguel in Surigao del Sur by separating specified barrios from the Municipality of Tago and sets forth the appointment of its inaugural local officials.	"[{""title"": ""Section 1."", ""summary"": ""Separates the barrios of Libas Gua, Libas Sub, San Roque, Baras, Maitum, Siagao, Caromata, Umalag, Calatangan, Badying, Bitaogan and San Miguel from the Municipality of Tago to constitute the independent Municipality of San Miguel, with its seat in the barrio of San Miguel.""}, {""title"": ""Section 2."", ""summary"": ""Mandates the President, with the consent of the Commission on Appointments, to appoint the first mayor, vice-mayor, and councilors of the new municipality until the next general elections.""}, {""title"": ""Section 3."", ""summary"": ""The act takes effect upon its approval.""}]"	3491	June 16, 1962			To create a new municipality and establish its initial local government structure.	"[""Separation of designated barrios to form a new municipality"", ""Appointment of inaugural local officials by the President with COA consent"", ""Effectivity upon approval""]"		"[""Municipality"", ""Local Government"", ""Surigao del Sur"", ""Republic Act""]"	"[""San Miguel"", ""Surigao del Sur"", ""municipality"", ""local government"", ""Republic Act 3491""]"
+repacts:datasets/markdown/repacts/1962/ra_3492_1962.md	repacts	1962		datasets/markdown/repacts/1962/ra_3492_1962.md	ra_3492_1962	An Act Creating the Municipality of Villanueva in the Province of Misamis Oriental	"**REPUBLIC ACT No. 3492**
+
+ **An Act Creating the Municipality of Villanueva in the Province of Misamis Oriental**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The barrios of Villanueva, Nabacaan, Bulacanas, San Martin and Kimaya are hereby separated from the Municipality of Tagoloan, Province of Misamis Oriental, and constituted into a new municipality to be known as the Municipality of Villanueva with the seat of government at the site of the present barrio of Villanueva.
+
+ **Section 2.** The boundaries of the Municipality of Villanueva will be as follows:
+
+ > ""Beginning at point ""1"" on plan on the west where the Puga-an River meets at the mouth of Tagoloan River , to point ""2"" to the coast of Macajalar Bay N. 77 42 W. approximately 600 meters, then following the shoreline N. 18 30 E., a distance of 2,100 meters to point ""3"", thence N. 56 15 E., a distance of 3,050 meters to point ""4"", thence N. 10 00 W. a distance of 700 meters to point ""5"", thence due east at a distance of 6,200 meters to point ""6"" (Jasaan-Villanueva boundary), thence S. 45 30 W. a distance of 4,300 meters to point ""7"" on Puga-an River, thence following its course S. 16 20 W. a distance of 740 meters to point ""8"", thence S. 71 50 W. a distance of 880 meters to point ""9"", thence S. 14 30 W. a distance of 1,340 meters to point ""10"", thence N. 65 30 W. along Tagpayo Creek, a distance of 1,600 meters to point ""11"", thence following its course N. 86 30 W. a distance of 600 meters to point ""12"", thence S. 53 15 W. a distance of 1,100 meters to point ""13"" thence S. 89 00 W. a distance of 2,300 meters to point ""14"", thence N. 70 45 W. a distance of 3,600 meters to point ""15"", thence S. 69 00 W. a distance of 400 meters to point ""16"" where the Puga-an River meets Tagpayao Creek, thence, S. 75 30 W. a distance of 1,200 meters to point ""1"", the point of beginning.""
+
+ **Section 3.** The first mayor, vice-mayor and councilors of the municipality shall be appointed by the President of the Philippines with the consent of the Commission of Appointments and shall continue in office until their successors shall have been elected and shall have qualified in the next election for local officials.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 16, 1962.
+"	success	Republic Act	An act establishing the municipality of Villanueva in Misamis Oriental, defining its boundaries, and setting provisions for the appointment of its local officials.	"[{""title"": ""Section 1"", ""summary"": ""The barrios of Villanueva, Nabacaan, Bulacanas, San Martin and Kimaya are separated from the Municipality of Tagoloan and constituted into a new municipality, the Municipality of Villanueva, with its seat at the present barrio of Villanueva.""}, {""title"": ""Section 2"", ""summary"": ""Defines the geographical boundaries of the Municipality of Villanueva with detailed points and coordinates.""}, {""title"": ""Section 3"", ""summary"": ""The first mayor, vice-mayor and councilors of the municipality shall be appointed by the President of the Philippines with the consent of the Commission of Appointments and shall continue in office until their successors have been elected and qualified for the next local election.""}, {""title"": ""Section 4"", ""summary"": ""This Act shall take effect upon its approval.""}]"	3492	June 16, 1962			To create the municipality of Villanueva in Misamis Oriental and establish its boundaries and local government structure.	"[""Creation of the Municipality of Villanueva"", ""Definition of its boundaries"", ""Appointment of initial local officials by the President with Commission of Appointments consent"", ""Effectivity of the act upon approval""]"		"[""municipality creation"", ""local government"", ""Misamis Oriental""]"	"[""Villanueva"", ""Misamis Oriental"", ""municipality"", ""Republic Act 3492"", ""boundary"", ""local officials"", ""June 1962""]"
+repacts:datasets/markdown/repacts/1962/ra_3493_1962.md	repacts	1962		datasets/markdown/repacts/1962/ra_3493_1962.md	ra_3493_1962	An Act Creating the Municipality of Plaridel in the Province of Quezon	"**REPUBLIC ACT No. 3493**
+
+ **An Act Creating the Municipality of Plaridel in the Province of Quezon**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The barrios of Siain, Ilusong, Concepcion, Duhat and Tanauan in the Municipality of Atimonan, Province of Quezon, are separated from said municipality, and constituted into a distinct and independent municipality, to be known as the Municipality of Plaridel, same province. The seat of government of the new municipality shall be in the urban center of the present barrio of Siain.
+
+ **Section 2.** The first mayor, vice-mayor and councilors of the new municipality shall be appointed by the President with the consent of the Commission on Appointments and shall hold office until their successors shall have been elected in the next general elections for local officials and shall have qualified.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 16, 1962.
+"	success	Republic Act	Establishes the Municipality of Plaridel, Quezon, detailing its formation, governance structure, and effective date.	"[{""title"": ""Section 1."", ""summary"": ""Separates the barrios of Siain, Ilusong, Concepcion, Duhat, and Tanauan from Atimonan to form the Municipality of Plaridel, with its seat in Siain.""}, {""title"": ""Section 2."", ""summary"": ""Designates the first mayor, vice-mayor, and councilors, to be appointed by the President with the Commission on Appointments' consent, serving until the next local elections.""}, {""title"": ""Section 3."", ""summary"": ""The act becomes effective upon its approval.""}]"	3493	June 16, 1962			Create the Municipality of Plaridel in Quezon Province	"[""Creation of the Municipality of Plaridel"", ""Appointment of first mayor, vice-mayor, and councilors"", ""Effective date upon approval""]"		"[""municipality"", ""local government"", ""Quezon""]"	"[""Plaridel"", ""Quezon"", ""municipality"", ""local government"", ""Senate"", ""House of Representatives"", ""creation""]"
+repacts:datasets/markdown/repacts/1962/ra_3494_1962.md	repacts	1962		datasets/markdown/repacts/1962/ra_3494_1962.md	ra_3494_1962	An Act Changing the Name of Camp James Ord in San Miguel, Tarlac, Tarlac, to Camp General Servillano Aquino	"**REPUBLIC ACT No. 3494**
+
+ **An Act Changing the Name of Camp James Ord in San Miguel, Tarlac, Tarlac, to Camp General Servillano Aquino**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Camp James Ord in San Miguel, Tarlac, Tarlac, shall henceforth be known as Camp General Servillano Aquino.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 16, 1962.
+"	success	Republic Act	This act changes the name of Camp James Ord in San Miguel, Tarlac, to Camp General Servillano Aquino and becomes effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Renames Camp James Ord to Camp General Servillano Aquino.""}, {""title"": ""Section 2"", ""summary"": ""The act takes effect upon its approval.""}]"	3494	June 16, 1962			Change the name of a military camp to honor General Servillano Aquino.	"[""Renaming Camp James Ord to Camp General Servillano Aquino.""]"			
+repacts:datasets/markdown/repacts/1962/ra_3495_1962.md	repacts	1962		datasets/markdown/repacts/1962/ra_3495_1962.md	ra_3495_1962	An Act Changing the Name of the Ditsaan-Ramain Elementary School in the Municipality of Ditsaan, Province of Lanao del Sur, to Sultan Alauya Alonto Elementary School	"**REPUBLIC ACT No. 3495**
+
+ **An Act Changing the Name of the Ditsaan-Ramain Elementary School in the Municipality of Ditsaan, Province of Lanao del Sur, to Sultan Alauya Alonto Elementary School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Ditsaan-Ramain Elementary School in the Municipality of Ditsaan, Province of Lanao del Sur, is hereby changed to Sultan Alauya Alonto Elementary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 16, 1962.
+"	success	Republic Act	This act changes the name of the Ditsaan-Ramain Elementary School to Sultan Alauya Alonto Elementary School and takes effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The name of the Ditsaan-Ramain Elementary School in the Municipality of Ditsaan, Province of Lanao del Sur, is hereby changed to Sultan Alauya Alonto Elementary School.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	3495	June 16, 1962			To change the name of the Ditsaan-Ramain Elementary School to Sultan Alauya Alonto Elementary School.	"[""Name of the Ditsaan-Ramain Elementary School changed to Sultan Alauya Alonto Elementary School""]"		"[""Education"", ""School"", ""Name Change"", ""Lanao del Sur""]"	"[""Republic Act"", ""School"", ""Name Change"", ""Ditsaan"", ""Lanao del Sur""]"
+repacts:datasets/markdown/repacts/1962/ra_3496_1962.md	repacts	1962		datasets/markdown/repacts/1962/ra_3496_1962.md	ra_3496_1962	An Act Changing the Name of the Rumayas Elementary School in the Municipality of Lumba-Bayabao, Province of Lanao del Sur, to Dagalangit Elementary School	"**REPUBLIC ACT No. 3496**
+
+ **An Act Changing the Name of the Rumayas Elementary School in the Municipality of Lumba-Bayabao, Province of Lanao del Sur, to Dagalangit Elementary School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Rumayas Elementary School in the Municipality of Lumba-Bayabao, Province of Lanao del Sur, is changed to Dagalangit Elementary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 16, 1962.
+"	success	Republic Act	This act changes the name of Rumayas Elementary School to Dagalangit Elementary School.	"[{""title"": ""Section 1."", ""summary"": ""The name of the Rumayas Elementary School in the Municipality of Lumba-Bayabao, Province of Lanao del Sur, is changed to Dagalangit Elementary School.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	3496	June 16, 1962			Change the name of a public elementary school to better reflect local identity.	"[""The name of Rumayas Elementary School is changed to Dagalangit Elementary School."", ""The act shall take effect upon approval.""]"		"[""Education"", ""School renaming"", ""Local government""]"	"[""Rumayas Elementary School"", ""Dagalangit Elementary School"", ""Lumba-Bayabao"", ""Lanao del Sur"", ""school name change""]"
+repacts:datasets/markdown/repacts/1962/ra_3497_1962.md	repacts	1962		datasets/markdown/repacts/1962/ra_3497_1962.md	ra_3497_1962	An Act Changing the Name of the Upper Bayang Elementary School in the Municipality of Bayang, Province of Lanao del Sur, to Sultan Pandapatan Elementary School	"**REPUBLIC ACT No. 3497**
+
+ **An Act Changing the Name of the Upper Bayang Elementary School in the Municipality of Bayang, Province of Lanao del Sur, to Sultan Pandapatan Elementary School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Upper Bayang Elementary School in the Municipality of Bayang, Province of Lanao del Sur, is changed to Sultan Pandapatan Elementary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 16, 1962.
+"	success	Act	An act that officially changes the name of Upper Bayang Elementary School to Sultan Pandapatan Elementary School.	"[{""title"": ""Section 1"", ""summary"": ""The name of the Upper Bayang Elementary School in the Municipality of Bayang, Province of Lanao del Sur, is changed to Sultan Pandapatan Elementary School.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	3497	June 16, 1962			To change the name of Upper Bayang Elementary School to Sultan Pandapatan Elementary School.	"[""Change the name of Upper Bayang Elementary School to Sultan Pandapatan Elementary School.""]"		"[""education"", ""school"", ""name change""]"	"[""Upper Bayang Elementary School"", ""Sultan Pandapatan Elementary School"", ""name change"", ""Lanao del Sur"", ""Bayang"", ""Philippines""]"
+repacts:datasets/markdown/repacts/1962/ra_3498_1962.md	repacts	1962		datasets/markdown/repacts/1962/ra_3498_1962.md	ra_3498_1962	An Act Changing the Name of the Tabunan Primary School in the Municipality of Bago, Province of Negros Occidental, to Irineo Makilan Primary School	"**REPUBLIC ACT No. 3498**
+
+ **An Act Changing the Name of the Tabunan Primary School in the Municipality of Bago, Province of Negros Occidental, to Irineo Makilan Primary School**

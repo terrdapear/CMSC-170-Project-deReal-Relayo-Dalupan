@@ -1,0 +1,185 @@
+repacts:datasets/markdown/repacts/2018/ra_11014_2018.md	repacts	2018		datasets/markdown/repacts/2018/ra_11014_2018.md	ra_11014_2018	AN ACT DECLARING JANUARY 23 OF EVERY YEAR A SPECIAL WORKING HOLIDAY IN THE ENTIRE COUNTRY TO COMMEMORATE THE DECLARATION OF THE FIRST PHILIPPINE REPUBLIC	"Seventeenth Congress Second Regular Session Begun and held in Metro Manila, on Monday, the twenty-fourth day of July, two thousand seventeen.
+
+ **REPUBLIC ACT No. 11014**
+
+ AN ACT DECLARING JANUARY 23 OF EVERY YEAR A SPECIAL WORKING HOLIDAY IN THE ENTIRE COUNTRY TO COMMEMORATE THE DECLARATION OF THE FIRST PHILIPPINE REPUBLIC
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** This Act shall be known as ""The First Philippine Republic Day Act"".
+
+ **Section 2.** January 23 of every year is hereby declared as ""The First Philippine Republic Day"", which shall be a special working holiday in the entire country to commemorate the declaration of the First Philippine Republic on January 23, 1899 held at the Barasoain Church in the City of Malolos, Province of Bulacan.
+
+ **Section 3.** The National Historical Commission, in coordination with the Department of Education, shall plan and implement activities for ""The First Philippine republic Day"" and ensure that the significance of this historical event will continue to inspire and instill a sense of pride for the rich and noble history of the Filipino nation.
+
+ **Section 4.** If any provision of this Act is declared unconstitutional, the same shall not affect the validity and effectivity of the other provisions hereof.
+
+ **Section 5.** All laws, decrees, orders, and issuances or portions thereof which are inconsistent with the provisions of this Act are hereby repealed, amended or modified accordingly.
+
+ **Section 6.** This Act shall take effect fifteen (15) days after its publication in the *Official Gazette* or in a newspaper of general circulation.
+
+ Approved,
+
+ **AQUILINO ""KOKO"" PIMENTEL III** President of the Senate
+
+ **PANTALEON D. ALVAREZ** Speaker of the House of Representatives
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives was passed by the House of Representatives and the Senate on October 19, 2016 and January 29, 2018, respectively.
+
+ **LUTGARDO B. BARBO** Secretary of the Senate
+
+ **CESAR STRAIT PAREJA** Secretary General House of Representatives
+
+ Approved: April 5, 2018
+
+ **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	The First Philippine Republic Day Act declares January 23 of every year as a special working holiday nationwide to commemorate the declaration of the First Philippine Republic on January 23, 1899.	"[{""title"": ""Section 1."", ""summary"": ""Defines the name of the Act as \""The First Philippine Republic Day Act.\""""}, {""title"": ""Section 2."", ""summary"": ""Declares January 23 of every year as \""The First Philippine Republic Day,\"" a special working holiday to commemorate the declaration of the First Philippine Republic on January 23, 1899 at Barasoain Church, Malolos, Bulacan.""}, {""title"": ""Section 3."", ""summary"": ""Mandates the National Historical Commission, in coordination with the Department of Education, to plan and implement activities for the holiday, fostering pride in Filipino history.""}, {""title"": ""Section 4."", ""summary"": ""States that if any provision is declared unconstitutional, it does not affect the validity of other provisions.""}, {""title"": ""Section 5."", ""summary"": ""Repeals, amends, or modifies all laws, decrees, orders, or issuances inconsistent with the Act.""}, {""title"": ""Section 6."", ""summary"": ""Specifies that the Act takes effect fifteen days after publication in the Official Gazette or a newspaper of general circulation.""}]"	11014	April 5, 2018	"[{""name"": ""AQUILINO \""KOKO\"" PIMENTEL III"", ""title"": ""President of the Senate""}, {""name"": ""PANTALEON D. ALVAREZ"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""LUTGARDO B. BARBO"", ""title"": ""Secretary of the Senate""}, {""name"": ""CESAR STRAIT PAREJA"", ""title"": ""Secretary General House of Representatives""}]"	To declare January 23 as a special working holiday nationwide to commemorate the declaration of the First Philippine Republic and to promote national pride and historical awareness.	"[""Section 2 declares January 23 as a special working holiday."", ""Section 3 assigns the National Historical Commission and Department of Education to plan activities."", ""Section 4 preserves other provisions if one is unconstitutional."", ""Section 5 repeals or amends inconsistent laws."", ""Section 6 sets the effective date fifteen days after publication.""]"	Section 5 repeals, amends, or modifies all laws, decrees, orders, or issuances inconsistent with the Act.	"[""Holiday"", ""Historical"", ""Republic Day"", ""Philippines"", ""National Holiday""]"	"[""January 23"", ""First Philippine Republic"", ""special working holiday"", ""Barasoain Church"", ""Malolos"", ""Bulacan"", ""National Historical Commission"", ""Department of Education""]"
+repacts:datasets/markdown/repacts/2018/ra_11015_2018.md	repacts	2018		datasets/markdown/repacts/2018/ra_11015_2018.md	ra_11015_2018	"AN ACT RENAMING THE RAMON MAGSAYSAY TECHNOLOGICAL UNIVERSITY (RMTU) AS THE PRESIDENT RAMON MAGSAYSAY STATE UNIVERSITY (PRMSU), EXPANDING ITS CURRICULAR OFFERINGS AND STRENGTHENING ITS GOVERNING BOARD, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 8498, ENTITLED: ""AN ACT ESTABLISHING THE RAMON MAGSAYSAY TECHNOLOGICAL UNIVERSITY OUT OF THE INTEGRATION OF THE RAMON MAGSAYSAY POLYTECHNIC COLLEGE IN THE MUNICIPALITY OF IBA, THE WESTERN LUZON AGRICULTURAL COLLEGE IN THE MUNICIPALITY OF SAN MARCELINO AND THE CANDELARIA SCHOOL OF FISHERIES IN THE MUNICIPALITY OF CANDELARIA, ALL IN THE PROVINCE OF ZAMBALES, AND APPROPRIATING FUNDS THEREFOR"""	"Seventeenth Congress Second Regular Session Begun and held in Metro Manila, on Monday, the twenty-fourth day of July, two thousand seventeen.
+
+ **REPUBLIC ACT No. 11015**
+
+ AN ACT RENAMING THE RAMON MAGSAYSAY TECHNOLOGICAL UNIVERSITY (RMTU) AS THE PRESIDENT RAMON MAGSAYSAY STATE UNIVERSITY (PRMSU), EXPANDING ITS CURRICULAR OFFERINGS AND STRENGTHENING ITS GOVERNING BOARD, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 8498, ENTITLED: ""AN ACT ESTABLISHING THE RAMON MAGSAYSAY TECHNOLOGICAL UNIVERSITY OUT OF THE INTEGRATION OF THE RAMON MAGSAYSAY POLYTECHNIC COLLEGE IN THE MUNICIPALITY OF IBA, THE WESTERN LUZON AGRICULTURAL COLLEGE IN THE MUNICIPALITY OF SAN MARCELINO AND THE CANDELARIA SCHOOL OF FISHERIES IN THE MUNICIPALITY OF CANDELARIA, ALL IN THE PROVINCE OF ZAMBALES, AND APPROPRIATING FUNDS THEREFOR""
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** The Ramon Magsaysay Technological University (RMTU) in the Province of Zambales is hereby renamed as the President Ramon Magsaysay State University (PRMSU).
+
+ All references to Ramon Magsaysay Technological University in Republic Act No. 8498 are now referred to as President Ramon Magsaysay State University.
+
+ **Section 2.** As a comprehensive state university, the President Ramon Magsaysay State University (PRMSU), hereinafter referred to as the University, shall primarily provide advance and higher professional, technical and special instructions in education and technology, engineering and architecture, agriculture, forestry and fisheries, public administration and management, business and accountancy, economics and finance, tourism, hospitality and culinary management, creative industries, humanities, arts and sciences, information and communications technology, maritime education, law and legal management, medicine and health-related programs, peace and security programs and other related fields of study. It shall also undertake research and extension, as well as income generations programs, for the sustainable development of the Province of Zambales, the region and the country.
+
+ **Section 3.** The University shall offer undergraduate and graduate programs in the fields of education technology, engineering and architecture, agriculture, forestry and fisheries, public administration and management, business and accountancy, economics and finance, tourism, hospitality and culinary management, creative industries, humanities, arts and sciences, information and communications technology, maritime education law and legal management, medicine and health-related programs, peace and security programs and other relevant programs within its areas of specialization and according to its capabilities, as the Board of Regents may deem necessary to carry out its objectives, in order to meet the needs of the Province of Zambales, the region and the country.
+
+ **Section 4.** The governing board of the University shall be the Board of Regents, hereinafter referred to as the Board, which shall be composed of the following:
+
+ (a)The Chairperson of the Commission on Higher Education (CHED), Chairperson; (b)The President of the President Ramon Magsaysay State University, Co-chairperson; (c)The Chairperson of the Committee on Education, Arts and Culture of the Senate, member; (d)The Chairperson of the Committee on Higher and Technical Education of the House of Representatives, member; (e)The Regional Director of the National Economic and Development Authority (NEDA), member; (f)The Regional Director of the Department of Science and Technology (DOST), member; (g)The Regional Director of the Department of Agriculture (DA), member; (h)The President of the federation of alumni associations of the University, member; (i)The President of the federation of student governments of the University, member; (j)The President of the federation of faculty associations of the University, member; (k)Three (3) prominent Chief Executive Officers (CEOs) of duly recognized national or multinational corporations who have distinguished themselves in the fields of specialization of the University or who have entered into a partnership with the University, members; and (l)Two (2) prominent academicians in the Philippines who have distinguished themselves in the fields of specialization of the University through their publication and track record in research, members. The three (3) prominent CEOs and the two (2) prominent academicians shall be chosen from among a list of at least five (5) qualified persons respectively, as recommended by the search committee of the University constituted by the University President, in consultation with the Chairperson of the CHED, based on normal standards and qualifications for the position.
+
+ The three (3) prominent CEOs and the two (2) prominent academicians shall serve for a term of two (2) years and may be reappointed by the Board of Regents for another term.
+
+ **Section 5.** The University shall be headed by a President, who shall render full-time service. The President, shall be appointed by the Board, subject to the guidelines, qualifications and standards set by the Board, upon recommendation of a duly constituted search committee: *Provided,* That in order to effect a smooth transition to a comprehensive university, the incumbent President of the RMTU shall serve as the first President of PRMSU until the end of his current term.
+
+ **Section 6.** All assets, real and personal, personnel and records of the RMTU, as well as the liabilities or obligations, are hereby transferred to the University: *Provided,* That the positions, rights and security of tenure of the faculty members and personnel therein employed under existing laws prior to the renaming shall be respected: *Provided, further,* That the incumbents of the positions shall remain in the same status until otherwise provided for by the Board: *Provided, finally,* That the University shall also include an upgrade or increase in its human resource component.
+
+ All parcels of land belonging to the government occupied by the RMTU are hereby declared to be property of the University and shall be titled under that name: *Provided,* That should the University cease to exist or be abolished or should such parcels of land be no longer needed by the University, the same shall revert to the concerned local government unit (LGU) or to the Republic of the Philippines, as the case may be.
+
+ **Section 7.** Sections 2, 3, 4, and 16 of Republic Act No. 8498 are deemed amended or modified accordingly.
+
+ **Section 8.** This Act shall take effect fifteen (15) days after its publication in the *Official Gazette* or in a newspaper of general circulation.
+
+ Approved,
+
+ **AQUILINO ""KOKO"" PIMENTEL III** President of the Senate
+
+ **PANTALEON D. ALVAREZ** Speaker of the House of Representatives
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate on November 27, 2017 and February 19, 2018, respectively.
+
+ **LUTGARDO B. BARBO** Secretary of the Senate
+
+ **CESAR STRAIT PAREJA** Secretary General House of Representatives
+
+ Approved: April 20, 2018
+
+ **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	Renames the Ramon Magsaysay Technological University (RMTU) to the President Ramon Magsaysay State University (PRMSU), expands its curricular offerings, strengthens its governing board, and amends Republic Act No. 8498 to reflect the changes.	"[{""title"": ""Section 1"", ""summary"": ""Renames RMTU to PRMSU and updates all references in RA 8498.""}, {""title"": ""Section 2"", ""summary"": ""Defines PRMSU as a comprehensive state university providing advanced and higher education across multiple disciplines and undertaking research and extension.""}, {""title"": ""Section 3"", ""summary"": ""Lists undergraduate and graduate programs offered by PRMSU in various fields of study.""}, {""title"": ""Section 4"", ""summary"": ""Describes the composition of the governing board of PRMSU, including CHED Chairperson, university president, and other appointed members.""}, {""title"": ""Section 5"", ""summary"": ""Specifies the appointment of the university president and the transition of the incumbent RMTU president to the first president of PRMSU.""}, {""title"": ""Section 6"", ""summary"": ""Transfers all assets, personnel, and records of RMTU to PRMSU while safeguarding faculty rights and tenure.""}]"	11015	July 24, 2017			Renaming and upgrading the Ramon Magsaysay Technological University to a comprehensive state university.	"[""Renaming RMTU to PRMSU"", ""Expanding curricular offerings across multiple disciplines"", ""Strengthening governing board structure"", ""Amending RA 8498 to reflect changes"", ""Transferring assets, personnel, and records to PRMSU"", ""Preserving faculty rights and tenure"", ""Appointing a new university president""]"	Republic Act No. 8498	"[""Higher Education"", ""University"", ""Renaming"", ""Curriculum"", ""Governance""]"	"[""Ramon Magsaysay State University"", ""RMTU"", ""PRMSU"", ""Higher Education"", ""Curriculum"", ""Board of Regents"", ""President""]"
+repacts:datasets/markdown/repacts/2018/ra_11016_2018.md	repacts	2018		datasets/markdown/repacts/2018/ra_11016_2018.md	ra_11016_2018	AN ACT SEPARATING MAGTOMA NATIONAL HIGH SCHOOL DUPIGAN ANNEX IN BARANGAY DUPLIGAN, MUNICIPALITY OF TANUDAN, PROVINCE OF KALINGA FROM THE MAGTOMA NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS BIGA NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"Seventeenth Congress Second Regular Session Begun and held in Metro Manila, on Monday, the twenty-fourth day of July, two thousand seventeen.
+
+ **REPUBLIC ACT No. 11016**
+
+ AN ACT SEPARATING MAGTOMA NATIONAL HIGH SCHOOL DUPIGAN ANNEX IN BARANGAY DUPLIGAN, MUNICIPALITY OF TANUDAN, PROVINCE OF KALINGA FROM THE MAGTOMA NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS BIGA NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** The Magtoma National High School Dupligan Annex in Barangay Dupligan, Municipality of Tanudan, Province of Kalinga is hereby separated from the Magtoma National High School and converted into an independent national high school to be known as Biga National High School.
+
+ **Section 2.** All personnel, assets, liabilities and records of the Magtoma National High School Dupligan Annex are hereby transferred to and absorbed by the Biga National High School.
+
+ **Section 3.** The Secretary of Education shall immediately include in the Departments program the operationalization of the Biga National High School, the initial funding of which shall be charged against the current years appropriation of the Magtoma National High School Dupligan Annex. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.
+
+ **Section 4.** The Secretary of Education shall formulate the rules and regulations implementing the provisions of this Act within one hundred twenty (120) days after its effectivity.
+
+ **Section 5.** This Act shall take effect fifteen (15) days after its publication in the *Official Gazette* or in a newspaper of general circulation.
+
+ Approved,
+
+ **AQUILINO ""KOKO"" PIMENTEL III** President of the Senate
+
+ **PANTALEON D. ALVAREZ** Speaker of the House of Representatives
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate on November 27, 2017 and February 19, 2018, respectively.
+
+ **LUTGARDO B. BARBO** Secretary of the Senate
+
+ **CESAR STRAIT PAREJA** Secretary General House of Representatives
+
+ Approved: May 25, 2018
+
+ **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	This act separates Magtoma National High School Dupligan Annex from the main school and converts it into Biga National High School, granting it independence and appropriating funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""The Magtoma National High School Dupligan Annex is separated and converted into Biga National High School.""}, {""title"": ""Section 2."", ""summary"": ""All personnel, assets, liabilities, and records are transferred to Biga National High School.""}, {""title"": ""Section 3."", ""summary"": ""The Secretary of Education will include the school in programs and fund it from the current year's appropriation, with continued funding in the General Appropriations Act.""}, {""title"": ""Section 4."", ""summary"": ""The Secretary shall formulate rules and regulations implementing the act within 120 days after its effectivity.""}, {""title"": ""Section 5."", ""summary"": ""The act takes effect 15 days after publication in the Official Gazette or a newspaper of general circulation.""}]"	11016	May 25, 2018			To establish Biga National High School as an independent institution by separating it from Magtoma National High School Dupligan Annex and allocating necessary funds for its operation.	"[""Separation of the Dupligan Annex from Magtoma National High School"", ""Transfer of all personnel, assets, liabilities, and records to the new school"", ""Allocation of funds from the current year's appropriation and future General Appropriations Act"", ""Formulation of rules and regulations within 120 days of effectivity"", ""Effectivity after 15 days of publication""]"		"[""Education"", ""School"", ""Republic Act"", ""Kalinga"", ""Biga National High School""]"	"[""Magtoma National High School"", ""Biga National High School"", ""Separation"", ""Appropriation"", ""Education"", ""Kalinga"", ""Philippines""]"
+repacts:datasets/markdown/repacts/2018/ra_11017_2018.md	repacts	2018		datasets/markdown/repacts/2018/ra_11017_2018.md	ra_11017_2018	AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY LINGUNAN, VALENZUELA CITY, TO BE KNOWN AS LINGUNAN NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR	"Seventeenth Congress Second Regular Session Begun and held in Metro Manila, on Monday, the twenty-fourth day of July, two thousand seventeen.
+
+ **REPUBLIC ACT No. 11017**
+
+ AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY LINGUNAN, VALENZUELA CITY, TO BE KNOWN AS LINGUNAN NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** There is hereby established, under the supervision of the Department of Education, a national high school in Barangay Lingunan, Valenzuela City to be known as Lingunan National High School.
+
+ **Section 2.** The Secretary of Education shall immediately include in the Departments program the operationalization of the Lingunan National High School, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 3.** The Secretary of Education shall formulate the rules and regulations implementing the provisions of this Act within one hundred twenty (120) days after its effectivity.
+
+ **Section 4.** This Act shall take effect fifteen (15) days after its publication in the *Official Gazette* or in a newspaper of general circulation.
+
+ Approved,
+
+ **AQUILINO ""KOKO"" PIMENTEL III** President of the Senate
+
+ **PANTALEON D. ALVAREZ** Speaker of the House of Representatives
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate on August 23, 2017 and February 19, 2018, respectively.
+
+ **LUTGARDO B. BARBO** Secretary of the Senate
+
+ **CESAR STRAIT PAREJA** Secretary General House of Representatives
+
+ Approved: May 25, 2018
+
+ **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	REPUBLIC ACT	Establishes Lingunan National High School in Barangay Lingunan, Valenzuela City, and appropriates funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of Lingunan National High School under the supervision of the Department of Education.""}, {""title"": ""Section 2."", ""summary"": ""Secretary of Education shall include the school\u2019s operationalization and funding in the Department\u2019s program and the General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""Secretary of Education shall formulate rules and regulations implementing the Act within 120 days after its effectivity.""}, {""title"": ""Section 4."", ""summary"": ""Act takes effect 15 days after publication in the Official Gazette or a newspaper of general circulation.""}]"	11017	May 25, 2018	"[{""name"": ""AQUILINO \""KOKO\"" PIMENTEL III"", ""title"": ""President of the Senate""}, {""name"": ""PANTALEON D. ALVAREZ"", ""title"": ""Speaker of the House of Representatives""}]"		To establish a national high school in Barangay Lingunan, Valenzuela City and appropriate funds for its operation.	"[""Establishment of Lingunan National High School"", ""Operationalization by Secretary of Education"", ""Rules and regulations within 120 days"", ""Effectivity after 15 days of publication""]"		"[""Education"", ""High School"", ""Valenzuela City""]"	"[""Lingunan National High School"", ""Department of Education"", ""General Appropriations Act"", ""Official Gazette""]"
+repacts:datasets/markdown/repacts/2018/ra_11018_2018.md	repacts	2018		datasets/markdown/repacts/2018/ra_11018_2018.md	ra_11018_2018	AN ACT CONVERTING THE LICOP ELEMENTARY SCHOOL IN BARANGAY LICOP, MATI CITY, PROVINCE OF DAVAO ORIENTAL INTO AN INTEGRATED SCHOOL TO BE KNOWN AS LICOP INTEGRATED SCHOOL AND APPROPRIATING FUNDS THEREFOR	"Seventeenth Congress Second Regular Session Begun and held in Metro Manila, on Monday, the twenty-fourth day of July, two thousand seventeen.
+
+ **REPUBLIC ACT No. 11018**
+
+ AN ACT CONVERTING THE LICOP ELEMENTARY SCHOOL IN BARANGAY LICOP, MATI CITY, PROVINCE OF DAVAO ORIENTAL INTO AN INTEGRATED SCHOOL TO BE KNOWN AS LICOP INTEGRATED SCHOOL AND APPROPRIATING FUNDS THEREFOR
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** The Licop Elementary School in Sitio Licop, Barangay Sainz, Mati City, Province of Davao Oriental is hereby converted into an integrated school to be known as Licop Integrated School.
+
+ **Section 2.** All personnel, assets, liabilities, and records of the Licop Elementary School are hereby transferred to and absorbed by the Licop Integrated School..
+
+ **Section 3.** The Secretary of Education shall immediately include in the Department's program the operationalization of the Licop Integrated School, the funding of which shall be included in the annual General Appropriations Act..
+
+ **Section 4.** The Secretary of Education shall formulate the rules and regulations implementing the provisions of this Act within one hundred twenty (120) days after its effectivity.
+
+ **Section 5.** This Act shall take effect fifteen (15) days after its publication in the *Official Gazette* or in a newspaper of general circulation.
+
+ Approved,
+
+ **AQUILINO ""KOKO"" PIMENTEL III** President of the Senate
+
+ **PANTALEON D. ALVAREZ** Speaker of the House of Representatives
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate on August 23, 2017 and February 19, 2018, respectively.
+
+ **LUTGARDO B. BARBO** Secretary of the Senate
+
+ **CESAR STRAIT PAREJA** Secretary General House of Representatives
+
+ Approved: May 25, 2018
+
+ **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	Converts Licop Elementary School into Licop Integrated School and appropriates funds for its operation.	"[{""title"": ""Section 1"", ""summary"": ""The Licop Elementary School in Sitio Licop, Barangay Sainz, Mati City, Province of Davao Oriental is hereby converted into an integrated school to be known as Licop Integrated School.""}, {""title"": ""Section 2"", ""summary"": ""All personnel, assets, liabilities, and records of the Licop Elementary School are hereby transferred to and absorbed by the Licop Integrated School.""}, {""title"": ""Section 3"", ""summary"": ""The Secretary of Education shall immediately include in the Department's program the operationalization of the Licop Integrated School, the funding of which shall be included in the annual General Appropriations Act.""}, {""title"": ""Section 4"", ""summary"": ""The Secretary of Education shall formulate the rules and regulations implementing the provisions of this Act within one hundred twenty (120) days after its effectivity.""}, {""title"": ""Section 5"", ""summary"": ""This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.""}]"	11018	May 25, 2018			To convert Licop Elementary School into an integrated school and appropriate funds for its operation.	"[""Conversion of Licop Elementary School into Licop Integrated School"", ""Transfer of personnel, assets, liabilities, and records"", ""Inclusion in Department of Education program and funding in General Appropriations Act"", ""Formulation of rules and regulations within 120 days"", ""Effective 15 days after publication""]"		"[""Education"", ""School"", ""Davao Oriental"", ""Integrated School""]"	"[""Licop Elementary School"", ""Licop Integrated School"", ""Republic Act 11018"", ""Education"", ""Davao Oriental""]"
+repacts:datasets/markdown/repacts/2018/ra_11019_2018.md	repacts	2018		datasets/markdown/repacts/2018/ra_11019_2018.md	ra_11019_2018	AN ACT INTEGRATING THE DR. EMILIO B. ESPINOSA, SR. MEMORIAL STATE COLLEGE OF AGRICULTURE AND TECHNOLOGY CAMPUS LEARNING SITE IN THE MUNICIPALITY OF CAWAYAN, PROVINCE OF MASBATE, AS A REGULAR CAMPUS OF THE DR. EMILIO B. ESPINOSA, SR. MEMORIAL STATE COLLEGE OF AGRICULTURE AND TECHNOLOGY TO BE KNOWN AS THE DR. EMILIO B. ESPINOSA, SR. MEMORIAL STATE COLLEGE OF AGRICULTURE AND TECHNOLOGY CAWAYAN CAMPUS, AND APPROPRIATING FUNDS THEREFOR	"Seventeenth Congress Second Regular Session Begun and held in Metro Manila, on Monday, the twenty-fourth day of July, two thousand seventeen.

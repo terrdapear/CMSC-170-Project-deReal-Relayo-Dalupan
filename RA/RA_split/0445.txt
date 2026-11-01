@@ -1,0 +1,153 @@
+
+ | ""(af) For the construction of the Bahay, Liloan, Leyte, barrio school building | ₱5,000.00 |
+| --- | --- |
+| ""(ag) For the completion of Nueva Estrella school building, Pintuyan, Leyte | ₱5,000.00"" |
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 22, 1957.
+"	success	Republic Act	Amends Section 1 of RA 1290 to allocate funds for the Manila Railroad Company's Cabanatuan Branch rehabilitation, with provisions for bond issuance, share subscription, and loan repayment.	"[{""title"": ""Section 1."", ""summary"": ""Amends RA 1290 Section 1 to appropriate 3,800,000 pesos from bond proceeds, authorizes bond issuance and share subscription, and sets repayment terms.""}, {""title"": ""Section 2."", ""summary"": ""The act takes effect upon its approval.""}]"	RA No. 1801	June 22, 1957			To amend RA 1290 to provide appropriation for Manila Railroad's rehabilitation and ensure financial mechanisms.	"[""Appropriates 3,800,000 pesos from bond proceeds for the Manila Railroad Company's Cabanatuan Branch."", ""Authorizes the Secretary of Finance to issue bonds and subscribe shares to finance the project."", ""Sets conditions for share subscription and bond repayment within specified periods."", ""The act takes effect upon approval.""]"	Republic Act No. 1290 (Section 1)	"[""Railroad"", ""Finance"", ""Appropriation"", ""Rehabilitation"", ""Republic Act""]"	"[""Manila Railroad"", ""Cabanatuan Branch"", ""Bond issue"", ""Share subscription"", ""Amortization"", ""Rehabilitation""]"
+repacts:datasets/markdown/repacts/1957/ra_1814_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1814_1957.md	ra_1814_1957	An Act to Amend Section Two Hundred Seventy-One of the Revised Administrative Code, as Amended, Relative to Vacation Leave of Judges of First Instance	"**REPUBLIC ACT No. 1814**
+
+ **An Act to Establish, Maintain and Operate a School of Nursing in the Rizal Provincial Hospital in the Province of Rizal, and to Authorize the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established a school of nursing in the Rizal Provincial Hospital in the Province of Rizal. The establishment, maintenance and operation of said school of nursing shall be under the control and management of the Director of the said Rizal Provincial Hospital, subject to the executive supervision of the Director of the Bureau of Hospitals.
+
+ **Section 2.** The sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, maintenance and operation of the school of nursing under this Act, which shall be disbursed by the Director of the Rizal Provincial Hospital in Rizal, subject to the approval of the Director of the Bureau of Hospitals.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 22, 1957.
+"	success	Republic Act	Amends Section 271 of the Revised Administrative Code to modify vacation leave rules for judges of first instance, specifying leave entitlements and limits.	"[{""title"": ""Section 1"", ""summary"": ""Provides the amended text of Section 271, detailing that judges of first instance not specially assigned to vacation are on vacation leave during yearly court vacation, while those assigned to vacation duty are entitled to vacation leave at a later time for the same number of days spent on duty, not exceeding two months per year, with cumulative limits and a maximum of ten months total credit.""}, {""title"": ""Section 2"", ""summary"": ""States that this act shall take effect as of January 1, 1956.""}]"	1802	1957-06-22			To amend Section 271 of the Revised Administrative Code regarding vacation leave of judges of first instance.	"[""Modification of vacation leave entitlements for judges of first instance"", ""Maximum cumulative leave limit of ten months"", ""Two months of leave per year for judges on vacation duty""]"	Section 271 of the Revised Administrative Code, as amended by CA 220 and RA 1399	"[""Revised Administrative Code"", ""Judges"", ""Vacation Leave"", ""Republic Act"", ""RA 1802""]"	"[""vacation leave"", ""judges"", ""first instance"", ""Revised Administrative Code"", ""Section 271""]"
+repacts:datasets/markdown/repacts/1957/ra_1815_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1815_1957.md	ra_1815_1957	An Act to Amend Certain Item of Republic Act Numbered One Thousand Four Hundred Eleven, Regarding Public Works Project for the Province of Masbate	"**REPUBLIC ACT No. 1815**
+
+ **An Act to Create the Philippine Nuclear Energy Commission to Administer, Regulate, and Control the Use, Application, and Disposition of Fissionable Materials; to Authorize the Establishment and Administration of an Atomic Energy Reactor; to Determine the Manner of Development, Use and Control of Atomic Energy, to Provide Funds Therefor, and for Other Purposes**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** For the purpose of carrying out the following functions, a Philippine Nuclear Energy Commission is hereby created:
+
+ 1. To establish well-equipped laboratories for nuclear research and training manned by competent scientists and other personnel; 2. To encourage and directly undertake the training of promising men in the field of nuclear science and to select and screen young Filipinos for government scholarships abroad in nuclear physics, nuclear chemistry, and nuclear biology in various levels according to their competence and preparation; 3. To coordinate the work of various research institutions and entities and various government bureaus, particularly the CDA and the AFP, in nuclear energy and its applications; 4. To represent the Philippines in atomic and nuclear energy conferences and dealings with local as well as foreign entities in matters pertaining to nuclear energy and its applications; 5. To standardize commercial samples of radioactive materials, particularly those urgently needed in medicine and agriculture; 6. To approve and facilitate the procurement of radioactive materials and instruments used in nuclear laboratories free from government taxes and unnecessary delays; 7. To issue licenses for the use of radioactive, fissionable, and fertile materials, including processing as far as such work is not covered by the Mining Act; 8. To disseminate accurate information, on various levels, regarding nuclear energy by means of publications, lectures, symposia, conferences, and other means of communication suitable for the occasion. **Section 2.** The Philippine Nuclear Energy Commission shall be composed of five members to be appointed by the President of the Philippines, provided they have the necessary specified qualifications and subject to the confirmation of the Commission on Appointments. The members shall be citizens of the Philippines, of legal age, of proper mental aptitude and scientific training and shall have passed the necessary security clearance. The chairman of said Nuclear Energy Commission shall have a cabinet rank worthy of the importance of nuclear energy and its applications for the scientific progress of the Philippines in this new field.
+
+ The chairman and vice-chairman of the Commission shall have, in addition to the already stated qualifications, the necessary scientific and technical qualifications, a doctorate in physics and/or chemistry, and a broad professional background. The term of office of each member of the Commission shall be four (4) years, as follows: one for one year, another for two years, the third for three years, and the last two for four years; and any member appointed to fill a vacancy prior to the expiration of the term of his predecessor shall be appointed only for the remaining period of the term.
+
+ The President of the Philippines may remove from office any member of the Commission, after hearing for cause, for inefficiency, neglect of duty, disloyalty or gross misconduct in office, or conviction of crimes involving national security, in accordance with existing laws.
+
+ The chairman and the vice-chairman shall be full-time members of the Commission and shall receive an annual compensation of twenty-four thousand pesos and eighteen thousand pesos, respectively, and the other members shall receive a per diem compensation of sixty pesos for each meeting attended, and all members shall be entitled to necessary traveling and other expenses while engaged in the work of the Commission.
+
+ **Section 3.** There is hereby created a Technical Advisory Committee to advice, collectively or individually, the Commission on scientific and technical matters relating to minerals, materials, production, and research and development, to be composed of nine members who shall be appointed by the President, upon the recommendation of the Philippine Nuclear Energy Commission, and shall include one each of (a) physicist, (b) chemist, (c) engineer, (d) doctor of medicine, (e) agriculturist, (f) biologist, (g) industrialist, (h) economist, and (i) pharmacist. The members of this Technical Advisory Committee shall receive a per diem of fifty pesos and transportation expenses.
+
+ The Commission is empowered to request the services of any qualified person in the Philippines, whenever such services are indispensable to the Commission, under the same conditions as any member of the Technical Advisory Committee.
+
+ **Section 4.** The chairman, with the approval of the Commission, shall appoint an Executive Secretary, a Director of Research, and a Director of Regulation Services, and any other such personnel as the chiefs for the following divisions: (a) under the Director of Research, the Division of Reactor Design and Operation, the Division of Nuclear Physics, the Division on Isotope Works, and the Training Division; and (b) under the Director of Regulation Services, the Medical Services Division, Agricultural Services Division, Industrial Services Division, Legal and Administrative Division, Procurement and Disposal of Radioactive Materials Division, and such other personnel as may be necessary to carry out the purposes of this Act. The Commission shall be empowered to fix compensation and terms of office of these officers, unless covered by the civil service regulations.
+
+ **Section 5.** The Philippine Nuclear Energy Commissions shall:
+
+ 1. Be authorized to issue license in favor of any qualified person, partnership or corporation to sell, buy, process, use and/or dispose of radioactive and/or fissionable materials for commercial, industrial, scientific, agricultural and/or medical uses, or for the conduct of test, experiment and research along such lines, and for any other purpose, provided that those already engaged in such nuclear research are allowed to continue unless violating any other provision of this Act. Users of less than ten millicuries of radioactive substance are only required to notify the Commission and make the necessary safeguards. 2. Make arrangements for the establishment of a nuclear reactor, and, in general, to conduct research and development relating to: (a) Nuclear processes; (b) The theory and production of atomic energy, including processes, materials, and devices related to such production; (c) Utilization of special nuclear material and radioactive material for commercial, industrial, medical, biological, agricultural, health, or military purposes; (d) The promotion of nuclear research and application in all fields of nucleonics; (e) The issuance of rules and regulations for the personnel and the general public, and see to it that enforcement of such rules and regulations for the protection of personnel and the public is carried out. 3. Acquire and distribute supplies of fissionable materials and suitable isotopes. 4. Screen, select, and appoint candidates for overseas training in nuclear technology and science at government expense. 5. Promulgate rules and regulations regarding the purchase, sale, processing, use and disposition of radioactive and/or fissionable materials and such other rules and regulations necessary to carry out the provisions of this Act, and 6. Be authorized to perform any other activity to carry out its purpose as stated in section one of this Act. **Section 6.** The Commission may call upon any department, bureau, office, or agency of the Government for the purpose of securing any information, data, and materials necessary in carrying out its work or in enforcing its regulations.
+
+ **Section 7.** The Commission shall be empowered to offer research facilities and financial or other aid to deserving projects by public or private parties. In case patentable inventions should result from such government-subsidized research, the benefits shall be shared equally between the inventory and the government.
+
+ **Section 8.** No person, association, partnership or corporation shall sell, buy, process, use, and/or otherwise dispose of radioactive and/or other fissionable or fertile materials and tritium without first being duly licensed by the Philippine Nuclear Energy Commission, with the exception of conventional commercial items, like luminous-dial clocks, or any other item for ordinary use, provided they do not contain more than ten microcuries of radioactive substance or its equivalent.
+
+ **Section 9.** All persons connected with the Philippine Nuclear Energy Commission shall, prior to appointment, be cleared for security purposes.
+
+ The Commission has the power to decide which information may be withheld from the public for reason of national security.
+
+ **Section 10.** There is hereby appropriated, out of any funds of the National Treasury not otherwise appropriated, an initial sum of two million pesos for the purpose of carrying out the provisions of this Act, and funds for at least one million pesos shall be appropriated yearly for maintenance and research. The Philippine Nuclear Energy Commission shall submit yearly progress reports of its work to the President of the Philippines.
+
+ **Section 11.** Any person who wilfully violates, attempts to violate, or conspires to violate, any provision of this Act or of any regulations promulgated thereunder, or whoever unlawfully interferes, attempts to interfere, or conspires to interfere, in the administration of the provisions of this Act, shall, upon conviction thereof, be punished by a fine of not more than ten thousand pesos or by imprisonment of not more than five years, or both, in the discretion of the Court.
+
+ Whoever commits such offense with intent to injure the Republic of the Philippines or with intent to give advantage in favor of any foreign nation by such treasonable act shall, upon conviction thereof, be punished by death or imprisonment for life.
+
+ **Section 12.** This Act shall be known as the Philippine Nuclear Energy Act of 1957.
+
+ **Section 13.** This Act shall take effect upon its approval.
+
+ Approved: June 22, 1957.
+"	success	Amendment	Amends item 64 of RA 1114 to specify construction of a one-room school building in Malibas Barrio, Masbate, with a cost of ₱4,000.00. Effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Item 64 of paragraph ac is amended to specify Malibas Barrio School Building construction cost.""}, {""title"": ""Section 2"", ""summary"": ""Act shall take effect upon its approval.""}]"	RA 1803	June 22, 1957			To amend RA 1114 regarding public works in Masbate.	"[""Amends item 64 of RA 1114 to specify a one-room school building construction in Malibas Barrio, Masbate, with a cost of \u20b14,000.00."", ""Act takes effect upon approval.""]"	Republic Act No. 1114	"[""Amendment"", ""Public Works"", ""Education"", ""Masbate""]"	"[""Republic Act 1803"", ""RA 1114"", ""Malibas Barrio"", ""Masbate"", ""school building"", ""public works"", ""construction""]"
+repacts:datasets/markdown/repacts/1957/ra_1816_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1816_1957.md	ra_1816_1957	An Act to Repeal Section Eleven-A of Act Numbered Twenty-Seven Hundred and Six, as Amended	"**REPUBLIC ACT No. 1816**
+
+ **An Act Amending a Certain Item in Republic Act Numbered Twelve Hundred Entitled ""An Act Appropriating Funds for Public Works and Amending Republic Act Numbered Nine Hundred and Twenty""**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item (16), paragraph g., Batangas, subsection three, title A, section one of Republic Act Numbered Twelve hundred, is hereby amended to read as follows:
+
+ | ""(16) Construction of Industrial Arts Building, Sabang, Lipa City | ₱4,000.00 |
+| --- | --- |
+| (16-a) Construction of academic building, Sabang, Lipa City | 26,000.00"" |
+
+ **Section 2.** This Act shall take effect upon it approval.
+
+ Approved: June 22, 1957.
+"	success	Repeal Act	This act repeals Section 11-A of Republic Act 276 and establishes that schools failing to pay the tuition assessment may have their permits revoked.	"[{""title"": ""Section 1"", ""summary"": ""Repeals Section 11-A of RA 276 and provides that failure to pay the tuition assessment may lead to revocation of permits by the Secretary of Education.""}, {""title"": ""Section 2"", ""summary"": ""Specifies that the act takes effect on June 30, 1957.""}]"	RA No. 1804	June 22, 1957			To repeal Section 11-A of RA 276 and enforce tuition assessment compliance through permit revocation.	"[""Repeal of Section 11-A of RA 276"", ""Revocation of school permits if tuition assessment not paid"", ""Effective date: June 30, 1957""]"	Republic Act No. 276 (Section 11-A), Republic Act No. 74, Executive Order No. 380	"[""Repeal"", ""Education"", ""Tuition"", ""Assessment"", ""Permit Revocation""]"	"[""Repeal"", ""Section 11-A"", ""RA 276"", ""RA 74"", ""Executive Order 380"", ""Secretary of Education"", ""Private Schools"", ""Tuition"", ""Fees"", ""Permit revocation"", ""School compliance""]"
+repacts:datasets/markdown/repacts/1957/ra_1817_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1817_1957.md	ra_1817_1957	An Act to Amend Section Twenty-Eight of Republic Act Numbered Four Hundred Nine, Otherwise Known as the Revised Charter of the City of Manila, as Amended, so as to Provide for Additional Compensation of the City Superintendent of Schools and Other National School Officials	"**REPUBLIC ACT No. 1817**
+
+ **An Act Appropriating the Sum of One Hundred Thousand Pesos as a Grant to Mrs. Luz B. Magsaysay**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sum of one hundred thousand pesos is appropriated, out of any funds in the National Treasury not otherwise appropriated, as a grant to Mrs. Luz B. Magsaysay, widow of the late President Ramon Magsaysay. This amount shall be tax exempt.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 22, 1957.
+"	success	Republic Act	This act amends Section 28 of Republic Act No. 409 to provide additional compensation and salary equalization for the City Superintendent of Schools and other national school officials in Manila.	"[{""title"": ""Section 1"", ""summary"": ""Amendment of RA 409 Section 28 to provide additional compensation for the City Superintendent of Schools and other national school officials, including salary equalization with city department heads and base pay considerations.""}, {""title"": ""Section 2"", ""summary"": ""The act takes effect upon its approval.""}]"	1805	June 22, 1957			To amend RA 409 Section 28 to provide additional compensation and salary equalization for the City Superintendent of Schools and other national school officials in Manila.	"[""Amends RA 409 Section 28"", ""Provides additional compensation for City Superintendent of Schools"", ""Equalizes salaries with city department heads"", ""Considers combined national and city salaries as base pay""]"	Amends Republic Act No. 409 and incorporates amendments from Republic Act No. 900.	"[""Education"", ""City Charter"", ""Compensation""]"	"[""City Superintendent"", ""National School Officials"", ""Salary Equalization"", ""Manila Charter""]"
+repacts:datasets/markdown/repacts/1957/ra_1818_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1818_1957.md	ra_1818_1957	An Act Providing for the Establishment of Mountain Province General Hospital in the Municipality of Kayan, Mountain Province, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 1818**
+
+ **An Act to Amend Section Two of Republic Act Numbered Sixteen Hundred Seven, Entitled ""An Act Declaring Intramuros a Commercial, Residential and Educational District, Repealing for that Purpose Commonwealth Act Numbered One Hundred Seventy-One and Republic Act Numbered Five Hundred Ninety Seven""**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section two of Republic Act Numbered Sixteen hundred seven is amended to read as follows:
+
+ > ""Sec. 2. The City Engineer of Manila, with the cooperation of the National Planning Commission or its successors, shall draft the necessary plans for the widening of streets in the Walled City as hereinbelow specified:
+>
+>  ""Cabildo, which is hereby declared a national road, shall be 30 meters wide with arcade of 4.70 meters; General Luna and Magallanes, 17 meters wide; and Real, 21 meters wide with arcade of 3.80 meters.""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 22, 1957.
+"	success	Republic Act	This act establishes the Mountain Province General Hospital, authorizes the appropriation of funds for its establishment and operation, and requires the Secretary of Health to promulgate necessary rules and regulations.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of Mountain Province General Hospital under the direct supervision of the Director of Hospitals.""}, {""title"": ""Section 2."", ""summary"": ""The Secretary of Health shall promulgate rules and regulations necessary to carry out the purposes of this Act.""}, {""title"": ""Section 3."", ""summary"": ""Authorization of fifty thousand pesos for establishment, operation and maintenance of the hospital, with provision for future appropriations.""}, {""title"": ""Section 4."", ""summary"": ""The act shall take effect upon its approval.""}]"	1806	June 22, 1957			To establish a general hospital in Mountain Province and authorize necessary funding for its construction and operation.	"[""Establishment of Mountain Province General Hospital"", ""Authorization of \u20b150,000 appropriation"", ""Secretary of Health to promulgate rules and regulations"", ""Hospital under Director of Hospitals supervision"", ""Act takes effect upon approval""]"		"[""Health"", ""Infrastructure"", ""Hospital"", ""Mountain Province""]"	"[""Mountain Province General Hospital"", ""appropriation"", ""Secretary of Health"", ""Director of Hospitals"", ""public health"", ""fiscal year 1957""]"
+repacts:datasets/markdown/repacts/1957/ra_1819_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1819_1957.md	ra_1819_1957	An Act Converting the Baybay Provincial High School in the Municipality of Siniloan, Province of Laguna, into a National Agricultural and Vocational High School, to be Known as the Baybay National Agricultural and Vocational High School and Appropriating Funds Therefor	"**REPUBLIC ACT No. 1819**
+
+ **An Act to Amend Certain Sections of the Charter of the City of Baguio, so as to Provide a New Schedule of Salaries of City Officials of the Said City and to Increase the Number of Assistant City Attorneys**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Sections two thousand five hundred forty-five-A, two thousand five hundred fifty-one and two thousand five hundred sixty-one of the Revised Administrative Code are amended to read as follows:
+
+ > ""Sec. 2545-A. *Salaries of city officials.* -The officials of the city shall receive the following salaries, payable from the funds of the city:
+>
+>  ""(a) Mayor, nine thousand pesos per annum.
+>
+>  ""(b) Vice-mayor, seven thousand two hundred pesos per annum.
+>
+>  ""(c) Members of the city council, four thousand eight hundred pesos each per annum.
+>
+>  ""(d) Judge of the municipal court, seven thousand eight hundred pesos per annum.
+>
+>  ""(e) City treasurer, city engineer, city attorney, city health officer, city auditor, and chief of police, seven thousand two hundred pesos each per annum.
+>
+>  ""(f) City assessor and superintendent of public utilities, six thousand six hundred pesos each per annum.
+>
+>  ""(g) Assistant city engineer and assistant city treasurer, six thousand pesos each per annum.""
+>
+>  ""Sec. 2251. *The vice-mayor.* -There shall be a vice-mayor who shall be a member of the city council. During the absence of the mayor from the city or his disability for any reason, the vice-mayor shall discharge the duties of his office and exercise all his powers, except that of removing any officer from office.""
+>
+>  ""Sec. 2561. *The assistant city attorneys.* -There shall be three assistant city attorneys who shall assist the city attorney as he shall direct. The assistant city attorneys shall receive the following compensation:
+>
+>  ""(a) First assistant, six thousand pesos per annum.
+>
+>  ""(b) Second assistant, five thousand one hundred pesos per annum.
+>
+>  ""(c) Third assistant, three thousand seven hundred twenty pesos per annum.""
+
+ **Section 2.** Section two thousand five hundred sixty-one-A of the Revised Administrative Code and all laws or parts thereof inconsistent herewith are repealed.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 22, 1957.
+"	success	Republic Act	This act converts the Baybay Provincial High School into a national agricultural and vocational high school, appropriates 300,000 pesos for its operation and maintenance, and declares the act effective upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Converts the Baybay Provincial High School into a national agricultural and vocational high school and empowers the Secretary of Education to reorganize it.""}, {""title"": ""Section 2."", ""summary"": ""Appropriates 300,000 pesos for the school's operation and maintenance during FY 1957 and provides for inclusion of future necessary funds in the General Appropriation Act.""}, {""title"": ""Section 3."", ""summary"": ""Declares the act to take effect upon its approval.""}]"	1807	June 22, 1957			To convert the Baybay Provincial High School into a national agricultural and vocational high school and allocate funds for its operation and maintenance.	"[""Conversion of the school into a national agricultural and vocational high school"", ""Appropriation of 300,000 pesos for operation and maintenance"", ""Act takes effect upon approval""]"		"[""Education"", ""School"", ""Appropriation"", ""Republic Act""]"	"[""Baybay National Agricultural and Vocational High School"", ""Siniloan"", ""Laguna"", ""appropriation"", ""funds"", ""education"", ""high school"", ""conversion""]"

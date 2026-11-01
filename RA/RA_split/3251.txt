@@ -1,0 +1,146 @@
+
+ Approved,
+
+ | (Sgd.) **FRANKLIN M. DRILON** President of the Senate | (Sgd.) **FELICIANO BELMONTE JR.** Speaker of the House of Representatives |
+
+ This Act which is a consolidation of House Bill No. 5525 and Senate Bill No. 2968 was finally passed by the House of Representatives and the Senate on February 2, 2016.
+
+ | (Sgd.) **OSCAR G. YABES** Secretary of the Senate | (Sgd.) **MARILYN B. BARUA-YAP** Secretary General House of Representatives |
+
+ Approved: MAY 30 2016
+
+ (Sgd.) **BENIGNO S. AQUINO III** President of the Philippines
+"	success	Republic Act	Republic Act No. 10863, known as the Customs Modernization and Tariff Act (CMTA), seeks to modernize the customs and tariff administration of the Philippines by adopting transparent, efficient, and technology-driven processes. The Act aims to protect government revenue, facilitate international trade, prevent customs fraud, and establish a framework for professionalism and meritocracy among customs officers.	"[{""title"": ""Section 100. Short Title"", ""summary"": ""Defines the short title of the Act as the \""Customs Modernization and Tariff Act (CMTA)\"".""}, {""title"": ""Section 101. Declaration of Policy"", ""summary"": ""Declares the policy to protect and enhance government revenue, institute fair and transparent customs and tariff management, modernize customs administration, and facilitate international trade through the use of technology, transparency, and cooperation with stakeholders.""}, {""title"": ""Section 102. Definition of Terms"", ""summary"": ""Provides definitions for key terms used in the Act, including Abatement, Actual Exportation, Admission, Airway Bill, Appeal, Assessment, Authorized Economic Operator, Bill of Lading, Bureau, Carrier, Clearance, Commission, Conditional Importation, and Customs Broker.""}]"	Republic Act No. 10863	May 30, 2016			To modernize and streamline the customs and tariff administration of the Philippines, enhancing revenue protection, trade facilitation, and transparency.	"[""Protection of government revenue"", ""Transparent and fair customs and tariff management"", ""Use of information and communications technology"", ""Professionalism and meritocracy among customs officers"", ""Cooperation with stakeholders and other agencies"", ""Modern practices in customs administration""]"		"[""customs"", ""tariff"", ""modernization"", ""trade facilitation""]"	"[""customs"", ""tariff"", ""modernization"", ""trade"", ""technology"", ""transparency""]"
+repacts:datasets/markdown/repacts/2016/ra_10864_2016.md	repacts	2016		datasets/markdown/repacts/2016/ra_10864_2016.md	ra_10864_2016	AN ACT DEFINING RAW SUGAR OR RAW CANE SUGAR, AMENDING SECTION 109(A) AND (F) OF THE NATIONAL INTERNAL REVENUE CODE OF 1997, AS AMENDED, AND FOR OTHER PURPOSES	"Sixteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-seventh day of July, two thousand fifteen.*
+
+ **[ REPUBLIC ACT NO. 10864, June 10, 2016 ]**
+
+ **AN ACT DEFINING RAW SUGAR OR RAW CANE SUGAR, AMENDING SECTION 109(A) AND (F) OF THE NATIONAL INTERNAL REVENUE CODE OF 1997, AS AMENDED, AND FOR OTHER PURPOSES**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** Section 109(A) and (F) of the National Internal Revenue Code of 1997, as amended, is hereby further amended to read as follows:
+
+ > SEC. 109.Exempt Transactions.- (1) Subject to the provisions of subsection (2) hereof, the following transactions shall be exempt from the value-added tax:
+>
+>  (A) Sale or importation of agricultural and marine food products in their original state, livestock and poultry of a kind generally used as, or yielding or producing foods for human consumption; and breeding stock and genetic materials therefor.
+>
+>  Products classified under this paragraph shall be considered in their original state even if they have undergone the simple processes of preparation or preservation for the market, such as freezing, drying, salting, broiling, roasting, smoking or stripping. Polished and/or hushed rice, corn grits, raw sugar or raw cane sugar and molasses, ordinary salt and copra shall be considered in their original state;
+>
+>  For this purpose, notwithstanding the process/es involved its production, raw sugar or raw cane sugar means sugar whose content of sucrose by weight, in the dry state, corresponds to a polarimeter reading of less than 99.5 degrees.
+>
+>  x x x.
+>
+>  (F) Services by agricultural contract growers and milling for others of palay into rice, corn into grits and sugar cane into raw sugar or raw cane sugar.
+>
+>  x x x.
+
+ **Section 2.***Implementing Rules and Regulating.*- The Secretary of Finance, upon the recommendation of the Commissioner of Internal Revenue, shall issue the implementing rules and regulations of this Act within ninety (90) days starting from the effectivity of this Act:*Provided,*That the failure of the concerned agencies to promulgate the said rules and regulations shall not prevent the implementation of this Act upon its effectivity.
+
+ **Section 3.***Repealing Clause.*- All laws, acts, decrees, executive orders, issuances, and rules and regulations or parts thereof which are contrary to and inconsistent with any provision of this Act are hereby repealed, amended, or modified accordingly.
+
+ **Section 4.***Separability Clause.*- If any provision of this Act is subsequently declared unconstitutional, the validity of the remaining provisions hereof shall remain in full force and effect.
+
+ **Section 5.***Effectivity.*- This Act shall take effect immediately after its complete publication either in theOfficial Gazetteror in a newspaper of general circulation in the Philippines.
+
+ Approved,
+
+ | (Sgd.)**FRANKLIN M. DRILON** President of the Senate | (Sgd.)**FELICIANO BELMONTE JR.** Speaker of the House of Representatives |
+
+ This Act which is a consolidation of House Bill No. 5713 and Senate Bill No. 2987 was finally passed on February 2, 2016.
+
+ | (Sgd.)**OSCAR G. YABES** Secretary of the Senate | (Sgd.)**MARILYN B. BARUA-YAP** Secretary General House of Representatives |
+
+ Approved:
+
+ **BENIGNO S. AQUINO III** President of the Philippines
+
+ Lapsed into law on June 10, 2016 Without the signature of the President, In accordance with Article VI, Section 27 (1) of the Constitution
+"	success	Republic Act	This Act defines raw and raw cane sugar, amends sections 109(A) and (F) of the National Internal Revenue Code to exempt certain agricultural transactions from value-added tax, establishes implementation rules to be issued within 90 days, repeals conflicting provisions, and sets effectivity upon publication.	"[{""title"": ""Section 1"", ""summary"": ""Amends NIRC Section 109(A) and (F) to define raw and raw cane sugar and provide VAT exemptions for specified agricultural and marine food products and related services.""}, {""title"": ""Section 2"", ""summary"": ""Mandates the Secretary of Finance to issue implementing rules and regulations within 90 days from effectivity of the Act.""}, {""title"": ""Section 3"", ""summary"": ""Repeals or amends all laws, acts, decrees, executive orders, issuances, and regulations that are inconsistent with this Act.""}, {""title"": ""Section 4"", ""summary"": ""Separability clause ensuring remaining provisions remain in force if any part is declared unconstitutional.""}, {""title"": ""Section 5"", ""summary"": ""Effectivity of the Act upon its complete publication in the Official Gazette or a newspaper of general circulation.""}]"	REPUBLIC ACT NO. 10864	June 10, 2016			To define raw and raw cane sugar, amend the tax code to exempt certain agricultural transactions, and clarify the implementation and effectivity of these provisions.	"[""Defines raw sugar and raw cane sugar"", ""Amends NIRC Section 109(A) and (F)"", ""Exempts specified agricultural and marine food transactions from VAT"", ""Requires implementation rules within 90 days"", ""Repeals conflicting laws"", ""Separability clause"", ""Effectivity upon publication""]"	Amends Section 109(A) and (F) of the National Internal Revenue Code of 1997, as amended; repeals conflicting provisions of other laws, acts, decrees, executive orders, issuances, and regulations.	"[""Tax Law"", ""Agriculture"", ""Raw Sugar"", ""NIRC""]"	"[""raw sugar"", ""raw cane sugar"", ""NIRC"", ""VAT exemption"", ""implementation rules"", ""effectivity"", ""tax"", ""agriculture""]"
+repacts:datasets/markdown/repacts/2016/ra_10865_2016.md	repacts	2016		datasets/markdown/repacts/2016/ra_10865_2016.md	ra_10865_2016	AN ACT CONVERTING THE MAYOR HILARION A. RAMIRO SR. REGIONAL TRAINING AND TEACHING HOSPITAL IN THE PROVINCE OF MISAMIS OCCIDENTAL INTO A MEDICAL CENTER TO BE KNOWN AS THE MAYOR HILARION A. RAMIRO SR. MEDICAL CENTER	"Sixteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-seventh day of July, two thousand fifteen.*
+
+ **[ REPUBLIC ACT NO. 10865, June 23, 2016 ]**
+
+ **AN ACT CONVERTING THE MAYOR HILARION A. RAMIRO SR. REGIONAL TRAINING AND TEACHING HOSPITAL IN THE PROVINCE OF MISAMIS OCCIDENTAL INTO A MEDICAL CENTER TO BE KNOWN AS THE MAYOR HILARION A. RAMIRO SR. MEDICAL CENTER**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.***Short Title.*- This Act shall be known as the ""Mayor Hilarion A. Ramiro Sr. Medical Center Act"".
+
+ **Section 2.***Conversion.*- The Mayor Hilarion A. Ramiro Sr. Regional Training and Teaching Hospital (MHARSRTTH) in the Province of Misamis Occidental is hereby converted into a medical center to be known as the Mayor Hilarion A. Ramiro Sr. Medical Center, hereinafter referred to as the MHARSMC, and shall be under the supervision of the Department of Health (DOH).
+
+ For this purpose, the bed capacity of the MHARSMC is hereby increased from one hundred fifty (150) to five hundred (500) beds. The increase in bed capacity shall be implemented for a period of not more than four (4) years from the approval of this Act.
+
+ **Section 3.***Objectives.*- The MHARSMC shall pursue the following objectives:
+
+ (a) To provide the Filipino people, particularly in the Province of Misamis Occidental, with a more affordable, quality and timely hospital care through a more efficient health service delivery system that prioritizes the needs of the underprivileged, sick, elderly, disabled, women and children, and when resources are available, provide free medical care to indigent citizens; (b) To develop the MHARSMC into a world class tertiary healthcare provider that utilizes modern and advanced medical technologies; (c) To promote, encourage and engage in scientific research in the prevention of diseases and the care and treatment of patients and related activities, including scholarship and conduct of relevant congresses, conventions, seminars, and conferences; (d) To encourage and undertake the training of physicians, nurses, medical technicians, health officers, social workers, and other health professionals on the practical and scientific conduct and implementation of health and medical services, and related activities; and (e) To extend other medical services pursuant to the goals, objectives and rules of the National Health Insurance Program (NHIP). **Section 4.***Upgrade of Facilities and Services.*- The hospital facilities and services of the MHARSMC shall be upgraded and increased to conform with and be commensurate to the increase in its authorized bed capacity as provided in Section 2 of this Act, and to be consistent with the requirements of modern medical services and its status as a medical center.
+
+ The MHARSMC shall submit to the DOH its proposed hospital development plan which includes the future expansion of its scope of services as a specialty hospital that specializes in a particular disease or condition, or in one type of patient.
+
+ **Section 5.***Medical Center Chief.*- The Hospital shall be headed by a Medical Center Chief who is a licensed physician and with experience in hospital administration and management for at least five (5) years. The Medical Center Chief shall be appointed by the Secretary of Health.
+
+ **Section 6.***Functions of the Medical Center Chief.*- The Medical Center Chief shall be responsible for the following:
+
+ (a) Overall management and administration of the MHARSMC; and (b) Formulation of policies, plans, programs, strategies, and its implementation to ensure the provision of high quality health care and high standards of clinical training for medical and allied medical personnel. In order to ensure a smooth transition, the incumbent Chief of Hospital of the MHARSRTTH, if qualified, shall assume the position of Medical Center Chief of the MHARSMC in an acting capacity until such time that a duly qualified successor has been appointed.
+
+ **Section 7.***Medical and Service Personnel.*- The number of medical and service personnel, maintenance and other operating expenses of the MHARSMC shall correspondingly be increased to conform with the provision in Section 2 of this Act. The Medical Center Chief of the MHARSMC, in coordination with the DOH, the Department of Budget and Management (DBM), and the Civil Service Commission (CSC), shall determine the additional plantilla positions to be created and filled up.
+
+ **Section 8.***Assistance from Other Government Offices.*- The MHARSMC may call upon any department, bureau, office, agency, or instrumentality of the government, including government-owned or -controlled corporations, for such assistance as it may need in the pursuit of its objectives.
+
+ All individuals, entities and institutions are hereby enjoined to render full assistance and cooperation to the MHARSMC in the accomplishment of its objectives and activities.
+
+ **Section 9.***Tax Exemption.*- Any donation or bequest made to the MHARSMC shall be exempt from donor's tax and the same shall be considered as allowable deduction from the gross income of the donor, in accordance with the provisions of the National Internal Revenue Code of 1997, as amended:*Provided,*That such donation shall not be disposed of, transferred or sold.
+
+ **Section 10.***Auditor.*- The Commission on Audit shall appoint a representative who shall be the auditor of the MHARSMC and such personnel as may be necessary to assist said representative in the performance of his duty.
+
+ **Section 11.***Reports.*- The Medical Center Chief of the MHARSMC shall, within three (3) months after the end of every fiscal year, submit periodic reports to the DOH as may be required.
+
+ **Section 12.***Appropriations.*- The amount necessary for the initial implementation of this Act shall be charged against the current year's appropriations of the DOH. Thereafter, such funds as may be necessary for the continued implementation of this Act shall be included in the annual General Appropriations Act.
+
+ **Section 13.***Implementing Rules and Regulations* (IRR).- Within ninety (90) days from the approval of this Act, the Secretary of the DOH, in consultation with the Secretary of the DBM, shall promulgate the necessary rules and regulations to implement the provisions of this Act.
+
+ **Section 14.***Separability Clause.*- If any part or provision of this Act shall be held unconstitutional or invalid, other provisions which are not affected thereby shall continue to be in full force and effect.
+
+ **Section 15.***Repealing Clause.*- Republic Act No. 7937 is hereby repealed. All laws, decrees, orders, issuances, rules and regulations that are inconsistent with the provisions of this Act are hereby repealed, amended or modified accordingly.
+
+ **Section 16.***Effectivity.*- This Act shall take effect fifteen (15) days after its publication in theOfficial Gazetteor in a newspaper of general circulation.-
+
+ Approved,
+
+ | (Sgd.)**FRANKLIN M. DRILON** President of the Senate | (Sgd.)**FELICIANO BELMONTE JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate on May 25,2015 and May 30, 2016, respectively.
+
+ | (Sgd.)**OSCAR G. YABES** Secretary of the Senate | (Sgd.)**MARILYN B. BARUA-YAP** Secretary General House of Representatives |
+
+ Approved: JUN 23 2016
+
+ (Sgd.)**BENIGNO S. AQUINO III** President of the Philippines
+"	success	Republic Act	This law converts the Mayor Hilarion A. Ramiro Sr. Regional Training and Teaching Hospital into the Mayor Hilarion A. Ramiro Sr. Medical Center, increases its bed capacity from 150 to 500 for up to four years, and establishes objectives, facilities upgrades, personnel, and reporting requirements to improve healthcare services in Misamis Occidental.	"[{""title"": ""Section 1. Short Title"", ""summary"": ""The Act is known as the \""Mayor Hilarion A. Ramiro Sr. Medical Center Act\"".""}, {""title"": ""Section 2. Conversion"", ""summary"": ""The MHARSRTTH is converted into the MHARSMC under DOH supervision, with bed capacity increased to 500 for a maximum of four years.""}, {""title"": ""Section 3. Objectives"", ""summary"": ""To provide affordable, quality care; develop a world\u2011class tertiary provider; promote research, training, and extend services per NHIP.""}, {""title"": ""Section 4. Upgrade of Facilities and Services"", ""summary"": ""Facilities and services shall be upgraded to match the new bed capacity and modern medical standards, and a development plan will be submitted to the DOH.""}, {""title"": ""Section 5. Medical Center Chief"", ""summary"": ""The Medical Center Chief, a licensed physician with at least five years of hospital administration experience, is appointed by the Secretary of Health.""}, {""title"": ""Section 6. Functions of the Medical Center Chief"", ""summary"": ""Responsible for overall management, policy formulation, and ensuring high\u2011quality health care and clinical training.""}, {""title"": ""Section 7. Medical and Service Personnel"", ""summary"": ""Personnel and expenses will be increased to align with the new capacity; additional plantilla positions will be created in coordination with DOH, DBM, and CSC.""}, {""title"": ""Section 8. Assistance from Other Government Offices"", ""summary"": ""The MHARSMC may request assistance from any government department, bureau, or agency.""}, {""title"": ""Section 9. Tax Exemption"", ""summary"": ""Donations to the MHARSMC are exempt from donor's tax and deductible from the donor's gross income, subject to the National Internal Revenue Code.""}, {""title"": ""Section 10. Auditor"", ""summary"": ""The Commission on Audit appoints an auditor for the MHARSMC.""}, {""title"": ""Section 11. Reports"", ""summary"": ""The Medical Center Chief must submit periodic reports to the DOH within three months after each fiscal year.""}, {""title"": ""Section 12. Appropriations"", ""summary"": ""Initial implementation costs are charged to the current year's DOH appropriations; subsequent funding will come from future appropriations.""}]"	10865	June 23, 2016			To convert a regional training and teaching hospital into a medical center, increase its capacity, and enhance healthcare services in Misamis Occidental.	"[""Conversion of MHARSRTTH to MHARSMC"", ""Bed capacity increased to 500 for up to four years"", ""DOH supervision"", ""Objectives for affordable quality care, world\u2011class tertiary services, research, training"", ""Facilities and services upgrade"", ""Appointment of Medical Center Chief"", ""Increased personnel and expenses"", ""Tax exemption for donations"", ""Commission on Audit appointment"", ""Reporting requirements"", ""Appropriations for implementation""]"		"[""healthcare"", ""hospital"", ""medical center"", ""Misamis Occidental"", ""DOH""]"	"[""Mayor Hilarion A. Ramiro"", ""medical center"", ""bed capacity"", ""Department of Health"", ""Misamis Occidental"", ""Philippines""]"
+repacts:datasets/markdown/repacts/2016/ra_10866_2016.md	repacts	2016		datasets/markdown/repacts/2016/ra_10866_2016.md	ra_10866_2016	AN ACT DECLARING THE PROVINCE OF BATANES AS A RESPONSIBLE, COMMUNITY-BASED CULTURAL HERITAGE AND ECOTOURISM ZONE	"Sixteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-seventh day of July, two thousand fifteen.*
+
+ **[ REPUBLIC ACT NO. 10866, June 23, 2016 ]**
+
+ **AN ACT DECLARING THE PROVINCE OF BATANES AS A RESPONSIBLE, COMMUNITY-BASED CULTURAL HERITAGE AND ECOTOURISM ZONE**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.***Title.* This Act shall be known as the ""Batanes Responsible Tourism Act"".
+
+ **Section 2.***Declaration of Policy.* The State recognizes, respects, and protects the rights of indigenous cultural communities to preserve and develop their cultures, traditions, and institutions, and considers these rights in the formulation of national plans and policies.
+
+ The State is further mandated to promote a tourism industry that is ecologically sustainable, responsible, participative, culturally sensitive, economically viable and equitable for local communities. Towards this end, the Province of Batanes is hereby declared a cultural heritage and ecotourism zone. It shall be accorded priority development by the Department of Tourism (DOT) and shall be subject to the rules and regulations governing the development of cultural heritage and ecotourism zones. The promotion of the following inherent values and characteristics which influence the uniqueness of the Ivatan culture and the beauty of the islands of Batanes shall be pursued in the development and management of the tourism industry in the Province: (a) the integrity of its ecology and environment; (b) the richness of its natural and cultural heritage; and (c) the resilience of its indigenous social institutions.
+
+ **Section 3.***Objectives.* Pursuant to the above declaration of policy, the State shall endeavor to accomplish the following objectives:
+
+ (a) Develop and promote responsible, community-based ecological-cultural tourism as the core management strategy in the development and growth of Batanes; (b) Ensure the conservation of the biodiversity and the preservation of the unique heritage and culture of the Province; (c) Develop tourism products and programs that will generate employment and livelihood for the local residents consistent with the preservation and maintenance of local heritage and culture; (d) Guarantee that the financial and economic benefits of the tourism industry are equitably shared by, and distributed among, the Ivatans and local residents by giving preference and support to community- and home-based tourism enterprises, such as micro and small businesses like local inns, lodges and homestays, restaurants, food and fruit stands, arts and craft shops, and similar tourism-oriented industries and businesses; (e) Ensure that the quality of local tourism programs and activities are educational and enriching for tourists and visitors through the provision of orientation, educational and tour programs by local tour operators, nongovernment organizations (NGOs), local government units (LGUs) and the DOT; and (f) Guarantee that in the development and promotion of the local tourism industry, the LGUs shall ensure that the needs of local residents and communities in the areas of water supply, food, energy and local construction materials are first secured and met. **Section 4.***Definition of Terms.* As used in this Act:
+
+ (a)Biodiversity conservationrefers to the practice of preserving the variety of species, habitats and ecosystems, and genetic diversity of the place, includinginter alia, terrestrial, marine and other aquatic ecosystems, and the ecological complexes which they are a part of; (b)Community-based tourismrefers to a form of tourism where the local community and its residents have substantial control over and involvement in the development and management of the local tourism industry and a greater proportion of the economic gains remain within the community; (c)Cultural propertyrefers to all products of human creativity by which a people and a nation reveal their identity, including churches, mosques and other places of religious worship, schools and natural history specimens and sites, whether public or privately owned, movable or immovable, and tangible or intangible; (d)Ecotourismrefers to a form of sustainable tourism within a natural and cultural heritage area where community participation, protection, and management of natural resources, cultural and indigenous knowledge and practices, environmental education and ethics, as well as economic benefits are fostered and pursued for the enrichment of host communities and satisfaction of visitors; (e)Homestayrefers to a system of tourist accommodation where a tourist stays with local residents and experience the day-to-day life of Ivatans and their communities; (f)Indigenous social institutionsrefer to the institutions that embody the unique community orientation and cooperation pervasive in the way of life of the Ivatans. This includes the indigenous cooperative institutions in house construction, boat building and fishing, agricultural cultivation, wake and burial practices, and public infrastructure construction; (g)Ivatan natural and cultural heritagerefers to the landscapes, seascapes, historic places, sites and built environments of the Province precisely delineated because of their outstanding value from the point of view of science, conservation, natural beauty, as well as biodiversity; and includes past and continuing cultural practices, knowledge and living experiences of the Ivatans that are important foundations for the development of present and future generations; (h)Landscapesrefer to historic, cultural, symbolic vistas and sight corridors of cultural sites, inclusive of fixed or immovable structures and configuration of structures with established relationship with each other; (i)Responsible ecotourismrefers to a form of sustainable tourism in which both the tourism sector and the tourists take responsibility in the protection, respect, and conservation of the natural environment and the local culture and ways of life, and where community participation as well as economic benefits are fostered and pursued for the well-being of the local people and satisfaction of visitors; and (j)Sustainable tourism developmentrefers to the management of all resources in a way that simultaneously meets the needs of tourists and host regions; protects the opportunities for the future; fulfills the economic, social, and aesthetic needs; and preserves cultural integrity, essential ecological processes, biological diversity and a system that supports and perpetuates life. **Section 5.***Scope and Coverage.* This Act shall cover the same boundaries as provided in Section 3 of Republic Act No. 8991, otherwise known as the ""Batanes Protected Area Act of 2000"".
+
+ **Section 6.***Provincial Tourism Development Plan.* The DOT, in coordination with the Department of Environment and Natural Resources (DENR), the National Commission on Indigenous Peoples (NCIP), and the National Commission for Culture and the Arts (NCCA), shall assist the Province of Batanes in the formulation of the Provincial Tourism Development Plan that shall be complemented by a set of guidelines and standards for a responsible, community-based ecotourism. The tourism development plan shall ensure the preservation of the natural sites, the cultural and historic significance of identified tourist attractions, and respect for Ivatan culture and traditions, and shall include the following components:

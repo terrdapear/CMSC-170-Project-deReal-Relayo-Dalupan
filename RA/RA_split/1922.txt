@@ -1,0 +1,161 @@
+
+ **Section 2.** The Leyte College of Arts and Trades shall be under the supervision of the Commission on Higher Education.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Lapsed into law on May 25, 1995 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.
+"	failed												
+repacts:datasets/markdown/repacts/1995/ra_8012_1995.md	repacts	1995		datasets/markdown/repacts/1995/ra_8012_1995.md	ra_8012_1995	AN ACT CHANGING THE NAME OF THE PALAWAN NATIONAL AGRICULTURAL COLLEGE IN THE MUNICIPALITY OF ABORLAN, PROVINCE OF PALAWAN, TO STATE POLYTECHNIC COLLEGE OF PALAWAN AND AUTHORIZING THE SAME TO CONTINUE OFFERING ITS PRESENT COLLEGIATE COURSES AND TO OFFER OTHER COURSES IN SCIENCES AND TECHNOLOGY, AMENDING FOR THE PURPOSE SECTION 1 OF REPUBLIC ACT NUMBERED 3648	"Nineth Congress Third Regular Session
+
+ **[ REPUBLIC ACT No. 8012, May 25, 1995 ]**
+
+ AN ACT CHANGING THE NAME OF THE PALAWAN NATIONAL AGRICULTURAL COLLEGE IN THE MUNICIPALITY OF ABORLAN, PROVINCE OF PALAWAN, TO STATE POLYTECHNIC COLLEGE OF PALAWAN AND AUTHORIZING THE SAME TO CONTINUE OFFERING ITS PRESENT COLLEGIATE COURSES AND TO OFFER OTHER COURSES IN SCIENCES AND TECHNOLOGY, AMENDING FOR THE PURPOSE SECTION 1 OF REPUBLIC ACT NUMBERED 3648
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The present Palawan National Agricultural College in the Municipality of Aborlan, Province of Palawan, is hereby converted into a state polytechnic college to be known as the State Polytechnic College of Palawan which will offer not only four-year secondary agricultural course, four-year secondary home economics, one-year farm mechanics, and other special courses but also two-year courses leading to the title of associate in agriculture and/or agricultural education and courses leading to the degrees of bachelor of science in agriculture, forestry, and fisheries, bachelor of science in home economics, bachelor of science in agricultural education, master of science (with majors in the different agricultural sciences), and master of agricultural education. It shall also offer courses in arts, sciences and technology, and other related courses as the board of trustees of the state college may deem necessary to carry out its objectives: *Provided,* That the courses to be offered are consistent with the goals for local, regional and national development.
+
+ **Section 2.** The State Polytechnic College of Palawan is hereby authorized to continue offering its present collegiate courses and to offer other courses in arts, sciences and technology, and other related courses as the Board of Trustees of the state college may deem necessary to carry out its objectives: *Provided,* That the courses to be offered are consistent with the goals for local, regional and national development.
+
+ **Section 3.** Section 1 of Republic Act No. 3648 which relates to the name of the college is hereby amended accordingly.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Lapsed into law on May 25, 1995 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.
+"	success	Republic Act	This act converts Palawan National Agricultural College into State Polytechnic College of Palawan, authorizes it to continue offering its current courses and offer new courses in sciences and technology, and amends Section 1 of Republic Act No. 3648 regarding the college’s name.	"[{""title"": ""Section 1"", ""summary"": ""Converts Palawan National Agricultural College into State Polytechnic College of Palawan and expands course offerings to include secondary and tertiary programs in agriculture, home economics, sciences, arts, and technology, while ensuring courses align with local and national development goals.""}, {""title"": ""Section 2"", ""summary"": ""Authorizes State Polytechnic College of Palawan to continue offering existing collegiate courses and to introduce new courses in arts, sciences, and technology, consistent with development objectives.""}, {""title"": ""Section 3"", ""summary"": ""Amends Section 1 of Republic Act No. 3648 to reflect the new name of the college.""}, {""title"": ""Section 4"", ""summary"": ""Declares that the act shall take effect upon its approval.""}]"	8012	May 25, 1995			To change the name of Palawan National Agricultural College to State Polytechnic College of Palawan, authorize its continued operation and expansion of academic programs, and amend Republic Act No. 3648 accordingly.	"[""Conversion of Palawan National Agricultural College to State Polytechnic College of Palawan"", ""Authorization to continue offering current courses and to add new courses in sciences and technology"", ""Amendment of RA 3648 Section 1 concerning the college\u2019s name"", ""Effectiveness of the act upon approval""]"	Republic Act No. 3648, Section 1	"[""Education"", ""Higher Education"", ""College"", ""Philippines""]"	"[""Palawan"", ""State Polytechnic College"", ""Agricultural College"", ""RA 8012"", ""Education reform""]"
+repacts:datasets/markdown/repacts/1995/ra_8013_1995.md	repacts	1995		datasets/markdown/repacts/1995/ra_8013_1995.md	ra_8013_1995	AN ACT SEPARATING THE TUDELA NATIONAL HIGH SCHOOL ANNEX IN POBLACION, MUNICIPALITY OF TUDELA, PROVINCE OF MISAMIS OCCIDENTAL, FROM THE KOLAMBUTAN BAJO NATIONAL HIGH SCHOOL IN KOLAMBUTAN BAJO, ALSO IN THE MUNICIPALITY OF TUDELA, AND CONVERTING IT INTO AN INDEPENDENT NATIONAL COMPREHENSIVE HIGH SCHOOL TO BE KNOWN AS THE TUDELA NATIONAL COMPREHENSIVE HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"Nineth Congress Third Regular Session
+
+ **[ REPUBLIC ACT No. 8013, May 25, 1995 ]**
+
+ AN ACT SEPARATING THE TUDELA NATIONAL HIGH SCHOOL ANNEX IN POBLACION, MUNICIPALITY OF TUDELA, PROVINCE OF MISAMIS OCCIDENTAL, FROM THE KOLAMBUTAN BAJO NATIONAL HIGH SCHOOL IN KOLAMBUTAN BAJO, ALSO IN THE MUNICIPALITY OF TUDELA, AND CONVERTING IT INTO AN INDEPENDENT NATIONAL COMPREHENSIVE HIGH SCHOOL TO BE KNOWN AS THE TUDELA NATIONAL COMPREHENSIVE HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Tudela National High School Annex in Poblacion, Municipality of Tudela, Province of Misamis Occidental, is hereby separated from the Kolambutan Bajo National High School in Kolambutan Bajo, also in the Municipality of Tudela, and converted into an independent national comprehensive high school, to be known as the Tudela National Comprehensive High School.
+
+ **Section 2.** The Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the provisions of this Act.
+
+ **Section 3.** All personnel, records, assets, and liabilities of the Tudela National High School Annex are hereby transferred to and absorbed by the Tudela National Comprehensive High School.
+
+ **Section 4.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 5.** This Act shall take effect upon its approval.
+
+ Lapsed into law on May 25, 1995 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.
+"	success	Education	Separates Tudela National High School Annex from Kolambutan Bajo National High School and converts it into Tudela National Comprehensive High School, appropriates funds, and establishes rules for implementation.	"[{""title"": ""Section 1"", ""summary"": ""Separates Tudela National High School Annex from Kolambutan Bajo National High School and establishes Tudela National Comprehensive High School.""}, {""title"": ""Section 2"", ""summary"": ""Department of Education to issue necessary rules and regulations.""}, {""title"": ""Section 3"", ""summary"": ""Transfers personnel, records, assets, and liabilities to Tudela National Comprehensive High School.""}, {""title"": ""Section 4"", ""summary"": ""Funding to be included in the General Appropriations Act of the following year.""}, {""title"": ""Section 5"", ""summary"": ""Act takes effect upon its approval.""}]"	8013	May 25, 1995			To establish Tudela National Comprehensive High School as an independent institution and appropriate funds for its operation.	"[""Separates Tudela National High School Annex from Kolambutan Bajo National High School."", ""Converts the annex into Tudela National Comprehensive High School."", ""Appropriates funds for the new school."", ""Department of Education to issue necessary rules and regulations."", ""Transfers all personnel, records, assets, and liabilities to the new school."", ""Funding to be included in the next General Appropriations Act."", ""Act takes effect upon approval.""]"		"[""Education"", ""High School"", ""Philippines"", ""Republic Act"", ""School Separation""]"	"[""Tudela"", ""National Comprehensive High School"", ""Department of Education"", ""Misamis Occidental"", ""School Separation"", ""Funding""]"
+repacts:datasets/markdown/repacts/1995/ra_8014_1995.md	repacts	1995		datasets/markdown/repacts/1995/ra_8014_1995.md	ra_8014_1995	AN ACT SEPARATING THE BALAO EXTENSION HIGH SCHOOL IN BARANGAY BALAO, BARILI, CEBU, FROM THE LUHOD NATIONAL HIGH SCHOOL IN BARANGAY LUHOD, AND CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS THE BALAO NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"Nineth Congress Third Regular Session
+
+ **[ REPUBLIC ACT No. 8014, May 25, 1995 ]**
+
+ AN ACT SEPARATING THE BALAO EXTENSION HIGH SCHOOL IN BARANGAY BALAO, BARILI, CEBU, FROM THE LUHOD NATIONAL HIGH SCHOOL IN BARANGAY LUHOD, AND CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS THE BALAO NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Balao Extension High School in Barangay Balao, Municipality of Barili, Cebu, is hereby separated from the Luhod National High School in Barangay Luhod, and converted into an independent national high school to be known as the Balao National High School.
+
+ **Section 2.** The Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the provisions of this Act.
+
+ **Section 3.** All personnel, assets, liabilities, and records of the Balao Extension High School are hereby transferred to and absorbed by the Balao National High School.
+
+ **Section 4.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 5.** This Act shall take effect upon its approval.
+
+ Lapsed into law on May 25, 1995 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.
+"	success	Republic Act	Separates Balao Extension High School from Luhod National High School, establishes Balao National High School, transfers personnel, assets, liabilities, and records, and appropriates funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""Separates Balao Extension High School from Luhod National High School and establishes Balao National High School.""}, {""title"": ""Section 2."", ""summary"": ""The Department of Education, Culture and Sports shall issue necessary rules and regulations to implement the Act.""}, {""title"": ""Section 3."", ""summary"": ""Transfers all personnel, assets, liabilities, and records of Balao Extension High School to Balao National High School.""}, {""title"": ""Section 4."", ""summary"": ""The necessary funds are to be included in the General Appropriations Act of the following year.""}, {""title"": ""Section 5."", ""summary"": ""The Act takes effect upon its approval.""}]"	8014	May 25, 1995			To create an independent national high school and allocate appropriate funding for its establishment and operation.	"[""Separation of Balao Extension High School from Luhod National High School"", ""Creation of Balao National High School"", ""Transfer of personnel, assets, liabilities, and records"", ""Appropriation of funds in the General Appropriations Act"", ""Effectivity upon approval""]"		"[""Education"", ""School"", ""Republic Act"", ""Philippines"", ""High School""]"	"[""Balao"", ""Barili"", ""Cebu"", ""National High School"", ""Department of Education"", ""General Appropriations Act""]"
+repacts:datasets/markdown/repacts/1995/ra_8015_1995.md	repacts	1995		datasets/markdown/repacts/1995/ra_8015_1995.md	ra_8015_1995	AN ACT SEPARATING THE MALABOG NATIONAL HIGH SCHOOL ANNEX/EXTENSION IN BARANGAY MEGKAWAYAN, FROM THE MALABOG NATIONAL HIGH SCHOOL IN BARANGAY MALABOG, BOTH IN DAVAO CITY, AND CONVERTING IT INTO A SEPARATE AND INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS THE TELESFORO S. SINGSON HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"Nineth Congress Third Regular Session
+
+ **[ REPUBLIC ACT No. 8015, May 25, 1995 ]**
+
+ AN ACT SEPARATING THE MALABOG NATIONAL HIGH SCHOOL ANNEX/EXTENSION IN BARANGAY MEGKAWAYAN, FROM THE MALABOG NATIONAL HIGH SCHOOL IN BARANGAY MALABOG, BOTH IN DAVAO CITY, AND CONVERTING IT INTO A SEPARATE AND INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS THE TELESFORO S. SINGSON HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Malabog National High School Annex/Extension in Barangay Megkawayan, Davao City, is hereby separated from the Malabog National High School in Barangay Malabog, and converted into a separate and independent national high school to be known as the Telesforo S. Singson High School.
+
+ **Section 2.** The Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the provisions of this Act.
+
+ **Section 3.** The amount necessary for the implementation of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Lapsed into law on May 25, 1995 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.
+"	success	Education	Separates the Malabog National High School Annex/Extension from the main campus and establishes Telesforo S. Singson High School as an independent national high school in Davao City, allocating funds for its operation.	"[{""title"": ""Section 1"", ""summary"": ""Separates the annex/extension from the main school and establishes a new independent high school.""}, {""title"": ""Section 2"", ""summary"": ""The Department of Education shall issue rules and regulations necessary to implement the act.""}, {""title"": ""Section 3"", ""summary"": ""Funding necessary for implementation will be included in the General Appropriations Act of the following year.""}, {""title"": ""Section 4"", ""summary"": ""The act takes effect upon its approval.""}]"	RA No. 8015	May 25, 1995			To separate and establish a new independent national high school and allocate funds for its operation.	"[""Separation of the annex/extension and establishment of Telesforo S. Singson High School"", ""Department of Education to issue implementation rules"", ""Funding allocation in the General Appropriations Act of the following year"", ""Act takes effect upon approval""]"		"[""Education"", ""Republic Act"", ""High School"", ""Davao City""]"	"[""Malabog National High School"", ""Telesforo S. Singson High School"", ""Davao City"", ""General Appropriations Act"", ""Department of Education"", ""Republic Act 8015""]"
+repacts:datasets/markdown/repacts/1995/ra_8016_1995.md	repacts	1995		datasets/markdown/repacts/1995/ra_8016_1995.md	ra_8016_1995	AN ACT CHANGING THE NAME OF THE BOHOL NATIONAL HIGH SCHOOL IN TAGBILARAN CITY, PROVINCE OF BOHOL, TO DR. CECILIO PUTONG NATIONAL HIGH SCHOOL	"Nineth Congress Third Regular Session
+
+ **[ REPUBLIC ACT No. 8016, May 25, 1995 ]**
+
+ AN ACT CHANGING THE NAME OF THE BOHOL NATIONAL HIGH SCHOOL IN TAGBILARAN CITY, PROVINCE OF BOHOL, TO DR. CECILIO PUTONG NATIONAL HIGH SCHOOL
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The name of the Bohol National High School in Tagbilaran City, Province of Bohol, is hereby changed to Dr. Cecilio Putong National High School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Lapsed into law on May 25, 1995 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.
+"	success	Republic Act	This act changes the name of the Bohol National High School in Tagbilaran City, Province of Bohol, to Dr. Cecilio Putong National High School.	"[{""title"": ""Section 1"", ""summary"": ""The name of the Bohol National High School in Tagbilaran City, Province of Bohol, is hereby changed to Dr. Cecilio Putong National High School.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	8016	May 25, 1995			To change the name of the Bohol National High School to Dr. Cecilio Putong National High School.	"[""Name change of Bohol National High School to Dr. Cecilio Putong National High School"", ""Act takes effect upon approval""]"		"[""Education"", ""School"", ""Name Change""]"	"[""Bohol"", ""Tagbilaran City"", ""National High School"", ""Dr. Cecilio Putong"", ""Republic Act"", ""1995""]"
+repacts:datasets/markdown/repacts/1995/ra_8017_1995.md	repacts	1995		datasets/markdown/repacts/1995/ra_8017_1995.md	ra_8017_1995	AN ACT CHANGING THE NAME OF THE TALISAY SCHOOL OF FISHERIES IN THE MUNICIPALITY OF TALISAY, PROVINCE OF NEGROS OCCIDENTAL, TO INOCENCIO V. FERRER MEMORIAL SCHOOL OF FISHERIES	"Nineth Congress Third Regular Session
+
+ **[ REPUBLIC ACT No. 8017, May 25, 1995 ]**
+
+ AN ACT CHANGING THE NAME OF THE TALISAY SCHOOL OF FISHERIES IN THE MUNICIPALITY OF TALISAY, PROVINCE OF NEGROS OCCIDENTAL, TO INOCENCIO V. FERRER MEMORIAL SCHOOL OF FISHERIES
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The name of the Talisay School of Fisheries in the Municipality of Talisay, Province of Negros Occidental, is hereby changed to Inocencio V. Ferrer Memorial School of Fisheries.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Lapsed into law on May 25, 1995 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.
+"	success	Republic Act	This law changes the name of the Talisay School of Fisheries to the Inocencio V. Ferrer Memorial School of Fisheries and sets the effectivity upon approval.	"[{""title"": ""Section 1."", ""summary"": ""The name of the Talisay School of Fisheries in the Municipality of Talisay, Province of Negros Occidental, is hereby changed to Inocencio V. Ferrer Memorial School of Fisheries.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	RA 8017	May 25, 1995			To change the name of the Talisay School of Fisheries to Inocencio V. Ferrer Memorial School of Fisheries.	"[""Name of the Talisay School of Fisheries changed to Inocencio V. Ferrer Memorial School of Fisheries."", ""Act takes effect upon approval.""]"		"[""education"", ""fisheries"", ""name change"", ""negros occidental"", ""talisay""]"	"[""Talisay School of Fisheries"", ""Inocencio V. Ferrer"", ""Republic Act 8017"", ""Negros Occidental"", ""May 25 1995""]"
+repacts:datasets/markdown/repacts/1995/ra_8018_1995.md	repacts	1995		datasets/markdown/repacts/1995/ra_8018_1995.md	ra_8018_1995	AN ACT REVERTING THE NAME OF PHILIPPINE PEDIATRIC HOSPITAL AND DEVELOPMENT CENTER IN QUEZON CITY, TO PHILIPPINE CHILDREN'S MEDICAL CENTER	"Nineth Congress Third Regular Session
+
+ **[ REPUBLIC ACT No. 8018, May 25, 1995 ]**
+
+ AN ACT REVERTING THE NAME OF PHILIPPINE PEDIATRIC HOSPITAL AND DEVELOPMENT CENTER IN QUEZON CITY, TO PHILIPPINE CHILDREN'S MEDICAL CENTER
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The name of the Philippine Pediatric Hospital and Development Center in Quezon Boulevard, Quezon City, is hereby reverted to Philippine Children's Medical Center.
+
+ **Section 2.** Any other law, decree, act, executive order, proclamation, rules and regulations or part thereof inconsistent with any of the provisions of this Act are hereby repealed, amended or modified accordingly.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Lapsed into law on May 25, 1995 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.
+"	success	Republic Act	Reverts the name of the Philippine Pediatric Hospital and Development Center in Quezon City to Philippine Children's Medical Center.	"[{""title"": ""Section 1"", ""summary"": ""The name of the Philippine Pediatric Hospital and Development Center in Quezon Boulevard, Quezon City, is hereby reverted to Philippine Children's Medical Center.""}, {""title"": ""Section 2"", ""summary"": ""Any other law, decree, act, executive order, proclamation, rules and regulations or part thereof inconsistent with any of the provisions of this Act are hereby repealed, amended or modified accordingly.""}, {""title"": ""Section 3"", ""summary"": ""This Act shall take effect upon its approval.""}]"	8018	May 25, 1995			To revert the name of the Philippine Pediatric Hospital and Development Center to Philippine Children's Medical Center.	"[""Reverts the name of the Philippine Pediatric Hospital and Development Center to Philippine Children's Medical Center"", ""Repeals or amends laws inconsistent with this Act"", ""Effectivity of the Act upon approval""]"	Repeals or amends laws inconsistent with this Act	"[""name change"", ""hospital"", ""Quezon City"", ""medical center""]"	"[""Philippine Pediatric Hospital"", ""Philippine Children's Medical Center"", ""Quezon City"", ""name revert""]"
+repacts:datasets/markdown/repacts/1995/ra_8019_1995.md	repacts	1995		datasets/markdown/repacts/1995/ra_8019_1995.md	ra_8019_1995	AN ACT UPGRADING THE EULOGIO RODRIGUEZ, SR. MEMORIAL HOSPITAL FROM A PROVINCIAL HOSPITAL TO A MEDICAL CENTER, RENAMING IT AS 'AMANG' RODRIGUEZ MEDICAL CENTER, AND APPROPRIATING FUNDS THEREFOR	"Nineth Congress Third Regular Session
+
+ **[ REPUBLIC ACT No. 8019, May 25, 1995 ]**
+
+ AN ACT UPGRADING THE EULOGIO RODRIGUEZ, SR. MEMORIAL HOSPITAL FROM A PROVINCIAL HOSPITAL TO A MEDICAL CENTER, RENAMING IT AS 'AMANG' RODRIGUEZ MEDICAL CENTER, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The status of the Eulogio Rodriguez, Sr. Memorial Hospital in the Municipality of Marikina, Metro Manila, is hereby upgraded from a provincial hospital to a medical center of the Department of Health. As such, the hospital shall be under the laws, rules and regulations governing the category of existing hospitals.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 3.** The hospital as a medical center shall participate in the training of doctors in their chosen field of expertise, nurses and paramedics. The conduct of research shall also be undertaken.
+
+ **Section 4.** Henceforth, this hospital shall be named as 'Amang' Rodriguez Medical Center.
+
+ **Section 5.** This Act shall take effect immediately upon its approval and publication in the Official Gazette.
+
+ Lapsed into law on May 25, 1995 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.
+"	success		Upgrades the Eulogio Rodriguez Sr. Memorial Hospital to a medical center, renames it 'Amang' Rodriguez Medical Center, and appropriates funds for its operation and development.	"[{""title"": ""Section 1"", ""summary"": ""The status of the Eulogio Rodriguez, Sr. Memorial Hospital in the Municipality of Marikina, Metro Manila, is hereby upgraded from a provincial hospital to a medical center of the Department of Health. As such, the hospital shall be under the laws, rules and regulations governing the category of existing hospitals.""}, {""title"": ""Section 2"", ""summary"": ""The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.""}, {""title"": ""Section 3"", ""summary"": ""The hospital as a medical center shall participate in the training of doctors in their chosen field of expertise, nurses and paramedics. The conduct of research shall also be undertaken.""}, {""title"": ""Section 4"", ""summary"": ""Henceforth, this hospital shall be named as 'Amang' Rodriguez Medical Center.""}, {""title"": ""Section 5"", ""summary"": ""This Act shall take effect immediately upon its approval and publication in the Official Gazette.""}]"	8019	May 25, 1995			To upgrade the hospital to a medical center, rename it, and secure appropriate funding for its operation and development.	"[""Upgrades hospital to medical center"", ""Renames hospital to 'Amang' Rodriguez Medical Center"", ""Appropriates funds for operation"", ""Includes training for doctors, nurses, and paramedics"", ""Establishes research activities"", ""Immediate effect upon approval and publication""]"		"[""Health"", ""Hospital"", ""Medical Center"", ""Renaming"", ""Appropriation""]"	"[""Eulogio Rodriguez"", ""Amang Rodriguez"", ""Medical Center"", ""Hospital"", ""Appropriation"", ""Training"", ""Research""]"
+repacts:datasets/markdown/repacts/1995/ra_8020_1995.md	repacts	1995		datasets/markdown/repacts/1995/ra_8020_1995.md	ra_8020_1995	AN ACT CHANGING THE NAME OF THE NATIONAL KIDNEY INSTITUTE TO NATIONAL KIDNEY AND TRANSPLANT INSTITUTE AND FOR OTHER PURPOSES	"Nineth Congress Third Regular Session
+
+ **[ REPUBLIC ACT No. 8020, May 25, 1995 ]**
+
+ AN ACT CHANGING THE NAME OF THE NATIONAL KIDNEY INSTITUTE TO NATIONAL KIDNEY AND TRANSPLANT INSTITUTE AND FOR OTHER PURPOSES
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The National Kidney Institute is hereby renamed as the National Kidney and Transplant Institute and shall be designated as the lead center for organ transplantation.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Lapsed into law on May 25, 1995 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.
+"	success	Republic Act	This act renames the National Kidney Institute to the National Kidney and Transplant Institute and designates it as the lead center for organ transplantation, effective upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Renames the National Kidney Institute as the National Kidney and Transplant Institute and designates it as the lead center for organ transplantation.""}, {""title"": ""Section 2."", ""summary"": ""The act takes effect upon its approval.""}]"	8020	May 25, 1995			Renaming of the national kidney institute and designation as the lead center for organ transplantation.	"[""Renaming of National Kidney Institute to National Kidney and Transplant Institute"", ""Designation as lead center for organ transplantation"", ""Effectivity upon approval""]"		"[""Health"", ""Medical"", ""Organ Transplantation"", ""Institutional Renaming""]"	"[""National Kidney Institute"", ""National Kidney and Transplant Institute"", ""organ transplantation"", ""lead center"", ""renaming""]"

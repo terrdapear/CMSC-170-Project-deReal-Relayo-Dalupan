@@ -1,0 +1,182 @@
+repacts:datasets/markdown/repacts/1960/ra_2797_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2797_1960.md	ra_2797_1960	An Act Creating the Barrio of Sto. Niño in the Municipality of Magalang, Province of Pampanga	"**REPUBLIC ACT No. 2797**
+
+ **An Act Creating the Barrio of Sto. Niño in the Municipality of Magalang, Province of Pampanga**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Balas in the Municipality of Magalang, Province of Pampanga, is converted into a barrio of said municipality, to be known as the barrio of Sto. Niño.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	This act establishes the barrio of Sto. Niño in Magalang, Pampanga, by converting the sitio of Balas into a barrio. The act takes effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Converts the sitio of Balas into the barrio of Sto. Ni\u00f1o.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	2797	June 19, 1960			To establish the barrio of Sto. Niño in the Municipality of Magalang, Province of Pampanga.	"[""Conversion of sitio Balas into barrio Sto. Ni\u00f1o"", ""Act takes effect upon approval""]"		"[""Republic Act"", ""Municipality"", ""Pampanga"", ""Barangay creation""]"	"[""barrio"", ""Sto. Ni\u00f1o"", ""Magalang"", ""Pampanga"", ""sitio Balas"", ""Republic Act 2797"", ""June 1960""]"
+repacts:datasets/markdown/repacts/1960/ra_2798_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2798_1960.md	ra_2798_1960	An Act Amending Sections One and Two of Republic Act Numbered Nineteen Hundred Sixty-Five Relative to the Site of the Bataan Agricultural High School	"**REPUBLIC ACT No. 2798**
+
+ **An Act Amending Sections One and Two of Republic Act Numbered Nineteen Hundred Sixty-Five Relative to the Site of the Bataan Agricultural High School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Sections one and two of Republic Act Numbered Nineteen hundred sixty-five are hereby amended to read as follows:
+
+ > **Sec. 1**. There shall be established, under the direct supervision of the Director of Public Schools, an agricultural high school in any municipality in the Province of Bataan, at a suitable site to be selected by said Director, to be known as the Bataan Agricultural High School.
+>
+>  **Sec. 2**. Upon the recommendation of the Director of Public Schools, the President shall set aside and reserve such portion of the public lands located within the municipality so selected of said province, as may be necessary and convenient for the establishment of the said school and of its farm site.""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Education	This act amends RA 1965 to establish the Bataan Agricultural High School under the supervision of the Director of Public Schools and reserves public lands for its establishment. The act takes effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Amends RA 1965 Sections 1 and 2 to establish Bataan Agricultural High School and reserve public lands for its site.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	RA 2798	1960-06-19			To establish the Bataan Agricultural High School and reserve suitable public lands for its site.	"[""Establishes Bataan Agricultural High School under the Director of Public Schools."", ""Reserves public lands within Bataan for the school's establishment."", ""Act takes effect upon approval.""]"	Republic Act No. 1965, Sections 1 and 2	"[""Education"", ""Agricultural"", ""Public Lands"", ""Bataan"", ""High School""]"	"[""Bataan Agricultural High School"", ""public lands"", ""Director of Public Schools"", ""President"", ""site selection"", ""establishment"", ""reservation""]"
+repacts:datasets/markdown/repacts/1960/ra_2799_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2799_1960.md	ra_2799_1960	An Act Creating Certain Barrios in the Municipality of Almeria, Province of Leyte	"**REPUBLIC ACT No. 2799**
+
+ **An Act Creating Certain Barrios in the Municipality of Almeria, Province of Leyte**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The following places in the Municipality of Almeria, Province of Leyte, are declared as barrios of said municipality, to wit:
+
+ 1. Tamarindo as Barrio Tamarindo; 2. Sampao as Barrio Sampao; 3. Eyusan as Barrio Eyusan; 4. Salangi as Barrio Salangi; and 5. Look as Barrio Look. **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Law	Declares specific barrios in the Municipality of Almeria, Leyte and establishes their effectivity upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Declares Tamarindo, Sampao, Eyusan, Salangi, and Look as barrios of Almeria.""}, {""title"": ""Section 2"", ""summary"": ""The Act shall take effect upon its approval.""}]"	2799	June 19, 1960			To create and designate barrios within Almeria, Leyte.	"[""Declaration of barrios"", ""Effectivity upon approval""]"		"[""Local Government"", ""Municipal"", ""Barrios"", ""Leyte""]"	"[""Barrios"", ""Almeria"", ""Leyte"", ""Republic Act 2799""]"
+repacts:datasets/markdown/repacts/1960/ra_2800_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2800_1960.md	ra_2800_1960	An Act Changing the Names of Certain Barrios in the Municipality of Panabo, Province of Davao	"**REPUBLIC ACT No. 2800**
+
+ **An Act Changing the Names of Certain Barrios in the Municipality of Panabo, Province of Davao**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The names of the following barrios in the Municipality of Panabo, Province of Davao, are changed as follows:
+
+ 1. Barrio Bincungan to Barrio Guadalupe; and 2. Barrio Tagurot to Barrio San Nicolas. **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	This act changes the names of certain barrios in Panabo, Davao.	"[{""title"": ""Section 1."", ""summary"": ""Names of barrios changed: Barrio Bincungan to Barrio Guadalupe; Barrio Tagurot to Barrio San Nicolas.""}, {""title"": ""Section 2."", ""summary"": ""Act takes effect upon approval.""}]"	2800	June 19, 1960			To change the names of certain barrios in Panabo, Davao.	"[""Names of Barrio Bincungan changed to Barrio Guadalupe"", ""Names of Barrio Tagurot changed to Barrio San Nicolas"", ""Act takes effect upon approval""]"		"[""barrios"", ""municipality"", ""Panabo"", ""Davao"", ""name change""]"	"[""Republic Act"", ""barrios"", ""Panabo"", ""Davao"", ""name change"", ""municipality""]"
+repacts:datasets/markdown/repacts/1960/ra_2801_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2801_1960.md	ra_2801_1960	An Act Creating the Barrio of Bukal in the Municipality of Rizal, Province of Laguna	"**REPUBLIC ACT No. 2801**
+
+ **An Act Creating the Barrio of Bukal in the Municipality of Rizal, Province of Laguna**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Alibungbungan in the Municipality of Rizal, Province of Laguna, is converted into a barrio of said municipality to be known as the barrio of Bukal.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	This act creates the barrio of Bukal in the Municipality of Rizal, Laguna, by converting the sitio of Alibungbungan into a barrio.	"[{""title"": ""Section 1"", ""summary"": ""The sitio of Alibungbungan in the Municipality of Rizal, Province of Laguna, is converted into a barrio of said municipality to be known as the barrio of Bukal.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	2801	June 19, 1960			To create the barrio of Bukal in the Municipality of Rizal, Laguna.	"[""Conversion of the sitio of Alibungbungan into the barrio of Bukal"", ""Effectivity upon approval""]"		"[""barrio"", ""municipality"", ""Laguna"", ""local government""]"	"[""Bukal"", ""Rizal"", ""Laguna"", ""sitio"", ""barrio"", ""Republic Act 2801""]"
+repacts:datasets/markdown/repacts/1960/ra_2802_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2802_1960.md	ra_2802_1960	An Act Changing the Name of the Panay National Agricultural School in the Municipality of Mambusao, Province of Capiz, to Mambusao National Agricultural School, Amending for the Purpose Republic Act Numbered Twenty Hundred Eighty-Eight	"**REPUBLIC ACT No. 2802**
+
+ **An Act Changing the Name of the Panay National Agricultural School in the Municipality of Mambusao, Province of Capiz, to Mambusao National Agricultural School, Amending for the Purpose Republic Act Numbered Twenty Hundred Eighty-Eight**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section one of Republic Act Numbered Twenty hundred eighty-eight is amended to read as follows:
+
+ > **Sec. 1**. The Mambusao High School in the Municipality of Mambusao, Province of Capiz, is hereby converted into a national agricultural school of the Iloilo National Agricultural School type, to be known as the Mambusao National Agricultural School. The Secretary of Education is hereby empowered to reorganize said school accordingly.""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	The act amends Republic Act No. 288 to change the name of the Panay National Agricultural School to the Mambusao National Agricultural School, converting Mambusao High School into a national agricultural school of the Iloilo National Agricultural School type.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 1 of RA 288 to convert Mambusao High School into Mambusao National Agricultural School and authorizes reorganization.""}, {""title"": ""Section 2"", ""summary"": ""The act takes effect upon its approval.""}]"	2802	June 19, 1960			To change the name of the Panay National Agricultural School to Mambusao National Agricultural School and amend RA 288.	"[""Section 1: Renaming and conversion of Mambusao High School to Mambusao National Agricultural School"", ""Section 2: Effectivity upon approval""]"	Republic Act No. 288	"[""Education"", ""Agricultural School"", ""Renaming"", ""Republic Act""]"	"[""Panay National Agricultural School"", ""Mambusao National Agricultural School"", ""Republic Act 2802"", ""RA 288"", ""Education"", ""Agricultural""]"
+repacts:datasets/markdown/repacts/1960/ra_2803_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2803_1960.md	ra_2803_1960	An Act Creating Certain Barrios in the Municipality of Talibon, Province of Bohol	"**REPUBLIC ACT No. 2803**
+
+ **An Act Creating Certain Barrios in the Municipality of Talibon, Province of Bohol**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The following sitios in the Municipality of Talibon, Province of Bohol, are declared as barrios of said municipality, to wit:
+
+ 1. Sitio Nueva Esperanza as Barrio Esperanza; 2. Sitio Nueva Estrella as Barrio Estrella; 3. Sitio Mandawa as Barrio Mandawa; 4. Sitio Malingin as Barrio Malingin; 5. Sitio Maomawan as Barrio Maomawan; 6. Sitio Sagasa as Barrio Sagasa; 7. Sitio Burgos as Barrio Burgos; 8. Sitio Rizal as Barrio Rizal; 9. Sitio Tanghaligue as Barrio Tanghaligue; 10. Sitio Mahanay as Barrio Mahanay; 11. Sitio Hebale as Barrio Hebale; 12. Sitio Santo Niño as Barrio Santo Niño; 13. Sitio Santa Fe as Barrio Santa Fe; 14. Sitio Cantubod as Barrio Cantubod; 15. Sitio Remedios as Barrio Remedios; 16. Sitio Dagohoy as Barrio Dagohoy; 17. Sitio Zamora as Barrio Zamora; 18. Sitio San Roque as Barrio San Roque; 19. Sitio Sikatuna as Barrio Sikatuna; 20. Sitio Magsaysay as Barrio Magsaysay; 21. Sitio San Jose Sur as Barrio San Jose Sur; 22. Sitio Balintawak as Barrio Balintawak; and 23. Sitio Nonocnocan as Barrio Nonocnocan. **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	This act declares several sitios within the municipality of Talibon, Bohol, as official barrios.	"[{""title"": ""Section 1"", ""summary"": ""Lists the sitios to be declared as barrios.""}, {""title"": ""Section 2"", ""summary"": ""States that the act takes effect upon approval.""}]"	2803	June 19, 1960			To formalize the status of certain sitios as barrios for administrative and governance purposes.	"[""Declares 23 sitios as barrios."", ""The act takes effect upon its approval.""]"		"[""Republic Act"", ""Local Government"", ""Talibon"", ""Bohol"", ""Barrios""]"	"[""Barrios"", ""Sitios"", ""Talibon"", ""Bohol"", ""Republic Act 2803"", ""Local Law""]"
+repacts:datasets/markdown/repacts/1960/ra_2804_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2804_1960.md	ra_2804_1960	An Act Changing the Names of Certain Barrios and Sitios in the Municipality of Polanco, Province of Zamboanga del Norte	"**REPUBLIC ACT No. 2804**
+
+ **An Act Changing the Names of Certain Barrios and Sitios in the Municipality of Polanco, Province of Zamboanga del Norte**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The names of the following barrios and sitios in the Municipality of Polanco, Province of Zamboanga del Norte, are changed as follows:
+
+ 1. Barrio Prenda to Barrio Labrador; 2. Barrio Loboc to Barrio San Miguel; 3. Sitio Lantoy to Sitio Sto. Niño; 4. Sitio Biga-an to Sitio Mabuhay; and 5. Sitio Ludloron to Sitio Salvador. **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	This Act changes the names of five barrios and sitios in Polanco municipality, Zamboanga del Norte, and takes effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The names of the following barrios and sitios in the Municipality of Polanco are changed: Barrio Prenda to Barrio Labrador; Barrio Loboc to Barrio San Miguel; Sitio Lantoy to Sitio Sto. Ni\u00f1o; Sitio Biga-an to Sitio Mabuhay; and Sitio Ludloron to Sitio Salvador.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	2804	June 19, 1960			To change the names of certain barrios and sitios in Polanco municipality, Zamboanga del Norte.	"[""Barrio Prenda to Barrio Labrador"", ""Barrio Loboc to Barrio San Miguel"", ""Sitio Lantoy to Sitio Sto. Ni\u00f1o"", ""Sitio Biga-an to Sitio Mabuhay"", ""Sitio Ludloron to Sitio Salvador""]"			
+repacts:datasets/markdown/repacts/1960/ra_2805_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2805_1960.md	ra_2805_1960	An Act Changing the Name of the Barrio of Binuañgan in the Municipality of Alicia, Province of Zamboanga del Sur, to Bella	"**REPUBLIC ACT No. 2805**
+
+ **An Act Changing the Name of the Barrio of Binuañgan in the Municipality of Alicia, Province of Zamboanga del Sur, to Bella**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the barrio of Binuangan in the Municipality of Alicia, Province of Zamboanga del Sur, is changed to Bella.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	An act that changes the name of the barrio of Binuangan to Bella.	"[{""title"": ""Section 1"", ""summary"": ""The name of the barrio of Binuangan in the Municipality of Alicia, Province of Zamboanga del Sur, is changed to Bella.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	2805	June 19, 1960			To change the name of a barrio.	"[""The name of the barrio of Binuangan is changed to Bella.""]"		"[""Republic Act"", ""Name Change"", ""Barrio"", ""Alicia"", ""Zamboanga del Sur""]"	"[""barrio"", ""name change"", ""Alicia"", ""Zamboanga del Sur"", ""Bella""]"
+repacts:datasets/markdown/repacts/1960/ra_2806_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2806_1960.md	ra_2806_1960	An Act Creating Certain Barrios in the Third District of the Province of Samar	"**REPUBLIC ACT No. 2806**
+
+ **An Act Creating Certain Barrios in the Third District of the Province of Samar**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Sta. Cruz, Paco, Cagdaha, Cambilla and Anislag in the Municipality of Quinapundan, Province of Samar, are hereby converted into barrios of said municipality to be known hereafter as the barrios of Sta. Cruz, Paco, Cagdaha, Cambilla and Anislag, respectively, and to constitute as follows:
+
+ (1) Barrio Sta. Cruz, consisting of the sitios of Loro Diyo, Sagcaray, Calutan, Caico-an, Caalangohan, Pili, San Joaquin and Nasonogan; (2) Barrio Paco, consisting of the sitios of Biga, Camborha and Caculasi-an; (3) Barrio Cagdaha, consisting of the sitios of Canodiong, Tinatagbayahan, Babalayan-Sawa and Pinangagamutan; (4) Barrio Cambilla, consisting of the sitios of Cabongaan, Candorico, Pananyog, Hagimit and Cantomoy; and (5) Barrio Anislag, consisting of the sitios of Calaasan, Alamagon and Bogho. **Section 2.** The following barrios are hereby created in the Municipality of Dolores, same province:
+
+ (1) Barrio Jicontol, consisting of the sitios of Cancatayang, Cancoting and Jetindog: (2) Barrio San Pascual, consisting of the sitios of Barong Bungod, Tangbo, Jitoyan and Camomahag; (3) Barrio Villahermosa, consisting of the sitios of Candohenag, Dito and Mahanod; (4) Barrio Mabini, consisting of the sitio of Sali-ang; (5) Barrio Rizal, consisting of the sitios of Can Moni and Calotan; (6) Barrio San Vicente, consisting of the sitios of Tapa and Can-etawag; (7) Barrio Gap-ang, consisting of the sitios of Cagaasan and Cabolalo-an; (8) Barrio Cabago-an, consisting of the sitios of Buntay, Caglilited, Can Espino, Jelocnan and Caabehawan; (9) Barrio San Roque, consisting of the sitios of Palao, Denig-pian, Cupa, Tamsi-on, Islagam, Casapa, Sinalo-an, Bonglas and Lalawe-anan; (10) Barrio Santa Cruz, consisting of the sitios of Nagas and Camalig; (11) Barrio Cagtabon 1, consisting of the sitios of Gaas, Cuyatan and Cagustan; (12) Barrio Cagtabon 2, consisting of the sitios of Cacolapnitan, Canbitang, Can Baday and Can Cobee; (13) Barrio Mapnod, consisting of the sitios of Hindang Bongo and Caglao-an; (14) Barrio Japitan, consisting of the sitios of Beniyawan and Basiao; and (15) Barrio Santo Niño, consisting of the sitios of Luhang, Guintambanganan, Matanos and Jagachac. **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	An act that establishes new barrios in the province of Samar by converting existing sitios into barrios within the municipalities of Quinapundan and Dolores.	"[{""title"": ""Section 1"", ""summary"": ""Converts specified sitios in the Municipality of Quinapundan into barrios named Sta. Cruz, Paco, Cagdaha, Cambilla, and Anislag, listing the constituent sitios for each barrio.""}, {""title"": ""Section 2"", ""summary"": ""Creates barrios in the Municipality of Dolores, enumerating each barrio and its constituent sitios.""}, {""title"": ""Section 3"", ""summary"": ""Stipulates that the act shall take effect upon its approval.""}]"	2806	June 19, 1960			To create new barrios in Samar by converting existing sitios into barrio units within specified municipalities.	"[""Conversion of sitios into barrios in Quinapundan and Dolores"", ""Establishment of specific barrios with defined sitios"", ""Act takes effect upon approval""]"		"[""Samar"", ""Barrios"", ""Municipality"", ""Republic Act""]"	"[""barrios"", ""situs"", ""Samar"", ""municipality"", ""creation""]"
+repacts:datasets/markdown/repacts/1960/ra_2807_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2807_1960.md	ra_2807_1960	An Act Changing the Name of the Argao Intermediate School in the Municipality of Argao, Province of Cebu, to Antonio Miñoza Intermediate School	"**REPUBLIC ACT No. 2807**
+
+ **An Act Changing the Name of the Argao Intermediate School in the Municipality of Argao, Province of Cebu, to Antonio Miñoza Intermediate School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Argao Intermediate School in the Municipality of Argao, Province of Cebu, is hereby changed to Antonio Miñoza Intermediate School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	This act changes the name of the Argao Intermediate School to Antonio Miñoza Intermediate School and takes effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The name of the Argao Intermediate School is hereby changed to Antonio Mi\u00f1oza Intermediate School.""}, {""title"": ""Section 2"", ""summary"": ""The Act shall take effect upon its approval.""}]"	2807	June 19, 1960			To change the name of the Argao Intermediate School to Antonio Miñoza Intermediate School.	"[""Change the name of the Argao Intermediate School to Antonio Mi\u00f1oza Intermediate School.""]"		"[""Education"", ""School"", ""Renaming"", ""Local Government"", ""Cebu""]"	"[""Argao"", ""Antonio Mi\u00f1oza"", ""Intermediate School"", ""Cebu"", ""Renaming""]"
+repacts:datasets/markdown/repacts/1960/ra_2808_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2808_1960.md	ra_2808_1960	An Act to Amend Item One Hundred Eight, for the Province of Iloilo, Page One Hundred Ninety-Five, Paragraph g, Section Two of Republic Act Numbered Fourteen Hundred Eleven	"**REPUBLIC ACT No. 2808**
+
+ **An Act to Amend Item One Hundred Eight, for the Province of Iloilo, Page One Hundred Ninety-Five, Paragraph g, Section Two of Republic Act Numbered Fourteen Hundred Eleven**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item one hundred eight, for the Province of Iloilo, page one hundred ninety-five, paragraph g, Section two of Republic Act Numbered Fourteen hundred eleven is amended to read as follows:
+
+ > ""108. Sta. Barbara Barrio School Building Igbaras ₱6,000.00""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	Amends Section 108 of RA 1411 concerning the Sta. Barbara Barrio School Building in Igbaras, Iloilo.	"[{""title"": ""Section 1."", ""summary"": ""Item one hundred eight, for the Province of Iloilo, page one hundred ninety-five, paragraph g, Section two of Republic Act Numbered Fourteen hundred eleven is amended to read as follows: 108. Sta. Barbara Barrio School Building Igbaras \u20b16,000.00""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2808	June 19, 1960			To update the cost allocation for the Sta. Barbara Barrio School Building in Igbaras, Iloilo, as specified in RA 1411.	"[""108. Sta. Barbara Barrio School Building Igbaras \u20b16,000.00""]"	Republic Act No. 1411, Item One Hundred Eight, Section Two.	"[""Amendment"", ""Education"", ""Iloilo""]"	"[""RA 2808"", ""Iloilo"", ""Sta. Barbara"", ""School Building"", ""Igbaras"", ""6,000""]"
+repacts:datasets/markdown/repacts/1960/ra_2809_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2809_1960.md	ra_2809_1960	An Act Establishing a School of Nursing and Midwifery in the Municipality of Catarman, Province of Samar, to be Attached to the Northern Samar, General Hospital, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 2809**
+
+ **An Act Establishing a School of Nursing and Midwifery in the Municipality of Catarman, Province of Samar, to be Attached to the Northern Samar, General Hospital, and Authorizing the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the supervision of the Director of Medical Services, a school of nursing and midwifery in the Municipality of Catarman, Province of Samar, to be attached to the Northern Samar General Hospital.
+
+ **Section 2.** The Director of Medical Services shall, with the approval of the Secretary of Health, issue such rules and regulations as may be necessary to carry into effect the purpose of this Act.
+
+ **Section 3.** The sum of one hundred thousand pesos is hereby authorized to be appropriated, for the establishment, operation and maintenance of said school.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	This act establishes a school of nursing and midwifery in Catarman, Samar, attached to the Northern Samar General Hospital, authorizes a one hundred thousand peso appropriation, and empowers the Director of Medical Services to issue necessary rules and regulations.	"[{""title"": ""Section 1"", ""summary"": ""Establishment of a school of nursing and midwifery in Catarman, Samar, under the supervision of the Director of Medical Services and attached to the Northern Samar General Hospital.""}, {""title"": ""Section 2"", ""summary"": ""The Director of Medical Services shall issue rules and regulations necessary to implement the act, with approval from the Secretary of Health.""}, {""title"": ""Section 3"", ""summary"": ""Appropriation of one hundred thousand pesos for the establishment, operation, and maintenance of the school.""}, {""title"": ""Section 4"", ""summary"": ""The act takes effect upon its approval.""}]"	2809	June 19, 1960			To establish a nursing and midwifery school in Catarman, attach it to the Northern Samar General Hospital, and provide funding and regulatory authority.	"[""Establishment of school attached to Northern Samar General Hospital"", ""Director of Medical Services empowered to issue rules with Secretary of Health approval"", ""Appropriation of one hundred thousand pesos""]"		"[""Education"", ""Nursing"", ""Healthcare"", ""Samar""]"	"[""School of Nursing"", ""Midwifery"", ""Catarman"", ""Northern Samar General Hospital"", ""Director of Medical Services"", ""Secretary of Health"", ""Appropriation"", ""June 1960""]"
+repacts:datasets/markdown/repacts/1960/ra_2810_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2810_1960.md	ra_2810_1960	An Act Creating Certain Barrios in the Municipality of Sogod, Province of Leyte	"**REPUBLIC ACT No. 2810**
+
+ **An Act Creating Certain Barrios in the Municipality of Sogod, Province of Leyte**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The following sitios in the Municipality of Sogod, Province of Leyte, are hereby converted or constituted into barrios:
+
+ a. Sitios Kantabuan, Baycasili, Mamingaw, Tagabaca and Kampuwa, into a barrio to be named Barrio Kauswagan; b. Sitio Ilo, into a barrio to be named Barrio Malinaw; and c. Sitios Hubasan, Agta, Manduduknay, Kabas-an and Cabadbaran, into a barrio to be named Barrio San Juan. **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	This act establishes new barrios in the municipality of Sogod, Leyte by converting specified sitios into barrios.	"[{""title"": ""Section 1"", ""summary"": ""The act converts the sitios of Kantabuan, Baycasili, Mamingaw, Tagabaca, Kampuwa, Ilo, Hubasan, Agta, Manduduknay, Kabas-an, and Cabadbaran into the barrios of Kauswagan, Malinaw, and San Juan respectively.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	2810	June 19, 1960			To create new barrios in Sogod, Leyte for improved local governance.	"[""Conversion of specified sitios into barrios: Kauswagan, Malinaw, and San Juan""]"		"[""Local Government"", ""Barangay"", ""Leyte"", ""Sogod"", ""Republic Act""]"	"[""Barrios"", ""Sitios"", ""Leyte"", ""Sogod"", ""Republic Act 2810""]"

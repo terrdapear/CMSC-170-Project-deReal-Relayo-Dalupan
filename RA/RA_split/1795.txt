@@ -1,0 +1,137 @@
+repacts:datasets/markdown/repacts/1993/ra_7652_1993.md	repacts	1993		datasets/markdown/repacts/1993/ra_7652_1993.md	ra_7652_1993	Republic Act No. 7652: Investors' Lease Act	"Republic of the Philippines Congress of the Philippines First Regular Session
+
+ **[ REPUBLIC ACT NO. 7652, June 04, 1993 ]**
+
+ **AN ACT ALLOWING THE LONG-TERM LEASE OF PRIVATE LANDS BY FOREIGN INVESTORS**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.***Title*. This Act shall be known as the ""Investors' Lease Act.""
+
+ **Section 2.***Declaration of Policy*. It is hereby declared the policy of the State to encourage foreign investments consistent with the constitutional mandate to conserve and develop our own patrimony. Towards this end, the State hereby adopts a flexible and dynamic policy on the granting of long-term lease on private lands to foreign investors for the establishment of industrial estates, factories, assembly or processing plants, agro-industrial enterprises, land development for industrial, or commercial use, tourism, and other similar priority productive endeavors.
+
+ **Section 3.***Definitions.* For purposes of this Act, unless the context indicates otherwise, the term:
+
+ > 1. ""Investing in the Philippines"" shall mean making an equity investment in the Philippines through actual remittance of foreign exchange or transfer of assets, whether in the form of capital goods, patents, formulae, or other technological rights or processes, upon registration with the Securities and Exchange Commission; and
+>
+>  2. ""Withdrawal of approved investment"" shall mean either: (a) the failure to operate the investment project for any three (3) consecutive years; or (b) outright abandonment of the investment project at any time during the approved lease period: *Provided,* That failure to pay lease rental for three (3) consecutive months coupled with the failure to operate the investment project for the same period shall be deemed an outright abandonment of the project.
+
+ **Section 4.***Coverage*. Any foreign investor investing in the Philippines shall be allowed to lease private lands in accordance with the laws of the Republic of the Philippines subject to the following conditions:
+
+ > 1. No lease contract shall be for a period exceeding fifty (50) years, renewable once for a period of not more than twenty- five (25) years;
+>
+>  2. The leased area shall be used solely for the purpose of the investment upon the mutual agreement of the parties;
+>
+>  3. The leased premises shall comprise such area as may reasonably be required for the purpose of the investment subject however to the Comprehensive Agrarian Reform Law and the Local Government Code.
+>
+>  The leasehold right acquired under long-term lease contracts entered into pursuant to this Act may be sold, transferred, or assigned:*Provided,*That when the buyer, transferee, or assignee is a foreigner or a foreign-owned enterprise, the conditions and limitations in respect to the use of the leased property as provided for under this Act shall continue to apply.
+
+ **Section 5.***Limitations.*
+
+ > 1. Foreign individuals, corporations, associations, or partnerships not otherwise investing in the Philippines as defined herein shall continue to be covered by Presidential Decree No. 471 and other existing laws on lease of lands to foreigners.
+>
+>  2. Withdrawal of the approved investment in the Philippines within the period of the lease agreement entered into under this Act, or use of the leased area for the purpose other than that authorized, shall warrant the*ipso facto*termination of the lease agreement without prejudice to the right of the lessor to be compensated for the damages he may have suffered thereby.
+>
+>  3. Any lease agreement under this Act which is renewable at the option of the lessee subject to the same terms and conditions of the original contract shall be interpreted to mean as renewable upon the mutual agreement of the parties.
+>
+>  4. In addition to the conditions for the renewal of a lease agreement after the period of fifty (50) years as provided herein, the foreign lessee shall show that it has made social and economic contributions to the country.
+>
+>  5. In the case of tourism projects, lease of private lands by foreign investors qualified herein shall be limited to projects with an investment of not less than Five million ($5M) US dollars, seventy percent (70%) of which shall be infused in said project within three years from the signing of the lease contract.
+
+ **Section 6.***Termination of Lease Contract.* The Secretary of Trade and Industry shall terminate any lease contract entered into under the provisions of this Act, if the investment project is not initiated within three (3) years from the signing of the lease contract.
+
+ **Section 7.***Penal Provision.* Any contract or agreement made or executed in violation of any of the following prohibited acts shall be null and voidabinitioand both contracting parties shall be punished by a fine of not less than One hundred thousand pesos (₱100,000) nor more than One million pesos (₱1,000,000), or imprisonment of six (6) months to six (6) years, or both, at the discretion of the court:
+
+ > 1. Any provision in the lease agreement stipulating a lease period in excess of that provided in paragraph (1) of Section 4;
+>
+>  2. Use of the leased premises for the purpose contrary to existing laws of the land, public order, public policy, morals, or good customs;
+>
+>  3. Any agreement or agreements resulting in the lease of land in excess of the area approved by the DTI:*Provided,*That, where the excess of the totality of the area leased is due to the acts of the lessee, the lessee shall be held solely liable therefor:*Provided, further,* That, in the case of corporations, associations, or partnerships, the president, manager, director, trustee, or officers responsible for the violation hereof shall bear the criminal liability.
+
+ **Section 8.***Separability Clause*. In case any provision of this Act or the application of such provision is deemed unconstitutional, the remaining provisions of this Act or the application of such provisions shall not be affected thereby.
+
+ **Section 9.***Repealing Clause*. All acts, rules and regulations contrary to or inconsistent with this Act are hereby repealed or modified accordingly.
+
+ **Section 10.***Effectivity* Clause. This Act shall take effect immediately upon its approval.
+
+ Approved, June 4, 1993.
+"	success	Republic Act	An act that allows long‑term leases of private lands by foreign investors, encouraging foreign investment while protecting national patrimony. It sets maximum lease periods, conditions for use, renewal, termination, and penalties for non‑compliance.	"[{""title"": ""Section 1. Title"", ""summary"": ""The act shall be known as the \""Investors' Lease Act.\""""}, {""title"": ""Section 2. Declaration of Policy"", ""summary"": ""States the policy of encouraging foreign investment consistent with conserving and developing national patrimony, adopting a flexible policy for granting long\u2011term leases for industrial, agro\u2011industrial, industrial, commercial, tourism, and similar productive endeavors.""}, {""title"": ""Section 3. Definitions"", ""summary"": ""Defines key terms such as \""Investing in the Philippines\"" and \""Withdrawal of approved investment,\"" outlining conditions for abandonment and failure to operate.""}, {""title"": ""Section 4. Coverage"", ""summary"": ""Details the conditions under which foreign investors may lease private lands, including maximum lease duration of 50 years renewable once for up to 25 years, use restrictions, and application of the Comprehensive Agrarian Reform Law and Local Government Code.""}, {""title"": ""Section 5. Limitations"", ""summary"": ""Specifies that foreign entities not covered by this act remain under Presidential Decree No. 471, outlines termination for withdrawal or misuse, renewal interpretations, social and economic contribution requirements, and investment thresholds for tourism projects.""}, {""title"": ""Section 6. Termination of Lease Contract"", ""summary"": ""The Secretary of Trade and Industry may terminate leases if the investment project is not initiated within three years of signing.""}, {""title"": ""Section 7. Penal Provision"", ""summary"": ""Provides penalties for violating lease terms, including fines, imprisonment, and liability for exceeding lease period, area, or use contrary to law.""}, {""title"": ""Section 8. Separability Clause"", ""summary"": ""States that if any provision is deemed unconstitutional, the remaining provisions shall continue to apply.""}]"	7652	June 04, 1993			To facilitate foreign investment through long‑term lease of private lands while safeguarding national interests and ensuring proper use and compliance with existing laws.	"[""Maximum lease period of 50 years renewable once for up to 25 years"", ""Lease must be for investment purpose only"", ""Termination if investment not initiated within 3 years"", ""Penalties ranging from fines to imprisonment for violations"", ""Renewal requires mutual agreement and compliance with conditions"", ""Social and economic contribution requirement for renewable leases"", ""Investment threshold for tourism projects of $5M with 70% infusion within 3 years""]"	Presidential Decree No. 471, Comprehensive Agrarian Reform Law, Local Government Code	"[""Foreign Investment"", ""Land Lease"", ""Industrial Estates"", ""Agrarian Reform"", ""Legislation""]"	"[""foreign investors"", ""long-term lease"", ""private lands"", ""industrial estates"", ""investment"", ""penalties"", ""termination"", ""renewal""]"
+repacts:datasets/markdown/repacts/1993/ra_7653_1993.md	repacts	1993		datasets/markdown/repacts/1993/ra_7653_1993.md	ra_7653_1993	THE NEW CENTRAL BANK ACT	"**REPUBLIC ACT No. 7653**
+
+ THE NEW CENTRAL BANK ACT
+
+ CHAPTER I ESTABLISHMENT AND ORGANIZATION OF THE BANGKO SENTRAL NG PILIPINAS
+
+ ARTICLE I CREATION, RESPONSIBILITIES AND CORPORATE POWERS OF THE BANGKO SENTRAL
+
+ **Section 1.** *Declaration of Policy.* - The State shall maintain a central monetary authority that shall function and operate as an independent and accountable body corporate in the discharge of its mandated responsibilities concerning money, banking and credit. In line with this policy, and considering its unique functions and responsibilities, the central monetary authority established under this Act, while being a government-owned corporation, shall enjoy fiscal and administrative autonomy.
+
+ **Section 2.** *Creation of the Bangko Sentral.* - There is hereby established an independent central monetary authority, which shall be a body corporate known as the Bangko Sentral ng Pilipinas, hereafter referred to as the Bangko Sentral.
+
+ The capital of the Bangko Sentral shall be Fifty billion pesos (P50,000,000,000), to be fully subscribed by the Government of the Republic, hereafter referred to as the Government, Ten billion pesos (P10,000,000,000) of which shall be fully paid for by the Government upon the effectivity of this Act and the balance to be paid for within a period of two (2) years from the effectivity of this Act in such manner and form as the Government, through the Secretary of Finance and the Secretary of Budget and Management, may thereafter determine.
+
+ **Section 3.** *Responsibility and Primary Objective.* - The Bangko Sentral shall provide policy directions in the areas of money, banking, and credit. It shall have supervision over the operations of banks and exercise such regulatory powers as provided in this Act and other pertinent laws over the operations of finance companies and non-bank financial institutions performing quasi-banking functions, hereafter referred to as quasi-banks, and institutions performing similar functions.
+
+ The primary objective of the Bangko Sentral is to maintain price stability conducive to a balanced and sustainable growth of the economy. It shall also promote and maintain monetary stability and the convertibility of the peso.
+
+ **Section 4.** *Place of Business.* - The Bangko Sentral shall have its principal place of business in Metro Manila, but may maintain branches, agencies and correspondents in such other places as the proper conduct of its business may require.
+
+ **Section 5.** *Corporate Powers.* - The Bangko Sentral is hereby authorized to adopt, alter, and use a corporate seal which shall be judicially noticed; to enter into contracts; to lease or own real and personal property, and to sell or otherwise dispose of the same; to sue and be sued; and otherwise to do and perform any and all things that may be necessary or proper to carry out the purposes of this Act.
+
+ The Bangko Sentral may acquire and hold such assets and incur such liabilities in connection with its operations authorized by the provisions of this Act, or as are essential to the proper conduct of such operations.
+
+ The Bangko Sentral may compromise, condone or release, in whole or in part, any claim of or settled liability to the Bangko Sentral, regardless of the amount involved, under such terms and conditions as may be prescribed by the Monetary Board to protect the interests of the Bangko Sentral.
+
+ **ARTICLE II THE MONETARY BOARD**
+
+ **Section 6.** *Composition of the Monetary Board.* - The powers and functions of the Bangko Sentral shall be exercised by the Bangko Sentral Monetary Board, hereafter referred to as the Monetary Board, composed of seven (7) members appointed by the President of the Philippines for a term of six (6) years.
+
+ The seven (7) members are:
+
+ (a) the Governor of the Bangko Sentral, who shall be the Chairman of the Monetary Board. The Governor of the Bangko Sentral shall be head of a department and his appointment shall be subject to confirmation by the Commission on Appointments. Whenever the Governor is unable to attend a meeting of the Board, he shall designate a Deputy Governor to act as his alternate: Provided, That in such event, the Monetary Board shall designate one of its members as acting Chairman; (b) a member of the Cabinet to be designated by the President of the Philippines. Whenever the designated Cabinet Member is unable to attend a meeting of the Board, he shall designate an Undersecretary in his Department to attend as his alternate; and (c) five (5) members who shall come from the private sector, all of whom shall serve full-time: Provided, however, That of the members first appointed under the provisions of this subsection, three (3) shall have a term of six (6) years, and the other two (2), three (3) years. No member of the Monetary Board may be reappointed more than once.
+
+ **Section 7.** *Vacancies.* - Any vacancy in the Monetary Board created by the death, resignation, or removal of any member shall be filled by the appointment of a new member to complete the unexpired period of the term of the member concerned.
+
+ **Section 8.** *Qualifications.* - The members of the Monetary Board must be natural-born citizens of the Philippines, at least thirty-five (35) years of age, with the exception of the Governor who should at least be forty (40) years of age, of good moral character, of unquestionable integrity, of known probity and patriotism, and with recognized competence in social and economic disciplines.
+
+ **Section 9.** *Disqualifications.* - In addition to the disqualifications imposed by Republic Act No. 6713, a member of the Monetary Board is disqualified from being a director, officer, employee, consultant, lawyer, agent or stockholder of any bank, quasi-bank or any other institution which is subject to supervision or examination by the Bangko Sentral, in which case such member shall resign from, and divest himself of any and all interests in such institution before assumption of office as member of the Monetary Board.
+
+ The members of the Monetary Board coming from the private sector shall not hold any other public office or public employment during their tenure.
+
+ No person shall be a member of the Monetary Board if he has been connected directly with any multilateral banking or financial institution or has a substantial interest in any private bank in the Philippines, within one (1) year prior to his appointment; likewise, no member of the Monetary Board shall be employed in any such institution within two (2) years after the expiration of his term except when he serves as an official representative of the Philippine Government to such institution.
+
+ **Section 10.** *Removal.* - The President may remove any member of the Monetary Board for any of the following reasons:
+
+ (a) If the member is subsequently disqualified under the provisions of Section 8 of this Act; or (b) If he is physically or mentally incapacitated that he cannot properly discharge his duties and responsibilities and such incapacity has lasted for more than six (6) months; or (c) If the member is guilty of acts or operations which are of fraudulent or illegal character or which are manifestly opposed to the aims and interests of the Bangko Sentral; or (d) If the member no longer possesses the qualifications specified in Section 8 of this Act. **Section 11.** *Meetings.* - The Monetary Board shall meet at least once a week. The Board may be called to a meeting by the Governor of the Bangko Sentral or by two (2) other members of the Board.
+
+ The presence of four (4) members shall constitute a quorum: Provided, That in all cases the Governor or his duly designated alternate shall be among the four (4).
+
+ Unless otherwise provided in this Act, all decisions of the Monetary Board shall require the concurrence of at least four (4) members.
+
+ The Bangko Sentral shall maintain and preserve a complete record of the proceedings and deliberations of the Monetary Board, including the tapes and transcripts of the stenographic notes, either in their original form or in microfilm.
+
+ **Section 12.** *Attendance of the Deputy Governors.* - The Deputy Governors may attend the meetings of the Monetary Board with the right to be heard.
+
+ **Section 13.** *Salary.* - The salary of the Governor and the members of the Monetary Board from the private sector shall be fixed by the President of the Philippines at a sum commensurate to the importance and responsibility attached to the position.
+
+ **Section 14.** *Withdrawal of Persons Having a Personal Interest.* - In addition to the requirements of Republic Act No. 6713, any member of the Monetary Board with personal or pecuniary interest in any matter in the agenda of the Monetary Board shall disclose his interest to the Board and shall retire from the meeting when the matter is taken up. The decision taken on the matter shall be made public. The minutes shall reflect the disclosure made and the retirement of the member concerned from the meeting.
+
+ **Section 15.** *Exercise of Authority.* - In the exercise of its authority, the Monetary Board shall:
+
+ (a) issue rules and regulations it considers necessary for the effective discharge of the responsibilities and exercise of the powers vested upon the Monetary Board and the Bangko Sentral. The rules and regulations issued shall be reported to the President and the Congress within fifteen (15) days from the date of their issuance; (b) direct the management, operations, and administration of the Bangko Sentral, reorganize its personnel, and issue such rules and regulations as it may deem necessary or convenient for this purpose. The legal units of the Bangko Sentral shall be under the exclusive supervision and control of the Monetary Board; (c) establish a human resource management system which shall govern the selection, hiring, appointment, transfer, promotion, or dismissal of all personnel. Such system shall aim to establish professionalism and excellence at all levels of the Bangko Sentral in accordance with sound principles of management. A compensation structure, based on job evaluation studies and wage surveys and subject to the Board's approval, shall be instituted as an integral component of the Bangko Sentral's human resource development program: Provided, That the Monetary Board shall make its own system conform as closely as possible with the principles provided for under Republic Act No. 6758: Provided, however, That compensation and wage structure of employees whose positions fall under salary grade 19 and below shall be in accordance with the rates prescribed under Republic Act No. 6758.
+
+ On the recommendation of the Governor, appoint, fix the remunerations and other emoluments, and remove personnel of the Bangko Sentral, subject to pertinent civil service laws: Provided, That the Monetary Board shall have exclusive and final authority to promote, transfer, assign, or reassign personnel of the Bangko Sentral and these personnel actions are deemed made in the interest of the service and not disciplinary: Provided, further, That the Monetary Board may delegate such authority to the Governor under such guidelines as it may determine.
+
+ (d) adopt an annual budget for and authorize such expenditures by the Bangko Sentral as are in the interest of the effective administration and operations of the Bangko Sentral in accordance with applicable laws and regulations; and (e) indemnify its members and other officials of the Bangko Sentral, including personnel of the departments performing supervision and examination functions against all costs and expenses reasonably incurred by such persons in connection with any civil or criminal action, suit or proceedings to which he may be, or is, made a party by reason of the performance of his functions or duties, unless he is finally adjudged in such action or proceeding to be liable for negligence or misconduct. In the event of a settlement or compromise, indemnification shall be provided only in connection with such matters covered by the settlement as to which the Bangko Sentral is advised by external counsel that the person to be indemnified did not commit any negligence or misconduct.
+
+ The costs and expenses incurred in defending the aforementioned action, suit or proceeding may be paid by the Bangko Sentral in advance of the final disposition of such action, suit or proceeding upon receipt of an undertaking by or on behalf of the member, officer, or employee to repay the amount advanced should it ultimately be determined by the Monetary Board that he is not entitled to be indemnified as provided in this subsection.
+
+ **Section 16.** *Responsibility.* - Members of the Monetary Board, officials, examiners, and employees of the Bangko Sentral who willfully violate this Act or who are guilty of negligence, abuses or acts of malfeasance or misfeasance or fail to exercise extraordinary diligence in the performance of his duties shall be held liable for any loss or injury suffered by the Bangko Sentral or other banking institutions as a result of such violation, negligence, abuse, malfeasance, misfeasance or failure to exercise extraordinary diligence.
+
+ Similar responsibility shall apply to members, officers, and employees of the Bangko Sentral for: (1) the disclosure of any information of a confidential nature, or any information on the discussions or resolutions of the Monetary Board, or about the confidential operations of the Bangko Sentral, unless the disclosure is in connection with the performance of official functions with the Bangko Sentral, or is with prior authorization of the Monetary Board or the Governor; or (2) the use of such information for personal gain or to the detriment of the Government, the Bangko Sentral or third parties: Provided, however, That any data or information required to be submitted to the President and/or the Congress, or to be published under the provisions of this Act shall not be considered confidential.
+
+ **ARTICLE III THE GOVERNOR AND DEPUTY GOVERNORS OF THE BANGKO SENTRAL**
+
+ **Section 17.** *Powers and Duties of the Governor.* - The Governor shall be the chief executive officer of the Bangko Sentral. His powers and duties shall be to:
+
+ (a) prepare the agenda for the meetings of the Monetary Board and to submit for the consideration of the Board the policies and measures which he believes to be necessary to carry out the purposes and provisions of this Act; (b) execute and administer the policies and measures approved by the Monetary Board; (c) direct and supervise the operations and internal administration of the Bangko Sentral. The Governor may delegate certain of his administrative responsibilities to other officers or may assign specific tasks or responsibilities to any full-time member of the Monetary Board without additional remuneration or allowance whenever he may deem fit or subject to such rules and regulations as the Monetary Board may prescribe; (d) appoint and fix the remunerations and other emoluments of personnel below the rank of a department head in accordance with the position and compensation plans approved by the Monetary Board, as well as to impose disciplinary measures upon personnel of the Bangko Sentral, subject to the provisions of Section 15(c) of this Act: Provided, That removal of personnel shall be with the approval of the Monetary Board; (e) render opinions, decisions, or rulings, which shall be final and executory until reversed or modified by the Monetary Board, on matters regarding application or enforcement of laws pertaining to institutions supervised by the Bangko Sentral and laws pertaining to quasi-banks, as well as regulations, policies or instructions issued by the Monetary Board, and the implementation thereof; and (f) exercise such other powers as may be vested in him by the Monetary Board. **Section 18.** *Representation of the Monetary Board and the Bangko Sentral.* - The Governor of the Bangko Sentral shall be the principal representative of the Monetary Board and of the Bangko Sentral and, in such capacity and in accordance with the instructions of the Monetary Board, he shall be empowered to:

@@ -1,0 +1,360 @@
+
+ **Section 8.** Within one month after the effectivity of this Act. the Government Service Insurance System shall prescribed and promulgate such rules and regulations as may be necessary as to insure the enjoyment of the benefits herein envisioned by the persons concerned.
+
+ **Section 9.** Only to such extent as would affect the enforcement of this Act, all Acts, executive orders, rules and regulations, or a part thereof, inconsistent with this Act, are hereby amended or modified accordingly.
+
+ **Section 10.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Republic Act	This Act establishes life, disability, and accident insurance coverage for barrio officials and authorizes the appropriation of funds to pay the annual premiums for the Government Service Insurance System.	"[{""title"": ""Section 1"", ""summary"": ""All barrio captains, councilmen, treasurers, and secretaries are automatically covered by insurance while holding office.""}, {""title"": ""Section 2"", ""summary"": ""Life insurance coverage amounts: \u20b15,000 for captains; \u20b13,000 for councilmen, treasurers, and secretaries.""}, {""title"": ""Section 3"", ""summary"": ""Disability insurance proceeds: \u20b13,000 for captains; \u20b12,000 for councilmen, treasurers, and secretaries.""}, {""title"": ""Section 4"", ""summary"": ""Accident insurance for captains with specified amounts for various injuries and medical care.""}, {""title"": ""Section 5"", ""summary"": ""Accident insurance for councilmen, treasurers, and secretaries with specified amounts for various injuries and medical care.""}, {""title"": ""Section 6"", ""summary"": ""Annual premium payments: \u20b115 per captain and \u20b110 per councilman, treasurer, or secretary.""}, {""title"": ""Section 7"", ""summary"": ""Appropriation of \u20b12,850,000 to pay the annual premiums starting upon approval of the Act.""}]"	4898				To provide insurance coverage for barrio officials and authorize appropriation of funds for premium payments.	"[""Coverage for life, disability, and accident insurance of barrio officials"", ""Specified insurance amounts for life, disability, and accident benefits"", ""Annual premium payments to the Government Service Insurance System"", ""Appropriation of \u20b12,850,000 for premium payments""]"		"[""Insurance"", ""Public Officials"", ""Barangay"", ""Philippines"", ""Republic Act""]"	"[""barrio captain"", ""councilman"", ""treasurer"", ""secretary"", ""life insurance"", ""disability insurance"", ""accident insurance"", ""annual premium"", ""Government Service Insurance System"", ""appropriation""]"
+repacts:datasets/markdown/repacts/1967/ra_4899_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_4899_1967.md	ra_4899_1967	An Act Changing the Name of Juban Elementary School, in the Municipality of Juban, Province of Sorsogon, to Jose G. Alindogan Elementary School	"**REPUBLIC ACT No. 4899**
+
+ An Act Changing the Name of Juban Elementary School, in the Municipality of Juban, Province of Sorsogon, to Jose G. Alindogan Elementary School
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Juban Elementary School in the Municipality of Juban, Province of Sorsogon, is hereby changed to Jose G. Alindogan Elementary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Act	This act changes the name of Juban Elementary School to Jose G. Alindogan Elementary School and specifies its effective date upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The name of Juban Elementary School in the Municipality of Juban, Province of Sorsogon, is hereby changed to Jose G. Alindogan Elementary School.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	4899	June 17, 1967			Change the name of a public elementary school	"[""Changing the name of Juban Elementary School to Jose G. Alindogan Elementary School"", ""The act takes effect upon its approval""]"		"[""Education"", ""School"", ""Name change""]"	"[""Juban Elementary School"", ""Jose G. Alindogan Elementary School"", ""Sorsogon"", ""Philippines"", ""Republic Act 4899""]"
+repacts:datasets/markdown/repacts/1967/ra_4900_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_4900_1967.md	ra_4900_1967	An Act Increasing the Salaries of Officers and Employees of the Bureau of Internal Revenue, and for Other Purposes	"**REPUBLIC ACT No. 4900**
+
+ An Act Increasing the Salaries of Officers and Employees of the Bureau of Internal Revenue, and for Other Purposes
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Any provision of existing law, executive order, rule or regulations to the contrary notwithstanding, the annual salaries of internal revenue officers and employees occupying positions mentioned in this Section shall be fixed as follows:
+
+ | Title of Positions | Annual Salary Rate |
+| --- | --- |
+| Commissioner of Internal Revenue | ₱24,000 |
+| Deputy Commissioner of Internal Revenue | 20,580 |
+| Revenue Operations Head II | 16,860 |
+| Revenue Regional Director | 16,860 |
+| Assistant Revenue Operations Head | 15,264 |
+| Assistant Revenue Regional Director II | 15,264 |
+| Field Revenue Service Superintendent | 15,264 |
+| Revenue Regional Director I | 15,264 |
+| Assistant Revenue Regional Director I | 11,904 |
+| Personnel Officer III | 11,904 |
+| Fiscal Controller II | 11,904 |
+| Administrative Officer V | 11,904 |
+| Chief Tax Registrar | 11,904 |
+| Chief Accountant IV | 11,904 |
+| Budget Officer IV | 11,904 |
+| Supervising Management Analyst II | 11,904 |
+| Records Officer V | 11,904 |
+| Trial Attorney IV | 11,904 |
+| Chief National Supervisor | 11,904 |
+| Chief Statistician | 11,904 |
+| Chief Revenue Cashier | 11,904 |
+| Chief Tax Census Examiner | 11,904 |
+| Supply Officer IV | 11,904 |
+| Tobacco Regulations Superintendent | 11,904 |
+| Supervising Analytical Chemist | 11,904 |
+| Chief Legal Officer | 11,904 |
+| Chief Revenue Examiner | 11,904 |
+| Chief Revenue Inspector | 11,904 |
+| Chief Special Investigator | 11,904 |
+| Head Internal Auditor | 11,904 |
+| National Revenue Collection Supervisor | 11,904 |
+| Chief Information Officer II | 11,904 |
+| Senior Executive Assistant II | 11,328 |
+| Supervising Revenue Examiner III | 11,328 |
+| Fiscal Controller I | 10,776 |
+| Assistant Fiscal Controller II | 10,776 |
+| Administrative Officer IV | 10,776 |
+| Assistant Chief Statistician | 10,776 |
+| Supervising Tax Registrar | 10,776 |
+| Budget Planner | 10,776 |
+| Assistant Chief National Supervisor | 10,776 |
+| Assistant Chief Revenue Cashier | 10,776 |
+| Supervising Management Analyst I | 10,776 |
+| Supervising Statistician | 10,776 |
+| Senior Trial Attorney | 10,776 |
+| Assistant Chief Tax Census Examiner | 10,776 |
+| Supervising Audit Examiner II | 10,776 |
+| Supply Officer III | 10,776 |
+| Assistant Tax Adviser | 10,776 |
+| Supervising Revenue Inspector III | 10,776 |
+| Assistant Chief Legal Officer | 10,776 |
+| Assistant Chief Revenue Inspector | 10,776 |
+| Assistant Chief Special Investigator | 10,776 |
+| Supervising Revenue Investigator II | 10,776 |
+| Assistant Chief Accountant IV | 10,776 |
+| Assistant National Collection Supervisor | 10,776 |
+| Supervising Revenue Collector III | 10,776 |
+| Supervising Revenue Examiner II | 10,776 |
+| Personnel Officer II | 10,776 |
+| Assistant Chief Information Officer | 10,776 |
+| Hearing Officer IV | 10,776 |
+| Senior Tax Registrar | 10,260 |
+| Supervising EDP Programmer | 9,756 |
+| Supervising Revenue Investigator | 9,756 |
+| Supervising Revenue Collection Officer II | 9,756 |
+| Revenue Collection Supervisor II | 9,756 |
+| Supervising Audit Examiner I | 9,756 |
+| Supervising Revenue Inspector II | 9,756 |
+| Tax Registrar | 9,756 |
+| Chief Accountant III | 9,288 |
+| Administrative Officer III | 8,832 |
+| Internal Auditor IV | 8,832 |
+| Budget Officer III | 8,832 |
+| National Supervisor III | 8,832 |
+| Assistant Tax Registrar | 8,832 |
+| Chief Tabulating Equipment Operator II | 8,832 |
+| Chief Accountant II | 8,400 |
+| Supervising Revenue Examiner I | 8,400 |
+| Supervising Revenue Collection Officer I | 8,400 |
+| Senior Audit Examiner | 8,400 |
+| Collection Coordinator IV | 8,400 |
+| Revenue Collection Supervisor I | 8,400 |
+| Supervising Revenue Inspector I | 8,400 |
+| Supervising Revenue Inspector | 8,400 |
+| Senior Legal Officer | 8,400 |
+| Senior Revenue Investigator | 8,400 |
+| Trial Attorney III | 8,400 |
+| Administrative Officer II | 8,400 |
+| Cashier V | 8,400 |
+| Chief Drug Inspector | 8,400 |
+| Audio-Visual Administrator | 8,400 |
+| Senior EDP Programmer | 7,992 |
+| Senior Revenue Examiner | 7,992 |
+| Collection Analyst | 7,992 |
+| Collection Coordinator III | 7,992 |
+| Senior Revenue Collection Officer | 7,992 |
+| Audit Examiner II | 7,992 |
+| Supervising Special Investigator | 7,992 |
+| Hearing Officer III | 7,992 |
+| Budget Officer II | 7,992 |
+| National Supervisor II | 7,992 |
+| Senior Management Analyst | 7,992 |
+| Internal Auditor III | 7,992 |
+| Chief Tobacco Inspector | 7,992 |
+| Legal Officer IV | 7,992 |
+| Senior Research Attorney | 7,992 |
+| Senior Executive Assistant I | 7,992 |
+| Chief Accountant I | 7,992 |
+| Revenue Investigator II | 7,992 |
+| Supervising Information Officer II | 7,992 |
+| Regional Revenue Collection Supervisor | 7,236 |
+| Audit Examiner I | 7,236 |
+| Collection Coordinator II | 7,236 |
+| Supervising Revenue Collector II | 7,236 |
+| Revenue Collection Officer III | 7,236 |
+| Public Relations Officer II | 7,236 |
+| Senior Statistician | 7,236 |
+| Cashier IV | 7,236 |
+| Supervising Appointment Examiner | 7,236 |
+| Chief Tabulating Equipment Operator I | 7,236 |
+| Revenue Investigator I | 7,236 |
+| Assistant Chief Drug Inspector | 7,236 |
+| Senior Training Officer | 6,552 |
+| Revenue Examiner II | 6,552 |
+| Revenue Collection Officer II | 6,552 |
+| EDP Programmer | 6,552 |
+| Supervising Revenue Collector I | 6,552 |
+| Senior Special Investigator | 6,552 |
+| Legal Officer III | 6,552 |
+| Research Attorney II | 6,552 |
+| Trial Attorney II | 6,552 |
+| Administrative Officer I | 6,552 |
+| Internal Auditor II | 6,552 |
+| Supervising Tobacco Inspector | 6,552 |
+| Assistant Chief Tabulating Equipment Operator | 6,552 |
+| Accountant III | 6,552 |
+| Budget Examiner III | 6,552 |
+| Budget Officer I | 6,552 |
+| Records Officer IV | 6,552 |
+| Supervising Tax Census Examiner | 6,552 |
+| Management Analyst II | 6,552 |
+| Supervising Information Officer I | 6,552 |
+| Revenue Enforcement Officer II | 5,928 |
+| Collection Coordinator I | 5,928 |
+| Hearing Officer II | 5,928 |
+| Senior Revenue Collector | 5,928 |
+| Executive Assistant | 5,928 |
+| Cashier III | 5,928 |
+| Internal Auditor I | 5,928 |
+| Statistician III | 5,928 |
+| Accountant II | 5,928 |
+| Personnel Officer I | 5,928 |
+| Supply Officer II | 5,928 |
+| Head Key Punch Operator | 5,928 |
+| Junior EDP Programmer | 5,928 |
+| Supervising Tabulating Equipment Operator | 5,928 |
+| Revenue Examiner I cd i | 5,376 |
+| Revenue Appraiser Agent | 5,376 |
+| Senior Revenue Inspector | 5,376 |
+| Senior Revenue Seizure Agent | 5,376 |
+| Special Investigator | 5,376 |
+| Revenue Collector III | 5,376 |
+| Revenue Enforcement Officer I | 5,376 |
+| Senior Tobacco Inspector | 5,376 |
+| Administrative Assistant II | 5,376 |
+| Hearing Officer I | 5,376 |
+| Legal Officer II | 5,376 |
+| Trial Attorney I | 5,376 |
+| Information Editor II | 5,376 |
+| Budget Examiner II | 5,376 |
+| Management Analyst I | 5,376 |
+| Records Officer III | 5,376 |
+| Training Officer | 5,376 |
+| Auditing Examiner II | 5,376 |
+| Statistician II | 5,376 |
+| Accountant I | 5,376 |
+| Cashier II | 5,376 |
+| Senior Tabulating Equipment Operator | 5,376 |
+| Senior Tax Census Examiner | 5,376 |
+| Supervising Drug Inspector | 5,376 |
+| Operator EDPM | 5,376 |
+| Revenue Seizure Agent II | 5,112 |
+| Chief, Liquidation, Abstracting & Reporting Unit | 5,112 |
+| Chief Processing Unit | 5,112 |
+| Tobacco Inspector II | 5,112 |
+| Administrative Assistant I | 5,112 |
+| General Construction Foreman | 5,112 |
+| Tabulating Equipment Operator II | 4,860 |
+| Legal Officer I | 4,860 |
+| Research Attorney I | 4,860 |
+| Bookkeeper II | 4,860 |
+| Records Officer II | 4,860 |
+| Senior Librarian | 4,860 |
+| Supervising Accounting Clerk | 4,860 |
+| Supervising Accounting Machines Operator | 4,860 |
+| Supervising Clerk II | 4,860 |
+| Supervising Key Punch Operator | 4,860 |
+| Revenue Inspector II | 4,404 |
+| Revenue Seizure Agent I | 4,404 |
+| Assistant Collection Agent | 4,404 |
+| Tax Census Examiner II | 4,404 |
+| Drug Inspector | 4,404 |
+| Statistician I | 4,404 |
+| Cashier I | 4,404 |
+| Revenue Examination Aide II | 4,404 |
+| Revenue Collector II | 4,404 |
+| Auditing Examiner I | 4,188 |
+| Accountable Forms Custodian | 4,188 |
+| Analytical Chemist | 4,188 |
+| Bookkeeper I | 4,188 |
+| Supply Checker II | 4,188 |
+| Supply Officer I | 4,188 |
+| Stenographic Reporter | 4,188 |
+| Legal Aide II | 4,188 |
+| Budget Examiner I | 4,188 |
+| Junior Management Analyst | 4,188 |
+| Records Officer I | 4,188 |
+| Supervising Clerk I | 4,188 |
+| Information Editor I | 4,188 |
+| Tabulating Equipment Operator I | 4,188 |
+| Information Editor Translator | 4,188 |
+| Revenue Collector I | 3,984 |
+| Revenue Inspector I | 3,984 |
+| Tax Census Examiner I | 3,984 |
+| Tobacco Inspector I | 3,984 |
+| Senior Offset Press Operator | 3,984 |
+| Junior Statistician | 3,984 |
+| Accounting Clerk III | 3,984 |
+| Reference Librarian | 3,984 |
+| Revenue Examination Aide I | 3,984 |
+| Auditing Aide I | 3,792 |
+| Supply Checker I | 3,792 |
+| Senior Stenographer | 3,792 |
+| Key Punch Operator | 3,792 |
+| Senior Coder Verifier | 3,792 |
+| Legal Aide I | 3,612 |
+| Carpenter Foreman | 3,612 |
+| Statistical Aide II | 3,612 |
+| Senior Clerk | 3,612 |
+| Storekeeper II | 3,612 |
+| Illustrator II | 3,612 |
+| Offset Press Operator II | 3,612 |
+| Accounting Clerk II | 3,612 |
+| Senior Cash Clerk | 3,612 |
+| Senior Welder | 3,612 |
+| Stenographer | 3,612 |
+| Draftsman | 3,612 |
+| Information Writer | 3,612 |
+| Senior Automotive Mechanic | 3,432 |
+| Budget Aide | 3,432 |
+| Clerk II | 3,432 |
+| Personnel Aide | 3,432 |
+| Senior Painter | 3,432 |
+| Coder Verifier | 3,432 |
+| Offset Press Operator I | 3,432 |
+| Statistical Aide I | 3,432 |
+| Accounting Clerk I | 3,432 |
+| Cash Clerk | 3,432 |
+| Welder II | 3,432 |
+| Field Electrician | 3,432 |
+| Photographer I | 3,432 |
+| Automotive Mechanic II | 3,264 |
+| Illustrator I | 3,264 |
+| Clerk I | 3,264 |
+| Painter | 3,264 |
+| Plumber | 3,264 |
+| Storekeeper I | 3,264 |
+| Telephone Operator | 3,108 |
+| Security Guard | 3,108 |
+| Automotive Mechanic I | 3,108 |
+| Driver | 3,108 |
+| Photostat Machine Operator | 3,108 |
+| Carpenter | 3,108 |
+| Senior Janitor | 3,108 |
+| Cashier Aide aisa dc | 2,952 |
+| Clerical Aide | 2,952 |
+| Messenger | 2,952 |
+| Carpenter Helper | 2,952 |
+| Janitor | 2,952 |
+| Laborer | 2,952 |
+| Groundsman-Gardener | 2,952 |
+
+ **Section 2.** Upon approval of this Act, the respective officer or employee actually occupying any of the positions herein above mentioned shall be entitled to the salary provided for said position without need of new appointment: *Provided,* That in the implementation of this Act and/or in the event that a controversy will arise as to which positions in the Bureau of Internal Revenue were meant to be included in Section 1 hereof, the itemization of Personal Services of the Bureau of Internal Revenue in the latest line budget of the President and/or the classification of the positions as attested in the approved appointments of the official or employee shall be used as the basis in identifying the individual positions in the Bureau of Internal Revenue: *Provided, further,* That in the case of lump sum items, the itemization of the same as contained in their respective latest approved special budget at the time of the approval of this Act and/or the classification of the positions as attested in the approved appointments of the official or employee shall be used to identify the positions contained in the said lump sum items.
+
+ **Section 3.** The payment of salary differentials resulting from the adjustment in salaries as provided for in this Act shall be implemented proportionally out of savings realized by the Bureau of Internal Revenue from its annual appropriations of the fiscal year 1967-1968 and subsequent fiscal years.
+
+ **Section 4.** Any provisions of existing law, executive order, rule, or regulation to the contrary notwithstanding, the rates of salaries provided for in this Act shall be given effect.
+
+ **Section 5.** This Act shall take effect on July 1, 1967.
+
+ Approved: June 17, 1967.
+"	success	Republic Act	The Act increases the annual salaries of internal revenue officers and employees of the Bureau of Internal Revenue, specifying new salary rates for various positions.	"[{""title"": ""Section 1."", ""summary"": ""The annual salaries of internal revenue officers and employees occupying positions mentioned in the Act are fixed as listed in the salary table.""}]"	4900				Increase the salaries of BIR officers and employees and for other purposes	"[""Increase the annual salaries of BIR officers and employees to specified rates for each position.""]"		"[""Salary increase"", ""Bureau of Internal Revenue"", ""Philippines"", ""Republic Act""]"	"[""salary"", ""Bureau of Internal Revenue"", ""Republic Act"", ""Philippines"", ""internal revenue officers"", ""employees"", ""pay raise""]"
+repacts:datasets/markdown/repacts/1967/ra_4901_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_4901_1967.md	ra_4901_1967	An Act Creating the Municipality of Quirino in the Province of Isabela	"**REPUBLIC ACT No. 4901**
+
+ An Act Creating the Municipality of Quirino in the Province of Isabela
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There is hereby created in the Province of Isabela, a municipality to be known as Quirino, to consist of the following barrio and sitios of the municipalities of Ilagan, Roxas and Gamu, same province:
+
+ From the municipality of Ilagan, the barrios of Sta. Lucia, San Mateo, Sto. Domingo, Santiago, Manaoag, Vintar, Dolores, and San Jose;
+
+ From the municipality of Roxas, the barrio and sitio of Camaal; and
+
+ From the municipality of Gamu, the barrios and sitios of Luna, Suerte, San Juan, Binarsang, Sta. Catalina, Cabaruan and Sinait.
+
+ **Section 2.** The seat of government of the new municipality shall be a site located between barrios Santa Lucia in the Municipality of Ilagan, and Luna in the Municipality of Gamu, Province of Isabela.
+
+ **Section 3.** The Municipality of Quirino as herein organized shall have the following boundaries:
+
+ > ""From the junction of the Mallig River and Cagayan River, running southwest along the center of Siffu River, towards Roxas until it reaches a point about 5.50 kilometers from the national highway (Calao-Enrile Road); running due north until it reaches the Mallig River; running eastward along the center of Mallig River until it reaches the existing boundary line of Ilagan, Mallig, and Magsaysay; following the existing boundary line of Mallig and Ilagan, and the boundary line of Magsaysay and Tumauini up to the point of beginning.""
+
+ **Section 4.** The municipalities of Ilagan, Roxas and Gamu shall have their territories minus the portions thereof which are included in the territory of the Municipality of Quirino as delineated above.
+
+ **Section 5.** The Municipality of Quirino shall begin to exist upon the election and qualification of the mayor, vice-mayor and a majority of the councilors thereof. The mayor, vice-mayor, and councilors of the said municipality shall be elected in the next local elections to be held after the approval of this act and thereafter.
+
+ **Section 6.** This Act shall effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Republic Act	The act establishes the municipality of Quirino, delineating its barrios, seat of government, boundaries, and effective provisions for its creation in the Province of Isabela, Philippines.	"[{""title"": ""Section 1"", ""summary"": ""Creation of the Municipality of Quirino, listing its constituent barrios and sitios from Ilagan, Roxas, and Gamu.""}, {""title"": ""Section 2"", ""summary"": ""Designation of the seat of government between Santa Lucia (Ilanag) and Luna (Gamu).""}, {""title"": ""Section 3"", ""summary"": ""Definition of the municipality's boundaries via rivers and existing territorial lines.""}, {""title"": ""Section 4"", ""summary"": ""Adjustment of territories of Ilagan, Roxas, and Gamu to exclude the area now part of Quirino.""}, {""title"": ""Section 5"", ""summary"": ""Commencement of the municipality upon election of officials and subsequent local elections.""}, {""title"": ""Section 6"", ""summary"": ""Effectivity upon approval of the act.""}]"	4901	June 17, 1967			To create a new municipality in the Province of Isabela.	"[""Creation of the Municipality of Quirino"", ""Specification of its seat of government"", ""Definition of its boundaries"", ""Adjustment of neighboring municipalities' territories"", ""Commencement upon election of officials""]"		"[""Municipality"", ""Isabela"", ""Local Government"", ""Republic Act""]"	"[""Quirino"", ""Isabela"", ""municipality"", ""boundaries"", ""seat of government""]"
+repacts:datasets/markdown/repacts/1967/ra_4902_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_4902_1967.md	ra_4902_1967	AN ACT FURTHER AMENDING THE ARMED FORCES RETIREMENT ACT, AS AMENDED	"**REPUBLIC ACT No. 4902**
+
+ AN ACT FURTHER AMENDING THE ARMED FORCES RETIREMENT ACT, AS AMENDED
+
+ **Section 1.** Section one of Republic Act Numbered Eighteen hundred and sixty-two, as amended, is hereby further amended to read as follows:
+
+ ""Sec. 1. The provisions of existing laws to the contrary notwithstanding, and subject to the special provisions and limitations hereinafter provided, the provisions of Republic Act Numbered Three hundred forty, including all amendments thereto on the date this Act takes effect, shall be and are hereby made applicable to persons (1) retired under the provisions of Commonwealth Act Numbered One hundred ninety, or (2) honorably separated with gratuity under subsection (g), Section twenty-two of Commonwealth Act Numbered One, otherwise known as the National Defense Act, or (3) retired under Republic Act Numbered Three hundred forty and/or Republic Act Numbered Sixteen hundred sixteen with effective date of retirement after June twenty-two, nineteen hundred and fifty-seven, of (4) retired under Act Numbered Forty-one hundred fifty-one and which persons
+
+ ""(a) were in the active service of the Philippine Army or any guerrilla organization duly recognized as a component thereof, at any time between December eight, nineteen hundred forty-one and September two, nineteen hundred and forty-five; and ""(b) had completed at least twenty years' active service on the date of their original retirement or separation: *Provided,* That persons separated with gratuity on account of physical disability under subsection (g), Section twenty-two of Commonwealth Act Numbered One who had less than twenty years active service on the date of their original, separation, shall be entitled to the benefits of the proviso contained in Section eight of Republic Act Numbered Three hundred forty."" **Section 2.** Section two of the same Act, as amended, is further amended to read as follows:

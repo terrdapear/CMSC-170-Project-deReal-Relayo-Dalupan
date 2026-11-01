@@ -1,0 +1,165 @@
+repacts:datasets/markdown/repacts/1963/ra_3703_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3703_1963.md	ra_3703_1963	An Act Approving Any Mortgage, Lease, Assignment or Transfer of the Franchise Granted to Francisco Villongco by Republic Act Numbered Thirty-Two Hundred Five to Any Government Bank or Corporation	"**REPUBLIC ACT No. 3703**
+
+ **An Act Approving Any Mortgage, Lease, Assignment or Transfer of the Franchise Granted to Francisco Villongco by Republic Act Numbered Thirty-Two Hundred Five to Any Government Bank or Corporation**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Subject to the provisions of Republic Act Numbered Thirty-two hundred five, entitled ""An Act granting Francisco Villongco a franchise to construct, operate and maintain an ice plant and cold storage in the Municipality of Navotas, Province of Rizal, and to sell ice and to supply cold storage therein,"" approval is hereby given to any mortgage, lease, assignment or transfer of the franchise granted to Francisco Villongco, under the said Act, together with all the properties and equipment acquired thereunder, in favor of any government bank or corporation.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 22, 1963.
+"	success	Act	Approves the mortgage, lease, assignment or transfer of the franchise granted to Francisco Villongco under Republic Act No. 325 to any government bank or corporation, together with all related properties and equipment.	"[{""title"": ""Section 1"", ""summary"": ""Approval is granted for any mortgage, lease, assignment or transfer of the franchise granted to Francisco Villongco under RA No. 325, including all properties and equipment acquired under that act, in favor of any government bank or corporation.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	3703	June 22, 1963			To allow the mortgage, lease, assignment or transfer of the franchise granted to Francisco Villongco by Republic Act No. 325 to a government bank or corporation.	"[""Approval of any mortgage, lease, assignment or transfer of the franchise granted to Francisco Villongco by RA 325 to a government bank or corporation"", ""Act takes effect upon approval""]"	Republic Act No. 325	"[""franchise"", ""ice plant"", ""cold storage"", ""government bank"", ""legislation""]"	"[""mortgage"", ""lease"", ""assignment"", ""transfer"", ""franchise"", ""ice plant"", ""cold storage""]"
+repacts:datasets/markdown/repacts/1963/ra_3704_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3704_1963.md	ra_3704_1963	AN ACT AMENDING SECTIONS ONE HUNDRED EIGHTY-TWO AND ONE HUNDRED EIGHTY-NINE OF THE NATIONAL INTERNAL REVENUE CODE, BY PROVIDING AN ANNUAL GRADUATED FIXED TAX ON RICE AND CORN MILLS AND EXEMPTING THEM FROM THE PERCENTAGE TAX OF TWO PER CENTUM.	"**[ REPUBLIC ACT NO. 3704, June 22, 1963 ]**
+
+ **AN ACT AMENDING SECTIONS ONE HUNDRED EIGHTY-TWO AND ONE HUNDRED EIGHTY-NINE OF THE NATIONAL INTERNAL REVENUE CODE, BY PROVIDING AN ANNUAL GRADUATED FIXED TAX ON RICE AND CORN MILLS AND EXEMPTING THEM FROM THE PERCENTAGE TAX OF TWO PER CENTUM.**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** Section one hundred eighty-two of the National Internal Revenue Code, as amended, is further amended by adding to paragraph (3) thereof a new sub-paragraph, hereinafter to be; known as subparagraph (x), to read as follows:
+
+ > ""(x) Operators or owners of rice or corn mills shall be subject to an annual graduated fixed tax based upon total capacity per machine in accordance with the following schedul
+
+ | ""Corn mill, not exceeding one hundred cavanes per twelve hour capacity | P30.00 |
+| --- | --- |
+| ""Corn mill, exceeding one hundred cavanes per twelve hour capacity | 45.00 |
+| ""Kiskisan"" type, not exceeding one hundred cavanes of palay per twelve hour capacity | 50.00 |
+| ""Kiskisan"" type, exceeding one hundred cavanes of palay per twelve hour capacity | 75.00 |
+| ""Cono,"" of not exceeding one hundred cavanes of palay per twelve hour capacity | 200.00 |
+| ""Cono,""of not exceeding two hundred cavanes of palay per twelve hour capacity | 400.00 |
+| ""Cono,""of not exceeding three hundred cavanes of palay per twelve hour capacity | 600.00 |
+| ""Cono,""of not exceeding four hundred cavanes of palay per twelve hour capacity | 900.00 |
+| ""Cono,""of not exceeding five hundred cavanes of palay per twelve hour capacity | 1,300.00 |
+| ""Cono,"" of not exceeding six hundred cavanes of palay per twelve hour capacity | 1,800.00 |
+| ""Cono,""of not exceeding seven hundred cavanes of palay per twelve hour capacity | 2,500.00 |
+| ""Cono,""of not exceeding eight hundred cavanes of palay per twelve hour capacity | 3,200.00 |
+| ""Cono,""of not exceeding nine hundred cavanes of palay per twelve hour capacity | 4,000.00 |
+| ""Cono,""of over one thousand cavanes of palay per twelve hour capacity "" | 4,800.00 |
+
+ **Section 2.** The first paragraph of Section one hundred and eighty-nine of the National Internal Revenue Code, as amended, is further amended to read as follows:
+
+ > ""Section 189. Percentage tax upon proprietors or operators of rope factories, sugar centrals, coconut oil mills, cassava mills and desiccated coconut factories.&mdashProprietors or operators of rope factories, sugar centrals, coconut oil mills, cassava mills and desiccated coconut factories shall pay a tax equivalent to twoper centumof the gross value in money of all rope, sugar, coconut oil, cassava flour or starch, and desiccated coconut manufactured or milled by them, including the by-products of the raw materials from which said articles are produced or manufactured, such tax to be based on the actual selling price or market value of these articles at the time they leave the factory or mill warehouse:*Provided, however,*That this tax shall not apply to ropes, coconut oil, and the by-products of copra from which it is produced or manufactured, and desiccated coconuts if such oil, copra, by-product and desiccated coconuts shall be removed for exportation and are actually exported without returning to the Philippines, whether so exported in their original state, as an ingredient or part of any manufactured article or product.""
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved, June 22, 1963.
+"	success	Republic Act	Amends Sections 182 and 189 of the National Internal Revenue Code to impose a graduated fixed tax on rice and corn mills and exempt them from the 2% percentage tax.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 182 of the NIRC by adding sub-paragraph (x) which sets a graduated fixed tax schedule for rice and corn mills based on capacity per machine.""}, {""title"": ""Section 2"", ""summary"": ""Amends Section 189 of the NIRC to exempt rope factories, sugar centrals, coconut oil mills, cassava mills, and desiccated coconut factories from the 2% percentage tax for certain exported products.""}, {""title"": ""Section 3"", ""summary"": ""The Act takes effect upon its approval.""}]"	3704	June 22, 1963			To provide an annual graduated fixed tax on rice and corn mills and exempt them from the 2% percentage tax.	"[""Amendment to Section 182 adding sub-paragraph (x) with graduated fixed tax table for rice and corn mills."", ""Amendment to Section 189 exempting certain industries from 2% percentage tax."", ""Act effective upon approval.""]"	Sections 182 and 189 of the National Internal Revenue Code.	"[""Tax law"", ""Rice"", ""Corn"", ""National Internal Revenue Code"", ""Philippines""]"	"[""Rice"", ""Corn"", ""Fixed tax"", ""Percentage tax"", ""National Internal Revenue Code"", ""Philippines"", ""Republic Act 3704""]"
+repacts:datasets/markdown/repacts/1963/ra_3705_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3705_1963.md	ra_3705_1963	An Act to Convert the Ilocos Norte Normal School into the Northern Luzon Teachers College	"**REPUBLIC ACT No. 3705**
+
+ **An Act to Convert the Ilocos Norte Normal School into the Northern Luzon Teachers College**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The present Ilocos Norte Normal School located in the Municipality of Laoag, Province of Ilocos Norte, is hereby converted into the Northern Luzon Teachers College which shall offer a four-year course leading to the degree of Bachelor of Science in Elementary Education, and a five-year course leading to the degree of Master of Arts.
+
+ **Section 2.** The purpose of the said college shall be to provide professional and technical instruction in the field of elementary education and to promote research, advance studies, and progressive leadership in elementary teacher education.
+
+ **Section 3.** The head of the institution shall be known as the Dean of the Northern Luzon Teachers College. He shall be appointed by the Secretary of Education, upon the recommendation of the Director of Public Schools. The powers and duties of the Dean of the Northern Luzon Teachers College shall be the same as those which heretofore have been exercised by the heads of similar institutions. Such powers and duties shall be embodied in circulars issued from time to time by the Director of Public Schools.
+
+ **Section 4.** The present members of the faculty of the said institution shall continue in the faculty of the said college.
+
+ **Section 5.** The sum of fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, as additional appropriation for the operation of said college to carry out the purposes of this Act during the fiscal year nineteen hundred sixty-four. Such sums as may be necessary for the same purpose in subsequent years shall be included in the annual General Appropriation Acts.
+
+ **Section 6.** This Act shall take effect upon its approval.
+
+ Approved: June 22, 1963.
+"	success	Republic Act	This law converts the Ilocos Norte Normal School into the Northern Luzon Teachers College, establishing it to offer a four‑year Bachelor of Science in Elementary Education and a five‑year Master of Arts program, appointing a dean, retaining faculty, and allocating funds for operation.	"[{""title"": ""Section 1"", ""summary"": ""Converts the Ilocos Norte Normal School into the Northern Luzon Teachers College, offering four\u2011year Bachelor of Science in Elementary Education and five\u2011year Master of Arts courses.""}, {""title"": ""Section 2"", ""summary"": ""Defines the college\u2019s purpose to provide professional and technical instruction in elementary education and promote research, advanced studies, and leadership.""}, {""title"": ""Section 3"", ""summary"": ""Designates the head of the college as Dean, appointed by the Secretary of Education upon recommendation of the Director of Public Schools, with powers and duties similar to those of comparable institutions.""}, {""title"": ""Section 4"", ""summary"": ""Says current faculty members will continue as faculty of the new college.""}, {""title"": ""Section 5"", ""summary"": ""Authorizes a one\u2011time appropriation of fifty thousand pesos for the college\u2019s operation during FY 1964, with future necessary funds to be included in annual appropriation acts.""}, {""title"": ""Section 6"", ""summary"": ""States the act takes effect upon approval.""}]"	3705	June 22, 1963			To convert the Ilocos Norte Normal School into a teachers college providing higher education and professional instruction in elementary education.	"[""Conversion of school to college"", ""Establishment of BS in Elementary Education and MA programs"", ""Appointment of Dean"", ""Retention of existing faculty"", ""Initial appropriation of 50,000 pesos""]"		"[""Education"", ""Higher Education"", ""Philippines"", ""Republic Act""]"	"[""Ilocos Norte"", ""Northern Luzon Teachers College"", ""Bachelor of Science in Elementary Education"", ""Master of Arts"", ""Dean"", ""Appropriation""]"
+repacts:datasets/markdown/repacts/1963/ra_3706_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3706_1963.md	ra_3706_1963	An Act Changing the Name of the Gabaldon Elementary School in the Municipality of Vintar, Province of Ilocos Norte, to Florentino Camaquin Elementary School	"**REPUBLIC ACT No. 3706**
+
+ **An Act Changing the Name of the Gabaldon Elementary School in the Municipality of Vintar, Province of Ilocos Norte, to Florentino Camaquin Elementary School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Gabaldon Elementary School in the Municipality of Vintar, Province of Ilocos Norte, is hereby changed to Florentino Camaquin Elementary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 22, 1963.
+"	success	Republic Act	An act to change the name of the Gabaldon Elementary School to Florentino Camaquin Elementary School in Vintar, Ilocos Norte.	"[{""title"": ""Section 1"", ""summary"": ""The name of the Gabaldon Elementary School in Vintar, Ilocos Norte, is changed to Florentino Camaquin Elementary School.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	3706	June 22, 1963			To change the name of a public elementary school to honor Florentino Camaquin.	"[""The name of Gabaldon Elementary School is changed to Florentino Camaquin Elementary School.""]"		"[""Education"", ""School Name Change""]"	"[""Gabaldon Elementary School"", ""Florentino Camaquin Elementary School"", ""Ilocos Norte"", ""Vintar"", ""School Name Change""]"
+repacts:datasets/markdown/repacts/1963/ra_3707_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3707_1963.md	ra_3707_1963	An Act Changing the Name of the Sulu Trade School in the Municipality of Jolo, Province of Sulu, to Hadji Butu School of Arts and Trades	"**REPUBLIC ACT No. 3707**
+
+ **An Act Changing the Name of the Sulu Trade School in the Municipality of Jolo, Province of Sulu, to Hadji Butu School of Arts and Trades**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Sulu Trade School in the Municipality of Jolo, Province of Sulu, is hereby changed to Hadji Butu School of Arts and Trades.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 22, 1963.
+"	success	Republic Act	This act changes the name of the Sulu Trade School in Jolo, Sulu to Hadji Butu School of Arts and Trades and takes effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""The name of the Sulu Trade School in the Municipality of Jolo, Province of Sulu, is hereby changed to Hadji Butu School of Arts and Trades.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	3707	June 22, 1963				"[""Change of name of Sulu Trade School to Hadji Butu School of Arts and Trades."", ""Act takes effect upon approval.""]"		"[""name change"", ""education"", ""Sulu"", ""trade school""]"	"[""Sulu Trade School"", ""Hadji Butu School of Arts and Trades"", ""name change"", ""June 22, 1963"", ""Republic Act 3707""]"
+repacts:datasets/markdown/repacts/1963/ra_3708_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3708_1963.md	ra_3708_1963	An Act Changing the Name of Sitangkai Central School in the Municipality of Parang, Province of Sulu, to Datu Halun Elementary School	"**REPUBLIC ACT No. 3708**
+
+ **An Act Changing the Name of Sitangkai Central School in the Municipality of Parang, Province of Sulu, to Datu Halun Elementary School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Sitangkai Central School in the Municipality of Parang, Province of Sulu, is hereby changed to Datu Halun Elementary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 22, 1963.
+"	success	Republic Act	An act that changes the name of Sitangkai Central School to Datu Halun Elementary School, effective upon approval.	"[{""title"": ""Section 1."", ""summary"": ""The name of Sitangkai Central School in the Municipality of Parang, Province of Sulu, is hereby changed to Datu Halun Elementary School.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	3708	June 22, 1963			To change the name of Sitangkai Central School to Datu Halun Elementary School.	"[""Name of Sitangkai Central School is changed to Datu Halun Elementary School."", ""Act takes effect upon approval.""]"		"[""Education"", ""School"", ""Name Change"", ""Sulu""]"	"[""Sitangkai"", ""Parang"", ""Sulu"", ""Datu Halun Elementary School"", ""Republic Act 3708""]"
+repacts:datasets/markdown/repacts/1963/ra_3709_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3709_1963.md	ra_3709_1963	An Act Changing the Name of Indanan Elementary School in the Municipality of Indanan, Province of Sulu, to Panglima Indanan Central Elementary School	"**REPUBLIC ACT No. 3709**
+
+ **An Act Changing the Name of Indanan Elementary School in the Municipality of Indanan, Province of Sulu, to Panglima Indanan Central Elementary School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Indanan Elementary School in the Municipality of Indanan, Province of Sulu, is hereby changed to Panglima Indanan Central Elementary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 22, 1963.
+"	success	Education	This Act changes the name of Indanan Elementary School to Panglima Indanan Central Elementary School in Indanan, Sulu.	"[{""title"": ""Section 1."", ""summary"": ""The name of the Indanan Elementary School in the Municipality of Indanan, Province of Sulu, is hereby changed to Panglima Indanan Central Elementary School.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	3709	June 22, 1963			To change the name of a public elementary school in Sulu.	"[""Change the name of Indanan Elementary School to Panglima Indanan Central Elementary School.""]"		"[""Education"", ""School"", ""Name Change""]"	"[""Indanan"", ""Panglima Indanan"", ""Sulu"", ""Philippines"", ""Elementary School""]"
+repacts:datasets/markdown/repacts/1963/ra_3710_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3710_1963.md	ra_3710_1963	An Act Changing the Name of the Parang Central Elementary School in the Municipality of Parang, Province of Sulu, to Akuk Sangkula Central Elementary School	"**REPUBLIC ACT No. 3710**
+
+ **An Act Changing the Name of the Parang Central Elementary School in the Municipality of Parang, Province of Sulu, to Akuk Sangkula Central Elementary School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Parang Central Elementary School in the Municipality of Parang, Province of Sulu, is hereby changed to Akuk Sangkula Central Elementary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 22, 1963.
+"	success	Republic Act	This act changes the name of the Parang Central Elementary School to Akuk Sangkula Central Elementary School and establishes its effective date.	"[{""title"": ""Section 1"", ""summary"": ""The name of the Parang Central Elementary School in the Municipality of Parang, Province of Sulu, is hereby changed to Akuk Sangkula Central Elementary School.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	3710	June 22, 1963			To change the name of a public elementary school in the province of Sulu.	"[""The name of the Parang Central Elementary School is changed to Akuk Sangkula Central Elementary School."", ""The act shall take effect upon its approval.""]"		"[""Education"", ""School Name Change""]"	"[""Parang"", ""Sulu"", ""Elementary School"", ""Name Change""]"
+repacts:datasets/markdown/repacts/1963/ra_3711_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3711_1963.md	ra_3711_1963	An Act Changing the Name of the Busbus Elementary School in the Municipality of Jolo, Province of Sulu, to Dandan Ututalum Elementary School	"**REPUBLIC ACT No. 3711**
+
+ **An Act Changing the Name of the Busbus Elementary School in the Municipality of Jolo, Province of Sulu, to Dandan Ututalum Elementary School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Busbus Elementary School in the Municipality of Jolo, Province of Sulu, is hereby changed to Dandan Ututalum Elementary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 22, 1963.
+"	success	Republic Act	This act changes the name of Busbus Elementary School in Jolo, Sulu to Dandan Ututalum Elementary School and takes effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Name of the school changed to Dandan Ututalum Elementary School.""}, {""title"": ""Section 2"", ""summary"": ""Act takes effect upon approval.""}]"	3711	June 22, 1963			To change the name of the Busbus Elementary School to Dandan Ututalum Elementary School.	"[""Name of the school changed to Dandan Ututalum Elementary School."", ""Act takes effect upon approval.""]"		"[""Education"", ""School Name Change"", ""Philippines""]"	"[""Busbus Elementary School"", ""Dandan Ututalum Elementary School"", ""Jolo"", ""Sulu"", ""Republic Act 3711""]"
+repacts:datasets/markdown/repacts/1963/ra_3712_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3712_1963.md	ra_3712_1963	An Act Changing the Name of the Sulu High School in the Municipality of Jolo, Province of Sulu, to Dayang Hadji Piandao Memorial High School	"**REPUBLIC ACT No. 3712**
+
+ **An Act Changing the Name of the Sulu High School in the Municipality of Jolo, Province of Sulu, to Dayang Hadji Piandao Memorial High School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Sulu High School in the Municipality of Jolo, Province of Sulu, is hereby changed to Dayang Hadji Piandao Memorial High School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 22, 1963.
+"	success	Republic Act	This act changes the name of the Sulu High School to Dayang Hadji Piandao Memorial High School and establishes its effective date upon approval.	"[{""title"": ""Section 1."", ""summary"": ""The name of the Sulu High School in the Municipality of Jolo, Province of Sulu, is hereby changed to Dayang Hadji Piandao Memorial High School.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	3712	June 22, 1963				"[""Changes the name of the Sulu High School to Dayang Hadji Piandao Memorial High School"", ""The act takes effect upon its approval""]"		"[""Education"", ""School naming"", ""Sulu""]"	"[""Sulu"", ""Dayang Hadji Piandao"", ""High School"", ""Name change""]"
+repacts:datasets/markdown/repacts/1963/ra_3713_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3713_1963.md	ra_3713_1963	An Act Granting Juanito B. Viado a Franchise to Construct, Maintain and Operate Television and Radio Broadcasting Stations Within the Philippines	"**REPUBLIC ACT No. 3713**
+
+ **An Act Granting Juanito B. Viado a Franchise to Construct, Maintain and Operate Television and Radio Broadcasting Stations Within the Philippines**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Subject to the provisions of the Constitution, Juanito B. Viado is hereby granted a franchise to construct, maintain and operate, for commercial purposes and in the public interest, television and radio broadcasting stations within the Philippines: *Provided,* That this franchise shall be void unless the construction of at least one television station or one radio broadcasting station be begun within four years from the date of approval of this Act, and be completed within five years from said date: *Provided, further,* That the grantee shall provide adequate public service time to enable the Government, through the said television and radio broadcasting stations, to reach the population on important public issues; shall assist in the functions of public information and education; shall not use his stations for the broadcasting and/or telecasting of obscene or indecent language, speech, act or scene, or for the dissemination of deliberately false information or willful misrepresentation, or to the detriment of the public health, or to incite, encourage, or assist in subversive or treasonable acts; and shall conform to the ethics of honest enterprise.
+
+ **Section 2.** Such provisions of Act Numbered Thirty-eight hundred forty-six, entitled ""An Act providing for the regulation of radio stations and radio communications in the Philippine Islands, and for other purposes;"" Act Numbered Thirty-nine hundred ninety-seven, known as the Radio Broadcasting Law; Commonwealth Act Numbered One hundred forty-six, known as the Public Service Act, and their amendments, as are applicable to radio broadcasting stations shall be applied, as far as practicable, to the television stations referred to in Section one hereof.
+
+ **Section 3.** As a condition of the granting of this franchise, the grantee shall execute a bond in favor of the Government of the Philippines, in the sum of fifty thousand pesos, in form and with sureties satisfactory to the Secretary of Public Works and Communications, conditioned upon the faithful performance of the grantees obligations hereunder during the first three years of the life of this franchise. If, after four years from the date of acceptance of this franchise, the grantee shall have fulfilled said obligations, or as soon thereafter as the grantee shall have fulfilled the same, the bond aforesaid shall be cancelled by the Secretary of Public Works and Communications.
+
+ **Section 4.** Acceptance of this franchise shall be given in writing within six months after the approval of this Act. When so accepted by the grantee and upon approval of the bond aforesaid by the Secretary of Public Works and Communications the grantee shall be empowered to exercise the privileges granted thereby.
+
+ **Section 5.** The grantees radio broadcasting and television stations shall not be put in actual operation until the Secretary of Public Works and Communications shall have allotted to the grantee the frequency and wave lengths to be used under this franchise and issued to the grantee a license for such use.

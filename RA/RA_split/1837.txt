@@ -1,0 +1,168 @@
+repacts:datasets/markdown/repacts/1994/ra_7745_1994.md	repacts	1994		datasets/markdown/repacts/1994/ra_7745_1994.md	ra_7745_1994	AN ACT ESTABLISHING A HIGH SCHOOL AT ADDALAM REGION, MUNICIPALITY OF JONES, PROVINCE OF ISABELA, TO BE KNOWN AS THE ADDALAM REGION HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"Republic of the Philippines Congress of the Philippines Second Regular Session
+
+ **[ REPUBLIC ACT NO. 7745, June 19, 1994 ]**
+
+ AN ACT ESTABLISHING A HIGH SCHOOL AT ADDALAM REGION, MUNICIPALITY OF JONES, PROVINCE OF ISABELA, TO BE KNOWN AS THE ADDALAM REGION HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established a high school in the Addalam Region at Barangay Tupax, Jones, Isabela, to cater to high school students of Barangays Addalam, Barangcuag, Tupax, San Roque, and Linamanan, all in the Municipality of Jones, Province of Isabela, to be known as the Addalam Region High School.
+
+ **Section 2.** The Secretary of the Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act shall be funded out of the appropriations authorized by Republic Act No. 7663 for the Department of Education, Culture and Sports intended for the operational expenses of newly legislated high schools. Thereafter, the amount needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Lapsed into law on June 19, 1994 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.
+"	success	Act	Establishes Addalam Region High School in Jones, Isabela, and appropriates funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""Establishes high school in Addalam Region, Barangay Tupax, Jones, Isabela, for students from specific barangays, named Addalam Region High School.""}, {""title"": ""Section 2."", ""summary"": ""Secretary of DepEd to issue rules and regulations necessary to implement act.""}, {""title"": ""Section 3."", ""summary"": ""Funding to come from appropriation authorized by RA 7663 for new high schools and included in annual General Appropriations Act.""}, {""title"": ""Section 4."", ""summary"": ""Act takes effect upon approval.""}]"	REPUBLIC ACT NO. 7745	June 19, 1994			To establish a high school in the Addalam Region and appropriate funds for its operation.	"[""Establishment of Addalam Region High School"", ""DepEd to issue rules and regulations"", ""Funding from RA 7663 appropriation and General Appropriations Act"", ""Effective upon approval""]"		"[""Education"", ""High School"", ""Isabela"", ""RA 7745""]"	"[""Addalam Region High School"", ""Jones"", ""Isabela"", ""Department of Education"", ""Funding"", ""RA 7663""]"
+repacts:datasets/markdown/repacts/1994/ra_7746_1994.md	repacts	1994		datasets/markdown/repacts/1994/ra_7746_1994.md	ra_7746_1994	An Act Establishing a National High School in the Municipality of Pantabangan, Province of Nueva Ecija, to be Known as the Pantabangan National High School, and Appropriating Funds Therefor	"Republic of the Philippines Congress of the Philippines Second Regular Session
+
+ **[ REPUBLIC ACT NO. 7746, June 19, 1994 ]**
+
+ AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN THE MUNICIPALITY OF PANTABANGAN, PROVINCE OF NUEVA ECIJA, TO BE KNOWN AS THE PANTABANGAN NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established a national high school in the Municipality of Pantabangan, Province of Nueva Ecija, to be known as the Pantabangan National High School.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be funded out of the appropriations authorized by Republic Act No. 7663 for the Department of Education, Culture and Sports intended for the operational expenses of newly legislated high schools. Thereafter, the amount needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Lapsed into law on June 19, 1994 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.
+"	success	Education	This law establishes the Pantabangan National High School in the municipality of Pantabangan, Nueva Ecija, and appropriates funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""There shall be established a national high school in the Municipality of Pantabangan, Province of Nueva Ecija, to be known as the Pantabangan National High School.""}, {""title"": ""Section 2."", ""summary"": ""The amount necessary to carry out the provisions of this Act shall be funded out of the appropriations authorized by Republic Act No. 7663 for the Department of Education, Culture and Sports intended for the operational expenses of newly legislated high schools. Thereafter, the amount needed for its operation and maintenance shall be included in the annual General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""This Act shall take effect upon its approval.""}]"	7746	June 19, 1994			To establish a national high school in Pantabangan, Nueva Ecija, and provide the necessary appropriation for its operation.	"[""Establishment of Pantabangan National High School"", ""Funding from RA 7663 appropriations for operational expenses"", ""Inclusion of operating and maintenance costs in the General Appropriations Act"", ""Effective upon approval""]"	Republic Act No. 7663 (Department of Education appropriations)	"[""Education"", ""Public School"", ""Nueva Ecija"", ""Pantabangan""]"	"[""National High School"", ""Pantabangan"", ""Nueva Ecija"", ""RA 7746"", ""Department of Education""]"
+repacts:datasets/markdown/repacts/1994/ra_7747_1994.md	repacts	1994		datasets/markdown/repacts/1994/ra_7747_1994.md	ra_7747_1994	AN ACT ESTABLISHING AN AGRO-INDUSTRIAL HIGH SCHOOL IN THE MUNICIPALITY OF KABUGAO, PROVINCE OF KALINGA-APAYAO, TO BE KNOWN AS THE KABUGAO AGRO-INDUSTRIAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"Republic of the Philippines Congress of the Philippines Second Regular Session
+
+ **[ REPUBLIC ACT NO. 7747, June 19, 1994 ]**
+
+ AN ACT ESTABLISHING AN AGRO-INDUSTRIAL HIGH SCHOOL IN THE MUNICIPALITY OF KABUGAO, PROVINCE OF KALINGA-APAYAO, TO BE KNOWN AS THE KABUGAO AGRO-INDUSTRIAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established, under the supervision of the Department of Education, Culture and Sports, an agro-industrial high school in the Municipality of Kabugao, Province of Kalinga-Apayao, to be known as the Kabugao Agro-Industrial High School.
+
+ **Section 2.** The Secretary of Education, Culture and Sports shall issue such rules and regulations necessary to carry out the purpose of this Act.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act shall be funded out of the appropriations authorized by Republic Act No. 7663 for the Department of Education, Culture and Sports intended for the operational expenses of newly legislated high schools. Thereafter, the amount needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Lapsed into law on June 19, 1994 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.
+"	success	Republic Act	The act establishes the Kabugao Agro-Industrial High School under the supervision of the Department of Education, Culture and Sports, and appropriates funds for its operation.	"[{""title"": ""Section 1"", ""summary"": ""Establishes the Kabugao Agro-Industrial High School under DOE supervision.""}, {""title"": ""Section 2"", ""summary"": ""Authorizes the Secretary of Education to issue rules and regulations for implementation.""}, {""title"": ""Section 3"", ""summary"": ""Provides funding through appropriation authorized by RA 7663 and the General Appropriations Act.""}, {""title"": ""Section 4"", ""summary"": ""The act takes effect upon approval.""}]"	7747	June 19, 1994			To establish an agro-industrial high school in Kabugao, Kalinga-Apayao, and secure its funding.	"[""Establishment of Kabugao Agro-Industrial High School under DOE supervision."", ""Secretary of Education to issue necessary rules and regulations."", ""Funding from RA 7663 appropriations and General Appropriations Act."", ""Act becomes effective upon approval.""]"		"[""Education"", ""High School"", ""Kalinga-Apayao"", ""Agriculture"", ""Republic Act""]"	"[""agro-industrial high school"", ""Kabugao"", ""Kalinga-Apayao"", ""Republic Act 7747"", ""Department of Education"", ""funding"", ""appropriations""]"
+repacts:datasets/markdown/repacts/1994/ra_7748_1994.md	repacts	1994		datasets/markdown/repacts/1994/ra_7748_1994.md	ra_7748_1994	An Act Creating a National High School in the Town Proper of the Municipality of Mexico, Province of Pampanga, and Appropriating Funds Therefor	"Republic of the Philippines Congress of the Philippines Second Regular Session
+
+ **[ REPUBLIC ACT NO. 7748, June 19, 1994 ]**
+
+ AN ACT CREATING A NATIONAL HIGH SCHOOL IN THE TOWN PROPER OF THE MUNICIPALITY OF MEXICO, PROVINCE OF PAMPANGA, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established, under the supervision and control of the Department of Education, Culture and Sports, a national high school to be known as Mexico National High School, in the town proper of the Municipality of Mexico, Province of Pampanga.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be funded out of the appropriations authorized by Republic Act No. 7663 for the Department of Education, Culture and Sports intended for the operational expenses of newly legislated high schools. Thereafter, the amount needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved, Lapsed into law on June 19, 1994 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.
+"	success	Education	Establishes Mexico National High School in the Municipality of Mexico, Pampanga, and appropriates funds for its operation.	"[{""title"": ""Section 1"", ""summary"": ""Establishes the Mexico National High School under the supervision of the Department of Education, Culture and Sports.""}, {""title"": ""Section 2"", ""summary"": ""Funds for the school will come from appropriations authorized by RA 7663 for the Department of Education, Culture and Sports and will be included in the annual General Appropriations Act.""}, {""title"": ""Section 3"", ""summary"": ""The Act takes effect upon its approval.""}]"	7748	June 19, 1994			To establish a national high school in Mexico, Pampanga, and allocate funding for its operation.	"[""Creation of Mexico National High School under the Department of Education, Culture and Sports."", ""Funding from RA 7663 appropriations and inclusion in the annual General Appropriations Act."", ""Effectivity upon approval.""]"		"[""Education"", ""High School"", ""Pampanga"", ""RA 7748""]"	"[""national high school"", ""Mexico"", ""Pampanga"", ""Department of Education"", ""appropriations""]"
+repacts:datasets/markdown/repacts/1994/ra_7749_1994.md	repacts	1994		datasets/markdown/repacts/1994/ra_7749_1994.md	ra_7749_1994	Republic Act No. 7749	"Republic of the Philippines Congress of the Philippines
+
+ **[ REPUBLIC ACT NO. 7749, June 19, 1994 ]**
+
+ AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN THE MUNICIPALITY OF PANTAR, SECOND DISTRICT OF THE PROVINCE OF LANAO DEL NORTE, TO BE KNOWN AS THE PANTAR NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established, under the direct supervision of the Department of Education, Culture and Sports, a national high school in the Municipality of Pantar, Province of Lanao del Norte, to be known as the Pantar National High School.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be funded out of the appropriations authorized by Republic Act No. 7663 for the Department of Education, Culture and Sports intended for the operational expenses of newly legislated high schools. Thereafter, the amount needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved, Lapsed into law on June 19, 1994 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.
+"	success	Education	Establishes Pantar National High School in the Municipality of Pantar, Province of Lanao del Norte, and appropriates funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of the school under the direct supervision of the Department of Education, Culture and Sports.""}, {""title"": ""Section 2."", ""summary"": ""Funding provision: the necessary amount is to be funded from appropriations authorized by Republic Act No. 7663 and included in the annual General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""The Act takes effect upon its approval.""}]"	7749	June 19, 1994			To establish a national high school in Pantar and provide appropriate funding for its operation.	"[""Establishment of Pantar National High School"", ""Funding from Republic Act No. 7663 appropriations"", ""Act takes effect upon approval""]"	Republic Act No. 7663	"[""Education"", ""School"", ""High School"", ""Funding""]"	"[""Pantar"", ""Lanao del Norte"", ""National High School"", ""Department of Education"", ""RA 7749"", ""RA 7663""]"
+repacts:datasets/markdown/repacts/1994/ra_7750_1994.md	repacts	1994		datasets/markdown/repacts/1994/ra_7750_1994.md	ra_7750_1994	AN ACT ESTABLISHING A HIGH SCHOOL IN BARANGAY ALAYAO, MUNICIPALITY OF CAPALONGA, PROVINCE OF CAMARINES NORTE, TO BE KNOWN AS THE GONZALO ALER HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"Republic of the Philippines Congress of the Philippines Second Regular Session
+
+ **[ REPUBLIC ACT NO. 7750, June 19, 1994 ]**
+
+ AN ACT ESTABLISHING A HIGH SCHOOL IN BARANGAY ALAYAO, MUNICIPALITY OF CAPALONGA, PROVINCE OF CAMARINES NORTE, TO BE KNOWN AS THE GONZALO ALER HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established a high school in Barangay Alayao, Municipality of Capalonga, Province of Camarines Norte, to be known as the Gonzalo Aler High School.
+
+ **Section 2.** The Secretary of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purposes of this Act.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act shall be funded out of the appropriations authorized by Republic Act No. 7663 for the Department of Education, Culture and Sports intended for the operational expenses of newly legislated high schools. Thereafter, the amount needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved, Lapsed into law on June 19, 1994 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.
+"	success	Education	Establishes Gonzalo Aler High School in Barangay Alayao, Capalonga, Camarines Norte, and appropriates funds for its operation.	"[{""title"": ""Section 1"", ""summary"": ""Establishes a high school in Barangay Alayao, Capalonga, Camarines Norte, named Gonzalo Aler High School.""}, {""title"": ""Section 2"", ""summary"": ""Empowers the Secretary of Education, Culture and Sports to issue necessary rules and regulations to carry out the Act.""}, {""title"": ""Section 3"", ""summary"": ""Specifies that the necessary amount will be funded from appropriations authorized by Republic Act No. 7663 and future General Appropriations Acts.""}, {""title"": ""Section 4"", ""summary"": ""States the Act shall take effect upon its approval.""}]"	7750	June 19, 1994			To establish a new high school and provide appropriated funding for its operation and maintenance.	"[""Establishment of Gonzalo Aler High School"", ""Authority granted to the Secretary of Education to issue rules"", ""Funding sourced from RA 7663 and General Appropriations Act"", ""Act takes effect upon approval""]"	Republic Act No. 7663	"[""Education"", ""High School"", ""Camarines Norte"", ""Republic Act""]"	"[""high school"", ""Barangay Alayao"", ""Capalonga"", ""Camarines Norte"", ""Gonzalo Aler High School"", ""Republic Act 7750"", ""funding"", ""Education Department""]"
+repacts:datasets/markdown/repacts/1994/ra_7751_1994.md	repacts	1994		datasets/markdown/repacts/1994/ra_7751_1994.md	ra_7751_1994	An Act Establishing the Lungib National High School in the Municipality of Pilar, Province of Sorsogon, and Providing Funds Thereof	"Republic of the Philippines Congress of the Philippines Second Regular Session
+
+ **[ REPUBLIC ACT NO. 7751, June 19, 1994 ]**
+
+ AN ACT ESTABLISHING THE LUNGIB NATIONAL HIGH SCHOOL IN THE MUNICIPALITY OF PILAR, PROVINCE OF SORSOGON, AND PROVIDING FUNDS THEREOF
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established a national high school in Barangay Lungib, Municipality of Pilar, Province of Sorsogon, under the supervision of the Department of Education, Culture and Sports.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be funded out of the appropriations authorized by Republic Act No. 7663 for the Department of Education, Culture and Sports intended for the operational expenses of newly legislated high schools. Thereafter, the amount needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved, Lapsed into law on June 19, 1994 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.
+"	success	Republic Act	Establishes the Lungib National High School in Barangay Lungib, Pilar, Sorsogon and provides funding for its operation.	"[{""title"": ""Section 1."", ""summary"": ""The Act establishes a national high school in Barangay Lungib, Municipality of Pilar, Province of Sorsogon, under the supervision of the Department of Education, Culture and Sports.""}, {""title"": ""Section 2."", ""summary"": ""The amount necessary to carry out the provisions of this Act shall be funded out of the appropriations authorized by Republic Act No. 7663 for the Department of Education, Culture and Sports intended for the operational expenses of newly legislated high schools. The amount needed for its operation and maintenance shall be included in the annual General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""This Act shall take effect upon its approval.""}]"	RA 7751	June 19, 1994			To establish a national high school in Lungib, Pilar, Sorsogon and provide its funding.	"[""Establishment of Lungib National High School"", ""Funding from RA 7663 and annual General Appropriations Act"", ""Effective upon approval""]"		"[""Education"", ""High School"", ""Sorsogon"", ""Republic Act""]"	"[""Lungib"", ""Pilar"", ""Sorsogon"", ""National High School"", ""Funding"", ""Education""]"
+repacts:datasets/markdown/repacts/1994/ra_7752_1994.md	repacts	1994		datasets/markdown/repacts/1994/ra_7752_1994.md	ra_7752_1994	AN ACT ESTABLISHING A HIGH SCHOOL IN BARANGAY VISTA ALEGRE, CITY OF BACOLOD, PROVINCE OF NEGROS OCCIDENTAL, TO BE KNOWN AS THE TEOFILO GENSOLI, SR. MEMORIAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"Republic of the Philippines Congress of the Philippines Second Regular Session
+
+ **[ REPUBLIC ACT NO. 7752, June 19, 1994 ]**
+
+ AN ACT ESTABLISHING A HIGH SCHOOL IN BARANGAY VISTA ALEGRE, CITY OF BACOLOD, PROVINCE OF NEGROS OCCIDENTAL, TO BE KNOWN AS THE TEOFILO GENSOLI, SR. MEMORIAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established, under the supervision of the Department of Education, Culture and Sports, a high school in Barangay Vista Alegre, City of Bacolod, Province of Negros Occidental, to be known as the Teofilo Gensoli, Sr. Memorial High School.
+
+ **Section 2.** The Secretary of Education, Culture and Sports shall implement this Act so as to make the Teofilo Gensoli, Sr. Memorial High School operational in the first school term after the effectivity of this Act.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act shall be funded out of the appropriations authorized by Republic Act No. 7663 for the Department of Education, Culture and Sports intended for the operational expenses of newly legislated high schools. Thereafter, the amount needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved, Lapsed into law on June 19, 1994 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.
+"	success	Republic Act	Establishes a high school in Barangay Vista Alegre, Bacolod City, Negros Occidental, named Teofilo Gensoli Sr. Memorial High School, and appropriates funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""Establishes the high school under the supervision of the Department of Education, Culture and Sports.""}, {""title"": ""Section 2."", ""summary"": ""The Secretary of Education, Culture and Sports shall implement the Act to make the school operational in the first school term after effectivity.""}, {""title"": ""Section 3."", ""summary"": ""Funding will come from appropriations authorized by Republic Act No. 7663 for operational expenses and maintenance will be included in the annual General Appropriations Act.""}, {""title"": ""Section 4."", ""summary"": ""The Act shall take effect upon its approval.""}]"	REPUBLIC ACT NO. 7752	June 19, 1994			To establish a new high school in Bacolod City and provide the necessary funding for its operation.	"[""Establishment of Teofilo Gensoli Sr. Memorial High School"", ""Implementation by the Secretary of Education, Culture and Sports"", ""Funding from RA 7663 and inclusion in the General Appropriations Act"", ""Effectivity upon approval""]"	Republic Act No. 7663	"[""Education"", ""High School"", ""Bacolod"", ""Negros Occidental"", ""Republic Act""]"	"[""high school"", ""education"", ""funding"", ""operational"", ""Bacolod"", ""Negros Occidental""]"
+repacts:datasets/markdown/repacts/1994/ra_7753_1994.md	repacts	1994		datasets/markdown/repacts/1994/ra_7753_1994.md	ra_7753_1994	Act Establishing a National High School in Barangay Tagbitan-ag, Municipality of Samal, Province of Davao, and Appropriating Funds Therefor	"Republic of the Philippines Congress of the Philippines Second Regular Session
+
+ **[ REPUBLIC ACT NO. 7753, June 19, 1994 ]**
+
+ AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY TAGBITAN-AG, MUNICIPALITY OF SAMAL, PROVINCE OF DAVAO, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established, under the supervision of the Secretary of Education, Culture and Sports, a national high school in Barangay Tagbitan-ag, Municipality of Samal, Province of Davao, to be known as the Tagbitan-ag National High School.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be funded out of the appropriations authorized by Republic Act No. 7663 for the Department of Education, Culture and Sports intended for the operational expenses of newly legislated high schools. Thereafter, the amount needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect immediately upon its approval.
+
+ Approved, Lapsed into law on June 19, 1994 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.
+"	success	Republic Act	Establishes a national high school in Tagbitan-ag, Samal, Davao, and appropriates funds for its operation, effective immediately upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Establishes a national high school under the supervision of the Secretary of Education, Culture and Sports in Barangay Tagbitan-ag, Municipality of Samal, Province of Davao.""}, {""title"": ""Section 2."", ""summary"": ""Funds the school's operation from appropriations authorized by Republic Act No. 7663 for the Department of Education, Culture and Sports, and includes future operational expenses in the annual General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""The act shall take effect immediately upon its approval.""}]"	RA 7753	June 19, 1994			To establish a national high school in Barangay Tagbitan-ag and appropriate the necessary funds for its operation.	"[""Establishes a national high school under the supervision of the Secretary of Education, Culture and Sports."", ""Funds the school's operation through RA 7663 and the General Appropriations Act."", ""The act takes effect immediately upon approval.""]"		"[""Education"", ""High School"", ""Philippines"", ""RA 7753""]"	"[""National High School"", ""Tagbitan-ag"", ""Samal"", ""Davao"", ""Funding"", ""RA 7663"", ""General Appropriations""]"
+repacts:datasets/markdown/repacts/1994/ra_7754_1994.md	repacts	1994		datasets/markdown/repacts/1994/ra_7754_1994.md	ra_7754_1994	An Act Establishing a National High School in Barangay Sankanan, Municipality of Manolo Fortich, Province of Bukidnon, and Appropriating Funds Therefor	"Republic of the Philippines Congress of the Philippines First Regular Session
+
+ **[ REPUBLIC ACT NO. 7754, June 19, 1994 ]**
+
+ AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY SANKANAN, MUNICIPALITY OF MANOLO FORTICH, PROVINCE OF BUKIDNON, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established a national high school in Barangay Sankanan, Municipality of Manolo Fortich, Province of Bukidnon.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be funded out of the appropriations authorized by Republic Act No. 7663 for the Department of Education, Culture and Sports intended for the operational expenses of newly legislated high schools. Thereafter, the amount needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved, Lapsed into law on June 19, 1994 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.
+"	success	Education	This act establishes a national high school in Barangay Sankanan, Manolo Fortich, Bukidnon, and provides funding for its operation and maintenance.	"[{""title"": ""Section 1"", ""summary"": ""Establishment of a national high school in Barangay Sankanan, Municipality of Manolo Fortich, Province of Bukidnon.""}, {""title"": ""Section 2"", ""summary"": ""Allocation of necessary funds from RA 7663 and inclusion of operational expenses in the annual General Appropriations Act.""}, {""title"": ""Section 3"", ""summary"": ""The act shall take effect upon its approval.""}]"	RA 7754	June 19, 1994			To establish a national high school and appropriate funds for its operation and maintenance.	"[""Establishment of a national high school in Barangay Sankanan."", ""Allocation of necessary funds from RA 7663 for operational expenses."", ""Inclusion of operational and maintenance expenses in the annual General Appropriations Act."", ""Act takes effect upon approval.""]"	Republic Act No. 7663	"[""Education"", ""High School"", ""Appropriations"", ""Bukidnon"", ""Manolo Fortich""]"	"[""national high school"", ""Barangay Sankanan"", ""Manolo Fortich"", ""Bukidnon"", ""funds"", ""appropriation"", ""RA 7754""]"

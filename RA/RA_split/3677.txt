@@ -1,0 +1,180 @@
+| --- | --- |
+| (SGD.) **MARK LLANDRO L. MENDOZA** Secretary General House of Representatives | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate |
+
+ Approved:APR 13 2022
+
+ (SGD.)**RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	This act declares August 30 as National Press Freedom Day, designating it as a working holiday to honor Marcelo H. Del Pilar and establishes guidelines for its observance by government agencies, armed forces, police, and the private sector.	"[{""title"": ""Section 1."", ""summary"": ""Declares August 30 of every year as National Press Freedom Day, a working holiday, in honor of Marcelo H. Del Pilar, the father of Philippine Journalism.""}, {""title"": ""Section 2."", ""summary"": ""Mandates all government agencies, armed forces, police, government-owned corporations, local governments, and the private sector to provide sufficient time and opportunity for employees to participate in related activities.""}, {""title"": ""Section 3."", ""summary"": ""Directs DepEd, CHED, TESDA, in consultation with the Office of the President and media organizations, to lead schools in organizing consciousness-raising activities on press importance, rights, responsibilities, and elimination of violence.""}, {""title"": ""Section 4."", ""summary"": ""Specifies that the act takes effect fifteen days after its publication in the Official Gazette or a newspaper of general circulation.""}]"	11699	April 13, 2022	"[{""name"": ""LORD ALLAN JAY Q. VELASCO"", ""title"": ""Speaker of the House of Representatives""}, {""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}]"	"[{""name"": ""MARK LLANDRO L. MENDOZA"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""MYRA MARIE D. VILLARICA"", ""title"": ""Secretary of the Senate""}, {""name"": ""RODRIGO ROA DUTERTE"", ""title"": ""President of the Philippines""}]"	To declare August 30 as National Press Freedom Day and ensure its meaningful observance across all sectors of government and society.	"[""Declares August 30 as National Press Freedom Day, a working holiday."", ""Mandates all government agencies and institutions to provide time for employees to observe the day."", ""Directs DepEd, CHED, and TESDA to lead schools in press-related educational activities."", ""The act takes effect fifteen days after publication in the Official Gazette or a newspaper of general circulation.""]"		"[""National Holidays"", ""Press Freedom"", ""Public Sector"", ""Education""]"	"[""National Press Freedom Day"", ""August 30"", ""Marcelo H. Del Pilar"", ""working holiday"", ""press freedom"", ""public observance""]"
+repacts:datasets/markdown/repacts/2022/ra_11700_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11700_2022.md	ra_11700_2022	AN ACT DECLARING THE PROVINCE OF CATANDUANES AS THE ABACA CAPITAL OF THE PHILIPPINES	"Eighteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-sixth day of July, two thousand twenty one.*
+
+ **[ REPUBLIC ACT NO. 11700, April 15, 2022 ]**
+
+ **AN ACT DECLARING THE PROVINCE OF CATANDUANES AS THE ABACA CAPITAL OF THE PHILIPPINES**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.***Declaration of Policy.* -Section 1, Article XII of the 1987 Constitution provides that the State shall promote the industrialization and full employment based on sound agricultural development and agrarian reform, through industries that make full and efficient use of human and natural resources, which are competitive in both domestic and foreign markets.
+
+ Towards this end, the State hereby recognizes the importance of abaca industry and its development as a driver of rural development not only because of its singular potential as raw material that can increase the country's export earnings tremendously, and put the name of the country in the map of the world for producing the biggest volume of abaca fiber, but for having provided livelihood to many small farmers in the countryside.
+
+ **Section 2.***Abaca Capital of the Philippines.* -In recognition of its status as the country's biggest producer of abaca and making the Philippines world-renowned as Manila Hemp in the fiber industry, and in support to agricultural development of the province, it is hereby declared that Catanduanes be the Abaca Capital of the Philippines.
+
+ **Section 3.***Repealing Clause.* -Any law, presidential decree or issuance, executive order, letter of instruction, rule or regulation inconsistent or contrary to the provisions of this Act is hereby repealed or modified accordingly.
+
+ **Section 4.***Effectivity.* -This Act shall take effect fifteen (15) days after its publication in theOfficial Gazetteor in at least two (2) newspapers of general circulation.
+
+ Approved,
+
+ | (SGD.)**LORD ALLAN JAY Q. VELASCO** Speaker of the House of Representatives | (SGD.) **VICENTE C. SOTTO III** President of the Senate |
+
+ This Act was passed by the Senate of the Philippines as Senate Bill No. 1978 on January 31, 2022 and adopted by the House of Representatives as an amendment to House Bill No. 6149 on February 2,2022.
+
+ | (SGD.) **MARK LLANDRO L. MENDOZA** Secretary General House of Representatives | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate |
+| --- | --- |
+| (SGD.) **MARK LLANDRO L. MENDOZA** Secretary General House of Representatives | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate |
+
+ Approved:Lapsed into law on APR 15 2022 without the signature of the President, in accordance with Article V, Section 27(1) of the Constitution.
+
+ **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	The Republic Act declares Catanduanes as the Abaca Capital of the Philippines, promotes the abaca industry as a driver of rural development, and sets forth policies and effectivity provisions for its implementation.	"[{""title"": ""Section 1. Declaration of Policy."", ""summary"": ""Recognizes the importance of abaca industry for rural development and promotes industrialization through sustainable agriculture.""}, {""title"": ""Section 2. Abaca Capital of the Philippines."", ""summary"": ""Declares Catanduanes as the Abaca Capital of the Philippines.""}, {""title"": ""Section 3. Repealing Clause."", ""summary"": ""Repeals or modifies any law, presidential decree, executive order, or regulation inconsistent with this Act.""}, {""title"": ""Section 4. Effectivity."", ""summary"": ""The Act takes effect fifteen days after publication in the Official Gazette or in two newspapers of general circulation.""}]"	REPUBLIC ACT NO. 11700	April 15, 2022	"[{""name"": ""LORD ALLAN JAY Q. VELASCO"", ""title"": ""Speaker of the House of Representatives""}, {""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}]"	"[{""name"": ""MARK LLANDRO L. MENDOZA"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""MYRA MARIE D. VILLARICA"", ""title"": ""Secretary of the Senate""}]"	To declare Catanduanes as the Abaca Capital of the Philippines and promote abaca industry for rural and economic development.	"[""Section 1: Declaration of policy promoting abaca industry."", ""Section 2: Declares Catanduanes as the Abaca Capital."", ""Section 3: Repealing clause for inconsistent laws."", ""Section 4: Effectivity after publication.""]"	Repeals or modifies laws inconsistent with this Act.	"[""Abaca"", ""Agriculture"", ""Catanduanes"", ""Philippines"", ""Republic Act""]"	"[""abaca"", ""Catanduanes"", ""agriculture"", ""industry"", ""economic development"", ""rural development""]"
+repacts:datasets/markdown/repacts/2022/ra_11701_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11701_2022.md	ra_11701_2022	AN ACT GRANTING NIGHT SHIFT DIFFERENTIAL PAY TO GOVERNMENT EMPLOYEES INCLUDING THOSE IN GOVERNMENT-OWNED OR -CONTROLLED CORPORATIONS AND APPROPRIATING FUNDS THEREFOR	"Eighteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-sixth day of July, two thousand twenty one.*
+
+ **[ REPUBLIC ACT NO. 11701, April 13, 2022 ]**
+
+ **AN ACT GRANTING NIGHT SHIFT DIFFERENTIAL PAY TO GOVERNMENT EMPLOYEES INCLUDING THOSE IN GOVERNMENT-OWNED OR -CONTROLLED CORPORATIONS AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** Government employees occupying position items from Division Chief and below, or their equivalent, including those in government-owned or -controlled corporations, whether the nature of their employment is permanent, contractual, temporary, or casual, shall be paid night shift differential at a rate not exceeding twenty percent (20%) of the hourly basic rate of the employee, as determined by the head of the agency, for each hour of work performed between the hours of 6:00 in the evening and 6:00 in the morning of the following day:*Provided,*That the night shift differential pay provided in this Act shall be in addition to and shall not in any way diminish whatever benefits and allowances are presently enjoyed by government employees.
+
+ Hourly basic raterefers to basic salary rate per hour derived by dividing the basic monthly rate by twenty-two (22) working days, and dividing the quotient derived by eight (8) hours.
+
+ **Section 2.** The following govenrment employees are not covered by this Act:
+
+ (a) Government employees whose schedule of office hours fall between 6:00 in the morning to 6:00 in the evening. Services rendered beyond the regular eight (8)-hour work schedules are paid overtime pay in accordance with existing laws, rules and regulations; and (b) Government employees whose services are required or are on call, twenty-four (24) hours a day such as uniformed personnel of the Armed Forces of the Philippines (AFP), the Philippine National Police (PNP), the Bureau of Jail Management and Penology (BJMP), the Bureau of Fire Protection (BFP), and other similarly situated, as may be determined by the Civil Service Commission (CSC), and the Department of Budget and Management (DBM). **Section 3.** The CSC, in coordination with the DBM, shall promulgate the necessary rules and regulations for the effective implementation of this Act.
+
+ **Section 4.** The amount necessary for the initial implementation of this Act shall be funded as follows:
+
+ (a) For the national government entities, the amount shall be charged against existing appropriations for the purpose of the departments, bureaus, offices, and agencies concerned. Thereafter, such sums as may be necessary for the continuous implementation of this Act shall be included in the annual General Appropriations Act; (b) For local government units, the amount shall be charged against their respective funds, subject to the provisions of Sections 325 and 331 of Republic Act No. 7160 or the ""Local Government Code of 1991""; and (c) For government-owned or -controlled corporations and their subsidiaries, the amount shall be charged against their respective corporate funds. **Section 5.***Separability Clause.* -If any provision or part hereof is held invalid or unconstitutional, the remainder of the law or the provision not otherwise affected shall remain valid and subsisting.
+
+ **Section 6.***Repealing Clause.* -Section 18 of Republic Act No. 8305 is hereby amended or modified accordingly. Any law, presidential decree or issuance, executive order, letter of instruction, administrative order, rule or regulation contrary to, or inconsistent with the provisions of this Act is hereby repealed, modified or amended accordingly.
+
+ **Section 7.***Effectivity.* -The Act shall take effect fifteen (15) days after its publication in theOfficial Gazetteor in at least two (2) newspapers of general circulation.
+
+ Approved,
+
+ | (SGD.)**LORD ALLAN JAY Q. VELASCO** Speaker of the House of Representatives | (SGD.) **VICENTE C. SOTTO III** President of the Senate |
+
+ This Act which is a consolidation of Senate Bill No. 643 and House Bill No. 9458, was passed by the Senate of the Philippines and the House of Representatives on February 2, 2022.
+
+ | (SGD.) **MARK LLANDRO L. MENDOZA** Secretary General House of Representatives | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate |
+| --- | --- |
+| (SGD.) **MARK LLANDRO L. MENDOZA** Secretary General House of Representatives | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate |
+
+ Approved: APR 13 2022
+
+ (SGD.)**RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	Provides a night shift differential pay of up to 20% of the hourly basic rate for eligible government employees, establishes rules for implementation, outlines funding sources, and repeals conflicting provisions.	"[{""title"": ""Section 1"", ""summary"": ""Establishes night shift differential pay of up to 20% of the hourly basic rate for eligible government employees working between 6:00\u202fPM and 6:00\u202fAM, in addition to existing benefits.""}, {""title"": ""Section 2"", ""summary"": ""Specifies employees not covered: those with regular daytime hours and certain on\u2011call personnel such as armed forces, police, and fire protection.""}, {""title"": ""Section 3"", ""summary"": ""Mandates the Civil Service Commission, in coordination with the Department of Budget and Management, to promulgate necessary rules and regulations for implementation.""}, {""title"": ""Section 4"", ""summary"": ""Details funding mechanisms: national and local government appropriations, and corporate funds for government-owned or -controlled corporations.""}, {""title"": ""Section 5"", ""summary"": ""Separability clause ensuring remaining provisions remain valid if any part is invalidated.""}, {""title"": ""Section 6"", ""summary"": ""Repealing clause amending Section 18 of RA No. 8305 and repealing inconsistent laws or issuances.""}, {""title"": ""Section 7"", ""summary"": ""Effectivity: law takes effect 15 days after publication in the Official Gazette or two newspapers of general circulation.""}]"	11701	April 13, 2022			To provide night shift differential pay for eligible government employees and establish implementation and funding mechanisms.	"[""Night shift differential pay up to 20% of hourly basic rate"", ""Exclusions for daytime and on\u2011call personnel"", ""CSC and DBM to issue rules"", ""Funding through national, local, and corporate appropriations"", ""Separability clause"", ""Repeal of conflicting provisions"", ""Effectivity after publication""]"	Section 18 of Republic Act No. 8305	"[""night shift"", ""government employees"", ""pay"", ""differential"", ""budget appropriation""]"	"[""night shift differential"", ""government employees"", ""salary"", ""CSC"", ""DBM"", ""RA 8305"", ""RA 11701""]"
+repacts:datasets/markdown/repacts/2022/ra_11702_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11702_2022.md	ra_11702_2022	An Act Establishing a Multi-Specialty Hospital in the City of Tayabas, Province of Quezon, to be known as the Southern Luzon Multi-Specialty Medical Center, and Appropriating Funds Therefor	"Eighteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-sixth day of July, two thousand twenty one.*
+
+ **[ REPUBLIC ACT NO. 11702, April 16, 2022 ]**
+
+ AN ACT ESTABLISHING A MULTI-SPECIALTY HOSPITAL IN THE CITY OF TAYABAS, PROVINCE OF QUEZON, TO BE KNOWN AS THE SOUTHERN LUZON MULTI-SPECIALTY MEDICAL CENTER, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established a multi-specialty hospital in the City of Tayabas, Province of Quezon to be known as the Southern Luzon Multi-Specialty Medical Center, which shall be under the direct control and supervision of the Department of Health (DOH). The hospital shall be designated as one of the apex hospitals of the Southern Luzon regions.
+
+ Any future increase in bed capacity and upgrading of health care services and facilities shall be based on the hospital development plan which shall be prepared by the DOH.
+
+ **Section 2.** The Secretary of Health shall immediately include in the Department's program the implementation of this Act, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 3.** The Secretary of the DOH shall prepare and issue the necessary rules and regulations for the effective implementation of this Act consistent with the hospital development plan.
+
+ **Section 4.** If any provision or part of this Act is declared unconstitutional, the remaining parts or provisions not affected shall remain in full force and effect.
+
+ **Section 5.** All laws, executive orders, issuances, and rules and regulations inconsistent with this Act are hereby repealed or modified accordingly.
+
+ **Section 6.** This Act shall take effect fifteen (15) days after its publication in theOfficial Gazetteor in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.)**VICENTE C. SOTTO III** President of Senate | (SGD.)**LORD ALLAN JAY Q. VELASCO** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on January 20, 2021 and January 31, 2022, respectively.
+
+ | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of Senate | (SGD.)**MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved: APR 16 2022
+
+ (SGD.)**RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	Establishes the Southern Luzon Multi-Specialty Medical Center in Tayabas, Quezon, under the Department of Health, and appropriates funds for its construction, operation, and development.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of the Southern Luzon Multi-Specialty Medical Center, designated as an apex hospital of the Southern Luzon regions, under the direct control and supervision of the Department of Health.""}, {""title"": ""Section 2."", ""summary"": ""The Secretary of Health shall incorporate the implementation and funding of the Act into the Department\u2019s program and the annual General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""The Secretary of the DOH shall prepare and issue rules and regulations for the effective implementation of the Act in alignment with the hospital development plan.""}, {""title"": ""Section 4."", ""summary"": ""If any provision of the Act is declared unconstitutional, the remaining provisions shall remain in full force and effect.""}, {""title"": ""Section 5."", ""summary"": ""All laws, executive orders, issuances, and regulations inconsistent with the Act are repealed or modified accordingly.""}, {""title"": ""Section 6."", ""summary"": ""The Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.""}]"	11702	April 16, 2022	"[{""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of Senate""}, {""name"": ""LORD ALLAN JAY Q. VELASCO"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""MYRA MARIE D. VILLARICA"", ""title"": ""Secretary of Senate""}, {""name"": ""MARK LLANDRO L. MENDOZA"", ""title"": ""Secretary General House of Representatives""}]"	To establish a multi-specialty hospital in Tayabas, Quezon, and to appropriate funds for its construction, operation, and development under the Department of Health.	"[""Establishment of a multi-specialty hospital in Tayabas, Quezon"", ""Appropriation of funds for construction, operation, and development"", ""Rules and regulations for implementation by the DOH"", ""Repeal or modification of inconsistent laws, EO, issuances, and regulations"", ""Effectivity fifteen days after publication in the Official Gazette or newspaper"", ""Remaining provisions remain in force if part declared unconstitutional""]"		"[""Health"", ""Hospital"", ""Medical Center"", ""Quezon"", ""Southern Luzon""]"	"[""multi-specialty hospital"", ""Southern Luzon"", ""Quezon"", ""health"", ""Department of Health"", ""funding""]"
+repacts:datasets/markdown/repacts/2022/ra_11703_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11703_2022.md	ra_11703_2022	AN ACT ESTABLISHING IN THE CITY OF CALBAYOG, PROVINCE OF SAMAR, A TERTIARY HOSPITAL TO BE KNOWN AS THE SAMAR ISLAND MEDICAL CENTER, AND APPROPRIATING FUNDS THEREFOR	"Eighteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-sixth day of July, two thousand twenty one.*
+
+ **[ REPUBLIC ACT NO. 11703, April 16, 2022 ]**
+
+ **AN ACT ESTABLISHING IN THE CITY OF CALBAYOG, PROVINCE OF SAMAR, A TERTIARY HOSPITAL TO BE KNOWN AS THE SAMAR ISLAND MEDICAL CENTER, AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** There shall be established in the City of Calbayog, Province of Samar, a tertiary hospital to be known as the Samar Island Medical Center, which shall be under the direct control and supervision of the Department of Health (DOH).
+
+ **Section 2.** Any future increase in bed capacity and upgrading of health care services and facilities shall be based on the hospital development plan which shall be prepared by the DOH.
+
+ **Section 3.** The Secretary of Health shall immediately include in the Department's program the implementation of this Act, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 4.** If any provision or part of this Act is declared unconstitutional, the remaining parts or provisions not affected shall remain in full force and effect.
+
+ **Section 5.** All laws, executive orders, issuances, and rules and regulations inconsistent with this Act are hereby repealed or modified accordingly.
+
+ **Section 6.** This Act shall take effect fifteen (15) days after its publication in theOfficial Gazetteor in a newspaper of general circulation.
+
+ Approved.
+
+ | (SGD.)**VICENTE C. SOTTO III** President of Senate | (SGD.)**LORD ALLAN JAY Q. VELASCO** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on January 20, 2021 and January 31, 2022, respectively.
+
+ | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of Senate | (SGD.)**MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved: APR 16 2022
+
+ (SGD.)**RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	The Act establishes the Samar Island Medical Center as a tertiary hospital in Calbayog, Samar, under the Department of Health, and provides appropriation for its operation and development.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of the Samar Island Medical Center in Calbayog, Samar, under direct control and supervision of the Department of Health (DOH).""}, {""title"": ""Section 2."", ""summary"": ""Future increases in bed capacity and upgrades of health care services shall be based on a development plan prepared by the DOH.""}, {""title"": ""Section 3."", ""summary"": ""The Secretary of Health shall include the implementation of this Act in the Department's program, with funding incorporated into the annual General Appropriations Act.""}, {""title"": ""Section 4."", ""summary"": ""If any provision is declared unconstitutional, the remaining unaffected parts shall remain in force.""}, {""title"": ""Section 5."", ""summary"": ""All laws, executive orders, issuances, and rules and regulations inconsistent with this Act are repealed or modified accordingly.""}, {""title"": ""Section 6."", ""summary"": ""The Act takes effect fifteen (15) days after its publication in the Official Gazette or a newspaper of general circulation.""}]"	11703	April 16, 2022	"[{""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of Senate""}, {""name"": ""LORD ALLAN JAY Q. VELASCO"", ""title"": ""Speaker of the House of Representatives""}]"		To establish a tertiary medical facility in Samar to improve healthcare access and provide adequate funding for its construction and operation.	"[""Establishment of Samar Island Medical Center"", ""Bed capacity and service upgrades based on DOH plan"", ""Funding to be included in the General Appropriations Act"", ""Preservation of remaining provisions if part declared unconstitutional"", ""Repeal of inconsistent laws"", ""Effectivity 15 days post-publication""]"		"[""health"", ""hospital"", ""Samar"", ""public health"", ""medical center""]"	"[""Samar Island Medical Center"", ""tertiary hospital"", ""Department of Health"", ""DOH"", ""funding"", ""bed capacity""]"
+repacts:datasets/markdown/repacts/2022/ra_11704_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11704_2022.md	ra_11704_2022	AN ACT INCREASING THE BED CAPACITY OF DR. PAULINO J. GARCIA MEMORIAL RESEARCH AND MEDICAL CENTER IN THE CITY OF CABANATUAN, PROVINCE OF NUEVA ECIJA FROM FOUR HUNDRED (400) TO ONE THOUSAND (1,000) BEDS, AND APPROPRIATING FUNDS THEREFOR	"Eighteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-sixth day of July, two thousand twenty one.*
+
+ **[ REPUBLIC ACT NO. 11704, April 16, 2022 ]**
+
+ **AN ACT INCREASING THE BED CAPACITY OF DR. PAULINO J. GARCIA MEMORIAL RESEARCH AND MEDICAL CENTER IN THE CITY OF CABANATUAN, PROVINCE OF NUEVA ECIJA FROM FOUR HUNDRED (400) TO ONE THOUSAND (1,000) BEDS, AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** The bed capacity of the Dr. Paulino J. Garcia Memorial Research and Medical Center (PJGMRMC) shall be increased from four hundred (400) to one thousand (1,000) beds. Any future increase in bed capacity shall be consistent with the hospital development plan which shall be prepared by the Department of Health (DOH).
+
+ **Section 2.** The existing professional health care services and facilities of the PJGMRMC are also hereby upgraded to conform with and be commensurate to the increase in bed capacity as provided for in Section 1 hereof.
+
+ **Section 3.** The existing workforce of the PJGMRMC, which includes doctors, nurses, and support personnel, shall also be increased correspondingly. The Secretary of the DOH shall, after consultation with the Chief of the PJGMRMC, and in coordination with the Secretary of the Department of Budget and Management and the Commissioner of the Civil Service Commission, determine the additional new positions to be created and filled up.
+
+ **Section 4.** The Secretary of the DOH shall immediately include in the Department's program the implementation of this Act, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 5.** If any provision or part of this Act is declared unconstitutional, the remaining parts or provisions not affected shall remain in full force and effect.
+
+ **Section 6.** All laws, executive orders, issuances, and rules and regulations inconsistent with this Act are hereby repealed or modified accordingly.
+
+ **Section 7.** This Act shall take effect fifteen (15) days after its publication in theOfficial Gazetteor in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.)**VICENTE C. SOTTO III** President of Senate | (SGD.)**LORD ALLAN JAY Q. VELASCO** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on January 20, 2021 and January 31, 2022, respectively.

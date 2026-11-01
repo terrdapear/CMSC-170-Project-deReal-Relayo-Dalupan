@@ -1,0 +1,151 @@
+repacts:datasets/markdown/repacts/1971/ra_6337_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6337_1971.md	ra_6337_1971	An Act Establishing an Emergency Hospital in the Municipality of Pandan, Province of Antique, to be Known as Northern Antique Emergency Hospital, and Appropriating Funds Therefor.	"**[ REPUBLIC ACT NO. 6337, June 19, 1971 ]**
+
+ AN ACT ESTABLISHING AN EMERGENCY HOSPITAL IN THE MUNICIPALITY OF PANDAN, PROVINCE OF ANTIQUE, TO BE KNOWN AS NORTHERN ANTIQUE EMERGENCY HOSPITAL, AND APPROPRIATING FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established, under the supervision of the Bureau of Hospitals, an emergency hospital in the Municipality of Pandan, Province of Antique, to be known as Northern Antique Emergency Hospital.
+
+ **Section 2.** The sum of one hundred fifty thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of the hospital for the fiscal year in which this Act shall take effect. Thereafter, such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Enacted without Executive approval, June 19, 1971.
+"	success	Republic Act	This act establishes the Northern Antique Emergency Hospital in Pandan, Antique, and appropriates funds for its establishment, operation, and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of the Northern Antique Emergency Hospital under the supervision of the Bureau of Hospitals.""}, {""title"": ""Section 2."", ""summary"": ""Appropriation of one hundred fifty thousand pesos for the hospital's establishment, operation, and maintenance for the fiscal year of effect.""}, {""title"": ""Section 3."", ""summary"": ""The act takes effect upon approval.""}]"	6337	June 19, 1971			To establish an emergency hospital in Pandan, Antique and appropriate funds for its operation and maintenance.	"[""Establishment of the Northern Antique Emergency Hospital"", ""Appropriation of 150,000 pesos for hospital operations"", ""Effectivity upon approval""]"		"[""Health"", ""Hospital"", ""Emergency"", ""Antique"", ""Pandan""]"	"[""Emergency hospital"", ""Northern Antique Emergency Hospital"", ""appropriation"", ""Philippines"", ""Republic Act""]"
+repacts:datasets/markdown/repacts/1971/ra_6338_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6338_1971.md	ra_6338_1971	AN ACT ESTABLISHING AN EMERGENCY HOSPITAL IN THE CITY OF SAN JOSE, TO BE KNOWN AS SAN JOSE EMERGENCY HOSPITAL AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 6338, June 19, 1971 ]**
+
+ AN ACT ESTABLISHING AN EMERGENCY HOSPITAL IN THE CITY OF SAN JOSE, TO BE KNOWN AS SAN JOSE EMERGENCY HOSPITAL AND APPROPRIATING FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled
+
+ **Section 1.** There shall be established, under the direct supervision of the Director of Medical Services, an emergency hospital in the City of San Jose, to be known as San Jose City Emergency Hospital.
+
+ **Section 2.** The sum of two hundred fifty thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital during the fiscal year nineteen hundred seventy-one. Thereafter, such sum as may be needed for its operation and maintenance shall be included in the annual General Appropriation Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Enacted without Executive approval, June 19, 1971.
+"	success	Law	Republic Act No. 6338 establishes an emergency hospital in the City of San Jose, appropriates funds for its establishment, operation, and maintenance, and sets its effective date.	"[{""title"": ""Section 1"", ""summary"": ""Establishment of an emergency hospital in the City of San Jose under the supervision of the Director of Medical Services.""}, {""title"": ""Section 2"", ""summary"": ""Appropriation of two hundred fifty thousand pesos for the establishment, operation, and maintenance of the hospital for FY 1971, with provisions for future operational funding.""}, {""title"": ""Section 3"", ""summary"": ""The Act takes effect upon its approval.""}]"	6338	June 19, 1971			To create a dedicated emergency medical facility in San Jose, Philippines, and allocate necessary funding.	"[""Establishment of San Jose City Emergency Hospital"", ""Appropriation of 250,000 pesos for establishment and operation"", ""Provision for future operational funding"", ""Effectiveness upon approval""]"		"[""Health"", ""Emergency"", ""Hospital""]"	"[""San Jose"", ""Emergency Hospital"", ""Philippines"", ""Republic Act"", ""Funding"", ""Health""]"
+repacts:datasets/markdown/repacts/1971/ra_6339_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6339_1971.md	ra_6339_1971	Act Defining the Territorial Jurisdiction of the First Public Works District in the Province of Bohol	"**[ REPUBLIC ACT NO. 6339, June 19, 1971 ]**
+
+ AN ACT DEFINING THE TERRITORIAL JURISDICTION OF THE FIRST PUBLIC WORKS DISTRICT IN THE PROVINCE OF BOHOL.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The First Public Works District in the Province of Bohol shall comprise the Municipalities of Calape, Loon, Maribojoc, Antequera, Cortes, Corella, Baclayon, Dauis, Panglao and the City of Tagbilaran with principal station in the Municipality of Maribojoc.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Enacted without Executive approval, June 19, 1971.
+"	success	Republic Act	An act that defines the territorial jurisdiction of the First Public Works District in the Province of Bohol, listing its constituent municipalities and principal station.	"[{""title"": ""Section 1"", ""summary"": ""The First Public Works District in the Province of Bohol shall comprise the Municipalities of Calape, Loon, Maribojoc, Antequera, Cortes, Corella, Baclayon, Dauis, Panglao and the City of Tagbilaran with principal station in the Municipality of Maribojoc.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	6339	June 19, 1971			To define and establish the territorial jurisdiction of the First Public Works District in the Province of Bohol.	"[""Defines the territorial jurisdiction of the First Public Works District in Bohol."", ""Lists the municipalities and city comprising the district."", ""Establishes the principal station in the Municipality of Maribojoc."", ""The Act takes effect upon approval.""]"		"[""Public Works"", ""Territorial Jurisdiction"", ""Bohol"", ""Republic Act""]"	"[""First Public Works District"", ""Municipalities"", ""Tagbilaran"", ""Bohol"", ""Territorial Jurisdiction""]"
+repacts:datasets/markdown/repacts/1971/ra_6340_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6340_1971.md	ra_6340_1971	An Act Changing the Name of the City of Olongapo to President Magsaysay City	"**[ REPUBLIC ACT NO. 6340, June 19, 1971 ]**
+
+ AN ACT CHANGING THE NAME OF THE CITY OF OLONGAPO TO PRESIDENT MAGSAYSAY CITY.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The name of the City of Olongapo, created by Republic Act Numbered Forty-six hundred forty-five, is hereby changed to President Magsaysay City.
+
+ **Section 2.** Whenever the words 'City of Olongapo' appear in Republic Act Numbered Forty-six hundred forty-five and all other Acts and executive orders, said words shall be understood to mean President Magsaysay City.
+
+ **Section 3.** A plebiscite shall be held in the City of Olongapo on the day of the election of local officials in November, nineteen hundred and seventy-one to enable the voters of that city to elect whether or not they favor the change of the name of said city as herein provided. The Commission on Elections shall prescribe the form of the ballot for the plebiscite. The change herein provided shall take effect if a majority of the votes cast in the plebiscite favor the change of the name of the City of Olongapo to President Magsaysay City.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Enacted without Executive approval, June 19, 1971.
+"	success	Republic Act	This act changes the name of the City of Olongapo to President Magsaysay City, requires a plebiscite to confirm the change, and becomes effective upon majority approval.	"[{""title"": ""Section 1"", ""summary"": ""Declares that the name of the City of Olongapo is hereby changed to President Magsaysay City.""}, {""title"": ""Section 2"", ""summary"": ""Mandates that all references to 'City of Olongapo' in Republic Act No. 465 and other laws shall be understood to mean President Magsaysay City.""}, {""title"": ""Section 3"", ""summary"": ""Requires a plebiscite to be held on the day of local elections in November 1971 to allow voters to approve or reject the name change.""}, {""title"": ""Section 4"", ""summary"": ""States that the act takes effect upon its approval.""}]"	6340	June 19, 1971			To change the name of the City of Olongapo to President Magsaysay City.	"[""Name change of the city"", ""Requirement of a plebiscite"", ""Effect upon majority approval""]"	Republic Act No. 465	"[""Name Change"", ""City"", ""Plebiscite"", ""Local Government""]"	"[""Olongapo"", ""President Magsaysay City"", ""Republic Act"", ""Plebiscite"", ""Name Change""]"
+repacts:datasets/markdown/repacts/1971/ra_6341_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6341_1971.md	ra_6341_1971	AN ACT CONVERTING THE VIRAC NATIONS AGRICULTURAL AND TRADE SCHOOL IN THE MUNICIPALITY OF VIRAC, PROVINCE OF CATANDUANES, TO A STATE COLLEGE TO BE KNOWN AS THE CATANDUANES STATE COLLEGES, AND APPROPRIATING FUNDS THEREFOR.	"**[ REPUBLIC ACT NO. 6341, June 19, 1971 ]**
+
+ AN ACT CONVERTING THE VIRAC NATIONS AGRICULTURAL AND TRADE SCHOOL IN THE MUNICIPALITY OF VIRAC, PROVINCE OF CATANDUANES, TO A STATE COLLEGE TO BE KNOWN AS THE CATANDUANES STATE COLLEGES, AND APPROPRIATING FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Virac National Agricultural and Trade School in the Municipality of Virac, Province of Cataduanes, is hereby converted into a college to be known as the Catanduanes State Colleges, hereinafter call Colleges which shall offer courses leading to the titles Associate in Business Education, Associate in Commerce four-year courses leading to the degrees of Bachelor Science in Business Education, Bachelor of Science Commerce, Bachelor of Science in Education, and five-year courses leading to the degrees of Master of Arts Business Education, Master of Arts in Education, and Master of Arts in Commerce.
+
+ **Section 2.** The purpose of said Colleges shall be to provide higher professional and technical instruction and training in business education and commerce; and for special purposes, to promote research, advance studies and progressive leadership in the field of education, business education and commerce.
+
+ **Section 3.** No student shall be denied admission to the Colleges by reason of age, sex, nationality, religious belief, or political affiliation.
+
+ **Section 4.** The head of this institution shall be known as the President of the Catanduanes State Colleges. He shall be appointed by the President of the Philippines upon recommendation of the Board of Trustees. The powers and duties of the President of the Colleges in addition to those specifically provided for in this Act, shall be those usually pertaining to the office of the President of a college.
+
+ **Section 5.** The Board of Trustees of the Catanduanes State Colleges shall be composed of the Secretary of Education, who shall be*ex-officio*Chairman of the Board, the Chairman of the Committee on Education of the House of Representatives, the Director of Public Schools, the President of the Colleges, and the President of the Catanduanes State Colleges Alumni Association. In the absence or the inability of the Secretary of Education, as*ex-officio*Chairman of the Board of Trustees, or in the event that there is no incumbent Secretary of Education, the Undersecretary of Education shall act as the*ex-officio*Chairman of the Board of Trustees. When both the Secretary and the Undersecretary of Education are unable to exercise the powers of the Chairman of the Board of Trustees, or when these two positions are vacant, the members of the Board may elect from among themselves a temporary chairman who shall act as Chairman of the Board of Trustees.
+
+ Members of the Board shall serve without compensation other than actual and necessary expenses incurred either in attendance upon meetings of the Board or upon other official business authorized by resolution of the Board.
+
+ **Section 6.** The Board of Trustees shall have the following powers and duties in addition to its general powers of administration and the exercise of all the powers of a corporation as provided in Section thirteen of Act Numbered Fourteen hundred fifty-nine, as amended, otherwise known as the Corporation Law:
+
+ a. To elect a temporary chairman in the absence of both the Secretary and the Undersecretary of Education;
+
+ b. To receive and appropriate to the ends specified by law such sums as may be provided by law for the support of the Colleges;
+
+ c. To confer the titles of Associate in Business Education, Associate in Commerce, and the degrees of Bachelor of Science in Business Education, Bachelor of Science in Education, Bachelor of Science in Commerce, Master of Arts in Business Education, Master of Arts in Education, and Master of Arts in Commerce, to successful candidates for graduation;
+
+ d. To appoint, on the recommendation of the President of the Colleges, professors, instructors, lecturers, and other employees of the Colleges, to fix their compensation, hours of service, and such other duties and conditions as it may deem proper; to grant to them, in its discretion, leave of absence under such regulations as it may promulgate, any other provisions of law to the contrary notwithstanding, and to remove them for cause after an investigation and hearing shall have been had;
+
+ e. To approve the curricula and rules of discipline drawn up by the Colleges Council as hereinafter provided;
+
+ f. To fix the tuition fees required of students, as well as matriculation fees, graduation fees and fees for laboratory courses, and all special fees, and to remit the same in special cases, constituting special trust fund of the Colleges;
+
+ g. To provide fellowship for faculty members and scholarships to students showing special evidence of merit;
+
+ h. To prescribe rules for its own government, and to enact for the government of the Colleges such general ordinances and regulations, not contrary to law, as are consistent with the purposes of the Colleges as defined in Section two of this Act; and
+
+ i. To receive in trust legacies, gifts, and donations of real and personal property of all kinds and to administer the same for the benefit of the Colleges, or of the department thereof, or for aid to any student or students in accordance with the direction and instructions of the donor, and, in default thereof, in such manner as the Board of Trustees may in its discretion determine.
+
+ **Section 7.** Aquorumof the Board of Trustees shall consist of a majority of all the members. All processes against the Board of Trustees shall be served on the president or secretary thereof.
+
+ **Section 8.** On or before the fifteenth day of June of each year, the Board of Trustees shall file with the President of the Philippines a detailed report, setting forth the progress, condition, and needs of the Colleges.
+
+ **Section 9.** There shall be a Colleges Council, consisting of the President of the Colleges and all instructors and professors of the Colleges. The Council shall have the power to prescribe the curricula and rules of discipline, subject to the approval of the Board of Trustees. It shall fix the requirements for admission to the Colleges, as well as for graduation and the receiving of a title or degree. The Council alone shall have the power to recommend students or others to be recipients of titles or degrees. Through its President or committee, it shall have disciplinary power over the students within the limits prescribed by the rules of discipline approved by the Board of Trustees.
+
+ **Section 10.** The body of instructors and professors of the Colleges shall constitute the faculty of the Colleges, with the President as the presiding officer. In the appointment of professors or instructors of the Colleges, no religious test shall be applied, nor shall the religious opinions or affiliations of the faculty of the Colleges be made a matter of examination or inquiry:*Provided, however,*That no instructor or professor in the Colleges shall inculcate sectarian tenets in any of the teachings, nor attempt either directly or indirectly, under penalty of dismissal by the Board of Trustees, to influence students or attendants at the Colleges for or against any particular church or religious sect.
+
+ **Section 11.** Professors and other regular instructors in the Colleges shall be exempt as such from any civil service examinations or regulations as a requisite to appointment.
+
+ **Section 12.** There shall be a secretary of the Colleges, appointed by the Board of Trustees. He shall be the secretary of such Board and also of the Colleges, and shall keep such records of the Colleges as may be designated by the Board.
+
+ **Section 13.** The President of the Colleges, with the cooperation of the superintendent of schools of the province, may use one or more of the secondary 'schools in the province as training or laboratory schools of the Colleges.
+
+ **Section 14.** The Treasurer of the Philippines shall be*ex-officio*Treasurer of the Colleges and all accounts and expenses thereof shall be audited by the Auditor General or his duly authorized representatives.
+
+ **Section 15.** For carrying out the purposes and provisions of this Act, the sum of five hundred thousand pesos is hereby appropriated from any funds in the National Treasury not otherwise appropriated, in addition to the current appropriation of the Virac National Agricultural and Trade School. Thereafter, such sums as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 16.** This Act shall take effect upon its approval.
+
+ Enacted without Executive approval, June 19, 1971.
+"	success	Education	This act converts the Virac National Agricultural and Trade School into the Catanduanes State Colleges and appropriates funds for its operation, establishing its academic programs, governance structure, and reporting requirements.	"[{""title"": ""Conversion to State College"", ""summary"": ""The Virac National Agricultural and Trade School is converted into the Catanduanes State Colleges, offering associate, bachelor, and master degree courses in business education, commerce, and education.""}, {""title"": ""Purpose of the Colleges"", ""summary"": ""To provide higher professional and technical instruction in business education and commerce, promote research, advance studies, and foster leadership in education and business.""}, {""title"": ""Non-Discrimination in Admission"", ""summary"": ""Students shall not be denied admission based on age, sex, nationality, religious belief, or political affiliation.""}, {""title"": ""Appointment of President"", ""summary"": ""The President of the Colleges is appointed by the President of the Philippines upon recommendation of the Board of Trustees.""}, {""title"": ""Board of Trustees"", ""summary"": ""The Board is composed of the Secretary of Education (ex-officio), the Chairman of the Committee on Education of the House, the Director of Public Schools, the President of the Colleges, and the President of the Alumni Association, with provisions for succession.""}, {""title"": ""Powers and Duties of Board"", ""summary"": ""The Board may elect a temporary chairman, appropriate funds, confer academic titles, appoint faculty, approve curricula, set tuition and fees, grant scholarships, and receive gifts in trust for the Colleges.""}, {""title"": ""Composition of Board"", ""summary"": ""The Board consists of a majority of its members, and processes against the Board are served to its president or secretary.""}, {""title"": ""Annual Report"", ""summary"": ""The Board must file a detailed report with the President of the Philippines by June 15 each year.""}, {""title"": """", ""summary"": """"}]"	Republic Act No. 6341	June 19, 1971			To convert the Virac National Agricultural and Trade School into a state college, establish its academic and administrative structure, and secure appropriated funds for its operation.	"[""Conversion to a state college"", ""Non-discrimination in admission"", ""Appointment and powers of the President"", ""Board of Trustees composition and powers"", ""Annual reporting requirement""]"		"[""Education"", ""State College"", ""Philippines"", ""Republic Act""]"	"[""Virac"", ""Catanduanes"", ""State College"", ""Business Education"", ""Commerce"", ""Non-Discrimination"", ""Board of Trustees"", ""Annual Report""]"
+repacts:datasets/markdown/repacts/1971/ra_6342_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6342_1971.md	ra_6342_1971	AN ACT CONSTITUTING THE THIRD CONGRESSIONAL DISTRICT OF THE PROVINCE OF CEBU INTO A SEPARATE HIGHWAY ENGINEERING DISTRICT.	"**[ REPUBLIC ACT NO. 6342, June 19, 1971 ]**
+
+ AN ACT CONSTITUTING THE THIRD CONGRESSIONAL DISTRICT OF THE PROVINCE OF CEBU INTO A SEPARATE HIGHWAY ENGINEERING DISTRICT.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The third congressional district of Cebu is hereby constituted into a separate highway engineering district to be known as the Sixth Highway Engineering District of Cebu, with its principal office at the Municipality of Minglanilla, same province.
+
+ The highway district engineer of said highway engineering district shall be appointed in accordance with existing law.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Enacted without Executive approval, June 19, 1971
+"	success	republic act	This act constituting the third congressional district of Cebu as a separate highway engineering district known as the Sixth Highway Engineering District of Cebu, with its principal office at Minglanilla.	"[{""title"": ""Section 1."", ""summary"": ""The third congressional district of Cebu is hereby constituted into a separate highway engineering district to be known as the Sixth Highway Engineering District of Cebu, with its principal office at the Municipality of Minglanilla.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	Republic Act No. 6342	June 19, 1971			To create a separate highway engineering district for the third congressional district of Cebu.	"[""Constitution of the Sixth Highway Engineering District of Cebu"", ""Designation of Minglanilla as principal office"", ""Appointment of highway district engineer""]"		"[""public law"", ""transportation"", ""district""]"	"[""Cebu"", ""highway engineering district"", ""Minglanilla"", ""Republic Act 6342"", ""June 19 1971""]"
+repacts:datasets/markdown/repacts/1971/ra_6343_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6343_1971.md	ra_6343_1971	Republic Act No. 6343, June 19, 1971	"**[ REPUBLIC ACT NO. 6343, June 19, 1971 ]**
+
+ AN ACT CONVERTING THE EMERGENCY HOSPITAL IN THE MUNICIPALITY OF JORDAN, SUBPROVINCE OF GUIMARAS, ILOILO, INTO A NATIONAL HOSPITAL TO BE KNOWN AS GUIMARAS NATIONAL HOSPITAL AND APPROPRIATING FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The emergency hospital in the Municipality of Jordan, Subprovince of Guimaras, Iloilo, is hereby converted into a national hospital to be known as Guimaras National Hospital.
+
+ **Section 2.** The sum of three hundred thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital during the fiscal year when this Act is approved. Thereafter, such sums as may be needed for its operation and main shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Enacted without Executive approval, June 19, 1971.
+"	success	Health	An act converting the Emergency Hospital in the Municipality of Jordan, Subprovince of Guimaras, Iloilo into Guimaras National Hospital and appropriating funds for its establishment, operation and maintenance.	"[{""title"": ""Section 1"", ""summary"": ""Converts the emergency hospital in Jordan, Guimaras into Guimaras National Hospital.""}, {""title"": ""Section 2"", ""summary"": ""Appropriates three hundred thousand pesos for the establishment, operation and maintenance of the hospital during the fiscal year of approval and provides for future annual appropriations.""}, {""title"": ""Section 3"", ""summary"": ""The act takes effect upon its approval.""}]"	6343	June 19, 1971			To convert the existing emergency hospital into a national hospital and secure funding for its operation and maintenance.	"[""Conversion of emergency hospital into national hospital"", ""Appropriation of funds for establishment, operation and maintenance""]"		"[""health"", ""hospital"", ""budget"", ""legislation""]"	"[""Guimaras National Hospital"", ""hospital"", ""appropriation"", ""budget"", ""healthcare"", ""Ilol0""]"
+repacts:datasets/markdown/repacts/1971/ra_6344_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6344_1971.md	ra_6344_1971	An Act Establishing a School of Arts and Trades in the Municipality of Mambajao, Province of Camiguin, and Appropriating Funds Therefor	"**[ REPUBLIC ACT NO. 6344, June 19, 1971 ]**
+
+ AN ACT ESTABLISHING A SCHOOL OF ARTS AND TRADES IN THE MUNICIPALITY OF MAMBAJAO, PROVINCE OF CAMIGUIN, AND APPROPRIATING FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There is hereby established under the direct supervision of the Director of Vocational Education, a school of arts and trades in the Municipality of Mambajao, Province of Camiguin:*Provided,* however,That only a general education curriculum with practical arts shall be offered in the first and second years, and the vocational education curriculum shall be offered in the third and fourth years:*Provided, further,*That the school shall offer short vocational courses for training in vocations needed in the locality which shall be open to elementary school graduates:*Provided, finally,*That the school shall open, as soon as feasible, two-year post secondary technical courses. The Director of Vocational Education shall promulgate, subject to the approval of the Secretary of Education, such rules and regulations to carry out the purposes of this Act. Said Director shall also acquire the necessary site for the said school.

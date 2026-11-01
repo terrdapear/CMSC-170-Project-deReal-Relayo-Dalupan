@@ -1,0 +1,138 @@
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: May 17, 1955.
+"	success	Republic Act	The act amends RA 526 to grant additional compensation to the provincial auditor of Nueva Ecija and the division superintendent of schools when they serve as ex officio city auditor and city superintendent of schools for Cabanatuan, providing 800 pesos per annum.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 83 of RA 526 to state that the provincial auditor of Nueva Ecija serves as ex officio city auditor of Cabanatuan, with additional compensation of 800 pesos per annum.""}, {""title"": ""Section 2"", ""summary"": ""Amends Section 85 of RA 526 to state that the division superintendent of schools of Nueva Ecija serves as ex officio city superintendent of schools of Cabanatuan, with additional compensation of 800 pesos per annum.""}, {""title"": ""Section 3"", ""summary"": ""Act takes effect July 1, 1952.""}]"	1214	May 10, 1955			To provide additional compensation for the ex officio duties of the provincial auditor and division superintendent of schools in Cabanatuan.	"[""Amend Section 83 of RA 526 to grant ex officio auditor role with additional compensation"", ""Amend Section 85 of RA 526 to grant ex officio superintendent role with additional compensation"", ""Act effective July 1, 1952""]"	Republic Act No. 526	"[""Republic Act"", ""Auditing"", ""Education"", ""Compensation"", ""Nueva Ecija"", ""Cabanatuan""]"	"[""auditor"", ""superintendent"", ""ex officio"", ""compensation"", ""Nueva Ecija"", ""Cabanatuan"", ""Republic Act 1214"", ""RA 526""]"
+repacts:datasets/markdown/repacts/1955/ra_1225_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1225_1955.md	ra_1225_1955	An Act to Change the Name of the Concepcion High School in the Municipality of Concepcion, Province of Tarlac, to Aquino Memorial High School	"**REPUBLIC ACT No. 1225**
+
+ **An Act to Grant to the La Union Electric Co., Inc. a Franchise for an Electric Light, Heat and Power System in the Municipalities of San Fernando, Bauang and San Juan, Province of La Union**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Subject to the terms and conditions established in Act Numbered Thirty-six hundred and thirty-six, as amended by Commonwealth Act Numbered One hundred and thirty-two, and to the provisions of the Constitution, there is granted to the La Union Electric Co., Inc., for a period of fifty years from the approval of this Act, the right, privilege and authority to construct, maintain and operate an electric light, heat and power plant for the purpose of generating and distributing electric light, heat and/or power for sale within the limits of the municipalities of San Fernando, Bauang and San Juan, Province of La Union.
+
+ **Section 2.** In the event that the grantee shall purchase and secure from the National Power Corporation electric heat and power, the National Power Corporation is hereby authorized to negotiate and transact for the benefit and in behalf of the public consumers with reference to rates.
+
+ **Section 3.** It is expressly provided that in the event the Government should desire to maintain and operate for itself the plant and enterprise herein authorized, the grantee shall surrender its franchise and will turn over to the Government all serviceable equipment therein, at cost, less reasonable depreciation.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: May 17, 1955.
+"	success	Republic Act	An act to rename Concepcion High School to Aquino Memorial High School in Tarlac.	"[{""title"": ""Section 1"", ""summary"": ""The name of the Concepcion High School in the Municipality of Concepcion, Province of Tarlac, is changed to Aquino Memorial High School.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	1215	May 10, 1955			To change the name of a public high school.	"[""Name of Concepcion High School changed to Aquino Memorial High School"", ""Act takes effect upon approval""]"		"[""education"", ""school"", ""name change""]"	"[""Concepcion High School"", ""Aquino Memorial High School"", ""Tarlac"", ""name change""]"
+repacts:datasets/markdown/repacts/1955/ra_1226_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1226_1955.md	ra_1226_1955	"An Act to Further Amend Section One of Act Numbered Thirty-Five Hundred and Ninety-Two, Known as the ""Port-Works Fund Act"", as Amended by Commonwealth Act Numbered One Hundred and Thirty, and to Provide for the Disbursement of Said Funds so as to Exclude Disbursement of Port Works Fund for the Investigation, Construction, Improvement and Maintenance of Airports and Landing Fields"	"**REPUBLIC ACT No. 1226**
+
+ **An Act Increasing the Number and Fixing the Salaries of Assistant Fiscals for the City of Iloilo, Further Amending for the Purpose the Last Paragraph of Section Twenty-Three of the Charter of Said City**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The last paragraph of section twenty-three of Commonwealth Act Numbered One hundred fifty-eight, otherwise known as the Charter of the City of Iloilo, as amended by Republic Act Numbered Two hundred seventy-six, is further amended to read as follows:
+
+ > ""The City Fiscal shall have four assistants who shall receive compensation in accordance with the
+>
+>  following scale: (a) The first assistant city fiscal shall receive three thousand six hundred pesos per annum; (b) the second assistant city fiscal shall receive three thousand pesos per annum; (c) the third assistant city fiscal shall receive two thousand seven hundred sixty pesos per annum; and (d) the fourth assistant city fiscal shall receive two thousand four hundred pesos per annum. The city fiscal and his assistants shall be appointed by the President of the Philippines with the consent of the Commission on Appointments.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: May 24, 1955.
+"	success	Act	An amendment to Section One of the Port-Works Fund Act, clarifying the allocation of wharfage fee revenues, and specifying the disbursement of the Port Works Fund for port and airport maintenance and improvements.	"[{""title"": ""Section 1"", ""summary"": ""Revises Section 1 of Act No. 352, stipulating that all wharfage fees collected from the effective date shall be deposited in the National Treasury to form the Port Works Fund. Fifty percent of the fund is reserved for maintenance of ports, buoys, lighthouses, and other aids to navigation, while the remaining fifty percent is earmarked to reimburse the general fund for interest on bonds issued for port construction and improvement.""}, {""title"": ""Section 2"", ""summary"": ""The Act shall take effect upon its approval.""}]"	1216	1955-05-10			To further amend Section One of the Port-Works Fund Act and to clarify the disbursement of the Port Works Fund for port, buoy, lighthouse, and airport maintenance and improvements.	"[""Amendment of Section 1 of Act No. 352"", ""Allocation of 50% of the Port Works Fund for maintenance of ports, buoys, lighthouses, and aids to navigation"", ""Allocation of 50% of the Port Works Fund for reimbursement of interest on bonds issued for port construction and improvement""]"	Act Numbered Thirty-Five Hundred and Ninety-Two (Port-Works Fund Act) and Commonwealth Act Numbered One Hundred and Thirty	"[""Port Works Fund"", ""Public Works"", ""Finance"", ""Infrastructure""]"	"[""wharfage fees"", ""National Treasury"", ""Port Works Fund"", ""maintenance"", ""dredging"", ""interest charges""]"
+repacts:datasets/markdown/repacts/1955/ra_1227_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1227_1955.md	ra_1227_1955	"An Act Amending Item Sixty-Four of Subsection (A) of Section One of Republic Act Numbered Six Hundred Seventy, Entitled ""An Act Appropriating Funds for Public Works"""	"**REPUBLIC ACT No. 1227**
+
+ **An Act Increasing the Number and Fixing the Salaries of Assistant Fiscals for the City of Iloilo, Further Amending for the Purpose the Last Paragraph of Section Twenty-Three of the Charter of Said City**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sum of two thousand four hundred pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, to carry out the provisions of Republic Act Numbered Nine hundred eighty-eight regarding payment of life pension to the widow of the late Commissioner Pedro Guevarra for the fiscal year 1954-1955.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: May 31, 1955.
+"	success	Republic Act	Amends item 64 of subsection (A) of section one of RA 670, allocating ₱10,000 for waterworks in Polo, Padre Burgos.	"[{""title"": ""Section 1."", ""summary"": ""Amends item 64 for Quezon Province to specify waterworks system in Polo, Padre Burgos with \u20b110,000 allocation.""}, {""title"": ""Section 2."", ""summary"": ""Act shall take effect upon approval.""}]"	1217	May 10, 1955			To amend item 64 for funding waterworks in Quezon Province.	"[""Item 64 amended to allocate \u20b110,000 for construction of a waterworks system in Polo, Padre Burgos in Quezon Province.""]"	Republic Act No. 670, Item 64 of subsection (A) of section one.	"[""Funding"", ""Waterworks"", ""Quezon Province"", ""Public Works"", ""RA 1217""]"	"[""RA 670"", ""Item 64"", ""Polo"", ""Padre Burgos"", ""waterworks"", ""public works"", ""Quezon Province"", ""Philippines""]"
+repacts:datasets/markdown/repacts/1955/ra_1228_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1228_1955.md	ra_1228_1955	An Act Creating the Barrio of Mainit in the Municipality of Compostela, Province of Davao	"**REPUBLIC ACT No. 1228**
+
+ **An Act Creating an Additional Position of Assistant Provincial Fiscal in the Province of Batangas, Amending for This Purpose Section Sixteen Hundred Seventy-Four of the Revised Administration Code, as Amended**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The provision of section sixteen hundred seventy-four of the Revised Administrative Code, as amended, relative to the number of assistant provincial fiscals in the Province of Batangas, is further amended to read as follows:
+
+ > ""Batangas, four assistant provincial fiscals;""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 1, 1955.
+"	success	Republic Act	An act that creates the barrio of Mainit in Compostela, Davao by separating the sitios of Mainit, Tagnocan, and Cati-an from the barrio of Manat, effective upon approval.	"[{""title"": ""Section 1."", ""summary"": ""The sitios of Mainit, Tagnocan and Cati-an in the barrio of Manat, Municipality of Compostela, Province of Davao, are hereby separated from the said barrio of Manat and constituted into a barrio to be known as the barrio of Mainit.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	1218	May 10, 1955			To create the barrio of Mainit for proper local governance.	"[""Separates sitios Mainit, Tagnocan, and Cati-an from barrio Manat to form barrio Mainit."", ""The Act takes effect upon approval.""]"		"[""Republic Act"", ""Local Government"", ""Barangay"", ""Davao""]"	"[""Barrio"", ""Mainit"", ""Compostela"", ""Davao"", ""Municipality"", ""Sitios"", ""Manat""]"
+repacts:datasets/markdown/repacts/1955/ra_1229_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1229_1955.md	ra_1229_1955	An Act Making the Vice-Mayor of Manila the Presiding Officer of the Municipal Board of the Said City, Amending for This Purpose Section Thirteen of Republic Act Numbered Four Hundred Nine	"**REPUBLIC ACT No. 1229**
+
+ **An Act Creating the Municipality of San Nicolas, Province of Batangas**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The barrios of San Nicolas, Gipit, Bangin, Pansipit, Calangay, Sinturisan, Talang, Abilo, Balete, Bancora, Saimsim, Maabud, Mulawin, Tambo, Calumala, Alasas, Calawit and Pulangbato, are separated from the Municipality of Taal, Province of Batangas, and constituted into a new and separate municipality, to be known as the Municipality of San Nicolas, in the same province.
+
+ **Section 2.** The municipal mayor, vice-mayor and councilors of the new municipality shall be appointed by the President of the Philippines to hold office until their successors are elected and have qualified.
+
+ **Section 3.** The municipality herein created shall be organized on the date fixed by proclamation of the President and upon the appointment and qualification of its officers.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 1, 1955.
+"	success	Republic Act	Amends Section 13 of RA 409 to establish the Vice-Mayor of Manila as the presiding officer of the Municipal Board, detailing composition, duties, and salary.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 13 of RA 409 to define the Municipal Board composition and designate the Vice-Mayor as presiding officer.""}, {""title"": ""Section 2"", ""summary"": ""The Act takes effect upon its approval.""}]"	RA 1219	May 10, 1955			To amend RA 409 to establish the Vice-Mayor of Manila as the presiding officer of the Municipal Board of Manila.	"[""Vice-Mayor of Manila serves as presiding officer of the Municipal Board."", ""Municipal Board consists of the vice-mayor and three elective members from each representative district."", ""Vice-Mayor has no voting right except in case of a tie."", ""Temporary presiding officer elected if vice-mayor is absent."", ""President of the Philippines may temporarily appoint absent members until they return."", ""Board members receive a salary of seven thousand two hundred pesos per annum.""]"	Section Thirteen of Republic Act No. 409 (Charter of the City of Manila).	"[""Municipal Board"", ""Vice-Mayor"", ""Manila"", ""RA 409"", ""Amendment""]"	"[""vice-mayor"", ""presiding officer"", ""municipal board"", ""charter"", ""Manila"", ""salary"", ""temporary appointment""]"
+repacts:datasets/markdown/repacts/1955/ra_1230_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1230_1955.md	ra_1230_1955	An Act Creating the Municipality of Mayorga in the Province of Leyte	"**REPUBLIC ACT No. 1230**
+
+ **An Act Appropriating the Sum of Seventeen Million Pesos to Carry Out the Provisions of Republic Act Numbered Eight Hundred Forty-Two with Respect to Public School Officials, Teachers and Other School Personnel of the Bureau of Public Schools and Welfareville Teachers, for the Fiscal Year 1955-1956**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sum of seventeen million pesos, or so much thereof as may be necessary, is appropriated out of any funds in the National Treasury not otherwise appropriated, to carry out the provisions of Republic Act Numbered Eight hundred forty-two with respect to public school officials, teachers and other school personnel of the Bureau of Public Schools and Welfareville teachers, for the fiscal year 1955-1956, subject to the availability of funds as certified by the Commissioner of the Budget, the Secretary of Finance and the Auditor General: *Provided,* That this appropriation shall be given top priority. The necessary sum to carry out the provisions of said Act in succeeding years shall be included in the annual General Appropriation Acts.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 1, 1955.
+"	success	Republic Act	This act creates the Municipality of Mayorga in Leyte, separating specified barrios from Dulag and establishing its governance structure.	"[{""title"": ""Section 1."", ""summary"": ""Separates the barrios of Mayorga, Andres Bonifacio, Talisay, San Roque, Burgos, Liberty, Union, Ormocay, Wilson, and the southern portion of barrio of Cogon Bingcay from the Municipality of Dulag to form the new Municipality of Mayorga.""}, {""title"": ""Section 2."", ""summary"": ""Specifies that the first mayor, vice-mayor, and councilors of the new municipality shall be appointed by the President of the Philippines and shall hold office until elected successors.""}, {""title"": ""Section 3."", ""summary"": ""States that the act shall take effect upon its approval.""}]"	1220	May 11, 1955			To create a new municipality in Leyte for local governance.	"[""Creation of Municipality of Mayorga"", ""Appointment of first officials"", ""Effectivity upon approval""]"		"[""municipality"", ""Leyte"", ""local government""]"	"[""Mayorga"", ""Leyte"", ""municipality"", ""local government""]"
+repacts:datasets/markdown/repacts/1955/ra_1231_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1231_1955.md	ra_1231_1955	An Act to Create the Municipality of Llanera in the Province of Nueva Ecija	"**REPUBLIC ACT No. 1231**
+
+ **An Act Authorizing the President of the Philippines to Appoint in the Regular Force Reserve Officer Pilots Who are Graduates of the United States Air Force or Philippine Air Force Flying Schools**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Notwithstanding the provisions of section four (b) and (c) of Republic Act Numbered Two hundred and ninety-one and under such rules and regulations as the President of the Philippines may prescribe, the President, within the period of two years from the effectivity of this Act and upon recommendation of the Secretary of National Defense, is hereby authorized to appoint not to exceed thirty reserve officer pilots into the regular force, Philippine Air Force, in grades higher than second lieutenant, who are graduates of the Philippine Air Force Flying School or United States Air Force Flying School and who, upon their graduation from said schools, were qualified for appointment as second lieutenants in the regular force, Philippine Air Force, under the provisions of Republic Act Numbered Two hundred ninety-one.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 7, 1955.
+"	success	Republic Act	This act establishes the Municipality of Llanera in Nueva Ecija by separating specified barrios, appointing municipal officials, assigning it to the Second Congressional District, and taking effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Separates named barrios from existing municipalities in Nueva Ecija to form the new Municipality of Llanera.""}, {""title"": ""Section 2"", ""summary"": ""Presidential appointment of the first municipal mayor, vice-mayor, and councilors, who serve until elected successors.""}, {""title"": ""Section 3"", ""summary"": ""Places the new municipality within the Second Congressional District of Nueva Ecija.""}, {""title"": ""Section 4"", ""summary"": ""The act takes effect upon its approval.""}]"	1221	May 11, 1955			To create the Municipality of Llanera in the Province of Nueva Ecija.	"[""Separation of specified barrios to form Llanera"", ""Presidential appointment of first municipal officials"", ""Assignment of Llanera to the Second Congressional District"", ""Effectivity upon approval""]"		"[""Municipality"", ""Nueva Ecija"", ""Republic Act"", ""Local Government""]"	"[""Llanera"", ""Nueva Ecija"", ""municipality"", ""barrios"", ""local government""]"
+repacts:datasets/markdown/repacts/1955/ra_1232_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1232_1955.md	ra_1232_1955	An Act Creating the Municipal District of Potia in the Mountain Province	"**REPUBLIC ACT No. 1232**
+
+ **An Act Authorizing the Payment of Compensation Equivalent to the Salary of Six Months of Any Employee in the Service of the National Government or in the Service of the Government of a Province, City, Municipality or Municipal District Who is Killed or Dies of Injuries Received or Sickness Contracted in Line of Duty, Amending for the Purpose Section Six Hundred Ninety-Nine of the Administrative Code, as Amended**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section six hundred ninety-nine of the Administrative Code, as amended, is further amended to read as follows:
+
+ > ""Sec. 699. Allowances in case of injury, death, or sickness incurred in performance of duty. When a person in the service of the national government or in the service of the government of a province, city, municipality or municipal district is so injured in the performance of duty as thereby to receive some actual physical hurt or wound, the proper Head of Department may direct the absence during any period of disability thereby occasioned shall be on full pay, though not for more than six months, and in such case he may in his discretion also authorize the payment of the medical attendance, necessary transportation, subsistence, and hospital fees of the injured person. Absence in the case contemplated shall be charged first against vacation leave, if any there be.
+>
+>  ""If a person in such service is killed or dies of injuries received or sickness contracted in line of duty, the Department Head shall authorize the payment of reasonable burial expenses and of six months salary or wages in no case less than one thousand pesos to the surviving spouse or dependent child or children of such deceased person.
+>
+>  ""In case of sickness caused by or connected directly with the performance of some act in the line of duty, the Department head may in his discretion authorize the payment of the necessary hospital fees.
+>
+>  ""For employees of a city the time allowance and disbursements contemplated above shall not be granted except upon recommendation of the Municipal Board or council of the city; in the case of employees of a provincial government, upon the recommendation of the provincial board; and in the case of employees of a municipal or municipal district government, upon the recommendation of the municipal council or municipal district mayor, as the case may be.""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 7, 1955.
+"	success	Republic Act	An act that creates the Municipal District of Potia in the Mountain Province by separating certain barrios from the Municipal District of Mayaoyao and establishes its seat of government at the barrio of Potia.	"[{""title"": ""Section 1."", ""summary"": ""Separates the barrios of Potia, Dolowog, San Juan, San Quintin, Cabicalan, Pinto, Busilac, Sta. Maria, and Namilla\u00f1gan from the Municipal District of Mayaoyao and constitutes them into the new Municipal District of Potia, with the seat of government at Potia. Also provides for the appointment of the first mayor and councilors by the President until elected.""}, {""title"": ""Section 2."", ""summary"": ""The act shall take effect upon its approval.""}]"	1222	May 11, 1955			To create the Municipal District of Potia in the Mountain Province.	"[""Separation of the specified barrios from the Municipal District of Mayaoyao."", ""Creation of the Municipal District of Potia with its seat at the barrio of Potia."", ""Appointment of the first mayor and councilors by the President until elected."", ""The act takes effect upon approval.""]"		"[""Municipal District"", ""Potia"", ""Mountain Province"", ""Local Government""]"	"[""Republic Act 1222"", ""Municipal District of Potia"", ""Mountain Province"", ""Local Government""]"
+repacts:datasets/markdown/repacts/1955/ra_1233_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1233_1955.md	ra_1233_1955	An Act Amending and Repealing Certain Items in Republic Act Numbered Nine Hundred and Twenty, Regarding Public Works Projects for the Province of Cebu	"**REPUBLIC ACT No. 1233**
+
+ **An Act to Amend the Charter of the City of Cebu**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The last paragraph of section seven of Commonwealth Act Numbered Fifty-eight, as amended by Republic Act Numbered Two hundred forty-four, is hereby further amended to read as follows:
+
+ > ""Sec. 7. The Mayor shall be elected at large by the qualified electors of the city. He shall be at least thirty years of age, a resident of the city at least two years prior to his election, and a qualified voter therein: *Provided,* That the first election for Mayor shall be held at the general election for provincial and municipal officials next following the approval of this Act. He shall hold office for four years unless sooner removed, and shall receive a salary of seven thousand two hundred pesos a year.
+
+ **Section 2.** Section eight of the same Act, as amended by Republic Act Numbered Two hundred forty-four, is hereby further amended to read as follows:
+
+ > ""Sec. 8. *The vice-mayor.* There shall be elected vice-mayor who shall perform the duties and exercise the powers of the mayor, in the event of death, sickness, absence, or other temporary incapacity of the mayor. The vice-mayor shall be elected in the same manner as the mayor and shall at the time of his election possess the same qualifications as the mayor. If, for any reason, the vice-mayor is temporarily incapacitated by sickness, absence or other temporary incapacity to perform the duties of such office, the duties and powers of the mayor shall be performed and exercised by a member of the municipal board who shall be chosen by a majority of all the members of the Board. As soon as the vice-mayor assumes the duties of the Mayor, he automatically ceases to be the presiding officer thereof. His duties as president of the Board shall be exercised by the councilor chosen by the majority of the members of the Board and such councilor ceases temporarily to take part in the deliberations of the Board except to preside and to vote in case of tie. When the offices of the mayor and the vice-mayor are left vacant by virtue of death or permanent disability of the incumbents, the vacancies shall be filled up by appointments by the President of the Philippines in accordance with law.
+>
+>  ""The vice-mayor shall perform such other duties as may be assigned upon him by the mayor or prescribed by law or ordinances.

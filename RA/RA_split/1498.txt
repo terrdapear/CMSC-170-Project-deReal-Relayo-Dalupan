@@ -1,0 +1,195 @@
+
+ **Section 2.** Section three-A is hereby inserted in the same Act to read as follows:
+
+ ""Section 3-A. Salaries of higher levels of positions requiring the knowledge of pharmacy employed by the government or government-owned or controlled corporations shall be adjusted by the Wage and Position Classification Office with the minimum compensation for pharmacists as the basis.""
+
+ **Section 3.** Section three of the same Act is hereby amended to read as follows:
+
+ ""**Section 3.** Such sums as may be necessary to carry out the purpose of this Act during the fiscal year nineteen hundred and sixty-seven is appropriated, out of any funds in the National Treasury not otherwise appropriated and from any savings of the agency or office concerned. Thereafter, such sums as may be necessary for the same purpose shall be included in the annual General Appropriations Act.""
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved, October 4, 1971.
+"	success	Republic Act	An act that increases the minimum annual compensation of physicians, dentists, nurses, and pharmacists and amends Republic Act No. 457.	"[{""title"": ""Section 1"", ""summary"": ""Any provision of law to the contrary notwithstanding, all physicians, dentists, nurses and pharmacists employed on full time basis by the government or by semi-government institutions or by government-owned or controlled corporations in positions requiring the knowledge of medicine, dentistry, nursing or pharmacy, as the case may be, shall receive a minimum annual compensation of six thousand pesos, five thousand four hundred pesos, four thousand two hundred pesos and four thousand eight hundred pesos, respectively.""}, {""title"": ""Section 2"", ""summary"": ""Salaries of higher levels of positions requiring the knowledge of pharmacy employed by the government or government-owned or controlled corporations shall be adjusted by the Wage and Position Classification Office with the minimum compensation for pharmacists as the basis.""}, {""title"": ""Section 3"", ""summary"": ""Such sums as may be necessary to carry out the purpose of this Act during the fiscal year nineteen hundred and sixty-seven is appropriated, out of any funds in the National Treasury not otherwise appropriated and from any savings of the agency or office concerned. Thereafter, such sums as may be necessary for the same purpose shall be included in the annual General Appropriations Act.""}, {""title"": ""Section 4"", ""summary"": ""This Act shall take effect upon its approval.""}]"	6405	October 04, 1971			To increase the minimum annual compensation of pharmacists and other healthcare workers and to amend Republic Act No. 457.	"[""Minimum annual compensation for physicians, dentists, nurses and pharmacists increased to specified amounts."", ""Insertion of Section 3-A for higher level pharmacy positions compensation."", ""Appropriation of funds for the purpose of the act in FY 1967 and subsequent inclusion in the General Appropriations Act.""]"	Republic Act No. 457	"[""minimum wage"", ""pharmacists"", ""healthcare workers"", ""compensation"", ""RA 6405""]"	"[""minimum annual compensation"", ""pharmacists"", ""healthcare workers"", ""RA 457"", ""wage classification""]"
+repacts:datasets/markdown/repacts/1971/ra_6406_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6406_1971.md	ra_6406_1971	AN ACT DIVIDING THE PROVINCE OF LANAO DEL SUR INTO THE PROVINCES OF MARANAW AND LANAO DEL SUR.	"**[ REPUBLIC ACT NO. 6406, October 04, 1971 ]**
+
+ AN ACT DIVIDING THE PROVINCE OF LANAO DEL SUR INTO THE PROVINCES OF MARANAW AND LANAO DEL SUR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Province of Lanao del Sur is hereby divided into two provinces to be known as Maranaw and Lanao del Sur, in the following manner: The Province of Maranaw shall consist of that portion of the present Province of Lanao del Sur which comprises the municipalities of Masiu, Poona-Bayabao, Lumba-Bayabao, Wao, Tamparan, Marantao, Kapai, Bubong, Ramain-Ditsaan, Mulondo, Saguiaran, Piagapo and Taraka. The Province of Lanao del Sur shall consist of that remaining portion of the present Province of Lanao del Sur which comprises the municipalities of Lumbatan, Butig, Binidayan, Bayang, Tubaran, Tugaya, Pagayawan, Pualas, Balabagan, Mala-bang, Ganassi, Madalum, Madamba, Bacolod Grande and Balindong.
+
+ **Section 2.** The capital of the Province of Maranaw shall be the City of Marawi, and that of the Province of Lanao del Sur shall be the Municipality of Malabang.
+
+ **Section 3.** Except as hereinafter provided, all provisions of the law now or hereafter applicable to regular provinces shall be applicable to the Provinces of Maranaw and Lanao del Sur.
+
+ **Section 4.** The new provinces as provided in this Act shall come into existence upon the election and qualification of their first elective provincial officials, who shall be elected in a special election simultaneously with the general elections of November, nineteen hundred and seventy-three.
+
+ **Section 5.** For purposes of the special election mentioned in Section four hereof, the provincial board of canvassers of the present Province of Lanao del Sur shall act as the provincial board of canvassers for the provinces herein created.
+
+ **Section 6.** For the purposes of congressional representation and provincial elections, the City of Marawi shall be included in the Province of Maranaw.
+
+ **Section 7.** The funds, obligations and the assets of all kinds of the present Province of Lanao del Sur subsisting at the time of the effectivity of the creation of the two provinces herein created shall be divided and distributed between the two provinces in proportion to the total income of the municipalities comprising each of these provinces for the fiscal year nineteen hundred seventy-two and nineteen hundred seventy-three:*Provided,* however,That if the obligation had been contracted to finance a project located in one of the two new provinces, the said province shall be responsible exclusively for such obligation.
+
+ **Section 8.** The present employees of the Province of Lanao del Sur whose salaries are paid out of provincial funds shall pertain to either of the provinces herein created according to the municipality wherein said employees are registered voters and actually voted therein during the general elections of nineteen hundred sixty-nine; otherwise, they shall pertain to the Province of Lanao del Sur.
+
+ **Section 9.** This Act shall take effect immediately upon its approval.
+
+ Approved, October 4, 1971.
+"	success	Republic Act	Republic Act No. 6406 divides the former Province of Lanao del Sur into two separate provinces—Maranaw and Lanao del Sur—defining their territorial limits, capitals, and the application of existing provincial laws. It specifies election procedures, the role of the board of canvassers, the inclusion of Marawi City, the distribution of assets and obligations, employee assignments, and mandates immediate effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Establishes the territorial boundaries of the new Province of Maranaw and the remaining Province of Lanao del Sur, listing the municipalities each will comprise.""}, {""title"": ""Section 2."", ""summary"": ""Designates the City of Marawi as the capital of Maranaw and the Municipality of Malabang as the capital of Lanao del Sur.""}, {""title"": ""Section 3."", ""summary"": ""States that all existing provincial laws applicable to regular provinces will also apply to the newly created provinces, except where otherwise specified.""}, {""title"": ""Section 4."", ""summary"": ""Sets the effective date of the new provinces to coincide with the election and qualification of their first elective provincial officials during the November 1973 elections.""}, {""title"": ""Section 5."", ""summary"": ""Assigns the existing provincial board of canvassers of Lanao del Sur to serve as the board of canvassers for both new provinces for the special election.""}, {""title"": ""Section 6."", ""summary"": ""Includes the City of Marawi within the jurisdiction of the Province of Maranaw for congressional representation and provincial elections.""}, {""title"": ""Section 7."", ""summary"": ""Provides for the division and distribution of assets, obligations, and funds of the former Province of Lanao del Sur between the new provinces based on the municipalities' incomes for 1972-1973, with special rules for obligations related to projects in either new province.""}, {""title"": ""Section 8."", ""summary"": ""Assigns present employees of Lanao del Sur to either new province based on their registered voter municipality and voting history in the 1969 elections; otherwise, they remain with Lanao del Sur.""}, {""title"": ""Section 9."", ""summary"": ""Declares that the Act takes effect immediately upon approval.""}]"	6406	October 04, 1971			To reorganize local governance by dividing the Province of Lanao del Sur into two distinct provinces, thereby improving administrative efficiency, representation, and resource management.	"[""Divides Lanao del Sur into Maranaw and Lanao del Sur"", ""Defines territorial limits and capitals"", ""Applies existing provincial laws to new provinces"", ""Specifies election timing and board of canvassers"", ""Includes Marawi City in Maranaw for representation"", ""Distributes assets and obligations based on municipal incomes"", ""Reassigns employees based on voting history"", ""Immediate effect upon approval""]"		"[""provincial division"", ""local government"", ""Philippines"", ""Republic Act 6406""]"	"[""Lanao del Sur"", ""Maranaw"", ""Marawi"", ""Malabang"", ""province division"", ""municipalities"", ""assets"", ""elections"", ""board of canvassers""]"
+repacts:datasets/markdown/repacts/1971/ra_6407_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6407_1971.md	ra_6407_1971	AN ACT STANDARDIZING THE SALARIES OF THE PROSECUTION STAFF OF THE DEPARTMENT OF JUSTICE, PROVINCIAL	"**[ REPUBLIC ACT NO. 6407, October 04, 1971 ]**
+
+ AN ACT STANDARDIZING THE SALARIES OF THE PROSECUTION STAFF OF THE DEPARTMENT OF JUSTICE, PROVINCIAL
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Section two of Republic Act Numbered Three thousand seven hundred eighty-three, as amended, is further amended to read as follows:
+
+ ""**Section 2.** The Chief State Prosecutor, the Assistant Chief State Prosecutor, the Senior State Prosecutors, the State Prosecutors, and the District State Prosecutors shall be appointed by the President of the Philippines with the consent of the Commission on Appointments:*Provided,* That each judicial district as organized under the provisions of Republic Act Numbered Two hundred ninety-six, otherwise known as the Judiciary Act of 1948, as amended, shall have one District State Prosecutor who shall be permanently appointed thereto:*Provided, further,*That the District State Prosecutors
+
+ shall be under the supervision of the Chief State Prosecutor.
+
+ ""The salary of the Chief State Prosecutor shall be P23,000.00 per annum and for each Assistant Chief State Prosecutor P22,000.00per annum. The qualifications and rank of the Senior State Prosecutor, State Prosecutor or District State Prosecutor shall be the same as a provincial fiscal.""
+
+ **Section 2.** Section four of the same Act, as amended, is further amended to read as follows:
+
+ > ""**Section 4.** The prosecution staff shall have the following; complementary personnel:
+>
+>  ""(a) One supervising administrative assistant who shall receive an annual salary of P10,200.00;
+>
+>  ""(b) Three supervising senior stenographic reporters, each at P9.000.00 per annum;
+>
+>  ""(c) Eight senior stenographic reporters, each at P7,800 per annum;
+>
+>  ""(d) Twelve junior stenographic reporters, each at P7,200.00 per annum,;
+>
+>  ""(e) Sixteen district stenographic reporters, each at P6,600.00 per annum;
+>
+>  ""(f) One secretary who shall receive an annual salary of P7,800.00;
+>
+>  ""(g) One sheriff who shall receive an annual salary of P5,400.00;
+>
+>  ""(h) One statistical aide who shall receive an annual salary of P5.400.00;
+>
+>  ""(i) Two clerks, each at P5.400.00 per annum;
+>
+>  ""(j) Two janitor-messengers, each at P4,200.00 per annum;
+>
+>  ""(k) Five legal research attorneys, each at P12,000.00 per annum;
+>
+>  ""(l) Three stenographers, each at P5,400.00 per annum;
+>
+>  ""(m) Four clerk-typists, each at P4,800.00 per annum; and
+>
+>  ""(n) Two process servers, each at P4,800.00 per annum.""
+
+ **Section 3.** Section one of Republic Act Numbered Forty-one hundred forty-two is hereby amended to read as follows:
+
+ ""**Section 1.** The annual salaries of provincial and city fiscals shall be as hereinbelow fixed:
+
+ | ""(A) For first class province or City"" |  |
+| --- | --- |
+| Provincial or City Fiscal | P22,200.00 |
+| First Assistant Provincial or City Fiscal | 18,000.00 |
+| Second Assistant Provincial or City Fiscal | 16,800.00 |
+| Third Assistant Provincial or City Fiscal | 15,600.00 |
+| Fourth Assistant Provincial or City Fiscal | 14,400.00 |
+| Fifth Assistant Provincial or City Fiscal | 13,200.00 |
+| Other Assistant Provincial or City Fiscal | 12,000.00 |
+| ""(B) For second class province or City - |  |
+| Provincial or City Fiscal | P21,000.00 |
+| First Assistant Provincial or City Fiscal | P16,800.00 |
+| Second Assistant Provincial or City Fiscal | P15,600.00 |
+| Third Assistant Provincial or City Fiscal | P14,400.00 |
+| Fourth Assistant Provincial or City Fiscal | P13,200.00 |
+| Fifth and other Assistant Provincial or City Fiscal | P12,000.00 |
+| ""(C) For third class province or City - |  |
+| Provincial or City Fiscal | P19,800.00 |
+| First Assistant Provincial or City Fiscal | P15,600.00 |
+| Second Assistant Provincial or City Fiscal | P14,400.00 |
+| Third Assistant Provincial or City Fiscal | P13,200.00 |
+| Fourth Assistant Provincial or City Fiscal | P12,000.00 |
+| ""(D) For fourth class province or City- |  |
+| Provincial or City Fiscal | P18,600.00 |
+| First Assistant Provincial or City Fiscal | P15,600.00 |
+| Second Assistant Provincial or City Fiscal | P13,200.00 |
+| Third Assistant Provincial or City Fiscal | P12,000.00 |
+
+ **Section 4.** In addition to such sum as may have been provided in the current Appropriations Act, there is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, such sums as may be necessary to carry out the provisions of this Act.
+
+ **Section 5.** This Act shall take effect upon its approval.
+
+ Approved, October 4, 1971.
+"	success	Republic Act	Republic Act No. 6407 standardizes the salaries of the prosecution staff of the Department of Justice at the provincial level, amending previous laws to set specific salary amounts for various positions and allocating necessary funds for implementation.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 2 of Republic Act 3783 to establish appointment procedures and salary amounts for Chief State Prosecutor, Assistant Chief State Prosecutor, Senior State Prosecutors, State Prosecutors, and District State Prosecutors, including supervision and appointment by the President with the Commission on Appointments.""}, {""title"": ""Section 2"", ""summary"": ""Amends Section 4 of Republic Act 3783 to provide salaries for complementary personnel such as administrative assistants, stenographic reporters, stenographers, clerks, janitor-messengers, legal research attorneys, and other support staff, with specified annual amounts.""}, {""title"": ""Section 3"", ""summary"": ""Amends Section 1 of Republic Act 4142 to set fixed annual salaries for provincial and city fiscals and their assistants across different class provinces and cities.""}, {""title"": ""Section 4"", ""summary"": ""Appropriates necessary funds from the National Treasury to carry out the provisions of the Act.""}, {""title"": ""Section 5"", ""summary"": ""States that the Act shall take effect upon its approval.""}]"	6407	October 04, 1971			To standardize the salaries of the prosecution staff of the Department of Justice at the provincial level and ensure uniform compensation across positions.	"[""Appointment of prosecution staff by the President with consent of the Commission on Appointments."", ""Fixed salary of P23,000.00 per annum for Chief State Prosecutor."", ""Fixed salary of P22,000.00 per annum for Assistant Chief State Prosecutor."", ""Specified salaries for various types of stenographic reporters, clerks, and support staff."", ""Fixed annual salaries for provincial and city fiscals and their assistants based on class of province or city.""]"	Republic Act 3783, Republic Act 296, Republic Act 4142	"[""salaries"", ""prosecution staff"", ""Department of Justice"", ""provincial"", ""standardization""]"	"[""salary standardization"", ""prosecution"", ""Department of Justice"", ""provincial staff"", ""Republic Act 6407""]"
+repacts:datasets/markdown/repacts/1971/ra_6408_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6408_1971.md	ra_6408_1971	An Act Appropriating Funds to Rehabilitate the Provinces of Cotabato, Lanao del Norte, Lanao del Sur, South Cotabato and Bukidnon and other Areas in the Island of Mindanao for Damages Caused by the Conflicts among the Ilagas, Muslims and the Government Armed Forces	"**[ REPUBLIC ACT NO. 6408, October 04, 1971 ]**
+
+ AN ACT APPROPRIATING FUNDS TO REHABILITATE THE PROVINCES OF COTABATO, LANAO DEL NORTE, LANAO DEL SUR, SOUTH COTABATO AND BUKIDNON AND OTHER AREAS IN THE ISLAND OF MINDANAO FOR DAMAGES CAUSED BY THE CONFLICTS AMONG THE ILA-GAS, MUSLIMS AND THE GOVERNMENT ARMED FORCES.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The sum of ten million pesos is hereby appropriated, out of any funds of the National Treasury not otherwise appropriated, to rehabilitate the Provinces of Cotabato, Lanao del Norte, Lanao del Sur, South Cotabato and Bukidnon and other areas in the Island of Mindanao for damages caused by the recent conflicts among the Muslims, Ilagas and the Government Armed Forces.
+
+ **Section 2.** The above fund shall be adminaistered by the Department of Social Welfare and other relief agencies.
+
+ **Section 3.** This Act shall take effect after the November eight, nineteen hundred and seventy-one election.
+
+ Approved, October 4, 1971.
+"	success	Act	The Republic Act No. 6408 appropriates ten million pesos for the rehabilitation of affected provinces in Mindanao, designates the Department of Social Welfare and related agencies for administration, and specifies that the act takes effect after the 1971 election.	"[{""title"": ""Section 1."", ""summary"": ""Appropriates ten million pesos from the National Treasury for rehabilitation of Cotabato, Lanao del Norte, Lanao del Sur, South Cotabato, Bukidnon and other areas in Mindanao.""}, {""title"": ""Section 2."", ""summary"": ""The allocated funds shall be administered by the Department of Social Welfare and other relief agencies.""}, {""title"": ""Section 3."", ""summary"": ""The act shall take effect after the November 8, 1971 election.""}]"	6408	1971-10-04			To provide financial resources for the rehabilitation of provinces in Mindanao affected by conflicts involving Muslims, Ilagas, and government forces.	"[""Appropriates ten million pesos for rehabilitation"", ""Funds to be administered by the Department of Social Welfare"", ""Act effective after the 1971 election""]"		"[""Rehabilitation"", ""Appropriation"", ""Mindanao"", ""Conflict""]"	"[""funds"", ""rehabilitation"", ""Cotabato"", ""Lanao"", ""Bukidnon"", ""Ilagas"", ""Muslims"", ""Government Armed Forces"", ""Department of Social Welfare""]"
+repacts:datasets/markdown/repacts/1971/ra_6409_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6409_1971.md	ra_6409_1971	"An Act Amending Further Some Sections of Republic Act Numbered Seven Hundred and Eight, Otherwise Known as the ""Foreign Service Act of the Philippines"", concerning salaries, allowances, and other benefits."	"**[ REPUBLIC ACT NO. 6409, October 04, 1971 ]**
+
+ AN ACT AMENDING FURTHER SOME SECTIONS OF REPUBLIC ACT NUMBERED SEVEN HUNDRED AND EIGHT, OTHERWISE KNOWN AS THE ""FOREIGN SERVICE ACT OF THE PHILIPPINES"", CONCERNING SALARIES, ALLOWANCES, AND OTHER BENEFITS.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Sections one, two, and four, Part C, Title II, of Republic Act Numbered Seven hundred and eight are hereby further amended to read as follows:
+
+ > Part C*Salaries*
+>
+>  ""**Section 1.***Chiefs of Mission.*The President shall, on the basis of the importance of the post and for salary purposes, classify into three classes the positions which are to be occupied by chiefs of mission. The basic salaries of chiefs of mission*per annum*shall be as follows:
+
+ | Class I | P24,000.00 |
+| --- | --- |
+| Class II | 23,000.00 |
+| Class III | 22,000.00 |
+
+ > ""**Section 2.***Foreign Service Officers.*There shall be four classes of foreign service officers, excluding the class of career minister. The basic salary of a career minister*per annum*shall be twenty thousand pesos. The basic salaries of foreign service officers*per annum*within each of the other classes shall be as follows:
+
+ | Class I | P16,800.00 | P17,400.00 | P18,000.00 |
+| --- | --- | --- | --- |
+| Class II | P15,000.00 | P15,600.00 | P16,200.00 |
+| Class III | P13,200.00 | P13,800.00 | P14,400.00 |
+| Class IV | P11,400.00 | P12,000.00 | P12,600.00 |
+
+ > ""**Section 4.**Foreign Service Staff Officers and Employees.There shall be three classes of foreign service staff officers and three classes of Foreign Service Staff employees. Their basic salaries*per annum*shall be as follows:
+
+ Foreign Service Staff Officers
+
+ | Class I | P9,600.00 | P9,900.00 | P10,200.00 |
+| --- | --- | --- | --- |
+| Class II | P8,700.00 | P9,000.00 | P9,300.00 |
+| Class III | P7,800.00 | P8,100.00 | P8,400.00 |
+
+ Foreign Service Staff Employees
+
+ | Class I | P6,600.00 | P6,900.00 | P7,200.00 |
+| --- | --- | --- | --- |
+| Class II | P5,700.00 | P6,000.00 | P6,300.00 |
+| Class III | P4,800.00 | P5,100.00 | P5,400.00 |
+
+ **Section 2.** **Section 1.** Title VII of the same Act is hereby further amended to read as follows:
+
+ ""**Section 1.***Implementation.*In order to implement the provisions of this Act, the Secretary shall effect the reorganization of the Department and the Foreign Service in accordance with the provisions of this Act and for this purpose he is authorized to reallot the funds provided for the Department in the General Appropriations Act for the fiscal year nineteen hundred seventy-one-nineteen hundred seventy-two:*Provided, however,*That any officer receiving the salary and allowances of a particular class of Foreign Service Officer at the time of the approval of this Act shall continue to receive the salary and allowances corresponding to the same class under the provisions of this Act. In addition to the sum of two million five hundred thirty-two thousand sixty pesos appropriated under the provisions of Republic Act Numbered Four thousand one hundred and twelve, the sum of Two million nine hundred fifty-six thousand pesos is hereby authorized to be appropriated out of any unappropriated funds of the National Treasury to carry out the provisions of this Act, as amended.""
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved, October 4, 1971.
+"	success	Act	Republic Act No. 6409 amends sections of RA 708 to revise salary classifications for chiefs of mission, foreign service officers, and staff officers/employees, and provides implementation and funding provisions.	"[{""title"": ""Section 1: Chiefs of Mission and Salary Classification"", ""summary"": ""Amends salary classes for chiefs of mission, establishing three classes with specified basic salaries.""}, {""title"": ""Section 2: Foreign Service Officers"", ""summary"": ""Revises salary classes for foreign service officers, excluding career ministers, with four classes and corresponding basic salaries.""}, {""title"": ""Section 4: Foreign Service Staff Officers and Employees"", ""summary"": ""Amends salary classes for foreign service staff officers and employees, with three classes and specified basic salaries.""}, {""title"": ""Section 1 (Implementation)"", ""summary"": ""Provides implementation measures, reorganization authority, and funding appropriations for the Act.""}]"	6409	October 04, 1971			To update salary structures and benefits for foreign service personnel and establish implementation and funding provisions.	"[""Amended salary classes for chiefs of mission"", ""Revised salary classes for foreign service officers"", ""Revised salary classes for foreign service staff officers and employees"", ""Implementation provisions and funding appropriations""]"	Republic Act No. 708 (Foreign Service Act of the Philippines) – specific sections amended.	"[""Foreign Service Act"", ""Salary Revision"", ""Republic Act 6409""]"	"[""Chiefs of Mission"", ""Foreign Service Officers"", ""Foreign Service Staff"", ""Salary classification"", ""Implementation"", ""Funding appropriation""]"
+repacts:datasets/markdown/repacts/1971/ra_6410_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6410_1971.md	ra_6410_1971	An Act Standardizing the Salaries of Certain Ranking Officials in the Department of Education	"**REPUBLIC ACT No. 6410**
+
+ AN ACT STANDARDIZING THE SALARIES OF CERTAIN RANKING OFFICIALS IN THE DEPARTMENT OF EDUCATION, AMENDING FOR THE PURPOSE SECTION ONE OF REPUBLIC ACT NUMBERED FORTY-ONE HUNDRED FIFTY-ONE, AS AMENDED BY REPUBLIC ACT FIFTY HUNDRED FORTY-NINE.
+
+ **Section 1.** Section one of Republic Act Numbered Forty-one hundred fifty-one is hereby further amended to read as follows:
+
+ ""Sec. 1. Provisions of the existing laws to the contrary notwithstanding, the minimum salaries of the Directors, Assistant Directors, Administrative Officers, Chiefs and Assistant Chiefs of Divisions and other ranking officials in the General Offices of the Bureau of Public Schools, Bureau of Vocational Education, Bureau of Private Schools, the National Library, the Institute of National Language, the National Museum, the National Historical Commission, the State Scholarships Council, the Board of National Education and the Secretary of Education are hereby fixed as follows:
+
+ ""(a) Director P14,400 to P17,400 per annum ""(b) Assistant Director P12,000 to P16,800 per annum ""(c) Administrative Officer II to VI P10,800 to P16,200 per annum ""(d) Secretary, Board of National Education, (with the rank of Undersecretary) P16,200*per annum* ""(e) Chief of Division, Chief Educational Planning Analyst, Chief Legal Officer, Personnel Officer IV or Chief Educational Supervisor, Executive Secretary, State Scholarships Council P15,600*per annum* ""(f) Assistant Chief of Division, and Assistant Chief Educational Planning Analyst P15,000*per annum* ""(g) Supervising Educational Specialist II, Teacher Education Specialist II, Chief Educational Supervisor I, and Education Executive Assistant P13,800*per annum* ""(h) Senior Educational Planning Analyst, Private School Special Consultant, Supervising Educational Specialist I, Supervising Curriculum Coordinator, Teacher Education Specialist I, Supervising Teacher Credentials Evaluator, and Educational Planning Analyst P12,600*per annum* ""(i) School Projects Coordinator, Senior Executive Assistant, Secretary, Board of Textbooks, Executive Assistant, and Medical Supervisor II P11,400*per annum* ""(j) Chief Dental Service Officer, Budget Officer III, Legal Officer III, and Senior Legal Officer P10,200*per annum* ""(k) Supervising Information Officer, Legal Officer II, Legal Officer I, Technical Property Inspector, Budget Officer I, Senior Training Officer, Chief Records Unit, Personnel Officer I, and Cashier III P8,400*per annum.* ""The terms ""Chief of Division and Assistant Chief of Division"" as used in sub-sections (e) and (f) hereof shall include all officials holding such positions, whether in the promotional, in the administrative or in the service divisions in the Bureaus and Offices in the Department of Education and are entitled to the salaries fixed in the said sub-sections.""

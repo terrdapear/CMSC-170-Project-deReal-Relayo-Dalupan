@@ -1,0 +1,192 @@
+
+ Approved: June 19, 1960.
+"	success	Republic Act	This law amends Section 3 of Republic Act No. 181 to authorize the appropriation of funds for the establishment, operation, and maintenance of a breeding station in Himamaylan, Negros Occidental, and states that the act takes effect upon its approval.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 3 of RA 181 to authorize the appropriation of funds for the breeding station for the fiscal year ending June 30, 1961.""}, {""title"": ""Section 2"", ""summary"": ""The act takes effect upon its approval.""}]"	2756	June 19, 1960			To amend RA 181 to provide funding for the breeding station in Himamaylan, Negros Occidental.	"[""Appropriation of funds for the breeding station"", ""Act takes effect upon approval""]"	Republic Act No. 181	"[""breeding station"", ""funding appropriation"", ""agriculture""]"	"[""breeding station"", ""funding"", ""RA 181"", ""Negros Occidental"", ""Himamaylan""]"
+repacts:datasets/markdown/repacts/1960/ra_2757_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2757_1960.md	ra_2757_1960	An Act Reappropriating Certain Sums Appropriated in Republic Act Numbered Nineteen Hundred	"**REPUBLIC ACT No. 2757**
+
+ **An Act Reappropriating Certain Sums Appropriated in Republic Act Numbered Nineteen Hundred**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sum appropriated in item (k), page 109, subparagraph 48, for the Province of Sorsogon, paragraph a, Title B, Section one of Republic Act Numbered Nineteen hundred, to wit:
+
+ > ""(k) Dancalan-Pangpang-Gimagaan-Vinisitahan-Tinanogan-Sibago-San Rafael-Sta. Cruz Road, DonsolConstruction ₱20,000.00""
+
+ is hereby reappropriated for the construction of the Donsol-Banuangurang-Javellar Road, Municipality of Donsol, Province of Sorsogon.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	Reappropriates ₱20,000.00 from Republic Act 1900 for the construction of the Donsol-Banuangurang-Javellar Road in Sorsogon.	"[{""title"": ""Section 1"", ""summary"": ""Reappropriates the sum appropriated in item (k) of RA 1900 for the construction of the Donsol-Banuangurang-Javellar Road, Municipality of Donsol, Province of Sorsogon.""}, {""title"": ""Section 2"", ""summary"": ""The Act shall take effect upon its approval.""}]"	2757	June 19, 1960			Reappropriation of allocated funds for road construction in Sorsogon.	"[""Reappropriates \u20b120,000.00 from RA 1900 for road construction in Sorsogon"", ""Funds to be used for construction of Donsol-Banuangurang-Javellar Road"", ""Act takes effect upon approval""]"	Republic Act 1900	"[""Reappropriation"", ""Infrastructure"", ""Road Construction"", ""Sorsogon""]"	"[""RA 2757"", ""reappropriation"", ""road construction"", ""Sorsogon""]"
+repacts:datasets/markdown/repacts/1960/ra_2758_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2758_1960.md	ra_2758_1960	An Act to Amend Priority Number 33, Page 90-B, Group II, for the Province of Sorsogon, Appendix B of Republic Act Numbered Sixteen Hundred Thirteen	"**REPUBLIC ACT No. 2758**
+
+ **An Act to Amend Priority Number 33, Page 90-B, Group II, for the Province of Sorsogon, Appendix B of Republic Act Numbered Sixteen Hundred Thirteen**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Priority Number 33, page 90-B, Group II, for the Province of Sorsogon, Appendix B of Republic Act Numbered Sixteen hundred thirteen is amended to read as follows:
+
+ > ""33. Pilar Ginablan Construction of one room semi-permanent ₱5,000.00""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	"This act amends Priority Number 33, page 90-B, Group II, for Sorsogon, Appendix B of RA 613 to read ""33. Pilar Ginablan Construction of one room semi-permanent ₱5,000.00"" and takes effect upon approval."	"[{""title"": ""Section 1."", ""summary"": ""Amends Priority Number 33, page 90-B, Group II, for the Province of Sorsogon, Appendix B of Republic Act Numbered Sixteen Hundred Thirteen to read \""33. Pilar Ginablan Construction of one room semi-permanent \u20b15,000.00\"".""}, {""title"": ""Section 2."", ""summary"": ""The act shall take effect upon its approval.""}]"	2758	June 19, 1960			To amend Republic Act No. 613 regarding Priority Number 33 for the Province of Sorsogon	"[""Amends Priority Number 33, page 90-B, Group II, for the Province of Sorsogon, Appendix B of RA 613"", ""Replaces the text with \""33. Pilar Ginablan Construction of one room semi-permanent \u20b15,000.00\"""", ""The act takes effect upon approval""]"	Republic Act No. 613	"[""amendment"", ""construction"", ""Sorsogon"", ""priority"", ""budget""]"	"[""Priority Number 33"", ""Sorsogon"", ""Pilar Ginablan"", ""semi-permanent"", ""\u20b15,000.00"", ""RA 613""]"
+repacts:datasets/markdown/repacts/1960/ra_2759_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2759_1960.md	ra_2759_1960	An Act Providing for the Operation and Maintenance of an Emergency Hospital in the Municipality of Ibajay, Province of Aklan, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 2759**
+
+ **An Act Providing for the Operation and Maintenance of an Emergency Hospital in the Municipality of Ibajay, Province of Aklan, and Authorizing the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There is hereby established an emergency hospital with a twenty-five-bed capacity in the Municipality of Ibajay, Province of Aklan.
+
+ **Section 2.** The sum of one hundred thousand pesos is authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, to carry into effect the provisions of this Act.
+
+ **Section 3.** This Act shall take effect upon the date the funds authorized herein to be appropriated are provided for.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	The act establishes a 25-bed emergency hospital in Ibajay, Aklan, authorizes the appropriation of one hundred thousand pesos for its operation, and sets its effective date upon the provision of the authorized funds.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of an emergency hospital with a twenty-five-bed capacity in the Municipality of Ibajay, Province of Aklan.""}, {""title"": ""Section 2."", ""summary"": ""Authorization of one hundred thousand pesos to be appropriated from the National Treasury for the execution of the act.""}, {""title"": ""Section 3."", ""summary"": ""The act shall take effect upon the date the authorized funds are provided.""}]"	2759	June 19, 1960			To provide for the operation and maintenance of an emergency hospital in Ibajay, Aklan, and authorize appropriation of funds for its establishment and functioning.	"[""Establishment of a 25-bed emergency hospital in Ibajay, Aklan"", ""Authorization of one hundred thousand pesos from the National Treasury for the act"", ""Effectivity upon provision of the authorized funds""]"		"[""Healthcare"", ""Hospital"", ""Emergency"", ""Aklan"", ""Republic Act""]"	"[""emergency hospital"", ""Ibajay"", ""Aklan"", ""appropriation"", ""National Treasury"", ""budget""]"
+repacts:datasets/markdown/repacts/1960/ra_2760_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2760_1960.md	ra_2760_1960	An Act to Amend Item (67), Page 820, Subparagraph (av), for the Province of Sorsogon, Paragraph b, Title A, Section Three of Republic Act Numbered Nineteen Hundred	"**REPUBLIC ACT No. 2760**
+
+ **An Act to Amend Item (67), Page 820, Subparagraph (av), for the Province of Sorsogon, Paragraph b, Title A, Section Three of Republic Act Numbered Nineteen Hundred**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item (67), page 820, subparagraph (av), for the Province of Sorsogon, paragraph b, Title A, Section three of Republic Act Numbered Nineteen hundred is amended to read as follows:
+
+ > ""(67) Construction of, fencing and improvement of site for, Industrial Arts Bldg., Basud Barrio School, Sorsogon ₱10,000.00""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	Amends Item (67) of Republic Act 1900 to include construction of fencing and improvement of site for the Industrial Arts Building at Basud Barrio School, Sorsogon.	"[{""title"": ""Section 1"", ""summary"": ""Item (67) is amended to read: \""Construction of, fencing and improvement of site for, Industrial Arts Bldg., Basud Barrio School, Sorsogon \u20b110,000.00\"".""}, {""title"": ""Section 2"", ""summary"": ""The Act shall take effect upon its approval.""}]"	2760	June 19, 1960			To amend Item (67) of Republic Act 1900 for the Province of Sorsogon, specifically for Industrial Arts Building improvements.	"[""Amendment to Item 67 of RA 1900 to include construction of fencing and improvement of site for Industrial Arts Building at Basud Barrio School, Sorsogon."", ""Act takes effect upon approval.""]"	Republic Act 1900	"[""Amendment"", ""Sorsogon"", ""Industrial Arts Building""]"	"[""Item 67"", ""RA 1900"", ""Sorsogon"", ""Basud Barrio School"", ""Industrial Arts Building"", ""amendment"", ""construction"", ""fencing"", ""improvement""]"
+repacts:datasets/markdown/repacts/1960/ra_2761_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2761_1960.md	ra_2761_1960	An Act Appropriating Seventy-Five Thousand Pesos for the Operation of the Allen Emergency Hospital in the Municipality of Allen, Province of Samar	"**REPUBLIC ACT No. 2761**
+
+ **An Act Appropriating Seventy-Five Thousand Pesos for the Operation of the Allen Emergency Hospital in the Municipality of Allen, Province of Samar**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sum of seventy-five thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for the operation of the Emergency Hospital in the Municipality of Allen, Province of Samar.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	Appropriates 75,000 pesos for the operation of the Allen Emergency Hospital in Allen, Samar.	"[{""title"": ""Section 1."", ""summary"": ""The sum of seventy-five thousand pesos is appropriated for the operation of the Emergency Hospital in the Municipality of Allen, Province of Samar.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2761	June 19, 1960			Funding for the operation of an emergency hospital in Allen, Samar.	"[""Appropriates 75,000 pesos for the operation of the Allen Emergency Hospital."", ""Funds are to be drawn from the National Treasury."", ""The Act takes effect upon approval.""]"		"[""appropriation"", ""healthcare"", ""hospital"", ""Samar"", ""Allen""]"	"[""appropriation"", ""hospital"", ""Samar"", ""Allen"", ""Emergency Hospital"", ""National Treasury"", ""Budget""]"
+repacts:datasets/markdown/repacts/1960/ra_2762_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2762_1960.md	ra_2762_1960	An Act to Change the Name of Davao (Sasa) Airport in Davao City to Francisco Bangoy Airport in Honor of the Late Don Francisco Bangoy	"**REPUBLIC ACT No. 2762**
+
+ **An Act to Change the Name of Davao (Sasa) Airport in Davao City to Francisco Bangoy Airport in Honor of the Late Don Francisco Bangoy**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** In recognition of the philanthropic acts of the late Don Francisco Bangoy, the name of Davao (Sasa) Airport in Davao City is hereby changed to Francisco Bangoy Airport.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	This act changes the name of Davao (Sasa) Airport to Francisco Bangoy Airport in honor of the late Don Francisco Bangoy.	"[{""title"": ""Section 1."", ""summary"": ""The name of Davao (Sasa) Airport is changed to Francisco Bangoy Airport in recognition of the philanthropic acts of the late Don Francisco Bangoy.""}, {""title"": ""Section 2."", ""summary"": ""The act shall take effect upon its approval.""}]"	2762	June 19, 1960			To honor the late Don Francisco Bangoy by renaming the airport.	"[""Name change of Davao (Sasa) Airport to Francisco Bangoy Airport."", ""Act takes effect upon approval.""]"		"[""Airport"", ""Renaming"", ""Philippines"", ""Republic Act"", ""Infrastructure""]"	"[""Davao"", ""Sasa Airport"", ""Francisco Bangoy"", ""renaming"", ""airport""]"
+repacts:datasets/markdown/repacts/1960/ra_2763_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2763_1960.md	ra_2763_1960	An Act Amending Item 84, for the Province of Pangasinan, Page 184, Paragraph g, Section Two of Republic Act Numbered Sixteen Hundred Thirteen	"**REPUBLIC ACT No. 2763**
+
+ **An Act Amending Item 84, for the Province of Pangasinan, Page 184, Paragraph g, Section Two of Republic Act Numbered Sixteen Hundred Thirteen**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item 84, for the Province of Pangasinan, page 184, paragraph g, Section two of Republic Act Numbered Sixteen hundred thirteen is hereby amended to read as follows:
+
+ > 84. Pogon-Sili Barrio School Building, Aguilar ₱5,000.00.""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	This Act amends Item 84 of Republic Act No. 1613, adding the cost of ₱5,000.00 for the Pogon-Sili Barrio School Building in Aguilar, Pangasinan. The amendment takes effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Item 84, for the Province of Pangasinan, page 184, paragraph g, Section two of Republic Act Numbered Sixteen hundred thirteen is amended to read: 84. Pogon-Sili Barrio School Building, Aguilar \u20b15,000.00.""}, {""title"": ""Section 2"", ""summary"": ""The Act shall take effect upon its approval.""}]"	2763	June 19, 1960			To amend Item 84 of RA 1613 for the Province of Pangasinan.	"[""Amendment to Item 84 of RA 1613 adding \u20b15,000.00 for Pogon-Sili Barrio School Building"", ""Effective upon approval""]"	Republic Act No. 1613, Item 84	"[""Amendment""]"	"[""Republic Act 2763"", ""Item 84"", ""Pangasinan"", ""Pogon-Sili Barrio School Building"", ""Aguilar"", ""\u20b15,000.00""]"
+repacts:datasets/markdown/repacts/1960/ra_2764_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2764_1960.md	ra_2764_1960	An Act to Amend Item (p), Page 281, Paragraph F, Group IV for the Province of Iloilo, Section Two of Republic Act Numbered Nineteen Hundred	"**REPUBLIC ACT No. 2764**
+
+ **An Act to Amend Item (p), Page 281, Paragraph F, Group IV for the Province of Iloilo, Section Two of Republic Act Numbered Nineteen Hundred**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item (p), page 281, paragraph f, Group IV for the Province of Iloilo, Section two of Republic Act Numbered Nineteen hundred is amended to read as follows:
+
+ > ""(p) Licoan Elementary School, construction of additional rooms ₱5,000.00""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	An act that amends Item (p) of RA 1900 concerning Licoan Elementary School in Iloilo, authorizing construction of additional rooms costing ₱5,000.00.	"[{""title"": ""Section 1."", ""summary"": ""Item (p), page 281, paragraph f, Group IV for the Province of Iloilo, Section two of Republic Act Numbered Nineteen hundred is amended to read as follows: \""(p) Licoan Elementary School, construction of additional rooms \u20b15,000.00\"".""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2764	June 19, 1960			To amend Item (p) of Republic Act 1900 for the Province of Iloilo, authorizing construction of additional rooms at Licoan Elementary School.	"[""(p) Licoan Elementary School, construction of additional rooms \u20b15,000.00""]"	Republic Act Numbered Nineteen Hundred	"[""Amendment"", ""Education"", ""Iloilo"", ""Republic Act""]"	"[""Republic Act No. 2764"", ""Iloilo"", ""Licoan Elementary School"", ""construction"", ""additional rooms"", ""\u20b15,000.00"", ""Amendment""]"
+repacts:datasets/markdown/repacts/1960/ra_2765_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2765_1960.md	ra_2765_1960	Republic Act No. 2765	"**REPUBLIC ACT No. 2765**
+
+ **An Act to Amend Item (a), Group I, Subparagraph (47), for the Province of Sorsogon, Page 118, Paragraph F, Section Two of Republic Act Numbered Sixteen Hundred Thirteen**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item (a), Group I, subparagraph (47), for the Province of Sorsogon, page 118, paragraph f, Section two of Republic Act Numbered Sixteen hundred thirteen is amended to read as follows:
+
+ > ""(a) Gubat Public MarketPurchase and improvement of additional site, including construction of market tiendas ₱50,000,00""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Act	An act amending Item (a), Group I, subparagraph (47) of Republic Act No. 1613 concerning the Gubat Public Market in Sorsogon, Philippines. The amendment specifies the purchase and improvement of an additional site for the market, including construction of market tiendas, with a budget of ₱50,000.00.	"[{""title"": ""Section 1"", ""summary"": ""Item (a), Group I, subparagraph (47) of Republic Act No. 1613 is amended to read: \""(a) Gubat Public Market Purchase and improvement of additional site, including construction of market tiendas \u20b150,000,00\"".""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	2765	June 19, 1960			To amend the provisions of Republic Act No. 1613 regarding the Gubat Public Market, specifying the purchase and improvement of an additional site and construction of market tiendas.	"[""Item (a), Group I, subparagraph (47) amended to read: \""Gubat Public Market Purchase and improvement of additional site, including construction of market tiendas \u20b150,000.00\"".""]"	Republic Act No. 1613	"[""Amendment"", ""Public Market"", ""Sorsogon"", ""RA 2765""]"	"[""Gubat Public Market"", ""site improvement"", ""market tiendas"", ""Sorsogon"", ""RA 1613""]"
+repacts:datasets/markdown/repacts/1960/ra_2766_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2766_1960.md	ra_2766_1960	An Act Providing for the Establishment of an Emergency Hospital in the Municipality of Roxas, Province of Isabela, to be Known as the Roxas Memorial Emergency Hospital, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 2766**
+
+ **An Act Providing for the Establishment of an Emergency Hospital in the Municipality of Roxas, Province of Isabela, to be Known as the Roxas Memorial Emergency Hospital, and Authorizing the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the direct supervision of the Director of Medical Services, an emergency hospital in the Municipality of Roxas, Province of Isabela, to be known as the Roxas Memorial Emergency Hospital. The site for the said hospital shall be provided by the Municipal Council of the Municipality of Roxas, in consultation with the Director of Medical Services.
+
+ **Section 2.** The Secretary of Health shall promulgate such rules and regulations as may be necessary to carry into effect the purpose of this Act.
+
+ **Section 3.** The sum, of fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of the said hospital during the fiscal year nineteen hundred and sixty-one. Such sum as may be necessary for its operation and maintenance in subsequent years shall be included in the annual General Appropriations Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Act	This Republic Act establishes the Roxas Memorial Emergency Hospital in Roxas, Isabela, authorizes the appropriation of 50,000 pesos for its establishment and operation in 1961, mandates the Secretary of Health to promulgate necessary rules, and takes effect upon approval.	"[{""title"": ""Establishment of the Roxas Memorial Emergency Hospital"", ""summary"": ""The act establishes an emergency hospital under the direct supervision of the Director of Medical Services, with the site to be provided by the Municipal Council of Roxas in consultation with the Director.""}, {""title"": ""Regulatory Authority"", ""summary"": ""The Secretary of Health shall promulgate rules and regulations necessary to carry into effect the purpose of this Act.""}, {""title"": ""Funding"", ""summary"": ""Fifty thousand pesos is authorized for the establishment, operation and maintenance of the hospital during fiscal year 1961, with future funding to be included in the General Appropriations Act.""}, {""title"": ""Effectivity"", ""summary"": ""The act shall take effect upon its approval.""}]"	2766	June 19, 1960			To establish an emergency hospital in Roxas, Isabela, and authorize its funding and operational framework.	"[""Establishment of Roxas Memorial Emergency Hospital"", ""Authorization of 50,000 pesos for 1961"", ""Secretary of Health to promulgate necessary rules"", ""Act takes effect upon approval""]"		"[""Health"", ""Hospital"", ""Emergency"", ""Isabela"", ""Roxas"", ""Philippines"", ""Republic Act""]"	"[""Roxas Memorial Emergency Hospital"", ""Isabela"", ""Emergency Hospital"", ""Funding"", ""Secretary of Health"", ""National Treasury""]"
+repacts:datasets/markdown/repacts/1960/ra_2767_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2767_1960.md	ra_2767_1960	An Act Changing the Names of Certain Barrios in the Municipality of Liargao, Province of Zamboanga del Sur	"**REPUBLIC ACT No. 2767**
+
+ **An Act Changing the Names of Certain Barrios in the Municipality of Liargao, Province of Zamboanga del Sur**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the barrio of Sominot in the Municipality of Liargao, Province of Zamboanga del Sur, is changed to Oliva.
+
+ **Section 2.** The name of the barrio of Lower Malating in the same municipality is changed to Magsaysay.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Act	An act to change the names of specific barrios within the municipality of Liargao, Zamboanga del Sur, to new names.	"[{""title"": ""Section 1"", ""summary"": ""Changes the name of the barrio of Sominot to Oliva.""}, {""title"": ""Section 2"", ""summary"": ""Changes the name of the barrio of Lower Malating to Magsaysay.""}, {""title"": ""Section 3"", ""summary"": ""The act shall take effect upon its approval.""}]"	2767	June 19, 1960			To alter the official names of barrios in the municipality of Liargao for administrative and identification purposes.	"[""Name of barrio Sominot changed to Oliva"", ""Name of barrio Lower Malating changed to Magsaysay""]"		"[""Barrios"", ""Municipality"", ""Zamboanga del Sur"", ""Republic Act"", ""1960""]"	"[""Barrios"", ""Name change"", ""Liargao"", ""Zamboanga del Sur"", ""Republic Act 2767""]"
+repacts:datasets/markdown/repacts/1960/ra_2768_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2768_1960.md	ra_2768_1960	An Act to Amend Item (ai), Group I, Subparagraph 43, for the Province of Pangasinan, Page 371, Paragraph (f), Section Two of Republic Act Numbered Nineteen Hundred	"**REPUBLIC ACT No. 2768**
+
+ **An Act to Amend Item (ai), Group I, Subparagraph 43, for the Province of Pangasinan, Page 371, Paragraph (f), Section Two of Republic Act Numbered Nineteen Hundred**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item (ai), Group I, subparagraph 43, for the Province of Pangasinan, page 371, paragraph (f), Section two of Republic Act Numbered Nineteen hundred is hereby amended to read as follows:
+
+ > ""(ai) Quinaoayanan-Tipor barrio road, Bani Construction ₱10,000.00""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Act	Amends Section 2 of Republic Act No. 2768 to specify the cost of Quinaoayanan‑Tipor barrio road in Bani, Pangasinan.	"[{""title"": ""Section 1."", ""summary"": ""Specifies amendment to Item (ai) reading as Quinaoayanan\u2011Tipor barrio road, Bani Construction \u20b110,000.00.""}, {""title"": ""Section 2."", ""summary"": ""Act takes effect upon approval.""}]"	2768	1960-06-19			To amend the cost details of a road construction in Pangasinan.	"[""Amends Item (ai) to specify Quinaoayanan\u2011Tipor barrio road cost."", ""Effectivity upon approval.""]"	Section 2 of Republic Act No. 2768	"[""Amendment"", ""Infrastructure"", ""Road Construction"", ""Pangasinan""]"	"[""Quinaoayanan"", ""Tipor"", ""Bani"", ""road"", ""construction"", ""Pangasinan"", ""Republic Act 2768"", ""amendment"", ""cost""]"
+repacts:datasets/markdown/repacts/1960/ra_2769_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2769_1960.md	ra_2769_1960	An Act Declaring Regular and Official the Barrios of Dabubu Pequeño, Rang-Ay, Sto. Niño, Mapalad, San Antonio, Quimalabasa Norte, Quimalabasa Sur, Panang, Santos, Calaocan and Masaya Centro in the Municipality of San Agustin, Province of Isabela	"**REPUBLIC ACT No. 2769**
+
+ **An Act Declaring Regular and Official the Barrios of Dabubu Pequeño, Rang-Ay, Sto. Niño, Mapalad, San Antonio, Quimalabasa Norte, Quimalabasa Sur, Panang, Santos, Calaocan and Masaya Centro in the Municipality of San Agustin, Province of Isabela**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The barrios of Dabubu Pequeño, Rang-ay, Sto. Niño, Mapalad, San Antonio, Quimalabasa Norte, Quimalabasa Sur, Panang, Santos, Calaocan and Masaya Centro in the Municipality of San Agustin, Province of Isabela, are hereby declared regular and official barrios thereof.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	Declares certain barrios in San Agustin, Isabela as regular and official.	"[{""title"": ""Section 1"", ""summary"": ""Declares the barrios of Dabubu Peque\u00f1o, Rang-ay, Sto. Ni\u00f1o, Mapalad, San Antonio, Quimalabasa Norte, Quimalabasa Sur, Panang, Santos, Calaocan and Masaya Centro in San Agustin, Isabela as regular and official barrios.""}, {""title"": ""Section 2"", ""summary"": ""The Act shall take effect upon its approval.""}]"	2769	June 19, 1960			To declare the specified barrios in San Agustin, Isabela as regular and official.	"[""Declares the listed barrios as regular and official."", ""Effectivity of the Act upon approval.""]"		"[""Republic Act"", ""Barrios"", ""Isabela"", ""San Agustin"", ""Municipality"", ""Legal Status""]"	"[""barrios"", ""regular"", ""official"", ""Isabela"", ""San Agustin"", ""municipality"", ""June 1960""]"
+repacts:datasets/markdown/repacts/1960/ra_2770_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2770_1960.md	ra_2770_1960	An Act Creating the Barrios of Santa Clara and Cunig in the Municipalities of Gonzaga and Gattaran, Respectively, Province of Cagayan	"**REPUBLIC ACT No. 2770**
+
+ **An Act Creating the Barrios of Santa Clara and Cunig in the Municipalities of Gonzaga and Gattaran, Respectively, Province of Cagayan**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Maguing, Lapag, Mamanghag, Calanutan, Caronuan, Malabbeg, Hudong, Ugued, Annokugen and Marapang in the Municipality of Gonzaga, Province of Cagayan, are hereby constituted into a barrio in the same municipality to be known as the barrio of Santa Clara.
+
+ **Section 2.** The barrio of Madarag and the sitio of Cunig in the Municipality of Gattaran, same province, are hereby constituted into a barrio in the same municipality to be known as the barrio of Cunig.

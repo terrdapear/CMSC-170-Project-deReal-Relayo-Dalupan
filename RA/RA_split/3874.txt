@@ -1,0 +1,170 @@
+
+ **Section 3.** The funds necessary for the implementation of this Act, including appropriations for personnel services such as salaries, benefits and emoluments for judges and court personnel, court operations under maintenance and other operating expenses (MOOE), and provisions for Halls of Justice or courtrooms to accommodate judges and court staff, as well as funds necessary for the implementation of automatically-created prosecutor positions pursuant to Section 13 of Republic Act No. 10071 or the ""Prosecution Service Act of 2010"" and appointment of public attorneys pursuant to Section 7 of Republic Act No. 9406 or the ""Act Reorganizing and Strengthening the Public Attorney's Office (PAO), resulting from the creation of these courts, including appropriations for personnel services such as salaries, benefits, and emoluments for prosecutors and public attorneys, shall be included in the annual General Appropriations Act.
+
+ **Section 4.** Section 14(i) of Batas Pambansa Blg, 139, otherwise known as ""The Judiciary Reorganization Act of 1980"", as amended, and all other laws, rules and regulations which are inconsistent with this Act are hereby amended, repealed or modified accordingly.
+
+ **Section 5.** This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate | (SGD.) **FERDINAND MARTIN G. ROMUALDEZ**Speaker of the House of Representatives |
+
+ This Act, which originated in the House of Representatives, was passed by the House of Representatives on January 31, 2023, amended by the Senate of the Philippines on May 6, 2024, and which amendments were concurred in by the House of Representatives on July 30, 2024.
+
+ | (SGD.) **REGINALD S. VELASCO** Secretary General House of Representatives | (SGD.) **RENATO N. BANTUG, JR.** Secretary of the Senate |
+
+ Approved: OCT 17 2024
+
+ (SGD.) **FERDINAND ROMUALDEZ MARCOS JR.** President of the Philippines
+"	success	Judiciary	This Act establishes four new branches of the Regional Trial Court (RTC) in Tacloban, Leyte, provides for the necessary appropriations and operationalization of these branches, and amends Section 14(i) of Batas Pambansa Blg. 139 (often referred to as the Judiciary Reorganization Act of 1980). It sets forth the roles of the Supreme Court, the Chief Justice, and the Secretary of Justice in implementing the new branches and outlines the funding for personnel, operations, and court facilities.	"[{""title"": ""Section 1"", ""summary"": ""Creates four additional branches of the RTC in the Eighth Judicial Region to be stationed in Tacloban, Leyte, and assigns a branch number to each by the Supreme Court.""}, {""title"": ""Section 2"", ""summary"": ""Mandates the Chief Justice and the Secretary of Justice to include the operationalization of the new RTC branches in the Supreme Court\u2019s program, issue rules and regulations, and, if necessary, realign existing branches and jurisdictions.""}, {""title"": ""Section 3"", ""summary"": ""Specifies the appropriations required for personnel, operations, and facilities, including salaries, benefits, MOOE, and courtrooms, as well as for prosecutor positions and public attorneys under related statutes.""}, {""title"": ""Section 4"", ""summary"": ""Amends, repeals, or modifies Section 14(i) of Batas Pambansa Blg. 139 (the Judiciary Reorganization Act of 1980) and any other inconsistent laws, rules, or regulations.""}, {""title"": ""Section 5"", ""summary"": ""The Act takes effect 15 days after its publication in the Official Gazette or a general circulation newspaper.""}]"	REPUBLIC ACT NO. 12036	October 17, 2024	"[{""name"": ""FRANCIS \""CHIZ\"" G. ESCUDERO"", ""title"": ""President of the Senate""}, {""name"": ""FERDINAND MARTIN G. ROMUALDEZ"", ""title"": ""Speaker of the House of Representatives""}]"		To expand the capacity of the Regional Trial Court in the Eighth Judicial Region by creating four new branches in Tacloban, provide necessary funding, and amend existing judiciary laws to accommodate the new branches.	"[""Creation of four RTC branches in Tacloban"", ""Assignment of branch numbers by the Supreme Court"", ""Operationalization plan by the Chief Justice and Secretary of Justice"", ""Appropriations for personnel, operations, and facilities"", ""Amendment of Section 14(i) of Batas Pambansa Blg. 139"", ""Effectivity clause 15 days after publication""]"	Section 14(i) of Batas Pambansa Blg. 139 (Judiciary Reorganization Act of 1980)	"[""Judiciary"", ""Court"", ""RTC"", ""Legislation"", ""Appropriation"", ""Reorganization""]"	"[""Regional Trial Court"", ""Tacloban"", ""Leyte"", ""Batas Pambansa"", ""Appropriations"", ""Fund"", ""Judiciary Reorganization""]"
+repacts:datasets/markdown/repacts/2024/ra_12037_2024.md	repacts	2024		datasets/markdown/repacts/2024/ra_12037_2024.md	ra_12037_2024	"AN ACT DECLARING MARCH 2 OF EVERY YEAR A SPECIAL NONWORKING HOLIDAY IN THE PROVINCE OF LA UNION TO BE KNOWN AS ""LA UNION DAY"", IN COMMEMORATION OF ITS FOUNDING ANNIVERSARY"	"[ REPUBLIC ACT NO. 12037, October 26, 2024 ]
+
+ AN ACT DECLARING MARCH 2 OF EVERY YEAR A SPECIAL NONWORKING HOLIDAY IN THE PROVINCE OF LA UNION TO BE KNOWN AS ""LA UNION DAY"", IN COMMEMORATION OF ITS FOUNDING ANNIVERSARY
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** March 2 of every year is hereby declared a special nonworking holiday in the Province of La Union to be known as ""La Union Day"", in commemoration of its founding anniversary.
+
+ **Section 2.** This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate | (SGD.) **FERDINAND MARTIN G. ROMUALDEZ**Speaker of the House of Representatives |
+
+ This Act, which originated in the House of Representatives, was passed by the House of Representatives and the Senate of the Philippines on September 5, 2022 and August 13, 2024, respectively.
+
+ | (SGD.) **REGINALD S. VELASCO** Secretary General House of Representatives | (SGD.) **RENATO N. BANTUG, JR.** Secretary of the Senate |
+
+ Approved: Lapsed into law on OCT 26 2024 without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.
+
+  **FERDINAND ROMUALDEZ MARCOS, JR.** President of the Philippines
+"	success	Republic Act	The law declares March 2 as a special nonworking holiday in La Union, called La Union Day, to commemorate the province’s founding anniversary.	"[{""title"": ""Section 1."", ""summary"": ""March 2 of every year is hereby declared a special nonworking holiday in the Province of La Union to be known as \""La Union Day\"", in commemoration of its founding anniversary.""}, {""title"": ""Section 2."", ""summary"": ""The Act shall take effect fifteen days after its publication in the Official Gazette or a newspaper of general circulation.""}]"	12037	October 26, 2024	"[{""name"": ""FRANCIS \""CHIZ\"" G. ESCUDERO"", ""title"": ""President of the Senate""}, {""name"": ""FERDINAND MARTIN G. ROMUALDEZ"", ""title"": ""Speaker of the House of Representatives""}]"		To declare March 2 as a special nonworking holiday in La Union, commemorating its founding anniversary.	"[""Declaration of March 2 as a special nonworking holiday in La Union"", ""Effective after 15 days of publication""]"		"[""Holiday"", ""La Union"", ""Special Nonworking Holiday"", ""Republic Act""]"	"[""La Union Day"", ""special holiday"", ""nonworking holiday"", ""founding anniversary"", ""Republic Act 12037""]"
+repacts:datasets/markdown/repacts/2024/ra_12038_2024.md	repacts	2024		datasets/markdown/repacts/2024/ra_12038_2024.md	ra_12038_2024	"AN ACT DECLARING AUGUST 11 OF EVERY YEAR A SPECIAL NONWORKING HOLIDAY IN THE PROVINCE OF SAMAR TO BE KNOWN AS ""SAMAR DAY"", IN COMMEMORATION OF ITS FOUNDATION DAY"	"[ REPUBLIC ACT NO. 12038, October 26, 2024 ]
+
+ AN ACT DECLARING AUGUST 11 OF EVERY YEAR A SPECIAL NONWORKING HOLIDAY IN THE PROVINCE OF SAMAR TO BE KNOWN AS ""SAMAR DAY"", IN COMMEMORATION OF ITS FOUNDATION DAY
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** August 11 of every year is hereby declared a special nonworking holiday in the Province of Samar to be known as ""Samar Day"", in commemoration if its Foundation Day.
+
+ **Section 2.** This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate | (SGD.) **FERDINAND MARTIN G. ROMUALDEZ**Speaker of the House of Representatives |
+
+ This Act, which originated in the House of Representatives, was passed by the House of Representatives and the Senate of the Philippines on September 5, 2022 and August 13, 2024, respectively.
+
+ | (SGD.) **REGINALD S. VELASCO** Secretary General House of Representatives | (SGD.) **RENATO N. BANTUG, JR.** Secretary of the Senate |
+
+ Approved: Lapsed into law on OCT 26 2024 without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.
+
+ **FERDINAND ROMUALDEZ MARCOS, JR.** President of the Philippines
+"	success	Public Law	This Republic Act declares August 11 as Samar Day, a special nonworking holiday in the Province of Samar, commemorating its foundation day.	"[{""title"": ""Section 1"", ""summary"": ""Declares August 11 of every year a special nonworking holiday in the Province of Samar known as Samar Day.""}, {""title"": ""Section 2"", ""summary"": ""Specifies that the Act takes effect 15 days after publication in the Official Gazette or a newspaper of general circulation.""}]"	12038	October 26, 2024	"[{""name"": ""FRANCIS \""CHIZ\"" G. ESCUDERO"", ""title"": ""President of the Senate""}, {""name"": ""FERDINAND MARTIN G. ROMUALDEZ"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""REGINALD S. VELASCO"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""RENATO N. BANTUG, JR."", ""title"": ""Secretary of the Senate""}]"	To declare August 11 as Samar Day, a special nonworking holiday in the Province of Samar, honoring its foundation day.	"[""Section 1: Declaration of August 11 as Samar Day"", ""Section 2: Effective date 15 days after publication""]"		"[""Holiday"", ""Samar"", ""Nonworking Holiday"", ""Foundation Day""]"	"[""August 11"", ""Samar Day"", ""special nonworking holiday"", ""Province of Samar"", ""Republic Act 12038""]"
+repacts:datasets/markdown/repacts/2024/ra_12039_2024.md	repacts	2024		datasets/markdown/repacts/2024/ra_12039_2024.md	ra_12039_2024	"AN ACT DECLARING SEPTEMBER 1 OF EVERY YEAR A SPECIAL NON-WORKING HOLIDAY IN THE PROVINCE OF BUKIDNON, TO BE KNOWN AS ""ARAW NG BUKIDNON"", IN COMMEMORATION OF ITS FOUNDATION ANNIVERSARY"	"[ REPUBLIC ACT NO. 12039, October 26, 2024 ]
+
+ AN ACT DECLARING SEPTEMBER 1 OF EVERY YEAR A SPECIAL NON-WORKING HOLIDAY IN THE PROVINCE OF BUKIDNON, TO BE KNOWN AS ""ARAW NG BUKIDNON"", IN COMMEMORATION OF ITS FOUNDATION ANNIVERSARY
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** September 1 of every year is hereby declared a special non-working holiday in the Province of Bukidnon, to be known as ""Araw ng Bukidnon"", in commemoration of its foundation anniversary.
+
+ **Section 2.** This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate | (SGD.) **FERDINAND MARTIN G. ROMUALDEZ**Speaker of the House of Representatives |
+
+ This Act, which originated in the House of Representatives, was passed by the House of Representatives and the Senate of the Philippines on November 21, 2022 and August 13, 2024, respectively.
+
+ | (SGD.) **REGINALD S. VELASCO** Secretary General House of Representatives | (SGD.) **RENATO N. BANTUG, JR.** Secretary of the Senate |
+
+ Approved: Lapsed into law on OCT 26 2024 without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.
+
+ **FERDINAND ROMUALDEZ MARCOS, JR.** President of the Philippines
+"	success	Public Holiday Act	"Declares September 1 each year as a special non-working holiday in Bukidnon, named ""Araw ng Bukidnon"", to commemorate its foundation anniversary."	"[{""title"": ""Section 1."", ""summary"": ""September 1 of every year is hereby declared a special non-working holiday in the Province of Bukidnon, to be known as \""Araw ng Bukidnon\"", in commemoration of its foundation anniversary.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation.""}]"	12039	October 26, 2024	"[{""name"": ""FRANCIS \""CHIZ\"" G. ESCUDERO"", ""title"": ""President of the Senate""}, {""name"": ""FERDINAND MARTIN G. ROMUALDEZ"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""REGINALD S. VELASCO"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""RENATO N. BANTUG, JR."", ""title"": ""Secretary of the Senate""}]"	To declare September 1 as a special non-working holiday in Bukidnon to commemorate its foundation anniversary.	"[""Declares September 1 as a special non-working holiday in Bukidnon."", ""The Act takes effect 15 days after publication in the Official Gazette or a newspaper of general circulation.""]"		"[""Public Holiday"", ""Bukidnon"", ""Special Holiday"", ""Act 2024""]"	"[""Bukidnon"", ""Araw ng Bukidnon"", ""special holiday"", ""September 1"", ""foundation anniversary"", ""public holiday"", ""Philippines"", ""Republic Act 12039""]"
+repacts:datasets/markdown/repacts/2024/ra_12040_2024.md	repacts	2024		datasets/markdown/repacts/2024/ra_12040_2024.md	ra_12040_2024	AN ACT UPGRADING THE BANGUI DISTRICT HOSPITAL IN THE MUNICIPALITY OF BANGUI, PROVINCE OF ILOCOS NORTE, INTO A LVEL II DISTICT HOSPITAL, AND APPROPRIATING FUNDS THEREFOR	"[ REPUBLIC ACT NO. 12040, October 26, 2024 ]
+
+ AN ACT UPGRADING THE BANGUI DISTRICT HOSPITAL IN THE MUNICIPALITY OF BANGUI, PROVINCE OF ILOCOS NORTE, INTO A LVEL II DISTICT HOSPITAL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Bangui District Hospital in the Municipality of Bangui, Province of Ilocos Norte, is hereby upgraded into a Level II district hospital.
+
+ **Section 2.** Any future increase in bed capacity shall be consistent with the hospital development plan that shall be prepared by the Chief of Hospital of the Bangui District Hospital and submitted to the Department of Health.
+
+ **Section 3.** The existing professional health care services and facilities of the Bangui District Hospital shall also be upgraded to conform with and be commensurate to its upgrading as Level II hospital and the increase in bed capacity as provided for in Section 1 and 2 hereof.
+
+ **Section 4.** The existing workforce of the Bangui District Hospital, which includes doctors, nurses, and support personnel, shall be increased correspondingly.
+
+ **Section 5.** The Provincial Government of Ilocos Norte shall provide the necessary funds to cover the maintenance and other operating expenses of the Bangui District Hospital. It shall also appropriate funds for the additional human resource complement to support the increase in bed capacity and the corresponding upgrading of its service facilities and professional health care services.
+
+ **Section 6.** The Secretary of Health shall include the Department's subsidy program, support for the capital outlay requirements of the Bangui District Hospital.
+
+ **Section 7.** If any provision or part of this Act is declared unconstitutional, the remaining parts or provisions not affected shall remain in full force and effect.
+
+ **Section 8.** All laws, executive orders, issuances, and rules and regulations inconsistent with this Act are hereby repealed or modified accordingly.
+
+ **Section 9.** This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate | (SGD.) **FERDINAND MARTIN G. ROMUALDEZ**Speaker of the House of Representatives |
+
+ This Act, which originated in the House of Representatives, was passed by the House of Representatives on August 9, 2023, amended by the Senate of the Philippines on August 12, 2024, and which amendments were concurred in by the House of Representatives on August 21, 2024.
+
+ | (SGD.) **REGINALD S. VELASCO** Secretary General House of Representatives | (SGD.) **RENATO N. BANTUG, JR.** Secretary of the Senate |
+
+ Approved: OCT 26 2024
+
+ (SGD.) **FERDINAND ROMUALDEZ MARCOS JR.** President of the Philippines
+"	success	Republic Act	Upgrades Bangui District Hospital to a Level II district hospital and appropriates funds for its expansion and operation.	"[{""title"": ""Section 1."", ""summary"": ""Upgrades Bangui District Hospital to a Level II district hospital.""}, {""title"": ""Section 2."", ""summary"": ""Any future increase in bed capacity must follow a hospital development plan prepared by the Chief of Hospital and submitted to the Department of Health.""}, {""title"": ""Section 3."", ""summary"": ""Upgrades the hospital\u2019s professional health care services and facilities to match its Level II status and increased bed capacity.""}, {""title"": ""Section 4."", ""summary"": ""Increases the hospital workforce, including doctors, nurses, and support personnel, proportionally.""}, {""title"": ""Section 5."", ""summary"": ""The Provincial Government of Ilocos Norte is required to fund maintenance, operating expenses, and additional human resources for the hospital.""}, {""title"": ""Section 6."", ""summary"": ""The Secretary of Health shall include the department\u2019s subsidy program and support capital outlay requirements for the hospital.""}, {""title"": ""Section 7."", ""summary"": ""Any unconstitutional provision is severable, leaving the rest of the Act in force.""}, {""title"": ""Section 8."", ""summary"": ""All laws, executive orders, issuances, and rules inconsistent with this Act are repealed or modified accordingly.""}, {""title"": ""Section 9."", ""summary"": ""The Act takes effect 15 days after its publication in the Official Gazette or a newspaper of general circulation.""}]"	12040	October 26, 2024			To upgrade Bangui District Hospital to a Level II district hospital and appropriate necessary funds for its expansion and operation.	"[""Upgrades Bangui District Hospital to Level II"", ""Requires bed capacity increase plan"", ""Upgrades professional health care services and facilities"", ""Increases workforce"", ""Provincial government to fund maintenance and operations"", ""Secretary of Health to provide subsidy and capital support"", ""Severability clause for unconstitutional provisions"", ""Repeals or modifies inconsistent laws"", ""Effectivity after 15 days post-publication""]"		"[""Healthcare"", ""Hospital Upgrade"", ""Ilocos Norte"", ""Republic Act""]"	"[""Bangui District Hospital"", ""Level II"", ""bed capacity"", ""healthcare services"", ""hospital upgrade"", ""Ilocos Norte"", ""Department of Health""]"
+repacts:datasets/markdown/repacts/2024/ra_12041_2024.md	repacts	2024		datasets/markdown/repacts/2024/ra_12041_2024.md	ra_12041_2024	AN ACT INCREASING THE BED CAPACITY OF TEODORO B. GALAGAR DISTRICT HOSPITAL IN THE MUNICIPALITY OF JAGNA, PROVINCE OF BOHOL, FROM SEVENTY-FIVE (75) TO ONE HUNDRED (100) BEDS, AND APPROPRIATING FUNDS THEREFOR	"[ REPUBLIC ACT NO. 12041, October 26, 2024 ]
+
+ AN ACT INCREASING THE BED CAPACITY OF TEODORO B. GALAGAR DISTRICT HOSPITAL IN THE MUNICIPALITY OF JAGNA, PROVINCE OF BOHOL, FROM SEVENTY-FIVE (75) TO ONE HUNDRED (100) BEDS, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The authorized bed capacity of the Teodoro B. Galagar District Hospital in the Municipality of Jagna, Province of Bohol, shall be increased from seventy-five (75) to one hundred (100) beds. Any future increase in bed capacity shall be consistent with the hospital development plan that shall be prepared by the Chief of Hospital of Teodoro B. Galagar District Hospital, and submitted to the Department of Health.
+
+ **Section 2.** The existing professional health care services and facilities of the Teodoro B. Galagar District Hospital shall also be upgraded to conform with and be commensurate to its upgrading as Level II hospital and the increase in bed capacity as provided for in Section 1 hereof.
+
+ **Section 3.** The existing workforce of the Teodoro B. Galagar District Hospital, which includes doctors, nurses, and support personnel, shall be increased correspondingly.
+
+ **Section 4.** The Provincial Government of Bohol shall provide the necessary funds to cover the maintenance and other operating expenses of the Teodoro B. Galagar District Hospital. It shall also appropriate funds for the additional human resource complement to support the increase in bed capacity and the corresponding upgrading of its service facilities and professional health care services.
+
+ **Section 5.** The Secretary of Health shall include the Department's subsidy program, support for the capital outlay requirements of the Teodoro B. Galagar District Hospital.
+
+ **Section 6.** If any provision or part of this Act is declared unconstitutional, the remaining parts or provisions not affected shall remain in full force and effect.
+
+ **Section 7.** All laws, executive orders, issuances, and rules and regulations inconsistent with this Act are hereby repealed or modified accordingly.
+
+ **Section 8.** This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate | (SGD.) **FERDINAND MARTIN G. ROMUALDEZ**Speaker of the House of Representatives |
+
+ This Act, which originated in the House of Representatives, was passed by the House of Representatives and the Senate of the Philippines on August 9, 2023 and August 12, 2024, respectively.
+
+ | (SGD.) **REGINALD S. VELASCO** Secretary General House of Representatives | (SGD.) **RENATO N. BANTUG, JR.** Secretary of the Senate |
+
+ Approved: OCT 26 2024
+
+ (SGD.) **FERDINAND ROMUALDEZ MARCOS JR.** President of the Philippines
+"	success	Republic Act	This act increases the bed capacity of Teodoro B. Galagar District Hospital from 75 to 100 beds, upgrades its facilities and workforce, allocates necessary funding, and establishes an effective date.	"[{""title"": ""Section 1."", ""summary"": ""Authorized bed capacity increased from 75 to 100 beds; future increases require a hospital development plan.""}, {""title"": ""Section 2."", ""summary"": ""Existing health care services and facilities to be upgraded to Level II hospital standards and commensurate with the increased bed capacity.""}, {""title"": ""Section 3."", ""summary"": ""Workforce expansion to include doctors, nurses, and support personnel in line with bed capacity increase.""}, {""title"": ""Section 4."", ""summary"": ""Provincial Government of Bohol to fund maintenance, operating expenses, and additional human resources for the hospital.""}, {""title"": ""Section 5."", ""summary"": ""Secretary of Health to incorporate the department's subsidy program and support capital outlay for the hospital.""}, {""title"": ""Section 6."", ""summary"": ""Unconstitutional provisions, if any, do not affect the remaining valid parts of the Act.""}, {""title"": ""Section 7."", ""summary"": ""All inconsistent laws, executive orders, issuances, rules, and regulations are repealed or modified accordingly.""}, {""title"": ""Section 8."", ""summary"": ""Act takes effect 15 days after publication in the Official Gazette or a newspaper of general circulation.""}]"	12041	October 26, 2024			To expand bed capacity and improve healthcare services at Teodoro B. Galagar District Hospital, ensuring adequate funding and workforce for the upgrade.	"[""Increase bed capacity from 75 to 100 beds."", ""Upgrade hospital facilities to Level II standards."", ""Expand workforce to meet new capacity."", ""Allocate provincial funds for maintenance and operations."", ""Include subsidy program from the Department of Health."", ""Effective 15 days after publication."", ""Repeal or modify inconsistent laws and regulations.""]"		"[""Healthcare"", ""Hospital"", ""Bed Capacity"", ""Bohol"", ""Philippines""]"	"[""Teodoro B. Galagar District Hospital"", ""bed capacity"", ""hospital upgrade"", ""funding"", ""Bohol""]"
+repacts:datasets/markdown/repacts/2024/ra_12042_2024.md	repacts	2024		datasets/markdown/repacts/2024/ra_12042_2024.md	ra_12042_2024	AN ACT INCREASING THE BED CAPACITY OF CONG. SIMEON G. TORIBIO MEMORIAL HOSPITAL IN THE MUNICIPALITY OF CARMEN, PROVINCE OF BOHOL, FROM FORTY (40) TO SEVENTY-FIVE (75) BEDS, AND APPROPRIATING FUNDS THEREFOR	"[ REPUBLIC ACT NO. 12042, October 26, 2024 ]
+
+ AN ACT INCREASING THE BED CAPACITY OF CONG. SIMEON G. TORIBIO MEMORIAL HOSPITAL IN THE MUNICIPALITY OF CARMEN, PROVINCE OF BOHOL, FROM FORTY (40) TO SEVENTY-FIVE (75) BEDS, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The authorized bed capacity of the Cong. Simeon G. Toribio Memorial Hospital in the Municipality of Carmen, Province of Bohol, shall be increased from forty (40) to seventy-five (75) beds. Any future increase in bed capacity shall be consistent with the hospital development plan that shall be prepared by the Chief of Hospital of Cong. Simeon G. Toribio Memorial Hospital, and submitted to the Department of Health.
+
+ **Section 2.** The existing professional health care services and facilities of the Cong. Simeon G. Toribio Memorial Hospital shall also be upgraded to conform with and be commensurate to its upgrading as Level II hospital and the increase in bed capacity as provided for in Section 1 hereof.
+
+ **Section 3.** The existing workforce of the Cong. Simeon G. Toribio Memorial Hospital, which includes doctors, nurses, and support personnel, shall be increased correspondingly.
+
+ **Section 4.** The Provincial Government of Bohol shall provide the necessary funds to cover the maintenance and other operating expenses of the Cong. Simeon G. Toribio Memorial Hospital. It shall also appropriate funds for the additional human resource complement to support the increase in bed capacity and the corresponding upgrading of its service facilities and professional health care services.
+
+ **Section 5.** The Secretary of Health shall include the Department's subsidy program, support for the capital outlay requirements of the Teodoro B. Galagar District Hospital.

@@ -1,0 +1,167 @@
+repacts:datasets/markdown/repacts/1963/ra_3555_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3555_1963.md	ra_3555_1963	An Act Authorizing the Appropriation of the Sum of Fifty Thousand Pesos for the Construction of an Additional Building for the New Washington National School of Fisheries in the Municipality of New Washington, Province of Aklan, Including the Purchase of a Site Therefor	"**REPUBLIC ACT No. 3555**
+
+ **An Act Authorizing the Appropriation of the Sum of Fifty Thousand Pesos for the Construction of an Additional Building for the New Washington National School of Fisheries in the Municipality of New Washington, Province of Aklan, Including the Purchase of a Site Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sum of fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the construction of an additional building for the new Washington National School of Fisheries in the Municipality of New Washington, Province of Aklan, including the purchase of a site therefor.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1963.
+"	success	Republic Act	Authorizes appropriation of 50,000 pesos for construction of an additional building and purchase of a site for the New Washington National School of Fisheries.	"[{""title"": ""Section 1."", ""summary"": ""The sum of fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the construction of an additional building for the new Washington National School of Fisheries in the Municipality of New Washington, Province of Aklan, including the purchase of a site therefor.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	3555	June 21, 1963			To authorize the appropriation of funds for construction and purchase of site for the New Washington National School of Fisheries.	"[""Appropriation of fifty thousand pesos for construction and site purchase."", ""Act takes effect upon approval.""]"		"[""Appropriation"", ""Education"", ""Construction"", ""Aklan"", ""1963""]"	"[""fifty thousand pesos"", ""New Washington National School of Fisheries"", ""construction"", ""site purchase"", ""Aklan"", ""Republic Act 3555""]"
+repacts:datasets/markdown/repacts/1963/ra_3556_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3556_1963.md	ra_3556_1963	An Act to Increase the Bed Capacity of the Mindoro Oriental Provincial Hospital	"**REPUBLIC ACT No. 3556**
+
+ **An Act to Increase the Bed Capacity of the Mindoro Oriental Provincial Hospital**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The bed capacity of the Mindoro Oriental Provincial Hospital is hereby increased from seventy-five beds to one hundred beds.
+
+ **Section 2.** The financing of this hospital shall be in accordance with the Hospital Financing Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1963.
+"	success	Health	This act increases the bed capacity of Mindoro Oriental Provincial Hospital from seventy-five beds to one hundred beds.	"[{""title"": ""Section 1"", ""summary"": ""Increases the bed capacity of the Mindoro Oriental Provincial Hospital from seventy-five beds to one hundred beds.""}, {""title"": ""Section 2"", ""summary"": ""The financing of the hospital shall be in accordance with the Hospital Financing Act.""}, {""title"": ""Section 3"", ""summary"": ""The act shall take effect upon its approval.""}]"	3556	June 21, 1963			To increase the bed capacity of Mindoro Oriental Provincial Hospital.	"[""Increase bed capacity to one hundred beds."", ""Financing in accordance with the Hospital Financing Act."", ""Effective upon approval.""]"		"[""Health"", ""Hospital"", ""Bed Capacity""]"	"[""Mindoro Oriental Provincial Hospital"", ""bed capacity"", ""hospital financing""]"
+repacts:datasets/markdown/repacts/1963/ra_3557_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3557_1963.md	ra_3557_1963	An Act Appropriating the Sum of Two Hundred Thousand Pesos for the Purchase of Hospital Furnishings and Equipment of the New National Orthopedic Hospital	"**REPUBLIC ACT No. 3557**
+
+ **An Act Appropriating the Sum of Two Hundred Thousand Pesos for the Purchase of Hospital Furnishings and Equipment of the New National Orthopedic Hospital**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sum of two hundred thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for the purchase of hospital furnishings and equipment of the new National Orthopedic Hospital.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1963.
+"	success	Act	Appropriates two hundred thousand pesos for the purchase of furnishings and equipment for the new National Orthopedic Hospital.	"[{""title"": ""Section 1."", ""summary"": ""The sum of two hundred thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for the purchase of hospital furnishings and equipment of the new National Orthopedic Hospital.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	3557	June 21, 1963			Appropriation of funds to equip the new National Orthopedic Hospital	"[""Appropriates two hundred thousand pesos for purchase of hospital furnishings and equipment""]"		"[""appropriation"", ""hospital equipment"", ""orthopedic hospital""]"	"[""appropriation"", ""hospital furnishings"", ""equipment"", ""orthopedic"", ""National Orthopedic Hospital""]"
+repacts:datasets/markdown/repacts/1963/ra_3558_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3558_1963.md	ra_3558_1963	An Act Providing for the Establishment of a Rural and Vocational High School in the Municipality of Claveria, Province of Cagayan, to be Known as the Claveria Rural and Vocational High School, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 3558**
+
+ **An Act Providing for the Establishment of a Rural and Vocational High School in the Municipality of Claveria, Province of Cagayan, to be Known as the Claveria Rural and Vocational High School, and Authorizing the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the direct supervision of the Director of Public Schools, a rural and vocational high school in the Municipality of Claveria, Province of Cagayan, to be known as the Claveria Rural and Vocational High School.
+
+ **Section 2.** The sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said school during the fiscal year nineteen hundred sixty-four. Thereafter, such sum as may be needed for the operation and maintenance of said school shall be included in the annual General Appropriation Acts.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1963.
+"	success	Education	The Act establishes the Claveria Rural and Vocational High School in Claveria, Cagayan, and authorizes the appropriation of one hundred thousand pesos for its establishment, operation, and maintenance.	"[{""title"": ""Section 1"", ""summary"": ""Establishes the Claveria Rural and Vocational High School under the supervision of the Director of Public Schools.""}, {""title"": ""Section 2"", ""summary"": ""Authorizes appropriation of \u20b1100,000 for the school's establishment and operation for FY 1964, with future funding to be included in General Appropriation Acts.""}, {""title"": ""Section 3"", ""summary"": ""The Act takes effect upon approval.""}]"	3558	June 21, 1963			To establish a rural and vocational high school in Claveria, Cagayan, and secure funding for its operation.	"[""Establishment of Claveria Rural and Vocational High School"", ""Appropriation of \u20b1100,000 for FY 1964"", ""Continued funding via General Appropriation Acts"", ""Direct supervision by Director of Public Schools""]"		"[""Education"", ""Rural"", ""Vocational"", ""High School"", ""Claveria"", ""Cagayan"", ""Public School""]"	"[""Rural high school"", ""Vocational education"", ""Claveria"", ""Cagayan"", ""Public funds appropriation""]"
+repacts:datasets/markdown/repacts/1963/ra_3559_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3559_1963.md	ra_3559_1963	An Act Authorizing the Appropriation of Three Hundred Thousand Pesos for the Construction of a Post Office Building in the City of Cagayan De Oro	"**REPUBLIC ACT No. 3559**
+
+ **An Act Authorizing the Appropriation of Three Hundred Thousand Pesos for the Construction of a Post Office Building in the City of Cagayan De Oro**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sum of three hundred thousand pesos, or so much thereof as may be necessary, is hereby authorized to be appropriated out of any funds of the National Treasury, for the construction of a post office building in the City of Cagayan de Oro.
+
+ **Section 2.** The building shall be constructed in accordance with the specifications of the Bureau of Posts, duly approved by the Department of Public Works and Communications: *Provided,* That this building shall house the post office and other allied offices for the City of Cagayan de Oro.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1963.
+"	success	Republic Act	The Republic Act appropriates 300,000 pesos for the construction of a post office building in Cagayan De Oro, Philippines.	"[{""title"": ""Section 1"", ""summary"": ""Appropriates 300,000 pesos for the construction of a post office building in Cagayan De Oro.""}, {""title"": ""Section 2"", ""summary"": ""The building shall be constructed in accordance with the Bureau of Posts specifications, approved by the Department of Public Works and Communications, and shall house the post office and allied offices.""}, {""title"": ""Section 3"", ""summary"": ""The act takes effect upon its approval.""}]"	3559	June 21, 1963			To authorize the appropriation of funds for the construction of a post office building in Cagayan De Oro.	"[""Appropriation of 300,000 pesos"", ""Construction of post office building per Bureau of Posts specifications"", ""Act takes effect upon approval""]"		"[""Post Office"", ""Construction"", ""Cagayan De Oro"", ""Appropriation""]"	"[""Appropriation"", ""Post Office"", ""Cagayan De Oro"", ""Construction"", ""National Treasury""]"
+repacts:datasets/markdown/repacts/1963/ra_3560_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3560_1963.md	ra_3560_1963	An Act Providing for the Establishment of an Emergency Hospital in the Municipality of Tandubas, Province of Sulu, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 3560**
+
+ **An Act Providing for the Establishment of an Emergency Hospital in the Municipality of Tandubas, Province of Sulu, and Authorizing the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the direct supervision of the Department of Health, an emergency hospital in the Municipality of Tandubas, Province of Sulu, to be known as the Tandubas Emergency Hospital.
+
+ **Section 2.** The Secretary of Health shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The sum of one hundred fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital during the fiscal year nineteen hundred sixty-four. Thereafter, such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriation Acts.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1963.
+"	success	Republic Act	This act establishes an emergency hospital in Tandubas, Sulu, authorizes the appropriation of funds for its establishment and operation, and empowers the Secretary of Health to issue necessary rules and regulations.	"[{""title"": ""Section 1."", ""summary"": ""Establishes the Tandubas Emergency Hospital under the direct supervision of the Department of Health.""}, {""title"": ""Section 2."", ""summary"": ""Empowers the Secretary of Health to issue rules and regulations necessary to carry out the purpose of the Act.""}, {""title"": ""Section 3."", ""summary"": ""Authorizes the appropriation of one hundred fifty thousand pesos for the hospital\u2019s establishment, operation, and maintenance for fiscal year 1964, with future sums to be included in annual General Appropriation Acts.""}, {""title"": ""Section 4."", ""summary"": ""The Act shall take effect upon its approval.""}]"	3560	June 21, 1963			To establish an emergency hospital in Tandubas, Sulu and allocate necessary funds for its operation.	"[""Establishment of Tandubas Emergency Hospital"", ""Secretary of Health to issue rules and regulations"", ""Appropriation of 150,000 pesos for 1964"", ""Effectivity upon approval""]"		"[""Health"", ""Hospital"", ""Emergency"", ""Sulu"", ""Funding""]"	"[""Emergency Hospital"", ""Tandubas"", ""Department of Health"", ""Appropriation"", ""Sulu""]"
+repacts:datasets/markdown/repacts/1963/ra_3561_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3561_1963.md	ra_3561_1963	An Act Creating One Additional Position of Assistant Provincial Fiscal in the Province of Iloilo, Amending for This Purpose Section Sixteen Hundred Seventy-Four of the Revised Administrative Code, as Amended	"**REPUBLIC ACT No. 3561**
+
+ **An Act Creating One Additional Position of Assistant Provincial Fiscal in the Province of Iloilo, Amending for This Purpose Section Sixteen Hundred Seventy-Four of the Revised Administrative Code, as Amended**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The provision of Section sixteen hundred seventy-four of the Revised Administrative Code, as amended, relative to assistant provincial fiscals in the Province of Iloilo, is further amended to read as follows:
+
+ > ""Iloilo, nine assistant provincial fiscals;""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1963.
+"	success	Republic Act	Creates an additional Assistant Provincial Fiscal position in Iloilo and amends Section 1674 of the Revised Administrative Code.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 1674 of the Revised Administrative Code to add an assistant provincial fiscal in Iloilo.""}, {""title"": ""Section 2"", ""summary"": ""Effective upon approval.""}]"	3561	June 21, 1963			To create an additional Assistant Provincial Fiscal position in Iloilo and amend the relevant administrative code section.	"[""Amendment to Section 1674 to add assistant provincial fiscal in Iloilo"", ""Effective upon approval""]"	Revised Administrative Code, Section 1674	"[""Iloilo"", ""Assistant Provincial Fiscal"", ""Revised Administrative Code"", ""Republic Act""]"	"[""Republic Act"", ""Assistant Provincial Fiscal"", ""Iloilo"", ""Revised Administrative Code"", ""Section 1674""]"
+repacts:datasets/markdown/repacts/1963/ra_3562_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3562_1963.md	ra_3562_1963	An Act to Promote the Education of the Blind in the Philippines	"**REPUBLIC ACT No. 3562**
+
+ **An Act to Promote the Education of the Blind in the Philippines**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the supervision of the Director of Public Schools, a residential school for the blind near the City of Manila, which shall be known as the Philippine National School for the Blind. Said school shall furnish instruction to the blind in the elementary level.
+
+ **Section 2.** Upon the establishment of the Philippine National School for the Blind, the School for the Deaf and the Blind in Pasay City shall cease to give instruction to the blind, and all its blind students, its equipment and facilities being used in the instruction of the blind, and members of the faculty teaching the blind shall be transferred to the Philippine National School for the Blind.
+
+ **Section 3.** There shall be established, under the supervision and control of the Director of Public Schools a Teacher-Training Center to train teachers for the blind. The Philippine Normal College shall provide room and other facilities for the said Center.
+
+ **Section 4.** The Secretary of Education shall issue such rules and regulations as may be necessary to implement the provisions of this Act.
+
+ **Section 5.** There is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, the sum of five hundred thousand pesos to carry out the provisions of this Act for the fiscal year nineteen hundred and sixty-four, including the purchase of site and the construction of buildings for the Philippine National School for the Blind. Thereafter, the amount necessary for the operation and maintenance of the said school and center shall be included in the annual General Appropriation Acts.
+
+ **Section 6.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1963.
+"	success	Education	Establishes the Philippine National School for the Blind, a teacher‑training center, and appropriates funds for construction and operation, transferring existing resources from a prior school.	"[{""title"": ""Section 1."", ""summary"": ""Creates a residential school for blind students near Manila under the Director of Public Schools, providing elementary instruction.""}, {""title"": ""Section 2."", ""summary"": ""Transfers blind students, equipment, and faculty from the School for the Deaf and the Blind in Pasay City to the new school.""}, {""title"": ""Section 3."", ""summary"": ""Establishes a Teacher\u2011Training Center to train teachers for the blind, with facilities provided by Philippine Normal College.""}, {""title"": ""Section 4."", ""summary"": ""Secretary of Education to issue rules and regulations necessary to implement the Act.""}, {""title"": ""Section 5."", ""summary"": ""Appropriates 500,000 pesos for construction and operation of the school and center for FY 1964, with future costs included in General Appropriation Acts.""}, {""title"": ""Section 6."", ""summary"": ""Act takes effect upon approval.""}]"	3562	June 21, 1963			Promote education of blind individuals in the Philippines	"[""Establishment of the Philippine National School for the Blind"", ""Creation of a Teacher\u2011Training Center"", ""Allocation of 500,000 pesos for construction and operation"", ""Transfer of students, equipment, and faculty from existing school""]"		"[""Education"", ""Blindness"", ""Philippines""]"	"[""blind"", ""education"", ""school"", ""Philippines"", ""teacher training"", ""funding""]"
+repacts:datasets/markdown/repacts/1963/ra_3563_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3563_1963.md	ra_3563_1963	An Act Providing for the Establishment of an Emergency Hospital in the Municipality of President Roxas, Province of Capiz, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 3563**
+
+ **An Act Providing for the Establishment of an Emergency Hospital in the Municipality of President Roxas, Province of Capiz, and Authorizing the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the direct supervision of the Department of Health, an emergency hospital in the Municipality of President Roxas, Province of Capiz, to be known as the President Roxas Emergency Hospital.
+
+ **Section 2.** The sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital during the fiscal year nineteen hundred sixty-four. Thereafter, such sum as may be needed for its operation and maintenance shall be included in the annual General Appropriation Acts.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1963.
+"	success	Republic Act	Establishes an emergency hospital in President Roxas, Capiz and appropriates funds for its operation and maintenance.	"[{""title"": ""Section 1"", ""summary"": ""Establishes the President Roxas Emergency Hospital under the direct supervision of the Department of Health.""}, {""title"": ""Section 2"", ""summary"": ""Authorizes the appropriation of one hundred thousand pesos for the hospital\u2019s establishment, operation, and maintenance for FY 1964, with future annual appropriations included in the General Appropriation Acts.""}, {""title"": ""Section 3"", ""summary"": ""The Act shall take effect upon its approval.""}]"	3563	June 21, 1963			Establishment of an emergency healthcare facility in President Roxas, Capiz.	"[""Establishment of President Roxas Emergency Hospital"", ""Appropriation of \u20b1100,000 for FY 1964"", ""Future annual appropriations for operation and maintenance"", ""Effectivity upon approval""]"		"[""Healthcare"", ""Public Health"", ""Hospital"", ""Capiz"", ""Emergency""]"	"[""Emergency Hospital"", ""President Roxas"", ""Capiz"", ""Appropriation"", ""Health Department""]"
+repacts:datasets/markdown/repacts/1963/ra_3564_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3564_1963.md	ra_3564_1963	An Act to Provide for Two School Divisions in the Province of Sulu	"**REPUBLIC ACT No. 3564**
+
+ **An Act to Provide for Two School Divisions in the Province of Sulu**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be two school divisions in the Province of Sulu. The first school division shall comprise all the municipalities on the mainland of Jolo and the surrounding island municipalities of Tonquil, Pangutaran, Pata, Tapul, Cagayan de Sulu, and Turtle Islands, and the second school division shall comprise the rest of the municipalities from Siasi down to the Tawi-Tawi group.
+
+ **Section 2.** The Director of Public Schools shall recognize the School Division Office of the Province of Sulu into two school divisions commencing with the school year nineteen hundred sixty-three to nineteen hundred sixty-four, in accordance with the provisions of this Act.
+
+ **Section 3.** Such sums as may be necessary to carry out the purposes of this Act for the school year nineteen hundred sixty-three to nineteen hundred sixty-four, is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated. The sum necessary for the same purpose in subsequent years shall be included in the General Appropriation Acts.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1963.
+"	success	Education	The act establishes two separate school divisions within the Province of Sulu, delineating the municipalities belonging to each division, authorizes necessary funds for the 1963-1964 school year, and takes effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Defines the two school divisions, listing the municipalities included in each division.""}, {""title"": ""Section 2."", ""summary"": ""Authorizes the Director of Public Schools to recognize the two school divisions effective from the 1963-1964 school year.""}, {""title"": ""Section 3."", ""summary"": ""Authorizes appropriations for the act\u2019s purposes for the 1963-1964 school year and outlines future funding.""}, {""title"": ""Section 4."", ""summary"": ""States that the act takes effect upon its approval.""}]"	3564	June 21, 1963			To establish two school divisions in the Province of Sulu for improved educational administration.	"[""Creation of two school divisions in Sulu"", ""Designation of municipalities to each division"", ""Authorization of funds for the 1963-1964 school year"", ""Effective date of the act""]"		"[""Education"", ""Sulu"", ""School Division""]"	"[""school division"", ""Province of Sulu"", ""public schools"", ""education administration""]"
+repacts:datasets/markdown/repacts/1963/ra_3565_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3565_1963.md	ra_3565_1963	An Act Amending Item (a), Page 45, Subparagraph (17) III, for the Province of Cebu, Paragraph f, Section Two of Republic Act Numbered Sixteen Hundred Thirteen	"**REPUBLIC ACT No. 3565**
+
+ **An Act Amending Item (a), Page 45, Subparagraph (17) III, for the Province of Cebu, Paragraph f, Section Two of Republic Act Numbered Sixteen Hundred Thirteen**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item (a), page 45, subparagraph (17) III, paragraph f, Section two of Republic Act Numbered Sixteen hundred thirteen, is hereby amended to read as follows:
+
+ > ""(a) Talisay Municipal Hall Construction ₱75,000.00""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1963.
+"	success	Republic Act	An act amending a specific item in Republic Act 1613 concerning the construction of the Talisay Municipal Hall with a specified amount of ₱75,000.00.	"[{""title"": ""Section 1."", ""summary"": ""Amends Item (a) of Section 2 of Republic Act 1613 to read: (a) Talisay Municipal Hall Construction \u20b175,000.00.""}, {""title"": ""Section 2."", ""summary"": ""The act shall take effect upon its approval.""}]"	3565	June 21, 1963			To amend Item (a) of Republic Act 1613 regarding the construction of the Talisay Municipal Hall.	"[""Amends Item (a) of Section 2 of Republic Act 1613 to specify the construction of Talisay Municipal Hall with an amount of \u20b175,000.00.""]"	Republic Act 1613	"[""Amendment"", ""Construction"", ""Cebu""]"	"[""Talisay"", ""Municipal Hall"", ""Construction"", ""\u20b175,000"", ""Republic Act 1613""]"
+repacts:datasets/markdown/repacts/1963/ra_3566_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3566_1963.md	ra_3566_1963	An Act Establishing a Fishery School at Lapak, Municipality of Siasi, Province of Sulu, to be Known as the Lapak National School of Fisheries and Authorizing the Appropriation of the Sum of Five Hundred Thousand Pesos for This Purpose	"**REPUBLIC ACT No. 3566**
+
+ **An Act Establishing a Fishery School at Lapak, Municipality of Siasi, Province of Sulu, to be Known as the Lapak National School of Fisheries and Authorizing the Appropriation of the Sum of Five Hundred Thousand Pesos for This Purpose**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established at the Lapak Agricultural School, Lapak, Municipality of Siasi, Province of Sulu, site of the fishery school, to be known as the Lapak National School of Fisheries. The Director of Public Schools shall promulgate rules and regulations to implement this Act. The present physical facilities such as buildings, site, books, office and classroom furniture, equipment and such other improvements and facilities of the Lapak Agricultural School are to be transferred without cost to the Lapak National School of Fisheries. The principal, teachers and all other personnel are to be retained by the Lapak Agricultural School at Tarawakan, Sulu, new site of this school. The fishery school in conjunction with its operation shall maintain a research pearl culture station to conduct studies and researches on the propagation and cultivation of pearl.

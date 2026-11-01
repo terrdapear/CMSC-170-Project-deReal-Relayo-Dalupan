@@ -1,0 +1,185 @@
+"	success	Republic Act	This Republic Act amends RA 9728 to further strengthen the powers and functions of the Authority of the Freeport Area of Bataan (AFAB). It converts the Bataan Economic Zone into a freeport, expands the FAB area, clarifies governance principles, details incentives and restrictions, and outlines customs and border control arrangements for the FAB.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 3 of RA 9728 to convert the Bataan Economic Zone (BEZ) into the Freeport Area of Bataan (FAB), defining the main zone area, expansion zones, and administrative arrangements.""}, {""title"": ""Section 2"", ""summary"": ""Amends Section 4 of RA 9728 to establish governing principles for AFAB, including autonomy, infrastructure support, investment incentives, customs authority, and provisions for expansion or reduction of the FAB area.""}]"	11453	2018-07-23			To strengthen the authority of AFAB, expand the FAB area, clarify governance and incentives, and ensure efficient customs and border control within the freeport.	"[""Amends Section 3 of RA 9728 to convert the BEZ into FAB and define its main and expansion zones"", ""Amends Section 4 of RA 9728 to establish governing principles and autonomy for AFAB"", ""Defines incentives and restrictions on dual incentives for enterprises within FAB"", ""Outlines customs authority and border control arrangements for the FAB"", ""Provides for the expansion or reduction of FAB area with appropriate approvals""]"	Republic Act No. 9728	"[""Freeport"", ""Bataan"", ""AFAB"", ""Economic Zone"", ""Customs""]"	"[""Freeport"", ""Economic Zone"", ""Bataan"", ""AFAB"", ""Customs"", ""Incentives"", ""Investment"", ""Governance"", ""Legislation""]"
+repacts:datasets/markdown/repacts/2019/ra_11454_2019.md	repacts	2019		datasets/markdown/repacts/2019/ra_11454_2019.md	ra_11454_2019	"An Act Authorizing the Sale of Certain Parcels of Land in Barangay Krus na Ligas, Quezon City by the University of the Philippines to the Quezon City Government, Amending for the Purpose Republic Act No. 9500, Otherwise Known as ""The University of the Philippines Charter of 2008"", and for Other Purposes"	"**Seventeenth Congress Third Regular Session**
+
+ Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand eighteen.
+
+ **REPUBLIC ACT No. 11454**
+
+ **An Act Authorizing the Sale of Certain Parcels of Land in Barangay Krus na Ligas, Quezon City by the University of the Philippines to the Quezon City Government, Amending for the Purpose Republic Act No. 9500, Otherwise Known as ""The University of the Philippines Charter of 2008"", and for Other Purposes**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** As an exception to Section 23 of Republic Act No. 9500 or ""The University of the Philippines Charter of 2008"", the University of the Philippines (the ""University"") is hereby authorized to sell, dispose, and alienate certain parcels of land owned by the University situated in Barangay Krus na Ligas, Quezon City, but only to the Quezon City Local Government, at fair market price that is acceptable to the University: Provided, That the sale of the said parcels of land in Barangay Krus na Ligas, which shall not exceed twenty-two and four hundred sixty-seven thousandths hectares (22.467 has.), shall be considered perfected only from the time that the University is fully paid therefor, which payment in full shall be made within one (1) year from the signing and execution of the agreement: Provided, further, That no right of ownership or of possession, nor of any other attribute of ownership over the said parcels of land, shall transfer to the Quezon City Local Government until the aforementioned full payment has been actually received by the University: Provided, finally, That this authorization is deemed automatically revoked when the University and the Quezon City Local Government fail to agree on the terms and conditions of the sale within one (1) year from the effectivity of this Act, or when full payment was not received by the University, for whatever reason, one (1) year after the execution of the agreement.
+
+ For purposes of this Act, the said parcels of land situated in Barangay Krus na Ligas, authorized to be sold in this Act, shall not exceed a maximum of twenty-two and four hundred sixty-seven thousandths hectares (22.467 has.) with the following metes and bounds:
+
+ > Technical Descriptions
+>
+>  | Lines | Bearings | Distances |  |
+> | --- | --- | --- | --- |
+> | Boundary |  |  |  |
+> | 1 | 2 | N 0417′ W | 19.63 m. |
+> | 2 | 3 | N 8844′ E | 10.30 m. |
+> | 3 | 4 | N 8636′ E | 14.71 m. |
+> | 4 | 5 | N 8320′ E | 14.74 m. |
+> | 5 | 6 | N 8020 E | 6.60 m. |
+> | 6 | 7 | N7910′E | 16.82 m. |
+> | 7 | 8 | N 7610 E | 11.82 m. |
+> | 8 | 9 | N 7505 E | 74.72 m. |
+> | 9 | 10 | N 7504 E | 47.12 m. |
+> | 10 | 11 | N 7441 E | 31.31 m. |
+> | 11 | 12 | N 7516 E | 21.05 m. |
+> | 12 | 13 | N 7604 E | 11.47 m. |
+> | 13 | 14 | N 7854′ E | 20.32 m. |
+> | 14 | 15 | N 8048 E | 8.42 m. |
+> | 15 | 16 | N 8353 E | 28.42 m. |
+> | 16 | 17 | S 8846 E | 3.13 m. |
+> | 17 | 18 | S 8122′ E | 7.11 m. |
+> | 18 | 19 | S 8751′ E | 57.88 m. |
+> | 19 | 20 | S 0153′ W | 86.65 m. |
+> | 20 | 21 | S 0204′ W | 64.82 m. |
+> | 21 | 22 | S 0208′ W | 65.21 m. |
+> | 22 | 23 | S 0156′ W | 55.06 m. |
+> | 23 | 24 | S 0208′ W | 10.69 m. |
+> | 24 | 25 | S 0209′ W | 62.37 m. |
+> | 25 | 26 | S 0154′ W | 27.42 m. |
+> | 26 | 27 | S 0214′ W | 31.70 m. |
+> | 27 | 28 | S 0734′ W | 12.31 m. |
+> | 28 | 29 | S 1420′ W | 6.32 m. |
+> | 29 | 30 | S 1912′ W | 6.03 m. |
+> | 30 | 31 | S 2314′ W | 6.14 m. |
+> | 31 | 32 | S 3125′ W | 13.20 m. |
+> | 32 | 33 | S 4122′ W | 17.82 m. |
+> | 33 | 34 | S 5124 W | 8.90 m. |
+> | 34 | 35 | S 5327′ W | 204.54 m. |
+> | 35 | 36 | S 3106′ W | 4.93 m. |
+> | 36 | 37 | S 1203′ E | 2.74 m. |
+> | 37 | 38 | S 2811′ E | 36.43 m. |
+> | 38 | 39 | S 3307′ E | 43.97 m. |
+> | 39 | 40 | S 3757 E | 50.02 m. |
+> | 40 | 41 | S 3414′ E | 18.01 m. |
+> | 41 | 42 | S 1623′ E | 9.97 m. |
+> | 42 | 43 | S 0351′ W | 6.45 m. |
+> | 43 | 44 | S 1816′ W | 5.91 m. |
+> | 44 | 45 | S 3146 W | 7.69 m. |
+> | 45 | 46 | S 4837 W | 6.88 m. |
+> | 46 | 47 | S 6612 W | 9.31 m. |
+> | 47 | 48 | S 7107′ W | 3.97 m. |
+> | 48 | 49 | S 7202′ W | 3.19 m. |
+> | 49 | 50 | S 7308′ W | 3.80 m. |
+> | 50 | 51 | S 7349′ W | 89.28 m. |
+> | 51 | 52 | S 3507′ W | 6.49 m. |
+> | 52 | 53 | S 0519′ E | 150.97 m. |
+> | 53 | 54 | S 8555′ W | 77.61 m. |
+> | 54 | 1 | N 0417 W | 861.56 m. |
+> | TIE LINES from BLLM No. 1, Marikina to corner ""1"" |  |  |  |
+> | Lots | Bearings | Distances |  |
+> | BDRY. | N 6457 W | 4120.50 m. |  |
+>
+>  The area to be sold defined by the foregoing metes and bounds shall not include any facility of the University, as determined by the University, located in the said area.
+
+ **Section 2.** *Other Terms and Conditions of Sale.* The sale authorized by this Act shall likewise be subject to other terms and conditions that shall be agreed upon by the University and the Quezon City Local Government.
+
+ No land covered under this Act shall be sold, alienated or conveyed by the legitimate residents of Barangay Krus na Ligas except to his/her legal heirs. Should the legitimate residents unlawfully sell, transfer or otherwise dispose his/her lot to or any right therein, the transaction shall be null and void. He/She shall also lose his/her right to the land and forfeit the total amount of amortization paid thereon. In the event that the legitimate resident dies before full ownership of the land is vested on him/her, transfer to his/her heirs shall take place only upon assumption of his/her obligations. In case of failure by the heirs to assume such obligations, the land shall revert to the Quezon City Local Government for disposition.
+
+ **Section 3.** *Technical Working Group.* Upon transfer of ownership of the said parcels of land situated in Barangay Krus na Ligas from the University to the Quezon City Local Government, the Quezon City Local Government shall immediately fence off the property of the University to segregate it from the area sold under this Act, and shall subsequently transfer the said property to legitimate residents of Barangay Krus na Ligas. For this purpose, the Quezon City Local Government shall create a Technical Working Group to:
+
+ (a) Determine the ""legitimate residents of Barangay Krus na Ligas"", whose long-standing residence in the area can sufficiently be established by authenticated documentary and testimonial evidence, and who are qualified to become subsequent buyers of parcels of land in Barangay Krus na Ligas; ""Legitimate residents of Barangay Krus na Ligas"", pertain to those who by themselves, or through their predecessors-in-interest, have been in continuous possession and occupation of the same parcels of land in the concept of owner since time immemorial, or for a period of not less than thirty (30) years immediately preceding the approval of this Act, and uncontested by any resident of the same parcels of land; and (b) Assist the University, at the expense of the Quezon City Local Government, (o resettle all the other settlers found in the remaining property of the University that is adjacent to the said parcels of land situated in Barangay Ivrus na Ligas. **Section 4.** *Interagency Committ*ee. An interagency committee headed by the Quezon City Local Government and composed of the University and the Department of Housing and Urban Development and the National Housing Authority shall issue the necessary guidelines for the effective implementation of this Act.
+
+ **Section 5.** The sale authorized under this Act shall be exempt from all taxes and impositions.
+
+ **Section 6.** *Separability Clause.* If any part or provision of this Act is declared invalid or unconstitutional, the other parts hereof not affected thereby shall remain valid.
+
+ **Section 7.** *Repealing Clause.* All other laws, rules and regulations inconsistent with this Act are hereby repealed, amended or modified accordingly.
+
+ **Section 8.** *Effectivity.* This Act shall cake effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ (Sgd) **GLORIA MACAPAGAL-ARROYO** Speaker of the House of Representatives
+
+ (Sgd) **VICENTE C. SOTTO III** President of the Senate
+
+ This Act was passed by the Senate of the Philippines as Senate Bill No. 2234 on June 3, 2019 and adopted by the House of Representatives as an amendment to House Bill No. 165 on June 3, 2019.
+
+ (Sgd) **DANTE ROBERTO P. MALING** Acting Secretary General House of Representatives
+
+ (Sgd) **MYRA MARIE D. VILLARICA** Secretary of the Senate
+
+ (Sgd) **RODRIGO ROA DUTERTE** President of the Philippines
+
+ Approved: August 30, 2019.
+"	success	Republic Act	This Act authorizes the University of the Philippines to sell, dispose, and alienate specific parcels of land in Barangay Krus na Ligas, Quezon City, to the Quezon City Local Government under specified conditions, amending RA 9500 (UP Charter) and providing for other related matters. It sets forth sale terms, payment conditions, revocation clauses, and requires the University to fence off the property upon transfer.	"[{""title"": ""Section 1. Authorization to Sell Land"", ""summary"": ""Authorizes the sale of up to 22.467 hectares of land in Barangay Krus na Ligas to the Quezon City Local Government, with conditions on payment, ownership transfer, and automatic revocation if terms are not met.""}, {""title"": ""Section 2. Other Terms and Conditions of Sale"", ""summary"": ""Specifies that the sale is subject to additional terms and conditions agreed upon by the University and the Quezon City Local Government, and outlines restrictions on legitimate residents.""}, {""title"": ""Section 3. Technical Working Group"", ""summary"": ""Mandates the Quezon City Local Government to fence off the property upon transfer and establishes a technical working group for related matters.""}]"	11454	2018-07-23			To authorize the sale of specific UP land parcels to the Quezon City Government and amend RA 9500 for this purpose.	"[""Authorization for sale of up to 22.467 hectares of UP land in Barangay Krus na Ligas"", ""Sale to Quezon City Local Government only, subject to payment within one year"", ""Transfer of ownership only after full payment received"", ""Automatic revocation if terms not agreed or payment not made within one year"", ""Restrictions on sale by legitimate residents and reversion to Quezon City Government if conditions not met"", ""Requirement for Quezon City to fence off property upon transfer""]"	Republic Act No. 9500 (The University of the Philippines Charter of 2008)	"[""Land Sale"", ""University of the Philippines"", ""Quezon City"", ""Charter"", ""Real Property""]"	"[""UP land sale"", ""Quezon City Government"", ""RA 11454"", ""property transfer"", ""payment conditions""]"
+repacts:datasets/markdown/repacts/2019/ra_11455_2019.md	repacts	2019		datasets/markdown/repacts/2019/ra_11455_2019.md	ra_11455_2019	"An Act Creating Two (2) Additional Branches of the Regional Trial Court in the Province of Sultan Kudarat, One Each to be Stationed in the Municipality of Isulan and Tacurong City, Further Amending for the Purpose Section 14, Paragraph (m) of Batas Pambansa Blg. 129, Otherwise Known as ""The Judiciary Reorganization Act of 1980"", as Amended, and Appropriating Funds Therefore"	"**Seventeenth Congress Third Regular Session**
+
+ Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand eighteen.
+
+ **REPUBLIC ACT No. 11455**
+
+ **An Act Creating Two (2) Additional Branches of the Regional Trial Court in the Province of Sultan Kudarat, One Each to be Stationed in the Municipality of Isulan and Tacurong City, Further Amending for the Purpose Section 14, Paragraph (m) of Batas Pambansa Blg. 129, Otherwise Known as ""The Judiciary Reorganization Act of 1980"", as Amended, and Appropriating Funds Therefore**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Two (2) additional branches of the Regional Trial Court are hereby created, one each to be stationed in the Municipality of Isulan and Tacurong City, in the Province of Sultan Kudarat in the Twelfth Judicial Region.
+
+ The Supreme Court shall assign the branch number of the newly created Regional Trial Court branches in the Twelfth Judicial Region.
+
+ **Section 2.** The Chief Justice of the Supreme Court, in coordination with the Secretary of the Department of Justice, shall immediately include in the Courts program the operationalization of the additional Regional Trial Court branches to be stationed in the Municipality of Isulan, and Tacurong City, Province of Sultan Kudarat. The funds necessary for the operation of the courts herein created shall be appropriated and released only upon the actual organization of the courts and the appointment of its personnel.
+
+ **Section 3.** Section 14(m) of Batas Pambansa Blg. 129, otherwise known as ""The Judiciary Reorganization Act of 1980"", as amended, and all other laws, rules and regulations which are inconsistent with this Act are hereby amended, repealed or modified accordingly.
+
+ **Section 4.** This Act shall take effect fifteen (15) days after its complete publication in the Official Gazette or in two (2) newspapers of general circulation.
+
+ Approved,
+
+ (Sgd) **GLORIA MACAPAGAL-ARROYO** Speaker of the House of Representatives
+
+ (Sgd) **VICENTE C. SOTTO III** President of the Senate
+
+ This Act was passed by the Senate of the Philippines as Senate Bill No. 1542 on May 27, 2019 and adopted by the House of Representatives as an amendment to House Bill No. 8646 on June 3, 2019.
+
+ (Sgd) **DANTE ROBERTO P. MALING** Acting Secretary General House of Representatives
+
+ (Sgd) **MYRA MARIE D. VILLARICA** Secretary of the Senate
+
+ (Sgd) **RODRIGO ROA DUTERTE** President of the Philippines
+
+ Approved: August 30, 2019.
+"	success	Republic Act	The act establishes two new Regional Trial Court branches in Isulan and Tacurong City, Sultan Kudarat, amends Section 14(m) of Batas Pambansa Blg. 129, and appropriates funds for their operation and staffing.	"[{""title"": ""Section 1"", ""summary"": ""Creation of two new RT branches in Isulan and Tacurong City, Sultan Kudarat.""}, {""title"": ""Section 2"", ""summary"": ""Coordination for operationalization and funding, with appropriation upon organization.""}, {""title"": ""Section 3"", ""summary"": ""Amendment, repeal or modification of Section 14(m) of BP Blg. 129 and related inconsistent laws.""}, {""title"": ""Section 4"", ""summary"": ""Act to take effect fifteen days after publication in the Official Gazette or two newspapers.""}]"	RA 11455	2019-08-30	"[{""name"": ""GLORIA MACAPAGAL-ARROYO"", ""title"": ""Speaker of the House of Representatives""}, {""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}]"	"[{""name"": ""DANTE ROBERTO P. MALING"", ""title"": ""Acting Secretary General House of Representatives""}, {""name"": ""MYRA MARIE D. VILLARICA"", ""title"": ""Secretary of the Senate""}, {""name"": ""RODRIGO ROA DUTERTE"", ""title"": ""President of the Philippines""}]"	To expand judicial services in Sultan Kudarat by creating new RT branches, amend existing judiciary reorganization law, and provide necessary funding.	"[""Creation of two RT branches in Isulan and Tacurong City"", ""Appropriation of funds for operation and staffing"", ""Amendment of Section 14(m) of Batas Pambansa Blg. 129"", ""Effective date fifteen days after publication""]"	Batas Pambansa Blg. 129 (Section 14(m))	"[""Judiciary"", ""Regional Trial Court"", ""Sultan Kudarat"", ""Amendment"", ""RA 11455""]"	"[""Regional Trial Court"", ""Isulan"", ""Tacurong City"", ""Sultan Kudarat"", ""Batas Pambansa Blg. 129"", ""Republic Act 11455"", ""Judiciary Reorganization Act""]"
+repacts:datasets/markdown/repacts/2019/ra_11456_2019.md	repacts	2019		datasets/markdown/repacts/2019/ra_11456_2019.md	ra_11456_2019	"An Act Creating an Additional Branch of Regional Trial Court in the 3rd District of Zamboanga del Norte, to be Stationed in the Municipality of Liloy, Amending for the Purpose Section 14, Paragraph (j) of Batas Pambansa Blg. 129, Otherwise Known as ""The Judiciary Reorganization Act of 1980"", as Amended, and Appropriating Funds Therefor"	"**Seventeenth Congress Third Regular Session**
+
+ Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand eighteen.
+
+ **REPUBLIC ACT No. 11456**
+
+ **An Act Creating an Additional Branch of Regional Trial Court in the 3rd District of Zamboanga del Norte, to be Stationed in the Municipality of Liloy, Amending for the Purpose Section 14, Paragraph (j) of Batas Pambansa Blg. 129, Otherwise Known as ""The Judiciary Reorganization Act of 1980"", as Amended, and Appropriating Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** One (1) Regional Trial Court branch to be stationed in the Municipality of Liloy, is hereby created in the Ninth Judicial Region.
+
+ The Supreme Court shall, assign the branch number of the newly created Regional Trial Court branch in the Ninth Judicial Region.
+
+ **Section 2.** The Chief Justice of the Supreme Court, in coordination with the Secretary of Justice, shall immediately include in the Courts program the implementation of this Act. The amount necessary for the creation and the continuous funding therefore shall likewise be included in the annual General Appropriations Act. The funds necessary shall be appropriated and released only upon the actual organization of the court and appointment of its personnel.
+
+ **Section 3.** Section 14(j) of Batas Pambansa Blg. 129, otherwise known as ""The Judiciary Reorganization Act of 1980"", as amended, and all other laws, rules and regulations which are inconsistent with this Act are hereby amended, repealed or modified accordingly.
+
+ **Section 4.** This Act shall take effect fifteen (15) days after completion of its publication in the Official Gazette or in two (2) newspapers of general circulation.
+
+ Approved,
+
+ (Sgd) **GLORIA MACAPAGAL-ARROYO** Speaker of the House of Representatives
+
+ (Sgd) **VICENTE C. SOTTO III** President of the Senate
+
+ This Act was passed by the Senate of the Philippines as Senate Bill No. 1840 on May 27, 2019 and adopted by the House of Representatives as an amendment to House Bill No. 8919 on June 3, 2019.
+
+ (Sgd) **DANTE ROBERTO P. MALING** Acting Secretary General House of Representatives
+
+ (Sgd) **MYRA MARIE D. VILLARICA** Secretary of the Senate
+
+ (Sgd) **RODRIGO ROA DUTERTE** President of the Philippines
+
+ Approved: August 30, 2019.
+"	success	Republic Act	This act creates an additional regional trial court branch in Liloy, Zamboanga del Norte, amends Section 14(j) of Batas Pambansa Blg. 129, and appropriates funds for its establishment.	"[{""title"": ""Section 1"", ""summary"": ""Creates one Regional Trial Court branch to be stationed in the Municipality of Liloy, in the Ninth Judicial Region, and assigns its branch number by the Supreme Court.""}, {""title"": ""Section 2"", ""summary"": ""The Chief Justice, in coordination with the Secretary of Justice, will implement the Act, with necessary funds appropriated in the General Appropriations Act upon actual organization and appointment of personnel.""}, {""title"": ""Section 3"", ""summary"": ""Amends Section 14(j) of Batas Pambansa Blg. 129 and repeals or modifies any laws, rules or regulations inconsistent with this Act.""}, {""title"": ""Section 4"", ""summary"": ""The Act takes effect fifteen days after its publication in the Official Gazette or in two newspapers of general circulation.""}]"	11456	2019-08-30	"[{""name"": ""GLORIA MACAPAGAL-ARROYO"", ""title"": ""Speaker of the House of Representatives""}, {""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}]"	"[{""name"": ""DANTE ROBERTO P. MALING"", ""title"": ""Acting Secretary General House of Representatives""}, {""name"": ""MYRA MARIE D. VILLARICA"", ""title"": ""Secretary of the Senate""}, {""name"": ""RODRIGO ROA DUTERTE"", ""title"": ""President of the Philippines""}]"	To establish an additional branch of the Regional Trial Court in Liloy, Zamboanga del Norte, amend Section 14(j) of the Judiciary Reorganization Act of 1980, and appropriate necessary funds for its establishment.	"[""Creation of a new RT branch in Liloy"", ""Assignment of branch number by the Supreme Court"", ""Coordination between Chief Justice and Secretary of Justice for implementation"", ""Appropriation of funds in the General Appropriations Act"", ""Amendment of Section 14(j) of Batas Pambansa Blg. 129"", ""Effective date fifteen days after publication""]"	Batas Pambansa Blg. 129 – Section 14(j)	"[""Judiciary"", ""Regional Trial Court"", ""Zamboanga del Norte"", ""Liloy"", ""Amendment"", ""Appropriation""]"	"[""Regional Trial Court"", ""Liloy"", ""Zamboanga del Norte"", ""Judiciary Reorganization Act"", ""Batas Pambansa Blg. 129"", ""Appropriations"", ""Supreme Court""]"
+repacts:datasets/markdown/repacts/2019/ra_11457_2019.md	repacts	2019		datasets/markdown/repacts/2019/ra_11457_2019.md	ra_11457_2019	An Act Creating the Davao International Airport Authority, Transferring Existing Assets of Francisco Bangoy International Airport to the Authority, Vesting the Authority with Power to Administer and Operate the Francisco Bangoy International Airport and Appropriating Funds Therefor	"**Seventeenth Congress Third Regular Session**

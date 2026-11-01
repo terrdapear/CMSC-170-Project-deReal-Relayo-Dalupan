@@ -1,0 +1,144 @@
+
+ **An Act Changing the Name of Lubuagan Hospital in the Municipality of Lubuagan, Mountain Province, to Kalinga Hospital**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Lubuagan Hospital in the Municipality of Lubuagan, Mountain Province, is hereby changed to Kalinga Hospital.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1964.
+"	success	Republic Act	An act that changes the name of Lubuagan Hospital to Kalinga Hospital.	"[{""title"": ""Section 1."", ""summary"": ""The name of Lubuagan Hospital in the Municipality of Lubuagan, Mountain Province, is hereby changed to Kalinga Hospital.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	4044	June 18, 1964			To rename Lubuagan Hospital to Kalinga Hospital.	"[""Name of Lubuagan Hospital changed to Kalinga Hospital"", ""Act takes effect upon approval""]"		"[""hospital"", ""name change"", ""Republic Act""]"	"[""Lubuagan Hospital"", ""Kalinga Hospital"", ""Mountain Province"", ""name change""]"
+repacts:datasets/markdown/repacts/1964/ra_4045_1964.md	repacts	1964		datasets/markdown/repacts/1964/ra_4045_1964.md	ra_4045_1964	An Act Converting Lambunao Emergency Hospital in the Municipality of Lambunao, Province of Iloilo, into a General Hospital, to be Known as Lambunao General Hospital, Increasing its Bed Capacity to Fifty, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 4045**
+
+ **An Act Converting Lambunao Emergency Hospital in the Municipality of Lambunao, Province of Iloilo, into a General Hospital, to be Known as Lambunao General Hospital, Increasing its Bed Capacity to Fifty, and Authorizing the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The Lambunao Emergency Hospital in the Municipality of Lambunao, Province of Iloilo, is hereby converted into a general hospital to be known as Lambunao General Hospital, and its bed capacity increased to fifty.
+
+ **Section 2.** The additional sum of two hundred thousand pesos is authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, to carry out the purpose of this Act for the fiscal year nineteen hundred sixty-five. Thereafter, the necessary sum for the same purpose shall be included in the annual General Appropriations Act.
+
+ **Section 3.** Any existing law to the contrary notwithstanding, this hospital shall have a per capita allocation of twelve pesos per day for its operation and maintenance.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1964.
+"	success	Republic Act	Converts Lambunao Emergency Hospital into a general hospital, increases bed capacity to fifty, authorizes appropriation of funds, and sets a per capita allocation for operation and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""Converts Lambunao Emergency Hospital into Lambunao General Hospital and increases bed capacity to fifty.""}, {""title"": ""Section 2."", ""summary"": ""Authorizes the appropriation of two hundred thousand pesos for the fiscal year 1965 and inclusion of necessary funds in the annual General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""Provides a per capita allocation of twelve pesos per day for the hospital's operation and maintenance.""}, {""title"": ""Section 4."", ""summary"": ""The act will take effect upon its approval.""}]"	4045	1964-06-18			To convert the Lambunao Emergency Hospital into a general hospital, increase its bed capacity, and authorize necessary funding for its operation.	"[""Conversion of Lambunao Emergency Hospital to Lambunao General Hospital"", ""Increase bed capacity to fifty"", ""Appropriation of two hundred thousand pesos for 1965 fiscal year"", ""Per capita allocation of twelve pesos per day for operation and maintenance"", ""Act takes effect upon approval""]"		"[""hospital"", ""healthcare"", ""budget"", ""Ilioilo""]"	"[""Lambunao"", ""General Hospital"", ""bed capacity"", ""appropriation"", ""per capita allocation""]"
+repacts:datasets/markdown/repacts/1964/ra_4046_1964.md	repacts	1964		datasets/markdown/repacts/1964/ra_4046_1964.md	ra_4046_1964	An Act Changing the Name of Gabong, Community School in the Barrio of Pandanan, Municipality of Balabac, Province of Palawan, to Tuan Hadji Jiakaria General Community School	"**REPUBLIC ACT No. 4046**
+
+ **An Act Changing the Name of Gabong, Community School in the Barrio of Pandanan, Municipality of Balabac, Province of Palawan, to Tuan Hadji Jiakaria General Community School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Gabong Community School in the barrio of Pandanan, Municipality of Balabac, Province of Palawan, is hereby changed to Tuan Hadji Jiakaria General Community School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1964.
+"	success	Republic Act	An act that changes the name of Gabong Community School to Tuan Hadji Jiakaria General Community School.	"[{""title"": ""Section 1"", ""summary"": ""The name of Gabong Community School in the barrio of Pandanan, Municipality of Balabac, Province of Palawan, is hereby changed to Tuan Hadji Jiakaria General Community School.""}, {""title"": ""Section 2"", ""summary"": ""This act shall take effect upon its approval.""}]"	4046	June 18, 1964			To change the name of a community school in Palawan.	"[""Name of Gabong Community School changed to Tuan Hadji Jiakaria General Community School."", ""Act takes effect upon approval.""]"		"[""Education"", ""School"", ""Name change""]"	"[""school"", ""name change"", ""Palawan"", ""Balabac"", ""Gabong""]"
+repacts:datasets/markdown/repacts/1964/ra_4047_1964.md	repacts	1964		datasets/markdown/repacts/1964/ra_4047_1964.md	ra_4047_1964	An Act Amending Sections One and Two of Republic Act Numbered Three Thousand Four Hundred Eighty	"**REPUBLIC ACT No. 4047**
+
+ **An Act Amending Sections One and Two of Republic Act Numbered Three Thousand Four Hundred Eighty**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Sections one and two of Republic Act Numbered Three thousand four hundred eighty are hereby amended to read as follows:
+
+ > ""Sec. 1. There is hereby granted to Marinduque Iron Mines, Inc., a temporary permit to construct, establish, maintain and operate in the Philippines, at such places as the said grantee may select subject to the approval of the Secretary of Public Works and Communications, private fixed point-to-point radio stations, aeronautical fixed radio stations, mobile land stations, mobile sea stations, mobile air stations as well as point-to-point field stations for new operations and communications from point-to-point ground, land point to mobile air, land or sea, mobile sea to air, sea or land and mobile air to air, sea or land, for the reception and transmission of wireless messages on radiotelegraphy or radiotelephony, each station to be provided with a radio transmitting apparatus and radio receiving apparatus. Said grantee is authorized to use any combination of these facilities for the efficiency and safety of its operations.
+>
+>  ""Sec. 2. The President of the Philippines shall have the power and authority to permit the location of said private fixed point-to-point radio stations, aeronautical fixed radio stations, mobile land stations, mobile sea stations, mobile air stations as well as point-to-point field stations for new operations and communications from point-to-point ground, land point to mobile air, land or sea, mobile air to air, sea or land and mobile sea to air, sea or land, or any of them on lands of the public domain upon such terms as he may prescribe.""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1964.
+"	success	Republic Act	An amendment to Republic Act No. 380 that grants a temporary permit to Marinduque Iron Mines, Inc. to construct and operate various private radio stations, and authorizes the President to permit the location of these stations on public domain lands.	"[{""title"": ""Section 1."", ""summary"": ""Sections one and two of Republic Act Numbered Three thousand four hundred eighty are hereby amended to grant Marinduque Iron Mines, Inc. a temporary permit to construct, establish, maintain and operate private fixed point-to-point radio stations, aeronautical fixed radio stations, mobile land stations, mobile sea stations, mobile air stations, and point-to-point field stations for new operations and communications. The President of the Philippines has the power to permit the location of said stations on lands of the public domain upon terms prescribed.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	4047	June 18, 1964			To facilitate the operation of radio stations by Marinduque Iron Mines, Inc. and to provide the President with authority to permit the location of such stations on public domain lands.	"[""Granting of temporary permit to Marinduque Iron Mines, Inc. for various radio stations"", ""Authorization of the President to permit location of these stations on public domain lands""]"	Republic Act No. 380	"[""Amendment"", ""Radio"", ""Telecommunications"", ""Marinduque"", ""Iron Mines""]"	"[""temporary permit"", ""radio stations"", ""Marinduque Iron Mines"", ""public domain"", ""President authority"", ""radiotelegraphy"", ""radiotelephony""]"
+repacts:datasets/markdown/repacts/1964/ra_4048_1964.md	repacts	1964		datasets/markdown/repacts/1964/ra_4048_1964.md	ra_4048_1964	An Act to Convert the Southern Samar National Agricultural School in the Municipality of Salcedo, Province of Samar, into a College to be Known as Southern Samar Agricultural College, and to Authorize the Appropriation of the Necessary Funds Therefor	"**REPUBLIC ACT No. 4048**
+
+ **An Act to Convert the Southern Samar National Agricultural School in the Municipality of Salcedo, Province of Samar, into a College to be Known as Southern Samar Agricultural College, and to Authorize the Appropriation of the Necessary Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The Southern Samar National Agricultural School located in the Municipality of Salcedo, Province of Samar, is hereby converted into a college to be known as Southern Samar Agricultural College.
+
+ **Section 2.** The Southern Samar Agricultural College shall offer in addition to the secondary agricultural curriculum any or all of the following collegiate courses at the discretion of the Director of Vocational Education:
+
+ (a) Two-year technical Agriculture leading to the title of Associate in Agriculture; (b) Four-year technical agriculture leading to the degree of Bachelor of Science in Agriculture; (c) Four-year teacher education leading to the degree of Bachelor of Science in Agricultural Education. **Section 3.** The Southern Samar Agricultural College shall be headed by a Superintendent of Agricultural Instruction and shall be under the Bureau of Vocational Education. The Superintendent shall have direct administration and supervision over the Samar National Agricultural School, Balangiga Rural School, General MacArthur Rural Agricultural School, Maydolong Rural Agricultural School, Eastern Samar National Agricultural School, Can-Avid Rural Agricultural School, Arteche Rural Agricultural School and Catubig National Rural School, all of which are under the Bureau of Vocational Education.
+
+ **Section 4.** The sum of two hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of the said college, in addition to the present appropriation of the said school, for the fiscal year nineteen hundred sixty-five. Thereafter, the necessary sum for said purpose shall be included in the annual General Appropriations Act.
+
+ **Section 5.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1964.
+"	success	Republic Act	Converts Southern Samar National Agricultural School into Southern Samar Agricultural College and appropriates funds for its operation.	"[{""title"": ""Section 1"", ""summary"": ""The Southern Samar National Agricultural School is converted into Southern Samar Agricultural College.""}, {""title"": ""Section 2"", ""summary"": ""The college will offer various collegiate courses including Associate in Agriculture, Bachelor of Science in Agriculture, and Bachelor of Science in Agricultural Education.""}, {""title"": ""Section 3"", ""summary"": ""The college will be headed by a Superintendent of Agricultural Instruction under the Bureau of Vocational Education, overseeing multiple schools.""}, {""title"": ""Section 4"", ""summary"": ""Appropriates 200,000 pesos for the operation and maintenance of the college for the fiscal year 1965, to be included in future General Appropriations Acts.""}, {""title"": ""Section 5"", ""summary"": ""The act takes effect upon approval.""}]"	4048	June 18, 1964			To convert a national agricultural school into a college and authorize appropriation of funds for its operation and maintenance.	"[""Conversion of the school into a college"", ""Authorization of collegiate courses"", ""Appointment of Superintendent under Bureau of Vocational Education"", ""Appropriation of 200,000 pesos for operations and maintenance"", ""Effectivity upon approval""]"		"[""Education"", ""Agriculture"", ""College"", ""Appropriation""]"	"[""Southern Samar Agricultural College"", ""National Agricultural School"", ""Appropriation"", ""Vocational Education"", ""Bureau of Vocational Education""]"
+repacts:datasets/markdown/repacts/1964/ra_4049_1964.md	repacts	1964		datasets/markdown/repacts/1964/ra_4049_1964.md	ra_4049_1964	An Act Converting Batanes High School in the Province of Batanes into a National High School, to be Known as Batanes National High School, and Authorizing the Appropriation of Necessary Funds Therefor	"**REPUBLIC ACT No. 4049**
+
+ **An Act Converting Batanes High School in the Province of Batanes into a National High School, to be Known as Batanes National High School, and Authorizing the Appropriation of Necessary Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The Batanes High School in the Province of Batanes is hereby converted into a national high school, to be known as Batanes National High School. A comprehensive curriculum of purely academic course shall be offered.
+
+ **Section 2.** The Secretary of Education is hereby empowered to reorganize said school accordingly.
+
+ **Section 3.** All assets, equipment, properties and liabilities of the said Batanes High School shall be transferred to the Batanes National High School, and any provision of law to the contrary notwithstanding, the tuition fees of students shall accrue to the funds of Batanes National High School for its operation and maintenance in addition to the sums appropriated by this Act and those included in the General Appropriations Act.
+
+ **Section 4.** The sum of one hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the conversion, operation and maintenance of said school during the fiscal year nineteen hundred sixty-five. Thereafter, such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 5.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1964.
+"	success	Republic Act	This Act converts Batanes High School into Batanes National High School, empowers the Secretary of Education to reorganize the school, transfers all assets and liabilities to the new institution, and appropriates funds for its conversion, operation, and maintenance.	"[{""title"": ""Section 1"", ""summary"": ""Converts Batanes High School into Batanes National High School and establishes a comprehensive academic curriculum.""}, {""title"": ""Section 2"", ""summary"": ""Empowers the Secretary of Education to reorganize the school accordingly.""}, {""title"": ""Section 3"", ""summary"": ""Transfers all assets, equipment, properties, and liabilities to the new school and directs tuition fees to its funds.""}, {""title"": ""Section 4"", ""summary"": ""Authorizes appropriation of one hundred thousand pesos for conversion and operation during fiscal year 1965, with future needs included in the General Appropriations Act.""}, {""title"": ""Section 5"", ""summary"": ""Act takes effect upon approval.""}]"	4049	June 18, 1964			To convert Batanes High School into a national high school and provide necessary appropriations for its operation and maintenance.	"[""Conversion of Batanes High School into a national high school"", ""Empowerment of the Secretary of Education to reorganize the school"", ""Transfer of all assets, equipment, properties, and liabilities"", ""Appropriation of funds for conversion, operation, and maintenance""]"		"[""Education"", ""High School"", ""Batanes"", ""Appropriations"", ""Conversion""]"	"[""Batanes"", ""National High School"", ""Secretary of Education"", ""Appropriation"", ""General Appropriations Act""]"
+repacts:datasets/markdown/repacts/1964/ra_4050_1964.md	repacts	1964		datasets/markdown/repacts/1964/ra_4050_1964.md	ra_4050_1964	An Act Creating the Department of Social Welfare in the City of Manila, Further Amending for This Purpose, Certain Sections of Republic Act Numbered Four Hundred Nine, as Amended	"**REPUBLIC ACT No. 4050**
+
+ **An Act Creating the Department of Social Welfare in the City of Manila, Further Amending for This Purpose, Certain Sections of Republic Act Numbered Four Hundred Nine, as Amended**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section twenty of Republic Act Numbered Four hundred nine, as amended, is further amended to read as follows:
+
+ > ""Sec. 20. *City Departments.* -There shall be the following city departments over which the Mayor shall have direct supervision and control, except over the Office of the City Fiscal which shall be under the Department of Justice, any existing law to the contrary notwithstanding:
+>
+>  ""1. Department of Engineering and Public Works ""2. Police Department ""3. Office of the City Fiscal ""4. Fire Department ""5. Department of Finance ""6. Department of Assessment ""7. Department of Health ""8. Department of Public Services ""9. Department of Social Welfare ""The Board may from time to time make such readjustment in the duties of the several departments as the public interest may demand.""
+
+ **Section 2.** The same Act, as amended, is further amended by inserting a new article to be known as Article Fourteen and one-half, and a new section to be known as Section Eighty-A, between Sections Eighty and Eighty-one thereof which shall read as follows:
+
+ > ""Article XIV Department of Social Welfare
+>
+>  ""Sec. 80. A. *Department of Social Welfare.* -There shall be a Social Welfare Officer, with a salary of twelve thousand pesos per annum, who shall have charge of the Department of Social Welfare. The following shall be his general powers and duties:
+>
+>  ""(a) He shall have control and supervision over the social services of the city; ""(b) He shall execute and enforce all laws, ordinances and regulations relating to social services; ""(c) He shall recommend to the municipal board the passage of ordinances as he may deem necessary for the rendition of maximum social services to the city; ""(d) He shall cause to be prosecuted all violations of social service laws and ordinances; ""(e) He shall cooperate with all public and private relief agencies and charitable organizations in their missions to the city and shall be the representative of the Mayor to these agencies and organizations in matters affecting the social needs and services of the city; and ""(f) He shall exercise such other powers as may be necessary in the performance of his duties as the Social Welfare Officer of the city.""
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1964.
+"	success	Republic Act	The Act establishes the Department of Social Welfare in Manila and amends Republic Act No. 409 to create the department, define its officer, and outline the duties and powers of the Social Welfare Officer.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 20 of Republic Act No. 409 to add the Department of Social Welfare as one of the city departments under the Mayor\u2019s supervision.""}, {""title"": ""Section 2"", ""summary"": ""Adds Article XIV and Section 80.A to create the position of Social Welfare Officer, detailing the officer\u2019s salary, powers, duties, and responsibilities in overseeing the city\u2019s social services.""}, {""title"": ""Section 3"", ""summary"": ""Provides that the Act takes effect upon its approval.""}]"	4050	June 18, 1964			To create the Department of Social Welfare in Manila and amend existing law (RA 409) to establish the department and its officer, thereby enhancing the provision of social services in the city.	"[""Creation of the Department of Social Welfare in Manila"", ""Amendment of Section 20 of RA 409 to include the department"", ""Establishment of the Social Welfare Officer position with defined salary and duties"", ""Outline of the Social Welfare Officer\u2019s powers and responsibilities"", ""Effective date of the Act""]"	Republic Act No. 409	"[""Department of Social Welfare"", ""Manila"", ""RA 409"", ""Social Services""]"	"[""social welfare"", ""department"", ""Manila"", ""public services"", ""social services"", ""city departments""]"
+repacts:datasets/markdown/repacts/1964/ra_4051_1964.md	repacts	1964		datasets/markdown/repacts/1964/ra_4051_1964.md	ra_4051_1964	An Act Converting Sabani Estate Rural School in the Municipality of Gabaldon, Province of Nueva Ecija, into a College to be Known as the Nueva Ecija Institute of Agriculture, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 4051**
+
+ **An Act Converting Sabani Estate Rural School in the Municipality of Gabaldon, Province of Nueva Ecija, into a College to be Known as the Nueva Ecija Institute of Agriculture, and Authorizing the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The Sabani Estate Rural School located in the Municipality of Gabaldon, Province of Nueva Ecija, is hereby converted into a college to be known as the Nueva Ecija Institute of Agriculture.
+
+ **Section 2.** The institute shall offer, in addition to the secondary agricultural curriculum, any or all of the following collegiate courses at the discretion of the Director of Vocational Education:
+
+ (a) Two-year technical agriculture leading to the title of Associate in Agriculture; (b) Four-year technical agriculture leading to the degree of Bachelor of Science in Agriculture; and (c) Four-year teacher education leading to the degree of Bachelor of Science in Agriculture Education. **Section 3.** The institute shall be headed by a superintendent under the Bureau of Vocational Education. He shall have the same powers and duties with respect to the institute as are now vested in the Principal of Sabani Estate Rural School, as well as such as may be vested in him by the Director of Vocational Education.
+
+ **Section 4.** The sum of two hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of the institute, in addition to the present national appropriation for the school. Thereafter the necessary sum for the operation and maintenance of the college shall be included in the annual General Appropriations Act.
+
+ **Section 5.** The Secretary of Education is hereby empowered to reorganize the present Sabani Estate Rural School into a college, as herein provided.
+
+ **Section 6.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1964.
+"	success	Act	Converts Sabani Estate Rural School into the Nueva Ecija Institute of Agriculture, establishes its academic programs, appoints a superintendent, appropriates funds for operation and maintenance, and authorizes reorganization by the Secretary of Education.	"[{""title"": ""Section 1"", ""summary"": ""Conversion of Sabani Estate Rural School into the Nueva Ecija Institute of Agriculture.""}, {""title"": ""Section 2"", ""summary"": ""Institutes the offering of collegiate courses in agriculture and teacher education.""}, {""title"": ""Section 3"", ""summary"": ""Appoints a superintendent to head the institute.""}, {""title"": ""Section 4"", ""summary"": ""Appropriates two hundred thousand pesos for operation and maintenance of the institute.""}, {""title"": ""Section 5"", ""summary"": ""Empowers the Secretary of Education to reorganize the school into a college.""}, {""title"": ""Section 6"", ""summary"": ""Specifies that the act takes effect upon approval.""}]"	4051	June 18, 1964			To convert a rural school into a college for agricultural education and fund its operations.	"[""Conversion of the school into a college"", ""Establishment of academic programs"", ""Appointment of a superintendent"", ""Appropriation of funds for operation and maintenance"", ""Reorganization by the Secretary of Education"", ""Effectivity upon approval""]"		"[""Education"", ""Agriculture"", ""Institutions""]"	"[""Sabani Estate Rural School"", ""Nueva Ecija Institute of Agriculture"", ""appropriation"", ""vocational education""]"
+repacts:datasets/markdown/repacts/1964/ra_4052_1964.md	repacts	1964		datasets/markdown/repacts/1964/ra_4052_1964.md	ra_4052_1964	An Act Amending Section One of Republic Act Numbered Twenty-Three Hundred Thirty-Nine, as Amended by Republic Act Numbered Twenty-Nine Hundred Ninety-Five, Authorizing the Tacloban Electric Light and Ice Plants Co., Inc. to Extend its Electric Light, Heat and Power System to the Municipalities of Palo and Tanauan, Both in the Province of Leyte	"**REPUBLIC ACT No. 4052**
+
+ **An Act Amending Section One of Republic Act Numbered Twenty-Three Hundred Thirty-Nine, as Amended by Republic Act Numbered Twenty-Nine Hundred Ninety-Five, Authorizing the Tacloban Electric Light and Ice Plants Co., Inc. to Extend its Electric Light, Heat and Power System to the Municipalities of Palo and Tanauan, Both in the Province of Leyte**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section one of Republic Act Numbered Twenty-three hundred thirty-nine, as amended by Republic Act Numbered Twenty-nine hundred ninety-five is further amended to read as follows:
+
+ > ""Sec. 1. Subject to the terms and conditions established in Act Numbered Thirty-six hundred thirty-six, as amended by Commonwealth Act Numbered One hundred thirty-two, and the provisions of the Constitution, the term of the electric light, heat and power system franchise granted to J. V. House by Act Numbered Twenty-seven hundred, as amended, and later transferred to the Tacloban Electric Light and Ice Plants Co., Inc., in accordance with the provisions of the last mentioned Act, is extended for a period of twenty-five years from the date of expiration of the said franchise, but hereafter the Tacloban Electric Light and Ice Plants Co., Inc., shall be governed by the provisions of Act Numbered Thirty-six hundred thirty-six, as amended, and not by the provisions of Act Numbered Twenty-seven hundred, as amended, except the provisions of the latter Act regarding the franchise tax on gross earnings thereof which shall continue to be in full force and effect and which shall be in lieu of any and all takes of any kind, nature or description, whether national, provincial, city or municipal. During the life of the franchise of the grantee, under the same terms and conditions as provided for in this section, it shall have the right, privilege and authority to extend its electric light, heat and power system for the purpose of generating and distributing electric light, heat and/or power for sale in the Municipalities of Palo and Tanauan, both in the Province of Leyte.""

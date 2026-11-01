@@ -1,0 +1,168 @@
+
+ **Section 15.** *Repeatability and Nonexclusivity Clause.* This franchise shall be subject to amendment, alteration, or repeal by the Congress of the Philippines when the public interest so requires and shall not be interpreted as an exclusive grant of the privileges herein provided for.
+
+ **Section 16.** *Separability Clause.* If any of the sections or provisions of this Act is held invalid, all other provisions not affected thereby shall remain valid.
+
+ **Section 17.** *Repealing Clause.* All laws, decrees, orders, resolutions, instructions, rules and regulations, and other issuances or parts thereof which are inconsistent with the provisions of this Act are hereby repealed, amended, or modified accordingly.
+
+ **Section 18.** *Effectivity.* This Act shall take effect fifteen (15) days after its publication in the *Official Gazette* or in a newspaper of general circulation.
+
+ Approved,
+
+ (Sgd) **VICENTE C. SOTTO III** President of the Senate
+
+ (Sgd) **GLORIA MACAPAGAL-ARROYO** Speaker of the House of Representatives
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives on October 8, 2018, amended by the Senate of the Philippines on May 27, 2019, and which amendments were concurred in by the House of Representatives on May 29, 2019.
+
+ (Sgd) **MYRA MARIE D. VILLARICA** Secretary of the Senate
+
+ (Sgd) **DANTE ROBERTO P. MALING** Acting Secretary General House of Representatives
+
+ (Sgd) **RODRIGO ROA DUTERTE** President of the Philippines
+
+ Approved: August 8, 2019.
+"	success	Republic Act	Republic Act No. 11368 renews the 25‑year franchise of Radio Audience Developers Integrated Organization, Inc. (RADIO) under RA 8083, extending its rights to construct, operate, and maintain commercial radio stations for another 25 years, with provisions for NTC oversight, public service obligations, and government intervention in emergencies.	"[{""title"": ""Section 1: Nature and Scope of Franchise"", ""summary"": ""Renewal of RADIO\u2019s franchise for 25 years, allowing construction and operation of radio stations under existing law.""}, {""title"": ""Section 2: Manner of Operation of Stations or Facilities"", ""summary"": ""Stipulates that RADIO\u2019s stations must minimize interference and maintain quality transmission.""}, {""title"": ""Section 3: Prior Approval of the National Telecommunications Commission"", ""summary"": ""RADIO must secure permits and licenses from the NTC and may not use frequencies without authorization.""}, {""title"": ""Section 4: Responsibility to the Public"", ""summary"": ""Mandates free public service time (max 10% of paid ads) and balanced programming, prohibiting obscene or false content.""}, {""title"": ""Section 5: Right of the Government"", ""summary"": ""Preserves the President\u2019s right to take over or suspend RADIO\u2019s stations during emergencies or for public safety.""}, {""title"": ""Section 6: Term of Franchise"", ""summary"": ""Defines a 25\u2011year period from effectivity, with revocation if RADIO fails to operate continuously for two years.""}, {""title"": ""Section 7: Self\u2011regulation by and Undertaking of the Grantee"", ""summary"": ""RADIO must self\u2011censor content that incites treason, rebellion, or is indecent, with failure constituting a ground for cancellation.""}, {""title"": ""Section 8: Warranty in Favor of the Nation"", ""summary"": ""(Incomplete in provided text; presumed warranty clause).""}]"	RA No. 11368	July 23, 2018			Renew RADIO’s franchise and ensure continued operation of commercial radio stations while safeguarding public interest and allowing governmental oversight.	"[""Renewal of franchise for 25 years"", ""Requirements for NTC permits and licenses"", ""Public service time obligations"", ""Government right to intervene during emergencies"", ""Term conditions and revocation clauses"", ""Self\u2011regulation and censorship standards"", ""Warranty provisions for national interest""]"	Amends Republic Act No. 8083	"[""franchise"", ""radio"", ""broadcasting"", ""public service"", ""NTC"", ""government"", ""regulation""]"	"[""radio"", ""franchise renewal"", ""public service time"", ""NTC"", ""government authority"", ""broadcasting"", ""regulation"", ""public safety""]"
+repacts:datasets/markdown/repacts/2019/ra_11369_2019.md	repacts	2019		datasets/markdown/repacts/2019/ra_11369_2019.md	ra_11369_2019	An Act Recognizing the Observance of November 17 of Every Year as National Students Day	"**Seventeenth Congress Third Regular Session**
+
+ Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand eighteen.
+
+ **REPUBLIC ACT No. 11369**
+
+ **An Act Recognizing the Observance of November 17 of Every Year as National Students Day**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress assembled:*
+
+ **Section 1.** This Act shall be known as the ""National Students Day Act"".
+
+ **Section 2.** Pursuant to Article II, Section 11 of the 1987 Philippine Constitution, it is the policy of the State to value the dignity of every human person and to guarantee full respect for human rights.
+
+ The State recognizes the value of inculcating love of country and social responsibility among the youth, and supports the observance of International Students Day which was spearheaded by the International Students Council in 1941 to commemorate the execution of nine (9) Czechoslovakian students who fought against the Nazi occupation.
+
+ **Section 3.** In accord with the observance of International Students Day, and in recognition of the invaluable contribution of student activism to Philippine democracy for initiating efforts to foster leadership among Filipino students, November 17 of every year is hereby declared as National Students Day.
+
+ **Section 4.** An annual program of activities for the observance of National Students Day shall be prepared and implemented with the National Youth Commission (NYC) serving as the lead agency. The Department of Education and the Commission on Higher Education shall support the NYC in all efforts to facilitate and promote related activities to all public and private schools.
+
+ All schools, colleges and universities are encouraged to extend their full support for exercises and activities launched by students during the observance of National Students Day.
+
+ **Section 5.** This Act shall take effect fifteen (15) days after its publication in the *Official Gazette* or in a newspaper of general circulation.
+
+ Approved,
+
+ (Sgd) **VICENTE C. SOTTO III** President of the Senate
+
+ (Sgd) **GLORIA MACAPAGAL-ARROYO** Speaker of the House of Representatives
+
+ This Act was passed by the House of Representatives as House Bill No. 6283 on September 13, 2017 and adopted by the Senate of the Philippines as an amendment to Senate Bill No. 756 on May 21, 2019.
+
+ (Sgd) **MYRA MARIE D. VILLARICA** Secretary of the Senate
+
+ (Sgd) **DANTE ROBERTO P. MALING** Acting Secretary General House of Representatives
+
+ (Sgd) **RODRIGO ROA DUTERTE** President of the Philippines
+
+ Approved: August 8, 2019.
+"	success	Act	This act declares November 17 as National Students Day, recognizing students’ contributions to Philippine democracy, and mandates the National Youth Commission to lead annual observance programs with support from the Department of Education and Commission on Higher Education.	"[{""title"": ""Section 1."", ""summary"": ""The Act shall be known as the \""National Students Day Act.\""""}, {""title"": ""Section 2."", ""summary"": ""The State acknowledges the importance of human dignity, human rights, and the role of youth in fostering love of country and social responsibility; it supports the observance of International Students Day.""}, {""title"": ""Section 3."", ""summary"": ""November 17 of every year is declared as National Students Day in recognition of student activism's contribution to democracy.""}, {""title"": ""Section 4."", ""summary"": ""An annual program of activities shall be prepared and implemented with the National Youth Commission as lead agency, supported by the Department of Education and Commission on Higher Education; schools are encouraged to support.""}, {""title"": ""Section 5."", ""summary"": ""The Act shall take effect fifteen (15) days after its publication in the Official Gazette or a newspaper of general circulation.""}]"	11369	August 8, 2019	"[{""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}, {""name"": ""GLORIA MACAPAGAL-ARROYO"", ""title"": ""Speaker of the House of Representatives""}, {""name"": ""MYRA MARIE D. VILLARICA"", ""title"": ""Secretary of the Senate""}, {""name"": ""DANTE ROBERTO P. MALING"", ""title"": ""Acting Secretary General House of Representatives""}, {""name"": ""RODRIGO ROA DUTERTE"", ""title"": ""President of the Philippines""}]"		To recognize and institutionalize November 17 as National Students Day, honoring student activism and promoting national youth engagement.	"[""Declaration of November 17 as National Students Day"", ""NYC leads annual observance program with DoE and COHE support"", ""Schools encouraged to support activities"", ""Act effective 15 days after publication""]"		"[""National Day"", ""Education"", ""Youth"", ""Student Activism""]"	"[""National Students Day"", ""November 17"", ""NYC"", ""DoE"", ""COHE"", ""International Students Day"", ""Philippines"", ""House Bill 6283"", ""Senate Bill 756""]"
+repacts:datasets/markdown/repacts/2019/ra_11370_2019.md	repacts	2019		datasets/markdown/repacts/2019/ra_11370_2019.md	ra_11370_2019	An Act Declaring September 8 of Every Year a Special Working Holiday in the Entire Country to Commemorate the Feast of the Nativity of the Blessed Virgin Mary	"**Seventeenth Congress Third Regular Session**
+
+ Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand eighteen.
+
+ **REPUBLIC ACT No. 11370**
+
+ **An Act Declaring September 8 of Every Year a Special Working Holiday in the Entire Country to Commemorate the Feast of the Nativity of the Blessed Virgin Mary**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress assembled:*
+
+ **Section 1.** September 8 of every year is hereby declared a special working holiday in the entire country to commemorate the Feast of the Nativity of the Blessed Virgin Mary.
+
+ **Section 2.** This Act shall take effect fifteen (15) days after its publication in the *Official Gazette* or in a newspaper of general circulation.
+
+ Approved,
+
+ (Sgd) **VICENTE C. SOTTO III** President of the Senate
+
+ (Sgd) **GLORIA MACAPAGAL-ARROYO** Speaker of the House of Representatives
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on December 10, 2018 and May 20, 2019, respectively.
+
+ (Sgd) **MYRA MARIE D. VILLARICA** Secretary of the Senate
+
+ (Sgd) **DANTE ROBERTO P. MALING** Acting Secretary General House of Representatives
+
+ (Sgd) **RODRIGO ROA DUTERTE** President of the Philippines
+
+ Approved: August 8, 2019.
+"	success	Republic Act	This act declares September 8 as a special working holiday in the Philippines to commemorate the Nativity of the Blessed Virgin Mary.	"[{""title"": ""Section 1."", ""summary"": ""September 8 of every year is declared a special working holiday in the entire country.""}, {""title"": ""Section 2."", ""summary"": ""The act shall take effect fifteen days after its publication in the Official Gazette or in a newspaper of general circulation.""}]"	11370	August 8, 2019			To declare September 8 as a special working holiday to honor the Nativity of the Blessed Virgin Mary.	"[""September 8 declared a special working holiday."", ""Effectivity 15 days after publication."", ""Applicable to the entire country.""]"		"[""Holiday"", ""Religious""]"	"[""September 8"", ""Special Working Holiday"", ""Nativity of the Blessed Virgin Mary"", ""Philippines"", ""Public Holiday""]"
+repacts:datasets/markdown/repacts/2019/ra_11371_2019.md	repacts	2019		datasets/markdown/repacts/2019/ra_11371_2019.md	ra_11371_2019	An Act Reducing Electricity Rates by Allocating a Portion of the Net National Government Share from the Malampaya Natural Gas Project for the Payment of the Stranded Contract Costs and Stranded Debts	"**Seventeenth Congress Third Regular Session**
+
+ Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand eighteen.
+
+ **REPUBLIC ACT No. 11371**
+
+ **An Act Reducing Electricity Rates by Allocating a Portion of the Net National Government Share from the Malampaya Natural Gas Project for the Payment of the Stranded Contract Costs and Stranded Debts**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress assembled:*
+
+ **Section 1.** *Short Title.* This Act shall be known as the ""Murang Kuryente Act"".
+
+ **Section 2.** *Declaration of Policy.* It is hereby declared the policy of the State to protect public interest by ensuring the provision of reliable, secure, and affordable supply of electric power to consumers. Towards this end, the State shall implement policies and programs to ensure transparent and reasonable prices of electricity to consumers by minimizing the universal charges for stranded contract costs and stranded debts.
+
+ **Section 3.** *Definition of Terms.* For purposes of this Act, the following terms shall be defined as stated below:
+
+ (a) *Joint Congressional Energy Commission (JCEC)* refers to the congressional commission constituted under Section 62 of Republic Act No. 9136, otherwise known as the ""Electric Power Industry Reform Act of 2001"", as amended by Republic Act No. 11285, otherwise known as the ""Energy Efficiency and Conservation Act""; (b) *Malampaya fund* refers to the existing and future government share from the net production proceeds of the Malampaya Natural Gas Project pursuant to Presidential Decree No. 87, otherwise known as ""The Oil Exploration and Development Act of 1972"", and Service Contract 38. This government share forms part of a Special Account in the general fund used to finance energy resource development and exploitation programs pursuant to Presidential Decree No. 910, entitled ""Creating an Energy Development Board, Defining Its Powers and Functions, Providing Funds Therefor, and For Other Purposes""; (c) *Malampaya Natural Gas Project* refers to Service Contract 38 in offshore Northwest Palawan; (d) *Net government share* refers to the sixty percent (60%) share of the national government from the net production proceeds of Service Contract 38 pursuant to Presidential Decree No. 87, otherwise known as ""The Oil Exploration and Development Act of 1972"", after the deductions provided by Presidential Decree No. 910, Creating the Energy Development Board; (e) *Net national government share* refers to the share of the national government from the net government share after the deduction from the net government share of the local government share pursuant to Section 290 of Republic Act No. 7160, otherwise known as the ""Local Government Code of 1991""; (f) *Net production proceeds* refer to the balance of gross proceeds from Service Contract 38 after deducting the Filipino Participation Incentive, if any, and all operating expenses pursuant to Section 8(1) of Presidential Decree No. 87, otherwise known as ""The Oil Exploration and Development Act of 1972""; (g) *Stranded contract costs of the National Power Corporation (NPC)* refer to the excess of the contracted cost of electricity under eligible independent power producer contracts over the actual selling price of the contracted energy output of such contracts in the market. Such contract shall have been approved by the Energy Regulatory Board as of December 31, 2000; (h) *Stranded debts of the NPC* refer to any unpaid financial obligations of the NPC which have not been liquidated by the proceeds from the sales and privatization of NPC assets; and (i) *Universal charge* refers to a non-bypassable charge which shall be passed on and collected from all end users on a monthly basis by the distribution utilities. **Section 4.** *Use of Malampaya Fund.* Two hundred eight billion pesos (₱208,000,000,000.00) of the proceeds of the net national government share from the Malampaya fund, shall be utilized for the payment of stranded contract costs and stranded debts transferred to and assumed by the Power Sector Assets and Liabilities Management Corporation (PSALM) pursuant to Section 49 of Republic Act No. 9136, the ""Electric Power Industry Reform Act of 2001"", including all anticipated shortfalls in the course of payment of such liabilities after applying the PSALMs collections from the privatization of the NPCs assets, independent power producers contracts, and proceeds from operations of existing assets: *Provided,* That annual allocations from the Malampaya fund for the payment of stranded contract costs and stranded debts including all anticipated shortfalls shall be included in the General Appropriations Act consistent with the fiscal program of the government, the procedure for which shall be provided in the implementing rules and regulations of this Act: *Provided,* That any remaining and future proceeds of the net national government share from the Malampaya fund over and above the amount indicated in this Act shall remain in the Special Account in the general fund to finance energy resource development and exploitation programs pursuant to Presidential Decree No. 910, Creating the Energy Development Board: *Provided,* That this provision shall not impair in any way the use or application of the remaining amount or future proceeds of the net national government share of the Malampaya fund to be used for energy resource development and exploitation programs pursuant to Presidential Decree No. 910.
+
+ The Department of Budget and Management (DBM) shall ensure the timely release of the amounts allocated and appropriated to the PSALM in accordance with its debt and independent power producer payment schedule.
+
+ In the event the stranded contract costs, stranded debts, and anticipated shortfalls in the course of the payment of such liabilities are fully paid before the exhaustion of the amount allocated in this Act, the remainder of the amount allocated shall be utilized to finance energy resource development and exploitation programs pursuant to Presidential Decree No. 910, Creating the Energy Development Board.
+
+ The universal charges for stranded contract costs and stranded debts currently being collected may be covered by the allocated amount from the Malampaya fund subject to the implementing rules and regulations of this Act.
+
+ **Section 5.** *Regular Reports.* -The PSALM shall submit an annual projected cash flow statement and an annual actual cash flow statement of the stranded contract costs, stranded debts, and anticipated shortfalls as well as its debt payment and independent power producer contract payment schedule to the Department of Energy (DOE), Energy Regulatory Commission (ERC), Department of Finance (DOF), DBM, and the JCEC: *Provided,* That the submission of the annual projected cash flow statement shall be on or before June 30 of the preceding year and that of the annual actual cash flow-statement shall be on or before June 30 of the succeeding year. The PSALM shall regularly coordinate with the DOE, DOF, and the DBM to ensure consistent recordkeeping of disbursements from the Malampaya fund. The PSALM shall make all reports available to the public through its website.
+
+ **Section 6.** *Congressional Oversight.* Upon the effectivity of this Act, the JCEC shall exercise oversight powers over its implementation.
+
+ **Section 7.** *Implementing Rules arid Regulations.* -Within ninety (90) days from the effectivity of this Act, the DOE and DOF, in consultation with the DBM, the Bureau of the Treasury, and the PSALM shall promulgate the necessary rules and regulations for the proper disposition of the said funds and the effective implementation of this Act. Upon the effectivity of the implementing rules and regulations of this Act, no new universal charges for stranded contract costs and stranded debts shall be collected.
+
+ **Section 8.** *Separability Clause.* If, for any reason, any provision of this Act is declared unconstitutional or invalid, the other parts or provisions hereof which are not affected thereby shall continue to be in full force and effect.
+
+ **Section 9.** *Amendatory Clause.* Section 8 of Presidential Decree No. 910, Creating the Energy Development Board insofar as the use of the Special Account in the general fund is hereby amended.
+
+ **Section 10.** *Repealing Clause.* All laws, presidential decrees, executive orders, issuances, rules and regulations inconsistent with the provisions of this Act are hereby repealed, or modified accordingly.
+
+ **Section 11.** *Effectivity.* This Act shall take effect fifteen (15) days after its publication in the *Official Gazette* or in a newspaper of general circulation.
+
+ Approved,
+
+ (Sgd) **GLORIA MACAPAGAL-ARROYO** Speaker of the House of Representatives
+
+ (Sgd) **VICENTE C. SOTTO III** President of the Senate
+
+ This Act which is a consolidation of Senate Bill No. 1950 and House Bill No. 8869 was passed by the Senate of the Philippines and the House of Representatives on May 28, 2019 and May 29, 2019, respectively.
+
+ (Sgd) **DANTE ROBERTO P. MALING** Acting Secretary General House of Representatives
+
+ (Sgd.)**MYRA MARIE D. VILLARICA** Secretary of the Senate
+
+ (Sgd) **RODRIGO ROA DUTERTE** President of the Philippines
+
+ Approved: August 8, 2019.
+"	success	Energy	The Murang Kuryente Act reduces electricity rates by allocating a portion of the net national government share from the Malampaya Natural Gas Project to pay stranded contract costs and debts of the National Power Corporation, thereby ensuring affordable and reliable power supply to consumers.	"[{""title"": ""Section 1. Short Title"", ""summary"": ""Defines the short title of the act as \""Murang Kuryente Act\"".""}, {""title"": ""Section 2. Declaration of Policy"", ""summary"": ""Declares the state's policy to protect public interest by ensuring reliable, secure, and affordable electricity supply, and to minimize universal charges for stranded contract costs and debts.""}, {""title"": ""Section 3. Definition of Terms"", ""summary"": ""Provides definitions for key terms such as JCEC, Malampaya fund, Malampaya Natural Gas Project, net government share, stranded contract costs, stranded debts, and universal charge.""}, {""title"": ""Section 4. Use of Malampaya Fund"", ""summary"": ""Allocates \u20b1208,000,000,000 from the net national government share to pay stranded contract costs and debts, includes provisions for annual allocations, and directs remaining proceeds to a special account for energy development.""}]"	11371	2018-07-23			To reduce electricity rates by allocating Malampaya fund proceeds for the payment of stranded contract costs and debts, thereby ensuring affordable power for consumers.	"[""Allocation of \u20b1208\u202fbillion from the net national government share to pay stranded contract costs and debts."", ""Annual allocations from the Malampaya fund to be included in the General Appropriations Act."", ""Remaining and future proceeds to remain in the special account for energy resource development."", ""Ensures timely release of funds by the Department of Budget and Management.""]"	Republic Act No. 9136, Republic Act No. 11285, Presidential Decree No. 87, Presidential Decree No. 910, Republic Act No. 7160	"[""Energy"", ""Electricity"", ""Malampaya"", ""PSALM""]"	"[""electricity rates"", ""Malampaya"", ""stranded contract costs"", ""stranded debts"", ""PSALM"", ""net national government share""]"
+repacts:datasets/markdown/repacts/2019/ra_11372_2019.md	repacts	2019		datasets/markdown/repacts/2019/ra_11372_2019.md	ra_11372_2019	An Act Establishing and Constructing a Hospital for the Philippine Coast Guard, its Personnel, Employees, Their Dependents and the Retired Uniformed Personnel to be Known as the Philippine Coast Guard General Hospital and Appropriating Funds Therefor	"**Seventeenth Congress Third Regular Session**
+
+ Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand eighteen.
+
+ **REPUBLIC ACT No. 11372**
+
+ **An Act Establishing and Constructing a Hospital for the Philippine Coast Guard, its Personnel, Employees, Their Dependents and the Retired Uniformed Personnel to be Known as the Philippine Coast Guard General Hospital and Appropriating Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress assembled:*
+
+ **Section 1.** *Short Title.* This Act shall be known as the ""Philippine Coast Guard General Hospital Act"".
+
+ **Section 2.** *Declaration of Policy.* It is the policy of the State to adopt an integrated and comprehensive approach to health development which shall endeavor to make essential goods, health and other social services available to all people at affordable cost. Towards this end, and in order to adequately respond to emergencies, disasters and emerging diseases, the State shall protect the interest and promote the well-being.and the medical needs of the Coast Guard personnel, their dependents and retired uniformed personnel.
+
+ **Section 3.** *Philippine Coast Guard General Hospital.* To carry out the above policy, a hospital for the personnel and employees of the Philippine Coast Guard (PCG), their dependents and the retired uniformed personnel is hereby established to be known as the Philippine Coast Guard General Hospital. The hospital shall be located in the Coast Guard Base, Taguig, Lower Bicutan, Taguig City.
+
+ **Section 4.** *Objectives.* To ensure the availability, accessibility and affordability of quality health care, the Philippine Coast Guard General Hospital shall have the following objectives:
+
+ (a) To provide a comprehensive and total health care services to all personnel and employees of the PCG, their dependents and the retired uniform personnel; (b) To complement the existing package of services under the health care program so as to include preventive, promotive, diagnostic, curative and rehabilitative programs; (c) To conduct medical examination of all the trainees of the PCG to ensure their physical and mental capability; and (d) To monitor the condition of patients and to generate relevant information and data in aid of policy information. As used in this Act, dependents refer to: (1) the legitimate spouse dependent for support upon the concerned PCG personnel; (2) the legitimate, illegitimate, or legally adopted children, primarily dependent upon and living with the Coast Guard personnel if such child is not more than twenty-one (21) years of age, unmarried and not gainfully employed, or is over the age of majority but incapacitated and incapable of self-support due to a mental or physical defect; and (3) the parents dependent upon the PCG personnel for support.

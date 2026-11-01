@@ -1,0 +1,152 @@
+
+ Approved,
+
+ | (SGD.)**VICENTE C. SOTTO III** President of the Senate | (SGD.)**LORD ALAN JAY Q. VELASCO** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives on September 14, 2021, amended by the Senate of the Philippines on May 23, 2022, and which amendments were concurred in by the House of Representatives on May 30, 2022.
+
+ | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.)**MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved: Lapsed into law on JUL 29 2022 without the signature of the President, in accordance with Article VI Section 27 (1) of the Constitution.
+
+ **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	The act establishes a mangrove crab hatchery in Barangay Geratag, San Jose, Northern Samar, and appropriates funds for its construction and operation. It mandates a feasibility study, outlines management transfer after two years, requires research on breeding and production, specifies funding appropriations, and sets rules for supervision and effectivity.	"[{""title"": ""Section 1"", ""summary"": ""Establishes a mangrove crab hatchery in Barangay Geratag under the supervision of the Bureau of Fisheries and Aquatic Resources of the Department of Agriculture (BFAR-DA).""}, {""title"": ""Section 2"", ""summary"": ""BFAR-DA shall conduct a full-scale feasibility study before construction; within two years after construction, BFAR-DA will transfer management to the local government of San Jose and implement a training program for local personnel.""}, {""title"": ""Section 3"", ""summary"": ""BFAR-DA shall conduct continuing research and experimentation on breeding and production of mangrove crab species to develop new methods and technologies.""}, {""title"": ""Section 4"", ""summary"": ""The Secretary of Agriculture shall include the feasibility study and hatchery establishment in the Department\u2019s programs and appropriate funding in the General Appropriations Act; the local government shall set aside funds for operation.""}, {""title"": ""Section 5"", ""summary"": ""Within 60 days from effectivity, the Secretary of Agriculture shall issue rules and regulations on supervision, operation, monitoring, and eventual transfer of the hatchery.""}, {""title"": ""Section 6"", ""summary"": ""The act takes effect fifteen days after its publication in the Official Gazette or a newspaper of general circulation.""}]"	11911	July 29, 2022	"[{""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}, {""name"": ""LORD ALAN JAY Q. VELASCO"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""MYRA MARIE D. VILLARICA"", ""title"": ""Secretary of the Senate""}, {""name"": ""MARK LLANDRO L. MENDOZA"", ""title"": ""Secretary General House of Representatives""}]"	To establish a mangrove crab hatchery in Barangay Geratag, San Jose, Northern Samar, and appropriate funds for its construction, operation, and research.	"[""Establishment of a mangrove crab hatchery under BFAR-DA supervision"", ""Conduct of feasibility study before construction"", ""Transfer of management to local government after two years with training"", ""Continuous research on breeding and production of mangrove crabs"", ""Funding through General Appropriations Act and local revenue"", ""Issuance of rules and regulations within 60 days of effectivity"", ""Effectivity fifteen days after publication""]"		"[""Mangrove Crab Hatchery"", ""Aquaculture"", ""Northern Samar"", ""BFAR-DA""]"	"[""mangrove crab"", ""hatchery"", ""agriculture"", ""fishery"", ""research""]"
+repacts:datasets/markdown/repacts/2022/ra_11912_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11912_2022.md	ra_11912_2022	AN ACT ESTABLISHING A MULTI-SPECIES MARINE HATCHERY IN THE MUNICIPALITY OF BAGAC, PROVINCE OF BATAAN, AND APPROPRIATING FUNDS THEREFOR	"Eighteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-sixth day of July, two thousand twenty one.*
+
+ **[ REPUBLIC ACT NO. 11912, July 30, 2022 ]**
+
+ **AN ACT ESTABLISHING A MULTI-SPECIES MARINE HATCHERY IN THE MUNICIPALITY OF BAGAC, PROVINCE OF BATAAN, AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.**There shall be established, under the supervision of the Bureau of Fisheries and Aquatic Resources of the Department of Agriculture (BFAR-DA), a multi-species marine hatchery in the Municipality of Bagac, Province of Bataan.
+
+ **Section 2.** Prior to the establishment of the mangrove crab hatchery, the BFAR-DA shall conduct a full-scale feasibility study in support of its construction to comply with the requirements of the Department of Budget and Management.
+
+ Within two (2) years after the construction of the multi-species hatchery, the BFAR-DA, through a memorandum of agreement, shall transfer its management to the local government of the Municipality of Bagac. It shall implement a training and phasing-in program for local government personnel on the management and operation of the hatchery.
+
+ **Section 3.** The BFAR-DA shall conduct continuing research and experimentation on the breeding and production of marine species, especially as they apply to local conditions, to discover new methods and technologies that will enhance the fishing industry.
+
+ **Section 4.** The Secretary of Agriculture shall include in the Department's programs the conduct of the feasibility study and the consequent establishment of the multi-species hatchery in the Municipality of Bagac, Province of Bataan, the funding of which shall be included in the General AppropriationsAct. The local government unit concerned shall set aside funds from any available local revenue in an amount deemed appropriate for the operationalization of the hatchery.
+
+ **Section 5.** Within sixty (60) days from the effectivity of thisAct, the Secretary of Agriculture shall issue the rules and regulations on the supervision, operation, monitoring, and the eventual transfer of the mangrove crab hatchery to the local government of the Municipality of Bagac.
+
+ **Section 6.** ThisActshall take effect fifteen (15) days after its publication in theOfficial Gazetteor in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.)**VICENTE C. SOTTO III** President of the Senate | (SGD.)**LORD ALAN JAY Q. VELASCO** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives on September 14, 2021, amended by the Senate of the Philippines on May 23, 2022, and which amendments were concurred in by the House of Representatives on May 30, 2022.
+
+ | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.)**MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved: Lapsed into law on JUL 29 2022 without the signature of the President, in accordance with Article VI Section 27 (1) of the Constitution.
+
+ **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	The Republic Act establishes a multi-species marine hatchery in Bagac, Bataan, under the supervision of BFAR-DA, mandates a feasibility study, outlines funding and operational guidelines, and sets up a transfer of management to the local government within two years.	"[{""title"": ""Section 1"", ""summary"": ""Establishes a multi-species marine hatchery in Bagac, Bataan, supervised by BFAR-DA.""}, {""title"": ""Section 2"", ""summary"": ""Requires BFAR-DA to conduct a full-scale feasibility study and, within two years, transfer management to the local government of Bagac via a memorandum of agreement.""}, {""title"": ""Section 3"", ""summary"": ""Mandates BFAR-DA to conduct ongoing research and experimentation on marine species breeding and production to enhance the fishing industry.""}, {""title"": ""Section 4"", ""summary"": ""Authorizes the Secretary of Agriculture to include the hatchery in departmental programs and the General Appropriations Act, and requires the local government to allocate operational funds.""}, {""title"": ""Section 5"", ""summary"": ""Orders the Secretary of Agriculture to issue rules and regulations within 60 days of the Act's effectivity.""}, {""title"": ""Section 6"", ""summary"": ""Stipulates that the Act takes effect 15 days after publication in the Official Gazette or a newspaper of general circulation.""}]"	REPUBLIC ACT NO. 11912	July 30, 2022			To establish a multi-species marine hatchery in Bagac, Bataan for the development of fisheries, ensuring proper funding, research, and operational management.	"[""Establishment of the hatchery under BFAR-DA supervision"", ""Conduct of a full-scale feasibility study"", ""Transfer of management to local government within two years"", ""Ongoing research and experimentation on marine species"", ""Inclusion of hatchery funding in the General Appropriations Act"", ""Issuance of rules and regulations within 60 days"", ""Effectivity 15 days after publication""]"		"[""Marine Hatchery"", ""Fisheries"", ""Bataan"", ""BFAR"", ""Agriculture""]"	"[""multi-species hatchery"", ""marine research"", ""feasibility study"", ""local government management"", ""funding appropriation"", ""rules and regulations""]"
+repacts:datasets/markdown/repacts/2022/ra_11913_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11913_2022.md	ra_11913_2022	AN ACT DECLARING AUGUST 12 OF EVERY YEAR AS NATIONAL YOUTH DAY	"Eighteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-sixth day of July, two thousand twenty one.*
+
+ **[ REPUBLIC ACT NO. 11913, July 30, 2022 ]**
+
+ **AN ACT DECLARING AUGUST 12 OF EVERY YEAR AS NATIONAL YOUTH DAY**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.***Short Title.* -This Act shall be known as the National Youth Day Act.
+
+ **Section 2.** *Declaration of Policy.* -The State recognizes the vital role of the youth in nation-building and which has led to measures such as Republic Act No. 8044 which created the National Youth Commission to be leading government arm in harnessing the full potential of the youth as partners in nation building and Republic Act No. 10742 or the Sangguniang Kabataan Reform Act of 2015 which provided a strong framework to encourage the youth not only to participate in governmental activities and public and civic affairs but to also develop a sense of leadership and patriotism.
+
+ **Section 3.** *National Youth Day.* -In observance of the International Youth Day, the twelfth (12th) day of August of every year is hereby declared as National Youth Day.
+
+ **Section 4.** *Program of Activities.* -To ensure the meaningful observance of National Youth Day, the National Youth Commission (NYC), in coordination with the Department of Education (DepED), Commission on Higher Education (CHED), and Technical Education and Skills Development Authority (TESDA), Sangguniang Kabataan (SK), National Union of Students of the Philippines (NUSP), and other youth and youth-serving organizations shall prepare and implement an annual program of activities including, but not limited to, discussions and/or forums on career paths, sustainable development, environment preservation, gender equality, and mental health. For this purpose, the NYC may engage in partnerships with local and international youth organizations suitable to providing these discussions. The youth organizations and youth-serving organizations shall likewise support the NYC in its effort to promote and facilitate related activities in all public and private schools.
+
+ All schools, colleges, and universities are hereby enjoined to launch activities such as leadership training, youth empowerment, workshops, basic mass integration, and community immersion activities in celeberation of National Youth Day:*Provided,*That the respective administration of schools, colleges, and universities shall extend their full support to all activities to be conducted by their students:*Provided,* further,That the specific activities shall be undertaken according to the education institutions' policies and guidelines.
+
+ All provincial and local youth development offices are likewise enjoined to prepare an annual program and conduct activities that shall provide holistic development and enrichment of the youth in their respective communities.
+
+ **Section 5.** *Implementing Rules and Regulations.* -The NYC, in coordination with DepEd, CHED, and TESDA, SK, NUSP, and other youth and youth-serving organizations shall promulgate the rules and regulations to implement this Act within sixty (60) days after its effectivity.
+
+ **Section 6.** *Appropriations.* -The amounts necessary for the implementation of this Act shall be charged against the respective current year available appropriations of the NYC, DepEd, CHED and SK. Thereafter, the amounts necessary shall be included in the annual General Appropriations Act.
+
+ **Section 7.***Separability Clause.* -If, for any reason or reasons, any part or parts of this Act shall be declared unconstitutional or invalid by any competent court, other sections or provisions hereof not affected thereby shall continue to be in full force and effect.
+
+ **Section 8.***Repealing Clause.* -All laws, decrees, executive orders or rules and regulations contrary to or inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+
+ **Section 9.***Effectivity.* -ThisActshall take effect fifteen (15) days after its publication in theOfficial Gazetteor in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.)**VICENTE C. SOTTO III** President of the Senate | (SGD.)**LORD ALAN JAY Q. VELASCO** Speaker of the House of Representatives |
+
+ This Act was passed by the Senate of the Philippines as Senate Bill No. 2503 on May 26, 2022 and adopted by the House of Representatives as an amendment to House Bill No. 6456 on May 30, 2022.
+
+ | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.)**MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved: Lapsed into law on JUL 30 2022 without the signature of the President, in accordance with Article VI Section 27 (1) of the Constitution.
+
+ **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	This Act declares August 12 of every year as National Youth Day, establishes programs and activities to promote youth participation in nation-building, authorizes the National Youth Commission to coordinate with educational and youth organizations, provides appropriation for implementation, and mandates the promulgation of implementing rules within 60 days.	"[{""title"": ""Short Title"", ""summary"": ""Declares the Act known as the National Youth Day Act.""}, {""title"": ""Declaration of Policy"", ""summary"": ""Recognizes the vital role of youth and references Republic Acts 8044 and 10742 as frameworks for youth engagement.""}, {""title"": ""National Youth Day"", ""summary"": ""Declares August 12 as National Youth Day.""}, {""title"": ""Program of Activities"", ""summary"": ""NYC, in coordination with DepEd, CHED, TESDA, SK, NUSP, and other youth organizations, shall prepare and implement annual programs, and schools are enjoined to launch related activities.""}, {""title"": ""Implementing Rules and Regulations"", ""summary"": ""NYC shall promulgate rules and regulations within 60 days after effectivity.""}, {""title"": ""Appropriations"", ""summary"": ""Funds for implementation shall be charged against NYC, DepEd, CHED, and SK appropriations and included in the General Appropriations Act.""}, {""title"": ""Separability Clause"", ""summary"": ""If any part of the Act is declared unconstitutional, the remaining provisions shall remain in force.""}, {""title"": ""Repealing Clause"", ""summary"": ""Repeals all laws, decrees, executive orders, or rules inconsistent with this Act.""}, {""title"": ""Effectivity"", ""summary"": ""The Act takes effect fifteen days after publication in the Official Gazette or a newspaper of general circulation.""}]"	RA No. 11913	July 30, 2022	"[{""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}, {""name"": ""LORD ALAN JAY Q. VELASCO"", ""title"": ""Speaker of the House of Representatives""}]"		To recognize and promote youth participation in nation-building by establishing National Youth Day and providing mechanisms for programs, coordination, and funding.	"[""Declares August 12 as National Youth Day"", ""Establishes annual programs and activities for youth"", ""Authorizes NYC to coordinate with DepEd, CHED, TESDA, SK, NUSP"", ""Mandates promulgation of implementing rules within 60 days"", ""Provides appropriation for implementation"", ""Repeals conflicting laws""]"	Republic Act No. 8044; Republic Act No. 10742	"[""Youth"", ""National Day"", ""Education"", ""Legislation""]"	"[""National Youth Day"", ""August 12"", ""youth"", ""National Youth Commission"", ""DepEd"", ""CHED"", ""TESDA"", ""Sangguniang Kabataan"", ""NUSP"", ""appropriation"", ""implementing rules""]"
+repacts:datasets/markdown/repacts/2022/ra_11914_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11914_2022.md	ra_11914_2022	AN ACT CONVERTING THE PROVINCIAL SCIENCE AND TECHNOLOGY CENTER INTO THE PROVINCIAL SCIENCE AND TECHNOLOGY OFFICE AND APPROPRIATING FUNDS THEREFOR	"Eighteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-sixth day of July, two thousand twenty one.*
+
+ **[ REPUBLIC ACT NO. 11914, July 30, 2022 ]**
+
+ **AN ACT CONVERTING THE PROVINCIAL SCIENCE AND TECHNOLOGY CENTER INTO THE PROVINCIAL SCIENCE AND TECHNOLOGY OFFICE AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.***Short Title.* -This Act shall be known as the Provincial Science and Technology Office Act.
+
+ **Section 2.** *Declaration of Policy.* -It is the policy and duty of the State to fast-track the transfer of relevant and appropriate technologies and services to the rural areas particularly in the enhancement and development of technology-based livelihood enterprises in the countryside.
+
+ **Section 3.** *Provincial Science and Technology Officers (PSTOs).* -The Provincial Science and Technology Centers (PSTCs) of the Department of Science and Technology (DOST) which are the principal instruments of technology transfer and development of technology-based enterprises of the government in the rural areas are converted into PSTOs:*Provided,*That the existing clustered area offices of the DOST in the National Capital Region (NCR) shall also serve as PSTO to be known as Clustered Area Science and Technology Offices (CASTOs), subject to the evaluation and approval of the Department of Budget and Management (DBM) and existing civil service rules and regulations.
+
+ **Section 4.** *Functions of the PSTOs.* -The PSTOs shall have the following functions:
+
+ (a) Identify the needs and opportunities in Science and technology (S&T) in the provinces; (b) Implement DOST programs and projects on technology promotion and transfer, S&T human resource development, S&T promotion and information dissemination, delivery of technical and consultancy services, and such other areas of concern that will benefit the people in the provinces; (c) Develop institutional linkages with provincial offices of other departments, local government units (LGUs), academe and nongovernmental offices for the effective implementation of S&T programs in the provinces; and (d) Perform other functions as may be determined by the DOST Secretary and the Regional Director. **Section 5.** *PSTO Head.* -The PSTO shall be headed by a Chief Science Research Specialist with Salary Grade (SG) 24. For this purpose, the existing position of Senior Research Specialist with SG 19 which is currently held by the head of the PSTCs shall be reclassified as Chief Science Research Specialist.
+
+ **Section 6.** *Duties and Responsibilities of the PSTO Head.*-The PSTO Head shall have the following duties and responsibilities:
+
+ (a) Formulate the Provincial S&T Plan as well as programs and projects designed to contribute to the development of the province/clustered area; (b) Implement and monitor the various technology promotion and commercialization programs such as, but not limited to, the Small Enterprise Technology Upgrading Program (SETUP) and the Community Empowerment through Science and Technology (CEST); (c) Promote the adoption of appropriate technologies by micro, small and medium enterprises (MSMEs) to improve their operational efficiency and increase productivity as well as to harness the results of scientific research and innovations to produce new and competitive products and services; (d) Disseminate S&T related information and Research and Development (R&D) results through the conduct of trainings, technology for a and similar activities; (e) Maintain effective liaison with public and private academic institutions and other government agencies engaged in scientific and technological research, technology transfer and commercialization, education and training; (f) Coordinate with LGUs and academic institutions for the promotion of scholarship programs aimed to attract science-oriented students to pursue basic and applied sciences to broaden the S&T human resource in the province/clustered area; (g) Coordinate with public and private organizations in the implementation of human resource and institutional development programs in the province/clustered area; (h) Promote science consciousness and appreciation among the people of the province/clustered area; (i) Serve as focal person for S&T inter-agency meetings, conferences, and similar activities in the province/clustered area; (j) Perform overall supervision of services and operations of the PSTO; (k) Ensure that appropriate quality management systems are properly implemented and maintained in accordance with international standards in all aspects of operations of the PSTO; and (l) Perform other related functions as may be assigned by higher authorities from time to time. **Section 7.***Staffing Pattern.* -The Secretary of the DOST shall determine the organizational structure and staffing patter of the PSTO in accordance with civil service laws, rules and regulations, subject to the review and approval of the DBM.
+
+ **Section 8.** *Appropriations.* -The initial amount for the implementation of this Act shall be charged against the current year's appropriations of the DOST. Thereafter, such amount shall be included in the annual General Appropriations Act.
+
+ **Section 9.***Implementing Rules and Regulations.* -The DOST, in consultation with concerned agencies and stakeholders, shall promulgate the implementing rules and regulations of this Act within ninety (90) days from the effectivity of this Act.
+
+ **Section 10.***Separability.* -If any provision of this Act shall be held unconstitutional or invalid, the other provisions not otherwise affected shall remain in full force and effect.
+
+ **Section 11.***Repealing Clause.* -All laws, or parts thereof which are inconsistent with this Act are hereby amended, repealed or modified accordingly.
+
+ **Section 12.***Effectivity.* -ThisActshall take effect fifteen (15) days after its publication in theOfficial Gazetteor in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.)**VICENTE C. SOTTO III** President of the Senate | (SGD.)**LORD ALAN JAY Q. VELASCO** Speaker of the House of Representatives |
+
+ This Act was passed by the Senate of the Philippines as Senate Bill No. 2484 on May 23, 2022 and adopted by the House of Representatives as an amendment to House Bill No. 10693 on May 30, 2022.
+
+ | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.)**MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved: Lapsed into law on JUL 30 2022 without the signature of the President, in accordance with Article VI Section 27 (1) of the Constitution.
+
+ **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	The Act converts the Provincial Science and Technology Centers (PSTCs) into Provincial Science and Technology Offices (PSTOs), appropriates funds for their operation, and establishes the functions, staffing, and implementation framework for the new offices.	"[{""title"": ""Short Title"", ""summary"": ""This Act shall be known as the Provincial Science and Technology Office Act.""}, {""title"": ""Declaration of Policy"", ""summary"": ""The State is tasked to fast\u2011track the transfer of technologies and services to rural areas, enhancing technology\u2011based livelihood enterprises.""}, {""title"": ""Provincial Science and Technology Officers (PSTOs)"", ""summary"": ""PSTCs are converted into PSTOs; clustered area offices become CASTOs subject to DBM approval.""}, {""title"": ""Functions of the PSTOs"", ""summary"": ""PSTOs will identify provincial needs, implement DOST programs, develop linkages with LGUs and academia, and perform other duties as directed by DOST.""}, {""title"": ""PSTO Head"", ""summary"": ""The PSTO head will be a Chief Science Research Specialist; the existing Senior Research Specialist position will be reclassified.""}, {""title"": ""Duties and Responsibilities of the PSTO Head"", ""summary"": ""The head will formulate S&T plans, implement promotion programs, coordinate with stakeholders, disseminate information, and oversee overall supervision of PSTO services.""}, {""title"": ""Staffing Pattern"", ""summary"": ""DOST Secretary will determine PSTO staffing in line with civil service laws, subject to DBM approval.""}, {""title"": ""Appropriations"", ""summary"": ""Initial funding will be charged to the current year's DOST appropriations and thereafter included in the annual General Appropriations Act.""}, {""title"": ""Implementing Rules and Regulations"", ""summary"": ""DOST, with stakeholders, will promulgate rules within 90 days of the Act's effectivity.""}, {""title"": ""Separability"", ""summary"": ""Unconstitutional provisions are severable; remaining provisions remain in effect.""}, {""title"": ""Repealing Clause"", ""summary"": ""Laws inconsistent with this Act are amended, repealed, or modified accordingly.""}, {""title"": ""Effectivity"", ""summary"": ""The Act takes effect fifteen days after publication in the Official Gazette.""}]"	RA No. 11914	July 30, 2022			To convert the Provincial Science and Technology Centers into Offices and provide appropriate funding to enhance technology transfer and rural development.	"[""Conversion of PSTCs to PSTOs"", ""Appropriation of funds for PSTO operations"", ""Definition of PSTO functions and staffing"", ""Implementation rules within 90 days"", ""Severability and repealing provisions"", ""Effectivity fifteen days after publication""]"		"[""Science and Technology"", ""Provincial"", ""Rural Development"", ""DOST"", ""Legislation""]"	"[""Provincial Science and Technology Office"", ""PSTO"", ""PSTC"", ""DOST"", ""appropriation"", ""technology transfer"", ""rural development""]"
+repacts:datasets/markdown/repacts/2022/ra_11915_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11915_2022.md	ra_11915_2022	AN ACT DESIGNATING THE NATIONAL MUSIC COMPETITIONS FOR YOUNG ARTISTS PROGRAM (NAMCYA) AS THE NATIONAL YOUTH DEVELOPMENT PROGRAM FOR MUSIC, AND APPROPRIATING FUNDS THEREFOR	"Eighteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-sixth day of July, two thousand twenty one.*
+
+ **[ REPUBLIC ACT NO. 11915, July 30, 2022 ]**
+
+ **AN ACT DESIGNATING THE NATIONAL MUSIC COMPETITIONS FOR YOUNG ARTISTS PROGRAM (NAMCYA) AS THE NATIONAL YOUTH DEVELOPMENT PROGRAM FOR MUSIC, AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.***Short Title.* ThisActshall be known as the ""National Music Competitions for Young ArtistsAct.""
+
+ **Section 2.***Declaration of Policy.* It is hereby declared the policy of the State to appropriately recognize, designate and support nongovernment organizations that have demonstrated pioneering, consistent and unassailable competence, effectiveness, and success in discovering and developing young musical artists and talents, and the preservation, development, and promotion of Philippine music and culture.

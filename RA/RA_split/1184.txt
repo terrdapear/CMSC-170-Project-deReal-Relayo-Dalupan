@@ -1,0 +1,167 @@
+
+ **Section 1.** The provision of Section sixteen hundred seventy-four of the Administrative Code, as amended, relative to the number of assistant provincial fiscals in the Province of Bataan is further amended to read as follows:
+
+ > ""Bataan, three assistant provincial fiscals;""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Republic Act	This act amends Section 1674 of the Administrative Code to increase the number of assistant provincial fiscals in Bataan from two to three, thereby providing two additional fiscal positions.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 1674 of the Administrative Code to state that Bataan has three assistant provincial fiscals.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	5159	June 17, 1967			To provide two additional assistant provincial fiscals for the Province of Bataan and amend the Administrative Code accordingly.	"[""Amendment to Section 1674 of the Administrative Code to increase assistant provincial fiscals in Bataan to three."", ""Act takes effect upon approval.""]"	Administrative Code, Section 1674	"[""Administrative Code"", ""Bataan"", ""Fiscal"", ""Provincial"", ""Republic Act""]"	"[""assistant provincial fiscal"", ""Bataan"", ""Administrative Code"", ""Section 1674"", ""Republic Act 5159""]"
+repacts:datasets/markdown/repacts/1967/ra_5160_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_5160_1967.md	ra_5160_1967	An Act Changing the Name of the Subaan Barrio Elementary School in the Municipality of Socorro, Province of Oriental Mindoro, to Ginhawa Barrio Elementary School	"**REPUBLIC ACT No. 5160**
+
+ An Act Changing the Name of the Subaan Barrio Elementary School in the Municipality of Socorro, Province of Oriental Mindoro, to Ginhawa Barrio Elementary School
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Subaan Barrio Elementary School in the Municipality of Socorro, Province of Oriental Mindoro, is hereby changed to Ginhawa Barrio Elementary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Republic Act	This Act changes the name of Subaan Barrio Elementary School to Ginhawa Barrio Elementary School, effective upon approval.	"[{""title"": ""Section 1."", ""summary"": ""The name of Subaan Barrio Elementary School in the Municipality of Socorro, Province of Oriental Mindoro, is hereby changed to Ginhawa Barrio Elementary School.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	5160	June 17, 1967				"[""Name of Subaan Barrio Elementary School changed to Ginhawa Barrio Elementary School"", ""Act takes effect upon approval""]"		"[""Education"", ""School"", ""Renaming""]"	"[""Subaan"", ""Ginhawa"", ""Socorro"", ""Mindoro"", ""Elementary School"", ""Renaming""]"
+repacts:datasets/markdown/repacts/1967/ra_5161_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_5161_1967.md	ra_5161_1967	An Act Creating the Municipality of Tubo in the Province of Abra	"**REPUBLIC ACT No. 5161**
+
+ An Act Creating the Municipality of Tubo in the Province of Abra
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The barrios of Alangting, Amtuagan, Delong, Kili, Poblacion, Mayabo, Supo, Tiempo, Tubtuba, and Wayañgan, at present comprising the Municipal District of Tubo, Province of Abra, are hereby constituted into a distinct and independent municipality, to be known as the Municipality of Tubo, same province.
+
+ **Section 2.** The Municipality of Tubo shall acquire corporate existence upon the election and qualification of the first mayor, vice-mayor and councilors in the next general elections for local officials. For election purposes, the municipal officials of the mother municipality charged with the election duties in accordance with the Revised Election Code shall hold office until the first officials shall have been elected and qualified.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Republic Act	Creates the Municipality of Tubo in Abra, granting it corporate existence upon the election of its officials.	"[{""title"": ""Section 1"", ""summary"": ""Defines the barrios that will constitute the Municipality of Tubo.""}, {""title"": ""Section 2"", ""summary"": ""States that the municipality will acquire corporate existence upon election of its officials.""}, {""title"": ""Section 3"", ""summary"": ""Act takes effect upon approval.""}]"	5161	June 17, 1967			To create a new municipality in the Province of Abra.	"[""Creation of the Municipality of Tubo"", ""Corporate existence upon election of officials"", ""Effective immediately upon approval""]"		"[""Municipality"", ""Abra"", ""Local Government""]"	"[""Municipality"", ""Tubo"", ""Abra"", ""Local Government"", ""Creation""]"
+repacts:datasets/markdown/repacts/1967/ra_5162_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_5162_1967.md	ra_5162_1967	An Act Granting Rustico Garingan, a Temporary Permit to Construct, Maintain and Operate Private Fixed Point-to-Point, Land-Based and Land-Mobile Radio Stations for the Reception and Transmission of Radio Communications Within the Philippines	"**REPUBLIC ACT No. 5162**
+
+ An Act Granting Rustico Garingan, a Temporary Permit to Construct, Maintain and Operate Private Fixed Point-to-Point, Land-Based and Land-Mobile Radio Stations for the Reception and Transmission of Radio Communications Within the Philippines
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There is hereby granted to Rustico Garingan, a temporary permit to construct, maintain and operate in the Philippines, subject to the approval of the Secretary of Public Works and Communications, private fixed point-to-point and land based and land mobile radio stations for the reception and transmission of wireless messages on radio telegraphy or radiotelephony, each station to be provided radio transmitting and receiving apparatus.
+
+ **Section 2.** This temporary permit shall continue to be in force during the time that the government has not established similar service at the places selected by the grantee, and is granted upon the express condition that the same shall be void unless the construction or installation of said stations be begun within one year from the date of approval of this Act and be completed within two years from said date.
+
+ **Section 3.** The grantee, his successors or assigns, shall not engage in domestic business of telecommunications in the Philippines without further special assent of the Congress of the Philippines, it being understood that the purpose of this temporary permit is to secure to the grantee the right to construct, install, maintain and operate private radio stations in such places within the Philippines as the interest of the grantee may justify.
+
+ **Section 4.** No fees shall be charged by the grantee as the radio stations that may be established by virtue of this Act shall engage in communications regarding the grantees business only.
+
+ **Section 5.** The grantee, his successors or assigns, shall construct, and operate his radio stations in such a way that they do not interfere with the operation of other radio stations maintained and operated in the Philippines.
+
+ **Section 6.** The grantee, his successors or assigns, shall hold the national, provincial, city and municipal government of the Philippines harmless from all claims, accounts, demands or actions arising out of accidents or injuries, whether to property or person, caused by the construction or operation of his radio stations.
+
+ **Section 7.** The grantee, his successors or assigns, is authorized to operate his private fixed point-to-point and land based and land mobile radio stations in the medium frequency, high frequency, and very high frequency that may be assigned to him by the Secretary of Public Works and Communications.
+
+ **Section 9.** The grantee shall not lease, transfer, grant the usufruct of, sell or assign this temporary permit, or the rights or privilege acquired thereunder to any person, firm, company, corporation or other commercial or legal entity, nor merge with any other person, company or corporation organized for the same purpose, without the prior approval of the Congress of the Philippines. Any corporation to which this temporary permit may be sold, transferred, or assigned shall be subject to the corporation laws of the Philippines now existing or hereafter enacted, and any person, firm, company, corporation or other commercial or legal entity to which this temporary permit is sold, transferred, or assigned shall be subject to all conditions, terms, conditions, restrictions and limitations of this temporary permit as fully and completely and to the same extent as if the temporary permit had been originally granted to the said person, firm, company, corporation or other commercial or legal entity.
+
+ **Section 10.** A special right is hereby reserved to the President of the Philippines in time of war, insurrection, public peril, emergency, calamity or disaster to cause the closing of the grantees radio stations or to authorize the temporary use or possession thereof by any department of the government upon payment of just compensation.
+
+ **Section 11.** This temporary permit shall be subject to amendment, alteration, or repeal by the Congress of the Philippines when the public interest so requires, and shall not be interpreted as an exclusive grant of the privilege herein provided for.
+
+ **Section 12.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Act	This act grants Rustico Garingan a temporary permit to construct, maintain, and operate private radio stations in the Philippines, subject to conditions and approvals set by the Congress and the Secretary of Public Works and Communications.	"[{""title"": ""Section 1"", ""summary"": """"}, {""title"": ""Section 2"", ""summary"": """"}, {""title"": ""Section 3"", ""summary"": """"}, {""title"": ""Section 4"", ""summary"": """"}, {""title"": ""Section 5"", ""summary"": """"}, {""title"": ""Section 6"", ""summary"": """"}, {""title"": ""Section 7"", ""summary"": """"}, {""title"": ""Section 9"", ""summary"": """"}, {""title"": ""Section 10"", ""summary"": """"}, {""title"": ""Section 11"", ""summary"": """"}, {""title"": ""Section 12"", ""summary"": """"}]"	5162	June 17, 1967			To grant a temporary permit for the construction, maintenance, and operation of private radio stations by Rustico Garingan, ensuring compliance with national regulations and safeguarding public interest.	"[""Granting a temporary permit to construct, maintain, and operate private radio stations"", ""Permit subject to approval of the Secretary of Public Works and Communications"", ""Permit void if construction not commenced within one year and completed within two years"", ""No fees charged for the operation of the stations"", ""Stations must not interfere with other radio stations"", ""Holder must hold government harmless from claims arising from station operation"", ""Authorized to operate in assigned medium, high, and very high frequencies"", ""Prohibition on leasing, transferring, or assigning the permit without Congress approval"", ""Presidential authority to close stations during emergencies"", ""Permit subject to amendment, alteration, or repeal by Congress""]"		"[""Telecommunications"", ""Radio"", ""Permit"", ""Philippines""]"	"[""temporary permit"", ""radio stations"", ""private radio"", ""land-based radio"", ""land-mobile radio"", ""frequency assignment"", ""Congress"", ""Secretary of Public Works and Communications""]"
+repacts:datasets/markdown/repacts/1967/ra_5163_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_5163_1967.md	ra_5163_1967	An Act Establishing a Health Sciences Center in the University of the Philippines, Appropriating Funds Therefor, and for Other Purposes	"**REPUBLIC ACT No. 5163**
+
+ An Act Establishing a Health Sciences Center in the University of the Philippines, Appropriating Funds Therefor, and for Other Purposes
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** In pursuance of the policy to transfer the units of the University of the Philippines in the City of Manila to its Diliman campus at Quezon City, as laid down in Commonwealth Act Numbered Four hundred forty-two there is hereby established a health sciences center in the University of the Philippines at Diliman, Quezon City. It shall consist of the existing units related to the health sciences, including the Colleges of Medicine, Dentistry, Nursing, Pharmacy, Institute of Hygiene, a university hospital and such other new units as the Board of Regents may determine to be necessary to carry out the purposes of the center. The center shall seek and emphasize the highest standards in training and research in the various health sciences. The administrative organization of the center shall be determined by the Board of Regents upon recommendation of the university president.
+
+ **Section 2.** To finance the initial capital requirements of the center, there is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, the sum of five million pesos for the fiscal year nineteen hundred sixty-eight and sixty-nine, and five million pesos yearly for the next succeeding nine years.
+
+ **Section 3.** The grounds and buildings that will be vacated by the College of Medicine and Institute of Hygiene on Herran Street and by the College of Dentistry on Padre Faura Street, City of Manila shall be retained by the University of the Philippines for the use of its units offering extension programs in said city.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Republic Act	Establishes a Health Sciences Center at the University of the Philippines Diliman, appropriates funds for its initial capital, and provides for vacated premises to be used by extension programs, effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Establishes a Health Sciences Center in UP Diliman, comprising existing health science units and future units as determined by the Board of Regents, with emphasis on training and research.""}, {""title"": ""Section 2"", ""summary"": ""Appropriates five million pesos for FY1968-1969 and five million pesos annually for nine succeeding years to finance the center's initial capital.""}, {""title"": ""Section 3"", ""summary"": ""Mandates that the vacated grounds and buildings by the College of Medicine and Institute of Hygiene on Herran Street, and the College of Dentistry on Padre Faura Street in Manila be retained by UP for use by its units offering extension programs.""}, {""title"": ""Section 4"", ""summary"": ""States that the act shall take effect upon its approval.""}]"	5163	June 17, 1967			To establish a Health Sciences Center at the University of the Philippines and provide funding and infrastructure for its operation.	"[""Establishment of a Health Sciences Center in UP Diliman."", ""Appropriation of five million pesos for FY1968-1969 and yearly thereafter for nine years."", ""Retention of vacated premises by UP for extension programs."", ""Effectiveness of the act upon approval.""]"		"[""Health"", ""Education"", ""University of the Philippines"", ""Funding"", ""Infrastructure""]"	"[""Health Sciences Center"", ""University of the Philippines"", ""Appropriation"", ""Funding"", ""Extension Programs"", ""Diliman"", ""Manila""]"
+repacts:datasets/markdown/repacts/1967/ra_5164_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_5164_1967.md	ra_5164_1967	An Act Defining the Functions of the Judiciary Division, Department of Justice, Prescribing the Qualifications and Fixing the Compensation of its Staff, and for Other Purposes	"**[ REPUBLIC ACT NO. 5164, June 17, 1967 ]**
+
+ **AN ACT DEFINING THE FUNCTIONS OF THE JUDICIARY DIVISION, DEPARTMENT OF JUSTICE, PRESCRIBING THE QUALIFICATIONS AND FIXING THE COMPENSATION OF ITS STAFF, AND FOR OTHER PURPOSES**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** In the exercise of his power of general administrative supervision over Courts of First Instance and other courts of equivalent rank and city and municipal courts, the Secretary of Justice shall be assisted by the Judiciary Division and shall:
+
+ > (1) Examine the administrative business methods and systems employed in the office of the clerks of court and other offices relating to and serving the courts, and make suggestions on necessary improvement;
+>
+>  (2) Collect and compile statistical data and other information on the judicial work of the courts and on the work and other offices related to and serving the courts, and publish periodic reports with respect thereto;
+>
+>  (3) Examine the state of the dockets, secure information as to the courts' need of assistance, and make suggestions or take appropriate steps to expedite litigation;
+>
+>  (4) Prepare and submit budget estimates of appropriations necessary for the maintenance and operation of the judicial branch;
+>
+>  (5) File requests for permission to spend funds appropriated for the judicial branch, and approve all vouchers for the expenditure of such funds;
+>
+>  (6) Secure and maintain accommodations, and purchase, exchange and distribute equipment and supplies for the judges, clerks and other officers and employees of the courts supported by national appropriations;
+>
+>  (7) Collect and compile statistical data and other information on the expenditures and receipts of the courts and related offices and publish periodic report;
+>
+>  (8) Consult with and assist the clerks of courts and other officers and employees of the courts and offices related to and serving the courts;
+>
+>  (9) Investigate complaints with respect to the operation of the courts and make such recommendations as may be appropriate;
+>
+>  (10) Prepare and publish an annual report on the work of the courts and on the activities relating to court operation;
+>
+>  (11) Require periodic court reports with a view to keeping abreast of the docket situation and immediately derecting signs of developing congestion in particular courts;
+>
+>  (12) Publish and distribute a court journal for the purpose of clarifying court administration procedure and otherwise promoting the exchange of ideas on court management and operation with a view to improving the efficiency of judges; and
+>
+>  (13) Organize and arrange periodic convention among the court staff to promote the free and constructive discussion of court procedures.
+
+ **Section 2.** The Judiciary Division shall have a chief to be known as Judicial Superintendent who shall receive the same compensation and shall have the same rank and be entitled to the same privileges as a district judge, an assistant judicial superintendent who shall receive an annual salary of seventeen thousand pesos Range 68 (P16,860 P20,580) and such number of judicial supervisors whose salaries are hereinafter provided, as follows:
+
+ |  |  | Range |  |
+| --- | --- | --- | --- |
+| (a) | Two Senior Judicial Supervisors,each at P15,000.00 *per annum*; | 65 | (P14,532P17,724) |
+| (b) | Four Senior Judicial Supervisors,each at P14,400.00 *per annum*; | 64 | (P13,824P16,860) |
+| (c) | Five Judicial Supervisors,each at P13,800.00 *per annum* | 63 | (P13,152P16,044) |
+| (d) | Five Judicial Supervisors,each at P13,200.00 *per annum*; | 63 | (P13,152P16,044) |
+| (e) | Five Judicial Supervisors,each at P12,600.00 *per annum*; | 62 | (P12,516P15,264) |
+| (f) | Six Judicial Supervisors,each at P12,000.00 *per annum*; | 61 | (P11,904P14,532) |
+| (g) | Six Judicial Supervisors,each at P11,400.00 *per annum*; | 60 | (P11,328P13,824) |
+| (h) | Three Judicial Supervisors,each at P10,800.00 *per annum*; | 59 | (P10,776P13,152) |
+| (i) | Two Judicial Supervisors,each at P10,200.00 *per annum* | 57 | (P9,756P11,904) |
+| (j) | Two Judicial Supervisors,each at P9,600.00 *per annum*; | 56 | (P9,288P11,328) |
+| (k) | Two Judicial Supervisors,each at P9,000.00 *per annum*; | 55 | (P8,832P10,776) |
+|  |  |  |  |
+
+ **Section 3.** The incumbent Assistant Judicial Superintendent, Senior Judicial Supervisors and Judicial Supervisors occupying positions affected by the preceding section at the time of the effectivity of this Act shall continue to occupy their respective positions and receive the salary increases herein provided without the necessity of any new appointments:*Provided,*That the present positions of legal researchers in the Judiciary Division are hereby converted into judicial supervisors and the incumbents thereof at the time of the effectivity of this Act shall occupy the highest resulting vacancies in the position enumerated in the preceding section and shall receive the salaries corresponding thereto also without the need of new appointments.
+
+ **Section 4.** The judicial superintendent and the assistant judicial superintendent shall be members of the bar, for at least ten years and possessed of the same qualifications as a district judge. The senior judicial supervisors and judicial supervisors shall be members of the bar for at least five and three years, respectively:*Provided,*That this provision shall not apply to the incumbent legal researchers whose positions are converted to judicial supervisors in accordance with the preceding section.
+
+ **Section 5.** The Judicial Superintendent, the Assistant Judicial Superintendent, and the Judicial Supervisors shall have authority to administer oaths in the performance of their official duties and functions.
+
+ **Section 6.** With the exception of the eight other officials of the Judiciary Division who shall receive the following annual compensation:
+
+ | One Administrative Officer | P12,000.00 |
+| --- | --- |
+| One Executive Assistant | 11,400.00 |
+| One Legislative Assistant | 9,600.00 |
+| One Budget Officer | 9,600.00 |
+| One Budget Examiner | 8,400.00 |
+| One Financial Assistant (CPA) | 8,400.00 |
+| One Cashier and Disbursing Officer | 8,400.00 |
+| One Field Auditor (CPA) | 7,200.00 |
+
+ all other incumbent personnel in the Judiciary Division are hereby maintained and they shall each be entitled to a salary increase of one grade upon the effectivity of this Act, without prejudice to their receiving such further increases as may be provided by law or in the annual General Appropriations Act.
+
+ **Section 7.** Any provision of law, rule or regulation to the contrary notwithstanding, no officer or employee already holding office in the said Division on the date of effectivity of this Act shall, by reason thereof, be removed from office or demoted to a lower category or scale of salary, except for cause or upon compliance with due process provided by law.
+
+ **Section 8.** In addition to the appropriations authorized in the current General Appropriations Act for the Judiciary Division and the Courts of First Instance, such sums as may be necessary to carry out the purposes of this Act, are hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, and thereafter the appropriation for the salary of the officials and employees of the Judiciary Division, as well as for its equipment, supplies and traveling expenses, shall be included in the annual General Appropriations Act:*Provided, however,*That the salary differentials resulting from the adjustment of salaries as provided in this Act shall be paid out of the unexpended appropriations authorized for the Judiciary Division and the Courts of First Instance.
+
+ **Section 9.** This Act shall take effect upon its approval.
+
+ Enacted without Executive approval, June 17, 1967.
+"	success	Legislation	Republic Act No. 5164 defines the roles, responsibilities, qualifications, and compensation of the Judiciary Division of the Department of Justice, including its judicial officers and staff, and establishes procedures for administration and remuneration.	"[{""title"": ""Section 1. Functions of the Judiciary Division"", ""summary"": ""Outlines the administrative duties of the Judiciary Division, including examination of court operations, data collection, budget preparation, assistance to clerks, and publication of reports.""}, {""title"": ""Section 2. Compensation of Judicial Officers"", ""summary"": ""Specifies salary ranges for the Judicial Superintendent, Assistant Judicial Superintendent, and various categories of Judicial Supervisors, along with their rank and privileges.""}, {""title"": ""Section 3. Continuity of Positions"", ""summary"": ""Provides that existing positions affected by the Act will continue with the new salaries and that legal researchers will be converted to judicial supervisors.""}, {""title"": ""Section 4. Qualifications of Judicial Officers"", ""summary"": ""Sets bar membership and years of practice requirements for the Judicial Superintendent, Assistant Judicial Superintendent, Senior Judicial Supervisors, and Judicial Supervisors.""}, {""title"": ""Section 5. Authority to Administer Oaths"", ""summary"": ""Confers the authority to administer oaths upon the Judicial Superintendent, Assistant Judicial Superintendent, and Judicial Supervisors.""}, {""title"": ""Section 6. Compensation of Eight Other Officials"", ""summary"": ""Mentions annual compensation for eight officials of the Judiciary Division, details partially omitted.""}]"	5164	June 17, 1967			To define the functions, qualifications, and compensation of the Judiciary Division and its staff, thereby ensuring effective administration of justice.	"[""Defines roles and duties of the Judiciary Division"", ""Establishes salary ranges and compensation for judicial officers"", ""Mandates bar membership and years of practice for officers"", ""Grants authority to administer oaths"", ""Provides compensation guidelines for additional officials""]"		"[""Judiciary"", ""Department of Justice"", ""Personnel"", ""Compensation"", ""Qualifications""]"	"[""Judiciary Division"", ""Secretary of Justice"", ""Judicial Superintendent"", ""Assistant Judicial Superintendent"", ""Judicial Supervisors"", ""Compensation"", ""Qualifications"", ""Budget""]"
+repacts:datasets/markdown/repacts/1967/ra_5165_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_5165_1967.md	ra_5165_1967	Act Providing for the Standardization of Salaries of Officials in the Bureau of Public Works	"**REPUBLIC ACT No. 5165**
+
+ An Act Providing for the Standardization of Salaries of Officials in the Bureau of Public Works
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Any existing law to the contrary notwithstanding, salaries for the following positions in the Bureau of Public Works are hereby fixed as follows:

@@ -1,0 +1,182 @@
+>
+>  ""*Provided, further,* That the allocation for Universal Health Care shall be based on the collection of the second fiscal year preceding the current fiscal year.""
+
+ **Section 15.** Section 288, Subsections B and C of the National Internal Revenue Code of 1997, as amended, are hereby repealed.
+
+ **Section 16.** Section 289 of the National Internal Revenue Code of 1997, as amended, is hereby amended to read as follows:
+
+ > ""Sec. 289. *Special Financial Support to Beneficiary Provinces Producing Virginia Tobacco.* The financial support given by the National Government for the beneficiary provinces shall be constituted and collected from the proceeds of fifteen percent (15%) of the excise taxes on locally manufactured Virginia-type of cigarettes, but not exceeding Seventeen billion pesos (₱17,000,000,000.00) notwithstanding the provision of Section 3 of Republic Act No. 7171.
+>
+>  ""The funds allotted shall be divided among the beneficiary provinces pro-rata according to the volume of Virginia tobacco production.
+>
+>  ""Provinces producing Virginia tobacco shall be the beneficiary provinces under Republic Act No. 7171: *Provided,* *however*, That to qualify as beneficiary under R.A. No. 7171, a province must have an average annual production of Virginia leaf tobacco in an amount not less than one million kilos: *Provided, further,* That the Department of Budget and Management (DBM) shall each year determine the beneficiary provinces and their computed share of the funds under R.A. No. 7171, referring to the National Tobacco Administration (NTA) records of tobacco acceptances, at the tobacco trading centers for the immediate past year.
+>
+>  ""The Secretary of Budget and Management is hereby directed to retain annually the said funds equivalent to fifteen percent (15%) of excise taxes on locally manufactured Virginia-type cigarettes, but not exceeding Seventeen billion pesos (₱17,000,000,000.00) notwithstanding the provision of Section 3 of R.A. No. 7171, to be remitted to the beneficiary provinces qualified under R.A. No. 7171.
+>
+>  ""The provisions of existing laws to the contrary notwithstanding, the fifteen percent (15%) share from government revenues mentioned in R.A. No. 7171, but not exceeding Seventeen billion pesos (₱I7,000,000,000.00) notwithstanding the provision of Section 3 of R.A. No. 7171, and due to the Virginia tobacco-producing provinces shall be directly remitted to the provinces concerned.
+>
+>  ""*Provided,* That this Section shall be implemented in accordance with the guidelines of Memorandum Circular No. 61-A dated November 28, 1993, which amended Memorandum Circular No. 61, entitled Prescribing Guidelines for Implementing Republic Act No. 7171, dated January 1, 1992 and that the funds be utilized to further advance self-reliance and expand viable alternatives for Virginia-tobacco farmers and workers through:
+>
+>  ""(1) Cooperative projects that will enhance better quality of products, increase productivity, guarantee the market and as a whole increase farmers income; ""(2) Livelihood projects particularly the development of alternative farming systems to enhance farmers income; ""(3) Agro-industrial projects that will enable tobacco farmers in the Virginia tobacco-producing provinces to be involved in the management and subsequent ownership of these projects such as post-harvest and secondary processing like cigarette manufacturing and by-product utilization; ""(4) Infrastructure projects such as farm-to-market roads, bridges, schools, hospitals, rural health facilities, and irrigation systems; ""(5) Programs and projects that will promote, enhance, and develop the tourism potential of Virginia tobacco-growing provinces; and ""(6) Programs that will provide financial assistance for tobacco farmers that were displaced or who cease to produce tobacco. ""*Provided, further,* That in addition to the local government units mentioned in the above circular, the concerned officials in the province shall be consulted as regards the identification of projects to be financed.""
+
+ **Section 17.** *Implementing Rules and Regulations.* Within thirty (30) days from the effectivity of this Act, the Department of Finance (DOF), Department of Health (DOH), Department of Budget and Management (DBM), and the Philippine Health Insurance Corporation (PhilHealth), shall promulgate the necessary implementing rules and regulations for its effective implementation.
+
+ **Section 18.** *Repealing Clause.*
+
+ (a) Section 8 of Republic Act No. 8240 or An Act Amending Sections 138, 140, And 142 Of The National Internal Revenue Code, As Amended, And For Other Purposes, is hereby repealed. (b) All laws, decrees, ordinances, rules and regulations, executive or administrative orders, and such other presidential issuances that are inconsistent with any of the provisions of this Act are hereby repealed, amended, or otherwise modified accordingly. **Section 19.** *Separability Clause.* If any provision of this Act is subsequently declared invalid or unconstitutional, the other provisions hereof which are not affected thereby shall remain in full force and effect.
+
+ **Section 20.** *Effectivity.* -This Act shall take effect on January 1, 2020 following its complete publication in the *Official Gazette* or in at least one (1) newspaper of general circulation.
+
+ Approved,
+
+ (Sgd) **VICENTE C. SOTTO III** President of the Senate
+
+ (Sgd) **GLORIA MACAPAGAL-ARROYO** Speaker of the House of Representatives
+
+ This Act was passed by the Senate of the Philippines as Senate Bill No. 2233 on June 4, 2019 and adopted by the House of Representatives as an amendment to House Bill No. 8677 on June 4, 2019.
+
+ (Sgd) **MYRA MARIE D. VILLARICA** Secretary of the Senate
+
+ (Sgd) **DANTE ROBERTO P. MALING** Acting Secretary General House of Representatives
+
+ (Sgd) **RODRIGO ROA DUTERTE** President of the Philippines
+
+ Approved: July 25, 2019.
+"	success	Republic Act	An act that increases excise taxes on tobacco, heated tobacco, and vapor products, imposes new taxes, amends sections of the National Internal Revenue Code, increases penalties, and earmarks part of tax revenue for universal health care.	"[{""title"": ""Title of Chapter IV Amendment"", ""summary"": ""Amends the title of Chapter IV of the National Internal Revenue Code to read \""Excise Tax on Tobacco Products, Heated Tobacco Products, and Vapor Products.\""""}, {""title"": ""Amendment to Section 144"", ""summary"": ""Amends Section 144 of the National Internal Revenue Code to impose excise tax on heated tobacco products, sets rates and schedules, and establishes penalties for violations.""}]"	11346	July 23, 2018			To increase excise taxes on tobacco, heated tobacco, and vapor products; enhance penalties for violations; amend the National Internal Revenue Code; and earmark a portion of the tax revenue for universal health care.	"[""Increases excise tax rates on tobacco products"", ""Imposes excise tax on heated tobacco products with rates of \u20b110 per pack of 20 units, increasing by 5% annually"", ""Imposes excise tax on vapor products"", ""Establishes stricter penalties for misdeclaration and non\u2011compliance"", ""Reaffirms health warning requirements"", ""Earmarks a portion of tax revenue for Universal Health Care""]"	Amends sections 144, 145, 146, 147, 152, 164, 260, 262, 263, 265, 288, and 289 of the National Internal Revenue Code; repeals Section 288(B) and 288(C); creates new sections 263‑A, 265‑B, and 288‑A	"[""Tax"", ""Excise Tax"", ""Tobacco"", ""Heated Tobacco"", ""Vapor Products"", ""Health Care"", ""Universal Health Care"", ""Penalties""]"	"[""excise tax"", ""tobacco products"", ""heated tobacco"", ""vapor products"", ""penalties"", ""universal health care"", ""National Internal Revenue Code"", ""Republic Act 11346""]"
+repacts:datasets/markdown/repacts/2019/ra_11347_2019.md	repacts	2019		datasets/markdown/repacts/2019/ra_11347_2019.md	ra_11347_2019	An Act Establishing a Campus of the Polytechnic University of the Philippines (PUP) in Quezon City, National Capital Region, to be Known as the PUP-Quezon City Campus, Mandating the PUP to Offer Graduate, Undergraduate and Short-Term Vocational Courses Thereat, and Appropriating Funds Therefor	"**Seventeenth Congress Third Regular Session**
+
+ Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand eighteen.
+
+ **REPUBLIC ACT No. 11347**
+
+ **An Act Establishing a Campus of the Polytechnic University of the Philippines (PUP) in Quezon City, National Capital Region, to be Known as the PUP-Quezon City Campus, Mandating the PUP to Offer Graduate, Undergraduate and Short-Term Vocational Courses Thereat, and Appropriating Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress assembled:*
+
+ **Section 1.** This Act shall be known as the ""PUP-Quezon City Campus Act"".
+
+ **Section 2.** There is hereby established a campus of the Polytechnic University of the Philippines (PUP) in Quezon City, National Capital Region (NCR), to be known as the PUP-Quezon City Campus.
+
+ **Section 3.** The PUP shall admit students to its Quezon City Campus who may avail of graduate, undergraduate and short-term technical-vocational courses within the Universitys areas of specialization, and according to its capabilities as the Board of Regents (BOR) may deem necessary to carry out the Universitys objectives, and to respond to the needs of the city and the NCR.
+
+ The PUP is also mandated to undertake research and extension services in the Quezon City Campus, and to provide progressive leadership in these areas, including the offering of graduate degrees under the PUP Open University System.
+
+ **Section 4.** The PUP-Quezon City Campus shall be headed by a Campus Administrator who shall render full-time service and who shall be appointed or designated by the BOR upon the recommendation of the search committee and the President, subject to the guidelines, qualifications and standards set by the BOR.
+
+ **Section 5.** The establishment of the PUP-Quezon City Campus shall ensure that the minimum requirements for its operation and program offerings have been complied with as duly prescribed by the Commission on Higher Education (CHED).
+
+ **Section 6.** All assets, real and personal, personnel and records of the PUP-Quezon City Campus, as well as liabilities or obligations, are hereby transferred to the PUP. The positions, rights, and security of tenure of faculty members and personnel employed at the PUP-Quezon City Campus under existing laws prior to integration into the PUP shall be respected.
+
+ All parcels of land belonging to the government occupied by the PUP-Quezon City Campus are hereby declared to be the property of the PUP and shall be titled under that name: *Provided,* That should the PUP cease to exist or be abolished, or would no longer need such parcels of land aforementioned, the same shall revert to the local government units (LGUs) concerned.
+
+ **Section 7.** The provisions of Republic Act No. 8292, otherwise known as the ""Higher Education Modernization Act of 1997"" shall form an integral part, of this Act and together shall serve as the governing charter of the University.
+
+ **Section 8.** All other powers, functions, privileges, responsibilities and limitations to state universities and/or its officials under existing laws shall be deemed granted to or imposed upon the University and/or its officials whenever appropriate.
+
+ **Section 9.** The amount necessary to carry out the provisions of this Act shall be included in the annual General Appropriations Act.
+
+ **Section 10.** If, for any reason, any part or provision of this Act is declared invalid or unconstitutional, the remaining parts or provisions not affected thereby shall remain in full force and effect.
+
+ **Section 11.** All laws, presidential decrees, executive orders, rules and regulations contrary to or inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+
+ **Section 12.** This Act shall take effect fifteen (15) days after its publication in the *Official Gazette* or in any newspaper of general circulation.
+
+ Approved,
+
+ (Sgd) **VICENTE C. SOTTO III** President of the Senate
+
+ (Sgd) **GLORIA MACAPAGAL-ARROYO** Speaker of the House of Representatives
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives on August 14, 2018, amended by the Senate of the Philippines on February 6, 2019, and which amendments were concurred in by the House of Representatives on May 20, 2019.
+
+ (Sgd) **MYRA MARIE D. VILLARICA** Secretary of the Senate
+
+ (Sgd) **DANTE ROBERTO P. MALING** Acting Secretary General House of Representatives
+
+ (Sgd) **RODRIGO ROA DUTERTE** President of the Philippines
+
+ Approved: July 25, 2019.
+"	success	Republic Act	This law establishes a campus of the Polytechnic University of the Philippines in Quezon City, designates its administration and academic programs, ensures compliance with CHED requirements, transfers assets and personnel, integrates with RA 8292, appropriates necessary funds, and sets its effective date.	"[{""title"": ""Section 1"", ""summary"": ""The Act shall be known as the \""PUP-Quezon City Campus Act\"".""}, {""title"": ""Section 2"", ""summary"": ""The establishment of a campus of PUP in Quezon City, known as the PUP-Quezon City Campus.""}, {""title"": ""Section 3"", ""summary"": ""The PUP shall admit students to graduate, undergraduate and short-term vocational courses at the Quezon City Campus.""}, {""title"": ""Section 4"", ""summary"": ""The campus shall be headed by a Campus Administrator appointed by the Board of Regents.""}, {""title"": ""Section 5"", ""summary"": ""The campus must comply with the minimum requirements set by the Commission on Higher Education.""}, {""title"": ""Section 6"", ""summary"": ""All assets, personnel, and liabilities of the campus are transferred to PUP, with faculty rights respected.""}, {""title"": ""Section 7"", ""summary"": ""RA 8292, the Higher Education Modernization Act of 1997, forms an integral part of this Act.""}, {""title"": ""Section 8"", ""summary"": ""All powers, functions, and responsibilities of state universities are granted to the University.""}, {""title"": ""Section 9"", ""summary"": ""The necessary amount for the Act will be included in the annual General Appropriations Act.""}, {""title"": ""Section 10"", ""summary"": ""If any provision is invalid, the remaining provisions remain in force.""}, {""title"": ""Section 11"", ""summary"": ""All laws contrary to this Act are repealed or modified accordingly.""}, {""title"": ""Section 12"", ""summary"": ""The Act shall take effect fifteen days after publication in the Official Gazette.""}]"	11347	2019-07-25	"[{""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}, {""name"": ""GLORIA MACAPAGAL-ARROYO"", ""title"": ""Speaker of the House of Representatives""}, {""name"": ""MYRA MARIE D. VILLARICA"", ""title"": ""Secretary of the Senate""}, {""name"": ""DANTE ROBERTO P. MALING"", ""title"": ""Acting Secretary General House of Representatives""}, {""name"": ""RODRIGO ROA DUTERTE"", ""title"": ""President of the Philippines""}]"		To establish a campus of PUP in Quezon City, enabling higher education offerings and extending services to the city and NCR.	"[""Establishment of PUP-Quezon City Campus"", ""Designation of campus administration"", ""Approval of academic programs"", ""Compliance with CHED requirements"", ""Transfer of assets and personnel"", ""Integration with RA 8292"", ""Funding appropriation"", ""Severability clause"", ""Repeal of conflicting laws"", ""Effective date""]"	Republic Act No. 8292 (Higher Education Modernization Act of 1997) is integrated into this Act	"[""Higher Education"", ""University Campus"", ""Philippines"", ""PUP"", ""Quezon City""]"	"[""Polytechnic University of the Philippines"", ""PUP-Quezon City Campus"", ""Higher Education"", ""Campus Administration"", ""Graduate Courses"", ""Undergraduate Courses"", ""Vocational Courses"", ""Land Transfer"", ""CHED"", ""Republic Act 8292""]"
+repacts:datasets/markdown/repacts/2019/ra_11348_2019.md	repacts	2019		datasets/markdown/repacts/2019/ra_11348_2019.md	ra_11348_2019	An Act Establishing a Campus of the Polytechnic University of the Philippines (PUP) in the City of San Juan, Metro Manila, to be Known as the PUP-San Juan Campus, and Appropriating Funds Therefor	"**Seventeenth Congress Third Regular Session**
+
+ Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand eighteen.
+
+ **REPUBLIC ACT No. 11348**
+
+ **An Act Establishing a Campus of the Polytechnic University of the Philippines (PUP) in the City of San Juan, Metro Manila, to be Known as the PUP-San Juan Campus, and Appropriating Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress assembled:*
+
+ **Section 1.** This Act shall be known as the ""PUP-San Juan Campus Act"".
+
+ **Section 2.** There is hereby established a campus of the Polytechnic University of the Philippines (PUP) in the City of San Juan, Metro Manila, to be known as the PUP-San Juan Campus.
+
+ **Section 3.** The PUP-San Juan Campus shall provide short-term technical courses, undergraduate and graduate studies within its areas of competency and specialization, and as the Board of Regents may deem necessary to carry out its objectives, respond to the human resource development needs of San Juan City and the National Capital Region.
+
+ The PUP-San Juan Campus is also mandated to undertake research and extension services and provide progressive leadership in its areas of specialization, including the offering of graduate degrees under the PUP Open University System.
+
+ **Section 4.** The University shall have the general powers of a corporation set forth in Batas Pambansa Blg. 68, as amended, otherwise known as ""The Corporation Code of the Philippines"". The exercise of its corporate powers shall be vested exclusively in the Board of Regents and the President of the University.
+
+ **Section 5.** The University Campus shall provide a scholarship program and other affirmative action programs to assist poor but deserving students who qualify for admission to the University.
+
+ No student shall be denied admission to the University Campus by reason of gender, religion, cultural or community affiliation or ethnic origin.
+
+ **Section 6.** The University Campus shall enjoy academic freedom and institutional autonomy, pursuant to paragraph 2, Section 5 of Article XIV of the Constitution.
+
+ **Section 7.** On or before the fifteenth (15th) day of the second month after the opening of the regular class each year, the Board shall file with both Houses of Congress a detailed report on the progress, conditions and needs of the PUP-San Juan Campus.
+
+ **Section 8.** The amount necessary to carry out the provisions of this Act shall be included in the annual General Appropriations Act.
+
+ **Section 9.** In coordination with the PUP and within a period of one hundred twenty (120) days after the approval of this Act, the PUP-San Juan Campus shall accomplish the following:
+
+ (a) Submit a five (5)-year development plan, including its program budget to the Commission on Higher Education (CHED), for appropriate recommendation to the Department of Budget and Management; (b) Undergo a management audit in cooperation with the CHED; and (c) Set up its organizational, administrative as well as academic structure, including the appointment or designation of the University Campus key officials. **Section 10.** The provisions of Republic Act No. 8292, otherwise known as the ""Higher Education Modernization Act of 1997"" shall form as an integral part of this Act and together shall serve as the governing charter of the University.
+
+ **Section 11.** All other powers, functions, privileges, responsibilities and limitations under existing laws shall be deemed granted to or imposed upon the University and its officials, whenever appropriate.
+
+ **Section 12.** All laws, presidential decrees, executive orders, rules and regulations contrary to or inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+
+ **Section 13.** This Act shall take effect fifteen (15) days after its publication in the *Official Gazette* or in a newspaper of general circulation.
+
+ Approved,
+
+ (Sgd) **VICENTE C. SOTTO III** President of the Senate
+
+ (Sgd) **GLORIA MACAPAGAL-ARROYO** Speaker of the House of Representatives
+
+ This Act was passed by the House of Representatives as House Bill No. 8845 on January 29, 2019 and adopted by the Senate of the Philippines as an amendment to Senate Bill No. 884 on May 21, 2019.
+
+ (Sgd) **MYRA MARIE D. VILLARICA** Secretary of the Senate
+
+ (Sgd) **DANTE ROBERTO P. MALING** Acting Secretary General House of Representatives
+
+ (Sgd) **RODRIGO ROA DUTERTE** President of the Philippines
+
+ Approved: July 25, 2019.
+"	success	Republic Act	This law establishes the PUP‑San Juan Campus, outlines its academic and administrative powers, mandates scholarship and affirmative action programs, requires periodic reporting to Congress, and appropriates funds for its operation.	"[{""title"": ""Section 1"", ""summary"": ""The Act shall be known as the \""PUP\u2011San Juan Campus Act.\""""}, {""title"": ""Section 2"", ""summary"": ""Establishes a campus of the Polytechnic University of the Philippines in San Juan, Metro Manila, named the PUP\u2011San Juan Campus.""}, {""title"": ""Section 3"", ""summary"": ""Describes the campus\u2019s mandate to provide technical courses, undergraduate and graduate studies, research, extension services, and graduate degrees under the PUP Open University System to meet human resource development needs.""}, {""title"": ""Section 4"", ""summary"": ""Confers the general corporate powers of the University as set forth in Batas Pambansa Blg. 68, vested in the Board of Regents and the President.""}, {""title"": ""Section 5"", ""summary"": ""Mandates a scholarship program and other affirmative action programs for deserving students, prohibiting denial of admission based on gender, religion, culture, or ethnicity.""}, {""title"": ""Section 6"", ""summary"": ""Guarantees academic freedom and institutional autonomy in accordance with the Constitution.""}, {""title"": ""Section 7"", ""summary"": ""Requires the Board to file a detailed annual report on the campus\u2019s progress, conditions, and needs with both Houses of Congress.""}, {""title"": ""Section 8"", ""summary"": ""Allocates necessary funds for the Act\u2019s provisions within the annual General Appropriations Act.""}, {""title"": ""Section 9"", ""summary"": ""Outlines a 120\u2011day action plan, including submission of a 5\u2011year development plan to CHED, management audit, and organizational structuring.""}, {""title"": ""Section 10"", ""summary"": ""Integrates Republic Act No. 8292 (Higher Education Modernization Act of 1997) as part of the governing charter.""}, {""title"": ""Section 11"", ""summary"": ""States that other existing laws, presidential decrees, executive orders, rules, and regulations apply to the University where appropriate.""}, {""title"": ""Section 12"", ""summary"": ""Repeals or modifies any law or regulation that is contrary to or inconsistent with this Act.""}, {""title"": ""Section 13"", ""summary"": ""The Act takes effect 15 days after publication in the Official Gazette or a general circulation newspaper.""}]"	11348	2019-07-25	"[{""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}, {""name"": ""GLORIA MACAPAGAL-ARROYO"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""MYRA MARIE D. VILLARICA"", ""title"": ""Secretary of the Senate""}, {""name"": ""DANTE ROBERTO P. MALING"", ""title"": ""Acting Secretary General House of Representatives""}, {""name"": ""RODRIGO ROA DUTERTE"", ""title"": ""President of the Philippines""}]"	To establish a new campus of the Polytechnic University of the Philippines in San Juan, Metro Manila, thereby expanding access to higher education, fostering regional development, and providing educational opportunities and scholarship programs for the community.	"[""Establishment of the PUP\u2011San Juan Campus"", ""Provision of short\u2011term technical courses and undergraduate/graduate studies"", ""Research and extension services"", ""Scholarship and affirmative action programs"", ""Academic freedom and institutional autonomy"", ""Annual reporting to Congress"", ""Appropriation of funds"", ""Integration of RA 8292"", ""Repeal of conflicting laws""]"	Republic Act No. 8292 (Higher Education Modernization Act of 1997)	"[""Education"", ""Higher Education"", ""Philippines"", ""Polytechnic University of the Philippines"", ""PUP"", ""Campus"", ""San Juan""]"	"[""Polytechnic University of the Philippines"", ""PUP"", ""San Juan campus"", ""higher education"", ""scholarship"", ""academic freedom"", ""budget"", ""report"", ""Republic Act 11348""]"
+repacts:datasets/markdown/repacts/2019/ra_11349_2019.md	repacts	2019		datasets/markdown/repacts/2019/ra_11349_2019.md	ra_11349_2019	"An Act Creating Three (3) Additional Branches of the Regional Trial Court in the Third Judicial Region to be Stationed at Macabebe, Pampanga, Further Amending for the Purpose Section 14(C) of Batas Pambansa Blg. 129, Otherwise Known as ""The Judiciary Reorganization Act of 1980"", as Amended, and Appropriating Funds Therefor"	"**Seventeenth Congress Third Regular Session**
+
+ Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand eighteen.
+
+ **REPUBLIC ACT No. 11349**
+
+ **An Act Creating Three (3) Additional Branches of the Regional Trial Court in the Third Judicial Region to be Stationed at Macabebe, Pampanga, Further Amending for the Purpose Section 14(C) of Batas Pambansa Blg. 129, Otherwise Known as ""The Judiciary Reorganization Act of 1980"", as Amended, and Appropriating Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress assembled:*
+
+ **Section 1.** Three (3) additional Regional Trial Court branches of Macabebe, Pampanga, with seats thereat, are hereby created in the Third Judicial Region.
+
+ **Section 2.** The Supreme Court shall assign the respective and corresponding branch number for the branches newly created.
+
+ **Section 3.** The Chief Justice of the Supreme Court shall immediately cause the inclusion in the Courts program the implementation of this Act.
+
+ **Section 4.** The funds necessary for the operation of the courts herein created shall be appropriated and released only upon the actual organization of the courts and the appointment of its personnel.
+
+ **Section 5.** Section 14(c) of Batas Pambansa Blg. 129, otherwise known as ""The Judiciary Reorganization Act of 1980"", as amended, as well as other provisions that may be inconsistent herewith, is hereby deemed repealed, modified and/or further amended.
+
+ **Section 6.** *Effectivity.* -This Act shall take effect fifteen (15) days after completion of its publication in the *Official Gazette* or in two (2) newspapers of general circulation.
+
+ Approved,
+
+ (Sgd) **VICENTE C. SOTTO III** President of the Senate
+
+ (Sgd) **GLORIA MACAPAGAL-ARROYO** Speaker of the House of Representatives

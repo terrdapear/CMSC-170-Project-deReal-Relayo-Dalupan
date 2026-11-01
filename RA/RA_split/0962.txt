@@ -1,0 +1,153 @@
+repacts:datasets/markdown/repacts/1965/ra_4252_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4252_1965.md	ra_4252_1965	REPUBLIC ACT No. 4252	"**REPUBLIC ACT No. 4252**
+
+ AN ACT TO REPEAL SECTION ONE HUNDRED FORTY-FIVE, CHAPTER FOURTEEN OF THE CODE OF MINDANAO AND SULU
+
+ **Section 1.** Section one hundred forty-five, Chapter Fourteen, of the Code of Mindanao and Sulu is hereby repealed.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1965
+"	success	Republic Act	An act to repeal Section 145, Chapter 14 of the Code of Mindanao and Sulu.	"[{""title"": ""Section 1"", ""summary"": ""Repeal of Section 145, Chapter 14 of the Code of Mindanao and Sulu.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	4252	June 19, 1965			To repeal Section 145, Chapter 14 of the Code of Mindanao and Sulu.	"[""Repeal of Section 145, Chapter 14 of the Code of Mindanao and Sulu."", ""Effectivity upon approval.""]"	Section 145, Chapter 14 of the Code of Mindanao and Sulu.	"[""Repeal"", ""Code of Mindanao and Sulu"", ""Republic Act""]"	"[""repeal"", ""Code of Mindanao and Sulu"", ""Act 4252""]"
+repacts:datasets/markdown/repacts/1965/ra_4253_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4253_1965.md	ra_4253_1965	An Act Changing the Names of Mascarina Barrio School and Villa Gomez Barrio School in the Municipality of Quezon, Province of Quezon, to Pedro Cabangon Barrio School and Ulpiano Camacho Barrio School, Respectively	"**REPUBLIC ACT No. 4253**
+
+ An Act Changing the Names of Mascarina Barrio School and Villa Gomez Barrio School in the Municipality of Quezon, Province of Quezon, to Pedro Cabangon Barrio School and Ulpiano Camacho Barrio School, Respectively
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The names of Mascarina Barrio School and Villa Gomez Barrio School in the Municipality of Quezon, Province of Quezon, are hereby changed to Pedro Cabangon Barrio School and Ulpiano Camacho Barrio School, respectively.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1965.
+"	success	Act	This act changes the names of Mascarina Barrio School and Villa Gomez Barrio School in Quezon, Quezon Province to Pedro Cabangon Barrio School and Ulpiano Camacho Barrio School, respectively.	"[{""title"": ""Section 1."", ""summary"": ""The names of Mascarina Barrio School and Villa Gomez Barrio School in the Municipality of Quezon, Province of Quezon, are hereby changed to Pedro Cabangon Barrio School and Ulpiano Camacho Barrio School, respectively.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	4253	June 19, 1965			To rename two barrio schools in Quezon, Quezon Province.	"[""Names of Mascarina Barrio School and Villa Gomez Barrio School changed to Pedro Cabangon Barrio School and Ulpiano Camacho Barrio School, respectively.""]"		"[""Education"", ""School"", ""Renaming"", ""Quezon Province""]"	"[""Mascarina Barrio School"", ""Villa Gomez Barrio School"", ""Pedro Cabangon Barrio School"", ""Ulpiano Camacho Barrio School"", ""Quezon"", ""Philippines""]"
+repacts:datasets/markdown/repacts/1965/ra_4254_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4254_1965.md	ra_4254_1965	An Act Providing for the Establishment of an Emergency Hospital in the Municipality of Sta. Lucia, Province of Ilocos Sur, to be Known as the Sta. Lucia Emergency Hospital, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 4254**
+
+ An Act Providing for the Establishment of an Emergency Hospital in the Municipality of Sta. Lucia, Province of Ilocos Sur, to be Known as the Sta. Lucia Emergency Hospital, and Authorizing the Appropriation of Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the direct supervision of the Director of Medical Services, an emergency hospital in the Municipality of Sta. Lucia, Province of Ilocos Sur, to be known as the Sta. Lucia Emergency Hospital.
+
+ **Section 2.** The sum of two hundred fifty thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital during the fiscal year nineteen hundred sixty-six, including the purchase of the site and the construction of buildings thereof. Thereafter, such sum as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1965.
+"	success	Republic Act	An act establishing the Sta. Lucia Emergency Hospital and authorizing appropriation of funds for its establishment, operation, and maintenance.	"[{""title"": ""Section 1"", ""summary"": ""Establishes the Sta. Lucia Emergency Hospital under the supervision of the Director of Medical Services.""}, {""title"": ""Section 2"", ""summary"": ""Appropriates \u20b1250,000 for the establishment, operation, and maintenance of the hospital, and provides for additional funding in future appropriations.""}, {""title"": ""Section 3"", ""summary"": ""The act takes effect upon its approval.""}]"	4254	June 19, 1965			To establish a local emergency hospital and allocate necessary funds for its operation in Sta. Lucia, Ilocos Sur.	"[""Establishment of Sta. Lucia Emergency Hospital"", ""Appropriation of \u20b1250,000 for hospital establishment and operation"", ""Inclusion of future operational funds in the General Appropriations Act"", ""Act takes effect upon approval""]"		"[""Healthcare"", ""Hospital"", ""Emergency"", ""Ilocos Sur"", ""Funding""]"	"[""Sta. Lucia Emergency Hospital"", ""appropriation"", ""National Treasury"", ""General Appropriations Act"", ""Ilocos Sur"", ""Municipality""]"
+repacts:datasets/markdown/repacts/1965/ra_4255_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4255_1965.md	ra_4255_1965	An Act Providing for the Establishment of an Emergency Hospital in the Municipality of Lubao, Province of Pampanga, to be Known as the Lubao Emergency Hospital, and Appropriating Funds Therefor	"**REPUBLIC ACT No. 4255**
+
+ An Act Providing for the Establishment of an Emergency Hospital in the Municipality of Lubao, Province of Pampanga, to be Known as the Lubao Emergency Hospital, and Appropriating Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established under the direct supervision of the Director of Medical Services, an emergency hospital in the Municipality of Lubao, Province of Pampanga, to be known as the Lubao Emergency Hospital. The site for the said hospital shall be provided by the municipal council of the said municipality in consultation with the Director of Medical Services.
+
+ **Section 2.** The sum of two hundred thousand pesos is hereby appropriated out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital during the fiscal year nineteen hundred sixty-six. Such sums as may be necessary for its operation and maintenance in subsequent years shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1965.
+"	success	Republic Act	Establishes the Lubao Emergency Hospital and appropriates initial funding for its establishment, operation, and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""Establishes the Lubao Emergency Hospital under the direct supervision of the Director of Medical Services, with the site provided by the municipal council in consultation with the Director.""}, {""title"": ""Section 2."", ""summary"": ""Appropriates two hundred thousand pesos from the National Treasury for the hospital's establishment, operation, and maintenance during fiscal year 1966, with provisions for future years.""}, {""title"": ""Section 3."", ""summary"": ""The Act becomes effective upon approval.""}]"	4255	June 19, 1965			To establish an emergency hospital in Lubao and allocate funds for its operation and maintenance.	"[""Establishment of Lubao Emergency Hospital"", ""Appropriation of 200,000 pesos for 1966 fiscal year"", ""Effective upon approval""]"		"[""Health"", ""Emergency Hospital"", ""Pampanga""]"	"[""Emergency Hospital"", ""Lubao"", ""Pampanga"", ""funding"", ""National Treasury""]"
+repacts:datasets/markdown/repacts/1965/ra_4256_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4256_1965.md	ra_4256_1965	An Act Creating the Barrio of New Canipo in the Municipality of Taytay, Province of Palawan	"**REPUBLIC ACT No. 4256**
+
+ An Act Creating the Barrio of New Canipo in the Municipality of Taytay, Province of Palawan
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Capalpalan in the Municipality of Taytay, Province of Palawan, is hereby converted into a barrio of said municipality to be known as Barrio New Canipo.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1965.
+"	success	Republic Act	This act converts the sitio of Capalpalan into the barrio of New Canipo in Taytay, Palawan, taking effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Converts the sitio of Capalpalan into the barrio New Canipo.""}, {""title"": ""Section 2"", ""summary"": ""The act takes effect upon its approval.""}]"	4256	June 19, 1965			Establishment of a new barrio in the municipality of Taytay, Palawan.	"[""Conversion of Capalpalan from sitio to barrio."", ""Effectiveness upon approval.""]"			"[""Barrio"", ""New Canipo"", ""Taytay"", ""Palawan"", ""Capalpalan"", ""Sitio"", ""Conversion""]"
+repacts:datasets/markdown/repacts/1965/ra_4257_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4257_1965.md	ra_4257_1965	An Act Providing for the Establishment of a Maternity and Childrens Hospital in the Municipality of Narvacan, Province of Ilocos Sur, to be Known as the Narvacan Maternity and Childrens Hospital, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 4257**
+
+ An Act Providing for the Establishment of a Maternity and Childrens Hospital in the Municipality of Narvacan, Province of Ilocos Sur, to be Known as the Narvacan Maternity and Childrens Hospital, and Authorizing the Appropriation of Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the direct supervision of the Director of Medical Services, a maternity and childrens hospital in the Municipality of Narvacan, Province of Ilocos Sur, to be known as the Narvacan Maternity and Childrens Hospital.
+
+ **Section 2.** The sum of two hundred fifty thousand pesos is hereby authorized to be appropriated out of any funds of the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital during the fiscal year nineteen hundred sixty-six. Such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1965.
+"	success	Republic Act	Establishes the Narvacan Maternity and Childrens Hospital and authorizes the appropriation of 250,000 pesos for its establishment, operation, and maintenance, effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Establishment of the Narvacan Maternity and Childrens Hospital under the supervision of the Director of Medical Services.""}, {""title"": ""Section 2"", ""summary"": ""Authorization of the appropriation of 250,000 pesos for the establishment, operation, and maintenance of the hospital.""}, {""title"": ""Section 3"", ""summary"": ""Effectivity of the Act upon its approval.""}]"	4257	June 19, 1965			To establish a maternity and childrens hospital in Narvacan, Ilocos Sur and authorize the appropriation of funds for its operation and maintenance.	"[""Establishment of Narvacan Maternity and Childrens Hospital"", ""Authorization of appropriation of 250,000 pesos for establishment, operation and maintenance"", ""Effectivity upon approval""]"		"[""healthcare"", ""hospital"", ""maternity"", ""Ilocos Sur"", ""public health""]"	"[""maternity"", ""childrens hospital"", ""Narvacan"", ""Ilocos Sur"", ""appropriation"", ""healthcare""]"
+repacts:datasets/markdown/repacts/1965/ra_4258_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4258_1965.md	ra_4258_1965	An Act Establishing a Marine Fisheries Demonstration Station in the Second District of Ilocos Sur and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 4258**
+
+ An Act Establishing a Marine Fisheries Demonstration Station in the Second District of Ilocos Sur and Authorizing the Appropriation of Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established and maintained under the supervision of the Fisheries Commission a marine fisheries demonstration station in any suitable site in the Second District of Ilocos Sur.
+
+ **Section 2.** The sum of three hundred fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, to carry into effect the purposes of this Act during the fiscal year ending June thirtieth, nineteen hundred and sixty-six. Thereafter, the necessary amount for the purpose shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1965.
+"	success	Republic Act	This act establishes a marine fisheries demonstration station in the Second District of Ilocos Sur and authorizes the appropriation of 350,000 pesos for its operation, effective upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Establishes and maintains a marine fisheries demonstration station under the supervision of the Fisheries Commission at a suitable site in the Second District of Ilocos Sur.""}, {""title"": ""Section 2."", ""summary"": ""Authorizes the appropriation of 350,000 pesos from the National Treasury for the station\u2019s operation during the fiscal year ending June 30, 1966, with subsequent amounts to be included in the annual General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""The act shall take effect upon its approval.""}]"	4258	June 19, 1965			To establish a marine fisheries demonstration station in Ilocos Sur and authorize appropriation of funds for its operation.	"[""Establishment of a marine fisheries demonstration station"", ""Authorization of 350,000 pesos appropriation"", ""Effective upon approval""]"		"[""Marine Fisheries"", ""Ilocos Sur"", ""Appropriation""]"	"[""marine fisheries"", ""demonstration station"", ""Ilocos Sur"", ""appropriation"", ""National Treasury""]"
+repacts:datasets/markdown/repacts/1965/ra_4259_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4259_1965.md	ra_4259_1965	An Act Changing the Name of Panalawan Elementary School in the Municipal District of Bubong, Province of Lanao del Sur, to Mariga Alonto Elementary School	"**REPUBLIC ACT No. 4259**
+
+ An Act Changing the Name of Panalawan Elementary School in the Municipal District of Bubong, Province of Lanao del Sur, to Mariga Alonto Elementary School
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Panalawan Elementary School in the Municipal District of Bubong, Province of Lanao del Sur, is changed to Mariga Alonto Elementary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1965.
+"	success	Education	Republic Act No. 4259 changes the name of Panalawan Elementary School in Bubong, Lanao del Sur to Mariga Alonto Elementary School, effective upon approval.	"[{""title"": ""Section 1."", ""summary"": ""The name of the Panalawan Elementary School in the Municipal District of Bubong, Province of Lanao del Sur, is changed to Mariga Alonto Elementary School.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	4259	June 19, 1965			Change the name of a public elementary school to honor a local figure.	"[""Name change of Panalawan Elementary School to Mariga Alonto Elementary School."", ""Act takes effect upon approval.""]"		"[""Education"", ""School"", ""Name change"", ""Philippines"", ""Lanao del Sur""]"	"[""Panalawan Elementary School"", ""Mariga Alonto Elementary School"", ""Bubong"", ""Lanao del Sur"", ""Republic Act"", ""School name change""]"
+repacts:datasets/markdown/repacts/1965/ra_4260_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4260_1965.md	ra_4260_1965	An Act to Change the Name of Lake Lanao in the Province of Lanao del Sur, to Lake Sultan Alonto	"**REPUBLIC ACT No. 4260**
+
+ An Act to Change the Name of Lake Lanao in the Province of Lanao del Sur, to Lake Sultan Alonto
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Lake Lanao in the Province of Lanao del Sur is changed to Lake Sultan Alonto.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1965.
+"	success	Republic Act	This act changes the name of Lake Lanao in Lanao del Sur to Lake Sultan Alonto and establishes its effective date upon approval.	"[{""title"": ""Section 1."", ""summary"": ""The name of Lake Lanao in the Province of Lanao del Sur is changed to Lake Sultan Alonto.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	4260	June 19, 1965			To change the name of Lake Lanao to Lake Sultan Alonto.	"[""The name of Lake Lanao in Lanao del Sur is changed to Lake Sultan Alonto."", ""The Act shall take effect upon its approval.""]"			
+repacts:datasets/markdown/repacts/1965/ra_4261_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4261_1965.md	ra_4261_1965	An Act Increasing the Salary of the Clerk of the Municipal Court in the City of Cotabato, by Amending Section Seventy-Seven of Republic Act Numbered Twenty-Three Hundred Sixty-Four	"**REPUBLIC ACT No. 4261**
+
+ An Act Increasing the Salary of the Clerk of the Municipal Court in the City of Cotabato, by Amending Section Seventy-Seven of Republic Act Numbered Twenty-Three Hundred Sixty-Four
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section seventy-seven of Republic Act Numbered Twenty-three hundred sixty-four is hereby amended to read as follows:
+
+ > ""Sec. 77. *Clerk and employees of the municipal court.* There shall be a clerk of the municipal court who shall be appointed by the municipal judge in accordance with Civil Service Law, rules and regulations, and who shall receive compensation, to be fixed by ordinance approved by the Secretary of Justice, at not exceeding five thousand one hundred pesos per annum. He shall keep the seal of the court and affix it to all orders, judgments, certificates, records, and the other documents issued by the court. He shall keep a docket of the trials in the court, in which he shall record in a summary manner the names of the parties and the various proceedings in civil cases, and in criminal cases, the name of the defendant, the charge against him, the names of the witnesses, the date of the arrest, the appearance of the defendant, together with the fines and costs adjudged or collected in accordance with the judgment. He shall have the power to administer oath. The clerk of the municipal court shall at the same time be sheriff of the city and shall as such have the same powers and duties conferred by existing law to provincial sheriffs. The municipal board may provide for such number of clerks in the office of the clerk of the municipal court as the needs of the service may demand.""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1965.
+"	success	Republic Act	This act increases the salary of the clerk of the municipal court in Cotabato and amends Section 77 of Republic Act 2364 to set a maximum annual compensation of five thousand one hundred pesos.	"[{""title"": ""Section 1."", ""summary"": ""Amends Section 77 of RA 2364 to specify that the clerk of the municipal court shall receive a maximum compensation of P5,100 per annum, be appointed by the municipal judge, and perform duties including maintaining the court seal, docket, and performing sheriff duties.""}, {""title"": ""Section 2."", ""summary"": ""The act shall take effect upon its approval.""}]"	4261	June 19, 1965			To increase the salary of the municipal court clerk in Cotabato and amend the existing law regarding clerk duties.	"[""Amendment of Section 77 of RA 2364"", ""Maximum annual salary of P5,100 for clerk"", ""Clerk appointed by municipal judge"", ""Clerk performs sheriff duties"", ""Act takes effect upon approval""]"	Republic Act No. 2364, Section 77	"[""Salary"", ""Municipal Court"", ""Clerk"", ""Amendment"", ""Republic Act""]"	"[""salary increase"", ""municipal court clerk"", ""Cotabato"", ""Republic Act 2364""]"
+repacts:datasets/markdown/repacts/1965/ra_4262_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4262_1965.md	ra_4262_1965	An Act Authorizing the Isabela School of Arts and Trades to Offer Teacher Education Curricula Leading to the Degree of Bachelor of Science in Industrial Education and the Degree of Bachelor of Science in Industrial Arts, and to Offer Evening Classes in Such Courses and in Trade and Industrial Education, and Authorizing the Appropriation of Funds for the Purpose	"**REPUBLIC ACT No. 4262**
+
+ An Act Authorizing the Isabela School of Arts and Trades to Offer Teacher Education Curricula Leading to the Degree of Bachelor of Science in Industrial Education and the Degree of Bachelor of Science in Industrial Arts, and to Offer Evening Classes in Such Courses and in Trade and Industrial Education, and Authorizing the Appropriation of Funds for the Purpose
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The Isabela School of Arts and Trades, situated in the Province of Isabela, is hereby authorized to offer teacher education curricula leading to the degree of Bachelor of Science in Industrial Education and the degree of Bachelor of Science in Industrial Arts. Evening classes shall be offered in such courses and in trade and industrial education.
+
+ **Section 2.** The sum of three hundred fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of the curricula during the fiscal year nineteen hundred sixty-five to nineteen hundred sixty-six. Thereafter, the necessary funds for the purpose shall be included in the appropriations provided for the Bureau of Vocational Education in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1965.
+"	success	Republic Act	Authorizes the Isabela School of Arts and Trades to offer teacher education curricula and evening classes, and appropriates funds for its operation.	"[{""title"": ""Section 1"", ""summary"": ""Authorizes the Isabela School of Arts and Trades to offer teacher education curricula leading to the B.Sc. in Industrial Education and B.Sc. in Industrial Arts, and to provide evening classes in these courses and in trade and industrial education.""}, {""title"": ""Section 2"", ""summary"": ""Appropriates 350,000 pesos for operation and maintenance of the curricula during FY1965-1966, with subsequent funds included in the Bureau of Vocational Education appropriations.""}, {""title"": ""Section 3"", ""summary"": ""The act takes effect upon approval.""}]"	4262	June 19, 1965	"[{""name"": ""Senate of the Philippines"", ""title"": ""Legislature""}, {""name"": ""House of Representatives of the Philippines"", ""title"": ""Legislature""}]"		To authorize the Isabela School of Arts and Trades to offer teacher education curricula and evening classes, and to appropriate funds for its operation.	"[""Authorizes the Isabela School of Arts and Trades to offer teacher education curricula leading to B.Sc. in Industrial Education and B.Sc. in Industrial Arts."", ""Authorizes evening classes in such courses and in trade and industrial education."", ""Appropriates 350,000 pesos for operation and maintenance during FY1965-1966."", ""Funds thereafter to be included in the Bureau of Vocational Education appropriations.""]"		"[""Education"", ""Vocational"", ""Appropriation"", ""Isabela"", ""Industrial Education"", ""Teacher Education""]"	"[""Isabela School of Arts and Trades"", ""Bachelor of Science"", ""Industrial Education"", ""Industrial Arts"", ""Evening Classes"", ""Appropriation"", ""National Treasury"", ""Bureau of Vocational Education"", ""General Appropriations Act"", ""1965""]"
+repacts:datasets/markdown/repacts/1965/ra_4263_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4263_1965.md	ra_4263_1965	REPUBLIC ACT No. 4263 – An Act Granting the Consolidated Mills, Inc. a Temporary Permit to Construct, Maintain and Operate Private Fixed Point-to-Point and Land-Based and Land Mobile Radio Stations for the Reception and Transmission of Radio Communications Within the Philippines	"**REPUBLIC ACT No. 4263**
+
+ An Act Granting the Consolidated Mills, Inc. a Temporary Permit to Construct, Maintain and Operate Private Fixed Point-to-Point and Land-Based and Land Mobile Radio Stations for the Reception and Transmission of Radio Communications Within the Philippines
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There is hereby granted to the Consolidated Mills, Inc., its successors or assigns, a temporary permit to construct, maintain and operate in the City of Manila and at such places in the Philippines as the said company may select, subject to the approval of the Secretary of Public Works and Communications, private fixed point-to-point and land-based and the land mobile radio stations for the reception and transmission of wireless messages on radiotelegraphy or radiotelephony, each station to be provided with a transmitting apparatus and radio receiving apparatus.
+
+ **Section 2.** This temporary permit shall continue to be in force during the time that the Government has not established a similar service at the places selected by the grantee, but not exceeding twenty-five years, and is granted upon the express condition that the same shall be void unless the construction or installation of said stations be begun within two years from the approval of this Act.
+
+ **Section 3.** The grantee, its successors or assigns, shall not engage in domestic business of telecommunications in the Philippines without further special assent of the Congress of the Philippines, it being understood that the purpose of this temporary permit is to secure to the grantee the right to construct, install, operate and maintain private fixed point-to-point and land-based and land mobile radio stations in such places within the Philippines as the interest of the trade and business of the grantee may justify.

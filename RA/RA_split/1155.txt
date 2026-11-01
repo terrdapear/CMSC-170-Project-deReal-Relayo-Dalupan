@@ -1,0 +1,183 @@
+repacts:datasets/markdown/repacts/1967/ra_5016_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_5016_1967.md	ra_5016_1967	An Act Establishing an Animal Breeding Station in the Municipality of Monkayo, Province of Davao, to be Known as Monkayo Animal Breeding Station, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 5016**
+
+ An Act Establishing an Animal Breeding Station in the Municipality of Monkayo, Province of Davao, to be Known as Monkayo Animal Breeding Station, and Authorizing the Appropriation of Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There is hereby established, under the supervision of the Director of Animal Industry, an animal breeding station in the Municipality of Monkayo, Province of Davao, to be known as Monkayo Animal Breeding Station.
+
+ **Section 2.** The Director of Animal Industry shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said animal breeding station, said sum to be expended by the Director of Animal Industry subject to the approval of the Secretary of Agriculture and Natural Resources, for the purchase of breeding animals, supplies and materials; for the construction of buildings, sheds, corrals and other structures; for the salaries and wages of personnel; and for such other expenses as may be necessary to carry out the purposes of this Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Republic Act	Establishes the Monkayo Animal Breeding Station, authorizes the appropriation of 100,000 pesos for its establishment, operation, and maintenance, and outlines the authority of the Director of Animal Industry to issue regulations and manage funds.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of the Monkayo Animal Breeding Station under the supervision of the Director of Animal Industry.""}, {""title"": ""Section 2."", ""summary"": ""The Director of Animal Industry shall issue rules and regulations necessary to carry out the purpose of the Act.""}, {""title"": ""Section 3."", ""summary"": ""Authorization of 100,000 pesos for the establishment, operation, and maintenance of the station, subject to approval by the Secretary of Agriculture and Natural Resources.""}, {""title"": ""Section 4."", ""summary"": ""The Act shall take effect upon its approval.""}]"	5016	June 17, 1967			To establish an animal breeding station in Monkayo and authorize funding for its establishment, operation, and maintenance.	"[""Establishment of Monkayo Animal Breeding Station"", ""Authorization of 100,000 pesos for establishment, operation, and maintenance"", ""Director of Animal Industry to issue necessary rules and regulations"", ""Funds expended under Secretary of Agriculture and Natural Resources approval""]"		"[""Agriculture"", ""Animal Breeding"", ""Infrastructure"", ""Funding""]"	"[""Animal Breeding Station"", ""Monkayo"", ""Davao"", ""Appropriation"", ""Director of Animal Industry""]"
+repacts:datasets/markdown/repacts/1967/ra_5017_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_5017_1967.md	ra_5017_1967	An Act Establishing a School of Arts and Trades in Ozamiz City, to be Known as the Ozamiz City School of Arts and Trades, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 5017**
+
+ An Act Establishing a School of Arts and Trades in Ozamiz City, to be Known as the Ozamiz City School of Arts and Trades, and Authorizing the Appropriation of Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the supervision of the Director of Vocational Education, a school of arts and trades in Ozamiz City, to be known as Ozamiz City School of Arts and Trades.
+
+ **Section 2.** The Secretary of Education shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The sum of two hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of the said school during the fiscal year nineteen hundred sixty-seven. Thereafter, such sums as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Education	This act establishes the Ozamiz City School of Arts and Trades under the supervision of the Director of Vocational Education, authorizes the Secretary of Education to issue necessary regulations, appropriates ₱200,000 for the fiscal year 1967 with future funding to be included in the General Appropriations Act, and becomes effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Establishes a school of arts and trades in Ozamiz City, to be known as Ozamiz City School of Arts and Trades, under the supervision of the Director of Vocational Education.""}, {""title"": ""Section 2"", ""summary"": ""Mandates the Secretary of Education to issue rules and regulations necessary to carry out the purpose of the Act.""}, {""title"": ""Section 3"", ""summary"": ""Authorizes the appropriation of \u20b1200,000 from the National Treasury for the establishment, operation, and maintenance of the school during FY1967, with subsequent necessary sums to be included in the annual General Appropriations Act.""}, {""title"": ""Section 4"", ""summary"": ""States that the act shall take effect upon its approval.""}]"	REPUBLIC ACT No. 5017	June 17, 1967			To establish a school of arts and trades in Ozamiz City and provide funding for its operation.	"[""Establishment of the Ozamiz City School of Arts and Trades under the supervision of the Director of Vocational Education"", ""Authorization of the Secretary of Education to issue necessary rules and regulations"", ""Appropriation of \u20b1200,000 for FY1967 and future funding in the General Appropriations Act"", ""Effectivity upon approval""]"		"[""Education"", ""Vocational Education"", ""School"", ""Funding""]"	"[""Ozamiz City"", ""School of Arts and Trades"", ""Vocational Education"", ""Appropriation"", ""Education Act""]"
+repacts:datasets/markdown/repacts/1967/ra_5018_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_5018_1967.md	ra_5018_1967	An Act Amending Republic Act Numbered Six Hundred Eighty-Five by Transferring the Branch of the Philippine Institute of Fisheries Technology from Butuan City to Barrio Matabao, Municipality of Buenavista, Province of Agusan	"**REPUBLIC ACT No. 5018**
+
+ An Act Amending Republic Act Numbered Six Hundred Eighty-Five by Transferring the Branch of the Philippine Institute of Fisheries Technology from Butuan City to Barrio Matabao, Municipality of Buenavista, Province of Agusan
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item (b) of sub-paragraph ten, Section one of Republic Act Numbered Six hundred eighty-five is hereby amended to read as follows:
+
+ > (b) Matabao, Buenavista, Agusan ₱50,000""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Republic Act	Amends RA 685 to transfer the Philippine Institute of Fisheries Technology branch to Barrio Matabao, Buenavista, Agusan, establishing compensation of ₱50,000, and effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Amends Item (b) of sub-paragraph ten, Section one of RA 685 to read as: (b) Matabao, Buenavista, Agusan \u20b150,000.""}, {""title"": ""Section 2"", ""summary"": ""Act shall take effect upon its approval.""}]"	5018	June 17, 1967			To transfer the Branch of the Philippine Institute of Fisheries Technology from Butuan City to Barrio Matabao, Buenavista, Agusan, and provide compensation.	"[""Amendment of RA 685 to transfer the branch to Matabao, Buenavista, Agusan."", ""Establishment of compensation of \u20b150,000."", ""Act takes effect upon approval.""]"	Republic Act No. 685	"[""Amendment"", ""Fisheries"", ""Philippine Institute of Fisheries Technology"", ""Agusan"", ""Branch Transfer"", ""Compensation""]"	"[""RA 5018"", ""RA 685"", ""Philippine Institute of Fisheries Technology"", ""Matabao"", ""Buenavista"", ""Agusan"", ""Butuan City"", ""Transfer"", ""Compensation"", ""50,000 PHP""]"
+repacts:datasets/markdown/repacts/1967/ra_5019_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_5019_1967.md	ra_5019_1967	An Act Changing the Name of Lumbangan Elementary School in the Municipality of Nasugbu, Province of Batangas, to Nasugbu East Central School	"**REPUBLIC ACT No. 5019**
+
+ An Act Changing the Name of Lumbangan Elementary School in the Municipality of Nasugbu, Province of Batangas, to Nasugbu East Central School
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Lumbangan Elementary School in the Municipality of Nasugbu, Province of Batangas, is hereby changed to Nasugbu East Central School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Republic Act	This act changes the name of Lumbangan Elementary School in Nasugbu, Batangas, to Nasugbu East Central School and takes effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The name of Lumbangan Elementary School in the Municipality of Nasugbu, Province of Batangas, is hereby changed to Nasugbu East Central School.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	5019	1967-06-17			To change the name of Lumbangan Elementary School to Nasugbu East Central School.	"[""Name of Lumbangan Elementary School changed to Nasugbu East Central School"", ""Act takes effect upon approval""]"		"[""Education"", ""School Name Change"", ""Local Government""]"	"[""school name"", ""Nasugbu"", ""Batangas"", ""Lumbangan Elementary School"", ""Nasugbu East Central School""]"
+repacts:datasets/markdown/repacts/1967/ra_5020_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_5020_1967.md	ra_5020_1967	An Act Changing the Name of Nasugbu Central School in the Municipality of Nasugbu, Province of Batangas, to Nasugbu West Central School	"**REPUBLIC ACT No. 5020**
+
+ An Act Changing the Name of Nasugbu Central School in the Municipality of Nasugbu, Province of Batangas, to Nasugbu West Central School
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Nasugbu Central School in the Municipality of Nasugbu, Province of Batangas, is hereby changed to Nasugbu West Central School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Education	This act changes the name of Nasugbu Central School to Nasugbu West Central School and takes effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""The name of Nasugbu Central School is hereby changed to Nasugbu West Central School.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	REPUBLIC ACT No. 5020	June 17, 1967			To change the name of a public school.	"[""Change of name of Nasugbu Central School to Nasugbu West Central School.""]"		"[""Education"", ""School"", ""Renaming""]"	"[""Nasugbu"", ""Central School"", ""West Central School"", ""Renaming"", ""Education""]"
+repacts:datasets/markdown/repacts/1967/ra_5021_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_5021_1967.md	ra_5021_1967	An Act Establishing a Breeding Station in the Province of Iloilo, to be Known as Tigbauan Breeding Station, and Authorizing the Appropriation of the Necessary Funds Therefor	"**REPUBLIC ACT No. 5021**
+
+ An Act Establishing a Breeding Station in the Province of Iloilo, to be Known as Tigbauan Breeding Station, and Authorizing the Appropriation of the Necessary Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the direct supervision of the Director of Animal Industry, a breeding station in the Province of Iloilo, on a suitable public or private land of not less than thirty hectares which may be reserved or acquired for the purpose. It shall be known as Tigbauan Breeding Station.
+
+ **Section 2.** The sum of one hundred thousand pesos is hereby authorized to be appropriated, out of the funds of the National Treasury not otherwise appropriated, said sum to be expended by the Director of Animal Industry, subject to the approval of the Secretary of Agriculture and Natural Resources, for the purchase of breeding animals, supplies and materials; for the construction of buildings, a water system, sheds, corrals and other structures; salaries and wages; and for other expenses needed to carry out the purposes of this Act for the fiscal year nineteen hundred and sixty-seven. Thereafter, the necessary sums for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Republic Act	This Act establishes the Tigbauan Breeding Station in the Province of Iloilo and authorizes the appropriation of necessary funds for its construction, operation, and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of the Tigbauan Breeding Station under the supervision of the Director of Animal Industry on a suitable land of at least thirty hectares.""}, {""title"": ""Section 2."", ""summary"": ""Authorization of an appropriation of one hundred thousand pesos for construction, equipment, salaries, and other expenses for the fiscal year 1967, subject to approval by the Secretary of Agriculture and Natural Resources.""}, {""title"": ""Section 3."", ""summary"": ""The Act shall take effect upon its approval.""}]"	5021	June 17, 1967			To establish a breeding station in Iloilo and provide funding for its operation.	"[""Establishment of Tigbauan Breeding Station in Iloilo."", ""Appropriation of 100,000 pesos for construction and operation."", ""Direct supervision by Director of Animal Industry."", ""Approval required from Secretary of Agriculture and Natural Resources."", ""Funding for operation and maintenance to be included in annual General Appropriations Act.""]"		"[""Agriculture"", ""Animal Industry"", ""Public Works"", ""Iloilo"", ""Breeding Station""]"	"[""breeding station"", ""Iloilo"", ""Animal Industry"", ""funds appropriation"", ""Republic Act 5021""]"
+repacts:datasets/markdown/repacts/1967/ra_5022_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_5022_1967.md	ra_5022_1967	An Act Changing the Name of Bagoñgon Elementary School in the Municipality of Concepcion, Province of Iloilo, to Narciso Centeno Elementary School	"**REPUBLIC ACT No. 5022**
+
+ An Act Changing the Name of Bagoñgon Elementary School in the Municipality of Concepcion, Province of Iloilo, to Narciso Centeno Elementary School
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Bagoñgon Elementary School in the Municipality of Concepcion, Province of Iloilo, is hereby changed to Narciso Centeno Elementary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Republic Act	This act changes the name of Bagoñgon Elementary School to Narciso Centeno Elementary School.	"[{""title"": ""Section 1."", ""summary"": ""The name of the Bago\u00f1gon Elementary School in the Municipality of Concepcion, Province of Iloilo, is hereby changed to Narciso Centeno Elementary School.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	5022	June 17, 1967			To change the name of Bagoñgon Elementary School to Narciso Centeno Elementary School.	"[""Name change of Bago\u00f1gon Elementary School to Narciso Centeno Elementary School""]"		"[""Education"", ""School Name Change""]"	"[""Bago\u00f1gon Elementary School"", ""Narciso Centeno Elementary School"", ""Iloilo"", ""Concepcion""]"
+repacts:datasets/markdown/repacts/1967/ra_5023_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_5023_1967.md	ra_5023_1967	An Act Authorizing the Appropriation of Three Hundred Fifty Thousand Pesos for the Operation and Maintenance of the Bataan National School of Arts and Trades, Amending for the Purpose Section Two of Republic Act Numbered Nine Hundred Three	"**REPUBLIC ACT No. 5023**
+
+ An Act Authorizing the Appropriation of Three Hundred Fifty Thousand Pesos for the Operation and Maintenance of the Bataan National School of Arts and Trades, Amending for the Purpose Section Two of Republic Act Numbered Nine Hundred Three
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section two of Republic Act Numbered Nine hundred three is hereby amended to read as follows:
+
+ > ""Sec. 2. The sum of three hundred fifty thousand pesos for the operation and maintenance of the Bataan National School of Arts and Trades is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated. Thereafter, the necessary sum for said purpose shall be included in the annual General Appropriations Act.""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Republic Act	An act that appropriates 350,000 pesos for the operation and maintenance of the Bataan National School of Arts and Trades and amends Section 2 of Republic Act No. 903.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 2 of Republic Act No. 903 to authorize appropriation of 350,000 pesos for the operation and maintenance of the Bataan National School of Arts and Trades.""}, {""title"": ""Section 2"", ""summary"": ""The act takes effect upon its approval.""}]"	5023	June 17, 1967			To appropriate funds for the operation and maintenance of the Bataan National School of Arts and Trades.	"[""Appropriation of 350,000 pesos for the Bataan National School of Arts and Trades"", ""Amendment to Section 2 of Republic Act No. 903""]"	Republic Act No. 903, Section 2	"[""appropriation"", ""education"", ""Bataan"", ""Bataan National School of Arts and Trades"", ""Republic Act 5023""]"	"[""Bataan National School of Arts and Trades"", ""appropriation"", ""350,000 pesos"", ""RA 903"", ""RA 5023"", ""operation and maintenance""]"
+repacts:datasets/markdown/repacts/1967/ra_5024_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_5024_1967.md	ra_5024_1967	An Act Authorizing the Appropriation of Fifty Thousand Pesos for the Improvement of Argao Breeding Station in the Municipality of Argao, Province of Cebu	"**REPUBLIC ACT No. 5024**
+
+ An Act Authorizing the Appropriation of Fifty Thousand Pesos for the Improvement of Argao Breeding Station in the Municipality of Argao, Province of Cebu
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sum of fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the improvement of Argao Breeding Station in the Municipality of Argao, Province of Cebu.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Republic Act	Appropriates 50,000 pesos for the improvement of the Argao Breeding Station in Cebu.	"[{""title"": ""Section 1"", ""summary"": ""Authorizes the appropriation of fifty thousand pesos for the improvement of the Argao Breeding Station.""}, {""title"": ""Section 2"", ""summary"": ""The act takes effect upon its approval.""}]"	5024	June 17, 1967			Provide financial resources for the improvement of an agricultural breeding station.	"[""Appropriation of fifty thousand pesos for improvement of Argao Breeding Station"", ""Act effective upon approval""]"		"[""Appropriation"", ""Agriculture"", ""Breeding Station"", ""Cebu"", ""Republic Act""]"	"[""Fifty Thousand Pesos"", ""Argao Breeding Station"", ""Cebu"", ""Appropriation"", ""Improvement"", ""June 1967""]"
+repacts:datasets/markdown/repacts/1967/ra_5025_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_5025_1967.md	ra_5025_1967	REPUBLIC ACT No. 5025	"**REPUBLIC ACT No. 5025**
+
+ An Act Amending Item (52), Page 20, Subparagraph 5, for the Province of Antique, Paragraph (c), Title A, Section Two, of Republic Act Numbered Twenty Three Hundred and One
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item (52), Page 20, Subparagraph 5, for the Province of Antique, Paragraph (c), Title A, Section two of Republic Act Numbered Twenty-three hundred and one is hereby amended to read as follows:
+
+ > ""(52) San Francisco Elementary School Home Economics Building, Aniniy ₱5,000.00""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Republic Act	This act amends Item (52) of Republic Act No. 231 to add a new building for San Francisco Elementary School in Antique.	"[{""title"": ""Section 1"", ""summary"": ""Amendment of Item (52) to read: (52) San Francisco Elementary School Home Economics Building, Aniniy \u20b15,000.00""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	5025	June 17, 1967			To amend a specific item in a previous Republic Act for the Province of Antique.	"[""(52) San Francisco Elementary School Home Economics Building, Aniniy \u20b15,000.00"", ""Act becomes effective upon approval.""]"	Republic Act No. 231	"[""Amendment"", ""Education"", ""Antique"", ""Republic Act""]"	"[""Republic Act"", ""Item 52"", ""Antique"", ""San Francisco Elementary School"", ""Home Economics Building"", ""Amendment""]"
+repacts:datasets/markdown/repacts/1967/ra_5026_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_5026_1967.md	ra_5026_1967	An Act Changing the Name of Salangan Elementary School in the Municipality of San Miguel, Province of Bulacan, into Mababang Paaralang Pang-Alaala Kay Dr. Juan Pascual	"**REPUBLIC ACT No. 5026**
+
+ An Act Changing the Name of Salangan Elementary School in the Municipality of San Miguel, Province of Bulacan, into Mababang Paaralang Pang-Alaala Kay Dr. Juan Pascual
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Salangan Elementary School in Barrio Salangan, Municipality of San Miguel, Province of Bulacan, is hereby changed into Mababang Paaralang Pang-alaala kay Dr. Juan Pascual.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Republic Act	This act changes the name of Salangan Elementary School in San Miguel, Bulacan, to Mababang Paaralang Pang-Alaala Kay Dr. Juan Pascual and takes effect upon its approval.	"[{""title"": ""Section 1"", ""summary"": ""The name of Salangan Elementary School in Barrio Salangan, Municipality of San Miguel, Province of Bulacan is hereby changed into Mababang Paaralang Pang-Alaala Kay Dr. Juan Pascual.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	5026	June 17, 1967			To rename Salangan Elementary School in San Miguel, Bulacan to honor Dr. Juan Pascual.	"[""Name of school changed to Mababang Paaralang Pang-Alaala Kay Dr. Juan Pascual."", ""Act shall take effect upon approval.""]"		"[""Education"", ""Renaming"", ""School"", ""Bulacan""]"	"[""school renaming"", ""Bulacan"", ""Dr. Juan Pascual"", ""Republic Act 5026""]"
+repacts:datasets/markdown/repacts/1967/ra_5027_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_5027_1967.md	ra_5027_1967	An Act Changing the Name of Northern Padada Elementary School in the Barrio of Guihing, Municipality of Hagonoy, Province of Davao, to Guihing Elementary School	"**REPUBLIC ACT No. 5027**
+
+ An Act Changing the Name of Northern Padada Elementary School in the Barrio of Guihing, Municipality of Hagonoy, Province of Davao, to Guihing Elementary School
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Northern Padada Elementary School in the barrio of Guihing. Municipality of Hagonoy, Province of Davao, is hereby changed to Guihing Elementary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Education	This act changes the name of Northern Padada Elementary School to Guihing Elementary School.	"[{""title"": ""Section 1."", ""summary"": ""The name of Northern Padada Elementary School in the barrio of Guihing, Municipality of Hagonoy, Province of Davao, is hereby changed to Guihing Elementary School.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	REPUBLIC ACT No. 5027	June 17, 1967			To rename the school from Northern Padada Elementary School to Guihing Elementary School.	"[""Change of school name to Guihing Elementary School."", ""Act takes effect upon approval.""]"		"[""Education"", ""School Renaming""]"	"[""school name change"", ""Northern Padada Elementary School"", ""Guihing Elementary School"", ""Davao""]"
+repacts:datasets/markdown/repacts/1967/ra_5028_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_5028_1967.md	ra_5028_1967	An Act Changing the Name of Central School Annex in the Municipality of Oroquieta, Province of Misamis Occidental, to Layawan Elementary School	"**REPUBLIC ACT No. 5028**
+
+ An Act Changing the Name of Central School Annex in the Municipality of Oroquieta, Province of Misamis Occidental, to Layawan Elementary School
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Central School Annex in the Municipality of Oroquieta, Province of Misamis Occidental, is hereby changed to and shall hereafter be known as Layawan Elementary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Republic Act	This act changes the name of Central School Annex in Oroquieta, Misamis Occidental, to Layawan Elementary School and becomes effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The name of Central School Annex in Oroquieta, Misamis Occidental, is changed to Layawan Elementary School.""}, {""title"": ""Section 2"", ""summary"": ""This act shall take effect upon its approval.""}]"	5028	June 17, 1967			Change the name of Central School Annex to Layawan Elementary School.	"[""Name of Central School Annex changed to Layawan Elementary School.""]"		"[""name change"", ""school"", ""local government""]"	"[""Central School Annex"", ""Oroquieta"", ""Misamis Occidental"", ""Layawan Elementary School"", ""Republic Act""]"
+repacts:datasets/markdown/repacts/1967/ra_5029_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_5029_1967.md	ra_5029_1967	An Act Changing the Name of Calabasa Elementary School in the Municipality of Labo, Province of Camarines Norte, to Paaralang Bayan ng Eugenio Dasco, Sr.	"**REPUBLIC ACT No. 5029**
+
+ An Act Changing the Name of Calabasa Elementary School in the Municipality of Labo, Province of Camarines Norte, to Paaralang Bayan ng Eugenio Dasco, Sr.
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Calabasa Elementary School in the Municipality of Labo, Province of Camarines Norte, is hereby changed to Paaralang Bayan ng Eugenio Dasco Sr.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.

@@ -1,0 +1,163 @@
+repacts:datasets/markdown/repacts/1994/ra_7808_1994.md	repacts	1994		datasets/markdown/repacts/1994/ra_7808_1994.md	ra_7808_1994	"AN ACT RESETTING THE ELECTIONS OF SANGGUNIANG KABATAAN OFFICIALS TO THE FIRST MONDAY OF MAY 1996, AND EVERY THREE (3) YEARS THEREAFTER, AMENDING FOR THE PURPOSE SECTION 532 (A) OF REPUBLIC ACT NO. 7160, OTHERWISE KNOWN AS THE ""LOCAL GOVERNEMENT CODE OF 1991"""	"Republic of the Philippines Congress of the Philippines Third Regular Session
+
+ **[ REPUBLIC ACT NO. 7808, September 02, 1994 ]**
+
+ AN ACT RESETTING THE ELECTIONS OF SANGGUNIANG KABATAAN OFFICIALS TO THE FIRST MONDAY OF MAY 1996, AND EVERY THREE (3) YEARS THEREAFTER, AMENDING FOR THE PURPOSE SECTION 532 (A) OF REPUBLIC ACT NO. 7160, OTHERWISE KNOWN AS THE ""LOCAL GOVERNEMENT CODE OF 1991""
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Section 532 (a) of Republic Act No. 7160, otherwise known as the Local Government Code of 1991, is hereby amended to read as follows:
+
+ > ""Section 532.*Elections for the Sangguniang Kabataan.* - ""(a) The first elections for the sangguniang kabataan to be conducted under this Code shall be held thirty (30) days after the next local elections: *Provided,* That the succeeding regular elections for the sangguniang kabataan shall be held on the first Monday of May 1996: *Provided, further,* That the succeeding regular elections for the sangguniang kabataan shall be held every three (3) years thereafter:*Provided, finally,*That the national, special metropolitan, provincial, city and municipal federations of the sangguniang kabataan shall conduct the election of their respective officers thirty (30) days after the May 1996 sangguniang kabataan elections on dates to be scheduled by the Commission on Elections.
+>
+>  ""The conduct of the sangguniang kabataan elections shall be under supervision of the Commission on Elections.
+>
+>  ""The Omnibus Election Code shall govern the elections of the sangguniang kabataan.""
+
+ **Section 2.** All laws, decrees, orders or administrative rules and regulations or any part thereof which may be inconsistent with the provisions of this Act are hereby repealed, amended or modified accordingly.
+
+ **Section 3.** This Act shall take effect immediately after its publications in at least two (2) national newspapers of general circulation.
+
+ Approved, September 2, 1994.
+"	success	Republic Act	Amends Section 532(a) of RA 7160 to set Sangguniang Kabataan elections to the first Monday of May 1996 and every three years thereafter, with supervision by COMELEC and governance under the Omnibus Election Code.	"[{""title"": ""Section 1."", ""summary"": ""Amendment to Section 532(a) of RA 7160 specifying the first Sangguniang Kabataan elections to be held 30 days after the next local elections, subsequent elections on the first Monday of May 1996, and thereafter every three years, with local federations conducting elections 30 days after the national election and supervision by COMELEC.""}, {""title"": ""Section 2."", ""summary"": ""All laws, decrees, orders or administrative rules inconsistent with this Act are repealed, amended or modified accordingly.""}, {""title"": ""Section 3."", ""summary"": ""Act takes effect immediately after publication in at least two national newspapers.""}]"	REPUBLIC ACT NO. 7808	September 02, 1994			Resetting the elections of Sangguniang Kabataan officials to the first Monday of May 1996 and every three years thereafter.	"[""Elections for Sangguniang Kabataan to be held on the first Monday of May 1996 and every three years thereafter."", ""Elections supervised by the Commission on Elections."", ""The Omnibus Election Code shall govern the elections of the Sangguniang Kabataan.""]"	Section 532 (a) of Republic Act No. 7160	"[""Sangguniang Kabataan"", ""Election"", ""Local Government Code"", ""RA 7808"", ""Philippines""]"	"[""Sangguniang Kabataan"", ""Election"", ""Local Government Code"", ""RA 7808"", ""Philippines""]"
+repacts:datasets/markdown/repacts/1994/ra_7809_1994.md	repacts	1994		datasets/markdown/repacts/1994/ra_7809_1994.md	ra_7809_1994	"AN ACT DECLARING SEPTEMBER 14 OF EVERY YEAR AS A SPECIAL NONWORKING HOLIDAY IN THE MUNICIPALITY OF SANCHEZ MIRA, PROVINCE OF CAGAYAN, TO BE KNOWN AS ""ALDAW TI SANCHEZ MIRA"""	"Republic of the Philippines Congress of the Philippines Third Regular Session
+
+ **[ REPUBLIC ACT NO. 7809, September 16, 1994 ]**
+
+ AN ACT DECLARING SEPTEMBER 14 OF EVERY YEAR AS A SPECIAL NONWORKING HOLIDAY IN THE MUNICIPALITY OF SANCHEZ MIRA, PROVINCE OF CAGAYAN, TO BE KNOWN AS ""ALDAW TI SANCHEZ MIRA""
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Municipality of Sanchez Mira, Province of Cagayan, was founded on September 14, 1892 by the Spanish Governor General and the members of the Catholic hierarchy assigned thereat.
+
+ **Section 2.** September 14 of every year is hereby declared as a special nonworking holiday in the Municipality of Sanchez Mira, Province of Cagayan, to be known as ""Aldaw ti Sanchez Mira.""
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Lapsed into law on September 16, 1994 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.
+"	success	Republic Act	"The act declares September 14 of every year as a special nonworking holiday in the Municipality of Sanchez Mira, Province of Cagayan, to be known as ""Aldaw ti Sanchez Mira""."	"[{""title"": ""Section 1."", ""summary"": ""The Municipality of Sanchez Mira, Province of Cagayan, was founded on September 14, 1892 by the Spanish Governor General and the members of the Catholic hierarchy assigned thereat.""}, {""title"": ""Section 2."", ""summary"": ""September 14 of every year is hereby declared as a special nonworking holiday in the Municipality of Sanchez Mira, Province of Cagayan, to be known as \""Aldaw ti Sanchez Mira.\""""}, {""title"": ""Section 3."", ""summary"": ""This Act shall take effect upon its approval.""}]"	7809	September 16, 1994			"To declare September 14 of every year as a special nonworking holiday in the Municipality of Sanchez Mira, Province of Cagayan, under the name ""Aldaw ti Sanchez Mira""."	"[""September 14 of every year is declared a special nonworking holiday in Sanchez Mira, Province of Cagayan, known as \""Aldaw ti Sanchez Mira\""."", ""The Act takes effect upon approval.""]"		"[""holiday"", ""nonworking holiday"", ""municipality"", ""Sanchez Mira"", ""Cagayan""]"	"[""September 14"", ""special nonworking holiday"", ""Aldaw ti Sanchez Mira"", ""Republic Act 7809""]"
+repacts:datasets/markdown/repacts/1994/ra_7810_1994.md	repacts	1994		datasets/markdown/repacts/1994/ra_7810_1994.md	ra_7810_1994	An Act Establishing a Municipal Hospital in Barangay Mangogon, Municipality of Lagonoy, Province of Camarines Sur, to be known as the Mangogon, Lagonoy Municipal Hospital, and Appropriating Funds Therefor	"Republic of the Philippines Congress of the Philippines Third Regular Session
+
+ **[ REPUBLIC ACT NO. 7810, September 26, 1994 ]**
+
+ AN ACT ESTABLISHING A MUNICIPAL HOSPITAL IN BARANGAY MANGOGON, MUNICIPALITY OF LAGONOY, PROVINCE OF CAMARINES SUR, TO BE KNOWN AS THE MANGOGON, LAGONOY MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established a municipal hospital in Barangay Mangogon, Municipality of Lagonoy, Province of Camarines Sur, to be known as the Mangogon, Lagonoy Municipal Hospital.
+
+ **Section 2.** The Department of Health, in consultation and coordination with local government officials concerned, shall promulgate the necessary rules and regulations for the effective implementation of this Act.
+
+ **Section 3.** The amount necessary for the establishment of the hospital shall be included in the General Appropriations Act of the year following the enactment of this Act into Law. Thereafter, such funds necessary for its maintenance and operation shall be provided in accordance with the provisions of the Local Government Code.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Lapsed into law on September 26, 1994 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.
+"	success	Republic Act	The act establishes a municipal hospital in Barangay Mangogon, Lagonoy, Camarines Sur, names it Mangogon, Lagonoy Municipal Hospital, and appropriates funds for its establishment and operation.	"[{""title"": ""Section 1"", ""summary"": ""A municipal hospital will be established in Barangay Mangogon, Lagonoy, Camarines Sur, named Mangogon, Lagonoy Municipal Hospital.""}, {""title"": ""Section 2"", ""summary"": ""The Department of Health, with local officials, will promulgate rules and regulations for implementing the Act.""}, {""title"": ""Section 3"", ""summary"": ""The necessary amount for establishing the hospital will be included in the General Appropriations Act of the following year, and maintenance funds will be provided in accordance with the Local Government Code.""}, {""title"": ""Section 4"", ""summary"": ""The Act takes effect upon approval.""}]"	Republic Act No. 7810	September 26, 1994			To establish a municipal hospital in Barangay Mangogon and appropriate funds for its creation and operation.	"[""Establishment of a municipal hospital in Barangay Mangogon, Lagonoy, Camarines Sur"", ""Department of Health to promulgate rules and regulations for implementation"", ""Funding for establishment included in the General Appropriations Act of the following year, maintenance funds per Local Government Code"", ""Act takes effect upon approval""]"		"[""Healthcare"", ""Local Government"", ""Hospital""]"	"[""municipal hospital"", ""Mangogon"", ""Lagonoy"", ""Camarines Sur"", ""Republic Act"", ""funding"", ""Department of Health"", ""General Appropriations Act"", ""Local Government Code""]"
+repacts:datasets/markdown/repacts/1994/ra_7811_1994.md	repacts	1994		datasets/markdown/repacts/1994/ra_7811_1994.md	ra_7811_1994	AN ACT ESTABLISHING A PUBLIC SECONDARY SCHOOL IN THE MUNICIPALITY OF MILAOR, PROVINCE OF CAMARINES SUR, TO BE KNOWN AS THE SAN ANTONIO NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"Republic of the Philippines Congress of the Philippines Third Regular Session
+
+ **[ REPUBLIC ACT NO. 7811, October 26, 1994 ]**
+
+ AN ACT ESTABLISHING A PUBLIC SECONDARY SCHOOL IN THE MUNICIPALITY OF MILAOR, PROVINCE OF CAMARINES SUR, TO BE KNOWN AS THE SAN ANTONIO NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established a public secondary school in Barangay San Antonio in the Municipality of Milaor, Province of Camarines Sur, to be known as the San Antonio National High School under the supervision of the Department of Education, Culture and Sports.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 3.** This Act shall take effect immediately upon its approval.
+
+ Approved, October 26, 1994.
+"	success	Education	This act establishes a public secondary school, San Antonio National High School, in Barangay San Antonio, Municipality of Milaor, Camarines Sur, and appropriates funds for its operation.	"[{""title"": ""Section 1"", ""summary"": ""Establishment of San Antonio National High School under the supervision of the Department of Education, Culture and Sports.""}, {""title"": ""Section 2"", ""summary"": ""Funds necessary for the act are to be included in the General Appropriations Act of the following year.""}, {""title"": ""Section 3"", ""summary"": ""The act takes effect immediately upon approval.""}]"	7811	October 26, 1994			To establish a public secondary school in Milaor, Camarines Sur and allocate funds for its establishment and operation.	"[""Establishment of San Antonio National High School"", ""Appropriation of funds through the General Appropriations Act"", ""Immediate effect of the act""]"		"[""Education"", ""Public School"", ""Camarines Sur"", ""San Antonio National High School""]"	"[""public secondary school"", ""Milaor"", ""Camarines Sur"", ""San Antonio"", ""funds appropriation""]"
+repacts:datasets/markdown/repacts/1994/ra_7812_1994.md	repacts	1994		datasets/markdown/repacts/1994/ra_7812_1994.md	ra_7812_1994	Republic Act No. 7812, October 26, 1994	"Republic of the Philippines Congress of the Philippines Third Regular Session
+
+ **[ REPUBLIC ACT NO. 7812, October 26, 1994 ]**
+
+ AN ACT CONVERTING THE ROSARIO BARANGAY HIGH SCHOOL IN ROSARIO, ALOGUINSAN, CEBU, INTO A NATIONAL HIGH SCHOOL TO BE KNOWN AS THE ROSARIO NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The barangay high school of Barangay Rosario in the Municipality of Aloguinsan, Cebu, is hereby converted into a national high school to be known as Rosario National High School.
+
+ **Section 2.** Upon organization of Rosario National High School, all assets, liabilities, personnel, equipment and records of Rosario Barangay High School shall be transferred to the Rosario National High School.
+
+ **Section 3.** The Secretary of Education, Culture and Sports is hereby empowered to promulgate such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 4.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 5.** This Act shall take effect upon its approval.
+
+ Approved, October 26, 1994
+"	success	Education	An act converting the Rosario Barangay High School in Rosario, Aologuinsan, Cebu, into Rosario National High School and appropriating funds for its establishment and operation.	"[{""title"": ""Section 1"", ""summary"": ""Conversion of Rosario Barangay High School into Rosario National High School.""}, {""title"": ""Section 2"", ""summary"": ""Transfer of all assets, liabilities, personnel, equipment, and records from the former barangay high school to the new national high school.""}, {""title"": ""Section 3"", ""summary"": ""Empowerment of the Secretary of Education, Culture and Sports to promulgate necessary rules and regulations.""}, {""title"": ""Section 4"", ""summary"": ""Funding for the act to be included in the General Appropriations Act of the following year.""}, {""title"": ""Section 5"", ""summary"": ""Act takes effect upon its approval.""}]"	7812	October 26, 1994			To convert a barangay high school into a national high school and provide necessary funding and regulatory framework.	"[""Conversion of Rosario Barangay High School to national high school"", ""Transfer of assets, liabilities, personnel, equipment and records"", ""Secretary of Education empowered to promulgate rules and regulations"", ""Funding to be included in General Appropriations Act"", ""Act takes effect upon approval""]"		"[""Education"", ""Republic Act"", ""1994"", ""Aloguinsan"", ""Cebu"", ""National High School""]"	"[""Rosario"", ""Barangay High School"", ""National High School"", ""Education"", ""Reconversion"", ""Funding"", ""Cebu"", ""Aloguinsan""]"
+repacts:datasets/markdown/repacts/1994/ra_7813_1994.md	repacts	1994		datasets/markdown/repacts/1994/ra_7813_1994.md	ra_7813_1994	AN ACT ESTABLISHING THE PANSOL NATIONAL HIGH SCHOOL IN BARANGAY PANSOL, MUNICIPALITY OF PADRE GARCIA, PROVINCE OF BATANGAS, AND APPROPRIATING FUNDS THEREFOR	"Republic of the Philippines Congress of the Philippines Third Regular Session
+
+ **[ REPUBLIC ACT NO. 7813, October 26, 1994 ]**
+
+ AN ACT ESTABLISHING THE PANSOL NATIONAL HIGH SCHOOL IN BARANGAY PANSOL, MUNICIPALITY OF PADRE GARCIA, PROVINCE OF BATANGAS, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Pansol National High School in the Municipality of Padre Garcia, Province of Batangas, is hereby established.
+
+ **Section 2.** The Department of Education, Culture and Sports shall take the necessary steps for the immediate implementation of this Act.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect fifteen (15) days after its publication in Filipino and English in at least two (2) newspapers of general circulation.
+
+ Approved, October 26, 1994.
+"	success	Republic Act	This act establishes Pansol National High School in Padre Garcia, Batangas and appropriates funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""The Pansol National High School in the Municipality of Padre Garcia, Province of Batangas, is hereby established.""}, {""title"": ""Section 2."", ""summary"": ""The Department of Education, Culture and Sports shall take the necessary steps for the immediate implementation of this Act.""}, {""title"": ""Section 3."", ""summary"": ""The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.""}, {""title"": ""Section 4."", ""summary"": ""This Act shall take effect fifteen (15) days after its publication in Filipino and English in at least two (2) newspapers of general circulation.""}]"	7813	October 26, 1994			Establish a national high school in Pansol, Padre Garcia, Batangas and appropriate funds for its operation.	"[""Establishment of Pansol National High School"", ""Department of Education to implement the act"", ""Funding to be included in the General Appropriations Act"", ""Effectivity after publication in newspapers""]"		"[""Education"", ""Public School"", ""Local Government"", ""Batangas"", ""Republic Act""]"	"[""Pansol National High School"", ""Padre Garcia"", ""Batangas"", ""Education"", ""Funding"", ""Republic Act 7813""]"
+repacts:datasets/markdown/repacts/1994/ra_7814_1994.md	repacts	1994		datasets/markdown/repacts/1994/ra_7814_1994.md	ra_7814_1994	AN ACT CONVERTING THE CARURAY BARANGAY HIGH SCHOOL IN BARANGAY CARURAY, MUNICIPALITY OF SAN VICENTE, PROVINCE OF PALAWAN, INTO THE CARURAY NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"Republic of the Philippines Congress of the Philippines Third Regular Session
+
+ **[ REPUBLIC ACT NO. 7814, October 26, 1994 ]**
+
+ AN ACT CONVERTING THE CARURAY BARANGAY HIGH SCHOOL IN BARANGAY CARURAY, MUNICIPALITY OF SAN VICENTE, PROVINCE OF PALAWAN, INTO THE CARURAY NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The existing barangay high school of Barangay Caruray, Municipality of San Vicente, Province of Palawan, is hereby converted into a national high school under the supervision of the Department of Education, Culture and Sports.
+
+ **Section 2.** The Department of Education, Culture and Sports shall promulgate the necessary rules and regulations for the effective implementation of this Act.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved, October 26, 1994.
+"	success	Republic Act	This act converts the existing Barangay Caruray High School into Caruray National High School under the supervision of the Department of Education, Culture and Sports, and appropriates funds for its operation.	"[{""title"": ""Section 1"", ""summary"": ""The existing Barangay Caruray High School is converted into a national high school under the supervision of the Department of Education, Culture and Sports.""}, {""title"": ""Section 2"", ""summary"": ""The Department of Education, Culture and Sports shall promulgate necessary rules and regulations for effective implementation.""}, {""title"": ""Section 3"", ""summary"": ""The necessary amount shall be included in the General Appropriations Act of the following year.""}, {""title"": ""Section 4"", ""summary"": ""The act shall take effect upon approval.""}]"	7814	October 26, 1994			To convert Barangay Caruray High School into a national high school and provide appropriations for its operation.	"[""Conversion of Barangay Caruray High School to national high school"", ""Department of Education, Culture and Sports to issue rules and regulations"", ""Appropriation of funds in the General Appropriations Act""]"		"[""Education"", ""High School"", ""National School"", ""Philippines""]"	"[""Caruray"", ""San Vicente"", ""Palawan"", ""Department of Education"", ""General Appropriations Act""]"
+repacts:datasets/markdown/repacts/1994/ra_7815_1994.md	repacts	1994		datasets/markdown/repacts/1994/ra_7815_1994.md	ra_7815_1994	An Act Converting the Camatagan National High School Annex at the Poblacion of Sabangan, Municipality of Sabangan, Mountain Province, into an Independent National High School to be Known as the Sabangan National High School, and Appropriating Funds Therefor	"Republic of the Philippines Congress of the Philippines Third Regular Session
+
+ **[ REPUBLIC ACT NO. 7815, October 29, 1994 ]**
+
+ AN ACT CONVERTING THE CAMATAGAN NATIONAL HIGH SCHOOL ANNEX AT THE POBLACION OF SABANGAN, MUNICIPALITY OF SABANGAN, MOUNTAIN PROVINCE, INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS THE SABANGAN NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Camatagan National High School Annex at the poblacion of the Municipality of Sabangan, Mountain Province, is hereby separated from the Camatagan National High School in the Municipality of Sabangan, Mountain Province, and converted into an independent national high school to be known as the Sabangan National High School.
+
+ **Section 2.** The Secretary of Education, Culture and Sports shall issue such orders, rules and circulars as may be necessary for the implementation of this Act.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved, October 29, 1994.
+"	success	Education	This law converts the Camatagan National High School Annex into an independent national high school, establishes Sabangan National High School, and appropriates funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""Separates Camatagan National High School Annex from Camatagan National High School and converts it into Sabangan National High School.""}, {""title"": ""Section 2."", ""summary"": ""Secretary of Education, Culture and Sports shall issue necessary orders, rules, and circulars for implementation.""}, {""title"": ""Section 3."", ""summary"": ""Funds required to carry out provisions are to be included in the General Appropriations Act of the following year.""}, {""title"": ""Section 4."", ""summary"": ""Act takes effect upon its approval.""}]"	RA 7815	October 29, 1994			To convert the Camatagan National High School Annex into an independent national high school and ensure appropriate funding for its operation.	"[""Conversion of the Camatagan National High School Annex into Sabangan National High School"", ""Secretary of Education to issue orders, rules, and circulars for implementation"", ""Funds to be included in the General Appropriations Act the following year"", ""Act takes effect upon approval""]"		"[""Education"", ""High School"", ""School Conversion"", ""Mountain Province""]"	"[""Camatagan National High School"", ""Sabangan"", ""Mountain Province"", ""National High School"", ""Appropriation"", ""Secretary of Education""]"
+repacts:datasets/markdown/repacts/1994/ra_7816_1994.md	repacts	1994		datasets/markdown/repacts/1994/ra_7816_1994.md	ra_7816_1994	An Act granting the Manila Broadcasting Company a franchise to construct, install, operate and maintain radio and television broadcasting stations within the Philippines, and for other purposes	"Republic of the Philippines Congress of the Philippines Third Regular Session
+
+ **[ REPUBLIC ACT NO. 7816, October 29, 1994 ]**
+
+ AN ACT GRANTING THE MANILA BROADCASTING COMPANY A FRANCHISE TO CONSTRUCT, INSTALL, OPERATE AND MAINTAIN RADIO AND TELEVISION BROADCASTING STATIONS WITHIN THE PHILIPPINES, AND FOR OTHER PURPOSES
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** *Nature and Scope of Franchise.*- Subject to the provisions of the Constitution and applicable laws, rules and regulations, there is hereby granted to the Manila Broadcasting Company, hereunder referred to as the grantee, its successors or assigns, a franchise to construct, install, operate and maintain for commercial purposes and in the public interest radio and television broadcasting stations in the Philippines with the corresponding technological auxiliaries or facilities, special broadcast and other broadcast distribution services and relay stations, and to construct, install, operate and maintain communication facilities for the grantee's private use in its broadcast services.
+
+ **Section 2.** *Manner of Operation of Stations or Facilities.*- The existing and future stations or facilities of the grantee shall be constructed and operated in a manner as will at most result only in the minimum interference on the wavelengths or frequencies of the other existing stations or stations which may be established by law without in any way diminishing its own right to use its selected wavelengths or frequencies and the quality of transmission or reception thereon as should maximize rendition of the grantee's services and/or the availability thereof.
+
+ **Section 3.** *Prior Approval of the National Telecommunications Commission.* - The grantee shall secure from the National Telecommunications Commission the appropriate permits and licenses for its stations and shall not use any frequency in the radio and television spectrum without having been authorized by the Commission. The Commission, however, shall not unreasonably withhold or delay the grant of any such authority.
+
+ **Section 4.***Responsibility to the Public.*- The grantee shall provide reasonable public service time to enable the government, through the said broadcasting stations, to reach the population on important public issues; provide at all times sound and balanced programming; promote public participation such as in community programming; assist in the functions of public information and education; conform to the ethics of honest enterprise; and not use its stations for the broadcasting of obscene and indecent language, speech, act or scene, or for the dissemination of deliberately false information or willful misrepresentation to the detriment of the public interest, or to incite, encourage, or assist in subversive or treasonable acts.
+
+ **Section 5.***Right of Government.*- A special right is hereby reserved to the President of the Philippines in times of rebellion, public peril, calamity, emergency, disaster or disturbance of peace and order, to temporarily take over and operate the stations of the grantee, to temporarily suspend the operation of any station in the interest of public safety, security and public welfare, or to authorize the temporary use and operation thereof by any agency of the government, upon due compensation to the grantee, for the use of said stations during the period when they shall be so operated.

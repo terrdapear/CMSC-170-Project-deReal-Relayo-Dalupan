@@ -1,0 +1,150 @@
+repacts:datasets/markdown/repacts/1957/ra_1626_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1626_1957.md	ra_1626_1957	An Act Creating the Municipality of Matag-ob in the Province of Leyte	"**REPUBLIC ACT No. 1626**
+
+ **An Act Amending Appendix A, Project No. B-412.72, Page 826, Republic Act Numbered Sixteen Hundred and Thirteen, Entitled ""An Act Appropriating Funds for Public Works""**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Appendix A, Project No. B-412.72, page eight hundred twenty-six-A of Republic Act Numbered Sixteen hundred and thirteen, is hereby amended by merely deleting the words ""Perez Boulevard"" to read as follows:
+
+ | ""Pantal Bridge, Dagupan City | ₱300,000.00"" |
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	This act establishes the Municipality of Matag-ob by separating specified barrios from the Municipality of Palompon, Leyte, and outlines the appointment of its first local officials and the effective date of the act.	"[{""title"": ""Section 1."", ""summary"": ""Separates the barrios of Santo Rosario, Santa Rosa, Balagtas, San Vicente, and Mabini from Palompon to form the new Municipality of Matag-ob.""}, {""title"": ""Section 2."", ""summary"": ""Provides that the first mayor, vice\u2011mayor, and councilors of the new municipality shall be appointed by the President of the Philippines and serve until successors are elected.""}, {""title"": ""Section 3."", ""summary"": ""Specifies that the act shall take effect upon its approval.""}]"	1614	May 20, 1957			To create the Municipality of Matag-ob in the Province of Leyte.	"[""Creation of the Municipality of Matag-ob"", ""Separation of specified barrios from Palompon"", ""Appointment of first mayor, vice\u2011mayor and councilors by the President"", ""Act takes effect upon approval""]"		"[""Municipality creation"", ""Leyte"", ""Local Government""]"	"[""Matag-ob"", ""Municipality"", ""Leyte"", ""Republic Act"", ""Local Government""]"
+repacts:datasets/markdown/repacts/1957/ra_1627_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1627_1957.md	ra_1627_1957	An Act Appropriating the Sum of Fifteen Million Pesos to Defray the Expenses of the National Government in Connection With, and Incidental to, the Holding of the National Elections to be Held on the Second Tuesday of November, Nineteen Hundred and Fifty-Seven	"**REPUBLIC ACT No. 1627**
+
+ **An Act Changing the Name of the Municipality of Bauguen, Province of Ilocos Sur, to Salcedo**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Municipality of Bauguen, Province of Ilocos Sur, is hereby changed to Salcedo.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success		This act appropriates 15 million pesos for the payment of expenses related to the national elections scheduled for November 1957, including allowances for election inspectors. The appropriation is subject to COA approval and remains available until June 1958.	"[{""title"": ""Section 1."", ""summary"": ""Appropriates 15 million pesos from the National Treasury for election expenses, allows payment of inspection allowances, and provides that unspent funds may cover prior years\u2019 election obligations.""}, {""title"": ""Section 2."", ""summary"": ""The act takes effect upon its approval.""}]"	1615	May 20, 1957			To appropriate funds for the expenses of the national elections held in November 1957.	"[""Appropriates 15,000,000 pesos for election expenses."", ""Provides allowances for election inspectors at 5 pesos per day."", ""Unexpended balance may be used for prior years\u2019 obligations."", ""Act takes effect upon approval.""]"		"[""appropriation"", ""elections"", ""budget""]"	"[""appropriation"", ""election"", ""budget"", ""Philippines"", ""National Treasury""]"
+repacts:datasets/markdown/repacts/1957/ra_1628_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1628_1957.md	ra_1628_1957	An Act Further Amending Section Twelve of Commonwealth Act Numbered One Hundred Eighty-Six, as Amended, by Prescribing Two Other Modes of Retirement and for Other Purposes	"**REPUBLIC ACT No. 1628**
+
+ **An Act Changing the Name of the Naujan Farm School in the Municipality of Naujan, Province of Oriental Mindoro, to Mariano P. Leuterio Memorial School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Naujan Farm School in the Municipality of Naujan, Province of Oriental Mindoro, is changed to Mariano P. Leuterio Memorial School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	RA 1616 amends Section 12 of Commonwealth Act 186 to provide additional retirement modes, annuity and gratuity benefits, commutation of unused leave, and changes paragraph numbering.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 12 of Commonwealth Act No. 186 by adding paragraphs (b) and (c) providing retirement after 30 or 20 years, with annuity and gratuity benefits.""}, {""title"": ""Section 2"", ""summary"": ""Provides commutation of unused vacation and sick leave for employees receiving gratuity under this act.""}, {""title"": ""Section 3"", ""summary"": ""Alters paragraph numbering in Section 12 of Commonwealth Act No. 186, changing paragraphs b, c, d, e to d, e, f, g respectively.""}, {""title"": ""Section 4"", ""summary"": ""Specifies that the act takes effect upon approval.""}]"	1616	May 31, 1957			To further amend Section 12 of Commonwealth Act No. 186 by prescribing two other modes of retirement and for other purposes.	"[""Adds new paragraphs (b) and (c) to Section 12 allowing retirement after 30 or 20 years of service."", ""Specifies annuity calculation methods and gratuity limits."", ""Provides commutation of unused vacation and sick leave for retirees."", ""Changes paragraph numbering in Section 12 from b, c, d, e to d, e, f, g.""]"	Commonwealth Act No. 186	"[""retirement"", ""annuity"", ""gratuity"", ""Commonwealth Act 186"", ""RA 1616""]"	"[""retirement benefits"", ""annuity"", ""gratuity"", ""vacation leave"", ""sick leave"", ""Commonwealth Act 186""]"
+repacts:datasets/markdown/repacts/1957/ra_1629_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1629_1957.md	ra_1629_1957	An Act to Create Five Hundred Positions of Letter-Carrier for Post Offices Still Without Letter-Carrier and Provide Funds for the Salaries Therefor	"**REPUBLIC ACT No. 1629**
+
+ **An Act to Establish, Maintain and Operate a School of Nursing in the Quezon Memorial Hospital in the Municipality of Lucena, Province of Quezon, and to Authorize the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established a School of Nursing in the Quezon Memorial Hospital in the Municipality of Lucena, Province of Quezon. The establishment, maintenance and operation of said school of nursing shall be under the control and management of the Director of the said Quezon Memorial Hospital, subject to the executive supervision of the Director of the Bureau of Hospitals.
+
+ **Section 2.** The sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, maintenance and operation of the school of nursing under this Act, which shall be disbursed by the Director of the Quezon Memorial Hospital in Lucena, Quezon, subject to the approval of the Director of the Bureau of Hospitals.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	The act establishes 500 letter-carrier positions for post offices lacking carriers, allocates funds for their salaries, and authorizes the use of savings pending appropriated funds.	"[{""title"": ""Section 1"", ""summary"": ""Created five hundred letter-carrier positions with a salary of 1,440 pesos per annum, priority to municipalities lacking carriers.""}, {""title"": ""Section 2"", ""summary"": ""Appropriated 720,000 pesos for the purpose of the act.""}, {""title"": ""Section 3"", ""summary"": ""Authorized the Director of Posts to use savings to pay salaries pending fund availability.""}, {""title"": ""Section 4"", ""summary"": ""Act takes effect upon approval.""}]"	1617	June 3, 1957			To establish positions of letter-carriers for post offices lacking them and allocate funds for their salaries.	"[""Creation of 500 letter-carrier positions"", ""Allocation of 720,000 pesos for salaries"", ""Authorization of Director of Posts to use savings"", ""Effectivity upon approval""]"		"[""Postal Service"", ""Labor"", ""Public Service"", ""Philippines""]"	"[""letter-carrier"", ""post office"", ""salary"", ""funding"", ""Bureau of Posts"", ""Republic Act 1617""]"
+repacts:datasets/markdown/repacts/1957/ra_1630_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1630_1957.md	ra_1630_1957	"An Act to Amend Republic Act Numbered Four Hundred and Two, Entitled ""An Act Granting the Clavecilla Radio System a Franchise to Establish Radio Stations for Broadcasting, Telecommunications and Television"""	"**REPUBLIC ACT No. 1630**
+
+ **An Act Changing the Name of the Municipality of Magallon in the Province of Negros Occidental to Municipality of Moises Padilla**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The Municipality of Magallon in the Province of Negros Occidental is hereby renamed Municipality of Moises Padilla.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	Republic Act No. 1618 amends RA 402 to grant the Clavecilla Radio System a franchise for constructing, maintaining, and operating radio and telecommunications stations in the Philippines, subject to specific conditions and government oversight.	"[{""title"": ""Section 1"", ""summary"": ""Amends RA 402 to grant the Clavecilla Radio System a franchise to construct, maintain, and operate radio stations for broadcasting, telecommunications, and television, subject to approval by the Secretary of Public Works and Communications.""}, {""title"": ""Section 2"", ""summary"": ""Sets a 50\u2011year term for the franchise, with a condition that construction of at least one international telecommunication station commence within six months of approval and be completed within two years.""}, {""title"": ""Section 3"", ""summary"": ""Reserves the right for the government to take over and operate the stations in times of war, insurrection, or domestic trouble, with compensation to the grantee.""}, {""title"": ""Section 4"", ""summary"": ""Corrects the title of the Secretary to \""Secretary of Public Works and Communications\"" in all sections.""}, {""title"": ""Section 5"", ""summary"": ""The act takes effect upon its approval.""}]"	1618	June 4, 1957			To amend RA 402, granting a franchise to the Clavecilla Radio System for radio and telecommunications operations under defined conditions and government oversight.	"[""Grant of franchise to Clavecilla Radio System"", ""50\u2011year term with construction condition"", ""Government right of takeover during emergencies"", ""Correction of Secretary title"", ""Effectivity upon approval""]"	Republic Act No. 402	"[""radio"", ""telecommunications"", ""franchise"", ""amendment"", ""public works""]"	"[""Clavecilla"", ""franchise"", ""telecommunications"", ""broadcasting"", ""television"", ""public works"", ""communications""]"
+repacts:datasets/markdown/repacts/1957/ra_1631_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1631_1957.md	ra_1631_1957	An Act to Make Thirty-Eight Years the Maximum Age Limit of Candidates for Foreign Service Examinations, by Amending Republic Act Numbered Seven Hundred Eight	"**REPUBLIC ACT No. 1631**
+
+ **An Act Increasing to Two Hundred the Number of Letter Carriers in the City of Manila and Granting Them an Allowance of One Peso Per Day**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be in the City of Manila two hundred letter carriers who shall each be paid an allowance of one peso per day.
+
+ **Section 2.** There is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, the sum of ninety thousand pesos, or so much thereof as may be necessary, to carry out the provisions of this Act. Such sums as thereafter may be needed for the same purpose shall be included in the annual General Appropriation Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	Amends RA 708 to extend the maximum age limit for foreign service examinations to 38 years, with additional provisions for eligibility and qualifications of candidates.	"[{""title"": ""Section 1"", ""summary"": ""Amends subsection (b) of RA 708 to set the age range for candidates to 23-38 years, provides for eligibility of prior exam passers and experienced officers, and specifies citizenship and marital restrictions.""}, {""title"": ""Section 2"", ""summary"": ""States that the act shall take effect upon its approval.""}]"	1619	June 4, 1957			To adjust the age limits for foreign service exam candidates and clarify the qualifications and eligibility criteria for the examination.	"[""Maximum age limit of 38 years for foreign service exam candidates"", ""Eligibility for candidates aged 23-38 who are physically fit and qualified by academic or practical experience"", ""Prior exam passers within the age limit are considered eligible"", ""Officers holding a responsible position for at least two years prior to examination are eligible regardless of age limit"", ""Only Filipino citizens may take the examinations"", ""Married to an alien requires written consent from the Secretary of Foreign Affairs""]"	Republic Act No. 708 (Foreign Service Act of the Philippines)	"[""Foreign Service"", ""Age Limit"", ""Examination""]"	"[""Foreign Service Act"", ""age limit"", ""exam eligibility"", ""Philippines"", ""Republic Act 1619""]"
+repacts:datasets/markdown/repacts/1957/ra_1632_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1632_1957.md	ra_1632_1957	An Act Creating the Municipality of Naawan, Province of Misamis Oriental	"**REPUBLIC ACT No. 1632**
+
+ **An Act Changing the Name of Barrio Zimigui-Ziuanan, Municipality of Pamplona, Province of Cagayan, to Masi**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Barrio Zimigui-Ziuanan of the Municipality of Pamplona, Province of Cagayan, is hereby changed to Masi.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	The act creates the municipality of Naawan in Misamis Oriental by separating it from the Municipality of Initao and appoints its first officials.	"[{""title"": ""Section 1"", ""summary"": ""The barrio of Naawan is separated from the Municipality of Initao, Province of Misamis Oriental, and constituted into an independent municipality, to be known as the Municipality of Naawan, Province of Misamis Oriental.""}, {""title"": ""Section 2"", ""summary"": ""The first mayor, vice-mayor, and councilors of the new municipality shall be appointed by the President alone and shall hold office until their successors shall have been elected in the next general elections for local officials and shall have qualified.""}, {""title"": ""Section 3"", ""summary"": ""This Act shall take effect upon its approval.""}]"	RA No. 1620	June 5, 1957			To create the municipality of Naawan in Misamis Oriental.	"[""Separation of Naawan from Initao"", ""Appointment of officials by the President"", ""Effective upon approval""]"		"[""Municipality"", ""Local Government"", ""Misamis Oriental""]"	"[""Naawan"", ""Misamis Oriental"", ""Municipality"", ""Republic Act 1620""]"
+repacts:datasets/markdown/repacts/1957/ra_1633_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1633_1957.md	ra_1633_1957	An Act Creating the City of Silay	"**REPUBLIC ACT No. 1633**
+
+ **An Act to Change the Name of Gines Primary School to Martin Cubil Primary School in Cabatuan, Iloilo**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** In recognition of the meritorious services rendered by Martin Cubil to the barrio of Gines, Municipality of Cabatuan, Province of Iloilo, the name of Gines Primary School is hereby changed to Martin Cubil Primary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	Establishes the City of Silay, defining its territorial jurisdiction, corporate character, powers, and governance structure, including provisions for the mayor and vice‑mayor.	"[{""title"": ""Section 1"", ""summary"": ""Identifies the Act as the Charter of the City of Silay.""}, {""title"": ""Section 2"", ""summary"": ""Defines the territory of the City of Silay as the present jurisdiction of the municipality of Silay in Negros Occidental.""}, {""title"": ""Section 3"", ""summary"": ""Establishes the City of Silay as a political body corporate with perpetual succession and municipal powers.""}, {""title"": ""Section 4"", ""summary"": ""Provides the City with a common seal and enumerates its general powers over property, contracts, and legal actions.""}, {""title"": ""Section 5"", ""summary"": ""States that the City shall not be liable for damages arising from failures or negligence of its officers.""}, {""title"": ""Section 6"", ""summary"": ""Describes the City\u2019s jurisdiction for police purposes and water supply protection.""}, {""title"": ""Section 7"", ""summary"": ""Outlines election, qualifications, salary, and term of the Mayor.""}, {""title"": ""Section 8"", ""summary"": ""Describes the election, duties, and compensation of the Vice\u2011Mayor and succession provisions.""}, {""title"": ""Section 9"", ""summary"": ""Enumerates the general powers and duties of the Mayor over executive and administrative functions.""}]"	RA 1621				To create the City of Silay and establish its governance structure.	"[""Creation of City of Silay"", ""Definition of territory"", ""Corporate character"", ""Seal and general powers"", ""Liability limitations"", ""Jurisdiction"", ""Election and duties of Mayor"", ""Vice\u2011Mayor provisions"", ""Mayor's powers and duties""]"		"[""city charter"", ""local government"", ""Negros Occidental""]"	"[""City of Silay"", ""municipal charter"", ""mayor"", ""local governance"", ""Philippines""]"
+repacts:datasets/markdown/repacts/1957/ra_1634_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1634_1957.md	ra_1634_1957	An Act to Amend Republic Act Numbered Eleven Hundred and Sixty-Nine Providing for Charity Sweepstakes Races and Lotteries	"**REPUBLIC ACT No. 1634**
+
+ **An Act Changing the Name of the Barrio School of Capoocan in the City of Calbayog, to ""Tiburcio Tancinco Memorial School""**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The barrio school of Capoocan in the City of Calbayog, shall hereafter be known as ""Tiburcio Tancinco Memorial School,"" in honor of the late Tiburcio Tancinco, who was a Representative from the first district of the Province of Samar and later Judge of the Court of First Instance.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	This act amends Republic Act 1169 by revising Sections 2 and 5 to clarify the general manager’s appointment and horse race regulations, authorizes the Philippine Charity Sweepstakes Office to print its tickets and official lists, repeals any inconsistent existing laws, and becomes effective upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Amends Sections 2 and 5 of RA 1169 to specify the general manager\u2019s appointment, removal, and duties, and to establish rules for horse participation in sweepstakes races.""}, {""title"": ""Section 2."", ""summary"": ""Authorizes the Philippine Charity Sweepstakes Office to print its sweepstakes and lottery tickets, official lists and other printed matters, declaring the tickets as government securities.""}, {""title"": ""Section 3."", ""summary"": ""Repeals any provisions of existing laws that are inconsistent with this act.""}, {""title"": ""Section 4."", ""summary"": ""States that the act shall take effect upon its approval.""}]"	RA 1622	June 13, 1957			To amend RA 1169 concerning charity sweepstakes and lotteries, clarify management and horse race regulations, and authorize ticket printing.	"[""Amendments to RA 1169 Sections 2 and 5 regarding general manager duties and horse race regulations"", ""Authorization to print sweepstakes and lottery tickets as government securities"", ""Repeal of inconsistent provisions of existing laws"", ""Effectivity upon approval""]"	Republic Act 1169	"[""Charity Sweepstakes"", ""Lottery"", ""Amendment"", ""Government Securities""]"	"[""Republic Act 1622"", ""RA 1169"", ""Charity Sweepstakes"", ""Horse Racing"", ""Lottery"", ""Government Securities"", ""Philippines""]"
+repacts:datasets/markdown/repacts/1957/ra_1635_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1635_1957.md	ra_1635_1957	An Act Appropriating Fifteen Million Pesos Out of the Proceeds of the Sales of Bonds Authorized Under Republic Act Numbered One Thousand for the Extension of the Southern Line of the Manila Railroad Company from the Municipality of Daraga, Province of Albay, to the Municipality of Matnog, Province of Sorsogon	"**REPUBLIC ACT No. 1635**
+
+ AN ACT TO REQUIRE THE PRINTING AND ISSUE OF SEMI-POSTAL STAMPS IN ORDER TO RAISE FUNDS FOR THE PHILIPPINE TUBERCULOSIS SOCIETY.
+
+ **Section 1.** To help raise funds for the Philippine Tuberculosis Society, the Director of Posts shall order for the period from August nineteen to September thirty every year the printing and issue of semi-postal stamps of different denominations with face value showing the regular postage charge plus the additional amount of five centavos for the said purpose, and during the said period, no mail matter shall be accepted in the mails unless it bears such semi-postal stamps. The additional proceeds realized from the sale of the semi-postal stamps shall constitute a special fund and be deposited with the National Treasury to be expended by the Philippine Tuberculosis Society in carrying out its noble work to prevent and eradicate tuberculosis.
+
+ **Section 2.** The sum of twenty-four thousand pesos, or so much thereof as may be necessary, is authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, to defray the cost of printing such semi-postal stamps in the current year, which sum shall be reimbursed from the special fund above created. The sum necessary to defray the cost of printing such stamps in subsequent years shall be taken from the said special fund.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	Appropriates fifteen million pesos from bond proceeds for the extension of the Manila Railroad southern line between Daraga and Matnog.	"[{""title"": ""Section 1."", ""summary"": ""Appropriates fifteen million pesos from bond proceeds for the extension of the Manila Railroad southern line between Daraga and Matnog.""}, {""title"": ""Section 2."", ""summary"": ""The Act takes effect upon its approval.""}]"	1623	June 13, 1957			To provide funding for the extension of the Manila Railroad southern line.	"[""Appropriation of fifteen million pesos for the extension of the Manila Railroad southern line"", ""Act takes effect upon approval""]"	None	"[""Infrastructure"", ""Railroad"", ""Appropriation"", ""Funding""]"	"[""Manila Railroad"", ""Daraga"", ""Matnog"", ""Albay"", ""Sorsogon"", ""Appropriation"", ""Fifteen million pesos"", ""Railroad extension""]"
+repacts:datasets/markdown/repacts/1957/ra_1636_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1636_1957.md	ra_1636_1957	An Act to Amend Section Twenty-One, Sub-Section (c) of Commonwealth Act Numbered One by Increasing the Regular Annual Training of Reserve Officers of the Armed Forces of the Philippines from Twenty-One Days to Thirty Days, and Further Amending Section Eighty-Five of Commonwealth Act Numbered One by Making Certain Additional Classes of Persons Qualified for Assignment as Instructors in the Preparatory Military Training	"**REPUBLIC ACT No. 1636**
+
+ **An Act Changing the Name of the Maayon Barrio School in the Barrio of Maayon, Municipality of Pontevedra, Province of Capiz, to Arturo Cantiller Memorial School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Maayon Barrio School in the barrio of Maayon, Municipality of Pontevedra, Province of Capiz, is hereby changed to Arturo Cantiller Memorial School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	The act amends sections of Commonwealth Act No. 1 to increase the regular annual training of reserve officers to thirty days and expands the qualifications for instructors in the preparatory military training program.	"[{""title"": ""Section 1."", ""summary"": ""Amends Section 21(c) of Commonwealth Act No. 1 to increase regular annual training of reserve officers to thirty days and defines extended tours of active duty.""}, {""title"": ""Section 2."", ""summary"": ""Amends Section 85 of Commonwealth Act No. 1 to broaden the qualifications for instructors in the preparatory military training, including male teachers and junior reserve officers, and specifies training requirements.""}, {""title"": ""Section 3."", ""summary"": ""The act takes effect upon approval.""}]"	REPUBLIC ACT No. 1624	June 20, 1957			To increase the regular annual training period for reserve officers and expand the pool of qualified instructors for preparatory military training.	"[""Increase regular annual training of reserve officers to thirty days"", ""Broaden qualifications for instructors in preparatory military training"", ""Define extended tours of active duty"", ""Specify training requirements for junior reserve instructors""]"	Commonwealth Act Numbered One	"[""Defense"", ""Military"", ""Training"", ""Reserve Forces"", ""Legislation""]"	"[""Reserve Officers"", ""Regular Annual Training"", ""Instructors"", ""Preparatory Military Training"", ""Commonwealth Act 1"", ""Republic Act 1624""]"
+repacts:datasets/markdown/repacts/1957/ra_1637_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1637_1957.md	ra_1637_1957	AN ACT TO AMEND CERTAIN ITEMS IN REPUBLIC ACT NUMBERED FOURTEEN HUNDRED ELEVEN REGARDING PUBLIC WORKS PROJECTS FOR THE PROVINCES OF NEGROS OCCIDENTAL AND LANAO.	"**REPUBLIC ACT No. 1637**
+
+ **An Act Changing the Name of Fort Corcuera in the Municipality of Malabang, Province of Lanao, to Fort Jose Abad Santos**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Fort Corcuera in the Municipality of Malabang, Province of Lanao, is changed to Fort Jose Abad Santos.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	This Act amends specific items in Republic Act No. 411 concerning public works projects in Negros Occidental and Lanao, including cost adjustments for Silay Water works, addition of new infrastructure items in Silay, and updates to related totals and item descriptions.	"[{""title"": ""Section 1"", ""summary"": ""Amends cost figures for Project Item No. D-351.1 (Silay Water works) in RA 411, changing total estimated cost from one hundred seventy to twenty five, total for five years from one hundred fifty to five, and related figures accordingly.""}, {""title"": ""Section 2"", ""summary"": ""Adds new items (55b-e) after item 55a in paragraph g, section two of RA 411, specifying municipal building, medical center, civic and cultural center, and public market projects in Silay with respective costs.""}, {""title"": ""Section 3"", ""summary"": ""Adjusts the totals for paragraph a (Title D) of section one and paragraph g of section two of RA 411 to reflect the amendments made in Sections 1 and 2.""}, {""title"": ""Section 4"", ""summary"": ""Amends item twelve in paragraph z of section three of RA 411 to update the description and cost for Bacolod Grande Primary School Building.""}, {""title"": ""Section 5"", ""summary"": ""Specifies that the Act shall take effect upon approval.""}]"	1625	June 20, 1957			To amend specific items in Republic Act No. 411 concerning public works projects in Negros Occidental and Lanao.	"[""Change of cost figures for Silay Water works (Section 1)"", ""Addition of new infrastructure items in Silay (Section 2)"", ""Adjustment of totals for paragraphs a and g (Section 3)"", ""Amendment of item twelve in paragraph z (Section 4)"", ""Effective date provision (Section 5)""]"	Republic Act No. 411	"[""Public Works"", ""Amendment"", ""Negros Occidental"", ""Lanao"", ""Infrastructure""]"	"[""RA 411"", ""water works"", ""municipal building"", ""medical center"", ""civic center"", ""public market"", ""primary school"", ""cost adjustment""]"

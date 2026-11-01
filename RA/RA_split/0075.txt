@@ -1,0 +1,148 @@
+
+ PHILIPPINE NATIONAL BANK CIRCULATING NOTES ILLEGALLY ISSUED BY THE JAPANESE MILITARY AUTHORITIES NOT TO BE REDEEMED UNDER THIS ACT
+
+ |  | Serial Number | Amount |  |
+| --- | --- | --- | --- |
+|  | 5-peso denomination |  |  |
+| A | 1735001-A | 1775000 | P 200,000.00 |
+| A | 1855001-A | 1935000 | 400,000.00 |
+| A | 2175001-A | 2215000 | 200,000.00 |
+| B | 164001 -B | 360000 | 980,000.00 |
+| B | 400001 -B | 440000 | 200,000.00 |
+| B | 520001 -B | 1000000 | 2,400,000.00 |
+| E | 4001 -E | 208000 | 1,020,000.00 |
+|  | P 5,400,000.00 |  |  |
+|  | 10-peso denomination |  |  |
+| A | 1226001-A | 1260000 | P 340,000.00 |
+| E | 4001 -E | 102000 | 980,000.00 |
+|  | P 1,320,000.00 |  |  |
+|  | 20-peso denomination |  |  |
+| E | 40001 -E | 50000 | 200,000.00 |
+|  | 200,000,00 |  |  |
+|  | 50-peso denomination |  |  |
+| A | 90201 -A | 100000 | 490,000.00 |
+|  | 490,000.00 |  |  |
+|  | 7,410,000.00 |  |  |
+
+ **Section 2.** After the expiration of one year from the effectivity of this Act, all Philippine National Bank circulating notes whose redemption is hereby authorized and which have not been presented for redemption shall have no value whatsoever.
+
+ **Section 3.** Any pier son holding or possessing in any capacity whatsoever any Philippine National Bank circulating note which bears any of the serial numbers mentioned in section one of this Act or which shall be certified to by the Secretary of Finance as having been illegally issued, shall present them for registration and deposit to the Treasurer of the Philippines car to any provincial, city or municipal treasurer, within six months after the approval of this Act. It shall be the duty of the Treasurer of the Philippines and of all provincial, city and municipal treasurers to accept all such Philippine National Bank circulating notes illegally issued, to register and safely keep the same and to issue therefor a certificate in such form as may be devised by the Treasurer of the Philippines, staiting the name and address of the person registering said notes, the serial number thereof, their denomination, the amount of each denomination, and the total amount.
+
+ The President of the Philippines may, by executive order, grant such number of extensions of sixty days each as may be necessary provided that the total extension does not exceed six months.
+
+ **Section 4.** The provincial, city and municipal treasurers concerned shall forward to the Treasurer of the Philippines all Philippine National Bank circulating notes registered and deposited with them from time to time, together with a list showing their serial numbers, denominations and total amount. Within fifteen days from and after the lapse off the period provided for the registration and deposit of such Philippine National Bank circulating notes, provincial, city and municipal treasurers shall prepare and transmit to the Treasurer of the Philippines, in a sealed cover a list of all such Philippine National Bank circulating notes in their possession as of the last day of the registration period, and within thirty days from the date of the submittal of the list, they shall present to the Treasurer of the Philippines all Philippine National Bank circulating notes contained in said lists. Thereafter, it shall toe the duty of the Treasurer of the Philippines to submit a report to the Secretary of Finance of the total amount of each of the Philippine National Bank circulating notes illegally issued, registered and deposited as hereinbefore provided.
+
+ **Section 5.** All Philippine National Bank circulating notes illegally issued and/or certified as illegally issued not registered and deposited as hereinabove provided within the period authorized shall not thereafter be accepted for registration and deposit.
+
+ **Section 6.** The Treasurer of the Philippines, with the approval of the Secretary of Finance, is hereby authorized to issue the necessary rules and regulations to give force and effect to the provisions of this Act.
+
+ **Section 7.** Upon the completion of the registration herein required, the Treasurer of the Philippines shall submit to the President and the Congress a full report of such registration.
+
+ **Section 8.** The Philippine National Bank circulating notes referred to in this Act are those issued by the Philippine National Bank proper and does not include those issued by the Cebu Currency Committee, the Iloilo Currency Committee, the Negros Occidental Currency Committee, the Mindanao Currency Committee and other currency committees duly authorized during the period from; December eight, One thousand nine hundred forty-one to June thirty, One thousand nine hundred forty-five.
+
+ **Section 9.** All acts or parts of acts inconsistent herewith are repealed.
+
+ **Section 10.** Thus Act shall take effect upon it approval.
+
+ Approved, June 1, 1948.
+"	success	Financial Act	The act authorizes the retirement and redemption of Philippine National Bank circulating notes, both legally and illegally issued, establishes procedures for registration and deposit of illegally issued notes, appropriates funds, and sets deadlines for redemption and reporting.	"[{""title"": ""Section 1."", ""summary"": ""All legally issued PNB notes, except those illegally issued by Japanese authorities and others, must be presented for retirement within one year after the act's approval.""}, {""title"": ""Section 2."", ""summary"": ""PNB notes not redeemed within one year after effectivity lose value.""}, {""title"": ""Section 3."", ""summary"": ""Persons holding illegally issued PNB notes must register and deposit them within six months; treasurers must accept and issue certificates.""}, {""title"": ""Section 4."", ""summary"": ""Treasurer must collect lists from local treasurers and report totals to the Secretary of Finance.""}, {""title"": ""Section 5."", ""summary"": ""Illegally issued notes not registered during the authorized period cannot be accepted thereafter.""}, {""title"": ""Section 6."", ""summary"": ""Treasurer, with Secretary\u2019s approval, may issue rules to implement the act.""}, {""title"": ""Section 7."", ""summary"": ""Treasurer must submit a full report to President and Congress upon completion.""}, {""title"": ""Section 8."", ""summary"": ""Defines covered PNB notes, excluding those issued by other currency committees.""}, {""title"": ""Section 9."", ""summary"": ""Repeals acts inconsistent with this act.""}, {""title"": ""Section 10."", ""summary"": ""No additional provisions.""}]"	REPUBLIC ACT NO. 211	June 01, 1948			To retire and redeem circulating notes of the Philippine National Bank and register illegally issued notes to mitigate wartime issues.	"[""Authorizes redemption of legally issued PNB notes within one year."", ""Exempts Japanese illegally issued notes from redemption."", ""Appropriates five million pesos for redemption."", ""Mandates registration and deposit of illegally issued notes within six months."", ""Allows Treasurer to issue implementing rules."", ""Requires Treasurer to report to President and Congress."", ""Repeals inconsistent acts.""]"		"[""Finance"", ""Monetary Policy"", ""Banking"", ""Wartime"", ""Redemption""]"	"[""PNB"", ""circulating notes"", ""redemption"", ""registration"", ""treasury"", ""Japanese issuance"", ""appropriation""]"
+repacts:datasets/markdown/repacts/1948/ra_212_1948.md	repacts	1948		datasets/markdown/repacts/1948/ra_212_1948.md	ra_212_1948	An Act Creating the Barrio of San Juan in the Municipality of Mabini, Province of Batangas	"**REPUBLIC ACT No. 212**
+
+ An Act Creating the Barrio of San Juan in the Municipality of Mabini, Province of Batangas
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Nag-ilong and Lugay in the barrio of Mainaga, municipality of Mabini, Province of Batangas, are hereby segregated from the said barrio and constituted into an independent barrio to be known as the barrio of San Juan.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 1, 1948.
+"	success	Republic Act	Creates the barrio of San Juan by segregating the sitios of Nag‑ilong and Lugay from the barrio of Mainaga.	"[{""title"": ""Section 1"", ""summary"": ""Segregates the sitios of Nag\u2011ilong and Lugay from the barrio of Mainaga to constitute an independent barrio known as San Juan.""}, {""title"": ""Section 2"", ""summary"": ""The Act shall take effect upon its approval.""}]"	212	June 1, 1948			To create the barrio of San Juan in Mabini, Batangas.	"[""Segregation of the sitios of Nag\u2011ilong and Lugay from the barrio of Mainaga to form the barrio of San Juan."", ""The Act takes effect upon approval.""]"		"[""Republic Act"", ""Municipality"", ""Barrio"", ""Batangas""]"	"[""barrio"", ""San Juan"", ""Mabini"", ""Batangas"", ""Nag\u2011ilong"", ""Lugay"", ""Mainaga"", ""segregation"", ""creation""]"
+repacts:datasets/markdown/repacts/1948/ra_213_1948.md	repacts	1948		datasets/markdown/repacts/1948/ra_213_1948.md	ra_213_1948	"An Act to Amend Section One of Republic Act Numbered Sixteen Entitled ""An Act Authorizing the President of the Philippines to Obtain Such Loans or Incur Such Indebtedness with the Government of the United States, its Agencies and Instrumentalities as May be Necessary to Cover Budgetary Deficits and Other Expenditures of the Government of the Republic of the Philippines for Rehabilitation and Other Purposes, and Appropriating the Necessary Funds Therefor"""	"**REPUBLIC ACT No. 213**
+
+ An Act to Amend Section One of Republic Act Numbered Sixteen Entitled ""An Act Authorizing the President of the Philippines to Obtain Such Loans or Incur Such Indebtedness with the Government of the United States, its Agencies and Instrumentalities as May be Necessary to Cover Budgetary Deficits and Other Expenditures of the Government of the Republic of the Philippines for Rehabilitation and Other Purposes, and Appropriating the Necessary Funds Therefor""
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section one of Republic Act Numbered Sixteen is hereby amended to read as follows:
+
+ > ""Sec. 1. The President of the Philippines is hereby authorized to negotiate such loans or to incur such indebtedness not to exceed two hundred million pesos with the Government of the United States, its agencies and instrumentalities, the International Bank for Reconstruction and Development, the Export-Import Bank of the United States, or any other bank or financial institution, as may be necessary to cover expenditures of the Government of the Republic of the Philippines for rehabilitation and/or industrial development purposes including the purchase of necessary equipment or other kinds of properties from the United States under such terms and conditions as may be agreed upon.""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 1, 1948.
+"	success	Republic Act	This act amends Section One of Republic Act No. 16, authorizing the President to negotiate loans or incur indebtedness not exceeding two hundred million pesos with the United States government, the International Bank for Reconstruction and Development, the Export-Import Bank of the United States, or other financial institutions, for rehabilitation and industrial development purposes.	"[{""title"": ""Section 1"", ""summary"": ""Section one of Republic Act Numbered Sixteen is amended to authorize the President to negotiate loans or incur indebtedness not exceeding two hundred million pesos with specified entities for rehabilitation and/or industrial development purposes, including the purchase of necessary equipment or properties from the United States.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	213	June 1, 1948			To amend Section One of Republic Act No. 16 to authorize loan negotiations up to two hundred million pesos for rehabilitation and industrial development.	"[""President authorized to negotiate loans or incur indebtedness not exceeding 200 million pesos with specified entities.""]"	Republic Act No. 16 (Section One)	"[""Amendment"", ""Loan Authorization"", ""Rehabilitation"", ""Industrial Development""]"	"[""President"", ""Loans"", ""Indebtedness"", ""United States"", ""Government"", ""Rehabilitation"", ""Industrial Development"", ""200 million pesos""]"
+repacts:datasets/markdown/repacts/1948/ra_214_1948.md	repacts	1948		datasets/markdown/repacts/1948/ra_214_1948.md	ra_214_1948	An Act Granting Monetary Rewards to Any Person Who Shall Locate or Find the Remains of the Late Congressman Wenceslao Vinzons and Governor Roque Ablan	"**REPUBLIC ACT No. 214**
+
+ An Act Granting Monetary Rewards to Any Person Who Shall Locate or Find the Remains of the Late Congressman Wenceslao Vinzons and Governor Roque Ablan
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Any person who shall locate or find the remains of the late Congressman Wenceslao Vinzons of Camarines Norte and Governor Roque Ablan of Ilocos Norte shall be granted a reward of five thousand pesos in each case.
+
+ **Section 2.** The sum of ten thousand pesos is hereby appropriated out of any funds in the National Treasury, not otherwise appropriated, to carry out the purpose of this Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 1, 1948.
+"	success	Republic Act	An act providing monetary rewards for locating the remains of late Congressman Wenceslao Vinzons and Governor Roque Ablan.	"[{""title"": ""Section 1"", ""summary"": ""Any person who locates or finds the remains of the late Congressman Wenceslao Vinzons and Governor Roque Ablan shall receive a reward of five thousand pesos each.""}, {""title"": ""Section 2"", ""summary"": ""Ten thousand pesos are appropriated from the National Treasury to carry out the purpose of this Act.""}, {""title"": ""Section 3"", ""summary"": ""This Act shall take effect upon its approval.""}]"	214	June 1, 1948			To reward individuals who locate the remains of the late Congressman Wenceslao Vinzons and Governor Roque Ablan.	"[""Reward of five thousand pesos for each locating of remains"", ""Appropriation of ten thousand pesos from the National Treasury"", ""Effectivity upon approval""]"		"[""Republic Act"", ""Monetary Rewards"", ""Remains"", ""Wenceslao Vinzons"", ""Roque Ablan""]"	"[""Monetary reward"", ""Remains"", ""Congressman"", ""Governor"", ""National Treasury"", ""Act"", ""1948""]"
+repacts:datasets/markdown/repacts/1948/ra_215_1948.md	repacts	1948		datasets/markdown/repacts/1948/ra_215_1948.md	ra_215_1948	An Act to Amend Section One of the Republic Act Numbered Eighty-One Providing a New Time Limit for the Waiver Of, and/or Extension of the Period Within Which to Perform, Accomplish or Comply With, Any Term, Condition, or Stipulation Required of Locators, Holders, Lessees, Operators of Mining Claims or Concessions, and of Water Rights and Timber Concessions Connected with the Mining Industry, and the Condonation of Mining, Specific and Real Estate Taxes, Under Certain Terms and Conditions	"**REPUBLIC ACT No. 215**
+
+ An Act to Amend Section One of the Republic Act Numbered Eighty-One Providing a New Time Limit for the Waiver Of, and/or Extension of the Period Within Which to Perform, Accomplish or Comply With, Any Term, Condition, or Stipulation Required of Locators, Holders, Lessees, Operators of Mining Claims or Concessions, and of Water Rights and Timber Concessions Connected with the Mining Industry, and the Condonation of Mining, Specific and Real Estate Taxes, Under Certain Terms and Conditions
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section one of the Republic Act Numbered Eighty-one is hereby amended to read as follows:
+
+ > ""Sec. 1. Any provision of existing law to the contrary notwithstanding:
+>
+>  ""(a) The enforcement of any term, condition or stipulation required to be performed, accomplished or complied with by locators, holders, lessees, owners, or operators of mining claims or concessions, or of water rights and timber concessions connected with the mining industry, which were existing and in force on January first, nineteen hundred and forty-two, as by reason of the war and circumstances arising therefrom, could not be performed, accomplished or complied with before the approval of this Act, is hereby waived for the period from nineteen hundred and forty-one to nineteen hundred and forty-nine, inclusive: *Provided,* That any locator, holder, lessee, owner or operator of a mining claim or concession who shall start or resume actual production on or before July first, nineteen hundred and forty-nine, shall comply with the term, condition, or stipulation herein waived, for the year in which such actual operation started or resumed.
+>
+>  ""(b) Locators or holders of mining claims whose right to file their lease applications therefor was existing and in force on January first, nineteen hundred and forty-two, but by reason of the war and the circumstances arising therefrom, could not file the same before the approval of this Act, may file the said applications within four years from and after the date of the approval of this Act.
+>
+>  ""(c) All unpaid real estate taxes, rentals, and occupation fees, and penalties that may be imposed thereon, due or which may become due for the years nineteen hundred forty-one to nineteen hundred forty-nine, inclusive, on mining claims or concession existing and in force on January first, nineteen hundred and forty-two, are hereby condoned: *Provided,* That any person or corporation which starts or resumes actual production on or before July first, nineteen hundred and forty-nine, shall pay the real estate taxes, rentals and occupation fees for the year, in which such actual operation was started or resumed.
+>
+>  ""(d) All unpaid royalties, ad valorem or specific taxes on all minerals mined from mining claims or concessions existing and in force on January first, nineteen hundred and forty-two, and which minerals were lost by reason of the war or of circumstances arising therefrom, are hereby condoned: *Provided,* That if said minerals had been or shall be recovered, or the value thereof received or shall be received, by the miner or producer, such royalties, ad valorem or specific taxes on the same shall immediately become due and payable.""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 1, 1948.
+"	success	Republic Act	Amends RA 81 to extend waiver of terms and condonation of mining‑related taxes for claims existing as of Jan. 1, 1942, with new deadlines for production, lease filing, and payment of taxes.	"[{""title"": ""Section 1"", ""summary"": ""Provides new time limits for waiver of terms, condonation of real estate taxes and royalties, and extension of lease application filing for mining claims and related rights; requires compliance if production starts before July 1, 1949.""}, {""title"": ""Section 2"", ""summary"": ""The Act shall take effect upon its approval.""}]"	215	June 1, 1948			To amend RA 81 by granting new time limits for waivers, extensions, and condonation of taxes related to mining and associated rights, addressing disruptions caused by war.	"[""Waiver of terms, conditions, and stipulations for mining claims and water rights from 1941 to 1949"", ""Requirement to comply if production begins before July 1, 1949"", ""Extension of lease application filing for four years from approval"", ""Condonation of unpaid real estate taxes, rentals, and occupation fees for 1941-1949"", ""Condonation of unpaid royalties on mined minerals"", ""Conditional payment of royalties upon production or recovery of minerals""]"	Republic Act No. 81	"[""Mining Law"", ""Tax Condonation"", ""War Disruption"", ""Legislation"", ""RA 81 amendment""]"	"[""mining"", ""locators"", ""holders"", ""lessees"", ""operators"", ""mining claims"", ""concessions"", ""water rights"", ""timber concessions"", ""condonation"", ""real estate taxes"", ""royalties"", ""war"", ""January 1 1942"", ""July 1 1949"", ""four years"", ""production"", ""filing"", ""lease applications""]"
+repacts:datasets/markdown/repacts/1948/ra_216_1948.md	repacts	1948		datasets/markdown/repacts/1948/ra_216_1948.md	ra_216_1948	AN ACT TO AUTHORIZE THE EXPENDITURE OF THE PROCEEDS OF A LOAN NOW BEING APPLIED FOR BY THE GOVERNMENT FOR THE CONSTRUCTION OF CERTAIN HYDRO-ELECTRIC POWER PROJECTS AND THE ERECTION OF A FERTILIZER PLANT.	"**[ REPUBLIC ACT No. 216, June 01, 1948 ]**
+
+ **AN ACT TO AUTHORIZE THE EXPENDITURE OF THE PROCEEDS OF A LOAN NOW BEING APPLIED FOR BY THE GOVERNMENT FOR THE CONSTRUCTION OF CERTAIN HYDRO-ELECTRIC POWER PROJECTS AND THE ERECTION OF A FERTILIZER PLANT.**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **WHEREAS,** for the purpose of giving impetus to industrial development and to aid agriculture, the Government has decided to develop certain hydro-electric power projects and erect a fertilizer plant;
+
+ **WHEREAS,** under Republic Act Numbered Sixteen, approved September eighteen, nineteen hundred and forty-six, the President has been authorized to obtain loans for rehabilitation and economic development purposes;
+
+ **WHEREAS,** it is necessary for the consideration by the Export-Import Bank of the United States or the International Bank for Reconstruction and Development or other credit institutions from which the said loan may be applied for to raise the funds needed to finance the projects above-mentioned that the Congress by law specifically appropriate the proceeds of said loan for the specific purposes for which the funds are intended: Now, therefore
+
+ **Section 1.** That the proceeds of the loan of one hundred seventy-six million pesos being applied for from the credit institutions herein-above named is hereby appropriated, if and when the same shall have been granted, for the following projects:
+
+ | 1 | The construction of complete hydro-electric power plants, including preliminary investigations, preparation of technical plans and specifications, acquisition of equipment, materials, supplies and services necessary therefor, building of dams, reservoir, transmission system and other accessory installations at- |  |
+| --- | --- | --- |
+| (a) Ambuklao | P48,000,000.00 |  |
+| (b) Itogon | 70,000,000.00 |  |
+| (c) Maria Cristina | 23,400,000.00 |  |
+| 2 | The diversion of the Lumot River and increasing the height of the dam of the Caliraya reservoir | 6,000,000.00 |
+| 3 | The erection and construction of a fertilizer plant | 28,600,000.00 |
+| Total | P176,000,000.00 |  |
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 1, 1948.
+"	success	Republic Act	The Act authorizes the use of proceeds from a loan to finance specific hydro‑electric power projects and the construction of a fertilizer plant, detailing the allocation of funds and effective date.	"[{""title"": ""Section 1."", ""summary"": ""Appropriates the proceeds of a loan of one hundred seventy\u2011six million pesos for the construction of hydro\u2011electric power plants (Ambuklao, Itogon, Maria Cristina), diversion of Lumot River and elevation of Caliraya dam, and erection of a fertilizer plant.""}, {""title"": ""Section 2."", ""summary"": ""The Act shall take effect upon its approval.""}]"	216	June 01, 1948			To provide funding for hydro‑electric power projects and a fertilizer plant through appropriation of loan proceeds.	"[""Appropriation of loan proceeds amounting to P176,000,000.00"", ""Allocation of funds to Ambuklao, Itogon, Maria Cristina hydro\u2011electric projects"", ""Diversion of Lumot River and elevation of Caliraya dam"", ""Erection of a fertilizer plant"", ""Act effective upon approval""]"		"[""Hydro-electric"", ""Fertilizer plant"", ""Loan appropriation"", ""Republic Act 216""]"	"[""hydro-electric power"", ""fertilizer plant"", ""loan"", ""expenditure"", ""construction"", ""Philippines"", ""Republic Act""]"
+repacts:datasets/markdown/repacts/1948/ra_217_1948.md	repacts	1948		datasets/markdown/repacts/1948/ra_217_1948.md	ra_217_1948	An Act to Amend Sections One Hundred and Eighty-Four and One Hundred and Eighty-Five of Commonwealth Act Numbered Four Hundred and Sixty-Six, Otherwise Known as the National Internal Revenue Code, as Amended	"**REPUBLIC ACT No. 217**
+
+ An Act to Amend Sections One Hundred and Eighty-Four and One Hundred and Eighty-Five of Commonwealth Act Numbered Four Hundred and Sixty-Six, Otherwise Known as the National Internal Revenue Code, as Amended
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section one hundred and eighty-four of Commonwealth Act Numbered Four hundred and sixty-six, as last amended by section one of Republic Act Numbered Forty-one, is hereby further amended to read as follows:
+
+ > ""Sec. 184. *Percentage tax on sales of jewelry, automobiles, toilet preparations, and other.* There shall be levied, assessed and collected once only on every original sale, barter, exchange, or similar transaction intended to transfer ownership of, or title to, the articles hereinbelow enumerated a tax equivalent to thirty per centum of the gross value in money of the articles so sold, bartered, exchanged, or transferred, such tax to be paid by the manufacturer, producer, or importer: *Provided,* That where the articles are manufactured out of materials subject to tax under this section, the total cost of such materials, as duly established, shall be deductible from the gross selling price or gross value in money of the manufactured articles.
+>
+>  ""(a) Automobile chassis and bodies, the selling price of which exceeds seven thousand pesos. A sale of automobile shall, for the purpose of this section, be considered to be a sale of the chassis and of the body together with parts and accessories with which the same are usually equipped. ""(b) All articles commonly or commercially known as jewelry, whether real or imitation; pearls, precious and semi-precious stones, and imitation thereof; articles made of, or ornamented, mounted or fitted with, precious metals or imitations thereof or ivory (not including surgical instruments or silver-plated ware, or frames or mountings for spectacles or eyeglasses); opera glasses, and lorgnettes; ""(c) Perfumes, essences, extracts, toilet waters, cosmetics, petroleum jellies; hair oils, pomades, hairdressings, hair restoratives, hair dyes, and any similar substances, articles, or preparations, by whatsoever name known or distinguished, except tooth and mouthwashes, dentifrices, toothpastes, and talcum or medicated toilet powders; and any of the above which are used or applied or intended to be used or applied for toilet purposes: *Provided,* That the tax herein imposed shall not apply to toilet preparations on which the specific tax established in section one hundred and twenty-seven has been paid; and ""(d) Dice and mahjong sets.""

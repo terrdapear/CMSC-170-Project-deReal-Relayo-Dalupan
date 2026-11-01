@@ -1,0 +1,153 @@
+repacts:datasets/markdown/repacts/1997/ra_8400_1997.md	repacts	1997		datasets/markdown/repacts/1997/ra_8400_1997.md	ra_8400_1997	AN ACT PROVIDING FOR THE CONVERSION OF THE GUIUAN MUNICIPAL HIGH SCHOOL INTO A NATIONAL HIGH SCHOOL TO BE KNOWN AS THE GUIUAN NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"Tenth Congress Third Regular Session
+
+ **[ REPUBLIC ACT NO. 8400, November 22, 1997 ]**
+
+ AN ACT PROVIDING FOR THE CONVERSION OF THE GUIUAN MUNICIPAL HIGH SCHOOL INTO A NATIONAL HIGH SCHOOL TO BE KNOWN AS THE GUIUAN NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Guiuan Municipal High School in the Municipality of Guiuan, Province of Eastern Samar is hereby converted into a national high school to be known as the Guiuan National High School.
+
+ **Section 2.** All personnel, assets, liabilities and records of the Guiuan Municipal High School are hereby transferred to and absorbed by the Guiuan National High School.
+
+ **Section 3.** The Secretary of Education, Culture and Sports shall issue the necessary rules and memorandum for the proper implementation of the provisions of this Act.
+
+ **Section 4.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 5.** This Act shall take effect upon its approval.
+
+ Approved, Lapsed into law on November 22, 1997, without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.
+"	success	Republic Act	Converts Guiuan Municipal High School into Guiuan National High School and allocates funds.	"[{""title"": ""Section 1"", ""summary"": ""Converts Guiuan Municipal High School into Guiuan National High School.""}, {""title"": ""Section 2"", ""summary"": ""Transfers all personnel, assets, liabilities, and records to the new school.""}, {""title"": ""Section 3"", ""summary"": ""Secretary of Education to issue rules and memorandum for implementation.""}, {""title"": ""Section 4"", ""summary"": ""Funding to be included in the next year's General Appropriations Act.""}, {""title"": ""Section 5"", ""summary"": ""Act takes effect upon approval.""}]"	8400	November 22, 1997			Conversion of a municipal high school into a national high school and appropriation of funds.	"[""Conversion of Guiuan Municipal High School into Guiuan National High School"", ""Transfer of all personnel, assets, liabilities, and records"", ""Issuance of rules and memorandum by Secretary of Education"", ""Funding inclusion in next year's General Appropriations Act"", ""Effectivity upon approval""]"		"[""Education"", ""School Conversion"", ""Republic Act""]"	"[""Guiuan"", ""National High School"", ""General Appropriations Act"", ""Secretary of Education""]"
+repacts:datasets/markdown/repacts/1997/ra_8401_1997.md	repacts	1997		datasets/markdown/repacts/1997/ra_8401_1997.md	ra_8401_1997	AN ACT CONVERTING THE RIZAL MUNICIPAL HIGH SCHOOL IN THE MUNICIPALITY OF RIZAL, PROVINCE OF KALINGA, INTO A NATIONAL HIGH SCHOOL OF ARTS AND TRADES TO BE KNOWN AS THE RIZAL NATIONAL SCHOOL OF ARTS AND TRADES, AND APPROPRIATING FUNDS THEREFOR	"Tenth Congress Third Regular Session
+
+ **[ REPUBLIC ACT NO. 8401, November 22, 1997 ]**
+
+ AN ACT CONVERTING THE RIZAL MUNICIPAL HIGH SCHOOL IN THE MUNICIPALITY OF RIZAL, PROVINCE OF KALINGA, INTO A NATIONAL HIGH SCHOOL OF ARTS AND TRADES TO BE KNOWN AS THE RIZAL NATIONAL SCHOOL OF ARTS AND TRADES, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Rizal Municipal High School in the Municipality of Rizal, Province of Kalinga, is hereby converted into a national school of arts and trades under the supervision of the Department of Education, Culture and Sports to be known as the Rizal National High School of Arts and Trades.
+
+ **Section 2.** The school shall provide secondary education proper and secondary technical-vocational courses and training as may be authorized by the Department of Education, Culture and Sports: *Provided,* That the education and trainings to be offered are consistent with the goals for local, regional and national development program.
+
+ **Section 3.** The school shall be under the direct supervision of the Department of Education, Culture and Sports, and shall be headed by a school administrator.
+
+ **Section 4.** No student shall be denied admission to the school by reason of sex, ethnic consideration and religious belief.
+
+ **Section 5.** The body of teachers and instructors and heads of departments shall constitute the faculty of the school.
+
+ **Section 6.** All personnel, records, assets and properties, including buildings, sites and the improvements thereof, obligations, funds and appropriations of the Rizal Municipal High School are hereby transferred to the Rizal National School of Arts and Trades.
+
+ **Section 7.** The Department of Education, Culture and Sports shall issue rules and regulations necessary to carry out the purpose of this Act.
+
+ **Section 8.** The amount necessary for the implementation of this Act shall be charged against the current year's appropriations of the Rizal Municipal High School. Thereafter, such sums as may be necessary for the operation and maintenance of Rizal National School of Arts and Trades shall be included in the annual General Appropriations Act.
+
+ **Section 9.** This Act shall take effect upon its approval.
+
+ Approved, Lapsed into law on November 22, 1997, without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.
+"	success	Republic Act	This Act converts the Rizal Municipal High School into the Rizal National School of Arts and Trades, establishes its governance under the Department of Education, Culture and Sports, prohibits discrimination, transfers all assets and personnel, mandates rule-making, allocates necessary funds, and takes effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Conversion of the Rizal Municipal High School into the Rizal National School of Arts and Trades under DOECS supervision.""}, {""title"": ""Section 2."", ""summary"": ""The school shall offer secondary education and secondary technical\u2011vocational courses consistent with national development goals.""}, {""title"": ""Section 3."", ""summary"": ""The school will be supervised by DOECS and headed by a school administrator.""}, {""title"": ""Section 4."", ""summary"": ""Admission is non\u2011discriminatory on sex, ethnic, or religious grounds.""}, {""title"": ""Section 5."", ""summary"": ""Faculty consists of teachers, instructors, and department heads.""}, {""title"": ""Section 6."", ""summary"": ""All personnel, records, assets, and properties of the former school are transferred to the new school.""}, {""title"": ""Section 7."", ""summary"": ""DOECS shall issue necessary rules and regulations.""}, {""title"": ""Section 8."", ""summary"": ""Funding is charged to current appropriations and future General Appropriations Acts.""}, {""title"": ""Section 9."", ""summary"": ""The Act takes effect upon its approval.""}]"	8401	November 22, 1997			To convert the Rizal Municipal High School into a national school of arts and trades and provide the necessary funding.	"[""Conversion to a national school of arts and trades"", ""DOECS supervision and administration"", ""Non\u2011discriminatory admission policy"", ""Faculty composition"", ""Transfer of assets and personnel"", ""Rule\u2011making authority for DOECS"", ""Funding allocation from appropriations"", ""Effective date upon approval""]"		"[""Education"", ""High School"", ""Arts and Trades"", ""Republic Act""]"	"[""Rizal"", ""National School"", ""Arts and Trades"", ""Department of Education"", ""Funding"", ""Conversion""]"
+repacts:datasets/markdown/repacts/1997/ra_8402_1997.md	repacts	1997		datasets/markdown/repacts/1997/ra_8402_1997.md	ra_8402_1997	AN ACT CONVERTING THE MARSMAN BARANGAY HIGH SCHOOL IN THE MUNICIPALITY OF STO. TOMAS, PROVINCE OF DAVAO, INTO A NATIONAL HIGH SCHOOL TO BE KNOWN AS THE MARSMAN NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"Tenth Congress Third Regular Session
+
+ **[ REPUBLIC ACT NO. 8402, November 22, 1997 ]**
+
+ AN ACT CONVERTING THE MARSMAN BARANGAY HIGH SCHOOL IN THE MUNICIPALITY OF STO. TOMAS, PROVINCE OF DAVAO, INTO A NATIONAL HIGH SCHOOL TO BE KNOWN AS THE MARSMAN NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Marsman Barangay High School in the Municipality of Sto. Tomas, Province of Davao, is converted into a national high school, to be known as the Marsman National High School.
+
+ **Section 2.** The amount necessary for the implementation of this Act shall be charged against the current year's appropriations of the Marsman Barangay High School. Thereafter, such sums as may be necessary for the operation and maintenance of the Marsman National High School shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Lapsed into law on November 22, 1997 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.
+"	success	Education	The Act converts Marsman Barangay High School into Marsman National High School and appropriates funds for its implementation, operation, and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""Marsman Barangay High School is converted into a national high school known as Marsman National High School.""}, {""title"": ""Section 2."", ""summary"": ""Funds for implementation are charged against the current year's appropriation; subsequent operational and maintenance sums are included in the annual General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""The Act takes effect upon its approval.""}]"	8402	November 22, 1997			To convert a barangay high school into a national high school and secure funding for its operation.	"[""Conversion of Marsman Barangay High School into a national high school."", ""Appropriation of funds for implementation and ongoing operation."", ""Effectiveness upon approval.""]"		"[""Education"", ""School"", ""Funding"", ""Republic Act""]"	"[""Marsman"", ""National High School"", ""Davao"", ""Funding"", ""Conversion"", ""Public Education""]"
+repacts:datasets/markdown/repacts/1997/ra_8403_1997.md	repacts	1997		datasets/markdown/repacts/1997/ra_8403_1997.md	ra_8403_1997	AN ACT CONVERTING THE HILAAN BARANGAY HIGH SCHOOL IN THE MUNICIPALITY OF BONTOC, PROVINCE OF SOUTHERN LEYTE, INTO A NATIONAL HIGH SCHOOL TO BE KNOWN AS THE HILAAN NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"Tenth Congress Third Regular Session
+
+ **[ REPUBLIC ACT NO. 8403, November 22, 1997 ]**
+
+ AN ACT CONVERTING THE HILAAN BARANGAY HIGH SCHOOL IN THE MUNICIPALITY OF BONTOC, PROVINCE OF SOUTHERN LEYTE, INTO A NATIONAL HIGH SCHOOL TO BE KNOWN AS THE HILAAN NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Hilaan Barangay High School in the Municipality of Bontoc, Province of Southern Leyte, is hereby converted into a national high school, to be known as the Hilaan National High School.
+
+ **Section 2.** The Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** All equipment, property, assets and liabilities of the Hilaan Barangay High School shall be transferred to the Hilaan National High School.
+
+ **Section 4.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 5.** This Act shall take effect immediately upon its approval.
+
+ Approved, Lapsed into law on November 22, 1997, without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.
+"	success	Education	An act converting Hilaan Barangay High School into Hilaan National High School, appropriating funds for the conversion, and outlining related administrative provisions.	"[{""title"": ""Section 1."", ""summary"": ""The Hilaan Barangay High School in the Municipality of Bontoc, Province of Southern Leyte, is hereby converted into a national high school, to be known as the Hilaan National High School.""}, {""title"": ""Section 2."", ""summary"": ""The Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.""}, {""title"": ""Section 3."", ""summary"": ""All equipment, property, assets and liabilities of the Hilaan Barangay High School shall be transferred to the Hilaan National High School.""}, {""title"": ""Section 4."", ""summary"": ""The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.""}, {""title"": ""Section 5."", ""summary"": ""This Act shall take effect immediately upon its approval.""}]"	8403	1997-11-22			Converting a barangay high school into a national high school and appropriating funds for the conversion.	"[""Conversion of Hilaan Barangay High School to Hilaan National High School"", ""Issuance of rules and regulations by the Department of Education, Culture and Sports"", ""Transfer of all equipment, property, assets and liabilities to the new national high school"", ""Inclusion of necessary funds in the General Appropriations Act following enactment"", ""Immediate effect upon approval""]"		"[""Education"", ""High School"", ""Appropriations""]"	"[""Hilaan"", ""Bontoc"", ""Southern Leyte"", ""National High School"", ""Department of Education""]"
+repacts:datasets/markdown/repacts/1997/ra_8404_1997.md	repacts	1997		datasets/markdown/repacts/1997/ra_8404_1997.md	ra_8404_1997	AN ACT CONVERTING THE CABAGAN CENTRAL SCHOOL IN THE MUNICIPALITY OF CABAGAN, PROVINCE OF ISABELA, INTO A SCIENCE ELEMENTARY SCHOOL, TO BE KNOWN AS THE CABAGAN SCIENCE ELEMENTARY SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"Tenth Congress Third Regular Session
+
+ **[ REPUBLIC ACT NO. 8404, November 22, 1997 ]**
+
+ AN ACT CONVERTING THE CABAGAN CENTRAL SCHOOL IN THE MUNICIPALITY OF CABAGAN, PROVINCE OF ISABELA, INTO A SCIENCE ELEMENTARY SCHOOL, TO BE KNOWN AS THE CABAGAN SCIENCE ELEMENTARY SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Cabagan Central School in the Municipality of Cabagan, Province of Isabela, is hereby converted into a science elementary school to be known as the Cabagan Science Elementary School.
+
+ **Section 2.** The Department of Education, Culture and Sports shall prescribe the curriculum and issue the rules and regulations necessary for the conversion of the Cabagan Central School into a science elementary school, taking into consideration the following:
+
+ (1) The curricula for Grades I and VI shall be revised with emphasis in science, mathematics and communication arts. (2) Teachers for Grades I to VI shall be trained and reoriented on the new curriculum. (3) Instructional materials and facilities shall be revised and upgraded to conform with the new curriculum. **Section 3.** The amount necessary for the implementation of this Act shall be charged against the current year's appropriations of the Cabagan Central School. Thereafter, such sums as may be necessary for the operation and maintenance of the Cabagan Science Elementary School shall be included in the annual General Appropriations Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved, Lapsed into law on November 22, 1997, without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.
+"	success	Education	Converts Cabagan Central School into Cabagan Science Elementary School and appropriates funds for its conversion and operation.	"[{""title"": ""Section 1"", ""summary"": ""Cabagan Central School is converted into a science elementary school named Cabagan Science Elementary School.""}, {""title"": ""Section 2"", ""summary"": ""The Department of Education, Culture and Sports shall prescribe curriculum, rules and regulations, revise curricula for grades I and VI with emphasis in science, mathematics and communication arts, train teachers, and upgrade instructional materials and facilities.""}, {""title"": ""Section 3"", ""summary"": ""Funds for implementation are to be charged against current year's appropriations; additional sums for operation and maintenance will be included in the annual General Appropriations Act.""}, {""title"": ""Section 4"", ""summary"": ""The Act takes effect upon its approval.""}]"	8404	November 22, 1997			To convert a central school into a science elementary school and allocate necessary funds for its conversion and ongoing operation.	"[""Cabagan Central School is converted into Cabagan Science Elementary School."", ""Department of Education will prescribe curriculum and regulations for the conversion."", ""Funds are appropriated from current year's appropriations and future General Appropriations Act."", ""The Act takes effect upon approval.""]"		"[""Education"", ""Science School"", ""Philippines"", ""Republic Act""]"	"[""Cabagan"", ""Isabela"", ""science elementary school"", ""curriculum"", ""funding"", ""appropriations""]"
+repacts:datasets/markdown/repacts/1997/ra_8405_1997.md	repacts	1997		datasets/markdown/repacts/1997/ra_8405_1997.md	ra_8405_1997	AN ACT CONVERTING THE STA. FE MUNICIPAL HIGH SCHOOL AT BARANGAY STA. FE, MUNICIPALITY OF BORONGAN, PROVINCE OF EASTERN SAMAR, INTO A NATIONAL HIGH SCHOOL, TO BE KNOWN AS THE STA. FE NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"Tenth Congress Third Regular Session
+
+ **[ REPUBLIC ACT NO. 8405, November 22, 1997 ]**
+
+ AN ACT CONVERTING THE STA. FE MUNICIPAL HIGH SCHOOL AT BARANGAY STA. FE, MUNICIPALITY OF BORONGAN, PROVINCE OF EASTERN SAMAR, INTO A NATIONAL HIGH SCHOOL, TO BE KNOWN AS THE STA. FE NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Sta. Fe Municipal High School at Barangay Sta. Fe, Municipality of Borongan, Province of Eastern Samar, is hereby converted into a national high school, to be known as the Sta. Fe National High School.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved, Lapsed into law on November 22, 1997, without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.
+"	success	Republic Act	Converts Sta. Fe Municipal High School into Sta. Fe National High School and appropriates funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""Sta. Fe Municipal High School is converted into a national high school.""}, {""title"": ""Section 2."", ""summary"": ""Funding for the conversion is to be included in the General Appropriations Act of the following year.""}, {""title"": ""Section 3."", ""summary"": ""The Act takes effect upon its approval.""}]"	8405	November 22, 1997			To convert Sta. Fe Municipal High School into a national high school and appropriate funds for its operation.	"[""Section 1: Conversion of Sta. Fe Municipal High School to a national high school"", ""Section 2: Funding appropriation through the General Appropriations Act"", ""Section 3: Effective date upon approval""]"		"[""Education"", ""Republic Act"", ""School Conversion"", ""Eastern Samar""]"	"[""Sta. Fe National High School"", ""Eastern Samar"", ""Republic Act 8405"", ""School conversion"", ""General Appropriations Act""]"
+repacts:datasets/markdown/repacts/1997/ra_8406_1997.md	repacts	1997		datasets/markdown/repacts/1997/ra_8406_1997.md	ra_8406_1997	AN ACT CHANGING THE NAME OF THE PULONGGUBAT AGRICULTURAL HIGH SCHOOL IN BARANGAY PULONGGUBAT, BALAGTAS, BULACAN, TO PULONGGUBAT NATIONAL HIGH SCHOOL	"Tenth Congress Third Regular Session
+
+ **[ REPUBLIC ACT NO. 8406, November 22, 1997 ]**
+
+ AN ACT CHANGING THE NAME OF THE PULONGGUBAT AGRICULTURAL HIGH SCHOOL IN BARANGAY PULONGGUBAT, BALAGTAS, BULACAN, TO PULONGGUBAT NATIONAL HIGH SCHOOL
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The name of the Pulonggubat Agricultural High School in Barangay Pulonggubat, Municipality of Balagtas, Bulacan, is hereby changed to Pulonggubat National High School.
+
+ **Section 2.** Any and all provisions in the law creating the Pulonggubat Agricultural High School or its chapter pertaining to the offering of agricultural subjects in its curriculum are hereby repealed to conform with the purpose of this Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved, Lapsed into law on November 22, 1997, without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.
+"	success	Republic Act	The act changes the name of Pulonggubat Agricultural High School to Pulonggubat National High School and repeals provisions related to agricultural subjects.	"[{""title"": ""Section 1."", ""summary"": ""The name of the Pulonggubat Agricultural High School in Barangay Pulonggubat, Municipality of Balagtas, Bulacan, is hereby changed to Pulonggubat National High School.""}, {""title"": ""Section 2."", ""summary"": ""Any and all provisions in the law creating the Pulonggubat Agricultural High School or its chapter pertaining to the offering of agricultural subjects in its curriculum are hereby repealed to conform with the purpose of this Act.""}, {""title"": ""Section 3."", ""summary"": ""This Act shall take effect upon its approval.""}]"	8406	November 22, 1997			Renaming of the school to reflect its national status	"[""Change of school name to Pulonggubat National High School"", ""Repeal of agricultural subject provisions"", ""Effective upon approval""]"		"[""Education"", ""School Renaming"", ""Republic Act""]"	"[""Pulonggubat"", ""Agricultural High School"", ""National High School"", ""Renaming"", ""Bulacan""]"
+repacts:datasets/markdown/repacts/1997/ra_8407_1997.md	repacts	1997		datasets/markdown/repacts/1997/ra_8407_1997.md	ra_8407_1997	"AN ACT AMENDING REPUBLIC ACT NUMBERED SIXTY-SIX HUNDRED THIRTY-ONE ENTITLED ""AN ACT GRANTING MANILA JOCKEY CLUB, INC., A FRANCHISE TO CONSTRUCT, OPERATE AND MAINTAIN A RACETRACK FOR HORSE RACING IN THE CITY OF MANILA OR ANY PLACE WITHIN THE PROVINCES OF BULACAN, CAVITE OR RIZAL"" AND EXTENDING THE SAID FRANCHISE BY TWENTY-FIVE (25) YEARS FROM THE EXPIRATION OF THE TERM THEREOF"	"Tenth Congress Third Regular Session
+
+ **[ REPUBLIC ACT NO. 8407, November 23, 1997 ]**
+
+ AN ACT AMENDING REPUBLIC ACT NUMBERED SIXTY-SIX HUNDRED THIRTY-ONE ENTITLED ""AN ACT GRANTING MANILA JOCKEY CLUB, INC., A FRANCHISE TO CONSTRUCT, OPERATE AND MAINTAIN A RACETRACK FOR HORSE RACING IN THE CITY OF MANILA OR ANY PLACE WITHIN THE PROVINCES OF BULACAN, CAVITE OR RIZAL"" AND EXTENDING THE SAID FRANCHISE BY TWENTY-FIVE (25) YEARS FROM THE EXPIRATION OF THE TERM THEREOF
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** [Republic Act No. 6631](../ra1972/ra_6631_1972.html) is hereby amended to read as follows:
+
+ > ""**Section 1.** *Nature and Scope of Franchise.* Any provision of law to the contrary notwithstanding, there is hereby granted to Manila Jockey Club, Inc., a corporation duly organized and registered under the laws of the Philippines, hereinafter called the grantee or its assigns or its successors, for a period of twenty-five (25) years from the approval of this Act, the right, privilege and authority to construct, operate and maintain one racetrack in any place within the City of Manila or any place within the provinces of Bulacan, Cavite or Rizal, establish such branches thereof for booking purposes anywhere in the country, and hold or conduct horse races therein with bettings either directly or indirectly by means of mechanical, electric and/or computerized totalizator and to do and carry out all such acts, deeds and things as may be necessary to give effect to the foregoing: *Provided,* That in case of transfer of the racetrack from the City of Manila, such transfer shall be subject to the approval of the host province or city/municipality to where it would transfer, through a public hearing to be conducted by the local government unit concerned.
+>
+>  ""**Section 2.** *Authority of the Philippine Racing Commission and the Games and Amusement Board.* The races to be conducted by the grantee shall be under the supervision and regulation of the Philippine Racing Commission, which shall enforce the laws, rules and regulations governing horse racing, including the framing and scheduling of races, the construction and safety of the racetrack, the allocation of prizes of winning horses, and the security of racing as provided in Presidential Decree No. 420, as amended: *Provided,* That the Games and Amusement Board shall continue to supervise and regulate betting in horse races as provided in Sections 6, 8, 11, 15 and 24 of Republic Act No. 309, as amended.
+>
+>  ""**Section 3.** *Term of Franchise.* The term of this franchise is hereby extended to another twenty-five (25) years from the date of expiration of Republic Act No. 6631 which is in October, 1997.
+>
+>  ""**Section 4.** *Offering, Taking or Arranging Bets for Races.* The grantee or its duly authorized agent, may offer, take or arrange bets for races conducted in or outside the Philippines, in person or by any electronic or other means of processing transactions, anywhere in the Philippines, whether within or outside the place, enclosure or track where horse races are held, in on-track or off-track betting stations, a day in advance of and/or during scheduled races held or conducted within or outside the Philippines. No other entity or person other than the grantee or its duly authorized agents or licensees shall offer, take or arrange bets on any horse participating in any race conducted by the same, or maintain or use a totalizator or any other device, method or system to bet on any horse within its premises or outside the same enclosure or track in the course of horse races conducted and/or operated by the said grantee.
+>
+>  ""**Section 5.** *Penalties.* Any person or persons found to have violated the provisions of the aforementioned section shall be punished by a fine of not less than Twenty thousand pesos (P20,000.0) but not more than One hundred thousand pesos (P100,000.00) or by imprisonment of a minimum of six (6) months and a maximum of one (1) year, or both, at the discretion of the court. If the offender is a corporation, partnership or association, the criminal liability shall devolve upon its president, managing partner or manager responsible for such violation.

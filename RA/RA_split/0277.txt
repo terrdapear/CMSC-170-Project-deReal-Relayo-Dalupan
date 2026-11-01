@@ -1,0 +1,140 @@
+>
+>  ""Members of the Board shall serve without compensation, other than actual and necessary expenses incurred either in attendance upon meetings of the Board or upon other official business authorized by resolution of the Board.""
+
+ **Section 2.** Section five of Republic Act Numbered Four hundred and sixteen, is hereby amended so as to read as follows:
+
+ > ""**Section 5.** The Board of Trustees shall exercise for the Philippine Normal College all the powers of a corporation as provided in section thirteen of Act Numbered Fourteen hundred and fifty-nine, as amended. It shall also have the following powers and duties, in addition to its general powers of administration:
+>
+>  ""(a) To receive and appropriate to the ends specified by law such sums as may be provided by law for the support of the College;""
+>
+>  ""(b) To confer the degrees of Bachelor of Science m Elementary Education and Master of Arts in Education to successful candidates for graduation;""
+>
+>  ""(c) To appoint, on the recommendation of the President of the College, instructors, professors, lecturers, and other employees of the College; to fix their compensation, hours of service and such other duties and conditions as it may deem proper; to grant to them, in its discretion, leave of absence under such regulations as it may promulgate, any other provisions of law notwithstanding, and to remove them for cause after an investigation and hearing shall have been had;""
+>
+>  ""(d) To approve the curricula and rules of discipline drawn up by the College Council as hereinafter provided;""
+>
+>  ""(e) To fix the tuition fees required of students, as well as matriculation fees, graduation fees and fees for laboratory courses and all special fees, and to' remit the same in special cases;""
+>
+>  ""(f) To provide fellowships for faculty members and scholarships to students showing special evidence of merit;""
+>
+>  (g) To provide rules for its own government, and to enact for the government of the College such general ordinance and regulations, not contrary to law, as are consistent with the purposes of the college, as defined in section two of this Act;""
+>
+>  ""(h) To receive in trust legacies, gifts, and donations of real and personal property of all kinds and to administer the same for the benefit of the College or for aid to any students, in accordance with the directions and instructions of the donor, and, in default thereof in such manner as the Board of Trustees may in its discretion determine;""
+>
+>  ""(i) To administer and appropriate the funds of Normal Hall and to supervise and control its income and expenses, all provisions of law to the contrary notwithstanding.""
+
+ **Section 3.** Section twelve of Republic Act Numbered Four hundred and sixteen is hereby amended so as to read as follows:
+
+ > ""**Section 12.** Heads of bureaus or offices of the National Government are hereby authorized to loan or transfer, upon request of the President of the College, such apparatus supplies as may be needed by the College, and to detail employees for duty therein, when in the judgment of the head of the bureau or office such supplies or employees ca be spared without serious detriment to the public service. Employees so detailed shall perform such duties as are required under such detail, and the time employed shall count as part of their regular official hours.""
+
+ **Section 4.** A new section is hereby added to Republic Act Numbered Four hundred and sixteen, between sections eleven and twelve:
+
+ > ""Section 11-A. The Treasurer of the Philippines shall beex officioTreasurer of the College and all accounts and expenses shall be audited by the Auditor General or his duly authorized representative.
+
+ **Section 5.** This Act shall take effect upon its approval.
+
+ Approved, June 20, 1953.
+"	success	Act	The Republic Act mandates the use of Philippine-made materials in government construction and repair projects, outlines responsibilities of the Director of Public Works, and establishes compliance mechanisms for contracts.	"[{""title"": ""Section 1."", ""summary"": ""Mandates the use of Philippine-made materials and products in government construction or repair work when available, practicable, and usable, with certification by the Director of the Bureau of Public Works.""}, {""title"": ""Section 2."", ""summary"": ""Directs the Director of Public Works to prepare and maintain a list of locally manufactured building and construction materials that are available, durable, usable, and practicable.""}, {""title"": ""Section 3."", ""summary"": ""Prohibits awarding contracts under this Act unless the contractor complies with its requirements; contracts may be rescinded for unjustified non-compliance.""}, {""title"": ""Section 4."", ""summary"": ""Assigns the Director of Public Works and assistants the duty to ensure compliance, with non-compliance subject to dismissal or disciplinary action.""}, {""title"": ""Section 5."", ""summary"": ""Empowers the Director of Public Works, subject to the Secretary of Public Works and Communications\u2019 approval, to promulgate necessary rules and regulations.""}, {""title"": ""Section 6."", ""summary"": ""The Act takes effect upon its approval.""}]"	912	June 20, 1953			To ensure that Philippine-made materials and products are used in government construction and public works projects, thereby supporting local industry and ensuring compliance with procurement standards.	"[""Use of Philippine-made materials in construction and repair works"", ""Director of Public Works to maintain a list of locally manufactured materials"", ""Contractors must comply with the Act or face rescission"", ""Director and assistants responsible for enforcement"", ""Director empowered to promulgate rules and regulations"", ""Act takes effect upon approval""]"		"[""public works"", ""materials procurement"", ""Philippine-made"", ""construction"", ""government contracts""]"	"[""public works"", ""construction materials"", ""Philippine-made"", ""procurement"", ""government contracts""]"
+repacts:datasets/markdown/repacts/1953/ra_922_1953.md	repacts	1953		datasets/markdown/repacts/1953/ra_922_1953.md	ra_922_1953	"An Act to Amend Section One of Commonwealth Act Numbered Six Hundred Six by Defining the Term ""Lease"" or ""Charter"" and for Other Purposes"	"**[ REPUBLIC ACT NO. 922, June 20, 1953 ]**
+
+ AN ACT TO AMEND SECTION THREE OF REPUBLIC ACT NUMBERED FIVE HUNDRED AND FORTY
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Section three of Republic Act Numbered Five hundred and forty is hereby amended to read as follows:
+
+ ""**Section 3.** The control and administration of these land grants are hereby vested permanently in the Executive Board of the Girl Scouts of the Philippines. The Board may develop, lease all or any portion of these lands subject to the provisions of the Public Land Act, as amended, and the existing regulations of the Secretary of Agriculture and Natural Resources."" **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 20, 1953.
+"	success	Republic Act	"Amends Commonwealth Act No. 606 to restrict transfer, sale, mortgage, lease, charter, and construction of Philippine vessels to non-citizens and foreign entities without Presidential approval, and defines the term ""lease"" or ""charter""."	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 1 of Commonwealth Act No. 606 to prohibit transfer, sale, mortgage, lease, charter, and construction of Philippine vessels to non-citizens and foreign entities without Presidential approval.""}, {""title"": ""Section 2"", ""summary"": ""The Act takes effect upon approval.""}]"	913	June 20, 1953			"To amend Commonwealth Act No. 606 and define the term ""lease"" or ""charter"" in maritime law."	"[""Prohibits transfer or placement of Philippine vessels under foreign registry or flag at war with the Philippines without Presidential approval."", ""Prohibits sale, mortgage, lease, charter, or transfer of vessels or interests to non-citizens or foreign entities without Presidential approval."", ""Prohibits construction of vessels for non-citizens or foreign entities under conditions that would place them under foreign registry or flag at war with the Philippines."", ""Prohibits granting controlling interest or majority voting power in Philippine corporations owning vessels or shipyards to non-citizens or foreign entities."", ""Prohibits departure of vessels constructed wholly or partly in the Philippines that have not cleared for any foreign port before registration under Philippine laws.""]"	Commonwealth Act No. 606	"[""Maritime law"", ""Foreign ownership"", ""Vessel registration"", ""Lease"", ""Charter""]"	"[""lease"", ""charter"", ""vessel"", ""foreign registry"", ""construction"", ""corporation"", ""voting power"", ""shipyard"", ""drydock"", ""shipbuilding""]"
+repacts:datasets/markdown/repacts/1953/ra_923_1953.md	repacts	1953		datasets/markdown/repacts/1953/ra_923_1953.md	ra_923_1953	An Act Fixing the Minimum Compensation of Dentists and Pharmacists Employed by the Government in Positions Requiring Dental and Pharmaceutical Knowledge Respectively to Two Thousand Four Hundred Pesos per Annum.	"**[ REPUBLIC ACT NO. 923, June 20, 1953 ]**
+
+ AN ACT TO AMEND CERTAIN SECTIONS OF EXECUTIVE ORDER NUMBERED THREE HUNDRED NINETY-THREE, OTHERWISE KNOWN AS THE CHARTER OF THE CENTRAL LUZON AGRICULTURAL COLLEGE.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Section four of Executive Order Numbered Three hundred ninety-three, commonly known as the Charter of the Central Luzon Agricultural College, is hereby amended to read as follows:
+
+ > ""**Section 4.** The Central Luzon Agricultural College shall have the general powers set out in section thirteen of Act Numbered Fourteen hundred and fifty-nine, as amended, and the government and administration of said College and the exercise of its corporate powers are hereby vested exclusively in the Board of Trustees and the President of the College insofar as authorized by said Board. The Board of Trustees shall be composed of the Secretary of Education, who shall beex officioChairman of the Board, the Chairman of the Committee on Education of the Senate, the Chairman of the Committee on Education of the House of Representatives, the Director of Public Schools, the President of the College, and the President of the Central Luzon Agricultural College Alumni Association. When the Secretary of Education is unable to perform his duties asex officioChairman of the Board, owing to illness, absence, or other cause, or in case of a vacancy in the office, the Undersecretary of Education shall temporarily perform the functions ofex officioChairman of said Board. When both the Secretary and the Undersecretary of Education are unable to exercise the powers of the Chairman of the Board of Trustees, or when these two positions are vacant the members of the Board may elect from among themselves a temporary chairman who shall act as Chairman of the Board of Trustees.
+>
+>  ""Members of the Board shall serve without compensation, other than actual and necessary expenses incurred either in attendance upon meetings of the Board or upon other official business authorized by resolution of the Board.""
+
+ **Section 2.** The opening clause of section five of Executive Order Numbered Three hundred ninety-three is hereby amended to read as follows:
+
+ > ""**Section 5.** The Board of Trustees shall have the following powers and duties, in addition to its general powers of administration and the exercise of all the powers of a corporation as provided in section thirteen of Act Numbered Fourteen hundred and fifty-nine, as amended.""
+
+ **Section 3.** Section eleven of Executive Order Numbered Three hundred ninety-three is hereby amended so as to include a new section to read as follows:
+
+ > ""Section 11-A. The Treasurer of the Philippines shall beex offlcioTreasurer of the College, and all accounts and expenses thereof shall be audited by the Auditor General or his duly authorized representatives, and all disbursements shall be made in accordance with rules and regulations prescribed by him.""
+
+ **Section 4.** Section twelve of Executive Order Numbered Three hundred ninety-three is hereby amended to read as follows:
+
+ > ""**Section 12.** Heads of bureaus or offices of the National Government are hereby authorized to loan or transfer, upon request of the President of the college, such apparatus or supplies as may be needed by the college, and to detail employees for duty therein, when in the judgment of the head of the bureau or office such supplies or employees can be spared without serious detriment to the public service. Employees so detailed shall perform such duty as may be required by the head of the institution, and the time so employed shall count as part of their regular official service.""
+
+ **Section 5.** This Act shall take effect upon its approval.
+
+ Approved, June 20, 1953.
+"	success	Act	This act establishes a minimum annual compensation of two thousand four hundred pesos for dentists and pharmacists employed full time by the Government in positions requiring dental and pharmaceutical knowledge.	"[{""title"": ""Section 1"", ""summary"": ""All dentists and pharmacists employed full time by the Government in positions requiring dental and pharmaceutical knowledge shall receive a minimum annual compensation of two thousand four hundred pesos.""}, {""title"": ""Section 2"", ""summary"": ""The President is authorized to use sums necessary but not exceeding one hundred thousand pesos from the Philippine Treasury to carry out the purpose of this act.""}, {""title"": ""Section 3"", ""summary"": ""This act shall take effect upon its approval.""}]"	914	June 20, 1953			To fix the minimum compensation for dentists and pharmacists employed by the government.	"[""Fixes minimum annual compensation of P2,400 for dentists and pharmacists employed full time"", ""Authorizes President to use up to P100,000 from Treasury for the purpose of the act"", ""Act takes effect upon approval""]"		"[""Compensation"", ""Dentists"", ""Pharmacists"", ""Government Employees"", ""Minimum Wage""]"	"[""minimum compensation"", ""dentists"", ""pharmacists"", ""government"", ""salary"", ""treasury"", ""president"", ""P2,400"", ""P100,000""]"
+repacts:datasets/markdown/repacts/1953/ra_924_1953.md	repacts	1953		datasets/markdown/repacts/1953/ra_924_1953.md	ra_924_1953	AN ACT TO MAKE THE CLERK OF THE COURT OF FIRST INSTANCE OF A PROVINCE EX OFFICIO SHERIFF NOT ONLY OF SUCH PROVINCE BUT ALSO OF ANY CITY WHICH, BEFORE CONVERSION TO A CITY, FORMED PART OF SUCH PROVINCE.	"**[ REPUBLIC ACT NO. 924, June 20, 1953 ]**
+
+ AN ACT STANDARDIZING THE SALARIES OF JUDGES OF CHARTERED CITIES AND FOR OTHER PURPOSES.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The annual salary of each of the judges of the municipal courts of the chartered cities shall be the following:
+
+ a. Of the City of Manila, nine thousand pesos; b. Of all other cities, the salary fixed for each of the judges of municipal courts by Republic Act Numbered Eight hundred and forty or by Republic Act Numbered Eight hundred and forty-three, whichever is higher. **Section 2.** The municipal judges shall be entitled to thirty days vacation leave with pay for each year of service.
+
+ **Section 3.** All acts or parts of acts inconsistent herewith are hereby repealed.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved, June 20, 1953.
+"	success	Republic Act	The act designates the clerk of the Court of First Instance as an ex officio sheriff for the province and for any city that was part of the province before becoming a city, with compensation not exceeding 1,200 pesos, and repeals Commonwealth Act No. 629.	"[{""title"": ""Section 1"", ""summary"": ""The clerk of the Court of First Instance shall also serve as an ex officio sheriff for the province and any city formerly part of the province; compensation up to 1,200 pesos is authorized.""}, {""title"": ""Section 2"", ""summary"": ""Repeal of Commonwealth Act No. 629.""}, {""title"": ""Section 3"", ""summary"": ""Act takes effect upon its approval.""}]"	915	June 20, 1953			To designate the clerk of the Court of First Instance as an ex officio sheriff for provinces and their former cities, provide compensation, and repeal an obsolete law.	"[""Designation of clerk as ex officio sheriff"", ""Compensation not exceeding 1,200 pesos"", ""Repeal of Commonwealth Act No. 629"", ""Effectivity upon approval""]"	Repeals Commonwealth Act No. 629	"[""law"", ""municipal"", ""law enforcement""]"	"[""clerk"", ""court of first instance"", ""ex officio sheriff"", ""province"", ""city"", ""compensation"", ""repeal"", ""Commonwealth Act 629""]"
+repacts:datasets/markdown/repacts/1953/ra_925_1953.md	repacts	1953		datasets/markdown/repacts/1953/ra_925_1953.md	ra_925_1953	Act granting Faustin Nuyda a franchise for an electric light, heat and power system in the municipality of Camalig, Province of Albay.	"**[ REPUBLIC ACT NO. 925, June 20, 1953 ]**
+
+ AN ACT AMENDING ACT NUMBERED THIRTY-TWO HUNDRED FIFTY-ONE, ENTITLED ""AN ACT TO PROHIBIT THE EXPORTATION TO FOREIGN COUNTRIES OF SEEDS OF ABACA AND ITS DERIVATIVES.""
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The title and sections one and two of Act Numbered Thirty-two hundred fifty-one are amended to read as follows:
+
+ > ""An Act to prohibit the exportation of seeds, seedlings, suckers, or rootstocks of abaca.
+>
+>  ""**Section 1.** It shall be unlawful for any person, corporation, or association to export seeds, seedlings, suckers or rootstocks of the plant commonly known as 'abaca'.""
+>
+>  ""**Section 2.** Violations of this Act shall be punished by imprisonment for not less than two months nor more than two years, or a fine of not less than one hundred pesos nor more than twenty thousand, or both, in the discretion of the court, and the seeds, seedlings, suckers, or rootstocks which it is attempted to export shall be forfeited to the Government: *Provided,* That if the offenders are foreigners they shall be fined twenty thousand pesos and deported immediately.""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 20, 1953.
+"	success	Republic Act	An act granting a fifty-year franchise to Faustino Nuyda to construct, maintain, and operate an electric light, heat, and power system in Camalig, Albay, with conditions on surrender if the government takes over.	"[{""title"": ""Section 1"", ""summary"": ""The act grants Faustino Nuyda a 50-year franchise to construct, maintain, and operate an electric light, heat, and power system in Camalig, Albay, subject to the terms of Act 3636 as amended by CA 132 and the Constitution.""}, {""title"": ""Section 2"", ""summary"": ""If the government wishes to take over the system, the grantee must surrender the franchise and hand over all serviceable equipment at cost, less depreciation.""}, {""title"": ""Section 3"", ""summary"": ""The act takes effect upon its approval.""}]"	916	June 20, 1953			To grant a franchise for electric utilities in a local municipality.	"[""Granting a 50-year franchise to Faustino Nuyda for an electric light, heat, and power system in Camalig, Albay."", ""Condition that if the government takes over, the grantee must surrender the franchise and hand over equipment at cost."", ""The act takes effect upon approval."", ""Subject to the terms of Act 3636 as amended by CA 132.""]"	Act Numbered Thirty-six hundred and thirty-six, as amended by Commonwealth Act Numbered One hundred and thirty-two	"[""franchise"", ""electricity"", ""Albay"", ""municipality"", ""Camalig""]"	"[""electric light"", ""heat"", ""power"", ""Franchise"", ""Faustino Nuyda"", ""Camalig"", ""Albay"", ""Republic Act 916""]"
+repacts:datasets/markdown/repacts/1953/ra_926_1953.md	repacts	1953		datasets/markdown/repacts/1953/ra_926_1953.md	ra_926_1953	AN ACT TO PROVIDE FOR AN EFFECTIVE HIGHWAY ADMINISTRATION, MODIFY APPORTIONMENT OF HIGHWAY FUNDS AND GIVE AID TO THE PROVINCES, CHARTERED CITIES AND MUNICIPALITIES IN THE CONSTRUCTION OF ROADS AND STREETS, AND FOR OTHER PURPOSES.	"**[ REPUBLIC ACT NO. 926, June 20, 1953 ]**
+
+ AN ACT TO AUTHORIZE THE PRESIDENT TO CONVEY PUBLIC LAND AND OTHER PUBLIC PROPERTY IN PAYMENT OF LANDED ESTATES ACQUIRED BY THE GOVERNMENT.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** In payment of compensation for landed estates acquired by the Government, whether thru voluntary agreement or thru expropriation proceedings, the President of the Philippines may convey in behalf of the Republic, with the written consent of the owner of land, in total or partial payment of such compensation, such public land ""as is disposable by sale or lease to private individuals in accordance with law and such other similarly disposable property pertaining to the Republic of the Philippines. In effecting such exchange involving public agricultural land, the assessed value shall not be taken into consideration.
+
+ **Section 2.** Public lands conveyed under this Act by the President of the Philippines in behalf of the Republic shall be limited to the area as provided for in Commonwealth Act Numbered One hundred forty-one, otherwise as the Public Land Law.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved, June 20, 1953.
+"	success	Republic Act	The Philippine Highway Act of 1953 establishes a framework for effective highway administration, modifies the apportionment of highway funds, and provides aid to provinces, chartered cities, and municipalities for road and street construction, while detailing revenue disposition and definitions related to highway projects.	"[{""title"": ""Article I. Title and Scope of Act"", ""summary"": ""Introduces the short title \u2018Philippine Highway Act of nineteen hundred fifty-three\u2019 and outlines the scope, including control of highway special fund, general fund disposition, apportionment, selection of highways, administration, maintenance, classification, and rights of way.""}, {""title"": ""Article II. Definitions"", ""summary"": ""Defines key terms such as highway, Division of Highways, maintenance, construction, reconstruction, improvement, local funds, primary and secondary roads, vehicle-kilometer, and right-of-way.""}, {""title"": ""Article III. Disposition of Highway Revenue"", ""summary"": ""Amends Commonwealth Act 466 and Act 3992 to establish the Highway Special Fund from motor fuel tax proceeds and other collections, directing the fund to be apportioned and expended per the Philippine Highway Act.""}]"	917	June 20, 1953			To provide for an effective highway administration, modify apportionment of highway funds, and give aid to provinces, chartered cities, and municipalities for road and street construction.	"[""Establishment of a Highway Special Fund"", ""Modification of apportionment of highway funds"", ""Provision of aid to local governments"", ""Detailed definitions for highway-related terms"", ""Disposition of revenue from motor fuel taxes""]"	Amends Commonwealth Act No. 466 and Act No. 3992	"[""Highway"", ""Infrastructure"", ""Transportation""]"	"[""highway"", ""funds"", ""aid"", ""provinces"", ""cities"", ""municipalities"", ""roads"", ""streets"", ""administration""]"
+repacts:datasets/markdown/repacts/1953/ra_927_1953.md	repacts	1953		datasets/markdown/repacts/1953/ra_927_1953.md	ra_927_1953	AN ACT TO AMEND THE REVISED ADMINISTRATIVE CODE SO AS TO INSERT THEREIN A NEW SECTION TO BE KNOWN AS SECTION NINETEEN HUNDRED AND THIRTY-EIGHT-A, STANDARDIZING THE SALARIES OF POSTMASTERS, AND FOR OTHER PURPOSES.	"**[ REPUBLIC ACT NO. 927, June 20, 1953 ]**
+
+ AN ACT CONVERTING THE BAGA RURAL HIGH SCHOOL IN THE ISLAND OF PANAY, TO A NATIONAL AGRICULTURAL SCHOOL TO BE KNOWN AS THE PANAY NATIONAL AGRICULTURAL SCHOOL, AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Banga Rural High School located in the municipality of Banga, Province of Capiz, in the Island of Panay, is hereby converted to a national agricultural school of the Central Luzon Agricultural School type, to be known as the Panay National Agricultural School. The Secretary of Education is hereby empowered to reorganize said school accordingly.
+
+ **Section 2.** The sum of one hundred and fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of said school for the school year nineteen hundred and fifty to nineteen hundred and fifty-one. The necessary funds for the purpose shall be included in the annual General Appropriation Acts.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved, June 20, 1953.
+"	success	Act	Amends the Revised Administrative Code by inserting Section 1938‑A, establishing a standardized salary schedule for postmasters and related provisions.	"[{""title"": ""Section 1"", ""summary"": ""Insertion of Section 1938\u2011A containing the compensation schedule for postmasters, including provisions for adjustments based on volume of business, cost of living, and special circumstances.""}, {""title"": ""Section 2"", ""summary"": ""Implementation of the new salary schedule in the fiscal year beginning July 1, 1953 and appropriation of \u20b1200,000 for the adjustment.""}, {""title"": ""Section 3"", ""summary"": ""Effectivity of the Act on July 1, 1953.""}]"	RA No. 918	June 20, 1953			Standardize salaries of postmasters through a fixed and adjustable compensation schedule.	"[""Insertion of Section 1938\u2011A into the Revised Administrative Code"", ""Establishment of a tiered salary schedule based on gross receipts"", ""Provisions for salary adjustments based on volume of business, cost of living, and special circumstances"", ""Appropriation of \u20b1200,000 for implementation""]"	Revised Administrative Code	"[""Revised Administrative Code"", ""Postmasters"", ""Salary Schedule"", ""Philippines"", ""RA 918""]"	"[""postmasters"", ""salary"", ""Revised Administrative Code"", ""Philippines"", ""RA 918"", ""compensation"", ""adjustment"", ""fiscal year"", ""budget"", ""public works""]"
+repacts:datasets/markdown/repacts/1953/ra_928_1953.md	repacts	1953		datasets/markdown/repacts/1953/ra_928_1953.md	ra_928_1953	"An Act to Amend Republic Act Numbered Four Hundred and One, as Amended by Republic Act Numbered Six Hundred and Seventy-One, Entitled, ""An Act to Condone All Unpaid Interest Accruing from January First, Nineteen Hundred and Forty-Two to December Thirty-First, Nineteen Hundred and Forty-Five on All Obligations Outstanding on December Eight, Nineteen Hundred and Forty-One, and to Apply Payments of Interest Paid After February Twenty-Eight, Nineteen Hundred and Forty-Five, to the Principal Obligation if Still Outstanding, in Certain Cases."","	"**[ REPUBLIC ACT NO. 928, June 20, 1953 ]**

@@ -1,0 +1,187 @@
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Healthcare	This act increases the bed capacity of the Butuan City General Hospital to 125 beds, upgrades it to a provincial hospital, and appropriates funds for its operation.	"[{""title"": ""Section 1"", ""summary"": ""The bed capacity of the Butuan City General Hospital is increased from 100 to 125 beds and it is upgraded to a provincial hospital known as the Agusan del Norte Provincial Hospital.""}, {""title"": ""Section 2"", ""summary"": ""The necessary funds to carry out the provisions of this Act will be included in the General Appropriations Act of the following year.""}, {""title"": ""Section 3"", ""summary"": ""The Act shall take effect upon its approval.""}]"	7520	May 21, 1992	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""ANACLETO D. BADOY, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""CORAZON C. AQUINO"", ""title"": ""President of the Philippines""}]"	To increase bed capacity and upgrade the hospital to a provincial status, enhancing healthcare services and infrastructure.	"[""Increase bed capacity to 125 beds"", ""Upgrade to provincial hospital"", ""Appropriation of funds for operation"", ""Funding to be included in General Appropriations Act of following year"", ""Effective upon approval""]"		"[""Healthcare"", ""Hospitalization"", ""Bed Capacity"", ""Provincial Hospital"", ""Philippines""]"	"[""bed capacity"", ""Butuan City General Hospital"", ""Agusan del Norte"", ""provincial hospital"", ""Republic Act 7520"", ""healthcare"", ""funding""]"
+repacts:datasets/markdown/repacts/1992/ra_7521_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7521_1992.md	ra_7521_1992	AN ACT EXPANDING AND UPGRADING THE TINAMBAC MEDICARE HOSPITAL IN THE MUNICIPALITY OF TINAMBAC, PROVINCE OF CAMARINES SURE, FROM A FIFTEEN-BED CAPACITY MEDICARE HOSPITAL INTO A TWENTY-FIVE-BED CAPACITY DISTRICT HOSPITAL, TO BE KNOWN AS THE TINAMBAC DISTRICT HOSPITAL, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 7521, May 21, 1992 ]**
+
+ AN ACT EXPANDING AND UPGRADING THE TINAMBAC MEDICARE HOSPITAL IN THE MUNICIPALITY OF TINAMBAC, PROVINCE OF CAMARINES SURE, FROM A FIFTEEN-BED CAPACITY MEDICARE HOSPITAL INTO A TWENTY-FIVE-BED CAPACITY DISTRICT HOSPITAL, TO BE KNOWN AS THE TINAMBAC DISTRICT HOSPITAL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled
+
+ **Section 1.** The Tinambac Medicare Hospital in the Municipality of Tinambac, Province of Camarines Sur, is hereby expanded and upgraded from a fifteen-bed capacity medicare hospital into a twenty-five bed capacity district hospital, to be known as the Tinambac District Hospital.
+
+ **Section 2.** The amount necessary to carry out the provisions of this shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved, May 21, 1992.
+"	success	Health	Expands and upgrades Tinambac Medicare Hospital to a 25-bed district hospital, providing increased healthcare capacity and services.	"[{""title"": ""Section 1"", ""summary"": ""The Tinambac Medicare Hospital is hereby expanded and upgraded from a fifteen-bed medicare hospital to a twenty-five-bed district hospital, to be known as the Tinambac District Hospital.""}, {""title"": ""Section 2"", ""summary"": ""The necessary funds for this expansion are to be included in the General Appropriations Act of the year following its enactment.""}, {""title"": ""Section 3"", ""summary"": ""The Act shall take effect upon its approval.""}]"	7521	May 21, 1992			To enhance healthcare infrastructure by expanding and upgrading a local hospital to meet increased community needs.	"[""Expands Tinambac Medicare Hospital to a 25-bed district hospital"", ""Funding provided through the General Appropriations Act"", ""Act takes effect upon approval""]"		"[""Health"", ""Hospital"", ""Tinambac"", ""Camarines Sur"", ""Republic Act""]"	"[""Tinambac"", ""Medicare Hospital"", ""District Hospital"", ""Expansion"", ""Upgrading"", ""Bed capacity"", ""General Appropriations Act"", ""Philippines"", ""Republic Act 7521""]"
+repacts:datasets/markdown/repacts/1992/ra_7522_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7522_1992.md	ra_7522_1992	REPUBLIC ACT NO. 7522, May 21, 1992	"**[ REPUBLIC ACT NO. 7522, May 21, 1992 ]**
+
+ AN ACT INCREASING THE BED CAPACITY OF THE DRA. OLIVIA SALAMANCA HOSPITAL IN CAVITE CITY, FROM FIFTY (50) TO SEVENTY-FIVE (75) BEDS, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The bed capacity of the Dra. Olivia Salamanca Hospital in Cavite City, is hereby increased from fifty (50) to seventy-five (75) beds.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on October 17, 1991 and February 3, 1992, respectively. |  |
+| (Sgd.) **ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: May 21, 1992
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippine*
+"	success	Public Law	An act increasing the bed capacity of the Dra. Olivia Salamanca Hospital in Cavite City from 50 to 75 beds and appropriating funds for its implementation.	"[{""title"": ""Section 1."", ""summary"": ""The bed capacity of the Dra. Olivia Salamanca Hospital in Cavite City is increased from fifty (50) to seventy-five (75) beds.""}, {""title"": ""Section 2."", ""summary"": ""The necessary amount to carry out the provisions of this Act shall be included in the General Appropriations Act of the following year.""}, {""title"": ""Section 3."", ""summary"": ""The Act shall take effect upon its approval.""}]"	7522	May 21, 1992	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}, {""name"": ""CORAZON C. AQUINO"", ""title"": ""President of the Philippines""}]"	"[{""name"": ""ANACLETO D. BADOY, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}]"	To increase the bed capacity of a key regional hospital and ensure adequate funding for its operation.	"[""Increase bed capacity from 50 to 75 beds"", ""Appropriation of funds through the General Appropriations Act"", ""Effective upon approval""]"		"[""Healthcare"", ""Hospital"", ""Bed Capacity"", ""Funding""]"	"[""bed capacity"", ""hospital"", ""Cavite City"", ""Dra. Olivia Salamanca Hospital"", ""appropriations""]"
+repacts:datasets/markdown/repacts/1992/ra_7523_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7523_1992.md	ra_7523_1992	An Act Increasing the Bed Capacity of the Lipa City Hospital in Lipa City from Seventy-Five (75) to One Hundred (100) Beds, and Appropriating Funds Therefor	"**[ REPUBLIC ACT NO. 7523, May 21, 1992 ]**
+
+ AN ACT INCREASING THE BED CAPACITY OF THE LIPA CITY HOSPITAL IN LIPA CITY FROM SEVENTY-FIVE (75) TO ONE HUNDRED (100) BEDS, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The bed capacity of the Lipa City Hospital is hereby increased from seventy-five (75) to one hundred (100) beds.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on September 4, 1991 and January 30, 1992, respectively. |  |
+| (Sgd.) **ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: May 21, 1992
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	Increases the bed capacity of Lipa City Hospital from 75 to 100 beds and appropriates funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""The bed capacity of the Lipa City Hospital is hereby increased from seventy-five (75) to one hundred (100) beds.""}, {""title"": ""Section 2."", ""summary"": ""The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.""}, {""title"": ""Section 3."", ""summary"": ""This Act shall take effect upon its approval.""}]"	7523	May 21, 1992	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""ANACLETO D. BADOY, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}]"	Increase bed capacity of Lipa City Hospital and appropriate funds for its operation.	"[""Increase bed capacity from 75 to 100 beds."", ""Appropriate funds for implementation."", ""Funds to be included in General Appropriations Act of following year.""]"		"[""Healthcare"", ""Hospital"", ""Bed Capacity"", ""Lipa City""]"	"[""bed capacity"", ""Lipa City Hospital"", ""appropriation"", ""Republic Act 7523"", ""Philippines""]"
+repacts:datasets/markdown/repacts/1992/ra_7524_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7524_1992.md	ra_7524_1992	AN ACT CONVERTING THE RURAL HEALTH UNIT IN THE MUNICIPALITY OF MONCADA, PROVINCE OF TARLAC, INTO A FIVE-BED CAPACITY HEALTH INFIRMARY, TO BE KNOWN AS THE MONCADA HEALTH INFIRMARY, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 7524, May 21, 1992 ]**
+
+ AN ACT CONVERTING THE RURAL HEALTH UNIT IN THE MUNICIPALITY OF MONCADA, PROVINCE OF TARLAC, INTO A FIVE-BED CAPACITY HEALTH INFIRMARY, TO BE KNOWN AS THE MONCADA HEALTH INFIRMARY, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The rural health unit in the Municipality of Moncada, Province of Tarlac, is hereby converted into a five-bed capacity health infirmary, to be known as the Moncada Health Infirmary.
+
+ **Section 2.** The amount neccessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on October 17, 1991 and February 3, 1992, respectively. |  |
+| (Sgd.) **ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: May 21, 1992
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Healthcare	Converts the rural health unit in Moncada, Tarlac into a five-bed infirmary.	"[{""title"": ""Section 1"", ""summary"": ""Converts the rural health unit in Moncada, Tarlac into a five-bed infirmary.""}, {""title"": ""Section 2"", ""summary"": ""Appropriates funds for the conversion, to be included in the General Appropriations Act.""}, {""title"": ""Section 3"", ""summary"": ""The Act takes effect upon its approval.""}]"	REPUBLIC ACT NO. 7524	May 21, 1992	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""ANACLETO D. BADOY, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""CORAZON C. AQUINO"", ""title"": ""President of the Philippines""}]"	To convert a rural health unit into a five-bed infirmary and appropriate funds for its operation.	"[""Conversion of the rural health unit into a five-bed infirmary"", ""Appropriation of funds for the conversion"", ""Effectivity upon approval""]"		"[""Health"", ""Healthcare"", ""Infrastructure"", ""Philippines"", ""Republic Act 7524""]"	"[""rural health unit"", ""Moncada"", ""Tarlac"", ""five-bed infirmary"", ""health infirmary"", ""funding"", ""appropriation"", ""act"", ""Philippines""]"
+repacts:datasets/markdown/repacts/1992/ra_7525_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7525_1992.md	ra_7525_1992	AN ACT INCREASING THE BED CAPACITY OF THE VIGAN PROVINCIAL HOSPITAL IN THE MUNICIPALITY OF VIGAN, PROVINCE OF ILOCOS SUR, FROM ONE HUNDRED (100) TO ONE HUNDRED TWENTY-FIVE (125) BEDS, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 7525, May 21, 1992 ]**
+
+ AN ACT INCREASING THE BED CAPACITY OF THE VIGAN PROVINCIAL HOSPITAL IN THE MUNICIPALITY OF VIGAN, PROVINCE OF ILOCOS SUR, FROM ONE HUNDRED (100) TO ONE HUNDRED TWENTY-FIVE (125) BEDS, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The bed capacity of the Vigan Provincial Hospital in the Municipality of Vigan, Province of Ilocos Sur, is hereby increased from one hundred (100) to one hundred twenty-five (125) beds.
+
+ **Section 2.** The Department of Health shall take the necessary steps for the immediate implementation of this Act.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on February 7, 1992 and December 10, 1991, respectively. |  |
+| (Sgd.) **ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: May 21, 1992
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	This act increases the bed capacity of Vigan Provincial Hospital from 100 to 125 beds and appropriates funds for its implementation.	"[{""title"": ""Section 1"", ""summary"": ""The bed capacity of the Vigan Provincial Hospital is increased from one hundred (100) to one hundred twenty-five (125) beds.""}, {""title"": ""Section 2"", ""summary"": ""The Department of Health shall take the necessary steps for the immediate implementation of this Act.""}, {""title"": ""Section 3"", ""summary"": ""The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law.""}, {""title"": ""Section 4"", ""summary"": ""This Act shall take effect upon its approval.""}]"	7525	May 21, 1992			To increase the bed capacity of Vigan Provincial Hospital and provide appropriate funding for its expansion and operation.	"[""Increase bed capacity from 100 to 125 beds"", ""Appropriation of funds for the hospital expansion"", ""Implementation steps by the Department of Health"", ""Act takes effect upon approval""]"		"[""Public Health"", ""Hospital"", ""Bed Capacity"", ""Ilocos Sur"", ""Republic Act"", ""1992""]"	"[""bed capacity"", ""hospital"", ""Vigan"", ""Ilocos Sur"", ""Republic Act 7525"", ""funds appropriation""]"
+repacts:datasets/markdown/repacts/1992/ra_7526_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7526_1992.md	ra_7526_1992	Republic Act No. 7526 – An Act Converting the Rural Health Unit I in the Municipality of Victoria, Province of Tarlac, into a Five-Bed Capacity Health Infirmary, to be Known as the Victoria Health Infirmary, and Appropriating Funds Therefor	"**[ REPUBLIC ACT NO. 7526, May 21, 1992 ]**
+
+ AN ACT CONVERTING THE RURAL HEALTH UNIT I IN THE MUNICIPALITY OF VICTORIA, PROVINCE OF TARLAC, INTO A FIVE-BED CAPACITY HEALTH INFIRMARY, TO BE KNOWN AS THE VICTORIA HEALTH INFIRMARY, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Rural Health Unit I in the Municipality of Victoria, Province of Tarlac, is hereby converted into a five-bed capacity health infirmary, to be known as the Victoria Health Infirmary.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on October 17, 1991 and February 3, 1992, respectively. |  |
+| (Sgd.) **ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: May 21, 1992
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	This act converts the existing Rural Health Unit I in Victoria, Tarlac into a five-bed capacity health infirmary named the Victoria Health Infirmary and provides appropriation of funds for its operation.	"[{""title"": ""Section 1"", ""summary"": ""Converts the Rural Health Unit I into a five-bed capacity health infirmary known as the Victoria Health Infirmary.""}, {""title"": ""Section 2"", ""summary"": ""Funds necessary for implementing the act shall be included in the General Appropriations Act of the following year.""}, {""title"": ""Section 3"", ""summary"": ""The act shall take effect upon its approval.""}]"	7526	May 21, 1992	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""ANACLETO D. BADOY, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""CORAZON C. AQUINO"", ""title"": ""President of the Philippines""}]"	To convert the Rural Health Unit I in Victoria, Tarlac into a five-bed capacity health infirmary and secure appropriate funding for its operation.	"[""Conversion of the Rural Health Unit I into a five-bed capacity health infirmary"", ""Allocation of funds through the General Appropriations Act of the following year"", ""Effectivity upon approval of the act""]"		"[""Health"", ""Healthcare"", ""Rural Health"", ""Infirmary"", ""Public Health""]"	"[""Rural Health Unit"", ""Victoria Health Infirmary"", ""five-bed capacity"", ""General Appropriations Act"", ""converted"", ""health infirmary"", ""province of Tarlac""]"
+repacts:datasets/markdown/repacts/1992/ra_7527_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7527_1992.md	ra_7527_1992	AN ACT CONVERTING THE RURAL HEALTH UNIT I IN THE MUNICIPALITY OF GERONA, PROVINCE OF TARLAC, INTO A FIVE-BED CAPACITY HEALTH INFIRMARY, TO BE KNOWN AS THE GERONA HEALTH INFIRMARY, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 7527, May 21, 1992 ]**
+
+ AN ACT CONVERTING THE RURAL HEALTH UNIT I IN THE MUNICIPALITY OF GERONA, PROVINCE OF TARLAC, INTO A FIVE-BED CAPACITY HEALTH INFIRMARY, TO BE KNOWN AS THE GERONA HEALTH INFIRMARY, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Rural Health Unit I in the Municipality of Gerona, Province of Tarlac, is hereby converted into a five-bed capacity health infirmary, to be known as the Gerona Health Infirmary.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on October 17, 1991 and February 3, 1992, respectively. |  |
+| (Sgd.) **ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: May 21, 1992
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Law	This act converts the Rural Health Unit I in Gerona, Tarlac into a five-bed capacity health infirmary known as Gerona Health Infirmary and appropriates funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""Converts Rural Health Unit I in Gerona, Tarlac into a five-bed capacity health infirmary named Gerona Health Infirmary.""}, {""title"": ""Section 2."", ""summary"": ""Funds necessary for the act will be included in the General Appropriations Act of the following year.""}, {""title"": ""Section 3."", ""summary"": ""Act takes effect upon approval.""}]"	7527	May 21, 1992	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""ANACLETO D. BADOY, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}]"	To convert the Rural Health Unit I in Gerona, Tarlac into a five-bed health infirmary and allocate necessary funds.	"[""Conversion of Rural Health Unit I to Gerona Health Infirmary with five-bed capacity"", ""Appropriation of necessary funds via General Appropriations Act of the following year"", ""Effective date upon approval""]"		"[""Health"", ""Local Government"", ""Infrastructure"", ""Tarlac"", ""Gerona""]"	"[""Rural Health Unit"", ""Gerona Health Infirmary"", ""five-bed capacity"", ""appropriation"", ""General Appropriations Act"", ""Tarlac"", ""Gerona""]"
+repacts:datasets/markdown/repacts/1992/ra_7528_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7528_1992.md	ra_7528_1992	AN ACT CHANGING THE NAME OF THE SOUTHERN ISLANDS MEDICAL CENTER IN THE CITY OF CEBU TO VICENTE SOTTO MEMORIAL MEDICAL CENTER	"**[ REPUBLIC ACT NO. 7528, May 21, 1992 ]**
+
+ AN ACT CHANGING THE NAME OF THE SOUTHERN ISLANDS MEDICAL CENTER IN THE CITY OF CEBU TO VICENTE SOTTO MEMORIAL MEDICAL CENTER
+
+ Be it enacted by the Senate and House Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The name of the Southern Islands Medical Center in the City of Cebu is hereby changed to Vicente Sotto Memorial Medical Center.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on August 1, 1991 and February 3, 1992, respectively. |  |
+| (Sgd.) **ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: May 21, 1992
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	This act changes the name of the Southern Islands Medical Center in Cebu to Vicente Sotto Memorial Medical Center and takes effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""The name of the Southern Islands Medical Center in the City of Cebu is hereby changed to Vicente Sotto Memorial Medical Center.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	7528	May 21, 1992	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}, {""name"": ""CORAZON C. AQUINO"", ""title"": ""President of the Philippines""}]"		To change the name of the Southern Islands Medical Center in Cebu to Vicente Sotto Memorial Medical Center.	"[""The name of the Southern Islands Medical Center in the City of Cebu is hereby changed to Vicente Sotto Memorial Medical Center."", ""This Act shall take effect upon its approval.""]"		"[""Republic Act"", ""Medical"", ""Name Change"", ""Cebu"", ""Vicente Sotto Memorial Medical Center""]"	"[""Southern Islands Medical Center"", ""Vicente Sotto Memorial Medical Center"", ""Cebu"", ""Name change"", ""Republic Act 7528"", ""Medical center""]"
+repacts:datasets/markdown/repacts/1992/ra_7529_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7529_1992.md	ra_7529_1992	AN ACT GRANTING VANGUARD RADIO NETWORK COMPANY, INC. A FRANCHISE TO CONSTRUCT, INSTALL, OPERATE AND MAINTAIN RADIO AND TELEVISION BROADCASTING STATIONS IN THE ISLAND OF LUZON AND FOR OTHER PURPOSES	"**[ REPUBLIC ACT NO. 7529, May 22, 1992 ]**
+
+ AN ACT GRANTING VANGUARD RADIO NETWORK COMPANY, INC. A FRANCHISE TO CONSTRUCT, INSTALL, OPERATE AND MAINTAIN RADIO AND TELEVISION BROADCASTING STATIONS IN THE ISLAND OF LUZON AND FOR OTHER PURPOSES
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.***Nature and Scopeof Franchise.* Subject to the provisions of the Constitution and applicable laws, rules and regulations, there is hereby granted to Vanguard Radio Network Company, Inc., its successors or assigns, hereunder referred to as the grantee, a franchise to construct, install, operate and maintain for commercial purposes and in the public interest radio and television broadcasting stations in the island of Luzon with the corresponding auxiliary, special broadcast and other program and distribution services and relay stations, and to install radio communication facilities for the grantee's private use in its broadcast services.
+
+ **Section 2.***Manner of Operation of Stations or Facilities.* The stations or facilities of the grantee shall be constructed and operated in a manner as will at most result only in the minimum interference on the wavelengths or frequencies of the other existing stations or stations which may be established by law without in any way diminishing its own right to use its selected wavelengths or frequencies and the quality of transmission or reception thereon as should maximize rendition of the grantee's services and/or the availability thereof.

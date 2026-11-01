@@ -1,0 +1,205 @@
+repacts:datasets/markdown/repacts/1957/ra_1638_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1638_1957.md	ra_1638_1957	"An Act Amending Appendix A, Project No. B-412.72, Page 826, Republic Act Numbered Sixteen Hundred and Thirteen, Entitled ""An Act Appropriating Funds for Public Works"""	"**REPUBLIC ACT No. 1638**
+
+ **An Act Changing the Name of Daculang-Bolo Barrio School in the Barrio of Daculang-Bolo, Municipality of Daet, Province of Camarines Norte, to Salvacion Primary School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Daculang-bolo Barrio School in the barrio of Daculang-bolo, Municipality of Daet, Province of Camarines Norte, is changed to Salvacion Primary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	"This Act amends Republic Act No. 163 by deleting the phrase ""Perez Boulevard"" and replacing it with ""Pantal Bridge, Dagupan City | ₱300,000.00"" in Appendix A, Project No. B-412.72, page 826."	"[{""title"": ""Section 1"", ""summary"": ""Deletes the words \""Perez Boulevard\"" and updates the entry to \""Pantal Bridge, Dagupan City | \u20b1300,000.00\"" in Appendix A, Project No. B-412.72, page 826.""}, {""title"": ""Section 2"", ""summary"": ""The Act takes effect upon its approval.""}]"	1626	June 20, 1957			To amend the existing Republic Act to update project details related to public works appropriation.	"[""Deletes \""Perez Boulevard\"" from Appendix A, Project No. B-412.72, page 826."", ""Adds \""Pantal Bridge, Dagupan City | \u20b1300,000.00\"" to the same entry."", ""Effective upon approval of the Act.""]"	Republic Act No. 163	"[""Amendment"", ""Public Works"", ""Appropriation""]"	"[""RA 1626"", ""Pantal Bridge"", ""Dagupan City"", ""Public Works"", ""Appropriation""]"
+repacts:datasets/markdown/repacts/1957/ra_1639_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1639_1957.md	ra_1639_1957	An Act Changing the Name of the Municipality of Bauguen, Province of Ilocos Sur, to Salcedo	"**REPUBLIC ACT No. 1639**
+
+ **An Act Changing the Name of Mariano Primary School in the Barrio of Mariano, Municipality of Gingoog, Province of Misamis Oriental, to Ramon Arevalo Primary School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Mariano Primary School in the barrio of Mariano, Municipality of Gingoog, Province of Misamis Oriental, is changed to Ramon Arevalo Primary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	An act that changes the name of the Municipality of Bauguen in Ilocos Sur to Salcedo.	"[{""title"": ""Section 1"", ""summary"": ""The name of the Municipality of Bauguen, Province of Ilocos Sur, is hereby changed to Salcedo.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	1627	June 20, 1957			To rename the municipality of Bauguen to Salcedo.	"[""Name of the Municipality of Bauguen, Ilocos Sur, is changed to Salcedo."", ""Act takes effect upon approval.""]"		"[""municipality"", ""name change""]"	"[""Bauguen"", ""Salcedo"", ""Ilocos Sur"", ""municipality"", ""name change""]"
+repacts:datasets/markdown/repacts/1957/ra_1640_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1640_1957.md	ra_1640_1957	An Act Changing the Name of the Naujan Farm School in the Municipality of Naujan, Province of Oriental Mindoro, to Mariano P. Leuterio Memorial School	"**REPUBLIC ACT No. 1640**
+
+ **An Act to Convert the Sitio of Canaway in the Municipality of Malilipot, Province of Albay, into a Barrio**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Canaway in the Municipality of Malilipot, Province of Albay, is hereby converted into a barrio of the said municipality.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	An act to rename the Naujan Farm School to Mariano P. Leuterio Memorial School, effective upon its approval.	"[{""title"": ""Section 1"", ""summary"": ""The name of the Naujan Farm School in the Municipality of Naujan, Province of Oriental Mindoro, is changed to Mariano P. Leuterio Memorial School.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	1628	June 20, 1957			To change the name of a public school in Oriental Mindoro.	"[""Name of Naujan Farm School changed to Mariano P. Leuterio Memorial School"", ""Act takes effect upon approval""]"		"[""name change"", ""education"", ""school"", ""Oriental Mindoro""]"	"[""Naujan"", ""Farm School"", ""Mariano P. Leuterio"", ""Memorial School"", ""Oriental Mindoro"", ""June 20 1957""]"
+repacts:datasets/markdown/repacts/1957/ra_1641_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1641_1957.md	ra_1641_1957	An Act to Establish, Maintain and Operate a School of Nursing in the Quezon Memorial Hospital in the Municipality of Lucena, Province of Quezon, and to Authorize the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 1641**
+
+ **An Act Changing the Name of Puerto Rivas Elementary School in the Barrio of Puerto Rivas, Municipality of Balanga, Province of Bataan, to Maximino De Los Reyes Memorial School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Puerto Rivas Elementary School in the barrio of Puerto Rivas, Municipality of Balanga, Province of Bataan, is hereby changed to Maximino de los Reyes Memorial School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Education	The act establishes a School of Nursing at Quezon Memorial Hospital and authorizes the appropriation of 100,000 pesos for its establishment, maintenance and operation, becoming effective upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of a School of Nursing at Quezon Memorial Hospital, under the control of the hospital director and supervised by the Bureau of Hospitals director.""}, {""title"": ""Section 2."", ""summary"": ""Authorization of the appropriation of one hundred thousand pesos from the National Treasury for the school's establishment, maintenance and operation, to be disbursed by the hospital director.""}, {""title"": ""Section 3."", ""summary"": ""The act shall take effect upon its approval.""}]"	RA No. 1629	June 20, 1957			To establish a nursing school and authorize funding for its operation	"[""Establish a School of Nursing"", ""Authorize appropriation of 100,000 pesos"", ""Effectivity upon approval""]"		"[""Education"", ""Health"", ""Nursing"", ""Hospital""]"	"[""nursing"", ""school"", ""Quezon Memorial Hospital"", ""Lucena"", ""Quezon"", ""funding"", ""appropriation""]"
+repacts:datasets/markdown/repacts/1957/ra_1642_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1642_1957.md	ra_1642_1957	An Act Changing the Name of the Municipality of Magallon in the Province of Negros Occidental to Municipality of Moises Padilla	"**REPUBLIC ACT No. 1642**
+
+ **An Act Providing that the School in the Municipality of Loboc, Province of Bohol, at Present Known as Oy Primary School, Shall Hereafter be Known as Bartolome Doria Primary School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The school in the Municipality of Loboc, Province of Bohol, at present known as Oy Primary School, shall hereafter be known as Bartolome Doria Primary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	Renames the Municipality of Magallon to Moises Padilla in Negros Occidental.	"[{""title"": ""Section 1."", ""summary"": ""The Municipality of Magallon in the Province of Negros Occidental is hereby renamed Municipality of Moises Padilla.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	1630	June 20, 1957			To rename the municipality of Magallon to Moises Padilla.	"[""Renaming the Municipality of Magallon to Municipality of Moises Padilla."", ""Act takes effect upon approval.""]"		"[""Republic Act"", ""Municipality"", ""Name Change"", ""Negros Occidental""]"	"[""Magallon"", ""Moises Padilla"", ""renaming"", ""Negros Occidental"", ""municipality""]"
+repacts:datasets/markdown/repacts/1957/ra_1643_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1643_1957.md	ra_1643_1957	An Act Increasing to Two Hundred the Number of Letter Carriers in the City of Manila and Granting Them an Allowance of One Peso Per Day	"**REPUBLIC ACT No. 1643**
+
+ **An Act Changing the Name of the Magdalena Elementary School in the Municipality of Magdalena, Province of Laguna, to Ananias Laico Elementary School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Magdalena Elementary School in the Municipality of Magdalena, Province of Laguna, is hereby changed to Ananias Laico Elementary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	The Act increases the number of letter carriers in Manila to 200 and provides each with an allowance of one peso per day.	"[{""title"": ""Section 1"", ""summary"": ""Establishes 200 letter carriers each to receive one peso per day.""}, {""title"": ""Section 2"", ""summary"": ""Appropriates 90,000 pesos from the National Treasury for the Act's implementation.""}, {""title"": ""Section 3"", ""summary"": ""The Act takes effect upon approval.""}]"	1631	June 20, 1957			To increase the number of letter carriers in Manila and provide them with a daily allowance.	"[""Increase number of letter carriers to 200"", ""Grant one peso daily allowance to each carrier"", ""Appropriate 90,000 pesos for implementation""]"		"[""Labor"", ""Postal Services""]"	"[""letter carriers"", ""allowance"", ""Manila"", ""postal service"", ""budget""]"
+repacts:datasets/markdown/repacts/1957/ra_1644_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1644_1957.md	ra_1644_1957	An Act Changing the Name of Barrio Zimigui-Ziuanan, Municipality of Pamplona, Province of Cagayan, to Masi	"**REPUBLIC ACT No. 1644**
+
+ **An Act Changing the Name of Cainbuñgan Barrio School, Municipality of Cadiz, Province of Negros Occidental, to Luis Consing Memorial School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Cainbuñgan Barrio School, Municipality of Cadiz, Province of Negros Occidental, is changed to Luis Consing Memorial School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	This act changes the name of Barrio Zimigui-Ziuanan in Pamplona, Cagayan to Masi, effective upon approval, enacted June 20, 1957.	"[{""title"": ""Section 1."", ""summary"": ""The name of Barrio Zimigui-Ziuanan of the Municipality of Pamplona, Province of Cagayan, is hereby changed to Masi.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	1632	June 20, 1957			Name change of a barrio	"[""Name of Barrio Zimigui-Ziuanan changed to Masi"", ""Act takes effect upon approval""]"		"[""Name change"", ""Local government"", ""Cagayan"", ""Municipality of Pamplona""]"	"[""Barrio"", ""Zimigui-Ziuanan"", ""Masi"", ""Cagayan"", ""Pamplona""]"
+repacts:datasets/markdown/repacts/1957/ra_1645_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1645_1957.md	ra_1645_1957	An Act to Change the Name of Gines Primary School to Martin Cubil Primary School in Cabatuan, Iloilo	"**REPUBLIC ACT No. 1645**
+
+ **An Act Changing the Name of San Agustin Elementary School in the Barrio of San Agustin, Municipality of San Miguel, Province of Bulacan, to Don Felix De Leon Memorial School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of San Agustin Elementary School in the barrio of San Agustin, Municipality of San Miguel, Province of Bulacan, is changed to Don Felix de Leon Memorial School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Education	An act to change the name of Gines Primary School to Martin Cubil Primary School, effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Name of Gines Primary School is changed to Martin Cubil Primary School.""}, {""title"": ""Section 2"", ""summary"": ""Act shall take effect upon its approval.""}]"	RA 1633	June 20, 1957			To change the name of Gines Primary School to Martin Cubil Primary School.	"[""Change the name of Gines Primary School to Martin Cubil Primary School.""]"		"[""Education"", ""SchoolNameChange""]"	"[""Gines Primary School"", ""Martin Cubil"", ""Cabatuan"", ""Iloilo"", ""Republic Act 1633"", ""Name change""]"
+repacts:datasets/markdown/repacts/1957/ra_1646_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1646_1957.md	ra_1646_1957	"An Act Changing the Name of the Barrio School of Capoocan in the City of Calbayog, to ""Tiburcio Tancinco Memorial School"""	"**REPUBLIC ACT No. 1646**
+
+ **An Act Changing the Name of the Sacub Primary School in the Municipality of Bansalan, Province of Davao, to Lanuro Primary School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The Sacub Primary School in the Municipality of Bansalan, Province of Davao, shall hereafter be known as the Lanuro Primary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	This act changes the name of the barrio school of Capoocan in Calbayog City to Tiburcio Tancinco Memorial School.	"[{""title"": ""Section 1"", ""summary"": ""The barrio school of Capoocan in the City of Calbayog shall be known as \""Tiburcio Tancinco Memorial School\"" in honor of the late Tiburcio Tancinco.""}, {""title"": ""Section 2"", ""summary"": ""This act shall take effect upon its approval.""}]"	1634	June 20, 1957			To rename the barrio school of Capoocan in Calbayog City to honor Tiburcio Tancinco.	"[""Changes the name of the barrio school of Capoocan in Calbayog City to Tiburcio Tancinco Memorial School.""]"		"[""Education"", ""Renaming"", ""School"", ""Republic Act""]"	"[""Barrio School"", ""Capoocan"", ""Calbayog"", ""Tiburcio Tancinco"", ""Renaming"", ""Republic Act 1634""]"
+repacts:datasets/markdown/repacts/1957/ra_1647_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1647_1957.md	ra_1647_1957	AN ACT TO REQUIRE THE PRINTING AND ISSUE OF SEMI-POSTAL STAMPS IN ORDER TO RAISE FUNDS FOR THE PHILIPPINE TUBERCULOSIS SOCIETY.	"**REPUBLIC ACT No. 1647**
+
+ **An Act Changing the Name of Putol Elementary School in the Barrio of Putol, Municipality of Kawit, Province of Cavite, to Putol-Sta. Isabel Elementary School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Putol Elementary School located at the boundary of the barrios of Putol and Sta. Isabel, Municipality of Kawit, Province of Cavite, is changed to Putol-Sta. Isabel Elementary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	This act requires the Republic of the Philippines to print and issue semi‑postal stamps during specific months each year, with proceeds earmarked for the Philippine Tuberculosis Society, and provides for appropriations and funds management.	"[{""title"": ""Section 1."", ""summary"": ""Mandates the printing and issuing of semi\u2011postal stamps between August 19 and September 30 annually, requiring such stamps on mail during that period and establishing a special fund from the proceeds.""}, {""title"": ""Section 2."", ""summary"": ""Authorizes appropriation of 24,000 pesos for the first year\u2019s printing costs, to be reimbursed from the special fund, and allows subsequent year costs to be taken from that fund.""}, {""title"": ""Section 3."", ""summary"": ""States that the act takes effect upon its approval.""}]"	1635	June 20, 1957			to raise funds for the Philippine Tuberculosis Society	"[""Printing and issuing semi\u2011postal stamps from August 19 to September 30 each year."", ""Mail during that period must bear the stamps."", ""Special fund created from stamp proceeds for the Tuberculosis Society."", ""Authorization of 24,000 pesos for the first year\u2019s printing costs, reimbursed from the special fund."", ""Subsequent year printing costs to be taken from the special fund."", ""Effectivity upon approval.""]"		"[""Tuberculosis"", ""Semi\u2011Postal Stamps"", ""Fundraising""]"	"[""Philippine Tuberculosis Society"", ""semi\u2011postal stamps"", ""raising funds"", ""postage"", ""budget appropriation""]"
+repacts:datasets/markdown/repacts/1957/ra_1648_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1648_1957.md	ra_1648_1957	An Act Changing the Name of the Maayon Barrio School in the Barrio of Maayon, Municipality of Pontevedra, Province of Capiz, to Arturo Cantiller Memorial School	"**REPUBLIC ACT No. 1648**
+
+ **An Act Changing the Name of Wawa Elementary School in the Barrio of Wawa, Municipality of Rosario, Province of Cavite, to David Jimenez Elementary School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Wawa Elementary School in the barrio of Wawa, Municipality of Rosario, Province of Cavite, is changed to David Jimenez Elementary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	This act changes the name of the Maayon Barrio School to Arturo Cantiller Memorial School.	"[{""title"": ""Section 1"", ""summary"": ""The name of Maayon Barrio School is hereby changed to Arturo Cantiller Memorial School.""}, {""title"": ""Section 2"", ""summary"": ""This act shall take effect upon its approval.""}]"	1636	June 20, 1957				"[""Name of Maayon Barrio School changed to Arturo Cantiller Memorial School."", ""Act shall take effect upon approval.""]"		"[""Education"", ""School renaming""]"	"[""Maayon"", ""Pontevedra"", ""Capiz"", ""Arturo Cantiller"", ""school renaming""]"
+repacts:datasets/markdown/repacts/1957/ra_1649_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1649_1957.md	ra_1649_1957	An Act Changing the Name of Fort Corcuera in the Municipality of Malabang, Province of Lanao, to Fort Jose Abad Santos	"**REPUBLIC ACT No. 1649**
+
+ **An Act Transferring the Barrios of Capahu-an and Guingawan, Municipality of Dagami, Province of Leyte, to the Municipality of Tabontabon**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The barrios of Capahu-an and Guingawan, Municipality of Dagami, Province of Leyte, are hereby transferred to the Municipality of Tabontabon.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	This act changes the name of Fort Corcuera in Malabang, Lanao to Fort Jose Abad Santos.	"[{""title"": ""Section 1"", ""summary"": ""Name of Fort Corcuera changed to Fort Jose Abad Santos.""}, {""title"": ""Section 2"", ""summary"": ""Act takes effect upon approval.""}]"	1637	June 20, 1957			To change the name of Fort Corcuera to Fort Jose Abad Santos.	"[""Name of Fort Corcuera changed to Fort Jose Abad Santos.""]"		"[""Renaming"", ""Fort"", ""Malabang"", ""Lanao"", ""1957""]"	"[""Fort Corcuera"", ""Fort Jose Abad Santos"", ""Malabang"", ""Lanao"", ""Jose Abad Santos"", ""Republic Act 1637"", ""1957""]"
+repacts:datasets/markdown/repacts/1957/ra_1650_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1650_1957.md	ra_1650_1957	An Act Changing the Name of Daculang-Bolo Barrio School in the Barrio of Daculang-Bolo, Municipality of Daet, Province of Camarines Norte, to Salvacion Primary School	"**REPUBLIC ACT No. 1650**
+
+ **An Act Changing the Name of the Kabayan Central School in the Municipal District of Kabayan, Benguet, Mountain Province, to Bansen Memorial School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Kabayan Central School in the Municipal District of Kabayan, Benguet, Mountain Province, is hereby changed to Bansen Memorial School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	An act changing the name of Daculang-Bolo Barrio School to Salvacion Primary School in Daet, Camarines Norte.	"[{""title"": ""Section 1."", ""summary"": ""The name of Daculang-bolo Barrio School in the barrio of Daculang-bolo, Municipality of Daet, Province of Camarines Norte, is changed to Salvacion Primary School.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	1638	June 20, 1957			To change the name of Daculang-Bolo Barrio School to Salvacion Primary School.	"[""Change the name of Daculang-Bolo Barrio School to Salvacion Primary School.""]"		"[""Republic Act"", ""School"", ""Name Change"", ""Daet"", ""Camarines Norte""]"	"[""Name change"", ""Daculang-Bolo"", ""Salvacion Primary School"", ""Daet"", ""Camarines Norte""]"
+repacts:datasets/markdown/repacts/1957/ra_1651_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1651_1957.md	ra_1651_1957	An Act Changing the Name of Mariano Primary School in the Barrio of Mariano, Municipality of Gingoog, Province of Misamis Oriental, to Ramon Arevalo Primary School	"**REPUBLIC ACT No. 1651**
+
+ **An Act Changing the Name of Barrio Garampang, Rosario, La Union, to Barrio San Jose, Rosario, La Union**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The barrio of Garampang in the Municipality of Rosario, La Union, shall be renamed barrio San Jose, Rosario, La Union.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Education	An act that changes the official name of the Mariano Primary School in Gingoog, Misamis Oriental, to Ramon Arevalo Primary School.	"[{""title"": ""Section 1."", ""summary"": ""The name of Mariano Primary School in the barrio of Mariano, Municipality of Gingoog, Province of Misamis Oriental, is changed to Ramon Arevalo Primary School.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	1639	June 20, 1957			To officially rename Mariano Primary School as Ramon Arevalo Primary School in Gingoog, Misamis Oriental.	"[""The name of Mariano Primary School is changed to Ramon Arevalo Primary School.""]"		"[""Education"", ""School renaming""]"	"[""Mariano Primary School"", ""Ramon Arevalo Primary School"", ""Gingoog"", ""Misamis Oriental"", ""Renaming""]"
+repacts:datasets/markdown/repacts/1957/ra_1652_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1652_1957.md	ra_1652_1957	An Act to Convert the Sitio of Canaway in the Municipality of Malilipot, Province of Albay, into a Barrio	"**REPUBLIC ACT No. 1652**
+
+ **An Act Converting the Sitio of Cancoral in the Municipality of Basey, Province of Samar, into Barrio of Roxas**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Cancoral in the Municipality of Basey, Province of Samar, is hereby converted into a barrio to be known as the barrio of Roxas. It shall be bounded on the north by the wooden bridge near kilometer six extending eastward to Waclet river and extending westward to sitio Mongabong; on the south by the intersection of Cancoral and Bangon rivers extending southeast to Canaguini-an river; on the west by the middle part of Canaguini-an river down to the boundary line between sitio Mongabong and sitio May-it; and on the east by the Cancoral and Waclet rivers.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	This Republic Act converts the sitio of Canaway in Malilipot, Albay into a barrio, effective upon approval on June 20, 1957.	"[{""title"": ""Section 1."", ""summary"": ""The sitio of Canaway in the Municipality of Malilipot, Province of Albay, is hereby converted into a barrio of the said municipality.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	1640	June 20, 1957			To convert the sitio of Canaway into a barrio.	"[""Conversion of the sitio of Canaway into a barrio."", ""Act takes effect upon approval.""]"		"[""Republic Act"", ""Albay"", ""Local Government"", ""Geography""]"	"[""sitio"", ""barrio"", ""Malilipot"", ""Albay"", ""conversion""]"
+repacts:datasets/markdown/repacts/1957/ra_1653_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1653_1957.md	ra_1653_1957	An Act Changing the Name of Puerto Rivas Elementary School in the Barrio of Puerto Rivas, Municipality of Balanga, Province of Bataan, to Maximino De Los Reyes Memorial School	"**REPUBLIC ACT No. 1653**
+
+ **An Act Changing the Name of the Municipality of Linugas, Province of Misamis Oriental, to Magsaysay**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Municipality of Linugas, Province of Misamis Oriental, is hereby change to ""Magsaysay"".
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	This act changes the name of Puerto Rivas Elementary School in Balanga, Bataan to Maximino De Los Reyes Memorial School and takes effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The name of Puerto Rivas Elementary School in the barrio of Puerto Rivas, Municipality of Balanga, Province of Bataan, is hereby changed to Maximino de los Reyes Memorial School.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	1641	June 20, 1957			To rename a public elementary school as Maximino De Los Reyes Memorial School.	"[""Change the name of Puerto Rivas Elementary School to Maximino De Los Reyes Memorial School""]"		"[""Education"", ""School"", ""Name change"", ""Republic Act""]"	"[""Puerto Rivas"", ""Balanga"", ""Bataan"", ""Maximino De Los Reyes"", ""school name change""]"
+repacts:datasets/markdown/repacts/1957/ra_1654_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1654_1957.md	ra_1654_1957	An Act Providing that the School in the Municipality of Loboc, Province of Bohol, at Present Known as Oy Primary School, Shall Hereafter be Known as Bartolome Doria Primary School	"**REPUBLIC ACT No. 1654**
+
+ **An Act Changing the Name of the Municipality of Jose Panganiban, Province of Catanduanes, to Payo**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Municipality of Jose Panganiban, Province of Catanduanes, is changed to Payo.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Education	This act renames Oy Primary School in Loboc, Bohol to Bartolome Doria Primary School and takes effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Renames Oy Primary School to Bartolome Doria Primary School.""}, {""title"": ""Section 2"", ""summary"": ""Act takes effect upon its approval.""}]"	1642	June 20, 1957			To officially rename a primary school in Loboc, Bohol.	"[""Renames Oy Primary School to Bartolome Doria Primary School.""]"		"[""Education"", ""School Naming"", ""Local Government"", ""Bohol""]"	"[""Bartolome Doria Primary School"", ""Oy Primary School"", ""Loboc"", ""Bohol"", ""School Renaming""]"
+repacts:datasets/markdown/repacts/1957/ra_1655_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1655_1957.md	ra_1655_1957	An Act Changing the Name of the Magdalena Elementary School in the Municipality of Magdalena, Province of Laguna, to Ananias Laico Elementary School	"**REPUBLIC ACT No. 1655**

@@ -1,0 +1,140 @@
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, Lapsed into law on November 10, 1996 without the signature of the President, in accordance with Article VI, Section 27(1) of the Constitution.
+"	success	Education	An act that changes the name of Agnaya High School in Barangay Agnaya, Municipality of Plaridel, Bulacan to Dr. Felipe de Jesus High School, effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The name of the Agnaya High School in Barangay Agnaya, Municipality of Plaridel, Bulacan, is hereby changed to Dr. Felipe de Jesus High School.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	REPUBLIC ACT NO. 8232	November 10, 1996			To change the name of a public high school in Bulacan.	"[""The name of Agnaya High School is changed to Dr. Felipe de Jesus High School."", ""The Act shall take effect upon its approval.""]"		"[""Education"", ""School"", ""Renaming""]"	"[""Agnaya High School"", ""Dr. Felipe de Jesus High School"", ""Bulacan"", ""Plaridel"", ""Republic Act 8232""]"
+repacts:datasets/markdown/repacts/1996/ra_8233_1996.md	repacts	1996		datasets/markdown/repacts/1996/ra_8233_1996.md	ra_8233_1996	An Act Establishing the Maasin National Comprehensive High School in the Municipality of Maasin, Province of Iloilo, to be known as the Maasin National Comprehensive High School, and Appropriating Funds Therefor	"Tenth Congress
+
+ **[ REPUBLIC ACT NO. 8233, December 10, 1996 ]**
+
+ AN ACT ESTABLISHING THE MAASIN NATIONAL COMPREHENSIVE HIGH SCHOOL IN THE MUNICIPALITY OF MAASIN, PROVINCE OF ILOILO, TO BE KNOWN AS THE MAASIN NATIONAL COMPREHENSIVE HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There is hereby established the Maasin National Comprehensive High School in the Municipality of Maasin, Province of Iloilo, to be known as the Maasin National Comprehensive High School.
+
+ **Section 2.** The Secretary of Education, Culture and Sports is hereby directed to take such measures as are necessary to establish the Maasin National Comprehensive High School.
+
+ Section 3 The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved, Lapsed into law on November 10, 1996, without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.
+"	success	Education	Establishes Maasin National Comprehensive High School and appropriates funds for its creation.	"[{""title"": ""Section 1"", ""summary"": ""There is hereby established the Maasin National Comprehensive High School in the Municipality of Maasin, Province of Iloilo.""}, {""title"": ""Section 2"", ""summary"": ""The Secretary of Education, Culture and Sports is directed to take necessary measures to establish the school.""}, {""title"": ""Section 3"", ""summary"": ""The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment.""}, {""title"": ""Section 4"", ""summary"": ""This Act shall take effect upon its approval.""}]"	8233	December 10, 1996			To establish Maasin National Comprehensive High School and appropriate funds for its operation.	"[""Section 1 establishes the school."", ""Section 2 directs the Secretary of Education to take necessary measures."", ""Section 3 allocates funds in the following year's General Appropriations Act."", ""Section 4 sets the effectivity of the Act.""]"		"[""Education"", ""School"", ""Philippines"", ""Republic Act"", ""Maasin"", ""Iloilo""]"	"[""Maasin"", ""High School"", ""Education"", ""Appropriations"", ""Republic Act 8233""]"
+repacts:datasets/markdown/repacts/1996/ra_8234_1996.md	repacts	1996		datasets/markdown/repacts/1996/ra_8234_1996.md	ra_8234_1996	AN ACT CONVERTING THE MACARIO MOLINA MEMORIAL HIGH SCHOOL AT BARANGAY TAMBAC, MUNICIPALITY OF ROMBLON, PROVINCE OF ROMBLON, INTO A NATIONAL GOVERNMENT-FUNDED SECONDARY SCHOOL, TO BE KNOWN AS THE MACARIO MOLINA NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"Tenth Congress
+
+ **[ REPUBLIC ACT NO. 8234, November 10, 1996 ]**
+
+ AN ACT CONVERTING THE MACARIO MOLINA MEMORIAL HIGH SCHOOL AT BARANGAY TAMBAC, MUNICIPALITY OF ROMBLON, PROVINCE OF ROMBLON, INTO A NATIONAL GOVERNMENT-FUNDED SECONDARY SCHOOL, TO BE KNOWN AS THE MACARIO MOLINA NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Macario Molina Memorial High School at Barangay Tambac, Municipality of Romblon, Province of Romblon, is hereby converted into a regular secondary school under the control and supervision of the national government through the Department of Education, Culture and Sports, to be known as the Macario Molina National High School.
+
+ **Section 2.** The Secretary of the Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved, Lapsed into law on November 10, 1996, without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.
+"	success	Republic Act	Converts Macario Molina Memorial High School into a national government-funded secondary school known as Macario Molina National High School, and appropriates funds for its operation.	"[{""title"": ""Section 1"", ""summary"": ""Designates the Macario Molina Memorial High School as a regular secondary school under national government control, to be known as Macario Molina National High School.""}, {""title"": ""Section 2"", ""summary"": ""Authorizes the Secretary of the Department of Education, Culture and Sports to issue rules and regulations necessary to carry out the act.""}, {""title"": ""Section 3"", ""summary"": ""Mandates inclusion of necessary funds in the General Appropriations Act of the year following enactment.""}, {""title"": ""Section 4"", ""summary"": ""Declares the act to take effect upon approval.""}]"	8234	November 10, 1996			To convert Macario Molina Memorial High School into a national government-funded secondary school and provide appropriate funding to support its operations.	"[""Conversion of Macario Molina Memorial High School into a national secondary school"", ""Authority given to the Secretary of DepEd to issue necessary rules and regulations"", ""Funds to be appropriated in the General Appropriations Act of the following year"", ""Act takes effect upon approval""]"		"[""Education"", ""School"", ""Republic Act"", ""Romblon""]"	"[""Macario Molina"", ""National High School"", ""Department of Education"", ""Romblon"", ""Appropriation""]"
+repacts:datasets/markdown/repacts/1996/ra_8235_1996.md	repacts	1996		datasets/markdown/repacts/1996/ra_8235_1996.md	ra_8235_1996	AN ACT ESTABLISHING A HIGH SCHOOL IN BARANGAY MACABACLAY, MUNICIPALITY OF BONGABON, PROVINCE OF NUEVA ECIJA, TO BE KNOWN AS THE MACABACLAY HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"Tenth Congress
+
+ **[ REPUBLIC ACT NO. 8235, November 10, 1996 ]**
+
+ AN ACT ESTABLISHING A HIGH SCHOOL IN BARANGAY MACABACLAY, MUNICIPALITY OF BONGABON, PROVINCE OF NUEVA ECIJA, TO BE KNOWN AS THE MACABACLAY HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established a high school in Barangay Macabaclay, Municipality of Bongabon, Province of Nueva Ecija, to be known as the Macabaclay High School.
+
+ **Section 2.** The Secretary of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved, Lapsed into law on November 10, 1996, without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.
+"	success	Education	The Republic Act establishes the Macabaclay High School in Barangay Macabaclay, Bongabon, Nueva Ecija, authorizes the Secretary of Education, Culture and Sports to issue rules and regulations for its operation, provides for funding through the General Appropriations Act, and specifies its effectivity upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Establishes a high school in Barangay Macabaclay, Municipality of Bongabon, Province of Nueva Ecija, to be known as the Macabaclay High School.""}, {""title"": ""Section 2"", ""summary"": ""The Secretary of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.""}, {""title"": ""Section 3"", ""summary"": ""The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.""}, {""title"": ""Section 4"", ""summary"": ""This Act shall take effect upon its approval.""}]"	8235	November 10, 1996			Establishing a public high school in Barangay Macabaclay, Bongabon, Nueva Ecija.	"[""Establishment of Macabaclay High School"", ""Authority for Secretary of Education, Culture and Sports to issue rules and regulations"", ""Funding through General Appropriations Act"", ""Effectivity upon approval""]"		"[""Education"", ""High School"", ""Public School"", ""Nueva Ecija"", ""Bongabon""]"	"[""High School"", ""Macabaclay"", ""Nueva Ecija"", ""Bongabon"", ""Education"", ""Appropriation"", ""Republic Act 8235""]"
+repacts:datasets/markdown/repacts/1996/ra_8236_1996.md	repacts	1996		datasets/markdown/repacts/1996/ra_8236_1996.md	ra_8236_1996	AN ACT CONVERTING THE PALAWAN NATIONAL SCHOOLNARRA BRANCH-SANDOVAL ANNEX IN BARANGAY SANDOVAL, MUNICIPALITY OF NARRA, PROVINCE OF PALAWAN, INTO A NATIONAL HIGH SCHOOL TO BE KNOWN AS THE SANDOVAL NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"Tenth Congress
+
+ **[ REPUBLIC ACT NO. 8236, November 10, 1996 ]**
+
+ AN ACT CONVERTING THE PALAWAN NATIONAL SCHOOLNARRA BRANCH-SANDOVAL ANNEX IN BARANGAY SANDOVAL, MUNICIPALITY OF NARRA, PROVINCE OF PALAWAN, INTO A NATIONAL HIGH SCHOOL TO BE KNOWN AS THE SANDOVAL NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.**The existing Palawan National School-Narra Branch-Sandoval Annex in Barangay Sandoval, Municipality of Narra, Province of Palawan, is hereby converted into a national high school to be known as the Sandoval National High School.
+
+ **Section 2.** The Secretary of Education, Culture and Sports shall issue the necessary rules, orders and circulars to implement the provisions of this Act.
+
+ **Section 3.** All personnel, records, assets and properties, including buildings, sites, and the improvements thereof, obligations, funds and appropriations of the Palawan National School-Narra Branch-Sandoval Annex are hereby transferred to the Sandoval National High School.
+
+ **Section 4.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 5.** This Act shall take effect upon its approval.
+
+ Approved, Lapsed into law on November 10, 1996, without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.
+"	success	Republic Act	Converts the Palawan National School-Narra Branch-Sandoval Annex into Sandoval National High School and appropriates funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""Converts the existing Palawan National School-Narra Branch-Sandoval Annex into a national high school named Sandoval National High School.""}, {""title"": ""Section 2."", ""summary"": ""The Secretary of Education, Culture and Sports shall issue the necessary rules, orders and circulars to implement the provisions of this Act.""}, {""title"": ""Section 3."", ""summary"": ""Transfers all personnel, records, assets, properties, and funds of the former Annex to the new Sandoval National High School.""}, {""title"": ""Section 4."", ""summary"": ""Allocates the necessary amount in the General Appropriations Act of the following year and thereafter.""}, {""title"": ""Section 5."", ""summary"": ""The Act takes effect upon its approval.""}]"	REPUBLIC ACT NO. 8236	November 10, 1996			To convert the existing school annex into a national high school and provide appropriated funds for its operation.	"[""Conversion of the school annex into a national high school"", ""Issuance of rules and orders by the Secretary of Education"", ""Transfer of personnel, records, assets, and funds"", ""Appropriation of necessary funds in the subsequent General Appropriations Act"", ""Effectivity upon approval""]"		"[""Education"", ""School"", ""Palawan"", ""High School"", ""Republic Act 8236""]"	"[""Palawan National School"", ""Sandoval National High School"", ""Conversion"", ""Appropriation"", ""Education""]"
+repacts:datasets/markdown/repacts/1996/ra_8237_1996.md	repacts	1996		datasets/markdown/repacts/1996/ra_8237_1996.md	ra_8237_1996	AN ACT CREATING A BARANGAY NATIONAL HIGH SCHOOL IN BARANGAY ALEGRIA, MUNICIPALITY OF MURCIA, PROVINCE OF NEGROS OCCIDENTAL, TO BE KNOWN AS THE BARANGAY ALEGRIA NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"Tenth Congress
+
+ **[ REPUBLIC ACT NO. 8237, December 15, 1996 ]**
+
+ AN ACT CREATING A BARANGAY NATIONAL HIGH SCHOOL IN BARANGAY ALEGRIA, MUNICIPALITY OF MURCIA, PROVINCE OF NEGROS OCCIDENTAL, TO BE KNOWN AS THE BARANGAY ALEGRIA NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established a barangay national high school in Barangay Alegria, Municipality of Murcia, Province of Negros Occidental, to be known as the Barangay Alegria National High School.
+
+ **Section 2.** The Secretary of the Department of Education, Culture and Sports shall issue rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act is hereby authorized to be appropriated in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved, Lapsed into law on November 15, 1996, without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.
+"	success	Education	An act establishing a barangay national high school in Barangay Alegria, Murcia, Negros Occidental, and appropriating funds for its operation.	"[{""title"": ""Section 1"", ""summary"": ""Establishes the Barangay Alegria National High School in Barangay Alegria, Municipality of Murcia, Province of Negros Occidental.""}, {""title"": ""Section 2"", ""summary"": ""The Secretary of the Department of Education, Culture and Sports shall issue rules and regulations necessary to carry out the purpose of the act.""}, {""title"": ""Section 3"", ""summary"": ""Authorizes the appropriation of the necessary amount for the act's provisions in the General Appropriations Act of the following year and thereafter.""}, {""title"": ""Section 4"", ""summary"": ""Specifies that the act shall take effect upon its approval.""}]"	Republic Act No. 8237	December 15, 1996			To establish a barangay national high school in Barangay Alegria, Murcia, Negros Occidental, and appropriate funds for its operation.	"[""Establishment of Barangay Alegria National High School"", ""Secretary to issue rules and regulations"", ""Appropriation of funds for the school's operation"", ""Effectivity upon approval""]"		"[""Education"", ""Barangay"", ""High School"", ""Negros Occidental"", ""Republic Act 8237""]"	"[""barangay"", ""national high school"", ""Murcia"", ""Negros Occidental"", ""education"", ""funds""]"
+repacts:datasets/markdown/repacts/1996/ra_8238_1996.md	repacts	1996		datasets/markdown/repacts/1996/ra_8238_1996.md	ra_8238_1996	AN ACT CONVERTING THE MAPAWA BARANGAY HIGH SCHOOL IN BARANGAY MAPAWA, MUNICIPALITY OF MARAGUSAN, PROVINCE OF DAVAO, INTO THE MAPAWA NATIONAL HIGH SCHOOL, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES	"Tenth Congress
+
+ **[ REPUBLIC ACT NO. 8238, November 15, 1996 ]**
+
+ AN ACT CONVERTING THE MAPAWA BARANGAY HIGH SCHOOL IN BARANGAY MAPAWA, MUNICIPALITY OF MARAGUSAN, PROVINCE OF DAVAO, INTO THE MAPAWA NATIONAL HIGH SCHOOL, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Mapawa Barangay High School in Barangay Mapawa, Municipality of Maragusan, Province of Davao, is hereby nationalized, to be known as the Mapawa National High School.
+
+ **Section 2.** The Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the provisions of this Act.
+
+ **Section 3.** All personnel, records, equipment, buildings, facilities, and other properties of the Mapawa Barangay High School are hereby transferred to the Mapawa National High School.
+
+ **Section 4.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 5.** This Act shall take effect upon its approval.
+
+ Approved, Lapsed into law on November 15, 1996, without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.
+"	success	Republic Act	Converts the Mapawa Barangay High School into the Mapawa National High School, authorizes funding, and outlines implementation procedures.	"[{""title"": ""Section 1."", ""summary"": ""The Mapawa Barangay High School is nationalized and renamed the Mapawa National High School.""}, {""title"": ""Section 2."", ""summary"": ""The Department of Education, Culture and Sports shall issue necessary rules and regulations to implement the Act.""}, {""title"": ""Section 3."", ""summary"": ""All personnel, records, equipment, buildings, facilities, and other properties of the former school are transferred to the new national high school.""}, {""title"": ""Section 4."", ""summary"": ""Funds necessary for implementation are included in the General Appropriations Act of the following year.""}, {""title"": ""Section 5."", ""summary"": ""The Act shall take effect upon its approval.""}]"	8238	November 15, 1996			To nationalize the Mapawa Barangay High School as a National High School and provide necessary funding and regulations for its operation.	"[""Section 1: Nationalization of the school"", ""Section 2: Issuance of rules by the Department of Education"", ""Section 3: Transfer of personnel and assets"", ""Section 4: Allocation of funds in the next General Appropriations Act"", ""Section 5: Effective date upon approval""]"		"[""Education"", ""National High School"", ""Philippines"", ""Davao"", ""Republic Act""]"	"[""Mapawa"", ""Barangay"", ""National High School"", ""Davao"", ""Education"", ""Funding""]"
+repacts:datasets/markdown/repacts/1996/ra_8239_1996.md	repacts	1996		datasets/markdown/repacts/1996/ra_8239_1996.md	ra_8239_1996	Philippine Passport Act of 1996	"Tenth Congress
+
+ **[ REPUBLIC ACT NO. 8239, November 22, 1996 ]**
+
+ PHILIPPINE PASSPORT ACT OF 1996
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** *Short Title.* This Act will be called as the ""Philippine Passport Act of 1996.""
+
+ **Section 2.** *Statement of Policy.* The people's constitutional right to travel is inviolable. Accordingly, the government has the duty to issue passport or any travel document to any citizen of the Philippines or individual who complies with the requirement of this Act. The right to travel may be impaired only when national security, public safety, or public health requires. To enhance and protect the unimpaired exercise of this right, only minimum requirements for the application and issuance of passports and other travel documents shall be prescribed. Action on such application and the issuance shall be expedited.
+
+ **Section 3.** *Definitions.* As used in this Act:
+
+ a. Department means the Department of Foreign Affairs; b. Secretary means the Secretary of Foreign Affairs; c. Post means a Philippine diplomatic and consular post such as an Embassy or Consulate; d. Passport means a document issued by the Philippine government to its citizens and requesting other governments to allow its citizens to pass safely and freely, and in case of need to give him/her all lawful aid and protection; e. Travel Document means a certification or identifying document containing the description and other personal circumstances of its bearer, issued for direct travel to and from the Philippines valid for short periods or a particular trip. It is issued only to persons whose claim to Philippine citizenship is doubtful or who fall under the category enumerated in Section 13 of this Act; f. Supporting Documents mean any paper or document which is required to be submitted with the passport application supporting claims to Filipino citizenship to complete the application for a passport without which such application would be deemed incomplete or otherwise become subject to denial by the issuing authority; g. Ambassadors mean those who have been appointed as chiefs of mission and have served as Ambassador Extraordinary and Plenipotentiary. **Section 4.** *Authority to Issue, Deny, Restrict or Cancel.* Upon the application of any qualified Filipino citizen, the Secretary of Foreign Affairs or any of his authorized consular officer may issue passports in accordance with this Act.
+
+ Philippine consular officers in a foreign country shall be authorized by the Secretary to issue, verify, restrict, cancel or refuse a passport in the area of jurisdiction of the Post in accordance with the provisions of this Act.
+
+ In the interest of national security, public safety and public health, the Secretary or any of the authorized consular officers may, after due hearing and in their proper discretion, refuse to issue a passport, or restrict its use or withdraw or cancel a passport: *Provided, however,* That such act shall not mean a loss or doubt on the person's citizenship: *Provided, further,* That the issuance of a passport may not be denied if the safety and interest of the Filipino citizen is at stake: *Provided,* finally, That refusal or cancellation of a passport would not prevent the issuance of a Travel Document to allow for a safe return journey by a Filipino to the Philippines.
+
+ **Section 5.** *Requirements for the Issuance of Passport.* No passport shall be issued to an applicant unless the Secretary or his duly authorized representative is satisfied that the applicant is a Filipino citizen who has complied with the following requirements:
+
+ a. A duly accomplished application form and photographs of such number, size and style as may be prescribed by the Department; b. The birth certificate duly issued or authenticated by the Office of the Civil Registrar General: *Provided, however,* That if the birth of the applicant has not been registered yet, or if his birth certificate is destroyed, damaged, or not available due to other causes, he shall apply for delayed registration of his birth with the Office of the Civil Registrar General which shall issue to said applicant a certification of pending application for delayed registration of birth attaching thereto a copy of an accomplished certificate of live birth. Such certification and the accomplished certificate of live birth shall be sufficient to support an application for passport in addition to other papers which the Department may require from the applicant; c. In the absence of a birth certificate, a baptismal certificate for those who are members of a Christian religious organization, or similar or equivalent certificate issued by a non-Christian religious group, attesting to the applicant's having been admitted to such religious group or sect at an early age and where it is indicated that the applicant is a Filipino citizen, which should be accompanied by a joint affidavit by two (2) persons who have personal knowledge of the applicant and of such age as to credibly state the applicant's date and place of birth, citizenship, and names of parents: *Provided,* That Filipinos who do not believe in any religion and whose parents for any reason failed to have the said applicant baptized shall be exempted from the baptismal certificate requirement: *Provided, further,* That in lieu thereof, the applicant shall execute an affidavit to that effect duly corroborated by affidavit of at least two (2) persons of good reputation who personally know such fact; d. In case of a woman who is married, separated, divorced or widowed or whose marriage has been annulled or declared by court as void, a copy of the certificate of marriage, court decree of separation, divorce or annulment or certificate of death of the deceased spouse duly issued and authenticated by the Office of the Civil Registrar General: *Provided,* That in case of a divorce decree, annulment or declaration of marriage as void, the woman applicant may revert to the use of her maiden name: *Provided, further,* That such divorce is recognized under existing laws of the Philippines; e. In the case of naturalized citizens, a certified copy of the naturalization certificate; or a certified naturalization certificate of husband or parent duly issued and authenticated by the Office of the Civil Registrar General if citizenship is claimed through naturalization of spouse or parent; f. For an applicant who has not reached the age of majority, an affidavit of consent from a parent as indicated in the passport application if the minor is traveling with either parent, and a clearance from the Department of Social Welfare and Development, if the minor is traveling with a legal guardian or a person other than a parent; g. If the applicant is an adopted person, the duly certified copy of court order of adoption, together with the original and amended birth certificates duly issued and authenticated by the Office of the Civil Registrar General shall be presented: *Provided,* That in case the adopted person is an infant or a minor or the applicant is for adoption by foreign parents, an authority from the Department of Social Welfare and Development shall be required: *Provided, further,* That the adopting foreign parents shall also submit a certificate from their embassy or consulate that they are qualified to adopt such infant or minor child; h. In case of discrepancy between the applicant's name in the birth certificate and in any other private documents, the former shall prevail over the latter unless by operation of law or through court order, the applicant is permitted to use a name other than what is officially recorded in the Civil Register; and i. If the applicant is a government employee, the travel authority issued by the head of department, agency or office may be required only if said applicant is applying for an official passport. **Section 6.** *Application.* The application may be filed by:

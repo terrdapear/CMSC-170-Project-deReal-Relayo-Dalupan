@@ -1,0 +1,156 @@
+repacts:datasets/markdown/repacts/1971/ra_6327_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6327_1971.md	ra_6327_1971	An Act Converting Baybay National Agricultural and Vocational School in the Municipality of Siniloan, Province of Laguna, into a College to be Known as the Baybay National College of Agriculture and Technology, and Authorizing the Appropriation of the Necessary Funds Therefor	"**[ REPUBLIC ACT NO. 6327, June 19, 1971 ]**
+
+ AN ACT CONVERTING BAYBAY NATIONAL AGRICULTURAL AND VOCATIONAL SCHOOL IN THE MUNICIPALITY OF SINILOAN, PROVINCE OF LAGUNA, INTO A COLLEGE TO BE KNOWN AS THE BAYBAY NATIONAL COLLEGE OF AGRICULTURE AND TECHNOLOGY, AND AUTHORIZING THE APPROPRIATION OF THE NECESSARY FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Baybay National Agricultural and Vocational School located in the Municipality of Siniloan, Province of Laguna, is hereby converted into a college to be known as the Baybay National College of Agriculture and Technology.
+
+ **Section 2.** The Baybay National College of Agriculture and Technology shall offer, in addition to the secondary agricultural curriculum, any or all of the following collegiate courses at the discretion of the Director of the Bureau of Vocational Education:
+
+ a. Two-year technical agricultural and homemaking courses leading to the title of Associate in Agricultural Technology and Associate in Homemaking Technology.
+
+ b. Five-year technical agriculture and Teacher Education courses leading to the degrees of Bachelor of Science in Agriculture (with major), Bachelor of Science in Agricultural Engineering, Bachelor of Science in Agricultural Homemaking, Bachelor of Science in Agro-Business Administration.
+
+ **Section 3.** The Baybay National College of Agriculture and Technology shall be headed and administered by a National Agricultural Superintendent. A position of principal to head the secondary department and a position of assistant college head, shall be created to assist the head of the college in the administration of the college.
+
+ **Section 4.** The physical and financial assets, liabilities, personnel, equipment, and records of the Baybay National Agricultural and Vocational School stand transferred to the Baybay National College of Agriculture and Technology.
+
+ **Section 5.** The sum of three hundred thousand pesos is hereby authorized to be appropriated annually, out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of the said college in addition to its current appropriation beginning the fiscal year nineteen hundred seventy-one.
+
+ **Section 6.** The Secretary of Education is hereby empowered to reorganize said school accordingly.
+
+ **Section 7.** This Act shall take effect upon its approval.
+
+ Enacted without Executive approval, June 19, 1971.
+"	success	Republic Act	This act converts the Baybay National Agricultural and Vocational School into Baybay National College of Agriculture and Technology, establishes new academic programs, creates administrative positions, transfers assets, authorizes annual funding, empowers the Secretary of Education for reorganization, and takes effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Converts the Baybay National Agricultural and Vocational School into Baybay National College of Agriculture and Technology.""}, {""title"": ""Section 2."", ""summary"": ""Specifies the collegiate courses to be offered, including technical agricultural, homemaking, and teacher education programs.""}, {""title"": ""Section 3."", ""summary"": ""Establishes administrative positions: National Agricultural Superintendent, principal of secondary department, and assistant college head.""}, {""title"": ""Section 4."", ""summary"": ""Transfers all physical and financial assets, liabilities, personnel, equipment, and records to the new college.""}, {""title"": ""Section 5."", ""summary"": ""Authorizes annual appropriation of 300,000 pesos for the college's operation and maintenance.""}, {""title"": ""Section 6."", ""summary"": ""Empowers the Secretary of Education to reorganize the school accordingly.""}, {""title"": ""Section 7."", ""summary"": ""The act takes effect upon its approval.""}]"	6327	June 19, 1971			To convert the Baybay National Agricultural and Vocational School into a college and provide the necessary funds for its operation and development.	"[""Conversion of the school into Baybay National College of Agriculture and Technology"", ""Specification of collegiate courses offered"", ""Creation of administrative positions"", ""Transfer of assets and records"", ""Authorization of annual appropriation of 300,000 pesos"", ""Empowerment of the Secretary of Education for reorganization"", ""Effectivity upon approval""]"		"[""Education"", ""Agriculture"", ""Vocational"", ""College""]"	"[""Baybay National"", ""Agriculture"", ""Technology"", ""College"", ""Appropriation"", ""Vocational Education""]"
+repacts:datasets/markdown/repacts/1971/ra_6328_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6328_1971.md	ra_6328_1971	AN ACT PROVIDING FOR THE ESTABLISHMENT OF AN EMERGENCY HOSPITAL IN THE MUNICIPALITY OF SANTA MARCELA, PROVINCE OF KALINGA-APAYAO, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 6328, June 19, 1971 ]**
+
+ AN ACT PROVIDING FOR THE ESTABLISHMENT OF AN EMERGENCY HOSPITAL IN THE MUNICIPALITY OF SANTA MARCELA, PROVINCE OF KALINGA-APAYAO, AND APPROPRIATING FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established, under the direct supervision of the Director of Medical Services, one emergency hospital in the Municipality of Santa Marcela, Province of Kalinga-Apayao, to be known as the Flora-Santa Marcela Emergency Hospital.
+
+ **Section 2.** The Secretary of Health shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The sum of two hundred thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment operation and maintenance of said emergency hospital during the fiscal year nineteen hundred seventy-one:*Provided,*That no portion of the appropriation shall be transferred. Such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Enacted without Executive approval, June 19, 1971.
+"	success	Republic Act	This Act establishes the Flora-Santa Marcela Emergency Hospital and appropriates funds for its establishment, operation, and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of the Flora-Santa Marcela Emergency Hospital under the supervision of the Director of Medical Services.""}, {""title"": ""Section 2."", ""summary"": ""The Secretary of Health shall issue necessary rules and regulations to carry out the purpose of this Act.""}, {""title"": ""Section 3."", ""summary"": ""Two hundred thousand pesos are appropriated for the establishment, operation, and maintenance of the hospital; no portion of the appropriation shall be transferred.""}, {""title"": ""Section 4."", ""summary"": ""The Act shall take effect upon its approval.""}]"	6328	1971-06-19	"[{""name"": ""Senate"", ""title"": ""Senate""}, {""name"": ""House of Representatives"", ""title"": ""House of Representatives""}]"		To establish an emergency hospital in Santa Marcela, Kalinga-Apayao and appropriate funds for its operation and maintenance.	"[""Establishment of Flora-Santa Marcela Emergency Hospital"", ""Appropriation of two hundred thousand pesos for establishment and maintenance"", ""Rules and regulations to be issued by the Secretary of Health""]"		"[""Healthcare"", ""Emergency Hospital"", ""Kalinga-Apayao""]"	"[""emergency hospital"", ""funds appropriation"", ""healthcare"", ""Kalinga-Apayao""]"
+repacts:datasets/markdown/repacts/1971/ra_6329_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6329_1971.md	ra_6329_1971	AN ACT ESTABLISHING AN EMERGENCY HOSPITAL IN THE MUNICIPALITY OF CALBIGA, PROVINCE OF SAMAR, TO BE KNOWN AS THE CALBIGA EMERGENCY HOSPITAL AND APPROPRIATING FUNDS THEREFOR.	"**[ REPUBLIC ACT NO. 6329, June 19, 1971 ]**
+
+ AN ACT ESTABLISHING AN EMERGENCY HOSPITAL IN THE MUNICIPALITY OF CALBIGA, PROVINCE OF SAMAR, TO BE KNOWN AS THE CALBIGA EMERGENCY HOSPITAL AND APPROPRIATING FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established under the direct supervision of the Director of Medical Services, an emergency hospital in the Municipality of Calbiga, Province of Samar to be known as the Calbiga Emergency Hospital.
+
+ **Section 2.** The sum of one hundred thousand pesos or so much thereof is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of the said Hospital for the fiscal year nineteen hundred and seventy-one. Thereafter, such sum as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Enacted without Executive approval, June 19, 1971.
+"	success	Republic Act	Establishes Calbiga Emergency Hospital and appropriates funds for its establishment, operation, and maintenance.	"[{""title"": ""Section 1"", ""summary"": ""Establishes an emergency hospital in Calbiga, Samar under the supervision of the Director of Medical Services.""}, {""title"": ""Section 2"", ""summary"": ""Appropriates one hundred thousand pesos for the hospital\u2019s establishment, operation and maintenance for FY 1971 and future needs.""}, {""title"": ""Section 3"", ""summary"": ""States that the act takes effect upon approval.""}]"	6329	June 19, 1971			To establish an emergency hospital in Calbiga, Samar and provide funding for its operation.	"[""Establishment of Calbiga Emergency Hospital"", ""Appropriation of 100,000 pesos for establishment, operation and maintenance"", ""Future funding for operation and maintenance"", ""Immediate effect upon approval""]"		"[""healthcare"", ""hospital"", ""Samar"", ""emergency""]"	"[""emergency hospital"", ""Calbiga"", ""Samar"", ""appropriation"", ""public health""]"
+repacts:datasets/markdown/repacts/1971/ra_6330_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6330_1971.md	ra_6330_1971	AN ACT ESTABLISHING A LIVESTOCK BREEDING STATION IN THE MUNICIPALITY OF POZORRUBIO, PROVINCE OF PANGASINAN, AND APPROPRIATING FUNDS THEREFOR.	"**[ REPUBLIC ACT NO. 6330, June 19, 1971 ]**
+
+ AN ACT ESTABLISHING A LIVESTOCK BREEDING STATION IN THE MUNICIPALITY OF POZORRUBIO, PROVINCE OF PANGASINAN, AND APPROPRIATING FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established under the direct supervision of the Director of Animal Industry, a livestock breeding station in the Municipality of Pozorrubio, Province of Pangasinan, which shall have under its jurisdiction the Municipalities of Binalonan, Manaoag, Pozorrubio, Sison, and San Manuel, Province of Pangasinan, and the Municipality of Rosario, in the Province of La Union.
+
+ **Section 2.** The sum of one hundred thousand pesos is appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of such station during the fiscal year nineteen hundred seventy-one. Thereafter, such sum as may be necessary for the operation and maintenance of the said station shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Republic Act	Establishes a livestock breeding station in Pozorrubio, Pangasinan, and appropriates funds for its establishment, operation, and maintenance.	"[{""title"": ""Section 1"", ""summary"": ""Establishes a livestock breeding station in the Municipality of Pozorrubio, Pangasinan, under the supervision of the Director of Animal Industry, with jurisdiction over several municipalities in Pangasinan and La Union.""}, {""title"": ""Section 2"", ""summary"": ""Appropriates one hundred thousand pesos for the station's operation and maintenance for FY 1971 and allows future appropriations as necessary.""}, {""title"": ""Section 3"", ""summary"": ""Specifies that the act takes effect upon its approval.""}]"	6330	June 19, 1971			To create a livestock breeding station in Pozorrubio, Pangasinan, and secure funding for its operation and maintenance.	"[""Establishment of livestock breeding station"", ""Appropriation of one hundred thousand pesos for FY 1971"", ""Future funding provisions for operation and maintenance"", ""Effective upon approval""]"		"[""Agriculture"", ""Livestock"", ""Pangasinan"", ""Republic Act""]"	"[""livestock breeding"", ""Pozorrubio"", ""Pangasinan"", ""funds appropriation"", ""Republic Act No. 6330""]"
+repacts:datasets/markdown/repacts/1971/ra_6331_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6331_1971.md	ra_6331_1971	AN ACT ESTABLISHING AN ARTIFICIAL BREEDING STATION IN THE MUNICIPALITY OF LUNA, PROVINCE OF KALINGA-APAYAO, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.	"**[ REPUBLIC ACT NO. 6331, June 19, 1971 ]**
+
+ AN ACT ESTABLISHING AN ARTIFICIAL BREEDING STATION IN THE MUNICIPALITY OF LUNA, PROVINCE OF KALINGA-APAYAO, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There is hereby established, under the supervision of the Bureau of Animal Industry, an artificial breeding station in the Municipality of Luna, Province of Kalinga-Apayao at a site to be selected by the Director of Animal Industry, to be known as Apayao Artificial Breeding Station.
+
+ **Section 2.** The Director of Animal Industry shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the construction of office, building, laboratory, equipment, animal sheds, supplies and materials and such other expenses of said artificial breeding station during the fiscal year nineteen hundred seventy-one. Thereafter, such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Enacted without Executive approval, June 19, 1971.
+"	success	Act	Establishes an artificial breeding station in Luna, Kalinga‑Apayao, and authorizes the appropriation of funds for its construction and operation.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of the Apayao Artificial Breeding Station under the supervision of the Bureau of Animal Industry.""}, {""title"": ""Section 2."", ""summary"": ""The Director of Animal Industry shall issue rules and regulations necessary to carry out the purpose of the Act.""}, {""title"": ""Section 3."", ""summary"": ""Authorization of \u20b1100,000 for construction, and provision for future operational expenses.""}, {""title"": ""Section 4."", ""summary"": ""The Act shall take effect upon its approval.""}]"	6331	June 19, 1971			To establish an artificial breeding station in Luna, Kalinga‑Apayao and allocate funds for its construction and operation.	"[""Establishment of the breeding station"", ""Director to issue rules and regulations"", ""Appropriation of \u20b1100,000 for construction"", ""Effectivity upon approval""]"		"[""Animal Industry"", ""Breeding Station"", ""Kalinga\u2011Apayao""]"	"[""Artificial breeding station"", ""Animal Industry"", ""Appropriation"", ""Kalinga\u2011Apayao""]"
+repacts:datasets/markdown/repacts/1971/ra_6332_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6332_1971.md	ra_6332_1971	REPUBLIC ACT NO. 6332, June 19, 1971	"**[ REPUBLIC ACT NO. 6332, June 19, 1971 ]**
+
+ AN ACT ESTABLISHING AN EMERGENCY HOSPITAL IN THE MUNICIPALITY OF CASIGURAN, PROVINCE OF QUEZON, TO BE KNOWN AS CASIGURAN EMERGENCY HOSPITAL, AND APPROPRIATING FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established, under the direct supervision of the Director of Medical Services, an emergency hospital in the Municipality of Casiguran, Province of Quezon, to be known as the Casiguran Emergency Hospital.
+
+ **Section 2.** The sum of two hundred fifty thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital, including the construction of buildings thereof after its approval. Thereafter, such sum as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Enacted without Executive approval, June 19, 1971.
+"	success	Republic Act	An act establishing the Casiguran Emergency Hospital in the Municipality of Casiguran, Quezon, and appropriating funds for its construction, operation, and maintenance.	"[{""title"": ""Section 1"", ""summary"": ""Establishment of the Casiguran Emergency Hospital under the supervision of the Director of Medical Services.""}, {""title"": ""Section 2"", ""summary"": ""Appropriation of \u20b1250,000 for the hospital\u2019s establishment, operation, and maintenance, with future operational funds to be included in the General Appropriations Act.""}, {""title"": ""Section 3"", ""summary"": ""The Act takes effect upon its approval.""}]"	6332	June 19, 1971			To establish an emergency hospital in Casiguran, Quezon, and secure funding for its construction and operation.	"[""Establishment of Casiguran Emergency Hospital"", ""Appropriation of \u20b1250,000 for establishment and maintenance"", ""Direct supervision by Director of Medical Services"", ""Future operational funds included in General Appropriations Act"", ""Effectivity upon approval""]"		"[""public health"", ""hospital"", ""Quezon"", ""Casiguran"", ""funding"", ""emergency services""]"	"[""emergency hospital"", ""Casiguran"", ""Quezon"", ""appropriation"", ""National Treasury"", ""Director of Medical Services""]"
+repacts:datasets/markdown/repacts/1971/ra_6333_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6333_1971.md	ra_6333_1971	AN ACT ESTABLISHING ARTIFICIAL BREEDING CENTERS IN THE MUNICIPALITIES OF SIASI, INDANAN, AND PARANG, PROVINCE OF SULU, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 6333, June 19, 1971 ]**
+
+ AN ACT ESTABLISHING ARTIFICIAL BREEDING CENTERS IN THE MUNICIPALITIES OF SIASI, INDANAN, AND PARANG, PROVINCE OF SULU, AND APPROPRIATING FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There is hereby established, under the supervision of the Bureau of Animal Industry, artificial breeding centers in the Municipalities of Siasi, Indanan and Parang, Province of Sulu, at a site to be selected by the Director of Animal Industry through donation, to be known as the Siasi, Indanan and Parang Artificial Breeding Center, respectively.
+
+ **Section 2.** The sum of two hundred ten thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for the construction of office-laboratory building, animal sheds, equipment, supplies and materials and such other expenses as may be necessary to carry out the purposes of this Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Enacted without Executive approval, June 19, 1971
+"	success	Republic Act	This act establishes artificial breeding centers in Siasi, Indanan, and Parang in Sulu province and appropriates funds for their construction and operation.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of artificial breeding centers supervised by the Bureau of Animal Industry, to be selected by the Director through donation.""}, {""title"": ""Section 2."", ""summary"": ""Appropriation of two hundred ten thousand pesos for construction of office-laboratory building, animal sheds, equipment, supplies, and related expenses.""}, {""title"": ""Section 3."", ""summary"": ""Act takes effect upon approval.""}]"	6333	June 19, 1971			To establish artificial breeding centers and allocate necessary funds for their construction and operation.	"[""Establishment of breeding centers in Siasi, Indanan, and Parang"", ""Appropriation of \u20b1210,000 for construction and related expenses"", ""Act effective upon approval""]"		"[""Agriculture"", ""Animal Husbandry"", ""Infrastructure"", ""Sulu""]"	"[""artificial breeding"", ""Siasi"", ""Indanan"", ""Parang"", ""Sulu"", ""Bureau of Animal Industry"", ""National Treasury"", ""210,000 pesos""]"
+repacts:datasets/markdown/repacts/1971/ra_6334_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6334_1971.md	ra_6334_1971	An Act Establishing a Pilot Project for Animal Industry in the Municipality of Basista Province of Pangasinan, and Authorizing the Appropriation of Funds Therefor.	"**[ REPUBLIC ACT NO. 6334, June 19, 1971 ]**
+
+ AN ACT ESTABLISHING A PILOT PROJECT FOR ANIMAL INDUSTRY IN THE MUNICIPALITY OF BASISTA PROVINCE OF PANGASINAN, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There is hereby established, under the direct supervision of the Director of Animal Industry, a pilot project for animal industry in the Municipality of Basista, Province of Pangasinan.
+
+ **Section 2.** The sum of fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said pilot project during the fiscal year nineteen hundred seventy. Thereafter, such sums as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Enacted without Executive approval, June 19, 1971.
+"	success	Act	This act establishes a pilot project for the animal industry in Basista, Pangasinan, and authorizes the appropriation of funds for its establishment, operation, and maintenance.	"[{""title"": ""Section 1"", ""summary"": ""Establishes a pilot project for the animal industry in the Municipality of Basista, Province of Pangasinan, under the direct supervision of the Director of Animal Industry.""}, {""title"": ""Section 2"", ""summary"": ""Appropriates fifty thousand pesos for the establishment, operation, and maintenance of the pilot project during the fiscal year 1970, with future necessary sums to be included in the annual General Appropriations Act.""}, {""title"": ""Section 3"", ""summary"": ""Specifies that the act shall take effect upon its approval.""}]"	6334	June 19, 1971			To establish a pilot project for the animal industry in Basista, Pangasinan, and to authorize the appropriation of funds for its establishment, operation, and maintenance.	"[""Establishment of a pilot project under the supervision of the Director of Animal Industry"", ""Authorization of fifty thousand pesos appropriation for the project"", ""Effectivity of the act upon approval""]"		"[""Animal Industry"", ""Pangasinan"", ""Local Government"", ""Appropriation"", ""Pilot Project""]"	"[""animal industry"", ""Basista"", ""Pangasinan"", ""appropriation"", ""fiscal year 1970"", ""pilot project""]"
+repacts:datasets/markdown/repacts/1971/ra_6335_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6335_1971.md	ra_6335_1971	AN ACT ESTABLISHING A PILOT PROJECT FOR ANIMAL INDUSTRY IN THE CITY OF SAN CARLOS IN PANGASINAN, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.	"**[ REPUBLIC ACT NO. 6335, June 19, 1971 ]**
+
+ AN ACT ESTABLISHING A PILOT PROJECT FOR ANIMAL INDUSTRY IN THE CITY OF SAN CARLOS IN PANGASINAN, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There is hereby established, under the direct supervision of the Director of Animal Industry, a pilot project for animal industry, in the City of San Carlos in Pangasinan.
+
+ **Section 2.** The sum of fifty thousand pesos is hereby authorized to be appropriated, out of the funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said pilot Project during the fiscal year nineteen hundred seventy. Thereafter, such sums as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Enacted without Executive approval, June 19, 1971.
+"	success	Republic Act	Establishes a pilot project for animal industry in San Carlos, Pangasinan, authorizes the appropriation of fifty thousand pesos for its establishment, operation, and maintenance, and becomes effective upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of a pilot project for animal industry in San Carlos, Pangasinan under the direct supervision of the Director of Animal Industry.""}, {""title"": ""Section 2."", ""summary"": ""Authorization of fifty thousand pesos for the project\u2019s establishment, operation, and maintenance, to be included in the annual General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""Effectivity of the Act upon its approval.""}]"	6335	June 19, 1971			To establish a pilot project for animal industry in San Carlos, Pangasinan and authorize the appropriation of funds for its implementation.	"[""Establishment of pilot project under Director of Animal Industry"", ""Authorization of 50,000 pesos appropriation for establishment, operation, and maintenance"", ""Effectivity upon approval""]"		"[""Animal Industry"", ""San Carlos"", ""Pangasinan"", ""Pilot Project"", ""Funding"", ""Republic Act""]"	"[""animal industry"", ""pilot project"", ""San Carlos"", ""Pangasinan"", ""funding"", ""Republic Act""]"
+repacts:datasets/markdown/repacts/1971/ra_6336_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6336_1971.md	ra_6336_1971	An Act Establishing a Pilot Project for Animal Industry in the Municipality of Binmaley, Province of Pangasinan, and Authorizing the Appropriation of Funds Therefor	"**[ REPUBLIC ACT NO. 6336, June 19, 1971 ]**
+
+ AN ACT ESTABLISHING A PILOT PROJECT FOR ANIMAL INDUSTRY IN THE MUNICIPALITY OF BINMALEY, PROVINCE OF PANGASINAN, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established, under the direct supervision of the Director of Animal Industry, a pilot project for animal industry in the Municipality of Binmaley, Province of Pangasinan.
+
+ **Section 2.** The sum of fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said pilot project during the fiscal year nineteen hundred seventy. Thereafter, such sum as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Enacted without Executive approval, June 19,1971.
+"	success	Republic Act	Establishes a pilot project for the animal industry in Binmaley, Pangasinan, and authorizes the appropriation of funds for its establishment, operation, and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of a pilot project for animal industry in Binmaley under the supervision of the Director of Animal Industry.""}, {""title"": ""Section 2."", ""summary"": ""Authorization of fifty thousand pesos for the establishment, operation, and maintenance of the project during the fiscal year 1970, with future funding included in the General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""The Act shall take effect upon its approval.""}]"	6336	June 19, 1971			To establish a pilot project for the animal industry in Binmaley, Pangasinan, and to authorize funds for its operation and maintenance.	"[""Establishment of pilot project supervised by Director of Animal Industry"", ""Appropriation of 50,000 pesos for establishment, operation and maintenance during FY 1970"", ""Subsequent funding to be included in the General Appropriations Act"", ""Act takes effect upon approval""]"		"[""Animal Industry"", ""Pangasinan"", ""Pilot Project"", ""Appropriation""]"	"[""animal industry"", ""pilot project"", ""Pangasinan"", ""funds appropriation"", ""National Treasury""]"

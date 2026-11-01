@@ -1,0 +1,152 @@
+| --- | --- |
+| **ELISEO M. TENZA** *Secretary of the Senate* | **INOCENCIO B. PAREJA** *Secretary of the House Representatives* |
+
+ Approved: October 23, 1972
+
+ **FERDINAND E. MARCOS** *President of the Philippines*
+"	success	Republic Act	The act increases the bed capacity of Dinagat Emergency Hospital from twenty-five to fifty beds and authorizes the appropriation of 150,000 pesos for its operation and maintenance.	"[{""title"": ""Section 1"", ""summary"": ""Increases bed capacity from 25 to 50 beds.""}, {""title"": ""Section 2"", ""summary"": ""Authorizes appropriation of 150,000 pesos for operation and maintenance during FY 1972.""}, {""title"": ""Section 3"", ""summary"": ""Act takes effect upon its approval.""}]"	REPUBLIC ACT NO. 6612	October 23, 1972			To increase the bed capacity of Dinagat Emergency Hospital and authorize appropriation of funds for its operation and maintenance.	"[""Increase bed capacity from 25 to 50 beds."", ""Appropriation of 150,000 pesos for operation and maintenance."", ""Act takes effect upon approval.""]"		"[""Healthcare"", ""Hospital"", ""Budget"", ""Surigao del Norte"", ""Dinagat""]"	"[""bed capacity"", ""Dinagat Emergency Hospital"", ""appropriation"", ""funds"", ""public health""]"
+repacts:datasets/markdown/repacts/1972/ra_6613_1972.md	repacts	1972		datasets/markdown/repacts/1972/ra_6613_1972.md	ra_6613_1972	AN ACT DECLARING A POLICY OF THE STATE TO ADOPT MODERN SCIENTIFIC METHODS TO MODERATE TYPHOONS AND PREVENT DESTRUCTION BY FLOODS RAINS AND DROUGHTS, CREATING A COUNCIL ON TYPHOON MODERATION AND FLOOD CONTROL RESEARCH AND DEVELOPMENT, PROVIDING FOR ITS POWERS AND FUNCTIONS AND APPROPRIATING FUNDS THEREFOR.	"**[ REPUBLIC ACT NO. 6613, October 23, 1972 ]**
+
+ AN ACT DECLARING A POLICY OF THE STATE TO ADOPT MODERN SCIENTIFIC METHODS TO MODERATE TYPHOONS AND PREVENT DESTRUCTION BY FLOODS RAINS AND DROUGHTS, CREATING A COUNCIL ON TYPHOON MODERATION AND FLOOD CONTROL RESEARCH AND DEVELOPMENT, PROVIDING FOR ITS POWERS AND FUNCTIONS AND APPROPRIATING FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** It is hereby declared to be the policy of the State to adopt a typhoon moderation and flood control research and development program for moderating typhoons by reducing their intensity and minimizing the destructive effects of floods, rains and droughts through scientific means, for the purpose of preventing widespread devastation to property and protecting the People and security of the nation.
+
+ **Section 2.** In order to carry out the foregoing policy, the government shall:
+
+ a. Undertake research on the structure, development and motion of typhoons;
+
+ b. Improve means of predicting typhoons and consequential floods;
+
+ c. Gather and organize climatological and hydrological data for flood prevention and control and for agro-industrial development;
+
+ d. Utilize scientific measures to minimize the intensity of typhoons and destruction by floods, rains and droughts: and
+
+ e. Study the environmental impact of such measures and adopt necessary precautions to prevent loss or destruction,
+
+ **Section 3.** To implement the provisions of this Act, there is hereby created a Council on Typhoon Moderation and Flood Control Research and Development under the Office of the President, hereinafter referred to as the ""Council"". The Council shall be composed of the Executive Secretary as Chairman*ex-officio*, the Secretary of National Defense as Vice-Chairman*ex-officio*,the Chairman of the National Science Development Board, the Secretary of Public Works and Communications, the Secretary of Agriculture and Natural Resources, the Undersecretary of Foreign Affairs, and the Director of the Weather Bureau, as members*ex-officio*.
+
+ The Council shall develop and formulate a typhoon moderation and flood control research and development program within one year after the approval of this Act and shall monitor its implementation. It shall coordinate planning and programming of all government activities and resources in relation thereto. It shall advise the President on measures to prevent or mitigate damage arising from typhoons, floods, rains and droughts. It shall represent the government on all matters pertinent to the research and development provided for in this Act in national, regional and international conferences.
+
+ The Council shall submit annually a report of its activities, together with a statement of the funds released to it and the expenditures made therefrom, to the presiding officers of both Houses of Congress and to the respective chairmen of the committees on science, agriculture, natural resources, public works, communications, national defense and security of both Houses. The report shall include a description of all projects monitored by the Council indicating their status. The Council shall recommend to Congress such legislation as may be necessary to carry out the purposes of this Act.
+
+ **Section 4.** The Weather Bureau, hereinafter referred to as the ""Bureau"", shall be the implementing arm of the Council. The Director of said Bureau shall be the Executive Director of the Council.
+
+ The Bureau shall establish, install, operate and maintain climatological and hydrological stations, synoptic stations, radar stations, upper air stations (radiosonde and radiowind), automatic picture transmission ground stations, a weather communications network and warning system, and a research center using computers, aircraft and other modern devices. Insofar as possible, such stations shall be grouped together so as to assure maximum economy and efficiency. The Philippine Air Force shall assist the Bureau in air operations.
+
+ In the installation of radar stations, the regions of Western Visayas, Northern Mindanao and Southern Mindanao which are not covered by the present weather radar network shall be given priority.
+
+ **Section 5.** The sum of ten million pesos (P10,000,000.00) is hereby appropriated out of any funds in the National Treasury not otherwise appropriated, and an additional appropriation of ten million pesos (P10,000,000,00) annually .shall be included in the General Appropriations Act for each of the next four years, to carry into effect the provisions of this Act:*Provided,* That the sum of Four Million One Hundred Thousand Pesos, or so much of the appropriations as may be necessary, shall be set aside annually to be used exclusively for the purchase and operation of the type of aircraft required to carry out the purposes of this Act.
+
+ **Section 6.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | **GIL J. PUYAT** *President of the Senate* | **CORNELIO T. VILLAREAL** *Speaker of the House of Representatives* | This act, which is a consolidation of S. No. 939 and H. No. 4239, was finally passed by the Senate and the House of Representatives on September 23, 1972, respectively. | **ELISEO M. TENZA** *Secretary of the Senate* | **INOCENCIO B. PAREJA** *Secretary of the House Representatives* |
+| --- | --- | --- | --- | --- |
+| This act, which is a consolidation of S. No. 939 and H. No. 4239, was finally passed by the Senate and the House of Representatives on September 23, 1972, respectively. |  |  |  |  |
+| **ELISEO M. TENZA** *Secretary of the Senate* | **INOCENCIO B. PAREJA** *Secretary of the House Representatives* |  |  |  |
+
+ Approved: October 23, 1972
+
+ **FERDINAND E. MARCOS** *President of the Philippines*
+"	success	Republic Act	The Act establishes a policy to moderate typhoons and prevent destruction by floods, rains, and droughts, creates a Council on Typhoon Moderation and Flood Control Research and Development, and appropriates funds to support research, development, and implementation efforts.	"[{""title"": ""Section 1."", ""summary"": ""Declares the policy of the State to adopt a typhoon moderation and flood control research and development program for moderating typhoons and preventing widespread devastation.""}, {""title"": ""Section 2."", ""summary"": ""Mandates the government to conduct research on typhoon structure, improve prediction methods, gather climatological data, utilize scientific measures to minimize typhoon intensity, and study environmental impacts.""}, {""title"": ""Section 3."", ""summary"": ""Creates the Council on Typhoon Moderation and Flood Control Research and Development, outlines its composition, responsibilities, monitoring, reporting, and coordination with government activities.""}, {""title"": ""Section 4."", ""summary"": ""Designates the Weather Bureau as the implementing arm of the Council, detailing its responsibilities for establishing and maintaining weather stations and related infrastructure.""}, {""title"": ""Section 5."", ""summary"": ""Appropriates ten million pesos for the Act and an additional ten million pesos annually for four years, and sets aside funds for aircraft purchase and operation.""}, {""title"": ""Section 6."", ""summary"": ""Specifies that the Act shall take effect upon its approval.""}]"	6613	October 23, 1972	"[{""name"": ""GIL J. PUYAT"", ""title"": ""President of the Senate""}, {""name"": ""CORNELIO T. VILLAREAL"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""ELISEO M. TENZA"", ""title"": ""Secretary of the Senate""}, {""name"": ""INOCENCIO B. PAREJA"", ""title"": ""Secretary of the House Representatives""}]"	To adopt modern scientific methods to moderate typhoons and prevent destruction by floods, rains and droughts, creating a council and providing funds.	"[""Establishment of the Council on Typhoon Moderation and Flood Control Research and Development"", ""Appropriation of funds for program and aircraft"", ""Mandate to conduct research, development, and implementation"", ""Implementation by Weather Bureau"", ""Monitoring and reporting requirements""]"		"[""Typhoon"", ""Flood control"", ""Climate research"", ""Disaster management""]"	"[""typhoon moderation"", ""flood control"", ""climate research"", ""weather bureau"", ""scientific methods"", ""appropriation""]"
+repacts:datasets/markdown/repacts/1972/ra_6614_1972.md	repacts	1972		datasets/markdown/repacts/1972/ra_6614_1972.md	ra_6614_1972	An Act to Provide for the Period and Increase of Assessments of Real Property for Taxation Purposes	"**[ REPUBLIC ACT NO. 6614, October 23, 1972 ]**
+
+ AN ACT TO PROVIDE FOR THE PERIOD AND INCREASE OF ASSESSMENTS OF REAL PROPERTY FOR TAXATION PURPOSES.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Any provision of law or city charter to the contrary notwithstanding, no revised assessment of real estate for taxation purposes shall be made within five years from the last preceding assessment, and no increase or decrease of assessment at any one time shall be more than twenty-fiveper centumin the case of commercial and industrial lots; fifteenper centumin case of agricultural and residential lots not actually occupied by the owner and tenper centumin case of residential lots actually occupied by the owner, of the last preceding assessed value:*Provided,*That the limitations herein shall not apply if by reason of public improvements the-nature of the real estate has been changed from rural to urban or from residential to commercial and industrial site:*Provided, further*, That the corresponding provincial or city assessor shall undertake the revision of assessments every five years.
+
+ **Section 2.** All laws, Acts, parts of Acts, city charters, ordinances and resolutions which are inconsistent with this Act are hereby repealed.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | **GIL J. PUYAT** *President of the Senate* This Act, which originated in the Senate, was finally passed by the same on September 23, 1972. | **CORNELIO T. VILLAREAL** *Speaker of the House of Representatives* Finally passed by the House of Representatives on September 23, 1972. |
+| --- | --- |
+| **ELISEO M. TENZA** *Secretary of the Senate* | **INOCENCIO B. PAREJA** *Secretary of the House Representatives* |
+
+ Approved: October 23, 1972
+
+ **FERDINAND E. MARCOS** *President of the Philippines*
+"	success	Law	This act establishes the schedule and limits for revised assessments of real property for taxation, prohibits frequent reassessments, sets maximum percentage increases for different property types, allows exceptions for public improvements, and repeals inconsistent laws.	"[{""title"": ""Section 1"", ""summary"": ""No revised assessment of real estate shall be made within five years from the last preceding assessment; increases or decreases of assessment at any one time shall not exceed 25% for commercial and industrial lots, 15% for agricultural and residential lots not actually occupied by the owner, and 10% for residential lots actually occupied by the owner, unless public improvements change the nature of the real estate from rural to urban or from residential to commercial and industrial. The provincial or city assessor shall revise assessments every five years.""}, {""title"": ""Section 2"", ""summary"": ""All laws, acts, parts of acts, city charters, ordinances and resolutions inconsistent with this Act are hereby repealed.""}, {""title"": ""Section 3"", ""summary"": ""This Act shall take effect upon its approval.""}]"	REPUBLIC ACT NO. 6614	October 23, 1972	"[{""name"": ""GIL J. PUYAT"", ""title"": ""President of the Senate""}, {""name"": ""CORNELIO T. VILLAREAL"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""ELISEO M. TENZA"", ""title"": ""Secretary of the Senate""}, {""name"": ""INOCENCIO B. PAREJA"", ""title"": ""Secretary of the House Representatives""}]"	To regulate the period and increase of assessments of real property for taxation purposes, ensuring fairness and preventing undue assessment changes.	"[""No revised assessment within five years"", ""Maximum assessment increase limits: 25% commercial/industrial, 15% agricultural/residential not occupied, 10% residential occupied"", ""Exceptions for public improvements changing property nature"", ""Provincial or city assessor revises every five years"", ""Repeal of inconsistent laws""]"		"[""Taxation"", ""Real Property"", ""Assessment"", ""Philippines""]"	"[""assessment"", ""real property"", ""taxation"", ""period"", ""increase"", ""limits""]"
+repacts:datasets/markdown/repacts/1972/ra_6615_1972.md	repacts	1972		datasets/markdown/repacts/1972/ra_6615_1972.md	ra_6615_1972	AN ACT REQUIRING GOVERNMENT AND PRIVATE HOSPITALS AND CLINICS TO EXTEND MEDICAL ASSISTANCE IN EMERGENCY CASES.	"**[ REPUBLIC ACT NO. 6615, October 23, 1972 ]**
+
+ AN ACT REQUIRING GOVERNMENT AND PRIVATE HOSPITALS AND CLINICS TO EXTEND MEDICAL ASSISTANCE IN EMERGENCY CASES.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** All government and private hospitals or clinics duly licensed to operate as such are hereby required to render immediate emergency medical assistance and to provide facilities and medicine within its capabilities to patients in emergency cases who are in danger of dying and/or who may have suffered serious physical injuries.
+
+ **Section 2.** The expenses and losses of earnings incurred by a private hospital or clinic for medicines, facilities and services beyond first aid extended to emergency cases as required herein, and not to exceed fifty thousand pesos per year, shall be deductible expenses and losses for income tax purposes which may be carried over for a period of five years, any provision of law or regulation to the contrary notwithstanding.
+
+ **Section 3.** Any hospital director, administrator, officer-in-charge or physician in the hospital, medical center or Clinic, who shall refuse or fail without good cause to render the appropriate assistance pursuant to the requirements of section one after said case had been brought to his attention, or any nurse, midwife or medical attendant who shall refuse to extend the appropriate assistance, subject to existing rules, or neglect to notify or call a physician shall be punished by imprisonment of one month and one day to one year and one day, and a fine of three hundred pesos to one thousand pesos, without prejudice to the provisions of Republic Act Numbered Twenty-three hundred eighty-two in the case of physicians.
+
+ In the case of Government hospitals, the imposition of the penalty upon the person or persons guilty of the violations shall be without prejudice to the administrative action that might be proper.
+
+ In the case of private hospitals, aside from the imposition of penalty upon the person or persons guilty of the violations, the license of the hospital to operate shall, whenever justified, be suspended or revoked.""
+
+ **Section 4.** Subject to the approval of the Secretary of Health, the Bureau of Medical Services shall promulgate the necessary rules and regulations to carry out the provisions of this Act.
+
+ **Section 5.** Any law or laws or parts thereof inconsistent with the provisions of this Act is hereby repealed.
+
+ **Section 6.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | **GIL J. PUYAT** *President of the Senate* This Act, which originated in the Senate, was finally passed by same on September 21, 1972. | **CORNELIO T. VILLAREAL** *Speaker of the House of Representatives* Finally passed by the House of Representatives on September 23, 1972. |
+| --- | --- |
+| **ELISEO M. TENZA** *Secretary of the Senate* | **INOCENCIO B. PAREJA** *Secretary of the House Representatives* |
+
+ Approved: October 23, 1972
+
+ **FERDINAND E. MARCOS** *President of the Philippines*
+"	success	Health / Medical	Republic Act No. 6615 mandates that all government and private hospitals or clinics provide immediate emergency medical assistance and necessary facilities to patients in danger of dying or with serious injuries. It allows hospitals to deduct certain expenses up to 50,000 pesos per year for tax purposes, sets penalties for non‑compliance, permits suspension or revocation of licenses for private hospitals, authorizes the Bureau of Medical Services to issue rules, and repeals any law inconsistent with its provisions.	"[{""title"": ""Section 1."", ""summary"": ""All licensed hospitals or clinics must render immediate emergency medical assistance and provide facilities and medicine within their capabilities to patients in emergency cases who are in danger of dying or have serious injuries.""}, {""title"": ""Section 2."", ""summary"": ""Expenses and losses incurred by private hospitals or clinics for medicines, facilities and services beyond first aid, up to fifty thousand pesos per year, are deductible for income tax purposes and can be carried over for five years.""}, {""title"": ""Section 3."", ""summary"": ""Failure to render appropriate assistance or neglecting to notify or call a physician results in imprisonment of one month and one day to one year and one day, and a fine of 300 to 1,000 pesos, with additional provisions for physicians under RA 2282.""}, {""title"": ""Section 4."", ""summary"": ""The Secretary of Health may approve the Bureau of Medical Services to promulgate rules and regulations to carry out the Act.""}, {""title"": ""Section 5."", ""summary"": ""Any law or part thereof inconsistent with the Act is hereby repealed.""}, {""title"": ""Section 6."", ""summary"": ""The Act takes effect upon its approval.""}]"	Republic Act No. 6615	October 23, 1972	"[{""name"": ""GIL J. PUYAT"", ""title"": ""President of the Senate""}, {""name"": ""CORNELIO T. VILLAREAL"", ""title"": ""Speaker of the House of Representatives""}, {""name"": ""ELISEO M. TENZA"", ""title"": ""Secretary of the Senate""}, {""name"": ""INOCENCIO B. PAREJA"", ""title"": ""Secretary of the House Representatives""}]"		To ensure timely medical assistance in emergencies by government and private hospitals, establish tax benefits for medical expenses, set penalties for non‑compliance, and provide regulatory guidance for healthcare facilities.	"[""Requirement for immediate emergency medical assistance by all licensed hospitals and clinics"", ""Deductible expenses up to 50,000 pesos per year for private hospitals"", ""Penalties of imprisonment and fines for failure to provide assistance"", ""Authority for license suspension or revocation for private hospitals"", ""Rule\u2011making authority granted to the Bureau of Medical Services"", ""Repeal of inconsistent laws""]"	Repeals any law or part thereof inconsistent with this Act	"[""health"", ""hospital"", ""clinic"", ""emergency"", ""medical assistance"", ""penalties"", ""tax deduction"", ""license suspension""]"	"[""hospital"", ""clinic"", ""emergency"", ""medical assistance"", ""penalties"", ""tax deduction"", ""license suspension""]"
+repacts:datasets/markdown/repacts/1972/ra_6616_1972.md	repacts	1972		datasets/markdown/repacts/1972/ra_6616_1972.md	ra_6616_1972	AN ACT PROVIDING FOR THE ESTABLISHMENT OF AN EMERGENCY HOSPITAL IN BARRIO CALANTAC, MUNICIPALITY OF ALCALA, PROVINCE OF CAGAYAN, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.	"**[ REPUBLIC ACT NO. 6616, October 23, 1972 ]**
+
+ AN ACT PROVIDING FOR THE ESTABLISHMENT OF AN EMERGENCY HOSPITAL IN BARRIO CALANTAC, MUNICIPALITY OF ALCALA, PROVINCE OF CAGAYAN, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established, under the Bureau of Medical Services, a twenty-five-bed emergency hospital in Barrio Calantac, Municipality of Alcala, Province of Cagayan, to be known as the Central Cagayan Emergency Hospital.
+
+ **Section 2.** The sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment and construction of said hospital as well as the purchase of equipment and facilities thereof. The annual maintenance of said hospital shall be in accordance with the provisions of Republic Act Numbered Nineteen hundred thirty-nine.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | **GIL J. PUYAT** *President of the Senate* Finally passed by the Senate on September 11, 1972. | **CORNELIO T. VILLAREAL** *Speaker of the House of Representatives* This Act, which originated in the House of Representatives, was finally passed by the same on April 7, 1972. |
+| --- | --- |
+| **ELISEO M. TENZA** *Secretary of the Senate* | **INOCENCIO B. PAREJA** *Secretary of the House Representatives* |
+
+ Approved: October 23, 1972
+
+ **FERDINAND E. MARCOS** *President of the Philippines*
+"	success	Health	Establishment of a 25‑bed emergency hospital in Barrio Calantac, Alcala, Cagayan, and appropriation of funds for its construction, equipment, and maintenance.	"[{""title"": ""Section 1"", ""summary"": ""Creation of a 25\u2011bed emergency hospital under the Bureau of Medical Services to be known as the Central Cagayan Emergency Hospital.""}, {""title"": ""Section 2"", ""summary"": ""Authorization to appropriate one hundred thousand pesos for the hospital\u2019s construction, equipment, and maintenance in accordance with RA 1939.""}, {""title"": ""Section 3"", ""summary"": ""The act takes effect upon approval.""}]"	6616	October 23, 1972	"[{""name"": ""GIL J. PUYAT"", ""title"": ""President of the Senate""}, {""name"": ""CORNELIO T. VILLAREAL"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""ELISEO M. TENZA"", ""title"": ""Secretary of the Senate""}, {""name"": ""INOCENCIO B. PAREJA"", ""title"": ""Secretary of the House Representatives""}]"	To establish an emergency hospital in Barrio Calantac, Alcala, Cagayan, and to appropriate funds for its construction, equipment, and maintenance.	"[""Establishment of a 25\u2011bed emergency hospital"", ""Authorization of appropriation of 100,000 pesos"", ""Hospital to be maintained in accordance with RA 1939"", ""Act takes effect upon approval""]"	Republic Act No. 1939 (provision for maintenance of the hospital).	"[""Health"", ""Hospital"", ""Emergency"", ""Cagayan"", ""Republic Act""]"	"[""emergency hospital"", ""Barrio Calantac"", ""Alcala"", ""Cagayan"", ""appropriation"", ""maintenance"", ""100,000 pesos"", ""Bureau of Medical Services""]"
+repacts:datasets/markdown/repacts/1972/ra_6617_1972.md	repacts	1972		datasets/markdown/repacts/1972/ra_6617_1972.md	ra_6617_1972	An Act Establishing an Emergency Hospital in the Municipality of Biri, Province of Northern Samar, and Authorizing the Appropriation of Funds Therefor	"**[ REPUBLIC ACT NO. 6617, October 23, 1972 ]**
+
+ AN ACT ESTABLISHING AN EMERGENCY HOSPITAL IN THE MUNICIPALITY OF BIRI, PROVINCE OF NORTHERN SAMAR, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established, under the direct supervision of the Director of Medical Services, an emergency hospital in the Municipality of Biri, Province of Northern Samar.
+
+ **Section 2.** The sum of two hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital during the fiscal year nineteen hundred seventy-two. Thereafter, such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | **GIL J. PUYAT** *President of the Senate* Finally passed by the Senate on September 11, 1972. | **CORNELIO T. VILLAREAL** *Speaker of the House of Representatives* his Act, which originated in the House of Representatives, was finally passed by the same on March 23, 1972. |
+| --- | --- |
+| **ELISEO M. TENZA** *Secretary of the Senate* | **INOCENCIO B. PAREJA** *Secretary of the House Representatives* |
+
+ Approved: October 23, 1972
+
+ **FERDINAND E. MARCOS** *President of the Philippines*
+"	success	Republic Act	An act establishing an emergency hospital in Biri, Northern Samar and authorizing appropriation of funds for its establishment, operation and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""There shall be established, under the direct supervision of the Director of Medical Services, an emergency hospital in the Municipality of Biri, Province of Northern Samar.""}, {""title"": ""Section 2."", ""summary"": ""The sum of two hundred thousand pesos is hereby authorized to be appropriated for the establishment, operation and maintenance of said hospital during the fiscal year 1972. Subsequent sums needed for its operation and maintenance will be included in the annual General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""This Act shall take effect upon its approval.""}]"	6617	October 23, 1972	"[{""name"": ""GIL J. PUYAT"", ""title"": ""President of the Senate""}, {""name"": ""CORNELIO T. VILLAREAL"", ""title"": ""Speaker of the House of Representatives""}]"		To establish an emergency hospital in Biri, Northern Samar and to authorize the appropriation of funds for its establishment, operation and maintenance.	"[""Establishment of an emergency hospital under the Director of Medical Services"", ""Authorization of two hundred thousand pesos for establishment and operation"", ""Effectivity upon approval""]"		"[""Health"", ""Hospital"", ""Emergency"", ""Northern Samar"", ""Republic Act""]"	"[""emergency hospital"", ""Biri"", ""Northern Samar"", ""appropriation"", ""funds"", ""medical services""]"

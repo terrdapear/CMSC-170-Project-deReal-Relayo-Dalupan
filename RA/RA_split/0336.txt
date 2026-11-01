@@ -1,0 +1,148 @@
+repacts:datasets/markdown/repacts/1955/ra_1215_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1215_1955.md	ra_1215_1955	An Act Converting All Specially Organized Provinces into Regularly Organized Provinces	"**REPUBLIC ACT No. 1215**
+
+ **An Act to Change the Name of the Concepcion High School in the Municipality of Concepcion, Province of Tarlac, to Aquino Memorial High School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Concepcion High School in the Municipality of Concepcion, Province of Tarlac, is changed to Aquino Memorial High School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: May 10, 1955.
+"	success	Republic Act	The act extends the provisions of chapter fifty-six of the Revised Administrative Code to all specially organized provinces, allows officers to remain in office until the next elected successors qualify, repeals chapter sixty-three of the Revised Administrative Code, and takes effect upon approval. It was enacted on April 20, 1955.	"[{""title"": ""Section 1."", ""summary"": ""Extends the provisions of chapter fifty-six of the Revised Administrative Code, as amended, and all applicable laws to all specially organized provinces.""}, {""title"": ""Section 2."", ""summary"": ""Officers in specially organized provinces appointed to elective positions shall continue to hold office until their successors are elected and qualified in the next regular elections.""}, {""title"": ""Section 3."", ""summary"": ""Repeals chapter sixty-three of the Revised Administrative Code, as amended.""}, {""title"": ""Section 4."", ""summary"": ""The act shall take effect upon its approval.""}]"	1205	April 20, 1955			To convert specially organized provinces into regularly organized provinces by extending existing legal provisions and repealing outdated ones.	"[""Extends chapter 56 of the Revised Administrative Code to specially organized provinces"", ""Maintains office holders until next elections"", ""Repeals chapter 63 of the Revised Administrative Code"", ""Takes effect upon approval""]"	Revised Administrative Code chapters 56 and 63	"[""Provinces"", ""Administrative Code"", ""Conversion"", ""Local Government""]"	"[""specially organized provinces"", ""regularly organized provinces"", ""Revised Administrative Code"", ""chapter 56"", ""chapter 63"", ""local government""]"
+repacts:datasets/markdown/repacts/1955/ra_1216_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1216_1955.md	ra_1216_1955	An Act Changing the Name of the Municipality of Trinidad, Province of Davao, to Jose Abad Santos	"**REPUBLIC ACT No. 1216**
+
+ **An Act to Further Amend Section One of Act Numbered Thirty-Five Hundred and Ninety-Two, Known as the ""Port-Works Fund Act"", as Amended by Commonwealth Act Numbered One Hundred and Thirty, and to Provide for the Disbursement of Said Funds so as to Exclude Disbursement of Port Works Fund for the Investigation, Construction, Improvement and Maintenance of Airports and Landing Fields**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section one of Act Numbered Thirty-five hundred and ninety-two, as amended by Commonwealth Act Numbered One hundred and thirty, is hereby further amended to read as follows:
+
+ > ""Sec. 1. All wharfage fees collected from the date on which this Act takes effect, under the provisions of section fourteen of the Tariff Law of nineteen hundred and nine, shall be deposited in the National Treasury and shall form a special fund to be known as ""Port Works Fund,"" which shall be disbursed in accordance with acts of the Congress for the investigation, construction, improvement and maintenance of ports, buoys, lighthouses, and other aids to navigation, including the purchase and maintenance of necessary equipment: *Provided,* *However*, That fifty per centum of the fund so formed is hereby set aside for the necessary expenses of maintenance of ports, buoys, lighthouses, and other aids to navigation belonging to the National Government, including dredging and improvements incidental to such maintenance, to be allotted by the Secretary of Public Works and Communications, with the approval of the President, upon certification by the Secretary of Finance that the necessary funds are available: *Provided, further,* That out of the remaining fifty per centum of the fund so formed there is hereby set aside such sum as may be necessary to reimburse the general fund for the payment of interest charges on account of bonds issued by the National Government for the construction and improvement of ports.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: May 10, 1955.
+"	success	Republic Act	This act changes the name of the Municipality of Trinidad in the Province of Davao to Jose Abad Santos.	"[{""title"": ""Section 1"", ""summary"": ""The name of the Municipality of Trinidad, Province of Davao, is changed to Jose Abad Santos.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	1206	April 20, 1955			To change the official name of a municipality in the Province of Davao.	"[""Name of Municipality of Trinidad changed to Jose Abad Santos"", ""Act takes effect upon its approval""]"		"[""Municipality"", ""Name change"", ""Davao"", ""Jose Abad Santos""]"	"[""name"", ""municipality"", ""Trinidad"", ""Jose Abad Santos"", ""Davao""]"
+repacts:datasets/markdown/repacts/1955/ra_1217_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1217_1955.md	ra_1217_1955	An Act to Change the Name of the Barrio of Pajarito, Municipality of Sibalom, Province of Antique, to Catmon	"**REPUBLIC ACT No. 1217**
+
+ **An Act Amending Item Sixty-Four of Subsection (A) of Section One of Republic Act Numbered Six Hundred Seventy, Entitled ""An Act Appropriating Funds for Public Works""**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item 64 for Quezon Province (page 105) of subsection (a) of section one of Republic Act Numbered Six hundred seventy, entitled ""An Act Appropriating Funds for Public Works,"" is hereby amended to read as follows:
+
+ | ""64. For the construction of a waterworks system in Polo, Padre Burgos | ₱10,000.00"" |
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: May 10, 1955.
+"	success	Republic Act	This act changes the name of the barrio of Pajarito, Municipality of Sibalom, Antique to Catmon, repeals Republic Act 890, and takes effect upon its approval.	"[{""title"": ""Section 1."", ""summary"": ""The name of the barrio of Pajarito in the Municipality of Sibalom, Province of Antique, is hereby changed to Catmon.""}, {""title"": ""Section 2."", ""summary"": ""Republic Act Numbered Eight hundred and ninety is hereby repealed.""}, {""title"": ""Section 3."", ""summary"": ""This Act shall take effect upon its approval.""}]"	1207	April 20, 1955				"[""Change name of barrio from Pajarito to Catmon"", ""Repeal of Republic Act 890""]"	Republic Act 890	"[""Name change"", ""Local government"", ""Barrio""]"	"[""Pajarito"", ""Catmon"", ""Sibalom"", ""Antique"", ""Republic Act 1207""]"
+repacts:datasets/markdown/repacts/1955/ra_1218_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1218_1955.md	ra_1218_1955	An Act to Amend Item Twenty-One of the Public Works Projects for the Province of Quezon, Sub-Section (a), Title A, Section One of Republic Act Numbered Six Hundred Seventy	"**REPUBLIC ACT No. 1218**
+
+ **An Act Creating the Barrio of Mainit in the Municipality of Compostela, Province of Davao**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Mainit, Tagnocan and Cati-an in the barrio of Manat, Municipality of Compostela, Province of Davao, are hereby separated from the said barrio of Manat and constituted into a barrio to be known as the barrio of Mainit.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: May 10, 1955.
+"	success	Republic Act	Amends Item 21 of RA 670 to add ₱5,000.00 for the construction of the Sto. Cristo School Building in Sariaya, Quezon.	"[{""title"": ""Section 1."", ""summary"": ""Item twenty-one of the public works projects for the Province of Quezon, subsection (a), title A, section one of Republic Act Numbered Six Hundred Seventy, is amended to read: '21. For the construction of the Sto. Cristo School Building, Sariaya \u20b15,000.00.'""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	1208	April 20, 1955			Amendment to the allocation of public works projects for the Province of Quezon.	"[""Amends Item 21 of RA 670 to include \u20b15,000.00 for Sto. Cristo School Building"", ""Effectivity upon approval""]"	Republic Act No. 670	"[""Public Works"", ""Quezon"", ""School"", ""Amendment""]"	"[""Republic Act"", ""Quezon"", ""Sto. Cristo School"", ""Public Works"", ""Amendment""]"
+repacts:datasets/markdown/repacts/1955/ra_1219_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1219_1955.md	ra_1219_1955	An Act Making Elective the Positions of Mayor, Vice-Mayor and Councilors in the City of Iloilo, Amending for Said Purpose Certain Sections of Commonwealth Act Numbered One Hundred Fifty-Eight, as Amended	"**REPUBLIC ACT No. 1219**
+
+ **An Act Making the Vice-Mayor of Manila the Presiding Officer of the Municipal Board of the Said City, Amending for This Purpose Section Thirteen of Republic Act Numbered Four Hundred Nine**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section thirteen of Republic Act Numbered Four hundred nine, otherwise known as the ""Charter of the City of Manila,"" is amended to read as follows:
+
+ > ""Sec. 13. *Organization.* -The Municipal Board shall be the legislative body of the city, and shall consist of the vice-mayor, as the presiding officer, and three elective members from each representative district, who shall hold office for four years. The vice-mayor shall have no right to vote except in case of a tie. In the absence of the vice-mayor, the Board shall elect one of its members as temporary presiding officer. The presiding officer shall sign all ordinances, and all resolutions and motions directing the payment of money or creating liability, enacted or adopted by the Board. In case of sickness of any member of the Board, or if for any reason it becomes necessary to maintain a quorum, the President of the Philippines may make a temporary appointment until the return to duty of the sick or absent member. During the period of such temporary appointment the person receiving the same shall possess all the rights and perform all the duties of a member of the Board. The members of the board shall receive a salary of seven thousand two hundred pesos per annum.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: May 10, 1955.
+"	success	Republic Act	Republic Act No. 1209 makes the positions of Mayor, Vice‑Mayor and Councilors in the City of Iloilo elective, amends relevant sections of Commonwealth Act No. 158, and defines the compensation, duties, and composition of the Municipal Board.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 8 of CA 158 to provide that the Mayor is elected, must be at least 25, serves a four\u2011year term, and receives a salary and discretionary fund.""}, {""title"": ""Section 2"", ""summary"": ""Amends Section 8\u00bd of CA 158 to provide that the Vice\u2011Mayor is elective, serves a four\u2011year term, performs Mayor\u2019s duties when necessary, and receives salary, per diem and is ex\u2011officio Municipal Board member.""}, {""title"": ""Section 3"", ""summary"": ""Amends Section 14 of CA 158 to outline the Municipal Board\u2019s composition, powers, chairmanship, and procedures for temporary substitutes.""}, {""title"": ""Section 4"", ""summary"": ""Sets the first election for the elective positions to coincide with the next general elections for provincial and municipal officials.""}, {""title"": ""Section 5"", ""summary"": ""The Act takes effect upon approval.""}]"	1209	April 29, 1955			To make elective the positions of Mayor, Vice‑Mayor and Councilors in the City of Iloilo and amend certain sections of Commonwealth Act No. 158 to define the offices’ duties, compensation and municipal governance structure.	"[""Mayor and Vice\u2011Mayor are elective positions."", ""Mayor\u2019s term is four years with specified compensation."", ""Vice\u2011Mayor acts as Mayor when necessary and receives same salary."", ""Vice\u2011Mayor is ex\u2011officio Municipal Board member and receives per diem."", ""Municipal Board composition: Mayor, Vice\u2011Mayor (ex\u2011officio), ten councilors."", ""Mayor chairs the Board; Vice\u2011Mayor presides in Mayor\u2019s absence."", ""Temporary substitutes for Board members appointed by the President."", ""First election aligns with next general elections."", ""Act takes effect upon approval.""]"	Commonwealth Act No. 158 (Sections 8, 8½, and 14) as amended by Republic Acts No. 276 and 365.	"[""Local Government"", ""Elective Positions"", ""Iloilo"", ""Municipal Board"", ""Mayoral Election""]"	"[""Mayor"", ""Vice\u2011Mayor"", ""Councilors"", ""Municipal Board"", ""Election"", ""Iloilo"", ""Republic Act"", ""Commonwealth Act 158"", ""RA 1209""]"
+repacts:datasets/markdown/repacts/1955/ra_1220_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1220_1955.md	ra_1220_1955	An Act to Amend Certain Sections of Commonwealth Act Numbered Thirty-Nine, Otherwise Known as the Charter of the City of Zamboanga, so as to Make Elective the Positions of Mayor, Vice-Mayor and Councilor	"**REPUBLIC ACT No. 1220**
+
+ **An Act Creating the Municipality of Mayorga in the Province of Leyte**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The barrios of Mayorga, Andres Bonifacio, Talisay, San Roque, Burgos, Liberty, Union, Ormocay, Wilson, and the southern portion of barrio of Cogon Bingcay are separated from the Municipality of Dulag, Province of Leyte, and constituted into a new and regular municipality to be known as the Municipality of Mayorga in the same province.
+
+ **Section 2.** The first mayor, vice-mayor and councilors of the new municipality shall be appointed by the President of the Philippines and shall hold office until their successors shall have been elected in the general elections next following the approval of this Act and shall have duly qualified.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: May 11, 1955.
+"	success	Republic Act	The act amends the Charter of the City of Zamboanga (Commonwealth Act No. 39) to make the positions of Mayor, Vice‑Mayor, and Councilor elective. It specifies election procedures, eligibility requirements, compensation, and outlines the duties and composition of the City Council, including meeting rules, quorum, and ordinance processes.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 7 of CA 39 to state that the Mayor is elected by qualified voters, must be at least 25 years old, a qualified voter, and a resident of the city for at least one year. It sets the Mayor\u2019s salary as provided in RA 840 and allows an additional non\u2011commutable allowance of two thousand pesos per annum.""}, {""title"": ""Section 2"", ""summary"": ""Amends Sections 8 and 12 of CA 39 to define the Vice\u2011Mayor\u2019s duties, salary, and role as presiding officer of the City Council. It establishes the composition of the Council, per diem payments, meeting schedules, quorum requirements, voting procedures, and the ordinance approval and veto process.""}]"	1210				To amend the charter of the City of Zamboanga to make the positions of Mayor, Vice‑Mayor, and Councilor elective, and to clarify election procedures and city council organization.	"[""Mayor elected by qualified voters with age and residency requirements"", ""Mayor\u2019s salary per RA 840 and allowance of two thousand pesos"", ""Vice\u2011Mayor\u2019s duties, salary, and presiding officer role"", ""Composition of City Council and per diem for councilors"", ""Meeting rules, quorum, voting procedures, ordinance approval and veto process""]"	Commonwealth Act No. 39 (Charter of the City of Zamboanga) as amended by Commonwealth Act No. 208	"[""Local Government"", ""City Charter"", ""Zamboanga"", ""Elective Positions"", ""Municipal Governance""]"	"[""Mayor"", ""Vice\u2011Mayor"", ""Councilor"", ""Elections"", ""City Council"", ""Zamboanga"", ""Commonwealth Act 39"", ""Republic Act 1210"", ""Revised Election Code"", ""RA 840""]"
+repacts:datasets/markdown/repacts/1955/ra_1221_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1221_1955.md	ra_1221_1955	An Act to Amend Certain Sections of Republic Act Numbered Two Hundred Eighty-Eight, Otherwise Known as the Charter of the City of Basilan, so as to Make Elective the Positions of Mayor, Vice-Mayor and Councilor	"**REPUBLIC ACT No. 1221**
+
+ **An Act to Create the Municipality of Llanera in the Province of Nueva Ecija**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The following named barrios are separated from their respective municipalities, all in the Province of Nueva Ecija.
+
+ From San Jose,Bagumbayan (townsite), Andres Bonifacio, Caridad, San Mauricio (portion), Parang Manga (portion), Santa Barbara, Floridablanca, Gomez, San Francisco, and Victoria;
+
+ From Talavera,General Luna, Morcon, Mabini, Ricarte, Casili, and Picon, together with sitios Plaridel and Bosque;
+
+ From Rizal,San Felipe and San Alfonso; and the same are constituted into a new and separate municipality, to be known as the Municipality of Llanera, also in the Province of Nueva Ecija, with Bagumbayan as the site of the poblacion.
+
+ **Section 2.** The first municipal mayor, vice-mayor and councilors of the newly created municipality shall be appointed by the President of the Philippines and shall hold office until their successors are duly elected and have qualified.
+
+ **Section 3.** The newly created municipality shall belong to, and be a part of, the Second Congressional District of Nueva Ecija.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: May 11, 1955.
+"	success	Republic Act	This act amends sections of Republic Act No. 288 to make the positions of mayor, vice‑mayor and councilor elective in the City of Basilan, adjusting election qualifications, duties and compensation, and providing for temporary appointments until the next election.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 6 of RA 288 to specify election qualifications for mayor and his compensation.""}, {""title"": ""Section 2"", ""summary"": ""Amends Sections 7 and 10 of RA 288 to redefine vice\u2011mayor duties, council composition, and councilor compensation.""}, {""title"": ""Section 3"", ""summary"": ""Provides for temporary appointment of the vice\u2011mayor and two additional councilors pending the next general election.""}, {""title"": ""Section 4"", ""summary"": ""States that the act takes effect upon its approval.""}]"	1211	April 29, 1955			To amend Republic Act No. 288 to make the positions of mayor, vice‑mayor, and councilor elective in Basilan City.	"[""Amendment of mayor election qualifications and compensation"", ""Redefinition of vice\u2011mayor duties and council organization"", ""Provision for temporary appointment of vice\u2011mayor and councilors""]"	Republic Act No. 288	"[""Local Government"", ""Charter Amendment"", ""Basilan"", ""Elective Positions""]"	"[""Mayor"", ""Vice\u2011Mayor"", ""Councilor"", ""Basilan"", ""RA 288"", ""Election"", ""Revised Election Code""]"
+repacts:datasets/markdown/repacts/1955/ra_1222_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1222_1955.md	ra_1222_1955	An Act Creating the Municipality of San Jose, Province of Negros Oriental	"**REPUBLIC ACT No. 1222**
+
+ **An Act Creating the Municipal District of Potia in the Mountain Province**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The barrios of Potia, Dolowog, San Juan, San Quintin, Cabicalan, Pinto, Busilac, Sta. Maria, and Namillañgan in the Municipal District of Mayaoyao, Mountain Province, are separated from the said municipal district and constituted into a municipal district in the Mountain Province, to be known as the Municipal District of Potia, with the seat of government at the site of the present barrio of Potia.
+
+ The first mayor and councilors of the Municipal District of Potia shall be appointed by the President of the Philippines and shall hold office until their successors shall have been duly elected and shall have qualified.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: May 11, 1955.
+"	success	Act	An act establishing the Municipality of San Jose in Negros Oriental by separating specified barrios from Ayuquitan, appointing officials, and taking effect on approval.	"[{""title"": ""Section 1"", ""summary"": ""Separation of specified barrios and sitios from the Municipality of Ayuquitan to constitute the new Municipality of San Jose, with its seat at Ayuquitan.""}, {""title"": ""Section 2"", ""summary"": ""Appointment of the first mayor, vice-mayor, and councilors of the new municipality by the President of the Philippines, holding office until the next general election.""}, {""title"": ""Section 3"", ""summary"": ""The act shall take effect upon its approval.""}]"	RA 1212	May 9, 1955			To create the Municipality of San Jose in the Province of Negros Oriental	"[""Creation of a new municipality"", ""Appointment of municipal officials by the President"", ""Effectivity upon approval""]"		"[""Municipality"", ""Local Government"", ""Negros Oriental""]"	"[""San Jose"", ""Ayquitan"", ""Amlan"", ""Negros Oriental"", ""municipality"", ""creation""]"
+repacts:datasets/markdown/repacts/1955/ra_1223_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1223_1955.md	ra_1223_1955	An Act Repealing Item Thirty-Four (e), Subsection (a), Title C of Section One of Republic Act Numbered Nine Hundred and Twenty, and Appropriating the Amount of Forty-Five Thousand Pesos Therein Provided for the Construction of the Calanan-Tuga-Pinukpuk Road in Mountain Province	"**REPUBLIC ACT No. 1223**
+
+ **An Act Amending and Repealing Certain Items in Republic Act Numbered Nine Hundred and Twenty, Regarding Public Works Projects for the Province of Cebu**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item 17 (f), for the Province of Cebu, paragraph (a), Title E, section one of Republic Act Numbered Nine hundred twenty, is amended to read as follows:
+
+ | ""(f) Carmen Waterworks-Construction | ₱65,000.00"" |
+
+ **Section 2.** The following new items are inserted after item 17 (h), for the Province of Cebu, paragraph (a), Title E, section one of Republic Act Numbered Nine hundred twenty:
+
+ | ""(h-1) Barrio San Juan Waterworks, Municipality of Pilar-Construction | ₱2,000.00 |
+| --- | --- |
+| ""(h-2) Barrio Villa Hermosa Waterworks, Municipality of Pilar-Construction | 2,000.00"" |
+| ""(h-3) Barrio Kawit Waterworks, Municipality of Pilar-Construction | 6,000.00"" |
+
+ **Section 3.** Item 17 (c), paragraph (a), Title C, and item 3 (x), paragraph (a), Title H, of section one of said Republic Act, are repealed.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: May 11, 1955.
+"	success	Legislation	This act repeals Item 34(e), subsection (a), Title C of section one of Republic Act 920 and appropriates 45,000 pesos for the construction of the Calanan-Tuga-Pinukpuk Road in Mountain Province. It takes effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Repeal of Item 34(e), subsection (a), Title C of section one of Republic Act 920 and appropriation of 45,000 pesos for road construction.""}, {""title"": ""Section 2"", ""summary"": ""Act takes effect upon approval.""}]"	1213	May 10, 1955			To repeal a specific provision of Republic Act 920 and to appropriate funds for the construction of a road in Mountain Province.	"[""Repeal of Item 34(e), subsection (a), Title C of section one of RA 920"", ""Appropriation of 45,000 pesos for Calanan\u2011Tuga\u2011Pinukpuk Road construction"", ""Act takes effect upon approval""]"	Repeal of Item 34(e) of RA 920	"[""Repeal"", ""Appropriation"", ""Infrastructure"", ""Road construction"", ""Mountain Province""]"	"[""RA 1213"", ""Item 34(e)"", ""Republic Act 920"", ""Calanan-Tuga-Pinukpuk Road"", ""45,000 pesos"", ""Mountain Province"", ""Road construction"", ""Repeal"", ""Appropriation""]"
+repacts:datasets/markdown/repacts/1955/ra_1224_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1224_1955.md	ra_1224_1955	An Act to Provide for Additional Compensation to the Provincial Auditor and Division Superintendent of Schools of Nueva Ecija Who Act as Ex Officio City Auditor and Ex Officio City Superintendent of Schools, Respectively, of the City of Cabanatuan	"**REPUBLIC ACT No. 1224**
+
+ **An Act Amending Section One of Republic Act Numbered Nine Hundred Thirty-Eight, as Amended**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section one of Republic Act Numbered Nine hundred thirty-eight, as amended by Republic Act Numbered Nine hundred seventy-nine, is amended to read as follows:
+
+ > ""Sec. 1. The municipal or city board or council of each chartered city and the municipal council of each municipality and municipal district shall have the power to regulate or prohibit by ordinance the establishment, maintenance and operation of night clubs, cabarets, dancing schools, pavilions, cockpits, bars, saloons bowling alleys, billiard pools, and other similar places of amusement within its territorial jurisdiction: *Provided,* *However*, That no such places of amusement mentioned herein shall be established, maintained and/or operated within a radius of two hundred lineal meters in the case of night clubs, cabarets, pavilions, or other similar places, and fifty lineal meters in the case of dancing schools, bars, saloons, billiard pools, bowling alleys, or other similar places, except cockpits, the distance of which shall be left to the discretion of the municipal or city board or council, from any public building, schools, hospitals and churches: *Provided, further,* That no municipal or city ordinance fixing distances at which such places of amusement may be established or operated shall apply to those already licensed and operating at the time of the enactment of such municipal or city ordinance, nor will the subsequent opening of any public building or other premises from which distances shall be measured prejudice any place of amusement already then licensed and operating, but any such place of amusement established within fifty lineal meters from any school, hospital or church shall be so constructed that the noise coming therefrom shall not disturb those in the school, hospital or church, and, if such noise causes such disturbance then such place of amusement shall not operate during school hours when near a school, or at night when near a hospital, or when there are religious services when near a church: *Provided,* furthermore, That no minor shall be admitted to any bar, saloon, cabaret, or night club employing hostesses: And *Provided, finally,* That this Act shall not apply to establishments operating by virtue of Commonwealth Act Numbered Four hundred eighty-five nor to any establishment already in operation when Republic Act Numbered Nine hundred seventy-nine took effect.

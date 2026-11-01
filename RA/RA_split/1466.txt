@@ -1,0 +1,154 @@
+repacts:datasets/markdown/repacts/1971/ra_6302_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6302_1971.md	ra_6302_1971	AN ACT ESTABLISHING AN EMERGENCY HOSPITAL IN THE MUNICIPALITY OF SINAIT, PROVINCE OF ILOCOS SUR, AND APPROPRIATING FUNDS THEREFOR.	"**[ REPUBLIC ACT NO. 6302, June 19, 1971 ]**
+
+ AN ACT ESTABLISHING AN EMERGENCY HOSPITAL IN THE MUNICIPALITY OF SINAIT, PROVINCE OF ILOCOS SUR, AND APPROPRIATING FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established, under the direct supervision of the Director of Medical Services, an emergency hospital in the Municipality of Sinait, Province of llocos Sur, to be known as Sinait Emergency Hospital.
+
+ **Section 2.** The sum of two hundred fifty thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital during the fiscal year nineteen hundred seventy. Thereafter, such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Enacted without Executive Approval, June 19, 1971.
+"	success	Republic Act	Establishes the Sinait Emergency Hospital and appropriates funds for its establishment, operation, and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""Establishes an emergency hospital in Sinait under the supervision of the Director of Medical Services.""}, {""title"": ""Section 2."", ""summary"": ""Appropriates two hundred fifty thousand pesos for the hospital\u2019s establishment, operation, and maintenance for FY 1970, with subsequent funds to be included in the General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""The act takes effect upon approval.""}]"	6302	June 19, 1971			To establish an emergency hospital in Sinait, Ilocos Sur, and appropriate funds for its operation and maintenance.	"[""Establishment of Sinait Emergency Hospital"", ""Appropriation of funds for the hospital"", ""Effectivity upon approval""]"		"[""Republic Act"", ""Healthcare"", ""Emergency Hospital""]"	"[""Sinait"", ""Ilocos Sur"", ""hospital"", ""fund appropriation"", ""Director of Medical Services""]"
+repacts:datasets/markdown/repacts/1971/ra_6303_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6303_1971.md	ra_6303_1971	An Act Establishing a Cattle Breeding Station in the Municipality of Mulanay, Province of Quezon, to be known as the Bondoc Peninsula Breeding Station, and Authorizing the Appropriation of Funds for the Purpose.	"**[ REPUBLIC ACT NO. 6303, June 19, 1971 ]**
+
+ AN ACT ESTABLISHING A CATTLE BREEDING STATION IN THE MUNICIPALITY OF MULANAY, PROVINCE OF QUEZON, TO BE KNOWN AS THE BONDOC PENINSULA BREEDING STATION, AND AUTHORIZING THE APPROPRIATION OF FUNDS FOR THE PURPOSE.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There is hereby established under the direct supervision of the Director of Animal Industry, a cattle breeding station in the Municipality of Mulanay, Province of Quezon, to be known as the Bondoc Peninsula Breeding Station.
+
+ **Section 2.** The Director of Animal Industry shall appoint such personnel as may be necessary to carry out the purposes of this Act.
+
+ **Section 3.** The sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of the said breeding station for the fiscal year nineteen hundred seventy-one. Thereafter, such sums as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Enacted without Executive approval, June 19, 1971.
+"	success	Republic Act	The act establishes the Bondoc Peninsula Breeding Station in Mulanay, Quezon, authorizes the appropriation of 100,000 pesos for its establishment, operation and maintenance, and allows the Director of Animal Industry to appoint necessary personnel.	"[{""title"": ""Section 1"", ""summary"": ""Establishes the breeding station under the supervision of the Director of Animal Industry.""}, {""title"": ""Section 2"", ""summary"": ""Authorizes the Director of Animal Industry to appoint necessary personnel.""}, {""title"": ""Section 3"", ""summary"": ""Appropriates 100,000 pesos for establishment, operation and maintenance; future sums to be included in the annual General Appropriations Act.""}, {""title"": ""Section 4"", ""summary"": ""The act takes effect upon its approval.""}]"	6303	1971-06-19			To establish a cattle breeding station in Mulanay, Quezon, and secure funding for its operation and maintenance.	"[""Establishment of Bondoc Peninsula Breeding Station"", ""Director of Animal Industry shall appoint necessary personnel"", ""Appropriation of 100,000 pesos for establishment, operation and maintenance"", ""Act takes effect upon approval""]"		"[""Agriculture"", ""Animal Industry"", ""Cattle Breeding"", ""Quezon"", ""Bondoc Peninsula"", ""Appropriation""]"	"[""cattle breeding"", ""Mulanay"", ""Quezon"", ""National Treasury"", ""Director of Animal Industry"", ""General Appropriations Act"", ""budget""]"
+repacts:datasets/markdown/repacts/1971/ra_6304_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6304_1971.md	ra_6304_1971	AN ACT ESTABLISHING THE KITCHARAO EMERGENCY HOSPITAL IN THE MUNICIPALITY OF KITCHARAO, PROVINCE OF AGUSAN DEL NORTE AND APPROPRIATING FUNDS THEREFOR.	"**[ REPUBLIC ACT NO. 6304, June 19, 1971 ]**
+
+ AN ACT ESTABLISHING THE KITCHARAO EMERGENCY HOSPITAL IN THE MUNICIPALITY OF KITCHARAO, PROVINCE OF AGUSAN DEL NORTE AND APPROPRIATING FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established an emergency hospital in the Municipality of Kitcharao, Province of Agusan del Norte, to be known as the Kitcharao Emergency Hospital.
+
+ **Section 2.** The sum of two hundred thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital. Thereafter, such sum as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Enacted without Executive approval, June 19, 1971.
+"	success	Republic Act	Establishes the Kitcharao Emergency Hospital and appropriates funds for its establishment, operation, and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""Establishes an emergency hospital in the Municipality of Kitcharao, Province of Agusan del Norte.""}, {""title"": ""Section 2."", ""summary"": ""Appropriates two hundred thousand pesos for the establishment, operation, and maintenance of the hospital.""}, {""title"": ""Section 3."", ""summary"": ""The act takes effect upon its approval.""}]"	6304	June 19, 1971	"[{""name"": ""Senate of the Philippines"", ""title"": ""Senate""}, {""name"": ""House of Representatives of the Philippines"", ""title"": ""House of Representatives""}]"		To establish an emergency hospital in Kitcharao and provide necessary funding for its operation and maintenance.	"[""Establishment of Kitcharao Emergency Hospital"", ""Appropriation of 200,000 pesos for establishment, operation, and maintenance"", ""Effectivity upon approval""]"		"[""Health"", ""Hospital"", ""Emergency"", ""Agusan del Norte""]"	"[""hospital"", ""emergency"", ""funding"", ""Agusan del Norte"", ""Kitcharao""]"
+repacts:datasets/markdown/repacts/1971/ra_6305_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6305_1971.md	ra_6305_1971	AN ACT ESTABLISHING AN ANIMAL BREEDING STATION IN THE MUNICIPALITY OF FAIRE, PROVINCE OF CAGAYAN, TO BE KNOWN AS THE FAIRE BREEDING STATION, AND APPROPRIATING FUNDS THEREFOR.	"**[ REPUBLIC ACT NO. 6305, June 19, 1971 ]**
+
+ AN ACT ESTABLISHING AN ANIMAL BREEDING STATION IN THE MUNICIPALITY OF FAIRE, PROVINCE OF CAGAYAN, TO BE KNOWN AS THE FAIRE BREEDING STATION, AND APPROPRIATING FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There is hereby established, under the supervision of the Director of Animal Industry, an animal breeding station in the Municipality of Faire, Province of Cagayan, to be known as the Faire Breeding Station.
+
+ **Section 2.** The sum of one hundred thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said breeding station during the fiscal year nineteen hundred seventy-one. Thereafter, such sums as may be necessary for its operation and maintenance, shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Enacted without Executive approval, June 19, 1971.
+"	success	Republic Act	This act establishes the Faire Breeding Station in the Municipality of Faire, Province of Cagayan, under the supervision of the Director of Animal Industry, appropriates funds for its establishment, operation and maintenance, and specifies that it takes effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of the Faire Breeding Station under the supervision of the Director of Animal Industry.""}, {""title"": ""Section 2."", ""summary"": ""Appropriation of one hundred thousand pesos for the establishment, operation, and maintenance of the station during the fiscal year 1971; future necessary sums to be included in the annual General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""The act shall take effect upon its approval.""}]"	6305	June 19, 1971			To establish an animal breeding station in Faire, Cagayan and appropriate funds for its establishment, operation, and maintenance.	"[""Establishment of the Faire Breeding Station under the supervision of the Director of Animal Industry."", ""Appropriation of 100,000 pesos for its establishment, operation, and maintenance during FY 1971."", ""The act takes effect upon approval.""]"		"[""Animal Breeding"", ""Agriculture"", ""Cagayan"", ""Republic Act""]"	"[""animal breeding station"", ""Faire"", ""Cagayan"", ""appropriation"", ""National Treasury"", ""Director of Animal Industry""]"
+repacts:datasets/markdown/repacts/1971/ra_6306_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6306_1971.md	ra_6306_1971	AN ACT ESTABLISHING A BREEDING STATION IN THE MUNICIPALITY OF SAN AGUSTIN, PROVINCE OF ISABELA, AND APPROPRIATING THE NECESSARY FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 6306, June 19, 1971 ]**
+
+ AN ACT ESTABLISHING A BREEDING STATION IN THE MUNICIPALITY OF SAN AGUSTIN, PROVINCE OF ISABELA, AND APPROPRIATING THE NECESSARY FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established under the direct supervision of the Director of Animal Industry a breeding station in the Municipality of San Agustin, Province of Isabela, to be known as the Southern Isabela Breeding Station.
+
+ **Section 2.** The Director of Animal Industry shall establish said breeding station on a suitable public or private land of not less than twenty-five hectares that may be reserved or acquired for the purpose.
+
+ **Section 3.** The sum of one hundred fifty thousand pesos is appropriated, out of any funds in the National Treasury not otherwise appropriated, to be expended by the Director of Animal Industry, subject to the approval of the Secretary of Agriculture and Natural Resources, for the purchase of breeding animals; for the purchase of supplies and materials; for the construction of buildings, sheds, corrals and other structures; for the establishment of water system; for salaries and wages; and for other expenses as may be necessary to carry out the purposes of this Act for the fiscal year nineteen hundred seventy-one. Such sums as may be necessary for the operation and maintenance of the said breeding station in subsequent years shall be included in the annual General Appropriations Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Enacted without Executive approval, June 19, 1971.
+"	success	Republic Act	Establishes a breeding station in San Agustin, Isabela and appropriates funds for its establishment and operation.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of the Southern Isabela Breeding Station under the supervision of the Director of Animal Industry.""}, {""title"": ""Section 2."", ""summary"": ""Requirement that the breeding station be established on at least 25 hectares of public or private land.""}, {""title"": ""Section 3."", ""summary"": ""Appropriation of 150,000 pesos for equipment, construction, supplies, salaries, and other expenses with approval from the Secretary of Agriculture and Natural Resources.""}, {""title"": ""Section 4."", ""summary"": ""Act takes effect upon its approval.""}]"	6306	June 19, 1971			To establish a breeding station in San Agustin, Isabela and allocate necessary funds for its operation.	"[""Establishment of the Southern Isabela Breeding Station under the Director of Animal Industry."", ""Requirement of at least 25 hectares of suitable land."", ""Appropriation of 150,000 pesos for initial setup and operations."", ""Funds to be expended with approval of Secretary of Agriculture and Natural Resources."", ""Act takes effect upon approval.""]"		"[""Animal Industry"", ""Breeding Station"", ""Isabela"", ""Agriculture"", ""Philippines""]"	"[""breeding station"", ""Isabela"", ""Animal Industry"", ""funding"", ""agriculture""]"
+repacts:datasets/markdown/repacts/1971/ra_6307_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6307_1971.md	ra_6307_1971	AN ACT APPROVING THE TRANSFER, ASSIGNMENT, SALE OR MORTGAGE OF THE FRANCHISE GRANTED UNDER REPUBLIC ACT NUMBERED FIVE THOUSAND ONE HUNDRED NINETY-SIX.	"**[ REPUBLIC ACT NO. 6307, June 19, 1971 ]**
+
+ AN ACT APPROVING THE TRANSFER, ASSIGNMENT, SALE OR MORTGAGE OF THE FRANCHISE GRANTED UNDER REPUBLIC ACT NUMBERED FIVE THOUSAND ONE HUNDRED NINETY-SIX.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Subject to the provisions of the Constitution and to the terms and conditions of the franchise granted under Republic Act Numbered Five thousand one hundred ninety-six, the transfer, assignment, sale or mortgage of said franchise together with all the rights and privileges granted thereunder in favor of any banking or financing institution or any individual, corporation, co-partnership or joint-stock company, is hereby approved.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Enacted without Executive approval, June 19, 1971.
+"	success	Republic Act	This act approves the transfer, assignment, sale, or mortgage of the franchise granted under Republic Act 596, allowing such transactions to be conducted with banking or financing institutions or other entities.	"[{""title"": ""Section 1"", ""summary"": ""The transfer, assignment, sale, or mortgage of the franchise granted under RA 596, including all rights and privileges, is hereby approved.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	6307	June 19, 1971			To permit the transfer, assignment, sale, or mortgage of a franchise granted under RA 596, facilitating business transactions and financial arrangements.	"[""Transfer, assignment, sale, or mortgage of the franchise is approved."", ""The act takes effect upon approval.""]"	Republic Act 596	"[""franchise"", ""transfer"", ""assignment"", ""sale"", ""mortgage"", ""banking""]"	"[""franchise"", ""transfer"", ""assignment"", ""sale"", ""mortgage"", ""financial institution""]"
+repacts:datasets/markdown/repacts/1971/ra_6308_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6308_1971.md	ra_6308_1971	An Act Constituting the First Representative District of the Province of Albay into a Separate Highway Engineering District	"**[ REPUBLIC ACT NO. 6308, June 19, 1971 ]**
+
+ AN ACT CONSTITUTING THE FIRST REPRESENTATIVE DISTRICT OF THE PROVINCE OF ALBAY INTO A SEPARATE HIGHWAY ENGINEERING DISTRICT.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Any provision of law to the contrary notwithstanding, the First Representative District of Albay is hereby constituted into a separate highway engineering district to be known as the First Highway Engineering District of the Province of Albay. It shall have one highway district engineer who shall be appointed in accordance with existing laws.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Enacted without Executive approval, June 19, 1971
+"	success	Republic Act	Establishes the First Representative District of Albay as a separate highway engineering district and appoints a highway district engineer.	"[{""title"": ""Section 1"", ""summary"": ""Constitutes the First Representative District of Albay as a separate highway engineering district and appoints a highway district engineer.""}, {""title"": ""Section 2"", ""summary"": ""The Act takes effect upon approval.""}]"	6308	June 19, 1971			To create a dedicated highway engineering district for the First Representative District of Albay.	"[""Constitution of a separate highway engineering district in the First Representative District of Albay."", ""Appointment of a highway district engineer."", ""Effectivity upon approval.""]"		"[""Republic Act"", ""Highway Engineering"", ""Albay"", ""District""]"	"[""highway engineering district"", ""Albay"", ""district engineer"", ""Republic Act 6308""]"
+repacts:datasets/markdown/repacts/1971/ra_6309_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6309_1971.md	ra_6309_1971	AN ACT CONVERTING THE SOUTH PROVINCIAL HIGH SCHOOL IN THE MUNICIPALITY OF AGOO, PROVINCE OF LA UNION, INTO A NATIONAL HIGH SCHOOL TO BE KNOWN AS THE SOUTHERN LA UNION NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR.	"**[ REPUBLIC ACT NO. 6309, June 19, 1971 ]**
+
+ AN ACT CONVERTING THE SOUTH PROVINCIAL HIGH SCHOOL IN THE MUNICIPALITY OF AGOO, PROVINCE OF LA UNION, INTO A NATIONAL HIGH SCHOOL TO BE KNOWN AS THE SOUTHERN LA UNION NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The South Provincial High School in the Municipality of Agoo, Province of La Union is hereby converted into a national high school to be known as the Southern La Union National High School. General and practical arts courses relevant to the locality shall be offered in said school.
+
+ **Section 2.** Upon the organization of the Southern La Union National High School, the assets, liabilities, personnel, equipment and records of the South Provincial High School shall stand transferred to this new national high school.
+
+ **Section 3.** The sum of two hundred fifty thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for the conversion, operation and maintenance of said school during the fiscal year nineteen hundred seventy-one, in addition to other revenues it may collect.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Enacted without Executive approval, June 19, 1971
+"	success	Education	This act converts the South Provincial High School in Agoo, La Union into the Southern La Union National High School, appropriates 250,000 pesos for its conversion, operation, and maintenance, and transfers the school's assets, liabilities, personnel, equipment, and records to the new institution.	"[{""title"": ""Section 1."", ""summary"": ""The South Provincial High School in the Municipality of Agoo, Province of La Union is hereby converted into a national high school to be known as the Southern La Union National High School. General and practical arts courses relevant to the locality shall be offered in said school.""}, {""title"": ""Section 2."", ""summary"": ""Upon the organization of the Southern La Union National High School, the assets, liabilities, personnel, equipment and records of the South Provincial High School shall stand transferred to this new national high school.""}, {""title"": ""Section 3."", ""summary"": ""The sum of two hundred fifty thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for the conversion, operation and maintenance of said school during the fiscal year nineteen hundred seventy-one, in addition to other revenues it may collect.""}, {""title"": ""Section 4."", ""summary"": ""This Act shall take effect upon its approval.""}]"	6309	June 19, 1971			To convert the South Provincial High School into a national high school and appropriate funds for its operation.	"[""Conversion of South Provincial High School to Southern La Union National High School"", ""Transfer of assets, liabilities, personnel, equipment and records"", ""Appropriation of 250,000 pesos for conversion, operation and maintenance""]"		"[""Education"", ""School"", ""Funding"", ""Public School""]"	"[""school conversion"", ""public high school"", ""funding"", ""La Union"", ""Agoo"", ""National High School"", ""appropriation"", ""assets transfer""]"
+repacts:datasets/markdown/repacts/1971/ra_6310_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6310_1971.md	ra_6310_1971	AN ACT ESTABLISHING A BREEDING STATION IN THE MUNICIPALITY OF SABTANG, PROVINCE OF BATANES, AND APPROPRIATING FUNDS THEREFOR.	"**[ REPUBLIC ACT NO. 6310, June 19, 1971 ]**
+
+ AN ACT ESTABLISHING A BREEDING STATION IN THE MUNICIPALITY OF SABTANG, PROVINCE OF BATANES, AND APPROPRIATING FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There is hereby established, under the supervision of the Bureau of Animal Industry, a breeding station in the Municipality of Sabtang, Province of Butanes, at a site to be selected by the Director of Animal Industry through donation, to be known as the Sabtang Breeding Station.
+
+ **Section 2.** The sum of fifty thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for the construction of animal sheds, fence, drinking basins with water pumps and such other expenses as may be necessary to carry out the purpose of this Act. Thereafter, such sums as may be necessary for the maintenance and operation of said Station shall be included in the annual General Approbations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Enacted without Executive approval, June 19, 1971.
+"	success	Republic Act	Establishes a breeding station in Sabtang, Batanes, and appropriates funds for its construction and operation.	"[{""title"": ""Section 1"", ""summary"": ""Establishment of the Sabtang Breeding Station under the supervision of the Bureau of Animal Industry, with a site to be selected by the Director of Animal Industry through donation.""}, {""title"": ""Section 2"", ""summary"": ""Appropriation of fifty thousand pesos for the construction of animal sheds, fence, drinking basins, water pumps, and other necessary expenses, with additional funds for maintenance and operation to be included in the General Appropriations Act.""}, {""title"": ""Section 3"", ""summary"": ""The Act shall take effect upon its approval.""}]"	6310	June 19, 1971			To establish a breeding station in Sabtang, Batanes, and appropriate funds for its construction and operation.	"[""Establishment of Sabtang Breeding Station"", ""Appropriation of 50,000 pesos for construction"", ""Funds for maintenance and operation included in General Appropriations Act""]"		"[""Republic Act"", ""Animal Industry"", ""Batanes""]"	"[""breeding station"", ""Sabtang"", ""Batanes"", ""animal industry"", ""funds appropriation""]"
+repacts:datasets/markdown/repacts/1971/ra_6311_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6311_1971.md	ra_6311_1971	AN ACT DEFINING THE TERRITORIAL JURISDICTION OF THE FIRST HIGHWAY ENGINEERING DISTRICT IN THE PROVINCE OF BOHOL.	"**[ REPUBLIC ACT NO. 6311, June 19, 1971 ]**
+
+ AN ACT DEFINING THE TERRITORIAL JURISDICTION OF THE FIRST HIGHWAY ENGINEERING DISTRICT IN THE PROVINCE OF BOHOL.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The First Highway Engineering District in the Province of Bohol shall comprise the Municipalities of Calape, Loon, Maribojoc, Antequera, Cortes, Corella, Baclayon, Dauis and Panglao with principal station in the Municipality of Loon.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Enacted without Executive approval, June 19, 1971
+"	success	Republic Act	Defines the territorial jurisdiction of the First Highway Engineering District in Bohol, establishing its constituent municipalities and principal station.	"[{""title"": ""Section 1."", ""summary"": ""Specifies the municipalities that comprise the First Highway Engineering District in Bohol, with its principal station located in Loon.""}, {""title"": ""Section 2."", ""summary"": ""States that the act shall take effect upon its approval.""}]"	6311	June 19, 1971			To define the territorial jurisdiction of the First Highway Engineering District in Bohol.	"[""Establishment of the First Highway Engineering District in Bohol"", ""Specification of constituent municipalities"", ""Designation of principal station in Loon"", ""Effectivity upon approval""]"		"[""Transportation"", ""Infrastructure"", ""Local Government""]"	"[""Highway Engineering District"", ""Bohol"", ""Municipalities"", ""Territorial Jurisdiction""]"
+repacts:datasets/markdown/repacts/1971/ra_6312_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6312_1971.md	ra_6312_1971	AN ACT INCREASING THE BED CAPACITY OF AURORA GENERAL HOSPITAL IN THE MUNICIPALITY OF AURORA, PROVINCE OF ZAMBOANGA DEL SUR, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.	"**[ REPUBLIC ACT NO. 6312, June 19, 1971 ]**
+
+ AN ACT INCREASING THE BED CAPACITY OF AURORA GENERAL HOSPITAL IN THE MUNICIPALITY OF AURORA, PROVINCE OF ZAMBOANGA DEL SUR, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The bed capacity of the Aurora General Hospital in the Municipality of Aurora, Province of Zamboanga del Sur, is hereby increased from seventy-five beds to one hundred fifty.
+
+ **Section 2.** The sum of one hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, in addition to its existing appropriations, to carry out the provisions of this Act for the fiscal year nineteen hundred and seventy-two. Thereafter, such sums as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Enacted without Executive approval, June 19, 1971.
+"	success	Republic Act	This act increases the bed capacity of Aurora General Hospital from 75 to 150 beds and appropriates funds for its operation and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""Increases bed capacity from seventy-five to one hundred fifty beds.""}, {""title"": ""Section 2."", ""summary"": ""Authorizes appropriation of 100,000 pesos for the fiscal year 1972 and future necessary sums for operation and maintenance.""}, {""title"": ""Section 3."", ""summary"": ""The act takes effect upon approval.""}]"	6312	June 19, 1971			To increase bed capacity of Aurora General Hospital and allocate necessary funds for its operation and maintenance.	"[""Increase bed capacity to 150 beds"", ""Appropriation of 100,000 pesos for fiscal year 1972"", ""Include future necessary sums for operation and maintenance"", ""Act takes effect upon approval""]"		"[""Healthcare"", ""Hospital"", ""Bed Capacity"", ""Zamboanga del Sur""]"	"[""Aurora General Hospital"", ""bed capacity"", ""appropriation"", ""Zamboanga del Sur"", ""Republic Act 6312""]"

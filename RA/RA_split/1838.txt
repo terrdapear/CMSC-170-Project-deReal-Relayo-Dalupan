@@ -1,0 +1,160 @@
+repacts:datasets/markdown/repacts/1994/ra_7755_1994.md	repacts	1994		datasets/markdown/repacts/1994/ra_7755_1994.md	ra_7755_1994	AN ACT ESTABLISHING A HIGH SCHOOL SEPARATE FROM THE GENERAL SANTOS CITY HIGH SCHOOL IN BARANGAY FATIMA, GENERAL SANTOS CITY, TO BE KNOWN AS THE FATIMA HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"Republic of the Philippines Congress of the Philippines Second Regular Session
+
+ **[ REPUBLIC ACT NO. 7755, June 19, 1994 ]**
+
+ AN ACT ESTABLISHING A HIGH SCHOOL SEPARATE FROM THE GENERAL SANTOS CITY HIGH SCHOOL IN BARANGAY FATIMA, GENERAL SANTOS CITY, TO BE KNOWN AS THE FATIMA HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established, under the supervision of the Department of Education, Culture and Sports, a high school separate from the General Santos City High School in Barangay Fatima, General Santos City, to be known as the Fatima High School.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be funded out of the appropriations authorized by Republic Act No. 7663 for the Department of Education, Culture and Sports intended for the operational expenses of newly legislated high schools. Thereafter, the amount needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved, Lapsed into law on June 19, 1994 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.
+"	success	Republic Act	This law establishes the Fatima High School as a separate entity from General Santos City High School, authorizes funding for its operation, and sets its effective date upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Establishes the Fatima High School under the supervision of the Department of Education, Culture and Sports.""}, {""title"": ""Section 2"", ""summary"": ""Provides funding for the school from appropriations authorized by Republic Act No. 7663 and the General Appropriations Act.""}, {""title"": ""Section 3"", ""summary"": ""The act takes effect upon its approval.""}]"	7755	June 19, 1994			To create a separate high school named Fatima High School and secure funding for its construction and operation.	"[""Establishment of Fatima High School"", ""Funding sourced from RA 7663 and General Appropriations Act"", ""Effective upon approval""]"		"[""Education"", ""High School"", ""Republic Act"", ""Philippines""]"	"[""Fatima High School"", ""General Santos City"", ""Department of Education"", ""RA 7663"", ""General Appropriations Act""]"
+repacts:datasets/markdown/repacts/1994/ra_7756_1994.md	repacts	1994		datasets/markdown/repacts/1994/ra_7756_1994.md	ra_7756_1994	AN ACT ESTABLISHING A HIGH SCHOOL IN BARANGAY SICAYAB, CITY OF DIPOLOG, TO BE KNOWN AS THE SICAYAB HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"Republic of the Philippines Congress of the Philippines Second Regular Session
+
+ **[ REPUBLIC ACT NO. 7756, June 19, 1994 ]**
+
+ AN ACT ESTABLISHING A HIGH SCHOOL IN BARANGAY SICAYAB, CITY OF DIPOLOG, TO BE KNOWN AS THE SICAYAB HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established a high school in Barangay Sicayab, City of Dipolog, to be known as the Sicayab High School.
+
+ **Section 2.** The Secretary of the Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act shall be funded out of the appropriations authorized by Republic Act No. 7663 for the Department of Education, Culture and Sports intended for the operational expenses of newly legislated high schools. Thereafter, the amount needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Lapsed into law on June 19, 1994 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.
+"	success	Education	Establishes Sicayab High School in Barangay Sicayab, Dipolog City, and appropriates funds for its operation.	"[{""title"": ""Section 1"", ""summary"": ""Establishes the high school in Barangay Sicayab, Dipolog City.""}, {""title"": ""Section 2"", ""summary"": ""Authorizes the Secretary of the Department of Education, Culture and Sports to issue rules and regulations necessary for the Act.""}, {""title"": ""Section 3"", ""summary"": ""Funds the Act from appropriations authorized by RA 7663 and includes future operations in the General Appropriations Act.""}, {""title"": ""Section 4"", ""summary"": ""The Act takes effect upon its approval.""}]"	7756	June 19, 1994			To establish a high school in Barangay Sicayab, Dipolog City, and provide appropriate funding for its operation.	"[""Establishment of Sicayab High School"", ""Secretary to issue necessary rules and regulations"", ""Funding from RA 7663 appropriations"", ""Act takes effect upon approval""]"		"[""Education"", ""High School"", ""Dipolog"", ""Republic Act"", ""Establishment""]"	"[""Sicayab High School"", ""Dipolog"", ""Department of Education"", ""RA 7756"", ""Funding"", ""Rules and Regulations""]"
+repacts:datasets/markdown/repacts/1994/ra_7757_1994.md	repacts	1994		datasets/markdown/repacts/1994/ra_7757_1994.md	ra_7757_1994	AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY TUROD, MUNICIPALITY OF CABUGAO, PROVINCE OF ILOCOS SUR, TO BE KNOWN AS THE TUROD NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"Republic of the Philippines Congress of the Philippines Second Regular Session
+
+ **[ REPUBLIC ACT NO. 7757, June 19, 1994 ]**
+
+ AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY TUROD, MUNICIPALITY OF CABUGAO, PROVINCE OF ILOCOS SUR, TO BE KNOWN AS THE TUROD NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established a national high school in Barangay Turod, Municipality of Cabugao, Province of Ilocos Sur, to be known as the Turod National High School.
+
+ **Section 2.** The Secretary of the Department of Education, Culture and Sports (DECS) shall issue such rules and regulations necessary to implement the provisions of this Act.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act shall be funded out of the appropriations authorized by Republic Act No. 7663 for the Department of Education, Culture and Sports intended for the operational expenses of newly legislated high schools. Thereafter, the amount needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Lapsed into law on June 19, 1994 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.
+"	success	Education	An act establishing Turod National High School in Barangay Turod, Cabugao, Ilocos Sur, and appropriating funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""Establishes a national high school in Barangay Turod, Municipality of Cabugao, Province of Ilocos Sur, to be known as the Turod National High School.""}, {""title"": ""Section 2."", ""summary"": ""The Secretary of the Department of Education, Culture and Sports (DECS) shall issue rules and regulations necessary to implement the provisions of this Act.""}, {""title"": ""Section 3."", ""summary"": ""The amount necessary to carry out the provisions of this Act shall be funded out of the appropriations authorized by Republic Act No. 7663 for the Department of Education, Culture and Sports intended for the operational expenses of newly legislated high schools, and thereafter the amount needed for its operation and maintenance shall be included in the annual General Appropriations Act.""}, {""title"": ""Section 4."", ""summary"": ""This Act shall take effect upon its approval.""}]"	7757	June 19, 1994			To establish the Turod National High School and appropriate funds for its operation.	"[""Establishment of Turod National High School"", ""Issuance of rules and regulations by DECS"", ""Funding appropriated from RA 7663 and General Appropriations Act"", ""Effective upon approval""]"		"[""Education"", ""High School"", ""Philippines"", ""Republic Act""]"	"[""Turod National High School"", ""Barangay Turod"", ""Cabugao"", ""Ilocos Sur"", ""Education"", ""Funding"", ""RA 7757""]"
+repacts:datasets/markdown/repacts/1994/ra_7758_1994.md	repacts	1994		datasets/markdown/repacts/1994/ra_7758_1994.md	ra_7758_1994	An Act Establishing a National High School in Barangay Gohang, Municipality of Banaue, Province of Ifugao, and Appropriating Funds Therefor	"Republic of the Philippines Congress of the Philippines Second Regular Session
+
+ **[ REPUBLIC ACT NO. 7758, June 19, 1994 ]**
+
+ AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY GOHANG, MUNICIPALITY OF BANAUE, PROVINCE OF IFUGAO, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established in Barangay Gohang, Municipality of Banaue, Province of Ifugao, a national high school to be known as Gohang National High School.
+
+ **Section 2.** The Gohang National High School shall be under the supervision of the Department of Education, Culture and Sports.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act shall be funded out of the appropriations authorized by Republic Act No. 7663 for the Department of Education, Culture and Sports intended for the operational expenses of newly legislated high schools. Thereafter, the amount needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Lapsed into law on June 19, 1994 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.
+"	success	Education	Republic Act No. 7758 establishes Gohang National High School in Barangay Gohang, Banaue, Ifugao, and appropriates funds for its operation under the supervision of the Department of Education, Culture and Sports.	"[{""title"": ""Section 1"", ""summary"": ""Establishes Gohang National High School in Barangay Gohang, Municipality of Banaue, Province of Ifugao.""}, {""title"": ""Section 2"", ""summary"": ""The school shall be under the supervision of the Department of Education, Culture and Sports.""}, {""title"": ""Section 3"", ""summary"": ""Funding shall be derived from appropriations authorized by Republic Act No. 7663 and included in the annual General Appropriations Act.""}, {""title"": ""Section 4"", ""summary"": ""The Act takes effect upon its approval.""}]"	Republic Act No. 7758	June 19, 1994			To establish a national high school in Barangay Gohang, Banaue, Ifugao, and appropriate funds for its operation.	"[""Establishment of Gohang National High School"", ""Supervision under the Department of Education, Culture and Sports"", ""Funding from RA 7663 and General Appropriations Act""]"	Republic Act No. 7663	"[""Education"", ""High School"", ""Appropriation"", ""Republic Act""]"	"[""Gohang National High School"", ""Banaue"", ""Ifugao"", ""Department of Education"", ""RA 7663""]"
+repacts:datasets/markdown/repacts/1994/ra_7759_1994.md	repacts	1994		datasets/markdown/repacts/1994/ra_7759_1994.md	ra_7759_1994	AN ACT CONVERTING THE LAS PIAS MUNICIPAL HIGH SCHOOL - VERDANT ANNEX IN BARANGAY PAMPLONA, MUNICIPALITY OF LAS PIAS, METRO MANILA, INTO AN INDEPENDENT HIGH SCHOOL, TO BE KNOWN AS THE LAS PIAS EAST NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"Republic of the Philippines Congress of the Philippines Second Regular Session
+
+ **[ REPUBLIC ACT NO. 7759, June 19, 1994 ]**
+
+ AN ACT CONVERTING THE LAS PIAS MUNICIPAL HIGH SCHOOL - VERDANT ANNEX IN BARANGAY PAMPLONA, MUNICIPALITY OF LAS PIAS, METRO MANILA, INTO AN INDEPENDENT HIGH SCHOOL, TO BE KNOWN AS THE LAS PIAS EAST NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Las Pias Municipal High School - Verdant Annex in Barangay Pamplona, Municipality of Las Pias, Metro Manila, is hereby separated from the Las Pias Municipal High School in the same municipality and converted into an independent high school, to be known as the Las Pias East National High School.
+
+ **Section 2.** The present head teacher of the annex school shall act as the principal of the Las Pias East National High School.
+
+ **Section 3.** All the assets, immovable and movable, records, and personnel of the Las Pias Municipal High School - Verrdant Annex, as well as its liabilities or obligations, are hereby transferred to the Las Pias East National High School:*Provided,* however, That the positions, rights, and security of tenure of the personnel therein employed under existing laws are not impaired.
+
+ **Section 4.** The amount necessary to carry out the provisions of this Act shall be funded out of the appropriations authorized by Republic Act No. 7663 for the Department of Education, Culture and Sports intended for the operational expenses of newly legislated high schools. Thereafter, the amount needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 5.** This Act shall take effect upon its approval.
+
+ Lapsed into law on June 19, 1994 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.
+"	success	Republic Act	The act separates the Las Pias Municipal High School – Verdant Annex from its parent institution, converts it into the independent Las Pias East National High School, appoints the current head teacher as principal, transfers all assets and personnel, provides funding through Republic Act No. 7663, and takes effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Separates the Las Pias Municipal High School \u2013 Verdant Annex and converts it into the Las Pias East National High School.""}, {""title"": ""Section 2."", ""summary"": ""Designates the present head teacher of the annex as the principal of the new independent school.""}, {""title"": ""Section 3."", ""summary"": ""Transfers all assets, immovable and movable, records, personnel, liabilities, and obligations to the new school, ensuring personnel rights remain intact.""}, {""title"": ""Section 4."", ""summary"": ""Funds the act through appropriations authorized by Republic Act No. 7663 for the Department of Education and includes future operational costs in the General Appropriations Act.""}, {""title"": ""Section 5."", ""summary"": ""The act takes effect upon its approval.""}]"	7759	June 19, 1994			To establish the Las Pias East National High School as an independent institution and secure its operational funding.	"[""Separation of the annex from the parent school"", ""Appointment of current head teacher as principal"", ""Transfer of assets and personnel"", ""Funding via Republic Act No. 7663"", ""Effective upon approval""]"	Republic Act No. 7663	"[""Education"", ""High School"", ""Legislation"", ""Republic Act"", ""Philippines""]"	"[""Las Pias East National High School"", ""asset transfer"", ""funding"", ""Department of Education"", ""Republic Act 7759""]"
+repacts:datasets/markdown/repacts/1994/ra_7760_1994.md	repacts	1994		datasets/markdown/repacts/1994/ra_7760_1994.md	ra_7760_1994	AN ACT CONVERTING THE NANAGUN MUNICIPAL HIGH SCHOOL INTO NANAGUN NATIONAL HIGH SCHOOL IN BARANGAY NANAGUN, MUNICIPALITY OF LUMBAYANAGUE, PROVINCE OF LANAO DEL SUR, AND APPROPRIATING FUNDS THEREFOR	"Republic of the Philippines Congress of the Philippines Second Regular Session
+
+ **[ REPUBLIC ACT NO. 7760, June 19, 1994 ]**
+
+ AN ACT CONVERTING THE NANAGUN MUNICIPAL HIGH SCHOOL INTO NANAGUN NATIONAL HIGH SCHOOL IN BARANGAY NANAGUN, MUNICIPALITY OF LUMBAYANAGUE, PROVINCE OF LANAO DEL SUR, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be an established national high school in Barangay Nanagun, Municipality of Lumbayanague, Province of Lanao del Sur, by converting the Nanagun Municipal High School into Nanagun National High School.
+
+ **Section 2.** The Department of Education, Culture and Sports is hereby directed to take the necessary steps for the immediate conversion, operation and maintenance of the school herein provided.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act shall be funded out of the appropriations authorized by Republic Act No. 7663 for the Department of Education, Culture and Sports intended for the operational expenses of newly legislated high schools. Thereafter, the amount needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Lapsed into law on June 19, 1994 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.
+"	success	Republic Act	This act converts Nanagun Municipal High School into Nanagun National High School and allocates funds for its operation and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""Establishes a national high school by converting the Nanagun Municipal High School into Nanagun National High School.""}, {""title"": ""Section 2."", ""summary"": ""Directs the Department of Education, Culture and Sports to take the necessary steps for the immediate conversion, operation, and maintenance of the school.""}, {""title"": ""Section 3."", ""summary"": ""Specifies that the funds for the conversion and operation will be taken from the appropriations authorized by Republic Act No. 7663 and later included in the annual General Appropriations Act.""}, {""title"": ""Section 4."", ""summary"": ""The act takes effect upon its approval.""}]"	REPUBLIC ACT NO. 7760	June 19, 1994			To convert a municipal high school into a national high school and provide appropriate funding for its operation.	"[""Conversion of Nanagun Municipal High School to Nanagun National High School"", ""Directive to the Department of Education for conversion and maintenance"", ""Funding from RA 7663 and inclusion in the General Appropriations Act"", ""Effectivity upon approval""]"		"[""Education"", ""School"", ""Lanao del Sur"", ""National High School"", ""Fund Allocation""]"	"[""Nanagun"", ""Municipal High School"", ""National High School"", ""Department of Education"", ""Appropriations"", ""RA 7663"", ""General Appropriations Act""]"
+repacts:datasets/markdown/repacts/1994/ra_7761_1994.md	repacts	1994		datasets/markdown/repacts/1994/ra_7761_1994.md	ra_7761_1994	AN ACT CONVERTING THE QUIPOT HIGH SCHOOL IN BARANGAY QUIPOT, MUNICIPALITY OF JANIUAY, PROVINCE OF ILOILO, INTO A NATIONAL HIGH SCHOOL, TO BE KNOWN AS THE QUIPOT NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"Republic of the Philippines Congress of the Philippines Second Regular Session
+
+ **[ REPUBLIC ACT NO. 7761, June 19, 1994 ]**
+
+ AN ACT CONVERTING THE QUIPOT HIGH SCHOOL IN BARANGAY QUIPOT, MUNICIPALITY OF JANIUAY, PROVINCE OF ILOILO, INTO A NATIONAL HIGH SCHOOL, TO BE KNOWN AS THE QUIPOT NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Quipot High School is hereby converted into a national high school to be known as the Quipot National High School.
+
+ **Section 2.** The Department of Education, Culture and Sports shall take the necessary steps for the immediate implementation of this Act.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act shall be funded out of the appropriations authorized by Republic Act No. 7663 for the Department of Education, Culture and Sports intended for the operational expenses of newly legislated high schools. Thereafter, the amount needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved, Lapsed into law on June 19, 1994 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.
+"	success	Republic Act	The act converts Quipot High School into Quipot National High School and appropriates funds for its operation.	"[{""title"": ""Section 1"", ""summary"": ""The Quipot High School is converted into a national high school named Quipot National High School.""}, {""title"": ""Section 2"", ""summary"": ""The Department of Education, Culture and Sports will take necessary steps for immediate implementation.""}, {""title"": ""Section 3"", ""summary"": ""Funds for implementation are authorized by Republic Act No. 7663 and will be included in future General Appropriations Acts.""}, {""title"": ""Section 4"", ""summary"": ""The act takes effect upon approval.""}]"	REPUBLIC ACT NO. 7761	June 19, 1994	"[{""name"": ""Senate"", ""title"": ""Senate""}, {""name"": ""House of Representatives of the Philippines"", ""title"": ""House of Representatives""}]"		To convert a local high school into a national high school and appropriate necessary funds for its operation.	"[""Conversion of Quipot High School to Quipot National High School"", ""Department of Education, Culture and Sports to implement act"", ""Funding authorized by Republic Act No. 7663 and General Appropriations Act"", ""Act takes effect upon approval""]"		"[""Education"", ""High School"", ""Appropriation"", ""Republic Act""]"	"[""Quipot High School"", ""Quipot National High School"", ""Department of Education"", ""Appropriations"", ""Republic Act 7761""]"
+repacts:datasets/markdown/repacts/1994/ra_7762_1994.md	repacts	1994		datasets/markdown/repacts/1994/ra_7762_1994.md	ra_7762_1994	AN ACT ESTABLISHING A COMPREHENSIVE HIGH SCHOOL IN THE MUNICIPALITY OF PALOMPON, PROVINCE OF LEYTE, TO BE KNOWN AS THE ALFREDO PARILLA NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"Republic of the Philippines Congress of the Philippines Second Regular Session
+
+ **[ REPUBLIC ACT NO. 7762, June 19, 1994 ]**
+
+ AN ACT ESTABLISHING A COMPREHENSIVE HIGH SCHOOL IN THE MUNICIPALITY OF PALOMPON, PROVINCE OF LEYTE, TO BE KNOWN AS THE ALFREDO PARILLA NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established a comprehensive public high school in Barangay San Miguel, Municipality of Palompon, Province of Leyte, to be known as the Alfredo Parilla National High School.
+
+ **Section 2.** The Secretary of the Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purposes of this Act.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act shall be funded out of the appropriations authorized by Republic Act No. 7663 for the Department of Education, Culture and Sports intended for the operational expenses of newly legislated high schools. Thereafter, the amount needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Lapsed into law on June 19, 1994 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.
+"	success	Education	Establishes Alfredo Parilla National High School in Palompon, Leyte, and appropriates funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""Establishes a comprehensive public high school in Barangay San Miguel, Municipality of Palompon, Province of Leyte, to be known as Alfredo Parilla National High School.""}, {""title"": ""Section 2."", ""summary"": ""The Secretary of the Department of Education, Culture and Sports shall issue rules and regulations necessary to carry out the purposes of this Act.""}, {""title"": ""Section 3."", ""summary"": ""The necessary amount for the provisions of this Act shall be funded out of the appropriations authorized by Republic Act No. 7663, and future amounts needed for operation and maintenance shall be included in the annual General Appropriations Act.""}, {""title"": ""Section 4."", ""summary"": ""This Act shall take effect upon its approval.""}]"	REPUBLIC ACT NO. 7762	June 19, 1994			To establish a comprehensive high school in Palompon, Leyte and provide funding for its operation.	"[""Establishment of Alfredo Parilla National High School"", ""Secretary to issue necessary rules and regulations"", ""Funding through RA 7663 and future appropriations"", ""Effectiveness upon approval""]"		"[""Education"", ""High School"", ""Leyte"", ""Public School"", ""Republic Act 7762""]"	"[""Alfredo Parilla National High School"", ""Palompon"", ""Leyte"", ""Department of Education"", ""Funding"", ""RA 7663""]"
+repacts:datasets/markdown/repacts/1994/ra_7763_1994.md	repacts	1994		datasets/markdown/repacts/1994/ra_7763_1994.md	ra_7763_1994	AN ACT PROVIDING FOR THE ESTABLISHMENT OF A NATIONAL HIGH SCHOOL TO BE KNOWN AS THE MALASIQUI NATIONAL HIGH SCHOOL IN THE MUNICIPALITY OF MALASIQUI, PROVINCE OF PANGASINAN, AND APPROPRIATING FUNDS THEREFOR	"Republic of the Philippines Congress of the Philippines Second Regular Session
+
+ **[ REPUBLIC ACT NO. 7763, June 19, 1994 ]**
+
+ AN ACT PROVIDING FOR THE ESTABLISHMENT OF A NATIONAL HIGH SCHOOL TO BE KNOWN AS THE MALASIQUI NATIONAL HIGH SCHOOL IN THE MUNICIPALITY OF MALASIQUI, PROVINCE OF PANGASINAN, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established a national high school in the Municipality of Malasiqui, Province of Pangasinan, to be known as the Malasiqui National High School.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be funded out of the appropriations authorized by Republic Act No. 7663 for the Department of Education, Culture and Sports intended for the operational expenses of newly legislated high schools. Thereafter, the amount needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Lapsed into law on June 19, 1994 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.
+"	success	Republic Act	Establishes Malasiqui National High School and appropriates funds for its operation and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""Establishes the Malasiqui National High School in the Municipality of Malasiqui, Pangasinan.""}, {""title"": ""Section 2."", ""summary"": ""Funding for the establishment and operation will come from appropriations authorized by RA 7663 for the Department of Education, Culture and Sports and will be included in the annual General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""The Act takes effect upon its approval.""}]"	7763	June 19, 1994			To establish a national high school in Malasiqui, Pangasinan, and provide funding for its operation and maintenance.	"[""Establishment of Malasiqui National High School"", ""Funding sourced from RA 7663 appropriations"", ""Operation and maintenance included in General Appropriations Act"", ""Act takes effect upon approval""]"		"[""Education"", ""High School"", ""Public School"", ""Pangasinan""]"	"[""Malasiqui"", ""National High School"", ""RA 7763"", ""Pangasinan"", ""Education""]"

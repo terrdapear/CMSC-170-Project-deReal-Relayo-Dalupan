@@ -1,0 +1,280 @@
+> | 72-73 | S | 84 | 00 | E | 458.42 |  |
+> | 73-74 | S | 81 | 15 | E | 367.59 |  |
+> | 74-75 | N | 83 | 42 | E | 579.18 |  |
+> | 75-76 | N | 40 | 54 | E | 6429.23 | = MBM 2 |
+> | 76-77 | S | 25 | 53 | W | 4612.34 | = MBM 11 |
+> | 77-78 | S | 11 | 09 | W | 154.00 |  |
+> | 78-79 | S | 09 | 14 | E | 235.63 |  |
+> | 79-80 | S | 30 | 19 | E | 118.35 | = MBM 12 |
+> | 80-81 | S | 29 | 17 | E | 199.72 |  |
+> | 81-82 | S | 44 | 25 | W | 99.47 |  |
+> | 82-83 | S | 46 | 35 | W | 77.90 |  |
+> | 83-84 | S | 28 | 53 | W | 128.97 |  |
+> | 84-85 | S | 30 | 12 | W | 162.96 |  |
+> | 85-86 | S | 13 | 53 | W | 212.20 |  |
+> | 86-1 | S | 49 | 41 | W | 1316.12 |  |
+>
+>  Containing an area of 29,492,000 square meters, more or less.
+>
+>  (b) Barangay Cabaritan
+>
+>  Bounded on the Southeast (SE), along line 1-2, by Barangay Quibel;
+>
+>  On the Northwest (NW), along lines 2-40, by Barangay Quibel; along lines 40-69, by Barangay Kalaw;
+>
+>  On the Northeast (NE), along line 69-70, by Barangay Kalaw;
+>
+>  On the Southeast (SE), along line 70-71, by Municipality of Adam; along line 70-71, by Municipality of Vintar.
+>
+>  The technical description of Barangay Cabaritan is as follows:
+>
+>  | Line | Bearing | Distance | Description |  |  |  |
+> | --- | --- | --- | --- | --- | --- | --- |
+> | 1-2 | N | 48 | 50 | W | 12331.26 |  |
+> | 2-3 | N | 43 | 34 | W | 1054.96 |  |
+> | 3-4 | N | 72 | 15 | W | 203.48 |  |
+> | 4-5 | N | 46 | 29 | W | 86.54 |  |
+> | 5-6 | N | 41 | 1 | W | 4863.45 |  |
+> | 6-7 | N | 41 | 18 | W | 515.5 |  |
+> | 7-8 | N | 54 | 58 | W | 215.09 |  |
+> | 8-9 | N | 3 | 31 | W | 128.52 |  |
+> | 9-10 | S | 78 | 16 | W | 65.62 |  |
+> | 10-11 | N | 43 | 3 | W | 237 |  |
+> | 11-12 | S | 87 | 38 | W | 151.73 |  |
+> | 12-13 | N | 81 | 47 | W | 294.82 |  |
+> | 13-14 | N | 1 | 16 | W | 25.18 |  |
+> | 14-15 | N | 44 | 44 | E | 190.29 |  |
+> | 15-17 | N | 15 | 57 | E | 43.14 |  |
+> | 16-17 | N | 51 | 20 | E | 10.43 |  |
+> | 17-18 | N | 51 | 20 | E | 57.63 |  |
+> | 18-19 | N | 17 | 56 | E | 178.68 |  |
+> | 19-20 | N | 21 | 48 | E | 102.32 |  |
+> | 20-21 | N | 5 | 24 | E | 169.76 |  |
+> | 21-22 | N | 38 | 3 | W | 29.21 |  |
+> | 22-23 | N | 20 | 40 | W | 56.65 |  |
+> | 23-24 | N | 1 | 33 | E | 37.01 |  |
+> | 24-25 | N | 31 | 55 | W | 134.3 |  |
+> | 25-26 | N | 34 | 16 | W | 193.6 |  |
+> | 26-27 | N | 51 | 59 | W | 139.83 |  |
+> | 27-28 | N | 10 | 7 | W | 28.44 |  |
+> | 28-29 | N | 56 | 19 | E | 90.14 |  |
+> | 29-30 | N | 7 | 58 | E | 50.49 |  |
+> | 30-31 | N | 12 | 24 | W | 102.39 |  |
+> | 31-32 | N | 7 | 8 | E | 80.62 |  |
+> | 32-33 | N | 42 | 20 | E | 60.88 |  |
+> | 33-34 | N | 29 | 45 | E | 64.5 |  |
+> | 34-35 | N | 23 | 22 | E | 216.79 |  |
+> | 35-36 | N | 69 | 35 | E | 100.3 |  |
+> | 36-37 | N | 32 | 18 | E | 244.28 |  |
+> | 37-38 | N | 32 | 18 | E | 4.79 |  |
+> | 38-39 | N | 19 | 28 | E | 14.98 |  |
+> | 39-40 | N | 19 | 28 | E | 317.15 |  |
+> | 40-41 | S | 1 | 35 | E | 319.09 |  |
+> | 41-42 | S | 56 | 53 | E | 27.46 |  |
+> | 42-43 | S | 25 | 55 | W | 276.84 |  |
+> | 43-44 | N | 77 | 51 | E | 66.49 |  |
+> | 44-45 | N | 56 | 41 | E | 41.88 |  |
+> | 45-46 | S | 55 | 18 | E | 31.62 |  |
+> | 46-47 | N | 83 | 13 | E | 42.3 |  |
+> | 47-48 | S | 12 | 32 | E | 46.1 |  |
+> | 48-49 | N | 87 | 3 | E | 97.13 |  |
+> | 49-50 | S | 85 | 48 | E | 21.93 |  |
+> | 50-51 | S | 15 | 3 | W | 158 |  |
+> | 51-52 | S | 1 | 23 | E | 478.56 |  |
+> | 52-53 | S | 17 | 37 | W | 25.49 |  |
+> | 53-53 | S | 17 | 37 | W | 7.49 |  |
+> | 54-55 | S | 57 | 6 | E | 7.52 |  |
+> | 55-56 | S | 57 | 6 | E | 239.38 |  |
+> | 56-57 | S | 72 | 36 | E | 140.43 |  |
+> | 57-58 | S | 42 | 22 | W | 200.32 |  |
+> | 58-59 | S | 5 | 43 | E | 201 |  |
+> | 59-60 | S | 36 | 7 | E | 45.8 |  |
+> | 60-61 | S | 79 | 9 | E | 122.18 |  |
+> | 61-62 | N | 62 | 38 | E | 110.02 |  |
+> | 62-63 | N | 86 | 37 | E | 152.27 |  |
+> | 63-64 | S | 45 | 1 | E | 2132.99 |  |
+> | 64-65 | S | 39 | 1 | E | 3590.11 |  |
+> | 65-66 | S | 27 | 47 | E | 65.27 |  |
+> | 66-67 | S | 50 | 53 | E | 496.64 |  |
+> | 67-68 | S | 9 | 13 | E | 188.9 |  |
+> | 68-69 | S | 27 | 18 | W | 440.37 |  |
+> | 69-70 | S | 57 | 29 | E | 9722.36 |  |
+> | 70-71 | S | 43 | 19 | E | 7835.82 |  |
+> | 71-1 | N | 63 | 20 | W | 4774.71 | = MBM No. 3 |
+>
+>  Containing an area of 29,492,000 square meters, more or less.
+>
+>  (c) Barangay Quibel
+>
+>  Bounded on the Southeast (SE), along line 1-2, by Municipality of Vintar;
+>
+>  On the Northwest (NW), along lines 2-5, by Municipality of Vintar; along lines 5-56, by Municipality of Bangui; along bnes 56-58, by Barangay Kalaw;
+>
+>  On the Northwest (NW), along lines 58-99, by Barangay Cabaritan;
+>
+>  On the Southeast ,(SE), along line 99-100, by Barangay Cabaritan; along line 100-1, by Municipality of Vintar.
+>
+>  The technical description of Barangay Quibel is as follows:
+>
+>  | Line | Bearing | Distance | Description |  |  |  |
+> | --- | --- | --- | --- | --- | --- | --- |
+> | 1-2 | N | 61 | 18 | W | 7291.25 |  |
+> | 2-3 | N | 42 | 50 | W | 4091.91 | = MBM 4 |
+> | 3-4 | N | 42 | 51 | W | 24.84 |  |
+> | 4-5 | N | 42 | 51 | W | 5353.43 |  |
+> | 5-6 | N | 18 | 22 | W | 2574.87 | = MBM 5 |
+> | 6-7 | N | 22 | 38 | E | 293.77 |  |
+> | 7-8 | S | 35 | 53 | E | 83.21 |  |
+> | 8-9 | N | 47 | 54 | E | 85.80 |  |
+> | 9-10 | N | 38 | 58 | E | 95.07 |  |
+> | 10-11 | N | 14 | 15 | E | 136.41 |  |
+> | 11-12 | N | 08 | 28 | E | 67.70 |  |
+> | 12-13 | N | 17 | 19 | E | 66.57 |  |
+> | 13-14 | N | 06 | 03 | E | 145.56 |  |
+> | 14-15 | N | 15 | 48 | E | 30.99 |  |
+> | 15-16 | N | 24 | 02 | E | 239.72 | = MBM 6 |
+> | 16-17 | N | 12 | 38 | W | 112.35 |  |
+> | 17-18 | N | 34 | 15 | E | 47.45 |  |
+> | 18-19 | N | 34 | 15 | E | 3.65 |  |
+> | 19-20 | N | 00 | 46 | W | 6.05 |  |
+> | 20-21 | N | 00 | 46 | W | 125.86 |  |
+> | 21-22 | N | 22 | 14 | E | 164.03 |  |
+> | 22-23 | N | 12 | 16 | E | 9.51 |  |
+> | 23-24 | N | 12 | 16 | E | 276.62 |  |
+> | 24-25 | N | 12 | 16 | E | 40.41 |  |
+> | 25-26 | N | 12 | 16 | E | 36.64 |  |
+> | 26-27 | N | 12 | 16 | E | 153.78 |  |
+> | 27-28 | N | 01 | 42 | E | 155.28 |  |
+> | 28-29 | N | 14 | 46 | E | 39.98 | = MBM 7 |
+> | 29-30 | N | 69 | 33 | E | 40.92 |  |
+> | 30-31 | N | 69 | 33 | E | 9.58 |  |
+> | 31-32 | N | 69 | 33 | E | 58.00 |  |
+> | 32-33 | N | 69 | 33 | E | 58.87 |  |
+> | 33-34 | N | 69 | 33 | E | 0.98 |  |
+> | 34-35 | N | 69 | 33 | E | 24.79 |  |
+> | 35-36 | N | 69 | 33 | E | 6.91 |  |
+> | 36-37 | N | 69 | 33 | E | 36.89 |  |
+> | 37-38 | N | 69 | 33 | E | 2.10 |  |
+> | 38-39 | N | 69 | 33 | E | 27.11 |  |
+> | 39-40 | N | 69 | 33 | E | 14.69 |  |
+> | 40-41 | N | 69 | 33 | E | 46.29 |  |
+> | 41-42 | N | 69 | 33 | E | 14.98 |  |
+> | 42-43 | N | 69 | 33 | E | 1.39 |  |
+> | 43-44 | N | 69 | 33 | E | 31.10 |  |
+> | 44-45 | N | 69 | 33 | E | 0.59 |  |
+> | 45-46 | N | 69 | 33 | E | 48.07 |  |
+> | 46-47 | N | 69 | 33 | E | 12.62 | = MBM8 |
+> | 47-48 | N | 23 | 22 | E | 7.29 |  |
+> | 48-49 | N | 42 | 21 | E | 54.46 |  |
+> | 49-50 | N | 45 | 47 | E | 34.80 |  |
+> | 50-51 | N | 57 | 08 | E | 41.93 |  |
+> | 51-52 | N | 73 | 18 | E | 54.67 |  |
+> | 52-53 | N | 86 | 50 | E | 58.79 |  |
+> | 53-54 | S | 89 | 47 | E | 96.99 |  |
+> | 54-55 | S | 67 | 50 | E | 64.17 |  |
+> | 55-56 | S | 67 | 50 | E | 22.28 |  |
+> | 56-57 | S | 35 | 00 | W | 300.27 |  |
+> | 57-58 | S | 21 | 48 | E | 10.77 |  |
+> | 58-59 | S | 44 | 50 | W | 43.76 |  |
+> | 59-60 | S | 19 | 28 | W | 317.15 |  |
+> | 60-61 | S | 22 | 34 | W | 19.68 |  |
+> | 61-62 | S | 32 | 18 | W | 244.28 |  |
+> | 62-63 | S | 69 | 35 | W | 100.30 |  |
+> | 63-64 | S | 23 | 22 | W | 216.79 |  |
+> | 64-65 | S | 29 | 45 | W | 64.50 |  |
+> | 65-66 | S | 42 | 20 | W | 60.88 |  |
+> | 66-67 | S | 07 | 08 | W | 80.62 |  |
+> | 67-68 | S | 12 | 24 | E | 102.39 |  |
+> | 68-69 | S | 07 | 50 | W | 50.49 |  |
+> | 69-70 | S | 56 | 19 | W | 90.14 |  |
+> | 70-71 | S | 56 | 19 | W | 19.99 |  |
+> | 71-72 | S | 51 | 59 | E | 27.46 |  |
+> | 72-73 | S | 51 | 59 | E | 139.63 |  |
+> | 73-74 | S | 34 | 16 | E | 193.60 |  |
+> | 74-75 | S | 31 | 55 | E | 134.30 |  |
+> | 75-76 | S | 01 | 33 | W | 37.01 |  |
+> | 76-77 | S | 01 | 33 | W | 26.55 |  |
+> | 77-78 | S | 38 | 03 | E | 33.60 |  |
+> | 78-79 | S | 38 | 03 | E | 29.21 |  |
+> | 79-80 | S | 05 | 24 | W | 169.76 |  |
+> | 80-81 | S | 21 | 48 | W | 102.32 |  |
+> | 81-82 | S | 17 | 56 | W | 178.68 |  |
+> | 82-83 | S | 51 | 20 | W | 57.63 |  |
+> | 83-84 | N | 80 | 32 | W | 6.08 |  |
+> | 84-85 | S | 15 | 57 | W | 50.96 |  |
+> | 85-86 | S | 44 | 44 | W | 190.29 |  |
+> | 86-87 | S | 44 | 44 | W | 30.90 |  |
+> | 87-88 | S | 81 | 47 | E | 22.54 |  |
+> | 88-89 | S | 81 | 47 | E | 294.82 |  |
+> | 89-90 | N | 87 | 38 | E | 151.73 |  |
+> | 90-91 | S | 43 | 03 | E | 237.00 |  |
+> | 91-92 | N | 78 | 16 | E | 65.62 |  |
+> | 92-93 | S | 03 | 31 | E | 128.52 |  |
+> | 93-94 | S | 54 | 58 | E | 215.09 |  |
+> | 94-95 | S | 41 | 18 | E | 515.50 |  |
+> | 95-96 | S | 41 | 01 | E | 4863.45 |  |
+> | 96-97 | S | 46 | 29 | E | 86.54 |  |
+> | 97-98 | S | 72 | 15 | E | 203.48 |  |
+> | 98-99 | S | 43 | 34 | E | 1054.96 |  |
+> | 99-100 | S | 48 | 50, | E | 12331.26 |  |
+> | 100-1 | N | 63 | 20 | W | 1925.67 |  |
+>
+>  Containing an area of 29,492,000 square meters, more or less.
+
+ **Section 4.***Seat of the Municipal Government.* - The seat of the municipal government shall be at Poblacion, Barangay Cabaritan.
+
+ **Section 5.***Conduct and Supervision of Plebiscite.* - The Commission on Elections (COMELEC) shall conduct and supervise the plebiscite to be held in the entire Municipality of Dumalneg, Province of Ilocos Norte not later than one hundred twenty (120) days from the effectivity of this Act.
+
+ **Section 6.***Barangay Officials.* - The first set of officials of the barangays shall be appointed by the provincial governor, in consultation with the Representative of the District, and shall hold office until such time that their successors have been duly elected and qualified.
+
+ **Section 7.***Public Infrastructure and Facilities.* - All public infrastructure and facilities for public use existing therein at the time of the approval of this Act are hereby transferred without cost or compensation to and shall be administered by the new barangays.
+
+ **Section 8.***Internal Revenue Allotment Shares.* - The Municipality of Dumalneg and all the barangays herein created shall be entitled to Internal Revenue Allotment (IRA) shares pursuant to Section 285 of Republic Act No. 7160, as amended, otherwise known as the ""Local Government Code of 1991"".
+
+ **Section 9.***Effectivity.* - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ **AQUILINO ""KOKO"" PIMENTEL** President of the Senate
+
+ **PANTALEON D. ALVAREZ** Speaker of the House of Representatives
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives on March 8, 2017, amended by the Senate on August 14, 2017, and which amendments were concurred in by the House of Representatives on August 23, 2017.
+
+ **LUTGARDO BARBO** Secretary of the Senate
+
+ **CESAR STRAIT PAREJA** Secretary General House of Representatives
+
+ Approved: October 30, 2017
+
+ (Sgd.) **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	An act that divides Barangay Dumalneg into three newly created barangays—Kalaw, Cabaritan, and Quibel—detailing their composition, territorial boundaries, and administrative setup.	"[{""title"": ""Section 1. Division of Barangay Dumalneg."", ""summary"": ""Barangay Dumalneg is divided into three distinct and independent barangays: Kalaw, Cabaritan, and Quibel.""}, {""title"": ""Section 2. Composition."", ""summary"": ""The new barangays are composed of specified puroks and sitios: Kalaw includes Purok Crisalita, Purok Saniata, etc.; Cabaritan includes Purok Timpuyog, Poblacion, etc.; Quibel includes Purok Namnama, Purok Danggayan, etc.""}, {""title"": ""Section 3. Territorial Boundaries."", ""summary"": ""Defines the territorial boundaries of each new barangay with detailed line bearings and distances, establishing clear demarcations for Kalaw, Cabaritan, and Quibel.""}]"	10955	July 24, 2017			Reorganize local governance by creating new barangays for improved administrative efficiency and community representation.	"[""Division of Barangay Dumalneg into three barangays\u2014Kalaw, Cabaritan, and Quibel"", ""Specification of puroks and sitios constituting each new barangay"", ""Detailed territorial boundaries and technical descriptions for each barangay""]"		"[""Barangay"", ""Ilocos Norte"", ""Philippines"", ""Republic Act"", ""Local Governance""]"	"[""Barangay"", ""Dumalneg"", ""Kalaw"", ""Cabaritan"", ""Quibel"", ""Ilocos Norte"", ""Republic Act 10955"", ""Local Government"", ""Boundary""]"
+repacts:datasets/markdown/repacts/2017/ra_10956_2017.md	repacts	2017		datasets/markdown/repacts/2017/ra_10956_2017.md	ra_10956_2017	An Act Creating a Barangay to be Known as Barangay Care in the City of Tarlac, Province of Tarlac	"**Seventeenth Congress Second Regular Session Begun and held in Metro Manila, on Monday, the twenty-fourth day of July, two thousand seventeen.**
+
+ **REPUBLIC ACT No. 10956**
+
+ An Act Creating a Barangay to be Known as Barangay Care in the City of Tarlac, Province of Tarlac
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.***Creation of Barangay Care.* - There is hereby-created a barangay to be known as Barangay Care in the City of Tarlac, Province of Tarlac.
+
+ **Section 2.***Territorial Boundaries.* - The territorial boundaries of Barangay Care shall be identified as follows:
+
+ > Bounded on the Northeast (NE) and Southeast (SE), along fines 1 to 61, by Barangay Tibag (PB-03-000061);
+>
+>  On the Southeast (SE) and Southwest (SW), along lines 61 to 95, by Barangay Tibagan (PB-03-000061);
+>
+>  On the Southwest (SW) and Northwest (NW), along lines 95 to 106, by Tarlac City versus Municipality of San Jose, both in Tarlac;
+>
+>  On the Northwest (NW), along lines 106 to 108, by San Jose Cadastre (PB-03-000060);
+>
+>  On the Northeast (NE), along lines 108 to 114, by Tarlac City versus Municipality of San Jose, Tarlac;
+>
+>  On the North (N) and West (W), along lines 114 to 116, by San Jose Cadastre (PB-03-000060);
+>
+>  On the Northeast (NE) and Northwest (NW), along lines 116 to 143 to the point of beginning by Barangay Sapang Maragul(PB-03-000061), all of Tarlac City.
+>
+>  The technical description of Barangay Care is as follows:
+>
+>  | TIEPOINT 1 | N | 78 | 44 | W | 3,617.29 |  |

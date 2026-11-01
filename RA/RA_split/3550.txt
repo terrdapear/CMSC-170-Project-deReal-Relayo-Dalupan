@@ -1,0 +1,330 @@
+| 224 | 184.981m | N38° 25'59""W |
+| 225 | 19.295m | N9° 25'43""W |
+| 226 | 58.334m | N2° 10'52""W |
+| 227 | 166.584m | N42° 05'09""W |
+| 228 | 180.982m | N56° 44'50""W |
+| 229 | 128.831m | N42° 04'03""W |
+| 230 | 549.960m | N44° 47'18""W |
+| 231 | 18.286m | N26° 43'05""W |
+| 232 | 63.222m | N1° 19'44""W |
+| 233 | 17.204m | N13° 43'58""W |
+| 234 | 111.222m | N27° 36'04""W |
+| 235 | 52.509m | N44° 15'01""W |
+| 236 | 43.714m | N39° 59'54""W |
+| 237 | 20.684m | N27° 07'04""W |
+| 238 | 74.468m | N11° 33'24""W |
+| 239 | 19.411m | N36° 10'26""W |
+| 240 | 118.066m | N39° 24'50""W |
+| 241 | 22.312m | N46° 41'35""W |
+| 242 | 250.347m | N56° 08'55""W |
+| 243 | 239.908m | N58° 06'25""W |
+| 244 | 374.940m | N57° 16'17""W |
+| 245 | 240.802m | N50° 43'50""W |
+| 246 | 110.721m | N38° 45'51""W |
+| 247 | 39.418m | N45° 31'08""W |
+| 248 | 179.786m | N55° 06'22""W |
+| 249 | 44.079m | N59° 57'19""W |
+| 250 | 243.365m | N68° 08'08""W |
+| 251 | 22.201m | N64° 01'24""W |
+| 252 | 1678.791m | N56° 16'21""W |
+| 253 | 162.101m | N53° 37'18""W |
+| 254 | 278.403m | N45° 51'21""W |
+| 255 | 169.065m | N49° 48'00""W |
+| 256 | 146.077m | N59° 43'18""W |
+| 257 | 183.442m | N52° 12'11""W |
+| 258 | 257.043m | N42° 25'54""W |
+| 259 | 159.716m | N46° 50'10""W |
+| 260 | 144.919m | N47° 42'46""W |
+| 261 | 379.105m | N42° 31'08""W |
+| 262 | 216.860m | N54° 32'16""W |
+| 263 | 73.099m | N48° 10'40""W |
+| 264 | 259.745m | N40° 48'12""W |
+| 265 | 191.501m | N37° 04'34""W |
+| 266 | 63.856m | N40° 12'30""W |
+| 267 | 215.054m | N45° 04'28""W |
+| 268 | 25.982m | N23° 30'09""W |
+| 269 | 75.573m | N16° 23'57""W |
+| 270 | 23.113m | N22° 06'35""W |
+| 271 | 100.550m | N29° 53'25""W |
+| 272 | 15.142m | N2° 20'10""E |
+| 273 | 314.546m | N29° 48'13""W |
+| 274 | 81.244m | N29° 05'39""W |
+| 275 | 66.973m | N32° 00'11""W |
+| 276 | 266.284m | N41° 59'36""W |
+| 277 | 189.484m | N29° 36'36""W |
+| 278 | 33.722m | N35° 56'31""W |
+| 279 | 29.210m | N48° 01'08""W |
+| 280 | 101.521m | N64° 07'48""W |
+| 281 | 43.616m | N61° 16'42""W |
+| 282 | 10.182m | N51° 39'15""W |
+| 283 | 58.153m | N40° 17'06""W |
+| 284 | 103.844m | N45° 39'15""W |
+| 285 | 24.816m | N54° 43'47""W |
+| 286 | 25.702m | N63° 58'45""W |
+| 287 | 22.203m | N78° 32'03""W |
+| 288 | 92.901m | N83° 48'43""W |
+| 289 | 309.457m | S83° 18'00""W |
+| 290 | 26.941m | S87° 28'31""W |
+| 291 | 34.751m | N85° 01'50""W |
+| 292 | 53.908m | N75° 47'08""W |
+| 293 | 251.917m | N79° 26'04""W |
+| 294 | 25.721m | N89° 39'00""W |
+| 295 | 20.658m | S69° 07'06""W |
+| 296 | 62.361m | S58° 12'52""W |
+| 297 | 49.960m | S65° 41'14""W |
+| 298 | 130.688m | S67° 31'51""W |
+| 299 | 52.411m | S63° 46'10""W |
+| 300 | 79.038m | S68° 24'58""W |
+| 301 | 49.782m | S75° 01'44""W |
+| 302 | 33.014m | N88° 44'19""W |
+| 303 | 15.213m | N69° 21'20""W |
+| 304 | 16.919m | N41° 49'57""W |
+| 305 | 13.924m | N13° 52'25""W |
+| 306 | 14.839m | N7° 17'40""E |
+| 307 | 65.128m | N23° 06'42""E |
+| 308 | 18.400m | N13° 05'41""E |
+| 309 | 48.696m | N4° 13'01""E |
+| 310 | 17.445m | N17° 08'57""E |
+| 311 | 46.612m | N34° 50'31""E |
+| 312 | 22.807m | N13° 10'12""E |
+| 313 | 40.894m | N0° 52'24""E |
+| 314 | 17.497m | N6° 18'01""E |
+| 315 | 27.190m | N13° 35'46""E |
+| 316 | 33.079m | N32° 18'54""E |
+| 317 | 16.338m | N19° 18'33""E |
+| 318 | 8.322m | N3° 14'48""W |
+| 319 | 60.051m | N9° 37'26""W |
+| 320 | 23.149m | N16° 18'07""W |
+| 321 | 28.902m | N25° 00'33""W |
+| 322 | 22.137m | N35° 49'55""W |
+| 323 | 22.879m | N49° 55'31""W |
+| 324 | 13.814m | N34° 28'59""W |
+| 325 | 14.649m | N13° 15'09""W |
+| 326 | 9.467m | N22° 45'12""E |
+| 327 | 17.288m | N36° 01'25""E |
+| 328 | 34.411m | N29° 16'49""E |
+| 329 | 29.466m | N21° 29'58""E |
+| 330 | 16.268m | N14° 51'46""E |
+| 331 | 5.269m | N5° 14'48""W |
+| 332 | 8.361m | N42° 59'40""W |
+| 333 | 156.543m | N67° 56'38""W |
+| 334 | 88.874m | N75° 15'35""W |
+| 335 | 84.220m | N69° 16'34""W |
+| 336 | 55.363m | N62° 12'22""W |
+| 337 | 7.712m | N90° 00'00""W |
+| 338 | 7.418m | S58° 43'26""W |
+| 339 | 11.484m | S36° 14'14""W |
+| 340 | 55.305m | S24° 15'23""W |
+| 341 | 65.641m | S35° 19'25""W |
+| 342 | 39.399m | S41° 45'58""W |
+| 343 | 56.762m | S51° 40'02""W |
+| 344 | 84.707m | S63° 59'45""W |
+| 345 | 212.457m | S63° 20'06""W |
+| 346 | 45.028m | S67° 50'29""W |
+| 347 | 15.772m | S78° 36'28""W |
+| 348 | 22.787m | N88° 22'27""W |
+| 349 | 15.904m | N68° 24'12""W |
+| 350 | 16.126m | N49° 39'04""W |
+| 351 | 13.605m | N38° 35'50""W |
+| 352 | 42.601m | N22° 16'35""W |
+| 353 | 52.148m | N16° 20'16""W |
+| 354 | 78.212m | N11° 34'56""W |
+| 355 | 16.853m | N18° 14'46""W |
+| 356 | 14.251m | N28° 43'39""W |
+| 357 | 25.816m | N39° 46'54""W |
+| 358 | 59.055m | N48° 55'11""W |
+| 359 | 24.916m | N58° 32'03""W |
+| 360 | 24.916m | N58° 32'03""W |
+| 361 | 17.337m | N46° 50'38""W |
+| 362 | 51.750m | N34° 24'06""W |
+| 363 | 95.160m | N26° 44'21""W |
+| 364 | 15.447m | N55° 08'33""W |
+| 365 | 20.509m | N78° 31'16""W |
+| 366 | 32.905m | N90° 00'00""W |
+| 367 | 13.878m | N84° 01'30""W |
+| 368 | 19.248m | N60° 48'54""W |
+| 369 | 17.012m | N41° 55'47""W |
+| 370 | 60.150m | N9° 30'31""W |
+| 371 | 78.025m | N24° 11'37""W |
+| 372 | 66.808m | N5° 27'33""W |
+| 373 | 9.214m | N13° 13'05""W |
+| 374 | 24.562m | N38° 14'01""W |
+| 375 | 105.438m | N48° 09'02""W |
+| 376 | 99.501m | N42° 12'08""W |
+| 377 | 60.078m | N49° 09'14""W |
+| 378 | 47.330m | N42° 56'07""W |
+| 379 | 61.779m | N36° 02'26""W |
+| 380 | 19.508m | N27° 35'28""W |
+| 381 | 78.474m | N13° 17'43""W |
+| 382 | 114.559m | N27° 43'50""W |
+| 383 | 144.125m | N28° 54'33""W |
+| 384 | 99.209m | N22° 45'37""W |
+| 385 | 118.747m | N33° 12'29""W |
+| 386 | 42.997m | N45° 49'38""W |
+| 387 | 102.833m | N56° 26'43""W |
+| 388 | 16.569m | N65° 13'31""W |
+| 389 | 7.742m | S86° 42'04""W |
+| 390 | 7.487m | S66° 33'26""W |
+| 391 | 27.903m | S53° 14'55""W |
+| 392 | 30.900m | S45° 01'24""W |
+| 393 | 46.198m | S51° 20'38""W |
+| 394 | 15.152m | S75° 28'57""W |
+| 395 | 22.790m | N82° 10'27""W |
+| 396 | 192.157m | N50° 45'39""W |
+| 397 | 29.568m | N38° 22'42""W |
+| 398 | 67.808m | N24° 25'01""W |
+| 399 | 74.605m | N43° 19'33""W |
+| 400 | 117.873m | N35° 26'38""W |
+| 401 | 14.645m | N51° 42'23""W |
+| 402 | 13.226m | N87° 45'44""W |
+| 403 | 18.008m | S72° 19'37""W |
+| 404 | 23.204m | S66° 37'19""W |
+| 405 | 102.184m | S57° 18'37""W |
+| 406 | 13.313m | S66° 31'16""W |
+| 407 | 15.978m | S76° 26'30""W |
+| 408 | 19.653m | N90° 00'00""W |
+| 409 | 171.983m | N76° 58'12""W |
+| 410 | 84.811m | N81° 12'52""W |
+| 411 | 137.679m | N64° 24'59""W |
+| 412 | 31.237m | N72° 03'07""W |
+| 413 | 53.956m | N81° 54'27""W |
+| 414 | 39.283m | N66° 41'24""W |
+| 415 | 179.917m | N48° 47'58""W |
+| 416 | 61.373m | N54° 39'42""W |
+| 417 | 38.363m | N67° 12'34""W |
+| 418 | 87.230m | N75° 07'28""W |
+| 419 | 56.673m | N55° 38'48""W |
+| 420 | 139.018m | N67° 05'28""W |
+| 421 | 26.053m | N87° 44'20""W |
+| 422 | 16.516m | S75° 54'57""W |
+| 423 | 15.621m | S64° 30'06""W |
+| 424 | 33.840m | S47° 02'05""W |
+| 425 | 33.798m | S34° 59'27""W |
+| 426 | 60.043m | S26° 53'28""W |
+| 427 | 79.443m | S40° 41'09""W |
+| 428 | 69.796m | S44° 13'02""W |
+| 429 | 8.634m | S38° 01'28""W |
+| 430 | 151.318m | S30° 13'37""W |
+| 431 | 19.021m | S40° 55'05""W |
+| 432 | 33.892m | S62° 03'22""W |
+| 433 | 73.490m | S73° 46'56""W |
+| 434 | 21.089m | S65° 36'09""W |
+| 435 | 16.092m | S56° 13'31""W |
+| 436 | 41.818m | S40° 14'04""W |
+| 437 | 147.245m | S43° 50'35""W |
+| 438 | 20.325m | S55° 33'27""W |
+| 439 | 13.845m | S74° 10'15""W |
+| 440 | 19.970m | N79° 34'19""W |
+| 441 | 15.930m | N47° 59'41""W |
+| 442 | 37.941m | N35° 56'12""W |
+| 443 | 18.930m | N48° 41'18""W |
+| 444 | 17.657m | N65° 18'38""W |
+| 445 | 15.000m | N24° 41'22""E |
+
+ **Section 4.** This Act shall take effect fifteen (15) days after its publication in theOfficial Gazetteor in. a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.)**VICENTE C. SOTTO III** President of the Senate | (SGD.)**ALAN PETER S. CAYETANO** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on January 27, 2020 and June 1, 2020, respectively.
+
+ | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.)**JOSE LUIS G. MONTALES** Secretary General House of Representatives |
+
+ Approved: AUG 14 2020
+
+ (SGD.)**RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	An act converting the Albay Diversion Road in the municipalities of Minalabac, Bula, and Nabua, Camarines Sur, into a national road and appropriating funds for its improvement, repair, and maintenance.	"[{""title"": ""Section 1"", ""summary"": ""The Albay Diversion Road, Minalabac-Bula-Nabua section (Sto. Nino-Palsong - Topas Road) is converted into a national road, consisting of 17.526 km.""}, {""title"": ""Section 2"", ""summary"": ""The Secretary of Public Works and Highways shall include the improvement, repair, and maintenance of the road in the Department's program, and fund it through the General Appropriations Act.""}, {""title"": ""Section 3"", ""summary"": ""Provides the technical description of the road, listing its segments with lengths and coordinates.""}]"	11487	August 14, 2020			To convert a provincial road to a national road and appropriate funds for its improvement and maintenance.	"[""Conversion of the Albay Diversion Road into a national road"", ""Inclusion of the road in PWD improvement program"", ""Appropriation of funds for road improvement, repair, and maintenance""]"		"[""Road Conversion"", ""National Road"", ""Camarines Sur"", ""Public Works""]"	"[""Albay Diversion Road"", ""Minalabac"", ""Bula"", ""Nabua"", ""Camarines Sur"", ""National Road"", ""Public Works"", ""PWD""]"
+repacts:datasets/markdown/repacts/2020/ra_11488_2020.md	repacts	2020		datasets/markdown/repacts/2020/ra_11488_2020.md	ra_11488_2020	"AN ACT TRANSFERRING THE LOCATION OF THE SORSOGON SECOND DISTRICT ENGINEERING OFFICE FROM BULAN, SORSOGON TO GUBAT, SORSOGON, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 9689, ENTITLED ""AN ACT ESTABLISHING THE SORSOGON DISTRICT ENGINEERING OFFICE IN THE PROVINCE OF SORSOGON AND APPROPRIATING FUNDS THEREFOR"""	"Eighteenth Congress First Regular Session Begun and held in Metro Manila, on Monday, the twenty-second day of July, two thousand nineteen.
+
+ **[ REPUBLIC ACT NO. 11488, August 14, 2020 ]**
+
+ **AN ACT TRANSFERRING THE LOCATION OF THE SORSOGON SECOND DISTRICT ENGINEERING OFFICE FROM BULAN, SORSOGON TO GUBAT, SORSOGON, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 9689, ENTITLED ""AN ACT ESTABLISHING THE SORSOGON DISTRICT ENGINEERING OFFICE IN THE PROVINCE OF SORSOGON AND APPROPRIATING FUNDS THEREFOR""**
+
+ **Be it enacted by the Senate and House of Representative of the Philippines in Congress assembled:**
+
+ **Section 1.** Section 1 of Republic Act No. 9689 is hereby amended to read as follows:
+
+ > ""**Section 1.** There shall be established under the supervision of the Department of Public Works and Highways, a second district engineering office in the Second Congressional District of the Province of Sorsogon to be located in the Municipality of Gubat, to be known as the Sorsogon Second District Engineering Office.""
+
+ **Section 2.** All other laws, decrees, executive orders and other issuances that are inconsistent with this Act are hereby repealed.
+
+ **Section 3.** This Act shall take effect fifteen (15) days after its publication in theOfficial Gazetteor in a newspaper of general circulation.
+
+ Approved
+
+ | (SGD.)**VICENTE C. SOTTO III** President of the Senate | (SGD.)**ALAN PETER S. CAYETANO** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on January 27, 2020 and June 1, 2020, respectively.
+
+ | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.)**JOSE LUIS G. MONTALES** Secretary General House of Representatives |
+
+ Approved. AUG 14 2020
+
+ (SGD.)**RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	This act amends RA 9689 to relocate the Sorsogon Second District Engineering Office from Bulan to Gubat, repeals laws inconsistent with the amendment, and takes effect 15 days after publication.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 1 of RA 9689 to establish the Sorsogon Second District Engineering Office in Gubat under the supervision of the Department of Public Works and Highways.""}, {""title"": ""Section 2"", ""summary"": ""Repeals all other laws, decrees, executive orders, and issuances that are inconsistent with this Act.""}, {""title"": ""Section 3"", ""summary"": ""The Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.""}]"	11488	August 14, 2020	"[{""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}, {""name"": ""ALAN PETER S. CAYETANO"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""MYRA MARIE D. VILLARICA"", ""title"": ""Secretary of the Senate""}, {""name"": ""JOSE LUIS G. MONTALES"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""RODRIGO ROA DUTERTE"", ""title"": ""President of the Philippines""}]"	Amend RA 9689 to relocate the Sorsogon Second District Engineering Office to Gubat, repeal inconsistent laws, and establish the office under the Department of Public Works and Highways.	"[""Amends Section 1 of RA 9689 to establish the office in Gubat."", ""Repeals all laws and issuances inconsistent with the amendment."", ""The Act takes effect 15 days after publication.""]"	Republic Act No. 9689	"[""Republic Act"", ""Engineering Office"", ""Sorsogon"", ""Amendment"", ""Administrative Law""]"	"[""Sorsogon"", ""Second District Engineering Office"", ""Gubat"", ""Bul\u00e1n"", ""RA 9689"", ""Department of Public Works and Highways""]"
+repacts:datasets/markdown/repacts/2020/ra_11489_2020.md	repacts	2020		datasets/markdown/repacts/2020/ra_11489_2020.md	ra_11489_2020	AN ACT CREATING A DISTRICT ENGINEERING OFFICE IN THE SEVENTH LEGISLATIVE DISTRICT OF THE PROVINCE OF CEBU, AND APPROPRIATING FUNDS THEREFOR	"Eighteenth Congress First Regular Session Begun and held in Metro Manila, on Monday, the twenty-second day of July, two thousand nineteen.
+
+ **[ REPUBLIC ACT NO. 11489, August 14, 2020 ]**
+
+ **AN ACT CREATING A DISTRICT ENGINEERING OFFICE IN THE SEVENTH LEGISLATIVE DISTRICT OF THE PROVINCE OF CEBU, AND APPROPRIATING FUNDS THEREFOR**
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** A district engineering office is hereby created in the Seventh Legislative District of the Province of Cebu, to be located in the Municipality of Dumanjug and referred to as the Seventh District Engineering Office.
+
+ **Section 2.** The Seventh District Engineering Office shall serve the municipalities of Dumanjug, Ronda, Alcantara, Moalboal, Badian, Alegria, Malabuyoc and Ginatilan, all located in the Province of Cebu.
+
+ **Section 3.** The Secretary of Public Works and Highways shall include in the Departrment's program the operationalization of the Seventh District Engineering Office in the Province of Cebu, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 4.** This Act shall take effect fifteen (15) days after its publication in theOfficial Gazetteor in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.)**VICENTE C. SOTTO III** President of the Senate | (SGD.)**ALAN PETER S. CAYETANO** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on January 27, 2020 and June 1, 2020, respectively.
+
+ | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.)**JOSE LUIS G. MONTALES** Secretary General House of Representatives |
+
+ Approved: AUG 14 2020
+
+ (SGD.)**RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	This law establishes a district engineering office in the Seventh Legislative District of Cebu and appropriates funds for its operation.	"[{""title"": ""Section 1"", ""summary"": ""A district engineering office is hereby created in the Seventh Legislative District of the Province of Cebu, to be located in the Municipality of Dumanjug and referred to as the Seventh District Engineering Office.""}, {""title"": ""Section 2"", ""summary"": ""The Seventh District Engineering Office shall serve the municipalities of Dumanjug, Ronda, Alcantara, Moalboal, Badian, Alegria, Malabuyoc and Ginatilan, all located in the Province of Cebu.""}, {""title"": ""Section 3"", ""summary"": ""The Secretary of Public Works and Highways shall include in the Department's program the operationalization of the Seventh District Engineering Office in the Province of Cebu, the funding of which shall be included in the annual General Appropriations Act.""}, {""title"": ""Section 4"", ""summary"": ""This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.""}]"	11489	August 14, 2020	"[{""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}, {""name"": ""ALAN PETER S. CAYETANO"", ""title"": ""Speaker of the House of Representatives""}]"		To create a district engineering office in the Seventh Legislative District of Cebu and provide funds for its operation.	"[""Creation of the Seventh District Engineering Office"", ""Location of the office in Dumanjug"", ""Service coverage to eight municipalities in Cebu"", ""Inclusion of funding in the General Appropriations Act"", ""Effective date fifteen days after publication""]"		"[""Public Works"", ""Cebu"", ""Engineering"", ""Local Government""]"	"[""district engineering office"", ""Province of Cebu"", ""General Appropriations Act"", ""Department of Public Works and Highways""]"
+repacts:datasets/markdown/repacts/2020/ra_11490_2020.md	repacts	2020		datasets/markdown/repacts/2020/ra_11490_2020.md	ra_11490_2020	AN ACT ESTABLISHING THE THIRD DISTRICT ENGINEERING OFFICE IN THE MUNICIPALITY OF M'LANG, PROVINCE OF COTABATO, AND APPROPRIATING FUNDS THEREFOR	"Eighteenth Congress First Regular Session Begun and held in Metro Manila, on Monday, the twenty-second day of July, two thousand nineteen.
+
+ **[ REPUBLIC ACT NO. 11490, August 14, 2020 ]**
+
+ **AN ACT ESTABLISHING THE THIRD DISTRICT ENGINEERING OFFICE IN THE MUNICIPALITY OF M'LANG, PROVINCE OF COTABATO, AND APPROPRIATING FUNDS THEREFOR**
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established, under the supervision of the Department of Public Works and Highways (DPWH), a third district engineering office in the Municipality of M'lang, Province of Cotabato to be known as the Cotabato Third District Engineering Office.
+
+ **Section 2.** The Cotabato Third District Engineering Office shall serve the municipalities of Banisilan, Carmen, Kabacan, Matalan, M'lang, and Tulunan, all located in the Third Legislative District of the Province of Cotabato.
+
+ **Section 3.** The Secretary of the DPWH shall include in the Department's program the operationalization of the Third District Engineering Office in the Province of Cotabato, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 4.** This Act shall take effect fifteen (15) days after its publication in theOfficial Gazetteor in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.)**VICENTE C. SOTTO III** President of the Senate | (SGD.)**ALAN PETER S. CAYETANO** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on February 4, 2020 and June 1, 2020, respectively.
+
+ | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.)**JOSE LUIS G. MONTALES** Secretary General House of Representatives |
+
+ Approved: AUG 14 2020
+
+ (SGD.)**RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	Establishes the Cotabato Third District Engineering Office and appropriates funds for its operation.	"[{""title"": ""Section 1"", ""summary"": ""Establishes the Cotabato Third District Engineering Office under DPWH supervision.""}, {""title"": ""Section 2"", ""summary"": ""Defines the office's service area to include Banisilan, Carmen, Kabacan, Matalan, M'lang, and Tulunan.""}, {""title"": ""Section 3"", ""summary"": ""Mandates DPWH Secretary to include the office's operationalization and funding in DPWH program and General Appropriations Act.""}, {""title"": ""Section 4"", ""summary"": ""Specifies that the act takes effect fifteen days after publication in Official Gazette or newspaper.""}]"	11490	August 14, 2020	"[{""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}, {""name"": ""ALAN PETER S. CAYETANO"", ""title"": ""Speaker of the House of Representatives""}]"		To establish the Cotabato Third District Engineering Office and allocate funds for its operation.	"[""Establishment of the Cotabato Third District Engineering Office"", ""Service to municipalities of Banisilan, Carmen, Kabacan, Matalan, M'lang, and Tulunan"", ""Funding inclusion in General Appropriations Act"", ""Operationalization by DPWH Secretary""]"		"[""Engineering"", ""Public Works"", ""Cotabato"", ""DPWH""]"	"[""Third District Engineering Office"", ""Cotabato"", ""DPWH"", ""General Appropriations Act"", ""Public Works"", ""Municipality of M'lang""]"
+repacts:datasets/markdown/repacts/2020/ra_11491_2020.md	repacts	2020		datasets/markdown/repacts/2020/ra_11491_2020.md	ra_11491_2020	"AN ACT RENEWING FOR ANOTHER TWENTY-FIVE (25) YEARS THE FRANCHISE GRANTED TO CRUSADERS BROADCASTING SYSTEM, INC., UNDER REPUBLIC ACT NO. 8091, ENTITLED ""AN ACT GRANTING THE CRUSADERS BROADCASTING SYSTEM. INC., A FRANCHISE TO CONSTRUCT. ESTABLISH, OPERATE, AND MAINTAIN COMMERCIAL RADIO AND TELEVISION BROADCASTING STATIONS WITHIN THE PHILIPPINES"""	"Eighteenth Congress First Regular Session Begun and held in Metro Manila, on Monday, the twenty-second day of July, two thousand nineteen.
+
+ **[ REPUBLIC ACT NO. 11491, August 15, 2020 ]**
+
+ **AN ACT RENEWING FOR ANOTHER TWENTY-FIVE (25) YEARS THE FRANCHISE GRANTED TO CRUSADERS BROADCASTING SYSTEM, INC., UNDER REPUBLIC ACT NO. 8091, ENTITLED ""AN ACT GRANTING THE CRUSADERS BROADCASTING SYSTEM. INC., A FRANCHISE TO CONSTRUCT. ESTABLISH, OPERATE, AND MAINTAIN COMMERCIAL RADIO AND TELEVISION BROADCASTING STATIONS WITHIN THE PHILIPPINES""**
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.***Nature and Scope of Franchise.* Subject to the provisions of the Constitution and applicable laws, rulesandregulations, the franchise granted to Crusaders Broadcasting System, Inc., hereunder referred to as the grantee, its successors or assignees, under Republic Act No. 8091, to construct, install, establish, operate, and maintain for commercial purposes and in the public interest, radio and/or television broadcasting stations. where frequencies and/or channels are still available for radio and/or television broadcasting, including digital television system, through microwave, satellite or whatever means, including the use of any new technologies in television and radio systerns, with the corresponding technological auxiliaries and facilities, special broadcast and other program and distribution services and relay stations in the Philippines, is hereby renewed for another twenty- five (25) years from the effectivity of this Act.

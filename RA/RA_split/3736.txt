@@ -1,0 +1,174 @@
+
+ | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.)**MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved:JUN 29 2022
+
+ (SGD.)**RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	The Republic Act increases the authorized bed capacity of the Eastern Pangasinan District Hospital from 150 to 250 beds, upgrades its services and facilities, expands the workforce, and allocates necessary funding from the provincial government and the Department of Health.	"[{""title"": ""Section 1."", ""summary"": ""Increases the authorized bed capacity of the Eastern Pangasinan District Hospital from 150 to 250 beds.""}, {""title"": ""Section 2."", ""summary"": ""Upgrades existing professional health care services and facilities to match the increased bed capacity.""}, {""title"": ""Section 3."", ""summary"": ""Increases the workforce of the hospital, including doctors, nurses and support personnel.""}, {""title"": ""Section 4."", ""summary"": ""The Provincial Government of Pangasinan shall provide funds for maintenance, operating expenses, and additional human resources.""}, {""title"": ""Section 5."", ""summary"": ""The Secretary of the DOH shall include the hospital in the DOH subsidy program for capital outlay requirements.""}, {""title"": ""Section 6."", ""summary"": ""If any provision is declared unconstitutional, the remaining unaffected provisions remain in full force.""}, {""title"": ""Section 7."", ""summary"": ""All laws inconsistent with this Act are hereby modified accordingly.""}, {""title"": ""Section 8."", ""summary"": ""The Act takes effect fifteen days after its publication in the Official Gazette or in a newspaper of general circulation.""}]"	REPUBLIC ACT NO. 11880	June 29, 2022	"[{""name"": ""LORD ALAN JAY Q. VELASCO"", ""title"": ""Speaker of the House of Representatives""}, {""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}]"	"[{""name"": ""MYRA MARIE D. VILLARICA"", ""title"": ""Secretary of the Senate""}, {""name"": ""MARK LLANDRO L. MENDOZA"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""RODRIGO ROA DUTERTE"", ""title"": ""President of the Philippines""}]"	To increase bed capacity of the Eastern Pangasinan District Hospital and appropriate funding for its expansion and operation.	"[""Increase bed capacity from 150 to 250 beds"", ""Upgrade professional health care services and facilities"", ""Expand workforce of doctors, nurses, and support personnel"", ""Allocate provincial funds for maintenance and operating expenses"", ""Include hospital in DOH subsidy program"", ""Provide continuity of unaffected provisions if unconstitutional"", ""Modify inconsistent laws"", ""Effective 15 days after publication""]"		"[""Health"", ""Hospital"", ""Bed Capacity"", ""Pangasinan"", ""Republic Act""]"	"[""bed capacity"", ""hospital"", ""Pangasinan"", ""DOH"", ""funding"", ""healthcare"", ""Pangasinan District Hospital""]"
+repacts:datasets/markdown/repacts/2022/ra_11881_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11881_2022.md	ra_11881_2022	AN ACT INCREASING THE BED CAPACITY OF THE CONCEPCION DISTRICT HOSPITAL IN THE MUNICIPALITY OF CONCEPCION, PROVINCE OF TARLAC FROM FIFTY (50) TO ONE HUNDRED (100) BEDS, AND APPROPRIATING FUNDS THEREFOR	"Eighteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-sixth day of July, two thousand twenty one.*
+
+ **[ REPUBLIC ACT NO. 11881, June 29, 2022 ]**
+
+ **AN ACT INCREASING THE BED CAPACITY OF THE CONCEPCION DISTRICT HOSPITAL IN THE MUNICIPALITY OF CONCEPCION, PROVINCE OF TARLAC FROM FIFTY (50) TO ONE HUNDRED (100) BEDS, AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** The authorized bed capacity of the Concepcion District Hospital in the Municipality of Concepcion, Province of Tarlac is hereby increased from fifty (50) to one hundred (100) beds. Any future increase in bed capacity shall be consistent with the hospital development plan that shall be prepared by Chief of Hospital of the CDH, in consultation with the Department of Health.
+
+ **Section 2.** The existing professional health care services and facilities of the CDH shall also be upgraded to conform with and be commensurate to the bed capacity increase as provided for Section 1 hereof.
+
+ **Section 3.** The existing workforce of the CDH, which includes doctors, nurses and support personnel, shall also be increased correspondingly.
+
+ **Section 4.** The Provincial Government of Tarlac shall provide the necessary funds to cover the maintenance and other operating expenses of the Concepcion District Hospital. The Secretary of the DOH shall immediately include in the DOHs subsidy program, support for the capital outlay requirements of the said hospital.
+
+ **Section 5.** All laws, executive orders, issuances, rules and regulations inconsistent with this Act are hereby modified accordingly.
+
+ **Section 6.** This Act shall take effect fifteen (15) days after its publication in theOfficial Gazetteor in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **LORD ALAN JAY Q. VELASCO** Speaker of the House of Representatives | (SGD.)**VICENTE C. SOTTO III** President of the Senate |
+| --- | --- |
+| (SGD.) **LORD ALAN JAY Q. VELASCO** Speaker of the House of Representatives | (SGD.)**VICENTE C. SOTTO III** President of the Senate |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on September 22, 2021 and May 31, 2022, respectively.
+
+ | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.)**MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved:JUN 29 2022
+
+ (SGD.)**RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	Increases the bed capacity of the Concepcion District Hospital from 50 to 100 beds and appropriates funds for its expansion and operation.	"[{""title"": ""Section 1"", ""summary"": ""The authorized bed capacity of the Concepcion District Hospital is increased from fifty (50) to one hundred (100) beds.""}, {""title"": ""Section 2"", ""summary"": ""The existing professional health care services and facilities of the CDH will be upgraded to conform with the increased bed capacity.""}, {""title"": ""Section 3"", ""summary"": ""The existing workforce of the CDH, including doctors, nurses and support personnel, will be increased correspondingly.""}, {""title"": ""Section 4"", ""summary"": ""The Provincial Government of Tarlac shall provide necessary funds for maintenance and operating expenses; the Secretary of the DOH will include the hospital in the DOH subsidy program.""}, {""title"": ""Section 5"", ""summary"": ""All laws, executive orders, issuances, rules and regulations inconsistent with this Act are hereby modified accordingly.""}, {""title"": ""Section 6"", ""summary"": ""This Act shall take effect fifteen (15) days after its publication in the Official Gazette or a newspaper of general circulation.""}]"	REPUBLIC ACT NO. 11881	June 29, 2022	"[{""name"": ""LORD ALAN JAY Q. VELASCO"", ""title"": ""Speaker of the House of Representatives""}, {""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}]"	"[{""name"": ""MYRA MARIE D. VILLARICA"", ""title"": ""Secretary of the Senate""}, {""name"": ""MARK LLANDRO L. MENDOZA"", ""title"": ""Secretary General House of Representatives""}]"	To increase bed capacity and improve healthcare services at the Concepcion District Hospital, ensuring adequate facilities, workforce, and funding.	"[""Increase bed capacity from 50 to 100"", ""Upgrade healthcare services and facilities"", ""Increase workforce"", ""Provide maintenance and operating funds"", ""Include hospital in DOH subsidy program"", ""Modify inconsistent laws"", ""Effectivity 15 days after publication""]"	All laws, executive orders, issuances, rules and regulations inconsistent with this Act are modified accordingly.	"[""Hospital"", ""Bed capacity"", ""Health"", ""Tarlac""]"	"[""bed capacity"", ""Concepcion District Hospital"", ""Tarlac"", ""healthcare services"", ""funding"", ""DOH"", ""provincial government"", ""DOH subsidy program""]"
+repacts:datasets/markdown/repacts/2022/ra_11882_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11882_2022.md	ra_11882_2022	AN ACT INCREASING THE BED CAPACITY OF THE GOV. FAUSTINO N. DY, SR. MEMORIAL HOSPITAL IN THE CITY OF ILAGAN, PROVINCE OF ISABELA FROM ONE HUNDRED (100) TO FIVE HUNDRED (500) BEDS, AND APPROPRIATING FUNDS THEREFOR	"Eighteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-sixth day of July, two thousand twenty one.*
+
+ **[ REPUBLIC ACT NO. 11882, June 29, 2022 ]**
+
+ **AN ACT INCREASING THE BED CAPACITY OF THE GOV. FAUSTINO N. DY, SR. MEMORIAL HOSPITAL IN THE CITY OF ILAGAN, PROVINCE OF ISABELA FROM ONE HUNDRED (100) TO FIVE HUNDRED (500) BEDS, AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** The authorized bed capacity of the Gov. Faustino N. Dy, Sr. Memorial Hospital in the City of Ilagan, Province of Isabela is hereby increased from one hundred (100) to five hundred (500) beds. Any future increase in bed capacity shall be consistent with the hospital development plan that shall be prepared by Chief of Hospital of the Gov. Faustino N. Dy, Sr. Memorial Hospital, and submitted to the Department of Health (DOH).
+
+ **Section 2.** The existing professional health care services and facilities of the Gov. Faustino N. Dy, Sr. Memorial Hospital shall also be upgraded to conform with and be commensurate to the bed capacity increase as provided for Section 1 hereof.
+
+ **Section 3.** The existing workforce of the Gov. Faustino N. Dy, Sr. Memorial Hospital, which includes doctors, nurses and support personnel, shall also be increased correspondingly.
+
+ **Section 4.** The Provincial Government of Isabela shall provide the necessary funds to cover the maintenance and other operating expenses of the Gov. Faustino N. Dy, Sr. Memorial Hospital. It shall also appropriate funds for the additional human resource complement to support the increase in bed capacity and the corresponding upgrading of its service facilities and professional health care services.
+
+ **Section 5.** The Secretary of the DOH shall include in the Departments subsidy program its support for the capital outlay requirements of the hospital.
+
+ **Section 6.** If any provision or part of this Act is declared unconstitutional, the remaining parts or provisions not affected shall remain in full force and effect.
+
+ **Section 7.** All laws, executive orders, issuances, rules and regulations inconsistent with this Act are hereby modified accordingly.
+
+ **Section 8.** This Act shall take effect fifteen (15) days after its publication in theOfficial Gazetteor in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **LORD ALAN JAY Q. VELASCO** Speaker of the House of Representatives | (SGD.)**VICENTE C. SOTTO III** President of the Senate |
+| --- | --- |
+| (SGD.) **LORD ALAN JAY Q. VELASCO** Speaker of the House of Representatives | (SGD.)**VICENTE C. SOTTO III** President of the Senate |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on September 22, 2021 and May 31, 2022, respectively.
+
+ | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.)**MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved:JUN 29 2022
+
+ (SGD.)**RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Act	The Republic Act No. 11882 increases the authorized bed capacity of Gov. Faustino N. Dy, Sr. Memorial Hospital from 100 to 500 beds, upgrades its health services and workforce accordingly, and appropriates necessary funds from the provincial government and the Department of Health.	"[{""title"": ""Section 1."", ""summary"": ""Increases the authorized bed capacity of Gov. Faustino N. Dy, Sr. Memorial Hospital from 100 to 500 beds and mandates future increases to align with a hospital development plan.""}, {""title"": ""Section 2."", ""summary"": ""Upgrades the existing professional health care services and facilities to match the increased bed capacity.""}, {""title"": ""Section 3."", ""summary"": ""Increases the workforce, including doctors, nurses, and support personnel, to correspond with the higher bed capacity.""}, {""title"": ""Section 4."", ""summary"": ""The Provincial Government of Isabela shall provide funds for maintenance, operating expenses, and additional human resources needed for the expanded hospital.""}, {""title"": ""Section 5."", ""summary"": ""The Secretary of the Department of Health shall include the hospital\u2019s capital outlay requirements in the department\u2019s subsidy program.""}, {""title"": ""Section 6."", ""summary"": ""Provides severability; if any provision is unconstitutional, the remaining provisions remain in effect.""}, {""title"": ""Section 7."", ""summary"": ""Modifies all laws, executive orders, issuances, rules, and regulations inconsistent with this Act.""}, {""title"": ""Section 8."", ""summary"": ""The Act shall take effect fifteen days after publication in the Official Gazette or a newspaper of general circulation.""}]"	11882	June 29, 2022			To increase the bed capacity of Gov. Faustino N. Dy, Sr. Memorial Hospital, upgrade its services and workforce, and secure appropriate funding for the expansion.	"[""Bed capacity increased from 100 to 500 beds"", ""Health services and facilities upgraded"", ""Workforce expanded"", ""Provincial government to fund maintenance and staffing"", ""DOH to subsidize capital outlay"", ""Severability clause"", ""Modification of inconsistent laws"", ""Effectivity after publication""]"		"[""Health"", ""Hospital"", ""Bed Capacity"", ""Isabela"", ""Philippines"", ""Republic Act""]"	"[""Bed capacity"", ""Hospital expansion"", ""Health services"", ""Gov. Faustino N. Dy"", ""Isabela"", ""DOH subsidy""]"
+repacts:datasets/markdown/repacts/2022/ra_11883_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11883_2022.md	ra_11883_2022	AN ACT CONVERTING THE GOVERNOR CELESTINO GALLARES MEMORIAL HOSPITAL IN THE CITY OF TAGBILARAN, PROVINCE OF BOHOL TO THE GOVERNOR CELESTINO GALLARES MULTI-SPECIALTY MEDICAL COMPLEX, AND APPROPRIATING FUNDS THEREFOR	"Eighteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-sixth day of July, two thousand twenty one.*
+
+ **[ REPUBLIC ACT NO. 11883, June 29, 2022 ]**
+
+ **AN ACT CONVERTING THE GOVERNOR CELESTINO GALLARES MEMORIAL HOSPITAL IN THE CITY OF TAGBILARAN, PROVINCE OF BOHOL TO THE GOVERNOR CELESTINO GALLARES MULTI-SPECIALTY MEDICAL COMPLEX, AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** The Governor Celestino Gallares Memorial Hospital in the City of Tagbilaran, Province of Bohol, is hereby converted into a medical complex to be known as the Governor Celestino Gallares Multi-Specialty Medical Complex (GCGMMC), which shall be under the direct control and supervision of the Department of Health (DOH).
+
+ **Section 2.** The GCGMMC shall be comprised of the following: (a) the Gov. Celestino Gallares Memorial Medical Center in Tagbilaran City, and (b) the Multi-Specialty Medical Center in the Municipality of Cortes, Province of Bohol.
+
+ **Section 3.** Any future increase in bed capacity, health care facilities, service capability, and human resource complement shall be based on the hospital development plan which shall be prepared by the DOH.
+
+ **Section 4.** The DOH shall determine the staffing patterns of the GCGMMC subject to the evaluation and approval of the Department of Budget and Management, and appoint the officials and employees of the GCGMMC in accordance with existing civil service laws, rules and regulations.
+
+ **Section 5.** The Secretary of Health shall immediately include in the Departments program the implementation of this Act, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 6.** If any provision or part of this Act is declared unconstitutional, the remaining parts or provisions not affected shall remain in full force and effect.
+
+ **Section 7.** Republic Act No. 11324, entitled: An Act Increasing the Bed Capacity of Governor Celestino Gallares Memorial Hospital (GCGMH) in Tagbilaran City, Province of Bohol from Two Hundred Twenty-Five (225) to Five Hundred Twenty-Five (525) Beds and Upgrading its Services and Facilities, Amending for the Purpose Republic Act No. 7266, and Appropriating Funds Therefor and for Other Purposes, is hereby amended accordingly.
+
+ All laws, executive orders, issuances, rules and regulations inconsistent with this Act are hereby modified accordingly.
+
+ **Section 8.** This Act shall take effect fifteen (15) days after its publication in theOfficial Gazetteor in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **LORD ALAN JAY Q. VELASCO** Speaker of the House of Representatives | (SGD.)**VICENTE C. SOTTO III** President of the Senate |
+| --- | --- |
+| (SGD.) **LORD ALAN JAY Q. VELASCO** Speaker of the House of Representatives | (SGD.)**VICENTE C. SOTTO III** President of the Senate |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives on September 27, 2021, amended by the Senate of the Philippines on May 31, 2022, and which amendments were concurred in by the House of Representatives on June 1, 2022.
+
+ | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.)**MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved:JUN 29 2022
+
+ (SGD.)**RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	This act converts the Governor Celestino Gallares Memorial Hospital into the Governor Celestino Gallares Multi-Specialty Medical Complex (GCGMMC), establishes its composition and governance under the Department of Health, outlines provisions for future expansion, staffing, funding, and amends related laws.	"[{""title"": ""Section 1."", ""summary"": ""The Governor Celestino Gallares Memorial Hospital is converted into the Governor Celestino Gallares Multi-Specialty Medical Complex under the direct control of the Department of Health.""}, {""title"": ""Section 2."", ""summary"": ""The GCGMMC comprises the Gov. Celestino Gallares Memorial Medical Center in Tagbilaran City and the Multi-Specialty Medical Center in the Municipality of Cortes, Bohol.""}, {""title"": ""Section 3."", ""summary"": ""Future increases in bed capacity, facilities, services, and personnel will be based on a development plan prepared by the Department of Health.""}, {""title"": ""Section 4."", ""summary"": ""The Department of Health determines staffing patterns for the GCGMMC, subject to approval by the Department of Budget and Management, and appoints officials according to civil service laws.""}, {""title"": ""Section 5."", ""summary"": ""The Secretary of Health shall include the implementation and funding of this act in the Department\u2019s program and the annual General Appropriations Act.""}, {""title"": ""Section 6."", ""summary"": ""If any provision is declared unconstitutional, the remaining provisions not affected remain in force.""}, {""title"": ""Section 7."", ""summary"": ""Republic Act No. 11324, which increases the bed capacity of the former hospital, is amended accordingly.""}, {""title"": ""Section 8."", ""summary"": ""The act takes effect fifteen days after publication in the Official Gazette or a newspaper of general circulation.""}]"	11883	June 29, 2022	"[{""name"": ""LORD ALAN JAY Q. VELASCO"", ""title"": ""Speaker of the House of Representatives""}, {""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}]"		To convert an existing hospital into a multi-specialty medical complex, establish its governance, staffing, funding, and future expansion framework, and amend related laws to support the improved healthcare infrastructure in Bohol.	"[""Conversion of the hospital into the GCGMMC"", ""Composition of the GCGMMC with two centers"", ""Future expansion based on DOH development plan"", ""DOH determines staffing patterns with approval by DBM"", ""Funding included in General Appropriations Act"", ""Amendment to RA 11324 and RA 7266"", ""Effectivity after publication""]"	Republic Act No. 11324 and Republic Act No. 7266	"[""Healthcare"", ""Hospital"", ""Medical Complex"", ""Bohol"", ""Legislation"", ""Republic Act""]"	"[""Governor Celestino Gallares"", ""Multi-Specialty Medical Complex"", ""Department of Health"", ""Bed Capacity"", ""Bohol"", ""Tagbilaran"", ""Conversion"", ""Hospital"", ""Funding"", ""Act""]"
+repacts:datasets/markdown/repacts/2022/ra_11884_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11884_2022.md	ra_11884_2022	An Act Increasing the Bed Capacity of the Balindong District Hospital in the Municipality of Wato-Balindong, Province of Lanao del Sur, from Ten (10) to Fifty (50) Beds, and Appropriating Funds Therefor	"Eighteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-sixth day of July, two thousand twenty one.*
+
+ **[ REPUBLIC ACT NO. 11884, June 29, 2022 ]**
+
+ **AN ACT INCREASING THE BED CAPACITY OF THE BALINDONG DISTRICT HOSPITAL IN THE MUNICIPALITY OF WATO-BALINDONG, PROVINCE OF LANAO DEL SUR, FROM TEN (10) TO FIFTY (50) BEDS, AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** The authorized bed capacity of the Balindong District Hospital in the Municipality of Wato-Balindong, Province of Lanao del Sur is hereby increased from ten (10) to fifty (50) beds. Any future increase in bed capacity shall be consistent with the hospital development plan that shall be prepared by Chief of Hospital of the Balindong District Hospital, and submitted to the Bangsamoro Autonomous Region in Muslim Mindanao Ministry of Health.
+
+ **Section 2.** The existing professional health care services and facilities of Balindong District Hospital shall also be upgraded to conform with and be commensurate to the bed capacity increase as provided for Section 1 hereof.
+
+ **Section 3.** The existing workforce of the Balindong District Hospital, which includes doctors, nurses and support personnel, shall also be increased correspondingly.
+
+ **Section 4.** The Bangsamoro Autonomous Government shall provide the necessary funds to cover the maintenance and other operating expenses of the Balindong District Hospital. It shall also appropriate funds for the additional human resource complement to support the increase in bed capacity and the corresponding upgrading of its service facilities and professional health care services.
+
+ **Section 5.** The Secretary of the DOH shall include in the Departments subsidy program, support for the capital outlay requirements of the Balindong District Hospital.
+
+ **Section 6.** All laws, executive orders, issuances, rules and regulations inconsistent with this Act are hereby modified accordingly.
+
+ **Section 7.** This Act shall take effect fifteen (15) days after its publication in theOfficial Gazetteor in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **LORD ALAN JAY Q. VELASCO** Speaker of the House of Representatives | (SGD.)**VICENTE C. SOTTO III** President of the Senate |
+| --- | --- |
+| (SGD.) **LORD ALAN JAY Q. VELASCO** Speaker of the House of Representatives | (SGD.)**VICENTE C. SOTTO III** President of the Senate |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on September 27, 2021 and May 31, 2022, respectively.
+
+ | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.)**MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved:JUN 29 2022
+
+ (SGD.)**RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Health	This Republic Act increases the authorized bed capacity of the Balindong District Hospital from 10 to 50 beds, upgrades its facilities and services, enlarges its workforce, appropriates necessary funds, and amends any inconsistent laws. It takes effect 15 days after publication.	"[{""title"": ""Section 1"", ""summary"": ""Increases the authorized bed capacity of the Balindong District Hospital from ten (10) to fifty (50) beds and requires future increases to align with a hospital development plan submitted to the Bangsamoro Autonomous Region in Muslim Mindanao Ministry of Health.""}, {""title"": ""Section 2"", ""summary"": ""Mandates the upgrade of professional health care services and facilities of the Balindong District Hospital to be commensurate with the increased bed capacity.""}, {""title"": ""Section 3"", ""summary"": ""Increases the existing workforce of the hospital, including doctors, nurses, and support personnel, in line with the bed capacity increase.""}, {""title"": ""Section 4"", ""summary"": ""Requires the Bangsamoro Autonomous Government to provide funds for maintenance, operating expenses, and additional human resources to support the increased capacity and upgraded services.""}, {""title"": ""Section 5"", ""summary"": ""Directs the Secretary of the Department of Health to include the hospital's capital outlay requirements in the department's subsidy program.""}, {""title"": ""Section 6"", ""summary"": ""Amends any laws, executive orders, issuances, rules and regulations inconsistent with this Act.""}, {""title"": ""Section 7"", ""summary"": ""Establishes that the Act takes effect fifteen (15) days after its publication in the Official Gazette or a newspaper of general circulation.""}]"	RA No. 11884	June 29, 2022			To increase the bed capacity of the Balindong District Hospital and improve its health services and infrastructure.	"[""Increase bed capacity from 10 to 50 beds"", ""Upgrade facilities and professional health services"", ""Expand workforce to match capacity"", ""Appropriate funds for maintenance and human resources"", ""Include capital outlay in DOH subsidy program"", ""Modify inconsistent laws"", ""Effectivity after 15 days""]"		"[""Health"", ""Hospital"", ""Bed Capacity"", ""Philippines""]"	"[""Balindong District Hospital"", ""bed capacity"", ""Lanao del Sur"", ""Bangsamoro Autonomous Region"", ""Department of Health"", ""health services""]"
+repacts:datasets/markdown/repacts/2022/ra_11885_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11885_2022.md	ra_11885_2022	AN ACT INCREASING THE BED CAPACITY OF THE UNAYAN MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF BINIDAYAN, PROVINC OF LANAO DEL SUR, FROM TEN (10) TO FIFTY (50) BEDS, AND APPROPRIATING FUNDS THEREFOR	"Eighteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-sixth day of July, two thousand twenty one.*
+
+ **[ REPUBLIC ACT NO. 11885, June 29, 2022 ]**
+
+ **AN ACT INCREASING THE BED CAPACITY OF THE UNAYAN MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF BINIDAYAN, PROVINC OF LANAO DEL SUR, FROM TEN (10) TO FIFTY (50) BEDS, AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** The authorized bed capacity of the Unayan Municipal Hospital in the Municipality of Binidayan, Province of Lanao del Sur is hereby increased from ten (10) to fifty (50) beds. Any future increase in bed capacity shall be consistent with the hospital development plan that shall be prepared by Chief of Hospital of the Unayan Municipal Hospital, and submitted to the Bangsamoro Autonomous Region in Muslim Mindanao Ministry of Health.

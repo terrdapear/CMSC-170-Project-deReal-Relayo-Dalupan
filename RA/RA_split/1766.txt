@@ -1,0 +1,189 @@
+repacts:datasets/markdown/repacts/1992/ra_7541_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7541_1992.md	ra_7541_1992	AN ACT INCREASING THE BED CAPACITY OF THE BALAMBAN MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF BALAMBAN, PROVINCE OF CEBU, FROM TEN (10) TO TWENTY-FIVE (25) BEDS, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 7541, May 22, 1992 ]**
+
+ AN ACT INCREASING THE BED CAPACITY OF THE BALAMBAN MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF BALAMBAN, PROVINCE OF CEBU, FROM TEN (10) TO TWENTY-FIVE (25) BEDS, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The bed capacity of the Balamban Municipal Hospital in the Municipality of Balamban, Province of Cebu, is hereby increased from ten (10) to twenty-five (25) beds.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on February 3, 1992 and January 23, 1992, respectively |  |
+| (Sgd.) **ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: May 22, 1992
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	This act increases the bed capacity of Balamban Municipal Hospital from 10 to 25 beds and appropriates funds for its implementation.	"[{""title"": ""Section 1."", ""summary"": ""The bed capacity of Balamban Municipal Hospital is increased from ten (10) to twenty-five (25) beds.""}, {""title"": ""Section 2."", ""summary"": ""The necessary funds for implementing the act will be included in the General Appropriations Act of the following year.""}, {""title"": ""Section 3."", ""summary"": ""The act takes effect upon its approval.""}]"	7541	May 22, 1992	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""ANACLETO D. BADOY, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}]"	To increase the bed capacity of Balamban Municipal Hospital to improve healthcare services and ensure adequate accommodation for patients.	"[""Increase bed capacity from 10 to 25 beds"", ""Appropriate funds for implementation"", ""Include necessary amount in General Appropriations Act of the following year""]"		"[""Healthcare"", ""Hospital"", ""Bed Capacity"", ""Philippines"", ""Republic Act""]"	"[""bed capacity"", ""Balamban Municipal Hospital"", ""Cebu"", ""General Appropriations Act"", ""funds appropriation""]"
+repacts:datasets/markdown/repacts/1992/ra_7542_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7542_1992.md	ra_7542_1992	AN ACT INCREASING THE BED CAPACITY OF THE HINUNANGAN COMMUNITY HOSPITAL IN THE MUNICIPALITY OF HINUNANGAN, PROVINCE OF SOUTHERN LEYTE, FROM TEN (10) TO TWENTY-FIVE (25) BEDS, UPGRADING IT INTO A DISTRICT HOSPITAL TO BE KNOWN AS THE HINUNANGAN DISTRICT HOSPITAL, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 7542, May 22, 1992 ]**
+
+ AN ACT INCREASING THE BED CAPACITY OF THE HINUNANGAN COMMUNITY HOSPITAL IN THE MUNICIPALITY OF HINUNANGAN, PROVINCE OF SOUTHERN LEYTE, FROM TEN (10) TO TWENTY-FIVE (25) BEDS, UPGRADING IT INTO A DISTRICT HOSPITAL TO BE KNOWN AS THE HINUNANGAN DISTRICT HOSPITAL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The bed capacity of the Hinunangan Community Hospital in the Municipality of Hinunangan, Province of Southern Leyte, is hereby increased from ten (10) to twenty-Five (25) beds and upgrading it into a district hospital to be known as the Hinunangan District Hospital.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on March 12, 1991 and November 25, 1991, respectively. |  |
+| **ANACLETO D. BADOY, JR.** *Secretary of the Senate* | **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: May 22, 1992
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	The Act increases the bed capacity of Hinunangan Community Hospital from 10 to 25 beds, upgrades it to a district hospital, and appropriates funds for the transition.	"[{""title"": ""Section 1."", ""summary"": ""The bed capacity of Hinunangan Community Hospital is increased from ten (10) to twenty\u2011five (25) beds and it is upgraded into a district hospital known as Hinunangan District Hospital.""}, {""title"": ""Section 2."", ""summary"": ""The necessary amount to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment.""}, {""title"": ""Section 3."", ""summary"": ""This Act shall take effect upon its approval.""}]"	7542	May 22, 1992	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of the Representatives""}]"	"[{""name"": ""ANACLETO D. BADOY, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""CORAZON C. AQUINO"", ""title"": ""President of the Philippines""}]"	To increase the bed capacity of Hinunangan Community Hospital to 25 beds, upgrade it to a district hospital, and provide the necessary funds for the upgrade.	"[""Increase bed capacity from 10 to 25 beds"", ""Upgrade the hospital to district status"", ""Appropriate funds for the upgrade"", ""Include appropriation in the following year's General Appropriations Act"", ""Effective upon approval""]"		"[""Healthcare"", ""Hospital"", ""Bed Capacity"", ""District Hospital"", ""Southern Leyte""]"	"[""Hinunangan"", ""Community Hospital"", ""District Hospital"", ""Bed Capacity"", ""Appropriation"", ""Southern Leyte"", ""Republic Act 7542""]"
+repacts:datasets/markdown/repacts/1992/ra_7543_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7543_1992.md	ra_7543_1992	AN ACT INCREASING THE BED CAPACITY OF THE LIBMANAN DISTRICT HOSPITAL IN THE MUNICIPALITY OF LIBMANAN, PROVINCE OF CAMARINES SUR, FROM FIFTY (50) TO ONE HUNDRED (100) BEDS, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 7543, May 22, 1992 ]**
+
+ AN ACT INCREASING THE BED CAPACITY OF THE LIBMANAN DISTRICT HOSPITAL IN THE MUNICIPALITY OF LIBMANAN, PROVINCE OF CAMARINES SUR, FROM FIFTY (50) TO ONE HUNDRED (100) BEDS, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The bed capacity of the Libmanan District Hospital in the Municipality of Libmanan, Province of Camarines Sur, is hereby increased from fifty (50) to one hundred (100) beds.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on February 28, 1991 and February 3, 1992, respectively.< |  |
+| (Sgd.) **ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: May 22, 1992
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Health	The act increases the bed capacity of Libmanan District Hospital from fifty to one hundred beds and appropriates funds for its implementation.	"[{""title"": ""Section 1"", ""summary"": ""The bed capacity of the Libmanan District Hospital is increased from fifty (50) to one hundred (100) beds.""}, {""title"": ""Section 2"", ""summary"": ""The necessary amount to carry out the provisions of this Act will be included in the General Appropriations Act of the year following its enactment.""}, {""title"": ""Section 3"", ""summary"": ""This Act shall take effect upon its approval.""}]"	7543	May 22, 1992	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""ANACLETO D. BADOY, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""CORAZON C. AQUINO"", ""title"": ""President of the Philippines""}]"	To increase the bed capacity of Libmanan District Hospital and appropriate funds for its operation.	"[""Increase bed capacity from 50 to 100 beds"", ""Appropriation of funds to be included in the General Appropriations Act"", ""Effective upon approval""]"		"[""Health"", ""Hospital"", ""Bed Capacity"", ""Philippines"", ""Republic Act""]"	"[""bed capacity"", ""Libmanan District Hospital"", ""Camarines Sur"", ""General Appropriations Act"", ""May 22 1992""]"
+repacts:datasets/markdown/repacts/1992/ra_7544_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7544_1992.md	ra_7544_1992	Republic Act No. 7544	"**[ REPUBLIC ACT NO. 7544, May 22, 1992 ]**
+
+ AN ACT INCREASING THE BED CAPACITY OF THE RAGAY DISTRICT HOSPITAL IN THE MUNICIPALITY OF RAGAY, PROVINCE OF CAMARINES SUR, FROM TWENTY-FIVE (25) TO FIFTY (50) BEDS, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The bed capacity of the Ragay District Hospital in the Municipality of Ragay, Province of Camarines Sur, is hereby increased from twenty-five (25) to fifty (50) beds.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on February 28, 1991 and December 17, 1991, respectively. |  |
+| (Sgd.) **ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: May 22, 1992
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	An act increasing the bed capacity of the Ragay District Hospital in the Municipality of Ragay, Camarines Sur from 25 to 50 beds and appropriating necessary funds for the upgrade.	"[{""title"": ""Section 1."", ""summary"": ""The bed capacity of the Ragay District Hospital is increased from twenty\u2011five (25) to fifty (50) beds.""}, {""title"": ""Section 2."", ""summary"": ""The necessary amount to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment.""}, {""title"": ""Section 3."", ""summary"": ""The Act shall take effect upon its approval.""}]"	7544	May 22, 1992	"[{""name"": ""Neptali A. Gonzales"", ""title"": ""President of the Senate""}, {""name"": ""Ram\u00f3n V. Mitra"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""Anacleto D. Badoy, Jr."", ""title"": ""Secretary of the Senate""}, {""name"": ""Camilo L. Sabio"", ""title"": ""Secretary General House of Representatives""}]"	To increase the bed capacity of the Ragay District Hospital to meet growing healthcare demands.	"[""Increase bed capacity from 25 to 50 beds"", ""Appropriate funds via the next General Appropriations Act"", ""Take effect upon approval""]"		"[""Healthcare"", ""Hospital"", ""Bed Capacity"", ""Philippines""]"	"[""Ragay District Hospital"", ""Bed capacity"", ""Camarines Sur"", ""Republic Act 7544"", ""General Appropriations Act""]"
+repacts:datasets/markdown/repacts/1992/ra_7545_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7545_1992.md	ra_7545_1992	AN ACT ESTABLISHING A FIVE-BED CAPACITY HEALTH INFIRMARY IN THE MUNICIPALITY OF ANGAT, PROVINCE OF BULACAN, TO BE KNOWN AS THE ANGAT HEALTH INFIRMARY, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 7545, May 22, 1992 ]**
+
+ AN ACT ESTABLISHING A FIVE-BED CAPACITY HEALTH INFIRMARY IN THE MUNICIPALITY OF ANGAT, PROVINCE OF BULACAN, TO BE KNOWN AS THE ANGAT HEALTH INFIRMARY, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established in the Municipality of Angat, Province of Bulacan, a five-bed capacity health infirmary, to be known as the Angat Health Infirmary.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on October 14, 1991 and February 3, 1992, respectively. |  |
+| (Sgd.) **ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: May 22, 1992
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Act	Establishes a five-bed health infirmary in Angat, Bulacan, and appropriates funds for its operation.	"[{""title"": ""Section 1"", ""summary"": ""Establishes a five-bed capacity health infirmary in the Municipality of Angat, Province of Bulacan.""}, {""title"": ""Section 2"", ""summary"": ""The necessary amount to carry out this Act shall be included in the General Appropriations Act of the year following its enactment.""}, {""title"": ""Section 3"", ""summary"": ""The Act shall take effect upon its approval.""}]"	7545	May 22, 1992	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""ANACLETO D. BADOY, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""CORAZON C. AQUINO"", ""title"": ""President of the Philippines""}]"	To establish a five-bed health infirmary in Angat, Bulacan, and appropriate funds for its operation.	"[""Establishment of a five-bed capacity health infirmary"", ""Funding appropriated through the General Appropriations Act of the following year"", ""Act takes effect upon approval""]"		"[""Health"", ""Infrastructure"", ""Local Government"", ""Bulacan"", ""Infirmary""]"	"[""Health Infirmary"", ""Angat"", ""Bulacan"", ""Five-bed capacity"", ""General Appropriations Act"", ""May 1992""]"
+repacts:datasets/markdown/repacts/1992/ra_7546_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7546_1992.md	ra_7546_1992	AN ACT EXPANDING AND UPGRADING THE MEDICARE COMMUNITY HOSPITAL IN THE MUNICIPALITY OF SAN MIGUEL, PROVINCE OF SURIGAO DEL SUR, FROM A TEN-BED CAPACITY MEDICARE HOSPITAL INTO A TWENTY-FIVE-BED CAPACITY DISTRICT HOSPITAL, TO BE KNOWN AS THE SAN MIGUEL DISTRICT HOSPITAL, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 7546, May 22, 1992 ]**
+
+ AN ACT EXPANDING AND UPGRADING THE MEDICARE COMMUNITY HOSPITAL IN THE MUNICIPALITY OF SAN MIGUEL, PROVINCE OF SURIGAO DEL SUR, FROM A TEN-BED CAPACITY MEDICARE HOSPITAL INTO A TWENTY-FIVE-BED CAPACITY DISTRICT HOSPITAL, TO BE KNOWN AS THE SAN MIGUEL DISTRICT HOSPITAL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The medicare community hospital in the Municipality of San Miguel, Province of Surigao del Sur, is hereby expanded and upgraded from a ten-bed capacity medicare hospital into a twenty-five-bed capacity district hospital, to be known as the San Miguel District Hospital.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on May 16, 1991 and February 3, 1992, respectively. |  |
+| (Sgd.) **ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: May 22, 1992
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	Expands and upgrades the Medicare community hospital in San Miguel, Surigao del Sur from a 10-bed capacity to a 25-bed district hospital named San Miguel District Hospital, and appropriates funds for its operation.	"[{""title"": ""Section 1"", ""summary"": ""The Medicare community hospital in San Miguel, Surigao del Sur is expanded and upgraded from a ten\u2011bed capacity medicare hospital into a twenty\u2011five\u2011bed capacity district hospital known as the San Miguel District Hospital.""}, {""title"": ""Section 2"", ""summary"": ""The necessary amount to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law.""}, {""title"": ""Section 3"", ""summary"": ""This Act shall take effect upon its approval.""}]"	7546	May 22, 1992	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""ANACLETO D. BADOY, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""CORAZON C. AQUINO"", ""title"": ""President of the Philippines""}]"	To expand and upgrade the Medicare community hospital into a district hospital and appropriate necessary funds for its operation.	"[""Expansion from a 10\u2011bed to a 25\u2011bed capacity district hospital"", ""Upgrade of the hospital\u2019s status"", ""Appropriation of funds for implementation"", ""Effectivity upon approval""]"		"[""Healthcare"", ""Hospitals"", ""Republic Act"", ""Public Health""]"	"[""Medicare"", ""hospital"", ""district"", ""Surigao del Sur"", ""San Miguel"", ""expansion"", ""upgrade"", ""funding""]"
+repacts:datasets/markdown/repacts/1992/ra_7547_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7547_1992.md	ra_7547_1992	AN ACT EXPANDING AND UPGRADING THE SAN JOSE MEDICARE HOSPITAL IN THE MUNICIPALITY OF SAN JOSE, PROVINCE OF CAMARINES SUR, FROM A FIFTEEN-BED CAPACITY MEDICARE HOSPITAL INTO A TWENTY-FIVE-BED CAPACITY DISTRICT HOSPITAL, TO BE KNOWN AS THE PARTIDO DISTRICT HOSPITAL, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 7547, May 22, 1992 ]**
+
+ AN ACT EXPANDING AND UPGRADING THE SAN JOSE MEDICARE HOSPITAL IN THE MUNICIPALITY OF SAN JOSE, PROVINCE OF CAMARINES SUR, FROM A FIFTEEN-BED CAPACITY MEDICARE HOSPITAL INTO A TWENTY-FIVE-BED CAPACITY DISTRICT HOSPITAL, TO BE KNOWN AS THE PARTIDO DISTRICT HOSPITAL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The San Jose Medicare Hospital in the Municipality of San Jose, Province of Camarines Sur, is hereby expanded and upgraded into a twenty-five-bed capacity district hospital, to be known as the Partido District Hospital.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on October 17, 1991 and February 3, 1992, respectively. |  |
+| (Sgd.) **ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: May 22, 1992
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	Expands San Jose Medicare Hospital to a 25‑bed district hospital known as the Partido District Hospital and appropriates the necessary funds.	"[{""title"": ""Section 1"", ""summary"": ""The San Jose Medicare Hospital is expanded and upgraded into a twenty\u2011five\u2011bed capacity district hospital, to be known as the Partido District Hospital.""}, {""title"": ""Section 2"", ""summary"": ""The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.""}, {""title"": ""Section 3"", ""summary"": ""This Act shall take effect upon its approval.""}]"	7547	May 22, 1992	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"		To expand and upgrade San Jose Medicare Hospital to a 25‑bed district hospital and allocate the necessary funds.	"[""Expansion to a 25\u2011bed capacity district hospital"", ""Funds to be included in the General Appropriations Act of the following year"", ""Act takes effect upon approval""]"		"[""Healthcare"", ""Hospital"", ""Philippines"", ""Republic Act""]"	"[""San Jose"", ""Medicare Hospital"", ""Partido District Hospital"", ""25-bed"", ""Camarines Sur"", ""Philippines""]"
+repacts:datasets/markdown/repacts/1992/ra_7548_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7548_1992.md	ra_7548_1992	AN ACT EXPANDING AND UPGRADING THE MALAY MUNICIPAL HOSPITAL IN BARANGAY BALUSBUS, MUNICIPALITY OF MALAY, PROVINCE OF AKLAN, FROM A TEN-BED CAPACITY MUNICIPAL HOSPITAL TO A TWENTY-FIVE-BED CAPACITY DISTRICT HOSPITAL, TO BE KNOWN AS THE MALAY DISTRICT HOSPITAL, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 7548, May 22, 1992 ]**
+
+ AN ACT EXPANDING AND UPGRADING THE MALAY MUNICIPAL HOSPITAL IN BARANGAY BALUSBUS, MUNICIPALITY OF MALAY, PROVINCE OF AKLAN, FROM A TEN-BED CAPACITY MUNICIPAL HOSPITAL TO A TWENTY-FIVE-BED CAPACITY DISTRICT HOSPITAL, TO BE KNOWN AS THE MALAY DISTRICT HOSPITAL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Malay Municipal Hospital in Barangay Balusbus, Municipality of Malay, Province of Aklan, is hereby expanded and upgraded from a ten-bed capacity municipal hospital to a twenty-five-bed capacity district hospital, to be known as the Malay District Hospital.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on May 14, 199 and February 3, 1992, respectively. |  |
+| (Sgd.) **ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: May 22, 1992
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	This act expands and upgrades the Malay Municipal Hospital from a ten-bed municipal hospital to a twenty-five-bed district hospital, appropriating necessary funds through the General Appropriations Act and taking effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""The Malay Municipal Hospital in Barangay Balusbus, Municipality of Malay, Province of Aklan, is expanded and upgraded from a ten-bed capacity municipal hospital to a twenty-five-bed capacity district hospital, to be known as the Malay District Hospital.""}, {""title"": ""Section 2."", ""summary"": ""The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.""}, {""title"": ""Section 3."", ""summary"": ""This Act shall take effect upon its approval.""}]"	7548	May 22, 1992	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""ANACLETO D. BADOY, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}]"	To expand and upgrade the Malay Municipal Hospital to a twenty-five-bed district hospital, improving healthcare services for the community and ensuring adequate funding.	"[""Expands hospital bed capacity from 10 to 25."", ""Appropriates necessary funds via the General Appropriations Act of the following year."", ""Act takes effect upon approval.""]"		"[""Health"", ""Hospital"", ""Infrastructure"", ""Public Health""]"	"[""Malay Municipal Hospital"", ""Aklan"", ""district hospital"", ""bed capacity"", ""General Appropriations Act"", ""RA 7548""]"
+repacts:datasets/markdown/repacts/1992/ra_7549_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7549_1992.md	ra_7549_1992	An Act Exempting All Prizes and Awards Gained from Local and International Sports Tournaments and Competitions from the Payment of Income and Other Forms of Taxes and for Other Purposes	"**[ REPUBLIC ACT NO. 7549, May 22, 1992 ]**
+
+ AN ACT EXEMPTING ALL PRIZES AND AWARDS GAINED FROM LOCAL AND INTERNATIONAL SPORTS TOURNAMENTS AND COMPETITIONS FROM THE PAYMENT OF INCOME AND OTHER FORMS OF TAXES AND FOR OTHER PURPOSES
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:

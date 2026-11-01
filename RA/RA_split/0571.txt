@@ -1,0 +1,138 @@
+
+ **Section 2.** The sum of two hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the expenses of the said school during the fiscal year ending June thirty, nineteen hundred and sixty, including the purchase of a suitable school site. In the succeeding years the operating expenses thereof shall be included in the annual General Appropriation Acts.
+
+ **Section 3.** This Act shall take effect upon the date the funds authorized herein to be appropriated shall have been provided for.
+
+ Approved: June 21, 1959.
+"	success	Act	This law appropriates P200,000 for the operation and maintenance of the Aparri Vocational High School during fiscal year 1960 and allows for future appropriations in subsequent years.	"[{""title"": ""Section 1."", ""summary"": ""Authorizes the appropriation of P200,000 from the National Treasury for the operation and maintenance of the Aparri Vocational High School during fiscal year 1960; any necessary additional funds for subsequent years will be included in the annual General Appropriation Acts.""}, {""title"": ""Section 2."", ""summary"": ""The act takes effect upon the date the authorized funds are provided for.""}]"	2414	June 21, 1959			To authorize the appropriation of funds for the operation and maintenance of the Aparri Vocational High School and to ensure continued funding in subsequent years.	"[""Appropriation of P200,000 for Aparri Vocational High School operation and maintenance"", ""Funds for subsequent years to be included in General Appropriation Acts"", ""Act effective upon provision of authorized funds""]"		"[""Appropriation"", ""Education"", ""Vocational"", ""School"", ""Funding""]"	"[""Aparri Vocational High School"", ""two hundred thousand pesos"", ""appropriation"", ""operation"", ""maintenance"", ""fiscal year 1960""]"
+repacts:datasets/markdown/repacts/1959/ra_2429_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2429_1959.md	ra_2429_1959	An Act to Establish in the Barrio of La Granja, Municipality of La Carlota, Province of Negros Occidental, a Branch of the College of Agriculture of the University of the Philippines, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 2429**
+
+ **An Act Establishing a Marine Fisheries Laboratory at Guiuan, Samar, Authorizing the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established and maintained under the supervision of the Director of Fisheries a marine fisheries laboratory in the Municipality of Guiuan, Province of Samar.
+
+ **Section 2.** The sum of three hundred fifty thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, to carry into effect the purposes of this Act during the fiscal year ending June thirtieth, nineteen hundred and fifty-nine. Thereafter, the necessary amount for the purpose shall be included in the General Appropriation Act of each year.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	Establishes a branch of the College of Agriculture of the University of the Philippines in La Granja, Negros Occidental, and appropriates one million pesos for its operation.	"[{""title"": ""Section 1. "", ""summary"": ""Establishes the branch of the College of Agriculture and outlines its course offerings.""}, {""title"": ""Section 2. "", ""summary"": ""Describes the appointment of branch personnel as staff members of the university and specifies salary payment from the branch budget.""}, {""title"": ""Section 3. "", ""summary"": ""Appropriates one million pesos from the National Treasury for the Act's provisions.""}, {""title"": ""Section 4. "", ""summary"": ""Specifies that the Act takes effect upon the availability of the appropriated funds.""}]"	2415	June 21, 1959			To establish a university branch in Negros Occidental and allocate necessary funding for its operations.	"[""Establishment of a branch of the College of Agriculture of the University of the Philippines."", ""Appointment and salary arrangement for branch personnel."", ""Appropriation of one million pesos from the National Treasury."", ""Effective date upon appropriation of funds.""]"		"[""Education"", ""Higher Education"", ""University"", ""Agriculture"", ""Negros Occidental""]"	"[""College of Agriculture"", ""University of the Philippines"", ""La Granja"", ""Negros Occidental"", ""appropriation"", ""funds"", ""branch"", ""education""]"
+repacts:datasets/markdown/repacts/1959/ra_2430_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2430_1959.md	ra_2430_1959	An Act Converting the Bulacan National Agricultural High School into a National Agricultural School to be Known as the Bulacan National Agricultural School, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 2430**
+
+ **An Act to Maintain a National Agricultural High School in the Municipality of Sta. Maria, Province of Pangasinan, to be Known as Eastern Pangasinan Agricultural High School, and to Authorize the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The Bureau of Public Schools shall maintain a national agricultural school of secondary level to be known as Eastern Pangasinan Agricultural High School in the Municipality of Sta. Maria, Province of Pangasinan.
+
+ **Section 2.** The Director of Public Schools is authorized to locate and acquire a suitable site for the school, which may be public or private lands situated in the said Municipality of Sta. Maria.
+
+ **Section 3.** The sum of two hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of the school during the first year of its operation, including the acquisition of the site of the school.
+
+ **Section 4.** This Act shall take effect upon the date the funds authorized herein to be appropriated shall have been provided for.
+
+ Approved: June 21, 1959.
+"	success	Education	This act converts the Bulacan National Agricultural High School into a national agricultural school, authorizes the Secretary of Education to reorganize it, transfers its assets and personnel, and appropriates funds for its operation and maintenance.	"[{""title"": ""Section 1"", ""summary"": ""Converts the Bulacan National Agricultural High School into a national agricultural school, authorizing the Secretary of Education to reorganize it, and transferring assets, liabilities, personnel, equipment, and records to the new school.""}, {""title"": ""Section 2"", ""summary"": ""Appropriates one hundred thousand pesos for operation and maintenance for fiscal years 1959-1960, with future sums to be included in annual General Appropriation Acts.""}, {""title"": ""Section 3"", ""summary"": ""Act takes effect upon provision of authorized funds.""}]"	2416	June 21, 1959			To convert the Bulacan National Agricultural High School into a national agricultural school and authorize appropriation of funds for its operation.	"[""Conversion of the school into a national agricultural school"", ""Appropriation of one hundred thousand pesos for operation and maintenance"", ""Effective date upon provision of funds""]"		"[""Education"", ""Agriculture"", ""Bulacan"", ""Appropriation"", ""School""]"	"[""Bulacan National Agricultural School"", ""Bulacan National Agricultural High School"", ""appropriation"", ""funds"", ""conversion"", ""education"", ""school"", ""National Agricultural College""]"
+repacts:datasets/markdown/repacts/1959/ra_2431_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2431_1959.md	ra_2431_1959	REPUBLIC ACT No. 2417	"**REPUBLIC ACT No. 2431**
+
+ **An Act to Convert the Mampising National Agricultural High School in the Municipality of Mabini, Province of Davao, into a National Regional Agricultural School of the Camarines Sur National Regional Agricultural School Type, to be Known as the Davao National Regional Agricultural School, Authorizing the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The Mampising National Agricultural High School in the Municipality of Mabini, Province of Davao, is hereby converted into a national regional agricultural school of the Camarines Sur National Regional Agricultural School type, to be known as the Davao National Regional Agricultural School. The supervision and administration of the existing Davao National Agricultural School located in the Municipality of Saug, Province of Davao, which shall be a branch of the Davao National Regional Agricultural School, shall be under the superintendent of the latter school.
+
+ **Section 2.** The Director of Public Schools, subject to the approval of the Secretary of Education, is hereby authorized to reorganize the existing Mampising National Agricultural High School and the Davao National Agricultural School to implement the provision of section one above.
+
+ **Section 3.** The sum of one hundred fifty thousand pesos, in addition to the national allotments now being received by the Mampising National Agricultural High School and the Davao National Agricultural School, is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of said school including the Davao National Agricultural School for the fiscal year nineteen hundred sixty. Thereafter, the necessary sum for the said purpose shall be included in the annual General Appropriation Acts.
+
+ **Section 4.** This Act shall take effect upon the date the funds authorized herein to be appropriated shall have been provided for.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	An act amending the title and Section One of Republic Act No. 1952 to reflect the establishment of the Roxas Memorial School of Arts and Trades in Kalibo, Aklan, and authorizing the appropriation of funds for the school.	"[{""title"": ""Section 1"", ""summary"": ""Amends the title of RA 1952 to read: \""An Act to establish the Roxas Memorial School of Arts and Trades in the Municipality of Kalibo, Province of Aklan, and to authorize the appropriation of funds therefor.\""""}, {""title"": ""Section 2"", ""summary"": ""Amends Section 1 of RA 1952 to authorize the Director of Public Schools to establish the Roxas Memorial School of Arts and Trades in Kalibo, Aklan, and empowers the Secretary of Education to organize the school and issue necessary rules and regulations for its operation.""}, {""title"": ""Section 3"", ""summary"": ""The act shall take effect upon its approval.""}]"	2417	June 21, 1959			To amend RA 1952 to update the title and Section 1 for the establishment of the Roxas Memorial School of Arts and Trades in Kalibo, Aklan, and to authorize appropriation of funds for the school.	"[""Amendment of the title of RA 1952"", ""Amendment of Section 1 to authorize establishment of Roxas Memorial School of Arts and Trades"", ""Authorization of appropriations for the school"", ""Effectivity upon approval""]"	Republic Act No. 1952	"[""Education"", ""School"", ""Arts and Trades"", ""Aklan"", ""Kalibo"", ""Roxas Memorial School""]"	"[""Roxas Memorial School"", ""Arts and Trades"", ""Kalibo"", ""Aklan"", ""Public School"", ""Education"", ""Appropriations""]"
+repacts:datasets/markdown/repacts/1959/ra_2432_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2432_1959.md	ra_2432_1959	An Act Creating the Municipality of Quezon in the Province of Isabela	"**REPUBLIC ACT No. 2432**
+
+ **An Act Converting the Nayon Primary School in the Municipality of Kiangan, Mountain Province, into a Pilot Opportunity School of Agriculture, and Authorizing the Appropriation of the Necessary Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The Nayon Primary School in the Municipality of Kiangan, Mountain Province, is hereby converted into a pilot opportunity school of agriculture to be known as the Ifugao Pilot Opportunity School of Agriculture. It shall teach practical scientific farming to youth and adult alike. The Secretary of Education is hereby empowered to organize the said school accordingly.
+
+ Upon the organization of the said school, the assets, liabilities, personnel, equipment and records of the Nayon Primary School shall be transferred to the former.
+
+ **Section 2.** The sum of one hundred fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of the said school for the year nineteen hundred fifty-nine to nineteen hundred sixty, thereafter, the necessary sum for the operation thereof shall be included in the annual General Appropriation Acts.
+
+ **Section 3.** This Act shall take effect upon the date the funds authorized herein to be appropriated shall have been provided for.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	An act establishing the Municipality of Quezon in Isabela province by separating specified barrios and sitios from the Municipality of Malig and providing for its governance.	"[{""title"": ""Section 1."", ""summary"": ""The barrios and sitios of Minagbag, Settlement No. I, Malalao, Estrada, Pasurong, Cauayan, PODCO, Abut, Lepanto, Manga, Barucboc Norte, Turod and Maragato are hereby separated from the Municipality of Malig, Province of Isabela, and constituted into a new municipality in the same province to be known as the Municipality of Quezon, with the seat of government at the site of the present Barrio Settlement No. I.""}, {""title"": ""Section 2."", ""summary"": ""The first mayor, vice\u2011mayor and councilors of the new municipality shall be appointed by the President of the Philippines, with the consent of the Commission on Appointments, and shall hold office until their successors shall have been elected and shall have qualified.""}, {""title"": ""Section 3."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2418	June 21, 1959			Creation of a new municipality in Isabela province.	"[""Separation of specific barrios and sitios from the Municipality of Malig"", ""Constitution of the Municipality of Quezon"", ""Appointment of its first mayor, vice\u2011mayor and councilors by the President with Senate approval"", ""Effectivity upon approval""]"		"[""municipality"", ""local government"", ""Isabela""]"	"[""Quezon"", ""Isabela"", ""municipality"", ""creation"", ""Republic Act 2418""]"
+repacts:datasets/markdown/repacts/1959/ra_2433_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2433_1959.md	ra_2433_1959	An Act to Establish a Breeding Station in the Municipality of Murcia, Province of Negros Occidental	"**REPUBLIC ACT No. 2433**
+
+ **An Act to Convert the Balangiga Junior High School in the Municipality of Balangiga, Province of Samar, into a Rural High School to be Known as the Balangiga Rural High School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The Balangiga Junior High School in the Municipality of Balangiga, Province of Samar, is hereby converted into a rural high school to be known as the Balangiga Rural High School, The Director of Public Schools, subject to the approval of the Secretary of Education, is hereby empowered to reorganize said school accordingly.
+
+ **Section 2.** The sum of one hundred fifty thousand pesos, in addition to what the school is now receiving, is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of the said school during the school year nineteen hundred and fifty-nine to nineteen hundred and sixty. Thereafter, the amount shall be included in the annual General Appropriation Acts.
+
+ **Section 3.** This Act shall take effect upon the date the funds authorized herein to be appropriated shall have been provided for.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	An act establishing a breeding station in Murcia, Negros Occidental, authorizing funds and appointing personnel under the supervision of the Director of Animal Industry.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of a breeding station in Murcia, Negros Occidental under the supervision of the Director of Animal Industry.""}, {""title"": ""Section 2."", ""summary"": ""The Director of Animal Industry shall appoint necessary personnel to carry out the purposes of the Act.""}, {""title"": ""Section 3."", ""summary"": ""Authorization of thirty thousand pesos for the establishment, operation, and maintenance of the station for the fiscal year ending June 30, 1960.""}, {""title"": ""Section 4."", ""summary"": ""The Act shall take effect upon the provision of the authorized funds.""}]"	2419	June 21, 1959			To establish and support a breeding station for animal industry development in Negros Occidental.	"[""Establishment of breeding station"", ""Appointment of personnel"", ""Authorization of funds"", ""Effective date upon fund provision""]"		"[""Agriculture"", ""Animal Industry"", ""Breeding Station""]"	"[""breeding station"", ""Murcia"", ""Negros Occidental"", ""Animal Industry"", ""appropriation""]"
+repacts:datasets/markdown/repacts/1959/ra_2434_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2434_1959.md	ra_2434_1959	An Act to Amend Item (r), Page 77, Group II, Subparagraph (25), for the Province of Laguna, Paragraph f, Section Two of Republic Act Numbered Fourteen Hundred Eleven	"**REPUBLIC ACT No. 2434**
+
+ **An Act to Establish a National Regional Agricultural School in the Municipality of Borongan, Province of Samar, to be Known as the Eastern Samar, National Regional Agricultural School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the direct supervision of the Director of Public Schools, a national regional agricultural school of the Negros Occidental National Agricultural School type in the Municipality of Borongan, Province of Samar, at a suitable site to be selected by said Director, to be known as the Eastern Samar National Regional Agricultural School.
+
+ **Section 2.** Upon the recommendation of the Director of Public Schools, the President shall set aside and reserve such portion of the public lands located within the Municipality of Borongan of said province, as may be necessary and convenient for the establishment of the said school and its farm site.
+
+ **Section 3.** The sum of three hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of the said school during the fiscal year ending June thirty, nineteen hundred sixty. Such sums as may be necessary for its operation and maintenance in subsequent years shall be included in the annual General Appropriation Acts.
+
+ **Section 4. Thi**s Act shall take effect upon the date the funds authorized herein to be appropriated shall have been provided for.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	Amends Republic Act 1411 by adding a provision for the Majayjay Slaughterhouse repair and improvement in Laguna.	"[{""title"": ""Section 1"", ""summary"": ""Amends Item (r) of Republic Act 1411 to include \""Majayjay Slaughterhouse Repair and improvement \u20b13,000.00\"".""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	2420	June 21, 1959			To amend Republic Act 1411 by adding a provision for the Majayjay Slaughterhouse repair and improvement in Laguna.	"[""(r) Majayjay Slaughterhouse Repair and improvement \u20b13,000.00""]"	Republic Act 1411	"[""Amendment"", ""Laguna"", ""Slaughterhouse""]"	"[""Majayjay Slaughterhouse"", ""Repair"", ""Improvement"", ""Laguna"", ""Republic Act 1411""]"
+repacts:datasets/markdown/repacts/1959/ra_2435_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2435_1959.md	ra_2435_1959	An Act Converting the Biliran High School in the Municipality of Biliran, Province of Leyte into a Rural High School and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 2435**
+
+ **An Act to Convert the Samar Provincial Trade School into a National School of Arts and Trades and to Authorize the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The Samar Provincial Trade School in the Municipality of Catbalogan, Province of Samar, is hereby converted into a national school of arts and trades to be known as the Samar National School of Arts and Trades. The Secretary of Education is hereby empowered to reorganize said school accordingly.
+
+ **Section 2.** The sum of two hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, to carry out the provisions of this Act during the fiscal year nineteen hundred sixty. Thereafter, such sums as may be necessary for the same purpose shall be included in the annual General Appropriation Acts.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Education	This act converts Biliran High School into Biliran Rural High School and authorizes the appropriation of funds for its operation and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""The Biliran High School is converted into Biliran Rural High School and the Secretary of Education is empowered to reorganize the school.""}, {""title"": ""Section 2."", ""summary"": ""Authorizes the appropriation of two hundred thousand pesos for the operation and maintenance of the school for FY 1960 and future years.""}, {""title"": ""Section 3."", ""summary"": ""The act takes effect when the authorized funds have been provided for.""}]"	2421	June 21, 1959			To convert Biliran High School into a rural high school and authorize its funding.	"[""Conversion of Biliran High School to Biliran Rural High School"", ""Authorization of 200,000 pesos appropriation for FY 1960"", ""Effectivity upon availability of funds""]"		"[""Education"", ""Rural High School"", ""Funding""]"	"[""Biliran"", ""High School"", ""Rural"", ""Appropriation"", ""Education""]"
+repacts:datasets/markdown/repacts/1959/ra_2436_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2436_1959.md	ra_2436_1959	An Act to Convert the Indang Rural High School in the Province of Cavite to a National Agricultural High School of the Santa Maria Agricultural School Type to be Known as the Don Severino National Agricultural School, and to Authorize the Appropriation of Funds for the Purpose	"**REPUBLIC ACT No. 2436**
+
+ **An Act Providing for the Maintenance and Operation of a National Vocational High School in the Municipality of Dapitan, Province of Zamboanga del Norte to be Known as the Rizal Memorial National Vocational High School and Authorizing the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be, under the direct supervision of the Director of Public Schools, a national vocational school in the Municipality of Dapitan Province of Zamboanga del Norte, to be known as the Rizal Memorial National Vocational High School.
+
+ **Section 2.** The sum of two hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of the said school for the fiscal year nineteen hundred sixty. Thereafter, the necessary appropriation for its operation shall be included in the annual General Appropriation Acts.
+
+ **Section 3.** This Act shall take effect upon the date the funds authorized herein to be appropriated shall have been provided for.
+
+ Approved: June 21, 1959.
+"	success	Education	This act converts Indang Rural High School into a National Agricultural High School named Don Severino National Agricultural School and authorizes fund appropriation for its operation.	"[{""title"": ""Section 1."", ""summary"": ""The Indang Rural High School is converted to a national agricultural school of the Santa Maria Agricultural School type to be known as Don Severino National Agricultural School, and the Secretary of Education is empowered to reorganize it.""}, {""title"": ""Section 2."", ""summary"": ""Authorizes appropriation of two hundred thousand pesos from the National Treasury for the operation and maintenance of the school for the school years 1959-1960, and subsequent inclusion in the annual General Appropriation Acts.""}, {""title"": ""Section 3."", ""summary"": ""The act shall take effect upon its approval.""}]"	REPUBLIC ACT No. 2422	June 21, 1959			Convert a rural high school into a national agricultural high school and authorize its funding.	"[""Conversion of Indang Rural High School to Don Severino National Agricultural School"", ""Authorization of appropriation of 200,000 pesos for operation and maintenance"", ""Effectivity of the act upon approval""]"		"[""Education"", ""Agricultural School"", ""Indang"", ""Cavite"", ""Republic Act""]"	"[""Indang Rural High School"", ""Don Severino National Agricultural School"", ""National Agricultural High School"", ""appropriation"", ""National Treasury""]"
+repacts:datasets/markdown/repacts/1959/ra_2437_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2437_1959.md	ra_2437_1959	An Act Converting the Larena Sub-Provincial High School in the Municipality of Larena, Province of Negros Oriental, into a National Vocational School to be Known as the Larena National Vocational School, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 2437**
+
+ **An Act Converting the Gonzaga High School in the Province of Cagayan into a National Rural High School of the Alcala Rural High School Type to be Known as the Gonzaga National Rural High School and Authorizing the Appropriation of the Sum of Seventy-Five Thousand Pesos for the Purpose**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The Gonzaga High School in the Municipality of Gonzaga, Province of Cagayan, is hereby converted into a national rural high school of the Alcala Rural High School type to be known as the Gonzaga National Rural High School. The Secretary of Education is hereby empowered to reorganize the said school accordingly.
+
+ Upon the organization of the Gonzaga National Rural High School, the assets, liabilities, equipment and record of the Gonzaga High School shall be transferred to the Gonzaga National Rural High School .
+
+ **Section 2.** The sum of seventy-five thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of the Gonzaga National Rural High School for the first year nineteen hundred fifty-nine to nineteen hundred sixty. Thereafter, the necessary sum for the operation of the said school shall be included in the annual General Appropriation Act.

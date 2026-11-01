@@ -1,0 +1,200 @@
+repacts:datasets/markdown/repacts/2025/ra_12280_2025.md	repacts	2025		datasets/markdown/repacts/2025/ra_12280_2025.md	ra_12280_2025	AN ACT CREATING A BARANGAY IN THE CITY OF SAN FERNANDO, PROVINCE OF PAMPANGA, TO BE KNOWN AS BARANGAY PULUNG BULU	"[ REPUBLIC ACT NO. 12280, September 07, 2025 ]
+
+ AN ACT CREATING A BARANGAY IN THE CITY OF SAN FERNANDO, PROVINCE OF PAMPANGA, TO BE KNOWN AS BARANGAY PULUNG BULU
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Creation of Barangay Pulung Bulu. - There is hereby created a barangay in the City of San Fernando, Province of Pampanga, to be known as Barangay Pulung Bulu.
+
+ **Section 2.** Territorial Boundaries. - The territorial boundaries of Barangay Pulung Bulu are hereby described as follows:
+
+ Boundaries:
+
+ | Line | Direction | Adjoining Lots/Features |
+| --- | --- | --- |
+| 62 to 92-1 to 11 | N, NW & SE | Barangay of Malino, Cad. 71, San Fernando Cadastre |
+| 10 to 20 | NE & SE | Barangay of Panipuan, Cad. 71, San Fernando Cadastre |
+| 20 to 33 | SW & SE | Barangay of Baliti, Cad. 71, San Fernando Cadastre |
+| 33 to 53 | SW & E | Barangay of Relebastagan, Cad. 71, San Fernando Cadastre |
+| 53 to 62 | NE | Cad. 94, Angeles Cadastre |
+
+ Tie Line: N. 36 deg. 04' W., 13,407.1353 m. from BLLM No. 1-A, Cad. 71, San Fernando Cadastre:
+
+ Lot Description:
+
+ | Line | Bearing | Distance |
+| --- | --- | --- |
+| 1 - 2 | S. 26 deg. 32' W. | 315.06 m. |
+| 2 - 3 | S. 59 deg. 18' E. | 207.39 m. |
+| 3 - 4 | S. 14 deg. 43' W. | 157.79 m. |
+| 4 - 5 | S. 68 deg. 55' E. | 197.79 m. |
+| 5 - 6 | S. 64 deg. 19' E. | 28.35 m. |
+| 6 - 7 | S. 22 deg. 18' W. | 63.87 m. |
+| 7 - 8 | S. 72 deg. 10' E. | 65.25 m. |
+| 8 - 9 | S. 88 deg. 20' E. | 11.12 m. |
+| 9 - 10 | S. 50 deg. 24' E. | 2.33 m. |
+| 10 - 11 | N. 50 deg. 24' W. | 2.33 m. |
+| 11 - 12 | S. 75 deg. 01' E. | 134.23 m. |
+| 12 - 13 | S. 35 deg. 54' W. | 157.83 m. |
+| 13 - 14 | S. 50 deg. 04' E. | 66.64 m. |
+| 14 - 15 | S. 52 deg. 49' E. | 254.73 m. |
+| 15 - 16 | S. 28 deg. 59' W. | 32.33 m. |
+| 16 - 17 | S. 39 deg. 37' W. | 268.77 m. |
+| 17 - 18 | S. 39 deg. 47' E. | 24.83 m. |
+| 18 - 19 | S. 39 deg. 36' E. | 3.43 m. |
+| 19 - 20 | N. 39 deg. 36' W. | 3.43 m. |
+| 20 - 21 | N. 60 deg. 06' W. | 45.76 m. |
+| 21 - 22 | N. 54 deg. 35' W. | 75.75 m. |
+| 22 - 23 | N. 07 deg. 55' W. | 12.73 m. |
+| 23 - 24 | N. 49 deg. 14' W. | 156.16 m. |
+| 24 - 25 | S. 61 deg. 16' W. | 12.73 m. |
+| 25 - 26 | N. 48 deg. 35' W. | 141.31 m. |
+| 26 - 27 | N. 48 deg. 06' W. | 91.81 m. |
+| 27 - 28 | S. 35 deg. 41' W. | 6.18 m. |
+| 28 - 29 | S. 44 deg. 34' W. | 18.81 m. |
+| 29 - 30 | N. 49 deg. 08' W. | 6.87 m. |
+| 30 - 31 | S. 44 deg. 13' W. | 327.71 m. |
+| 31 - 32 | S. 26 deg. 19' E. | 3.23 m. |
+| 32 - 33 | N. 26 deg. 19' W. | 3.23 m. |
+| 33 - 34 | N. 42 deg. 23' W. | 193.16 m. |
+| 34 - 35 | N. 44 deg. 20' W. | 162.34 m. |
+| 35 - 36 | N. 43 deg. 55' W. | 66.31 m. |
+| 36 - 37 | S. 51 deg. 11' W. | 28.56 m. |
+| 37 - 38 | N. 46 deg. 35' W. | 23.13 m. |
+| 38 - 39 | N. 43 deg. 36' W. | 156.88 m. |
+| 39 - 40 | N 30 deg. 29' W. | 27.33 m. |
+| 40 - 41 | N. 33 deg. 01' W. | 67.80 m. |
+| 41 - 42 | N. 35 deg. 09' W. | 130.61 m. |
+| 42 - 43 | N. 36 deg. 22' W. | 311.23 m. |
+| 43 - 44 | S. 35 deg. 21' W. | 141.23 m. |
+| 44 - 45 | N. 53 deg. 46' W. | 120.36 m. |
+| 45 - 46 | N. 52 deg. 24' W. | 105.04 m. |
+| 46 - 47 | N. 54 deg. 54' W. | 272.90 m. |
+| 47 - 48 | N. 56 deg. 34' W. | 34.51 m. |
+| 48 - 49 | N. 54 deg. 10' W. | 202.94 m. |
+| 49 - 50 | N. 54 deg. 10' W. | 29.74 m. |
+| 50 - 51 | N. 54 deg. 10' W. | 27.36 m. |
+| 51 - 52 | S. 42 deg. 26' W. | 5.65 m. |
+| 52 - 53 | N. 42 deg. 26' E. | 5.65 m. |
+| 53 - 54 | N 52 deg. 10' E. | 99.75 m. |
+| 54 - 55 | N. 52 deg. 10' E. | 411.05 m. |
+| 55 - 56 | N. 33 deg. 10' E. | 4.68 m. |
+| 56 - 57 | N. 52 deg. 11' E. | 25.93 m. |
+| 57 - 58 | N. 41 deg. 27' E. | 8.39 m. |
+| 58 - 59 | N. 52 deg. 10' E. | 204.03 m. |
+| 59 - 60 | N. 51 deg. 53' E. | 13.58 m. |
+| 60 - 61 | N. 53 deg. 50' E. | 176.94 m. |
+| 61 - 62 | N. 52 deg. 10' E. | 403.58 m. |
+| 62 - 63 | N. 54 deg. 23' E. | 23.14 m. |
+| 63 - 64 | S. 54 deg. 23' E. | 23.14 m. |
+| 64 - 65 | S. 12 deg. 40' E. | 11.72 m. |
+| 65 - 66 | S. 67 deg. 48' E. | 51.83 m. |
+| 66 - 67 | S. 03 deg. 30' W. | 22.48 m. |
+| 67 - 68 | S. 22 deg. 22' E. | 42.57 m. |
+| 68 - 69 | S. 61 deg. 29' E. | 18.77 m. |
+| 69 - 70 | N. 67 deg. 37' E. | 34.42 m. |
+| 70 - 71 | S. 71 deg. 16' E. | 54.04 m. |
+| 71 - 72 | N. 58 deg. 32' E. | 34.56 m. |
+| 72 - 73 | S. 73 deg. 34' E. | 6.07 m. |
+| 73 - 74 | S. 18 deg. 13' W. | 24.67 m. |
+| 74 - 75 | S. 45 deg. 41' E. | 48.70 m. |
+| 75 - 76 | S. 19 deg. 24' E. | 79.13 m. |
+| 76 - 77 | S. 30 deg. 34' E. | 60.32 m. |
+| 77 - 78 | S. 24 deg, 37' E. | 30.42 m. |
+| 78 - 79 | S. 17 deg. 18' E. | 60.26 m. |
+| 79 - 80 | S. 50 deg. 09' W. | 24.70 m. |
+| 80 - 81 | S. 37 deg. 19' E. | 77.35 m. |
+| 81 - 82 | N. 85 deg. 57' E. | 28.90 m. |
+| 82 - 83 | S. 63 deg.45' E. | 32.87 m. |
+| 83 - 84 | S. 03 deg. 31' E. | 18.55 m. |
+| 84 - 85 | S. 44 deg. 47' E. | 20.17 m. |
+| 85 - 86 | S. 80 deg. 50' E. | 58.90 m. |
+| 86 - 87 | S. 86 deg. 40' E. | 41.19 m. |
+| 87 - 88 | S. 86 deg. 38' E. | 11.77 m. |
+| 88 - 89 | S. 45 deg. 43' E. | 63.16 m. |
+| 89 - 90 | S. 27 deg. 38' W. | 0.03 m. |
+| 90 - 91 | S. 27 deg. 37' W. | 146.10 m. |
+| 91 - 92 | S. 53 deg. 02' E. | 123.62 m. |
+| 91 - 1 | S. 58 deg. 32' E. | 98.29 m. |
+
+ Area: Two million thirty-four thousand seven hundred twenty (2,034,620) square meters more or less.
+
+ Description of corners: All points referred to on plan and marked on the ground as follows: Pts. 1 to 9=Pls. Cyl. Con. Mons 15x60 cm., pt. 10=BBM No. 68, pts. 11 to 18=Pls. Cyl. Con. Mons. 15x60 cm., pt.19=BBM No. 64, pts. 20 to 31=Pls. Cyl. Con. Mons 15x60 cm., pt. 32=BBM No. 70, pts. 33 to 51=Pls. Cyl. Con. Mons. 15x60 cm., pt. 52=CBM o. 8, pts. 53 to 62=Pls. Cyl. Con. Mons. 15x 60 cm., pt.63=CBM No. 9 and pts. 64 to 92=Pls. Cyl. Con. Mons. 15x60 cm.
+
+ **Section 3.** Conduct and Supervision of Plebiscite. - The plebiscite conducted and supervised by the Commission on Elections pursuant to Sangguniang Panlalawigan Ordinance No. 2002-010 dated September 25, 2002, which was duly ratified and proclaimed by the Plebiscite Board of Canvassers on February 4, 2003, shall serve as substantial compliance with the plebiscite requirement under Section 10 of Republic Act No. 7160, as amended, otherwise known as the Local Government Code of 1991.
+
+ **Section 4.** Incumbent Barangay Officials. - The incumbent elected barangay officials of Barangay Pulung Bulu shall continue to hold office until such time that their successors have been duly elected and qualified.
+
+ **Section 5.** Public Infrastructure and Facilities. - All public infrastructure and facilities existing therein at the time of the approval of this Act are hereby transferred without cost or compensation to and shall be administered by the new barangay.
+
+ **Section 6.** National Tax Allotment Shares. - Barangay Pulung Bulu shall be entitled to National Tax Allotment shares pursuant to Section 285 of the Local Government Code of 1991, as amended.
+
+ **Section 7.** Repealing Clause. - All laws, decrees, executive orders, rules and regulations which are inconsistent with this Act are hereby repealed or modified accordingly.
+
+ **Section 8.** Effectivity. - This Act shall take effect after fifteen (15) days after its publication in the Official Gazette or in a national newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate | (SGD.) **FERDINAND MARTIN G. ROMUALDEZ** Speaker of the House of Representatives |
+
+ This Act, which is originated in the House of Representatives, was passed by the House of Representatives on November 28, 2022, amended by the Senate of the Philippines on June 9, 2025, and which amendments were concurred in by the House of Representatives on June 10, 2025.
+
+ | (SGD.) **RENATO N. BANTUG, JR.** Secretary of the Senate | (SGD.) **REGINALD S. VELASCO** Secretary General House of Representatives |
+
+ Approved: Lapsed into law on SEP 07 2025 without the signature of the President, in accordance with Article VI, Section 27(1) of the Constitution.
+
+ **FERDINAND ROMUALDEZ MARCOS JR.** President of the Philippines
+"	success	Republic Act	Creation of Barangay Pulung Bulu in San Fernando, Pampanga.	"[{""title"": ""Section 1. Creation of Barangay Pulung Bulu"", ""summary"": ""Barangay Pulung Bulu is created in the City of San Fernando, Province of Pampanga.""}, {""title"": ""Section 2. Territorial Boundaries"", ""summary"": ""Defines the territorial boundaries and area of Barangay Pulung Bulu.""}, {""title"": ""Section 3. Conduct and Supervision of Plebiscite"", ""summary"": ""Plebiscite conducted and supervised by the Commission on Elections per Sangguniang Panlalawigan Ordinance No. 2002-010.""}]"	REPUBLIC ACT NO. 12280	September 07, 2025			Establish a new barangay in San Fernando, Pampanga.	"[""Creation of Barangay Pulung Bulu"", ""Territorial boundaries defined"", ""Area specified as 2,034,620 square meters"", ""Plebiscite conducted by COMELEC per ordinance""]"		"[""Barangay"", ""San Fernando"", ""Pampanga"", ""Republic Act""]"	"[""Barangay Pulung Bulu"", ""territorial boundaries"", ""area"", ""plebiscite"", ""COMELEC"", ""Sangguniang Panlalawigan Ordinance 2002-010""]"
+repacts:datasets/markdown/repacts/2025/ra_12281_2025.md	repacts	2025		datasets/markdown/repacts/2025/ra_12281_2025.md	ra_12281_2025	An Act Renaming Barangay New Alabang Village in the City of Muntinlupa as Barangay Ayala Alabang	"[ REPUBLIC ACT NO. 12281, September 07, 2025 ]
+
+ AN ACT RENAMING BARANGAY NEW ALABANG VILLAGE IN THE CITY OF MUNTINLUPA AS BARANGAY AYALA ALABANG
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Barangay New Alabang Village in the City of Muntinlupa ishereby renamed as Barangay Ayala Alabang.
+
+ **Section 2.** The renaming of Barangat New Alabang Village as Barangay Ayala Alabang shall be effective upon ratification of the majority of the votes cast by qualified voters in a plebiscite to be conducted and supervised by the Commission on Elections in the present Barangay New Alabang Village within one hundred twenty (120) days after the effectivity of this Act.
+
+ The expenses for such plebiscite shall be borne by the City of Muntinlupa.
+
+ **Section 3.** This Act shall take effect after fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate | (SGD.) **FERDINAND MARTIN G. ROMUALDEZ** Speaker of the House of Representatives |
+
+ This Act, which originated in the House of Representatives, was passed by the House of Representatives and the Senate of the Philippines on January 22, 2025 and June 9, 2025, respectively.
+
+ | (SGD.) **RENATO N. BANTUG, JR.** Secretary of the Senate | (SGD.) **REGINALD S. VELASCO** Secretary General House of Representatives |
+
+ Approved: Lapsed into law on SEP 07 2025 without the signature of the President, in accordance with Article VI, Section 27(1) of the Constitution
+
+ **FERDINAND ROMUALDEZ MARCOS JR.** President of the Philippines
+"	success	Republic Act	This act renames Barangay New Alabang Village in Muntinlupa to Barangay Ayala Alabang, establishes a plebiscite for ratification, and sets effectivity provisions.	"[{""title"": ""Section 1"", ""summary"": ""Renames Barangay New Alabang Village as Barangay Ayala Alabang.""}, {""title"": ""Section 2"", ""summary"": ""Plebiscite shall be conducted within 120 days after effectivity of the Act, with expenses borne by the City of Muntinlupa.""}, {""title"": ""Section 3"", ""summary"": ""Act takes effect 15 days after publication in the Official Gazette or a newspaper of general circulation.""}]"	12281	September 07, 2025	"[{""name"": ""FRANCIS \""CHIZ\"" G. ESCUDERO"", ""title"": ""President of the Senate""}, {""name"": ""FERDINAND MARTIN G. ROMUALDEZ"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""RENATO N. BANTUG, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""REGINALD S. VELASCO"", ""title"": ""Secretary General House of Representatives""}]"	To rename Barangay New Alabang Village in the City of Muntinlupa to Barangay Ayala Alabang and establish procedures for its implementation.	"[""Renaming of Barangay New Alabang Village to Barangay Ayala Alabang"", ""Plebiscite requirement within 120 days of Act effectivity"", ""Act takes effect 15 days after publication""]"		"[""Renaming"", ""Barangay"", ""Muntinlupa"", ""Ayala Alabang""]"	"[""renaming"", ""barangay"", ""plebiscite"", ""effectivity"", ""Muntinlupa""]"
+repacts:datasets/markdown/repacts/2025/ra_12282_2025.md	repacts	2025		datasets/markdown/repacts/2025/ra_12282_2025.md	ra_12282_2025	AN ACT CONVERTING THE ZAMBOANGA DEL SUR SCHOOL OF ARTS AND TRADES IN BARANGAY KAWIT, PAGADIAN CITY, PROVINCE OF ZAMBANGA DEL SUR INTO A STATE COLLEGE TO BE KNOWN AS THE ZAMBOANGA DEL SUR POLYTECHNIC STATE COLLEGE AND APPROPRIATING FUNDS THEREFOR	"[ REPUBLIC ACT NO. 12282, September 07, 2025 ]
+
+ AN ACT CONVERTING THE ZAMBOANGA DEL SUR SCHOOL OF ARTS AND TRADES IN BARANGAY KAWIT, PAGADIAN CITY, PROVINCE OF ZAMBANGA DEL SUR INTO A STATE COLLEGE TO BE KNOWN AS THE ZAMBOANGA DEL SUR POLYTECHNIC STATE COLLEGE AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** *Short Title.* - This Act shall be known as the ""Zamboanga del Sur Polytechnic State College Charter"".
+
+ **Section 2.** *Conversion.* - The Zamboanga del Sur School of Arts and Trades (ZSSAT) located in Barangay Kawit, Pagadian City, Province of Zamboanga del Sur, is hereby converted into a state college to be known as the Zamboanga del Sur Polytechnic State College (ZSPSC).
+
+ **Section 3.** *General Mandate.* - The ZSPSC shall primarily provide advanced education, higher technological and professional courses, and training programs in engineering, education, arts and sciences, trades and the arts, vocational and technology courses, and other field of study. It shall promote research, extension and income-generating services, and production activities, and shall provide progressive leadership in its areas of specialization.
+
+ **Section 4.** *Curricular Offerings.* - The College shall offer short-term technical-vocational, undergraduate, and graduate courses, in the fields of engineering, education, agriculture, arts and sciences, trade and the arts, vocational and technology courses in welding technology, vocational technology, fishery technology, hotel and restaurant services, hotel and household services, baking technology, electronic services and repair, and other degree courses, as the Board of Trustees may deem necessary to carry out its objectives, and those which response to the human resources development needs of the Province of Zamboanga del Sur and the Zamboanga Peninsula: *Provided,* That the ZSPSC shall comply with the policies, standards, and guidelines of the Commission on Higher Education (CHED) for the offering of courses and the introduction of new or revised programs.
+
+ The ZSPSC may continue to operate a reasonably-sized laboratory junior and senior high school under the supervision of the College of Education of the ZSPSC to serve in-campus requirements of its students.
+
+ **Section 5.** *Administration.* - The ZSPSC shall have the general powers of a corporation set forth in Republic Act (RA) No. 11232, otherwise known as the ""Revised Corporation Code of the Philippines"". The administration of the ZSPSC and the exercise of its corporate powers shall be vested exclusively in the Board of Trustees and the President of the ZSPSC.
+
+ **Section 6.** *The Board of Trustees.* - The governing body of the ZSPSC shall be the Board of Trustees, hereinafter referred to as the Board, which shall be chaired and vice chaired by the Chairperson of the CHED and the President of the ZSPSC, respectively, and with the following, as members:
+
+ (a) Chairperson of the Committee on Higher, Technical and Vocational Education of the Senate; (b) Chairperson of the Committee on Higher and Technical Education of the House of Representatives; (c) Regional Director of the Department of Economy, Planning and Development (DEPDev); (d) Regional Director of the Department of Agriculture; (e) Regional Director of the Department of Science and Technology; (f) President of the federation of faculty associations of the ZSPSC; (g) President of the federation of student councils of the ZSPSC; (h) President of the federation of alumni associations of the ZSPSC; (i) Representatives of the nonteaching or personnel association of the ZSPSC; and (j) Two (2) prominent citizens from the private sector who have distinguished themselves in their professions or fields of specialization. The Board shall appoint two (2) prominent citizens who shall be selected from a list of at least five (5) qualified persons from the Province of Zamboanga del Sur, as recommended by a Search Committee constituted by the President of the ZSPSC, in consultation with the Chairperson of the CHED and other members of the Board, based on the standards and qualifications for the position set by the Board. They shall serve for a term of two (2) years from the date of appointment.
+
+ The President of the federation of faculty associations, the President of the federation of student councils, and the President of the federation of alumni associations, and the Representatives of the nonteaching personnel shall be coterminous with their terms of office, as provided under their respective constitutions and by laws.
+
+ **Section 7.** *Powers and Duties of the Board.* - In additional to its general powers of administration and the powers granted to the Board of Directors of a corporation under existing laws, the Board shall have the following specific powers and duties:
+
+ (a) Promulgate and implement policies in accordance with the declared State policies on education, other pertinent provisions of the Constitution on education, agriculture, science and technology, and the policies, standards and thrusts of the CHED under Republic Act No. 7722, otherwise known as the Higher Education Act of 1994, and also in accordance with the policies, standards and programs of the TESDA, under Republic Act No. 7796, otherwise known as the ""TESDA Act of 1994""; (b) Approve the curricula, instructional programs, and rules on student discipline drawn by the Administrative and Academic Councils as herein provided; (c) Appoint, upon the recommendation of the President of the ZSPSC, the vice presidents, chancellors, deans, directors, heads of the campuses, faculty members, and other officials of the ZSPSC; (d) Fix the tuition fees and other necessary school charges, such as matriculation fees, graduation fees, and laboratory fees, as the Board may deem proper to impose, after due consultation with the concerned sectors. The fees and charges, including govenrment subsidies and other income generated by the ZSPSC, shall constitute its funds to be used exclusively in the pursuit of its mandate as a state college, and shall be deposited in any authorized govenrment depository bank. All interests that shall accrue therefrom shall form part of the same funds for the use of the ZSPSC; The fees and charges collected by the ZSPSC, including govenrment subsidies and proceeds from other income sources, as well as interests that would accrue therefrom shall be retained by the College: *Provided,* That in no case shall the said income be used for the payment of allowances and other benefits not authorized by law: *Provided, further,* That all fiduciary fees shall be disbursed for the specific purposes for which they were collected. Notwithstanding any provision of law to the contrary, the Board may authorize, for such reasonable and legal purposes for which it deems necessary and urgent for the attainment of the objectives of the ZSPSC, the use of: (i) any unexpended balance whose fiduciary character has been ipso facto removed pursuant to the grant of subsidy under R No. 10931, otherwise known as the ""Universal Access to Quality Tertiary Education Act""; and/or (ii) any appropriation for any project under the duly approved program of expenditures of the ZSPSC, for reasons beyond its control, would not be able to pursue: *Provided,* That funds collected from student for specific purposes shall not be realigned or reprogrammed to other expenditures; (e) Adopt and implement a socialized scheme of tuition and other school fees for greater access of poor but deserving students in accordance with Republic Act No. 10931; (f) Establish professional chairs in the ZSPSC and provide fellowships for qualified faculty members, and scholarships to deserving students; (g) Receive appropriate sums as may be provided by law for the support of the ZSPSC, and all other sums in the manner it may, in its discretion, determine to carry out the purposes and functions of the ZSPSC; (h) Set the policies on admission and graduation of students; (i) Award honorary degrees upon persons in recognition of their outstanding contribution in the fields of education, public service, arts, science and technology, agriculture or any field of specialization within the academic competency of the ZSPSC, and authorize the awarding of certificates of completion of nondegree and nontraditional courses; (j) Develop academic arrangements for institutional capability building with appropriate institutions and agencies, whether public, private, local or foreign, and appoint experts or specialist as consultants, part-time, visiting or exchange professors, scholars or researchers, as the case may be; (k) Adopt modern and innovative modes of transferring knowledge to allow greater access to education such as the use of information technology, online programs, the dual training system, open distance learning, and community laboratory; (l) Absorb non-chartered tertiary institutions within the Province of Zamboanga del Sur and Zamboanga Peninsula as branches, extension or external centers, in coordination with the CHED and in consultation with the Department of Budget and Management (DBM), and offer therein programs or courses to carry out the constitutional mandate of providing equal access to educational opportunities; (m) Authorize an external management audit of the ZSPSC, to be financed by the CHED, subject to the rules and regulations of the Commission on Audit, and institute reforms, including academic and structural changes, on the basis of the audit results and recommendations; (n) Develop consortia and other economic forms of linkages with local government units, as well as public, private, local or foreign institutions and agencies, in the furtherance of the purposes and objectives of the ZSPSC; (o) Import books or publications, instruments, equipment, and apparatuses for economic, technical-vocational, scientific, medical, philosophical, historical, legal or cultural purposes; (p) Enter into joint ventures with business and industry, after consultation with the DEPDev, for the profitable development and management of economic assets, the proceeds of which shall be used for the development and strengthening of the ZSPSC; (q) Receive, in trust, legacies, gifts and donations of real and personal properties of all kinds and administer and dispose of the same, when necessary, for the benefit of the College and subject to the limitations, directions and instructions of the donor, if any; (r) Extend the term of the President of the ZSPSC beyond the age of retirement, but not beyond the age of seventy (70), based on the guidelines, qualifications and standards set by the Board: *Provided,* That the President's performance has been rated by the Board as outstanding and a unanimous recommendation for such extension has been decided upon by the Search Committee; (s) Delegate any of its powers and duties provided to the President and other officials of the ZSPSC, as it may deem appropriate, so as to expedite the administration of the affairs of the ZSPSC; (t) Establish policy guidelines and procedures for participative and transparent decision-making within the ZSPSC; (u) Where most advantageous to the ZSPSC, outsource the management of nonacademic services such as health, food, building, or grounds or property maintenance, and such other similar activities; (v) Authorize the construction or repair of its buildings, machinery, equipment and other facilities, and the purchase and acquisition of real property, including the necessary supplies, materials and equipment; and (w) Promulgate rules and regulations, as may be necessary, to carry out the purposes and functions of the ZSPSC. **Section 8.** *Meetings of the Board.* - The Board shall regularly convene once every three (3) months. The Chairperson of the Board may, however, call a special meeting whenever necessary: *Provided,* That members are notified in writing at least three (3) days prior to the conduct of said meeting.

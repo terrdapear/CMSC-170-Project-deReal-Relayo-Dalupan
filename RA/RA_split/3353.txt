@@ -1,0 +1,176 @@
+
+ **Section 7.** This Act shall effect fifteen (15) days after its publication in the Official Gazette or in any newspaper of general circulation.
+
+ Approved,
+
+ | (Sgd.) **VICENTE C. SOTTO III** President of the Senate | (Sgd.) **GLORIA MACAPAGAL-ARROYO** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate on November 28, 2017 and July 24, 2018, respectively.
+
+ | (Sgd.) **MYRA MARIE D. VILLARICA** Secretary of the Senate | (Sgd.) **CESAR STRAIT PAREJA** Secretary General House of Representatives |
+
+ Approved: SEP 28 2018
+
+ (Sgd.) **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	Increases the bed capacity of the Veterans Regional Hospital in Bayombong, Nueva Vizcaya from 200 to 500 beds, upgrades its services and facilities, changes its name to Region II Trauma and Medical Center, and appropriates funds for the expansion.	"[{""title"": ""Section 1"", ""summary"": ""Authorizes the bed capacity of the Veterans Regional Hospital to be increased from 200 to 500 beds.""}, {""title"": ""Section 2"", ""summary"": ""Changes the name of the Veterans Regional Hospital to Region II Trauma and Medical Center.""}, {""title"": ""Section 3"", ""summary"": ""Upgrades the existing facilities and professional health care services to match the increased bed capacity.""}, {""title"": ""Section 4"", ""summary"": ""Increases the workforce of the center by creating additional plantilla positions in coordination with relevant agencies.""}, {""title"": ""Section 5"", ""summary"": ""The bed capacity increase will be implemented for a period of not more than three years from the approval of the Act.""}, {""title"": ""Section 6"", ""summary"": ""The Secretary of Health shall include the implementation of the Act in the Department\u2019s program and appropriate funding in the annual General Appropriations Act.""}, {""title"": ""Section 7"", ""summary"": ""The Act shall take effect fifteen days after publication in the Official Gazette or a newspaper of general circulation.""}]"	11081	September 28, 2018	"[{""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}, {""name"": ""GLORIA MACAPAGAL-ARROYO"", ""title"": ""Speaker of the House of Representatives""}]"		Increase bed capacity and upgrade facilities of the Veterans Regional Hospital in Bayombong, Nueva Vizcaya.	"[""Increase bed capacity from 200 to 500 beds"", ""Change name to Region II Trauma and Medical Center"", ""Upgrade facilities and services"", ""Increase medical personnel"", ""Appropriating funds for expansion"", ""Implementation period of up to 3 years"", ""Secretary of Health to program implementation"", ""Effectivity 15 days after publication""]"		"[""Health"", ""Veterans"", ""Hospital"", ""Infrastructure"", ""Budget""]"	"[""bed capacity"", ""Veterans Regional Hospital"", ""Region II Trauma and Medical Center"", ""Nueva Vizcaya"", ""health care"", ""budget appropriation""]"
+repacts:datasets/markdown/repacts/2018/ra_11082_2018.md	repacts	2018		datasets/markdown/repacts/2018/ra_11082_2018.md	ra_11082_2018	AN ACT UPGRADING THE SOUTHERN ISABELA GENERAL HOSPITAL IN SANTIAGO CITY, PROVINCE OF ISABELA INTO A TERTIARY GENERAL HOSPITAL TO BE KNOWN AS THE SOUTHERN ISABELA MEDICAL CENTER AND APPROPRIATING FUNDS THEREFOR	"Seventeenth Congress Third Regular Session
+
+ **[ REPUBLIC ACT NO. 11082, September 28, 2018 ]**
+
+ AN ACT UPGRADING THE SOUTHERN ISABELA GENERAL HOSPITAL IN SANTIAGO CITY, PROVINCE OF ISABELA INTO A TERTIARY GENERAL HOSPITAL TO BE KNOWN AS THE SOUTHERN ISABELA MEDICAL CENTER AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Southern Isabela General Hospital in Santiago City, Province of Isabela, is hereby upgraded into a tertiary general hospital to be known as the Southern Isabela Medical Center (SIMC) which shall be under the direct technical and administrative supervision of the Department of Health (DOH).
+
+ **Section 2.** The authorized bed capacity of the SIMC is hereby increased from fifty (50) to three hundred fifty (350) beds.
+
+ The Secretary of the DOH shall implement the increase in bed capacity of the SIMC over a period of five (5) years from the approval of this Act.
+
+ **Section 3.** The existing service capability, professional health care services and health human resource of the SIMC shall be upgraded and increased to conform with and be commensurate to the increase in authorized bed capacity as herein provided.
+
+ The Secretary of the Department of Budget and Management (DBM) shall create regular plantilla positions for health personnel required of a medical center, in consultation with the DOH, with the corresponding increases in the maintenance and other operating expenses (MOOE) and personal services (PS) for the SIMC.
+
+ **Section 4.** The Secretary of Health shall immediately include in the Department's program the implementation of this Act, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 5.** Within ninety (90) days from the approval of this Act, the Secretary of the DOH, in consultation with the Secretary of the DBM, shall promulgate the necessary rules and regulations to implement the provisions of this Act.
+
+ **Section 6.** Republic Act No. 3138, establishing the Southern Isabela Emergency Hospital, and Republic Act No. 8338, upgrading it to Southern Isabela General Hospital, are hereby repealed. All other laws, decrees, orders, issuances, rules and regulations and parts thereof which are inconsistent with the provisions of this Act are hereby repealed, amended or modified accordingly.
+
+ **Section 7.** This Act shall effect fifteen (15) days after its publication in the Official Gazette or in any newspaper of general circulation.
+
+ Approved,
+
+ | (Sgd.) **VICENTE C. SOTTO III** President of the Senate | (Sgd.) **GLORIA MACAPAGAL-ARROYO** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate on August 9, 2017 and July 24, 2018, respectively.
+
+ | (Sgd.) **MYRA MARIE D. VILLARICA** Secretary of the Senate | (Sgd.) **CESAR STRAIT PAREJA** Secretary General House of Representatives |
+
+ Approved: SEP 28 2018
+
+ (Sgd.) **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	This Act upgrades the Southern Isabela General Hospital to a tertiary general hospital known as the Southern Isabela Medical Center (SIMC), increases its bed capacity from 50 to 350, expands its service and personnel capabilities, allocates necessary funding, mandates rule-making, repeals older related laws, and sets its effective date.	"[{""title"": ""Section 1."", ""summary"": ""Upgrades the Southern Isabela General Hospital to a tertiary general hospital known as the Southern Isabela Medical Center (SIMC) under the supervision of the Department of Health.""}, {""title"": ""Section 2."", ""summary"": ""Increases the authorized bed capacity of the SIMC from 50 to 350 beds, with implementation over five years.""}, {""title"": ""Section 3."", ""summary"": ""Enhances the existing service capability, professional health care services, and health human resources to match the increased bed capacity.""}, {""title"": ""Section 4."", ""summary"": ""Includes the implementation of this Act in the Department's program and ensures its funding is incorporated in the annual General Appropriations Act.""}, {""title"": ""Section 5."", ""summary"": ""Mandates the Secretary of DOH, in consultation with the Secretary of DBM, to promulgate necessary rules and regulations within 90 days.""}, {""title"": ""Section 6."", ""summary"": ""Repeals Republic Act No. 3138 and Republic Act No. 8338 and any other inconsistent laws, orders, or regulations.""}, {""title"": ""Section 7."", ""summary"": ""The Act takes effect 15 days after its publication in the Official Gazette or any newspaper of general circulation.""}]"	11082	September 28, 2018	"[{""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}, {""name"": ""GLORIA MACAPAGAL-ARROYO"", ""title"": ""Speaker of the House of Representatives""}]"		To upgrade Southern Isabela General Hospital into a tertiary general hospital, increase bed capacity, enhance services, and allocate necessary funds.	"[""Upgrades hospital to tertiary level and names it Southern Isabela Medical Center"", ""Increases bed capacity from 50 to 350 beds"", ""Expands service capability and personnel"", ""Allocates funding through General Appropriations Act"", ""Mandates rule-making within 90 days"", ""Repeals RA 3138 and RA 8338""]"	Republic Act No. 3138 and Republic Act No. 8338 are repealed	"[""Health"", ""Hospital"", ""Infrastructure"", ""Philippines"", ""Republic Act""]"	"[""Southern Isabela Medical Center"", ""bed capacity"", ""Department of Health"", ""Department of Budget and Management"", ""General Appropriations Act"", ""repealed"", ""Republic Act 11082""]"
+repacts:datasets/markdown/repacts/2018/ra_11083_2018.md	repacts	2018		datasets/markdown/repacts/2018/ra_11083_2018.md	ra_11083_2018	AN ACT UPGRADING THE SERVICES AND FACILITIES OF THE LA UNION MEDICAL CENTER IN THE MUNICIPALITY OF AGOO, PROVINCE OF LA UNION BY INCREASING ITS BED CAPACITY TO THREE HUNDRED (300) AND ESTABLISHING THE INCREASE OF ITS PERSONNEL, AND APPROPRIATING FUNDS THEREFOR	"Seventeenth Congress Third Regular Session
+
+ **[ REPUBLIC ACT NO. 11083, September 28, 2018 ]**
+
+ AN ACT UPGRADING THE SERVICES AND FACILITIES OF THE LA UNION MEDICAL CENTER IN THE MUNICIPALITY OF AGOO, PROVINCE OF LA UNION BY INCREASING ITS BED CAPACITY TO THREE HUNDRED (300) AND ESTABLISHING THE INCREASE OF ITS PERSONNEL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The services and facilities of the La Union Medical Center (LUMC) in the Municipality of Agoo, Province of La Union shall be upgraded and, accordingly, its bed capacity shall be increased from one hundred (100) to three hundred (300) beds, and a trauma center shall be established therein. The increase in bed capacity shall be done gradually over a three (3)-year period.
+
+ **Section 2.** The LUMC, through its Board of Trustees, is hereby authorized to increase and hire additional employees corresponding to the upgrading of its services and facilities and increase in bed capacity. The Chief of Hospital of the LUMC shall coordinate with the Department of Health,, the Department of Budget and Management and the Civil Service Commission for the efficient and effective implementation of this Act.
+
+ **Section 3.** The Provincial Government of La Union and the LUMC are hereby authorized to provide the funds from their respective budgets necessary for the implementation of this Act.
+
+ **Section 4.** The Secretary of Health, shall include in the Department's program the subsidy support for the capital outlay requirements of the said medical center.
+
+ **Section 5.** All laws, decrees, ordinances, rules and regulations, executive or administrative orders, and other presidential issuances inconsistent with this Act are hereby repealed, amended or modified accordingly.
+
+ **Section 6.** This Act shall effect fifteen (15) days after its publication in the Official Gazette or in any newspaper of general circulation.
+
+ Approved,
+
+ | (Sgd.) **VICENTE C. SOTTO III** President of the Senate | (Sgd.) **GLORIA MACAPAGAL-ARROYO** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate on September 25, 2017 and July 24, 2018, respectively.
+
+ | (Sgd.) **MYRA MARIE D. VILLARICA** Secretary of the Senate | (Sgd.) **CESAR STRAIT PAREJA** Secretary General House of Representatives |
+
+ Approved: SEP 28 2018
+
+ (Sgd.) **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	This Act upgrades the services and facilities of La Union Medical Center, increasing bed capacity to 300, establishing a trauma center, authorizing personnel increases, and appropriating funds for implementation.	"[{""title"": ""Section 1."", ""summary"": ""Upgrades services and facilities, increases bed capacity from 100 to 300 beds, establishes a trauma center, and mandates gradual implementation over three years.""}, {""title"": ""Section 2."", ""summary"": ""Authorizes LUMC to increase and hire additional employees, coordinating with the Department of Health, Department of Budget and Management, and Civil Service Commission.""}, {""title"": ""Section 3."", ""summary"": ""Authorizes the Provincial Government of La Union and LUMC to provide necessary funds from their respective budgets.""}, {""title"": ""Section 4."", ""summary"": ""Mandates the Secretary of Health to include subsidy support for the medical center\u2019s capital outlay in the department\u2019s program.""}, {""title"": ""Section 5."", ""summary"": ""Repeals, amends, or modifies any laws inconsistent with this Act.""}, {""title"": ""Section 6."", ""summary"": ""Effective fifteen days after publication in the Official Gazette or a general circulation newspaper.""}]"	11083	September 28, 2018	"[{""name"": ""Vicente C. Sotto III"", ""title"": ""President of the Senate""}, {""name"": ""Gloria Macapagal- Arroyo"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""Myra Marie D. Villarica"", ""title"": ""Secretary of the Senate""}, {""name"": ""Cesar Strait Pareja"", ""title"": ""Secretary General House of Representatives""}]"	To upgrade the services and facilities of La Union Medical Center, increase its bed capacity to 300, establish a trauma center, authorize personnel increases, and appropriate necessary funds for implementation.	"[""Increase bed capacity from 100 to 300 beds"", ""Establish a trauma center"", ""Authorize additional hiring and personnel increases"", ""Appropriate funds for implementation"", ""Include subsidy support in the Secretary of Health\u2019s program"", ""Repeal or amend inconsistent laws""]"		"[""Healthcare"", ""Medical Center"", ""Bed Capacity"", ""Trauma Center"", ""Philippines"", ""Republic Act""]"	"[""La Union Medical Center"", ""bed capacity"", ""trauma center"", ""personnel"", ""funding"", ""Republic Act 11083""]"
+repacts:datasets/markdown/repacts/2018/ra_11084_2018.md	repacts	2018		datasets/markdown/repacts/2018/ra_11084_2018.md	ra_11084_2018	AN ACT INCREASING THE BED CAPACITY OF THE BAGUIO GENERAL HOSPITAL AND MEDICAL CENTER FROM FIVE HUNDRED (500) TO EIGHT HUNDRED (800) BEDS AND APPROPRIATING FUNDS THEREFOR	"Seventeenth Congress Third Regular Session
+
+ **[ REPUBLIC ACT NO. 11084, September 26, 2018 ]**
+
+ AN ACT INCREASING THE BED CAPACITY OF THE BAGUIO GENERAL HOSPITAL AND MEDICAL CENTER FROM FIVE HUNDRED (500) TO EIGHT HUNDRED (800) BEDS AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The bed capacity of the Baguio General Hospital and Medical Center (BGHMC) in Baguio City is hereby increased from five hundred (500) to eight hundred (800).
+
+ **Section 2.** The existing service facilities and professional health care services are also hereby upgraded to conform with and be commensurate to the bed capacity increase as provided in Section 1 hereof.
+
+ **Section 3.** The existing workforce of the BGHMC shall also be correspondingly increased. The Department of Health, in coordination with the Department of Budget and Management and the Civil Service Commission, shall determine the additional plantilla positions to be created and filled up upon prior consultation with the BGHMC.
+
+ **Section 4.** The increase in bed capacity of the BGHMC from five hundred (500) to eight hundred (800) beds shall be implemented for a period of not more than three (3_ years from the approval of this Act.
+
+ **Section 5.** The Secretary of Health shall immediately include in the Department's program the implementation of this Act, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 6.** Republic Act No. 8634, otherwise known as ""An Act Increasing the Bed Capacity of the Baguio General Hospital and Medical Center, Located in Baguio City, from Four Hundred (400) to Five Hundred (500) Beds, Upgrading the Service Facilities and Professional Health Care Therein, and Appropriating Funds Therefor"", is hereby repealed.
+
+ **Section 7.** This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (Sgd.) **VICENTE C. SOTTO III** President of the Senate | (Sgd.) **GLORIA MACAPAGAL-ARROYO** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate on January 29, 2018 and July 24, 2018, respectively.
+
+ | (Sgd.) **MYRA MARIE D. VILLARICA** Secretary of the Senate | (Sgd.) **CESAR STRAIT PAREJA** Secretary General House of Representatives |
+
+ Approved: SEP 26 2018
+
+ (Sgd.) **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	This act increases the bed capacity of the Baguio General Hospital and Medical Center from 500 to 800 beds, upgrades service facilities, increases workforce, appropriates funds, repeals RA 8634, and sets implementation and effective dates.	"[{""title"": ""Section 1."", ""summary"": ""Increases the bed capacity of Baguio General Hospital and Medical Center from 500 to 800 beds.""}, {""title"": ""Section 2."", ""summary"": ""Upgrades existing service facilities and professional health care services to match the new bed capacity.""}, {""title"": ""Section 3."", ""summary"": ""Increases the workforce of BGHMC and coordinates with the Department of Health, Budget and Management, and Civil Service Commission to create additional plantilla positions.""}, {""title"": ""Section 4."", ""summary"": ""Implements the bed capacity increase for up to three years from the approval of this act.""}, {""title"": ""Section 5."", ""summary"": ""Includes the act in the Department of Health\u2019s program and appropriates funding in the annual General Appropriations Act.""}, {""title"": ""Section 6."", ""summary"": ""Repeals Republic Act No. 8634 regarding the previous bed capacity increase.""}, {""title"": ""Section 7."", ""summary"": ""Effective fifteen days after publication in the Official Gazette or a newspaper of general circulation.""}]"	11084	2018-09-26	"[{""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}, {""name"": ""GLORIA MACAPAGAL-ARROYO"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""MYRA MARIE D. VILLARICA"", ""title"": ""Secretary of the Senate""}, {""name"": ""CESAR STRAIT PAREJA"", ""title"": ""Secretary General House of Representatives""}]"	To increase bed capacity, upgrade facilities, expand workforce, and appropriately fund the Baguio General Hospital and Medical Center.	"[""Increase bed capacity from 500 to 800"", ""Upgrade service facilities"", ""Increase workforce"", ""Implementation period of up to three years"", ""Funding in General Appropriations Act"", ""Repeal of RA 8634"", ""Effective date fifteen days after publication""]"	Republic Act No. 8634	"[""Healthcare"", ""Hospital"", ""Bed Capacity"", ""Baguio"", ""Public Health""]"	"[""Bed capacity"", ""Baguio General Hospital"", ""Medical Center"", ""Health Services"", ""Appropriations""]"
+repacts:datasets/markdown/repacts/2018/ra_11085_2018.md	repacts	2018		datasets/markdown/repacts/2018/ra_11085_2018.md	ra_11085_2018	AN ACT UPGRADING THE DR. PAULINO J. GARCIA MEMORIAL RESEARCH AND MEDICAL CENTER EXTENSION HOSPITAL IN THE MUNICIPALITY OF TALAVERA, PROVINCE OF NUEVA ECIJA, TO A LEVEL II HOSPITAL AND INCREASING ITS BED CAPACITY FROM FIFTY (50) TO ONE HUNDRED (100) BEDS TO BE KNOWN AS THE TALAVERA GENERAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR	"Seventeenth Congress Third Regular Session
+
+ **[ REPUBLIC ACT NO. 11085, September 28, 2018 ]**
+
+ AN ACT UPGRADING THE DR. PAULINO J. GARCIA MEMORIAL RESEARCH AND MEDICAL CENTER EXTENSION HOSPITAL IN THE MUNICIPALITY OF TALAVERA, PROVINCE OF NUEVA ECIJA, TO A LEVEL II HOSPITAL AND INCREASING ITS BED CAPACITY FROM FIFTY (50) TO ONE HUNDRED (100) BEDS TO BE KNOWN AS THE TALAVERA GENERAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Dr. Paulino J. Garcia Memorial Research and Medical Center Extension Hospital in the Municipality of Talavera, Province of Nueva Ecija, is hereby upgraded into a Level II Hospital to be now known as the Talavera General Hospital.
+
+ The authorized bed capacity of the Talavera General Hospital is hereby increased from fifty (50) to one hundred (100) beds.
+
+ The Secretary of the Department of Health (DOH) shall implement the increase in bed capacity of the Talavera General Hospital within a period of five (5) years from the approval of this Act.
+
+ **Section 2.** The existing hospital facilities and professional health care services of the Talavera General Hospital are hereby upgraded to conform with and be commensurate to the increase in bed capacity. The number of medical personnel shall be correspondingly increased.
+
+ **Section 3.** The Secretary of Health shall immediately include in the Department's program the implementation of this Act, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 4.** Republic Act No. 8527, increasing the bed capacity of Dr. Paulino J. Garcia Memorial Research and Medical Center Extension Hospital is hereby repealed. All other laws, decrees, orders, issuances, rules and regulations and parts thereof which are inconsistent with the provisions of this Act are hereby repealed.
+
+ **Section 5.** Within sixty (60) days after the approval of this Act, the DOH shall promulgate the necessary rules and regulations for the effective implementation of this Act.
+
+ **Section 6.** This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (Sgd.) **VICENTE C. SOTTO III** President of the Senate | (Sgd.) **GLORIA MACAPAGAL-ARROYO** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate on December 11, 2017 and July 24, 2018, respectively.
+
+ | (Sgd.) **MYRA MARIE D. VILLARICA** Secretary of the Senate | (Sgd.) **CESAR STRAIT PAREJA** Secretary General House of Representatives |
+
+ Approved: SEP 28 2018
+
+ (Sgd.) **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	Republic Act No. 11085 upgrades the Dr. Paulino J. Garcia Memorial Research and Medical Center Extension Hospital in Talavera, Nueva Ecija to a Level II hospital, increases its bed capacity from 50 to 100, repeals RA 8527, and appropriates funds for the upgrade and implementation.	"[{""title"": ""Section 1."", ""summary"": ""Upgrades the hospital to a Level II hospital and increases bed capacity to 100 beds.""}, {""title"": ""Section 2."", ""summary"": ""Upgrades existing facilities and increases medical personnel to match the new bed capacity.""}, {""title"": ""Section 3."", ""summary"": ""Secretary of Health to include implementation in the department\u2019s program and fund the act in the annual General Appropriations Act.""}, {""title"": ""Section 4."", ""summary"": ""Repeals Republic Act No. 8527 and all inconsistent laws, decrees, orders, issuances, rules and regulations.""}, {""title"": ""Section 5."", ""summary"": ""DOH must promulgate rules and regulations for effective implementation within 60 days.""}, {""title"": ""Section 6."", ""summary"": ""Act takes effect 15 days after publication in the Official Gazette or a newspaper of general circulation.""}]"	11085	September 28, 2018			To upgrade the Dr. Paulino J. Garcia Memorial Research and Medical Center Extension Hospital to a Level II hospital, increase its bed capacity to 100 beds, repeal the previous RA 8527, and appropriate funds for the upgrade and implementation.	"[""Upgrades hospital to Level II"", ""Increases bed capacity to 100 beds"", ""Appropriates funds for upgrade and implementation"", ""Repeals RA 8527"", ""DOH to promulgate rules within 60 days"", ""Act takes effect 15 days after publication""]"	Republic Act No. 8527	"[""Healthcare"", ""Hospital"", ""Bed Capacity"", ""Regulation""]"	"[""Dr. Paulino J. Garcia Memorial"", ""Talavera General Hospital"", ""Level II Hospital"", ""bed capacity"", ""Republic Act 11085"", ""Nueva Ecija"", ""DOH"", ""DOH regulations""]"
+repacts:datasets/markdown/repacts/2018/ra_11086_2018.md	repacts	2018		datasets/markdown/repacts/2018/ra_11086_2018.md	ra_11086_2018	AN ACT CONVERTING THE MUNICIPALITY OF STO. TOMAS IN THE PROVINCE OF BATANGAS INTO A COMPONENT CITY TO BE KNOWN AS THE CITY OF STO. TOMAS	"Seventeenth Congress Third Regular Session Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand eighteen.
+
+ **REPUBLIC ACT No. 11086**
+
+ AN ACT CONVERTING THE MUNICIPALITY OF STO. TOMAS IN THE PROVINCE OF BATANGAS INTO A COMPONENT CITY TO BE KNOWN AS THE CITY OF STO. TOMAS
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **ARTICLE I GENERAL PROVISIONS**
+
+ Section 1. *Short Title.* This Act shall be known as the ""Charter of the City of Sto. Tomas"".
+
+ **Section 2.** *The City of Sto. Tomas.* The Municipality of Sto. Tomas shall be converted into a component city to be known as the City of Sto. Tomas, hereinafter referred to as the City, which shall comprise the present territory of the Municipality of Sto. Tomas, Province of Batangas.
+
+ The territorial jurisdiction of the City shall be within the present metes and bounds of the Municipality of Sto. Tomas.
+
+ The foregoing provision shall be without prejudice to the resolution by the appropriate agency or forum of any boundary dispute or case involving questions of territorial jurisdiction between the City of Sto. Tomas and the adjoining local government units:*Provided,*That the territorial jurisdiction of the disputed area or areas shall remain with the local government unit which has existing administrative supervision over said area or areas until the final resolution of the case.
+
+ **Section 3.** *Corporate Powers of the City.* The City constitutes a political body corporate and as such is endowed with the attributes of perpetual succession and possessed of the powers which pertain to a municipal corporation to be exercised in conformity with the provision of this Charter. The City shall have the following corporate powers:
+
+ (a) To have a continuous succession in its corporate name; (b) To sue and be sued; (c) To have and use a corporate seal; (d) To acquire, hold and convey real or personal property; (e) To enter into any contract and/or agreement; and (f) To exercise such other powers, prerogatives or authority subject to the limitations provided under Republic Act No. 7160, otherwise known as the ""Local Government Code of 1991, as amended"", this Act or laws. **Section 4.** *General Powers.* The City shall have a common seal and may alter the same at pleasure: *Provided,* That any change of corporate seal shall be registered with the Department of the Interior and Local Government (DILG).

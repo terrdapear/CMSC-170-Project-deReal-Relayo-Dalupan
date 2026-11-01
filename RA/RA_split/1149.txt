@@ -1,0 +1,144 @@
+
+ ""Republic Act Numbered One thousand five hundred and sixty-eight, as amended, and Republic Act Numbered Three thousand and sixteen are also hereby declared inoperative or abolished; *Provided,* That the rights of those already retired thereunder shall not be affected; And provided, further, That an official or person who is eligible for retirement under any of the aforementioned acts or any other acts may elect and reserve his right to retire thereunder and shall be entitled to the retirement benefit described therein only if he so chooses and notifies the System in writing within one year from the date of approval of this amendatory Act, otherwise it shall be deemed that he elects to be retired under this Act.""
+
+ **Section 10.** Subsection (b) of Section twenty-eight of the same Act, as amended is hereby further amended to read as follows:
+
+ ""(b) Hereafter no insurance or retirement plan for officers or employees shall be created by any employer. All supplementary retirement or pension plans heretofore in force in any government office, agency, or instrumentality or corporation owned or controlled by the government, are hereby declared inoperative or abolished: *Provided,* That the rights of those who are already eligible to retire thereunder shall not be affected."" **Section 11.** All laws or parts of laws which are inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+
+ **Section 12.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967
+"	success	Republic Act	Republic Act No. 4968 amends Commonwealth Act No. 186 to clarify definitions of life and retirement insurance, expand compulsory coverage for selected public sector employees, establish rates of contribution and premiums, and provide additional annuity payments for certain employees.	"[{""title"": ""Section 1: Amendment to Definition of Life and Retirement Insurance"", ""summary"": ""Defines 'Life Insurance' and 'Retirement Insurance' and clarifies that benefits under these plans are not considered compensation.""}, {""title"": ""Section 2: Compulsory Membership for Certain Employees"", ""summary"": ""Mandates compulsory coverage for appointive officers, employees of specific government agencies, Armed Forces personnel, and other designated public servants, while exempting certain temporary or casual workers from retirement insurance.""}, {""title"": ""Section 3: Rates of Contribution or Premiums"", ""summary"": ""Specifies monthly rates of contributions for life and retirement insurance, details employer and employee shares, and outlines payment schedules and conditions for interest on unpaid premiums.""}, {""title"": ""Section 4: Additional Amounts or Premiums for Annuity"", ""summary"": ""Provides for additional annuity payments to be made by the National Government for employees who rendered service before a specified date, with amortization and funding details.""}]"	4968				To further amend Commonwealth Act No. 186 by redefining insurance terms, expanding coverage, and establishing contribution rates for public sector employees.	"[""Redefinition of 'Life Insurance' and 'Retirement Insurance' and exemption of benefits from compensation status."", ""Compulsory membership for appointive officers, certain employees, and Armed Forces personnel."", ""Detailed contribution rates for life and retirement insurance, including employer and employee responsibilities."", ""Provision for additional annuity payments to employees with pre-1951 service.""]"	Commonwealth Act No. 186	"[""Insurance"", ""Public Sector"", ""Employee Benefits""]"	"[""life insurance"", ""retirement insurance"", ""term insurance"", ""premium"", ""employee benefits"", ""public sector employees"", ""contribution rates"", ""annuity payments""]"
+repacts:datasets/markdown/repacts/1967/ra_4969_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_4969_1967.md	ra_4969_1967	An Act Creating a Highway Engineering District in the Province of Masbate to Comprise the Municipalities of Ticao and Burias Islands	"**REPUBLIC ACT No. 4969**
+
+ An Act Creating a Highway Engineering District in the Province of Masbate to Comprise the Municipalities of Ticao and Burias Islands
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Any provision of law to the contrary notwithstanding, the municipalities of Batuan, San Fernando, San Jacinto and Monreal in Ticao Islands, and the municipalities of Claveria and San Pascual in Burias Island, Province of Masbate, are hereby constituted into one high way engineering district, which shall be known as the Second Highway Engineering District of Masbate, with headquarters in the Municipality of San Fernando.
+
+ **Section 2.** The Second Highway engineering District of Masbate shall have a highway district engineer and other personnel who shall be appointed in accordance with existing laws and regulations.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Republic Act	The act establishes the Second Highway Engineering District of Masbate, comprising specific municipalities in Ticao and Burias Islands, and provides for the appointment of a highway district engineer.	"[{""title"": ""Section 1"", ""summary"": ""Constitutes the municipalities of Batuan, San Fernando, San Jacinto, Monreal (Ticao Islands) and Claveria, San Pascual (Burias Island) into the Second Highway Engineering District of Masbate with headquarters in San Fernando.""}, {""title"": ""Section 2"", ""summary"": ""Authorizes the appointment of a highway district engineer and other personnel for the district in accordance with existing laws.""}, {""title"": ""Section 3"", ""summary"": ""States that the act takes effect upon its approval.""}]"	4969	June 17, 1967			To create a highway engineering district in Masbate for improved transportation infrastructure.	"[""Creation of the Second Highway Engineering District of Masbate"", ""Constitutes specified municipalities into the district"", ""Appointment of a highway district engineer and personnel"", ""Effectivity upon approval""]"		"[""Infrastructure"", ""Transportation"", ""Highway"", ""Masbate"", ""District""]"	"[""Highway Engineering District"", ""Masbate"", ""Ticao Islands"", ""Burias Islands"", ""Republic Act 4969""]"
+repacts:datasets/markdown/repacts/1967/ra_4970_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_4970_1967.md	ra_4970_1967	An Act Constituting the Island of Siargao in the Province of Surigao del Norte into a Separate and Independent Highway Engineering District	"**REPUBLIC ACT No. 4970**
+
+ An Act Constituting the Island of Siargao in the Province of Surigao del Norte into a Separate and Independent Highway Engineering District
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Any provision of law to the contrary notwithstanding, the Island of Siargao, in the Province of Surigao del Norte, is hereby constituted into a separate and independent highways engineering district, to be composed of the municipalities of Dapa, General Luna, Pilar, Numancia, Sapao, San Isidro and Socorro, with one highway district engineer who shall be appointed in accordance with existing laws.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Republic Act	This act establishes the Island of Siargao as a separate and independent highway engineering district, comprising its municipalities, and appoints a highway district engineer.	"[{""title"": ""Section 1"", ""summary"": ""Establishes the district and defines its composition and appointment of district engineer.""}, {""title"": ""Section 2"", ""summary"": ""Act takes effect upon approval.""}]"	No. 4970	June 17, 1967			To create a separate highway engineering district for Siargao.	"[""Establishes Siargao as a separate highway engineering district"", ""Defines district composition: Dapa, General Luna, Pilar, Numancia, Sapao, San Isidro, Socorro"", ""Appoints a highway district engineer"", ""Act takes effect upon approval""]"		"[""Highway Engineering District"", ""Siargao"", ""Surigao del Norte"", ""Republic Act"", ""Infrastructure""]"	"[""Siargao"", ""highway engineering"", ""district"", ""Surigao del Norte"", ""municipalities""]"
+repacts:datasets/markdown/repacts/1967/ra_4971_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_4971_1967.md	ra_4971_1967	An Act Amending Section Two of Republic Act Numbered Four Thousand Six Hundred and Five	"**REPUBLIC ACT No. 4971**
+
+ An Act Amending Section Two of Republic Act Numbered Four Thousand Six Hundred and Five
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section Two of Republic Act Numbered Four thousand six hundred and five is hereby amended to read as follows:
+
+ **Section 2.** The grantee is hereby authorized to manufacture and supply one hundred tons of ice a day.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Republic Act	Amends Section Two of RA 4605 to authorize the grantee to manufacture and supply one hundred tons of ice a day; the act takes effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""States that Section Two of RA 4605 is hereby amended.""}, {""title"": ""Section 2"", ""summary"": ""Authorizes the grantee to manufacture and supply one hundred tons of ice a day.""}, {""title"": ""Section 3"", ""summary"": ""Specifies that the act shall take effect upon its approval.""}]"	RA 4971	June 17, 1967			To amend Republic Act No. 4605 to authorize the manufacturing and supply of ice by the grantee.	"[""Amends Section Two of RA 4605 to authorize the grantee to manufacture and supply one hundred tons of ice a day."", ""The act takes effect upon approval.""]"	Republic Act No. 4605, Section Two	"[""Amendment"", ""Ice production"", ""Regulation""]"	"[""ice"", ""manufacture"", ""supply"", ""grantee"", ""one hundred tons"", ""RA 4605""]"
+repacts:datasets/markdown/repacts/1967/ra_4972_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_4972_1967.md	ra_4972_1967	An Act Constituting the Municipalities of Mauban, Sampaloc, Real, Infanta, General Nakar, Polillo, Burdeos, Panukulan, Patnanungan and Jumalig in the Province of Quezon, into a Separate, Independent and Regular Highway Engineering District	"**REPUBLIC ACT No. 4972**
+
+ An Act Constituting the Municipalities of Mauban, Sampaloc, Real, Infanta, General Nakar, Polillo, Burdeos, Panukulan, Patnanungan and Jumalig in the Province of Quezon, into a Separate, Independent and Regular Highway Engineering District
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Any provision of law to the contrary notwithstanding, the municipalities of Mauban, Sampaloc, Real, Infanta, General Nakar, Polillo, Burdeos, Panukulan, Patnanungan and Jumalig in the Province of Quezon, are hereby constituted into a separate, independent and regular highway engineering district. The district engineers offices shall be established in the Municipality of Mauban.
+
+ **Section 2.** The said engineering district shall have a district engineer who shall be appointed in accordance with law.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Republic Act	This act constitutes the listed municipalities into a separate, independent and regular highway engineering district in Quezon province.	"[{""title"": ""Section 1."", ""summary"": ""Constitutes the municipalities into a separate, independent and regular highway engineering district; district engineer offices established in Mauban.""}, {""title"": ""Section 2."", ""summary"": ""The district shall have a district engineer appointed in accordance with law.""}, {""title"": ""Section 3."", ""summary"": ""Act takes effect upon approval.""}]"	4972	June 17, 1967			To create a dedicated highway engineering district for better road management and development.	"[""Constitution of the municipalities into a separate highway engineering district."", ""Establishment of district engineer offices in Mauban."", ""Appointment of district engineer."", ""Effectiveness upon approval.""]"		"[""Transportation"", ""Infrastructure"", ""Local Government"", ""Quezon"", ""Highway Engineering District""]"	"[""municipalities"", ""Quezon"", ""highway engineering district"", ""district engineer"", ""Mauban"", ""Sampaloc"", ""Real"", ""Infanta"", ""General Nakar"", ""Polillo"", ""Burdeos"", ""Panukulan"", ""Patnanungan"", ""Jumalig""]"
+repacts:datasets/markdown/repacts/1967/ra_4973_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_4973_1967.md	ra_4973_1967	An Act Creating the Municipal District of Diadi in the Province of Nueva Vizcaya	"**REPUBLIC ACT No. 4973**
+
+ An Act Creating the Municipal District of Diadi in the Province of Nueva Vizcaya
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The barrios and sitios and Diadi, Balete, Rosario, Nagsabaran, Limbo, Talicitic, Arwas, Dalayap, Buaya, Anunang, Pena, Selinan, Nagcuartelen, Durarog, Cabuaan, Namamparan, and the areas north of Rosario Creek and east of Magat River in the Municipality of Bagabag, Province of Nueva Vizcaya, are separated from said municipality and constituted into an independent municipal district of the same province, to be known as the Municipal District of Diadi, Province of Nueva Vizcaya. The seat of government of the new municipal district shall be at the present site of barrio Diadi: *Provided,* That within one year from the date the municipal district is formally organized the municipal council may, by a vote of two-thirds, transfer the seat of government to any other place.
+
+ **Section 2.** The Municipal District of Diadi shall acquire corporate existence upon the election and qualification of the first mayor, vice-mayor and councilors in the next general elections for local officials. For election purposes, the municipal officials of the mother municipality charged with the election duties in accordance with the Revised Election Code shall hold office until the first officials shall have been elected and qualified.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Republic Act	This law establishes the Municipal District of Diadi in Nueva Vizcaya, delineating its boundaries, designating its seat, and setting provisions for its corporate existence and governance.	"[{""title"": ""Section 1."", ""summary"": ""Defines the boundaries of the new municipal district, lists the barrios and sitios included, and establishes Diadi as the seat of government with provision to change it within a year by a two-thirds vote.""}, {""title"": ""Section 2."", ""summary"": ""Provides that the municipal district gains corporate existence upon the election and qualification of its first mayor, vice-mayor, and councilors, and specifies that officials from the mother municipality shall hold office until the new officials are elected.""}, {""title"": ""Section 3."", ""summary"": ""States that the act takes effect upon its approval.""}]"	4973	June 17, 1967			To create an independent municipal district of Diadi in Nueva Vizcaya.	"[""Creation of Municipal District of Diadi"", ""Designation of Diadi as seat of government"", ""Provision to transfer seat within one year by two-thirds vote"", ""Corporate existence upon election of first officials"", ""Effectivity upon approval""]"		"[""Local Government"", ""Municipal District"", ""Nueva Vizcaya""]"	"[""municipal district"", ""Diadi"", ""Nueva Vizcaya"", ""local government"", ""seat of government"", ""corporate existence"", ""election"", ""Revised Election Code""]"
+repacts:datasets/markdown/repacts/1967/ra_4974_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_4974_1967.md	ra_4974_1967	An Act Creating the Municipality of Santa Marcela in Mountain Province	"**REPUBLIC ACT No. 4974**
+
+ An Act Creating the Municipality of Santa Marcela in Mountain Province
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Barrios Sipa Annex, San Antonio, Barocboc and Maleckeg in the Municipality of Luna; and Barrios Sipa, Marcela and Consuelo in the Municipality of Flora, all in Mountain Province, are separated from said municipalities and constituted into a distinct and independent municipality to be known as the Municipality of Santa Marcela, same province. The seat of the municipal government shall be in Barrio Marcela.
+
+ **Section 2.** The Municipality of Santa Marcela shall acquire corporate existence upon the election and qualification of the first mayor, vice-mayor and councilors in the next general elections for local officials. For election purposes, the municipal officials of the mother municipality charged with the election duties in accordance with the Revised Election Code shall hold office until the first officials shall have been elected and qualified.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Act	Creates the Municipality of Santa Marcela in Mountain Province by separating specified barrios from Luna and Flora municipalities.	"[{""title"": ""Section 1"", ""summary"": ""Barrios Sipa Annex, San Antonio, Barocboc and Maleckeg in the Municipality of Luna; and Barrios Sipa, Marcela and Consuelo in the Municipality of Flora, all in Mountain Province, are separated from said municipalities and constituted into a distinct and independent municipality to be known as the Municipality of Santa Marcela, same province. The seat of the municipal government shall be in Barrio Marcela.""}, {""title"": ""Section 2"", ""summary"": ""The Municipality of Santa Marcela shall acquire corporate existence upon the election and qualification of the first mayor, vice-mayor and councilors in the next general elections for local officials.""}, {""title"": ""Section 3"", ""summary"": ""This Act shall take effect upon its approval.""}]"	4974	June 17, 1967			To create the Municipality of Santa Marcela in Mountain Province.	"[""Separates specified barrios from Luna and Flora municipalities to form a new municipality"", ""Establishes the seat of municipal government in Barrio Marcela"", ""Gives corporate existence to the new municipality upon election of officials"", ""Effectivity upon approval""]"		"[""Municipality Creation"", ""Local Government"", ""Mountain Province"", ""Santa Marcela""]"	"[""municipality"", ""Santa Marcela"", ""Mountain Province"", ""local government"", ""corporate existence""]"
+repacts:datasets/markdown/repacts/1967/ra_4975_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_4975_1967.md	ra_4975_1967	An Act Creating the Municipality of Maco in the Province of Davao	"**REPUBLIC ACT No. 4975**
+
+ An Act Creating the Municipality of Maco in the Province of Davao
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The barrios of Maco, Bukana, Lupon, Hijo, San Juan, Langgam, San Roque, Anisingan, Mapaang, Manipongol, Binuangan, Patari, Ulogan, Tugunan, Magaarad, Lumatab, Concepcion, Dao, Maduaw, Panangan, Panibasan, Lower Tagaawa, Upper Tagaawa, Masara, Somil, Limbo, Kalabkan, New Leyte, Dumlan, Libaylibay, Siranganan, Alibungog, Lumbo, Taira, Anagasi, Anibongan, Lapulapu, Tiglawig, Pangi, Pandi-upon and the sitios of Rabaywa, Laniti, Anislag, Balatinao, Baayon, Simura, Sarog, Kantunga, Birigian, Burog, Kaburakanan, Macupa, Panglan, Kantaraud, Kawayan, Pangpang, Basag, Kambakuro, Kapakyasan, Tigpan, Tibulan., Marabiga, Kamansi, Kuyapi, Lahog and Makutpu in the Municipality of Mabini, Province of Davao, are separated from said municipality, and constituted into a distinct and independent municipality, to be known as the Municipality of Maco, same province. The seat of government of the new municipality shall be in the present site of Barrio Maco.
+
+ The new municipality shall be bounded as follows: ""Starting from Cor. 1, a point at the mouth of Hijo river; thence following Hijo river upstream in a general northerly and northeasterly direction to corner 2, a point at the southern municipal boundary of Mabaw; thence following the southern municipal boundary of Mawab in a straight line S76 30""E, 14.25 kilometers to cor. 3, a point at the southernmost boundary corner of same municipality of Mawab; thence due north, 1.75 kilometers to corner 4, a point at intersection of the municipal boundaries of Mawab and Nabunturan; thence S77 30""E, 6.75 kms. To cor. 5, a point at the southern boundary of the Municipality of Nabunturan; thence S55 00""W, 20 kilometers to cor. 6, a point ; thence due west, 6.25 kms. to cor. 7, a point at the mouth of Tabuipua creek at Gulf of Davao; thence following the shoreline in a general northerly and westerly direction to cor. 1, or point of beginning.""
+
+ **Section 2.** The Municipality of Maco shall acquire corporate existence upon the election and qualification of the first mayor, vice-mayor and councilors in the next general elections for local officials. For election purposes, the municipal officials of the mother municipality charged with the election duties in accordance with the Revised Election Code shall hold office until the first officials shall have been elected and qualified.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Republic Act	This Act establishes the Municipality of Maco in Davao Province by separating several barrios and sitios from the Municipality of Mabini, defines its boundaries, and sets its corporate existence upon the election of officials.	"[{""title"": ""Section 1"", ""summary"": ""Separates the listed barrios and sitios from Mabini and forms the Municipality of Maco, detailing its boundaries and seat of government.""}, {""title"": ""Section 2"", ""summary"": ""Provides that the municipality shall acquire corporate existence upon the election and qualification of its first mayor, vice-mayor and councilors, and that municipal officials of the mother municipality shall hold office until the new officials are elected.""}, {""title"": ""Section 3"", ""summary"": ""Declares the act to take effect upon its approval.""}]"	4975	June 17, 1967			To create a new municipality of Maco in Davao Province by separating various barrios and sitios and defining its boundaries and governance structure.	"[""Separation and creation of the Municipality of Maco"", ""Definition of municipal boundaries"", ""Corporate existence upon election of officials"", ""Effective date upon approval""]"		"[""local government"", ""municipality"", ""Davao"", ""barangay"", ""boundary"", ""creation""]"	"[""Maco"", ""Davao"", ""municipality"", ""barangay"", ""boundary"", ""republic act"", ""1967""]"
+repacts:datasets/markdown/repacts/1967/ra_4976_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_4976_1967.md	ra_4976_1967	An Act Creating the Municipality of Magsaysay in the Province of Davao	"**REPUBLIC ACT No. 4976**
+
+ An Act Creating the Municipality of Magsaysay in the Province of Davao
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The barrios of Magsaysay, Bala, Barayong, Bog, Bacungan, Blocon, Dalawinon, Kanapulo, Kasuga, Mabini, Kialog, San Isidro, San Miguel, Dalumay, Tacul, Daig, Lipara and Malungon in the Municipality of Bansalan, Province of Davao, are separated from said municipality and constituted into a distinct and independent municipality, to be known as the Municipality of Magsaysay, same province. The seat of government of the new municipality shall be in the present site of Barrio Magsaysay.
+
+ The new Municipality shall be bounded on the Northwest: Point of National (Davao-Cotabato) Highway; thence straight line to the west following the Davao-Cotabato boundary; On the Southeast: Point of Matanao River at the Matanao-Basalan boundary following said river upstream to the national highway; thence following said highway to the point of Davao-Cotabato boundary; On the South: Matanao-Bansalan boundary; On the West: From a western point of Davao-Cotabato boundary; thence straight line to the South following the western Bansalan boundary up to a point of Matanao-Bansalan boundary.
+
+ **Section 2.** The Municipality of Magsaysay shall acquire corporate existence upon the election and qualification of the first mayor, vice-mayor and councilors in the next general elections for local officials. For election purposes, the municipal officials of the mother municipality charged with the election duties in accordance with the Revised Election Code shall hold office until the first officials shall have been elected and qualified.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Republic Act	The act establishes the municipality of Magsaysay, formed from barrios of Bansalan, defines its boundaries, requires the election of municipal officials for corporate existence, and becomes effective upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Separates the barrios of Magsaysay, Bala, Barayong, Bog, Bacungan, Blocon, Dalawinon, Kanapulo, Kasuga, Mabini, Kialog, San Isidro, San Miguel, Dalumay, Tacul, Daig, Lipara and Malungon from Bansalan to constitute the Municipality of Magsaysay, and defines its boundaries.""}, {""title"": ""Section 2."", ""summary"": ""The Municipality of Magsaysay shall acquire corporate existence upon the election and qualification of its first mayor, vice-mayor and councilors in the next general elections for local officials.""}, {""title"": ""Section 3."", ""summary"": ""This Act shall take effect upon its approval.""}]"	4976	June 17, 1967			To create a new municipality of Magsaysay in Davao Province.	"[""Separates specified barrios from Bansalan to form a distinct municipality."", ""Defines the geographic boundaries of the new municipality."", ""Establishes corporate existence contingent upon municipal elections."", ""Becomes effective upon approval.""]"		"[""Municipality"", ""Local Government"", ""Davao Province"", ""Philippines""]"	"[""Magsaysay"", ""Bansalan"", ""Republic Act 4976"", ""Municipality creation"", ""Davao"", ""Philippines""]"
+repacts:datasets/markdown/repacts/1967/ra_4977_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_4977_1967.md	ra_4977_1967	An Act Changing the Name of the Municipality of Aurora, Province of Quezon, to San Francisco	"**REPUBLIC ACT No. 4977**
+
+ An Act Changing the Name of the Municipality of Aurora, Province of Quezon, to San Francisco
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Municipality of Aurora, Province of Quezon, is hereby changed to San Francisco.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Republic Act	This act changes the name of the Municipality of Aurora to San Francisco and takes effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The name of the Municipality of Aurora, Province of Quezon, is hereby changed to San Francisco.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	4977	June 17, 1967			To change the name of the Municipality of Aurora to San Francisco.	"[""The municipality of Aurora is renamed to San Francisco."", ""The act takes effect upon approval.""]"		"[""Municipality"", ""Name Change"", ""Quezon"", ""San Francisco""]"	"[""Aurora"", ""San Francisco"", ""Quezon"", ""Municipality"", ""Renaming""]"
+repacts:datasets/markdown/repacts/1967/ra_4978_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_4978_1967.md	ra_4978_1967	An Act Creating the Municipality of Silvino Lobos in the Province of Samar	"**REPUBLIC ACT No. 4978**
+
+ An Act Creating the Municipality of Silvino Lobos in the Province of Samar
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Barrios Diit de Torag, Giparayan de Torag, Sinonogan de Torag, Gusaran, Cagda-O, Diit de Suba, Suba, Ginagasan, Cabonga-an, Victory, Gibulwangan, Camaya-an, Camangaran, San Isidro, Caghilot, Tobgon and Gicbo-an are separated from the Municipality of Pambujan; and Barrios Muntalban, Balud and San Isidro are separated from the Municipal District of Matuginao, all in the Province of Samar and constituted into a separate and distinct municipality to be known as the Municipality of Silvino Lobos in the Province of Samar.

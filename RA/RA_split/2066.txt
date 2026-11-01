@@ -1,0 +1,157 @@
+repacts:datasets/markdown/repacts/1997/ra_8409_1997.md	repacts	1997		datasets/markdown/repacts/1997/ra_8409_1997.md	ra_8409_1997	AN ACT TO DECLARE THE THIRTIENTH DAY OF AUGUST OF EVERY YEAR A SPECIAL NONWORKING PUBLIC HOLIDAY IN THE MUNICIPALITY OF SINACABAN TO BE KNOWN AS ARAW NG SINACABAN	"Tenth Congress Third Regular Session
+
+ **[ REPUBLIC ACT NO. 8409, November 23, 1997 ]**
+
+ AN ACT TO DECLARE THE THIRTIETH DAY OF AUGUST OF EVERY YEAR A SPECIAL NONWORKING PUBLIC HOLIDAY IN THE MUNICIPALITY OF SINACABAN TO BE KNOWN AS ARAW NG SINACABAN
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Thirtieth day of August of every year is hereby declared as a special nonworking public holiday in the Municipality of Sinacaban, Province of Misamis Occidental.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, Lapsed into law on November 27, 1997, without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.
+"	success	Public Holiday	This act declares the thirtieth day of August as a special nonworking public holiday in the Municipality of Sinacaban, Misamis Occidental, effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The thirtieth day of August of every year is declared as a special nonworking public holiday in the Municipality of Sinacaban, Province of Misamis Occidental.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	8409	November 27, 1997			To declare a special nonworking public holiday in Sinacaban.	"[""Declaration of the thirtieth day of August as a special nonworking public holiday in Sinacaban."", ""Effectivity upon approval.""]"		"[""public holiday"", ""municipal holiday"", ""Sinacaban""]"	"[""August"", ""Sinacaban"", ""holiday"", ""nonworking"", ""public holiday""]"
+repacts:datasets/markdown/repacts/1997/ra_8410_1997.md	repacts	1997		datasets/markdown/repacts/1997/ra_8410_1997.md	ra_8410_1997	AN ACT DECLARING OCTOBER TWENTY OF EVERY YEAR AS ADLAW SA ORMOC, A SPECIAL NONWORKING PUBLIC HOLIDAY FOR THE CITY OF ORMOC	"Tenth Congress Third Regular Session
+
+ **[ REPUBLIC ACT NO. 8410, November 27, 1997 ]**
+
+ AN ACT DECLARING OCTOBER TWENTY OF EVERY YEAR AS ADLAW SA ORMOC, A SPECIAL NONWORKING PUBLIC HOLIDAY FOR THE CITY OF ORMOC
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** October 20 of every year is hereby declared as Adlaw sa Ormoc, a special nonworking public holiday for the City of Ormoc, Province of Leyte.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, Lapsed into law on November 27, 1997 without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.
+"	success	Republic Act	This act declares October 20 as a special nonworking public holiday, known as Adlaw sa Ormoc, for the city of Ormoc, Leyte.	"[{""title"": ""Section 1"", ""summary"": ""October 20 of every year is declared as Adlaw sa Ormoc, a special nonworking public holiday for the City of Ormoc, Province of Leyte.""}, {""title"": ""Section 2"", ""summary"": ""This act shall take effect upon its approval.""}]"	8410	November 27, 1997			To declare October 20 as a special nonworking public holiday for the City of Ormoc.	"[""October 20 of every year is declared as Adlaw sa Ormoc, a special nonworking public holiday for the City of Ormoc, Province of Leyte."", ""The act shall take effect upon its approval.""]"		"[""holiday"", ""public holiday"", ""city of Ormoc"", ""Leyte""]"	"[""Adlaw sa Ormoc"", ""special holiday"", ""Leyte"", ""Ormoc"", ""Republic Act 8410""]"
+repacts:datasets/markdown/repacts/1997/ra_8411_1997.md	repacts	1997		datasets/markdown/repacts/1997/ra_8411_1997.md	ra_8411_1997	AN ACT AMENDING REPUBLIC ACT NO. 7364 BY CONVERTING THE ILOCOS REGIONAL HOSPITAL TO ILOCOS TRAINING AND REGIONAL MEDICAL CENTER, FURTHER INCREASING ITS BED CAPACITY TO THREE HUNDRED BEDS, AND APPROPRIATING FUNDS THEREFOR	"Tenth Congress Third Regular Session
+
+ **[ REPUBLIC ACT NO. 8411, November 27, 1997 ]**
+
+ AN ACT AMENDING REPUBLIC ACT NO. 7364 BY CONVERTING THE ILOCOS REGIONAL HOSPITAL TO ILOCOS TRAINING AND REGIONAL MEDICAL CENTER, FURTHER INCREASING ITS BED CAPACITY TO THREE HUNDRED BEDS, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Ilocos Regional Hospital in San Fernando, La Union shall be converted into a teaching and training medical center and shall thereafter be known as the Ilocos Training and Regional Medical Center.
+
+ **Section 2.** The bed capacity of said Ilocos Medical Center is hereby increased from two hundred (200) to three (300) hundred beds.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect fifteen (15) days after its publication in the Official Gazette.
+
+ Approved, Lapsed into law on November 27, 1997, without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.
+"	success	Act	This Act converts the Ilocos Regional Hospital into the Ilocos Training and Regional Medical Center, increases its bed capacity from 200 to 300 beds, and appropriates the necessary funds for implementation.	"[{""title"": ""Section 1"", ""summary"": ""Converts Ilocos Regional Hospital in San Fernando, La Union into Ilocos Training and Regional Medical Center.""}, {""title"": ""Section 2"", ""summary"": ""Increases the bed capacity of the Ilocos Medical Center from 200 to 300 beds.""}, {""title"": ""Section 3"", ""summary"": ""Allocates the necessary funds through the General Appropriations Act of the following year.""}, {""title"": ""Section 4"", ""summary"": ""Specifies that the Act takes effect 15 days after publication in the Official Gazette.""}]"	RA 8411	November 27, 1997			To enhance healthcare services in the Ilocos region by upgrading the regional hospital to a training and regional medical center and expanding its capacity.	"[""Converting Ilocos Regional Hospital to Ilocos Training and Regional Medical Center"", ""Increasing bed capacity to 300 beds"", ""Appropriating funds via the General Appropriations Act""]"	Republic Act No. 7364	"[""Healthcare"", ""Hospital"", ""Medical Center"", ""Ilocos"", ""Bed Capacity"", ""Appropriation""]"	"[""Ilocos Regional Hospital"", ""Ilocos Training and Regional Medical Center"", ""bed capacity"", ""General Appropriations Act"", ""Republic Act 7364""]"
+repacts:datasets/markdown/repacts/1997/ra_8412_1997.md	repacts	1997		datasets/markdown/repacts/1997/ra_8412_1997.md	ra_8412_1997	AN ACT CONVERTING THE MARGOSATUBIG DISTRICT HOSPITAL IN MARGOSATUBIG, ZAMBOANGA DEL SUR, INTO A REGIONAL HOSPITAL TO BE KNOWN AS MARGOSATUBIG REGIONAL HOSPITAL AND TO INCREASE THE BED CAPACITY TO THREE HUNDRED (300) BEDS, AND APPROPRIATING FUNDS THEREFOR	"Tenth Congress Third Regular Session
+
+ **[ REPUBLIC ACT NO. 8412, November 27, 1997 ]**
+
+ AN ACT CONVERTING THE MARGOSATUBIG DISTRICT HOSPITAL IN MARGOSATUBIG, ZAMBOANGA DEL SUR, INTO A REGIONAL HOSPITAL TO BE KNOWN AS MARGOSATUBIG REGIONAL HOSPITAL AND TO INCREASE THE BED CAPACITY TO THREE HUNDRED (300) BEDS, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Margosatubig District Hospital in Margosatubig, Zamboanga del Sur, shall be converted into a regional hospital to be known as Margosatubig Regional Hospital and to increase the bed capacity from fifty (50) to three hundred (300) beds.
+
+ **Section 2.** The Department of Health shall promulgate the rules and regulations necessary for the effective implementation of this Act.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect immediately upon its approval.
+
+ Approved, Lapsed into law on November 27, 1997, without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.
+"	success	Health	Converts the Margosatubig District Hospital into a regional hospital and increases its bed capacity from 50 to 300, with appropriation of funds.	"[{""title"": ""Section 1."", ""summary"": ""The Margosatubig District Hospital shall be converted into a regional hospital with bed capacity increased to 300.""}, {""title"": ""Section 2."", ""summary"": ""The Department of Health shall promulgate necessary rules and regulations.""}, {""title"": ""Section 3."", ""summary"": ""The amount needed to implement the Act will be included in the General Appropriations Act of the following year.""}, {""title"": ""Section 4."", ""summary"": ""The Act takes effect immediately upon approval.""}]"	REPUBLIC ACT NO. 8412	November 27, 1997			To convert the Margosatubig District Hospital into a regional hospital and increase bed capacity.	"[""Conversion of the district hospital to a regional hospital"", ""Increase in bed capacity to 300"", ""DOH to promulgate rules and regulations"", ""Appropriation of funds"", ""Immediate effect upon approval""]"		"[""Health"", ""Hospital"", ""Bed Capacity"", ""Regional Hospital"", ""Zamboanga Del Sur""]"	"[""Margosatubig"", ""Hospital"", ""Bed Capacity"", ""Regional Hospital"", ""DOH""]"
+repacts:datasets/markdown/repacts/1997/ra_8413_1997.md	repacts	1997		datasets/markdown/repacts/1997/ra_8413_1997.md	ra_8413_1997	An Act Separating the Gadu Annex High School in Barangay Sampaguita from the Gadu High School both in the Municipality of Solana, Province of Cagayan, and converting it into an independent national high school to be known as Sampaguita National High School, and appropriating funds therefor	"Tenth Congress Third Regular Session
+
+ **[ REPUBLIC ACT NO. 8413, November 27, 1997 ]**
+
+ AN ACT SEPARATING THE GADU ANNEX HIGH SCHOOL IN BARANGAY SAMPAGUITA FROM THE GADU HIGH SCHOOL BOTH IN THE MUNICIPALITY OF SOLANA, PROVINCE OF CAGAYAN, AND CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS SAMPAGUITA NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Gadu Annex High School in Barangay Sampaguita, Municipality of Solana, Province of Cagayan shall, under the supervision of the Department of Education, Culture and Sports, be separated from the Gadu High School, in the same municipality and converted into an independent national high school, to be known as Sampaguita National High School.
+
+ **Section 2.** The incumbent head of the Gadu Annex High School, if qualified under the rules and regulations of the Department of Education, Culture and Sports, shall be the officer-in- charge of the Sampaguita National High School pending appointment of a permanent principal.
+
+ **Section 3.** All assets, fixed and movable, records and personnel of the Gadu Annex High School as well as its liabilities, are hereby transferred to the Sampaguita National High School: *Provided,* that the positions, rights and security of tenure of the personnel therein employed under existing laws prior to its separation shall not be impaired.
+
+ **Section 4.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 5.** This Act shall take effect upon its approval.
+
+ Approved, Lapsed into law on November 27, 1997, without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.
+"	success	Education	The Republic Act No. 8413 separates the Gadu Annex High School in Barangay Sampaguita from the Gadu High School and converts it into an independent Sampaguita National High School; it appropriates funds for its establishment and operation.	"[{""title"": ""Section 1"", ""summary"": ""The Gadu Annex High School in Barangay Sampaguita, Municipality of Solana, Province of Cagayan shall be separated from the Gadu High School and converted into an independent national high school, to be known as Sampaguita National High School.""}, {""title"": ""Section 2"", ""summary"": ""The incumbent head of the Gadu Annex High School, if qualified, shall be the officer-in-charge of Sampaguita National High School pending appointment of a permanent principal.""}, {""title"": ""Section 3"", ""summary"": ""All assets, fixed and movable, records and personnel of the Gadu Annex High School, as well as its liabilities, are transferred to Sampaguita National High School, with positions, rights, and security of tenure of personnel protected.""}, {""title"": ""Section 4"", ""summary"": ""The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment.""}, {""title"": ""Section 5"", ""summary"": ""This Act shall take effect upon its approval.""}]"	RA 8413	1997-11-27			To separate the Gadu Annex High School from Gadu High School and establish it as an independent national high school, Sampaguita National High School, and to provide appropriate funding.	"[""Separation of Gadu Annex High School from Gadu High School"", ""Conversion to independent Sampaguita National High School"", ""Transfer of assets, personnel, and liabilities"", ""Appropriation of funds via General Appropriations Act"", ""Act takes effect upon approval""]"		"[""Education"", ""High School"", ""Republic Act"", ""Philippines""]"	"[""Gadu Annex High School"", ""Sampaguita National High School"", ""Cagayan"", ""Department of Education, Culture and Sports"", ""General Appropriations Act"", ""November 27 1997""]"
+repacts:datasets/markdown/repacts/1997/ra_8414_1997.md	repacts	1997		datasets/markdown/repacts/1997/ra_8414_1997.md	ra_8414_1997	AN ACT SEPARATING THE CONNER NATIONAL HIGH SCHOOL - (RIPANG ANNEX HIGH SCHOOL) IN THE MUNICIPALITY OF CONNER, PROVINCE OF APAYAO, FROM THE CONNER NATIONAL HIGH SCHOOL IN THE MUNICIPALITY OF CONNER, AND CONVERTING IT INTO A SEPARATE AND INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS THE CONNER CENTRAL NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"Tenth Congress Third Regular Session
+
+ **[ REPUBLIC ACT NO. 8414, November 27, 1997 ]**
+
+ AN ACT SEPARATING THE CONNER NATIONAL HIGH SCHOOL - (RIPANG ANNEX HIGH SCHOOL) IN THE MUNICIPALITY OF CONNER, PROVINCE OF APAYAO, FROM THE CONNER NATIONAL HIGH SCHOOL IN THE MUNICIPALITY OF CONNER, AND CONVERTING IT INTO A SEPARATE AND INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS THE CONNER CENTRAL NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Conner National High School - (Ripang Annex High School) in the Municipality of Conner, Province of Apayao, is hereby separated from the Conner National High School in the Municipality of Conner, and converted into a separate and independent national high school to be known as Conner Central National High School.
+
+ **Section 2.** The school shall offer secondary education proper, as well as secondary science courses to carry out its objectives, and as may be authorized by the Secretary of the Department of Education, Culture and Sports.
+
+ **Section 3.** The Department of Education, Culture and Sports shall issue rules and regulations as may be necessary to carry out the provisions of this Act.
+
+ **Section 4.** All personnel, assets, liabilities, and records of the Conner National High School - (Ripang Annex High School) are hereby transferred to and absorbed by the Conner Central National High School.
+
+ **Section 5.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 6.** This Act shall take effect upon its approval.
+
+ Approved, Lapsed into law on November 27, 1997, without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.
+"	success	Republic Act	The act separates Conner National High School – Ripang Annex High School from Conner National High School, converts it into Conner Central National High School, and appropriates funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""Separates Conner National High School \u2013 Ripang Annex High School from Conner National High School and establishes Conner Central National High School.""}, {""title"": ""Section 2."", ""summary"": ""Mandates the new school to offer secondary education and secondary science courses, subject to authorization by the Secretary of the Department of Education, Culture and Sports.""}, {""title"": ""Section 3."", ""summary"": ""Empowers the Department of Education, Culture and Sports to issue necessary rules and regulations to implement the act.""}, {""title"": ""Section 4."", ""summary"": ""Transfers all personnel, assets, liabilities, and records from the former school to the new Conner Central National High School.""}, {""title"": ""Section 5."", ""summary"": ""Allocates necessary funds in the General Appropriations Act of the following year.""}, {""title"": ""Section 6."", ""summary"": ""Specifies that the act takes effect upon its approval.""}]"	8414	November 27, 1997			To separate and convert the Ripang Annex of Conner National High School into an independent national high school and secure funding for its operations.	"[""Separation of Conner National High School \u2013 Ripang Annex High School"", ""Conversion into Conner Central National High School"", ""Authorization of secondary education and science courses"", ""Issuance of rules by DOE"", ""Transfer of personnel, assets, liabilities, and records"", ""Allocation of funds in the General Appropriations Act"", ""Effectivity upon approval""]"		"[""Education"", ""National High School"", ""Apayao"", ""Republic Act"", ""School Separation""]"	"[""Conner National High School"", ""Ripang Annex"", ""Conner Central National High School"", ""Apayao"", ""Department of Education"", ""General Appropriations Act"", ""separation"", ""conversion"", ""funding""]"
+repacts:datasets/markdown/repacts/1997/ra_8415_1997.md	repacts	1997		datasets/markdown/repacts/1997/ra_8415_1997.md	ra_8415_1997	AN ACT PROVIDING FOR THE ESTABLISHMENT OF A NATIONAL AGRICULTURAL HIGH SCHOOL IN TAGUIBO, MUNICIPALITY OF MATI, PROVINCE OF DAVAO ORIENTAL, TO BE KNOWN AS THE TAGUIBO AGRICULTURAL VOCATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"Tenth Congress Third Regular Session
+
+ **[ REPUBLIC ACT NO. 8415, November 27, 1997 ]**
+
+ AN ACT PROVIDING FOR THE ESTABLISHMENT OF A NATIONAL AGRICULTURAL HIGH SCHOOL IN TAGUIBO, MUNICIPALITY OF MATI, PROVINCE OF DAVAO ORIENTAL, TO BE KNOWN AS THE TAGUIBO AGRICULTURAL VOCATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There is hereby established, under the direct supervision of the Department of Education, Culture and Sports, a national agricultural high school in Taguibo, Mati, Davao Oriental, to be known as the Taguibo Agricultural Vocational High School.
+
+ **Section 2.** The School shall, in addition to the regular secondary school curricula, offer agricultural, technical and other vocational subjects.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved, Lapsed into law on November 27, 1997, without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.
+"	success	Republic Act	This act establishes the Tagui­bo Agricultural Vocational High School and appropriates funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of the Tagui\u00adbo Agricultural Vocational High School under the direct supervision of the Department of Education, Culture and Sports.""}, {""title"": ""Section 2."", ""summary"": ""The school will offer agricultural, technical and other vocational subjects in addition to the regular secondary school curricula.""}, {""title"": ""Section 3."", ""summary"": ""Funding for the school will be included in the General Appropriations Act of the year following its enactment.""}, {""title"": ""Section 4."", ""summary"": ""The act shall take effect upon its approval.""}]"	RA 8415	November 27, 1997			To establish a national agricultural high school and provide vocational education in agriculture.	"[""Establishment of the Tagui\u00adbo Agricultural Vocational High School"", ""School shall offer agricultural, technical and vocational subjects"", ""Funding to be included in the General Appropriations Act"", ""Act takes effect upon approval""]"		"[""Education"", ""Agriculture"", ""Vocational Training"", ""Public School""]"	"[""Tagui\u00adbo"", ""Mati"", ""Davao Oriental"", ""Agricultural school"", ""Vocational education""]"
+repacts:datasets/markdown/repacts/1997/ra_8416_1997.md	repacts	1997		datasets/markdown/repacts/1997/ra_8416_1997.md	ra_8416_1997	AN ACT TO ESTABLISH A NEW COMPREHENSIVE HIGH SCHOOL IN BARANGAY CAGNOCOT MUNICIPALITY OF VILLABA, PROVINCE OF LEYTE, BY TRANSFERRING THE HIGH SCHOOL DEPARTMENT OF THE LEYTE NATIONAL COLLEGE OF AGRICULTURE, SCIENCE AND TECHNOLOGY AND CONSTITUTING IT INTO A SEPARATE AND DISTINCT SECONDARY SCHOOL, TO BE KNOWN AS THE VILLABA NATIONAL COMPREHENSIVE HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"Tenth Congress Third Regular Session
+
+ **[ REPUBLIC ACT NO. 8416, November 27, 1997 ]**
+
+ AN ACT TO ESTABLISH A NEW COMPREHENSIVE HIGH SCHOOL IN BARANGAY CAGNOCOT MUNICIPALITY OF VILLABA, PROVINCE OF LEYTE, BY TRANSFERRING THE HIGH SCHOOL DEPARTMENT OF THE LEYTE NATIONAL COLLEGE OF AGRICULTURE, SCIENCE AND TECHNOLOGY AND CONSTITUTING IT INTO A SEPARATE AND DISTINCT SECONDARY SCHOOL, TO BE KNOWN AS THE VILLABA NATIONAL COMPREHENSIVE HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There is hereby established a comprehensive public high school in Barangay Cagnocot, Municipality of Villaba, Province of Leyte, by transferring the high school department of the Leyte National College of Agriculture, Science and Technology and constituting it into a separate and distinct secondary school, to be known as the Villaba National Comprehensive High School.
+
+ **Section 2.** The Leyte National College of Agriculture, Science and Technology shall donate at least three hectares (3 has.) of its present seventy-hectare land next adjacent to and facing Barangay Cagnocot, Villaba, Leyte, to be used as the new school site of the Villaba National Comprehensive High School.
+
+ **Section 3.** All funds, records, properties, as well as liabilities, if any, and the displaced teachers of the secondary program of the Leyte National College of Agriculture, Science and Technology shall be transferred to and absorbed by the Villaba National Comprehensive High School.
+
+ **Section 4.** The Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 5.** The amount necessary for the implementation of this Act shall be charged against the current year's appropriations of the Leyte National College of Agriculture, Science and Technology - Secondary Department. Thereafter, such sums as may be necessary for the operation and maintenance of the Villaba National Comprehensive High School shall be included in the annual General Appropriations Act.
+
+ **Section 6.** All laws, decrees, executive orders, rules, regulations and other issuances or parts thereof which are inconsistent with the provisions of this Act are hereby repealed, amended or modified accordingly.
+
+ **Section 7.** This Act shall take effect upon its approval.
+
+ Approved, Lapsed into law on November 27, 1997, without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.
+"	success	Republic Act	The act establishes the Villaba National Comprehensive High School by transferring the high school department of the Leyte National College of Agriculture, Science and Technology, donating land, and appropriating funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of the Villaba National Comprehensive High School by transferring the high school department of the Leyte National College of Agriculture, Science and Technology.""}, {""title"": ""Section 2."", ""summary"": ""Donation of at least three hectares of land by the Leyte National College of Agriculture, Science and Technology for the new school site.""}, {""title"": ""Section 3."", ""summary"": ""Transfer of funds, records, properties, liabilities, and displaced teachers to the new school.""}, {""title"": ""Section 4."", ""summary"": ""The Department of Education, Culture and Sports shall issue necessary rules and regulations for the act's implementation.""}, {""title"": ""Section 5."", ""summary"": ""Funding for implementation charged against current appropriations of the college; future operational costs included in the General Appropriations Act.""}, {""title"": ""Section 6."", ""summary"": ""Repeal or amendment of inconsistent laws, decrees, executive orders, rules, regulations, and other issuances.""}, {""title"": ""Section 7."", ""summary"": ""The act shall take effect upon its approval.""}]"	RA No. 8416	November 27, 1997			To establish a new comprehensive high school in Villaba, Leyte, by transferring the high school department of the Leyte National College of Agriculture, Science and Technology and allocating necessary funds.	"[""Transfer of the high school department to form the new school"", ""Donation of three hectares of land for the school site"", ""Appropriation of funds for implementation and operation"", ""Issuance of rules and regulations by the Department of Education"", ""Repeal of inconsistent laws and regulations""]"		"[""Education"", ""High School"", ""Leyte"", ""Villaba"", ""Republic Act""]"	"[""comprehensive high school"", ""Leyte National College of Agriculture"", ""Villaba"", ""Education Department"", ""appropriation"", ""land donation""]"
+repacts:datasets/markdown/repacts/1997/ra_8417_1997.md	repacts	1997		datasets/markdown/repacts/1997/ra_8417_1997.md	ra_8417_1997	An Act Establishing a Fishery School in Barangay Cabotonan, Municipality of Lagonoy, Province of Camarines Sur, to be known as the Lagonoy Fishery School, and Appropriating Funds Therefor	"Tenth Congress Third Regular Session
+
+ **[ REPUBLIC ACT NO. 8417, November 27, 1997 ]**
+
+ AN ACT ESTABLISHING A FISHERY SCHOOL IN BARANGAY CABOTONAN, MUNICIPALITY OF LAGONOY, PROVINCE OF CAMARINES SUR, TO BE KNOWN AS THE LAGONOY FISHERY SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established, under the supervision of the Technical Education Skills and Development Authority (TESDA), a fishery school in Barangay Cabotonan, Municipality of Lagonoy, Province of Camarines Sur, to be known as the Lagonoy Fishery School.

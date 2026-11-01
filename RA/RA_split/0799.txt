@@ -1,0 +1,139 @@
+
+ **Section 6.** The different departments, agencies and subdivisions as well as government-owned or controlled corporations of the Philippine Government are hereby authorized to utilize savings from any item or items of their appropriations to cover such fees, transportation and other necessary expenses as may be required of their participants attending the Philippine Executive Academy.
+
+ **Section 7.** The University of the Philippines may for the purpose of executive development obtain the service of professional or technical personnel of any agency of the Philippine Government to provide instruction, perform research, and such other activities as may be necessary. Such personnel may be given honorarium by the University of the Philippines upon recommendation of the head of the Academy, any law to the contrary notwithstanding.
+
+ **Section 8.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1963.
+"	success	Act	The Republic Act No. 3534 establishes the Philippine Executive Academy (PEA) by allocating land, appropriating funds for its buildings, facilities, and operating expenses, and providing a framework for its governance and operation.	"[{""title"": ""Section 1"", ""summary"": ""Declares a national policy to improve the competence and performance of executives and administrators in the Philippine Government.""}, {""title"": ""Section 2"", ""summary"": ""Provides technical and financial support for the development and operation of the Philippine Executive Academy.""}, {""title"": ""Section 3"", ""summary"": ""Allocates a suitable parcel of land in Baguio for the site of the Academy and transfers it to the University of the Philippines.""}, {""title"": ""Section 4"", ""summary"": ""Appropriates funds for buildings, facilities, and operating expenses of the Academy, with ongoing annual appropriations.""}, {""title"": ""Section 5"", ""summary"": ""Authorizes the Board of Regents to appoint and fix compensation for Academy staff, and sets a tenure limit for the head of the Academy.""}, {""title"": ""Section 6"", ""summary"": ""Permits government departments and agencies to use savings to cover fees and expenses for participants attending the Academy.""}, {""title"": ""Section 7"", ""summary"": ""Allows the University of the Philippines to engage professional personnel for instruction, research, and related activities for the Academy.""}, {""title"": ""Section 8"", ""summary"": ""Specifies that the Act takes effect upon its approval.""}]"	REPUBLIC ACT No. 3534	June 20, 1963			To provide funding, land, and governance support for the Philippine Executive Academy.	"[""Allocation of land for Academy site"", ""Appropriation of funds for buildings and facilities"", ""Annual appropriation for operating expenses"", ""Governance framework by Board of Regents"", ""Staff compensation and tenure limits""]"		"[""Education"", ""Public Administration"", ""Government Funding"", ""Executive Training""]"	"[""Philippine Executive Academy"", ""University of the Philippines"", ""funding"", ""appropriation"", ""land"", ""executive development""]"
+repacts:datasets/markdown/repacts/1963/ra_3535_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3535_1963.md	ra_3535_1963	An Act Creating One Additional Position of Assistant Provincial Fiscal in the Province of Cagayan, Amending for the Purpose Section Sixteen Hundred Seventy-Four of the Administrative Code, as Amended	"**REPUBLIC ACT No. 3535**
+
+ **An Act Creating One Additional Position of Assistant Provincial Fiscal in the Province of Cagayan, Amending for the Purpose Section Sixteen Hundred Seventy-Four of the Administrative Code, as Amended**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The provision of Section sixteen hundred seventy-four of the Administrative Code, as amended, relative to the number of assistant provincial fiscals in the Province of Cagayan is further amended to read as follows:
+
+ > ""Cagayan, six assistant provincial fiscals;""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1963.
+"	success	Republic Act	Amends Section 1674 of the Administrative Code to increase the number of assistant provincial fiscals in the Province of Cagayan to six.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 1674 of the Administrative Code to increase assistant provincial fiscals in Cagayan to six.""}, {""title"": ""Section 2"", ""summary"": ""The Act takes effect upon its approval.""}]"	3535	June 20, 1963			To amend Section 1674 of the Administrative Code to increase the number of assistant provincial fiscals in the Province of Cagayan.	"[""Amends Section 1674 of the Administrative Code to increase assistant provincial fiscals in Cagayan to six.""]"	Administrative Code, specifically Section 1674	"[""Cagayan"", ""Assistant Provincial Fiscal"", ""Administrative Code"", ""Republic Act 3535""]"	"[""Cagayan"", ""Assistant Provincial Fiscal"", ""Administrative Code"", ""Section 1674"", ""Republic Act"", ""Philippines"", ""Legislation""]"
+repacts:datasets/markdown/repacts/1963/ra_3536_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3536_1963.md	ra_3536_1963	An Act Making Danao City a Subport of Entry and Authorizing the Appropriation of the Necessary Funds for the Operation of a Customs Service Therein	"**REPUBLIC ACT No. 3536**
+
+ **An Act Making Danao City a Subport of Entry and Authorizing the Appropriation of the Necessary Funds for the Operation of a Customs Service Therein**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Danao City is hereby made a subport of entry under the jurisdiction of the Collector of Customs of Cebu City.
+
+ **Section 2.** There is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, the sum of fifty thousand pesos for the payment of salaries and wages, the purchase of supplies and equipment and for other incidental expenses in connection with the operation of the customs service in Danao City.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1963.
+"	success	Republic Act	This act declares Danao City as a subport of entry under Cebu City customs jurisdiction and appropriates ₱50,000 for customs operations.	"[{""title"": ""Section 1."", ""summary"": ""Danao City is made a subport of entry under the jurisdiction of the Collector of Customs of Cebu City.""}, {""title"": ""Section 2."", ""summary"": ""Authorizes appropriation of \u20b150,000 for salaries, supplies, equipment, and incidental expenses for customs operations in Danao City.""}, {""title"": ""Section 3."", ""summary"": ""Act takes effect upon approval.""}]"	3536	June 20, 1963			To establish Danao City as a subport of entry and provide necessary funds for the operation of a customs service there.	"[""Designation of Danao City as subport of entry"", ""Authorization of \u20b150,000 appropriation"", ""Effective upon approval""]"		"[""Customs"", ""Subport"", ""Danao City"", ""Cebu City"", ""Appropriation""]"	"[""Danao City"", ""Subport"", ""Customs"", ""Appropriation"", ""National Treasury"", ""Collector of Customs""]"
+repacts:datasets/markdown/repacts/1963/ra_3537_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3537_1963.md	ra_3537_1963	An Act Amending Section Thirty-Eight of Republic Act Number Four Hundred Nine, as Amended by Republic Act Numbered Three Thousand Ten	"**REPUBLIC ACT No. 3537**
+
+ **An Act Amending Section Thirty-Eight of Republic Act Number Four Hundred Nine, as Amended by Republic Act Numbered Three Thousand Ten**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section thirty-eight of Republic Act Numbered Four hundred nine, as amended by Republic Act Numbered Eighteen hundred sixty and Republic Act Numbered Three thousand ten, is further amended to read as follows:
+
+ > ""Sec. 38. *The City Fiscal and Assistant City Fiscals.* -There shall be in the Office of the City Fiscal one chief to be known as the City Fiscal with the rank, salary and privileges of a Judge of the Court of First Instance, an assistant chief to be known as the first assistant city fiscal, three second assistant city fiscals who shall be the chiefs of divisions, and fifty-seven assistant fiscals, who shall discharge their duties under the general supervision of the Secretary of Justice. To be eligible for appointment as City Fiscal one must be a natural born citizen of the Philippines and must have practiced law in the Philippines for a period of not less than ten years or held during a like period of an office in the Philippine Government requiring admission to the practice of law as an indispensable requisite. To be eligible for appointment as assistant fiscal one must be a natural born citizen of the Philippines and must have practiced law for at least five years prior to his appointment or held during a like period an office in the Philippine Government requiring admission to the practice of law as an indispensable requisite.
+>
+>  ""The City Fiscal and his assistants shall receive the salaries hereinafter set forth, which shall be paid by the City of Manila:
+>
+>  ""(a) City Fiscal, with the rank, salary and privileges of a Judge of the Court of First Instance. ""(b) First assistant city fiscal, fifteen thousand pesos per annum. ""(c) Three second assistant city fiscals who shall be the chief of the three divisions, fourteen thousand four hundred pesos per annum each. ""(d) Six assistant fiscals, thirteen thousand two hundred pesos per annum each. ""(e) Six assistant fiscals, twelve thousand six hundred pesos per annum each. ""(f) Six assistant fiscals, twelve thousand pesos per annum each. ""(g) Six assistant fiscals, eleven thousand four hundred pesos per annum each. ""(h) Six assistant fiscals, ten thousand eight hundred pesos per annum each. ""(i) Six assistant fiscals, ten thousand two hundred pesos per annum each. ""(j) Six assistant fiscals, nine thousand six hundred pesos per annum each. ""(k) Five assistant fiscals, nine thousand pesos per annum each; Five assistant fiscals, eight thousand four hundred pesos per annum each. ""(l) Five assistant fiscals, seven thousand eight hundred pesos per annum each.""
+
+ **Section 2.** All incumbent fiscals of the City of Manila occupying positions affected by the preceding section at the time of the approval of this Act, shall continue to occupy their respective positions and receive the salary increase herein provided without the necessity of any new appointment.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1963.
+"	success	Legislation	An amendment to Republic Act No. 409 to revise the structure, duties, and salaries of the City Fiscal and its assistants in Manila, including the continuation of incumbent positions.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 38 of RA 409 to define the City Fiscal, first assistant, second assistants, and assistant fiscals, specifying their ranks, qualifications, and detailed salary schedule.""}, {""title"": ""Section 2"", ""summary"": ""Provides that incumbent fiscals occupying affected positions as of the act's approval shall continue in their roles and receive the new salaries without new appointments.""}, {""title"": ""Section 3"", ""summary"": ""States that the act takes effect upon its approval.""}]"	3537	June 20, 1963			To update and clarify the roles, qualifications, and compensation of the City Fiscal and its assistants in Manila.	"[""Amendment to Section 38 of RA 409"", ""Definition of City Fiscal and assistant fiscal positions"", ""Detailed salary schedule for each position"", ""Continuation of incumbent fiscals' positions and salaries""]"	Republic Act No. 409, as amended by RA 1860 and RA 3100	"[""Amendment"", ""City Fiscal"", ""Salary"", ""Manila""]"	"[""City Fiscal"", ""Assistant City Fiscal"", ""Salary"", ""Manila"", ""Republic Act 409""]"
+repacts:datasets/markdown/repacts/1963/ra_3538_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3538_1963.md	ra_3538_1963	An Act to Exempt the Ford Foundation and its Grants from the Payment of Gift, Franchise, Specific, Percentage, Real Property, and All Other Taxes, Duties and Fees and to Exempt Foreign Personnel Engaged in the Ford Foundation Program from the Payment of Income Tax	"**REPUBLIC ACT No. 3538**
+
+ **An Act to Exempt the Ford Foundation and its Grants from the Payment of Gift, Franchise, Specific, Percentage, Real Property, and All Other Taxes, Duties and Fees and to Exempt Foreign Personnel Engaged in the Ford Foundation Program from the Payment of Income Tax**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The provisions of existing laws or ordinances to the contrary notwithstanding, the Ford Foundation shall be exempt from the payment of gift, franchise, specific, percentage, real property and all other taxes, duties and fees provided under existing laws or ordinances. This exemption shall extend to goods imported under the Ford Foundation grants for scientific, educational and training purposes to government organizations and private institutions recognized by the government and to goods brought in or imported for the personal use of foreign personnel whose services are paid by the Ford Foundation, or from funds granted by the Ford Foundation: *Provided,* However, That this exemption is without prejudice to the collection of customs duties and taxes on goods or articles brought or imported into the Philippines for the use of such foreign personnel should such goods or articles subsequently be sold, transferred or exchanged in the Philippines to persons or entities not entitled to exemption from said customs duties and taxes pursuant to existing laws and regulations governing the matter.
+
+ **Section 2.** Non-Filipino citizens serving on the staff of the Ford Foundation grants shall be exempted from the payment of income tax on salaries and stipends in dollars received solely and by reason of service rendered under the Ford Foundation program.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1963.
+"	success	Act	This act exempts the Ford Foundation and its grants from various taxes and exempts foreign personnel engaged in its program from income tax.	"[{""title"": ""Section 1"", ""summary"": ""Exempts the Ford Foundation from gift, franchise, specific, percentage, real property, and other taxes, and extends exemption to goods imported for scientific, educational, and training purposes, with customs duty conditions.""}, {""title"": ""Section 2"", ""summary"": ""Exempts non-Filipino staff of the Ford Foundation from income tax on salaries and stipends received solely for service under the program.""}, {""title"": ""Section 3"", ""summary"": ""Act takes effect upon approval.""}]"	3538	June 20, 1963			To exempt the Ford Foundation and foreign personnel from specified taxes.	"[""Exemption of Ford Foundation from gift, franchise, specific, percentage, real property and other taxes."", ""Exemption of goods imported under Ford Foundation grants for scientific, educational and training purposes."", ""Exemption of foreign personnel from income tax on salaries and stipends."", ""Customs duties applicable if goods are sold to non-exempt persons.""]"		"[""Tax Exemption"", ""Foreign Personnel"", ""Ford Foundation""]"	"[""Ford Foundation"", ""tax exemption"", ""foreign personnel"", ""income tax"", ""gift tax"", ""franchise tax""]"
+repacts:datasets/markdown/repacts/1963/ra_3539_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3539_1963.md	ra_3539_1963	An Act Authorizing the Commission on Elections to Use Savings from its Appropriations for the Construction of a Permanent Office Building	"**REPUBLIC ACT No. 3539**
+
+ **An Act Authorizing the Commission on Elections to Use Savings from its Appropriations for the Construction of a Permanent Office Building**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The provision of any law to the contrary notwithstanding, the Commission on Elections is hereby authorized to use savings from election funds, but in no case to exceed two million five hundred thousand pesos, for the construction of a permanent office building including the necessary accessories, furnishings, and equipment facilities.
+
+ **Section 2.** This Act shall take upon its approval.
+
+ Approved: June 20, 1963.
+"	success	Republic Act	Authorizes the Commission on Elections to use savings from election funds up to two million five hundred thousand pesos for the construction of a permanent office building, including necessary accessories, furnishings, and equipment facilities.	"[{""title"": ""Section 1"", ""summary"": ""Authorizes the COE to use savings from election funds, but not to exceed two million five hundred thousand pesos, for the construction of a permanent office building including necessary accessories, furnishings, and equipment facilities.""}, {""title"": ""Section 2"", ""summary"": ""The Act shall take effect upon its approval.""}]"	3539	June 20, 1963			To authorize the Commission on Elections to use savings from its election funds for constructing a permanent office building.	"[""COE may use savings up to 2,500,000 pesos for construction of the permanent office building."", ""Act becomes effective upon approval.""]"		"[""Electoral law"", ""Construction"", ""Commission on Elections""]"	"[""Commission on Elections"", ""savings"", ""permanent office building"", ""construction"", ""election funds"", ""Philippines""]"
+repacts:datasets/markdown/repacts/1963/ra_3540_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3540_1963.md	ra_3540_1963	An Act to Amend Section Seventy-Two of the Insurance Act, (Act. No. 2427) As Amended (re-payment of premium on insurance policies).	"**REPUBLIC ACT No. 3540**
+
+ AN ACT TO AMEND SECTION SEVENTY-TWO OF THE INSURANCE ACT, (Act. No. 2427) AS AMENDED (re-payment of premium on insurance policies).
+
+ **Section 1.** Section Seventy-two of the Insurance Act, (Act No. 2427) As amended, is hereby amended to read as follows:
+
+ ""Sec. 72. An insurer is entitled to payment of the premium as soon as the thing insured is exposed to the peril insured against, unless there is clear agreement to grant the insured credit extension of the premium due. No policy issued by an insurance company is valid and binding unless and until the premium thereof has been paid.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1963
+"	success	Republic Act	This law amends Section 72 of the Insurance Act to clarify that insurers are entitled to premium payment immediately upon exposure of the insured item, and that insurance policies are invalid until the premium has been paid.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 72 to state that an insurer is entitled to payment of the premium as soon as the insured item is exposed to the peril, unless a clear agreement provides credit extension, and that a policy is only valid when the premium has been paid.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	3540	June 20, 1963			To clarify and enforce the payment of premiums in insurance contracts under Section 72 of the Insurance Act.	"[""Insurers are entitled to premium payment upon exposure of the insured item."", ""Insurance policies are invalid until premiums are paid.""]"	Insurance Act (Act No. 2427) – Section 72	"[""Insurance"", ""Premium"", ""Policy""]"	"[""insurance"", ""premium"", ""policy"", ""payment"", ""exposure"", ""peril""]"
+repacts:datasets/markdown/repacts/1963/ra_3541_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3541_1963.md	ra_3541_1963	An Act Constituting the Province of Cagayan into Two Highway Engineering Districts.	"**REPUBLIC ACT No. 3541**
+
+ **An Act Constituting the Province of Cagayan into Two Highway Engineering Districts.**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Any provision of law to the contrary notwithstanding, upon the recommendation of the Commissioner of Public Highways and upon approval of the Secretary of Public Works and Communications, the Province of Cagayan shall be constituted into two highway engineering districts, the first engineering district to comprise the first congressional district and the second, to comprise the second congressional district.
+
+ **Section 2.** Each engineering district shall have one highway district engineer who shall be appointed in accordance with existing laws.
+
+ **Section 3.** Any provision of any law, rule or regulation to the contrary notwithstanding, the minimum qualification for the position of district highway engineer as provided in Section one hereof, shall be Supervising Civil Engineer I.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1963.
+"	success	Republic Act	An act that establishes two highway engineering districts in the Province of Cagayan, designating each district with a highway district engineer whose minimum qualification is Supervising Civil Engineer I.	"[{""title"": ""Section 1."", ""summary"": ""The Province of Cagayan is constituted into two highway engineering districts, the first encompassing the first congressional district and the second encompassing the second congressional district, upon recommendation of the Commissioner of Public Highways and approval of the Secretary of Public Works and Communications.""}, {""title"": ""Section 2."", ""summary"": ""Each engineering district shall have one highway district engineer appointed in accordance with existing laws.""}, {""title"": ""Section 3."", ""summary"": ""The minimum qualification for the position of district highway engineer shall be Supervising Civil Engineer I, notwithstanding any contrary provision.""}, {""title"": ""Section 4."", ""summary"": ""The Act shall take effect upon its approval.""}]"	3541	June 21, 1963			To establish two highway engineering districts in the Province of Cagayan and define the appointment and qualification of district highway engineers.	"[""Province of Cagayan divided into two highway engineering districts"", ""Each district has one highway district engineer"", ""Minimum qualification is Supervising Civil Engineer I"", ""Act takes effect upon approval""]"		"[""Cagayan"", ""Highway Engineering District"", ""Republic Act"", ""Infrastructure""]"	"[""Cagayan"", ""highway engineering"", ""district engineer"", ""public works"", ""Republic Act 3541""]"
+repacts:datasets/markdown/repacts/1963/ra_3542_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3542_1963.md	ra_3542_1963	An Act to Provide for the Establishment of an Emergency Hospital in the Municipality of Talisayan, Province of Misamis Oriental, and to Authorize the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 3542**
+
+ **An Act to Provide for the Establishment of an Emergency Hospital in the Municipality of Talisayan, Province of Misamis Oriental, and to Authorize the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established under the direct supervision of the Department of Health, one emergency hospital in the Municipality of Talisayan, Province of Misamis Oriental, to be known as the Talisayan Emergency Hospital.
+
+ **Section 2.** The sum of four hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital during the fiscal year nineteen hundred sixty-four: *Provided,* That thereafter, such sums as may be needed for the operation and maintenance of this hospital shall be included in the annual General Appropriation Acts.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1963.
+"	success	Republic Act	The act establishes an emergency hospital in Talisayan, Misamis Oriental, and appropriates funds for its construction, operation, and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of one emergency hospital under the direct supervision of the Department of Health.""}, {""title"": ""Section 2."", ""summary"": ""Appropriation of four hundred thousand pesos for the construction, operation, and maintenance of the hospital for FY 1964, with future funds to be included in General Appropriation Acts.""}, {""title"": ""Section 3."", ""summary"": ""The act takes effect upon its approval.""}]"	3542	June 21, 1963			To provide an emergency hospital in Talisayan and fund its establishment and operation.	"[""Establishment of an emergency hospital under DOH supervision"", ""Appropriation of 400,000 pesos for construction and operation"", ""Future operation funds to be included in General Appropriation Acts"", ""Act takes effect upon approval""]"		"[""Healthcare"", ""Emergency Hospital"", ""Local Government"", ""Misamis Oriental"", ""Department of Health""]"	"[""Emergency Hospital"", ""Talisayan"", ""Misamis Oriental"", ""Department of Health"", ""Appropriation"", ""National Treasury""]"
+repacts:datasets/markdown/repacts/1963/ra_3543_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3543_1963.md	ra_3543_1963	An Act Providing for the Reconstruction of the Cadastral Records for the Province of Lanao del Sur, and Authorizing the Appropriation of the Sum of Three Hundred Thousand Pesos Therefor	"**REPUBLIC ACT No. 3543**
+
+ **An Act Providing for the Reconstruction of the Cadastral Records for the Province of Lanao del Sur, and Authorizing the Appropriation of the Sum of Three Hundred Thousand Pesos Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sum of three hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the reconstitution of the cadastral survey records for the Province of Lanao del Sur.
+
+ **Section 2.** The Director of Lands, with the approval of the Secretary of Agriculture and Natural Resources, shall issue rules and regulations to carry into effect the provisions of this Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1963.
+"	success	Act	This act authorizes the appropriation of ₱300,000 for the reconstitution of cadastral survey records in Lanao del Sur and mandates the issuance of rules to implement the provisions.	"[{""title"": ""Section 1"", ""summary"": ""Authorizes the appropriation of \u20b1300,000 from the National Treasury for reconstituting cadastral survey records of Lanao del Sur.""}, {""title"": ""Section 2"", ""summary"": ""Directs the Director of Lands, with approval from the Secretary of Agriculture and Natural Resources, to issue rules and regulations to enforce the act.""}, {""title"": ""Section 3"", ""summary"": ""States that the act takes effect upon approval.""}]"	3543	June 21, 1963			Reconstitution of cadastral survey records for the Province of Lanao del Sur and appropriation of necessary funds.	"[""Appropriation of \u20b1300,000 for cadastral record reconstruction"", ""Issuance of rules and regulations by the Director of Lands"", ""Act takes effect upon approval""]"		"[""Cadastral Records"", ""Land Survey"", ""Reconstruction"", ""Lanao del Sur""]"	"[""cadastral"", ""records"", ""Lanao del Sur"", ""appropriation"", ""land"", ""survey"", ""reconstruction""]"

@@ -1,0 +1,239 @@
+
+ Approved,
+
+ **AQUILINO ""KOKO"" PIMENTEL** President of the Senate
+
+ **PANTALEON D. ALVAREZ** Speaker of the House of Representatives
+
+ This Act which is a consolidation of House Bill No. 5636 and Senate Bill No. 1592 was passed by the House of Representatives and the Senate on December 13, 2017.
+
+ **LUTGARDO BARBO** Secretary of the Senate
+
+ **CESAR STRAIT PAREJA** Secretary General House of Representatives
+
+ Approved: December 19, 2017
+
+ (Sgd.) **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Tax Reform	The TRAIN Act amends the National Internal Revenue Code to enhance tax progressivity, provide equitable relief to taxpayers, and modify various tax provisions, including the powers of the Commissioner and real property valuations.	"[{""title"": ""Title."", ""summary"": ""This Act shall be known as the 'Tax Reform for Acceleration and Inclusion (TRAIN)'.""}, {""title"": ""Declaration of Policy."", ""summary"": ""States policy to enhance progressivity of the tax system, provide equitable relief to taxpayers, and support infrastructure, health, education, jobs, and social protection.""}, {""title"": ""Amended Section 5 of the National Internal Revenue Code."", ""summary"": ""Expands the Commissioner's power to obtain information and summon, examine, and take testimony of persons related to tax compliance.""}, {""title"": ""Amended Section 6 of the National Internal Revenue Code."", ""summary"": ""Expands the Commissioner's authority to assess tax, prescribe additional requirements, and set real property valuations.""}, {""title"": ""Amended Section 24 of the National Internal Revenue Code."", ""summary"": ""Revises income tax rates for individuals.""}]"	10963	July 24, 2017			To reform the Philippine tax system, enhance progressivity, provide relief, and streamline tax administration.	"[""Amendment to Sections 5, 6, and 24 of the National Internal Revenue Code"", ""Enhanced powers of the Commissioner to obtain information and assess tax"", ""Revised income tax rates for individuals and residents"", ""Implementation of real property valuation adjustments"", ""Inclusion of tax incentive reporting within the TIMTA framework""]"	National Internal Revenue Code of 1997 (Sections 5, 6, 24, 25, 27, 31, 32, 33, 34, 51, 52, 56, 57, 58, 74, 79, 84, 86, 90, 91, 97, 99, 100, 101, 106, 107, 108, 109, 110, 112, 114, 116, 127, 128, 129, 145, 148, 149, 151, 155, 171, 174, 175, 177, 178, 179, 180, 181, 182, 183, 186, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 232, 236, 237, 249, 254, 264, 269, and 288; Creation of new Sections 51-A, 148-A, 150-A, 150-B, 237-A, 264-A, 264-B, and 265-A; Repeal of Sections 35, 62, and 89.	"[""Tax Reform"", ""Revenue"", ""TRAIN"", ""Philippines""]"	"[""tax"", ""reform"", ""progressivity"", ""inclusion"", ""income tax"", ""assessment"", ""incentives"", ""NIRC"", ""Commissioner""]"
+repacts:datasets/markdown/repacts/2017/ra_10965_2017.md	repacts	2017		datasets/markdown/repacts/2017/ra_10965_2017.md	ra_10965_2017	An Act Establishing a National Science High School in the City of Laoag, Province of Ilocos Norte to be Known as Rodolfo CG. Fariñas, Jr. National Science High School and Appropriating Funds Therefor	"**Seventeenth Congress Second Regular Session Begun and held in Metro Manila, on Monday, the twenty-fourth day of July, two thousand seventeen.**
+
+ **REPUBLIC ACT No. 10965**
+
+ An Act Establishing a National Science High School in the City of Laoag, Province of Ilocos Norte to be Known as Rodolfo CG. Fariñas, Jr. National Science High School and Appropriating Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.***Establishment of a National Science High School.* - There is hereby established, under the supervision of the Department of Education, a national science high school in the City of Laoag, Province of Ilocos Norte to be known as Rodolfo CG. Farinas, Jr. National Science High School.
+
+ **Section 2.***Appropriations.* - The Secretary of Education shall immediately include in the Departments program the operationalization of the Rodolfo CG. Farinas, Jr. National Science High School, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 3.***Implementation.* - The Secretary of Education shall formulate the rules and regulations implementing the provisions of this Act within one hundred twenty (120) days after its effectivity.
+
+ **Section 4.***Effectivity.* - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ **AQUILINO ""KOKO"" PIMENTEL** President of the Senate
+
+ **PANTALEON D. ALVAREZ** Speaker of the House of Representatives
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives on August 9, 2017, amended by the Senate on December 11, 2017, and which amendments were concurred in by the House of Representatives on December 12, 2017.
+
+ **LUTGARDO BARBO** Secretary of the Senate
+
+ **CESAR STRAIT PAREJA** Secretary General House of Representatives
+
+ Approved: December 28, 2017
+
+ (Sgd.) **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	Establishes a national science high school in Laoag, Ilocos Norte, named Rodolfo CG. Fariñas, Jr. National Science High School, and appropriates funds for its operationalization.	"[{""title"": ""Section 1. Establishment of a National Science High School"", ""summary"": ""A national science high school is established in Laoag under the supervision of the Department of Education.""}, {""title"": ""Section 2. Appropriations"", ""summary"": ""Funds for the school's operationalization are to be included in the Department of Education's program and the General Appropriations Act.""}, {""title"": ""Section 3. Implementation"", ""summary"": ""Rules and regulations for implementation to be formulated within 120 days after effectivity.""}, {""title"": ""Section 4. Effectivity"", ""summary"": ""Act takes effect 15 days after publication in Official Gazette or a newspaper of general circulation.""}]"	10965	December 28, 2017			To establish a national science high school in Laoag and provide funding for its operationalization.	"[""Establishment of the school under Department of Education supervision."", ""Appropriation of funds for operationalization."", ""Implementation rules to be formulated within 120 days."", ""Effectivity 15 days after publication.""]"		"[""Education"", ""Science"", ""High School"", ""Ilocos Norte"", ""Rodolfo Fari\u00f1as""]"	"[""National Science High School"", ""Laoag"", ""Ilocos Norte"", ""Department of Education"", ""Appropriations"", ""Implementation""]"
+repacts:datasets/markdown/repacts/2017/ra_10966_2017.md	repacts	2017		datasets/markdown/repacts/2017/ra_10966_2017.md	ra_10966_2017	An Act Declaring December 8 of Every Year a Special Nonworking Holiday in the Entire Country to Commemorate the Feast of the Immaculate Conception of Mary, the Principal Patroness of the Philippines	"**Seventeenth Congress Second Regular Session Begun and held in Metro Manila, on Monday, the twenty-fourth day of July, two thousand seventeen.**
+
+ **REPUBLIC ACT No. 10966**
+
+ An Act Declaring December 8 of Every Year a Special Nonworking Holiday in the Entire Country to Commemorate the Feast of the Immaculate Conception of Mary, the Principal Patroness of the Philippines
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** December 8 of every year is hereby declared a special nonworking holiday in the entire country to commemorate the Feast of the Immaculate Conception of Mary, the Principal Patroness of the Philippines.
+
+ **Section 2.** This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ **AQUILINO ""KOKO"" PIMENTEL** President of the Senate
+
+ **PANTALEON D. ALVAREZ** Speaker of the House of Representatives
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate on May 2, 20017 and December 11, 2017, respectively.
+
+ **LUTGARDO BARBO** Secretary of the Senate
+
+ **CESAR STRAIT PAREJA** Secretary General House of Representatives
+
+ Approved: December 28, 2017
+
+ (Sgd.) **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	This law declares December 8 as a special nonworking holiday nationwide to honor the Feast of the Immaculate Conception of Mary, with effect starting fifteen days after publication.	"[{""title"": ""Section 1."", ""summary"": ""December 8 of every year is hereby declared a special nonworking holiday in the entire country to commemorate the Feast of the Immaculate Conception of Mary, the Principal Patroness of the Philippines.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.""}]"	10966	December 28, 2017	"[{""name"": ""AQUILINO \""KOKO\"" PIMENTEL"", ""title"": ""President of the Senate""}, {""name"": ""PANTALEON D. ALVAREZ"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""LUTGARDO BARBO"", ""title"": ""Secretary of the Senate""}, {""name"": ""CESAR STRAIT PAREJA"", ""title"": ""Secretary General House of Representatives""}]"	To declare December 8 as a special nonworking holiday nationwide to commemorate the Feast of the Immaculate Conception of Mary.	"[""Declares December 8 as a special nonworking holiday nationwide"", ""Act takes effect fifteen days after publication""]"		"[""holiday"", ""nonworking holiday"", ""Immaculate Conception"", ""Philippines"", ""RA 10966""]"	"[""December 8"", ""Immaculate Conception"", ""holiday"", ""nonworking"", ""Philippines""]"
+repacts:datasets/markdown/repacts/2018/ra_10967_2018.md	repacts	2018		datasets/markdown/repacts/2018/ra_10967_2018.md	ra_10967_2018	AN ACT CREATING A BARANGAY TO BE KNOWN AS BARANGAY PUDO IN THE MUNICIPALITY OF NATONIN, MOUNTAIN PROVINCE	"**REPUBLIC ACT No. 10967**
+
+ AN ACT CREATING A BARANGAY TO BE KNOWN AS BARANGAY PUDO IN THE MUNICIPALITY OF NATONIN, MOUNTAIN PROVINCE
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** *Creation of Barangay Pudo.* There is hereby created a barangay to be known as Barangay Pudo in the Municipality of Natonin, Mountain Province.
+
+ **Section 2.** *Territorial Boundaries.* The territorial boundaries of Barangay Pudo shall be identified as follows:
+
+ > Bounded on the Northeast (NE) along line 1 to 2 by Barangay Alunogan;
+>
+>  On the Southwest (SW) along line 6 to 12 by Barangay Tonglayan:
+>
+>  On the Southwest (SW) along line 12 to 15 by Barangay Tonglayan:
+>
+>  On the Northeast (NE) along line 15 to 1 by Barangay Tanudan River.
+>
+>  The technical description of Barangay Pudo is as follows:
+>
+>  | MPV 8 (PRS-92), NATONIN |  |  |  |  |  |  |
+> | --- | --- | --- | --- | --- | --- | --- |
+> | N.1892, 239.281 E. 529,075.276 |  |  |  |  |  |  |
+> | 1 = BBM 16 N = 1899957.26 E = 522958.33 | 2 | S | 16 | 14 | E | 9,344.08 |
+> | 2 | 3 | S | 67 | 34 | E | 132.96 |
+> | 3 | 4 | S | 36 | 57 | E | 308.86 |
+> | 4 | 5 | S | 47 | 39 | E | 506.33 |
+> | 5 | 6 | S | 18 | 18 | E | 993.64 |
+> | 6 | 7 | S | 88 | 52 | W | 336.51 |
+> | 7 | 8 | N | 70 | 24 | W | 1,611.5 |
+> | 8 | 9 | N | 40 | 48 | W | 305.03 |
+> | 9 | 10 | N | 34 | 10 | W | 262.38 |
+> | 10 | 11 | N | 62 | 17 | W | 156.53 |
+> | 11 | 12 | N | 36 | 50 | W | 621.78 |
+> | 12 | 13 | N | 43 | 37 | W | 681.29 |
+> | 13 | 14 | N | 30 | 4 | W | 607.6 |
+> | 14 | 15 | N | 7 | 19 | W | 5678.81 |
+> | 15 | 16 | N | 73 | 14 | W | 204.2 |
+> | 17 | 18 | N | 35 | 5 | W | 42.44 |
+> | 18 | 19 | N | 10 | 2 | E | 50.66 |
+> | 19 | 20 | N | 54 | 47 | E | 95.28 |
+> | 21 | 22 | N | 47 | 55 | E | 179.77 |
+> | 22 | 23 | N | 88 | 20 | E | 183.4 |
+> | 23 | 24 | N | 3 | 41 | E | 186.44 |
+> | 24 | 25 | N | 12 | 24 | E | 43.52 |
+> | 25 | 26 | N | 24 | 3 | W | 47.12 |
+> | 26 | 27 | N | 42 | 47 | W | 97.42 |
+> | 27 | 28 | N | 65 | 27 | W | 190.19 |
+> | 28 | 29 | N | 49 | 38 | W | 78.98 |
+> | 29 | 30 | N | 16 | 38 | W | 100.08 |
+> | 30 | 31 | N | 0 | 47 | E | 81.96 |
+> | 31 | 32 | N | 50 | 48 | E | 180.93 |
+> | 32 | 33 | N | 26 | 32 | E | 91.24 |
+> | 33 | 34 | N | 15 | 49 | E | 40.29 |
+> | 34 | 35 | N | 4 | 54 | W | 50.93 |
+> | 35 | 36 | N | 0 | 31 | W | 90.57 |
+> | 36 | 37 | N | 37 | 23 | E | 78.42 |
+> | 37 | 38 | N | 52 | 43 | E | 179.62 |
+> | 39 | 40 | N | 60 | 51 | E | 230.45 |
+> | 40 | 41 | N | 26 | 29 | E | 46.73 |
+> | 41 | 42 | N | 4 | 24 | E | 126.61 |
+> | 42 | 1 | N | 7 | 39 | W | 279.09 |
+>
+>  Containing an area of 16,129,467 square meters, more or less.
+
+ **Section 3.** *Conduct and Supervision of Plebiscite.* The plebiscite conducted and supervised by the Commission on Elections (COMELEC) on December 2, 1994 pursuant to Provincial Ordinance No. 1-S-91 of the Sangguniang Panlalawigan of Mountain Province, which ratified the creation of Barangay Pudo, shall serve as substantial compliance with the plebiscite requirement under Section 10 of Republic Act No. 7160, as amended, otherwise known the ""Local Government Code of 1991"".
+
+ **Section 4.** *Incumbent Barangay Officials.* The incumbent barangay officials of Barangay Pudo, Municipality of Natonin, Mountain Province shall continue to hold office until such time that their successors have been duly elected and qualified.
+
+ **Section 5.** *Public Infrastructure and Facilities.* All public infrastructure and facilities for public use existing therein at the time of the approval of this Act are hereby transferred without cost or compensation to and shall be administered by the new barangay.
+
+ **Section 6.** *Internal Revenue Allotment Shares.* Barangay Pudo shall be entitled to Internal Revenue Allotment (IRA) shares pursuant to Section 285 of Republic Act No. 7160, as amended, otherwise known as the ""Local Government Code of 1991"".
+
+ **Section 7.** *Effectivity.* This Act shall take effect fifteen (15) days after its publication in the *Official Gazette* or in newspaper of general circulation.
+
+ Approved,
+
+ **AQUILINO ""KOKO"" PIMENTEL III** President of the Senate
+
+ **PANTALEON D. ALVAREZ** Speaker of the House of Representatives
+
+ This Act which originated in the House of Representatives on March 13, 2017, amended by the Senate on August 14, 2017, and which amendments were concurred in by the House of Representatives on October 9, 2017.
+
+ **LUTGARDO B. BARBO** Secretary of the Senate
+
+ **CESAR STRAIT PAREJA** Secretary General House of Representatives
+
+ Approved: January 03, 2013
+
+ **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	This act creates Barangay Pudo in the Municipality of Natonin, Mountain Province, defines its boundaries, confirms its creation by plebiscite, and provides for the transfer of existing public infrastructure, IRA entitlements, and continuity of officials until successors are elected.	"[{""title"": ""Creation of Barangay Pudo."", ""summary"": ""Establishes Barangay Pudo in Municipality of Natonin, Mountain Province.""}, {""title"": ""Territorial Boundaries."", ""summary"": ""Defines boundaries and technical description of Barangay Pudo, containing an area of approximately 16,129,467 square meters.""}, {""title"": ""Conduct and Supervision of Plebiscite."", ""summary"": ""Plebiscite conducted on December 2, 1994 under Provincial Ordinance No. 1-S-91 ratified the creation of Barangay Pudo, satisfying compliance with Section 10 of Republic Act No. 7160.""}, {""title"": ""Incumbent Barangay Officials."", ""summary"": ""Incumbent officials of Barangay Pudo shall continue to hold office until successors are duly elected and qualified.""}, {""title"": ""Public Infrastructure and Facilities."", ""summary"": ""Transfers all existing public infrastructure and facilities in Barangay Pudo to the new barangay without cost or compensation.""}, {""title"": ""Internal Revenue Allotment Shares."", ""summary"": ""Barangay Pudo shall be entitled to Internal Revenue Allotment shares pursuant to Section 285 of Republic Act No. 7160.""}, {""title"": ""Effectivity."", ""summary"": ""The act shall take effect fifteen (15) days after its publication in the Official Gazette or a newspaper of general circulation.""}]"	10967	January 03, 2013	"[{""name"": ""AQUILINO \""KOKO\"" PIMENTEL III"", ""title"": ""President of the Senate""}, {""name"": ""PANTALEON D. ALVAREZ"", ""title"": ""Speaker of the House of Representatives""}, {""name"": ""LUTGARDO B. BARBO"", ""title"": ""Secretary of the Senate""}, {""name"": ""CESAR STRAIT PAREJA"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""RODRIGO ROA DUTERTE"", ""title"": ""President of the Philippines""}]"		To create a new barangay, Barangay Pudo, in the Municipality of Natonin, Mountain Province.	"[""Creation of Barangay Pudo"", ""Definition of territorial boundaries"", ""Confirmation of plebiscite and compliance with Local Government Code"", ""Continuity of incumbent barangay officials until election of successors"", ""Transfer of public infrastructure and facilities to the new barangay"", ""Entitlement to Internal Revenue Allotment shares"", ""Effectivity after publication""]"	Republic Act No. 7160 (Local Government Code of 1991)	"[""Barangay"", ""Local Government"", ""Administrative Division""]"	"[""Barangay Pudo"", ""Natonin"", ""Mountain Province"", ""Local Government Code"", ""IRA"", ""Plebiscite"", ""Administrative Law""]"
+repacts:datasets/markdown/repacts/2018/ra_10968_2018.md	repacts	2018		datasets/markdown/repacts/2018/ra_10968_2018.md	ra_10968_2018	AN ACT INSTITUTIONALIZING THE PHILIPPINE QUALIFICATIONS FRAMEWORK (POF), ESTABLISHING THE PQF-NATIONAL COORDINATING COUNCIL (NCC) AND APPROPRIATING FUNDS THEREFOR	"**REPUBLIC ACT No. 10968**
+
+ AN ACT INSTITUTIONALIZING THE PHILIPPINE QUALIFICATIONS FRAMEWORK (POF), ESTABLISHING THE PQF-NATIONAL COORDINATING COUNCIL (NCC) AND APPROPRIATING FUNDS THEREFOR
+
+ *Be it enacted by the Senate and House of Representatives of the* *Philippines in Congress assembled:*
+
+ **Section 1.** *Short Title.* - This Act shall be known as the ""PQF Act"".
+
+ **Section 2.** *Declaration of Policy.* - Pursuant to the constitutional guarantee for the State to promote the right of all citizens to quality and accessible education at all levels, the State shall establish, maintain, and support a complete, adequate and integrated system of education relevant to the needs of the people and society.
+
+ In recognition of the important role of education and training in national development, it is hereby declared the policy of the State to institutionalize the Philippine Qualifications Framework (PQF) to encourage lifelong learning of individuals, provide employees specific training standards and qualifications aligned with industry standards, ensure that training and educational institutions comply with specific standards and are accountable for achieving corresponding learning outcomes, and provide government with a common taxonomy and qualifications typology as bases for recognizing education and training programs as well as the qualifications formally awarded and their equivalents.
+
+ **Section 3.***Definition of Terms. - As used in this Act:*
+
+ > (a) Basic Education refers to that part of the educational system intended to meet basic learning needs and provides the foundation on which subsequent learning can be based. It encompasses kindergarten, elementary and secondary education as well as alternative learning systems for out-of-school youth and those with special needs;
+>
+>  (b) *Higher Education* refers to post-secondary education offered usually by universities, colleges, academies, or professional/technical institutions with programs leading to academic degrees at the baccalaureate level and academic degrees, diplomas or certificates at the post-baccalaureate levels;
+>
+>  (c) *Qualification* refers to a formal certification that a person has successfully achieved specific learning outcomes relevant to the identified academic, industry or community requirements. A qualification confers official recognition of value in the labor market and in further education and training;
+>
+>  (d) *Technical Vocational Education and Training* refers to the education involving the study of technology-related sciences, in addition to general education, as well as the acquisition of practical skills relating to occupations in various sectors of economic life and social life, and which comprises formal (organized programs as part of the school system) and non-formal (organized classes outside the school system) approaches; and
+>
+>  (e) *Trifocalized Education and Training* refers to the shared administration of the education system by the three (3) agencies responsible for each education level: the Department of Education (DepED) for basic education; the Technical Education and Skills Development Authority (TESDA) for technical-vocational education and training; and the Commission on Higher Education (CHED) for higher education.
+
+ **Section 4.** *Philippine Qualifications Framework (PDF).* - A PQF shall be established which shall describe the levels of educational qualifications and sets the standards for qualification outcomes. It is a quality assured national system for the development, recognition and award of qualifications based on standards of knowledge, skills and values acquired in different ways and methods by learners and workers of the country.
+
+ > The PQF shall have the following objectives:
+>
+>  (a) To adopt national standards and levels of learning outcomes of education;
+>
+>  (b) To support the development and maintenance of pathways and equivalencies that enable access to qualifications and to assist individuals to move easily and readily between the different education and training sectors and between these sectors and the labor market; and
+>
+>  (c) To align domestic qualification standards with the international qualifications framework thereby enhancing recognition of the value and comparability of Philippine qualifications and supporting the mobility of Filipino students and workers.
+
+ **Section 5.** *Philippine Qualifications Framework-National Coordinating Council (PQF-NCC).* - In order to harmonize and promote a seamless education and training system, the PQF-NCC is hereby established. It shall be composed of the following:
+
+ > 1. The Secretary, DepED, as Chairperson;
+> 2. The Secretary, Department of Labor and Employment (DOLE), as member;
+> 3. The Chairperson, CHED, as member;
+> 4. The Director General, TESDA, as member;
+> 5. The Chairperson, Professional Regulation Commission (PRC), as member;
+> 6. (1) representative of the economic sector, as member; and
+> 7. One (1) representative of the industry sector, as member.
+
+ The PQF-NCC shall be chaired by the DepED Secretary and shall have the following powers and functions:
+
+ > (1) To harmonize qualification levels across basic, technical-vocational and higher education;
+>
+>  (2) To align education standards and learning outcomes with the level descriptors contained in the PQF;
+>
+>  (3) To promote the PQF and its elements, including the principles, key features, definitions or terminologies, structure, and governance arrangements, and provide information and guidelines in the implementation of the PQF;
+>
+>  (4) To rationalize the quality assurance mechanisms in Philippine education;
+>
+>  (5) To develop and recognize pathways and equivalencies;
+>
+>  (6) To maintain the national registry of qualifications;
+>
+>  (7) To ensure the international alignment of the PQF with the qualification frameworks of other countries or regions;
+>
+>  (8) To create technical working groups in support of the development and implementation of the PQF;
+>
+>  (9) To represent the country in international fora or negotiations in line with qualifications agreements or arrangements;
+>
+>  (10) To review and update the PQF;
+>
+>  (11) To submit to the Office of the President, the Senate of the Philippines, and the House of Representatives an updated report on the progress and accomplishments in relation to the PQF; and
+>
+>  (12) To perform such other functions that may be related to the implementation of the PQF.
+
+ **Section 6.** *Establishment of the PQF-NCC Working Groups.* - To pursue the implementation of the PQF, working groups shall be established, especially in the areas of qualifications register, quality assurance, pathways and equivalencies, information and guidelines, and international alignment.

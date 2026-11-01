@@ -1,0 +1,187 @@
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section one of Republic Act Numbered One thousand three hundred ninety-two is amended to read as follows:
+
+ > ""Sec. 1. Ramie threads, yarns, textiles and industrial fabrics hereinafter also called ramie goods, when processed abroad from one hundred per cent ramie fiber grown in the Philippines and brought direct from the farmer-producers or from any of their cooperatives by any government agency designated by the President of the Philippines and by it exported abroad in exchange therefor when their importation is made through the government agency so designated by the President shall be exempt from the payment of customs duties under the tariff laws in force and the special import tax under Republic Act Numbered One thousand three hundred ninety-four: *Provided,* That such tax-exempt importation herein contemplated shall be allocated proportionately among the original farmer-producers or any of their cooperatives from whom the government agency herein specified obtained the ramie fiber for processing abroad.
+>
+>  ""The exemption above granted shall cease two years after the date of approval of this amendatory Act or at any earlier date upon proclamation by the President, upon recommendation of the National Economic Council, to the effect that sufficient degumming, spinning and/or weaving mills to process the entire production of ramie fiber have been established in the country.""
+
+ **Section 2.** The title of Republic Act Numbered One thousand three hundred ninety-two is amended to read as follows:
+
+ > ""An Act exempting textiles made of one hundred per cent Philippine ramie fiber from the payment of duty and the special import tax to provide incentives for the development of the ramie industry.""
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1957.
+"	success	Republic Act	The act changes the name of Naawan River to Manticao River.	"[{""title"": ""Section 1."", ""summary"": ""The name of Naawan River in the Municipality of Manticao, Province of Misamis Oriental, is changed to Manticao River.""}, {""title"": ""Section 2."", ""summary"": ""This act shall take effect upon its approval.""}]"	1756	June 21, 1957			To change the name of Naawan River to Manticao River.	"[""The name of Naawan River is changed to Manticao River."", ""The act shall take effect upon its approval.""]"		"[""Geography"", ""Local Government""]"	"[""Naawan River"", ""Manticao River"", ""Misamis Oriental"", ""Name change"", ""Republic Act 1756""]"
+repacts:datasets/markdown/repacts/1957/ra_1769_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1769_1957.md	ra_1769_1957	An Act Creating the Barrio of Sinonogan in the Municipality of Pambujan, Province of Samar	"**REPUBLIC ACT No. 1769**
+
+ **An Act Creating the Barrio of Balading in the Municipality of Cuyo, Province of Palawan**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Balading in the Municipality of Cuyo, Province of Palawan, is converted into a barrio of said municipality, to be known as the barrio of Balading.
+
+ **Section 2.** This act shall take effect upon its approval.
+
+ Approved: June 21, 1957.
+"	success	Republic Act	The act creates the barrio of Sinonogan in Pambujan, Samar, by constituting several sitios into one barrio; it takes effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Constitutes the sitios of Canagman, Pamantangan, Cabalyanan, Nagbong, Nabaye, Ele, Amotayong, and Cagkilikili into the barrio of Sinonogan.""}, {""title"": ""Section 2"", ""summary"": ""The act takes effect upon its approval.""}]"	1757	June 21, 1957			To create a barrio in the municipality of Pambujan, Samar.	"[""Constitutes sitios of Canagman, Pamantangan, Cabalyanan, Nagbong, Nabaye, Ele, Amotayong, and Cagkilikili into barrio Sinonogan."", ""Act takes effect upon approval.""]"		"[""Republic Act"", ""Local Government"", ""Barangay"", ""Samar""]"	"[""barrio"", ""Sinonogan"", ""Pambujan"", ""Samar"", ""sitios"", ""Republic Act 1757""]"
+repacts:datasets/markdown/repacts/1957/ra_1770_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1770_1957.md	ra_1770_1957	An Act to Amend Certain Items of Republic Acts Numbered Twelve Hundred, Fourteen Hundred Eleven and Sixteen Hundred Thirteen	"**REPUBLIC ACT No. 1770**
+
+ **An Act Amending Item (j) Under 45, Romblon, Paragraph (e), Title B, Section One of Republic Act Numbered Nine Hundred Twenty**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item (j) under 45, Romblon, paragraph (e), title B, section one of Republic Act Numbered Nine hundred twenty is amended to read as follows:
+
+ | ""(j) Central School, Despujols | ₱1,000.00"" |
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1957.
+"	success	Republic Act	This Act amends specific items in Republic Acts No. 1200, No. 1411 and No. 1613 regarding public plaza purchases, drilling of artesian wells, school building acquisition and repair, and road and street improvements in Rizal and Marikina.	"[{""title"": ""Section 1"", ""summary"": ""Amends Item (39) of RA 1200 to state purchase of site for Cainta public plaza with amount \u20b15,000.00.""}, {""title"": ""Section 2"", ""summary"": ""Amends Item (c) of RA 1200 to state drilling artesian well in Ganutan Cardona with amount \u20b11,000.""}, {""title"": ""Section 3"", ""summary"": ""Amends Item (d) of RA 1411 to state purchase of site for Cainta public plaza with amount \u20b15,000.00.""}, {""title"": ""Section 4"", ""summary"": ""Amends Item 52 of RA 1613 to state acquisition and repair of Juan Sumulong Memorial High School building for annex of Central Elementary School Taytay with amount \u20b110,000.""}, {""title"": ""Section 5"", ""summary"": ""Amends Item (3) of RA 1200 to state construction or improvement of San Joaquin-Calawan road, Pasig, Rizal; asphalt paving of A. Mabini street, Marikina, Rizal; improvement of Villalon street, Marikina, Rizal with respective amounts.""}, {""title"": ""Section 6"", ""summary"": ""Act shall take effect upon approval.""}]"	1758	June 21, 1957			To amend specific items of existing Republic Acts to adjust amounts and details concerning public infrastructure projects.	"[""Amendment to Item (39) of RA 1200 concerning Cainta public plaza purchase."", ""Amendment to Item (c) of RA 1200 concerning drilling artesian well in Ganutan Cardona."", ""Amendment to Item (d) of RA 1411 concerning Cainta public plaza purchase."", ""Amendment to Item 52 of RA 1613 concerning acquisition and repair of Juan Sumulong Memorial High School building."", ""Amendment to Item (3) of RA 1200 concerning road and street improvements in Rizal and Marikina.""]"	Republic Act No. 1200, No. 1411 and No. 1613	"[""Amendment"", ""Public Works"", ""Infrastructure"", ""RA 1758""]"	"[""Cainta public plaza"", ""Drilling artesian well"", ""Juan Sumulong Memorial High School"", ""San Joaquin-Calawan road"", ""A. Mabini street"", ""Villalon street"", ""Rizal"", ""Marikina""]"
+repacts:datasets/markdown/repacts/1957/ra_1771_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1771_1957.md	ra_1771_1957	"An Act Amending a Certain Item in Republic Act Numbered One Thousand Two Hundred, Entitled ""An Act Appropriating Funds for Public Works and Amending Republic Act Numbered Nine Hundred and Twenty"""	"**REPUBLIC ACT No. 1771**
+
+ **An Act Amending a Certain Item in Republic Act Numbered Twelve Hundred**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item (36) under q. Cebu, title A, section two of Republic Act Numbered Twelve hundred is amended to read as follows:
+
+ | ""(36) Construction of a permanent 2-room Academic Building, Plan No. 1-4, San Fernando | ₱12,800.00"" |
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1957.
+"	success	Republic Act	The act amends item eleven of section one under title B, Highways, for Negros Oriental, specifying the Lipayo-Mag-aso Feeder Road in Dauin with an allocation of ₱25,000.00 and takes effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Item eleven of section one under title B, Highways, of RA 1200 for Negros Oriental is amended to include the Lipayo-Mag-aso Feeder Road in Dauin with a funding allocation of \u20b125,000.00.""}, {""title"": ""Section 2."", ""summary"": ""The act shall take effect upon its approval.""}]"	1759	June 21, 1957			To amend a specific highway item and allocate funds for the Lipayo-Mag-aso Feeder Road in Negros Oriental.	"[""Item eleven amended to include the Lipayo-Mag-aso Feeder Road, Dauin with allocation of \u20b125,000.00."", ""Act takes effect upon approval.""]"	Republic Act Numbered One Thousand Two Hundred (RA 1200)	"[""public works"", ""highways"", ""funding"", ""Negros Oriental"", ""Dauin""]"	"[""Republic Act 1759"", ""highways"", ""Negros Oriental"", ""Dauin"", ""Lipayo-Mag-aso Feeder Road"", ""funding"", ""public works"", ""amendment""]"
+repacts:datasets/markdown/repacts/1957/ra_1772_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1772_1957.md	ra_1772_1957	"An Act Amending Item Eighteen, Under ""S. Davao,"" Section Three of Republic Act Numbered Fourteen Hundred Eleven"	"**REPUBLIC ACT No. 1772**
+
+ **An Act Amending Item (a), Under ""(22) Iloilo,"" Paragraph (f), Section Two of Republic Act Numbered Fourteen Hundred Eleven**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item (a), under ""(22) Iloilo,"" paragraph (f), section two of Republic Act Numbered Fourteen hundred eleven, is amended to read as follows:
+
+ ""(a) | 1. Tigbauan Central School Home Economics Building, Repair | ₱3,500.00 | | --- | --- | | 2. Tigbauan Central School Shop Building, Repair | 3,500.00 | | 3. Baroc Atabayan Seawall, Tigbauan | 13,000.00 | | 4. Jamog Rural Road, Tigbauan | 20,000.00"" | **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1957.
+"	success	Republic Act	"Amends Item 18 under ""S. Davao"" in Section 3 of Republic Act 1411 to specify the repair and improvement of Blocon Primary School Building, Bansalan, for a cost of ₱1,000.00, effective June 21, 1957."	"[{""title"": ""Section 1"", ""summary"": ""Amendment to Item 18 under \""S. Davao\"" in RA 1411, specifying Blocon Primary School Building, Bansalan, repair and improvement, for \u20b11,000.00.""}, {""title"": ""Section 2"", ""summary"": ""Effectivity of the act upon approval.""}]"	RA 1760	June 21, 1957			"To amend the specification of Item 18 under ""S. Davao"" in RA 1411 for the repair and improvement of Blocon Primary School Building, Bansalan."	"[""Item 18 under \""S. Davao\"" in RA 1411 amended to include \""Blocon Primary School Building, Bansalan, repair and improvement\"" costing \u20b11,000.00.""]"	Republic Act 1411, Section 3, Item 18	"[""Amendment"", ""Education"", ""Infrastructure"", ""Republic Act"", ""RA 1760""]"	"[""Blocon Primary School"", ""Bansalan"", ""repair"", ""improvement"", ""\u20b11,000.00"", ""RA 1411"", ""RA 1760"", ""S. Davao""]"
+repacts:datasets/markdown/repacts/1957/ra_1773_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1773_1957.md	ra_1773_1957	An Act Creating the Barrio of Laboy in the Municipality of Dipaculao, Province of Quezon	"**REPUBLIC ACT No. 1773**
+
+ **An Act Creating Certain Barrios in the Municipality of Quezon, Province of Palawan**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sites of Aramaywan, Isugod, Tabon, Sawangan, Calumpang, Campong-Ulay, Ransang, Cadawaga, Culasian, Panalingaan, Taburi, Latud and Canipaan in the Municipality of Quezon, Province of Palawan, are converted into barrios of said municipality, to be known as the barrios of Aramaywan, Isugod, Tabon, Sawangan, Calumpang, Campong-Ulay, Ransang, Cadawaga, Culasian, Panalingaan, Taburi, Latud, and Canipaan, respectively.
+
+ **Section 2.** This act shall take effect upon its approval.
+
+ Approved: June 21, 1957.
+"	success	Republic Act	This act establishes the barrio of Laboy in the municipality of Dipaculao, Quezon, and sets its effective date upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The sitio of Laboy in Dipaculao, Quezon is constituted into a new barrio named Laboy.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	1761	June 21, 1957			Creation and formal establishment of a new barrio within Dipaculao, Quezon.	"[""Establishment of the barrio of Laboy"", ""Effectiveness upon approval""]"		"[""Local Government"", ""Barangay"", ""Municipality"", ""Quezon"", ""Republic Act""]"	"[""Laboy"", ""Dipaculao"", ""Quezon"", ""barrio"", ""sitio"", ""Republic Act 1761""]"
+repacts:datasets/markdown/repacts/1957/ra_1774_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1774_1957.md	ra_1774_1957	An Act Creating the Barrio of Dinadiawan in the Municipality of Dipaculao, Province of Quezon	"**REPUBLIC ACT No. 1774**
+
+ **An Act Changing the Name of the Barrio of Nasuli-""B"" in the Municipality of Dao, Province of Antique, to Santo Tomas**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the barrio of Nasuli-""B"" in the Municipality of Dao, Province of Antique, is hereby changed to Santo Tomas.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1957.
+"	success	Act	An act establishing the barrio of Dinadiawan in Dipaculao, Quezon, and stipulating its effectivity upon approval.	"[{""title"": ""Section 1."", ""summary"": ""The sitio of Dinadiawan in the Municipality of Dipaculao, Province of Quezon, is hereby constituted into a new barrio in the said municipality to be known as the barrio of Dinadiawan.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	1762	June 21, 1957			Creation of a new barrio in the municipality of Dipaculao, Quezon.	"[""The sitio of Dinadiawan is constituted into a new barrio named Dinadiawan."", ""The Act takes effect upon approval.""]"		"[""local government"", ""barrio"", ""Quezon"", ""Dinadiawan""]"	"[""Dinadiawan"", ""Dipaculao"", ""Quezon"", ""barrio"", ""municipality"", ""site"", ""constitution""]"
+repacts:datasets/markdown/repacts/1957/ra_1775_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1775_1957.md	ra_1775_1957	An Act Creating the Barrio of Puangi in the Municipality of Dipaculao, Province of Quezon	"**REPUBLIC ACT No. 1775**
+
+ **An Act Amending Items (9) and (29), Under ""af. Mindoro Oriental."" Title A, Section One of Republic Act Numbered Twelve Hundred**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Items (9) and (29) under ""af. Mindoro Oriental,"" Title A, Section one of Republic Act Numbered Twelve hundred are amended to read as follows:
+
+ | ""(9) Construction of Pinamalayan Central School | ₱4,000.00"" |
+| --- | --- |
+| ""(29) (a) Aid to PTA for the construction of Bulalacao Central School | 1,000.00"" |
+| ""(b) Aid to PTA for the completion of Ranso Barrio School, Pinamalayan | 1,000.00"" |
+| ""(c) Aid to PTA for the completion of San Agustin School Shop, Naujan | 500.00"" |
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1957.
+"	success	Republic Act	This act establishes the sitio of Puangi as a new barrio within the Municipality of Dipaculao, Quezon, and sets its effectivity upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Constitutes the sitio of Puangi as the barrio of Puangi.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	1763	June 21, 1957			To create a new barrio in Dipaculao for administrative and community development purposes.	"[""Creation of the barrio of Puangi""]"		"[""Local Government"", ""Administrative Division""]"	"[""Puangi"", ""Dipaculao"", ""Quezon"", ""Barrio"", ""Republic Act 1763""]"
+repacts:datasets/markdown/repacts/1957/ra_1776_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1776_1957.md	ra_1776_1957	An Act Creating the Barrio of Dimabono in the Municipality of Dipaculao, Province of Quezon	"**REPUBLIC ACT No. 1776**
+
+ **An Act Amending Item Numbered Eighty-Six, Under ""Camarines Sur II,"" Appendix B of Republic Act Numbered Sixteen Hundred Thirteen**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item numbered eighty-six, under ""Camarines Sur II,"" appendix B of Republic Act Numbered Sixteen hundred thirteen, is amended to read as follows:
+
+ | ""86. Tandoc, Siruma Construction of one room | ₱4,000.00"" |
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1957.
+"	success	Republic Act	This act establishes the barrio of Dimabono in Dipaculao, Quezon, and becomes effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Constitutes the sitio of Dimabono into a new barrio named Dimabono.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	1764	June 21, 1957			To create the barrio of Dimabono in Dipaculao, Quezon.	"[""Constitution of the barrio of Dimabono"", ""Effectivity upon approval""]"		"[""Local Government"", ""Barrio"", ""Quezon"", ""Dipaculao"", ""Republic Act""]"	"[""barrio"", ""Dimabono"", ""Dipaculao"", ""Quezon"", ""Republic Act"", ""creation"", ""municipality""]"
+repacts:datasets/markdown/repacts/1957/ra_1777_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1777_1957.md	ra_1777_1957	An Act Creating the Barrio of Matipunso in the Municipality of Tiaong, Province of Quezon	"**REPUBLIC ACT No. 1777**
+
+ **An Act to Amend Item B-343.12, for Mountain Province, Page One Hundred Sixty-A, Title B, Appendix A of Republic Act Numbered Fourteen Hundred Eleven**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item B-343.12, for Mountain Province, page one hundred sixty-A, title B, appendix A of Republic Act Numbered Fourteen hundred eleven, is hereby amended to read as follows:
+
+ | ""B-343.12: | Balaoa-Cagubatan via Mayag Road Construction"" |
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1957.
+"	success	Republic Act	This act creates the barrio of Matipunso in the municipality of Tiaong, Quezon, by constituting the sitio of Matipunso as a new barrio.	"[{""title"": ""Section 1"", ""summary"": ""The sitio of Matipunso, barrio of Niing in the Municipality of Tiaong, Province of Quezon, is hereby constituted into a new barrio known as the barrio of Matipunso.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	1765	June 21, 1957			To create a new barrio in the municipality of Tiaong, Quezon.	"[""Section 1: Constitutes Matipunso as a new barrio."", ""Section 2: Effective date upon approval.""]"		"[""Local Government"", ""Barangay"", ""Quezon"", ""Municipality of Tiaong""]"	"[""Matipunso"", ""barrio"", ""Quezon"", ""Tiaong"", ""Republic Act 1765"", ""Local Government Code""]"
+repacts:datasets/markdown/repacts/1957/ra_1778_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1778_1957.md	ra_1778_1957	An Act Creating the Barrio of Behia in the Municipality of Tiaong, Province of Quezon	"**REPUBLIC ACT No. 1778**
+
+ **An Act Creating the Barrio of Ilayang Iyam in the Municipality of Lucena, Province of Quezon**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The northern portion of the barrio of Iyam in the Municipality of Lucena, Province of Quezon, which is bounded on the north by the barrios of Gulang-gulang and Bocohan; on the east, by Iyam River; on the west, by the barrio of Isabang; and on the south, by the provincial road, is hereby separated from the said barrio and is created into a new distinct and independent barrio to be known as the barrio of Ilayang Iyam in the same municipality.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1957.
+"	success	Republic Act	This act separates the sitio of Behia from the barrio of Callejon and establishes it as a new barrio in the Municipality of Tiaong, Quezon.	"[{""title"": ""Section 1"", ""summary"": ""The sitio of Behia is separated from the barrio of Callejon and constituted into a new barrio named Behia.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	1766	June 21, 1957			To create a new barrio in the municipality of Tiaong, Quezon.	"[""Creation of the barrio of Behia"", ""Effectivity of the act upon approval""]"		"[""Local Government"", ""Quezon"", ""Barangay""]"	"[""Behia"", ""Tiaong"", ""Quezon"", ""Barrio"", ""Republic Act 1766""]"
+repacts:datasets/markdown/repacts/1957/ra_1779_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1779_1957.md	ra_1779_1957	An Act Creating the Barrio of Bucal in the Municipality of Tiaong, Province of Quezon	"**REPUBLIC ACT No. 1779**
+
+ **An Act Creating the Barrio of Ibabang Iyam in the Municipality of Lucena, Province of Quezon**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The southern portion of the barrio of Iyam in the Municipality of Lucena, Province of Quezon, which is bounded on the north by the provincial road; on the east, by the Iyam River; on the west, by the barrios of Talim and Kanlurang Isabang; and on the south, by the sitio of Pajo, is hereby separated from the said barrio and is created into a new distinct and independent barrio to be known as the barrio of Ibabang Iyam in the same municipality.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1957.
+"	success	Republic Act	This act establishes the Barrio of Bucal in Tiaong, Quezon, by separating it from the Barrio of Bula and declares its existence as a new barrio.	"[{""title"": ""Section 1"", ""summary"": ""Separates the sitio of Bucal from the Barrio of Bula and constitutes it as a new barrio in Tiaong.""}, {""title"": ""Section 2"", ""summary"": ""States that the act takes effect upon its approval.""}]"	1767	June 21, 1957			To create the Barrio of Bucal in the Municipality of Tiaong, Quezon.	"[""Separation of sitio of Bucal from Barrio of Bula and creation of new barrio."", ""Act takes effect upon approval.""]"		"[""Republic Act"", ""Barrio"", ""Tiaong"", ""Quezon"", ""Municipality"", ""Local Government""]"	"[""Barrio"", ""Bucal"", ""Tiaong"", ""Quezon"", ""Republic Act"", ""Local Government"", ""Municipality"", ""Site""]"
+repacts:datasets/markdown/repacts/1957/ra_1780_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1780_1957.md	ra_1780_1957	"An Act to Amend Republic Act Numbered One Thousand Three Hundred Ninety-Two, Entitled ""An Act to Amend Section Eleven of the Philippine Tariff Act of 1909 and Exempting Textiles Made of One Hundred Per Cent Philippine Ramie Fiber from the Payment of Duty to Provide Incentives for the Development of the Ramie Industry"""	"**REPUBLIC ACT No. 1780**
+
+ **An Act Creating Certain Barrios in the Municipality of El Nido, Province of Palawan**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The following barrios in the Municipality of El Nido, Province of Palawan, are hereby created:
+
+ 1. Barrio Villa Paz comprising the sitios of New Igabas, Candolay, Malapaho, Mabeñgeten, Dewel, Nalbekan, and Lapia; 2. Barrio Bebeladan comprising the sitios of Mainlong, Bolabod, Balete, Culiong, Codongnon, Vigan, Pagawanen, Lañgeblañgeban, Talulap, Bocboc, Miadiao, Avirawan, Pita, Deboluan, Balay-Bacaco, Kiminawit, Pamontonan, Simpian, Binabanan, Tegas, and Pinacpanacan; 3. Barrio Bagong-Bayan comprising the sitios of Manogtog, Cadleman, Pinagtual, Omao, Nami, Tebey, Bato, Tuñgay, Cataaban, and Lomocob; 4. Barrio Pasadeña comprising the sitios of Lamoro, Cagbatang, Bulalacao, Pinañganteñgan, Quinawañgan, Nagbaclao, Colantod, Loblob, and Badiang; 5. Barrio Sibaltan comprising the sitios of Turatod, Buluang, Santa Monica, Senodioc, Laolao, Caboñgan, Tapic, Panian, Guitan, Loro, and Nagcalasag; 6. Barrio Barotuan comprising the sitios of Taberna, Locaroc, Nagpan, Yocoton, Calitang, Wawa, Makinit, Canoling, Mabañgaon, and Mapeldeten; 7. Barrio San Fernando comprising the sitios of Panian, Madorianen, Dipnay, Maubog, Guenleng, Palabuayan, Parañgaycayan, San Pablo, and Olac-olacan; and 8. Barrio Villa Libertad comprising the sitios of Calelenday, Taolili, Boloc, Inigtan, Mepague, Matolatolaon, Dao, Batbat, Madacotdacot, Nasigdan, Semenled, Bancalen, and Cagbanaba. **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1957.
+"	success	Republic Act	An amendment to RA 1392 that exempts ramie goods processed abroad from customs duties and special import tax, establishes a sunset clause after two years, and renames RA 1392 to reflect the new exemption.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 1 of RA 1392 to exempt ramie goods processed abroad from customs duties and special import tax, with allocation of tax exemption to original farmer-producers or cooperatives, and includes a sunset clause of two years or earlier upon presidential proclamation.""}, {""title"": ""Section 2"", ""summary"": ""Renames RA 1392 to \""An Act exempting textiles made of one hundred per cent Philippine ramie fiber from the payment of duty and the special import tax to provide incentives for the development of the ramie industry.\""""}, {""title"": ""Section 3"", ""summary"": ""States that the Act shall take effect upon its approval.""}]"	1768	June 21, 1957			To provide incentives for the development of the ramie industry by exempting ramie goods from customs duties and special import tax.	"[""Exemption of ramie goods processed abroad from customs duties and special import tax"", ""Sunset clause: exemption ceases two years after approval or earlier upon presidential proclamation"", ""Renaming of RA 1392 to reflect the new exemption""]"	Republic Act No. 1392, Republic Act No. 1394	"[""Tariff"", ""Customs"", ""Ramie"", ""Industry Incentives""]"	"[""Ramie"", ""Customs Duty"", ""Import Tax"", ""Tariff Act"", ""Industrial Fabric""]"
+repacts:datasets/markdown/repacts/1957/ra_1781_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1781_1957.md	ra_1781_1957	An Act Creating the Barrio of Balading in the Municipality of Cuyo, Province of Palawan	"**REPUBLIC ACT No. 1781**
+
+ AN ACT AMENDING ITEM (d) GROUP II, PARAGRAPH (43), SUBSECTION (f) OF SECTION TWO OF REPUBLIC ACT NUMBERED FOURTEEN HUNDRED ELEVEN, ENTITLED ""AN ACT APPROPRIATING FUNDS FOR PUBLIC WORKS.""
+
+ **Section 1.** Item (d), group II, paragraph (43) Quezon Province, subsection (f) of section two of Republic Act Numbered Fourteen hundred eleven is amended to read as follows:
+
+ > ""(d) Lavides Bridge, Atimonan Completion and construction of protection works for the approaches of the bridge and the adjacent landing P20,000.00.""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1957
+"	success	Republic Act	This act converts the sitio of Balading in Cuyo, Palawan into a barrio, and becomes effective upon approval.	"[{""title"": ""Section 1."", ""summary"": ""The sitio of Balading is converted into a barrio of the Municipality of Cuyo, to be known as the barrio of Balading.""}, {""title"": ""Section 2."", ""summary"": ""The act shall take effect upon its approval.""}]"	1769	June 21, 1957			To create the barrio of Balading in the Municipality of Cuyo, Palawan.	"[""Conversion of the sitio of Balading into a barrio."", ""Effectivity upon approval.""]"		"[""Local Government"", ""Municipality"", ""Balading"", ""Palawan""]"	"[""barrio"", ""Balading"", ""Cuyo"", ""Palawan"", ""Republic Act""]"

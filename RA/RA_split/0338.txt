@@ -1,0 +1,160 @@
+
+ **Section 3.** Section twelve of the same Act, as amended by section two of Commonwealth Act Numbered One hundred twenty-nine, is hereby amended to read as follows:
+
+ > ""Sec. 12. *Constitution and organization of the Municipal Board.* The Municipal Board shall be the legislative body of the city, and shall consist of the vice-mayor, who shall be its presiding officer, and nine councilors, who shall be elected at large by the qualified voters of the city in conformity with the provisions of the Revised Election Code. The vice-mayor shall have no right to vote except in case of tie. The President shall sign all ordinances, all resolutions and motions directing the payment of money or creating liability, enacted or adopted by the Board. In case of sickness or absence of any member of the Board, or if for any reason it becomes necessary to maintain a quorum, the President of the Philippines may make a temporary appointment until the return to duty of the sick or absent member. During the period of such temporary appointment the person receiving the same shall possess all the rights and perform all the duties of a member of the Board.
+>
+>  ""If the vice-mayor or a councilor should be candidate for office in any election, he shall be disqualified to act with the municipal board in the discharge of the duties conferred upon it relative to election matters, and in such case the other councilors shall discharge said duties without his assistance.
+>
+>  ""The members of the Board shall receive an annual salary of three thousand six-hundred pesos per annum.
+
+ **Section 4.** The last sentence of section thirty-three of the same Act is hereby amended to read as follows:
+
+ > ""Sec. 33. He shall receive a salary of three thousand pesos per annum.
+
+ **Section 5.** The last sentence of section thirty-four of the same Act is hereby amended to read as follows:
+
+ > ""Sec. 34. He shall receive a salary of three thousand two-hundred pesos per annum.
+
+ **Section 6.** The last paragraph of section thirty-seven of Commonwealth Act Numbered Fifty-eight, as amended by section six of Republic Act Numbered Two hundred forty-four, is hereby further amended to read as follows:
+
+ > ""Sec. 37.
+>
+>  ""The fiscal of the city and his assistants shall receive the salaries hereinafter set forth, which shall be paid by the City of Cebu: fiscal of the city, six thousand pesos per annum; first assistant fiscal, four thousand six hundred pesos per annum; second assistant fiscal, four thousand two hundred pesos per annum; and three third assistant fiscals, three thousand six hundred pesos per annum each.
+
+ **Section 7.** This Act shall take effect upon its approval.
+
+ Approved: June 7, 1955.
+"	success	Republic Act	This act amends and repeals specific items in RA 920 related to public works projects in Cebu, adding new waterworks items and repealing existing ones.	"[{""title"": ""Section 1"", ""summary"": ""Amends Item 17(f) for the Province of Cebu, adding Carmen Waterworks-Construction with an amount of \u20b165,000.00.""}, {""title"": ""Section 2"", ""summary"": ""Inserts new items h-1 to h-3 for waterworks in the Municipality of Pilar, specifying construction amounts.""}, {""title"": ""Section 3"", ""summary"": ""Repeals Item 17(c) and Item 3(x) from RA 920.""}, {""title"": ""Section 4"", ""summary"": ""States that the act takes effect upon approval.""}]"	1223	May 11, 1955			To amend and repeal certain items in RA 920 concerning public works projects in Cebu.	"[""Amendment of Item 17(f) to include Carmen Waterworks-Construction \u20b165,000.00"", ""Insertion of new items h-1, h-2, h-3 for waterworks in Pilar"", ""Repeal of Item 17(c) and Item 3(x) in RA 920""]"	Republic Act No. 920.	"[""Public Works"", ""Waterworks"", ""Cebu"", ""Amendment"", ""Repeal""]"	"[""Carmen Waterworks"", ""Barrio San Juan"", ""Barrio Villa Hermosa"", ""Barrio Kawit"", ""Municipality of Pilar"", ""Public Works Project"", ""Republic Act 920"", ""Amendment"", ""Repeal""]"
+repacts:datasets/markdown/repacts/1955/ra_1234_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1234_1955.md	ra_1234_1955	An Act Amending Section One of Republic Act Numbered Nine Hundred Thirty-Eight, as Amended	"**REPUBLIC ACT No. 1234**
+
+ **An Act Creating the Barrio of Manalo, Municipality of Puerto Princesa, Province of Palawan**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Materingen, Tandayag, Nasedoc, and Panlawagan are separated from the barrio of Maroyogon, Municipality of Puerto Princesa, Province of Palawan, and are constituted into a barrio of said municipality to be known as the barrio of Manalo.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 7, 1955.
+"	success	Republic Act	Amends Section 1 of RA 938 (as already amended by RA 979) to regulate night clubs, cabarets, dancing schools, pavilions, cockpits, bars, saloons, bowling alleys, billiard pools, and other similar places of amusement, imposing distance requirements from public buildings, schools, hospitals, and churches, restricting minors from certain establishments, and exempting certain existing establishments.	"[{""title"": ""Section 1"", ""summary"": ""Amends RA 938 Section 1 to regulate amusement places, sets distance limits from public facilities, requires noise control, prohibits minors in bars, saloons, cabarets, and night clubs employing hostesses, and exempts establishments operating under CA 485 and existing ones at the time of RA 979.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	1224	May 17, 1955			To regulate amusement places and protect public welfare by setting distance requirements and restricting minors, while clarifying exemptions.	"[""Amends RA 938 Section 1 to regulate night clubs, cabarets, dancing schools, and other amusement places."", ""Imposes distance requirements from public buildings, schools, hospitals, and churches."", ""Prohibits minors from bars, saloons, cabarets, and night clubs employing hostesses."", ""Exempts establishments operating under CA 485 and existing establishments at the time of RA 979.""]"	Republic Act No. 938 (as amended by RA 979)	"[""Amusement Regulation"", ""Public Safety"", ""Minor Protection""]"	"[""night clubs"", ""cabarets"", ""dancing schools"", ""amusement"", ""distance"", ""minors"", ""public buildings"", ""schools"", ""hospitals"", ""churches""]"
+repacts:datasets/markdown/repacts/1955/ra_1235_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1235_1955.md	ra_1235_1955	An Act to Grant to the La Union Electric Co., Inc. a Franchise for an Electric Light, Heat and Power System in the Municipalities of San Fernando, Bauang and San Juan, Province of La Union	"**REPUBLIC ACT No. 1235**
+
+ **An Act Providing that the Street in the Poblacion of the Municipality of Dao, Province of Antique, at Present Known as Libertador Street, Shall Hereafter be Known as Ysulat Street**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The street in the poblacion of the Municipality of Dao, Province of Antique, at present known as Libertador Street, shall hereafter be known as Ysulat Street.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 7, 1955.
+"	success	Republic Act	An act granting La Union Electric Co., Inc. a 50‑year franchise to construct, maintain, and operate an electric light, heat, and power plant in La Union municipalities.	"[{""title"": ""Section 1."", ""summary"": ""Grants La Union Electric Co., Inc. a 50\u2011year franchise to construct, maintain, and operate an electric light, heat, and power plant for sale within San Fernando, Bauang, and San Juan, La Union.""}, {""title"": ""Section 2."", ""summary"": ""Authorizes the National Power Corporation to negotiate and transact rates for electric heat and power on behalf of the public if the grantee purchases and secures such power.""}, {""title"": ""Section 3."", ""summary"": ""Provides that if the government wishes to maintain and operate the plant, the grantee must surrender its franchise and turn over all serviceable equipment at cost, less depreciation.""}, {""title"": ""Section 4."", ""summary"": ""States that the act shall take effect upon its approval.""}]"	1225	May 17, 1955				"[""Grant franchise for 50 years"", ""Authority to construct, maintain, and operate electric plant"", ""Authorization of NPC to negotiate rates"", ""Surrender of franchise if government takes over""]"	Act Numbered Thirty-six hundred and thirty-six, as amended by Commonwealth Act Numbered One hundred and thirty-two	"[""Electricity"", ""Franchise"", ""La Union""]"	"[""electricity"", ""franchise"", ""La Union"", ""public utilities""]"
+repacts:datasets/markdown/repacts/1955/ra_1236_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1236_1955.md	ra_1236_1955	An Act Increasing the Number and Fixing the Salaries of Assistant Fiscals for the City of Iloilo, Further Amending for the Purpose the Last Paragraph of Section Twenty-Three of the Charter of Said City	"**REPUBLIC ACT No. 1236**
+
+ **An Act Making Elective the Positions of Mayor, Vice-Mayor and Councilor in the City of Iligan, Amending for Said Purpose Certain Sections of Republic Act Numbered Five Hundred Twenty-Five, as Amended**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section seven of Republic Act Numbered Five hundred twenty-five, as amended by Republic Act Numbered Six hundred seventy-two, is further amended to read as follows:
+
+ > ""Sec. 7. *The MayorElection and compensation.* The Mayor shall be the executive of the city.
+>
+>  ""The Mayor shall be elected by the qualified electors of the city and shall hold office for four years unless removed.
+>
+>  ""The Mayor shall receive a salary in accordance with the provisions of Republic Act Numbered Eight hundred forty. At the discretion of the Municipal Board, the Mayor may be provided in addition to his salary, a non-commutable allowance not exceeding two thousand pesos per annum.
+>
+>  ""No person shall be elected Mayor unless he has been a citizen of the Philippines for at least five years, at least twenty-five years of age at the time of his election, a resident of the city for not less than one year immediately prior to his election and a qualified voter herein.
+
+ **Section 2.** Section eight of the same Act is amended to read as follows:
+
+ > ""Sec. 8. *The Vice-Mayor.* There shall be a Vice-Mayor who shall perform the duties of the Mayor, in the event of the sickness, absence or other temporary incapacity of the Mayor, or in the event of a definitive vacancy in the position of the Mayor, until said office shall be filled in accordance with law. If for any reason, the Vice-Mayor is temporarily incapacitated for the performance of the duties of the office of the Mayor, or said office of the Vice-Mayor is vacant, the duties of the Mayor shall be performed by the city engineer. The acting mayor shall have the same powers and duties as the Mayor.
+>
+>  ""The Vice-Mayor shall be ex-officio member of the municipal Board and shall perform such other duties as may be assigned to him by the Mayor or prescribed by law or ordinance. He shall be elected in the same manner as the Mayor and shall at the time of his election possess the same qualifications as the Mayor. He shall receive a salary of three thousand six hundred pesos a year.
+
+ **Section 3.** Section eleven of the same Act, as amended by Republic Act Numbered Six hundred seventy-two, is further amended to read as follows:
+
+ > ""Sec. 11. *Constitution and organization of the Municipal Board Compensation of members thereof.* The Municipal Board shall be the legislative body of the city and shall be composed of the Mayor, who shall be its presiding officer, the Vice-Mayor, and five councilors who shall be elected at large by the voters of the city. In case of sickness, absence, suspension or other temporary disability of any member of the Board or if it necessary to maintain a quorum, the President of the Philippines may appoint a temporary substitute who shall possess all the rights and perform all the duties of a member of the Board until the return to duty of the regular incumbent.
+>
+>  ""If any member of the Municipal Board should be a candidate for office in any election, he shall be disqualified to act with the Board in the discharge of the duties conferred upon it relative to election matters, in which case the other members of the Board shall discharge said duties without his assistance, or they may choose some disinterested elector of the city to act with the Board in such matters in his stead.
+>
+>  ""The members of the Municipal Board shall receive per diem in accordance with the provisions of Republic Act Numbered Eight hundred forty.
+
+ **Section 4.** Section twelve of the same Act, is amended to read as follows:
+
+ > ""Sec. 12. *Qualifications, election, suspension, and removal of members of the Board.* -The members of
+>
+>  the Board shall be qualified electors of the city. They shall be elected in the general elections for provincial and municipal officials and shall hold office for a term of four years. The members of the Board shall be residents of the city for at least one year, and be not less than twenty-three years of age. The members-elect shall upon qualifying assume office on the date fixed in the Revised Election Code and hold office until their successors are elected and have qualified.
+>
+>  ""The members of the Board may suspended or removed from office under the same circumstances, in the same manner, and with the same effect, as elective provincial officials.
+
+ **Section 5.** The first election for mayor, vice-mayor and councilors of the City of Iligan under the provisions of this Act shall be held at the general elections for provincial and municipal officials immediately following the approval of this Act.
+
+ **Section 6.** This Act shall take effect upon its approval.
+
+ Approved: June 7, 1955.
+"	success	Republic Act	This act increases the number of assistant city fiscals to four and fixes their salaries, amending the charter of Iloilo.	"[{""title"": ""Section 1"", ""summary"": ""Amends the charter to add four assistant city fiscals with specified salaries.""}, {""title"": ""Section 2"", ""summary"": ""Effectivity upon approval.""}]"	1226	May 24, 1955			Increase fiscal assistance and fix salaries.	"[""Increase number of assistant city fiscals to four"", ""Fix salaries for each assistant"", ""Appointment by President with commission consent"", ""Effectivity upon approval""]"	Commonwealth Act No. 158 (Charter of the City of Iloilo) as amended by RA 276	"[""finance"", ""local government"", ""Iloilo"", ""salaries""]"	"[""assistant city fiscal"", ""salary scale"", ""Iloilo charter"", ""Republic Act 1226""]"
+repacts:datasets/markdown/repacts/1955/ra_1237_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1237_1955.md	ra_1237_1955	An Act Increasing the Number and Fixing the Salaries of Assistant Fiscals for the City of Iloilo, Further Amending for the Purpose the Last Paragraph of Section Twenty-Three of the Charter of Said City	"**REPUBLIC ACT No. 1237**
+
+ **An Act Changing the Name of Barrio Atelan, in the Municipality of Echague, Province of Isabela, to San Miguel**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of barrio Atelan, in the Municipality of Echague, Province of Isabela, is hereby changed to barrio San Miguel.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 7, 1955.
+"	success	Republic Act	The Act increases the number of assistant fiscals and sets their salaries for the City of Iloilo, amends the last paragraph of Section 23 of the city charter, and appropriates ₱2,400 for the life pension of the widow of former Commissioner Pedro Guevarra.	"[{""title"": ""Section 1"", ""summary"": ""Appropriates \u20b12,400 from the National Treasury to implement Republic Act No. 988 for the life pension payment to the widow of late Commissioner Pedro Guevarra for FY 1954-1955.""}, {""title"": ""Section 2"", ""summary"": ""Declares that the Act takes effect upon its approval.""}]"	1227	May 31, 1955			To increase the number of assistant fiscals, fix their salaries for Iloilo City, amend its charter, and provide funds for a life pension payment.	"[""Increase number of assistant fiscals"", ""Fix salaries of assistant fiscals"", ""Amend last paragraph of Section 23 of the City Charter"", ""Appropriation of \u20b12,400 for life pension""]"	Republic Act No. 988 and the Charter of the City of Iloilo	"[""Iloilo City"", ""Assistant Fiscals"", ""Salary"", ""Appropriation"", ""City Charter""]"	"[""assistant fiscals"", ""salary"", ""Iloilo"", ""appropriation"", ""life pension"", ""Commissioner Pedro Guevarra"", ""Republic Act 988""]"
+repacts:datasets/markdown/repacts/1955/ra_1238_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1238_1955.md	ra_1238_1955	An Act Creating an Additional Position of Assistant Provincial Fiscal in the Province of Batangas, Amending for This Purpose Section Sixteen Hundred Seventy-Four of the Revised Administration Code, as Amended	"**REPUBLIC ACT No. 1238**
+
+ **An Act Creating the Barrio of New Agutaya, Municipality of Taytay, Province of Palawan**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Nasalogan in the Municipality of Taytay, Province of Palawan, is constituted into a barrio of the said municipality, to be known as the barrio of New Agutaya.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 7, 1955.
+"	success	Act	Creates an additional assistant provincial fiscal position in Batangas by amending Section 1674 of the Revised Administrative Code.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 1674 of the Revised Administrative Code to state that Batangas shall have four assistant provincial fiscals.""}, {""title"": ""Section 2"", ""summary"": ""The Act shall take effect upon its approval.""}]"	1228	June 1, 1955			To create an additional assistant provincial fiscal position in the Province of Batangas and amend Section 1674 of the Revised Administrative Code.	"[""Amendment to Section 1674 of the Revised Administrative Code to allow for four assistant provincial fiscals in Batangas.""]"	Revised Administrative Code, Section 1674	"[""Fiscal"", ""Provincial"", ""Administrative Code"", ""Batangas"", ""Assistant Provincial Fiscal""]"	"[""assistant provincial fiscal"", ""Batangas"", ""Revised Administrative Code"", ""Section 1674"", ""provincial fiscal""]"
+repacts:datasets/markdown/repacts/1955/ra_1239_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1239_1955.md	ra_1239_1955	An Act Creating the Municipality of San Nicolas, Province of Batangas	"**REPUBLIC ACT No. 1239**
+
+ **An Act Requiring the Registration of Agents, Contractors and Dealers in Logs, Lumber and Commercial Piles**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Any provision of law to the contrary notwithstanding, any agent, contractor, or dealer in logs, lumber and commercial piles shall register with the Bureau of Forestry.
+
+ **Section 2.** The Secretary of Agriculture and Natural Resources shall issue such rules and regulations as may be necessary to carry out the provisions of this Act.
+
+ **Section 3.** All persons found to be directly or indirectly responsible for the violation of this Act or of the rules and regulations issued thereunder shall be punished by a fine of not more than one thousand pesos or imprisonment of not more than one year.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 7, 1955.
+"	success	Republic Act	Establishes the municipality of San Nicolas in Batangas, separating it from Taal, and appoints initial officials.	"[{""title"": ""Section 1"", ""summary"": ""Separates specified barrios from the Municipality of Taal and constitutes them into the new Municipality of San Nicolas.""}, {""title"": ""Section 2"", ""summary"": ""The municipal mayor, vice-mayor, and councilors of the new municipality shall be appointed by the President of the Philippines until their successors are elected and qualified.""}, {""title"": ""Section 3"", ""summary"": ""The municipality shall be organized on the date fixed by proclamation of the President and upon the appointment and qualification of its officers.""}, {""title"": ""Section 4"", ""summary"": ""This Act shall take effect upon its approval.""}]"	1229	June 1, 1955			Creation of a new municipality in the Province of Batangas.	"[""Creation of the Municipality of San Nicolas"", ""Appointment of municipal officials by the President"", ""Organization date to be fixed by Presidential proclamation"", ""Effectivity upon approval""]"		"[""Municipality"", ""Local Government"", ""Batangas"", ""Republic Act""]"	"[""San Nicolas"", ""Taal"", ""Batangas"", ""municipality"", ""mayor"", ""vice-mayor"", ""councilors""]"
+repacts:datasets/markdown/repacts/1955/ra_1240_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1240_1955.md	ra_1240_1955	An Act Appropriating the Sum of Seventeen Million Pesos to Carry Out the Provisions of Republic Act Numbered Eight Hundred Forty-Two with Respect to Public School Officials, Teachers and Other School Personnel of the Bureau of Public Schools and Welfareville Teachers, for the Fiscal Year 1955-1956	"**REPUBLIC ACT No. 1240**
+
+ **An Act Further Amending Section One Hundred Seven of Commonwealth Act Numbered One Hundred Forty-One, by Providing that When the Power to Sign Patents or Certificates for Land Granted Under Said Act is Delegated by the President to the Secretary and Under-Secretary of Agriculture and Natural Resources, Such Patents or Certificates Shall Bear the Official Seal of the Department of Agriculture and Natural Resources Instead of the Great Seal of the Republic of the Philippines**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section one hundred seven of Commonwealth Act Numbered One hundred forty-one, as amended by Republic Act Numbered Eleven hundred seventy-two, is amended to read as follows:
+
+ > ""Sec. 107. All patents or certificates for land granted under this Act shall be prepared in the Bureau of Lands and shall be issued in the name of the Government of the Republic of the Philippines under the signature of the President of the Philippines: *Provided,* *However*, That the President of the Philippines may delegate to the Undersecretary of Agriculture and Natural Resources the power to sign patents or certificates covering lands not exceeding one hundred forty-four hectares in area, and to the Secretary of Agriculture and Natural Resources the power to sign patents or certificates covering the lands exceeding one hundred forty-four hectares, in area, in which case such patents or certificates shall bear the official seal of the Department of Agriculture and Natural Resources instead of the great seal of the Republic of the Philippines. Such patents or certificates shall be effective only for the purposes defined in section one hundred and twenty-two of the Land Registration Act, and actual conveyance of the land shall be effected only as provided in said section.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 7, 1955.
+"	success	Act	This act appropriates seventeen million pesos to fund the implementation of Republic Act 842 for public school officials and teachers for the fiscal year 1955-1956, with provisions for priority and future appropriations.	"[{""title"": ""Section 1"", ""summary"": ""Appropriates seventeen million pesos from the National Treasury for RA 842 provisions, prioritizes the appropriation, and includes future sums in annual General Appropriation Acts.""}, {""title"": ""Section 2"", ""summary"": ""The act takes effect upon approval.""}]"	1230	June 1, 1955			To provide funding for the implementation of RA 842 regarding public school personnel for the fiscal year 1955-1956.	"[""Appropriation of seventeen million pesos"", ""Priority given to the appropriation"", ""Future sums included in General Appropriation Acts"", ""Effectivity upon approval""]"	Republic Act Numbered Eight Hundred Forty-Two	"[""Appropriation"", ""Education"", ""Public Schools"", ""Fiscal Year"", ""RA 1230""]"	"[""appropriation"", ""public school officials"", ""teachers"", ""fiscal year 1955-1956"", ""RA 842""]"
+repacts:datasets/markdown/repacts/1955/ra_1241_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1241_1955.md	ra_1241_1955	An Act Authorizing the President of the Philippines to Appoint in the Regular Force Reserve Officer Pilots Who are Graduates of the United States Air Force or Philippine Air Force Flying Schools	"**REPUBLIC ACT No. 1241**
+
+ **An Act to Amend Certain Provisions of Republic Act Numbered Nine Hundred and Ninety-Seven, Otherwise Known as the ""Reorganization Act of 1954,"" Approved June Nine, Nineteen Hundred and Fifty-Four, and for Other Purposes**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Paragraph one of section three of Republic Act Numbered nine hundred and ninety-seven, otherwise known as the ""Reorganization Act of 1954,"" is amended to read as follows:
+
+ > ""Sec. 3. To carry out the purposes of this Act, there is hereby created the Government Survey and Reorganization Commission, hereinafter known as the ""Commission"", which shall conduct a study of the present organization and methods of operation of all departments, offices, bureaus, agencies, and instrumentalities of the Executive Branch of the National Government, and determine what change or changes are necessary to accomplish the objectives set forth in subsection (a), section two of this Act.
+
+ **Section 2.** Section four of the same Act is amended to read as follows:

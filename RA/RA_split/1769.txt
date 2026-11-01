@@ -1,0 +1,185 @@
+repacts:datasets/markdown/repacts/1992/ra_7565_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7565_1992.md	ra_7565_1992	An Act converting the Rural Health Unit in the Municipality of Silago, Province of Southern Leyte, into a Five-Bed Capacity Health Infirmary, to be known as the Silago Health Infirmary, and appropriating funds therefor	"**[ REPUBLIC ACT NO. 7565, May 26, 1992 ]**
+
+ AN ACT CONVERTING THE RURAL HEALTH UNIT IN THE MUNICIPALITY OF SILAGO, PROVINCE OF SOUTHERN LEYTE, INTO A FIVE-BED CAPACITY HEALTH INFIRMARY, TO BE KNOWN AS THE SILAGO HEALTH INFIRMARY, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The rural health unit in the Municipality of Silago, Province of Southern Leyte, is hereby converted into a five-bed capacity health infirmary, to be known as the Silago Health Infirmary.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on September 4, 1991 and February 3, 1992, respectively. |  |
+| (Sgd.) **ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: May 26, 1992
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Health	This act converts the rural health unit in Silago, Southern Leyte into a five-bed capacity health infirmary named Silago Health Infirmary, appropriates necessary funds through the General Appropriations Act of the following year, and takes effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""The rural health unit in the Municipality of Silago, Province of Southern Leyte, is hereby converted into a five-bed capacity health infirmary, to be known as the Silago Health Infirmary.""}, {""title"": ""Section 2."", ""summary"": ""The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.""}, {""title"": ""Section 3."", ""summary"": ""This Act shall take effect upon its approval.""}]"	RA 7565	May 26, 1992	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""ANACLETO D. BADOY, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""CORAZON C. AQUINO"", ""title"": ""President of the Philippines""}]"	To convert the rural health unit into a five-bed capacity infirmary and allocate funds for its operation.	"[""Conversion of the rural health unit into Silago Health Infirmary"", ""Appropriation of necessary funds through the General Appropriations Act"", ""Effectivity upon approval""]"		"[""Health"", ""Infirmary"", ""Public Health"", ""Southern Leyte""]"	"[""Rural Health Unit"", ""Silago"", ""Southern Leyte"", ""Health Infirmary"", ""General Appropriations Act"", ""May 1992""]"
+repacts:datasets/markdown/repacts/1992/ra_7566_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7566_1992.md	ra_7566_1992	AN ACT CONVERTING THE JESUS M. COLMENARES DISTRICT HOSPITAL IN THE MUNICIPALITY OF BALASAN, PROVINCE OF ILOILO, INTO A FIFTY-BED CAPACITY DISTRICT HOSPITAL, TO BE KNOWN AS THE JESUS M. COLMENARES DISTRICT HOSPITAL, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 7566, May 26, 1992 ]**
+
+ AN ACT CONVERTING THE JESUS M. COLMENARES DISTRICT HOSPITAL IN THE MUNICIPALITY OF BALASAN, PROVINCE OF ILOILO, INTO A FIFTY-BED CAPACITY DISTRICT HOSPITAL, TO BE KNOWN AS THE JESUS M. COLMENARES DISTRICT HOSPITAL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Jesus M. Colmenares District Hospital in the Municipality of Balasan, Province of Iloilo, is hereby converted into a fifty-bed capacity district hospital, to be known as the Jesus M. Colmenares District Hospital.
+
+ **Section 2.** The amount necessary for the implementation of this Act shall be included in the General Appropriations Act of the year following its enactment and every year thereafter.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on December 17, 1991 and February 3, 1992, respectively. |  |
+| (Sgd.) **ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: May 26, 1992
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	Converts the Jesus M. Colmenares District Hospital in Balasan, Iloilo, into a fifty-bed capacity district hospital and appropriates funds for its implementation.	"[{""title"": ""Section 1"", ""summary"": ""The Jesus M. Colmenares District Hospital in the Municipality of Balasan, Province of Iloilo, is hereby converted into a fifty-bed capacity district hospital, to be known as the Jesus M. Colmenares District Hospital.""}, {""title"": ""Section 2"", ""summary"": ""The amount necessary for the implementation of this Act shall be included in the General Appropriations Act of the year following its enactment and every year thereafter.""}, {""title"": ""Section 3"", ""summary"": ""This Act shall take effect upon its approval.""}]"	7566	May 26, 1992	"[{""name"": ""Neptali A. Gonzales"", ""title"": ""President of the Senate""}, {""name"": ""Ram\u00f3n V. Mitra"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""Anacleto D. Badoy, Jr."", ""title"": ""Secretary of the Senate""}, {""name"": ""Camilo L. Sabio"", ""title"": ""Secretary General House of Representatives""}]"	To convert the Jesus M. Colmenares District Hospital into a fifty-bed capacity district hospital and appropriate funds for its implementation.	"[""Conversion to fifty-bed capacity district hospital"", ""Funds to be appropriated in the General Appropriations Act following enactment"", ""Act takes effect upon approval""]"		"[""Healthcare"", ""Hospital"", ""Iloilo"", ""Republic Act"", ""Funding""]"	"[""Jesus M. Colmenares District Hospital"", ""fifty-bed capacity"", ""Iloilo"", ""Republic Act 7566"", ""funding"", ""conversion""]"
+repacts:datasets/markdown/repacts/1992/ra_7567_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7567_1992.md	ra_7567_1992	AN ACT CONVERTING THE RURAL HEALTH UNIT IN THE MUNICIPALITY OF KAPUTIAN, PROVINCE OF DAVAO DEL NORTE, INTO A FIVE-BED CAPACITY HEALTH INFIRMARY, TO BE KNOWN AS THE KAPUTIAN HEALTH INFIRMARY, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 7567, May 26, 1992 ]**
+
+ AN ACT CONVERTING THE RURAL HEALTH UNIT IN THE MUNICIPALITY OF KAPUTIAN, PROVINCE OF DAVAO DEL NORTE, INTO A FIVE-BED CAPACITY HEALTH INFIRMARY, TO BE KNOWN AS THE KAPUTIAN HEALTH INFIRMARY, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The rural health unit in the Municipality of Kaputian, Province of Davao del Norte, is hereby converted into a five-bed capacity health infirmary, to be known as the Kaputian Health Infirmary.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on September 4, 1991 and January 30, 1992, respectively. |  |
+| (Sgd.) **ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: May 26, 1992
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	Converts the rural health unit in Kaputian, Davao del Norte into a five-bed health infirmary, allocates funds for its operation, and sets the act to take effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""The rural health unit in the Municipality of Kaputian, Province of Davao del Norte, is hereby converted into a five-bed capacity health infirmary, to be known as the Kaputian Health Infirmary.""}, {""title"": ""Section 2."", ""summary"": ""The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.""}, {""title"": ""Section 3."", ""summary"": ""This Act shall take effect upon its approval.""}]"	7567	May 26, 1992	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""ANACLETO D. BADOY, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}]"	To improve rural healthcare by upgrading the existing health unit into a fully equipped infirmary with adequate bed capacity and to secure necessary funding for its operation.	"[""Conversion of rural health unit to five-bed infirmary"", ""Allocation of funds through the General Appropriations Act"", ""Act takes effect upon approval""]"	General Appropriations Act	"[""Health"", ""Healthcare"", ""Rural Health"", ""Philippines""]"	"[""Kaputian"", ""Davao del Norte"", ""Health Infirmary"", ""Rural Health Unit"", ""Conversion"", ""Funding"", ""Appropriation""]"
+repacts:datasets/markdown/repacts/1992/ra_7568_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7568_1992.md	ra_7568_1992	AN ACT CONVERTING THE RURAL HEALTH UNIT IN THE MUNICIPALITY OF KAPALONG, PROVINCE OF DAVAO DEL NORTE, INTO A FIVE-BED CAPACITY HEALTH INFIRMARY, TO BE KNOWN AS THE KAPALONG HEALTH INFIRMARY, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 7568, May 26, 1992 ]**
+
+ AN ACT CONVERTING THE RURAL HEALTH UNIT IN THE MUNICIPALITY OF KAPALONG, PROVINCE OF DAVAO DEL NORTE, INTO A FIVE-BED CAPACITY HEALTH INFIRMARY, TO BE KNOWN AS THE KAPALONG HEALTH INFIRMARY, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The rural health unit in the Municipality of Kapalong, Province of Davao del Norte, is hereby converted into a five-bed capacity health infirmary, to be known as the Kapalong Health Infirmary.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on September 4, 1991 and February 3, 1992, respectively. |  |
+| (Sgd.) **ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: May 26, 1992
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	This act converts the rural health unit in Kapalong, Davao del Norte into a five‑bed capacity health infirmary named Kapalong Health Infirmary and appropriates funds for its operation.	"[{""title"": ""Section 1"", ""summary"": ""The rural health unit in the Municipality of Kapalong, Province of Davao del Norte, is hereby converted into a five\u2011bed capacity health infirmary, to be known as the Kapalong Health Infirmary.""}, {""title"": ""Section 2"", ""summary"": ""The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.""}, {""title"": ""Section 3"", ""summary"": ""This Act shall take effect upon its approval.""}]"	7568	May 26, 1992	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""ANACLETO D. BADOY, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}]"	Converting the rural health unit in Kapalong into a five‑bed capacity health infirmary and appropriating funds for its operation.	"[""Section 1: conversion of the rural health unit to a five\u2011bed capacity health infirmary."", ""Section 2: appropriation of necessary funds included in the next General Appropriations Act."", ""Section 3: act takes effect upon approval.""]"		"[""health"", ""infirmary"", ""rural health unit""]"	"[""Kapalong"", ""Davao del Norte"", ""health infirmary"", ""conversion"", ""funds appropriation""]"
+repacts:datasets/markdown/repacts/1992/ra_7569_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7569_1992.md	ra_7569_1992	AN ACT CONVERTING THE RURAL HEALTH UNIT IN THE MUNICIPALITY OF MABINI, PROVINCE OF DAVAO, INTO A FIVE-BED CAPACITY HEALTH INFIRMARY, TO BE KNOWN AS THE MABINI HEALTH INFIRMARY, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 7569, May 26, 1992 ]**
+
+ AN ACT CONVERTING THE RURAL HEALTH UNIT IN THE MUNICIPALITY OF MABINI, PROVINCE OF DAVAO, INTO A FIVE-BED CAPACITY HEALTH INFIRMARY, TO BE KNOWN AS THE MABINI HEALTH INFIRMARY, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The rural health unit in the Municipality of Mabini, Province of Davao, is hereby converted into a five-bed capacity health infirmary, to be known as the Mabini Health Infirmary.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on October 17, 199 and February 3, 1992, respectively. |  |
+| (Sgd.) **ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: May 26, 1992
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	Converts the rural health unit in Mabini, Davao into a five-bed health infirmary named Mabini Health Infirmary and appropriates funds for its operation.	"[{""title"": ""Section 1"", ""summary"": ""The rural health unit in the Municipality of Mabini, Province of Davao, is converted into a five-bed capacity health infirmary, to be known as the Mabini Health Infirmary.""}, {""title"": ""Section 2"", ""summary"": ""The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.""}, {""title"": ""Section 3"", ""summary"": ""This Act shall take effect upon its approval.""}]"	7569	May 26, 1992	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""ANACLETO D. BADOY, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}]"	To convert the rural health unit in Mabini, Davao into a five-bed health infirmary and appropriate funds for its operation.	"[""Conversion of rural health unit to a five-bed health infirmary named Mabini Health Infirmary"", ""Allocation of necessary funds through the General Appropriations Act of the following year"", ""Effective upon approval""]"		"[""Health"", ""Public Health"", ""Healthcare"", ""Davao"", ""Mabini"", ""Republic Act""]"	"[""rural health unit"", ""health infirmary"", ""five-bed capacity"", ""fund appropriation"", ""Davao"", ""Mabini"", ""Republic Act 7569""]"
+repacts:datasets/markdown/repacts/1992/ra_7570_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7570_1992.md	ra_7570_1992	AN ACT CONVERTING THE RURAL HEALTH UNIT IN THE MUNICIPALITY OF DINAPIGUE, PROVINCE OF ISABELA, INTO A FIVE-BED CAPACITY HEALTH INFIRMARY, TO BE KNOWN AS THE DINAPIGUE HEALTH INFIRMARY, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 7570, May 26, 1992 ]**
+
+ AN ACT CONVERTING THE RURAL HEALTH UNIT IN THE MUNICIPALITY OF DINAPIGUE, PROVINCE OF ISABELA, INTO A FIVE-BED CAPACITY HEALTH INFIRMARY, TO BE KNOWN AS THE DINAPIGUE HEALTH INFIRMARY, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The rural health unit in the Municipality of Dinapigue, Province of Isabela, is hereby converted into a five-bed capacity health infirmary, to be known as the Dinapigue Health Infirmary.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 3.** This Act shall take effect immediately upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on September 4, 1991 and January 30, 1992, respectively. |  |
+| (Sgd.) **ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: May 26, 1992
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	The Act converts the rural health unit in Dinapigue, Isabela into a five-bed health infirmary named Dinapigue Health Infirmary and appropriates funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""The rural health unit in the Municipality of Dinapigue, Province of Isabela, is hereby converted into a five-bed capacity health infirmary, to be known as the Dinapigue Health Infirmary.""}, {""title"": ""Section 2."", ""summary"": ""The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.""}, {""title"": ""Section 3."", ""summary"": ""This Act shall take effect immediately upon its approval.""}]"	7570	May 26, 1992	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}, {""name"": ""ANACLETO D. BADOY, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""CORAZON C. AQUINO"", ""title"": ""President of the Philippines""}]"		To convert a rural health unit into a five-bed health infirmary and provide necessary appropriations for its operation.	"[""Conversion of the rural health unit into a five-bed health infirmary"", ""Appropriation of funds through the General Appropriations Act of the following year"", ""Immediate effect upon approval""]"		"[""Health"", ""Public Health"", ""Rural Health"", ""Isabela"", ""Republic Act""]"	"[""health infirmary"", ""Dinapigue"", ""Isabela"", ""funding"", ""conversion"", ""public health"", ""Republic Act 7570""]"
+repacts:datasets/markdown/repacts/1992/ra_7571_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7571_1992.md	ra_7571_1992	An Act Converting the Rural Health Unit in the Municipality of El Nido, Province of Palawan, into a Five-Bed Capacity Health Infirmary, to be Known as the El Nido Health Infirmary, and Appropriating Funds Therefor	"**[ REPUBLIC ACT NO. 7571, May 26, 1992 ]**
+
+ AN ACT CONVERTING THE RURAL HEALTH UNIT IN THE MUNICIPALITY OF EL NIDO, PROVINCE OF PALAWAN, INTO A FIVE-BED CAPACITY HEALTH INFIRMARY, TO BE KNOWN AS THE EL NIDO HEALTH INFIRMARY, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The rural health unit in the Municipality of El Nido, Province of Palawan, is hereby converted into a five-bed capacity health infirmary, to be known as the El Nido Health Infirmary.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on October 2, 1991 and January 30, 1992, respectively. |  |
+| (Sgd.) **ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: May 26, 1992
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	The act converts the existing rural health unit in El Nido, Palawan into a five-bed capacity health infirmary and appropriates funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""The rural health unit in the Municipality of El Nido, Province of Palawan, is hereby converted into a five-bed capacity health infirmary, to be known as the El Nido Health Infirmary.""}, {""title"": ""Section 2."", ""summary"": ""The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.""}, {""title"": ""Section 3."", ""summary"": ""This Act shall take effect upon its approval.""}]"	7571	May 26, 1992	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"		To convert the rural health unit in El Nido, Palawan into a five-bed capacity health infirmary and appropriate necessary funds for its operation.	"[""Section 1: Conversion of the rural health unit into a five-bed health infirmary."", ""Section 2: Funding appropriation to be included in the following General Appropriations Act."", ""Section 3: Effective date upon approval.""]"		"[""Health"", ""Infirmary"", ""Palawan"", ""Rural Health"", ""Republic Act""]"	"[""rural health unit"", ""five-bed capacity"", ""health infirmary"", ""El Nido"", ""Palawan"", ""funds appropriation"", ""Republic Act 7571""]"
+repacts:datasets/markdown/repacts/1992/ra_7572_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7572_1992.md	ra_7572_1992	An Act converting the Imus Health Center in the Municipality of Imus, Province of Cavite, into a five-bed capacity health infirmary, to be known as the Imus Health Infirmary, and appropriating funds therefor	"**[ REPUBLIC ACT NO. 7572, May 26, 1992 ]**
+
+ AN ACT CONVERTING THE IMUS HEALTH CENTER IN THE MUNICIPALITY OF IMUS, PROVINCE OF CAVITE, INTO A FIVE-BED CAPACITY HEALTH INFIRMARY, TO BE KNOWN AS THE IMUS HEALTH INFIRMARY, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Imus Health Center in the Municipality of Imus, Province of Cavite, is hereby converted into a five-bed capacity health infirmary, to be known as the Imus Health Infirmary.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on September 4, 1991 and February 3, 1992 respectively. |  |
+| (Sgd.) **ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: May 26, 1992
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	Converts Imus Health Center into a five-bed infirmary and appropriates funds for its operation	"[{""title"": ""Section 1"", ""summary"": ""The Imus Health Center is converted into a five-bed capacity health infirmary known as the Imus Health Infirmary.""}, {""title"": ""Section 2"", ""summary"": ""The necessary amount for the provisions of this Act shall be included in the General Appropriations Act of the following year.""}, {""title"": ""Section 3"", ""summary"": ""This Act shall take effect upon its approval.""}]"	7572	May 26, 1992	"[{""name"": ""Neptali A. Gonzales"", ""title"": ""President of the Senate""}, {""name"": ""Ram\u00f3n V. Mitra"", ""title"": ""Speaker of the House of Representatives""}, {""name"": ""Coraz\u00f3n C. Aquino"", ""title"": ""President of the Philippines""}]"	"[{""name"": ""Anacleto D. Badoy, Jr."", ""title"": ""Secretary of the Senate""}, {""name"": ""Camilo L. Sabio"", ""title"": ""Secretary General House of Representatives""}]"	To convert the Imus Health Center into a health infirmary and appropriate funds for its operation	"[""Conversion of Imus Health Center to a five-bed infirmary"", ""Appropriation of funds for the infirmary"", ""Effective upon approval""]"		"[""Health"", ""Infrastructure"", ""Cavite"", ""Republic Act""]"	"[""Imus"", ""Health Infirmary"", ""Cavite"", ""Republic Act 7572"", ""Five-bed"", ""Appropriations""]"
+repacts:datasets/markdown/repacts/1992/ra_7573_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7573_1992.md	ra_7573_1992	AN ACT CONVERTING THE RURAL HEALTH UNIT IN THE MUNICIPALITY OF STA. CRUZ, PROVINCE OF DAVAO DEL SUR, INTO A FIVE-BED CAPACITY HEALTH INFIRMARY, TO BE KNOWN AS THE STA. CRUZ HEALTH INFIRMARY, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 7573, May 26, 1992 ]**

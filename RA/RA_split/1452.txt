@@ -1,0 +1,227 @@
+
+ a. Sitio Tabunoc, to be known as Barrio Tabunoc;
+
+ b. Sitio Hibulangan, to be known as Barrio Hibulangan;
+
+ c. Sitio Camporog, to be known as Barrio Camporog;
+
+ d. Sitio Payao, to be known as Barrio Payao;
+
+ e. Sitio Cabungahan, to be known as Barrio Cabungahan;
+
+ f. Sitio Tinghob, to be known as Barrio Tinghob;
+
+ g. Sitio Catagbacan, to be known as Barrio Gatagbacan;
+
+ h. Sitio Halas, to be known as Barrio Halas;
+
+ i. Sitio Fatima, to be known as Barrio Fatima;
+
+ j. Sitio Iligay, to be known as Barrio Iligay;
+
+ k. Sitio Baga-Buga to be known as Barrio Baga-Buga;
+
+ l. Sitio Capinyahan, to be known as Barrio Capinyahan;
+
+ m. Sitio Poblacion Norte, to be known as Barrio Poblacion Norte; and
+
+ n. Sitio Poblaeion Sur, to be known as Barrio Poblacion Sur.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 19 1971
+"	success	Republic Act	An act converting specified sitios in Villaba, Leyte into barrios.	"[{""title"": ""Section\u00a01"", ""summary"": ""Lists the sitios that are to be converted into barrios in the Municipality of Villaba.""}, {""title"": ""Section\u00a02"", ""summary"": ""States that the act takes effect upon approval.""}]"	6193	June 19, 1971			To convert listed sitios into barrios within the Municipality of Villaba, Leyte.	"[""Conversion of specified sitios into barrios"", ""Effectivity upon approval""]"		"[""Republic Act"", ""Local Government"", ""Barangay"", ""Leyte""]"	"[""Barrios"", ""Villaba"", ""Leyte"", ""Sitio"", ""Conversion""]"
+repacts:datasets/markdown/repacts/1971/ra_6194_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6194_1971.md	ra_6194_1971	AN ACT CREATING THE BARRIO OF SAN SEBASTIAN IN THE MUNICIPALITY OF MATAG-OB, PROVINCE OF LEYTE.	"**[ REPUBLIC ACT NO. 6194, June 19, 1971 ]**
+
+ AN ACT CREATING THE BARRIO OF SAN SEBASTIAN IN THE MUNICIPALITY OF MATAG-OB, PROVINCE OF LEYTE.
+
+ Be it enacted by the Senate and House of Representatives of the Philippinesin Congress assembled:
+
+ **Section 1.** The sitio of Cap-on in the Barrio of Candelaria, Municipality of Matag-ob, Province of Leyte, is hereby separated from said barrio, and constituted into a distinct and independent barrio of said municipality, to be known as the Barrio of San Sebastian.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Republic Act	This act creates a new barrio, San Sebastian, in the municipality of Matag-Ob, Leyte, by separating the sitio of Cap-on from the barrio of Candelaria. The act takes effect upon its approval.	"[{""title"": ""Section 1"", ""summary"": ""Separates the sitio of Cap-on from the barrio of Candelaria and constitutes it as the distinct and independent Barrio of San Sebastian.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	6194	June 19, 1971				"[""Creation of the Barrio of San Sebastian"", ""Separation of the sitio of Cap-on from the barrio of Candelaria"", ""Effectivity of the act upon approval""]"		"[""Local Government"", ""Barangay"", ""Municipality"", ""Leyte"", ""Republic Act""]"	"[""Barrio"", ""San Sebastian"", ""Matag-Ob"", ""Leyte"", ""Cap-on"", ""Separation"", ""Creation"", ""Republic Act 6194"", ""June 1971""]"
+repacts:datasets/markdown/repacts/1971/ra_6195_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6195_1971.md	ra_6195_1971	An Act Changing the Name of DOA Trinidad Bolivar Memorial National Hospital in the Municipality of Pototan, Province of Iloilo, to Pototan National Hospital.	"**[ REPUBLIC ACT NO. 6195, June 19, 1971 ]**
+
+ AN ACT CHANGING THE NAME OF DOA TRINIDAD BOLIVAR MEMORIAL NATIONAL HOSPITAL IN THE MUNICIPALITY OF POTOTAN, PROVINCE OF ILOILO, TO POTOTAN NATIONAL HOSPITAL.
+
+ Be it enacted by the Senate and House of Representatives of the Philippinesin Congress assembled:
+
+ **Section 1.** The name of Dona Trinidad Bolivar Memorial National Hospital in the Municipality of Pototan, Province of Iloilo, is hereby changed to Pototan National Hospital.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Republic Act	This Act changes the name of the former Dona Trinidad Bolivar Memorial National Hospital to Pototan National Hospital.	"[{""title"": ""Section 1"", ""summary"": ""The name of Dona Trinidad Bolivar Memorial National Hospital in the Municipality of Pototan, Province of Iloilo, is hereby changed to Pototan National Hospital.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	6195	June 19, 1971			To change the name of a national hospital in Pototan, Iloilo.	"[""Name change of Dona Trinidad Bolivar Memorial National Hospital to Pototan National Hospital"", ""Effective upon approval""]"		"[""hospital"", ""name change"", ""Ilocos"", ""Iloilo"", ""Pototan"", ""healthcare"", ""legislation""]"	"[""hospital"", ""name change"", ""Iloilo"", ""Pototan""]"
+repacts:datasets/markdown/repacts/1971/ra_6196_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6196_1971.md	ra_6196_1971	AN ACT INCREASING THE BED CAPACITY OF ILOCOS NORTE PROVINCIAL HOSPITAL AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 6196, June 19, 1971 ]**
+
+ AN ACT INCREASING THE BED CAPACITY OF ILOCOS NORTE PROVINCIAL HOSPITAL AND APPROPRIATING FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The bed capacity of llocos Norte Provincial Hospital is hereby increased from fifty to one hundred fifty beds.
+
+ **Section 2.** Such sums as may be necessary for the operation and maintenance and other facilities shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Republic Act	This act increases the bed capacity of Ilocos Norte Provincial Hospital from fifty to one hundred fifty beds and appropriates necessary funds for its operation, maintenance, and other facilities.	"[{""title"": ""Section 1"", ""summary"": ""The bed capacity of Ilocos Norte Provincial Hospital is increased from fifty to one hundred fifty beds.""}, {""title"": ""Section 2"", ""summary"": ""Sums necessary for the operation, maintenance, and other facilities shall be included in the annual General Appropriations Act.""}, {""title"": ""Section 3"", ""summary"": ""The act shall take effect upon its approval.""}]"	6196	1971-06-19			To expand hospital capacity and secure appropriate funding for its continued operation and maintenance.	"[""Increase bed capacity from 50 to 150 beds"", ""Appropriate funds for operation, maintenance, and other facilities"", ""Effectivity upon approval""]"		"[""Health"", ""Hospital"", ""Bed Capacity"", ""Appropriations""]"	"[""bed capacity"", ""hospital"", ""Ilocos Norte"", ""appropriation"", ""funds"", ""operation"", ""maintenance""]"
+repacts:datasets/markdown/repacts/1971/ra_6197_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6197_1971.md	ra_6197_1971	AN ACT CREATING BARRIO MABUNAW IN THE MUNICIPALITY OF RIZAL, PROVINCE OF ZAMBOANGA DEL NORTE	"**[ REPUBLIC ACT NO. 6197, June 19, 1971 ]**
+
+ AN ACT CREATING BARRIO MABUNAW IN THE MUNICIPALITY OF RIZAL, PROVINCE OF ZAMBOANGA DEL NORTE.
+
+ Be it enacted by the Senate and House of Representatives of the Philippinesin Congress assembled:
+
+ **Section 1.** The sitio of Mabunaw in Barrio Nangca, Municipality of Rizal, Province of Zamboanga del Norte, is separated from said barrio, and constituted into a distinct and independent barrio in said municipality, to be known as Barrio Mabunaw.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Local Government	The Republic Act No. 6197 establishes Barrio Mabunaw as a distinct and independent barrio within the Municipality of Rizal, Zamboanga del Norte, effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Separates the sitio of Mabunaw in Barrio Nangca, Rizal, and constitutes it as the new Barrio Mabunaw.""}, {""title"": ""Section 2"", ""summary"": ""Declares that the act takes effect upon its approval.""}]"	6197	June 19, 1971			To create a new barrio within the municipality of Rizal for improved local administration.	"[""Creation of Barrio Mabunaw"", ""Effective date upon approval""]"		"[""Local Government"", ""Barrio Creation""]"	"[""Barrio"", ""Zamboanga del Norte"", ""Rizal"", ""Republic Act 6197""]"
+repacts:datasets/markdown/repacts/1971/ra_6198_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6198_1971.md	ra_6198_1971	AN ACT CREATING BARRIO NAPILAN IN THE MUNICIPALITY OF RIZAL, PROVINCE OF ZAMBOANGA DEL NORTE.	"**[ REPUBLIC ACT NO. 6198, June 19, 1971 ]**
+
+ AN ACT CREATING BARRIO NAPILAN IN THE MUNICIPALITY OF RIZAL, PROVINCE OF ZAMBOANGA DEL NORTE.
+
+ Be it enacted by the Senate and House of Representatives of the Philippinesin Congress assembled:
+
+ **Section 1.** The sitio of Napilan in the poblacion of the Municipality of Rizal, Province of Zamboanga del Norte, is separated therefrom, and constituted into a distinct and independent barrio in said municipality, to be known as Barrio Napilan.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Republic Act	An act that creates the barrio of Napilan by separating the sitio of Napilan from the poblacion of the Municipality of Rizal, Zamboanga del Norte, and establishes it as an independent barrio.	"[{""title"": ""Section 1."", ""summary"": ""The sitio of Napilan in the poblacion of the Municipality of Rizal, Province of Zamboanga del Norte, is separated therefrom, and constituted into a distinct and independent barrio in said municipality, to be known as Barrio Napilan.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	RA 6198	June 19, 1971			To create the barrio of Napilan within the Municipality of Rizal, Zamboanga del Norte.	"[""Separates the sitio of Napilan from the poblacion of Rizal municipality."", ""Establishes Barrio Napilan as a distinct and independent barrio.""]"		"[""Local Government"", ""Barangay Formation"", ""Zamboanga del Norte""]"	"[""Barrio Napilan"", ""Rizal"", ""Zamboanga del Norte"", ""Republic Act 6198""]"
+repacts:datasets/markdown/repacts/1971/ra_6199_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6199_1971.md	ra_6199_1971	AN ACT CREATING BARRIO GORDON HEIGHTS IN THE CITY OF OLONGAPO.	"**[ REPUBLIC ACT NO. 6199, June 19, 1971 ]**
+
+ AN ACT CREATING BARRIO GORDON HEIGHTS IN THE CITY OF OLONGAPO.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled;
+
+ **Section 1.** The whole area of Purok 7 in the Barrio of Santa Rita, City of Olongapo, is hereby separated from said barrio and constituted into a distinct and independent barrio of said city, to be known as Barrio Gordon Heights. Barrio Gordon Heights shall be bounded on the North by Barrio Barretto, on the east by watershed area, on the south by Mabayuan River and on the west by Mabayuan and Santa Rita boundaries.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Republic Act	An act establishing Barrio Gordon Heights as an independent barrio within the City of Olongapo, delineating its boundaries and effective date.	"[{""title"": ""Section 1."", ""summary"": ""Defines the creation of Barrio Gordon Heights from Purok 7 of Barrio Santa Rita, detailing its boundaries.""}, {""title"": ""Section 2."", ""summary"": ""States the act will take effect upon approval.""}]"	6199	June 19, 1971			To create a new barrio within the City of Olongapo, facilitating local governance and community development.	"[""Creation of Barrio Gordon Heights"", ""Boundary delineation of the new barrio"", ""Effectivity upon approval""]"		"[""Local Government"", ""Barangay"", ""Olongapo"", ""Republic Act""]"	"[""Barrio Gordon Heights"", ""Olongapo"", ""Barangay"", ""Boundary"", ""Creation"", ""Republic Act 6199""]"
+repacts:datasets/markdown/repacts/1971/ra_6200_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6200_1971.md	ra_6200_1971	An Act Creating Barrio Parel in the Municipality of Botolan, Province of Zambales.	"**[ REPUBLIC ACT NO. 6200, June 19, 1971 ]**
+
+ AN ACT CREATING BARRIO PAREL IN THE MUNICIPALITY OF BOTOLAN, PROVINCE OF ZAMBALES.
+
+ Be it enacted by the Senate and House of Representatives of the Philippinesin Congress assembled:
+
+ **Section 1.** The sitio of Parel in the Municipality of Botolan, Province of Zambales, is hereby converted into a distinct and independent barrio of said municipality, to be known as Barrio Parel.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Republic Act	This act establishes Barrio Parel as an independent barrio within the Municipality of Botolan, Zambales.	"[{""title"": ""Section 1"", ""summary"": ""Converts the sitio of Parel into a distinct and independent barrio known as Barrio Parel.""}, {""title"": ""Section 2"", ""summary"": ""The act takes effect upon its approval.""}]"	6200	June 19, 1971			To create a new barrio within the Municipality of Botolan.	"[""Conversion of the sitio of Parel into an independent barrio."", ""Effectivity of the act upon approval.""]"		"[""Local Government"", ""Barangay"", ""Zambales"", ""Municipality"", ""Barrio""]"	"[""Barrio Parel"", ""Botolan"", ""Zambales"", ""Republic Act 6200"", ""site conversion""]"
+repacts:datasets/markdown/repacts/1971/ra_6201_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6201_1971.md	ra_6201_1971	AN ACT CREATING BARRIO CATOL IN THE MUNICIPALITY OF CANDELARIA, PROVINCE OF ZAMBALES.	"**[ REPUBLIC ACT NO. 6201, June 19, 1971 ]**
+
+ AN ACT CREATING BARRIO CATOL IN THE MUNICIPALITY OF CANDELARIA, PROVINCE OF ZAMBALES.
+
+ Be it enacted by the Senate and House of Representatives of the Philippinesin Congress assembled:
+
+ **Section 1.** The sitio of Catol in the Municipality of Candelaria, Province of Zambales, is hereby converted into a distinct and independent barrio of said municipality, to be known as Barrio Catol.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Republic Act	The Act converts the sitio of Catol into a distinct and independent barrio of Candelaria, Zambales, known as Barrio Catol.	"[{""title"": ""Section 1."", ""summary"": ""Converts the sitio of Catol into a distinct and independent barrio named Barrio Catol.""}, {""title"": ""Section 2."", ""summary"": ""The Act takes effect upon its approval.""}]"	6201	June 19, 1971			To create a new barrio within the municipality of Candelaria, Zambales.	"[""The sitio of Catol is converted into an independent barrio named Barrio Catol."", ""The new barrio is officially recognized under the municipality of Candelaria."", ""The act takes effect upon approval.""]"		"[""Barangay"", ""Local Government"", ""Zambales"", ""Candelaria""]"	"[""Barrio"", ""Catol"", ""Candelaria"", ""Zambales"", ""Republic Act"", ""1971""]"
+repacts:datasets/markdown/repacts/1971/ra_6202_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6202_1971.md	ra_6202_1971	An Act Creating Barrio Catol in the Municipality of Candelaria, Province of Zambales	"**[ REPUBLIC ACT NO. 6201, June 19, 1971 ]**
+
+ AN ACT CREATING BARRIO CATOL IN THE MUNICIPALITY OF CANDELARIA, PROVINCE OF ZAMBALES.
+
+ Be it enacted by the Senate and House of Representatives of the Philippinesin Congress assembled:
+
+ **Section 1.** The sitio of Catol in the Municipality of Candelaria, Province of Zambales, is hereby converted into a distinct and independent barrio of said municipality, to be known as Barrio Catol.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Republic Act	An act that converts the sitio of Catol in the Municipality of Candelaria, Province of Zambales into an independent barrio named Barrio Catol.	"[{""title"": ""Section 1"", ""summary"": ""Converts the sitio of Catol into a distinct and independent barrio of Candelaria, named Barrio Catol.""}, {""title"": ""Section 2"", ""summary"": ""States that the act shall take effect upon its approval.""}]"	6201	1971-06-19			To create a new barrio within the municipality of Candelaria, thereby providing local governance and administrative recognition to the area formerly known as sitio Catol.	"[""Conversion of sitio Catol into Barrio Catol"", ""Effectivity upon approval of the act""]"		"[""Local Government"", ""Zambales"", ""Barrio""]"	"[""Barrio Catol"", ""Candelaria"", ""Zambales"", ""Republic Act 6201""]"
+repacts:datasets/markdown/repacts/1971/ra_6203_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6203_1971.md	ra_6203_1971	AN ACT CREATING BARRIO ANTIPOLO IN THE MUNICIPALITY OF SAN ANTONIO, PROVINCE OF ZAMBALES.	"**[ REPUBLIC ACT NO. 6203, June 19, 1971 ]**
+
+ AN ACT CREATING BARRIO ANTIPOLO IN THE MUNICIPALITY OF SAN ANTONIO, PROVINCE OF ZAMBALES.
+
+ Be it enacted by the Senate and House of Representatives of the Philippinesin Congress assembled:
+
+ **Section 1.** The sitio of Antipolo in the Municipality of San Antonio, Province of Zambales, is hereby converted into a distinct and independent barrio of said municipality, to be known as Barrio Antipolo.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Republic Act	Creates Barrio Antipolo in San Antonio, Zambales.	"[{""title"": ""Section 1."", ""summary"": ""The sitio of Antipolo in the Municipality of San Antonio, Province of Zambales, is converted into an independent barrio named Barrio Antipolo.""}, {""title"": ""Section 2."", ""summary"": ""The Act shall take effect upon its approval.""}]"	6203	June 19, 1971			To establish a new barrio within San Antonio, Zambales.	"[""Conversion of the sitio of Antipolo into an independent barrio."", ""Act takes effect upon approval.""]"		"[""Republic Act"", ""Local Government"", ""Barangay""]"	"[""Barrio Antipolo"", ""San Antonio"", ""Zambales"", ""Republic Act 6203""]"
+repacts:datasets/markdown/repacts/1971/ra_6204_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6204_1971.md	ra_6204_1971	An Act Changing the Name of the Alag Community School in Barrio Alag, Municipality of Baco, Province of Oriental Mindoro, to Felix Hernandez Community School	"**[ REPUBLIC ACT NO. 6204, June 19, 1971 ]**
+
+ AN ACT CHANGING THE NAME OF THE ALAG COMMUNITY SCHOOL IN BARRIO ALAG, MUNICIPALITY OF BACO, PROVINCE OF ORIENTAL MINDORO, TO FELIX HERNANDEZ COMMUNITY SCHOOL.
+
+ Be it enacted by the Senate and House of Representatives of the Philippinesin Congress assembled:
+
+ **Section 1.** The name of the Alag Community School in Barrio Alag, Municipality of Baco, Province of Oriental Mindoro, is hereby changed to Felix Hernandez Community School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Education	This act changes the name of Alag Community School to Felix Hernandez Community School and specifies that it takes effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The name of the Alag Community School in Barrio Alag, Municipality of Baco, Province of Oriental Mindoro, is hereby changed to Felix Hernandez Community School.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	6204	June 19, 1971			To change the name of the Alag Community School to Felix Hernandez Community School.	"[""Name of the school changed to Felix Hernandez Community School."", ""Act takes effect upon approval.""]"		"[""Education"", ""School"", ""Local Government""]"	"[""Alag Community School"", ""Felix Hernandez Community School"", ""name change"", ""Oriental Mindoro"", ""Baco"", ""Republic Act 6204""]"
+repacts:datasets/markdown/repacts/1971/ra_6205_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6205_1971.md	ra_6205_1971	AN ACT CONVERTING SITIO VILLA NOGALES IN THE MUNICIPALITY OF MAJAYJAY, PROVINCE OF LAGUNA INTO A BARRIO	"**[ REPUBLIC ACT NO. 6205, June 19, 1971 ]**
+
+ AN ACT CONVERTING SITIO VILLA NOGALES IN THE MUNICIPALITY OF MAJAYJAY, PROVINCE OF LAGUNA INTO A BARRIO.
+
+ Be it enacted by the Senate and House of Representatives of the Philippinesin Congress assembled:
+
+ **Section 1.** The sitio known as Villa Nogales, formerly a part of Barrio Malinao, Municipality of Majayjay, Province of Laguna, is hereby converted into a barrio to be known as Barrio Villa Nogales of the same municipality.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Republic Act	Converts the sitio of Villa Nogales into a barrio named Barrio Villa Nogales, effective upon approval.	"[{""title"": ""Section 1."", ""summary"": ""The sitio known as Villa Nogales is hereby converted into a barrio to be known as Barrio Villa Nogales of the same municipality.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	6205	June 19, 1971			To convert a sitio into a barrio.	"[""Conversion of Villa Nogales into Barrio Villa Nogales"", ""Act takes effect upon approval""]"		"[""Republic Act"", ""Local Government"", ""Barrio"", ""Conversion""]"	"[""Villa Nogales"", ""Majayjay"", ""Laguna"", ""Barrio"", ""Sitio"", ""Conversion"", ""Republic Act 6205""]"
+repacts:datasets/markdown/repacts/1971/ra_6206_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6206_1971.md	ra_6206_1971	AN ACT CHANGING THE NAME OF SAN JOAQUIN HIGH SCHOOL IN THE MUNICIPALITY OF SAN JOAQUIN, PROVINCE OF ILOILO, TO DON FELIX SERRA MEMORIAL HIGH SCHOOL.	"**[ REPUBLIC ACT NO. 6206, June 19, 1971 ]**
+
+ AN ACT CHANGING THE NAME OF SAN JOAQUIN HIGH SCHOOL IN THE MUNICIPALITY OF SAN JOAQUIN, PROVINCE OF ILOILO, TO DON FELIX SERRA MEMORIAL HIGH SCHOOL.
+
+ Be it enacted by the Senate and House of Representatives of the Philippinesin Congress assembled:
+
+ **Section 1.** The name of the San Joaquin High School in the Municipality of San Joaquin, Province of Iloilo, is hereby changed to Don Felix Serra Memorial High School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Republic Act	An act that changes the name of San Joaquin High School in San Joaquin, Iloilo to Don Felix Serra Memorial High School.	"[{""title"": ""Section 1."", ""summary"": ""The name of the San Joaquin High School in the Municipality of San Joaquin, Province of Iloilo, is hereby changed to Don Felix Serra Memorial High School.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	6206	June 19, 1971			To change the name of San Joaquin High School to Don Felix Serra Memorial High School.	"[""Name of San Joaquin High School changed to Don Felix Serra Memorial High School (Section 1)."", ""Act takes effect upon approval (Section 2).""]"		"[""Education"", ""School"", ""Renaming"", ""Philippines"", ""Republic Act""]"	"[""San Joaquin High School"", ""Don Felix Serra Memorial High School"", ""Iloilo"", ""Renaming"", ""Republic Act 6206""]"
+repacts:datasets/markdown/repacts/1971/ra_6207_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6207_1971.md	ra_6207_1971	AN ACT CHANGING THE NAME OF CATUBIG RURAL HIGH SCHOOL IN THE MUNICIPALITY OF CATUBIG, PROVINCE OF NORTHERN SAMAR, TO PEDRO REBADULLA MEMORIAL AGRICULTURAL HIGH SCHOOL.	"**[ REPUBLIC ACT NO. 6207, June 19, 1971 ]**
+
+ AN ACT CHANGING THE NAME OF CATUBIG RURAL HIGH SCHOOL IN THE MUNICIPALITY OF CATUBIG, PROVINCE OF NORTHERN SAMAR, TO PEDRO REBADULLA MEMORIAL AGRICULTURAL HIGH SCHOOL.
+
+ Be it enacted by the Senate and House of Representatives of the Philippinesin Congress assembled:
+
+ **Section 1.** The name of the Catubig Rural High School in the Municipality of Catubig, Province of Northern Samar, is hereby changed to Pedro Rebadulla Memorial Agricultural High School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971
+"	success	Republic Act	Changes the name of Catubig Rural High School to Pedro Rebadulla Memorial Agricultural High School.	"[{""title"": ""Section 1."", ""summary"": ""The name of the Catubig Rural High School in the Municipality of Catubig, Province of Northern Samar, is hereby changed to Pedro Rebadulla Memorial Agricultural High School.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	6207	June 19, 1971			To change the name of a public high school in Northern Samar.	"[""Name change of Catubig Rural High School to Pedro Rebadulla Memorial Agricultural High School."", ""Act takes effect upon approval.""]"		"[""Education"", ""School Naming"", ""Republic Act""]"	"[""Catubig"", ""Northern Samar"", ""Pedro Rebadulla"", ""High School"", ""Name change""]"
+repacts:datasets/markdown/repacts/1971/ra_6208_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6208_1971.md	ra_6208_1971	AN ACT CHANGING THE NAME OF BULIKULLOL ELEMENTARY SCHOOL IN THE MUNICIPALITY OF SIASI, PROVINCE OF SULU, TO PANGLIMA IKBALA ELEMENTARY SCHOOL.	"**[ REPUBLIC ACT NO. 6208, June 19, 1971 ]**
+
+ AN ACT CHANGING THE NAME OF BULIKULLOL ELEMENTARY SCHOOL IN THE MUNICIPALITY OF SIASI, PROVINCE OF SULU, TO PANGLIMA IKBALA ELEMENTARY SCHOOL.
+
+ Be it enacted by the Senate -and House of Representatives of the Philippinesin Congress assembled:
+
+ **Section 1.** The name of Bulikullol Elementary School in the Municipality of Siasi, Province of Sulu, is changed to Panglima Ikbala Elementary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Republic Act	This act changes the name of Bulikullol Elementary School in Siasi, Sulu to Panglima Ikbala Elementary School and takes effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""The name of Bulikullol Elementary School in the Municipality of Siasi, Province of Sulu, is changed to Panglima Ikbala Elementary School.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	6208	June 19, 1971			To change the name of a public elementary school.	"[""Name changed to Panglima Ikbala Elementary School."", ""Act takes effect upon approval.""]"		"[""Education"", ""School"", ""Name Change""]"	"[""Bulikullol"", ""Panglima Ikbala"", ""Siasi"", ""Sulu"", ""Elementary School""]"
+repacts:datasets/markdown/repacts/1971/ra_6209_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6209_1971.md	ra_6209_1971	AN ACT CHANGING THE NAME OF SOUTH LAMINUSA ELEMENTARY SCHOOL IN THE MUNICIPALITY OF SIASI, PROVINCE OF SULU, TO PANGLIMA SAIPUDIN ELEMENTARY SCHOOL.	"**[ REPUBLIC ACT NO. 6209, June 19, 1971 ]**
+
+ AN ACT CHANGING THE NAME OF SOUTH LAMINUSA ELEMENTARY SCHOOL IN THE MUNICIPALITY OF SIASI, PROVINCE OF SULU, TO PANGLIMA SAIPUDIN ELEMENTARY SCHOOL.
+
+ Be it enacted by the Senate and House of Representatives of the Philippinesin Congress assembled:
+
+ **Section 1.** The name of South Laminusa Elementary School in the Municipality of Siasi, Province of Sulu, is changed to Panglima Saipudin Elementary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Education	This Act changes the name of South Laminusa Elementary School in the Municipality of Siasi, Province of Sulu, to Panglima Saipudin Elementary School and stipulates its effectivity upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The name of South Laminusa Elementary School in the Municipality of Siasi, Province of Sulu, is changed to Panglima Saipudin Elementary School.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	6209	June 19, 1971			To officially rename South Laminusa Elementary School to Panglima Saipudin Elementary School.	"[""Name changed to Panglima Saipudin Elementary School"", ""Act takes effect upon approval""]"		"[""Education"", ""School Name Change"", ""Philippines""]"	"[""South Laminusa Elementary School"", ""Panglima Saipudin Elementary School"", ""Siasi"", ""Sulu"", ""Republic Act 6209""]"

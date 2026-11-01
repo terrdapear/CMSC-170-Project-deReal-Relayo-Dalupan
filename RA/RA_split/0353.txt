@@ -1,0 +1,142 @@
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Diptan, in the Municipality of Basco, Province of Batanes, is hereby converted into a barrio to be known as the barrio of San Antonio de Padua of said municipality.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 16, 1955.
+"	success	Republic Act	This Act authorizes the use of proceeds from a 20‑million‑peso bond issuance under RA 1000 to finance various housing projects of the Peoples Homesite and Housing Corporation (PHHC), specifies the types and funding mechanisms of those projects, sets bidding and acquisition guidelines, and exempts the financed projects from taxes.	"[{""title"": ""Section 1."", ""summary"": ""Allocates 20 million pesos from the bond proceeds specifically for PHHC projects, listing four types of projects: low\u2011cost housing, land acquisition and subdivision, slum clearance, and housing for destitutes and paupers.""}, {""title"": ""Section 2."", ""summary"": ""Classifies the first two project types as self\u2011liquidating and the latter two as non\u2011self\u2011liquidating, with special handling of slum area acquisition costs.""}, {""title"": ""Section 3."", ""summary"": ""Allows PHHC to amortize project costs over a period up to twice the bond redemption period and to contribute only net income to the sinking fund; if bonds near maturity, additional bonds may be issued.""}, {""title"": ""Section 4."", ""summary"": ""Mandates public bidding for all financed projects, with an exception allowing administration execution if no bidders or lower cost is available.""}, {""title"": ""Section 5."", ""summary"": ""Limits land acquisition to urban residential areas, preserving areas for public and semi\u2011public use.""}, {""title"": ""Section 6."", ""summary"": ""Requires that projects for destitutes and paupers be undertaken only if a designated agency can assure funding for maintenance and operation.""}, {""title"": ""Section 7."", ""summary"": ""Exempts all financed PHHC projects from national and local taxes and fees.""}, {""title"": ""Section 8."", ""summary"": ""The Act takes effect upon its approval.""}]"	1322	June 16, 1955			To finance Peoples Homesite and Housing Corporation projects using bond proceeds, thereby expanding affordable housing for low‑income families.	"[""Allocation of 20 million pesos from bond proceeds"", ""Classification of projects as self\u2011liquidating or non\u2011self\u2011liquidating"", ""Amortization period up to twice bond redemption"", ""Public bidding requirement with administrative exception"", ""Urban land acquisition limits"", ""Funding assurance for destitute housing projects"", ""Tax exemption for financed projects"", ""Effective upon approval""]"		"[""Housing"", ""Finance"", ""Public Housing"", ""Bond Issue"", ""Philippines""]"	"[""People's Homesite and Housing Corporation"", ""bond issue"", ""low\u2011cost housing"", ""self\u2011liquidating projects"", ""public bidding"", ""tax exemption"", ""urban land acquisition""]"
+repacts:datasets/markdown/repacts/1955/ra_1333_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1333_1955.md	ra_1333_1955	An Act to Create the Barrios of Talisay, Linungganan, Sukailang, and Biyabid, in the Municipality of Surigao, Province of Surigao	"**REPUBLIC ACT No. 1333**
+
+ **An Act Changing the Names of Certain Barrios in the Municipality of Naval, Province of Leyte**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The names of the following barrios in the Municipality of Naval, Province of Leyte, are changed as follows:
+
+ Barrio Catmon to barrio Santo Rosario; barrio Agpangi to barrio La Purisima Concepcion; barrio Lico to barrio San Vicente; barrio Talostusan to barrio Santa Fe; barrio Locso-on to barrio San Isidro; and barrio Villa Caneja to barrio Sulphur Valley.
+
+ **Section 2.** This Act shall take effect upon its approval
+
+ Approved: June 16, 1955.
+"	success	Local Government	This Republic Act formally establishes the barrios of Talisay, Linungganan, Sukailang, and Biyabid within the Municipality of Surigao, thereby recognizing them as official administrative units.	"[{""title"": ""Section 1"", ""summary"": ""Constitutes the sitios of Talisay, Linungganan, Sukailang, and Biyabid into barrios within the Municipality of Surigao.""}, {""title"": ""Section 2"", ""summary"": ""The Act shall take effect upon approval. Approved: June 16, 1955.""}]"	1323	June 16, 1955			To formally create and recognize barrios within the Municipality of Surigao, thereby establishing official local administrative units.	"[""Constitutes the sitios of Talisay, Linungganan, Sukailang, and Biyabid into barrios in the Municipality of Surigao."", ""The Act takes effect upon approval (June 16, 1955).""]"		"[""Local Government"", ""Barrios"", ""Municipality"", ""Surigao""]"	"[""Barrios"", ""Surigao"", ""Municipality"", ""Local Government"", ""Creation""]"
+repacts:datasets/markdown/repacts/1955/ra_1334_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1334_1955.md	ra_1334_1955	An Act to Create the Barrio of Bungahan in the City of Lipa	"**REPUBLIC ACT No. 1334**
+
+ **An Act to Convert the Sitios of Coral, Hago, Tuva, Diojango, Canalaan, Honaan and Dimnalamay, into a Barrio to be Known as the Barrio of San Joaquin, in the Municipality of Basco, Province of Batanes**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Coral, Hago, Tuva, Diojango, Canalaan, Honaan and Dimnalamay are hereby converted into a barrio, to be known as barrio San Joaquin, in the Municipality of Basco, Province of Batanes.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 16, 1955.
+"	success	Republic Act	Creates the barrio of Bungahan by separating specific sitios from Pinagtungolan in Lipa city.	"[{""title"": ""Section 1."", ""summary"": ""Separates the sitios of Duhatan, Tagbakin, Initan, Malabong, and Halang from the barrio of Pinagtungolan to form the barrio of Bungahan.""}, {""title"": ""Section 2."", ""summary"": ""The act takes effect upon its approval.""}]"	1324	June 16, 1955			To create a new barrio in the City of Lipa.	"[""Creation of the barrio of Bungahan"", ""Effectivity of the act upon approval""]"		"[""Republic Act"", ""Local Government"", ""Barangay Creation"", ""Lipa City""]"	"[""barrio"", ""Bungahan"", ""Lipa"", ""Sitios"", ""Pinagtungolan"", ""Republic Act 1324""]"
+repacts:datasets/markdown/repacts/1955/ra_1335_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1335_1955.md	ra_1335_1955	AN ACT MAKING ELECTIVE THE POSITIONS OF MAYOR AND VICE-MAYOR AND THE ENTIRE MEMBERSHIP OF THE MUNICIPAL BOARD OF THE CITY OF CAGAYAN DE ORO, AMENDING FOR THIS PURPOSE CERTAIN SECTIONS OF REPUBLIC ACT NUMBERED FIVE HUNDRED TWENTY-ONE.	"**REPUBLIC ACT No. 1335**
+
+ **An Act to Amend Section Seven of Republic Act Numbered Five Hundred and Eighty-Nine, Entitled ""An Act to Amend Sections One Hundred and Thirty-Three, One Hundred and Thirty-Four, One Hundred and Thirty-Five, One Hundred and Thirty-Seven, One Hundred and Forty, and One Hundred and Forty-Seven of Commonwealth Act Numbered Four Hundred and Sixty-Six, Otherwise Known as the National Internal Revenue Code, as Amended""**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section Seven of Republic Act Numbered Five hundred and eighty-nine, as amended by Republic Act Numbered Seven hundred and twenty-four, Republic Act Numbered Nine hundred and fifty-five, and Republic Act Numbered One thousand ninety, is further amended to read as follows:
+
+ > ""Sec. 7. The provisions of this Act shall take effect upon its approval but, unless otherwise expressly extended by Congress, the increased rates of tax provided for in this Act shall continue in force and effect until December thirty-one, nineteen hundred and fifty-seven.""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 16, 1955.
+"	success	Public Law	The Act amends Republic Act No. 521 to make the positions of mayor, vice‑mayor, and the municipal board elective, establishing qualifications, salaries, allowances, and succession procedures for the City of Cagayan de Oro.	"[{""title"": ""Section 1."", ""summary"": ""Amends sections 7, 8, and 11 of RA 521, making the mayor and vice\u2011mayor elective, defining their qualifications, salaries, allowances, and duties, and outlining the composition and functions of the municipal board.""}, {""title"": ""Section 2."", ""summary"": ""Provides that the current mayor, vice\u2011mayor, and councilors continue in office until successors are elected and qualified in the next general election.""}, {""title"": ""Section 3."", ""summary"": ""States that the Act takes effect upon its approval.""}]"	RA 1325				To amend the City Charter (RA 521) by making the mayor, vice‑mayor, and municipal board elective, thereby enhancing local electoral participation and governance structures.	"[""Mayor and vice\u2011mayor positions made elective"", ""Municipal board made elective"", ""Defined qualifications, salaries, and allowances for elected officials"", ""Specified succession and interim governance procedures"", ""Existing officials remain in office until next election""]"	Republic Act 521	"[""Electoral Reform"", ""Municipal Governance"", ""City Charter"", ""Cagayan de Oro""]"	"[""Mayor"", ""Vice\u2011Mayor"", ""Municipal Board"", ""Elective"", ""Republic Act 521"", ""Cagayan de Oro"", ""Salary"", ""Allowances"", ""Succession""]"
+repacts:datasets/markdown/repacts/1955/ra_1336_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1336_1955.md	ra_1336_1955	An Act Changing the Name of the Barrio of Taniongbobog, Municipality of Brookes Point, Province of Palawan, to Saraza	"**REPUBLIC ACT No. 1336**
+
+ **An Act Transferring the Site of the Provincial Capitol of the Province of Camarines Sur from the City of Naga to the Barrio of Palestina, Municipality of Pili in the Same Province**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The site of the provincial capitol of the Province of Camarines Sur is hereby transferred from the City of Naga to the barrio of Palestina, Municipality of Pili, Province of Camarines Sur.
+
+ **Section 2.** The President of the Philippines is hereby authorized to select the new capitol site within the locality mentioned in section one hereof.
+
+ **Section 3.** Upon approval of this Act, the capital of the Province of Camarines Sur shall be the Municipality of Pili.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 16, 1955.
+"	success	Republic Act	This act changes the name of the barrio Taniongbobog in Brookes Point, Palawan to Saraza.	"[{""title"": ""Section 1."", ""summary"": ""The name of barrio Taniongbobog is changed to Saraza.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	1326	June 16, 1955			Change the name of a barrio.	"[""Section 1: Name of barrio Taniongbobog changed to Saraza."", ""Section 2: Act takes effect upon approval.""]"		"[""Name change"", ""Local government"", ""Palawan""]"	"[""Taniongbobog"", ""Saraza"", ""Brookes Point"", ""Palawan""]"
+repacts:datasets/markdown/repacts/1955/ra_1337_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1337_1955.md	ra_1337_1955	An Act to Amend Certain Provisions of the Charter of the City of Butuan	"**REPUBLIC ACT No. 1337**
+
+ **An Act Granting the Evening News Publishing Co., Inc. a Franchise to Establish Radio Stations for Broadcasting and Television**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Subject to the provisions of the Constitution, the Evening News Publishing Co., Inc., is hereby granted a franchise which shall continue in force during the time that the Government has not established similar service at the places selected by the grantee, to construct, maintain and operate, for commercial purposes and in the public interest, radio broadcasting stations and stations for television in the Philippines: *Provided,* That this franchise shall be void unless the construction of at least one radio broadcasting station or one television station be begun within two years from the date of approval of this Act, and be completed within four years from said date: *Provided, further,* That the grantee shall provide adequate public service time to enable the Government, through the said radio broadcasting stations and stations for television, to reach the population on important public issues; shall assist in the functions of public information and education; shall conform to the ethics of honest enterprise; and shall not use its stations for the broadcasting and/or telecasting of obscene or indecent language, speech, act or scene, or for the dissemination of deliberately false information or willful misrepresentation, or to the detriment of the public health, or to incite, encourage, or assist in subversive or treasonable acts.
+
+ **Section 2.** Such provisions of Act Numbered Thirty-eight hundred and forty-six, entitled ""An Act providing for the regulation of radio stations and radio communications in the Philippine Islands, and for other purposes""; Act Numbered Thirty-nine hundred and ninety-seven, known as the Radio Broadcasting Law; Commonwealth Act Numbered One hundred and forty-six, known as the Public Service Act, and their amendments, as are applicable to radio broadcasting stations shall be applied, as far as practicable, to the television stations referred to in section one.
+
+ **Section 3.** The grantee shall file a bond in the amount of fifty thousand pesos to guaranty full compliance and fulfillment of the conditions under which this franchise is granted.
+
+ **Section 4.** In the event of any completing individual, partnership or corporation receiving from the Congress a similar franchise in which there shall be any term of terms more favorable than those herein granted or tending to place the herein grantee at any disadvantage, then such term or terms shall, ipso facto, become a part of the terms hereof and shall operate equally in favor of the grantee as in the case of said competing individual, partnership or corporation.
+
+ **Section 5.** (a) The grantee shall be liable to pay the same taxes on its real estate, buildings and personal property, exclusive of the franchise, as other persons or corporations are now or hereafter may be required by law to pay.
+
+ (b) The grantee shall further be liable to pay all other taxes that may be imposed by the National Internal Revenue Code by reason of this franchise.
+
+ **Section 6.** In the event the Government should desire to maintain and operate for itself any or all of the stations herein authorized, the grantee shall turn over such station or stations to the Government with all the serviceable equipment therein, at cost, less reasonable depreciation.
+
+ **Section 7.** The grantee shall not require any previous censorship of any speech, play, act or scene or other matter to be broadcast and/or telecast from its stations; but if any such speech, play, act or scene or other matter should constitute a violation of the law or infringement of a private right, the grantee shall be free from any liability, civil or criminal, for such speech, play, act or scene or other matter: *Provided,* That the grantee, during any broadcast and/or telecast, may cut off from the air the speech, play, act or scene or other matter being broadcast and/or telecast if the tendency thereof is to propose and/or incite treason, rebellion or sedition, or the language used therein or the theme thereof is indecent or immoral.
+
+ **Section 8.** The grantee shall not lease, transfer, grant the usufruct of, sell or assign this franchise nor the rights and privileges acquired thereupon to any person, firm, company, corporation or other commercial or legal entity, nor merge with any other company or corporation organized for the same purpose, without the previous approval of the Congress of the Philippines. Any corporation to which this franchise is sold, transferred or assigned, shall be subject to all the conditions, terms, restrictions and limitations of this franchise as fully and completely and to the same extent as if the franchise has been originally granted to the said person, firm, company, corporation or other commercial or legal entity.
+
+ **Section 9.** This Act shall take effect upon its approval.
+
+ Approved: June 16, 1955.
+"	success	Republic Act	Amends sections of the City Charter to modify mayor and vice‑mayor election, qualifications, duties, compensation, and the composition and compensation of the Municipal Board.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 7 of the City Charter to define mayor election, qualifications, and compensation.""}, {""title"": ""Section 2"", ""summary"": ""Amends Section 8 of the City Charter to define vice\u2011mayor election, qualifications, duties, and compensation.""}, {""title"": ""Section 3"", ""summary"": ""Amends Section 11 of the City Charter to define the Municipal Board\u2019s constitution, composition, and compensation.""}, {""title"": ""Section 4"", ""summary"": ""Provides the effective date and continuity of incumbent officials until the next election.""}]"	1327	June 16, 1955			To amend certain provisions of the Charter of the City of Butuan.	"[""Mayor election, qualifications, and compensation are defined."", ""Vice\u2011mayor election, qualifications, duties, and compensation are defined."", ""Municipal Board constitution, composition, and compensation are defined."", ""Continuity of incumbent Mayor, Vice\u2011Mayor, and Municipal Board until the next election.""]"	Republic Act No. 523 (Charter of the City of Butuan), Republic Act No. 840 (Classification of chartered cities and salaries).	"[""City Charter"", ""Municipal Governance"", ""Election Law""]"	"[""Mayor"", ""Vice-Mayor"", ""Municipal Board"", ""Compensation"", ""Election"", ""Qualifications"", ""Charter of Butuan"", ""Republic Act 1327""]"
+repacts:datasets/markdown/repacts/1955/ra_1338_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1338_1955.md	ra_1338_1955	REPUBLIC ACT No. 1328	"**REPUBLIC ACT No. 1338**
+
+ **An Act Appropriating the Sum of Four Hundred Thousand Pesos as Additional Fund to Carry Out the Purposes of Republic Act Numbered Ten Hundred Eighty-Two for the Fiscal Year Nineteen Hundred Fifty-Five to Nineteen Hundred Fifty-Six**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sum of four hundred thousand pesos is appropriated, out of any funds in the National Treasury not otherwise appropriated, as additional fund to carry out the purposes of Republic Act Numbered Ten hundred eighty-two for the fiscal year nineteen hundred fifty-five to nineteen hundred fifty-six.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 16, 1955.
+"	success	Republic Act	An act amending Republic Act No. 632 to enlarge the powers, functions, and duties of the Philippine Sugar Institute, providing for its financing and other purposes.	"[{""title"": ""Section 1."", ""summary"": ""Amendment to Section two of RA 632 to read as follows.""}, {""title"": ""Section 2."", ""summary"": ""Defines the purposes and objectives of the Philippine Sugar Institute.""}, {""title"": ""Section 3."", ""summary"": ""Enumerates the specific and general powers of the Philippine Sugar Institute.""}, {""title"": ""Section 4."", ""summary"": ""Act shall take effect upon its approval.""}]"	1328	June 16, 1955			To amend RA 632, enlarging the powers, functions, and duties of the Philippine Sugar Institute, and providing for its financing and other related purposes.	"[""Amendment to Section two of RA 632"", ""Pursuit of research for sugar industry efficiency"", ""Improvement of methods of sugar cane raising and manufacturing"", ""Ensuring balanced production and consumption of sugar"", ""Promotion of domestic and foreign marketing of sugar"", ""Improvement of living and economic conditions of laborers"", ""Financing of sugar industry activities"", ""Establishment of central and regional experimental stations"", ""Purchase of machinery and equipment for research"", ""Expansion of domestic and foreign markets for sugar"", ""Purchase, sale, and leasing of equipment and transportation means"", ""Borrowing and issuance of bonds to meet financial needs"", ""Provision of credit facilities to growers and millers"", ""Contract execution with various entities"", ""General powers of the corporation as per Corporation Law"", ""Special fund creation for Sugar Research and Stabilization Fund""]"	Republic Act No. 632	"[""Agriculture"", ""Sugar Industry"", ""Philippines"", ""Legislation"", ""Republic Act""]"	"[""PHILSUGIN"", ""sugar industry"", ""research"", ""financing"", ""powers"", ""regulation""]"
+repacts:datasets/markdown/repacts/1955/ra_1339_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1339_1955.md	ra_1339_1955	An Act to Create the Barrios of Uba, Mabahin, Tag-Anongan and Manlico, in the Municipality of Cortes, Province of Surigao	"**REPUBLIC ACT No. 1339**
+
+ **An Act Granting Antonio Heras a Temporary Permit to Construct, Maintain and Operate Private Fixed Point-to-Point and Land Based and Land Mobile Radio Stations for the Reception and Transmission of Radio Communications Within the Philippines**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There is hereby granted to Antonio Heras, proprietor of JD Transit and Taxi, his successors or assigns a temporary permit to construct, maintain and operate in the Philippines, at such places as the grantee may select, subject to the approval of the Secretary of Public Works and Communications, private fixed point-to-point and land based and land mobile radio stations for the reception and transmission of wireless messages on radiotelegraphy or radiotelephony, each station to be provided with a radio transmitting apparatus and a radio receiving apparatus.
+
+ **Section 2.** This temporary permit shall continue to be in force during the time that the Government has not established similar service at the places selected by the grantee, and is granted upon the express condition that the same shall be void unless the construction or installation of said stations be begun within one year from the date of the approval of this Act and be completed within two years from said date.
+
+ **Section 3.** The grantee, his successors or assigns, shall not engage in domestic business of telecommunications in the Philippines, it being understood that the purpose of this temporary permit is to secure to the grantee the right to construct, install, maintain, and operate private fixed point-to-point and land based and land mobile radio stations in such places within the Philippines as the interests of the grantee may justify.
+
+ **Section 4.** No fees shall be charged by the grantee as the radio stations that may be established by virtue of this Act shall engage in communications regarding the grantees business only.
+
+ **Section 5.** The grantee, his successors or assigns, shall so construct and operate his radio stations as not to interfere with the operation of other radio stations maintained and operated in the Philippines.
+
+ **Section 6.** The grantee, his successors or assigns, shall hold the national, provincial, city and municipal governments of the Philippines harmless from all claims, accounts, demands or actions arising out of accidents or injuries, whether to property or to persons, caused by the construction or operation of his radio stations.
+
+ **Section 7.** The grantee, his successors or assigns, is authorized to operate his private fixed point-to-point and land based and land mobile radio stations on the medium frequency, high frequency, and very high frequency, that may be assigned to him by the Secretary of Public Works and Communications.
+
+ **Section 8.** A special right is hereby reserved to the President of the Philippines in time of war, insurrection, public peril, calamity or disaster to cause the closing of the grantees radio stations or to authorize the temporary use, or possession thereof by any department of the Government upon just compensation.
+
+ **Section 9.** This temporary permit shall be subject to amendment, alteration, or repeal by the Congress of the Philippines when public interest so requires, and shall not be interpreted as an exclusive grant of the privilege herein provided for.
+
+ **Section 10.** This Act shall take effect upon its approval.
+
+ Approved: June 16, 1955.
+"	success	Republic Act	An act that constitutes the sitios of Uba, Mabahin, Tag-anongan and Manlico in the Municipality of Cortes, Surigao into barrios named Uba, Mabahin, Tag-anongan and Manlico respectively, and declares the act effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The sitios of Uba, Mabahin, Tag-anongan and Manlico, in the Municipality of Cortes, Province of Surigao, are hereby constituted into barrios in the same municipality, to be known as Uba, Mabahin, Tag-anongan and Manlico, respectively.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	1329	June 16, 1955			To create the barrios of Uba, Mabahin, Tag-anongan and Manlico in the Municipality of Cortes, Province of Surigao.	"[""Creation of barrios of Uba, Mabahin, Tag-anongan and Manlico"", ""Effective date upon approval""]"			"[""barrios"", ""Cortes"", ""Surigao"", ""Uba"", ""Mabahin"", ""Tag-Anongan"", ""Manlico"", ""Republic Act 1329""]"
+repacts:datasets/markdown/repacts/1955/ra_1340_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1340_1955.md	ra_1340_1955	An Act to Create the Barrio of Bagsac in the Municipality of Madrin, Province of Surigao	"**REPUBLIC ACT No. 1340**
+
+ **An Act Amending Sections One, Two, Three, Four and Five of Republic Act Numbered Seven Hundred Thirty-One Providing for the Establishment of the National Childrens Hospital and Appropriating Funds for the Purpose**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Sections one, two, three, four and five of Republic Act Numbered Seven hundred thirty-one are hereby amended to read as follows:
+
+ > ""Sec. 1. There is hereby established under the Bureau of Hospitals, the National Childrens Hospital, which shall be under the management and supervision of a chief who must be a physician of good repute, graduate from a medical college of recognized standing and has for five years engaged in the practice of medicine. The chief of said hospital shall be appointed by the Secretary of Health, upon the recommendation of the Director of Hospitals, and shall receive a compensation of not more than six thousand pesos per annum. The chief of the National Childrens Hospital shall have all the powers conferred generally on chiefs of government hospitals.

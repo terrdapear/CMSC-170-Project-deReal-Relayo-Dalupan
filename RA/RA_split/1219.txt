@@ -1,0 +1,163 @@
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 15, 1968.
+"	success	Republic Act	The act increases the bed capacity of the Surigao del Sur Provincial Hospital from 25 to 50 beds and authorizes the appropriation of ₱70,000 for fiscal year 1969 to fund the expansion, taking effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Increases the bed capacity of the Surigao del Sur Provincial Hospital from twenty-five to fifty beds.""}, {""title"": ""Section 2"", ""summary"": ""Authorizes the appropriation of an additional sum of seventy thousand pesos for the fiscal year 1969, with future appropriations to be included in the annual General Appropriations Act.""}, {""title"": ""Section 3"", ""summary"": ""The act shall take effect upon its approval.""}]"	5285	June 15, 1968			To increase the bed capacity of the Surigao del Sur Provincial Hospital and authorize funding for the expansion.	"[""Bed capacity increased to 50 beds"", ""Appropriated \u20b170,000 for fiscal year 1969"", ""Act effective upon approval""]"		"[""Healthcare"", ""Hospital"", ""Bed Capacity"", ""Surigao del Sur"", ""Appropriation""]"	"[""hospital"", ""bed capacity"", ""Surigao del Sur"", ""appropriation"", ""1968"", ""Republic Act""]"
+repacts:datasets/markdown/repacts/1968/ra_5286_1968.md	repacts	1968		datasets/markdown/repacts/1968/ra_5286_1968.md	ra_5286_1968	An Act Creating Four Additional Positions of Assistant Provincial Fiscal for the Province of Occidental Misamis, Amending for the Purpose Section Sixteen Hundred Seventy-Four of the Administrative Code	"**REPUBLIC ACT No. 5286**
+
+ An Act Creating Four Additional Positions of Assistant Provincial Fiscal for the Province of Occidental Misamis, Amending for the Purpose Section Sixteen Hundred Seventy-Four of the Administrative Code
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The provisions of Section sixteen hundred seventy-four of the Administrative Code, as amended, relative to the number of assistant provincial fiscals in the Province of Occidental Misamis, is further amended to read as follows:
+
+ > ""Occidental Misamis, six assistant provincial fiscals;""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 15, 1968.
+"	success	Republic Act	This act increases the number of assistant provincial fiscals in Occidental Misamis to six by amending Section 1674 of the Administrative Code.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 1674 of the Administrative Code to state that Occidental Misamis has six assistant provincial fiscals.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	5286	June 15, 1968			To amend Section 1674 of the Administrative Code to increase the number of assistant provincial fiscals in Occidental Misamis to six.	"[""Amends Section 1674 of the Administrative Code to state six assistant provincial fiscals for Occidental Misamis.""]"	Section 1674 of the Administrative Code	"[""Administrative Code"", ""Fiscal"", ""Provincial"", ""Occidental Misamis"", ""Republic Act 5286"", ""1968"", ""Philippines""]"	"[""assistant provincial fiscal"", ""Occidental Misamis"", ""Administrative Code"", ""Section 1674"", ""Republic Act"", ""1968""]"
+repacts:datasets/markdown/repacts/1968/ra_5287_1968.md	repacts	1968		datasets/markdown/repacts/1968/ra_5287_1968.md	ra_5287_1968	An Act Changing the Name of Barrio Nalasin in the Municipality of Batac, Province of Ilocos Norte, to General Artemio Ricarte	"**REPUBLIC ACT No. 5287**
+
+ An Act Changing the Name of Barrio Nalasin in the Municipality of Batac, Province of Ilocos Norte, to General Artemio Ricarte
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Barrio Nalasin in the Municipality of Batac, Province of Ilocos Norte, is hereby changed to General Artemio Ricarte.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 15, 1968.
+"	success	Republic Act	This act changes the name of Barrio Nalasin to General Artemio Ricarte and takes effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""The name of Barrio Nalasin in the Municipality of Batac, Province of Ilocos Norte, is hereby changed to General Artemio Ricarte.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	5287	June 15, 1968			To change the name of a barrio for official record purposes.	"[""Name of Barrio Nalasin changed to General Artemio Ricarte"", ""Act takes effect upon approval""]"		"[""Name change"", ""Local government"", ""Geographic renaming""]"	"[""Barrio Nalasin"", ""General Artemio Ricarte"", ""Batac"", ""Ilocos Norte"", ""Philippines"", ""Republic Act 5287""]"
+repacts:datasets/markdown/repacts/1968/ra_5288_1968.md	repacts	1968		datasets/markdown/repacts/1968/ra_5288_1968.md	ra_5288_1968	An Act Creating Three Additional Branches of the City Court of Quezon City, Amending for the Purpose Section Thirty of the Charter of Said City	"**REPUBLIC ACT No. 5288**
+
+ An Act Creating Three Additional Branches of the City Court of Quezon City, Amending for the Purpose Section Thirty of the Charter of Said City
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The first paragraph of Section thirty of Republic Act Numbered Five hundred thirty-seven, otherwise known as the Revised Charter of Quezon City, is hereby further amended to read as follows:
+
+ > ""Sec. 30. *The City Court.* There shall be a city court for Quezon City, with seven judges to be known as judges of the first, second, third, fourth, fifth, sixth and seventh branches, respectively. One of the said city judges shall be designated by the Secretary of Justice to try all cases of traffic violations within Quezon City.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 15, 1968.
+"	success		The Act amends Section 30 of the Revised Charter of Quezon City to establish a city court with seven judges, designating one judge to handle traffic violations.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 30 of RA 537 to create a city court with seven judges and designates one judge for traffic violations.""}, {""title"": ""Section 2"", ""summary"": ""The Act takes effect upon approval.""}]"	5288	June 15, 1968			Amend Section 30 of the Revised Charter of Quezon City to establish a city court with designated traffic judge.	"[""Creation of a city court with seven judges."", ""Designation of one judge by the Secretary of Justice to try all traffic violation cases.""]"	Section 30 of the Revised Charter of Quezon City (RA 537)	"[""court"", ""city court"", ""Quezon City"", ""revised charter""]"	"[""City Court"", ""Quezon City"", ""Revised Charter"", ""traffic violations"", ""judges"", ""branches""]"
+repacts:datasets/markdown/repacts/1968/ra_5289_1968.md	repacts	1968		datasets/markdown/repacts/1968/ra_5289_1968.md	ra_5289_1968	An Act Changing the Name of Barrio Cawayanon in the Municipality of Valencia, Province of Bukidnon, to Vintar	"**REPUBLIC ACT No. 5289**
+
+ An Act Changing the Name of Barrio Cawayanon in the Municipality of Valencia, Province of Bukidnon, to Vintar
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Barrio Cawayanon in the Municipality of Valencia, Province of Bukidnon, is hereby changed to Vintar.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 15, 1968.
+"	success	Republic Act	This act changes the name of Barrio Cawayanon to Vintar in Valencia, Bukidnon, and takes effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""The name of Barrio Cawayanon in the Municipality of Valencia, Province of Bukidnon, is hereby changed to Vintar.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	5289	June 15, 1968			Change the official name of a barrio within the municipality of Valencia.	"[""The name of Barrio Cawayanon is changed to Vintar."", ""The act takes effect upon approval.""]"		"[""place name change"", ""municipality"", ""Bukidnon""]"	"[""Barrio"", ""Cawayanon"", ""Vintar"", ""Valencia"", ""Bukidnon"", ""name change""]"
+repacts:datasets/markdown/repacts/1968/ra_5290_1968.md	repacts	1968		datasets/markdown/repacts/1968/ra_5290_1968.md	ra_5290_1968	An Act Creating Certain Barrios in the Municipality of Mawab, Province of Davao	"**REPUBLIC ACT No. 5290**
+
+ An Act Creating Certain Barrios in the Municipality of Mawab, Province of Davao
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The following sitios in the Municipality of Mawab, Province of Davao, are constituted as barrios of said municipality, as follows:
+
+ (a) The sitios of San Isidro and Mahayag are constituted into a district and independent barrio of said municipality, to be known as the barrio of Katipunan; (b) The sitio of Lunoluno is hereby converted into a distinct and independent barrio of said municipality, to be known as the barrio of Lunoluno; (c) The sitio of Annaman is hereby converted into a distinct and independent barrio of said municipality, to be known as the barrio of Tan-awan; **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 15, 1968.
+"	success	Republic Act	This act creates new barrios in the municipality of Mawab, Davao by converting specified sitios into barrios and establishing their official names, and it takes effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Constitutes the sitios of San Isidro and Mahayag as the barrio of Katipunan; the sitio of Lunoluno as the barrio of Lunoluno; and the sitio of Annaman as the barrio of Tan-awan.""}, {""title"": ""Section 2"", ""summary"": ""The act takes effect upon its approval.""}]"	5290	June 15, 1968				"[""Constituting the sitios of San Isidro and Mahayag as the barrio of Katipunan."", ""Constituting the sitio of Lunoluno as the barrio of Lunoluno."", ""Constituting the sitio of Annaman as the barrio of Tan-awan."", ""Act takes effect upon approval.""]"		"[""Republic Act"", ""Barrios"", ""Mawab"", ""Davao"", ""Municipality""]"	"[""Republic Act 5290"", ""Barrios"", ""Sitios"", ""Mawab"", ""Davao"", ""San Isidro"", ""Mahayag"", ""Lunoluno"", ""Annaman"", ""Katipunan"", ""Tan-awan""]"
+repacts:datasets/markdown/repacts/1968/ra_5291_1968.md	repacts	1968		datasets/markdown/repacts/1968/ra_5291_1968.md	ra_5291_1968	An Act Creating Additional Positions of Assistant Provincial Fiscal in the Province of Ilocos Norte, Amending for the Purpose Section Sixteen Hundred and Seventy-Four of the Administrative Code, as Amended	"**REPUBLIC ACT No. 5291**
+
+ An Act Creating Additional Positions of Assistant Provincial Fiscal in the Province of Ilocos Norte, Amending for the Purpose Section Sixteen Hundred and Seventy-Four of the Administrative Code, as Amended
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section sixteen hundred and seventy-four of the Administrative Code, as amended, relative to the number of assistant provincial fiscals in the Province of Ilocos Norte, is further amended to read as follows:
+
+ > ""Ilocos Norte, twelve assistant provincial fiscals, at least two of whom shall be assigned to each branch of the Court of First Instance of Ilocos Norte.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 15, 1968.
+"	success	Republic Act	The Act amends Section 1674 of the Administrative Code to increase the number of assistant provincial fiscals in Ilocos Norte to twelve, requiring at least two to be assigned to each branch of the Court of First Instance, and takes effect on June 15, 1968.	"[{""title"": ""Section 1."", ""summary"": ""Amends Section 1674 of the Administrative Code to provide twelve assistant provincial fiscals in Ilocos Norte, at least two assigned to each branch of the Court of First Instance.""}, {""title"": ""Section 2."", ""summary"": ""Specifies that the Act shall take effect upon its approval.""}]"	5291	June 15, 1968			To create additional positions of assistant provincial fiscal in Ilocos Norte by amending Section 1674 of the Administrative Code.	"[""Amendment to Section 1674 to increase the number of assistant provincial fiscals to twelve"", ""Requirement of at least two assistant provincial fiscals assigned to each branch of the Court of First Instance""]"	Section Sixteen Hundred and Seventy-Four of the Administrative Code	"[""Ilocos Norte"", ""Assistant Provincial Fiscal"", ""Administrative Code"", ""Republic Act"", ""Legislative Amendment""]"	"[""assistant provincial fiscal"", ""Ilocos Norte"", ""Administrative Code"", ""Section 1674"", ""Court of First Instance""]"
+repacts:datasets/markdown/repacts/1968/ra_5292_1968.md	repacts	1968		datasets/markdown/repacts/1968/ra_5292_1968.md	ra_5292_1968	Act Creating the Positions of Six Assistant City Fiscals for Quezon City, Increasing the Salaries of the Assistant City Fiscals of Quezon City, Amending for the Purpose Section Twenty-Eight and Section Twenty-Nine of the Charter of Said City	"**REPUBLIC ACT No. 5292**
+
+ An Act Creating the Positions of Six Assistant City Fiscals for Quezon City, Increasing the Salaries of the Assistant City Fiscals of Quezon City, Amending for the Purpose Section Twenty-Eight and Section Twenty-Nine of the Charter of Said City
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The first paragraph of Section twenty-eight of Republic Act Numbered Five hundred thirty-seven, otherwise known as the ""Revised Charter of Quezon City,"" as amended, is further amended to read as follows:
+
+ > ""Sec. 28. *The City Fiscal, his assistants, his duties.* There shall be a city fiscal who shall be the chief of the law department of the city, a first assistant city fiscal who shall be the assistant chief, a second assistant city fiscal, two third assistant city fiscals, five fourth assistant city fiscals, five fifth assistant city fiscals, seven sixth assistant city fiscals, and six seventh assistant city fiscals, who shall discharge their duties under the general supervision of the Secretary of Justice. The city fiscal, who shall have a rank and the privileges of a judge of a Court of First Instance, shall be the chief legal adviser of the city and all offices and departments thereof and shall have the following general powers and duties.""
+
+ **Section 2.** Section twenty-nine of the same Act is further amended to read as follows:
+
+ > ""Sec. 29. *Compensation of City Fiscal and his assistant.* The City Fiscal and his assistants shall receive the salaries herein set forth, which shall be paid from the funds of the city:
+>
+>  ""(a) City fiscal shall have the salary of a Judge of a Court of First Instance. ""(b) First assistant city fiscal, at one thousand two hundred pesos less than that herein provided in the next preceding paragraph. ""(c) Second assistant city fiscal, at nine hundred pesos less than that herein provided in the next preceding paragraph. ""(d) Two third assistant city fiscals, at nine hundred pesos less than that herein provided in the next preceding paragraph. ""(e) Five fourth assistant city fiscals, at nine hundred pesos less than that herein provided in the next preceding paragraph. ""(f) Five fifth assistant city fiscals, at nine hundred pesos less than that herein provided in the next preceding paragraph. ""(g) Seven sixth assistant city fiscals, at nine hundred pesos less than that herein provided in the next preceding paragraph. ""(h) Six seventh assistant city fiscals, at twelve thousand pesos per annum.
+
+ **Section 3.** Incumbent fiscals of Quezon City, occupying positions affected by the preceding section at the time of the approval of this amendatory Act, shall continue to occupy their respective positions and receive the salary increases herein provided without necessity of any new appointment.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 15, 1968.
+"	success	Republic Act	This Republic Act amends Sections 28 and 29 of the Revised Charter of Quezon City to create six assistant city fiscal positions and increase their salaries, while allowing existing fiscals to retain their positions and compensation.	"[{""title"": ""Section 1."", ""summary"": ""Amendment to Section 28 of Republic Act 537 to establish the positions and duties of the city fiscal and six assistant city fiscals.""}, {""title"": ""Section 2."", ""summary"": ""Amendment to Section 29 of Republic Act 537 detailing the salary structure for the city fiscal and the six assistant city fiscals.""}, {""title"": ""Section 3."", ""summary"": ""Provision that incumbent fiscals occupying affected positions will continue in those roles and receive the new salaries without new appointments.""}, {""title"": ""Section 4."", ""summary"": ""The act takes effect upon its approval.""}]"	5292	June 15, 1968			To create six assistant city fiscal positions in Quezon City and increase their salaries by amending relevant sections of the city charter.	"[""Amends Section 28 to establish assistant city fiscal positions"", ""Amends Section 29 to set salary ranges for city fiscal and assistants"", ""Provides continuity for incumbent fiscals"", ""Establishes effective date""]"	Revised Charter of Quezon City (Republic Act 537)	"[""Quezon City"", ""City Fiscal"", ""Salary"", ""Charter amendment""]"	"[""assistant city fiscal"", ""salary"", ""Quezon City"", ""Revised Charter"", ""Republic Act 537""]"
+repacts:datasets/markdown/repacts/1968/ra_5293_1968.md	repacts	1968		datasets/markdown/repacts/1968/ra_5293_1968.md	ra_5293_1968	An Act Constituting the Province of Surigao del Sur into Two Highway Engineering Districts	"**REPUBLIC ACT No. 5293**
+
+ An Act Constituting the Province of Surigao del Sur into Two Highway Engineering Districts
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Any provision of law to the contrary notwithstanding, upon the recommendation of the Commissioner of Public Highways and upon approval of the Secretary of Public Works and Communications, the Province of Surigao del Sur shall be constituted into two highway engineering districts. The first highway engineering district shall include the towns of Carrascal, Cantilan, Madrid, Lanuza, Cortes, Tandag, Tago, San Miguel, Bayabas, and Cagwait, and the second highway engineering district shall include the towns of Marihatag, Oteiza, Lianga, Barobo, Hinatuan, Bislig and Linging.
+
+ Each highway engineering district shall have one highway district engineer who shall be appointed in accordance with existing laws.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 15, 1968.
+"	success	Act	The Republic Act No. 5293 establishes two highway engineering districts within the Province of Surigao del Sur, delineating the towns that comprise each district and authorizing the appointment of a highway district engineer for each district. The act becomes effective upon its approval.	"[{""title"": ""Section 1"", ""summary"": ""Constitutes the Province of Surigao del Sur into two highway engineering districts, specifying the towns included in each district and authorizing the appointment of a highway district engineer for each district.""}, {""title"": ""Section 2"", ""summary"": ""States that the act shall take effect upon its approval.""}]"	5293	June 15, 1968			To establish two highway engineering districts within Surigao del Sur for improved highway planning and maintenance.	"[""Establishment of two highway engineering districts covering specified towns in Surigao del Sur"", ""Appointment of a highway district engineer for each district in accordance with existing laws"", ""Effectiveness of the act upon approval""]"		"[""Infrastructure"", ""Transportation"", ""Local Government"", ""Philippines""]"	"[""Surigao del Sur"", ""highway engineering districts"", ""public works"", ""Philippines"", ""Republic Act 5293""]"
+repacts:datasets/markdown/repacts/1968/ra_5294_1968.md	repacts	1968		datasets/markdown/repacts/1968/ra_5294_1968.md	ra_5294_1968	An Act Changing the Name of the Maternity and Childrens Hospital to Dr. Jose Fabella Memorial Hospital	"**REPUBLIC ACT No. 5294**
+
+ An Act Changing the Name of the Maternity and Childrens Hospital to Dr. Jose Fabella Memorial Hospital
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Maternity and Children's Hospital in the City of Manila under the Department of Health is hereby changed to Dr. Jose Fabella Memorial Hospital.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 15, 1968.
+"	success	Act	This Republic Act changes the name of the Maternity and Children's Hospital in Manila to Dr. Jose Fabella Memorial Hospital, effective upon approval.	"[{""title"": ""Section 1."", ""summary"": ""The name of the Maternity and Children's Hospital in Manila is changed to Dr. Jose Fabella Memorial Hospital.""}, {""title"": ""Section 2."", ""summary"": ""Act shall take effect upon its approval.""}]"	5294	June 15, 1968			To rename the Maternity and Children's Hospital to Dr. Jose Fabella Memorial Hospital.	"[""Renames Maternity and Children's Hospital to Dr. Jose Fabella Memorial Hospital."", ""Effectivity upon approval.""]"		"[""Hospital"", ""Renaming"", ""Healthcare"", ""Public Health"", ""Philippines"", ""Republic Act""]"	"[""hospital renaming"", ""Philippines"", ""healthcare""]"
+repacts:datasets/markdown/repacts/1968/ra_5295_1968.md	repacts	1968		datasets/markdown/repacts/1968/ra_5295_1968.md	ra_5295_1968	An Act Granting Eastern Shipping Lines, Inc. a Temporary Permit to Construct, Maintain and Operate Private Fixed Point-to-Point, Land-Based, Land-Mobile and Marine Coastal Service Radio Stations for the Reception and Transmission of Radio Communications Within the Philippines	"**REPUBLIC ACT No. 5295**
+
+ An Act Granting Eastern Shipping Lines, Inc. a Temporary Permit to Construct, Maintain and Operate Private Fixed Point-to-Point, Land-Based, Land-Mobile and Marine Coastal Service Radio Stations for the Reception and Transmission of Radio Communications Within the Philippines
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There is hereby granted to Eastern Shipping Lines, Inc. a temporary permit to construct, maintain and operate at such places within the Philippines, as the grantee may select, subject to the approval of the Secretary of Public Works and Communications, private fixed point-to-point, land based, land mobile, and marine coastal service radio stations for the reception and transmission of wireless messages on radiotelegraphy or radiotelephony, each station to be provided with radio transmitting apparatus and radio receiving apparatus.
+
+ **Section 2.** This temporary permit shall continue to be in force during the time that the Government has not established similar service at the places selected by the grantee, and is granted upon the express condition that the same shall be void unless the construction or installation of said stations be begun within one year from the date of approval of this Act and be completed within two years from said date.
+
+ **Section 3.** The grantee, its successors or assigns, shall not engage in domestic business of telecommunication, it being understood that the purpose of this temporary permit is to secure to the grantee the right to construct, install, maintain and operate private fixed point-to-point, land based, land mobile, and marine coastal service radio stations in such places within the Philippines as the business of the grantee may justify.
+
+ **Section 4.** No fees shall be charged by the grantee as the radio stations that may be established by virtue of this Act shall engage in communications regarding the grantee's business only.
+
+ **Section 5.** The grantee, its successors or assigns, shall so construct, and operate its radio stations as not to interfere with the operation of other radio stations maintained and operated in the Philippines.
+
+ **Section 6.** The grantee, its successors or assigns, shall hold the national, provincial city and municipal governments of the Philippines harmless from all claims, accounts, demands or actions arising out of accidents or injuries, whether to property or to persons, caused by the construction or operation of its radio stations.
+
+ **Section 7.** The grantee, its successors or assigns, shall be subject to the corporation laws of the Philippines now existing or hereafter enacted.
+
+ **Section 8.** The grantee, its successors or assigns, is authorized to operate its private radio stations in the medium frequency, high frequency, and very high frequency that may be assigned to it by the Secretary of Public Works and Communications.
+
+ **Section 9.** The grantee shall not lease, transfer, grant the usufruct of, sell or assign this temporary permit, or the rights or privileges acquired thereunder to any person, firm, company, corporation or other commercial or legal entity nor merge with any other person, firm, company or corporation organized for the same purpose, without the approval of the Congress of the Philippines first had. Any corporation to which this temporary permit may be sold, transferred, or assigned shall be subject to the corporation laws of the Philippines now existing or hereafter enacted, and any person, firm, company, corporation or other commercial or legal entity to which this temporary permit is sold, transferred, or assigned shall be subject to all conditions, terms, restrictions and limitations of this temporary permit as fully and completely and to the same extent as if the temporary permit had been originally granted to the said person, firm, company, corporation or other commercial or legal entity.
+
+ **Section 10.** A special right is hereby reserved to the President of the Philippines in time of war, insurrection, public peril, emergency, calamity or disaster to cause the closing of the grantee's radio stations or to authorize the temporary use or possession thereof by any department of the Government upon payment of just compensation.
+
+ **Section 11.** This temporary permit shall be subject to amendment, alteration, or repeal by the Congress of the Philippines when the public interest so requires, and shall not be interpreted as an exclusive grant of the privileges herein provided for.
+
+ **Section 12.** This Act shall take effect upon its approval.
+
+ Approved: June 15, 1968.
+"	success	Republic Act	This act grants Eastern Shipping Lines, Inc. a temporary permit to construct, maintain, and operate private radio stations for communications within the Philippines, under specific conditions and oversight, and outlines the rights, responsibilities, and limitations associated with the permit.	"[{""title"": ""Section 1."", ""summary"": ""Grants Eastern Shipping Lines, Inc. a temporary permit to construct, maintain, and operate private fixed point-to-point, land-based, land-mobile, and marine coastal service radio stations within the Philippines, subject to approval by the Secretary of Public Works and Communications.""}, {""title"": ""Section 2."", ""summary"": ""The permit remains in force until the government establishes similar services at the selected places; construction must begin within one year of approval and be completed within two years.""}, {""title"": ""Section 3."", ""summary"": ""The grantee may not engage in domestic telecommunications business; the permit is limited to constructing, installing, maintaining, and operating stations as justified by the grantee\u2019s business.""}, {""title"": ""Section 4."", ""summary"": ""No fees shall be charged by the grantee for the radio stations, which are to be used only for the grantee's business communications.""}, {""title"": ""Section 5."", ""summary"": ""The stations must not interfere with other radio stations maintained and operated in the Philippines.""}, {""title"": ""Section 6."", ""summary"": ""The grantee shall hold government entities harmless from all claims arising from the construction or operation of its radio stations.""}, {""title"": ""Section 7."", ""summary"": ""The grantee is subject to the existing and future corporation laws of the Philippines.""}, {""title"": ""Section 8."", ""summary"": ""The grantee is authorized to operate its stations in medium frequency, high frequency, and very high frequency as assigned by the Secretary of Public Works and Communications.""}, {""title"": ""Section 9."", ""summary"": ""The grantee cannot lease, transfer, grant, or sell the temporary permit without Congress approval; any transfer is subject to the same conditions as the original grant.""}, {""title"": ""Section 10."", ""summary"": ""The President has the right to close the stations or allow their temporary use by the government during war, insurrection, or emergencies, with just compensation.""}, {""title"": ""Section 11."", ""summary"": ""The permit is subject to amendment, alteration, or repeal by Congress when the public interest requires it; it does not constitute an exclusive grant of privileges.""}, {""title"": ""Section 12."", ""summary"": ""The act takes effect upon its approval.""}]"	5295	June 15, 1968			To grant Eastern Shipping Lines, Inc. a temporary permit to construct, maintain and operate private radio stations for communication purposes within the Philippines, subject to conditions and oversight.	"[""Temporary permit granted for construction, maintenance, and operation of private radio stations"", ""Permit valid until government establishes similar services and must be commenced within one year and completed within two years"", ""No fees charged; stations used only for grantee\u2019s business communications"", ""Stations must not interfere with other radio stations"", ""Grantee holds government harmless from claims related to construction or operation"", ""Permit subject to existing and future corporation laws"", ""President may close or allow use of stations in emergencies with just compensation""]"		"[""Telecommunications"", ""Radio"", ""Permit"", ""Eastern Shipping Lines"", ""Republic Act""]"	"[""temporary permit"", ""radio stations"", ""Eastern Shipping Lines"", ""Philippines"", ""telecommunications"", ""public works"", ""frequency"", ""war"", ""emergency""]"

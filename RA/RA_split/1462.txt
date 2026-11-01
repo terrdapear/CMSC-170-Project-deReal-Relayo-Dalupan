@@ -1,0 +1,150 @@
+repacts:datasets/markdown/repacts/1971/ra_6266_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6266_1971.md	ra_6266_1971	An Act Declaring Malindang Mountain in the Island of Mindanao a National Park and Watershed Area	"**[ REPUBLIC ACT NO. 6266, June 19, 1971 ]**
+
+ AN ACT DECLARING MALINDANG MOUNTAIN IN THE ISLAND OF MINDANAO A NATIONAL PARK AND WATERSHED AREA.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Malindang Mountain in the Island of Mindanao is hereby declared a national park and watershed area, without prejudice to rights already acquired and held by private persons in that area.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Republic Act	Declares Malindang Mountain as a national park and watershed area while preserving existing private rights.	"[{""title"": ""Section 1"", ""summary"": ""Declares Malindang Mountain a national park and watershed area, without prejudice to existing private rights.""}, {""title"": ""Section 2"", ""summary"": ""The act takes effect upon its approval.""}]"	6266	June 19, 1971			To protect and preserve the natural resources of Malindang Mountain and its watershed area.	"[""Section 1 declares Malindang Mountain a national park and watershed area."", ""Section 2 provides the act takes effect upon approval.""]"		"[""National Park"", ""Watershed"", ""Malindang Mountain"", ""Republic Act 6266""]"	"[""Malindang Mountain"", ""National Park"", ""Watershed"", ""Mindanao"", ""Philippines""]"
+repacts:datasets/markdown/repacts/1971/ra_6267_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6267_1971.md	ra_6267_1971	AN ACT RESTORING CERTAIN BARRIOS OF THE MUNICIPALITY OF SAN RAFAEL, PROVINCE OF ILOILO, TO THEIR FORMER MOTHER MUNICIPALITIES.	"**[ REPUBLIC ACT NO. 6267, June 19, 1971 ]**
+
+ AN ACT RESTORING CERTAIN BARRIOS OF THE MUNICIPALITY OF SAN RAFAEL, PROVINCE OF ILOILO, TO THEIR FORMER MOTHER MUNICIPALITIES.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The provisions of Republic Act Numbered Fifty-four hundred seventy-one, entitled ""An Act creating the Municipality of San Rafael in the Province of Iloilo,"" to the contrary notwithstanding, the barrios of General Luna, Rizal, Ugasan, San Antonio, and Nueva Lavencion are hereby restored to the Municipality of Barotac Viejo, Province of lloilo, and the Barrio of Omio, to the Municipality of Lemery, same province.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Republic Act	This act restores the barrios of General Luna, Rizal, Ugasan, San Antonio, and Nueva Lavencion from the municipality of San Rafael, Iloilo, to their former mother municipalities, Barotac Viejo and Lemery, and takes effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Restores the specified barrios to their former mother municipalities, overriding the provisions of Republic Act 5471.""}, {""title"": ""Section 2."", ""summary"": ""The act shall take effect upon its approval.""}]"	6267	June 19, 1971			To restore certain barrios of San Rafael to their former mother municipalities.	"[""Restoration of barrios General Luna, Rizal, Ugasan, San Antonio, and Nueva Lavencion to Barotac Viejo."", ""Restoration of barrio Omio to Lemery."", ""Act takes effect upon approval.""]"	Republic Act No. 5471 (An Act creating the Municipality of San Rafael in the Province of Iloilo).	"[""Local Government"", ""Municipality"", ""Barrios"", ""Iloilo""]"	"[""San Rafael"", ""Barotac Viejo"", ""Lemery"", ""Iloloo"", ""Restoration"", ""Republic Act 6267""]"
+repacts:datasets/markdown/repacts/1971/ra_6268_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6268_1971.md	ra_6268_1971	AN ACT AMENDING THE SECOND PARAGRAPH OF ARTICLE SEVENTY-EIGHT OF REPUBLIC ACT NUMBERED THREE HUNDRED EIGHTY-SIX, KNOWN AS THE CIVIL CODE OF THE PHILIPPINES (RE MARRIAGE BETWEEN MUSLIMS AND NON-CHRISTIANS).	"**[ REPUBLIC ACT NO. 6268, June 19, 1971 ]**
+
+ AN ACT AMENDING THE SECOND PARAGRAPH OF ARTICLE SEVENTY-EIGHT OF REPUBLIC ACT NUMBERED THREE HUNDRED EIGHTY-SIX, KNOWN AS THE CIVIL CODE OF THE PHILIPPINES (RE MARRIAGE BETWEEN MUSLIMS AND NON-CHRISTIANS).
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The second paragraph of Article seventy-eight of Republic Act Numbered Three hundred eighty-six is amended to read as fallows:
+
+ ""However, thirty years after the approval of this Code, all marriages performed between Muslims or other non-Christians shall be solemnized in accordance with the provisions of this Code. But the President of the Philippines, upon recommendation of the Commissioner of National Integration, may at any time before the expiration of said period, by proclamation, make any of said provisions applicable to the Muslims and non-Christian inhabitants of any of the non-Christian provinces.""
+
+ **Section 2.** This Act shall take effect as of June 18, 1969:*Provided,*That this Act shall not apply to marriages sought to be validated herein if the contracting parties are separated at the time of the approval of this Act.
+
+ Approved, June 19, 1971.
+"	success	Republic Act	The Act amends the Civil Code to allow marriages between Muslims or other non-Christians after thirty years from the code’s approval, permitting earlier application by presidential proclamation, while exempting marriages involving separated parties.	"[{""title"": ""Section 1"", ""summary"": ""Amends the second paragraph of Article 78 of the Civil Code to allow marriages between Muslims or other non-Christians after thirty years, with the President empowered to apply it earlier by proclamation.""}, {""title"": ""Section 2"", ""summary"": ""The Act takes effect on June 18, 1969, but does not apply to marriages of parties who are separated at the time of the Act\u2019s approval.""}]"	6268	June 19, 1971			To extend the Civil Code’s marriage provisions to Muslims and non-Christians after a 30-year period and provide a mechanism for earlier application, while safeguarding separation status of parties.	"[""Amends second paragraph of Article 78 of the Civil Code"", ""Allows marriages between Muslims/non-Christians after 30 years"", ""Presidential proclamation may apply provisions earlier"", ""Exempts marriages of separated parties""]"	Republic Act No. 386 (Civil Code)	"[""Marriage"", ""Civil Code"", ""Muslim"", ""Non-Christian""]"	"[""marriage"", ""Muslims"", ""non-Christians"", ""Civil Code"", ""Republic Act 6268""]"
+repacts:datasets/markdown/repacts/1971/ra_6269_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6269_1971.md	ra_6269_1971	AN ACT PROVIDING FOR A SEPARATE SCHOOL DIVISION FOR THE SECOND REPRESENTATIVE DISTRICT OF THE PROVINCE OF LEYTE AND APPROPRIATING FUNDS THEREFOR.	"**[ REPUBLIC ACT NO. 6269, June 19, 1971 ]**
+
+ AN ACT PROVIDING FOR A SEPARATE SCHOOL DIVISION FOR THE SECOND REPRESENTATIVE DISTRICT OF THE PROVINCE OF LEYTE AND APPROPRIATING FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Any provision of law to the contrary notwithstanding, there shall be a separate school division for the Second Representative District of the Province of Leyte. The office of the superintendent of schools shall be in the Municipality of Burauen, Province of Leyte.
+
+ **Section 2.** The Director of Public Schools shall reorganize said division in accordance with the provisions of this Act.
+
+ **Section 3.** Such sums as may be necessary to carry out the purposes of this Act is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for the fiscal year nineteen hundred seventy-one. Thereafter, such sums as may be necessary for the same purpose shall be included in the annual General Appropriations Act.
+
+ **Section 4.** This Act shall take effect upon its approval
+
+ Approved, June 19, 1971.
+"	success	Education	The Act establishes a separate school division for the Second Representative District of Leyte, designates Burauen as the location of the superintendent's office, reorganizes the division under the Director of Public Schools, appropriates necessary funds for the fiscal year 1971, and sets the Act to take effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Establishes a separate school division for the Second Representative District of Leyte and locates the superintendent's office in Burauen.""}, {""title"": ""Section 2."", ""summary"": ""Mandates the Director of Public Schools to reorganize the new division.""}, {""title"": ""Section 3."", ""summary"": ""Appropriates necessary funds from the National Treasury for the fiscal year 1971 and future appropriations.""}, {""title"": ""Section 4."", ""summary"": ""The Act takes effect upon its approval.""}]"	6269	June 19, 1971			To establish a separate school division for the Second Representative District of Leyte and allocate appropriate funding.	"[""Creation of a separate school division for Leyte\u2019s 2nd Representative District"", ""Designation of Burauen as the superintendent office location"", ""Reorganization of the division under the Director of Public Schools"", ""Appropriation of funds from the National Treasury for fiscal year 1971 and beyond"", ""Effective date upon approval""]"		"[""Education"", ""Public Schools"", ""Leyte"", ""School Division"", ""Appropriation""]"	"[""Separate school division"", ""Leyte"", ""Burauen"", ""Director of Public Schools"", ""National Treasury""]"
+repacts:datasets/markdown/repacts/1971/ra_6270_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6270_1971.md	ra_6270_1971	AN ACT ESTABLISHING A NATIONAL VOCATIONAL HIGH SCHOOL IN THE MUNICIPALITY OF MAGALLANES, IN THE SECOND DISTRICT OF SORSOGON, TO BE KNOWN AS THE MAGALLANES NATIONAL VOCATIONAL HIGH SCHOOL, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.	"**[ REPUBLIC ACT NO. 6270, June 19, 1971 ]**
+
+ AN ACT ESTABLISHING A NATIONAL VOCATIONAL HIGH SCHOOL IN THE MUNICIPALITY OF MAGALLANES, IN THE SECOND DISTRICT OF SORSOGON, TO BE KNOWN AS THE MAGALLANES NATIONAL VOCATIONAL HIGH SCHOOL, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established under the direct supervision of the Director of Vocational Education, a national vocational high school in Magallanes, in the Second District of the Province of Sorsogon, to be known as the Magallanes National Vocational High School:*Provided, however,*That only a general education curriculum with practical arts shall be offered in the first and second years, and the vocational education curriculum shall be offered in the third and fourth years:*Provided, further,*That the school shall offer short vocational courses for training in vocations needed in the locality which shall be open to elementary school graduates:*Provided, finally,*That the school shall open, as soon as feasible, two-year post secondary technical courses.
+
+ **Section 2.** Upon the recommendation of the Director of Vocational Education, the President of the Philippines shall set aside and reserve such portion of the public located in the town of Magallanes in the Second District of the Province of Sorsogon as may be necessary the site of said school.
+
+ **Section 3.** The sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for operation and maintenance of the said school for the fiscal year nineteen hundred seventy-one. Thereafter, the necessary sums for the same purpose shall be included in the annual General Appropriations Act.
+"	success	Education	The act establishes the Magallanes National Vocational High School in Sorsogon, outlines its curriculum structure, designates land for its site, and authorizes the appropriation of 100,000 pesos for its operation and maintenance for the fiscal year 1971.	"[{""title"": ""Section 1."", ""summary"": ""Establishes the school under the supervision of the Director of Vocational Education, specifies a general education curriculum for the first and second years, vocational curricula for the third and fourth years, offers short vocational courses for local needs, and plans for two-year post-secondary technical courses.""}, {""title"": ""Section 2."", ""summary"": ""Mandates the President, upon recommendation, to set aside and reserve land in Magallanes, Sorsogon, for the school's site.""}, {""title"": ""Section 3."", ""summary"": ""Authorizes the appropriation of 100,000 pesos from the National Treasury for operation and maintenance in FY 1971, with future funding to be included in the General Appropriations Act.""}]"	6270	June 19, 1971			To establish a national vocational high school in Magallanes, Sorsogon, and authorize funding for its operation.	"[""Establishment of the Magallanes National Vocational High School"", ""Curriculum structure for first to fourth year and short vocational courses"", ""Reservation of land for the school site"", ""Appropriation of 100,000 pesos for operation and maintenance""]"		"[""Education"", ""Vocational Training"", ""Public School"", ""Sorsogon""]"	"[""Magallanes"", ""Sorsogon"", ""Vocational High School"", ""Appropriation"", ""Curriculum"", ""Director of Vocational Education"", ""National Treasury""]"
+repacts:datasets/markdown/repacts/1971/ra_6271_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6271_1971.md	ra_6271_1971	AN ACT MAKING THE MUNICIPALITY OF BOLINAO PROVINCE OF PANGASINAN, A SUB-PORT OF ENTRY, AND APPROPRIATING THE NECESSARY FUNDS FOR THE OPERATION OF A CUSTOMS SERVICE THEREIN	"**[ REPUBLIC ACT NO. 6271, June 19, 1971 ]**
+
+ AN ACT MAKING THE MUNICIPALITY OF BOLINAO PROVINCE OF PANGASINAN, A SUB-PORT OF ENTRY, AND APPROPRIATING THE NECESSARY FUNDS FOR THE OPERATION OF A CUSTOMS SERVICE THEREIN.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Municipality of Bolinao, Province of Pangasinan, is hereby made a sub-port of entry under the jurisdiction of the collector of customs of Sual, that province.
+
+ **Section 2.** For the establishment, operation and maintenance of the customs service in the Municipality of Bolinao, there is hereby appropriated fifty thousand pesos out of any funds in the National Treasury not otherwise appropriated, for the fiscal year nineteen hundred seventy-two. Thereafter, such sums as may be necessary to carry out the purpose of this Act shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Enacted without Executive approval on June 19, 1971.
+"	success	Republic Act	Establishes the Municipality of Bolinao as a sub-port of entry and appropriates funds for the operation of a customs service.	"[{""title"": ""Section 1"", ""summary"": ""The Municipality of Bolinao is hereby made a sub-port of entry under the jurisdiction of the collector of customs of Sual.""}, {""title"": ""Section 2"", ""summary"": ""Appropriated fifty thousand pesos for the establishment, operation and maintenance of the customs service in the Municipality of Bolinao for the fiscal year 1972.""}, {""title"": ""Section 3"", ""summary"": ""The Act shall take effect upon its approval.""}]"	6271	June 19, 1971			To designate the Municipality of Bolinao as a sub-port of entry and provide necessary funding for its customs service.	"[""Municipality of Bolinao designated as a sub-port of entry."", ""Fifty thousand pesos appropriated for customs service for FY 1972."", ""Act takes effect upon approval.""]"		"[""customs"", ""sub-port"", ""Bolinao"", ""Pangasinan"", ""funding""]"	"[""customs service"", ""sub-port of entry"", ""budget appropriation"", ""Pangasinan""]"
+repacts:datasets/markdown/repacts/1971/ra_6272_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6272_1971.md	ra_6272_1971	AN ACT ESTABLISHING AN EMERGENCY HOSPITAL IN THE MUNICIPALITY OF PANDI, PROVINCE OF BULACAN, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 6272, June 19, 1971 ]**
+
+ AN ACT ESTABLISHING AN EMERGENCY HOSPITAL IN THE MUNICIPALITY OF PANDI, PROVINCE OF BULACAN, AND APPROPRIATING FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established, under the direct supervision of the Director of Hospitals, an emergency hospital in the Municipality of Pandi, Province of Bulacan. The Director of Hospitals through the approval of the department head shall issue such rules and regulations as may be necessary to carry out the purposes of this Act.
+
+ **Section 2.** The sum of one hundred thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital for the fiscal year nineteen hundred and seventy-one. Thereafter, such sum as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Enacted without Executive approval on June 19, 1971.
+"	success	Republic Act	Establishes an emergency hospital in Pandi, Bulacan and appropriates funds for its establishment, operation, and maintenance.	"[{""title"": ""Section 1"", ""summary"": ""Establishes an emergency hospital in the Municipality of Pandi under the direct supervision of the Director of Hospitals.""}, {""title"": ""Section 2"", ""summary"": ""Appropriates one hundred thousand pesos for the establishment, operation, and maintenance of the hospital for fiscal year 1971.""}, {""title"": ""Section 3"", ""summary"": ""The act takes effect upon its approval.""}]"	6272	June 19, 1971	"[{""name"": ""Senate and House of Representatives of the Philippines"", ""title"": ""Legislative Body""}]"		To establish an emergency hospital in Pandi, Bulacan and appropriate funds for its establishment, operation, and maintenance.	"[""Establishment of an emergency hospital in the Municipality of Pandi, Bulacan."", ""Direct supervision by the Director of Hospitals."", ""Appropriation of \u20b1100,000 for establishment, operation, and maintenance of the hospital for FY 1971."", ""The act takes effect upon approval.""]"		"[""healthcare"", ""hospital"", ""Bulacan""]"	"[""emergency hospital"", ""Pandi"", ""Bulacan"", ""appropriation""]"
+repacts:datasets/markdown/repacts/1971/ra_6273_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6273_1971.md	ra_6273_1971	AN ACT ESTABLISHING A SHRIMP CULTURE AND A FARM DEMONSTRATION IN THE MUNICIPALITY OF TANDUBAS, PROVINCE OF SULU, AND APPROPRIATING FUNDS THEREFOR.	"**[ REPUBLIC ACT NO. 6273, June 19, 1971 ]**
+
+ AN ACT ESTABLISHING A SHRIMP CULTURE AND A FARM DEMONSTRATION IN THE MUNICIPALITY OF TANDUBAS, PROVINCE OF SULU, AND APPROPRIATING FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established and maintained under the supervision of the Philippine Fisheries Commission, a shrimp culture and farm demonstration station in the Municipality of Tandubas, Province of Sulu.
+
+ **Section 2.** The sum of sixty thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, to carry into effect the purposes of this Act for the fiscal year nineteen hundred and seventy. Thereafter, the necessary amount shall be included in the annual General Appropriations Act of each year.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Enacted without Executive approval on June 19, 1971.
+"	success	Act	An act to establish a shrimp culture and farm demonstration station in Tandubas, Sulu and to appropriate funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""Establishment and maintenance of a shrimp culture and farm demonstration station under the Philippine Fisheries Commission in the Municipality of Tandubas, Province of Sulu.""}, {""title"": ""Section 2."", ""summary"": ""Appropriation of sixty thousand pesos for the fiscal year 1970 to carry out the purposes of this act, with subsequent inclusion in the annual General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""The act shall take effect upon its approval.""}]"	REPUBLIC ACT NO. 6273	June 19, 1971			To establish a shrimp culture and farm demonstration station in Tandubas, Sulu and to appropriate necessary funds for its operation.	"[""Establishment of shrimp culture and farm demonstration station under the Philippine Fisheries Commission"", ""Appropriation of sixty thousand pesos for fiscal year 1970"", ""Subsequent inclusion of funds in the annual General Appropriations Act""]"		"[""Agriculture"", ""Fisheries"", ""Sulu"", ""Shrimp cultivation""]"	"[""shrimp culture"", ""farm demonstration"", ""Tandubas"", ""Sulu"", ""Philippine Fisheries Commission""]"
+repacts:datasets/markdown/repacts/1971/ra_6274_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6274_1971.md	ra_6274_1971	AN ACT ESTABLISHING A PILOT PROJECT FOR ANIMAL INDUSTRY IN THE MUNICIPALITY OF GAMAY, PROVINCE OF NORTHERN SAMAR, TO BE KNOWN AS GAMAY ANIMAL INDUSTRY PILOT PROJECT, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.	"**[ REPUBLIC ACT NO. 6274, June 19, 1971 ]**
+
+ AN ACT ESTABLISHING A PILOT PROJECT FOR ANIMAL INDUSTRY IN THE MUNICIPALITY OF GAMAY, PROVINCE OF NORTHERN SAMAR, TO BE KNOWN AS GAMAY ANIMAL INDUSTRY PILOT PROJECT, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There is hereby established, under the direct supervision of the Director of Animal Industry, a pilot project for animal industry, in the Municipality of Gamay, Province of Northern Samar, to be known as Gamay Animal Industry Pilot Project.
+
+ **Section 2.** The sum of fifty thousand pesos is hereby authorized to be appropriated, out of the funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said pilot project during the fiscal year nineteen hundred seventy. Thereafter, such sums as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Enacted without Executive approval on June 19, 1971.
+"	success	Republic Act	This law establishes a pilot animal industry project in Gamay, Northern Samar, and authorizes the appropriation of funds for its establishment, operation, and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of the Gamay Animal Industry Pilot Project under the supervision of the Director of Animal Industry.""}, {""title"": ""Section 2."", ""summary"": ""Authorization of an initial appropriation of fifty thousand pesos for the project, with provisions for future funding through the General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""The Act shall take effect upon its approval.""}]"	6274	June 19, 1971			To create a pilot project for animal industry in Gamay, Northern Samar, and secure funding for its operation and maintenance.	"[""Establishment of the Gamay Animal Industry Pilot Project"", ""Authorization of fifty thousand pesos for initial funding"", ""Effectivity upon approval""]"		"[""Animal Industry"", ""Pilot Project"", ""Northern Samar"", ""Republic Act"", ""Funding"", ""Appropriation"", ""Agriculture""]"	"[""animal industry"", ""pilot project"", ""Gamay"", ""Northern Samar"", ""funding"", ""appropriation"", ""Republic Act 6274""]"
+repacts:datasets/markdown/repacts/1971/ra_6275_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6275_1971.md	ra_6275_1971	AN ACT ESTABLISHING AN ARTIFICIAL INSEMINATION STATION IN THE MUNICIPALITY OF MAGDIWANG, ISLAND OF SIBUYAN, PROVINCE OF ROMBLON, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 6275, June 19, 1971 ]**
+
+ AN ACT ESTABLISHING AN ARTIFICIAL INSEMINATION STATION IN THE MUNICIPALITY OF MAGDIWANG, ISLAND OF SIBUYAN, PROVINCE OF ROMBLON, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established, under the supervision of the Bureau of Animal Industry, an artificial insemination station in the Municipality of Magdiwang, Island of Sibuyan, Province of Romblon, to be known as Sibuyan Artificial Insemination Station.
+
+ **Section 2.** The sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated for the construction of office, laboratory, building, annual sheds, equipment, supplies and material and such other expenses as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Enacted without Executive approval on June 19, 1971.
+"	success	Republic Act	The act establishes the Sibuyan Artificial Insemination Station in Magdiwang, Romblon, and appropriates funds for its construction and operation.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of an artificial insemination station in Magdiwang, supervised by the Bureau of Animal Industry.""}, {""title"": ""Section 2."", ""summary"": ""Authorization of one hundred thousand pesos to be appropriated for the construction, equipment, and operation of the station.""}, {""title"": ""Section 3."", ""summary"": ""The act takes effect upon its approval.""}]"	6275	June 19, 1971			To create an artificial insemination station for livestock improvement in Sibuyan and allocate necessary funds.	"[""Establishment of Sibuyan Artificial Insemination Station"", ""Appropriation of one hundred thousand pesos for construction and operation"", ""Effectivity upon approval""]"		"[""Animal Husbandry"", ""Agriculture"", ""Livestock""]"	"[""artificial insemination"", ""Magdiwang"", ""Sibuyan"", ""Romblon"", ""Bureau of Animal Industry""]"
+repacts:datasets/markdown/repacts/1971/ra_6276_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6276_1971.md	ra_6276_1971	AN ACT ESTABLISHING AN EMERGENCY HOSPITAL IN THE MUNICIPALITY OF LA PAZ, PROVINCE OF ABRA, TO BE KNOWN AS THE LA PAZ EMERGENCY HOSPITAL, AND APPROPRIATING FUNDS THEREFOR.	"**[ REPUBLIC ACT NO. 6276, June 19, 1971 ]**
+
+ AN ACT ESTABLISHING AN EMERGENCY HOSPITAL IN THE MUNICIPALITY OF LA PAZ, PROVINCE OF ABRA, TO BE KNOWN AS THE LA PAZ EMERGENCY HOSPITAL, AND APPROPRIATING FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established, under the direct supervision of the Director of Medical Services, an emergency hospital in the Municipality of La Paz, Province of Abra, to be known as the La Paz Emergency Hospital.
+
+ **Section 2.** The sum of one hundred fifty thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital during the fiscal year nineteen hundred seventy-one, including the construction of buildings thereof:*Provided,* That no portion of the appropriation shall be transferred. Thereafter, such sum as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Enacted without Executive approval on June 19, 1971.
+"	success	Republic Act	An act to establish the La Paz Emergency Hospital in the Municipality of La Paz, Abra, and to appropriate funds for its establishment, operation, and maintenance.	"[{""title"": ""Section 1"", ""summary"": ""Establishment of the La Paz Emergency Hospital under the supervision of the Director of Medical Services.""}, {""title"": ""Section 2"", ""summary"": ""Appropriation of one hundred fifty thousand pesos for the hospital\u2019s establishment, operation, and maintenance; funds are not transferable and may be included in future General Appropriations Acts.""}, {""title"": ""Section 3"", ""summary"": ""The act shall take effect upon its approval.""}]"	6276	June 19, 1971			To create an emergency hospital in La Paz, Abra and allocate necessary funds for its operation.	"[""Establishment of La Paz Emergency Hospital"", ""Appropriation of P150,000 for establishment, operation and maintenance"", ""Funds are non-transferable"", ""Funding to be included in annual General Appropriations Act"", ""Effective upon approval""]"		"[""healthcare"", ""hospital"", ""appropriation"", ""municipality"", ""Abra""]"	"[""emergency hospital"", ""La Paz"", ""Abra"", ""appropriation"", ""public health""]"

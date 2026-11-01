@@ -1,0 +1,145 @@
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1953.
+"	success	Republic Act	Republic Act No. 876 establishes the legal framework for arbitration in the Philippines, authorizing the creation of arbitration and submission agreements, defining who may submit disputes to arbitration, outlining excluded cases, detailing the form and preliminary procedures of arbitration agreements, and setting court procedures for enforcement.	"[{""title"": ""Section 1. Short Title"", ""summary"": ""Defines the short title of the act as \""The Arbitration Law.\""""}, {""title"": ""Section 2. Persons and matters subject to arbitration"", ""summary"": ""Specifies that two or more parties may submit disputes to arbitration, outlines eligibility, and addresses incapacity exceptions.""}, {""title"": ""Section 3. Controversies or cases not subject to the provisions of this Act"", ""summary"": ""Lists cases excluded from the act, such as those under the jurisdiction of the Court of Industrial Relations.""}, {""title"": ""Section 4. Form of arbitration agreement"", ""summary"": ""Mandates that arbitration agreements be in writing and subscribed by the party to be charged, and declares consent to jurisdiction of the Court of First Instance.""}, {""title"": ""Section 5. Preliminary procedure"", ""summary"": ""Describes the steps to initiate arbitration, including demand submission, appointment of arbitrators, and filing with the Clerk of the Court.""}, {""title"": ""Section 6. Hearing by court"", ""summary"": ""Provides procedures for court intervention when a party fails to comply with an arbitration agreement, including notice, hearing, and possible dismissal.""}]"	876				To establish a formal mechanism for resolving civil disputes through arbitration, thereby promoting efficient, private dispute resolution and reducing court caseloads.	"[""Short title definition"", ""Eligibility and scope of arbitration"", ""Exclusions from the act"", ""Written arbitration agreement requirement"", ""Preliminary procedures for initiating arbitration"", ""Court hearing procedures for non\u2011compliance""]"		"[""Arbitration"", ""Civil Controversy"", ""Legislation""]"	"[""arbitration"", ""submission agreement"", ""court"", ""civil disputes"", ""private contract"", ""judicial arbitration""]"
+repacts:datasets/markdown/repacts/1953/ra_885_1953.md	repacts	1953		datasets/markdown/repacts/1953/ra_885_1953.md	ra_885_1953	Philippine Nursing Law	"**[ REPUBLIC ACT NO. 885, June 19, 1953 ]**
+
+ AN ACT GRANTING THE AMERICAN RUBBER CO., INC., A TEMPORARY PERMIT TO ESTABLISH, MAINTAIN AND OPERATE PRIVATE FIXED POINT-TO-POINT RADIOTELEPHONE STATIONS FOR THE TRANSMISSION AND RECEPTION OF WIRELESS MESSAGES TO AND FROM SAID STATIONS.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The American Rubber Co., Inc., its successors or assigns, is hereby granted a temporary permit to establish, maintain and operate private fixed point-to-point radiotelephone stations in the cities of Basilan and Zamboanga and in other parts of the Philippines where it operates its business, subject to the approval of the Secretary of Public Works and Communications, for the transmission and reception of wireless messages to and from said stations, including its motor boats.
+
+ **Section 2.** The President of the Philippines shall have the power and authority to permit the construction, maintenance, and operation of said private fixed point-to-point radiotelephone stations on any land of the public domain upon such terms as he may prescribe.
+
+ **Section 3.** The temporary permit granted under this Act shall continue to be in force while the Government has not established similar service at places hereinabove stated, and subject to the condition that the grantee, its successors or assigns, shall start operation under said permit within one and a half years from the date of the approval of this Act.
+
+ **Section 4.** The grantee, its successors or assigns, shall not engage in domestic business of telecommunication in the Philippines, it being understood that the temporary permit granted under this Act merely secures the right of the grantee to establish, maintain and operate private fixed point-to-point radiotelephone stations at the places hereinabove stated for no other purpose than to promote, protect, and subserve the trade and business interest of the grantee as a company.
+
+ **Section 5.** The actual operation of said private fixed point-to-point radiotelephone stations shall not commence until after the Secretary of Public Works and Communications shall have allotted to the grantee the frequencies and wave lengths to be used thereunder.
+
+ **Section 6.** The grantee, its successors or assigns, shall so construct and operate such stations as not to interfere with the operation of other radio stations maintained and operated in the Philippines.
+
+ **Section 7.** The grantee, its successors or assigns, shall hold the national, provincial, city and municipal governments of the Republic of the Philippines harmless from all claims, accounts, demands, or actions arising out of accident or injuries, whether to property or to persons, caused by the construction or operation of its radiotelephone stations.
+
+ **Section 8.** The grantee, its successors or assigns, shall be subject to the corporation laws of the Philippines now existing or which may hereafter be enacted.
+
+ **Section 9.** A special right is hereby reserved to the President of the Philippines in time of war, rebellion, public peril, calamity, disaster or disturbance of peace or order to cause the closing of the grantee's radiotelephone stations or to authorize the temporary use and operation thereof by any department of the Government upon just compensation.
+
+ **Section 10.** The temporary permit granted under this Act shall be subject to amendment, alteration, or repeal by the Congress of the Philippines when the public interest so requires, and shall not be interpreted as an exclusive grant of the privilege herein provided for.
+
+ **Section 11.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1953.
+"	success	Republic Act	Republic Act No. 877, enacted on June 19, 1953, establishes the Philippine Nursing Law, regulating the practice of nursing, creating the Board of Examiners for Nurses, defining qualifications, powers, and duties of board members, and setting standards for nursing education and registration.	"[{""title"": ""Section 1. Title of Act"", ""summary"": ""Defines the law as the \""Philippine Nursing Law.\""""}, {""title"": ""Section 2. Name and composition of the Board"", ""summary"": ""Establishes the Board of Examiners for Nurses, composed of a chairman and two members appointed by the President based on qualifications and recommendations.""}, {""title"": ""Section 3. Powers and duties of the Board"", ""summary"": ""Outlines the board\u2019s authority to issue, suspend, revoke, or reissue nursing certificates, study nursing education, and enforce the law.""}, {""title"": ""Section 4. Qualifications of Board members"", ""summary"": ""Specifies the citizenship, educational, age, experience, and non\u2011conflict requirements for board members.""}, {""title"": ""Section 5. Term of office"", ""summary"": ""Sets a three\u2011year term for board members with special initial term allocations and vacancy procedures.""}, {""title"": ""Section 6. Executive officer and secretary of the Board"", ""summary"": ""Designates the Commissioner of Civil Service as executive officer and the secretary of the Board of Examiners for Nurses.""}, {""title"": ""Section 7. Compensation of the Board members"", ""summary"": ""Provides that board members receive a fee not exceeding ten pesos per examined candidate.""}, {""title"": ""Section 8. Removal of Board members"", ""summary"": ""Allows the President to remove members for neglect, incompetency, or misconduct following a recommendation and opportunity to defend.""}, {""title"": ""Section 9. Rules and regulations"", ""summary"": ""Empowers the board, with presidential approval, to promulgate necessary rules and regulations.""}, {""title"": ""Section 10. Annual report"", ""summary"": ""Mandates an annual report to the President detailing board proceedings and recommendations.""}, {""title"": ""Section 11. Purpose of school or college of nursing"", ""summary"": ""States that nursing schools and colleges should prepare qualified applicants for the nursing profession.""}]"	877	June 19, 1953			Regulate the practice of nursing and establish standards for nursing education and registration in the Philippines.	"[""Creation of Board of Examiners for Nurses"", ""Definition of board members\u2019 qualifications"", ""Authority to issue and revoke nursing certificates"", ""Regulation of nursing education and school accreditation"", ""Annual reporting requirements"", ""Compensation for board members""]"		"[""Nursing"", ""Health"", ""Professional Regulation""]"	"[""nursing"", ""board"", ""examination"", ""registration"", ""practice"", ""regulation"", ""Philippines"", ""law""]"
+repacts:datasets/markdown/repacts/1953/ra_886_1953.md	repacts	1953		datasets/markdown/repacts/1953/ra_886_1953.md	ra_886_1953	An Act to Amend Section Ten of Republic Act Numbered Three Hundred and Forty	"**[ REPUBLIC ACT NO. 886, June 19, 1953 ]**
+
+ AN ACT CHANGING THE NAME OF THE CAMANGAAN ELEMENTARY SCHOOL IN THE BARRIO 28, MUNICIPALITY OF LAOAG, PROVINCE OF ILOCOS NORTE, TO PLARIDEL ELEMENTARY SCHOOL.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The name of the Camangaan Elementary School in the barrio 28, municipality of Laoag, Province of Ilocos Norte, is hereby changed to Plaridel Elementary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1953.
+"	success	Republic Act	This act amends Section 10 of Republic Act No. 340, clarifying the retirement and separation rules for enlisted men and officers below the rank of colonel. It specifies that such personnel shall retire or be separated at one rank or grade higher than their permanent rank, provided the separation is not due to punishment, misconduct, or other specified reasons, and sets conditions for the computation of retirement pay and separation pay.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section\u00a010 of RA\u00a0340 to specify that enlisted men or officers below the rank of colonel entitled to benefits shall be retired or separated at one rank or grade higher than their permanent rank for at least one year, provided the separation is not due to punishment, misconduct, or other specified reasons.""}, {""title"": ""Section 2"", ""summary"": ""The act takes effect retroactively from July\u00a026,\u00a01948.""}]"	878	June 19, 1953			To clarify and amend the retirement rules for enlisted men and officers below the rank of colonel in the Armed Forces of the Philippines.	"[""Retirement or separation at one rank or grade higher than the permanent rank for at least one year"", ""Separation must not be due to punishment, misconduct, or other specified reasons"", ""Separation pay and retirement pay computed based on higher rank or grade"", ""Officers/enlisted men promoted before retirement not automatically assumed into higher rank upon recall"", ""Effectiveness retroactive to July\u00a026,\u00a01948""]"	Republic Act No. 340 Section 10	"[""retirement"", ""armed forces"", ""amendment"", ""Philippines""]"	"[""retirement"", ""separation"", ""enlisted men"", ""officers"", ""colonel"", ""court martial"", ""misconduct"", ""gratuity"", ""retirement pay"", ""separation pay""]"
+repacts:datasets/markdown/repacts/1953/ra_887_1953.md	repacts	1953		datasets/markdown/repacts/1953/ra_887_1953.md	ra_887_1953	AN ACT REORGANIZING THE MUNICIPAL BOARD OF THE CITY OF SAN PABLO, BY AMENDING SECTION ELEVEN OF COMMONWEALTH ACT NUMBERED FIVE HUNDRED AND TWENTY, AS AMENDED.	"**[ REPUBLIC ACT NO. 887, June 19, 1953 ]**
+
+ AN ACT TO AMEND SECTIONS THREE HUNDRED AND THIRTY-NINE AND THREE HUNDRED AND FIFTY-SIX OF COMMONWEALTH ACT NUMBERED FOUR HUNDRED AND SIXTY-SIX, OTHERWISE KNOWN AS THE NATIONAL INTERNAL REVENUE CODE, AS AMENDED.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Section three hundred and thirty-nine of Commonwealth Act Numbered Four hundred and sixty-six is hereby amended to read as follows:
+
+ > ""Section 339.Words and phrases defined.The term ""prohibited drugs"" as herein used, includes opium, cocaine, alpha, and beta eucaine, and Indian hemp (marihuana), opium poppies, their derivatives, and all preparations made from them, including synthetic drugs which have habit forming properties such as the following:
+>
+>  ""l-methyl-4-phenyl-piperidine-4-carboxylic acid ethyl ester (in the form of the hydrochloride, known under the names of Pethidine, Antiduol, Avlon, Centralgin, D-140, Demerol, Dispadol, Dodonal, Dolantal, Dolantin, Dolantol, Dolaren, Dolatol, Dolental, Dolinal, Dolosal, Dolvanol, Eu-dolat, Felidin, Gratidina, Isonipecaine, Meperidin, Mephedine, Pantalgine, Piridosal, Preoedyl, Sauteralgyl);
+>
+>  ""4-(3-hydroxyphenyl)-l-methyl-4-piperidyl ethyl ketone hydrochloride (known as Cliradon, Keto-Bemidone);
+>
+>  ""l-methyl-4-metahydroxyphenyI-piperidine- 4 -carboxylic acid ethyl ester (known as Bemidone);
+>
+>  ""A-l,3-dimethyl-4-phenyl-4-propionoxy piperidine (known as NU-1196, Alphaprodine, Nisentil);
+>
+>  ""B-l,3-dimethyl-4-phenyl-4-propionoxy piperidine (otherwise identified by symbol NU-1779, known as Beta-Prodine);
+>
+>  ""4,4-diphenyl-6-dimethylamino-heptanone-3 (also known s Methadone, Adanon, Amidone, Butalgin, Depridol, Diaminon, Dianone,Dolafin, Dolamid, Dolophine, Dorexol, Heptanal, Hoechst 10820, Ketalgin, Mecodin, Mephenon Miadone, Physeptone, Physopeptone, Polamidon, Symoron' Turanone);
+>
+>  ""4,4-diphenyl-5-m e t h y l-6-dimethylamino-hexanone-3 (known as Iso-methadone);
+>
+>  ""6-dimethylamino-4,4-diphenyl-3-heptanol (otherwise identified by symbol N. I. H.-2933, known as Methadol);
+>
+>  ""6-dimethylamino-4, 4-diphenyl-3-acetoxyheptane (otherwise identified by symbol N. I. H.-2953);
+>
+>  ""6-morpholino-4,4-diphenyl-3-heptanone (also known as Phenadoxone, CB-11, Hepagin, Heptalgin, Heptalin Heptazone);
+>
+>  ""l-methyl-3-ethyl-4-phenyl-4-propionoxy piperidine (otherwise known by the symbol NU-1932);
+>
+>  ""3-hydroxy-N-methyl morphinan (otherwise known by the symbol NU-2206);
+>
+>  ""be it in hydrochloride form or otherwise, and opiate.
+>
+>  ""Opiate"" embraces every kind, class, and character of opium, whether crude, prepared, ash, or refuse, and all narcotic preparations thereof or therefrom, and all morphine or .alkaloids of opium, and all preparations in which opium, morphine, or any alkaloid of opium enters as an ingredient, together with all opium leaves and wrappings of opium leaves, whether such leaves or wrappings are prepared for use or not and any other drug or substance found by the Secretary of Finance and Secretary of Health, after due notice and opportunity for public hearing, to have an addiction-forming or addiction-sustaining liability similar to morphine or cocaine, and proclaimed by the President of the Philippines as such habit forming narcotic drugs.""
+
+ **Section 2.** Section three hundred and fifty-six of Commonwealth Act Numbered Four hundred and sixty-six is hereby amended to read as follows:
+
+ > ""Section 356.Failure to keep pharmacist's record and to exercise diligence in keeping prohibited drugs.A physician, dentist, veterinarian, or pharmacist who fails to keep a true and correct record of prohibited drugs received and dispensed or transferred by him, as required by law and prescribed in the regulations of the Department of Finance, or who fails to allow the immediate inspection of his entire stock of such drugs upon the demand of any internal revenue officer or agent, or who, through negligence, losses any prohibited drug, shall be punished by a fine of not less than live hundred pesos nor more than five thousand pesos.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1953.
+"	success	Republic Act	Amendment to Commonwealth Act No. 520 to reorganize the municipal board of San Pablo City, establishing its constitution, organization, compensation, and election procedures.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 11 of Commonwealth Act 520 to define the constitution and organization of the Municipal Board, its members, compensation, temporary appointment of substitutes, and rules for members running for office.""}, {""title"": ""Section 2"", ""summary"": ""Allows the two appointive members to continue occupying the two elective positions until the next provincial and municipal election.""}, {""title"": ""Section 3"", ""summary"": ""States the act takes effect upon approval.""}]"	RA 879	June 19, 1953			To reorganize the municipal board of San Pablo City by amending Section 11 of Commonwealth Act 520.	"[""Definition of the Municipal Board constitution and organization"", ""Compensation of board members"", ""Appointment of temporary substitutes for absent members"", ""Disqualification of board members running for office"", ""Compensation for non-government employees serving on the board"", ""Continuation of appointive members in elective positions until next election"", ""Effectivity upon approval""]"	Commonwealth Act No. 520 (as amended by RA 163)	"[""Municipal Board"", ""Local Government"", ""San Pablo"", ""Reorganization"", ""RA 879""]"	"[""Municipal Board"", ""Reorganization"", ""San Pablo City"", ""Commonwealth Act 520"", ""RA 879"", ""Local Government""]"
+repacts:datasets/markdown/repacts/1953/ra_888_1953.md	repacts	1953		datasets/markdown/repacts/1953/ra_888_1953.md	ra_888_1953	"AN ACT TO CHANGE THE NAME OF MARIVELES ELEMENTARY SCHOOL IN THE MUNICIPALITY OF MARIVELES, PROVINCE OF BATAAN, TO ""ANTONIO G. LLAMAS ELEMENTARY SCHOOL"""	"**[ REPUBLIC ACT NO. 888, June 19, 1953 ]**
+
+ AN ACT GRANTING MANUEL PALACIOS A FRANCHISE FOR AN ELECTRIC LIGHT, HEAT AND POWER SYSTEM IN THE MUNICIPALITY OF CULASI, PROVINCE OF ANTIQUE.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section. 1.** Subject to the terms and conditions established in Act Numbered Thirty-six hundred and thirty-six, as amended by Commonwealth Act Numbered One hundred and thirty-two, and to the provisions of the Constitution, there is granted to Manuel Palacios, for a period of twenty-five years from the approval of this Act, the right, privilege, and authority to construct, maintain, and operate an electric light, heat, and power system for the purpose of generating and distributing electric light, heat, and/or power for sale within the municipality of Culasi, Province of Antique.
+
+ **Section 2.** It is expressly provided that in the event the government should desire to maintain and operate for itself the system and enterprise herein authorized, the grantee shall surrender his franchise and will turn over to the Government all serviceable equipment therein, at cost, less reasonable depreciation.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1953.
+"	success	Republic Act	Changes the name of Mariveles Elementary School to Antonio G. Llamas Elementary School.	"[{""title"": ""Section 1"", ""summary"": ""Name of Mariveles Elementary School changed to Antonio G. Llamas Elementary School.""}, {""title"": ""Section 2"", ""summary"": ""Act takes effect upon approval.""}]"	880	June 19, 1953			Renaming of a public school.	"[""Name of Mariveles Elementary School changed to Antonio G. Llamas Elementary School."", ""Act takes effect upon approval.""]"		"[""education"", ""renaming"", ""public school""]"	"[""Mariveles Elementary School"", ""Antonio G. Llamas"", ""renaming"", ""Bataan""]"
+repacts:datasets/markdown/repacts/1953/ra_889_1953.md	repacts	1953		datasets/markdown/repacts/1953/ra_889_1953.md	ra_889_1953	AN ACT CHANGING THE NAME OF THE CAPALANGAN ELEMENTARY SCHOOL IN THE MUNICIPALITY OF APALIT, PROVINCE OF PAMPANGA, TO MACARIO ARNEDO ELEMENTARY SCHOOL.	"**[ REPUBLIC ACT NO. 889, June 19, 1953 ]**
+
+ AN ACT TO FURTHER AMEND ACT NUMBERED THREE THOUSAND FOUR HUNDRED TWENTY-EIGHT, ENTITLED ""AN ACT PRESCRIBING THE COMPENSATION TO BE RECEIVED BY EMPLOYEES FOR PERSONAL INJURIES, DEATH OR ILLNESS CONTRACTED IN THE PERFORMANCE OF THEIR DUTIES"", AS AMENDED BY ACT NUMBERED THREE THOUSAND EIGHT HUNDRED AND TWELVE, BY COMMONWEALTH ACT NUMBERED TWO HUNDRED AND TEN AND BY REPUBLIC ACT NUMBERED SEVEN HUNDRED AND SEVENTY-TWO.
+
+ Be it enacted by the Senate and House of Representatives of the Philippine in Congress assembled:
+
+ **Section 1.** Section fifty-four of Act Numbered Three thousand four hundred and twenty-eight, as added by section twenty-four of Republic Act Numbered Seven hundred and seventy-two, is hereby amended to read as follows:
+
+ > ""Section 54.Contribution of insurance carriers and uninsured employees.The Commissioner is hereby authorized to collect yearly from insurance carriers not more than threeper centumof their gross receipts on premiums collected from insurance of workmen's compensation liabilities for the year immediately preceding and from uninsured employers not more than threeper centumof what they would have paid in premiums if their employees were all insured for the same period to cover administration costs:*Provided,* That the total amount of contribution of each shall not be less than five pesos. Employers whose employees and laborers are not fully covered in insurance, shall be considered uninsured to the extent of the amount not so covered.
+>
+>  ""If any insurance carrier or any uninsured employer fails to pay the contribution herein provided within sixty days from the time notice is served upon him, the collection of said contribution may be made in like manner as an award of compensation.
+>
+>  ""However, nothing contained in this Act shall prevent the Government from requiring employees from obtaining insurance policies from the Government for the purposes of this Act.""
+
+ **Section 2.** Section fifty-five of Act Numbered Three thousand four hundred and twenty-eight as added by section twenty-four of Republic Act Numbered Seven hundred and seventy-two, is hereby amended to read as follows:
+
+ > ""Section 55.Expenses of administration.There is hereby created a special fund to be known as the Workmen's Compensation Fund, which shall be under the custody and control of the Workmen's Compensation Commissioner, and shall be used exclusively for the payment of the expenses of the administration of this Act. All monies collected under sections thirty-one, forty-four, forty-seven (b), fifty-four, and fifty-six of this Act shall be paid into said fund:*Provided,* however,That the expenses of the Workmen's Compensation Commission shall be included in the annual budget of the Department of Labor:And provided, further,That the surplus amounts of the Workmen's Compensation Fund shall accrue to the fund for the rehabilitation of crippled men in industry.
+>
+>  ""For every final decision or letter computation awarding compensation, the uninsured employer or insurance carrier against whom the decision or letter computation is made shall pay into the Fund the sum of one peso and an additional charge of one peso for every one hundred pesos of the entire amount of compensation to be paid:*Provided,*That the total amount to be paid under this paragraph shall not be less than five pesos.
+>
+>  ""For every adjourned hearing, and for every decision of a referee affirmed by the Commissioner on review, the uninsured employer or insurance carrier making the request for adjournment or seeking such review shall pay into the Fund the sum of five pesos.
+>
+>  ""If the monies in the Fund are not sufficient to cover the expenses of administration in any fiscal year, the Commissioner shall determine as soon as possible the amount of the deficiency. The Commissioner shall then assess upon and collect from each insurance carrier and each uninsured employer the proportion of such deficiency that the total premium collected by an insurance carrier for the year. immediately preceding or the total insurance premium an uninsured employer would have paid for the same period bears to the total insurance premiums collected by all insurance carriers plus the total premiums that would have been paid by the uninsured employers for the year immediately preceding. The amounts so collected shall be used to reimburse the National Treasury for the appropriations therefor made by the Government for the payment of the expenses for administering this Act.
+>
+>  ""There is hereby created a committee composed of the Workmen's Compensation Commissioner as chairman, two representatives of insurance carriers, and two representatives of uninsured employers, who shall be appointed by the Secretary of Labor which shall have the duty of advising the Workmen's Compensation Commissioner in carrying put the purposes of this section.
+>
+>  ""The members, unless government officials, shall be entitled to ten pesosper diemevery time the committee meets.""
+
+ **Section 3.** Sections fifty-six and fifty-seven are hereby added to said Act to read as follows:
+
+ > ""Section 56.Registration of employers.Every employer within the purview of this Act must register the name and residence of the owner and/or manager of the establishment, the name, location and nature of the business, the name and address of the insurance carrier if insured, the number, classification and salaries of employees; the kinds of machineries used, and the amount of capital invested, with the Office of the Workmen's Compensation Commissioner within six months from the date of the approval of this amendment and every year thereafter not later than the twentieth day of January. The Commissioner may require employers to submit additional information in a form to be prescribed by him. For each registration, the employer shall pay a fee of ten pesos.
+>
+>  ""Section 57.General penalty.Any person who knowingly violates any provision of the Workmen's Compensation Act, as amended, for which no penalty is provided, shall"" upon conviction be punished by a fine not exceeding five hundred pesos or by imprisonment not exceeding six months or by both such fine and imprisonment in the discretion of the court.""
+
+ **Section 4.** This Act shall be effective as of June twenty, nineteen hundred and fifty-two.
+
+ Approved, June 19, 1953.
+"	success	Republic Act	An act to change the name of Capalangan Elementary School in Apalit, Pampanga to Macario Arnedo Elementary School.	"[{""title"": ""Section 1."", ""summary"": ""The name of the Capalangan Elementary School in the municipality of Apalit, Province of Pampanga, is hereby changed to Macario Arnedo Elementary School.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	881	June 19, 1953			To change the name of Capalangan Elementary School to Macario Arnedo Elementary School.	"[""Section 1: name change of Capalangan Elementary School to Macario Arnedo Elementary School."", ""Section 2: effective upon approval.""]"		"[""education"", ""school naming"", ""Republic Act"", ""Pampanga""]"	"[""Capalangan Elementary School"", ""Macario Arnedo Elementary School"", ""name change"", ""Pampanga"", ""Apalit""]"

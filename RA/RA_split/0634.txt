@@ -1,0 +1,160 @@
+repacts:datasets/markdown/repacts/1960/ra_2786_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2786_1960.md	ra_2786_1960	An Act to Create the Provinces of Surigao del Norte and Surigao del Sur	"**REPUBLIC ACT No. 2786**
+
+ **An Act to Create the Provinces of Surigao del Norte and Surigao del Sur**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The province of Surigao is hereby divided into two provinces, one to be known as Surigao del Norte and the other as Surigao del Sur.
+
+ **Section 2.** The Province of Surigao del Norte shall consist of that portion of the present Province of Surigao which comprises the municipalities of Dinagat, Loreto, Dapa, Numancia, General Luna, Pilar, Sapao, Malimono, Anaoaon, Surigao, Placer, Tagana-an, Mainit, Tubod, Bacuag, Gigaquit, Claver, Sison, San Isidro, Albor and Cagdianao.
+
+ **Section 3.** The Province of Surigao del Sur shall consist of the other portion of the present Province of Surigao comprising the municipalities of Carrascal, Cantilan, Madrid, Lanuza, Cortez, Tandag, Tago, Cagwait, Hinatuan, Marihatag, Lianga, Bislig and Lingig.
+
+ **Section 4.** The capital of Surigao del Norte shall be Surigao and that of Surigao del Sur shall be Tandag.
+
+ **Section 5.** Except as hereinafter provided, all provisions of law now or hereafter applicable to regular provinces shall be applicable to the provinces of Surigao del Norte and Surigao del Sur.
+
+ **Section 6.** The present elective provincial officers of Surigao shall, until their successors shall have been elected and shall have qualified, perform their respective duties as such officers in either of the two provinces herein created which they shall individually choose within thirty days from the date of the approval of this Act: *Provided,* That they shall continue to receive the salaries they are receiving at the time of the approval of this Act until the new readjustment of salaries in accordance with existing law. Such elective officers as may be necessary to fill vacancies in either of the said provinces shall for the time being be appointed by the President of the Philippines with the consent of the Commission on Appointments and shall hold office until December thirty-one, nineteen hundred sixty-one and/or until their successors shall have been elected and shall have qualified.
+
+ **Section 7.** Special elections shall be held in either or both provinces to fill elective provincial positions which shall be vacated by incumbent provincial elective officials, said special elections to be held simultaneously with the national elections in November, nineteen hundred sixty-one. The Commission on Elections is directed to carry into effect the provisions of this section. Nothing herein contained shall affect the term of office of the incumbent elected provincial officials of Surigao.
+
+ **Section 8.** The present appointive provincial officers and employees of Surigao shall likewise perform their respective duties as such in either of the two provinces herein created which they shall individually choose within thirty days from the date of the approval hereof: *Provided,* That they shall continue to receive the salaries they are receiving at the time of the approval of this Act until the new readjustment of salaries in accordance with existing law. Such appointive officers and employees as may be necessary to organize, or to complete, the government personnel of either province shall be appointed as provided by law.
+
+ **Section 9.** The provinces of Surigao del Norte and Surigao del Sur shall each have one Representative: *Provided,* That the present Representative of the Province of Surigao shall, during his term of office as such, be the Representative for the Province of Surigao del Norte: *Provided, further,* That he shall likewise be the Representative for the Province of Surigao del Sur until a Representative for the latter province shall have been elected in the next general election for national officials or in a special election called for the purpose.
+
+ **Section 10.** Upon effectivity of this Act, the obligations, funds, assets and other properties of the present Province of Surigao shall be divided equitably between the provinces of Surigao del Norte and Surigao del Sur by the President of the Philippines upon the recommendation of the Auditor General.
+
+ **Section 11.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	The act divides the former Province of Surigao into Surigao del Norte and Surigao del Sur, establishing their boundaries, capitals, transferring provincial officials and employees, and allocating assets and funds between the new provinces.	"[{""title"": ""Section 1"", ""summary"": ""Establishes the creation of Surigao del Norte and Surigao del Sur by dividing the existing Province of Surigao.""}, {""title"": ""Section 2"", ""summary"": ""Lists the municipalities that constitute Surigao del Norte.""}, {""title"": ""Section 3"", ""summary"": ""Lists the municipalities that constitute Surigao del Sur.""}, {""title"": ""Section 4"", ""summary"": ""Designates Surigao as capital of Surigao del Norte and Tandag as capital of Surigao del Sur.""}, {""title"": ""Section 5"", ""summary"": ""All existing provincial laws apply to the new provinces.""}, {""title"": ""Section 6"", ""summary"": ""Elective provincial officers may choose one of the new provinces, continue to serve until successors are elected, and retain salaries.""}, {""title"": ""Section 7"", ""summary"": ""Special elections to fill vacancies will be held concurrently with national elections in November 1961.""}, {""title"": ""Section 8"", ""summary"": ""Appointive provincial officers and employees will also choose a province and retain salaries until re-adjustment.""}, {""title"": ""Section 9"", ""summary"": ""Each new province will have one representative; the current representative of Surigao will serve both until new representatives are elected.""}, {""title"": ""Section 10"", ""summary"": ""Obligations, funds, and assets of the former Province of Surigao to be divided equitably between the new provinces by the President.""}, {""title"": ""Section 11"", ""summary"": ""Act takes effect upon approval.""}]"	2786	June 19, 1960			To create new provinces in the Philippines by dividing the former Province of Surigao.	"[""Division of Province of Surigao into Surigao del Norte and Surigao del Sur"", ""Designation of municipalities for each new province"", ""Designation of capital cities"", ""Transfer of elective provincial officers and employees"", ""Allocation of assets and funds between the new provinces"", ""Effectivity upon approval""]"		"[""Provincial Division"", ""Republic Act"", ""Surigao"", ""Philippines"", ""Administrative Law""]"	"[""Surigao del Norte"", ""Surigao del Sur"", ""municipalities"", ""capital"", ""province"", ""division"", ""Republic Act 2786"", ""administrative law"", ""Philippines""]"
+repacts:datasets/markdown/repacts/1960/ra_2787_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2787_1960.md	ra_2787_1960	An Act to Amend Project Numbered D-143.2, for the Province of Aklan, Page 928-A, Title D, Appendix A of Republic Act Numbered Sixteen Hundred Thirteen	"**REPUBLIC ACT No. 2787**
+
+ **An Act to Amend Project Numbered D-143.2, for the Province of Aklan, Page 928-A, Title D, Appendix A of Republic Act Numbered Sixteen Hundred Thirteen**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Project numbered D-143.2, for the Province of Aklan, page 928-A, Title D, Appendix A of Republic Act Numbered Sixteen hundred thirteen, is hereby amended to read as follows:
+
+ > ""D-143.2 Aklan Waterworks, for the towns GOB 500 (500) (300) (200) 4 New project of Makato, Kalibo, Banga, New Washington, Lezo, Malinao, Numancia and Tangalan.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Public Works	Amendment to Project D-143.2 for the Province of Aklan, updating waterworks project details.	"[{""title"": ""Section 1"", ""summary"": ""Amendment to Project D-143.2, specifying new waterworks project details for Aklan.""}, {""title"": ""Section 2"", ""summary"": ""Act takes effect upon approval.""}]"	2787	June 19, 1960			To amend Project D-143.2 for the Province of Aklan, updating the waterworks project details.	"[""Amended Project D-143.2 to include new waterworks project covering towns in Aklan.""]"	Republic Act No. 1613	"[""amendment"", ""waterworks"", ""province"", ""Aklan"", ""public works""]"	"[""Project D-143.2"", ""Aklan"", ""waterworks"", ""Makato"", ""Kalibo"", ""Banga"", ""New Washington"", ""Lezo"", ""Malinao"", ""Numancia"", ""Tangalan"", ""RA 1613""]"
+repacts:datasets/markdown/repacts/1960/ra_2788_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2788_1960.md	ra_2788_1960	An Act Changing the Name of the Municipality of Liargao in the Province of Zamboanga del Sur to Ramon Magsaysay	"**REPUBLIC ACT No. 2788**
+
+ **An Act Changing the Name of the Municipality of Liargao in the Province of Zamboanga del Sur to Ramon Magsaysay**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Municipality of Liargao in the Province of Zamboanga del Sur is changed to Ramon Magsaysay.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success		This act changes the name of the municipality of Liargao in Zamboanga del Sur to Ramon Magsaysay and takes effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""The name of the Municipality of Liargao in the Province of Zamboanga del Sur is changed to Ramon Magsaysay.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2788	June 19, 1960			Change the name of the municipality of Liargao to Ramon Magsaysay.	"[""Name of the Municipality of Liargao is changed to Ramon Magsaysay."", ""Act takes effect upon approval.""]"			
+repacts:datasets/markdown/repacts/1960/ra_2789_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2789_1960.md	ra_2789_1960	An Act Changing the Name of the Municipality of Bulalacao in the Province of Oriental Mindoro to San Pedro	"**REPUBLIC ACT No. 2789**
+
+ **An Act Changing the Name of the Municipality of Bulalacao in the Province of Oriental Mindoro to San Pedro**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Municipality of Bulalacao in the Province of Oriental Mindoro is changed to San Pedro.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	This act changes the name of the municipality of Bulalacao in Oriental Mindoro to San Pedro.	"[{""title"": ""Section 1."", ""summary"": ""The name of the Municipality of Bulalacao in the Province of Oriental Mindoro is changed to San Pedro.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2789	June 19, 1960			To change the name of a municipality for administrative and identity purposes.	"[""The name of the Municipality of Bulalacao is changed to San Pedro.""]"		"[""Municipality"", ""Name Change"", ""Local Government"", ""Oriental Mindoro""]"	"[""Bulalacao"", ""San Pedro"", ""Municipality"", ""Name Change"", ""Oriental Mindoro""]"
+repacts:datasets/markdown/repacts/1960/ra_2790_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2790_1960.md	ra_2790_1960	An Act Creating Certain Barrios in the Municipality of Virac, Province of Catanduanes	"**REPUBLIC ACT No. 2790**
+
+ **An Act Creating Certain Barrios in the Municipality of Virac, Province of Catanduanes**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The following places in the Municipality of Virac, Province of Catanduanes, are declared as barrios of said municipality, to wit:
+
+ 1. Bagui, Pajo as Barrio Bagui, Pajo; 2. Bigaa as Barrio Bigaa; 3. Calampong as Barrio Calampong; 4. Buenavista as Barrio Buenavista; 5. Capilihan as Barrio Capilihan; 6. Dugui (TO-O) as Barrio Dugui (TO-O); 7. Hawan (Ilaya) as Barrio Hawan (Ilaya); 8. Igang as Barrio Igang; 9. Palta (Small) as Barrio Palta (Small); 10. Sto. Cristo (Cabijian) as Barrio Sto. Cristo (Cabijian); 11. San Isidro (Dugui Wala) as Barrio San Isidro (Dugui Wala); 12. San Vicente (Dugui Wala) as Barrio San Vicente (Dugui Wala); 13. San Isidro, Pajo, as Barrio San Isidro, Pajo; and 14. Valencia as Barrio Valencia. **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	This act establishes new barrios within the Municipality of Virac, Catanduanes, designating specific areas as official barrios.	"[{""title"": ""Section 1"", ""summary"": ""Declares the following places as barrios: Bagui, Pajo; Bigaa; Calampong; Buenavista; Capilihan; Dugui (TO-O); Hawan (Ilaya); Igang; Palta (Small); Sto. Cristo (Cabijian); San Isidro (Dugui Wala); San Vicente (Dugui Wala); San Isidro, Pajo; Valencia.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon approval.""}]"	2790	1960-06-19			To create and officially recognize specific barrios within the Municipality of Virac.	"[""Creation of barrios Bagui, Pajo and Bigaa"", ""Establishment of barrios Calampong, Buenavista, Capilihan, Dugui (TO-O), Hawan (Ilaya), Igang, Palta (Small), Sto. Cristo (Cabijian), San Isidro (Dugui Wala), San Vicente (Dugui Wala), San Isidro, Pajo and Valencia"", ""Barrios shall be officially recognized by the municipality""]"		"[""Republic Act"", ""Barrios"", ""Virac"", ""Catanduanes"", ""Local Government""]"	"[""barrios"", ""municipality"", ""Virac"", ""Catanduanes"", ""Republic Act 2790""]"
+repacts:datasets/markdown/repacts/1960/ra_2791_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2791_1960.md	ra_2791_1960	An Act Constituting Portions of Barrios Dagupan, Villa Magat and San Manuel in the Municipality of San Mateo, Province of Isabela, into a Barrio to be Known as Barrio Ligaya	"**REPUBLIC ACT No. 2791**
+
+ **An Act Constituting Portions of Barrios Dagupan, Villa Magat and San Manuel in the Municipality of San Mateo, Province of Isabela, into a Barrio to be Known as Barrio Ligaya**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Portions of barrios Dagupan, Villa Magat and San Manuel in the Municipality of San Mateo, Province of Isabela, separated from said barrios by the canal of the Magat River Irrigation System, are constituted into a barrio to be known as Barrio Ligaya.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	This act constitutes portions of barrios Dagupan, Villa Magat and San Manuel in San Mateo, Isabela, into a new barrio named Barrio Ligaya.	"[{""title"": ""Section 1."", ""summary"": ""Portions of barrios Dagupan, Villa Magat and San Manuel in the Municipality of San Mateo, Province of Isabela, separated from said barrios by the canal of the Magat River Irrigation System, are constituted into a barrio to be known as Barrio Ligaya.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2791	June 19, 1960				"[""Constitutes portions of barrios Dagupan, Villa Magat, and San Manuel into Barrio Ligaya"", ""Act takes effect upon approval""]"			"[""barrios"", ""Dagupan"", ""Villa Magat"", ""San Manuel"", ""San Mateo"", ""Isabela"", ""Magat River Irrigation System"", ""Barrio Ligaya""]"
+repacts:datasets/markdown/repacts/1960/ra_2792_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2792_1960.md	ra_2792_1960	An Act to Amend Item (aq), Subparagraph (6), for the Province of Bataan, Page Two Hundred Fourteen, Paragraph f, Section Two of Republic Act Numbered Nineteen Hundred	"**REPUBLIC ACT No. 2792**
+
+ **An Act to Amend Item (aq), Subparagraph (6), for the Province of Bataan, Page Two Hundred Fourteen, Paragraph f, Section Two of Republic Act Numbered Nineteen Hundred**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item (aq), subparagraph (6), for the Province of Bataan, page two hundred fourteen, paragraph f, Section two of Republic Act Numbered Nineteen hundred is amended to read as follows:
+
+ > ""(aq) Gumitna-Eskina road, SamalImprovement ₱3,000.00.""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	Amends subsection (aq) of Republic Act No. 1900 concerning the Gumitna-Eskina road in Bataan, adding a monetary improvement amount.	"[{""title"": ""Section 1"", ""summary"": ""Amends Item (aq), subparagraph (6) for the Province of Bataan, page 214, paragraph f, Section 2 of RA 1900 to read: \""(aq) Gumitna-Eskina road, SamalImprovement \u20b13,000.00.\""""}, {""title"": ""Section 2"", ""summary"": ""States that the Act shall take effect upon its approval.""}]"	2792	June 19, 1960			To amend Item (aq), subparagraph (6) of Republic Act No. 1900 regarding the Gumitna-Eskina road in Bataan.	"[""(aq) Gumitna-Eskina road, SamalImprovement \u20b13,000.00.""]"	Republic Act Numbered Nineteen Hundred (RA 1900)	"[""Amendment"", ""Infrastructure"", ""Roads"", ""Bataan""]"	"[""Gumitna-Eskina road"", ""SamalImprovement"", ""Bataan"", ""RA 1900""]"
+repacts:datasets/markdown/repacts/1960/ra_2793_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2793_1960.md	ra_2793_1960	An Act to Convert the Bilar Rural High School in the Municipality of Bilar, Province of Bohol, into a Regional Agricultural School of the Baybay National Agricultural School Type, to be Known as the Bohol National Agricultural School, and to Authorize the Appropriation of the Necessary Funds Therefor	"**REPUBLIC ACT No. 2793**
+
+ **An Act to Convert the Bilar Rural High School in the Municipality of Bilar, Province of Bohol, into a Regional Agricultural School of the Baybay National Agricultural School Type, to be Known as the Bohol National Agricultural School, and to Authorize the Appropriation of the Necessary Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The Bilar Rural High School located in the Municipality of Bilar, Province of Bohol, is hereby converted into a regional agricultural school of the Baybay National Agricultural School type, to be known as the Bohol National Agricultural School and to be headed by a Superintendent of Agricultural Instruction. The Secretary of Education is hereby empowered to reorganize said school accordingly.
+
+ **Section 2.** The sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, as additional appropriation to carry out the provisions of this Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Education	This act converts Bilar Rural High School into the Bohol National Agricultural School and appropriates one hundred thousand pesos for its reorganization.	"[{""title"": ""Section 1"", ""summary"": ""Converts Bilar Rural High School into a regional agricultural school of the Baybay National Agricultural School type, names it Bohol National Agricultural School, and authorizes the Secretary of Education to reorganize it with a Superintendent of Agricultural Instruction.""}, {""title"": ""Section 2"", ""summary"": ""Authorizes the appropriation of one hundred thousand pesos from the National Treasury for the provisions of this act.""}, {""title"": ""Section 3"", ""summary"": ""The act shall take effect upon its approval.""}]"	2793	June 19, 1960			To convert Bilar Rural High School into a regional agricultural school and authorize the appropriation of necessary funds for its reorganization.	"[""Converts Bilar Rural High School into Bohol National Agricultural School"", ""Appoints Superintendent of Agricultural Instruction"", ""Appropriates one hundred thousand pesos from National Treasury"", ""Act takes effect upon approval""]"		"[""Education"", ""Agricultural Education"", ""School Conversion"", ""Funds Appropriation""]"	"[""Bilar Rural High School"", ""Bohol National Agricultural School"", ""Baybay National Agricultural School"", ""appropriation"", ""100,000 pesos""]"
+repacts:datasets/markdown/repacts/1960/ra_2794_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2794_1960.md	ra_2794_1960	An Act Changing the Name of the Wakas Barrio School in the Barrio of Wakas, Municipality of Kawit, Province of Cavite, to General Tomas Mascardo Memorial School	"**REPUBLIC ACT No. 2794**
+
+ **An Act Changing the Name of the Wakas Barrio School in the Barrio of Wakas, Municipality of Kawit, Province of Cavite, to General Tomas Mascardo Memorial School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Wakas Barrio School in the barrio of Wakas, Municipality of Kawit, Province of Cavite, is hereby changed to General Tomas Mascardo Memorial School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	This act changes the name of the Wakas Barrio School to General Tomas Mascardo Memorial School.	"[{""title"": ""Section 1"", ""summary"": ""The name of the Wakas Barrio School in the barrio of Wakas, Municipality of Kawit, Province of Cavite, is hereby changed to General Tomas Mascardo Memorial School.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	2794	June 19, 1960			To change the name of the Wakas Barrio School to General Tomas Mascardo Memorial School.	"[""The name of the Wakas Barrio School is changed to General Tomas Mascardo Memorial School."", ""The act takes effect upon approval.""]"		"[""Education"", ""School"", ""Naming""]"	"[""Wakas Barrio School"", ""General Tomas Mascardo Memorial School"", ""name change"", ""Cavite"", ""Kawit""]"
+repacts:datasets/markdown/repacts/1960/ra_2795_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2795_1960.md	ra_2795_1960	An Act Creating Certain Barrios in the Municipality of Tuao, Province of Cagayan	"**REPUBLIC ACT No. 2795**
+
+ **An Act Creating Certain Barrios in the Municipality of Tuao, Province of Cagayan**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The following sitios in the Municipality of Tuao, Province of Cagayan, are converted into barrios of said municipality, to wit:
+
+ 1. Sitio Pata to Barrio Pata; 2. Sitio Dagupan to Barrio Dagupan; 3. Sitio Palca to Barrio Palca; 4. Sitio Naruangan to Barrio Naruangan; 5. Sitio Bugnay to Barrio Bugnay; 6. Sitio San Juan to Barrio San Juan; 7. Sitio Moleg to Barrio Moleg; 8. Sitio Taribugu to Barrio Taribugu; 9. Sitio Culung to Barrio Culung; 10. Sitio Bicok to Barrio Bicok; 11. Sitio Talia to Barrio Talia; 12. Sitio Malummin to Barrio Malummin; 13. Sitio Gurengad to Barrio Gurengad; 14. Sitio Angang to Barrio Angang; and 15. Sitio Lalambini to Barrio Lalambini. **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	Converts listed sitios in the Municipality of Tuao, Province of Cagayan into barrios.	"[{""title"": ""Section 1."", ""summary"": ""The following sitios in the Municipality of Tuao, Province of Cagayan, are converted into barrios of said municipality: 1. Sitio Pata to Barrio Pata; 2. Sitio Dagupan to Barrio Dagupan; 3. Sitio Palca to Barrio Palca; 4. Sitio Naruangan to Barrio Naruangan; 5. Sitio Bugnay to Barrio Bugnay; 6. Sitio San Juan to Barrio San Juan; 7. Sitio Moleg to Barrio Moleg; 8. Sitio Taribugu to Barrio Taribugu; 9. Sitio Culung to Barrio Culung; 10. Sitio Bicok to Barrio Bicok; 11. Sitio Talia to Barrio Talia; 12. Sitio Malummin to Barrio Malummin; 13. Sitio Gurengad to Barrio Gurengad; 14. Sitio Angang to Barrio Angang; and 15. Sitio Lalambini to Barrio Lalambini.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2795	June 19, 1960			Convert specified sitios into barrios within the Municipality of Tuao, Province of Cagayan.	"[""Conversion of specified sitios into barrios."", ""Act takes effect upon approval.""]"		"[""Republic Act"", ""Municipality"", ""Barrios"", ""Cagayan"", ""Tuao""]"	"[""Barrios"", ""Sitios"", ""Conversion"", ""Cagayan"", ""Tuao"", ""Municipality""]"
+repacts:datasets/markdown/repacts/1960/ra_2796_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2796_1960.md	ra_2796_1960	An Act to Provide for Three School Divisions in the Province of Samar	"**REPUBLIC ACT No. 2796**
+
+ **An Act to Provide for Three School Divisions in the Province of Samar**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be three school divisions in the Province of Samar, the first shall include the municipalities of Lapinig, Gamay, Las Navas Catubig, Palapag, Laoang, Pambujan, Mondragon, Catarman, Bobon, San Jose, Lavezares, Allen, San Isidro, San Antonio and Capul. The permanent station of the Superintendent of Schools of this division shall be in the Municipality of Catarman. The second division shall include the City of Calbayog and the municipalities of Sta. Margarita, Gandara, Tarangnan, Catbalogan, Almagro, Santo Niño, Zumarraga, Daram, Sta. Rita, Talolora, Villareal, Basey, Marabut, Wright, Motiong, Hinagangan, San Sebastian, Calbiga, Jiabong, Pinabacdao, Matuguinao and San Jose de Buan. The permanent station of the Superintendent of Schools of the second division shall be in the Municipality of Catbalogan. The third division shall include all the municipalities of Arteche, San Policarpo, Jipapad, Oras, Dolores, Can-Avid, Taft, Sulat, San Julian, Borongan, Maydulong, Llorente, Balangkayan, Hernani, Gen. MacArthur, Quinapondan, Salcedo, Mercedes, Guiuan, Jiporlos, Balangiga and Lawaan. The permanent station of the Superintendent of Schools of the third division shall be in the Municipality of Borongan.
+
+ **Section 2.** The Director of Public Schools shall reorganize the School Division Office of the Province of Samar into three school divisions commencing with the school year nineteen hundred sixty to nineteen hundred sixty-one, in accordance with the provisions of this Act.
+
+ **Section 3.** Such sums as may be necessary to carry out the purposes of this Act for the school year nineteen hundred sixty to nineteen hundred sixty-one is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated. The sum necessary for the same purpose in subsequent school years shall be included in the General Appropriations Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	This act establishes three school divisions in Samar province, designates permanent stations for superintendents, authorizes necessary funding, and reorders the school division offices effective the 1960-1961 school year.	"[{""title"": ""Section 1"", ""summary"": ""Creation of three school divisions with specified municipalities and permanent superintendent stations.""}, {""title"": ""Section 2"", ""summary"": ""Reorganization of the School Division Office into three divisions starting the 1960-1961 school year.""}, {""title"": ""Section 3"", ""summary"": ""Authorization of necessary sums for the 1960-1961 school year and inclusion of subsequent years in the General Appropriations Act.""}, {""title"": ""Section 4"", ""summary"": ""The act takes effect upon approval.""}]"	2796	June 19, 1960			To provide for the establishment of school divisions in Samar province for improved educational administration.	"[""Creation of three school divisions with specified municipalities"", ""Designation of permanent stations for superintendents"", ""Authorization of funds for 1960-1961 school year"", ""Effective date upon approval""]"		"[""Education"", ""School Division"", ""Samar"", ""Philippines""]"	"[""school divisions"", ""Samar"", ""educational administration"", ""public schools"", ""budget appropriation""]"

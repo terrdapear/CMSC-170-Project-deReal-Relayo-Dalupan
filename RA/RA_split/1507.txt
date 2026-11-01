@@ -1,0 +1,154 @@
+repacts:datasets/markdown/repacts/1972/ra_6435_1972.md	repacts	1972		datasets/markdown/repacts/1972/ra_6435_1972.md	ra_6435_1972	An Act Changing the Name of San Marcelino Emergency Hospital in the Municipality of San Marcelino, Province of Zambales, to Mayor Leopoldo F. Rabanes Memorial Hospital	"**[ REPUBLIC ACT NO. 6435, June 17, 1972 ]**
+
+ AN ACT CHANGING THE NAME OF SAN MARCELINO EMERGENCY HOSPITAL IN THE MUNICIPALITY OF SAN MARCELINO, PROVINCE OF ZAMBALES, TO MAYOR LEOPOLDO F. RABANES MEMORIAL HOSPITAL
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The name of San Marcelino Emergency Hospital in the Municipality of San Marcelino, Province of Zambales, is hereby changed to Mayor Leopoldo F. Rabanes Memorial Hospital.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 17, 1972.
+"	success	Health	This act changes the name of San Marcelino Emergency Hospital to Mayor Leopoldo F. Rabanes Memorial Hospital.	"[{""title"": ""Section 1."", ""summary"": ""The name of San Marcelino Emergency Hospital in the Municipality of San Marcelino, Province of Zambales is hereby changed to Mayor Leopoldo F. Rabanes Memorial Hospital.""}, {""title"": ""Section 2."", ""summary"": ""The Act shall take effect upon its approval.""}]"	6435	June 17, 1972			To rename a public hospital in the province of Zambales.	"[""The name of San Marcelino Emergency Hospital is changed to Mayor Leopoldo F. Rabanes Memorial Hospital.""]"		"[""Hospital"", ""Renaming"", ""Health""]"	"[""hospital"", ""renaming"", ""Zambales"", ""San Marcelino"", ""Mayor Leopoldo F. Rabanes""]"
+repacts:datasets/markdown/repacts/1972/ra_6436_1972.md	repacts	1972		datasets/markdown/repacts/1972/ra_6436_1972.md	ra_6436_1972	Act Changing the Name of Sitio Rawrawang in the Municipality of Espiritu, Province of Ilocos Norte, to Barrio Don Mariano	"**[ REPUBLIC ACT NO. 6436, June 17, 1972 ]**
+
+ AN ACT CHANGING THE NAME OF SITIO RAWRAWANG IN THE MUNICIPALITY OF ESPIRITU, PROVINCE OF ILOCOS NORTE, TO BARRIO DON MARIANO.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The name of Sitio Rawrawang in the Municipality of Espiritu, Province of Ilocos Norte, is hereby changed to Barrio Don Mariano.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 17, 1972.
+"	success	Republic Act	This act changes the name of Sitio Rawrawang in Espiritu, Ilocos Norte to Barrio Don Mariano, effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The name of Sitio Rawrawang in the Municipality of Espiritu, Province of Ilocos Norte is changed to Barrio Don Mariano.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	6436	1972-06-17			To change the name of the locality from Sitio Rawrawang to Barrio Don Mariano.	"[""Change the name of Sitio Rawrawang to Barrio Don Mariano"", ""Take effect upon approval""]"		"[""Local Government"", ""Name Change"", ""Ilocos Norte"", ""Espiritu""]"	"[""Sitio"", ""Rawrawang"", ""Barrio"", ""Don Mariano"", ""Ilocos Norte"", ""Espiritu"", ""Republic Act"", ""Name Change""]"
+repacts:datasets/markdown/repacts/1972/ra_6437_1972.md	repacts	1972		datasets/markdown/repacts/1972/ra_6437_1972.md	ra_6437_1972	Act Changing the Name of Barrio Cogon in the Municipality of Pintuyan, Province of Southern Leyte to Barrio Juan Avila	"**[ REPUBLIC ACT NO. 6437, June 17, 1972 ]**
+
+ AN ACT CHANGING THE NAME OF BARRIO COGON IN THE MUNICIPALITY OF PINTUYAN, PROVINCE OF SOUTHERN LEYTE TO BARRIO JUAN AVILA.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The name of Barrio Cogon in the Municipality of Pintuyan, Province of Southern Leyte, is changed to Barrio Juan Avila.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 17, 1972.
+"	success	Republic Act	An act that changes the name of Barrio Cogon to Barrio Juan Avila.	"[{""title"": ""Section 1"", ""summary"": ""The name of Barrio Cogon in the Municipality of Pintuyan, Province of Southern Leyte, is changed to Barrio Juan Avila.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	6437	June 17, 1972			Renaming a barrio in Southern Leyte	"[""Name of Barrio Cogon changed to Barrio Juan Avila."", ""Act takes effect upon approval.""]"		"[""Renaming"", ""Local Government"", ""Barrio""]"	"[""Barrio Cogon"", ""Barrio Juan Avila"", ""Southern Leyte"", ""Pintuyan"", ""Republic Act 6437""]"
+repacts:datasets/markdown/repacts/1972/ra_6438_1972.md	repacts	1972		datasets/markdown/repacts/1972/ra_6438_1972.md	ra_6438_1972	An Act Changing the Name of Occidental Negros Provincial Hospital in the City of Bacolod to Corazon Locsin-Montelibano Memorial Hospital	"**[ REPUBLIC ACT NO. 6438, June 17, 1972 ]**
+
+ AN ACT CHANGING THE NAME OF OCCIDENTAL NEGROS PROVINCIAL HOSPITAL IN THE CITY OF BACOLOD TO CORAZON LOCSIN-MONTELIBANO MEMORIAL HOSPITAL.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The name of Occidental Negros Provincial Hospital, situated in the City of Bacolod Philippines, is hereby changed and, henceforth, shall be named Corazon Locsin-Montelibano Memorial Hospital.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 17, 1972.
+"	success	Republic Act	This act changes the name of Occidental Negros Provincial Hospital, Bacolod, to Corazon Locsin-Montelibano Memorial Hospital and becomes effective upon approval.	"[{""title"": ""Section 1."", ""summary"": ""The name of Occidental Negros Provincial Hospital is hereby changed to Corazon Locsin-Montelibano Memorial Hospital.""}, {""title"": ""Section 2."", ""summary"": ""This act shall take effect upon its approval.""}]"	6438	June 17, 1972			To change the name of a provincial hospital.	"[""Name changed to Corazon Locsin-Montelibano Memorial Hospital."", ""Act takes effect upon approval.""]"		"[""hospital"", ""name change"", ""healthcare"", ""Republic Act 6438""]"	"[""Occidental Negros Provincial Hospital"", ""Corazon Locsin-Montelibano Memorial Hospital"", ""Bacolod""]"
+repacts:datasets/markdown/repacts/1972/ra_6439_1972.md	repacts	1972		datasets/markdown/repacts/1972/ra_6439_1972.md	ra_6439_1972	AN ACT TRANSFERRING THE STATION OF THE JUDGE OF THE FIFTH BRANCH OF THE COURT OF FIRST INSTANCE OF CAVITE FROM THE CITY OF CAVITE TO THE MUNICIPALITY OF BACOOR, PROVINCE OF CAVITE, AMENDING FOR THE PURPOSE SECTION FIFTY-TWO OF THE JUDICIARY ACT OF 1948.	"**[ REPUBLIC ACT NO. 6439, June 17, 1972 ]**
+
+ AN ACT TRANSFERRING THE STATION OF THE JUDGE OF THE FIFTH BRANCH OF THE COURT OF FIRST INSTANCE OF CAVITE FROM THE CITY OF CAVITE TO THE MUNICIPALITY OF BACOOR, PROVINCE OF CAVITE, AMENDING FOR THE PURPOSE SECTION FIFTY-TWO OF THE JUDICIARY ACT OF 1948.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The sixth subparagraph of the second paragraph of Section fifty-two of Republic Act Numbered Two hundred ninety-six, known as ""The Judiciary Act 1948"", as amended, is further amended to read as follows:
+
+ ""For the Seventh Judicial District, fifteen judges shall stationed in the Municipality of Pasig, Province of Rizal; six judges shall be stationed in Pasay City; seven judges Quezon City; six judges in Caloocan City; two judges the Municipality of Makati, Province of Rizal; one Judge in the Municipality of Puerto Princesa, Province of Palawan; two judges in the Municipality of Brooke's Point, same Provjnce; one judge in the Municipality of Coron, same province; two Judges in the City of Cavite; one judge in the city of Trece Martirez; one judge in Tagaytay City; and one judge in the Municipality of Bacoor, Province of Cavite"".
+
+ **Section 2.** this act shall take effect upon its approval.
+
+ Approved, June 17, 1972.
+"	success	Republic Act	The act transfers the station of the judge of the Fifth Branch of the Court of First Instance of Cavite from the city of Cavite to the municipality of Bacoor, and amends Section 52 of the Judiciary Act of 1948 to specify new judge stationings.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 52 of RA 296 to assign specific numbers of judges to various cities and municipalities, including the transfer of a judge to Bacoor.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	6439	June 17, 1972			To transfer the station of the judge of the Fifth Branch of the Court of First Instance of Cavite from the city of Cavite to the municipality of Bacoor, and to amend Section 52 of the Judiciary Act of 1948.	"[""Amendment to Section 52 of RA 296 to transfer judge stationing, specifying new stations for judges in various cities and municipalities, including Bacoor.""]"	Republic Act No. 296 (Judiciary Act of 1948) - Section 52.	"[""Judiciary"", ""Judicial Transfer"", ""Cavite"", ""Bacoor"", ""Law"", ""Republic Act""]"	"[""judge"", ""station"", ""Cavite"", ""Bacoor"", ""Judiciary Act"", ""Section 52"", ""RA 6439"", ""Republic Act"", ""Judicial district""]"
+repacts:datasets/markdown/repacts/1972/ra_6440_1972.md	repacts	1972		datasets/markdown/repacts/1972/ra_6440_1972.md	ra_6440_1972	An Act Creating Barrio Fortuna in the Municipality of Marcos, Province of Ilocos Norte	"**REPUBLIC ACT No. 6440**
+
+ AN ACT CREATING BARRIO FORTUNA IN THE MUNICIPALITY OF MARCOS, PROVINCE OF ILOCOS NORTE
+
+ **Section 1.** The southern portion of Barrio Daquioag (formerly Alabaan) in the Municipality of Marcos, Province of Ilocos Norte, is hereby separated from the said barrio and constituted into a distinct and independent barrio of said municipality, to be kn_own as Barrio Fortuna.
+
+ Barrio Fortuna shall be bounded as follows:
+
+ ""On the North by Don Andres Road; on the East by the sitio of Nagustuan Road; on the South by the Espiritu Town boundary; and on the West by the National Road.""
+
+ **Section 2.** The corporate existence of the new barrio shall commence when the first barrio officials shall have been elected in an election to be held immediately after the approval of this Act under the supervision of the Commission on Elections and shall have qualified.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1972
+"	success	Republic Act	Creates Barrio Fortuna in Marcos, Ilocos Norte by separating part of Barrio Daquioag.	"[{""title"": ""Section 1."", ""summary"": ""Separates the southern portion of Barrio Daquioag (formerly Alabaan) and constitutes it as the distinct barrio of Barrio Fortuna, specifying its boundaries.""}, {""title"": ""Section 2."", ""summary"": ""Defines that the corporate existence of the new barrio commences when its officials are elected and qualified.""}, {""title"": ""Section 3."", ""summary"": ""States that the act takes effect upon its approval.""}]"	6440	June 17, 1972			To create a new barrio (Barrio Fortuna) within the Municipality of Marcos, Ilocos Norte, for administrative and local governance purposes.	"[""Separation of southern portion of Barrio Daquioag to form Barrio Fortuna."", ""Specification of boundaries: North by Don Andres Road, East by sitio of Nagustuan Road, South by Espiritu Town boundary, West by National Road."", ""Corporate existence of the new barrio commences upon election of officials."", ""Act takes effect upon approval.""]"		"[""Local Government"", ""Barangay"", ""Ilocos Norte"", ""Barrio"", ""Municipality of Marcos""]"	"[""Barrio Fortuna"", ""Marcos"", ""Ilocos Norte"", ""Republic Act 6440"", ""local governance"", ""boundary""]"
+repacts:datasets/markdown/repacts/1972/ra_6441_1972.md	repacts	1972		datasets/markdown/repacts/1972/ra_6441_1972.md	ra_6441_1972	Security From Reversion Act	"**[ REPUBLIC ACT NO. 6441, June 17, 1972 ]**
+
+ AN ACT PROVIDING FOR SECURITY FROM REVERSION TO INACTIVE STATUS OF RESERVE OFFICERS OF THE ARMED FORCES OF THE PHILIPPINES WHO HAVE SERVED OR WILL HEREAFTER SERVE IN ANY CAMPAIGN OR OPERATION IN A FOREIGN COUNTRY IN COMPLIANCE WITH OUR TREATY OBLIGATIONS OR INTERNATIONAL COMMITMENTS.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.***Title of this Act*.This Act shall be known as the ""Security From Reversion Act"".
+
+ **Section 2.** Reserve Officers of the Armed Forces of the Philippines in the active service who served or: will henceforth serve in any campaign or operation in a foreign country in compliance with law shall be secured from reversion to inactive status, except upon their own request or for cause as may be adjudged by a court martial or by appropriate administrative bodies existing by provision of law in the Armed Forces of the Philippines:*Provided,*That the service of such officer in the foreign country shall not be less than twelve months:*Provided, further,*That in the case of the Philcag ands Philcom volunteers the period shall not be less than six months:*Provided,* further, That should an officer be wounded in action or contracts any disease or ailment that requires his recall to the Philippines, the period shall continue to be counted until he shall have been pronounced cured: And*Provided,finally*, That such services were rendered honorably.
+
+ **Section 3.***Effectivity*.This Act shall take effect immediately upon its approval.
+
+ Approved, June 17, 1972.
+"	success	Philippine Legislation	An act providing security from reversion to inactive status for reserve officers of the Armed Forces of the Philippines who serve abroad, setting minimum service periods, and ensuring continued service in case of injury or illness.	"[{""title"": ""Section 1. Title of this Act"", ""summary"": ""Names the act as \""Security From Reversion Act.\""""}, {""title"": ""Section 2. Reserve Officers of the Armed Forces of the Philippines"", ""summary"": ""Secures reserve officers from reversion to inactive status for serving abroad, requires a minimum service period of twelve months (six months for Philcag and Philcom volunteers), extends service if wounded or ill, and ensures services are rendered honorably.""}, {""title"": ""Section 3. Effectivity"", ""summary"": ""The act takes effect immediately upon approval.""}]"	6441	June 17, 1972			To provide security for reserve officers of the Armed Forces of the Philippines serving abroad, preventing their reversion to inactive status.	"[""Secures reserve officers from reversion to inactive status"", ""Requires minimum service period of twelve months"", ""Provides six-month period for Philcag and Philcom volunteers"", ""Continues service if wounded or ill"", ""Ensures services rendered honorably""]"		"[""Security"", ""Reserve Officers"", ""Armed Forces"", ""Philippines"", ""Reversion"", ""Active Service""]"	"[""Reserve officers"", ""Armed Forces"", ""Foreign country"", ""Reversion"", ""Inactive status"", ""Security"", ""Service period"", ""Philcag"", ""Philcom"", ""Wounded"", ""Disease"", ""Action""]"
+repacts:datasets/markdown/repacts/1972/ra_6442_1972.md	repacts	1972		datasets/markdown/repacts/1972/ra_6442_1972.md	ra_6442_1972	An Act Creating Three Additional Positions of Assistant Provincial Fiscal in the Province of Capiz, Amending for the Purpose Section Sixteen Hundred Seventy-Four of the Administrative Code, As Amended	"**[ REPUBLIC ACT NO. 6442, June 17, 1972 ]**
+
+ AN ACT CREATING THREE ADDITIONAL POSITIONS OF ASSISTANT PROVINCIAL FISCAL IN THE PROVINCE OF CAPIZ, AMENDING FOR THE PURPOSE SECTION SIXTEEN HUNDRED SEVENTY-FOUR OF THE ADMINISTRATIVE CODE, AS AMENDED.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The provision of Section sixteen hundred seventy-four of the Administrative Code, as amended relative to the number of assistant provincial fiscals in the Province of Capiz, is further amended to read as follows:
+
+ ""Capiz, six assistant provincial fiscals;""
+
+ **Section 2.** There is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, the sum of twenty thousand pesos or so much as may be necessary to pay the share of the National Government for the positions provided for in this Act, for the current fiscal year. Thereafter, appropriations for the succeeding fiscal years shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved, June 17, 1972.
+"	success	Republic Act	This Act increases the number of assistant provincial fiscals in Capiz to six and authorizes appropriation of up to Twenty Thousand Pesos to fund the positions, effective upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Amends Section 16 174 of the Administrative Code to increase the number of assistant provincial fiscals in Capiz to six.""}, {""title"": ""Section 2."", ""summary"": ""Authorizes appropriation of up to Twenty Thousand Pesos from the National Treasury to pay the share of the National Government for the positions, with future appropriations included in the General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""The act shall take effect upon its approval.""}]"	6442	June 17, 1972			To amend the Administrative Code regarding the number of assistant provincial fiscals in Capiz and authorize necessary appropriations for the new positions.	"[""Increase assistant provincial fiscals to six in Capiz"", ""Authorize appropriation of up to 20,000 pesos for the positions"", ""Effective upon approval""]"	Section 16 174 of the Administrative Code	"[""Republic Act"", ""Capiz"", ""Assistant Provincial Fiscal"", ""Administrative Code"", ""Appropriation""]"	"[""assistant provincial fiscal"", ""Capiz"", ""Administrative Code"", ""appropriation"", ""government""]"
+repacts:datasets/markdown/repacts/1972/ra_6443_1972.md	repacts	1972		datasets/markdown/repacts/1972/ra_6443_1972.md	ra_6443_1972	Republic Act No. 6443	"**[ REPUBLIC ACT NO. 6443, June 17, 1972 ]**
+
+ AN ACT AMENDING SECTION TWENTY-SEVEN OF REPUBLIC ACT NUMBERED FIFTY-FIVE HUNDRED EIGHTEEN, KNOWN AS ""THE CHARTER OF THE CITY OF OROQUIETA"" (RE CITY FISCAL).
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The first paragraph of Section twenty-seven of Republic Act Numbered Fifty-five hundred eighteen, is hereby amended to read as follows:
+
+ ""**Section 27.***The City Fiscal*There shall be a city fiscal who shall discharge his duties and powers subject to the general supervision of the Secretary of Justice. He shall possess the qualifications and shall receive a salary as provided for by existing laws. There shall be one assistant city fiscal who shall likewise possess the qualifications and shall receive the salary as provided for by existing laws. The City Council may create the positions of special counsel to assist the city fiscal if the need arises. The salaries of special counsel shall be fixed by the City Council. The City Mayor shall appoint the special counsel with the consent of the City Council subject, however, to the supervision of the Secretary of Justice in the exercise of their functions. The city fiscal shall have the following Powers and duties:""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 17, 1972.
+"	success	Republic Act	An act amending Section 27 of Republic Act No. 5518 (the Charter of the City of Oroquieta) to establish the office of city fiscal and related positions.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 27 of RA 5518 to create the city fiscal, assistant city fiscal, and special counsel positions, outlining qualifications, salaries, duties, and supervision by the Secretary of Justice.""}, {""title"": ""Section 2"", ""summary"": ""States that the act shall take effect upon its approval.""}]"	6443	June 17, 1972			To revise the charter of Oroquieta City concerning fiscal responsibilities and oversight.	"[""Establishment of the city fiscal position"", ""Creation of assistant city fiscal and special counsel roles"", ""Specification of qualifications, salary provisions, and duties"", ""Supervision of the Secretary of Justice""]"	Republic Act No. 5518, Section 27	"[""City Charter"", ""Fiscal Office"", ""Oroquieta""]"	"[""city fiscal"", ""assistant city fiscal"", ""special counsel"", ""Secretary of Justice"", ""Oroquieta""]"
+repacts:datasets/markdown/repacts/1972/ra_6444_1972.md	repacts	1972		datasets/markdown/repacts/1972/ra_6444_1972.md	ra_6444_1972	An Act Amending Section One Hundred Ninety-Two-A of the Insurance Act so as to make all Adjusters of Insurance Claims Subject to the Supervision of the Insurance Commissioner	"**[ REPUBLIC ACT NO. 6444, June 17, 1972 ]**
+
+ AN ACT AMENDING SECTION ONE HUNDRED NINETY-TWO-A OF THE INSURANCE ACT SO AS TO MAKE ALL ADJUSTERS OF INSURANCE CLAIMS SUBJECT TO THE SUPERVISION OF THE INSURANCE COMMISSIONER.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **SECTION 1.** Section one hundred ninety-two-A of the Insurance Act, as amended, is hereby further amended to read as follows:
+
+ ""ADJUSTERS
+
+ > ""Section 192-A. (a) No person, firm, association or corporation shall act as an adjuster, as hereinafter defined, unless authorized so to act by virtue of a license issued or renewed by the Insurance Commissioner pursuant to the provisions of this section:*Provided,*That in the case of a natural person he must be a Filipino citizen and in the case of a firm, association or corporation, at least sixtyper centumof its capital must be owned by citizens of the Philippines, but those already acting as adjusters at the time of the approval of this Act not having this qualification shall, if otherwise qualified, be authorized to continue in business until their death in case of natural persons, or up to the expiration of their term in case of juridical persons, but not more than ten years after the effectivity of this Act. However, nothing contained in this Act shall in any way impair or abridge whatever rights may be granted to citizens and juridical entities of the United States of America under the agreement between the Republic of the Philippines and the United States of America signed July fourth, nineteen hundred and forty-six, as revised on September sixth, nineteen hundred and fifty-five.
+>
+>  > ""(b) An adjuster may be independent adjuster or a public adjuster.
+> >
+> >  1. The term 'independent adjuster' means any person, firm, association or corporation which, for money, commission or any other thing of value acts for or on behalf of an insurer in the investigation and adjusting of claims under all kinds of insurance contracts or policies issued by such insurer, or which perform such duties required by such insurer as are incidental to such claims.
+> >
+> >  2. The term 'public adjuster' means any persons firm, association or corporation which, for money, commission or any other thing of value, acts on behalf of an insured in negotiating for, or effecting the settlement of a claim or claims of the said insured arising under all kinds of insurance contracts or policies, or which advertises for, or solicits employment as an adjuster of such claims.
+> >
+> >  ""(c) Adjusters shall be licensed as independent adjusters or public adjusters. No adjuster shall act on behalf of an insurer unless said adjuster is licensed as an independent adjuster. And no adjuster shall act on behalf of an insured unless said adjuster is licensed as a public adjuster:*Provided,* however,That when a firm or person has been licensed as public adjuster, he shall not be granted another license as independent adjuster, and vice-versa.
+> >
+> >  ""(d) Before any such license or any renewal thereof may be issued by the Insurance Commissioner there shall be filed by the person interested a written application in the form or forms prescribed by the Insurance Commissioner which shall contain such information as he may require.
+> >
+> >  ""(e) Every adjuster's license issued hereunder shall expire on the thirtieth of June of the year following the issuing of such license and may be renewed within sixty days before its expiration date.
+> >
+> >  ""For issuing an independent adjuster's license, or a public adjuster's license, the Insurance Commissioner shall collect and receive a fee of fifty pesos:*Provided,*That for renewing any such license, the fee shall be twenty-five pesos.
+> >
+> >  ""(f) Nothing contained in this section shall apply to any duly licensed attorney-at-law who acts or aids in adjusting insurance claims as an incident to the practice of his profession and who does not advertise himself as an adjuster.
+> >
+> >  ""(g) The Insurance Commissioner may suspend or revoke any adjuster's license if, after giving notice and hearing to the adjuster concerned, the Insurance Commissioner determines that the said adjuster (1) has violated any provisions of the insurance law and of the circulars, rulings and instructions of the Office of the Insurance Commissioner or has violated any law in the course of his dealings as an adjuster; or (2) has made a material misstatement in the application for such license; or (3) has been guilty of fraudulent or dishonest practices or (4) has demonstrated his incompetency or untrustworthiness to act as an adjuster; or who in any manner connives or compromises with carnappers of motor vehicles covered by insurance against theft; (5) has made patently unjust valuation of loss; or (6) has failed to make a report of the adjustment he proposed not more than sixty days from the date of the filing of the claim by the insured with the insurer, unless prevented not to do so by reasons beyond his control; or (7) has refused to allow an examination to be made into his affairs or method of doing business as hereinafterProvided.
+> >
+> >  ""(h) Every adjuster shall submit to the Office of the insurance Commissioner a quarterly report of all losses which are the subject of adjustment effected by him during each month in the form prescribed by the Insurance Commissioner. The report shall be filed within one month after the end of each quarter.
+> >

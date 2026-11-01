@@ -1,0 +1,227 @@
+
+ **An Act Creating the Barrio of San Roque in the Municipality of Marabut, Province of Samar**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Cabugao in the Municipality of Marabut, Province of Samar, is hereby constituted into a barrio of the said municipality to be known as the barrio of San Roque.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Act	This act changes the name of Magdalena Elementary School to Ananias Laico Elementary School in Laguna.	"[{""title"": ""Section 1"", ""summary"": ""The name of the Magdalena Elementary School in the Municipality of Magdalena, Province of Laguna, is hereby changed to Ananias Laico Elementary School.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	1643	June 20, 1957			To rename the Magdalena Elementary School to Ananias Laico Elementary School.	"[""Name change of the Magdalena Elementary School to Ananias Laico Elementary School""]"		"[""Education"", ""School"", ""Renaming""]"	"[""Magdalena"", ""Laguna"", ""Ananias Laico"", ""school name change""]"
+repacts:datasets/markdown/repacts/1957/ra_1656_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1656_1957.md	ra_1656_1957	An Act Changing the Name of Cainbuñgan Barrio School, Municipality of Cadiz, Province of Negros Occidental, to Luis Consing Memorial School	"**REPUBLIC ACT No. 1656**
+
+ **An Act Changing the Name of the Marber Interior Elementary School in the Municipality of Bansalan, Province of Davao, to New Clarin Elementary School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Marber Interior Elementary School in the Municipality of Bansalan, Province of Davao, is changed to New Clarin Elementary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Law	This act changes the name of Cainbuñgan Barrio School in Cadiz, Negros Occidental to Luis Consing Memorial School and becomes effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The name of Cainbu\u00f1gan Barrio School, Municipality of Cadiz, Province of Negros Occidental, is changed to Luis Consing Memorial School.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	RA 1644	June 20, 1957			To rename the school.	"[""Renames Cainbu\u00f1gan Barrio School to Luis Consing Memorial School"", ""Effective upon approval""]"		"[""Renaming"", ""Education"", ""School""]"	"[""Cainbu\u00f1gan"", ""Luis Consing Memorial"", ""Cadiz"", ""Negros Occidental"", ""Renaming""]"
+repacts:datasets/markdown/repacts/1957/ra_1657_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1657_1957.md	ra_1657_1957	An Act Changing the Name of San Agustin Elementary School in the Barrio of San Agustin, Municipality of San Miguel, Province of Bulacan, to Don Felix De Leon Memorial School	"**REPUBLIC ACT No. 1657**
+
+ AN ACT TO CREATE CERTAIN BARRIOS IN THE MUNICIPALITY OF MABINI, PROVINCE OF DAVAO.
+
+ **Section 1.** The following sitios are constituted into distinct and separate barrios of the Municipality of Mabini, Province of Davao.
+
+ The sitios of Panibasan Proper and Andili into a barrio to be known as the barrio of Panibasan; the sitios of Cadunan Proper, Anislagan, Malabatuan and Lapinigan into a barrio to be known as the barrio of Cadunan; and the sitios of Tangnanan Proper, Mampising and Tagbalabao into a barrio to be known as the barrio of Tangnanan.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Law	The act changes the name of San Agustin Elementary School to Don Felix De Leon Memorial School and takes effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The name of San Agustin Elementary School in the barrio of San Agustin, Municipality of San Miguel, Province of Bulacan, is changed to Don Felix de Leon Memorial School.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	1645	June 20, 1957			To change the name of San Agustin Elementary School to Don Felix De Leon Memorial School.	"[""Name of San Agustin Elementary School changed to Don Felix De Leon Memorial School"", ""Act takes effect upon approval""]"		"[""Education"", ""School name change""]"	"[""School"", ""Name change"", ""Bulacan"", ""San Miguel"", ""Don Felix De Leon""]"
+repacts:datasets/markdown/repacts/1957/ra_1658_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1658_1957.md	ra_1658_1957	An Act Changing the Name of the Sacub Primary School in the Municipality of Bansalan, Province of Davao, to Lanuro Primary School	"**REPUBLIC ACT No. 1658**
+
+ **An Act Changing the Name of the Barrio of Barasanan (C) in the Municipality of Dao, Province of Antique, to Ballescas**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the barrio of Barasanan (C) in the Municipality of Dao, Province of Antique, is hereby changed to Ballescas.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	This act changes the name of the Sacub Primary School in Bansalan, Davao to Lanuro Primary School.	"[{""title"": ""Section 1."", ""summary"": ""The Sacub Primary School in the Municipality of Bansalan, Province of Davao, shall hereafter be known as the Lanuro Primary School.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	1646	June 20, 1957			To change the name of an elementary school to reflect local identity.	"[""Name change of Sacub Primary School to Lanuro Primary School."", ""Effectivity upon approval.""]"		"[""Education"", ""School Name Change"", ""Davao""]"	"[""Sacub Primary School"", ""Lanuro Primary School"", ""Bansalan"", ""Davao"", ""name change""]"
+repacts:datasets/markdown/repacts/1957/ra_1659_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1659_1957.md	ra_1659_1957	An Act Changing the Name of Putol Elementary School in the Barrio of Putol, Municipality of Kawit, Province of Cavite, to Putol-Sta. Isabel Elementary School	"**REPUBLIC ACT No. 1659**
+
+ **An Act Appropriating Ten Thousand Pesos for the Expenses in Locating in Lanao and Transporting the Mortal Remains of the Late Justice Jose Abad Santos to and Then its Enshrinement in Pampanga or Any Other Place Where His Family Desires His Remains to be Enshrined**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sum of ten thousand pesos or so much thereof as may be necessary is appropriated, out of any funds in the National Treasury not otherwise appropriated, for the expenses in locating in Lanao and transporting the mortal remains of the late Justice Jose Abad Santos to and then its enshrinement in Pampanga or any other place where his family desires his remains to be enshrined.
+
+ **Section 2.** The work of locating and manner of transporting the remains as well as the payment for the cost of the same and such other incidental expenses shall be at the discretion of the President of the Philippines upon consultation with the family of the late Justice Jose Abad Santos.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Act	This act changes the name of Putol Elementary School to Putol-Sta. Isabel Elementary School.	"[{""title"": ""Section 1."", ""summary"": ""The name of Putol Elementary School located at the boundary of the barrios of Putol and Sta. Isabel, Municipality of Kawit, Province of Cavite, is changed to Putol-Sta. Isabel Elementary School.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	1647	June 20, 1957			To change the name of Putol Elementary School to Putol-Sta. Isabel Elementary School.	"[""Change of name of Putol Elementary School to Putol-Sta. Isabel Elementary School."", ""Act shall take effect upon approval.""]"		"[""Education"", ""School Renaming"", ""Local Government"", ""Cavite""]"	"[""Putol Elementary School"", ""Putol-Sta. Isabel Elementary School"", ""Kawit"", ""Cavite"", ""school name change""]"
+repacts:datasets/markdown/repacts/1957/ra_1660_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1660_1957.md	ra_1660_1957	An Act Changing the Name of Wawa Elementary School in the Barrio of Wawa, Municipality of Rosario, Province of Cavite, to David Jimenez Elementary School	"**REPUBLIC ACT No. 1660**
+
+ **An Act Changing the Name of the Municipality of Badajoz, Province of Romblon, to San Agustin**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Municipality of Badajoz, Province of Romblon, is changed to San Agustin.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Education	This Republic Act changes the name of Wawa Elementary School to David Jimenez Elementary School and stipulates its effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The name of Wawa Elementary School in the barrio of Wawa, Municipality of Rosario, Province of Cavite, is changed to David Jimenez Elementary School.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	1648	June 20, 1957			To change the name of Wawa Elementary School to David Jimenez Elementary School.	"[""Section 1: Name change of the school"", ""Section 2: Effective date of the act""]"		"[""Education"", ""Name change"", ""School""]"	"[""Wawa Elementary School"", ""David Jimenez Elementary School"", ""Rosario"", ""Cavite"", ""School name change""]"
+repacts:datasets/markdown/repacts/1957/ra_1661_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1661_1957.md	ra_1661_1957	An Act Transferring the Barrios of Capahu-an and Guingawan, Municipality of Dagami, Province of Leyte, to the Municipality of Tabontabon	"**REPUBLIC ACT No. 1661**
+
+ **An Act Converting the Sitio of Igdacoton in the Barrio of Magdalena, Municipality of Anini-y, Province of Antique, into a Barrio to be Known as the Barrio of San Ramon**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Igdacoton in the barrio of Magdalena, Municipality of Anini-y, Province of Antique, is hereby converted into a barrio to be known as the barrio of San Ramon.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Act	This act transfers the barrios of Capahu-an and Guingawan from Dagami to Tabontabon.	"[{""title"": ""Section 1."", ""summary"": ""Transfers the barrios of Capahu-an and Guingawan from Dagami to Tabontabon.""}, {""title"": ""Section 2."", ""summary"": ""Act takes effect upon approval.""}]"	1649	June 20, 1957			Transfer of jurisdiction of Capahu-an and Guingawan barrios to Tabontabon municipality.	"[""Transfer of barrios"", ""Effectivity upon approval""]"		"[""Local Government"", ""Municipality"", ""Barrios"", ""Leyte"", ""Tabontabon"", ""Dagami""]"	"[""Barrios"", ""Capahu-an"", ""Guingawan"", ""Dagami"", ""Tabontabon"", ""Leyte"", ""Municipality"", ""Republic Act"", ""Transfer""]"
+repacts:datasets/markdown/repacts/1957/ra_1662_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1662_1957.md	ra_1662_1957	An Act Changing the Name of the Kabayan Central School in the Municipal District of Kabayan, Benguet, Mountain Province, to Bansen Memorial School	"**REPUBLIC ACT No. 1662**
+
+ **An Act Creating Certain Barrios in the Municipality of Alitagtag, Province of Batangas**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The following barrios are created in the Municipality of Alitagtag, Province of Batangas:
+
+ > Barrio Pingas, which shall be composed of sitios Pingas and Corral;
+>
+>  Barrio Tadlak, which shall be composed of sitios Tadlak and Malukan; and
+>
+>  Barrio Sambi, which shall be constituted by the present sitio of Sambi.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	An act that changes the name of the Kabayan Central School to Bansen Memorial School.	"[{""title"": ""Section 1."", ""summary"": ""The name of the Kabayan Central School in the Municipal District of Kabayan, Benguet, Mountain Province, is hereby changed to Bansen Memorial School.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	1650	June 20, 1957			To rename the Kabayan Central School to Bansen Memorial School.	"[""Name of Kabayan Central School changed to Bansen Memorial School""]"		"[""Education"", ""Renaming"", ""Benguet"", ""Kabayan"", ""Bansen Memorial School""]"	"[""Kabayan Central School"", ""Bansen Memorial School"", ""name change"", ""Benguet"", ""Mountain Province""]"
+repacts:datasets/markdown/repacts/1957/ra_1663_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1663_1957.md	ra_1663_1957	An Act Changing the Name of Barrio Garampang, Rosario, La Union, to Barrio San Jose, Rosario, La Union	"**REPUBLIC ACT No. 1663**
+
+ **An Act to Amend Certain Items in Republic Act Numbered Fourteen Hundred Eleven, Regarding Public Works Projects for the Province of Masbate**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Items (f), (g), (h) and (i), paragraph thirty, page eighty-eight of Republic Act Numbered Fourteen hundred eleven, for the Province of Masbate, are amended to read as follows:
+
+ | ""(f) Placer Municipal Building Construction | ₱5,000.00 |
+| --- | --- |
+| ""(g) Uson Municipal Building Construction | ₱5,000.00 |
+| ""(h) Uson Municipal Building Construction | ₱5,000.00 |
+| ""(i) Uson Municipal Building Construction | ₱5,000.00."" |
+
+ **Section 2.** Item seven, page two hundred ten of Republic Act Numbered Fourteen hundred eleven, for the Province of Masbate, is amended to read as follows:
+
+ | """"7. Municipal Building, Placer | ₱5,000.00"" |
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	An act renaming Barrio Garampang to Barrio San Jose in Rosario, La Union.	"[{""title"": ""Section 1"", ""summary"": ""Renames the barrio of Garampang to San Jose.""}, {""title"": ""Section 2"", ""summary"": ""Act takes effect upon approval.""}]"	1651	June 20, 1957			To change the name of Barrio Garampang to Barrio San Jose.	"[""Renaming Barrio Garampang to Barrio San Jose."", ""Act takes effect upon approval.""]"		"[""Local Government"", ""Barangay"", ""Renaming""]"	"[""Barrio"", ""Garampang"", ""San Jose"", ""Rosario"", ""La Union"", ""Renaming"", ""Republic Act 1651""]"
+repacts:datasets/markdown/repacts/1957/ra_1664_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1664_1957.md	ra_1664_1957	An Act Converting the Sitio of Cancoral in the Municipality of Basey, Province of Samar, into Barrio of Roxas	"**REPUBLIC ACT No. 1664**
+
+ **An Act Changing the Name of Barrio Paghaluban, Municipality of Barcelona, Province of Sorsogon, to Peña Francia**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the barrio of Paghaluban, Municipality of Barcelona, Province of Sorsogon, is changed to Peña Francia.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	This act converts the sitio of Cancoral in Basey, Samar into the barrio of Roxas, establishing its boundaries and taking effect upon approval on June 20, 1957.	"[{""title"": ""Section 1"", ""summary"": ""Defines the conversion of the sitio of Cancoral into the barrio of Roxas and outlines its geographic boundaries.""}, {""title"": ""Section 2"", ""summary"": ""States that the act takes effect upon its approval.""}]"	1652	June 20, 1957			To convert the sitio of Cancoral into a barrio of Roxas.	"[""Conversion of the sitio into a barrio"", ""Definition of geographic boundaries"", ""Effectiveness upon approval""]"		"[""Republic Act"", ""Samar"", ""Basey"", ""Barrio"", ""Cancoral""]"	"[""sitio"", ""barrio"", ""conversion"", ""Samar"", ""Basey""]"
+repacts:datasets/markdown/repacts/1957/ra_1665_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1665_1957.md	ra_1665_1957	An Act Changing the Name of the Municipality of Linugas, Province of Misamis Oriental, to Magsaysay	"**REPUBLIC ACT No. 1665**
+
+ **An Act Changing the Name of the Municipality of Papaya in the Province of Nueva Ecija to General Tinio**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Municipality of Papaya in the Province of Nueva Ecija is hereby changed to General Tinio.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	This act changes the name of the Municipality of Linugas in Misamis Oriental to Magsaysay.	"[{""title"": ""Section 1."", ""summary"": ""The name of the Municipality of Linugas, Province of Misamis Oriental, is hereby changed to \""Magsaysay\"".""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	1653	June 20, 1957			To change the name of the Municipality of Linugas to Magsaysay.	"[""Name of Municipality changed to Magsaysay"", ""Act takes effect upon approval""]"		"[""municipality"", ""name change"", ""Misamis Oriental""]"	"[""Republic Act"", ""Municipality"", ""Linugas"", ""Magsaysay"", ""Misamis Oriental"", ""name change""]"
+repacts:datasets/markdown/repacts/1957/ra_1666_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1666_1957.md	ra_1666_1957	An Act Changing the Name of the Municipality of Jose Panganiban, Province of Catanduanes, to Payo	"**REPUBLIC ACT No. 1666**
+
+ **An Act Changing to General Roxas the Name of the Barrio of Dacudao in the City of Davao**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the barrio of Dacudao in the City of Davao is hereby changed to General Roxas.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Act	An act that changes the name of the Municipality of Jose Panganiban, Catanduanes, to Payo.	"[{""title"": ""Section 1."", ""summary"": ""The name of the Municipality of Jose Panganiban, Province of Catanduanes, is changed to Payo.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	1654	June 20, 1957			Change the name of a municipality.	"[""The name of the Municipality of Jose Panganiban, Province of Catanduanes, is changed to Payo.""]"		"[""municipality"", ""name change"", ""Catanduanes""]"	"[""Jose Panganiban"", ""Payo"", ""Catanduanes"", ""municipality"", ""name change""]"
+repacts:datasets/markdown/repacts/1957/ra_1667_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1667_1957.md	ra_1667_1957	An Act Creating the Barrio of San Roque in the Municipality of Marabut, Province of Samar	"**REPUBLIC ACT No. 1667**
+
+ **An Act Changing the Name of Barrio Lipras, Municipality of Manukan, Province of Zamboanga del Norte, to Villa Ramos**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of barrio Lipras, Municipality of Manukan, Province of Zamboanga del Norte, is changed to Villa Ramos.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	Establishes the barrio of San Roque in the municipality of Marabut, Samar.	"[{""title"": ""Section 1."", ""summary"": ""Constitutes the sitio of Cabugao as the barrio of San Roque.""}, {""title"": ""Section 2."", ""summary"": ""The Act shall take effect upon its approval.""}]"	1655	June 20, 1957			Create a new barrio within Marabut municipality.	"[""Constitutes the sitio of Cabugao as the barrio of San Roque."", ""The Act becomes effective upon approval.""]"		"[""Local Government"", ""Barrio"", ""Samar"", ""Municipality""]"	"[""San Roque"", ""Marabut"", ""Samar"", ""barrio"", ""sitio"", ""Cabugao""]"
+repacts:datasets/markdown/repacts/1957/ra_1668_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1668_1957.md	ra_1668_1957	An Act Changing the Name of the Marber Interior Elementary School in the Municipality of Bansalan, Province of Davao, to New Clarin Elementary School	"**REPUBLIC ACT No. 1668**
+
+ **An Act Converting the Sitio of Dampigan in the Municipality of Santa Rita, Province of Samar, into a Barrio**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Dampigan in the Municipality of Santa Rita, Province of Samar, is hereby converted into a barrio to be known as the barrio of Dampigan.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	The act changes the name of Marber Interior Elementary School to New Clarin Elementary School in Bansalan, Davao.	"[{""title"": ""Section 1"", ""summary"": ""The name of the Marber Interior Elementary School in the Municipality of Bansalan, Province of Davao, is changed to New Clarin Elementary School.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	1656	June 20, 1957			To rename an elementary school and establish its effective date.	"[""Name change of Marber Interior Elementary School to New Clarin Elementary School"", ""Act takes effect upon approval""]"		"[""Education"", ""School"", ""Name Change"", ""Republic Act""]"	"[""Marber Interior Elementary School"", ""New Clarin Elementary School"", ""Bansalan"", ""Davao"", ""Republic Act 1656""]"
+repacts:datasets/markdown/repacts/1957/ra_1669_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1669_1957.md	ra_1669_1957	AN ACT TO CREATE CERTAIN BARRIOS IN THE MUNICIPALITY OF MABINI, PROVINCE OF DAVAO.	"**REPUBLIC ACT No. 1669**
+
+ **An Act Dividing the Barrio of Talumpoc, Municipality of Batangas, Province of Batangas, into Two Barrios to be Known as the Barrios of Talumpoc Silangan and Talumpoc Kanluran of Said Municipality**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The barrio of Talumpoc, Municipality of Batangas, Province of Batangas, is divided into two barrios to be known as follows:
+
+ > Barrio of Talumpoc Silangan, which shall be constituted by the sitios of Romano, Poyesan, Bondeo and Latag; and
+>
+>  Barrio of Talumpoc Kanluran, which shall be constituted by the sitios of Ginto, Duhatan, Kulingkang, Piit and Cuaba.
+>
+>  The boundaries of the two barrios shall be Bilogo Bridge at the north end, the barrio school building and the Bondoc ñg Sapangan at the center, and Munting Bondoc at the south end.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	This act establishes new barrios in the Municipality of Mabini, Davao Province by grouping specified sitios.	"[{""title"": ""Section 1."", ""summary"": ""Constitutes the sitios of Panibasan Proper and Andili into the barrio of Panibasan; the sitios of Cadunan Proper, Anislagan, Malabatuan and Lapinigan into the barrio of Cadunan; and the sitios of Tangnanan Proper, Mampising and Tagbalabao into the barrio of Tangnanan.""}, {""title"": ""Section 2."", ""summary"": ""The act shall take effect upon its approval.""}]"	1657	June 20, 1957			To create certain barrios in the Municipality of Mabini, Province of Davao.	"[""Creation of barrio of Panibasan"", ""Creation of barrio of Cadunan"", ""Creation of barrio of Tangnanan"", ""Effectivity upon approval""]"		"[""Republic Act"", ""Local Government"", ""Davao"", ""Mabini""]"	"[""barrios"", ""sitios"", ""Mabini"", ""Davao"", ""Republic Act 1657""]"
+repacts:datasets/markdown/repacts/1957/ra_1670_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1670_1957.md	ra_1670_1957	An Act Changing the Name of the Barrio of Barasanan (C) in the Municipality of Dao, Province of Antique, to Ballescas	"**REPUBLIC ACT No. 1670**
+
+ **An Act Changing the Name of Barrio Tudela, Municipality of Araceli, Province of Palawan, to Calandagan**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of barrio Tudela, Municipality of Araceli, Province of Palawan, is changed to barrio Calandagan.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Act	This act changes the name of the barrio of Barasanan (C) in the Municipality of Dao, Antique to Ballescas.	"[{""title"": ""Section 1."", ""summary"": ""The name of the barrio of Barasanan (C) in the Municipality of Dao, Province of Antique, is hereby changed to Ballescas.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	1658	June 20, 1957			To change the name of the Barrio of Barasanan (C) in Dao, Antique to Ballescas.	"[""Name of the barrio changed to Ballescas (Section 1)."", ""Act takes effect upon approval (Section 2).""]"		"[""Renaming"", ""Local Government"", ""Barangay"", ""Antique""]"	"[""barrio"", ""Ballescas"", ""Barasanan"", ""Dao"", ""Antique"", ""name change""]"
+repacts:datasets/markdown/repacts/1957/ra_1671_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_1671_1957.md	ra_1671_1957	An Act Appropriating Ten Thousand Pesos for the Expenses in Locating in Lanao and Transporting the Mortal Remains of the Late Justice Jose Abad Santos to and Then its Enshrinement in Pampanga or Any Other Place Where His Family Desires His Remains to be Enshrined	"**REPUBLIC ACT No. 1671**
+
+ **An Act Converting the Sitios of Kanhaayon, Kapudlosan, Himokilan, Anolon, Mahilom, Baldoza and Tagbibi, Municipality of Hindang, Province of Leyte, into Barrios of Said Municipality**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Kanhaayon, Kapudlosan, Himokilan, Anolon, Mahilom, Baldoza, and Tagbibi in the Municipality of Hindang, Province of Leyte, are converted into barrios of said municipality to be known as the barrios of Kanhaayon, Kapudlosan, Himokilan, Anolon, Mahilom, Baldoza and Tagbibi, respectively.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1957.
+"	success	Republic Act	Appropriates 10,000 pesos for locating, transporting, and enshrining the mortal remains of the late Justice Jose Abad Santos, with execution at the discretion of the President and effectivity upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Appropriates ten thousand pesos for the expenses in locating in Lanao and transporting the mortal remains of the late Justice Jose Abad Santos to and then enshrining them in Pampanga or any other place desired by his family.""}, {""title"": ""Section 2."", ""summary"": ""Delegates the work of locating, transporting, and paying related expenses to the discretion of the President of the Philippines, upon consultation with the family.""}, {""title"": ""Section 3."", ""summary"": ""The Act shall take effect upon its approval.""}]"	1659	June 20, 1957			To appropriate funds for the transportation and enshrinement of the remains of Justice Jose Abad Santos.	"[""Appropriation of 10,000 pesos for relocation and transport costs"", ""Presidential discretion over execution and incidental expenses"", ""Effectivity upon approval""]"		"[""Appropriation"", ""Remains"", ""Justice"", ""Jose Abad Santos"", ""Transport"", ""Pampanga"", ""Lanao""]"	"[""Appropriation"", ""Remains"", ""Jose Abad Santos"", ""Transport"", ""Pampanga"", ""Lanao""]"

@@ -1,0 +1,137 @@
+> >
+> >  ""Laguna, two assistant provincial fiscals at two thousand four hundred pesos and two thousand pesos, respectively, per annum;
+> >
+> >  ""Lanao, one assistant provincial fiscal at two thousand per annum;
+> >
+> >  ""Batangas, two assistant provincial fiscals at two thousand four hundred pesos per annum each;
+> >
+> >  ""Cavite, one assistant provincial fiscal at two thousand four hundred pesos per annum;
+> >
+> >  ""Quezon, two assistant provincial fiscals at two thousand eight hundred pesos, two thousand four hundred pesos, respectively, per annum;
+> >
+> >  ""Mindoro, one assistant provincial fiscal at two thousand four hundred pesos per annum;
+> >
+> >  ""Sorsogon, one assistant provincial fiscal at two thousand pesos per annum;
+> >
+> >  ""Antique, one assistant provincial fiscal at two thousand pesos per annum;
+> >
+> >  ""Capiz, two assistant provincial fiscals at two thousand pesos per annum each;
+> >
+> >  ""Iloilo, three assistant provincial fiscals at two thousand eight hundred pesos, two thousand four hundred pesos, and two thousand pesos, respectively, per annum;
+> >
+> >  ""Occidental Negros, four assistant provincial fiscals, one at two thousand eight hundred, two at two thousand four hundred pesos each, and one at two thousand pesos per annum;
+> >
+> >  ""Leyte, four assistant provincial fiscals, one at two thousand eight hundred pesos, two at two thousand four hundred pesos each, and the last one at two thousand pesos per annum;
+> >
+> >  ""Cebu, five assistant provincial fiscals at three thousand pesos, and two thousand eight hundred pesos, respectively, and the last three at two thousand four hundred pesos per annum each;
+> >
+> >  ""Oriental Misamis, one assistant provincial fiscal at two thousand pesos, per annum each;
+> >
+> >  ""Occidental Misamis, one assistant provincial fiscal at two thousand pesos per annum;
+> >
+> >  ""Surigao, one assistant provincial fiscal at two thousand pesos per annum;
+> >
+> >  ""Camarines Sur, one assistant provincial fiscal at two thousand pesos per annum;
+> >
+> >  ""Zamboanga, one assistant provincial fiscal at two thousand pesos per annum; and
+> >
+> >  ""Sulu, one assistant provincial fiscal at two thousand pesos, per annum.
+>
+>  ""These officers shall be appointed by the President of the Philippines with the consent of the Commission on Appointments of the Congress of the Philippines, and their salaries shall be paid by the provinces concerned. The salary of the assistant provincial fiscal shall be included in the annual appropriation of the province in the same manner as the salary of the provincial fiscal. To be eligible for appointment to this position, a person must be a citizen of the Philippines who has been duly admitted to practice in the court of said islands, and has been in actual practice for at least three years, prior to his appointments.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: March 24, 1947.
+"	success	Republic Act	This act further amends Section 1674 of the Revised Administrative Code to prescribe the numbers and salaries of assistant provincial fiscals in various provinces, and outlines appointment and eligibility criteria.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 1674 of the Revised Administrative Code to detail assistant provincial fiscals' numbers, salaries, appointment, and eligibility.""}, {""title"": ""Section 2"", ""summary"": ""States that the act shall take effect upon approval.""}]"	99	March 24, 1947			To amend Section 1674 of the Revised Administrative Code to specify assistant provincial fiscals' numbers, salaries, appointment, and eligibility.	"[""Amendment of Section 1674 specifying the numbers and salaries of assistant provincial fiscals in each province"", ""Appointment of assistant provincial fiscals by the President with consent of the Commission on Appointments"", ""Salaries paid by the provinces and included in the annual appropriation"", ""Eligibility criteria requiring citizenship, admission to practice, and at least three years of actual practice""]"	Section 1674 of the Revised Administrative Code	"[""Revised Administrative Code"", ""Assistant Provincial Fiscal"", ""Public Finance"", ""Philippines""]"	"[""assistant provincial fiscal"", ""Revised Administrative Code"", ""Section 1674"", ""public finance"", ""appointment"", ""salary"", ""eligibility""]"
+repacts:datasets/markdown/repacts/1948/ra_198_1948.md	repacts	1948		datasets/markdown/repacts/1948/ra_198_1948.md	ra_198_1948	AN ACT APPROPRIATING THE SUM OF ONE HUNDRED THOUSAND PESOS TO DEFRAY THE EXPENSES OF THE TRAINING, PREPARATION AND PARTICIPATION OF A FILIPINO ATHLETIC DELEGATION IN THE NINETEEN HUNDRED AND FORTY-EIGHT OLYMPICS IN LONDON	"**REPUBLIC ACT No. 198**
+
+ AN ACT APPROPRIATING THE SUM OF ONE HUNDRED THOUSAND PESOS TO DEFRAY THE EXPENSES OF THE TRAINING, PREPARATION AND PARTICIPATION OF A FILIPINO ATHLETIC DELEGATION IN THE NINETEEN HUNDRED AND FORTY-EIGHT OLYMPICS IN LONDON
+
+ **Section 1.** The sum of one hundred thousand pesos, or so much thereof as may be necessary, is hereby appropriated out of any funds in the National Treasury not otherwise appropriated, as an aid to the Philippine Amateur Athletic Federation to defray the expenses of the selection, assembling, equipping, preparation and sending of a competent athletic delegation to represent the Philippines at the World Olympic Games to be held in London in the year nineteen hundred and forty-eight.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: March 19, 1948
+"	success	Republic Act	Appropriates one hundred thousand pesos to defray the expenses of the Filipino athletic delegation for the 1948 London Olympics.	"[{""title"": ""Section 1"", ""summary"": ""Appropriates the sum of one hundred thousand pesos to the Philippine Amateur Athletic Federation for the selection, assembling, equipping, preparation, and sending of a competent athletic delegation to the 1948 London Olympics.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	RA No. 198	March 19, 1948			To provide financial assistance for the Philippine athletic delegation participating in the 1948 London Olympics.	"[""Appropriation of 100,000 pesos for the Philippine Amateur Athletic Federation"", ""Funding for selection, assembling, equipping, preparation, and sending of the delegation"", ""Effectiveness of the act upon approval""]"		"[""Olympics"", ""Athletics"", ""Appropriation"", ""Philippines"", ""1948""]"	"[""Olympics"", ""athletic delegation"", ""Philippine Amateur Athletic Federation"", ""funding"", ""appropriation"", ""London 1948""]"
+repacts:datasets/markdown/repacts/1948/ra_199_1948.md	repacts	1948		datasets/markdown/repacts/1948/ra_199_1948.md	ra_199_1948	REPUBLIC ACT No. 199: AN ACT TO PROVIDE FOR THE RETIREMENT OF TREASURY CERTIFICATES OF PRE-WAR SERIES AND FOR OTHER PURPOSES	"**REPUBLIC ACT No. 199**
+
+ AN ACT TO PROVIDE FOR THE RETIREMENT OF TREASURY CERTIFICATES OF PRE-WAR SERIES AND FOR OTHER PURPOSES
+
+ **Section 1.** The treasurers of the provinces, chartered cities, and municipalities, and all banks duly authorized to do business in the Philippines, are hereby directed to deliver or present all treasury certificates of the pre-war series in their possession and those that may hereafter come into their possession, to the Treasury of the Philippines for exchange with treasury certificates of the Victory series.
+
+ **Section 2.** Every person holding or possessing, in whatever capacity, treasury certificates of the pre-war series, shall present the same on or before the thirtieth day of June, nineteen hundred and forty-eight, for exchange with treasury certificates of the Victory series, to the Treasurer of the Philippines, to the treasurer of any province, chartered city, or municipality, or to any bank duly authorized to do business in the Philippines.
+
+ **Section 3.** It shall be the duty of the Treasurer of the Philippines, the treasurer of any province, chartered city, or municipality, and the cashier and tellers of any bank doing business in the Philippines, upon presentation by any person of treasury certificates of the pre-war series, to exchange the same with treasury certificates of the Victory series, and the treasury certificates so exchanged shall not again be put into circulation but forwarded to the Treasurer of the Philippines as provided in section one hereof.
+
+ **Section 4.** Within the first five days of July, nineteen hundred and forty-eight, the treasurers of the provinces, chartered cities, and municipalities, and all banks doing business in the Philippines shall make a list of all treasury certificates of the pre-war series in their possession as of the thirtieth day of June, nineteen hundred and forty-eight showing the denominations thereof, number of pieces of each, and total amount, and shall transmit the said list in a sealed envelope to the Treasurer of the Philippines. The respective treasurers and banks shall, within the month of July, nineteen hundred and forty-eight, present the treasury certificates appearing in the said list to the Treasurer of the Philippines for exchange with treasury certificates of the Victory series, and thereafter the Treasurer of the Philippines shall report to the Secretary of Finance to the total amount of the treasury certificates of the pre-war series that have been retired.
+
+ **Section 5.** Treasury certificates of the Victory series shall continue in circulation as heretofore. Treasury certificates of the pre-war series shall, after the thirtieth day of June, nineteen hundred and forty-eight, not be legal tender for the purposes of section sixteen hundred and twelve of the Revised Administrative Code.
+
+ **Section 6.** The President of the Philippines is hereby authorized to extend the periods provided for in sections two, four and five of this Act, for periods of not more than three months in each case, but in no case beyond December thirty-first nineteen hundred and forty-eight, if in his opinion, public interest warrants such extension.
+
+ **Section 7.** This Act shall be published not only in the Official Gazette but also in newspapers of general circulation to be determined by the Secretary of Finance. It shall be the duty of the treasurers of provinces, cities and municipalities to post and keep posted copies of this Act in conspicuous places in the buildings where they have their offices during the period fixed herein for the presentation of treasury certificates of the pre-war series for exchange.
+
+ **Section 8.** Republic Act Numbered Seventeen, as amended, is hereby repealed.
+
+ **Section 9.** This Act shall take effect upon its approval.
+
+ Approved: March 29, 1948
+"	success	Act	Republic Act No. 199 mandates the retirement of pre‑war treasury certificates by requiring their delivery and exchange with Victory series certificates, sets deadlines, establishes reporting procedures, allows limited extensions, and repeals RA 17.	"[{""title"": ""Section 1"", ""summary"": ""Directs provinces, cities, municipalities, and banks to deliver pre\u2011war treasury certificates to the Treasury for exchange with Victory series certificates.""}, {""title"": ""Section 2"", ""summary"": ""Every holder of pre\u2011war certificates must present them by 30 June 1948 for exchange with Victory series certificates.""}, {""title"": ""Section 3"", ""summary"": ""Specifies the duty of the Treasury, provincial treasurers, and bank staff to exchange presented pre\u2011war certificates with Victory series certificates and forward the exchanged certificates to the Treasury.""}, {""title"": ""Section 4"", ""summary"": ""Requires a list of pre\u2011war certificates by 5 July 1948, transmission of the list to the Treasury, and presentation of certificates for exchange within July 1948, with reporting to the Secretary of Finance.""}, {""title"": ""Section 5"", ""summary"": ""States that Victory series certificates remain in circulation, while pre\u2011war certificates cease to be legal tender after 30 June 1948.""}, {""title"": ""Section 6"", ""summary"": ""Allows the President to extend the periods in Sections 2, 4, and 5 for up to three months, but not beyond 31 December 1948, if public interest warrants.""}, {""title"": ""Section 7"", ""summary"": ""Mandates publication of the Act in the Official Gazette and newspapers, and posting of copies by treasurers in visible places during the certificate presentation period.""}, {""title"": ""Section 8"", ""summary"": ""Repeals Republic Act Numbered Seventeen (RA 17).""}, {""title"": ""Section 9"", ""summary"": ""The Act takes effect upon its approval.""}]"	199	March 29, 1948			To retire pre‑war treasury certificates and facilitate their exchange with Victory series certificates, ensuring orderly disposal of old currency and compliance with public finance regulations.	"[""Direct delivery of pre\u2011war treasury certificates to the Treasury"", ""Exchange deadline of 30 June 1948"", ""Requirement to list and report certificates in July 1948"", ""Extension authority for the President up to 3 months"", ""Publication and posting requirements"", ""Repeal of RA 17"", ""Effectivity upon approval""]"	Republic Act No. 17 (RA 17)	"[""treasury certificates"", ""pre\u2011war series"", ""retirement"", ""public finance"", ""Philippines""]"	"[""treasury certificates"", ""pre\u2011war"", ""Victory series"", ""retirement"", ""exchange"", ""RA 199"", ""RA 17""]"
+repacts:datasets/markdown/repacts/1948/ra_200_1948.md	repacts	1948		datasets/markdown/repacts/1948/ra_200_1948.md	ra_200_1948	AN ACT TO PROVIDE FOR THE DISPOSITION OF THE PROCEEDS OF THE GRAND DERBY RACES HELD BY THE PHILIPPINE TUBERCULOSIS SOCIETY	"**REPUBLIC ACT No. 200**
+
+ AN ACT TO PROVIDE FOR THE DISPOSITION OF THE PROCEEDS OF THE GRAND DERBY RACES HELD BY THE PHILIPPINE TUBERCULOSIS SOCIETY
+
+ **Section 1.** The entire proceeds derived from the Grand Derby races held by the Philippine Tuberculosis Society, after deducting the expenses of administration in accordance with law, shall be paid exclusively into the funds of the said Society.
+
+ **Section 2.** All acts or parts of acts inconsistent with the provisions of this Act are repealed.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: March 29, 1948
+"	success	Republic Act	This act provides that all proceeds from the Grand Derby races held by the Philippine Tuberculosis Society, after deducting expenses, shall be paid exclusively into the funds of the Society.	"[{""title"": ""Section 1"", ""summary"": ""The entire proceeds derived from the Grand Derby races held by the Philippine Tuberculosis Society, after deducting the expenses of administration in accordance with law, shall be paid exclusively into the funds of the said Society.""}, {""title"": ""Section 2"", ""summary"": ""All acts or parts of acts inconsistent with the provisions of this Act are repealed.""}, {""title"": ""Section 3"", ""summary"": ""This Act shall take effect upon its approval.""}]"	200	March 29, 1948			To provide for the disposition of the proceeds of the Grand Derby races held by the Philippine Tuberculosis Society.	"[""All proceeds from the Grand Derby races shall be paid exclusively to the funds of the Philippine Tuberculosis Society."", ""Any acts inconsistent with this Act are repealed."", ""The Act takes effect upon approval.""]"		"[""Republic Act"", ""Philippines"", ""Tuberculosis"", ""Society""]"	"[""Grand Derby"", ""proceeds"", ""Philippine Tuberculosis Society"", ""funds"", ""repeal"", ""effective date""]"
+repacts:datasets/markdown/repacts/1948/ra_201_1948.md	repacts	1948		datasets/markdown/repacts/1948/ra_201_1948.md	ra_201_1948	REPUBLIC ACT No. 201	"**REPUBLIC ACT No. 201**
+
+ AN ACT TO PROVIDE FOR THE ISSUANCE BY CORPORATIONS OF NEW CERTIFICATES OF STOCK IN LIEU OF THOSE LOST, STOLEN OR DESTROYED, AFTER THE RECONSTITUTION OF THE RECORDS OF THE CORPORATION IN ACCORDANCE WITH LAW, AND TO FIX A PERIOD WITHIN WHICH TO CONTEST SUCH ISSUANCE
+
+ **Section 1.** The following procedure shall be followed for the issuance by corporations of new certificates of stock in lieu of those which have been lost, stolen or destroyed, after the reconstitution of the records of the respective corporations in accordance with existing laws:
+
+ (a) The registered owner of certificates of stock in a corporation or his legal representative shall file an affidavit in triplicate with the corporation issuing said certificate setting forth, if possible, the circumstances as to how, when and where said certificates were lost, stolen or destroyed, the number of shares represented by each certificate, the serial numbers of the certificates, and the name of the corporation which issued the same. He shall also submit such other information and evidence which he may deem necessary. (b) After verifying the affidavit and other information and evidence with the books of the corporation, said corporation shall publish a notice, in a newspaper of general circulation in the Philippines published in the place where said corporation has its principal office, once a week for three consecutive weeks at the expense of the registered owner of the certificates of stock which have been lost, stolen, or destroyed. The notice shall state the name of said corporation, the name of the registered owner and the serial numbers of said certificates, and the number of shares represented by each certificate, and that after the expiration of one year from the date of the last publication, if no contest has been presented to said corporation regarding said certificates of stock, the right to make such contest shall be barred and said corporation shall cancel in its books the certificates of stock which have been lost, stolen or destroyed and issue in lieu thereof new certificates of stock, unless the registered owner files a bond or other security in lieu thereof as may be required running for a period of one year for a sum and in such form and with such sureties as may be satisfactory to the Board of Directors in which case a new certificate may be issued even before the expiration of the one year period provided herein: Provided, That if a contest has been presented to said corporation or if an action is pending in court regarding the ownership of said certificates of stock which have been lost, stolen or destroyed, the issuance of the new certificates of stock in lieu thereof shall be suspended until final decision by the court regarding the ownership of said certificates of stock. **Section 2.** Except in case of fraud, bad faith or negligence on the part of the corporation and its officers, no action may be made against any corporation which shall issue certificates of stock in lieu of those lost, stolen, or destroyed pursuant to the provisions of section one hereof.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: April 19, 1948
+"	success	Act	An act providing for the issuance by corporations of new certificates of stock in lieu of lost, stolen or destroyed certificates, establishing procedures for reconstitution of records, public notice, contesting periods, and conditions for issuance.	"[{""title"": ""Section 1"", ""summary"": ""Establishes the procedure for issuing new stock certificates: filing of an affidavit, verification, publication of a notice in a newspaper for three weeks, a one\u2011year contest period, cancellation of obsolete certificates, and issuance of new ones unless a bond is filed. If a contest or court action exists, issuance is suspended until final decision.""}, {""title"": ""Section 2"", ""summary"": ""No action may be taken against a corporation issuing new certificates under this act, except in cases of fraud, bad faith or negligence by the corporation or its officers.""}, {""title"": ""Section 3"", ""summary"": ""The act shall take effect upon its approval.""}]"	201	April 19, 1948			To provide a legal framework for the issuance of new stock certificates in lieu of lost, stolen, or destroyed ones and to set a contest period for such issuances.	"[""Procedure for affidavit and verification"", ""Publication of notice for three weeks"", ""One\u2011year contest period before cancellation"", ""Issuance of new certificates after cancellation"", ""Bond requirement for earlier issuance"", ""Suspension of issuance if contest or court action pending"", ""No action against corporation except fraud or negligence""]"		"[""corporate law"", ""stock certificates"", ""issuance"", ""Philippines"", ""Republic Act""]"	"[""stock certificates"", ""issuance"", ""contest period"", ""corporate law"", ""Philippines"", ""Republic Act""]"
+repacts:datasets/markdown/repacts/1948/ra_202_1948.md	repacts	1948		datasets/markdown/repacts/1948/ra_202_1948.md	ra_202_1948	An Act Amending Section One of Republic Act Numbered Thirty-Six, Continuing in Full Force Sections Two to Thirty-Eight Thereof, and Appropriating the Additional Sum of Six and One-Half Million Pesos to Carry Out the Purpose of the Said Act and for Other Purpose	"**REPUBLIC ACT No. 202**
+
+ An Act Amending Section One of Republic Act Numbered Thirty-Six, Continuing in Full Force Sections Two to Thirty-Eight Thereof, and Appropriating the Additional Sum of Six and One-Half Million Pesos to Carry Out the Purpose of the Said Act and for Other Purpose
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section one of Republic Act Numbered Thirty-six, entitled ""Census Act of nineteen hundred and forty-six,"" is amended to read as follows:
+
+ > ""Sec. 1. A census of the Philippines shall be taken not later than November first, nineteen hundred and forty-eight and the President shall, by executive order, proclaim any day selected for census-taking as Census Day, and from that time on the enumeration shall proceed on consecutive days from daylight to darkness, including Sundays and holidays, until completed: *Provided,* That the census of population shall be completed, proclaimed and published not later than December thirty-first, nineteen hundred and forty-eight.""
+
+ **Section 2.** Sections two to thirty-eight of Republic Act Numbered Thirty-six are hereby continued in full force and operation.
+
+ **Section 3.** The sum of six and one-half million pesos, or so much thereof as may be necessary, is hereby appropriated out of any funds in the National Treasury not otherwise appropriated, in addition to the appropriation heretofore made under Republic Acts Numbered Thirty-six and One hundred and eighty-seven, to carry out the provisions of this Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: May 4, 1948.
+"	success	Republic Act	Amends Section 1 of RA 36 to update census timing to 1948, continues Sections 2-38 of RA 36, and appropriates 6.5 million pesos for implementation.	"[{""title"": ""Section 1."", ""summary"": ""Amends Section 1 of RA 36 to update census schedule to 1948 and presidential proclamation of Census Day.""}, {""title"": ""Section 2."", ""summary"": ""Continues Sections 2-38 of RA 36 in full force.""}, {""title"": ""Section 3."", ""summary"": ""Appropriates 6.5 million pesos from National Treasury for implementation of this Act.""}, {""title"": ""Section 4."", ""summary"": ""Effectivity upon approval.""}]"	202	May 4, 1948			Amend census provisions and appropriate funds for implementation.	"[""Amendment to Section 1 of RA 36 to update census schedule"", ""Continuation of Sections 2-38 of RA 36"", ""Appropriation of 6.5 million pesos for implementation""]"	Republic Act No. 36	"[""Census"", ""Appropriation"", ""RA 36""]"	"[""census"", ""population"", ""appropriation"", ""six million pesos"", ""1948""]"
+repacts:datasets/markdown/repacts/1948/ra_203_1948.md	repacts	1948		datasets/markdown/repacts/1948/ra_203_1948.md	ra_203_1948	An Act to Amend Subsection (g) of Section Twenty-Five of Commonwealth Act Numbered One, as Amended, by Establishing the Nurse Corps in the Medical Service of the Armed Forces of the Philippines	"**REPUBLIC ACT No. 203**
+
+ An Act to Amend Subsection (g) of Section Twenty-Five of Commonwealth Act Numbered One, as Amended, by Establishing the Nurse Corps in the Medical Service of the Armed Forces of the Philippines
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Subsection (g) of section twenty-five of Commonwealth Act Numbered One, as amended by Commonwealth Act Numbered Five hundred and sixty-nine, is further amended to read as follows:
+
+ > ""(g) The Medical Service shall consist of the Medical Corps, the Dental Corps, the Veterinary Corps, the Nurse Corps, the Medical Administrative Corps and such other corps as may be created by the President. It shall be charged with all matters pertaining to the physical examination, health and sanitation of personnel and animals of the army. The same pay, allowances, rights and privileges shall be granted to the members of the Nurse Corps as are given to the members of the other corps in the Medical Service.""
+
+ **Section 2.** Executive Order Numbered Two hundred and sixty-seven, series of nineteen hundred and forty, is hereby repealed.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: May 12, 1948.
+"	success	Act	Amends Commonwealth Act No. 1 to establish a Nurse Corps in the Armed Forces Medical Service and repeals Executive Order No. 267.	"[{""title"": ""Section 1"", ""summary"": ""Amends subsection (g) of section 25 of CA No. 1 to add the Nurse Corps and provide equal pay and privileges.""}, {""title"": ""Section 2"", ""summary"": ""Repeals Executive Order No. 267, series of 1940.""}, {""title"": ""Section 3"", ""summary"": ""The Act takes effect upon its approval.""}]"	Republic Act No. 203	May 12, 1948			To update the Armed Forces Medical Service structure by adding a Nurse Corps and ensuring equal treatment of its members.	"[""Addition of the Nurse Corps to the Medical Service."", ""Equal pay, allowances, rights and privileges for Nurse Corps members."", ""Repeal of Executive Order No. 267."", ""Effective date upon approval.""]"	Commonwealth Act No. 1 (as amended by CA No. 569).	"[""Armed Forces"", ""Medical Service"", ""Nurse Corps""]"	"[""Republic Act"", ""Commonwealth Act"", ""Nurse Corps"", ""Medical Service"", ""Armed Forces"", ""Executive Order"", ""Amendment"", ""Repeal""]"

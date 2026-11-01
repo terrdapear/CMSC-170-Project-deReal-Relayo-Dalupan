@@ -1,0 +1,189 @@
+
+ **Section 5.** All laws inconsistent with the provisions of this Act are hereby repealed or accordingly amended.
+
+ **Section 6.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1965
+"	success	Act	Republic Act No. 4200 establishes the prohibition and penalties for wire tapping and related violations of privacy of communication in the Philippines, and provides for court-authorized wire tapping in cases involving national security and other specified crimes.	"[{""title"": ""Section 1"", ""summary"": ""Defines the unlawful acts of wire tapping, interception, or recording of private communications without authorization, and prohibits possession or use of such recordings as evidence, except under specified circumstances.""}, {""title"": ""Section 2"", ""summary"": ""Sets penalties for individuals who commit or facilitate wire tapping, including imprisonment and disqualification from public office, and addresses deportation proceedings for alien offenders.""}, {""title"": ""Section 3"", ""summary"": ""Allows peace officers to conduct wire tapping under court order for specified national security and criminal cases, with strict procedural safeguards and limitations on the duration and use of recordings.""}, {""title"": ""Section 4"", ""summary"": ""Outlines the handling of recordings made under court authorization, including deposition, confidentiality, and restrictions on use as evidence.""}]"	No. 4200				To prohibit unauthorized wire tapping and protect the privacy of communications, while providing a legal framework for authorized interception in specific national security and criminal contexts.	"[""Prohibition of wire tapping and unauthorized interception"", ""Penalties including imprisonment and disqualification from public office"", ""Court-authorized wire tapping for national security and specified crimes"", ""Strict procedural safeguards and limitations on recordings""]"		"[""wire tapping"", ""privacy"", ""communication"", ""Philippines"", ""law""]"	"[""wire tapping"", ""privacy of communication"", ""national security"", ""court authorized interception"", ""penalties""]"
+repacts:datasets/markdown/repacts/1965/ra_4201_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4201_1965.md	ra_4201_1965	AN ACT TO AMEND SECTION THREE OF COMMONWEALTH ACT NUMBERED ONE HUNDRED THREE AS AMENDED BY COMMONWEALTH ACT NUMBERED TWO HUNDRED FIFTY-FIVE, THREE HUNDRED FIFTY-FIVE AND FIVE HUNDRED FIFTY-NINE	"**REPUBLIC ACT No. 4201**
+
+ AN ACT TO AMEND SECTION THREE OF COMMONWEALTH ACT NUMBERED ONE HUNDRED THREE AS AMENDED BY COMMONWEALTH ACT NUMBERED TWO HUNDRED FIFTY-FIVE, THREE HUNDRED FIFTY-FIVE AND FIVE HUNDRED FIFTY-NINE.
+
+ **Section 1.** Section 3 of Commonwealth Act Numbered one hundred three, as amended by Commonwealth Acts Numbered Two hundred fifty-five, Three hundred fifty-five and Five hundred fifty-nine, is hereby amended to read as follows:
+
+ ""Sec. 3. The Clerk of the Court; Other Personnel. The presiding Judge of the Court shall appoint one clerk of court (Ex-officio sheriff) with a salary of twelve thousand pesos per annum whose qualifications shall be membership in the Philippine bar and actual practice of law in the Philippines for at least five years or having occupied during a like period within the Philippines, a position requiring admission to the practice of law in the Philippines as an indispensable requisite.
+
+ ""There shall also be six senior deputy clerks of court at six thousand pesos per annum each whose qualifications is membership in the Philippine bar;
+
+ ""There shall also be twelve deputy clerks at four thousand eight hundred pesos per annum each;
+
+ ""There shall be one chief hearing examiner and one Assistant chief hearing examiner with a salary of twelve thousand pesos and eleven thousand four hundred pesos per annum, respectively, whose qualifications shall be those of provincial fiscals;
+
+ ""There shall also be thirty hearing examiners whose salaries shall be as follows:
+
+ ""(a) Five hearing examiners at ten thousand eight hundred pesos per annum each; ""(b) Five hearing examiners at ten thousand two hundred pesos per annum each; ""(c) Five hearing examiners at nine thousand six hundred pesos per annum each; ""(d) Five hearing examiners at nine thousand pesos per annum each; ""(e) Five hearing examiners at eight thousand four hundred pesos per annum each; and ""(f) Five hearing examiners at seven thousand two hundred pesos per annum each. ""The qualifications for appointment to the position of hearing examiners shall be the same as those prescribed for provincial fiscals except those for hearing examiners mentioned in paragraph (f) of this section which must be actual practice of law in the Philippines for at least three years or having occupied during a like period within the Philippines a position requiring admission to the practice of law in the Philippines as an indispensable requisite or members of the bar having in his credit continuous service with this court in any capacity, both for the period of at least two years.
+
+ ""There shall be one chief prosecutor and one assistant chief prosecutor at eleven thousand four hundred pesos and ten thousand eight hundred pesos per annum, respectively, whose qualifications shall be those of provincial fiscals.
+
+ ""There shall also be twenty-four court prosecutors whose salaries shall be shown as follows:
+
+ ""(a) Four court prosecutors at ten thousand two hundred pesos per annum each; ""(b) Four court prosecutors at nine thousand six hundred pesos per annum each; ""(c) Four court prosecutors at nine thousand pesos per annum each; ""(d) Four court prosecutors at eight thousand four hundred pesos per annum each; ""(e) Four court prosecutors at seven thousand eight hundred pesos per annum each; and ""(f) Four court prosecutors at seven thousand two hundred pesos per annum each. ""The qualifications for appointment to the position of court prosecutors shall be the same as those prescribed for hearing examiners.
+
+ ""There shall be one division chief and one assistant chief of the court stenographic reporters at seven thousand two hundred pesos and six thousand pesos per annum, respectively.
+
+ ""There shall also be twenty senior stenographic reporters whose salaries shall be four thousand eight hundred pesos per annum each, whose qualifications shall be senior stenographer eligible.
+
+ ""There shall also be thirty junior stenographic reporters whose salaries shall be three thousand nine hundred pesos per annum each, who must be junior stenographer eligible.
+
+ ""All appointments by the presiding judge shall be subject to the approval of the Secretary of Justice.
+
+ ""There shall be one administrative officer as division chief at seven thousand eight hundred pesos per annum.
+
+ ""There shall be one Budget officer at six thousand pesos per annum;
+
+ ""There shall be one personnel officer at six thousand pesos per annum;
+
+ ""There shall be one cashier at five thousand four hundred pesos per annum;
+
+ ""There shall be one budget examiner at three thousand seven hundred twenty pesos per annum;
+
+ ""There shall be two translators II at four thousand two hundred pesos each per annum;
+
+ ""There shall be five interpreters at three thousand seven hundred twenty pesos each per annum;
+
+ ""There shall be one assistant cashier at three thousand seven hundred twenty pesos per annum;
+
+ ""There shall be one assistant chief of personnel section at four thousand two hundred pesos per annum;
+
+ ""There shall be one reference librarian at three thousand one hundred twenty pesos per annum;
+
+ ""There shall be one record officer at four thousand two hundred pesos per annum;
+
+ ""There shall be one accounting clerk at three thousand six hundred pesos per annum;
+
+ ""There shall be one cash clerk at three thousand seven hundred twenty pesos per annum;
+
+ ""There shall be one (clerk I) senior clerk at three thousand seven hundred twenty pesos per annum;
+
+ ""There shall be nine clerks at three thousand pesos each per annum;
+
+ ""There shall be two clerical aide at two thousand seven hundred pesos each per annum;
+
+ ""There shall be one (storekeeper I) supply officer at three thousand six hundred pesos per annum;
+
+ ""There shall be three bailiffs at two thousand five hundred eighty pesos each per annum;
+
+ ""There shall be four security guards at two thousand five hundred eight pesos each per annum;
+
+ ""There shall be one watchman at two thousand four hundred pesos per annum;
+
+ ""There shall be one senior janitor with free quarters, light and water at two thousand four hundred pesos per annum; and
+
+ ""There shall be eight janitors at two thousand four hundred pesos each per annum;
+
+ ""There shall be one chief of the legal and research division at nine thousand six hundred pesos per annum; whose qualification shall be that of a fiscal;
+
+ ""There shall be two legal officers at seven thousand two hundred pesos each per annum;
+
+ ""There shall be two research attorneys at six thousand pesos each per annum;
+
+ ""There shall be one chief of the reporters and publication section at six thousand six hundred pesos per annum;
+
+ ""There shall be two proof readers at three thousand pesos each per annum;
+
+ ""There shall be one mimeograph operator at two thousand seven hundred pesos per annum; and
+
+ ""There shall be one messenger-clerk at two thousand one hundred sixty pesos per annum;
+
+ ""Legal officers, research attorneys and the chief of the reporter and publication section must be members of the Philippine bar.
+
+ ""There shall be one division chief and one assistant chief of the examining division at nine thousand pesos and seven thousand eight hundred pesos per annum, respectively;
+
+ ""There shall be one division chief accountant at seven thousand two hundred pesos per annum;
+
+ ""There shall be one senior corporation auditing examiner at seven thousand two hundred pesos per annum;
+
+ ""There shall be one senior accountant at four thousand two hundred pesos per annum;
+
+ ""There shall be four corporation auditing examiners at six thousand six hundred pesos per annum each;
+
+ ""There shall be four corporation auditing examiners at six thousand pesos each per annum;
+
+ ""There shall be one clerk-bookkeeper at three thousand six hundred pesos per annum;
+
+ ""The presiding judge shall further appoint and fix the compensation of such other officers, employees and technical staff as may be necessary, subject to the Civil Service Law, and subject to the approval of the Secretary of Justice.""
+
+ **Section 2.** Provisions of any law to the contrary notwithstanding, the incumbent clerk of court and all other above-mentioned Court personnel as presently constituted shall receive the salary raise provided for in this Act corresponding to their rank and seniority or experience in the practice of law in the said office without the necessity of a new appointment unless public service demands otherwise: *Provided*, That no one of those holding office as such on the passage of this Act shall, by reason thereof, be removed from office or demoted to a lower category or scale except where the incumbent personnel lacks the necessary qualifications provided in this Act, in which case he shall be reappointed to another available position where he may be qualified, or except for cause and upon compliance with the due process provided for by law.
+
+ **Section 3.** In addition to such sums as may be provided in the current Appropriation Act, there is hereby appropriated out of any funds in the National Treasury not otherwise appropriated, such sums as may be necessary to carry out the provisions of this Act.
+
+ **Section 4.** This Act shall take effect on July first, nineteen hundred and sixty-five.
+
+ Approved: June 19, 1965
+"	success	Republic Act	Amendment to Section 3 of Commonwealth Act No. 103, outlining appointments, qualifications, and salaries for various court personnel, including clerks, examiners, prosecutors, and support staff.	"[{""title"": ""Section 1"", ""summary"": ""Details the amendment of Section 3 of CA 103, specifying the appointment and salary structure for court clerks, deputy clerks, hearing examiners, prosecutors, stenographic reporters, and other personnel.""}]"	RA 4201				To update the personnel and salary provisions of Section 3 of CA 103 in alignment with contemporary judicial staffing needs.	"[""Appointment of one clerk of court (Ex-officio sheriff) with salary of PHP 12,000 per annum"", ""Designation of six senior deputy clerks and twelve deputy clerks with specified salaries"", ""Provision of hearing examiners and their qualifications and salaries"", ""Appointment of court prosecutors and their qualifications and salaries"", ""Inclusion of stenographic reporters, administrative officers, and other support staff with defined salaries and qualifications""]"	Commonwealth Act No. 103, CA 255, CA 355, CA 559	"[""government"", ""court"", ""employment"", ""salary""]"	"[""clerk of court"", ""hearing examiner"", ""court prosecutor"", ""senior deputy clerk"", ""salary"", ""appointment"", ""Philippine bar""]"
+repacts:datasets/markdown/repacts/1965/ra_4202_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4202_1965.md	ra_4202_1965	An Act to Amend Article One Hundred Sixty-Three of the Revised Penal Code	"**REPUBLIC ACT No. 4202**
+
+ An Act to Amend Article One Hundred Sixty-Three of the Revised Penal Code
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Article One Hundred Sixty-three of the Revised Penal Code is hereby amended to read as follows:
+
+ > ""Art. 163. Making and importing and uttering false coins. Any person who makes, imports, or utters false coins, in connivance with counterfeiters or importers, shall suffer:
+>
+>  1. Prision mayor in its minimum and medium periods and a fine not to exceed 10,000 pesos, if the counterfeited coin be silver coin of the Philippines or coin of the Central Bank of the Philippines of ten-centavo denomination or above. 2. Prision correccional in its minimum and medium periods and a fine not to exceed 2,000 pesos if the counterfeited coins be any of the minor coinage of the Philippines or of the Central Bank of the Philippines below ten-centavo denomination. 3. Prision correccional in its minimum period and a fine not to exceed 1,000 pesos, if the counterfeited coin be currency of a foreign country.""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1965.
+"	success	Republic Act	This act amends Article 163 of the Revised Penal Code to impose specific penalties for making, importing, or uttering false coins, with varying punishments based on the type of coin.	"[{""title"": ""Section 1."", ""summary"": ""Amendment to Article 163 providing penalties for counterfeiting coins.""}, {""title"": ""Section 2."", ""summary"": ""The act takes effect upon approval.""}]"	4202	June 19, 1965			To amend penalties for counterfeiting coins in the Revised Penal Code.	"[""Amended Article 163 to include penalties for making, importing, or uttering false coins."", ""Prision mayor for silver coins of 10 centavos or above, with a fine up to 10,000 pesos."", ""Prision correccional for minor coinage and foreign currency, with fines up to 2,000 or 1,000 pesos.""]"	Revised Penal Code Article 163	"[""Revised Penal Code"", ""Counterfeiting"", ""Penalties""]"	"[""counterfeiting"", ""false coins"", ""penalties"", ""Revised Penal Code"", ""Republic Act 4202""]"
+repacts:datasets/markdown/repacts/1965/ra_4203_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4203_1965.md	ra_4203_1965	An Act to Amend Sections Three and Four of Act Numbered Four Thousand One Hundred and Three, as Amended, Otherwise Known as the Indeterminate Sentence Law	"**REPUBLIC ACT No. 4203**
+
+ An Act to Amend Sections Three and Four of Act Numbered Four Thousand One Hundred and Three, as Amended, Otherwise Known as the Indeterminate Sentence Law
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Sections three and four of Act Numbered Four Thousand one hundred and three, as amended, are hereby further amended to read as follows:
+
+ > ""Sec. 3. There is hereby created a Board of Pardons and Parole to be composed of the Secretary of Justice who shall be its chairman, and four members to be appointed by the President, with the consent of the Commission on Appointments who shall hold office for a term of six years: *Provided,* That one member of the board shall be a trained sociologist, one a clergyman or educator, one psychiatrist unless a trained psychiatrist be employed by the board, and the other members shall be persons qualified for such work by training and experience. At least one member of the board shall be a woman. Of the members of the present board, two shall be designated by the President to continue until December thirty, nineteen hundred and sixty-six and the other two shall continue until December thirty, nineteen hundred and sixty-nine. In case of any vacancy in the membership of the Board, a successor may be appointed to serve only for the unexpired portion of the term of the respective members.""
+>
+>  ""Sec. 4. The Board of Pardons and Parole is authorized to adopt such rules and regulations as may be necessary for carrying out its functions and duties. The Board is empowered to call upon any bureau, office, branch, subdivision, agency, or instrumentality of the Government for such assistance as it may need in connection with the performance of its functions. A majority of all the members shall constitute a quorum and a majority vote shall be necessary to arrive at a decision. Any dissent from the majority opinion shall be reduced to writing and filed with the records of the proceedings. Each member of the Board, including the Chairman and the Executive Officer, shall be entitled to receive as compensation fifty pesos for each meeting actually attended by him, notwithstanding the provisions of section two hundred and fifty-nine of the Revised Administrative Code, and in addition thereto, reimbursement of actual and necessary traveling expenses incurred in the performance of duties: *Provided,* However, That the Board meetings will not be more than three times a week.""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1965.
+"	success	Republic Act	Amends sections 3 and 4 of RA 103 to create a Board of Pardons and Parole, establish its composition, powers, procedures, and compensation, and sets its effective date.	"[{""title"": ""Section 1"", ""summary"": ""Amends sections 3 and 4 of RA 103 by establishing a Board of Pardons and Parole composed of the Secretary of Justice as chairman and four President-appointed members, specifying qualifications, term, vacancy procedures, authority to adopt rules, and compensation.""}, {""title"": ""Section 2"", ""summary"": ""Declares that the act takes effect upon its approval.""}]"	4203	June 19, 1965			To amend the Indeterminate Sentence Law by creating and defining the Board of Pardons and Parole and its functions.	"[""Creation of Board of Pardons and Parole"", ""Composition: Secretary of Justice chairman, four President-appointed members"", ""Members: trained sociologist, clergyman/educator, psychiatrist, others qualified"", ""At least one woman member"", ""Term of six years"", ""Two members to continue until specific dates (1966 and 1969)"", ""Vacancy appointment for unexpired term"", ""Board authorized to adopt rules and regulations"", ""Board can call upon government agencies for assistance"", ""Quorum: majority, majority vote required"", ""Compensation: fifty pesos per meeting, travel expenses reimbursed"", ""Board meetings not more than three times a week""]"	Act Numbered Four Thousand One Hundred and Three (RA 103)	"[""Pardon"", ""Parole"", ""Board"", ""Indeterminate Sentence Law"", ""Amendment""]"	"[""Board of Pardons and Parole"", ""Secretary of Justice"", ""President"", ""Commission on Appointments"", ""trained sociologist"", ""clergyman"", ""psychiatrist"", ""woman"", ""term"", ""vacancy"", ""rules and regulations"", ""quorum"", ""compensation"", ""travel expenses""]"
+repacts:datasets/markdown/repacts/1965/ra_4204_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4204_1965.md	ra_4204_1965	An Act Providing for a Proper Compilation of Statistics on Diseases, Further Amending for the Purpose Section Two of Republic Act Numbered One Thousand Eighty-Two, as Amended	"**REPUBLIC ACT No. 4204**
+
+ An Act Providing for a Proper Compilation of Statistics on Diseases, Further Amending for the Purpose Section Two of Republic Act Numbered One Thousand Eighty-Two, as Amended
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section two of Republic Act Numbered One thousand eighty-two, as amended, is further amended by adding thereto a new subsection to read as follows:
+
+ > ""(d) There shall be in each regional office of the Department of Health a regional epidemiologist and a statistician who shall be charged with the duties of compiling and evaluating statistics on disease intelligence. The assistant provincial or assistant city health officers shall be in charge of the epidemiological and statistical functions within their respective jurisdiction, which shall be performed by a disease nomenclature clerk.
+>
+>  ""No person shall be appointed epidemiologist or statistician unless he is a holder of a bachelors degree conferred by a reputable school, college or university and has had at least two years experience in elementary statistical methods.""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1965.
+"	success	Republic Act	This act amends Section 2 of Republic Act 182 to require the appointment of regional epidemiologists and statisticians, sets qualifications, and establishes their duties in compiling disease statistics.	"[{""title"": ""Section 1."", ""summary"": ""Amends Section 2 of RA 182 by adding subsection (d) that mandates each regional office of the Department of Health to have a regional epidemiologist and a statistician, and outlines the responsibilities of assistant provincial or city health officers and disease nomenclature clerks.""}, {""title"": ""Section 2."", ""summary"": ""The act shall take effect upon its approval.""}]"	4204	June 19, 1965			To provide proper compilation of statistics on diseases and strengthen disease surveillance.	"[""Addition of subsection (d) requiring regional epidemiologists and statisticians in each regional office of the Department of Health"", ""Specification that appointed epidemiologists/statisticians must hold a bachelor's degree and have at least two years of experience in elementary statistical methods""]"	Section 2 of Republic Act 182	"[""Health"", ""Statistics"", ""Epidemiology"", ""Disease Surveillance""]"	"[""epidemiologist"", ""statistician"", ""Department of Health"", ""regional office"", ""statistics"", ""disease intelligence""]"
+repacts:datasets/markdown/repacts/1965/ra_4205_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4205_1965.md	ra_4205_1965	An Act Granting Camiguin Electric Company, Inc. a Franchise for an Electric Light, Heat and Power System in the Subprovince of Camiguin, Province of Misamis Oriental	"**REPUBLIC ACT No. 4205**
+
+ An Act Granting Camiguin Electric Company, Inc. a Franchise for an Electric Light, Heat and Power System in the Subprovince of Camiguin, Province of Misamis Oriental
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Subject to the provisions of the Constitution and to the terms and conditions established in Act Numbered Thirty-six hundred thirty-six, as amended by Commonwealth Act Numbered One hundred thirty-two, there is granted to Camiguin Electric Company, Inc., for a period of twenty-five years from the date of approval of this Act, the right, privilege and authority to construct, maintain and operate an electric light, heat and power system for the purpose of generating and/or distributing electric light, heat and/or power for sale within the Subprovince of Camiguin, Province of Misamis Oriental.
+
+ **Section 2.** In the event that the grantee shall purchase and secure electric heat and power from the National Power Corporation, the latter is hereby authorized to negotiate and transact for the benefit and in behalf of the public consumers with reference to rates.
+
+ **Section 3.** In consideration of the franchise and rights hereby granted, the grantee shall pay a franchise tax equal to five per centum of the gross earnings for electric current sold under this franchise, three per centum of which shall accrue to the National Government and two per centum to the municipality where the franchise is in operation.
+
+ **Section 4.** It is expressly provided that in the event the National Government desires to maintain and operate for itself the system and enterprise herein authorized, the grantee shall surrender its franchise and turn over to the Government all serviceable equipment therein, at cost, less reasonable depreciation.
+
+ **Section 5.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1965.
+"	success	Republic Act	This act grants a 25‑year franchise to Camiguin Electric Company, Inc. for the construction, maintenance, and operation of an electric light, heat, and power system in the Subprovince of Camiguin, with provisions for tax payments, possible purchase of power, and conditions for surrendering the franchise.	"[{""title"": ""Section 1"", ""summary"": ""Grants franchise for 25 years to construct, maintain, and operate an electric light, heat, and power system in Camiguin.""}, {""title"": ""Section 2"", ""summary"": ""Authorizes the National Power Corporation to negotiate and transact for consumers if the grantee purchases heat and power.""}, {""title"": ""Section 3"", ""summary"": ""Specifies a franchise tax of 5% of gross earnings, with 3% allocated to the National Government and 2% to the municipality.""}, {""title"": ""Section 4"", ""summary"": ""If the National Government wishes to maintain the system, the grantee must surrender the franchise and all serviceable equipment.""}, {""title"": ""Section 5"", ""summary"": ""Act takes effect upon approval.""}]"	4205	June 19, 1965			To grant a franchise to Camiguin Electric Company, Inc. for the development and operation of an electric light, heat, and power system in the Subprovince of Camiguin.	"[""Grant of 25\u2011year franchise"", ""Tax obligation of 5% of gross earnings"", ""Allocation of tax to national government and municipality"", ""Authorization of NPower to negotiate power purchase"", ""Conditions for surrendering franchise if national government takes over""]"	Act Numbered Thirty‑six hundred thirty‑six, as amended by Commonwealth Act Numbered One hundred thirty‑two	"[""Electricity"", ""Franchise"", ""Republic Act"", ""Camiguin"", ""Misamis Oriental""]"	"[""electricity"", ""franchise"", ""Camiguin"", ""Misamis Oriental"", ""National Power Corporation"", ""franchise tax""]"

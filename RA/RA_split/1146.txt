@@ -1,0 +1,158 @@
+repacts:datasets/markdown/repacts/1967/ra_4947_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_4947_1967.md	ra_4947_1967	An Act Establishing a National Hospital in the Municipality of Mati, Province of Davao, to be Known as Davao Oriental National Hospital, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 4947**
+
+ An Act Establishing a National Hospital in the Municipality of Mati, Province of Davao, to be Known as Davao Oriental National Hospital, and Authorizing the Appropriation of Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the supervision of the Director of Medical Services, a national hospital in the Municipality of Mati, Province of Davao, to be known as Davao Oriental National Hospital.
+
+ **Section 2.** The sum of two hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital during the fiscal year nineteen hundred sixty-seven. Thereafter, such sums as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Republic Act	This act establishes the Davao Oriental National Hospital in Mati, Davao Oriental, and appropriates funds for its establishment, operation, and maintenance.	"[{""title"": ""Section 1"", ""summary"": ""Establishment of a national hospital in Mati under the supervision of the Director of Medical Services.""}, {""title"": ""Section 2"", ""summary"": ""Appropriation of 200,000 pesos for establishment, operation, and maintenance of the hospital, with future appropriations included in the General Appropriations Act.""}, {""title"": ""Section 3"", ""summary"": ""The act takes effect upon its approval.""}]"	4947	June 17, 1967			Establishment of a national hospital in Mati, Davao Oriental.	"[""Establishment of Davao Oriental National Hospital"", ""Appropriation of 200,000 pesos for establishment and operation"", ""Future appropriations for maintenance"", ""Effective upon approval""]"		"[""healthcare"", ""hospital"", ""Davao Oriental"", ""national hospital""]"	"[""national hospital"", ""Mati"", ""Davao Oriental"", ""appropriation"", ""healthcare""]"
+repacts:datasets/markdown/repacts/1967/ra_4948_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_4948_1967.md	ra_4948_1967	An Act Establishing a National Hospital in the Municipality of Digos, Province of Davao, to be Known as the Davao del Sur National Hospital, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 4948**
+
+ An Act Establishing a National Hospital in the Municipality of Digos, Province of Davao, to be Known as the Davao del Sur National Hospital, and Authorizing the Appropriation of Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established under the supervision of the Director of Medical Services, a national hospital in the Municipality of Digos, Province of Davao, to be known as Davao Del Sur National Hospital.
+
+ **Section 2.** The sum of two hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital during the fiscal year nineteen hundred sixty-seven. Thereafter, such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Republic Act	Establishes a national hospital in Digos, Davao del Sur and authorizes the appropriation of funds for its establishment, operation and maintenance.	"[{""title"": ""Section 1"", ""summary"": ""Establishes the Davao del Sur National Hospital under the supervision of the Director of Medical Services.""}, {""title"": ""Section 2"", ""summary"": ""Authorizes appropriation of two hundred thousand pesos for the hospital's establishment, operation, and maintenance for FY 1967, with future sums to be included in the General Appropriations Act.""}, {""title"": ""Section 3"", ""summary"": ""The Act takes effect upon its approval.""}]"	4948	June 17, 1967			To establish a national hospital in Digos and secure necessary funding for its operation.	"[""Establishment of Davao del Sur National Hospital"", ""Appropriation of \u20b1200,000 for establishment and operation"", ""Effective upon approval""]"		"[""Healthcare"", ""Hospital"", ""Funding"", ""Davao del Sur"", ""National Hospital""]"	"[""national hospital"", ""Digos"", ""Davao del Sur"", ""appropriation"", ""funding"", ""1967""]"
+repacts:datasets/markdown/repacts/1967/ra_4949_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_4949_1967.md	ra_4949_1967	An Act Providing for the Establishment of a Community Hospital in the Municipality of Bacoor, Province of Cavite, to be Known as Padre Gomez Community Hospital, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 4949**
+
+ An Act Providing for the Establishment of a Community Hospital in the Municipality of Bacoor, Province of Cavite, to be Known as Padre Gomez Community Hospital, and Authorizing the Appropriation of Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established under the direct supervision of the Director of Medical Services, a community hospital in the Municipality of Bacoor, Province of Cavite, to be known as Padre Gomez Community Hospital.
+
+ **Section 2.** The Secretary of Health shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The sum of two hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital during the fiscal year nineteen hundred sixty-seven. Thereafter, such sums as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Republic Act	The act establishes the Padre Gomez Community Hospital in Bacoor, Cavite, authorizes the issuance of necessary rules by the Secretary of Health, appropriates funds for its operation, and sets its effectivity upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Establishment of a community hospital in Bacoor, Cavite, under the supervision of the Director of Medical Services.""}, {""title"": ""Section 2"", ""summary"": ""The Secretary of Health shall issue rules and regulations necessary to carry out the purpose of the act.""}, {""title"": ""Section 3"", ""summary"": ""Authorization of two hundred thousand pesos for the establishment, operation, and maintenance of the hospital for FY 1967, with future appropriations to be included in the General Appropriations Act.""}, {""title"": ""Section 4"", ""summary"": ""The act shall take effect upon its approval.""}]"	4949	June 17, 1967			To establish a community hospital in Bacoor, Cavite and appropriate funds for its operation and maintenance.	"[""Establishment of Padre Gomez Community Hospital"", ""Issuance of rules by the Secretary of Health"", ""Appropriation of two hundred thousand pesos for FY 1967"", ""Future appropriations to be included in the General Appropriations Act"", ""Effectivity upon approval""]"		"[""health"", ""hospital"", ""municipality"", ""Cavite""]"	"[""community hospital"", ""Bacoor"", ""Cavite"", ""health services"", ""funding""]"
+repacts:datasets/markdown/repacts/1967/ra_4950_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_4950_1967.md	ra_4950_1967	An Act Establishing a Community Hospital in the Municipality of Mawab, Province of Davao, to be Known as Mawab Community Hospital, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 4950**
+
+ An Act Establishing a Community Hospital in the Municipality of Mawab, Province of Davao, to be Known as Mawab Community Hospital, and Authorizing the Appropriation of Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the direct supervision of the Director of Medical Services, a community hospital in the Municipality of Mawab, Province of Davao, to be known as Mawab Community Hospital.
+
+ **Section 2.** The sum of one hundred fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital for the fiscal year nineteen hundred sixty-seven. Thereafter, such sums as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Republic Act	Establishes Mawab Community Hospital and authorizes funds for its establishment, operation, and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""Establishes a community hospital in Mawab under the supervision of the Director of Medical Services.""}, {""title"": ""Section 2."", ""summary"": ""Authorizes appropriation of 150,000 pesos for the establishment, operation, and maintenance of the hospital in 1967, with future sums to be included in the General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""The Act takes effect upon its approval.""}]"	4950	June 17, 1967			To establish a community hospital in Mawab, Davao, and authorize funding for its operation.	"[""Establishment of Mawab Community Hospital"", ""Authorization of appropriation of 150,000 pesos for 1967"", ""Act takes effect upon approval""]"		"[""Healthcare"", ""Hospital"", ""Local Government"", ""Davao"", ""Community Hospital""]"	"[""community hospital"", ""Mawab"", ""Davao"", ""appropriation"", ""Republic Act"", ""1967""]"
+repacts:datasets/markdown/repacts/1967/ra_4951_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_4951_1967.md	ra_4951_1967	An Act Providing for the Establishment of an Emergency Hospital in the Municipality of Pinamungajan, Province of Cebu, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 4951**
+
+ An Act Providing for the Establishment of an Emergency Hospital in the Municipality of Pinamungajan, Province of Cebu, and Authorizing the Appropriation of Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the direct supervision of the Director of Medical Services an emergency hospital in the Municipality of Pinamungajan, Province of Cebu, to be known as Pinamungajan National Emergency Hospital.
+
+ **Section 2.** The sum of one hundred fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment and operation of said hospital, including the construction of its buildings and the purchase of its site, for the fiscal year nineteen hundred sixty-seven. Thereafter, the sums necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Republic Act	Establishes the Pinamungajan National Emergency Hospital and appropriates funds for its construction and operation.	"[{""title"": ""Section 1"", ""summary"": ""Establishment of an emergency hospital in Pinamungajan under the supervision of the Director of Medical Services.""}, {""title"": ""Section 2"", ""summary"": ""Authorizes the appropriation of \u20b1150,000 for construction and operation of the hospital for FY 1967, with future maintenance included in the General Appropriations Act.""}, {""title"": ""Section 3"", ""summary"": ""The act takes effect upon its approval.""}]"	4951	June 17, 1967			To provide an emergency healthcare facility in Pinamungajan, Cebu.	"[""Section 1: Establishment of the hospital."", ""Section 2: Appropriation of funds for construction and operation."", ""Section 3: Effective date of the act.""]"		"[""Health"", ""Emergency Hospital"", ""Cebu"", ""Funding"", ""Infrastructure""]"	"[""Emergency Hospital"", ""Pinamungajan"", ""Cebu"", ""Appropriation"", ""Construction"", ""Operation""]"
+repacts:datasets/markdown/repacts/1967/ra_4952_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_4952_1967.md	ra_4952_1967	An Act Authorizing the Appropriation of Three Hundred Thousand Pesos to Implement the Provisions of Republic Act Numbered Thirty-Six Hundred Five	"**REPUBLIC ACT No. 4952**
+
+ An Act Authorizing the Appropriation of Three Hundred Thousand Pesos to Implement the Provisions of Republic Act Numbered Thirty-Six Hundred Five
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sum of three hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, to implement the provisions of Republic Act Numbered Thirty-six hundred five during the fiscal year nineteen hundred sixty-seven. Thereafter, such sums as may be necessary for the same purpose shall be included in the annual General Appropriations Act.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Act	This act appropriates ₱300,000 for the implementation of Republic Act No. 365 during the fiscal year 1967 and authorizes future sums to be included in the annual General Appropriations Act.	"[{""title"": ""Section 1"", ""summary"": ""Appropriates \u20b1300,000 for RA 365 implementation during FY 1967 and allows necessary future sums""}, {""title"": ""Section 2"", ""summary"": ""The act takes effect upon its approval""}]"	4952	June 17, 1967			To authorize appropriation of funds for the implementation of Republic Act No. 365	"[""Appropriation of \u20b1300,000 for RA 365 implementation during FY 1967"", ""Future sums for the same purpose are to be included in the annual General Appropriations Act""]"		"[""Appropriation"", ""Budget"", ""RA 365""]"	"[""appropriation"", ""budget"", ""RA 365"", ""funding"", ""government finance""]"
+repacts:datasets/markdown/repacts/1967/ra_4953_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_4953_1967.md	ra_4953_1967	An Act Providing for the Establishment of a National Emergency Hospital in the Municipality of Jagna, Province of Bohol, to be Known as Jagna National Emergency Hospital, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 4953**
+
+ An Act Providing for the Establishment of a National Emergency Hospital in the Municipality of Jagna, Province of Bohol, to be Known as Jagna National Emergency Hospital, and Authorizing the Appropriation of Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established a national emergency hospital in the Municipality of Jagna, Province of Bohol, to be known as Jagna National Emergency Hospital.
+
+ **Section 2.** The Secretary of Health shall exercise supervision over said hospital, locate and acquire, or cause to be located and acquired, the site thereof which shall be within the Municipality of Jagna.
+
+ **Section 3.** The sum of two hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital during the fiscal year nineteen hundred and sixty-seven. Thereafter, such sums as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Republic Act	Establishes Jagna National Emergency Hospital in Bohol and appropriates funds for its establishment, operation, and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of a national emergency hospital in Jagna, Bohol, to be known as Jagna National Emergency Hospital.""}, {""title"": ""Section 2."", ""summary"": ""Secretary of Health to supervise the hospital and locate/acquire the site within Jagna.""}, {""title"": ""Section 3."", ""summary"": ""Authorization of \u20b1200,000 for establishment, operation, and maintenance during FY 1967, with future sums to be included in General Appropriations Act.""}, {""title"": ""Section 4."", ""summary"": ""Act takes effect upon approval.""}]"	4953	June 17, 1967			To establish a national emergency hospital in Jagna, Bohol and ensure its operation through authorized appropriation of funds.	"[""Establishment of Jagna National Emergency Hospital"", ""Supervision by Secretary of Health"", ""Appropriation of \u20b1200,000 for FY 1967 and future maintenance"", ""Effectiveness upon approval""]"		"[""Health"", ""Hospital"", ""Bohol"", ""Emergency""]"	"[""national emergency hospital"", ""Jagna"", ""Bohol"", ""appropriation of funds"", ""health supervision""]"
+repacts:datasets/markdown/repacts/1967/ra_4954_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_4954_1967.md	ra_4954_1967	An Act Converting Dinagat Public High School in the Municipality of Dinagat, Province of Surigao del Norte, into a Fisheries High School to be Known as Dinagat Fisheries High School	"**REPUBLIC ACT No. 4954**
+
+ An Act Converting Dinagat Public High School in the Municipality of Dinagat, Province of Surigao del Norte, into a Fisheries High School to be Known as Dinagat Fisheries High School
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The Dinagat Public High School in the Municipality of Dinagat, Province of Surigao del Norte, is hereby converted into a fisheries high school to be known as Dinagat Fisheries High School. The Director of Vocational Education with the approval of the Department Head shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 2.** The sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the conversion, operation and maintenance of the said school for the year nineteen hundred and sixty-seven.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Act	This act converts Dinagat Public High School into Dinagat Fisheries High School and appropriates one hundred thousand pesos for its operation and maintenance.	"[{""title"": ""Section 1"", ""summary"": ""Converts Dinagat Public High School into Dinagat Fisheries High School and authorizes the Director of Vocational Education to issue necessary rules and regulations.""}, {""title"": ""Section 2"", ""summary"": ""Appropriates one hundred thousand pesos from the National Treasury for the conversion, operation, and maintenance of the school for the year 1967.""}, {""title"": ""Section 3"", ""summary"": ""The act shall take effect upon its approval.""}]"	4954	June 17, 1967			To convert a public high school into a fisheries high school and provide funding for its operation and maintenance.	"[""Conversion of Dinagat Public High School into Dinagat Fisheries High School."", ""Appropriation of one hundred thousand pesos for conversion, operation, and maintenance."", ""Effectivity upon approval.""]"		"[""Education"", ""Fisheries"", ""Public School"", ""Republic Act""]"	"[""Dinagat"", ""Fisheries High School"", ""Surigao del Norte"", ""Public School"", ""Appropriation""]"
+repacts:datasets/markdown/repacts/1967/ra_4955_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_4955_1967.md	ra_4955_1967	An Act Providing for the Establishment of a Memorial Hospital in the Municipality of Cabanatuan, Province of Iloilo, to be Known as Ramon Tabiana Memorial Hospital, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 4955**
+
+ An Act Providing for the Establishment of a Memorial Hospital in the Municipality of Cabanatuan, Province of Iloilo, to be Known as Ramon Tabiana Memorial Hospital, and Authorizing the Appropriation of Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the direct supervision of the Director of Medical Services, a twenty-five-bed memorial hospital in the Municipality of Cabanatuan, Province of Iloilo, to be known as Ramon Tabiana Memorial Hospital. The hospital shall be located at the poblacion of the said municipality.
+
+ **Section 2.** The sum of three hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital during the fiscal year nineteen hundred and sixty-seven. Such sums as may be necessary for its operation and maintenance thereafter shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Republic Act	An act establishing a 25-bed memorial hospital in Cabanatuan, Iloilo, named Ramon Tabiana Memorial Hospital, and authorizing appropriation of funds for its establishment, operation, and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of a 25-bed memorial hospital in the Municipality of Cabanatuan, Province of Iloilo, under the direct supervision of the Director of Medical Services.""}, {""title"": ""Section 2."", ""summary"": ""Authorization of an appropriation of three hundred thousand pesos for the establishment, operation, and maintenance of the hospital during the fiscal year 1967, with subsequent necessary funds to be included in the General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""The act shall take effect upon its approval.""}]"	4955	June 17, 1967			To establish a memorial hospital and authorize the appropriation of funds for its construction and operation.	"[""Authorizes establishment of a 25-bed memorial hospital in Cabanatuan, Iloilo"", ""Appropriates 300,000 pesos for establishment, operation, and maintenance of the hospital in 1967"", ""Subsequent funds to be included in the annual General Appropriations Act""]"		"[""Healthcare"", ""Hospital"", ""Iloilo"", ""Memorial Hospital"", ""Funding""]"	"[""Ramon Tabiana Memorial Hospital"", ""Cabanatuan"", ""Iloilo"", ""Republic Act 4955"", ""appropriation"", ""healthcare""]"
+repacts:datasets/markdown/repacts/1967/ra_4956_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_4956_1967.md	ra_4956_1967	REPUBLIC ACT No. 4956 An Act Providing for the Establishment of an Emergency Hospital at Barrio Sayangan, Municipality of Atok, Subprovince of Benguet, Mountain Province, to be Known as Atok Emergency Hospital, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 4956**
+
+ An Act Providing for the Establishment of an Emergency Hospital at Barrio Sayangan, Municipality of Atok, Subprovince of Benguet, Mountain Province, to be Known as Atok Emergency Hospital, and Authorizing the Appropriation of Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the direct supervision of the Director of Medical Services, an emergency hospital in Barrio Sayangan, Municipality of Atok, Subprovince of Benguet, Mountain Province, to be known as Atok Emergency Hospital. The site for the said hospital shall be determined by the municipal council of the Municipality of Atok in consultation with the Director of Medical Services.
+
+ **Section 2.** The Secretary of Health shall promulgate such rules and regulations as may be necessary to carry into effect the purpose of this Act.
+
+ **Section 3.** The sum of three hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital for the fiscal year nineteen hundred and sixty-seven. Such sums as may be necessary for its operation and maintenance in subsequent years shall be included in the annual General Appropriations Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Act	Republic Act No. 4956 establishes an emergency hospital in Atok, Benguet, authorizes appropriation of funds, and sets requirements for its operation and oversight.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of an emergency hospital under the direct supervision of the Director of Medical Services; the site to be determined by the municipal council in consultation with the Director.""}, {""title"": ""Section 2."", ""summary"": ""The Secretary of Health shall promulgate rules and regulations necessary to effect the purpose of the Act.""}, {""title"": ""Section 3."", ""summary"": ""Authorization of appropriation of \u20b1300,000 for the fiscal year 1967 for establishment, operation, and maintenance of the hospital; future sums to be included in the annual General Appropriations Act.""}, {""title"": ""Section 4."", ""summary"": ""The Act shall take effect upon its approval.""}]"	4956	June 17, 1967			To establish and fund an emergency hospital in Atok, Benguet, and to set the necessary regulatory framework for its operation.	"[""Establishment of Atok Emergency Hospital"", ""Supervision by Director of Medical Services"", ""Site determination by municipal council"", ""Appropriation of \u20b1300,000 for 1967 fiscal year"", ""Future appropriations to be included in annual GA"", ""Secretary of Health to promulgate rules and regulations"", ""Act takes effect upon approval""]"		"[""Healthcare"", ""Emergency Hospital"", ""Benguet"", ""Local Government""]"	"[""Emergency Hospital"", ""Atok"", ""Benguet"", ""Republic Act 4956"", ""Health Services""]"
+repacts:datasets/markdown/repacts/1967/ra_4957_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_4957_1967.md	ra_4957_1967	An Act Converting Abuyog Emergency Hospital in the Municipality of Abuyog, Province of Leyte, into Abuyog General Hospital and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 4957**
+
+ An Act Converting Abuyog Emergency Hospital in the Municipality of Abuyog, Province of Leyte, into Abuyog General Hospital and Authorizing the Appropriation of Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The Abuyog Emergency Hospital at the Municipality of Abuyog, Province of Leyte, is hereby converted into Abuyog General Hospital with a fifty-bed capacity.
+
+ **Section 2.** The sum of two hundred fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital during the fiscal year nineteen hundred sixty-seven. Thereafter, such sums as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Republic Act	Converts the Abuyog Emergency Hospital into a fifty‑bed Abuyog General Hospital and authorizes appropriation of funds for its establishment, operation, and maintenance.	"[{""title"": ""Section 1"", ""summary"": ""Conversion of the Abuyog Emergency Hospital into Abuyog General Hospital with a fifty\u2011bed capacity.""}, {""title"": ""Section 2"", ""summary"": ""Authorization of \u20b1250,000 for the hospital\u2019s establishment, operation, and maintenance for FY 1967, with provisions for future appropriations.""}, {""title"": ""Section 3"", ""summary"": ""The Act shall take effect upon approval.""}]"	4957	June 17, 1967			To convert a local emergency hospital into a general hospital and secure necessary funding for its operation.	"[""Conversion of Abuyog Emergency Hospital to Abuyog General Hospital"", ""Authorization of \u20b1250,000 for establishment, operation, and maintenance"", ""Effectivity upon approval""]"		"[""Healthcare"", ""Hospital"", ""Legislation"", ""Finance""]"	"[""Abuyog"", ""Leyte"", ""Hospital"", ""Appropriation"", ""Republic Act 4957""]"

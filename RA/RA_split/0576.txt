@@ -1,0 +1,198 @@
+repacts:datasets/markdown/repacts/1959/ra_2481_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2481_1959.md	ra_2481_1959	An Act Changing the Name of the Antique School of Fisheries in the Municipality of Tibiao, Province of Antique, to Tario Lim Memorial Antique School of Fisheries	"**REPUBLIC ACT No. 2481**
+
+ **An Act Changing the Name of the Antique School of Fisheries in the Municipality of Tibiao, Province of Antique, to Tario Lim Memorial Antique School of Fisheries**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Antique School of Fisheries in the Municipality of Tibiao, Province of Antique, is hereby changed to Tario Lim Memorial Antique School of Fisheries.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	An act that changes the name of the Antique School of Fisheries to Tario Lim Memorial Antique School of Fisheries.	"[{""title"": ""Section 1."", ""summary"": ""The name of the Antique School of Fisheries in the Municipality of Tibiao, Province of Antique, is hereby changed to Tario Lim Memorial Antique School of Fisheries.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	RA 2481	June 21, 1959			To change the name of the Antique School of Fisheries to Tario Lim Memorial Antique School of Fisheries.	"[""The name of the Antique School of Fisheries in the Municipality of Tibiao, Province of Antique, is hereby changed to Tario Lim Memorial Antique School of Fisheries."", ""This Act shall take effect upon its approval.""]"			"[""Antique School of Fisheries"", ""Tario Lim Memorial"", ""Renaming"", ""Education"", ""Philippines""]"
+repacts:datasets/markdown/repacts/1959/ra_2482_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2482_1959.md	ra_2482_1959	An Act Creating Certain Barrios in the Municipality of Tagkawayan, Province of Quezon	"**REPUBLIC ACT No. 2482**
+
+ **An Act Creating Certain Barrios in the Municipality of Tagkawayan, Province of Quezon**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of San Jose and San Pedro in the barrio of Bagong Silang, Municipality of Tagkawayan, Province of Quezon, are separated from said barrios and constituted into distinct and independent barrios of said municipality to be known as the barrios of San Jose and San Pedro, respectively.
+
+ The barrio of San Jose shall be bounded in the North by Barrio of San Pedro, on the East by Barrio Bagong Silang, on the South by Cabibihan, and on the West by Gumihan Creek; and the barrio of San Pedro shall be bounded on the North by public forest, one the East by public forest, on the South by Barrio Sta. Monica, and on the West by municipal boundary of the municipalities of Calauag and Tagkawayan.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Local Government	This act establishes the sitios of San Jose and San Pedro as independent barrios in Tagkawayan, Quezon, defining their boundaries and declaring the act effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Separates the sitios of San Jose and San Pedro from the barrio of Bagong Silang and establishes them as independent barrios, with defined boundaries.""}, {""title"": ""Section 2"", ""summary"": ""The act takes effect upon its approval.""}]"	RA 2482	June 21, 1959			To create new barrios and clarify municipal boundaries.	"[""Creation of barrios San Jose and San Pedro"", ""Definition of boundaries for the new barrios"", ""Act takes effect upon approval""]"		"[""Local Government"", ""Barrios"", ""Municipality"", ""Quezon"", ""Tagkawayan""]"	"[""barrios"", ""municipality"", ""Quezon"", ""Tagkawayan"", ""San Jose"", ""San Pedro"", ""boundaries"", ""public forest""]"
+repacts:datasets/markdown/repacts/1959/ra_2483_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2483_1959.md	ra_2483_1959	An Act Changing the Name of Colgante Primary School in the Municipality of Apalit, Province of Pampanga, to Gonzales-Sioco Memorial School	"**REPUBLIC ACT No. 2483**
+
+ **An Act Changing the Name of Colgante Primary School in the Municipality of Apalit, Province of Pampanga, to Gonzales-Sioco Memorial School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Colgante Primary School in the Municipality of Apalit, Province of Pampanga, is hereby changed to Gonzales-Sioco Memorial School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Act	This act changes the name of Colgante Primary School in Apalit, Pampanga, to Gonzales-Sioco Memorial School and takes effect upon its approval.	"[{""title"": ""Section 1."", ""summary"": ""The name of the Colgante Primary School in the Municipality of Apalit, Province of Pampanga, is hereby changed to Gonzales-Sioco Memorial School.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2483	June 21, 1959			To change the name of Colgante Primary School in Apalit, Pampanga, to Gonzales-Sioco Memorial School.	"[""The name of the Colgante Primary School in Apalit, Pampanga, is changed to Gonzales-Sioco Memorial School.""]"		"[""Education"", ""School Name Change"", ""Republic Act""]"	"[""Colgante Primary School"", ""Gonzales-Sioco Memorial School"", ""Apalit"", ""Pampanga"", ""Republic Act 2483""]"
+repacts:datasets/markdown/repacts/1959/ra_2484_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2484_1959.md	ra_2484_1959	An Act Changing the Name of Mantigue Island in the Municipality of Mahinog, Subprovince of Camiguin, Province of Oriental Misamis, to Magsaysay Island	"**REPUBLIC ACT No. 2484**
+
+ **An Act Changing the Name of Mantigue Island in the Municipality of Mahinog, Subprovince of Camiguin, Province of Oriental Misamis, to Magsaysay Island**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Mantigue Island in the Municipality of Mahinog, Subprovince of Camiguin, Province of Oriental Misamis, is hereby changed to Magsaysay Island.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act changes the name of Mantigue Island to Magsaysay Island, effective upon its approval.	"[{""title"": ""Section 1"", ""summary"": ""The name of Mantigue Island in the Municipality of Mahinog, Subprovince of Camiguin, Province of Oriental Misamis, is hereby changed to Magsaysay Island.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	2484	June 21, 1959			To change the name of Mantigue Island to Magsaysay Island.	"[""Name of Mantigue Island is changed to Magsaysay Island."", ""Act takes effect upon approval.""]"		"[""Geography"", ""Place Name"", ""Renaming""]"	"[""Mantigue Island"", ""Magsaysay Island"", ""Renaming"", ""Camiguin"", ""Oriental Misamis"", ""Mahinog""]"
+repacts:datasets/markdown/repacts/1959/ra_2485_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2485_1959.md	ra_2485_1959	An Act Creating the Barrio of San Vicente in the Municipality of Corcuera, Province of Romblon	"**REPUBLIC ACT No. 2485**
+
+ **An Act Creating the Barrio of San Vicente in the Municipality of Corcuera, Province of Romblon**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Bayungos, Agsalem, Taler, Madabas and Bantadan, Municipality of Corcuera, Province of Romblon, are separated from their respective mother barrios and constituted into a distinct and independent barrio of said municipality to be known as the barrio of San Vicente.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act establishes the barrio of San Vicente by separating the sitios of Bayungos, Agsalem, Taler, Madabas, and Bantadan from their respective mother barrios in the Municipality of Corcuera, Romblon, and declares the act effective upon approval on June 21, 1959.	"[{""title"": ""Section 1."", ""summary"": ""The sitios of Bayungos, Agsalem, Taler, Madabas and Bantadan, Municipality of Corcuera, Province of Romblon, are separated from their respective mother barrios and constituted into a distinct and independent barrio of said municipality to be known as the barrio of San Vicente.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2485	June 21, 1959			Creation of a new barrio, San Vicente, in the Municipality of Corcuera, Romblon.	"[""Creation of San Vicente barrio"", ""Constitution of a new barrio from specified sitios"", ""Act takes effect upon approval""]"		"[""Republic Act"", ""Barrio Creation"", ""Romblon"", ""Municipality of Corcuera""]"	"[""San Vicente"", ""Corcuera"", ""Romblon"", ""barrio"", ""sitios"", ""Bayungos"", ""Agsalem"", ""Taler"", ""Madabas"", ""Bantadan""]"
+repacts:datasets/markdown/repacts/1959/ra_2486_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2486_1959.md	ra_2486_1959	An Act Changing the Name of the Barrio of Icogan in the Municipality of Looc, Province of Romblon, to San Isidro	"**REPUBLIC ACT No. 2486**
+
+ **An Act Changing the Name of the Barrio of Icogan in the Municipality of Looc, Province of Romblon, to San Isidro**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the barrio of Icogan in the Municipality of Looc, Province of Romblon, is changed to San Isidro.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act changes the name of the barrio of Icogan in Looc, Romblon to San Isidro and takes effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The name of the barrio of Icogan in the Municipality of Looc, Province of Romblon, is changed to San Isidro.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	2486	June 21, 1959			Renaming the barrio of Icogan to San Isidro in Looc, Romblon.	"[""The name of the barrio of Icogan in Looc, Romblon is changed to San Isidro.""]"		"[""Renaming"", ""Local Government"", ""Barangay"", ""Romblon""]"	"[""Icogan"", ""San Isidro"", ""Looc"", ""Romblon"", ""Barrio"", ""Renaming""]"
+repacts:datasets/markdown/repacts/1959/ra_2487_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2487_1959.md	ra_2487_1959	An Act Creating Certain Barrios in the Municipality of Dimataling, Province of Zamboanga del Sur	"**REPUBLIC ACT No. 2487**
+
+ **An Act Creating Certain Barrios in the Municipality of Dimataling, Province of Zamboanga del Sur**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The following sitios in the Municipality of Dimataling, Province of Zamboanga del Sur, are constituted as distinct and independent barrios of said municipality, to wit:
+
+ 1. The sitios of Malimpune, Lumbia, Cabuso and Abong-abong to be known as the barrio of Abong-abong; and 2.The sitios of Comolang, Balilinan, Pandalatan, Gahi, Talsongan, Catambid, Liguse, Tengao and Panubigan to be known as the barrio of Panubigan. **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	The act creates barrios Abong-abong and Panubigan in Dimataling municipality, Zamboanga del Sur.	"[{""title"": ""Section 1"", ""summary"": ""Constitutes sitios into barrios Abong-abong and Panubigan.""}, {""title"": ""Section 2"", ""summary"": ""Act takes effect upon approval.""}]"	2487	June 21, 1959			To establish new barrios for local governance	"[""Creation of barrio Abong-abong"", ""Creation of barrio Panubigan"", ""Effectivity upon approval""]"		"[""Local Governance"", ""Barrios"", ""Municipality"", ""Zamboanga del Sur""]"	"[""Barrios"", ""Sitios"", ""Dimataling"", ""Zamboanga del Sur"", ""Republic Act 2487""]"
+repacts:datasets/markdown/repacts/1959/ra_2488_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2488_1959.md	ra_2488_1959	An Act to Change the Name of the Baliwag Provincial High School in the Municipality of Baliwag, Province of Bulacan, to Mariano Ponce High School	"**REPUBLIC ACT No. 2488**
+
+ **An Act to Change the Name of the Baliwag Provincial High School in the Municipality of Baliwag, Province of Bulacan, to Mariano Ponce High School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Baliwag Provincial High School in the Municipality of Baliwag, Province of Bulacan, is hereby changed to Mariano Ponce High School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act changes the name of the Baliwag Provincial High School to Mariano Ponce High School.	"[{""title"": ""Section 1."", ""summary"": ""The name of the Baliwag Provincial High School in the Municipality of Baliwag, Province of Bulacan, is hereby changed to Mariano Ponce High School.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2488	June 21, 1959			To change the name of a provincial high school to honor Mariano Ponce.	"[""Name of Baliwag Provincial High School changed to Mariano Ponce High School"", ""Act takes effect upon approval""]"		"[""Education"", ""High School"", ""Name Change"", ""Bulacan""]"	"[""Baliwag"", ""Mariano Ponce"", ""High School"", ""Bulacan"", ""Republic Act 2488""]"
+repacts:datasets/markdown/repacts/1959/ra_2489_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2489_1959.md	ra_2489_1959	An Act to Change the Name of the Polo Elementary School in the Municipality of Polo, Province of Bulacan, to Pio Valenzuela Elementary School	"**REPUBLIC ACT No. 2489**
+
+ **An Act to Change the Name of the Polo Elementary School in the Municipality of Polo, Province of Bulacan, to Pio Valenzuela Elementary School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Polo Elementary School in the Municipality of Polo, Province of Bulacan, is hereby changed to Pio Valenzuela Elementary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Education	This Act changes the name of Polo Elementary School to Pio Valenzuela Elementary School in Bulacan.	"[{""title"": ""Section 1."", ""summary"": ""The name of the Polo Elementary School in the Municipality of Polo, Province of Bulacan, is hereby changed to Pio Valenzuela Elementary School.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	Republic Act No. 2489	June 21, 1959			To change the name of Polo Elementary School to Pio Valenzuela Elementary School.	"[""The name of Polo Elementary School is changed to Pio Valenzuela Elementary School.""]"		"[""education"", ""school"", ""name change"", ""Bulacan""]"	"[""Polo Elementary School"", ""Pio Valenzuela Elementary School"", ""Bulacan"", ""name change""]"
+repacts:datasets/markdown/repacts/1959/ra_2490_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2490_1959.md	ra_2490_1959	An Act Transferring the Seat of the Government of the Municipality of Morong, Province of Rizal, from its Present Site in the Barrio of San Juan to the Barrio of San Pedro in the Same Municipality	"**REPUBLIC ACT No. 2490**
+
+ **An Act Transferring the Seat of the Government of the Municipality of Morong, Province of Rizal, from its Present Site in the Barrio of San Juan to the Barrio of San Pedro in the Same Municipality**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The seat of government of the Municipality of Morong, Province of Rizal, is transferred from its present site in the barrio of San Juan to the barrio of San Pedro in the same municipality.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act transfers the seat of government of the Municipality of Morong, Province of Rizal, from the barrio of San Juan to the barrio of San Pedro.	"[{""title"": ""Section 1"", ""summary"": ""The seat of government of the Municipality of Morong, Province of Rizal, is transferred from its present site in the barrio of San Juan to the barrio of San Pedro in the same municipality.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	RA 2490	June 21, 1959			Transfer the seat of government from San Juan to San Pedro.	"[""Transfer of the seat of the government of Morong municipality from San Juan to San Pedro.""]"		"[""government"", ""municipality"", ""Rizal"", ""seat transfer""]"	"[""Morong"", ""San Juan"", ""San Pedro"", ""Rizal""]"
+repacts:datasets/markdown/repacts/1959/ra_2491_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2491_1959.md	ra_2491_1959	An Act Changing the Name of the Montalban Elementary School in the Municipality of Montalban, Province of Rizal to E. Rodriguez, Jr., Elementary School	"**REPUBLIC ACT No. 2491**
+
+ **An Act Changing the Name of the Montalban Elementary School in the Municipality of Montalban, Province of Rizal. to E. Rodriguez, Jr., Elementary School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Montalban Elementary School in the Municipality of Montalban, Province of Rizal, is changed to E. Rodriguez, Jr., Elementary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	The act changes the name of Montalban Elementary School to E. Rodriguez, Jr., Elementary School and takes effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Name of the school is changed to E. Rodriguez, Jr., Elementary School.""}, {""title"": ""Section 2"", ""summary"": ""Act takes effect upon approval.""}]"	2491	June 21, 1959			To change the name of a public elementary school.	"[""Name of the school is changed to E. Rodriguez, Jr., Elementary School."", ""Act takes effect upon approval.""]"		"[""Education"", ""School Name Change""]"	"[""Montalban"", ""Rizal"", ""E. Rodriguez Jr."", ""Elementary School"", ""Republic Act 2491""]"
+repacts:datasets/markdown/repacts/1959/ra_2492_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2492_1959.md	ra_2492_1959	An Act Changing the Name of Santa Rosa Elementary School in the Municipality of Baco, Province of Oriental Mindoro, to Julio Hernandez Memorial School	"**REPUBLIC ACT No. 2492**
+
+ **An Act Changing the Name of Santa Rosa Elementary School in the Municipality of Baco, Province of Oriental Mindoro, to Julio Hernandez Memorial School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Santa Rosa Elementary School in the Municipality of Baco, Province of Oriental Mindoro, is hereby changed to Julio Hernandez Memorial School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act changes the name of Santa Rosa Elementary School in Baco, Oriental Mindoro to Julio Hernandez Memorial School.	"[{""title"": ""Section 1"", ""summary"": ""Renames Santa Rosa Elementary School to Julio Hernandez Memorial School.""}, {""title"": ""Section 2"", ""summary"": ""Act takes effect upon its approval.""}]"	2492	June 21, 1959			To rename the Santa Rosa Elementary School in Baco, Oriental Mindoro to Julio Hernandez Memorial School.	"[""Renaming Santa Rosa Elementary School to Julio Hernandez Memorial School"", ""Act shall take effect upon approval""]"		"[""school renaming"", ""education"", ""Oriental Mindoro"", ""municipality of Baco"", ""public school""]"	"[""Santa Rosa Elementary School"", ""Julio Hernandez"", ""Baco"", ""Oriental Mindoro"", ""school renaming"", ""Republic Act 2492""]"
+repacts:datasets/markdown/repacts/1959/ra_2493_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2493_1959.md	ra_2493_1959	An Act Creating the Barrio of San Guillermo in the City of Lipa	"**REPUBLIC ACT No. 2493**
+
+ **An Act Creating the Barrio of San Guillermo in the City of Lipa**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Sala and Pagolingling Bata in the City of Lipa are constituted into a distinct and independent barrio of said City to be known as the barrio of San Guillermo.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	Republic Act No. 2493 establishes the barrio of San Guillermo in the City of Lipa, delineating its boundaries and declaring the act effective upon approval.	"[{""title"": ""Section 1."", ""summary"": ""The sitios of Sala and Pagolingling Bata in the City of Lipa are constituted into a distinct and independent barrio of said City to be known as the barrio of San Guillermo.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2493	June 21, 1959			To create a distinct barrio of San Guillermo in the City of Lipa.	"[""Creation of barrio of San Guillermo"", ""Effectivity upon approval""]"		"[""Barrio creation"", ""Local government"", ""City of Lipa""]"	"[""San Guillermo"", ""Lipa"", ""barrio"", ""Republic Act 2493""]"
+repacts:datasets/markdown/repacts/1959/ra_2494_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2494_1959.md	ra_2494_1959	An Act Creating the Barrio of Bulaklakan in the City of Lipa	"**REPUBLIC ACT No. 2494**
+
+ **An Act Creating the Barrio of Bulaklakan in the City of Lipa**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Palaclacan, Latag and Bulalakao in the City of Lipa are separated from the barrio of Pinagtongulan, and are constituted into a distinct and independent barrio of said city to be known as the barrio of Bulaklakan.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	Establishes the barrio of Bulaklakan by separating the sitios of Palaclacan, Latag, and Bulalakao from the barrio of Pinagtongulan, and declares the act effective upon approval.	"[{""title"": ""Section 1."", ""summary"": ""The sitios of Palaclacan, Latag and Bulalakao in the City of Lipa are separated from the barrio of Pinagtongulan, and are constituted into a distinct and independent barrio of said city to be known as the barrio of Bulaklakan.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2494	June 21, 1959			To create a new barrio in the City of Lipa by separating specific sitios from an existing barrio.	"[""Creation of the barrio of Bulaklakan"", ""Separation of sitios Palaclacan, Latag and Bulalakao from barrio of Pinagtongulan"", ""Act takes effect upon approval""]"		"[""local government"", ""barrio"", ""Lipa"", ""Philippines""]"	"[""Barrio"", ""Lipa"", ""Palaclacan"", ""Latag"", ""Bulalakao"", ""Pinagtongulan"", ""June 1959"", ""Republic Act""]"
+repacts:datasets/markdown/repacts/1959/ra_2495_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2495_1959.md	ra_2495_1959	An Act Creating the Barrio of Malitlit in the City of Lipa	"**REPUBLIC ACT No. 2495**
+
+ **An Act Creating the Barrio of Malitlit in the City of Lipa**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Malitlit in the City of Lipa is converted into a barrio of said city to be known as the barrio of Malitlit.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This Republic Act converts the sitio of Malitlit into a barrio of the City of Lipa, naming it the barrio of Malitlit.	"[{""title"": ""Section 1."", ""summary"": ""Converts the sitio of Malitlit into a barrio of Lipa city, named as the barrio of Malitlit.""}, {""title"": ""Section 2."", ""summary"": ""The act takes effect upon its approval.""}]"	2495	June 21, 1959			To establish the barrio of Malitlit within the City of Lipa.	"[""Conversion of sitio Malitlit into a barrio."", ""Act takes effect upon approval.""]"		"[""Republic Act"", ""Barangay"", ""Lipa""]"	"[""Malitlit"", ""Barrio"", ""Lipa"", ""Republic Act 2495""]"
+repacts:datasets/markdown/repacts/1959/ra_2496_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2496_1959.md	ra_2496_1959	An Act Creating the Municipality of Mabinay in the Province of Negros Oriental	"**REPUBLIC ACT No. 2496**
+
+ **An Act Creating the Municipality of Mabinay in the Province of Negros Oriental**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Baliw, Landas, Langao, Abis, Himocdongon, Bato, Luyang Namangka, Tadlong, Lumbangan, Panyabonan, Tubod, Inapoy, Barras and Banban of Barrio Bagtic, Municipality of Bais, Province of Negros Oriental, are separated from said municipality and are constituted into a distinct and independent municipality to be known as the Municipality of Mabinay, Province of Negros Oriental.
+
+ **Section 2.** The seat of government shall be in the Mabinay proposed townsite in sitio Tadlong, or in any of the sitios therein which the municipal council by two-thirds vote may hereafter propose: *Provided,* That if the municipal council fails or omits to propose a different site within one year after the organization of the municipal government, the permanent site shall be the Mabinay proposed townsite: *Provided, further,* That should the council propose a different site within the period stated, that site so proposed shall be the seat of the municipal government.
+
+ **Section 3.** The first mayor, vice-mayor and councilors of the new municipality shall be appointed by the President of the Philippines with the consent of the Commission on Appointments not earlier than the first of January, nineteen hundred and sixty, and shall hold office until their successors shall have been elected in the next general elections for provincial and municipal officials, and shall have been duly qualified.
+
+ **Section 4.** This Act shall take effect on January first, nineteen hundred and sixty.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act creates the Municipality of Mabinay by separating several sitios from the Municipality of Bais, designates the seat of government, appoints officials, and sets the effective date.	"[{""title"": ""Section 1"", ""summary"": ""Separates the sitios of Baliw, Landas, Langao, Abis, Himocdongon, Bato, Luyang Namangka, Tadlong, Lumbangan, Panyabonan, Tubod, Inapoy, Barras and Banban from Bais municipality to constitute the Municipality of Mabinay.""}, {""title"": ""Section 2"", ""summary"": ""Specifies the seat of government to be in the Mabinay proposed townsite in sitio Tadlong, with provisions for alternative sites if proposed by the municipal council.""}, {""title"": ""Section 3"", ""summary"": ""Authorizes the President to appoint the first mayor, vice-mayor, and councilors with consent of the Commission on Appointments before January 1, 1960.""}, {""title"": ""Section 4"", ""summary"": ""States that the act shall take effect on January 1, 1960.""}]"	2496	June 21, 1959			To create the Municipality of Mabinay in the Province of Negros Oriental.	"[""Separation of sitios to form Municipality of Mabinay"", ""Designation of seat of government"", ""Appointment of first municipal officials by the President"", ""Effective date January 1, 1960""]"		"[""Municipality Creation"", ""Local Government""]"	"[""Mabinay"", ""Negros Oriental"", ""Municipality"", ""Republic Act"", ""Philippines""]"

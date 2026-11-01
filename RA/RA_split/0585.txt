@@ -1,0 +1,136 @@
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act changes the names of the barrios Balaynan and Aroro to San Rafael and San Pedro in Goa municipality.	"[{""title"": ""Section 1."", ""summary"": ""The names of the barrios of Balaynan and Aroro in the Municipality of Goa, Province of Camarines Sur, are changed to San Rafael and San Pedro, respectively.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2599	June 21, 1959			To change the names of specific barrios in the Municipality of Goa, Camarines Sur.	"[""Names of the barrios Balaynan and Aroro are changed to San Rafael and San Pedro."", ""The Act takes effect upon its approval.""]"		"[""Republic Act"", ""Barrios"", ""Camarines Sur"", ""Place Name Change""]"	"[""barrios"", ""Goa"", ""Camarines Sur"", ""name change"", ""San Rafael"", ""San Pedro""]"
+repacts:datasets/markdown/repacts/1959/ra_2600_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2600_1959.md	ra_2600_1959	An Act Creating Certain Barrios in the Municipalities of Malitbog and Sogod, Province of Leyte	"**REPUBLIC ACT No. 2600**
+
+ **An Act Creating Certain Barrios in the Municipalities of Malitbog and Sogod, Province of Leyte**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The following sitios and streets in the Municipality of Malitbog, Province of Leyte, are hereby constituted into barrios:
+
+ a. Sitios Cabongbongan and Cantamoac into a barrio to be known as Barrio Cantamoac; b. Sitios Lambunao and Guinabunan into a barrio to be known as Barrio Lambunao; c. Sitios Caraatan and Manislag into a barrio to be known as Barrio Caraatan; d. Sitios Calicot and Pacil into a barrio to be known as Barrio Pacil; e. Rizal Avenue, F. Escano Street and San Antonio Street into a barrio to be known as Barrio San Antonio; f. Quezon Avenue and Cabul-anonan into a barrio to be known as Barrio Cabul-anonan; g. Sitios Sabang, Abgao and Gutos into a barrio to be known as Barrio Abgao; h. Sitios Sangahon, Maningning, Comonohan and Bagacay into a barrio to be known as Barrio Sangahon; i. Sitios Aliali, Bunga, Hinatigan and part of sitios Jubas into a barrio to be known as Barrio Aliali; j. Sitios Tigbawan South, Pericohon and Cansigna into a barrio to be known as Barrio Tigbawan Sur; k. Sitio Tigbawan Norte and part of Sitio Jubac into a barrio to be known as Barrio Tigbawan Norte; l. Sitios Timba and Iba into a barrio to be known as Barrio Iba. m. Sitios Maujo and Juangon into a barrio to be known as Barrio Maujo; n. Sitios Hugpa, Panaytayon, Hinagtikan, Hahangin, Hagwason, Pong-on and Bod into a barrio to be known as Barrio Rizal; o. Sitio Cabascan into a barrio to be known as Barrio Cabascan; p. Sitios Pañas, Tinago and Higosoan into a barrio to be known as Barrio Cambite; q. Sitios Cardeling, Lawan Biasong and Maanyog into a barrio to be known as Barrio Maanyag; r. Sitios Carnaga, Pong-ong, Maugob and Bacuel into a barrio to be known as Barrio Carnaga; s. Sitios Buenavista, Mapgap, Tewis and Anahawan into a barrio to be known as Barrio Anahawan; t. Sitios Camorosan, Kapartidosan and Cawayan into a barrio to be known as Barrio Cawayan; and u. Sitios Maslog, Taginoling and Calayogan into a barrio to be known as Barrio Maslog. **Section 2.** The sitio of Punong in the Municipality of Sogod, Province of Leyte, is hereby converted into a barrio to be known as Barrio La Purisima Concepcion.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	The Act establishes new barrios in the municipalities of Malitbog and Sogod in Leyte by converting specified sitios and streets into barrios and declares the Act effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Constitutes a list of sitios and streets in Malitbog into new barrios, including Barrio Cantamoac, Barrio Lambunao, Barrio Caraatan, Barrio Pacil, Barrio San Antonio, Barrio Cabul-anonan, Barrio Abgao, Barrio Sangahon, Barrio Aliali, Barrio Tigbawan Sur, Barrio Tigbawan Norte, Barrio Iba, Barrio Maujo, Barrio Rizal, Barrio Cabascan, Barrio Cambite, Barrio Maanyag, Barrio Carnaga, Barrio Anahawan, Barrio Cawayan, and Barrio Maslog.""}, {""title"": ""Section 2"", ""summary"": ""Converts the sitio of Punong in Sogod into a barrio named La Purisima Concepcion.""}, {""title"": ""Section 3"", ""summary"": ""The Act shall take effect upon its approval.""}]"	2600	June 21, 1959			To create and formalize new barrios in the municipalities of Malitbog and Sogod, thereby recognizing local settlements.	"[""Creation of barrios in Malitbog"", ""Conversion of Punong sitio into Barrio La Purisima Concepcion"", ""Effectivity upon approval""]"		"[""Local Government"", ""Barrios"", ""Leyte""]"	"[""barrios"", ""Malitbog"", ""Sogod"", ""Leyte"", ""municipalities"", ""sitios""]"
+repacts:datasets/markdown/repacts/1959/ra_2601_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2601_1959.md	ra_2601_1959	An Act Creating Barrios in Certain Municipalities of the Province of Rizal	"**REPUBLIC ACT No. 2601**
+
+ **An Act Creating Barrios in Certain Municipalities of the Province of Rizal**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Caniogan, Calero and Lunang in the Municipality of Morong, Province of Rizal, are constituted into a distinct and independent barrio of said municipality to be known as the barrio of Caniogan.
+
+ **Section 2.** The sitios of Barangka, Parang and Nangka in the Municipality of Marikina, same province, are converted into barrios of the said municipality to be known as the barrios of Barangka, Parang and Nangka, respectively.
+
+ **Section 3.** The sitio of Manggahan in the Municipality of Pasig, same province, is converted into a barrio of said municipality to be known as the barrio of Manggahan.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Local Government	Republic Act No. 2601 establishes new barrios in specific municipalities of Rizal province, designating certain sitios as independent barrios.	"[{""title"": ""Section 1."", ""summary"": ""Constitutes the sitios of Caniogan, Calero and Lunang in Morong as the distinct barrio of Caniogan.""}, {""title"": ""Section 2."", ""summary"": ""Converts the sitios of Barangka, Parang and Nangka in Marikina into barrios of the same names.""}, {""title"": ""Section 3."", ""summary"": ""Converts the sitio of Manggahan in Pasig into a barrio of the same name.""}, {""title"": ""Section 4."", ""summary"": ""The Act shall take effect upon its approval.""}]"	2601	June 21, 1959			To create independent barrios in selected municipios of Rizal province.	"[""Establishment of barrio of Caniogan in Morong"", ""Creation of barrios of Barangka, Parang and Nangka in Marikina"", ""Creation of barrio of Manggahan in Pasig"", ""Effectivity upon approval""]"		"[""Local Government"", ""Barangay"", ""Rizal"", ""1959""]"	"[""barrios"", ""municipalities"", ""Rizal"", ""Caniogan"", ""Barangka"", ""Parang"", ""Nangka"", ""Manggahan"", ""Republic Act 2601""]"
+repacts:datasets/markdown/repacts/1959/ra_2602_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2602_1959.md	ra_2602_1959	An Act Providing that the Aguisan Bridge Recently Constructed in the Boundary of the Municipalities of Himamaylan and Binalbagan, Province of Occidental Negros, Shall Hereafter be Known as the Magsaysay Bridge	"**REPUBLIC ACT No. 2602**
+
+ **An Act Providing that the Aguisan Bridge Recently Constructed in the Boundary of the Municipalities of Himamaylan and Binalbagan, Province of Occidental Negros, Shall Hereafter be Known as the Magsaysay Bridge**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The Aguisan bridge recently constructed in the boundary of the municipalities of Himamaylan and Binalbagan, Province of Occidental Negros, shall hereafter be known as the Magsaysay Bridge.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	The act names the Aguisan Bridge in Himamaylan and Binalbagan, Occidental Negros, as the Magsaysay Bridge and provides that it shall take effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""The Aguisan Bridge shall be known as the Magsaysay Bridge.""}, {""title"": ""Section 2."", ""summary"": ""The Act shall take effect upon its approval.""}]"	2602	June 21, 1959				"[""The Aguisan Bridge shall be known as the Magsaysay Bridge."", ""The Act shall take effect upon its approval.""]"		"[""Infrastructure"", ""Bridge"", ""Philippines"", ""Republic Act""]"	"[""Aguisan Bridge"", ""Magsaysay Bridge"", ""Himamaylan"", ""Binalbagan"", ""Occidental Negros"", ""1959""]"
+repacts:datasets/markdown/repacts/1959/ra_2603_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2603_1959.md	ra_2603_1959	An Act Creating the Barrio of Dapdap in the Municipality of San Remigio, Province of Cebu	"**REPUBLIC ACT No. 2603**
+
+ **An Act Creating the Barrio of Dapdap in the Municipality of San Remigio, Province of Cebu**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Dapdap in the Municipality of San Remigio, Province of Cebu, is converted into a barrio of the said Municipality to be known as the barrio of Dapdap.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	Establishes the barrio of Dapdap in San Remigio, Cebu, by converting the sitio into a barrio and sets the act to take effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Converts the sitio of Dapdap into a barrio of the Municipality of San Remigio.""}, {""title"": ""Section 2."", ""summary"": ""The act shall take effect upon its approval.""}]"	2603	June 21, 1959			To create the barrio of Dapdap in San Remigio, Cebu.	"[""Conversion of the sitio of Dapdap into a barrio"", ""Act takes effect upon approval""]"		"[""Republic Act"", ""Barrio"", ""San Remigio"", ""Cebu""]"	"[""barrio"", ""Dapdap"", ""San Remigio"", ""Cebu"", ""Republic Act 2603""]"
+repacts:datasets/markdown/repacts/1959/ra_2604_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2604_1959.md	ra_2604_1959	An Act Changing the Names of a Barrio and of Sitios in the Municipality of Polanco, Province of Zamboanga del Norte	"**REPUBLIC ACT No. 2604**
+
+ **An Act Changing the Names of a Barrio and of Sitios in the Municipality of Polanco, Province of Zamboanga del Norte**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the barrio of Loboc in the Municipality of Polanco, Province of Zamboanga del Norte, is changed to San Miguel, and the names of the sitios of Lantoy and Biga-an in the same municipality are changed to Sto. Niño and Mabuhay, respectively.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act changes the name of the barrio of Loboc to San Miguel and the names of the sitios of Lantoy and Biga-an to Sto. Niño and Mabuhay, respectively, in the Municipality of Polanco.	"[{""title"": ""Section 1"", ""summary"": ""The name of the barrio of Loboc in the Municipality of Polanco, Province of Zamboanga del Norte, is changed to San Miguel, and the names of the sitios of Lantoy and Biga-an in the same municipality are changed to Sto. Ni\u00f1o and Mabuhay, respectively.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	2604	June 21, 1959			To rename a barrio and sitios in Polanco, Zamboanga del Norte.	"[""Rename barrio Loboc to San Miguel"", ""Rename sitio Lantoy to Sto. Ni\u00f1o"", ""Rename sitio Biga-an to Mabuhay"", ""Act takes effect upon approval""]"		"[""Local Government"", ""Barangay"", ""Zamboanga del Norte""]"	"[""Republic Act"", ""name change"", ""barrio"", ""sitio"", ""Polanco"", ""Zamboanga del Norte"", ""San Miguel"", ""Sto. Ni\u00f1o"", ""Mabuhay""]"
+repacts:datasets/markdown/repacts/1959/ra_2605_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2605_1959.md	ra_2605_1959	AN ACT CONVERTING THE SITIO OF OBAY IN THE MUNICIPALITY OF POLANCO, PROVINCE OF ZAMBOANGA DEL NORTE, INTO A BARRIO TO BE KNOWN AS BARRIO OBAY.	"**REPUBLIC ACT No. 2605**
+
+ AN ACT CONVERTING THE SITIO OF OBAY IN THE MUNICIPALITY OF POLANCO, PROVINCE OF ZAMBOANGA DEL NORTE, INTO A BARRIO TO BE KNOWN AS BARRIO OBAY.
+
+ **Section 1.** The sitio of Obay in the Municipality of Polanco, Province of Zamboanga del Norte, is converted into a barrio to be known as Barrio Obay.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Enacted without executive approval, June 21, 1959
+"	success	Local Government	Converts the sitio of Obay in Polanco, Zamboanga del Norte, into a barrio named Barrio Obay.	"[{""title"": ""Section 1"", ""summary"": ""The sitio of Obay in the Municipality of Polanco, Province of Zamboanga del Norte, is converted into a barrio to be known as Barrio Obay.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	RA No. 2605	June 21, 1959			To convert the sitio of Obay into a barrio named Barrio Obay.	"[""Converts the sitio of Obay into a barrio named Barrio Obay"", ""The Act takes effect upon approval""]"		"[""Local Government"", ""Barangay"", ""Zamboanga del Norte""]"	"[""RA 2605"", ""Obay"", ""Polanco"", ""Zamboanga del Norte"", ""Barrio"", ""Sitio"", ""Conversion"", ""Local Government"", ""Barangay creation""]"
+repacts:datasets/markdown/repacts/1959/ra_2606_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2606_1959.md	ra_2606_1959	An Act Changing the Name of the Barrio of Utod in the Municipality of Baybay, Province of Leyte, to Guadalupe	"**REPUBLIC ACT No. 2606**
+
+ **An Act Changing the Name of the Barrio of Utod in the Municipality of Baybay, Province of Leyte, to Guadalupe**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the barrio of Utod in the Municipality of Baybay, Province of Leyte, is changed to Guadalupe.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act changes the name of the barrio of Utod in Baybay, Leyte to Guadalupe, effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The name of the barrio of Utod is changed to Guadalupe.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	2606	June 21, 1959			To change the name of the barrio of Utod to Guadalupe.	"[""Name of the barrio of Utod in Baybay, Leyte is changed to Guadalupe."", ""Effective upon approval.""]"		"[""Name Change"", ""Local Government""]"	"[""Utod"", ""Guadalupe"", ""Baybay"", ""Leyte"", ""Republic Act 2606"", ""Barrio Name Change""]"
+repacts:datasets/markdown/repacts/1959/ra_2607_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2607_1959.md	ra_2607_1959	An Act Changing the Name of the Barrio of Padildil in the Municipality of San Quintin, Province of Abra, to Villa Mercedes	"**REPUBLIC ACT No. 2607**
+
+ **An Act Changing the Name of the Barrio of Padildil in the Municipality of San Quintin, Province of Abra, to Villa Mercedes**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the barrio of Padildil in the Municipality of San Quintin, Province of Abra, is changed to Villa Mercedes.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	An act to change the name of the barrio of Padildil to Villa Mercedes.	"[{""title"": ""Section 1. The name of the barrio of Padildil in the Municipality of San Quintin, Province of Abra, is changed to Villa Mercedes."", ""summary"": ""The name of the barrio of Padildil is changed to Villa Mercedes.""}, {""title"": ""Section 2. This Act shall take effect upon its approval."", ""summary"": ""The act shall take effect upon its approval.""}]"	2607	June 21, 1959			To change the name of the barrio of Padildil to Villa Mercedes.	"[""The name of the barrio of Padildil is changed to Villa Mercedes."", ""The act shall take effect upon its approval.""]"		"[""Name change"", ""Local government"", ""Barangay""]"	"[""Padildil"", ""Villa Mercedes"", ""San Quintin"", ""Abra"", ""barrio"", ""name change""]"
+repacts:datasets/markdown/repacts/1959/ra_2608_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2608_1959.md	ra_2608_1959	An Act to Further Amend Section Ten of Republic Act Numbered Three Hundred Forty	"**REPUBLIC ACT No. 2608**
+
+ **An Act to Further Amend Section Ten of Republic Act Numbered Three Hundred Forty,**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section ten of Republic Act Numbered Three hundred forty, as amended by Republic Act Numbered Nineteen hundred three, is further amended to read as follows:
+
+ > ""Sec. 10. An enlisted man or officer below the rank of colonel who is entitled to the benefits of this Act shall be retired or separated from the service one rank higher than the permanent rank he holds at the time of retirement or separation. Colonels and brigadier generals shall be retired or separated from the service in the rank they hold at the time of their retirement without any promotion in rank. But the gratuity, retirement or separation pay due them or their beneficiaries under this Act shall be computed on the basis of the base and longevity pay of the rank next higher than the permanent rank they held or hold at the time of their retirement. An enlisted man, or an officer below the rank of major general who was retired or separated from the service due to physical or mental disability incurred in line of duty shall receive an annual retirement pay corresponding to the next higher rank from his adjusted or retired rank: *Provided,* That such separation of officer or enlisted man was not a punishment duly meted him as a result of general or special court martial findings And, provided further, That separation from the service was not due to his own misconduct, willful failure, the intemperate use of drugs or alcoholic liquor or vicious or immoral habits. When recalled to active duty, retired officers and enlisted men who were automatically raised one rank by operation of this Act shall resume their rank prior to their retirement. The gratuity or retirement pay provided in section two, and the separation pay provided in section eight of Republic Act Numbered Three hundred forty shall be computed upon the basis of such higher rank in which the officer or enlisted man may be retired or separated: *Provided,* That when an officer who holds or has held the permanent rank of colonel or brigadier general, or an enlisted man who holds or has held the rank of first sergeant, sergeant major or master sergeant is retired or has been retired in that rank the gratuity, retirement pay or separation pay due him or his beneficiaries under this Act shall be computed on the basis of the base and longevity pay of the next higher rank. For purposes of this Act, the rank next higher than first sergeants, sergeant majors and master sergeants shall be second lieutenant.""
+
+ **Section 2.** The sum of two hundred thousand pesos and any sum appropriated by law for the retirement of members of the Armed Forces of the Philippines shall be and are hereby appropriated and made available for carrying out the provisions of this Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	The act amends Section 10 of RA 340 to adjust retirement and separation ranks and benefits for enlisted men and officers below colonel, clarifying pay calculations, disability retirement, and reactivation provisions, and appropriates funds for implementation.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 10 of RA 340 to specify that enlisted men or officers below colonel retire or separate one rank higher than their permanent rank, with colonels and brigadier generals retiring at their current rank. It outlines gratuity and retirement pay calculations based on the next higher rank, provides provisions for disability retirements, limits punitive separations, and sets rules for recalled personnel to resume pre-retirement ranks.""}, {""title"": ""Section 2"", ""summary"": ""Appropriates two hundred thousand pesos and any other appropriated sums for retiring Armed Forces of the Philippines members to carry out the provisions of the act.""}, {""title"": ""Section 3"", ""summary"": ""States that the act will take effect upon its approval.""}]"	2608	June 21, 1959			To further amend Section 10 of RA 340, clarifying retirement ranks, pay calculations, and funding for Armed Forces personnel.	"[""Enlisted men or officers below colonel retire one rank higher than their permanent rank"", ""Colonels and brigadier generals retire at current rank with no promotion"", ""Gratuity and retirement pay computed based on next higher rank"", ""Disability retirement pay for enlisted men or officers below major general"", ""Recalled personnel resume prior rank before retirement"", ""Appropriation of funds for implementation""]"	Republic Act No. 340 and its amendment by Republic Act No. 1903	"[""retirement"", ""armed forces"", ""pay"", ""rank"", ""disability""]"	"[""retirement rank"", ""gratuity"", ""separation pay"", ""disability retirement"", ""appropriation""]"
+repacts:datasets/markdown/repacts/1959/ra_2609_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2609_1959.md	ra_2609_1959	AN ACT TO AUTHORIZE THE CENTRAL BANK OF THE PHILIPPINES TO ESTABLISH A MARGIN OVER BANKS' SELLING RATES OF FOREIGN EXCHANGE.	"**REPUBLIC ACT No. 2609**
+
+ AN ACT TO AUTHORIZE THE CENTRAL BANK OF THE PHILIPPINES TO ESTABLISH A MARGIN OVER BANKS' SELLING RATES OF FOREIGN EXCHANGE.
+
+ **Section 1.** The provisions of any law to the contrary notwithstanding when and as long as the Central Bank of the Philippines subjects all transactions in gold and foreign exchange to licensing in accordance with the provisions of section seventy-four of Republic Act Numbered Two hundred sixty-five, the Central Bank, in respect of all sales of foreign exchange by the Central Bank and its authorized agent banks, shall have authority to establish a uniform margin of not more than forty per cent over the banks' selling rates stipulated by the Monetary Board under section seventy-nine of Republic Act Numbered Two hundred sixty-five, which margin shall not be changed oftener than once a year except upon the recommendation of the National Economic Council and the approval of the President. The Monetary Board shall fix the margin at such rate as it may deem necessary to effectively curtail any excessive demand upon the international reserve.
+
+ In implementing the provisions of this Act, along with other monetary, credit and fiscal measures to stabilize the economy, the monetary authorities shall take steps for the adoption of a four-year program of gradual decontrol.
+
+ **Section 2.** The margin established by the Monetary Board pursuant to the provision of section one hereof shall not be imposed upon the sale of foreign exchange for the importation of the following:
+
+ I. DRUGS AND MEDICINES
+
+ a. Amebacides, except emetine preparations. b. Amino Acid preparations and analgesic poultices. c. Anaesthetics, all types. d. Antiacids, absorbents, and preparations. e. Antibiotics and preparations, except dosage forms of penicillin, streptomycin and/or combinations. f. Anticholinergic preparations. g. Anticoagulants. h. Anti-leprosy preparations. i. Antimalarials, except quinine preparations. j. Antispasmodic, anticonvulsant, and sympathomimetic preparations. k. Antitoxins, vaccines, sera, toxoids, and antigens. l. Homogenized baby foods. m. Diagnostic and laboratory reagents. n. Digitalis and preparations. o. Drugs (crude or otherwise), chemicals (simple or compound) for pharmaceutical manufacture or chemicals to be used for the manufacture of insecticides and pesticides when, in both cases, imported by duly licensed laboratories or manufacturers. p. Drugs and medicines for the use of the dental and veterinary professions. q. Ergot and preparations r. Fumigants, disinfectants, insecticides, pesticides, and preparations. s. Gland products and synthetic substitutes. t. Hemostatics for topical use. u. Hexylresorcinol preparations. v. Insulin, all forms. w. Liver extract. x. Mercurial diuretics. y. Narcotics and hypnotics, natural or synthetic, and preparations. z. Pharmaceutical glassware and containers not manufactured locally. aa. Plasma. bb. Saccharin and substitutes cc. Salt substitutes. dd. Steroids and preparations. ee. Surgical antiseptics. ff. Vitamins. gg. Other drugs and medicines which are not mere substitutes of those locally produced, and not yet commercially available, authorized by the Secretary of Health each year upon the recommendation of the Philippine Medical Association and the Philippine Federation of Private Medical Practitioners: *Provided*, That the Secretary of Commerce and Industry shall certify as to their not being commercially available. II. MEDICAL, DENTAL AND HOSPITAL SUPPLIES
+
+ a. Adhesives, plasters, bandages, gauzes, and dressings. b. Cottons, absorbents or synthetics substitutes. c. Dental instruments, equipment and supplies. d. Diagnostic instruments. e. Hospital and surgical rubber goods including catheters, and plastic venoclysis sets. f. Electro-medical therapy equipment. g. Optometric instruments and supplies. h. Surgical and medical instruments, equipment and supplies, artificial limbs and splints, including operating lights and sterilizers, except examining and treatment tables. i. X-Ray equipment, films and supplies, including contrasts media. j. Radium and radioactive materials for therapy. k. Spare parts for dental electro-medical, therapy and X-Ray equipment. l. Supplies and equipment to be used for the collection and administration of blood. III. Fertilizers and soil conditioners and fertilizers components needed in the manufacture of fertilizers.

@@ -1,0 +1,190 @@
+
+ Approved:JUN 29 2022
+
+ (SGD.)**RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Healthcare	The act increases the bed capacity of the Lingayen District Hospital from 60 to 100 beds and appropriates funds for upgrading facilities, workforce, and services.	"[{""title"": ""Section 1"", ""summary"": ""Authorized bed capacity increased from 60 to 100 beds; future increases contingent on hospital development plan.""}, {""title"": ""Section 2"", ""summary"": ""Existing health care services and facilities upgraded to match the increased bed capacity.""}, {""title"": ""Section 3"", ""summary"": ""Hospital workforce, including doctors, nurses, and support personnel, increased accordingly.""}, {""title"": ""Section 4"", ""summary"": ""Provincial Government of Pangasinan to provide necessary funds for bed capacity increase and facility upgrades.""}, {""title"": ""Section 5"", ""summary"": ""Secretary of the Department of Health to include support for the hospital\u2019s capital outlay in the DOH subsidy program.""}, {""title"": ""Section 6"", ""summary"": ""Any unconstitutional provisions are invalidated without affecting the rest of the act.""}, {""title"": ""Section 7"", ""summary"": ""All inconsistent laws, executive orders, issuances, rules, and regulations are modified accordingly.""}, {""title"": ""Section 8"", ""summary"": ""Act takes effect 15 days after publication in the Official Gazette or a newspaper of general circulation.""}]"	11875	June 29, 2022			To increase bed capacity and enhance health services at Lingayen District Hospital.	"[""Increase bed capacity from 60 to 100"", ""Upgrade health care services and facilities"", ""Increase hospital workforce"", ""Allocate provincial funds"", ""DOH subsidy support"", ""Invalidation of unconstitutional provisions"", ""Modification of inconsistent laws"", ""Effectivity 15 days after publication""]"		"[""Healthcare"", ""Hospital"", ""Bed Capacity"", ""Pangasinan""]"	"[""Lingayen District Hospital"", ""bed capacity"", ""Pangasinan"", ""healthcare"", ""DOH subsidy"", ""funding""]"
+repacts:datasets/markdown/repacts/2022/ra_11876_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11876_2022.md	ra_11876_2022	AN ACT ESTABLISHING IN THE CITY OF TAGAYTAY, PROVINCE OF CAVITE, A GENERAL HOSPITAL TO BE KNOWN AS THE ISAAC TOLENTINO MEMORIAL MEDICAL CENTER, AND APPROPRIATING FUNDS THEREFOR	"Eighteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-sixth day of July, two thousand twenty one.*
+
+ **[ REPUBLIC ACT NO. 11876, June 29, 2022 ]**
+
+ **AN ACT ESTABLISHING IN THE CITY OF TAGAYTAY, PROVINCE OF CAVITE, A GENERAL HOSPITAL TO BE KNOWN AS THE ISAAC TOLENTINO MEMORIAL MEDICAL CENTER, AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** There shall be established in the City of Tagaytay, Province of Cavite, a general hospital to be known as the Isaac Tolentino Memorial Medical Center, which shall be under the direct control and supervision of the City Government of Tagaytay. The hospital shall be developed into a medical facility that leads and specialize in sports and rehabilitation medicine.
+
+ **Section 2.** The City Government of Tagaytay shall manage the Isaac Tolentino Memorial Medical Center, and prepare, in consultation with the Department of Health, a hospital development plan that is aligned with the Philippine Health Facility Development Plan. Any future increase in bed capacity, health care facilities, service capability, and human resources complement shall be based on the hospital development plan.
+
+ **Section 3.** The City Government of Tagaytay shall provide the necessary funds for the establishment of the Isaac Tolentino Memorial Medical Center. The Secretary of the DOH shall include in the Departments subsidy program, support for the capital outlay requirements of the said hospital.
+
+ **Section 4.** If any provision or part of this Act is declared unconstitutional, the remaining parts or provisions not affected shall remain in full force and effect.
+
+ **Section 5.** All laws, executive orders, issuances, rules and regulations inconsistent with this Act are hereby modified accordingly.
+
+ **Section 6.** This Act shall take effect fifteen (15) days after its publication in theOfficial Gazetteor in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **LORD ALAN JAY Q. VELASCO** Speaker of the House of Representatives | (SGD.)**VICENTE C. SOTTO III** President of the Senate |
+| --- | --- |
+| (SGD.) **LORD ALAN JAY Q. VELASCO** Speaker of the House of Representatives | (SGD.)**VICENTE C. SOTTO III** President of the Senate |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on August 3, 2021 and May 31, 2022, respectively.
+
+ | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.)**MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved:JUN 29 2022
+
+ (SGD.)**RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	The act establishes the Isaac Tolentino Memorial Medical Center, a general hospital in Tagaytay, Cavite, under city control, outlines its development plan, funding, and management, and appropriates necessary funds.	"[{""title"": ""Section 1."", ""summary"": ""Stipulates the establishment of the Isaac Tolentino Memorial Medical Center in Tagaytay under the direct control of the city government and its focus on sports and rehabilitation medicine.""}, {""title"": ""Section 2."", ""summary"": ""Mandates the city government to manage the center and develop a hospital plan in consultation with the Department of Health, aligning with national health facility plans.""}, {""title"": ""Section 3."", ""summary"": ""Provides that the city government will supply necessary funds and that the DOH secretary will include the center in its subsidy program.""}, {""title"": ""Section 4."", ""summary"": ""Ensures that if any part of the act is declared unconstitutional, the remaining unaffected provisions remain in force.""}, {""title"": ""Section 5."", ""summary"": ""States that all inconsistent laws, orders, issuances, rules, and regulations are hereby modified to align with this act.""}, {""title"": ""Section 6."", ""summary"": ""Specifies that the act takes effect fifteen days after its publication in the Official Gazette or a newspaper of general circulation.""}]"	11876	June 29, 2022	"[{""name"": ""LORD ALAN JAY Q. VELASCO"", ""title"": ""Speaker of the House of Representatives""}, {""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}]"	"[{""name"": ""MYRA MARIE D. VILLARICA"", ""title"": ""Secretary of the Senate""}, {""name"": ""MARK LLANDRO L. MENDOZA"", ""title"": ""Secretary General House of Representatives""}]"	To establish a general hospital in Tagaytay, Cavite for sports and rehabilitation medicine and to appropriate funds for its construction and operation.	"[""Establishment of the Isaac Tolentino Memorial Medical Center"", ""City of Tagaytay management and supervision"", ""Development plan in consultation with DOH"", ""Funding provision by city and DOH subsidy"", ""Effectivity after publication"", ""Modification of inconsistent laws""]"		"[""Health"", ""Hospital"", ""Tagaytay"", ""Cavite"", ""Philippines"", ""Republic Act""]"	"[""Isaac Tolentino Memorial Medical Center"", ""Tagaytay"", ""Cavite"", ""General Hospital"", ""Sports Medicine"", ""Rehabilitation"", ""Department of Health"", ""Health Facility Development Plan"", ""Funding"", ""Budget""]"
+repacts:datasets/markdown/repacts/2022/ra_11877_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11877_2022.md	ra_11877_2022	AN ACT CONVERTING THE ORIENTAL MINDORO CENTRAL DISTRICT HOSPITAL IN THE MUNICIPALITY OF PINAMALAYAN, PROVINCE OF ORIENTAL MINDORO, INTO A PROVINCIAL HOSPITAL TO BE KNOWN AS THE ORIENTAL MINDORO PROVINCIAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR	"Eighteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-sixth day of July, two thousand twenty one.*
+
+ **[ REPUBLIC ACT NO. 11877, June 29, 2022 ]**
+
+ **AN ACT CONVERTING THE ORIENTAL MINDORO CENTRAL DISTRICT HOSPITAL IN THE MUNICIPALITY OF PINAMALAYAN, PROVINCE OF ORIENTAL MINDORO, INTO A PROVINCIAL HOSPITAL TO BE KNOWN AS THE ORIENTAL MINDORO PROVINCIAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** The Oriental Mindoro Central District Hospital in the Municipality of Pinamalayan, Province of Oriental Mindoro, is hereby converted into a provincial hospital to be known as the Oriental Mindoro Provincial Hospital.
+
+ **Section 2.** The authorized bed capacity of the OMPH shall be increased from twenty-five (25) to one hundred fifty (150) beds. Any future increase in bed capacity shall be consistent with the hospital development plan that shall be prepared by the Chief of Hospital of the OMPH, and submitted to the Department of Health (DOH).
+
+ **Section 3.** The existing professional health care services and facilities of the OMPH shall also be upgraded to conform with and be commensurate to the increase in bed capacity as provided for in Section 2 hereof.
+
+ **Section 4.** The existing workforce of the OMPH, which includes doctors, nurses and support personnel, shall be increased correspondingly.
+
+ **Section 5.** The Provincial Government of Oriental Mindoro shall provide the necessary funds to cover the maintenance and other operating expenses of the OMPH. It shall also appropriate funds for the additional human resource complement to support the increase in bed capacity and the corresponding upgrading of its services facilities and professional health care services.
+
+ EC. 6. The Secretary of the DOH shall include in the Departments subsidy program, support for the capital outlay requirements of the OMPH.
+
+ **Section 7.** If any provision or part of this Act is declared unconstitutional, the remaining parts or provisions not affected shall remain in full force and effect.
+
+ **Section 8.** All laws, executive orders, issuances, rules and regulations inconsistent with this Act are hereby modified accordingly.
+
+ **Section 9.** This Act shall take effect fifteen (15) days after its publication in theOfficial Gazetteor in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **LORD ALAN JAY Q. VELASCO** Speaker of the House of Representatives | (SGD.)**VICENTE C. SOTTO III** President of the Senate |
+| --- | --- |
+| (SGD.) **LORD ALAN JAY Q. VELASCO** Speaker of the House of Representatives | (SGD.)**VICENTE C. SOTTO III** President of the Senate |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on August 25, 2021 and May 31, 2022, respectively.
+
+ | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.)**MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved:JUN 29 2022
+
+ (SGD.)**RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Healthcare	The act converts the Oriental Mindoro Central District Hospital into a provincial hospital, increases its bed capacity from 25 to 150, upgrades services and workforce, appropriates necessary funds, and includes support from the Department of Health.	"[{""title"": ""Section 1"", ""summary"": ""Conversion of the Oriental Mindoro Central District Hospital into the Oriental Mindoro Provincial Hospital.""}, {""title"": ""Section 2"", ""summary"": ""Increase of authorized bed capacity from 25 to 150 beds and provision for future increases per hospital development plan.""}, {""title"": ""Section 3"", ""summary"": ""Upgrade of existing professional health care services and facilities to match increased bed capacity.""}, {""title"": ""Section 4"", ""summary"": ""Increase of the existing workforce, including doctors, nurses, and support personnel.""}, {""title"": ""Section 5"", ""summary"": ""Provincial Government of Oriental Mindoro to provide necessary funds for maintenance, operating expenses, and human resource complement.""}, {""title"": ""Section 6"", ""summary"": ""Secretary of the DOH to include capital outlay support in the Department's subsidy program.""}, {""title"": ""Section 7"", ""summary"": ""If any provision is declared unconstitutional, remaining provisions remain in effect.""}, {""title"": ""Section 8"", ""summary"": ""Modification of all laws, executive orders, issuances, rules and regulations inconsistent with this act.""}, {""title"": ""Section 9"", ""summary"": ""Act takes effect fifteen days after publication in the Official Gazette or in a newspaper of general circulation.""}]"	11877	June 29, 2022	"[{""name"": ""LORD ALAN JAY Q. VELASCO"", ""title"": ""Speaker of the House of Representatives""}, {""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}]"	"[{""name"": ""MYRA MARIE D. VILLARICA"", ""title"": ""Secretary of the Senate""}, {""name"": ""MARK LLANDRO L. MENDOZA"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""RODRIGO ROA DUTERTE"", ""title"": ""President of the Philippines""}]"	To convert the Oriental Mindoro Central District Hospital into a provincial hospital, increase bed capacity, upgrade services and workforce, and appropriate necessary funds.	"[""Conversion of the hospital to provincial status"", ""Increase of bed capacity to 150"", ""Upgrade of services and facilities"", ""Increase of workforce"", ""Provision of funds by provincial government"", ""DOH capital outlay support"", ""Effectivity after publication"", ""Modification of inconsistent laws""]"	All laws, executive orders, issuances, rules and regulations inconsistent with this Act are hereby modified accordingly.	"[""Healthcare"", ""Hospital"", ""Provincial"", ""Republic Act"", ""Philippines""]"	"[""Oriental Mindoro"", ""Hospital"", ""Bed Capacity"", ""Health Services"", ""Department of Health"", ""Funding""]"
+repacts:datasets/markdown/repacts/2022/ra_11878_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11878_2022.md	ra_11878_2022	AN ACT ESTABLISHING IN THE CITY OF MEYCAUAYAN, PROVINCE OF BULACAN, A TERTIARY HOSPITAL TO BE KNOWN AS THE OSPITAL NG MEYCAUAYAN, AND APPROPRIATING FUNDS THEREFOR	"Eighteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-sixth day of July, two thousand twenty one.*
+
+ **[ REPUBLIC ACT NO. 11878, June 29, 2022 ]**
+
+ **AN ACT ESTABLISHING IN THE CITY OF MEYCAUAYAN, PROVINCE OF BULACAN, A TERTIARY HOSPITAL TO BE KNOWN AS THE OSPITAL NG MEYCAUAYAN, AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** There shall be established in the City of Meycauayan, Province of Bulacan, a tertiary hospital to be known as the Ospital ng Meycauayan, which shall be under the direct control and supervision of the city government.
+
+ **Section 2.** The City Government of Meycauayan shall manage the Ospital ng Meycauayan, and shall prepare a hospital development plan, aligned with the Philippine Health Facility Development Plan, in consultation with the Department of Health (DOH). Any future increase in bed capacity, health care facilities, service capability, and human resources complement shall be based on the hospital development plan.
+
+ **Section 3.** The City Government of Meycauayan shall provide the necessary funds for the establishment of the Ospital ng Meycauayan. The Secretary of the DOH shall include in the Departments subsidy program, support for the capital outlay requirements of the said hospital.
+
+ **Section 4.** If any provision or part of this Act is declared unconstitutional, the remaining parts or provisions not affected shall remain in full force and effect.
+
+ **Section 5.** All laws, executive orders, issuances, rules and regulations inconsistent with this Act are hereby modified accordingly.
+
+ **Section 6.** This Act shall take effect fifteen (15) days after its publication in theOfficial Gazetteor in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **LORD ALAN JAY Q. VELASCO** Speaker of the House of Representatives | (SGD.)**VICENTE C. SOTTO III** President of the Senate |
+| --- | --- |
+| (SGD.) **LORD ALAN JAY Q. VELASCO** Speaker of the House of Representatives | (SGD.)**VICENTE C. SOTTO III** President of the Senate |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on August 31, 2021 and May 31, 2022, respectively.
+
+ | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.)**MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved:JUN 29 2022
+
+ (SGD.)**RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	The Act establishes the Ospital ng Meycauayan, a tertiary hospital in Meycauayan, Bulacan, and appropriates funds for its establishment. The hospital is to be managed by the city government with oversight and support from the Department of Health.	"[{""title"": ""Section 1."", ""summary"": ""Establishes the Ospital ng Meycauayan as a tertiary hospital under the direct control and supervision of the city government.""}, {""title"": ""Section 2."", ""summary"": ""Mandates the City Government of Meycauayan to manage the hospital and prepare a development plan aligned with the Philippine Health Facility Development Plan in consultation with the DOH.""}, {""title"": ""Section 3."", ""summary"": ""Requires the city to provide necessary funds and the DOH Secretary to include the hospital in the Department\u2019s subsidy program for capital outlay.""}, {""title"": ""Section 4."", ""summary"": ""Provides severability, allowing the remaining provisions to remain in force if part of the Act is declared unconstitutional.""}, {""title"": ""Section 5."", ""summary"": ""Modifies any laws, executive orders, issuances, rules, or regulations inconsistent with this Act.""}, {""title"": ""Section 6."", ""summary"": ""Specifies that the Act takes effect fifteen days after publication in the Official Gazette or a newspaper of general circulation.""}]"	Republic Act No. 11878	June 29, 2022			To improve healthcare services in Meycauayan by establishing a tertiary hospital and ensuring its financial and operational viability.	"[""Establishment of Ospital ng Meycauayan"", ""Management by city government"", ""Development plan with DOH"", ""Funding by city and DOH subsidy"", ""Severability clause"", ""Modification of inconsistent laws"", ""Effectivity after 15 days""]"		"[""Healthcare"", ""Hospital"", ""Local Government"", ""Philippines"", ""Republic Act""]"	"[""Ospital ng Meycauayan"", ""Bulacan"", ""DOH"", ""Hospital Development Plan"", ""Tertiary Hospital"", ""Public Health"", ""Funding"", ""Health Facility""]"
+repacts:datasets/markdown/repacts/2022/ra_11879_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11879_2022.md	ra_11879_2022	AN ACT INCREASING THE BED CAPACITY OF THE DAVAO REGIONAL MEDICAL CENTER IN THE CITY OF TAGUM, PROVINCE OF DAVAO DEL NORTE, FROM SIX HUNDRED (600) TO ONE THOUSAND (1000) BEDS AND APPROPRIATING FUNDS THEREFOR	"Eighteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-sixth day of July, two thousand twenty one.*
+
+ **[ REPUBLIC ACT NO. 11879, June 29, 2022 ]**
+
+ **AN ACT INCREASING THE BED CAPACITY OF THE DAVAO REGIONAL MEDICAL CENTER IN THE CITY OF TAGUM, PROVINCE OF DAVAO DEL NORTE, FROM SIX HUNDRED (600) TO ONE THOUSAND (1000) BEDS AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** The authorized bed capacity of the Davao Regional Medical Center in the City of Tagum, Province of Davao del Norte is hereby increased from six hundred (600) to one thousand (1000) beds. Any future increase in bed capacity shall be consistent with the hospital development plan that shall be prepared by Chief of Hospital of the Davao Regional Medical Center and submitted to the Department of Health (DOH).
+
+ **Section 2.** The existing professional health care services and facilities of the Davao Regional Medical Center shall also be upgraded to conform with and be commensurate to the bed capacity increase as provided for Section 1 hereof.
+
+ **Section 3.** The existing workforce of the Davao Regional Medical Center, which includes doctors, nurses and support personnel, shall also be increased correspondingly.
+
+ **Section 4.** The Secretary of the DOH shall, after consultation with the Chief of Hospital of the Davao Regional Medical Center, and in coordination with the Secretary of the Department of Budget and Management and the Chairperson of the Civil Service Commission, determine the additional new positions to be created.
+
+ **Section 5.** The Secretary of the DOH shall immediately include in the DOHs program the implementation of this Act, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 6.** All laws, executive orders, issuances, rules and regulations inconsistent with this Act are hereby modified accordingly.
+
+ **Section 7.** This Act shall take effect fifteen (15) days after its publication in theOfficial Gazetteor in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **LORD ALAN JAY Q. VELASCO** Speaker of the House of Representatives | (SGD.)**VICENTE C. SOTTO III** President of the Senate |
+| --- | --- |
+| (SGD.) **LORD ALAN JAY Q. VELASCO** Speaker of the House of Representatives | (SGD.)**VICENTE C. SOTTO III** President of the Senate |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on September 14, 2021 and May 31, 2022, respectively.
+
+ | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.)**MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved:JUN 29 2022
+
+ (SGD.)**RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	The act increases the bed capacity of the Davao Regional Medical Center from 600 to 1000 beds and appropriates funds for upgrades and staffing.	"[{""title"": ""Section 1."", ""summary"": ""Increases authorized bed capacity from 600 to 1000 beds and requires future increases to align with a hospital development plan.""}, {""title"": ""Section 2."", ""summary"": ""Upgrades existing professional health care services and facilities to match the increased bed capacity.""}, {""title"": ""Section 3."", ""summary"": ""Increases workforce of the medical center, including doctors, nurses, and support personnel.""}, {""title"": ""Section 4."", ""summary"": ""Determines additional new positions by the Secretary of DOH in consultation with the Chief of Hospital, the Secretary of Budget and Management, and the Chairperson of the Civil Service Commission.""}, {""title"": ""Section 5."", ""summary"": ""Includes implementation of the act in the DOH program, with funding included in the annual General Appropriations Act.""}, {""title"": ""Section 6."", ""summary"": ""Modifies all laws, executive orders, issuances, rules, and regulations inconsistent with this Act.""}, {""title"": ""Section 7."", ""summary"": ""Act takes effect fifteen days after publication in the Official Gazette or a newspaper of general circulation.""}]"	11879	June 29, 2022	"[{""name"": ""LORD ALAN JAY Q. VELASCO"", ""title"": ""Speaker of the House of Representatives""}, {""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}]"	"[{""name"": ""MYRA MARIE D. VILLARICA"", ""title"": ""Secretary of the Senate""}, {""name"": ""MARK LLANDRO L. MENDOZA"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""RODRIGO ROA DUTERTE"", ""title"": ""President of the Philippines""}]"	To increase the bed capacity of Davao Regional Medical Center and appropriate funds for necessary upgrades and staffing.	"[""Increase bed capacity from 600 to 1000 beds"", ""Upgrade professional health care services and facilities"", ""Increase workforce"", ""Create additional new positions"", ""Include funding in annual General Appropriations Act"", ""Modify inconsistent laws"", ""Effective 15 days after publication""]"		"[""Healthcare"", ""Bed capacity"", ""Davao"", ""Medical Center""]"	"[""bed capacity"", ""Davao Regional Medical Center"", ""hospital"", ""DOH"", ""budget"", ""funding"", ""public health""]"
+repacts:datasets/markdown/repacts/2022/ra_11880_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11880_2022.md	ra_11880_2022	AN ACT INCREASING THE BED CAPACITY OF THE EASTERN PANGASINAN DISTRICT HOSPITAL IN THE MUNICIPALITY OF TAYUG, PROVINCE OF PANGASINAN FROM ONE HUNDRED FIFTY (150) TO TWO HUNDRED FIFTY (250) AND APPROPRIATING FUNDS THEREFOR	"Eighteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-sixth day of July, two thousand twenty one.*
+
+ **[ REPUBLIC ACT NO. 11880, June 29, 2022 ]**
+
+ **AN ACT INCREASING THE BED CAPACITY OF THE EASTERN PANGASINAN DISTRICT HOSPITAL IN THE MUNICIPALITY OF TAYUG, PROVINCE OF PANGASINAN FROM ONE HUNDRED FIFTY (150) TO TWO HUNDRED FIFTY (250) AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** The authorized bed capacity of the Eastern Pangasinan District Hospital in the Municipality of Tayug, Province of Pangasinan is hereby increased from one hundred fifty (150) to two hundred fifty (250) beds. Any future increase in bed capacity shall be consistent with the hospital development plan that shall be prepared by Chief of Hospital of the Eastern Pangasinan District Hospital and submitted to the Department of Health (DOH).
+
+ **Section 2.** The existing professional health care services and facilities of the Eastern Pangasinan District Hospital shall also be upgraded to conform with and be commensurate to the bed capacity increase as provided for Section 1 hereof.
+
+ **Section 3.** The existing workforce of the Eastern Pangasinan District Hospital, which includes doctors, nurses and support personnel, shall also be increased correspondingly.
+
+ **Section 4.** The Provincial Government of Pangasinan shall provide the necessary funds to cover the maintenance and other operating expenses of the Eastern Pangasinan District Hospital. It shall also appropriate funds for the additional human resource complement to support the increase in bed capacity and the corresponding upgrading of its service facilities and professional health care services.
+
+ **Section 5.** The Secretary of the DOH shall immediately include in the DOHs subsidy program, support for the capital outlay requirements of the Eastern Pangasinan District Hospital.
+
+ **Section 6.** If any provision or part of this Act is declared unconstitutional, the remaining parts or provisions not affected shall remain in full force and effect.
+
+ **Section 7.** All laws, executive orders, issuances, rules and regulations inconsistent with this Act are hereby modified accordingly.
+
+ **Section 8.** This Act shall take effect fifteen (15) days after its publication in theOfficial Gazetteor in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **LORD ALAN JAY Q. VELASCO** Speaker of the House of Representatives | (SGD.)**VICENTE C. SOTTO III** President of the Senate |
+| --- | --- |
+| (SGD.) **LORD ALAN JAY Q. VELASCO** Speaker of the House of Representatives | (SGD.)**VICENTE C. SOTTO III** President of the Senate |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on September 14, 2021 and May 31, 2022, respectively.

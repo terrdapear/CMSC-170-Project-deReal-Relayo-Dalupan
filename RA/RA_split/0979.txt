@@ -1,0 +1,144 @@
+
+ Approved: June 19, 1965.
+"	success	Republic Act	Republic Act No. 4357 grants Teodoro P. Alberto a 25‑year franchise to construct, install, and operate radio stations in the Philippines, subject to presidential and Secretary of Public Works and Communications oversight and conditions.	"[{""title"": ""Section 1"", ""summary"": ""Establishes the franchise granting the grantee the right to construct and operate radio stations for domestic and international communications.""}, {""title"": ""Section 2"", ""summary"": ""Reserved the President authority to take over or authorize use of the stations during times of war or public calamity without compensating the grantee.""}, {""title"": ""Section 3"", ""summary"": ""Empowers the President to permit construction of the stations on public domain land under prescribed terms.""}, {""title"": ""Section 4"", ""summary"": ""Sets the franchise term to 25 years with conditions on commencement and completion of construction.""}, {""title"": ""Section 5"", ""summary"": ""Requires the Secretary of Public Works and Communications to allot frequencies and issue licenses before the franchise takes effect.""}, {""title"": ""Section 6"", ""summary"": ""Mandates the grantee to construct and operate stations to avoid interference with existing stations.""}, {""title"": ""Section 7"", ""summary"": ""Insures the government against claims arising from accidents caused by the grantee\u2019s stations.""}, {""title"": ""Section 8"", ""summary"": ""Prohibits the grantee from taking private property without condemnation and compensation.""}, {""title"": ""Section 9"", ""summary"": ""Obligates the grantee to maintain accounts and submit them to the Auditor General and Treasurer.""}, {""title"": ""Section 10"", ""summary"": ""Prohibits the grantee from leasing, transferring, or assigning the franchise or its rights.""}]"	4357				To grant a franchise for the establishment and operation of radio stations for domestic and international telecommunications to Teodoro P. Alberto.	"[""Grant of franchise for radio stations"", ""Presidential authority to take over stations during emergencies"", ""Presidential authority to permit construction on public land"", ""25\u2011year franchise term with construction conditions"", ""Frequency allocation by Secretary of Public Works and Communications"", ""Avoidance of interference with existing stations"", ""Hold government harmless from accidents"", ""Prohibition of taking private property without compensation"", ""Accountability requirements for the grantee"", ""Prohibition of transferring or leasing the franchise""]"	Act No. 846 (regulation of radio stations) and Commonwealth Act No. 146 (Public Service Act).	"[""Franchise"", ""Radio"", ""Telecommunications"", ""Republic Act"", ""Philippines""]"	"[""Teodoro P. Alberto"", ""radio stations"", ""frequencies"", ""public works"", ""government"", ""franchise"", ""telecommunications""]"
+repacts:datasets/markdown/repacts/1965/ra_4358_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4358_1965.md	ra_4358_1965	An Act to Increase the Maximum Limit of Salaries of Municipal Officers, Amending for the Purpose Republic Act Numbered Thirty-Nine Hundred and Eighty-Two	"**REPUBLIC ACT No. 4358**
+
+ An Act to Increase the Maximum Limit of Salaries of Municipal Officers, Amending for the Purpose Republic Act Numbered Thirty-Nine Hundred and Eighty-Two
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section twenty-one hundred and eighty-four of the Revised Administrative Code, as amended by Republic Acts Numbered Twenty-three hundred and sixty-eight and Thirty-nine hundred and eighty-two, is hereby further amended to read as follows:
+
+ > ""Sec. 2184. *Salaries of municipal officers.* (A) Except as otherwise specially provided herein, the annual salaries of municipal officers in first class, second class, and third class municipalities shall not exceed the amounts hereinbelow fixed:
+>
+>  ""In municipalities of the first class that have obtained during the next preceding two fiscal years an average total annual revenue of two million five hundred thousand pesos or more (First Class-1): For the mayor, ten thousand eight hundred pesos; for the municipal treasurer, ten thousand two hundred pesos; for the municipal secretary and the chief of police, five thousand four hundred pesos; and for the chief of municipal fire department, four thousand and eighty pesos;
+>
+>  ""In municipalities of the first class that have obtained during the next preceding two fiscal years an average total annual revenue of one million five hundred thousand pesos or more but less than two million five hundred thousand pesos (First Class-2): For the mayor, ten thousand two hundred pesos; for the municipal treasurer, nine thousand six hundred pesos; for the municipal secretary and the chief of police, five thousand one hundred pesos; and for the chief of municipal fire department, three thousand eight hundred and forty pesos;
+>
+>  ""In municipalities of the first class that have obtained during the next preceding two fiscal years an average total annual revenue of one million pesos or more but less than one million five hundred thousand pesos (First Class-3); For the mayor, nine thousand six hundred pesos; for the municipal treasurer, nine thousand pesos; for the municipal secretary and the chief of police, four thousand eight hundred pesos; and for the chief of municipal fire department, three thousand six hundred pesos;
+>
+>  ""In municipalities of the first class that have obtained during the next preceding two fiscal years an average total annual revenue of seven hundred thousand pesos or more but less than one million pesos (First Class-4): For the mayor, nine thousand pesos; for the municipal treasurer, eight thousand four hundred pesos; for the municipal secretary and the chief of police, four thousand five hundred pesos; and for the chief of municipal fire department, three thousand three hundred and sixty pesos;
+>
+>  ""In municipalities of the first class that have obtained during the next preceding two fiscal years an average total annual revenue of five hundred thousand pesos or more but less than seven hundred thousand pesos (First Class-5): For the mayor, eight thousand four hundred pesos; for the municipal secretary and the chief of police, four thousand two hundred pesos; and for the chief of municipal fire department, three thousand one hundred and twenty pesos;
+>
+>  ""In other municipalities of the first class with an average total annual revenue of three hundred thousand pesos or more but less than five hundred thousand pesos (First Class-6): For the mayor, seven thousand eight hundred pesos; for the municipal treasurer, seven thousand two hundred pesos; for the municipal secretary and the chief of police, three thousand nine hundred pesos; and for the chief of municipal fire department, two thousand nine hundred and forty pesos;
+>
+>  ""In municipalities of the second class: For the mayor, seven thousand two hundred pesos; for the municipal treasurer, six thousand six hundred pesos; for the municipal secretary and the chief of police, three thousand six hundred pesos; and for the chief of municipal fire department, two thousand seven hundred and sixty pesos; and
+>
+>  ""In municipalities of the third class: For the mayor, six thousand six hundred pesos; for the municipal treasurer, six thousand pesos; for the municipal secretary and the chief of police, three thousand three hundred pesos; and for the chief of municipal fire department, two thousand six hundred and forty pesos.
+>
+>  ""(B) Subject to the provisions of the last paragraph hereof, the annual salaries of municipal officers in municipalities below third class shall not exceed the amounts hereinbelow fixed:
+>
+>  ""In municipalities of the fourth class: For the mayor, six thousand pesos; for the municipal treasurer, five thousand four hundred pesos; for the municipal secretary and the chief of police, three thousand pesos; and for the chief of municipal fire department, two thousand four hundred pesos;
+>
+>  ""In municipalities of the fifth class: For the mayor, five thousand four hundred pesos; for the municipal treasurer, four thousand five hundred and sixty pesos; for the municipal secretary and the chief of police, two thousand seven hundred pesos; and for the chief of municipal fire department, two thousand one hundred and sixty pesos;
+>
+>  ""In municipalities of the sixth class: For the mayor, four thousand eight hundred pesos; for the municipal treasurer, four thousand and eighty pesos; and for the municipal secretary and the chief of police, two thousand two hundred and eighty pesos;
+>
+>  ""In municipalities of the seventh class: For the mayor, three thousand six hundred pesos; for the municipal treasurer, three thousand three hundred and sixty pesos; and for the municipal secretary and the chief of police, one thousand nine hundred and twenty pesos.
+>
+>  ""Two thirds of the salary of the municipal treasurer shall be paid out of municipal funds, in his capacity as such, and one-third thereof out of provincial funds, in his capacity as deputy of the provincial treasurer: *Provided,* That the provincial board concerned may, in its discretion, authorize as deputy of the provincial treasurer an amount more than the maximum portion fixed herein as payable from provincial funds, provided the corresponding maximum salary rate hereinabove fixed is not exceeded.
+>
+>  ""Any provision of existing law to the contrary notwithstanding, a municipal treasurer who is appointed to the position of deputy assessor may be allowed additional compensation for his services in such capacity which shall not exceed twenty per centum of his total emolument as deputy provincial and municipal treasurer as hereinabove fixed: *Provided,* That two-thirds of such additional compensation shall be payable from provincial funds, and one-third thereof from municipal funds.
+>
+>  ""With the approval of the Provincial Board, the annual salaries of municipal officers of a municipality which is the capital of a province or a sub-province may be fixed at rates higher than those authorized for the class to which the municipality belongs: *Provided,* That the salaries so fixed shall not exceed the maximum rates authorized for the corresponding officers in the next higher scale of salaries herein established: *Provided, further,* That in case no higher scale is provided herein, said salaries of officers and of provincial and subprovincial capitals, with the approval of the Provincial Board, be increased by not more than three hundred and sixty pesos per annum.""
+
+ **Section 2.** For purposes of the schedule of salaries prescribed for municipal officers of first class municipalities, the Secretary of Finance shall, as of July first, nineteen hundred and sixty-five, and after each period of two consecutive fiscal years thereafter, sub-classify all first class municipalities as classified as such under the provisions of Section twenty-one hundred and seventy-one of the Revised Administrative Code, as amended by Republic Acts Numbered Twenty-three hundred and sixty-eight and Thirty-nine hundred and eighty-two, on the basis of their average annual income during the last two fiscal years immediately preceding the subclassification.
+
+ **Section 3.** All Acts or parts thereof inconsistent with any of the provisions of this Act are hereby repealed or modified accordingly.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1965.
+"	success	Republic Act	This act amends Section 2184 of the Revised Administrative Code to raise the maximum salaries of municipal officers based on municipal class and revenue.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 2184 of the Revised Administrative Code to set salary limits for municipal officers across various classes.""}]"	4358				Increase the salaries of municipal officers	"[""Amend Section 2184 of the Revised Administrative Code"", ""Set salary limits by municipal class and revenue"", ""Adjust salaries based on municipal revenue levels"", ""Provide split payment for municipal treasurer""]"	Revised Administrative Code Sec. 2184, RA 2368, RA 3982	"[""salary"", ""municipal"", ""public service"", ""Revised Administrative Code""]"	"[""municipal officer salaries"", ""Sec. 2184"", ""class"", ""revenue"", ""treasurer payment""]"
+repacts:datasets/markdown/repacts/1965/ra_4359_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4359_1965.md	ra_4359_1965	An Act to Create the National Schistosomiasis Control Commission, Authorizing the Necessary Funds Therefor	"**REPUBLIC ACT No. 4359**
+
+ An Act to Create the National Schistosomiasis Control Commission, Authorizing the Necessary Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The National Schistosomiasis Control Program is hereby created under the Department of Health to serve as a liaison agency between the government of the Philippines and the WHO/UNICEF, and as a coordinating body to ensure the concerted effort of various agencies concerned in planning and implementing a comprehensive program for schistosomiasis control in endemic and potentially endemic areas of the country.
+
+ **Section 2.** The membership of the Commission shall be composed of the following: The Secretary of Health as chairman, the Secretary of Education, the Secretary of Agriculture and Natural Resources, the Secretary of Public Works and Communications, the Chairman, National Economic Council, the Social Welfare Administrator, the Commissioner of Agricultural Productivity, the Director General of Program Implementation Agency, the National Irrigation Administrator, the Presidential Assistant on Community Development, the General Manager, National Waterworks & Sewerage Authority, the Budget Commissioner, and the President, Philippine Medical Association.
+
+ The chairman may designate the technical head of the schistosomiasis control program as executive secretary of the Commission. He may also secure the services on detail basis of officials and employees of other branches and agencies of the government to assist the Commission in the discharge of its duties and functions.
+
+ **Section 3.** The Commission shall create an executive committee and such other committees or sub-committees as may be necessary for the effective and efficient performance of its duties and proper exercise of its powers and responsibilities.
+
+ Under the executive committee there shall be created the secretariat and the necessary personnel provided therefor to carry out the administrative and general services functions of the National Schistosomiasis Control Commission.
+
+ **Section 4.** The members of the National Schistosomiasis Control Commission will serve in honorary capacity and shall receive no compensation or remuneration, except traveling expenses and per diems when attending sessions of the Commission, its committees and sub-committees in such amount and under such conditions as the Secretary of Health may prescribe.
+
+ **Section 5.** The National Schistosomiasis Control Commission shall have the following powers and duties:
+
+ (a) Formulate and carry out a comprehensive national schistosomiasis control program. (b) Foster effective exchange of information and coordination of projects, programs and activities of various agencies connected with schistosomiasis control. (c) Establish effective liaison with participating agencies. (d) Submit recommendations to the President on administrative or legislative measures that will effectively carry out the national control program for the disease. **Section 6.** The Commission, its committees and sub-committees shall meet regularly and may hold such special meetings as the exigencies of the undertaking may demand.
+
+ **Section 7.** To carry out the provisions of this Act, the sum of two hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, which sum shall be placed at the disposal of the national schistosomiasis control program in the Philippines.
+
+ **Section 8.** All Acts or parts of Acts, rules and regulations, and executive orders inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+
+ **Section 9.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1965.
+"	success	Republic Act	The Republic Act No. 4359 establishes the National Schistosomiasis Control Commission under the Department of Health, delineates its membership, powers, and duties, authorizes a budget of two hundred thousand pesos, and repeals inconsistent acts.	"[{""title"": ""Section 1"", ""summary"": ""Creation of the National Schistosomiasis Control Program under the Department of Health as a liaison and coordinating body for schistosomiasis control.""}, {""title"": ""Section 2"", ""summary"": ""Defines the composition of the Commission, listing members such as the Secretaries of Health, Education, Agriculture, etc., and appoints the Chairman.""}, {""title"": ""Section 3"", ""summary"": ""Establishment of an executive committee and other necessary committees or sub-committees for effective performance of duties.""}, {""title"": ""Section 4"", ""summary"": ""Members serve honorarily without compensation except travel expenses and per diems.""}, {""title"": ""Section 5"", ""summary"": ""Outlines powers and duties including formulating control programs, coordinating agencies, engaging in liaison, and submitting recommendations to the President.""}, {""title"": ""Section 6"", ""summary"": ""Mandates regular meetings of the Commission and its committees, with flexibility for special meetings.""}, {""title"": ""Section 7"", ""summary"": ""Authorizes appropriation of two hundred thousand pesos for the schistosomiasis control program.""}, {""title"": ""Section 8"", ""summary"": ""Repeals or modifies acts, rules, regulations, and executive orders inconsistent with this Act.""}, {""title"": ""Section 9"", ""summary"": ""States the Act takes effect upon its approval.""}]"	4359	June 19, 1965			To establish a national body for the coordinated control of schistosomiasis, ensuring adequate funding and inter-agency collaboration.	"[""Creation of the National Schistosomiasis Control Commission"", ""Defined membership and roles"", ""Establishment of executive committee and sub-committees"", ""Authorization of two hundred thousand pesos for the program"", ""Repeal of inconsistent laws, rules, and orders""]"		"[""Health"", ""Public Health"", ""Disease Control"", ""Commission""]"	"[""Schistosomiasis"", ""National Control Commission"", ""Funding"", ""Health"", ""Legislation""]"
+repacts:datasets/markdown/repacts/1965/ra_4360_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4360_1965.md	ra_4360_1965	An Act Further Amending Section Sixteen Hundred and Fifty-Nine of the Administrative Code, as Amended	"**REPUBLIC ACT No. 4360**
+
+ An Act Further Amending Section Sixteen Hundred and Fifty-Nine of the Administrative Code, as Amended
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section sixteen hundred fifty-nine of the Administrative Code, as amended by Republic Acts Numbered Nine hundred forty-five, Two thousand sixty-eight, Three thousand four hundred sixty five, Three thousand five hundred ninety-six, and Four thousand one hundred thirty-four, is further amended to read as follows:
+
+ > ""Sec. 1659. *Chief Officials of the Office of the Solicitor General.* The Office of the Solicitor General shall have one chief to be known as the Solicitor General whose salary shall be the same as that of a Justice of the Court of Appeals. He shall be assisted by one First Assistant Solicitor General and six Assistant Solicitors General who shall have the same salary as that of a judge of the Court of First Instance. When the Solicitor General is unable to perform his duties or in case of vacancy in the Office, the First Assistant Solicitor General shall temporarily perform the functions of said Officer, or in his absence, the next Assistant Solicitor General who is senior in the service. There shall also be fifty-three Solicitors whose salaries shall be as follows:
+>
+>  ""(a) Six Solicitors, each of whom shall receive an annual salary of six hundred pesos less than the annual salary of the Assistant Solicitor General;
+>
+>  ""(b) Six Solicitors, each of whom shall receive an annual salary of six hundred pesos less than that provided for in the next preceding subparagraph (a);
+>
+>  ""(c) Six Solicitor, each of whom shall receive an annual salary of six hundred pesos less than that provided for in the next preceding subparagraph (b);
+>
+>  ""(d) Six Solicitors, whose salary shall each be six hundred pesos less than the salary provided for in the next preceding subparagraph (c);
+>
+>  ""(e) Five Solicitors, whose salary shall each be six hundred pesos less than the salary provided for in the next preceding subparagraph (d);
+>
+>  ""(f) Three Solicitors, whose salary shall each be six hundred pesos less than the salary provided for in the next preceding subparagraph (e);
+>
+>  ""(g) Three Solicitors, whose salary shall each be six hundred pesos less than the salary provided for in the next preceding subparagraph (f );
+>
+>  ""(h) Three Solicitors, whose salaries shall be six hundred pesos less than the salary provided for in the next preceding subparagraph (g);
+>
+>  ""(i) Three Solicitors, whose salaries shall be six hundred pesos less than the salary provided for in the next preceding subparagraph (h);
+>
+>  ""(j) Three Solicitors, whose salaries shall be six hundred pesos less than the salary provided for in the next preceding subparagraph (i);
+>
+>  ""(k) Three Solicitors, whose salaries shall be six hundred pesos less than the salary provided for in the next preceding subparagraph (j);
+>
+>  ""(l) Three Solicitors, whose salaries shall be six hundred pesos less than the salary provided for in the next preceding subparagraph (k);
+>
+>  ""(m) Three Solicitors, whose salaries shall be six hundred pesos less than the salary provided for in the next preceding subparagraph (l).
+>
+>  ""The rank, privileges, and qualifications for appointment to the position of Solicitor General shall be the same as an Associate Justice of the Court of Appeals; the rank, privileges, and qualifications for appointment to the position of the First Assistant Solicitor General and the Assistant Solicitors General shall be the same as those prescribed for Judges of Courts of First Instance, and those of Solicitors shall be the same as those prescribed for provincial fiscals.""
+
+ **Section 2.** Section two Republic Act Numbered Three thousand five hundred ninety-six is amended to read as follows:
+
+ > ""Sec. 2. Any existing law to the contrary notwithstanding, there shall also be eight Trial Attorneys to be appointed by the Secretary of Justice upon recommendation of the Solicitor General, and whose salaries shall be as follows:
+>
+>  ""(a) Two Trial Attorneys, seven thousand eight hundred pesos per annum each;
+>
+>  ""(b) Two Trial Attorneys, seven thousand two hundred pesos per annum each;
+>
+>  ""(c) Two Trial Attorneys, six thousand six hundred pesos per annum each;
+>
+>  ""(d) Two Trial Attorneys, six thousand pesos per annum each.
+>
+>  ""The incumbent Solicitor General, First Assistant Solicitor General, and all incumbent Assistant Solicitors General, Solicitors and Trial Attorneys occupying positions affected by the preceding section at the time of effectivity of this Act, shall continue to occupy their respective positions and receive the salary increased herein provided without the necessity of any new appointment.""
+
+ **Section 3.** In addition to such sums as may have been provided in the current Appropriations Act, there is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, such sums as may be necessary to carry out the provisions of this Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1965.
+"	success	Republic Act	Republic Act No. 4360 amends Section 1659 of the Administrative Code and Section 2 of RA 3596 to clarify salaries and positions of the Solicitor General, his assistants, and newly created Trial Attorneys, and authorizes necessary appropriations.	"[{""title"": ""Section 1."", ""summary"": ""Amendment of Section 1659 of the Administrative Code to define salaries and positions for the Solicitor General, First Assistant Solicitor General, Assistant Solicitors General, and Solicitors.""}, {""title"": ""Section 2."", ""summary"": ""Amendment of Section 2 of RA 3596 to create eight Trial Attorneys with specified salaries and to preserve existing appointments.""}, {""title"": ""Section 3."", ""summary"": ""Authorization of appropriation of necessary funds from the National Treasury to implement the provisions of this Act.""}, {""title"": ""Section 4."", ""summary"": ""Effectivity clause stating the Act shall take effect upon its approval.""}]"	4360	June 19, 1965			To further amend the Administrative Code and RA 3596 concerning the Office of the Solicitor General and Trial Attorneys, clarifying salaries, positions, and funding.	"[""Amendment of Section 1659 of the Administrative Code to specify salaries and positions for the Solicitor General and his assistants."", ""Amendment of Section 2 of RA 3596 to create eight Trial Attorneys with specified salaries and preserve existing appointments."", ""Authorization of appropriation of necessary funds to implement the Act.""]"	Section Sixteen Hundred and Fifty-Nine of the Administrative Code; Section Two of Republic Act 3596	"[""Administrative Code"", ""Solicitor General"", ""Trial Attorneys"", ""Salary"", ""Appropriation""]"	"[""Republic Act"", ""Administrative Code"", ""Solicitor General"", ""Trial Attorneys"", ""Salary"", ""Appropriation"", ""Section 1659"", ""Section 2"", ""RA 3596""]"
+repacts:datasets/markdown/repacts/1965/ra_4361_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4361_1965.md	ra_4361_1965	An Act Appropriating Eighty Thousand Pesos for Operational Expenses and Other Incidental Expenses of the Eastern Regional Organization for Public Administration for its Coming Consultative Meeting of the Representatives of Member Nations to be Held in Manila, Philippines, in September, 1965	"**REPUBLIC ACT No. 4361**
+
+ An Act Appropriating Eighty Thousand Pesos for Operational Expenses and Other Incidental Expenses of the Eastern Regional Organization for Public Administration for its Coming Consultative Meeting of the Representatives of Member Nations to be Held in Manila, Philippines, in September, 1965

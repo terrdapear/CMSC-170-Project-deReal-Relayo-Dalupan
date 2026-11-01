@@ -1,0 +1,229 @@
+repacts:datasets/markdown/repacts/2000/ra_8921_2000.md	repacts	2000		datasets/markdown/repacts/2000/ra_8921_2000.md	ra_8921_2000	AN ACT CONVERTING THE TAMBONGON BARANGAY HIGH SCHOOL OF BARANGAY TAMBONGON, MUNICIPALITY OF PANTUKAN, COMPOSTELA VALLEY PROVINCE INTO A NATIONAL HIGH SCHOOL TO BE KNOWN AS THE TAMBONGON NATIONAL HIGH SCHOOL AND PROVIDING APPROPRIATE FUNDS THEREFOR	"Eleventh Congress
+
+ **[ REPUBLIC ACT NO. 8921, August 22, 2000 ]**
+
+ **AN ACT CONVERTING THE TAMBONGON BARANGAY HIGH SCHOOL OF BARANGAY TAMBONGON, MUNICIPALITY OF PANTUKAN, COMPOSTELA VALLEY PROVINCE INTO A NATIONAL HIGH SCHOOL TO BE KNOWN AS THE TAMBONGON NATIONAL HIGH SCHOOL AND PROVIDING APPROPRIATE FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** The Tambongon Barangay High School of Barangay Tambongon, Municipality of Pantukan, Compostela Valley Province is hereby converted into a national high school to be known as the Tambongon National High School.
+
+ **Section 2.** The Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **FRANKLIN M. DRILON** President of Senate | (Sgd.) **MANUEL B. VILLAR JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on March 27, 2000 and May 22, 2000, respectively.
+
+ | (Sgd.) **OSCAR G. YABES** Secretary of Senate | (Sgd.) **ROBERTO P. NAZARENO** Secretary General House of Representatives |
+
+ Approved: August 22, 2000
+
+ (Sgd.) **JOSEPH E. ESTRADA** President of the Philippines
+"	success	Republic Act	This act converts Tambongon Barangay High School into Tambongon National High School and allocates funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""The Tambongon Barangay High School is converted into Tambongon National High School.""}, {""title"": ""Section 2."", ""summary"": ""The Department of Education, Culture and Sports will issue rules and regulations to carry out the purpose of the Act.""}, {""title"": ""Section 3."", ""summary"": ""The necessary amount for the Act's provisions will be included in the following year's General Appropriations Act.""}, {""title"": ""Section 4."", ""summary"": ""The Act shall take effect upon its approval.""}]"	8921	August 22, 2000			To convert Tambongon Barangay High School into a national high school and provide appropriate funds for its operation.	"[""Conversion of Tambongon Barangay High School to Tambongon National High School."", ""Department of Education, Culture and Sports to issue necessary rules and regulations."", ""Funding for the Act to be included in the General Appropriations Act of the following year."", ""Effectiveness upon approval.""]"		"[""Education"", ""High School"", ""Philippines"", ""Republic Act""]"	"[""Tambongon"", ""Barangay High School"", ""National High School"", ""Education"", ""Appropriations"", ""Conversion""]"
+repacts:datasets/markdown/repacts/2000/ra_8922_2000.md	repacts	2000		datasets/markdown/repacts/2000/ra_8922_2000.md	ra_8922_2000	AN ACT CONVERTING THE PALOC BARANGAY HIGH SCHOOL IN BARANGAY PALOC, MARAGUSAN, COMPOSTELA VALLEY PROVINCE INTO THE PALOC NATIONAL HIGH SCHOOL, PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES	"Eleventh Congress
+
+ **[ REPUBLIC ACT NO. 8922, August 22, 2000 ]**
+
+ **AN ACT CONVERTING THE PALOC BARANGAY HIGH SCHOOL IN BARANGAY PALOC, MARAGUSAN, COMPOSTELA VALLEY PROVINCE INTO THE PALOC NATIONAL HIGH SCHOOL, PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** The Paloc Barangay High School in Barangay Paloc, Municipality of Maragusan, Compostela Valley Province is hereby nationalized to be known as the Paloc National High School.
+
+ **Section 2.** All personnel, records, equipment, buildings, facilities and other properties of the Paloc Barangay High School are hereby transferred to the Paloc National High School.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **FRANKLIN M. DRILON** President of Senate | (Sgd.) **MANUEL B. VILLAR JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on April 4, 2000 and May 22, 2000, respectively.
+
+ | (Sgd.) **OSCAR G. YABES** Secretary of Senate | (Sgd.) **ROBERTO P. NAZARENO** Secretary General House of Representatives |
+
+ Approved: August 22, 2000
+
+ (Sgd.) **JOSEPH E. ESTRADA** President of the Philippines
+"	success	Education	This act converts Paloc Barangay High School into Paloc National High School, transfers all personnel and assets, and allocates funding through the General Appropriations Act for its operation.	"[{""title"": ""Section 1"", ""summary"": ""Nationalizes Paloc Barangay High School as Paloc National High School.""}, {""title"": ""Section 2"", ""summary"": ""Transfers all personnel, records, equipment, buildings, facilities, and other properties to the new national high school.""}, {""title"": ""Section 3"", ""summary"": ""Mandates inclusion of necessary funds in the General Appropriations Act of the year following enactment.""}, {""title"": ""Section 4"", ""summary"": ""Act takes effect upon approval.""}]"	8922	August 22, 2000			To convert the Paloc Barangay High School into a national high school and provide funding and resources for its operation.	"[""Nationalization of the school"", ""Transfer of all assets and personnel"", ""Funding allocation via General Appropriations Act"", ""Effectivity upon approval""]"		"[""Education"", ""High School"", ""Nationalization"", ""Philippines""]"	"[""Paloc"", ""Barangay High School"", ""National High School"", ""Compostela Valley"", ""Funding"", ""General Appropriations Act""]"
+repacts:datasets/markdown/repacts/2000/ra_8923_2000.md	repacts	2000		datasets/markdown/repacts/2000/ra_8923_2000.md	ra_8923_2000	AN ACT CONVERTING ANITAPAN HIGH SCHOOL ANNEX OF BARANGAY ANITAPAN, MUNICIPALITY OF MABINI, COMPOSTELA VALLEY PROVINCE, INTO ANITAPAN NATIONAL HIGH SCHOOL AND PROVIDING APPROPRIATE FUNDS THEREFOR	"Eleventh Congress
+
+ **[ REPUBLIC ACT NO. 8923, August 22, 2000 ]**
+
+ **AN ACT CONVERTING ANITAPAN HIGH SCHOOL ANNEX OF BARANGAY ANITAPAN, MUNICIPALITY OF MABINI, COMPOSTELA VALLEY PROVINCE, INTO ANITAPAN NATIONAL HIGH SCHOOL AND PROVIDING APPROPRIATE FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** The Anitapan High School Annex of Barangay Anitapan, Municipality of Mabini, Compostela Valley Province shall be converted into and known as Anitapan National High School under the supervision of the Department of Education, Culture and Sports (DECS).
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **FRANKLIN M. DRILON** President of Senate | (Sgd.) **MANUEL B. VILLAR JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on March 27, 2000 and June 8, 2000, respectively.
+
+ | (Sgd.) **OSCAR G. YABES** Secretary of Senate | (Sgd.) **ROBERTO P. NAZARENO** Secretary General House of Representatives |
+
+ Approved: August 22, 2000
+
+ (Sgd.) **JOSEPH E. ESTRADA** President of the Philippines
+"	success	Republic Act	Converts Anitapan High School Annex into Anitapan National High School and allocates funds for its operation.	"[{""title"": ""Section 1"", ""summary"": ""The Anitapan High School Annex is converted into Anitapan National High School under the supervision of DECS.""}, {""title"": ""Section 2"", ""summary"": ""Funds necessary for the act are to be included in the General Appropriations Act of the following year.""}, {""title"": ""Section 3"", ""summary"": ""The act takes effect upon its approval.""}]"	8923	August 22, 2000			To upgrade the Anitapan High School Annex to a national high school and ensure appropriate funding for its operations.	"[""Conversion of the school annex to a national high school"", ""Allocation of funds in the General Appropriations Act"", ""Effectivity upon approval""]"		"[""education"", ""high school"", ""appropriation""]"	"[""Anitapan"", ""high school"", ""national high school"", ""conversion"", ""Compostela Valley"", ""Philippines"", ""2000""]"
+repacts:datasets/markdown/repacts/2000/ra_8924_2000.md	repacts	2000		datasets/markdown/repacts/2000/ra_8924_2000.md	ra_8924_2000	AN ACT CONVERTING MAINIT-REINERMANN HIGH SCHOOL OF BARANGAY MAINIT, MUNICIPALITY OF NABUNTURAN, COMPOSTELA VALLEY PROVINCE INTO A NATIONAL HIGH SCHOOL TO BE KNOWN AS MAINIT NATIONAL HIGH SCHOOL AND PROVIDING APPROPRIATE FUNDS THEREFOR	"Eleventh Congress
+
+ **[ REPUBLIC ACT NO. 8924, August 22, 2000 ]**
+
+ **AN ACT CONVERTING MAINIT-REINERMANN HIGH SCHOOL OF BARANGAY MAINIT, MUNICIPALITY OF NABUNTURAN, COMPOSTELA VALLEY PROVINCE INTO A NATIONAL HIGH SCHOOL TO BE KNOWN AS MAINIT NATIONAL HIGH SCHOOL AND PROVIDING APPROPRIATE FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** The Mainit-Reinermann High School of Barangay Mainit, Municipality of Nabunturan, Compostela Valley Province shall be converted into a national high school to be known as Mainit National High School under the supervision of the Department of Education, Culture and Sports (DECS).
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **FRANKLIN M. DRILON** President of Senate | (Sgd.) **MANUEL B. VILLAR JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on March 27, 2000 and June 8, 2000, respectively.
+
+ | (Sgd.) **OSCAR G. YABES** Secretary of Senate | (Sgd.) **ROBERTO P. NAZARENO** Secretary General House of Representatives |
+
+ Approved: August 22, 2000
+
+ (Sgd.) **JOSEPH E. ESTRADA** President of the Philippines
+"	success	Republic Act	Converts Mainit-Reinermann High School into Mainit National High School and provides funds for its operation.	"[{""title"": ""Section 1"", ""summary"": ""The Mainit-Reinermann High School of Barangay Mainit, Municipality of Nabunturan, Compostela Valley Province shall be converted into a national high school under the supervision of the Department of Education, Culture and Sports (DECS).""}, {""title"": ""Section 2"", ""summary"": ""The necessary amount to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.""}, {""title"": ""Section 3"", ""summary"": ""This Act shall take effect upon its approval.""}]"	8924	August 22, 2000	"[{""name"": ""FRANKLIN M. DRILON"", ""title"": ""President of Senate""}, {""name"": ""MANUEL B. VILLAR JR."", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""OSCAR G. YABES"", ""title"": ""Secretary of Senate""}, {""name"": ""ROBERTO P. NAZARENO"", ""title"": ""Secretary General House of Representatives""}]"	To convert Mainit-Reinermann High School into a national high school and provide appropriate funds.	"[""Conversion of Mainit-Reinermann High School into Mainit National High School"", ""Funding to be included in the General Appropriations Act"", ""Effectivity upon approval""]"		"[""Education"", ""High School"", ""Philippines"", ""Republic Act""]"	"[""Mainit"", ""Reinermann"", ""National High School"", ""DECS"", ""General Appropriations Act""]"
+repacts:datasets/markdown/repacts/2000/ra_8925_2000.md	repacts	2000		datasets/markdown/repacts/2000/ra_8925_2000.md	ra_8925_2000	AN ACT CONVERTING THE ARAIBO HIGH SCHOOL ANNEX OF BARANGAY ARAIBO, MUNICIPALITY OF PANTUKAN, COMPOSTELA VALLEY PROVINCE INTO THE ARAIBO NATIONAL HIGH SCHOOL AND PROVIDING APPROPRIATE FUNDS THEREFOR	"Eleventh Congress
+
+ **[ REPUBLIC ACT NO. 8925, August 22, 2000 ]**
+
+ **AN ACT CONVERTING THE ARAIBO HIGH SCHOOL ANNEX OF BARANGAY ARAIBO, MUNICIPALITY OF PANTUKAN, COMPOSTELA VALLEY PROVINCE INTO THE ARAIBO NATIONAL HIGH SCHOOL AND PROVIDING APPROPRIATE FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** The Araibo High School Annex of Barangay Araibo, Municipality of Pantukan, Compostela Valley Province shall be converted into and known as the Araibo National High School under the supervision of the Department of Education, Culture and Sports (DECS).
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **FRANKLIN M. DRILON** President of Senate | (Sgd.) **MANUEL B. VILLAR JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on March 27, 2000 and June 8, 2000, respectively.
+
+ | (Sgd.) **OSCAR G. YABES** Secretary of Senate | (Sgd.) **ROBERTO P. NAZARENO** Secretary General House of Representatives |
+
+ Approved: August 22, 2000
+
+ (Sgd.) **JOSEPH E. ESTRADA** President of the Philippines
+"	success	Education	Converts the Araibo High School Annex into Araibo National High School and appropriates funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""The Araibo High School Annex of Barangay Araibo, Municipality of Pantukan, Compostela Valley Province shall be converted into and known as the Araibo National High School under the supervision of the Department of Education, Culture and Sports (DECS).""}, {""title"": ""Section 2."", ""summary"": ""The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.""}, {""title"": ""Section 3."", ""summary"": ""This Act shall take effect upon its approval.""}]"	8925	August 22, 2000		"[{""name"": ""FRANKLIN M. DRILON"", ""title"": ""President of Senate""}, {""name"": ""MANUEL B. VILLAR JR."", ""title"": ""Speaker of the House of Representatives""}, {""name"": ""OSCAR G. YABES"", ""title"": ""Secretary of Senate""}, {""name"": ""ROBERTO P. NAZARENO"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""JOSEPH E. ESTRADA"", ""title"": ""President of the Philippines""}]"	To convert the Araibo High School Annex into Araibo National High School and allocate appropriate funds for its operation.	"[""Conversion of school annex to national high school"", ""Funding appropriation"", ""Effective date upon approval""]"		"[""Education"", ""School"", ""Appropriation"", ""Philippines"", ""Republic Act""]"	"[""Araibo"", ""High School"", ""National High School"", ""Compostela Valley"", ""General Appropriations Act"", ""DECS""]"
+repacts:datasets/markdown/repacts/2000/ra_8926_2000.md	repacts	2000		datasets/markdown/repacts/2000/ra_8926_2000.md	ra_8926_2000	AN ACT CONVERTING KAPATAGAN HIGH SCHOOL ANNEX OF BARANGAY KAPATAGAN, MUNICIPALITY OF LAAC, COMPOSTELA VALLEY PROVINCE, INTO KAPATAGAN NATIONAL HIGH SCHOOL AND PROVIDING APPROPRIATE FUNDS THEREFOR	"Eleventh Congress
+
+ **[ REPUBLIC ACT NO. 8926, August 22, 2000 ]**
+
+ **AN ACT CONVERTING KAPATAGAN HIGH SCHOOL ANNEX OF BARANGAY KAPATAGAN, MUNICIPALITY OF LAAC, COMPOSTELA VALLEY PROVINCE, INTO KAPATAGAN NATIONAL HIGH SCHOOL AND PROVIDING APPROPRIATE FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** The Kapatagan High School Annex of Barangay Kapatagan, Municipality of Laac, Compostela Valley Province shall be converted into and known as the Kapatagan National High School under the supervision of the Department of Education, Culture and Sports (DECS).
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **FRANKLIN M. DRILON** President of Senate | (Sgd.) **MANUEL B. VILLAR JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on March 27, 2000 and June 8, 2000, respectively.
+
+ | (Sgd.) **OSCAR G. YABES** Secretary of Senate | (Sgd.) **ROBERTO P. NAZARENO** Secretary General House of Representatives |
+
+ Approved: August 22, 2000
+
+ (Sgd.) **JOSEPH E. ESTRADA** President of the Philippines
+"	success	Republic Act	This act converts the Kapatagan High School Annex into Kapatagan National High School and appropriates funds for its operation.	"[{""title"": ""Section 1"", ""summary"": ""The Kapatagan High School Annex of Barangay Kapatagan, Municipality of Laac, Compostela Valley Province shall be converted into and known as the Kapatagan National High School under the supervision of the Department of Education, Culture and Sports (DECS).""}, {""title"": ""Section 2"", ""summary"": ""The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.""}, {""title"": ""Section 3"", ""summary"": ""This Act shall take effect upon its approval.""}]"	REPUBLIC ACT NO. 8926	August 22, 2000	"[{""name"": ""OSCAR G. YABES"", ""title"": ""Secretary of Senate""}, {""name"": ""ROBERTO P. NAZARENO"", ""title"": ""Secretary General House of Representatives""}]"	"[{""name"": ""FRANKLIN M. DRILON"", ""title"": ""President of Senate""}, {""name"": ""MANUEL B. VILLAR JR."", ""title"": ""Speaker of the House of Representatives""}]"	To convert the Kapatagan High School Annex into a national high school and provide appropriate funds for its operation.	"[""Conversion of Kapatagan High School Annex to Kapatagan National High School under DECS"", ""Allocation of funds in General Appropriations Act"", ""Effectivity upon approval""]"		"[""Education"", ""School"", ""Appropriations"", ""Republic Act""]"	"[""Kapatagan National High School"", ""General Appropriations"", ""DECS"", ""Compostela Valley"", ""Philippines""]"
+repacts:datasets/markdown/repacts/2000/ra_8927_2000.md	repacts	2000		datasets/markdown/repacts/2000/ra_8927_2000.md	ra_8927_2000	AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY PANDAN, MUNICIPALITY OF CAOAYAN, PROVINCE OF ILOCOS SUR, TO BE KNOWN AS THE CAOAYAN NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR	"Eleventh Congress
+
+ **[ REPUBLIC ACT NO. 8927, August 22, 2000 ]**
+
+ **AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY PANDAN, MUNICIPALITY OF CAOAYAN, PROVINCE OF ILOCOS SUR, TO BE KNOWN AS THE CAOAYAN NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** There is hereby established a national high school in Barangay Pandan, Municipality of Caoayan, Province of Ilocos Sur to be known as the Caoayan National High School.
+
+ **Section 2.** The Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect immediately upon approval thereof.
+
+ Approved,
+
+ | (Sgd.) **FRANKLIN M. DRILON** President of Senate | (Sgd.) **MANUEL B. VILLAR JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on April 4, 2000 and May 22, 2000, respectively.
+
+ | (Sgd.) **OSCAR G. YABES** Secretary of Senate | (Sgd.) **ROBERTO P. NAZARENO** Secretary General House of Representatives |
+
+ Approved: August 22, 2000
+
+ (Sgd.) **JOSEPH E. ESTRADA** President of the Philippines
+"	success	Republic Act	This act establishes the Caoayan National High School in Barangay Pandan, Caoayan, Ilocos Sur, authorizes the Department of Education to issue necessary rules, appropriates funds, and provides for immediate effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of the Caoayan National High School in Barangay Pandan.""}, {""title"": ""Section 2."", ""summary"": ""The Department of Education, Culture and Sports shall issue rules and regulations to implement the act.""}, {""title"": ""Section 3."", ""summary"": ""The necessary funds shall be included in the General Appropriations Act of the following year.""}, {""title"": ""Section 4."", ""summary"": ""The act shall take effect immediately upon approval.""}]"	8927	August 22, 2000			To establish a national high school in Barangay Pandan, Caoayan, Ilocos Sur, and to appropriate funds for its operation.	"[""Establishment of the Caoayan National High School."", ""Delegation of rule\u2011making authority to the Department of Education, Culture and Sports."", ""Appropriation of funds in the General Appropriations Act of the following year."", ""Immediate effect upon approval.""]"		"[""Education"", ""Republic Act"", ""High School"", ""Ilocos Sur"", ""Caoayan""]"	"[""national high school"", ""Caoayan"", ""Ilocos Sur"", ""Republic Act 8927"", ""education""]"
+repacts:datasets/markdown/repacts/2000/ra_8928_2000.md	repacts	2000		datasets/markdown/repacts/2000/ra_8928_2000.md	ra_8928_2000	AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN THE MUNICIPALITY OF TAGUDIN, PROVINCE OF ILOCOS SUR TO BE KNOWN AS THE TAGUDIN NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR	"Eleventh Congress
+
+ **[ REPUBLIC ACT NO. 8928, August 22, 2000 ]**
+
+ **AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN THE MUNICIPALITY OF TAGUDIN, PROVINCE OF ILOCOS SUR TO BE KNOWN AS THE TAGUDIN NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** There shall be established, under the supervision of the Department of Education, Culture and Sports, a national high school in the Municipality of Tagudin to be known as the Tagudin National High School in the Province of Ilocos Sur.
+
+ **Section 2.** Upon mutual agreement between the Department of Education, Culture and Sports and the Commission on Higher Education, an area shall be set aside within the present campus of the Ilocos Sur Polytechnic State College in the municipality concerned for the location of the proposed national high school which is previously the location of the phased-out high school due to the enactment of Republic Act No. 7960 and Republic Act No. 8547.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **FRANKLIN M. DRILON** President of Senate | (Sgd.) **MANUEL B. VILLAR JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on August 17, 1999 and May 22, 2000, respectively.
+
+ | (Sgd.) **OSCAR G. YABES** Secretary of Senate | (Sgd.) **ROBERTO P. NAZARENO** Secretary General House of Representatives |
+
+ Approved: August 22, 2000
+
+ (Sgd.) **JOSEPH E. ESTRADA** President of the Philippines
+"	success	Education	The act establishes the Tagudin National High School in Ilocos Sur and appropriates funds for its construction and operation.	"[{""title"": ""Section 1."", ""summary"": ""Authorizes the establishment of a national high school in Tagudin under the supervision of the Department of Education, Culture and Sports.""}, {""title"": ""Section 2."", ""summary"": ""Mandates the setting aside of land within the Ilocos Sur Polytechnic State College campus for the school, following agreements between the Department of Education, Culture and Sports and the Commission on Higher Education.""}, {""title"": ""Section 3."", ""summary"": ""Specifies that the necessary funds will be included in the General Appropriations Act of the year following its enactment.""}, {""title"": ""Section 4."", ""summary"": ""States that the act will take effect upon its approval.""}]"	8928	August 22, 2000	"[{""name"": ""OSCAR G. YABES"", ""title"": ""Secretary of Senate""}, {""name"": ""ROBERTO P. NAZARENO"", ""title"": ""Secretary General House of Representatives""}]"	"[{""name"": ""FRANKLIN M. DRILON"", ""title"": ""President of Senate""}, {""name"": ""MANUEL B. VILLAR JR."", ""title"": ""Speaker of the House of Representatives""}, {""name"": ""JOSEPH E. ESTRADA"", ""title"": ""President of the Philippines""}]"	To establish a national high school in Tagudin and appropriate funds for its development and operation.	"[""Establishes Tagudin National High School under the Department of Education, Culture and Sports."", ""Sets aside land within Ilocos Sur Polytechnic State College for the school upon agreement with the Commission on Higher Education."", ""Appropriates funds through the General Appropriations Act of the following year."", ""Act takes effect upon approval.""]"	Republic Act No. 7960 and Republic Act No. 8547	"[""Education"", ""High School"", ""Tagudin"", ""Ilocos Sur"", ""Appropriation""]"	"[""Tagudin"", ""National High School"", ""Ilocos Sur"", ""Department of Education, Culture and Sports"", ""Commission on Higher Education"", ""General Appropriations Act""]"
+repacts:datasets/markdown/repacts/2000/ra_8929_2000.md	repacts	2000		datasets/markdown/repacts/2000/ra_8929_2000.md	ra_8929_2000	An Act Establishing a National High School in the Municipality of Santa Maria, Province of Ilocos Sur and Appropriating Funds Therefor	"Eleventh Congress
+
+ **[ REPUBLIC ACT NO. 8929, August 22, 2000 ]**
+
+ **AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN THE MUNICIPALITY OF SANTA MARIA, PROVINCE OF ILOCOS SUR AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** There shall be established, under the supervision of the Department of Education, Culture and Sports, a national high school in the Municipality of Santa Maria to be known as the Santa Maria National High School in the Province of Ilocos Sur.
+
+ **Section 2.** The Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.

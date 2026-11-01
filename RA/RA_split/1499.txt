@@ -1,0 +1,234 @@
+
+ **Section 2.** All incumbent officials occupying positions affected by this Act at the time of its effectivity shall receive the salary increases herein provided without the necessity of any new appointment.
+
+ **Section 3.** The beneficiaries of the salary increases provided for in this Act are not precluded from receiving general salary adjustments that may be provided for government officials and employees in future General Appropriations Acts.
+
+ **Section 4.** Such sums as are necessary to implement this Act for the fiscal year ending June thirty, nineteen hundred and seventy-two are hereby authorized to be appropriated from any savings among the bureaus and offices mentioned in Section one hereof. Thereafter, the necessary sums for the purpose shall be included in the annual General Appropriations Act.
+
+ **Section 5.** This Act shall take effect on July 1, 1971.
+
+ Approved: October 4, 1971
+"	success	Republic Act	This Act amends Republic Act No. 41151 to set minimum salaries for various ranking officials in the Department of Education, effective July 1, 1971, and authorizes funds for its implementation.	"[{""title"": ""Section 1"", ""summary"": ""Amends RA 41151 to set minimum salaries for various ranking officials in the Department of Education, listing salary ranges for each position.""}, {""title"": ""Section 2"", ""summary"": ""Ensures current officials receive the salary increases without new appointments.""}, {""title"": ""Section 3"", ""summary"": ""States that beneficiaries can also receive general salary adjustments from future appropriations.""}, {""title"": ""Section 4"", ""summary"": ""Authorizes necessary sums for implementation from savings for the fiscal year 1972, to be included in the General Appropriations Act.""}, {""title"": ""Section 5"", ""summary"": ""Act takes effect July 1, 1971.""}]"	6410	October 4, 1971			Standardization of salaries for ranking officials in the Department of Education	"[""Director: P14,400 to P17,400 per annum"", ""Assistant Director: P12,000 to P16,800 per annum"", ""Administrative Officer II to VI: P10,800 to P16,200 per annum"", ""Secretary, Board of National Education (Undersecretary): P16,200 per annum"", ""Chief of Division, Chief Educational Planning Analyst, Chief Legal Officer, Personnel Officer IV or Chief Educational Supervisor, Executive Secretary, State Scholarships Council: P15,600 per annum"", ""Assistant Chief of Division, and Assistant Chief Educational Planning Analyst: P15,000 per annum"", ""Supervising Educational Specialist II, Teacher Education Specialist II, Chief Educational Supervisor I, and Education Executive Assistant: P13,800 per annum"", ""Senior Educational Planning Analyst, Private School Special Consultant, Supervising Educational Specialist I, Supervising Curriculum Coordinator, Teacher Education Specialist I, Supervising Teacher Credentials Evaluator, and Educational Planning Analyst: P12,600 per annum"", ""School Projects Coordinator, Senior Executive Assistant, Secretary, Board of Textbooks, Executive Assistant, and Medical Supervisor II: P11,400 per annum"", ""Chief Dental Service Officer, Budget Officer III, Legal Officer III, and Senior Legal Officer: P10,200 per annum"", ""Supervising Information Officer, Legal Officer II, Legal Officer I, Technical Property Inspector, Budget Officer I, Senior Training Officer, Chief Records Unit, Personnel Officer I, and Cashier III: P8,400 per annum""]"	Republic Act No. 41151	"[""Education"", ""Salaries"", ""Department of Education"", ""Amendment""]"	"[""salaries"", ""ranking officials"", ""Department of Education"", ""RA 41151"", ""salary adjustments"", ""July 1971""]"
+repacts:datasets/markdown/repacts/1971/ra_6411_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6411_1971.md	ra_6411_1971	Republic Act No. 6411, October 04, 1971	"**[ REPUBLIC ACT NO. 6411, October 04, 1971 ]**
+
+ AN ACT INCREASING THE SALARIES OF OFFICERS AND EMPLOYEES OF THE BUREAU OF IMMIGRATION, AND CREATING NEW POSITIONS IN SAID BUREAU.
+
+ Be it enacted by the Senate, and the House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Any provision of existing law, executive order, rule or regulations to the contrary notwithstanding, the annual salaries of the officers and employees of the Bureau of Immigration occupying positions mentioned in this section shall be fixed as follows:
+
+ | Title of Postion | Range | Minimum | Maximum |
+| --- | --- | --- | --- |
+| Commisioner of Immigration | 72 | P20,580 | P25,116 |
+| Associate Commisioner | 70 | 18,636 | 22,728 |
+| Head Executive Officer | 68 | 16,860 | 20,580 |
+| Chief Legal Officer (Chief of Division) | 66 | 15,264 | 18,636 |
+| Chairman, Board of Special Inquiry | 66 | 15,264 | 18,636 |
+| Senior Executive Assistance I | 66 | 15,264 | 18,636 |
+| Immigration Regulation Supervisor (Division Chief) | 66 | 15,264 | 18,636 |
+| Administrative Officer II | 66 | 15,264 | 18,636 |
+| Chief Intelligence Officer | 66 | 15,264 | 18,636 |
+| Chief Accountant (Chief of Division) | 66 | 15,264 | 18,636 |
+| Alien Registration Supervisor (Chief of Division) | 66 | 15,264 | 18,636 |
+| Assistant Immigration Regulation Chief (Assistant Chief) | 62 | 12,516 | 15,264 |
+| Supervising Special Investigator (Assistant Chief) | 62 | 12,516 | 15,264 |
+| Member, Board of Special Inquiry | 62 | 12,516 | 15,264 |
+| Assistant Alien Registration Supervisor (Assistant Chief) | 62 | 12,516 | 15,264 |
+| Budget Officer | 62 | 12,516 | 15,264 |
+| Supervising Intelligence Officer | 62 | 12,516 | 15,264 |
+| Alien Control Supervisor | 58 | 10,260 | 12,516 |
+| Supervising Immigration Officer | 58 | 10,260 | 12,516 |
+| Supervising Fingerprint Examiner (Chief of Section) | 58 | 10,260 | 12,516 |
+| Cashier III (Chief of Section) | 58 | 10,260 | 12,516 |
+| Records Officer II (Chief of Section) | 58 | 10,260 | 12,516 |
+| Supply Officer | 58 | 10,260 | 12,516 |
+| Security Officer (Section Chief) | 58 | 10,260 | 12,516 |
+| Alien Certificate Examiner (Section Chief) | 58 | 10,260 | 12,516 |
+| Accountant III | 58 | 10,260 | 12,516 |
+| Personnel Officer I | 58 | 10,260 | 12,516 |
+| Senior Clerk (Chief of Bond Section) | 58 | 10,260 | 12,516 |
+| Supervising Clerk (Chief of Section) | 58 | 10,260 | 12,516 |
+| Legal Officer II | 58 | 10,260 | 12,516 |
+| Alien Control Officer | 51 | 7,236 | 8,832 |
+| Training Officer | 54 | 8,400 | 10,260 |
+| Legal Officer I | 54 | 8,400 | 10,260 |
+| Special Investigator | 50 | 6,888 | 8,400 |
+| Fingerprint Examiner (Assistant Chief of Section) | 54 | 8,400 | 10,260 |
+| Assistant Alien Certification Examiner | 54 | 8,400 | 10,260 |
+| Budget Examiner | 50 | 6,888 | 8,400 |
+| Clerk II (Assistant Chief, Bond Section) | 54 | 8,400 | 10,260 |
+| Accountant I | 49 | 6,552 | 7,992 |
+| Senior Immigration Officer | 54 | 8,400 | 10,260 |
+| Bookkeeper II | 47 | 5,928 | 7,236 |
+| Senior Special Agent | 50 | 6,888 | 8,400 |
+| Immigration Intelligence Officer | 49 | 6,552 | 7,992 |
+| Secretary to the Commissioner | 58 | 10,260 | 12,536 |
+| Secretary to the Associate Commissioner | 50 | 6,888 | 8,400 |
+| Senior Security Guard (Supervisory) | 50 | 6,888 | 8,400 |
+| Immigration Officer | 49 | 6,552 | 7,992 |
+| Special Agent | 49 | 6,552 | 7,992 |
+| Stenographic Reporter | 45 | 5,376 | 6,552 |
+| Accounting Clerk III | 43 | 4,860 | 5,928 |
+| Translator II | 44 | 5,112 | 6,240 |
+| Launch Patron | 47 | 5,928 | 7,236 |
+| Senior Stenographer | 41 | 4,404 | 5,376 |
+| Senior Clerk | 41 | 4,404 | 5,376 |
+| Launch Engineer | 44 | 5,112 | 6,240 |
+| Fingerprint Examiner | 39 | 3,984 | 4,860 |
+| Senior Cash Clerk | 39 | 3,984 | 4,860 |
+| Accounting Clerk II | 39 | 3,984 | 4,860 |
+| Personnel Aide (Assistant Personnel Officer) | 40 | 4,188 | 5,112 |
+| Clerk II | 40 | 4,188 | 5,112 |
+| Quartermaster | 39 | 3,984 | 4,860 |
+| Security Guard | 38 | 3,792 | 4,632 |
+| Alien Control Aide | 38 | 3,792 | 4,632 |
+| Budget Aide | 42 | 4,632 | 5,640 |
+| Cash Clerk | 38 | 3,792 | 4,632 |
+| Assistant Buyer | 39 | 3,984 | 4,860 |
+| Stenographer | 39 | 3,984 | 4,860 |
+| Storekeeper | 38 | 3,792 | 4,632 |
+| Clerk I | 38 | 3,792 | 4,632 |
+| Marine Engineman | 39 | 3,984 | 4,860 |
+| Seaman | 36 | 3,432 | 4,188 |
+| Store Aide | 35 | 3,264 | 3,984 |
+| Cashier Aide | 35 | 3,264 | 3,984 |
+| Clerical Aide | 35 | 3,264 | 3,984 |
+| Clerical Aide | 35 | 3,264 | 3,984 |
+| Marine Engine Oiler | 38 | 3,792 | 4632 |
+| Bindery Helper | 35 | 3,264 | 3,984 |
+| Messenger | 35 | 3,264 | 3,984 |
+| Motor Pool Dispatcher | 40 | 4,188 | 5,112 |
+| Telephone Operator | 38 | 3,792 | 4,632 |
+| Photographer | 39 | 3,984 | 4,860 |
+| Driver | 38 | 3,792 | 4,632 |
+| Janitor | 34 | 3,108 | 3,792 |
+| Laborer | 34 | 3,108 | 3,792 |
+| Snitcher | 34 | 3,108 | 3,792 |
+
+ **Section 2.** Upon approval of this Act, the respective officer or employee actually occupying any of these positions hereinabove mentioned shall be entitled to the salary provided for the said position without need of a new appointment.
+
+ **Section 3.** There is hereby created a medical and dental service in the Bureau of Immigration, the personnel of which together with their corresponding annual salaries, shall be fixed as follows:
+
+ | Title of Postion | Range | Minimum | Maximum |
+| --- | --- | --- | --- |
+| MEDICAL |  |  |  |
+| One Chief, Medical Services | 51 | P7,236 | P8,832 |
+| Two Medical Assistants | 49 | 6,552 | 7,992 |
+| Two Registered Nurses | 43 | 4,860 | 5,928 |
+| One Pharmacist | 38 | 3,702 | 4,632 |
+| Two Medical Aides | 37 | 3,612 | 4,404 |
+| One Clerk-Typist | 34 | 3,108 | 3,792 |
+| DENTAL |  |  |  |
+| One Chief, Dental Services | 48 | 6,240 | 7,608 |
+| Two Dental Assistants | 48 | 6,240 | 7,608 |
+| Two Dental Aides | 37 | 3,612 | 4,404 |
+| One Clerk-Typist | 34 | 3,108 | 3,792 |
+
+ **Section 4.** There are hereby created three positions of confidential assistants in said Bureau with an annual compensation of five thousand nine hundred twenty-eight pesos each.
+
+ **Section 5.** The salary differential resulting from the adjustment in the salaries as provided in this Act and the sum necessary to carry out the provisions of Section three and Section four of this Act shall be paid proportionately out of the savings and fifteen per cent of the income of the Bureau of Immigration for the fiscal year when this Act is approved:*Provided,* That if funds are inadequate for the purpose, the salary differentials of lower positions shall first be provided for before those of higher positions. Thereafter, the necessary funds needed to implement provisions of this Act.
+
+ **Section 6.** This Act shall take effect upon its approval.
+
+ Approved, October 4, 1971.
+"	success	Act	Republic Act No. 6411 increases the salaries of officers and employees of the Bureau of Immigration and establishes new positions, including medical and dental services, within the bureau.	"[{""title"": ""Section 1. Salary Schedule"", ""summary"": ""This section sets the annual salaries for various positions in the Bureau of Immigration, providing minimum and maximum rates for each rank.""}, {""title"": ""Section 2. Effectiveness of Salary Increases"", ""summary"": ""This section states that officers or employees currently holding the specified positions will receive the increased salaries without a new appointment.""}, {""title"": ""Section 3. Medical and Dental Service Positions"", ""summary"": ""This section creates a medical and dental service within the Bureau of Immigration and specifies the salaries for the positions within those services.""}, {""title"": ""Section 4. Confidential Assistant Positions"", ""summary"": ""This section establishes three confidential assistant positions within the Bureau of Immigration.""}]"	6411	October 04, 1971			To increase salaries for Bureau of Immigration personnel and to create new positions, including a medical and dental service, within the bureau.	"[""Increase salaries for specified Bureau of Immigration positions"", ""Create new positions within the Bureau of Immigration"", ""Establish medical and dental service positions and their salaries"", ""Create three confidential assistant positions""]"		"[""Salary increase"", ""Bureau of Immigration"", ""Medical service"", ""Dental service""]"	"[""salary"", ""immigration"", ""medical"", ""dental"", ""positions""]"
+repacts:datasets/markdown/repacts/1971/ra_6412_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6412_1971.md	ra_6412_1971	AN ACT STANDARDIZING THE SALARIES OF THE CITY CLERK OF COURT AND OTHER PERSONNEL OF THE CITY COURT OF MANILA, CREATING NEW POSITIONS, AND FOR OTHER PURPOSES.	"**[ REPUBLIC ACT NO. 6412, October 04, 1971 ]**
+
+ AN ACT STANDARDIZING THE SALARIES OF THE CITY CLERK OF COURT AND OTHER PERSONNEL OF THE CITY COURT OF MANILA, CREATING NEW POSITIONS, AND FOR OTHER PURPOSES.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled;
+
+ **Section 1.** Any existing law to the contrary notwithstanding, the standardized salaries for the Clerk of Court and other personnel of the City Court of Manila are hereby fixed as follows:
+
+ 1. One Clerk of Court, twenty thousand pesos*per annum*;
+
+ 2. One Assistant Clerk of Court, sixteen thousand pesos*per annum*;
+
+ 3. Twelve Branch-Clerks of Court, fifteen thousand pesos*per annum*each;
+
+ 4. One Budget Officer-Administrative Assistant, fourteen thousand pesos*per annum*;
+
+ 5. One Personnel Officer, ten thousand two hundred pesos*per annum*;
+
+ 6. One Chief Cashier-Deputy Clerk, ten thousand two hundred pesos*per annum*;
+
+ 7. One Property Custodian-Supply Clerk, ten thousand two hundred pesos*per annum*;
+
+ 8. One Assistant Cashier, eight thousand four hundred pesos*per annum*;
+
+ 9. One Senior Property Clerk, eight thousand four hundred pesos*per annum*;
+
+ 10. Two Researchers, eight thousand four hundred pesos*per annum*each;
+
+ 11. Five Special Deputy Clerks, eight thousand four hundred pesos*per annum*each;
+
+ 12. Twelve Deputy Clerks, seven thousand eight hundred pesos*per annum*each;
+
+ 13. Twelve Senior Clerks, seven thousand eight hundred pesos*per annum*each;
+
+ 14. Three Court Interpreters for Tagalog, Spanish and Chinese, seven thousand two hundred pesos*per annum*each;
+
+ 15. Twelve Senior Clerks, seven thousand two hundred pesos*per annum*each;
+
+ 16. Twelve Stenographers, seven thousand two hundred pesos*per annum*each;
+
+ 17. Twelve Clerk-stenographers, six thousand six hundred pesos*per annum*each;
+
+ 18. Eight Cash Clerks, six thousand six hundred pesos*per annum*each;
+
+ 19. Fifteen Clerks II, six thousand six hundred pesos*per annum*each;
+
+ 20. One Librarian, six thousand six hundred pesos*per annum*;
+
+ 21. One Evidence Clerk, six thousand six hundred pesos*per annum*;
+
+ 22. One Payroll Clerk, six thousand six hundred pesos*per annum*;
+
+ 23. Twelve Bailiffs, six thousand six hundred pesos*per annum*each;
+
+ 24. Twenty Clerks I, six thousand pesos*per annum*each;
+
+ 25. One Statistical Clerk, six thousand pesos*per annum*;
+
+ 26. One Assistant Librarian, five thousand four hundred pesos*per annum*;
+
+ 27. Two Clerk-timekeepers, five thousand four hundred pesos*per annum*each;
+
+ 28. One Mimeograph Operator, five thousand one hundred pesos*per annum*;
+
+ 29. Ten Clerical Aides, four thousand eight hundred pesos*per annum*each;
+
+ 30. Twenty Janitors, three thousand seven hundred twenty pesos*per annum*each;
+
+ 31. Thirty-five Laborers, three thousand seven hundred twenty pesos*per annum*each;
+
+ The Clerk of Court and other complementary personnel as herein provided shall receive the salary at the rates provided for in this Act, which shall be paid by the City of Manila. Unless the City Charter or any special law provides higher salaries, the salary rates provided for in this section shall not be deemed to be fixed or permanent in that the City Council is not inhibited from increasing said rates from time to time as the situation so warrants:*Provided,*That under no circumstance shall any particular constituent or constituents of an item be given increases in salary through the Budget or otherwise unless all the other constituents of the said item are also extended the same benefit and no items may be increased beyond a higher item fixed in this Act.
+
+ The Executive Judge of the City Court of Manila may effect from time to time such changes in the allocation of duties and personnel in the organization of complementary personnel as the exigencies of the service may demand and may request the City Council, which is empowered under this Act, to effect changes in designation of any constituent in the afore-cited complementary personnel. The number of the complementary personnel in this Act is likewise deemed not to be fixed or permanent in that the City Council, upon representation of the Executive Judge and with the conformity of the Secretary of Justice, is hereby empowered to increase the aggregate total of said complementary personnel from time to time whenever the need arises:*Provided,*That any changes in designations or increases in personnel called for in this paragraph shall not seriously impair the proportional distribution of different classes of positions in the organizational set-up.
+
+ Any provision of law to the contrary notwithstanding and with the exception of the Clerk of Court, the appointment of any and all other complementary personnel shall be vested in the Secretary of Justice, subject to existing Civil Service rules and regulations:*Provided, finally,*That no official or employee of the City Court of Manila at the time of the approval of this Act shall, as a consequence of the operation of this Act, be removed or separated from the service except for cause as provided by law.
+
+ **Section 2.** The provision of law to the contrary notwithstanding, the Secretary of Justice, upon recommendation of the Executive Judge, shall, with the exception of the Clerk of Court, determine and establish the respective positions, ranks and salaries of all the other incumbent members of the complementary personnel:*Provided,*That the incumbent Clerk of Court and all other incumbent complementary personnel shall receive their salary adjustments at the rates provided for in this Act without the need of new appointments except for those who, by operation of this Act, shall necessitate the extension of new appointments appropriate for their designations but in which case shall likewise be entitled to their salary adjustments at the rates provided effective upon approval of this Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved, October 4, 1971.
+"	success	Republic Act	This act establishes standardized salaries for the City Court of Manila personnel, creates new positions, and grants authorities for salary adjustments and personnel changes.	"[{""title"": ""Section 1"", ""summary"": ""Sets standardized salaries for City Court personnel and allows salary adjustments and personnel changes.""}, {""title"": ""Section 2"", ""summary"": ""Empowers the Secretary of Justice to determine positions, ranks, and salaries of complementary personnel, except the Clerk of Court.""}, {""title"": ""Section 3"", ""summary"": ""The act takes effect upon its approval.""}]"	6412	October 04, 1971			To standardize salaries and create new positions for the City Court of Manila, ensuring fair compensation and flexibility in personnel management.	"[""Standardized salaries for various City Court positions"", ""Authority to adjust salaries over time"", ""Authority to add or change personnel positions"", ""Appointment authority vested in Secretary of Justice"", ""Act effective upon approval""]"		"[""salary"", ""city court"", ""Philippines"", ""Republic Act"", ""Manila""]"	"[""salaries"", ""city clerk"", ""court personnel"", ""Manila"", ""position creation"", ""budget""]"
+repacts:datasets/markdown/repacts/1971/ra_6413_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6413_1971.md	ra_6413_1971	AN ACT CREATING A THIRD SALA IN THE CITY COURT OF THE CITY OF CAGAYAN DE ORO AND FOR OTHER PURPOSES.	"**[ REPUBLIC ACT NO. 6413, October 04, 1971 ]**
+
+ AN ACT CREATING A THIRD SALA IN THE CITY COURT OF THE CITY OF CAGAYAN DE ORO AND FOR OTHER PURPOSES.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be a third sala in the City Court of Cagayan de Oro to be presided over by a city judge to be appointed by the President of the Philippines in accordance with law. One of the city judges of the city court shall try and decide cases involving: violation of traffic laws and ordinances upon resolution passed by the city judges and approved by the Secretary of Justice. The annual salary of the city judges shall be one thousand pesos less than that fixed by law for the district judge. Upon approval of this Act, the judge presiding over the first sala shall be the executive judge for a term of two years and, thereafter, the office of the executive judge shall be rotated among the judges for a term of one year. The city judges shall be entitled to the same allowance which are granted to city officials.
+
+ **Section 2.** There shall be a branch deputy clerk of court in each sala of the city court and shall receive an annual salary to be fixed by the Municipal Board. The city clerk of court, deputy city clerk of court and branch deputy clerk of court shall have the power to administer oath.
+
+ **Section 3.** No person shall be appointed city clerk of court unless he has been admitted to practice law in the Philippines. The city clerk of court shall receive a salary of not less than twelve thousand pesosper annum. He shall act as Notary Publicex-officio. If the incumbent clerk of court does not possess the qualifications set herein, he shall automatically become assistant to the clerk of court without diminution of his present salary.
+
+ **Section 4.** There shall be, under the city court, a city sheriff who shall have the same powers and duties conferred by existing laws to provincial sheriffs. He shall receive a salary to be fixed by the Municipal Board at not less than seven thousand two hundred pesosper annumand shall be entitled to transportation and/or gasoline allowance at not less than two hundred pesos monthly.
+
+ **Section 5.** This Act shall take effect upon its approval.
+
+ Approved, October 4, 1971.
+"	success	Republic Act	The act establishes a third sala in the City Court of Cagayan de Oro, designates the appointment and duties of judges and clerks, sets salaries and allowances, and outlines the creation of a city sheriff, thereby expanding the court’s capacity and clarifying personnel responsibilities.	"[{""title"": ""Section 1."", ""summary"": ""Creates a third sala in the City Court, appoints a city judge to preside, defines the judge\u2019s salary, outlines the rotation of the executive judge, and ensures judges receive the same allowances as city officials.""}, {""title"": ""Section 2."", ""summary"": ""Establishes a branch deputy clerk of court for each sala, sets salary to be fixed by the Municipal Board, and grants oath administration powers to the city clerk, deputy city clerk, and branch deputy clerk.""}, {""title"": ""Section 3."", ""summary"": ""Mandates that only admitted lawyers can be city clerk of court, sets a minimum salary, grants notary public status, and provides for automatic appointment as assistant clerk if qualifications are lacking.""}, {""title"": ""Section 4."", ""summary"": ""Creates a city sheriff under the city court, outlines duties similar to provincial sheriffs, sets a minimum salary, and stipulates transportation and gasoline allowances.""}, {""title"": ""Section 5."", ""summary"": ""Specifies that the act takes effect upon approval.""}]"	REPUBLIC ACT NO. 6413	October 04, 1971			To expand the City Court of Cagayan de Oro by adding a third sala, delineate the roles and compensation of court officials, and establish a city sheriff to enhance local judicial administration.	"[""Creation of a third sala in the City Court"", ""Appointment and salary of a city judge"", ""Rotation of executive judge"", ""Establishment of branch deputy clerks"", ""Qualifications for city clerk of court"", ""Creation of a city sheriff with defined duties and salary""]"		"[""Court"", ""Judiciary"", ""Cagayan de Oro"", ""Municipal Law""]"	"[""third sala"", ""city court"", ""judge"", ""salaries"", ""cagayan de oro"", ""sheriff""]"

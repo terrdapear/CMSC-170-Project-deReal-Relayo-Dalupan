@@ -1,0 +1,209 @@
+repacts:datasets/markdown/repacts/2013/ra_10439_2013.md	repacts	2013		datasets/markdown/repacts/2013/ra_10439_2013.md	ra_10439_2013	AN ACT CHANGING THE NAME OF CANUMAY NATIONAL HIGH SCHOOL IN BARANGAY CANUMAY, CITY OF VALENZUELA TO CANUMAY WEST NATIONAL HIGH SCHOOL	"Fifteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand twelve.*
+
+ **REPUBLIC ACT No. 10439**
+
+ AN ACT CHANGING THE NAME OF CANUMAY NATIONAL HIGH SCHOOL IN BARANGAY CANUMAY, CITY OF VALENZUELA TO CANUMAY WEST NATIONAL HIGH SCHOOL
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** *Renaming of a National High School.* The name of Canumay National High School in Barangay Canumay, City of Valenzuela is hereby changed to Canumay West National High School.
+
+ **Section 2.** *Location of the Main Campus.* The main campus of the Canumay West National High School shall continue to remain in its present location in Barangay Canumay, City of Valenzuela.
+
+ **Section 3.** *Effectivity.* This Act shall take effect fifteen (15) days after its publication in the *Official Gazette.*
+
+ Approved,
+
+   
+ | (Sgd.) **JUAN PONCE ENRILE** President of the Senate | (Sgd.) **FELICIANO BELMONTE JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on June 4, 2012 and January 28, 2013, respectively.
+
+   
+ | (Sgd.) **EMMA LIRIO-REYES** Secretary of Senate | (Sgd.) **MARILYN B. BARUA-YAP** Secretary General House of Representatives |
+
+ Approved: APR 08 2013
+
+ **(Sgd.) BENIGNO S. AQUINO III** *President of the Philippines*
+"	success	Education	Republic Act No. 10439 changes the name of Canumay National High School to Canumay West National High School and confirms its main campus location; the act takes effect fifteen days after publication in the Official Gazette.	"[{""title"": ""Renaming of a National High School"", ""summary"": ""The name of Canumay National High School in Barangay Canumay, City of Valenzuela is hereby changed to Canumay West National High School.""}, {""title"": ""Location of the Main Campus"", ""summary"": ""The main campus of the Canumay West National High School shall continue to remain in its present location in Barangay Canumay, City of Valenzuela.""}, {""title"": ""Effectivity"", ""summary"": ""This Act shall take effect fifteen (15) days after its publication in the Official Gazette.""}]"	10439	April 08, 2013		"[{""name"": ""JUAN PONCE ENRILE"", ""title"": ""President of the Senate""}, {""name"": ""FELICIANO BELMONTE JR."", ""title"": ""Speaker of the House of Representatives""}, {""name"": ""EMMA LIRIO-REYES"", ""title"": ""Secretary of Senate""}, {""name"": ""MARILYN B. BARUA-YAP"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""BENIGNO S. AQUINO III"", ""title"": ""President of the Philippines""}]"	To rename Canumay National High School to Canumay West National High School, ensuring proper identity and location.	"[""The name of Canumay National High School shall be changed to Canumay West National High School."", ""The main campus remains at its present location in Barangay Canumay, City of Valenzuela."", ""The act shall take effect fifteen days after publication in the Official Gazette.""]"		"[""Education"", ""High School"", ""Renaming"", ""Valenzuela""]"	"[""Canumay"", ""Valenzuela"", ""National High School"", ""Renaming"", ""Official Gazette""]"
+repacts:datasets/markdown/repacts/2013/ra_10440_2013.md	repacts	2013		datasets/markdown/repacts/2013/ra_10440_2013.md	ra_10440_2013	REPUBLIC ACT No. 10440	"Fifteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand twelve.*
+
+ **REPUBLIC ACT No. 10440**
+
+ AN ACT CHANGING THE NAME OF STA. MARIA AGRO-INDUSTRIAL HIGH SCHOOL IN THE MUNICIPALITY OF STA. MARIA, PROVINCE OF BULACAN TO STA. MARIA NATIONAL HIGH SCHOOL, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 8397
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** Section 1 of Republic Act No. 8397 is hereby amended to read as follows:
+
+ ""SECTION 1. There shall be established, under the supervision of the Department of Education, a national high school in the Municipality of Sta. Maria, Province of Bulacan to be known as the Sta. Maria National High School."" **Section 2.** This Act shall take effect fifteen (15) days after its publication in the *Official Gazette.*
+
+ Approved,
+
+   
+ | (Sgd.) **JUAN PONCE ENRILE** President of the Senate | (Sgd.) **FELICIANO BELMONTE JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on January 30, 2013 and January 28, 2013, respectively.
+
+   
+ | (Sgd.) **EMMA LIRIO-REYES** Secretary of Senate | (Sgd.) **MARILYN B. BARUA-YAP** Secretary General House of Representatives |
+
+ Approved: APR 08 2013
+
+ **(Sgd.) BENIGNO S. AQUINO III** *President of the Philippines*
+"	success	Republic Act	An act changing the name of Sta. Maria Agro-Industrial High School to Sta. Maria National High School, amending RA 8397 to establish a national high school in Sta. Maria, Bulacan.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 1 of Republic Act No. 8397 to establish a national high school in the Municipality of Sta. Maria, Province of Bulacan, to be known as Sta. Maria National High School under the supervision of the Department of Education.""}, {""title"": ""Section 2"", ""summary"": ""The act takes effect fifteen (15) days after its publication in the Official Gazette.""}]"	10440	2013-04-08	"[{""name"": ""JUAN PONCE ENRILE"", ""title"": ""President of the Senate""}, {""name"": ""FELICIANO BELMONTE JR."", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""EMMA LIRIO-REYES"", ""title"": ""Secretary of Senate""}, {""name"": ""MARILYN B. BARUA-YAP"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""BENIGNO S. AQUINO III"", ""title"": ""President of the Philippines""}]"	To change the name of Sta. Maria Agro-Industrial High School to Sta. Maria National High School and amend RA 8397 to establish a national high school in Sta. Maria, Bulacan.	"[""Amendment to Section 1 of RA 8397 to establish Sta. Maria National High School."", ""Act takes effect 15 days after publication in Official Gazette.""]"	Republic Act No. 8397	"[""education"", ""high school"", ""Bulacan"", ""name change"", ""RA 10440""]"	"[""Sta. Maria National High School"", ""Bulacan"", ""Department of Education"", ""Republic Act 10440"", ""RA 8397""]"
+repacts:datasets/markdown/repacts/2013/ra_10441_2013.md	repacts	2013		datasets/markdown/repacts/2013/ra_10441_2013.md	ra_10441_2013	AN ACT SEPARATING THE DALIPUGA NATIONAL HIGH SCHOOL KABACSANAN ANNEX IN BARANGAY KABACSANAN, CITY OF ILIGAN, PROVINCE OF LANAO DEL NORTE FROM THE DALIPUGA NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS KABACSANAN NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR	"Fifteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand twelve.*
+
+ **REPUBLIC ACT No. 10441**
+
+ AN ACT SEPARATING THE DALIPUGA NATIONAL HIGH SCHOOL KABACSANAN ANNEX IN BARANGAY KABACSANAN, CITY OF ILIGAN, PROVINCE OF LANAO DEL NORTE FROM THE DALIPUGA NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS KABACSANAN NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** *Separation and Conversion into a National High School.* The Dalipuga National High School Kabacsanan Annex in Barangay Kabacsanan, City of Iligan, Province of Lanao del Norte is hereby separated from the Dalipuga National High School and converted into an independent national high school to be known as Kabacsanan National High School.
+
+ **Section 2.** *Transfer of Assets and Liabilities.* All personnel, assets, liabilities and records of the Dalipuga National High School Kabacsanan Annex are hereby transferred to and absorbed by the Kabacsanan National High School.
+
+ **Section 3.** *Appropriations.* The Secretary of Education shall immediately include in the Departments program the operationalization of the Kabacsanan National High School, the initial funding of which shall be charged against the current years appropriations of the Dalipuga National High School Kabacsanan Annex. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.
+
+ **Section 4.** *Implementation.* The Secretary of Education shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 5.** *Effectivity.* This Act shall take effect fifteen (15) days after its publication in the *Official Gazette.*
+
+ Approved,
+
+   
+ | (Sgd.) **JUAN PONCE ENRILE** President of the Senate | (Sgd.) **FELICIANO BELMONTE JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on September 20, 2012 and January 28, 2013, respectively.
+
+   
+ | (Sgd.) **EMMA LIRIO-REYES** Secretary of Senate | (Sgd.) **MARILYN B. BARUA-YAP** Secretary General House of Representatives |
+
+ Approved: APR 08 2013
+
+ **(Sgd.) BENIGNO S. AQUINO III** *President of the Philippines*
+"	success	Republic Act	The act separates and converts the Dalipuga National High School Kabacsanan Annex into the independent Kabacsanan National High School, appropriating funds for its operationalization and transferring all assets, liabilities, and personnel to the new institution.	"[{""title"": ""Separation and Conversion into a National High School"", ""summary"": ""The act separates the Dalipuga National High School Kabacsanan Annex from the main school and converts it into an independent national high school named Kabacsanan National High School.""}, {""title"": ""Transfer of Assets and Liabilities"", ""summary"": ""All personnel, assets, liabilities, and records of the annex are transferred to the new Kabacsanan National High School.""}, {""title"": ""Appropriations"", ""summary"": ""Funds for operationalization will be included in the Department's program and charged against current appropriations of the annex, with continued operation funded by the annual General Appropriations Act.""}, {""title"": ""Implementation"", ""summary"": ""The Secretary of Education will issue necessary rules and regulations to carry out the purpose of this act.""}, {""title"": ""Effectivity"", ""summary"": ""The act becomes effective fifteen days after its publication in the Official Gazette.""}]"	10441	2013-04-08			To separate and convert the Dalipuga National High School Kabacsanan Annex into an independent national high school and provide funds for its operation.	"[""Separation and conversion into an independent national high school"", ""Transfer of assets, liabilities, personnel, and records"", ""Appropriation of funds for operationalization"", ""Issuance of rules and regulations by the Secretary of Education"", ""Effectivity after 15 days of publication in the Official Gazette""]"		"[""Education"", ""High School"", ""Public School"", ""Lanao del Norte"", ""Iligan""]"	"[""Dalipuga National High School"", ""Kabacsanan National High School"", ""Separation"", ""Conversion"", ""Appropriations"", ""Education"", ""Lanao del Norte"", ""Iligan""]"
+repacts:datasets/markdown/repacts/2013/ra_10442_2013.md	repacts	2013		datasets/markdown/repacts/2013/ra_10442_2013.md	ra_10442_2013	AN ACT SEPARATING THE CALAPE NATIONAL HIGH SCHOOL LOGON ANNEX IN BARANGAY LOGON, MUNICIPALITY OF DAANBANTAYAN, PROVINCE OF CEBU FROM THE CALAPE NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS LOGON NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR	"Fifteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand twelve.*
+
+ **REPUBLIC ACT No. 10442**
+
+ AN ACT SEPARATING THE CALAPE NATIONAL HIGH SCHOOL LOGON ANNEX IN BARANGAY LOGON, MUNICIPALITY OF DAANBANTAYAN, PROVINCE OF CEBU FROM THE CALAPE NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS LOGON NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** *Separation and Conversion into a National High School.* The Calape National High School Logon Annex in Barangay Logon, Municipality of Daanbantayan, Province of Cebu is hereby separated from the Calape National High School and converted into an independent national high school to be known as Logon National High School.
+
+ **Section 2.** *Transfer of Assets and Liabilities.* All personnel, assets, liabilities and records of the Calape National High School Logon Annex are hereby transferred to and absorbed by the Logon National High School.
+
+ **Section 3.** *Appropriations.* The Secretary of Education shall immediately include in the Departments program the operationalization of the Logon National High School, the initial funding of which shall be charged against the current years appropriations of the Calape National High School Logon Annex. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.
+
+ **Section 4.** *Implementation.* The Secretary of Education shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 5.** *Effectivity.* This Act shall take effect fifteen (15) days after its publication in the *Official Gazette.*
+
+ Approved,
+
+   
+ | (Sgd.) **JUAN PONCE ENRILE** President of the Senate | (Sgd.) **FELICIANO BELMONTE JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on September 20, 2012 and January 28, 2013, respectively.
+
+   
+ | (Sgd.) **EMMA LIRIO-REYES** Secretary of Senate | (Sgd.) **MARILYN B. BARUA-YAP** Secretary General House of Representatives |
+
+ Approved: APR 08 2013
+
+ **(Sgd.) BENIGNO S. AQUINO III** *President of the Philippines*
+"	success	Republic Act	Separates the Calape National High School Logon Annex and converts it into Logon National High School, appropriating funds for its operation.	"[{""title"": ""Separation and Conversion into a National High School"", ""summary"": ""Separates Calape National High School Logon Annex from the main school and converts it into independent Logon National High School.""}, {""title"": ""Transfer of Assets and Liabilities"", ""summary"": ""Transfers all personnel, assets, liabilities, and records of the Annex to the new school.""}, {""title"": ""Appropriations"", ""summary"": ""Appropriates funds for the operationalization of Logon National High School, charging initial funding to current year appropriations of the Annex and future amounts to the General Appropriations Act.""}, {""title"": ""Implementation"", ""summary"": ""Secretary of Education to issue necessary rules and regulations to implement the act.""}, {""title"": ""Effectivity"", ""summary"": ""Act takes effect fifteen days after publication in the Official Gazette.""}]"	10442	January 28, 2013	"[{""name"": ""JUAN PONCE ENRILE"", ""title"": ""President of the Senate""}, {""name"": ""FELICIANO BELMONTE JR."", ""title"": ""Speaker of the House of Representatives""}]"		To separate the Calape National High School Logon Annex and convert it into an independent national high school, Logon National High School, and appropriate funds for its operation.	"[""Separates the Calape National High School Logon Annex"", ""Converts it into Logon National High School"", ""Transfers personnel, assets, liabilities, and records"", ""Appropriates funds for operationalization"", ""Secretary to issue implementation rules"", ""Effectivity fifteen days after publication""]"		"[""Education"", ""Republic Act"", ""National High School""]"	"[""Calape National High School"", ""Logon National High School"", ""Cebu"", ""Education"", ""Appropriations"", ""Assets"", ""Liabilities""]"
+repacts:datasets/markdown/repacts/2013/ra_10443_2013.md	repacts	2013		datasets/markdown/repacts/2013/ra_10443_2013.md	ra_10443_2013	An Act Separating the Magdiwang National High School Agutay Annex in Barangay Agutay, Municipality of Magdiwang, Province of Romblon from the Magdiwang National High School, Converting it into an Independent National High School to be Known as Agutay National High School and Appropriating Funds Therefor	"Fifteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand twelve.*
+
+ **REPUBLIC ACT No. 10443**
+
+ AN ACT SEPARATING THE MAGDIWANG NATIONAL HIGH SCHOOL AGUTAY ANNEX IN BARANGAY AGUTAY, MUNICIPALITY OF MAGDIWANG, PROVINCE OF ROMBLON FROM THE MAGDIWANG NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS AGUTAY NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** *Separation and Conversion into a National High School.* The Magdiwang National High School Agutay Annex in Barangay Agutay, Municipality of Magdiwang, Province of Romblon is hereby separated from the Magdiwang National High School and converted into an independent national high school to be known as Agutay National High School.
+
+ **Section 2.** *Transfer of Assets and Liabilities.* All personnel, assets, liabilities and records of the Magdiwang National High School Agutay Annex are hereby transferred to and absorbed by the Agutay National High School.
+
+ **Section 3.** *Appropriations.* The Secretary of Education shall immediately include in the Departments program the operationalization of the Agutay National High School, the initial funding of which shall be charged against the current years appropriations of the Magdiwang National High School Agutay Annex. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.
+
+ **Section 4.** *Implementation.* The Secretary of Education shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 5.** *Effectivity.* This Act shall take effect fifteen (15) days after its publication in the *Official Gazette.*
+
+ Approved,
+
+   
+ | (Sgd.) **JUAN PONCE ENRILE** President of the Senate | (Sgd.) **FELICIANO BELMONTE JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on September 20, 2012 and January 28, 2013, respectively.
+
+   
+ | (Sgd.) **EMMA LIRIO-REYES** Secretary of Senate | (Sgd.) **MARILYN B. BARUA-YAP** Secretary General House of Representatives |
+
+ Approved: APR 08 2013
+
+ **(Sgd.) BENIGNO S. AQUINO III** *President of the Philippines*
+"	success	Act	RA 10443 separates and converts the Magdiwang National High School Agutay Annex into Agutay National High School and appropriates funds for its operation.	"[{""title"": ""Section 1. Separation and Conversion into a National High School"", ""summary"": ""The Magdiwang National High School Agutay Annex is separated from the main school and converted into an independent national high school known as Agutay National High School.""}, {""title"": ""Section 2. Transfer of Assets and Liabilities"", ""summary"": ""All personnel, assets, liabilities and records of the annex are transferred and absorbed by the newly formed Agutay National High School.""}, {""title"": ""Section 3. Appropriations"", ""summary"": ""The Secretary of Education shall include the operationalization of the new school in the department\u2019s program, funding it against current appropriations and future General Appropriations Acts.""}, {""title"": ""Section 4. Implementation"", ""summary"": ""The Secretary of Education shall issue necessary rules and regulations to carry out the purpose of the Act.""}, {""title"": ""Section 5. Effectivity"", ""summary"": ""The Act shall take effect fifteen (15) days after its publication in the Official Gazette.""}]"	10443	2013-04-08			To separate and convert the Magdiwang National High School Agutay Annex into an independent national high school and appropriate funds for its operation.	"[""Separation and conversion of the annex into an independent national high school"", ""Transfer of assets and liabilities"", ""Appropriation of funds for operationalization"", ""Issuance of rules and regulations"", ""Effectivity 15 days after publication""]"		"[""Education"", ""School"", ""National High School"", ""Romblon""]"	"[""Magdiwang National High School"", ""Agutay National High School"", ""RA 10443"", ""School separation"", ""Appropriations"", ""Romblon"", ""National High School""]"
+repacts:datasets/markdown/repacts/2013/ra_10444_2013.md	repacts	2013		datasets/markdown/repacts/2013/ra_10444_2013.md	ra_10444_2013	AN ACT SEPARATING THE TANUDAN VOCATIONAL SCHOOL TALOCTOC ANNEX IN BARANGAY TALOCTOC, MUNICIPALITY OF TANUDAN, PROVINCE OF KALINGA FROM THE TANUDAN VOCATIONAL SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS TALOCTOC GENERAL COMPREHENSIVE NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR	"Fifteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand twelve.*
+
+ **REPUBLIC ACT No. 10444**
+
+ AN ACT SEPARATING THE TANUDAN VOCATIONAL SCHOOL TALOCTOC ANNEX IN BARANGAY TALOCTOC, MUNICIPALITY OF TANUDAN, PROVINCE OF KALINGA FROM THE TANUDAN VOCATIONAL SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS TALOCTOC GENERAL COMPREHENSIVE NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** *Separation and Conversion into a National High School.* The Tanudan Vocational School Taloctoc Annex in Barangay Taloctoc, Municipality of Tanudan, Province of Kalinga is hereby separated from the Tanudan Vocational School and converted into an independent national high school to be known as Taloctoc General Comprehensive National High School.
+
+ **Section 2.** *Transfer of Assets and Liabilities.* All personnel, assets, liabilities and records of the Tanudan Vocational School Taloctoc Annex are hereby transferred to and absorbed by the Taloctoc General Comprehensive National High School.
+
+ **Section 3.** *Appropriations.* The Secretary of Education shall immediately include in the Departments program the operationalization of the Taloctoc General Comprehensive National High School, the initial funding of which shall be charged against the current years appropriations of the Tanudan Vocational School Taloctoc Annex. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.
+
+ **Section 4.** *Implementation.* The Secretary of Education shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 5.** *Effectivity.* This Act shall take effect fifteen (15) days after its publication in the *Official Gazette.*
+
+ Approved,
+
+   
+ | (Sgd.) **JUAN PONCE ENRILE** President of the Senate | (Sgd.) **FELICIANO BELMONTE JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on September 20, 2012 and January 28, 2013, respectively.
+
+   
+ | (Sgd.) **EMMA LIRIO-REYES** Secretary of Senate | (Sgd.) **MARILYN B. BARUA-YAP** Secretary General House of Representatives |
+
+ Approved: APR 08 2013
+
+ **(Sgd.) BENIGNO S. AQUINO III** *President of the Philippines*
+"	success	Republic Act	The Act separates the Tanudan Vocational School Taloctoc Annex from the Tanudan Vocational School, converts it into an independent national high school named Taloctoc General Comprehensive National High School, and appropriates funds for its operation.	"[{""title"": ""Separation and Conversion into a National High School."", ""summary"": ""Separates the Tanudan Vocational School Taloctoc Annex and converts it into an independent national high school named Taloctoc General Comprehensive National High School.""}, {""title"": ""Transfer of Assets and Liabilities."", ""summary"": ""Transfers all personnel, assets, liabilities and records of the Annex to the new high school.""}, {""title"": ""Appropriations."", ""summary"": ""Secretary of Education shall include operational funding in current year appropriations; future funding from the annual General Appropriations Act.""}, {""title"": ""Implementation."", ""summary"": ""Secretary of Education shall issue rules and regulations to carry out the purpose of the Act.""}, {""title"": ""Effectivity."", ""summary"": ""The Act takes effect fifteen days after publication in the Official Gazette.""}]"	10444	2013-04-08			To separate and convert the Tanudan Vocational School Taloctoc Annex into an independent national high school and provide the necessary funds for its operation.	"[""Separation and conversion into an independent national high school"", ""Transfer of assets, liabilities and records"", ""Appropriations for operationalization"", ""Implementation guidelines"", ""Effectivity after publication""]"		"[""Education"", ""National High School"", ""Kalinga"", ""Republic Act"", ""Public School""]"	"[""Tanudan Vocational School"", ""Taloctoc"", ""National High School"", ""Appropriations"", ""Education""]"
+repacts:datasets/markdown/repacts/2013/ra_10445_2013.md	repacts	2013		datasets/markdown/repacts/2013/ra_10445_2013.md	ra_10445_2013	AN ACT SEPARATING THE COMPOSTELA NATIONAL HIGH SCHOOL BANGO ANNEX IN SITIO BANGO, BARANGAY NGAN, MUNICIPALITY OF COMPOSTELA, PROVINCE OF COMPOSTELA VALLEY FROM THE COMPOSTELA NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS BANGO NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR	"Fifteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand twelve.*
+
+ **REPUBLIC ACT No. 10445**
+
+ AN ACT SEPARATING THE COMPOSTELA NATIONAL HIGH SCHOOL BANGO ANNEX IN SITIO BANGO, BARANGAY NGAN, MUNICIPALITY OF COMPOSTELA, PROVINCE OF COMPOSTELA VALLEY FROM THE COMPOSTELA NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS BANGO NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** *Separation and Conversion into a National High School.* The Compostela National High School Bango Annex in Sitio Bango, Barangay Ngan, Municipality of Compostela, Province of Compostela Valley is hereby separated from the Compostela National High School and converted into an independent national high school to be known as Bango National High School.
+
+ **Section 2.** *Transfer of Assets and Liabilities.* All personnel, assets, liabilities and records of the Compostela National High School Bango Annex are hereby transferred to and absorbed by the Bango National High School.
+
+ **Section 3.** *Appropriations.* The Secretary of Education shall immediately include in the Departments program the operationalization of the Bango National High School, the initial funding of which shall be charged against the current years appropriations of the Compostela National High School Bango Annex. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.

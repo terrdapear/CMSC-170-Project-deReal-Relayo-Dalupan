@@ -1,0 +1,137 @@
+repacts:datasets/markdown/repacts/1955/ra_1281_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1281_1955.md	ra_1281_1955	An Act Granting the Misamis Lumber Company, Inc. a Temporary Permit to Establish, Maintain and Operate Private Fixed Point-to-Point Radiotelephone Stations for the Transmission and Reception of Wireless Messages to and from Said Stations	"**REPUBLIC ACT No. 1281**
+
+ **An Act Changing the Name of Barrio Malpag in the Municipality of San Miguel, Province of Leyte, to Barrio Babulak**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Barrio Malpag in the Municipality of San Miguel, Province of Leyte, shall hereafter be known as barrio Babulak.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 14, 1955.
+"	success		This act grants the Misamis Lumber Company, Inc. a temporary permit to establish, maintain, and operate private fixed point-to-point radiotelephone stations in Ozamiz and other parts of the Philippines, subject to approvals by the Secretary of Public Works and Communications and the President, with conditions regarding operation, frequency allocation, and prohibition of interference with other radio stations.	"[{""title"": ""Section 1"", ""summary"": ""Grants Misamis Lumber Company a temporary permit to establish, maintain, and operate private fixed point-to-point radiotelephone stations in Ozamiz and other areas, subject to approval of the Secretary of Public Works and Communications.""}, {""title"": ""Section 2"", ""summary"": ""Empowers the President to permit construction, maintenance, and operation of such stations on public domain land under prescribed terms.""}, {""title"": ""Section 3"", ""summary"": ""Permit remains in force until the government establishes similar service; grantee must start operation within one and a half years from approval.""}, {""title"": ""Section 4"", ""summary"": ""Grantee must not engage in domestic telecommunication business; permit solely for trade and business interests.""}, {""title"": ""Section 5"", ""summary"": ""Operation shall not commence until Secretary allocates frequencies and wavelengths.""}, {""title"": ""Section 6"", ""summary"": ""Stations must not interfere with other radio stations.""}, {""title"": ""Section 7"", ""summary"": ""Grantee holds government harmless from claims arising from construction or operation.""}, {""title"": ""Section 8"", ""summary"": ""Stations subject to existing and future corporation laws.""}, {""title"": ""Section 9"", ""summary"": ""President retains right to close stations or authorize temporary use during war, rebellion, public peril, or other disturbances.""}, {""title"": ""Section 10"", ""summary"": ""Permit subject to amendment, alteration, or repeal by Congress as public interest requires.""}, {""title"": ""Section 11"", ""summary"": ""Act takes effect upon approval.""}]"	1271	June 14, 1955			To grant Misamis Lumber Company a temporary permit for the establishment and operation of private radiotelephone stations.	"[""Grant of temporary permit to establish, maintain and operate private fixed point-to-point radiotelephone stations."", ""Presidential authority to permit construction on public domain land."", ""Condition that permit remains until similar service is established by government."", ""Requirement to commence operation within one and a half years."", ""Restriction against engaging in domestic telecommunication business."", ""Necessity of frequency allocation by Secretary of Public Works and Communications."", ""Mandate that stations not interfere with other radio stations."", ""Holder of government harmless from claims arising from operation."", ""Subject to corporation laws."", ""Presidential right to close stations or authorize use during emergencies."", ""Permit subject to amendment, alteration, or repeal by Congress.""]"		"[""Telecommunications"", ""Radiotelephony"", ""Private Stations"", ""Temporary Permit""]"	"[""Misamis Lumber Company"", ""radiotelephone"", ""temporary permit"", ""Philippines"", ""public domain"", ""frequencies"", ""war"", ""rebellion"", ""public peril""]"
+repacts:datasets/markdown/repacts/1955/ra_1282_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1282_1955.md	ra_1282_1955	An Act Granting the Monserrat Broadcasting System, Incorporated, a Temporary Permit to Construct, Maintain and Operate Radio Broadcasting Stations in the Philippines	"**REPUBLIC ACT No. 1282**
+
+ **An Act Converting the Sitios of Tuno, Jubay, and Napantao, Municipality of San Francisco, Province of Leyte, into Barrios of Said Municipality**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Tuno, Jubay, and Napantao in the Municipality of San Francisco, Province of Leyte, are converted into barrios of said municipality to be known as the barrios of Tuno, Jubay, and Napantao, respectively.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 14, 1955.
+"	success	Republic Act	This Act grants Monserrat Broadcasting System a temporary permit to construct, maintain, and operate radio broadcasting stations for commercial purposes, subject to conditions including commencement within six months, completion within two years, provision of public service time, filing of a bond, and compliance with ethical standards.	"[{""title"": ""Section 1."", ""summary"": ""Provides the temporary permit to Monserrat Broadcasting System, with conditions such as construction commencement within six months, completion within two years, public service time provision, and ethical broadcasting standards.""}, {""title"": ""Section 2."", ""summary"": ""Requires the grantee to file a bond of fifty thousand pesos to guarantee compliance with the permit conditions.""}, {""title"": ""Section 3."", ""summary"": ""States that any more favorable terms granted to another entity become part of the terms of this Act, applying equally to the grantee.""}, {""title"": ""Section 4."", ""summary"": ""Allows the Government to take over any authorized stations, with the grantee turning them over with equipment at cost minus depreciation.""}, {""title"": ""Section 5."", ""summary"": ""Mandates the grantee to pay the same taxes on real estate, buildings, and personal property as other persons or corporations.""}, {""title"": ""Section 6."", ""summary"": ""Exempts the grantee from censorship except for violations of law or private rights, and allows the grantee to cut off broadcasts that incite treason or are indecent.""}, {""title"": ""Section 7."", ""summary"": ""Declares the Act effective upon approval.""}]"	1272	June 14, 1955			To grant Monserrat Broadcasting System a temporary permit to construct, maintain, and operate radio broadcasting stations in the Philippines under specified conditions.	"[""Temporary permit granted to Monserrat Broadcasting System subject to construction commencement within six months and completion within two years."", ""Requirement to file a bond of fifty thousand pesos."", ""Public service time provision to facilitate government outreach."", ""Ethical broadcasting standards and prohibition of obscene or false content."", ""Government option to take over authorized stations."", ""Tax obligations for the grantee."", ""Exemption from censorship with conditions for cutting off broadcasts.""]"	Act No. 3486, Act No. 3997, Commonwealth Act No. 146	"[""Broadcasting"", ""Radio"", ""Temporary Permit"", ""Philippines"", ""Republic Act""]"	"[""Monserrat Broadcasting System"", ""radio broadcasting"", ""temporary permit"", ""public service"", ""bond"", ""constitution"", ""broadcasting law"", ""public interest""]"
+repacts:datasets/markdown/repacts/1955/ra_1283_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1283_1955.md	ra_1283_1955	"An Act to Amend Section Ninety of Commonwealth Act Numbered One Hundred Forty-One, Otherwise Known as the ""Public Land Act"""	"**REPUBLIC ACT No. 1283**
+
+ **An Act Creating the Barrio of San Roque in the Municipality of Unisan, Province of Quezon**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of San Roque in the barrio of Tagumpay, Municipality of Unisan, Province of Quezon, is hereby separated from the barrio of Tagumpay and constituted into a separate and independent barrio of the same municipality, to be known as barrio San Roque.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 14, 1955.
+"	success	Republic Act	Amends Section 90 of the Public Land Act to designate a 40‑meter timberland strip along rivers and streams, prohibits clearing or farming on that strip, repeals inconsistent laws, and becomes effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Adds a subsection to Section 90 of the Public Land Act requiring a 40\u2011meter strip along rivers/streams to be preserved as timberland, prohibiting clearing or farming thereon.""}, {""title"": ""Section 2"", ""summary"": ""Repeals all laws, executive orders, and regulations inconsistent with the provisions of this Act.""}, {""title"": ""Section 3"", ""summary"": ""States that the Act shall take effect upon its approval.""}]"	1273	June 14, 1955			To amend Section 90 of the Public Land Act to protect timberland along rivers and streams and prohibit its use for farming or clearing.	"[""Designates a 40\u2011meter timberland strip along rivers/streams"", ""Prohibits clearing or farming on the strip"", ""Repeals inconsistent laws, executive orders, and regulations"", ""Effective upon approval""]"	Commonwealth Act No. 141, Section 90 (Public Land Act)	"[""Public Land"", ""Timberland"", ""Conservation"", ""Agriculture"", ""Republic Act""]"	"[""Public Land Act"", ""timberland"", ""river"", ""stream"", ""agriculture"", ""clearing"", ""repeal"", ""effective date""]"
+repacts:datasets/markdown/repacts/1955/ra_1284_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1284_1955.md	ra_1284_1955	An Act to Amend Section Seven of Republic Act Numbered Five Hundred and Sixty-Seven, Entitled 'An Act to Amend Title VI of Commonwealth Act Numbered Four Hundred and Sixty-Six, Otherwise Known as the National Internal Revenue Code, as Amended'	"**REPUBLIC ACT No. 1284**
+
+ **An Act to Exempt from Amusement Tax All Athletic Meets, School Programs and Exhibitions, and Other Educational Activities Conducted by Public Schools, by Amending the National Internal Revenue Code**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The National Internal Revenue Code is hereby amended by inserting between section two hundred sixty-A and section two hundred sixty-one thereof the following new section:
+
+ > ""Sec. 260-B. *Athletic meets, school programs and exhibitions, and other educational activities conducted by public schools exempted.* All athletic meets, school programs and exhibitions, and other educational activities conducted by any public school to which admission fees are charged shall be exempt from amusement tax: *Provided,* That the net proceeds therefrom shall accrue to the athletic fund or library fund of the school in the discretion of the school authorities.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 14, 1955.
+"	success	Republic Act	This act amends Section 7 of RA 567 to specify that the new tax provisions take effect upon approval and continue until June 30, 1957, after which the original tax rates resume. The act also states that it takes effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Amends Section 7 of RA 567 to state that the new tax provisions take effect upon approval and continue until June 30, 1957, when the original tax rates resume.""}, {""title"": ""Section 2."", ""summary"": ""The act takes effect upon its approval.""}]"	1274	June 14, 1955			To amend Section 7 of RA 567 concerning the effective dates of tax provisions.	"[""Amendment to Section 7 of RA 567"", ""New tax provisions take effect upon approval"", ""Tax rates continue until June 30, 1957"", ""Original rates resume after June 30, 1957""]"	Republic Act 567 (as amended by RA 725, RA 870, RA 1092)	"[""Tax Law"", ""Revenue Code"", ""Republic Act"", ""Amendment""]"	"[""Section 7"", ""RA 567"", ""tax"", ""effective date"", ""June 1957"", ""original rates""]"
+repacts:datasets/markdown/repacts/1955/ra_1285_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1285_1955.md	ra_1285_1955	An Act to Amend Sections Thirty-Eight, Thirty-Nine, and Forty of Commonwealth Act Numbered Four Hundred Seventy by Allowing Delinquent Taxpayers to Repurchase Within Two Years from the Date Their Real Property was Sold at Public Auction to Satisfy Taxes Thereon	"**REPUBLIC ACT No. 1285**
+
+ **An Act to Amend Sections Five, Nine, Twelve, Fourteen, Seventeen, Eighteen, Nineteen and Thirty-One of Republic Act Numbered Eight Hundred and Twenty-One**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section five of Republic Act Numbered Eight hundred and twenty-one is hereby amended to read as follows:
+
+ > ""Sec. 5. *Special powers.* The Administration is authorized and directed:
+>
+>  ""(1) To establish such regional, provincial and local offices as are considered necessary for the efficient conduct of the Administrations activities.
+>
+>  ""(2) To formulate policies and procedures with respect to credits to small farmers and the financing and construction as well as the operation of facilities to be financed by the Administration.
+>
+>  ""(3) To approve such loans as deemed necessary and appropriate and on terms specified by the Board, and to delegate this authority to officials of the Administration.
+>
+>  ""(4) To establish and operate terminal markets or producers exchanges equipped with the necessary facilities for adequate storage which will serve as clearing houses for the cooperative associations, these exchanges to be eventually owned jointly by the cooperative associations in either a region or individual province.
+>
+>  ""(5) To control the issuance of the warehouse receipts for the purpose of facilitating liberal production credit and other short-term loans and for the protection of the lending institutions.
+>
+>  ""(6) To supervise and administer any aid to cooperatives which may be entrusted to it by any duly authorized agency, governmental or private, and to provide continuity of the program of assistance initiated by such agency for the small farmers.
+>
+>  ""(7) To take charge of all government activities relating to the promotion, organization and supervision of cooperative associations in rural areas particularly to promote education in the principles and practices of cooperative production, marketing and credit among farmers.
+>
+>  ""(8) To encourage diversified agriculture and accumulate all necessary statistics related to agricultural production, marketing, credit and financing.
+>
+>  ""(9) To float debentures for the purpose of implementing this Act when sufficient revolving funds to undertake the financing program are not provided for by Congress.
+>
+>  ""(10) To accept savings and time deposits from members of cooperative associations and from associations duly affiliated with it and to pay interest for such deposits at a rate not to exceed two and one-half per centum.
+
+ **Section 2.** Section nine (e) of the same Act is hereby amended to read as follows:
+
+ > ""(e) Provincial directors who will be responsible for administering the Administrations activities in rural communities. Supervisory jurisdiction over provincial directors may be delegated by the Administrator to the regional supervisors to the extent which he deems necessary for the efficient accomplishment of the Administrations activities.
+>
+>  ""The office of a provincial director shall be established in any municipality or city within the territorial limits of the province to which such official is assigned. Contact with loan applicants and borrowers will be maintained through loan supervisors and assistant loan supervisors as authorized by the Administration.
+
+ **Section 3.** Section twelve of the same Act is hereby amended to read as follows:
+
+ > ""Sec. 12. *Definitions.* For purposes relating to the implementation of this Act, the following definitions shall apply:
+>
+>   ""(a) A farmers cooperative association shall be a voluntary business organization among farmers (producers of agricultural products including tenants and landlords) established for the purpose of marketing farm products and/or buying farm supplies and implements and basic everyday necessities collectively for the members direct benefit. It is governed according to the cooperative principles of one-man-one vote basis, limited interest on capital and savings apportioned among the members on the basis of patronage.
+>
+>  ""(b) The term ""small farmer"" shall mean an individual person who exclusively uses the labor available from within his immediate farm household in the cultivation of his holding and/or one who owns agricultural land of not more than twenty-four hectares and engages directly in its cultivation and resides in the municipality where the farm is located.
+
+ **Section 4.** Section fourteen (e) of the same Act is hereby amended to read as follows:
+
+ > ""(e) No application for loan shall be considered unless the applicant has entered into a marketing contract with the cooperative association of which he is a member in accordance with the provisions of section thirty-five of Act Numbered Three thousand four hundred twenty-five. The contract shall be registered and a copy thereof filed in the office of the municipal treasurer of the municipality where the association has its principal office, for which a book for that purpose shall be kept showing the date the contract was presented for registration, the name of the parties, the amount and kind of produce to be marketed, and the period of the contract. No charge or fee in any form shall be collected for registration.
+>
+>  ""Such registration will operate to encumber the produce in favor of the association, and any production loan extended by the Administration and/or the association on account of said marketing contract shall constitute a preferential lien over the produce of the member for the duration of the contract until paid. In case of agricultural tenants, such lien shall be enforceable to the extent of seventy-five per centum of his total share of the harvest. The preferential lien herein granted shall be an exception to the provisions of the Civil Code and of the Chattel Mortgage Law as well as of other laws or parts of laws on credit preferences which are inconsistent herewith. Unauthorized disposition by the member of the produce so encumbered shall be punished as violation of chattel mortgage.
+
+ **Section 5.** Section seventeen of the same Act is hereby amended to read as follows:
+
+ > ""Sec. 17. Personal short term loans to members in good standing with cooperatives may be granted by the association from funds which it may receive in advance from the Administration for the said purpose; such loans may be granted against warehouse receipts of the cooperative association to the extent of eighty per centum of the market value of the stored produce; loans upon the security of expected production from the current crop to the extent of sixty per centum of the value of expected yield: *Provided,* *However*, That no loan shall be granted on any production estimated to exceed the applicants previous years stored crop with the cooperative by more than fifty per centum.
+>
+>  ""The administration may extend loans to individual members or group of members of any farmers cooperative marketing association for the construction or acquisition of facilities under the same terms and conditions for granting facility loans to a cooperative association prescribed in section fifteen: *Provided,* That such loans shall not exceed eighty per centum of the total value of the properties of the borrower or borrowers and the facilities to be constructed or acquired, all of which shall be encumbered by way of first mortgage as security for the loan.""
+
+ **Section 6.** Section eighteen of the same Act is hereby amended to read as follows:
+
+ > ""Sec. 18. *Transfer of functions, personnel, and equipment of the Cooperatives Administration Office.* All the powers vested in and the duties conferred upon the Cooperatives Administration Office by Commonwealth Act Numbered Five hundred and sixty-five, as amended by Commonwealth Act Numbered Seven hundred and thirteen, relative to the promotion, organization and supervision of cooperative marketing associations as authorized by Act Numbered Three thousand four hundred and twenty-five and such number of personnel and equipment as are now used and utilized in the promotion, organization and supervision of said cooperative marketing associations by the Cooperatives Administration Office and the unexpended balance of the funds provided for in Commonwealth Act Numbered Seven hundred and thirteen and Republic Act Numbered Five hundred and eighty-three, are hereby absorbed by, and transferred to the Agricultural Credit and Cooperative Financing Administration.
+>
+>  ""The supervisory powers of the Administration over farmers cooperative marketing associations affiliated with it shall include the authority to declare vacant any or all offices or positions and order an election to fill them whenever any of the following grounds occur:
+>
+>  ""1. Serious losses in the business operations of the association. ""2. Failure to pay or meet its obligations to the Administration or other parties. ""3. Repeated and willful violation or disregard of rules and regulations of the Administration. ""4. Extravagance in the management of the association resulting in serious depletion of its resources. ""Action under this section shall be taken only upon approval by a majority vote of the Board of Governors and upon due notice to the association and after the officers concerned have been given a chance to be heard. The order relieving any officer or officers from any position shall state the ground or grounds therefor.""
+>
+>  ""In case the association should refuse or fail to elect or appoint new officers, the Administration may designate new officers from the membership of the association or from its own staff to manage the affairs of the association until the order has been complied with or until the next election of officers. Nothing contained herein shall be construed to prevent any officer or officers removed by the Administration from contesting in the proper court the veracity of the ground or grounds upon which the authority has been exercised.""
+
+ **Section 7.** Section nineteen (a) of the same Act is hereby amended to read as follows:
+
+ > ""Sec. 19. (a) Obligations issued by the Administration in accordance with the authority of paragraph (d) of section ten of this Act shall be secured by the assets of the Administration including all securities held by it under the provisions of this Act. These obligations shall be redeemable at the option of the Administration at or before maturity and in such manner as may be stipulated therein and shall bear such rate of interest as may be fixed by the Administration. The Administration shall provide for appropriate reserves for the redemption or retirement of such obligations. Obligations issued and offered for sale by the Administration may be offered at such price or prices as the Administration may determine. The said obligations shall and are hereby fully and unconditionally guaranteed both as to principal and interest by the Government of the Republic of the Philippines and such guaranty shall be expressed on the face thereof.""
+
+ **Section 8.** Section thirty-one of the same Act is hereby amended to read as follows:
+
+ > ""Sec. 31. All acts, parts of acts, and any special charter, or parts thereof, of the banking and financing institutions, or laws or parts of laws inconsistent herewith are hereby repealed.""
+
+ **Section 9.** This Act shall take effect immediately after its approval.
+
+ Approved: June 15, 1955.
+"	success	Republic Act	Amends sections 38-40 of CA 470 to allow delinquent taxpayers to repurchase real property sold at public auction within two years, outlining repurchase rights, payment terms, possession, and final sale procedures.	"[{""title"": ""Section 1"", ""summary"": ""Amends sections 38-40 of CA 470 to allow repurchase within two years; defines repurchase process, payment, and final sale instrument.""}, {""title"": ""Section 2"", ""summary"": ""Applies only to future sales.""}, {""title"": ""Section 3"", ""summary"": ""Effectivity: takes effect upon approval.""}]"	1275	June 14, 1955			To amend CA 470 to allow delinquent taxpayers to repurchase real property sold at public auction within two years to satisfy taxes.	"[""Allows repurchase within two years"", ""Repurchase requires payment of taxes, penalties, costs, interest"", ""Repurchase invalidates sale certificate"", ""Preserves possession for delinquent taxpayer until repurchase"", ""Final sale instrument if not repurchased within two years""]"	Commonwealth Act No. 470 sections 38-40	"[""Tax Law"", ""Property Law"", ""Public Auction"", ""Delinquent Taxpayer"", ""Republic Act""]"	"[""repurchase"", ""delinquent taxpayer"", ""public auction"", ""taxes"", ""penalties"", ""interest"", ""final sale""]"
+repacts:datasets/markdown/repacts/1955/ra_1286_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1286_1955.md	ra_1286_1955	An Act Increasing the Limit of the Bonded Indebtedness of the Metropolitan Water District from Thirty Million Pesos to Forty Million Pesos, Amending for the Purpose Subsection (m) of Section Two of Act Numbered Twenty-Eight Hundred Thirty-Two, as Amended	"**REPUBLIC ACT No. 1286**
+
+ **An Act Amending Section Two (d) of Republic Act Numbered Four Hundred and One, as Amended, by Extending Up to December Thirty-One, Nineteen Hundred and Fifty-Six, the Voluntary Payment Without Interests of Prewar Obligations**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section two (d) of Republic Act Numbered Four hundred and one, as amended by Republic Acts Numbered Six hundred seventy-one and Nine hundred nineteen, is hereby further amended to read as follows:
+
+ > ""Sec. 2. (d) When the debtor was unable to pay an obligation which became due and demandable, or the interest which should have been paid during the said period because the assets of the creditor were under the control of the enemy and/or administered through the so-called Enemy Alien Property Custodian or other enemy instrumentality, and the debtor paid the interests to it in the belief that such payment was valid and effective payment to the creditor or because of fear that failure to comply with the demand would lead to reprisals on his person or property.

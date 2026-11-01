@@ -1,0 +1,155 @@
+> | thence N. | 67 deg. | 23' W., | 39.00 m. | to point 14; |  |
+> | thence N. | 18 deg. | 47' E., | 52.81 m. | to point 15; |  |
+> | thence N. | 50 deg. | 25' W., | 80.64 m. | to point 16; |  |
+>
+>  thence N. 63 deg. 14' W., 52.48 m. to the point of beginning; containing an approximate area of fifty thousand (50,000') square meters.
+
+ **Section 2.** The President of the Philippines is authorized to lease the same parcel of land for a period of twenty-five years and for a nominal sum of one peso1 to the Boy Scouts and Girl Scouts of the Philippines exclusively for purposes for which said organizations have been established :*Provided,* That said parcel of land shall not be sub-leased.
+
+ **Section 3.** Upon termination of the lease or purpose for which it was leased all the fixed assets and permanent improvements of the said parcel of land will automatically revert to the Government.
+
+ All the foregoing conditions shall be excluded in the lease to be executed by the President of the Philippines.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Enacted without Executive approval, June 21, 1969.
+"	success	Republic Act	The law excludes a parcel of land in Baguio City from Forbes Park Reservation No. 1 and authorizes the President to lease it to the Boy Scouts and Girl Scouts of the Philippines for 25 years at a nominal rent of one peso, with reversion of assets to the government upon lease termination.	"[{""title"": ""Section 1."", ""summary"": ""Excludes a specified parcel of land from Forbes Park Reservation No. 1 and provides its detailed boundaries.""}, {""title"": ""Section 2."", ""summary"": ""Authorizes the President to lease the excluded parcel to the Boy Scouts and Girl Scouts for 25 years at a nominal sum of one peso, prohibiting sub-leasing.""}, {""title"": ""Section 3."", ""summary"": ""States that upon termination of the lease, all fixed assets and permanent improvements revert to the Government.""}, {""title"": ""Section 4."", ""summary"": ""The Act shall take effect upon its approval.""}]"	REPUBLIC ACT NO. 5786	June 21, 1969			To exclude a parcel of land from Forbes Park Reservation No. 1 in Baguio City and allow its lease to the Boy Scouts and Girl Scouts of the Philippines for their purposes.	"[""Exclusion of the parcel from Forbes Park Reservation No. 1"", ""Authorization of lease to Boy Scouts and Girl Scouts for 25 years at one peso"", ""Prohibition of sub-leasing"", ""Reversion of assets to government upon lease termination"", ""Act takes effect upon approval""]"		"[""Land"", ""Lease"", ""Boy Scouts"", ""Girl Scouts"", ""Forbes Park"", ""Baguio""]"	"[""Forbes Park"", ""Baguio"", ""Boy Scouts"", ""Girl Scouts"", ""Lease"", ""Land exclusion"", ""Republic Act 5786""]"
+repacts:datasets/markdown/repacts/1969/ra_5787_1969.md	repacts	1969		datasets/markdown/repacts/1969/ra_5787_1969.md	ra_5787_1969	AN ACT MAKING PUERTO PRINCESA, PROVINCE OF PALAWAN, A PORT OF ENTRY, BY AMENDING THE TARIFF AND CUSTOMS CODE OF THE PHILIPPINES AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.	"**[ REPUBLIC ACT NO. 5787, June 21, 1969 ]**
+
+ **AN ACT MAKING PUERTO PRINCESA, PROVINCE OF PALAWAN, A PORT OF ENTRY, BY AMENDING THE TARIFF AND CUSTOMS CODE OF THE PHILIPPINES AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** Section seven hundred one of Republic Act Numbered Nineteen hundred thirty-seven, otherwise known as the Tariff and Customs Code of the Philippines is further amended to read as follows:
+
+ > Section 701.*Collection Districts and Ports of Entry thereof.*-For administrative purposes the Philippine shall be divided into as many collection districts as there are at present existing, the respective limits of which may be changed from time to time by the Commissioner upon the approval of the department head. The principal ports of entry for the respective collection districts shall be Manila, Sual, Tabaco, Cebu, Pulupandan, Sia-in, Iloilo, Davao, Legazpi, Zamboanga, Jolo, Aparri, Jose Fanganiban, Cagayan, Tacloban, San Fernando, Hinigaran, Dumaguete City, San Jose, Maasin, Masao, Iligan City, Batalay, Supang, Virac, Cabugao, Gaang, Dagupan City, Bislig, Ozamis City, Catbalogan, Batangas, Surigao and Puerto Princesa.""
+
+ **Section 2.** The sum of five hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment and operation of the customs service at the Port of Puerto Princesa.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Enacted without Executive approval, June 21, 1969.
+"	success	Republic Act	This act designates Puerto Princesa as a port of entry, amends the Tariff and Customs Code to include it, and appropriates funds for customs operations.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 701 of the Tariff and Customs Code to list Puerto Princesa among principal ports of entry.""}, {""title"": ""Section 2"", ""summary"": ""Authorizes appropriation of 500,000 pesos for customs service at Puerto Princesa.""}, {""title"": ""Section 3"", ""summary"": ""Act takes effect upon approval.""}]"	REPUBLIC ACT NO. 5787	June 21, 1969			To establish Puerto Princesa as a port of entry and allocate funds for customs operations.	"[""Designation of Puerto Princesa as a port of entry"", ""Amendment to Section 701 of the Tariff and Customs Code"", ""Authorization of 500,000 pesos appropriation""]"	Tariff and Customs Code of the Philippines (Section 701)	"[""Port of Entry"", ""Tariff and Customs Code"", ""Customs Service"", ""Puerto Princesa""]"	"[""Puerto Princesa"", ""Port of Entry"", ""Customs"", ""Tariff and Customs Code"", ""Appropriation""]"
+repacts:datasets/markdown/repacts/1969/ra_5788_1969.md	repacts	1969		datasets/markdown/repacts/1969/ra_5788_1969.md	ra_5788_1969	AN ACT TO AMEND AND REPEAL CERTAIN SECTIONS OF REPUBLIC ACT NUMBERED FORTY-ONE HUNDRED TEN	"**[ REPUBLIC ACT NO. 5788, June 21, 1969 ]**
+
+ **AN ACT TO AMEND AND REPEAL CERTAIN SECTIONS OF REPUBLIC ACT NUMBERED FORTY-ONE HUNDRED TEN.**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** The title of Republic Act Numbered Forty-one hundred and ten is hereby amended to read as follows:
+
+ > ""An Act to provide for Specialization in Air Conditioning and Refrigeration "" in the Philippines.""
+
+ **Section 2.** Section one of the same Act is hereby amended to read as follows:
+
+ > ""**Section 1.***Title of Act.*-This Act shall be known as the 'Air Conditioning and Refrigeration Specialization Law,""
+
+ **Section 3.** Section two of the same Act is amended to read as follows:
+
+ > ""**Section 2.***Certificate of Specialization.*-The Board of Mechanical Engineering Examiners is hereby authorized to issue certificate of Specialization in Air Conditioning and Refrigeration to registered professional mechanical engineers, after they shall have passed a special examination to be given by the Board.
+>
+>  ""All certificates of specialization shall show the full name of the specialist, shall have a serial number, and shall be signed by all the members of the Board, and shall be attested to by the official seal.""
+
+ **Section 4.** Section three of the same Act is hereby repealed.
+
+ **Section 5.** Section four of the same Act is hereby renumbered as Section three and is hereby amended to read as follows:
+
+ > ""**Section 3.***Powers, vested in the Board of Mechanical Engineering Examiners.*-The Board is vested with authority conformably with the provisions of this amendatory Act, to administer the provisions thereof, to issue, suspend and revoke certificates of specialization in air conditioning and refrigeration and to administer oaths.
+>
+>  ""In carrying into effect the provisions of this Act, the Board may, under the hand of its Chairman and the seal of the Board subpoena witnesses and compel their attendance, and also require the production of books, papers, documents, etc., in a case involving the revocation of registration, practice or offer to practice without registration. Any member of the Board may administer oaths or affirmation to witness appearing before the Board. If any person shall refuse to obey any subpoena so issued, or shall refuse to testify or produce any book, paper, document, etc., the Board may present its petition to the Court of First Instance, setting forth the facts, and thereupon such court shall, in a proper case, issue its subpoena requiring his attendance before such court and there to testify or to produce such books, papers, documents, etc., as may be deemed necessary and pertinent by the Board. Any person failing or refusing to obey any subpoena or order of the said court may be proceeded against in the same manner as for the refusal to obey any other subpoena or order of the court.
+>
+>  ""The Board shall exercise the powers conferred upon it by this Act, shall have charge of the selection, development, preparation of all codes, recommended standards of practice in the field of air conditioning and refrigeration specialization and all revisions therein to be adopted by all specialists.
+>
+>  ""It shall cooperate with other government agencies in the promotion and encouragement of research in the fields of air conditioning and refrigeration.
+>
+>  ""The Board shall inspect at least once a year; refrigerating engineering works, projects or plants, corporation established in the Philippines, for the purpose of adequately safeguarding life, health and property; and shall discharge such other powers and duties as may affect ethical and technological standards of the air conditioning and refrigeration specialization in the Philippines.
+>
+>  ""For the purpose of this Act the Director of Bureau of Labor Standards and/or his duly authorized representative in the provinces and such other competent registered engineers of chartered cities, shall beex-officioagents of the Board, and as such it shall be their duty to help in the enforcement of the provisions of this Act.""
+
+ **Section 6.** Section five of the same Act is hereby repealed.
+
+ **Section 7.** Section six of the same Act shall be renumbered as Section four.
+
+ **Section 8.** Section seven of the same Act is hereby repealed.
+
+ **Section 9.** Section eight of the same Act is hereby renumbered as Section five and is hereby amended to read as follows:
+
+ > ""**Section 5.***Compensation of the Board.*-The members of the Board shall each receive as compensation the sum of ten pesos for each applicant examined. All fees shall be received by the permanent collecting officer designated by the Board of Examiners, and such officer shall pay all authorized expenses of the Board, including the compensation provided for by this Act for the members of the Board.""
+
+ **Section 10.** Sections nine, ten, eleven, twelve, thirteen, fourteen, fifteen, and sixteen of the same Act are hereby repealed.
+
+ **Section 11.** Section seventeen of the same Act is hereby renumbered as Section six and is hereby amended to read as follows:
+
+ > ""**Section 6.***Scope of Examination.*-The scope and procedure of the examination shall be prescribed by the Board with special reference to the applicant's ability and experience in air conditioning and refrigeration, and to prove that said applicant has sufficient technological knowledge to insure safety to life, health and property as well as economy and efficiency in the design, construction, installation, maintenance, operation, organization and management of air conditioning and refrigerating plants or works.""
+
+ **Section 12.** Section eighteen of the same Act is renumbered as Section seven and is hereby amended to read as follows:
+
+ > ""**Section 7.***Report of Ratings.*-The Board shall, within one hundred twenty days after the date of the completion of the examinations, report the ratings obtained by each candidate to the Commissioner of Civil Service, who shall submit such ratings to the President of the Republic of the Philippines.""
+
+ **Section 13.** Sections nineteen, twenty and twenty-one of the same Act are hereby repealed.
+
+ **Section 14.** Section twenty-two of the same Act is renumbered as Section eight and is hereby amended to read as follows:
+
+ > ""**Section 8.***Seal of Air Conditioning and Refrigeration Specialist.*-Each registrant for the title of air conditioning and refrigeration specialist shall, upon registration, obtain, a seal of design prescribed by the Board, bearing the registrant's name, the certificate number, and the legend 'Air Conditioning and Refrigeration Specialist' Plans, specifications, price quotations, reports and other professional documents prepared by or executed under the immediate supervision of, and issued by a specialist, shall be stamped on every sheet with said seal when filed with government authorities or when submitted or used professionally:*Provided,*That it shall be unlawful for any person to stamp or seal any document with said seal after the certificate of the specialist named therein has been revoked or suspended, unless said certificate shall have been reinstated or reissued.""
+
+ **Section 15.** Section twenty-three of the same Act is renumbered as Section nine is hereby amended to read as follows:
+
+ > ""**Section 9.***Fees for examination.*-Every applicant for examination for the title of air conditioning and refrigeration specialist, shall pay an examination fee of fifty pesos.""
+
+ **Section 16.** Section twenty-four of the same Act is renumbered as Section ten and is hereby amended to read as follows:
+
+ > ""**Section 10.***Refusal to issue a certificate.*-The Board shall refuse to issue a certificate to any person convicted by a court of competent jurisdiction of any criminal offense involving moral turpitude, or to any person guilty of immoral or dishonorable conduct, or to any person of unsound mind. In the event of a refusal to issue a certificate for any person the Board shall give to the applicant a written statement setting forth its reason for such action, which statement shall be incorporated, in the record of the Board.""
+
+ **Section 17.** Section twenty-five of the same Act is renumbered as Section eleven and is hereby amended to read as follows:
+
+ > ""**Section 11.***Suspension and revocation of certificates.*-The Board shall have the power, upon proper notice and hearing, to suspend or revoke any certificate of specialization of any registrant for any cause specified in the preceding section, or for the use or perpetration of any fraud or deceit in obtaining a certificate of specialization, or for gross negligence or incompetency, or for unethical practice or dishonorable and unprofessional conduct:*Provided however,*That the action of the Board shall be subject to appeal to the President.
+>
+>  ""It shall be sufficient ground for the revocation of a certificate issued under this Act for unethical practice or dishonorable and unprofessional conduct, that he has: (1) signed and affixed his seal on any plans, designs, technical reports, valuations, specifications, quotations, estimates, or other similar documents, or works not prepared by him; (2) represented himself as having taken charge of, undertaken or supervised the design, construction, erection, installation, or alteration of an air conditioning or refrigeration works, projects or plant, without actually having done so; (3) represented himself as having performed air conditioning or refrigeration service in connection with the manufacture, sale, supply or distribution of mechanical equipment, machinery or process, without actually having done so; or (4) represented himself as having managed, operated, tended, or maintained an air conditioning or refrigerating works, project or plant without actually having done so.
+>
+>  ""Any person or persons, firm, association, or corporation may prefer charges in accordance with the provisions of this section, against any specialist; or the Board itself may ""motu proprio"" investigate and/or take cognizance of acts or practices constituting sufficient cause for suspension or revocation of the certificate by proper resolution or order. Such charges shall be in writing, and shall be sworn to by the person making them and shall be filed with the Secretary of the Board.""
+
+ **Section 18.** Section twenty-six of the same Act is renumbered as Section twelve and is hereby amended to read as follows:
+
+ > ""**Section 12.***Reissue of revoked certificates and replacement of lost certificate.*-The Board may, after the expiration of one year from the date of revocation of a certificate, for reasons it may deem sufficient, entertain an application for a new certificate of specialization from a person whose certificate has been revoked in the same manner as application for original ones, and in doing so it may, at its discretion, exempt the applicant from the necessity of undergoing an examination.
+>
+>  ""A new certificate of specialization to replace any certificate lost, destroyed or mutilated may be issued, subject to the rules of the Board, and a charge of twenty pesos shall be made for such issuance.""
+
+ **Section 19.** Section twenty-seven of the same Act is renumbered as Section thirteen and is hereby amended to read as follows:
+
+ > ""**Section 13.***Penal provision.*-Any person who shall represent himself as an air conditioning or refrigeration specialist in the Philippines without being registered, or any person presenting or attempting to use as his own the certificate or the seal of another, or any person who shall give any false or forged evidence of any kind to the Board or to any member thereof in obtaining a certificate of specialization, or any person who shall falsely impersonate any specialist of like or different name, or any person who shall attempt to use a revoked or suspended certificate of specialization, or any person who shall use in connection with his name or otherwise assume, use or advertise any title or description tending to convey the impression that he is an air conditioning and refrigeration specialist or any person who shall violate any of the provisions of this Act, shall be guilty of a misdemeanor and shall, upon conviction, be sentenced to a fine of not less than five hundred pesos nor more than one thousand pesos, or to suffer imprisonment for a period not exceeding three months, or both, in the discretion of the court.""
+
+ **Section 20.** Sections twenty-eight, twenty-nine, thirty, thirty-one and thirty-two of the same Act are hereby repealed.
+
+ **Section 21.** Sections thirty-three, thirty-four, thirty-five and thirty-six of the same Act are hereby renumbered as Sections fourteen, fifteen, sixteen and seventeen, respectively.
+
+ **Section 22.** This Act shall take effect upon its approval.
+
+ Enacted without Executive approval, June 21, 1969.
+"	success	Amendment	This act amends and repeals specific sections of Republic Act 4110 to establish the Air Conditioning and Refrigeration Specialization Law, creating a Board of Mechanical Engineering Examiners, authorizing certification, defining powers, compensation, examination scope, and reporting requirements.	"[{""title"": ""Section 1. Title of Act"", ""summary"": ""Amends the title of RA 4110 to \""An Act to provide for Specialization in Air Conditioning and Refrigeration.\""""}, {""title"": ""Section 2. Title of Act"", ""summary"": ""Renames the Act as the 'Air Conditioning and Refrigeration Specialization Law.'""}, {""title"": ""Section 3. Certificate of Specialization"", ""summary"": ""Authorizes the Board to issue certificates of specialization in air conditioning and refrigeration, detailing certificate format and certification process.""}, {""title"": ""Section 5. Powers, vested in the Board of Mechanical Engineering Examiners"", ""summary"": ""Defines the Board\u2019s authority to administer, issue, suspend, and revoke certificates, conduct examinations, enforce compliance, and collaborate with government agencies.""}, {""title"": ""Section 9. Compensation of the Board"", ""summary"": ""Provides that Board members receive ten pesos per examined applicant as compensation, payable through the Board\u2019s designated collecting officer.""}, {""title"": ""Section 11. Scope of Examination"", ""summary"": ""Specifies that the Board prescribes examination scope and procedures, assessing applicants\u2019 technical knowledge for safety and efficiency.""}, {""title"": ""Section 12. Report of Ratings"", ""summary"": ""Mandates the Board to submit candidate ratings within 120 days of examination completion to the Commissioner of Civil Service.""}]"	RA No. 5788	June 21, 1969			To amend and repeal certain sections of Republic Act 4110, establishing a specialized law for air conditioning and refrigeration, and creating regulatory mechanisms for certification and oversight.	"[""Title amendment to Air Conditioning and Refrigeration Specialization Law"", ""Creation of Board of Mechanical Engineering Examiners"", ""Authority to issue and regulate specialization certificates"", ""Compensation of Board members"", ""Scope and procedure of examinations"", ""Report of ratings to Civil Service""]"	Republic Act 4110	"[""Amendment"", ""Specialization"", ""Air Conditioning"", ""Refrigeration"", ""Board""]"	"[""air conditioning"", ""refrigeration"", ""specialization"", ""certificate"", ""board"", ""examination"", ""compensation"", ""powers""]"
+repacts:datasets/markdown/repacts/1969/ra_5789_1969.md	repacts	1969		datasets/markdown/repacts/1969/ra_5789_1969.md	ra_5789_1969	"AN ACT AMENDING REPUBLIC ACT NUMBERED TWENTY-NINE HUNDRED THIRTY-SEVEN, ENTITLED ""AN ACT GRANTING JORGE D. BAYONA A FRANCHISE TO CONSTRUCT, MAINTAIN AND OPERATE A RADIO BROADCASTING STATION IN THE MUNICIPALITY OF LEGASPI, PROVINCE OF ALBAY."""	"**[ REPUBLIC ACT NO. 5789, June 21, 1969 ]**
+
+ **AN ACT AMENDING REPUBLIC ACT NUMBERED TWENTY-NINE HUNDRED THIRTY-SEVEN, ENTITLED ""AN ACT GRANTING JORGE D. BAYONA A FRANCHISE TO CONSTRUCT, MAINTAIN AND OPERATE A RADIO BROADCASTING STATION IN THE MUNICIPALITY OF LEGASPI, PROVINCE OF ALBAY.""**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** Section one of Republic Act Numbered Twenty-nine hundred thirty-seven is amended to read as follows:
+
+ > ""**Section 1.** Subject to the provisions of the Constitution as well as of Act Numbered Three thousand eight hundred forty-six, entitled ""An Act providing for the regulation of radio stations and radio communication in the Philippine Islands, and for other purposes""; Act Numbered Three thousand nine hundred ninety-seven, known as the Radio Broadcasting Law; Commonwealth Act Numbered One hundred forty-six, known as the Public Service Act, and their amendments; and other applicable laws, not inconsistent with this Act, Jorge D. Bayona is hereby granted a franchise to construct, maintain and operate radio broadcasting and television stations in the Bicol region and Southern Tagalog, as well as fixed point-to-point and land based and land and sea-mobile radio stations for the reception and transmission of radio communications within the Philippines, at such places as the said Jorge D. Bayona may select, subject to the approval of the Secretary of Public Works and Communications.""
+
+ **Section 2.** Section two of the same Act is amended to read as follows:
+
+ > ""**Section 2.** This franchise shall continue for a period of twenty-five years from the date the said stations shall be put in operation, and is granted upon the express condition that the same shall be void unless the construction of at least one television station be begun two years from the date of the approval of this Act and be completed within four years from said date.""
+
+ **Section 3.** Section four of the same Act is amended to read as follows:
+
+ > ""**Section 4.** The grantee's radio broadcasting and television stations shall not be put in actual operation until the Secretary of Public Works and Communications shall have allotted to the grantee the frequencies and wave lengths and channels to be used under this franchise and issued to the grantee a license for such use.
+>
+>  ""The grantee, his successors or assigns, is authorized to operate his fixed point-to-point and land based and land and sea-mobile radio stations in the medium frequency, high frequency, and very high frequency that may be assigned to it by the Secretary of Public Works and Communications.""
+
+ **Section 4.** Section four-A, a new section, is hereby inserted between Section four and Section five of the same Act, and shall read as follows:
+
+ > ""Section 4-a. In the event of any competing individual, partnership or corporation receiving from the Congress a similar franchise in which there shall be any term or terms more favorable than those herein granted or tending to place the herein grantee at any disadvantage, then such term or terms shall ipso facto become a part of the terms hereof and shall operate equally in favor of the grantee as in the case of said competing individual partnership or corporation.""
+
+ **Section 5.** Section twelve of the same Act is amended to read as follows:
+
+ > ""**Section 12.** The grantee shall not require any previous censorship of any speech, play, act or scene or other matter to be broadcast and/or telecast from his stations; but if any such speech, play, act or scene or other matter should constitute a violation of the law or infringement of a private right, the grantee shall be free from liability, civil or criminal, for such speech, play, act or scene or other matter:*Provided,*That the grantee, during any broadcast and/or telecast, shall cut off from the air the speech, play, act or scene or other matter being broadcast and/or telecast, if the tendency thereof is to propose and/or incite treason, rebellion or sedition, or the language used therein or the theme thereof is indecent or immoral, and willful failure to do so shall constitute a valid cause for the cancellation of this franchise.""

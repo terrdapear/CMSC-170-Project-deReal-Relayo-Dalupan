@@ -1,0 +1,162 @@
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1965.
+"	success	Republic Act	This act establishes the Romana Pangan Emergency Hospital in Pampanga, authorizes the appropriation of 150,000 pesos for its establishment, operation and maintenance, and provides for its operation under the supervision of the Director of Medical Services.	"[{""title"": ""Section 1."", ""summary"": ""Establishes an emergency hospital in the Province of Pampanga under the supervision of the Director of Medical Services.""}, {""title"": ""Section 2."", ""summary"": ""Authorizes the appropriation of 150,000 pesos for the establishment, operation, and maintenance of the hospital during FY 1965, with future sums to be included in the General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""The act takes effect upon its approval.""}]"	4320	June 19, 1965			To establish the Romana Pangan Emergency Hospital in Pampanga and authorize the appropriation of necessary funds for its establishment, operation, and maintenance.	"[""Establishment of the Romana Pangan Emergency Hospital"", ""Appropriation of 150,000 pesos for establishment, operation, and maintenance"", ""Act takes effect upon approval""]"		"[""Healthcare"", ""Hospital"", ""Pampanga"", ""Emergency""]"	"[""Emergency Hospital"", ""Pampanga"", ""Appropriation"", ""Medical Services""]"
+repacts:datasets/markdown/repacts/1965/ra_4321_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4321_1965.md	ra_4321_1965	An Act Declaring the Barrio of Kapunitan in the Municipality of Orion, Province of Bataan, a Duly Constituted Barrio Thereof	"**REPUBLIC ACT No. 4321**
+
+ An Act Declaring the Barrio of Kapunitan in the Municipality of Orion, Province of Bataan, a Duly Constituted Barrio Thereof
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The barrio of Kapunitan in the Municipality of Orion, Province of Bataan, is hereby declared a duly constituted barrio of said municipality.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1965.
+"	success	Republic Act	Declares the barrio of Kapunitan in Orion, Bataan as a duly constituted barrio of the municipality.	"[{""title"": ""Section 1."", ""summary"": ""The barrio of Kapunitan in the Municipality of Orion, Province of Bataan, is hereby declared a duly constituted barrio of said municipality.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	4321	June 19, 1965			To declare the barrio of Kapunitan in Orion, Bataan as a duly constituted barrio of the municipality.	"[""The barrio of Kapunitan is declared a duly constituted barrio of Orion, Bataan."", ""The Act takes effect upon approval.""]"		"[""Republic Act"", ""Barrio"", ""Municipality"", ""Bataan""]"	"[""Kapunitan"", ""Orion"", ""Bataan"", ""Barrio"", ""Act"", ""June 1965""]"
+repacts:datasets/markdown/repacts/1965/ra_4322_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4322_1965.md	ra_4322_1965	An Act to Provide One Additional Judge for the Third Judicial District to Preside Over the Court of First Instance of Pangasinan, with Permanent Station in the Municipality of San Carlos, Province of Pangasinan, Amending for the Purpose Sections Fifty and Fifty-Two of the Judiciary Act of 1948	"**REPUBLIC ACT No. 4322**
+
+ An Act to Provide One Additional Judge for the Third Judicial District to Preside Over the Court of First Instance of Pangasinan, with Permanent Station in the Municipality of San Carlos, Province of Pangasinan, Amending for the Purpose Sections Fifty and Fifty-Two of the Judiciary Act of 1948
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The third paragraph of Section fifty of Republic Act Numbered two hundred ninety-six, otherwise known as ""The Judiciary Act of 1948,"" as amended, is further amended to read as follows:
+
+ > ""Twelve judges shall be commissioned for the Third Judicial District. Ten judges shall preside over the Court of First Instance of Pangasinan and shall be known as judges of the first, second, third, fourth, fifth, sixth, seventh, eight, ninth, and tenth branches thereof, respectively. Two judges shall preside over the Court of First Instance of Zambales, and shall be known as Judges of the first and second branches thereof, respectively.""
+
+ **Section 2.** The fifth paragraph of Section fifty-two of the same Act, as amended, is further amended to read as follows:
+
+ > ""For the Third Judicial District, two judges shall be stationed in the Municipality of Lingayen, Province of Pangasinan; three judges shall be stationed in the City of Dagupan; two judges, in the Municipality of Urdaneta, Province of Pangasinan; one judge, in the Municipality of Tayug, same province; one judge, in the Municipality of Alaminos, and another in the Municipality of San Carlos, same province; the judge of the first branch of the Court of First Instance of Zambales shall be stationed in the Municipality of Olongapo, Province of Zambales, and the judge of the second branch, in the Municipality of Iba, same province.""
+
+ **Section 3.** There is hereby appropriated out of any funds in the National Treasury not otherwise appropriated, the sum of sixty thousand pesos or so much thereof as may be necessary to carry out the purpose of this Act.
+
+ **Section 4.** This Act shall take effect on January second, nineteen hundred sixty-six.
+
+ Approved: June 19, 1965.
+"	success	Republic Act	This act amends Sections 50 and 52 of the Judiciary Act of 1948 to add an additional judge for the Third Judicial District and specifies the stations of judges in Pangasinan and Zambales, and appropriates funds for its implementation.	"[{""title"": ""Section 1."", ""summary"": ""Amends Section\u202f50 of the Judiciary Act to redefine the composition of judges in the Third Judicial District and Zambales.""}, {""title"": ""Section 2."", ""summary"": ""Amends Section\u202f52 of the Judiciary Act to specify the stationing of judges in various municipalities and cities within Pangasinan and Zambales.""}, {""title"": ""Section 3."", ""summary"": ""Appropriates funds for the act\u2019s implementation.""}, {""title"": ""Section 4."", ""summary"": ""States the effective date of the act.""}]"	4322	1965-06-19			To provide an additional judge for the Third Judicial District and specify the stationing of judges for the Court of First Instance of Pangasinan and Zambales, and to amend relevant sections of the Judiciary Act.	"[""Amends Section\u202f50 of the Judiciary Act of 1948 to set the number and branches of judges for the Third Judicial District."", ""Amends Section\u202f52 of the Judiciary Act of 1948 to assign specific stations for judges in Pangasinan and Zambales."", ""Appropriates a sum of sixty thousand pesos for implementation."", ""Effective date of January 2, 1966.""]"	Judiciary Act of 1948 (Sections 50 and 52).	"[""Judiciary"", ""Judges"", ""Pangasinan"", ""Zambales"", ""Legal amendment""]"	"[""Republic Act 4322"", ""Judiciary Act 1948"", ""Third Judicial District"", ""Pangasinan"", ""Zambales"", ""Court of First Instance"", ""Judge"", ""Amendment"", ""Funding""]"
+repacts:datasets/markdown/repacts/1965/ra_4323_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4323_1965.md	ra_4323_1965	An Act Providing for the Establishment of an Emergency Hospital in the Municipality of Siasi, Province of Sulu, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 4323**
+
+ An Act Providing for the Establishment of an Emergency Hospital in the Municipality of Siasi, Province of Sulu, and Authorizing the Appropriation of Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established under the direct supervision of the Department of Health, an emergency hospital in the Province of Siasi, Province of Sulu, to be known as Siasi Emergency Hospital.
+
+ **Section 2.** The Secretary of Health shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The sum of one hundred fifty thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital during the fiscal year nineteen hundred sixty-six. Thereafter, such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1965.
+"	success	Act	The Republic Act No. 4323 establishes an emergency hospital in Siasi, Sulu, authorizes fund appropriation, and outlines administrative provisions.	"[{""title"": ""Section 1."", ""summary"": ""An emergency hospital will be established under the direct supervision of the Department of Health in Siasi, Sulu.""}, {""title"": ""Section 2."", ""summary"": ""The Secretary of Health shall issue necessary rules and regulations to implement the Act.""}, {""title"": ""Section 3."", ""summary"": ""An amount of 150,000 pesos is authorized for the hospital's establishment and operation for FY 1966, with future funding to be included in the General Appropriations Act.""}, {""title"": ""Section 4."", ""summary"": ""The Act takes effect upon approval.""}]"	4323	1965-06-19			To establish an emergency hospital in Siasi, Sulu and provide for its funding and regulation.	"[""Establishment of Siasi Emergency Hospital"", ""Authorization of 150,000 pesos for FY 1966"", ""Rules and regulations by Secretary of Health"", ""Funding to be included in future General Appropriations Act"", ""Effectivity upon approval""]"		"[""Health"", ""Hospital"", ""Emergency"", ""Siasi"", ""Sulu""]"	"[""Emergency Hospital"", ""Siasi"", ""Sulu"", ""Health Department"", ""Appropriation""]"
+repacts:datasets/markdown/repacts/1965/ra_4324_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4324_1965.md	ra_4324_1965	An Act Converting the Public High School in the Municipality of Tayug, Province of Pangasinan, into a National High School to be Known as Tayug National High School, and Authorizing the Appropriations of Funds Therefor	"**REPUBLIC ACT No. 4324**
+
+ An Act Converting the Public High School in the Municipality of Tayug, Province of Pangasinan, into a National High School to be Known as Tayug National High School, and Authorizing the Appropriations of Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The public high school in the Municipality of Tayug, Province of Pangasinan, is hereby converted into a national high school to be known as Tayug National High School.
+
+ **Section 2.** The Secretary of Education is hereby empowered to reorganize said school accordingly.
+
+ **Section 3.** The sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, to carry out the purposes of this Act during the fiscal year nineteen hundred and sixty-six. Thereafter, such sums as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1965.
+"	success	Education	Converts Tayug Public High School into Tayug National High School and appropriates funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""The public high school in the Municipality of Tayug, Province of Pangasinan, is hereby converted into a national high school to be known as Tayug National High School.""}, {""title"": ""Section 2."", ""summary"": ""The Secretary of Education is empowered to reorganize said school accordingly.""}, {""title"": ""Section 3."", ""summary"": ""The sum of one hundred thousand pesos is authorized to be appropriated for the fiscal year 1966 and for future necessary sums.""}, {""title"": ""Section 4."", ""summary"": ""The Act shall take effect upon its approval.""}]"	4324	June 19, 1965			Conversion of a local public high school into a national high school and appropriation of funds for its operation.	"[""Conversion of Tayug Public High School into Tayug National High School"", ""Empowerment of Secretary of Education to reorganize school"", ""Authorization of 100,000 pesos appropriation for FY 1966""]"		"[""Education"", ""School Conversion"", ""Appropriation""]"	"[""public high school"", ""national high school"", ""Tayug"", ""Pangasinan"", ""appropriation"", ""Secretary of Education""]"
+repacts:datasets/markdown/repacts/1965/ra_4325_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4325_1965.md	ra_4325_1965	An Act Converting the Public High School in the Municipality of Rosales, Province of Pangasinan, into a National High School to be Known as Rosales National High School, and Authorizing the Appropriations of Funds Therefor	"**REPUBLIC ACT No. 4325**
+
+ An Act Converting the Public High School in the Municipality of Rosales, Province of Pangasinan, into a National High School to be Known as Rosales National High School, and Authorizing the Appropriations of Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The public high school in the Municipality of Rosales, Province of Pangasinan, is hereby converted into a national high school to be known as Rosales National High School.
+
+ **Section 2.** The Secretary of Education is hereby empowered to reorganized said school accordingly.
+
+ **Section 3.** The sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, to carry out the purposes of this Act during the fiscal year nineteen hundred and sixty-six. Thereafter, such sums as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1965.
+"	success	Education	The Republic Act converts the public high school in Rosales, Pangasinan into a national high school, authorizes the Secretary of Education to reorganize it, appropriates funds for its operation, and sets its effective date.	"[{""title"": ""Section 1."", ""summary"": ""Converts the public high school in Rosales, Pangasinan into a national high school named Rosales National High School.""}, {""title"": ""Section 2."", ""summary"": ""Empowers the Secretary of Education to reorganize the school accordingly.""}, {""title"": ""Section 3."", ""summary"": ""Appropriates one hundred thousand pesos for the school\u2019s operation in FY 1966 and allows subsequent necessary funds to be included in the General Appropriations Act.""}, {""title"": ""Section 3 (Effectivity)."", ""summary"": ""The act takes effect upon its approval.""}]"	RA No. 4325	June 19, 1965			To convert a public high school into a national high school and authorize appropriations for its operation.	"[""Conversion of the school to a national high school"", ""Empowerment of the Secretary of Education to reorganize the school"", ""Appropriation of 100,000 pesos for FY 1966"", ""Effectivity upon approval""]"		"[""Education"", ""School"", ""Appropriation"", ""Republic Act""]"	"[""High school"", ""National"", ""Rosales"", ""Pangasinan"", ""Appropriations""]"
+repacts:datasets/markdown/repacts/1965/ra_4326_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4326_1965.md	ra_4326_1965	An Act Providing for the Establishment of a Breeding Station in the Municipality of Banga, Province of Aklan, to be Known as Banga Breeding Station and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 4326**
+
+ An Act Providing for the Establishment of a Breeding Station in the Municipality of Banga, Province of Aklan, to be Known as Banga Breeding Station and Authorizing the Appropriation of Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the direct supervision of the Director of Animal Industry, a breeding station in the Municipality of Banga, Province of Aklan, to be known as Banga Breeding Station.
+
+ **Section 2.** The sum of one hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, to carry out the purposes of this Act, for the fiscal year nineteen hundred sixty-six. Thereafter, such sums as may be necessary for the operation and maintenance of said breeding station shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1965.
+"	success	Republic Act	This Act establishes a breeding station in Banga, Aklan, under the supervision of the Director of Animal Industry, and authorizes the appropriation of ₱100,000 for the fiscal year 1966, with future funding to be included in the General Appropriations Act.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of a breeding station in Banga, Aklan, under the supervision of the Director of Animal Industry.""}, {""title"": ""Section 2."", ""summary"": ""Authorization of \u20b1100,000 for the fiscal year 1966, with future necessary sums to be included in the annual General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""The Act takes effect upon its approval.""}]"	4326	June 19, 1965			To establish a breeding station in Banga, Aklan and authorize appropriation of funds to support its operations.	"[""Establishment of breeding station in Banga, Aklan"", ""Authorization of \u20b1100,000 for fiscal year 1966"", ""Future funding to be included in General Appropriations Act""]"		"[""Breeding Station"", ""Animal Industry"", ""Aklan"", ""Funding""]"	"[""breeding station"", ""Banga"", ""Aklan"", ""Animal Industry"", ""funding"", ""appropriation"", ""Republic Act 4326""]"
+repacts:datasets/markdown/repacts/1965/ra_4327_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4327_1965.md	ra_4327_1965	An Act Changing the Name of Govantes Dike in the Municipality of Vigan, Province of Ilocos Sur, to Isabelo De Los Reyes Dike	"**REPUBLIC ACT No. 4327**
+
+ An Act Changing the Name of Govantes Dike in the Municipality of Vigan, Province of Ilocos Sur, to Isabelo De Los Reyes Dike
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Govantes Dike in the Municipality of Vigan, Province of Ilocos Sur, is changed to Isabelo De Los Reyes Dike.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1965.
+"	success	Republic Act	An act that changes the name of Govantes Dike to Isabelo De Los Reyes Dike and provides that it takes effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""The name of Govantes Dike in the Municipality of Vigan, Province of Ilocos Sur, is changed to Isabelo De Los Reyes Dike.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	4327	June 19, 1965			To change the name of Govantes Dike to Isabelo De Los Reyes Dike.	"[""Name of Govantes Dike changed to Isabelo De Los Reyes Dike"", ""Act takes effect upon approval""]"		"[""Name Change"", ""Local Government"", ""Ilocos Sur""]"	"[""Govantes Dike"", ""Isabelo De Los Reyes Dike"", ""Vigan"", ""Ilocos Sur"", ""Republic Act 4327""]"
+repacts:datasets/markdown/repacts/1965/ra_4328_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4328_1965.md	ra_4328_1965	AN ACT INCREASING THE NUMBER OF ASSISTANT PROVINCIAL FISCALS FOR THE PROVINCE OF ORIENTAL MINDORO, AMENDING FOR THE PURPOSE SECTION SIXTEEN HUNDRED SEVENTY-FOUR OF THE ADMINISTRATIVE CODE, AS AMENDED.	"**REPUBLIC ACT No. 4328**
+
+ AN ACT INCREASING THE NUMBER OF ASSISTANT PROVINCIAL FISCALS FOR THE PROVINCE OF ORIENTAL MINDORO, AMENDING FOR THE PURPOSE SECTION SIXTEEN HUNDRED SEVENTY-FOUR OF THE ADMINISTRATIVE CODE, AS AMENDED.
+
+ **Section 1.** The provisions of Section sixteen hundred seventy-four of the Administrative Code, as amended, relative to the number of assistant provincial fiscals in the Province of Oriental Mindoro, is further amended to read as follows:
+
+ ""Oriental Mindoro, five;""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1965
+"	success	Republic Act	The act amends Section 16-74 of the Administrative Code to set the number of assistant provincial fiscals in Oriental Mindoro to five.	"[{""title"": ""Section 1."", ""summary"": ""Amends Section 16-74 of the Administrative Code to state that Oriental Mindoro has five assistant provincial fiscals.""}, {""title"": ""Section 2."", ""summary"": ""The act takes effect upon its approval.""}]"	4328	June 19, 1965			To increase the number of assistant provincial fiscals in the Province of Oriental Mindoro by amending the Administrative Code.	"[""Amends Section 16-74 of the Administrative Code to set the number of assistant provincial fiscals in Oriental Mindoro to five.""]"	Section 16-74 of the Administrative Code	"[""Administrative Code"", ""Oriental Mindoro"", ""Fiscal"", ""Provincial"", ""Republic Act""]"	"[""assistant provincial fiscals"", ""Oriental Mindoro"", ""Administrative Code"", ""Section 16-74"", ""Republic Act No. 4328""]"
+repacts:datasets/markdown/repacts/1965/ra_4329_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4329_1965.md	ra_4329_1965	An Act Providing for the Establishment of a Provincial Animal Breeding Station in the Municipality of Macrohon, Province of Southern Leyte, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 4329**
+
+ An Act Providing for the Establishment of a Provincial Animal Breeding Station in the Municipality of Macrohon, Province of Southern Leyte, and Authorizing the Appropriation of Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the supervision of the Director of Animal Industry, a provincial animal breeding in the Municipality of Macrohon, Province of Southern Leyte.
+
+ **Section 2.** The Director of Animal Industry shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The sum of fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of the said animal breeding station, said sum to be spent by the Director of Animal Industry subject to the approval of the Secretary of Agriculture and Natural Resources; for the purchase of breeding animals, sheds, corrals and other structures; for the establishment of a water system; for the salaries and wages of personnel; and for such other expenses as may be necessary to carry out the purpose of this Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1965.
+"	success	Republic Act	Republic Act No. 4329 establishes a provincial animal breeding station in Macrohon, Southern Leyte, authorizes the appropriation of fifty thousand pesos for its establishment and operation, and sets the legislative framework for its management.	"[{""title"": ""Section 1."", ""summary"": ""Establishes the provincial animal breeding station in Macrohon, supervised by the Director of Animal Industry.""}, {""title"": ""Section 2."", ""summary"": ""The Director of Animal Industry shall issue necessary rules and regulations to carry out the purpose of the Act.""}, {""title"": ""Section 3."", ""summary"": ""Authorizes appropriation of 50,000 pesos for the establishment, operation, maintenance, and related expenses of the breeding station.""}, {""title"": ""Section 4."", ""summary"": ""The Act shall take effect upon its approval.""}]"	4329	June 19, 1965			To establish a provincial animal breeding station in Macrohon, Southern Leyte, and provide funds for its operation.	"[""Establishment of a provincial animal breeding station supervised by the Director of Animal Industry."", ""Issuance of rules and regulations by the Director of Animal Industry."", ""Appropriation of 50,000 pesos for establishment, operation, maintenance, and related expenses."", ""Act takes effect upon approval.""]"		"[""Animal Breeding"", ""Agriculture"", ""Provincial""]"	"[""Animal Breeding Station"", ""Macrohon"", ""Southern Leyte"", ""Appropriation"", ""Agriculture""]"
+repacts:datasets/markdown/repacts/1965/ra_4330_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4330_1965.md	ra_4330_1965	An Act Providing for Three Additional Assistant Provincial Fiscals for the Province of La Union, Amending for the Purpose Section Sixteen Hundred Seventy-Four of the Administrative Code, as Amended	"**REPUBLIC ACT No. 4330**
+
+ An Act Providing for Three Additional Assistant Provincial Fiscals for the Province of La Union, Amending for the Purpose Section Sixteen Hundred Seventy-Four of the Administrative Code, as Amended
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The provision of section sixteen hundred seventy-four of the Administrative Code, as amended, relative to the number of assistant provincial fiscals in the Province of La Union is further amended to read as follows:
+
+ > ""La Union, six assistant provincial fiscals;""
+
+ **Section 2.** This Act shall take effect on January second, nineteen hundred sixty-six.
+
+ Approved: June 19, 1965.
+"	success	Republic Act	This act amends Section 1674 of the Administrative Code to increase the number of assistant provincial fiscals in La Union to six.	"[{""title"": ""Section 1"", ""summary"": ""The act amends Section 1674 of the Administrative Code to state that La Union has six assistant provincial fiscals.""}, {""title"": ""Section 2"", ""summary"": ""The act specifies that it shall take effect on January 2, 1966.""}]"	4330	June 19, 1965			To amend the Administrative Code to adjust the number of assistant provincial fiscals in La Union.	"[""Amends Section 1674 of the Administrative Code to increase the number of assistant provincial fiscals in La Union to six.""]"	Section 1674 of the Administrative Code	"[""Administrative Code"", ""La Union"", ""Assistant Provincial Fiscal"", ""Government"", ""Philippines""]"	"[""Republic Act"", ""Administrative Code"", ""La Union"", ""Assistant Provincial Fiscal"", ""Amendment""]"
+repacts:datasets/markdown/repacts/1965/ra_4331_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4331_1965.md	ra_4331_1965	An Act Converting Doña Gregoria Memorial Hospital in the Municipality of Agoo, Province of La Union, into a National Hospital to be Known as Doña Gregoria National Hospital, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 4331**
+
+ An Act Converting Doña Gregoria Memorial Hospital in the Municipality of Agoo, Province of La Union, into a National Hospital to be Known as Doña Gregoria National Hospital, and Authorizing the Appropriation of Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Doña Gregoria Memorial Hospital in the Municipality of Agoo, Province of La Union, is hereby converted into a national hospital to be known as Doña Gregoria National Hospital.
+
+ **Section 2.** The sum two hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, to carry out the purpose of this Act. Every year thereafter, the said sum must be included in the annual General Appropriations Act.

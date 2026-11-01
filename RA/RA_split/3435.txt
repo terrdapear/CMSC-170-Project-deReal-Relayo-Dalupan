@@ -1,0 +1,146 @@
+
+ **Section 17.** *Implementing Rules and Regulations.* - The LTO, in consultation with law enforcement and other relevant agencies, shall promulgate the rules and regulations to implement the provisions of this Act within a non-extendible period of ninety (90) days from its effectivity.
+
+ **Section 18.** *Congressional Oversight on the Motorcycle Crime Prevention Act.* - There is hereby created a Congressional Oversight Committee on the Motorcycle Crime Prevention Act to review and assess, among others, the implementation of this Act. The Congressional Oversight Committee shall be composed of five (5) members from the Senate and five (5) members from the House of Representatives. It shall be co-chaired by the Chairpersons of the Senate Committee on Justice and House Committee on Transportation. Such congressional review and oversight shall be undertaken yearly beginning one (1) year after the effectivity of this Act and thereafter as may be determined by the Oversight Committee.
+
+ The Oversight Committee shall review the penalties herein imposed and shall adjust the same accordingly if deemed necessary.
+
+ **Section 19.** *Transitory Provision.* - Motorcycle owners with number plates not in conformity with the provisions of this Act, shall renew their registration and apply for the required readable number plate not later than June 30, 2019. The LTO is given until December 31, 2019 to produce, release and issue the number plates as required by this Act. After December 31, 2019, the penal provisions regarding the use of bigger, readable and color-coded number plates as required under this Act shall take effect.
+
+ **Section 20.** *Repealing Clause.* - All laws, decrees, orders, rules and regulations or other issuances or parts thereof inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+
+ **Section 21.***Separability Clause.* - If any portion or provision of this Act is declared unconstitutional, the remainder of this Act or any provision not affected thereby shall remain in force and in effect.
+
+ **Section 21.** *Effectivity.* - This Act shall take effect after fifteen (15) days following the completion of its publication either in the *Official Gazette*or in a newspaper of general circulation in the Philippines.
+
+ Approved,
+
+ **GLORIA MACAPAGAL-ARROYO** Speaker of the House of Representatives
+
+ **VICENTE C. SOTTO III** President of the Senate
+
+ This Act which is a consolidation of Senate Bill No. 1397 and House Bill No. 8419 was passed by the Senate and the House of Representatives on December 13, 2018 and January 14, 2019, respectively.
+
+ **DANTE ROBERTO P. MALING** Acting Secretary General House of Representatives
+
+ **MYRA MARIE D. VILLARICA** Secretary of the Senate
+
+ Approved: March 8, 2019
+
+ (Sgd.) **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	This act establishes mandatory larger, readable, color‑coded number plates for motorcycles, requires owners to register and report sales within five days, creates a registry, and imposes penalties for non‑compliance, aiming to prevent motorcycle‑related crimes.	"[{""title"": ""Short Title"", ""summary"": ""Defines the act\u2019s short title as Motorcycle Crime Prevention Act.""}, {""title"": ""Declaration of Policy"", ""summary"": ""States policy to secure citizens from motorcycle crimes through better number plates.""}, {""title"": ""Definitions"", ""summary"": ""Defines terms such as Backrider, Driver, Motorcycle, Owner, and Number plate.""}, {""title"": ""Registration by the Owner"", ""summary"": ""Owner must register within five days and report sales; penalties for non\u2011compliance.""}, {""title"": ""Bigger, Readable and Color\u2011Coded Number Plates"", ""summary"": ""LTO to issue larger, readable, color\u2011coded plates with specific design and placement requirements.""}, {""title"": ""Registry of Motorcycles"", ""summary"": ""LTO maintains a registry database, complying with the Data Privacy Act.""}, {""title"": ""Driving Without a Number Plate or Readable Number Plate"", ""summary"": ""Penalties for driving without plates; seizure and reporting procedures.""}, {""title"": ""Failure to Surrender Seized Motorcycle"", ""summary"": ""Obligates seizure handling; penalties for failure to surrender within 24 hours.""}]"	11235	2018-07-23			To prevent and penalize motorcycle crime by mandating distinctive number plates and registration.	"[""Mandatory larger, readable, color\u2011coded number plates for motorcycles"", ""Owner registration within five days and reporting of sales"", ""Creation of a comprehensive motorcycle registry"", ""Penalties for non\u2011compliance, including fines and imprisonment"", ""Seizure of motorcycles lacking plates and reporting protocols""]"		"[""Motorcycle"", ""Traffic"", ""Crime Prevention"", ""Number Plate"", ""Regulation""]"	"[""motorcycle"", ""number plate"", ""registration"", ""penalty"", ""registry"", ""law enforcement"", ""traffic code""]"
+repacts:datasets/markdown/repacts/2019/ra_11236_2019.md	repacts	2019		datasets/markdown/repacts/2019/ra_11236_2019.md	ra_11236_2019	An Act Granting Philippine Citizenship to Mohamad Wassim Nanaa	"**Seventeenth Congress Third Regular Session**
+
+ Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand eighteen.
+
+ **REPUBLIC ACT No. 11236**
+
+ An Act Granting Philippine Citizenship to Mohamad Wassim Nanaa
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Mr. Mohamad Wassim Nanaa is hereby granted Philippine citizenship with all the rights, privileges and prerogatives, as well as the duties and obligations appurtenant thereto.
+
+ **Section 2.** Mr. Mohamad Wassim Nanaa shall take the Oath of Allegiance to the Republic of the Philippines before an officer duly authorized to administer the same. The Oath of Allegiance shall be registered with the Bureau of Immigration.
+
+ **Section 3.** Upon registration of the Oath of Allegiance, the Bureau of Immigration shall issue a Certificate of Naturalization to Mr. Mohamad Wassim Nanaa who shall thereupon enter into the full enjoyment of Philippine citizenship.
+
+ **Section 4.** This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in any newspaper of general circulation.
+
+ Approved,
+
+ **VICENTE C. SOTTO III** President of the Senate
+
+ **GLORIA MACAPAGAL-ARROYO** Speaker of the House of Representatives
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate on December 3, 2018 and January 21, 2019, respectively.
+
+ **MYRA MARIE D. VILLARICA** Secretary of the Senate
+
+ **DANTE ROBERTO P. MALING** Acting Secretary General House of Representatives
+
+ Approved: March 8, 2019
+
+ (Sgd.) **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	An act that grants Philippine citizenship to Mr. Mohamad Wassim Nanaa, outlining the oath of allegiance, issuance of a Certificate of Naturalization, and effective date of the act.	"[{""title"": ""Section 1"", ""summary"": ""Mr. Mohamad Wassim Nanaa is hereby granted Philippine citizenship with all rights, privileges, prerogatives, duties, and obligations appurtenant thereto.""}, {""title"": ""Section 2"", ""summary"": ""Mr. Nanaa shall take the Oath of Allegiance to the Republic of the Philippines before an authorized officer, and the oath shall be registered with the Bureau of Immigration.""}, {""title"": ""Section 3"", ""summary"": ""Upon registration of the oath, the Bureau of Immigration shall issue a Certificate of Naturalization to Mr. Nanaa, enabling him to enjoy full Philippine citizenship.""}, {""title"": ""Section 4"", ""summary"": ""The act takes effect fifteen (15) days after its publication in the Official Gazette or a general circulation newspaper.""}]"	11236	March 8, 2019			To grant Philippine citizenship to Mr. Mohamad Wassim Nanaa.	"[""Grant of Philippine citizenship to Mr. Nanaa"", ""Oath of Allegiance requirement"", ""Issuance of Certificate of Naturalization by Bureau of Immigration"", ""Effectivity 15 days after publication""]"		"[""Citizenship"", ""Naturalization"", ""Republic Act"", ""Philippines""]"	"[""Mohamad Wassim Nanaa"", ""citizenship"", ""naturalization"", ""Oath of Allegiance"", ""Bureau of Immigration""]"
+repacts:datasets/markdown/repacts/2019/ra_11237_2019.md	repacts	2019		datasets/markdown/repacts/2019/ra_11237_2019.md	ra_11237_2019	AN ACT RECOGNIZING THE FAITH ACADEMY AS AN EDUCATIONAL INSTITUTION OF INTERNATIONAL CHARACTER AND GRANTING THE ACADEMY CERTAIN PREROGATIVES TO PROMOTE ITS DEVELOPMENT	"**Seventeenth Congress Third Regular Session**
+
+ Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand eighteen.
+
+ **REPUBLIC ACT No. 11237**
+
+ AN ACT RECOGNIZING THE FAITH ACADEMY AS AN EDUCATIONAL INSTITUTION OF INTERNATIONAL CHARACTER AND GRANTING THE ACADEMY CERTAIN PREROGATIVES TO PROMOTE ITS DEVELOPMENT
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The Faith Academy, operated by the Faith Academy, Inc., herein referred to as the ""Academy"", is hereby declared and officially recognized as a basic educational institution of international character authorized to operate educational programs that primarily and principally adhere to universally accepted and recognized educational policies.
+
+ **Section 2.** The Academy, established by religious groups and missions boards, shall be governed by a Board of Trustees, herein referred to as the "" Board"", and elected in accordance with its corporate charter.
+
+ The Academy, having been established primarily for foreign missionary personnel and their dependents and for other temporary residents, shall be covered by the exemption provided in Section 4 (2), Article XIV of the Philippine Constitution.
+
+ **Section 3.** To enable the Academy to continue carrying out its educational program, improve its standard of instruction, and meet the special needs of the foreign temporary resident community for quality education, it shall:
+
+ (a) Accept applicants for admission, regardless of nationality, in accordance with its own eligibility standards, and rules for admission and grade placement; (b) Be managed and administered by a head of school, who shall possess the qualifications prescribed by the Board; (c) Be able to accept provisions and donations of any kind to carry out the purposes of the Academy and be entitled to use properties, real or personal, so donated, and construct and own buildings thereon exclusively for educational purposes: *Provided,* That whenever necessary to carry out its objectives, it shall allow the Christian Education Assistance Foundation (CEAF), the owner of the Academy's properties, to obtain leases on real properties, acquire personal properties, tangible or intangible, or any interest in such properties other than real, by purchase, lease, barter, donation, gift or otherwise, and dispose of, mortgage or encumber them for the benefit of the Academy. (d) Upon consultation with the Secretary of Education, determine its own basic education curriculum, calendar of studies, and work schedule, and teach whatever language it may deem appropriate, and determine the reasonable amount of fee which shall be imposed upon its students to maintain and conform with the Academy's standard of education; (e) Maintain standards of education compatible with those obtaining in similar schools of generally recognized international standing; (f) Contract its own teaching and management personnel selected by the Academy' administration either locally or abroad, whether Filipino or of other nationality, such foreign personnel being exempt from laws that impose nationality restrictions on employment or those that impose restrictions on the administration of educational institutions, except laws that have been or will be enacted for the protection of employees: *Provided,* That such exemption shall not extend to their liability for income taxes; and(g) Be granted benefits and privileges under the law as a nonstock, nonprofit educational institution. **Section 4.** Foreign scholars, trainees, participants, students, volunteers, fellows or professors appointed, selected, hired, employed, or contracted by the Academy shall be allowed entry as special non-immigrants under Section 47(a)(2) of Commonwealth Act No. 613, otherwise known as "" The Philippine Immigration Act of 1940"", as amended, and as such shall be exempt from the payment of visa and immigration fees: *Provided,* That such persons are holders of valid passports and are not otherwise disqualified.
+
+ **Section 5.** Within sixty (60) days from the approval of this Act, the Secretary of Education, in consultation with the members of the Board of the Academy, shall formulate the rules and regulations implementing the provisions of this Act.
+
+ **Section 6.** If any provision of this Act is held invalid or unconstitutional, the other provisions not so declared shall remain in force and effect.
+
+ **Section 7.** This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ **VICENTE C. SOTTO III** President of the Senate
+
+ **GLORIA MACAPAGAL-ARROYO** Speaker of the House of Representatives
+
+ This Act was passed by the House of Representatives as House Bill No. 8741 on January 14, 2019 and adopted by the Senate as an amendment to Senate Bill No. 1669 on January 21, 2019.
+
+ **MYRA MARIE D. VILLARICA** Secretary of the Senate
+
+ **DANTE ROBERTO P. MALING** Acting Secretary General House of Representatives
+
+ Approved: March 8, 2019
+
+ (Sgd.) **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	This Republic Act formally recognizes the Faith Academy as a basic educational institution of international character, granting it various prerogatives to facilitate its development and serve foreign missionary personnel and their dependents. It establishes governance, admission, management, and exemption provisions for foreign students and staff, and sets the framework for implementation and effectivity.	"[{""title"": ""Section 1."", ""summary"": ""Declares the Faith Academy as a basic educational institution of international character authorized to operate educational programs adhering to universally accepted policies.""}, {""title"": ""Section 2."", ""summary"": ""Establishes that the Academy is governed by a Board of Trustees elected in accordance with its corporate charter and clarifies its exemption for foreign missionary personnel under the Constitution.""}, {""title"": ""Section 3."", ""summary"": ""Outlines the Academy\u2019s operational provisions including admission regardless of nationality, management by a qualified head of school, acceptance of donations, curriculum development, personnel hiring, and benefits as a nonstock, nonprofit educational institution.""}, {""title"": ""Section 4."", ""summary"": ""Provides that foreign scholars and staff are allowed entry as special non-immigrants under the Philippine Immigration Act and are exempt from visa and immigration fees.""}, {""title"": ""Section 5."", ""summary"": ""Mandates the Secretary of Education, in consultation with the Academy\u2019s Board, to formulate rules and regulations implementing this Act within sixty days.""}, {""title"": ""Section 6."", ""summary"": ""States that if any provision is invalid or unconstitutional, the remaining provisions shall remain in force.""}, {""title"": ""Section 7."", ""summary"": ""Sets the effectivity of the Act fifteen days after its publication in the Official Gazette or a general circulation newspaper.""}]"	11237	March 8, 2019			To formally recognize the Faith Academy as an international educational institution, grant it operational prerogatives, and facilitate education for foreign missionary personnel and their dependents.	"[""Recognition of Faith Academy as an international educational institution"", ""Governance by Board of Trustees"", ""Exemption for foreign missionary personnel"", ""Admission irrespective of nationality"", ""Head of school qualifications"", ""Acceptance of donations and property management"", ""Curriculum and fee determination"", ""Exemption from visa and immigration fees"", ""Implementation rules to be formulated within 60 days"", ""Effectivity 15 days post-publication""]"		"[""Education"", ""International"", ""Faith Academy"", ""Republic Act"", ""Foreign students""]"	"[""Faith Academy"", ""international educational institution"", ""prerogatives"", ""foreign temporary residents"", ""education"", ""religious groups"", ""Board of Trustees"", ""CEAF"", ""immigration"", ""visa exemption""]"
+repacts:datasets/markdown/repacts/2019/ra_11238_2019.md	repacts	2019		datasets/markdown/repacts/2019/ra_11238_2019.md	ra_11238_2019	"An Act Extending for Another Twenty-five (25) Years the Franchise Granted to the University of Mindanao, Doing Business Under the Name and Style of University of Mindanao Broadcasting Network and UM Broadcasting Network, Under Republic Act No. 8170, Entitled ""An Act Granting the University of Mindanao a Franchise to Construct, Establish, Maintain and Operate Radio Broadcasting Stations in the Philippines, and for Other Purposes"""	"**Seventeenth Congress Third Regular Session**
+
+ Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand eighteen.
+
+ **REPUBLIC ACT No. 11238**
+
+ An Act Extending for Another Twenty-five (25) Years the Franchise Granted to the University of Mindanao, Doing Business Under the Name and Style of University of Mindanao Broadcasting Network and Um Broadcasting Network, Under Republic Act No. 8170, Entitled ""An Act Granting the University of Mindanao a Franchise to Construct, Establish, Maintain and Operate Radio Broadcasting Stations in the Philippines, and for Other Purposes""
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** *Nature and Scope of Franchise.* - Subject to the provisions of the Philippine Constitution and applicable laws, rules and regulations, the franchise granted to the University of Mindanao, doing business under the name and style of University of Mindanao Broadcasting Network and UM Broadcasting Network, hereunder referred to as the grantee, its successors or assignees, under Republic Act No. 8170, to construct, install, establish, operate and maintain for commercial purposes and in the public interest, radio and/or television broadcasting stations, including digital television system, through microwave, satellite or whatever means, as well as the use of any new technology in television and radio systems, with the corresponding technological auxiliaries and facilities, special broadcast and other program and distribution services and relay stations in the Philippines is hereby extended for another twenty-five (25) years from the effectivity of this Act.
+
+ **Section 2.** *Manner of Operation of Stations or Facilities* - The stations or facilities of the grantee shall be constructed and operated in a manner as will, at most, result only in the minimum interference on the wavelengths or frequencies of existing stations or other stations which may be established by law, without in any way diminishing its own privilege to use its assigned wavelengths or frequencies and the quality of transmission or reception thereon as should maximize rendition of the grantees services and/or the availability thereof.
+
+ **Section 3.** *Prior Approval of the National Telecommunications Commission.* - The grantee shall secure from, the National Telecommunications Commission (NTC) the appropriate permits and licenses for the construction and operation of its stations or facilities and shall not use any frequency in the radio/television spectrum without authorization from the NTC. The NTC, however, shall not unreasonably withhold or delay the grant of any such authority.
+
+ The grantee shall not dispose nor lease its facilities except to entities with radio or television franchise: *Provided,* That the grantee shall inform and secure written authorization to proceed from the NTC, and report the transaction to the NTC within sixty (60) days after its completion: *Provided, further,* That the NTC shall determine the corresponding sanction for any violation of this provision.
+
+ **Section 4.** *Responsibility to the Public.* - The grantee shall provide, free of charge, adequate public service time which is reasonable and sufficient to enable the government, through the broadcasting stations or facilities of the grantee, to reach the pertinent populations or portions thereof, on important public issues and relay important public announcements and warnings concerning public emergencies and calamities, as necessity, urgency or law may require; provide at all times sound and balanced programming; promote public participation; assist in the functions of public information and education; conform to the ethics of honest enterprise; promote audience sensibility and empowerment including closed captioning; and not use its stations or facilities for the broadcasting of obscene or indecent language, speech, act, or scene; or for the dissemination of deliberately false information or willful misrepresentation, to the detriment of the public interest; or to incite, encourage, or assist in subversive or treasonable acts.
+
+ Public service time referred herein shall be equivalent to a maximum aggregate of ten percent (10%) of paid commercials or advertisements which shall be allocated based on need to the executive, legislative, judiciary, constitutional commissions and international humanitarian organizations duly recognized by statutes: *Provided,* That the NTC shall increase the public service time in case of extreme emergency or calamity. The NTC shall issue rules and regulations for this purpose, the effectivity of which shall commence upon applicability with other similarly situated broadcast network franchise holders.
+
+ **Section 5.** *Right of the Government.* - The radio spectrum is a finite resource that is part of the national patrimony and the use thereof is a privilege conferred upon the grantee by the State and may be withdrawn any time after due process.
+
+ A special right is hereby reserved to the President of the Philippines, in times of war, rebellion, public peril, calamity, emergency, disaster, or disturbance of peace and order: to temporarily take over and operate the stations or facilities of the grantee; to temporarily suspend the operation of any station or facility in the interest of public safety, security and public welfare; or to authorize the temporary use and operation thereof by any agency of the government, upon due compensation to the grantee, for the use of said stations or facilities during the period when these shall be so operated.
+
+ **Section 6.** *Term of Franchise.* - This franchise shall be in effect for a period of twenty-five (25) years from the effectivity of this Act, unless sooner revoked or cancelled. This franchise shall be deemed ipso facto revoked in the event the grantee fails to operate continuously for two (2) years.
+
+ **Section 7.** *Self-regulation by and Undertaking of the Grantee.* - The grantee shall not require any previous censorship of any speech, play, act or scene, or other matter to be broadcast from its stations, but if any such speech, play, act, or scene, or other matter should constitute a violation of the law or infringement of a private right, the grantee shall be free from any liability, civil or criminal, for such speech, play, act, or scene, or other matter: *Provided,* That the grantee, during any broadcast, shall cut off the airing of speech, play, act or scene, or other matter being broadcast if the tendency thereof is to propose and/or incite treason, rebellion or sedition; or the language used therein or the theme thereof is indecent or immoral: *Provided, further,* That willful failure to do so shall constitute a valid cause for the cancellation of this franchise.
+
+ **Section 8.** *Warranty in Favor of the National and Local Governments.* - The grantee shall hold the national, provincial, city, and municipal governments of the Philippines free from all claims, liabilities, demands, or actions arising out of accidents, causing injury to persons or damage to properties, during the construction or operation of the stations of the grantee.
+
+ **Section 9.** *Commitment to Provide and Promote the Creation of Employment Opportunities.* - The grantee shall create .employment opportunities and shall allow on-the-job trainings in their franchise operation: *Provided,* That priority shall be accorded to the residents where their principal office is located: *Provided, further,* That the grantee shall follow the applicable labor standards and allowance entitlement under existing labor laws, rules and regulations and similar issuances: *Provided, finally,* That the employment opportunities or jobs created shall be reflected in the General Information Sheet (GIS) to be submitted to Securities and Exchange Commission annually.
+
+ **Section 10.** *Sale, Lease, Transfer, Grant of Usufruct, or Assignment of Franchise.* - The grantee shall not sell, lease, transfer, grant the usufruct of, nor assign this franchise or the rights and privileges acquired thereunder to any person, firm, company, corporation or other commercial or legal entity, nor merge with any other corporation or entity, nor the controlling interest of the grantee be transferred, simultaneously or contemporaneously, to any such person, firm, company, corporation, or entity without the prior approval of the Congress of the Philippines. Congress shall be informed of any sale, lease, transfer, grant of usufruct, or assignment of franchise or the rights and privileges acquired thereunder, or of the merger or transfer of the controlling interest of the grantee, within sixty (60) days after the completion of said transaction. Failure to report to Congress such change of ownership shall render the franchise ipso facto revoked. Any person or entity to which this franchise is sold, transferred, or assigned shall be subject to the same conditions, terms, restrictions, and limitations of this Act.
+
+ **Section 11.** *Dispersal of Ownership.* - In accordance with the constitutional provision to encourage public participation in public utilities, the grantee shall offer to Filipino citizens at least thirty percent (30%) or a higher percentage that may hereafter be provided by law of its outstanding capital stock in any securities exchange in the Philippines within five (5) years from the commencement of its operations: *Provided,* That in cases where public offer of shares is not applicable, the grantee shall apply other methods of encouraging public participation by citizens and corporations operating public utilities as allowed by law. Noncompliance therewith shall render the franchise ipso facto revoked.
+
+ **Section 12.** *Reportorial Requirement.* - The grantee shall submit an annual report to the Congress of the Philippines, through the Committee on Legislative Franchises of the House of Representatives and the Committee on Public Services of the Philippine Senate, on its compliance with the terms and conditions of the franchise and on its operations on or before April 30 of every year during the term of its franchise. The reportoriai compliance certificate issued by Congress shall be required before any application for permit or certificate is accepted by the NTC.

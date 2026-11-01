@@ -1,0 +1,202 @@
+"	failed												
+repacts:datasets/markdown/repacts/2009/ra_9730_2009.md	repacts	2009		datasets/markdown/repacts/2009/ra_9730_2009.md	ra_9730_2009	AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN THE MUNICIPALITY OF BARUGO, PROVINCE OF LEYTE TO BE KNOWN AS BARUGO NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR	"Fourteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-seventh day of July, two thousand nine.*
+
+ **REPUBLIC ACT No. 9730**
+
+ AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN THE MUNICIPALITY OF BARUGO, PROVINCE OF LEYTE TO BE KNOWN AS BARUGO NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** *Establishment of a National High School.* - There is hereby established, under the supervision of the Department of Education, a national high school in the Municipality of Barugo, Province of Leyte to be known as ***Barugo National High School.***
+
+ **Section 2.** *Appropriations.* - The Secretary of Education shall immediately include in the Department's program the operationalization of Barugo National High School, the funding of which shall be mcluded in the annual General Appropriations Act.
+
+ **Section 3.** *Implementation.* - The Secretary of Education shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 4.** *Effectivity.* - This Act shall take effect fifteen (15) days after its publication in the Official Gazette.
+
+ Approved,
+
+ | **JUAN PONCE ENRILE** President of the Senate | **PROSPERO C. NOGRALES** Speaker of the House of Representatives |
+
+ Approved, This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on May 12, 2008 and July 28, 2009, respectively.
+
+ | **EMMA LIRIO-REYES** Secretary of the Senate | **MARILYN B. BARUA-YAP** Secretary General House of Representatives |
+
+ Approved: October 29, 2009
+
+ **GLORIA MACAPAGAL ARROYO** President of the Philippines
+"	success	Act	This act establishes Barugo National High School in Leyte and appropriates funds for its operationalization.	"[{""title"": ""Establishment of a National High School."", ""summary"": ""There is hereby established, under the supervision of the Department of Education, a national high school in the Municipality of Barugo, Province of Leyte to be known as Barugo National High School.""}, {""title"": ""Appropriations."", ""summary"": ""The Secretary of Education shall immediately include in the Department's program the operationalization of Barugo National High School, the funding of which shall be included in the annual General Appropriations Act.""}, {""title"": ""Implementation."", ""summary"": ""The Secretary of Education shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.""}, {""title"": ""Effectivity."", ""summary"": ""This Act shall take effect fifteen (15) days after its publication in the Official Gazette.""}]"	REPUBLIC ACT No. 9730	October 29, 2009	"[{""name"": ""JUAN PONCE ENRILE"", ""title"": ""President of the Senate""}, {""name"": ""PROSPERO C. NOGRALES"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""EMMA LIRIO-REYES"", ""title"": ""Secretary of the Senate""}, {""name"": ""MARILYN B. BARUA-YAP"", ""title"": ""Secretary General House of Representatives""}]"	To establish Barugo National High School and appropriate funds for its operationalization.	"[""Establishment of Barugo National High School under the supervision of the Department of Education."", ""Appropriations for operationalization included in the annual General Appropriations Act."", ""Issuance of rules and regulations by the Secretary of Education to carry out the act."", ""Effectivity fifteen days after publication in the Official Gazette.""]"		"[""Education"", ""Public School"", ""Leyte"", ""Barugo"", ""National High School""]"	"[""Barugo National High School"", ""Republic Act 9730"", ""Education Act"", ""Leyte"", ""High School"", ""Funding""]"
+repacts:datasets/markdown/repacts/2009/ra_9731_2009.md	repacts	2009		datasets/markdown/repacts/2009/ra_9731_2009.md	ra_9731_2009	An Act Establishing a National High School in Barangay Banawel, Municipality of Natonin, Mountain Province to be known as Banawel National High School and Appropriating Funds Therefor	"Fourteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-seventh day of July, two thousand nine.*
+
+ **REPUBLIC ACT No. 9731**
+
+ AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY BANAWEL, MUNICIPALITY OF NATONIN, MOUNTAIN PROVINCE TO BE KNOWN AS BANAWEL NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** *Establishment of a National High School.* - There is hereby established, under the supervision of the Department of Education, a national high school in Barangay Banawel, Municipality of Natonin, Mountain Province to be known as ***Banawel National HIgh School.***
+
+ **Section 2.** *Appropriations.* - The Secretary of Education shall immediately include in the Department's program the operationalization of Banawel National High School, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 3.** *Implementation.* - The Secretary of Education shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 4.** *Effectivity.* - This Act shall take effect fifteen (15) days after its publication in the Official Gazette.
+
+ Approved,
+
+ | **JUAN PONCE ENRILE** President of the Senate | **PROSPERO C. NOGRALES** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on May 28, 2008 and July 28, 2009, respectively.
+
+ | **EMMA LIRIO-REYES** Secretary of the Senate | **MARILYN B. BARUA-YAP** Secretary General House of Representatives |
+
+ Approved: Oct 29, 2009
+
+ **GLORIA MACAPAGAL ARROYO** President of the Philippines
+"	success	Republic Act	This act establishes Banawel National High School in Barangay Banawel, Natonin, Mountain Province and appropriates funds for its operation, including operationalization by the Secretary of Education and effectivity 15 days after publication.	"[{""title"": ""Section 1. Establishment of a National High School"", ""summary"": ""The Department of Education shall establish Banawel National High School in Barangay Banawel, Natonin, Mountain Province.""}, {""title"": ""Section 2. Appropriations"", ""summary"": ""The Secretary of Education shall include operational funding for the school in the Department's program under the General Appropriations Act.""}, {""title"": ""Section 3. Implementation"", ""summary"": ""The Secretary of Education shall issue rules and regulations necessary to carry out the purpose of this Act.""}, {""title"": ""Section 4. Effectivity"", ""summary"": ""The Act shall take effect fifteen (15) days after its publication in the Official Gazette.""}]"	9731	2009-10-29	"[{""name"": ""JUAN PONCE ENRILE"", ""title"": ""President of the Senate""}, {""name"": ""PROSPERO C. NOGRALES"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""EMMA LIRIO-REYES"", ""title"": ""Secretary of the Senate""}, {""name"": ""MARILYN B. BARUA-YAP"", ""title"": ""Secretary General House of Representatives""}]"	To establish Banawel National High School and appropriate funds for its operation.	"[""Establishment of Banawel National High School under the supervision of the Department of Education"", ""Appropriation of funds for operationalization in the General Appropriations Act"", ""Issuance of rules and regulations by the Secretary of Education to implement the Act"", ""Effectivity fifteen days after publication in the Official Gazette""]"		"[""Education"", ""School"", ""Banawel"", ""Mountain Province"", ""High School""]"	"[""Banawel National High School"", ""Department of Education"", ""General Appropriations Act"", ""Operationalization"", ""Effectivity""]"
+repacts:datasets/markdown/repacts/2009/ra_9732_2009.md	repacts	2009		datasets/markdown/repacts/2009/ra_9732_2009.md	ra_9732_2009	An Act Establishing a National High School in Barangay Dalican, Municipality of Bontoc, Mountain Province to be known as Dalican National High School and Appropriating Funds Therefor	"Fourteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-seventh day of July, two thousand nine.*
+
+ **REPUBLIC ACT No. 9732**
+
+ AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY DALICAN, MUNICIPALITY OF BONTOC, MOUNTAIN PROVINCE TO BE KNOWN AS DALICAN NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** *Establishment of a National High School.* - There is hereby established, under the supervision of the Department of Education, a national high school in Barangay Dalican, Municipality of Bontoc, Mountain Province to be known as ***Dalican National High School.***
+
+ **Section 2.** *Appropriations.* - The Secretary of Education shall immediately include in the Department's program the operationalization of Dalican National High School, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 3.** *Implementation.* - The Secretary of Education shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 4.** *Effectivity.* - This Act shall take effect fifteen (15) days after its publication in the Official Gazette.
+
+ Approved,
+
+ | **JUAN PONCE ENRILE** President of the Senate | **PROSPERO C. NOGRALES** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on May 28,2008 and July 28,2009, respectively.
+
+ | **EMMA LIRIO-REYES** Secretary of the Senate | **MARILYN B. BARUA-YAP** Secretary General House of Representatives |
+
+ Approved: October 29, 2009
+
+ **GLORIA MACAPAGAL ARROYO** President of the Philippines
+"	success	Republic Act	This Act establishes Dalican National High School under the supervision of the Department of Education and appropriates funds for its operationalization.	"[{""title"": ""Establishment of a National High School"", ""summary"": ""A national high school is established in Barangay Dalican, Municipality of Bontoc, Mountain Province, to be known as Dalican National High School.""}, {""title"": ""Appropriations"", ""summary"": ""The Secretary of Education shall include the school's operational funding in the Department's program and General Appropriations Act.""}, {""title"": ""Implementation"", ""summary"": ""The Secretary of Education shall issue rules and regulations necessary to carry out the purpose.""}, {""title"": ""Effectivity"", ""summary"": ""The Act shall take effect fifteen days after publication in the Official Gazette.""}]"	9732	October 29, 2009			To establish a national high school in Barangay Dalican and appropriate funds for its operation.	"[""Establishment of a National High School"", ""Appropriations"", ""Implementation"", ""Effectivity""]"		"[""Education"", ""High School"", ""National School"", ""Bontoc"", ""Mountain Province""]"	"[""Dalican National High School"", ""Department of Education"", ""General Appropriations Act"", ""National High School""]"
+repacts:datasets/markdown/repacts/2009/ra_9733_2009.md	repacts	2009		datasets/markdown/repacts/2009/ra_9733_2009.md	ra_9733_2009	AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY BANGUITAN, MUNICIPALITY OF BESAO, MOUNTAIN PROVINCE TO BE KNOWN AS BANGUITAN NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR	"Fourteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-seventh day of July, two thousand nine.*
+
+ **REPUBLIC ACT No. 9733**
+
+ AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY BANGUITAN, MUNICIPALITY OF BESAO, MOUNTAIN PROVINCE TO BE KNOWN AS BANGUITAN NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** *Establishment of a National High School.* - There is hereby established, under the supervision of the Department of Education, a national high school in Barangay Banguitan, Municipality of Besao, Mountain Province to be known as ***Banguitan National High School.***
+
+ **Section 2.** *Appropriations.* - The Secretary of Education shall immediately include in the Department's program the operationalization of Bangui tan National High School, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 3.** *Implementation.* - The Secretary of Education shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 4.** *Effectivity.* - This Act shall take effect fifteen (15) days after its publication in the Official Gazette.
+
+ Approved,
+
+ | **JUAN PONCE ENRILE** President of the Senate | **PROSPERO C. NOGRALES** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on May 28,2008 and July 28,2009, respectively.
+
+ | **EMMA LIRIO-REYES** Secretary of the Senate | **MARILYN B. BARUA-YAP** Secretary General House of Representatives |
+
+ Approved: October 29, 2009
+
+ **GLORIA MACAPAGAL ARROYO** President of the Philippines
+"	success	Republic Act	Establishes Banguitan National High School in Barangay Banguitan, Municipality of Besao, Mountain Province, appropriates funds for its operation, and mandates the Secretary of Education to issue rules and regulations for its implementation.	"[{""title"": ""Establishment of a National High School"", ""summary"": ""The act establishes Banguitan National High School under the supervision of the Department of Education.""}, {""title"": ""Appropriations"", ""summary"": ""The Secretary of Education shall include the operationalization of Banguitan National High School in the Department\u2019s program and appropriate funds will be included in the annual General Appropriations Act.""}, {""title"": ""Implementation"", ""summary"": ""The Secretary of Education shall issue necessary rules and regulations to carry out the purpose of this act.""}, {""title"": ""Effectivity"", ""summary"": ""The act shall take effect fifteen (15) days after its publication in the Official Gazette.""}]"	9733	October 29, 2009	"[{""name"": ""EMMA LIRIO-REYES"", ""title"": ""Secretary of the Senate""}, {""name"": ""MARILYN B. BARUA-YAP"", ""title"": ""Secretary General House of Representatives""}]"		To establish Banguitan National High School and appropriate funds for its operation.	"[""Establishment of Banguitan National High School"", ""Appropriation of funds for the high school"", ""Secretary of Education to issue rules and regulations"", ""Effectivity 15 days after publication""]"		"[""Education"", ""School"", ""Banguitan"", ""Mountain Province"", ""Republic Act""]"	"[""Banguitan National High School"", ""National High School"", ""Department of Education"", ""Appropriations"", ""Effectivity""]"
+repacts:datasets/markdown/repacts/2009/ra_9734_2009.md	repacts	2009		datasets/markdown/repacts/2009/ra_9734_2009.md	ra_9734_2009	AN ACT SEPARATING THE DAPA NATIONAL HIGH SCHOOL - TUBURAN ANNEX IN BARANGAY TUBURAN, MUNICIPALITY OF DEL CARMEN, PROVINCE OF SURIGAO DEL NORTE FROM THE DAPA NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS MARIANO MATUGAS MEMORIAL NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR	"Fourteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-seventh day of July, two thousand nine.*
+
+ **REPUBLIC ACT No. 9734**
+
+ AN ACT SEPARATING THE DAPA NATIONAL HIGH SCHOOL - TUBURAN ANNEX IN BARANGAY TUBURAN, MUNICIPALITY OF DEL CARMEN, PROVINCE OF SURIGAO DEL NORTE FROM THE DAPA NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS MARIANO MATUGAS MEMORIAL NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** *Separation and Conversion into a National High School.* - The Dapa National HighSchool - Tuburan Annex in Barangay Tuburan, Municipality of Del Carmen, Province of Surigao del Norte is hereby separated from the Dapa National High School and converted into an independent national high school to be known as ***Mariano Matugas Memorial National High School.***
+
+ **Section 2.** *Transfer of Assets and Liabilities.* - All personnel, assets, liabilities and records of the Dapa National High School - Tuburan Annex are hereby transferred to and absorbed by the Mariano Matugas Memorial National High School
+
+ **Section 3.** *Appropriations.* - The Secretary of Education shall immediately include in the Department's program the operationalization of the lI1ariano Matugas Memorial National High School, the initial funding of which shall be charged against the current year's appropriations of the Dapa National High School - Tuburan Annex. Thereafter. the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.
+
+ **Section 4.** *Implementation.* - The Secretary of Education shall issue rules and regulations that may be necessary to carry out the purpose of this Act.
+
+ **Section 5.** *Effectivity.* - This Act shall take effect fifteen (15) days after its publication in the Official Gazette.
+
+ Approved,
+
+ | **JUAN PONCE ENRILE** President of the Senate | **PROSPERO C. NOGRALES** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on September 2,2008 and July 28,2009 respectively.
+
+ | **EMMA LIRIO-REYES** Secretary of the Senate | **MARILYN B. BARUA-YAP** Secretary General House of Representatives |
+
+ Approved: OCT 29, 2009
+
+ **GLORIA MACAPAGAL ARROYO** President of the Philippines
+"	success	Education	The act separates Dapa National High School – Tuburan Annex and converts it into an independent national high school named Mariano Matugas Memorial National High School, appropriating funds for its operation.	"[{""title"": ""Section 1. Separation and Conversion into a National High School"", ""summary"": ""The Dapa National High School \u2013 Tuburan Annex is separated from the Dapa National High School and converted into an independent national high school known as Mariano Matugas Memorial National High School.""}, {""title"": ""Section 2. Transfer of Assets and Liabilities"", ""summary"": ""All personnel, assets, liabilities and records of the Dapa National High School \u2013 Tuburan Annex are transferred to and absorbed by the new school.""}, {""title"": ""Section 3. Appropriations"", ""summary"": ""Funding for the new school is appropriated from the current year's appropriations of the Dapa National High School \u2013 Tuburan Annex and future funds are included in the annual General Appropriations Act.""}, {""title"": ""Section 4. Implementation"", ""summary"": ""The Secretary of Education shall issue rules and regulations necessary to carry out the purpose of the act.""}, {""title"": ""Section 5. Effectivity"", ""summary"": ""The act takes effect fifteen (15) days after its publication in the Official Gazette.""}]"	9734	2009-10-29	"[{""name"": ""JUAN PONCE ENRILE"", ""title"": ""President of the Senate""}, {""name"": ""PROSPERO C. NOGRALES"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""EMMA LIRIO-REYES"", ""title"": ""Secretary of the Senate""}, {""name"": ""MARILYN B. BARUA-YAP"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""GLORIA MACAPAGAL ARROYO"", ""title"": ""President of the Philippines""}]"	To separate and convert the Dapa National High School – Tuburan Annex into an independent national high school named Mariano Matugas Memorial National High School and to appropriate funds for its operation.	"[""Separation and conversion of the school"", ""Transfer of assets, liabilities and personnel"", ""Appropriation of funds for operation"", ""Issuance of rules and regulations"", ""Effectivity 15 days after publication""]"		"[""Education"", ""School"", ""National High School"", ""Republic Act"", ""Philippines"", ""Surigao del Norte""]"	"[""Dapa National High School"", ""Tuburan Annex"", ""Mariano Matugas Memorial National High School"", ""appropriation"", ""assets transfer"", ""separation"", ""conversion"", ""education""]"
+repacts:datasets/markdown/repacts/2009/ra_9735_2009.md	repacts	2009		datasets/markdown/repacts/2009/ra_9735_2009.md	ra_9735_2009	AN ACT SEPARATING THE PILAR NATIONAL HIGH SCHOOL - CARIDAD ANNEX IN BARANGAY CARIDAD, MUNICIPALITY OF PILAR, PROVINCE OF SURIGAO DEL NORTE FROM THE PILAR NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS CARIDAD NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR	"Fourteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-seventh day of July, two thousand nine.*
+
+ **REPUBLIC ACT No. 9735**
+
+ AN ACT SEPARATING THE PILAR NATIONAL HIGH SCHOOL - CARIDAD ANNEX IN BARANGAY CARIDAD, MUNICIPALITY OF PILAR, PROVINCE OF SURIGAO DEL NORTE FROM THE PILAR NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS CARIDAD NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** *Separation and Conversion into a National High School.* - The Pilar National High School - Caridad Annex in Barangay Caridad, Municipality of Pilar, Province of Surigao del Norte is hereby separated from the Pilar National High School and converted into an independent national high school to be known as ***Caridad National High School.***
+
+ **Section 2.** *Transfer of Assets and Liabilities.* - All personnel, assets, liabilities and records of the Pilar National High School - Caridad Annex are hereby transferred to and absorbed by the Caridad National High School.
+
+ **Section 3.** *Appropriations.* - The Secretary of Education shall immediately include in the Department's program the operationalization of the Caridad National High School, the initial funding of which shall be charged against the current year's appropriations of the Pilar National High School - Caridad Annex. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.
+
+ **Section 4.** *Implementation.* - The Secretary of Education shall issue rules and regulations that may be necessary to carry out the purpose of this Act.
+
+ **Section 5.** *Effectivity.* - This Act shall take effect fifteen (15) days after its publication in the Official Gazette.
+
+ Approved,
+
+ | **JUAN PONCE ENRILE** President of the Senate | **PROSPERO C. NOGRALES** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on September 2, 2008 and July 28,2009, respectively.
+
+ | **EMMA LIRIO-REYES** Secretary of the Senate | **MARILYN B. BARUA-YAP** Secretary General House of Representatives |
+
+ Approved: Oct 29, 2009
+
+ **GLORIA MACAPAGAL ARROYO** President of the Philippines
+"	success	Republic Act	This Republic Act separates the Pilar National High School – Caridad Annex and converts it into an independent national high school, Caridad National High School, and appropriates funds for its operation.	"[{""title"": ""Section 1. Separation and Conversion into a National High School"", ""summary"": ""The Pilar National High School \u2013 Caridad Annex is separated from the Pilar National High School and converted into an independent national high school named Caridad National High School.""}, {""title"": ""Section 2. Transfer of Assets and Liabilities"", ""summary"": ""All personnel, assets, liabilities, and records of the Pilar National High School \u2013 Caridad Annex are transferred to and absorbed by the Caridad National High School.""}, {""title"": ""Section 3. Appropriations"", ""summary"": ""The Secretary of Education shall include the operationalization of Caridad National High School in the Department's program, with initial funding charged against the current year's appropriations of the Pilar National High School \u2013 Caridad Annex, and subsequent funding included in the annual General Appropriations Act.""}, {""title"": ""Section 4. Implementation"", ""summary"": ""The Secretary of Education shall issue rules and regulations necessary to carry out the purpose of this Act.""}, {""title"": ""Section 5. Effectivity"", ""summary"": ""The Act shall take effect fifteen days after its publication in the Official Gazette.""}]"	9735	July 28, 2009			To separate and convert the Pilar National High School – Caridad Annex into an independent national high school, Caridad National High School, and to provide the necessary appropriations for its operation.	"[""Separation and conversion of the Caridad Annex into an independent national high school"", ""Transfer of all personnel, assets, liabilities, and records to the new school"", ""Appropriation of funds for operationalization and ongoing operation"", ""Issuance of rules and regulations by the Secretary of Education"", ""Effectivity fifteen days after publication in the Official Gazette""]"		"[""Education"", ""School"", ""Separation"", ""Conversion""]"	"[""Pilar National High School"", ""Caridad National High School"", ""Surigao del Norte"", ""Education"", ""Appropriation""]"
+repacts:datasets/markdown/repacts/2009/ra_9736_2009.md	repacts	2009		datasets/markdown/repacts/2009/ra_9736_2009.md	ra_9736_2009	AN ACT SEPARATING THE BUTIGUE NATIONAL HIGH SCHOOL - PALITOD ANNEX IN BARANGAY PALITOD, MUNICIPALITY OF PARACELIS, MOUNTAIN PROVINCE FROM THE BUTIGUE NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS PALITOD NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR	"Fourteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-seventh day of July, two thousand nine.*
+
+ **REPUBLIC ACT No. 9736**
+
+ AN ACT SEPARATING THE BUTIGUE NATIONAL HIGH SCHOOL - PALITOD ANNEX IN BARANGAY PALITOD, MUNICIPALITY OF PARACELIS, MOUNTAIN PROVINCE FROM THE BUTIGUE NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS PALITOD NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** *Separation and Conversion into a National High School.* - The Butigue National High School - Palitod Annex in Barangay Palitod, Municipality of Paracelis, Mountain Province is hereby separated from the Butigue National High School and converted into an independent national high school to be known as ***Palitod National High School.***
+
+ **Section 2.** *Transfer of Assets and Liabilities.* - All personnel, assets, liabilities and records of the Butigue National High School - Palitod Annex are hereby transferred to and absorbed by the Palitod National High School.
+
+ **Section 3.** *Appropriations.* - The Secretary of Education shall immediately include in the Department's program the operationalization of the Palitod National High School, the initial funding of which shall be charged against the current year's appropriations of the Butigue National High School - Palitod Annex. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.
+
+ **Section 4.** *Implementation.* - The Secretary of Education shall issue rules and regulations that may be necessary to carry out the purpose of this Act.

@@ -1,0 +1,160 @@
+
+ Approved,
+
+ | (SGD.)**VICENTE C. SOTTO III** President of the Senate | (SGD.)**LORD ALLAN JAY Q. VELASCO** Speaker of the House of Representatives |
+
+ This Act which which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on January 27, 2020 and January 18, 2021.
+
+ | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.) **MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved: MAR 12 2021
+
+ | (SGD.)**RODRIGO ROA DUTERTE** President of the Philippines |
+"	success	Republic Act	The act separates the Tabuk City National High School – Bantay Extension and converts it into an independent Bantay National High School, transfers all personnel, assets, liabilities and records, appropriates funds, mandates inclusion in the Department of Education program, and requires the formulation of implementing rules within 120 days. The act takes effect 15 days after publication.	"[{""title"": ""Section 1."", ""summary"": ""The Tabuk City National High School - Bantay Extension in Barangay Bantay, Tabuk City, Province of Kalinga is hereby separated from the Tabuk City National High School and converted into an independent national high school to be known as Bantay National High School.""}, {""title"": ""Section 2."", ""summary"": ""All personnel, assets, liabilities and records of the Tabuk City National High School - Bantay Extension are hereby transferred to and absorbed by the Bantay National High School.""}, {""title"": ""Section 3."", ""summary"": ""The Secretary of Education shall immediately include in the Department's program the operationalization of the Bantay National High School, the initial funding of which shall be charged against the current year's appropriation of the Tabuk City National High School - Bantay Extension. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.""}, {""title"": ""Section 4."", ""summary"": ""Within one hundred twenty (120) days after the approval of this Act, the Secretary of Education shall formulate the rules and regulations implementing the provisions of this Act.""}, {""title"": ""Section 5."", ""summary"": ""This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.""}]"	11527	2021-03-12	"[{""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}, {""name"": ""LORD ALLAN JAY Q. VELASCO"", ""title"": ""Speaker of the House of Representatives""}]"		To separate the Bantay Extension of Tabuk City National High School and convert it into an independent Bantay National High School, appropriate funds for its operation, and establish the necessary administrative and regulatory framework.	"[""Separation and conversion of Bantay Extension into independent Bantay National High School"", ""Transfer of all personnel, assets, liabilities and records"", ""Appropriation of initial funding from current year's appropriation"", ""Inclusion of continued operation funding in annual General Appropriations Act"", ""Formulation of implementing rules and regulations within 120 days"", ""Effectivity 15 days after publication""]"		"[""Education"", ""School"", ""Republic Act"", ""Kalinga"", ""Tabuk City""]"	"[""Tabuk City National High School"", ""Bantay National High School"", ""Republic Act 11527"", ""Education"", ""School separation"", ""Fund appropriation""]"
+repacts:datasets/markdown/repacts/2021/ra_11528_2021.md	repacts	2021		datasets/markdown/repacts/2021/ra_11528_2021.md	ra_11528_2021	An Act Separating the Guinzadan National High School - Mayag Extension in Barangay Mayag, Municipality of Bauko, Mountain Province from the Guinzadan National High School, Converting it into an Independent National High School to be Known as Mayag National High School, and Appropriating Funds Therefor	"Eighteenth Congress Second Regular Session Begun and held in Metro Manila, on Monday, the twenty-seventh day of July, two thousand twenty.
+
+ **[ REPUBLIC ACT NO. 11528, March 12, 2021 ]**
+
+ **AN ACT SEPARATING THE GUINZADAN NATIONAL HIGH SCHOOL - MAYAG EXTENSION IN BARANGAY MAYAG, MUNICIPALITY OF BAUKO, MOUNTAIN PROVINCE FROM THE GUINZADAN NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS MAYAG NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** The Guinzadan National High School - Mayag Extension in Barangay Mayag, Municipality of Bauko, Mountain Province is hereby separated from the Guinzadan National High School and converted into an independent national high school to be known as Mayag National High School.
+
+ **Section 2.** All personnel, assets, liabilities and records of the Guinzadan National High School - Mayag Extension are hereby transferred to and absorbed by the Mayag National High School.
+
+ **Section 3.** The Secretary of Education shall immediately include in the Department's program the operationalization of the Mayag National High School, the initial funding of which shall be charged against the current year's appropriation of the Guinzadan National High School - Mayag Extension. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.
+
+ **Section 4.** Within one hundred twenty (120) days after the approval of this Act, the Secretary of Education shall formulate the rules and regulations implementing the provisions of this Act.
+
+ **Section 5.** This Act shall take effect fifteen (15) days after its publication in theOfficial Gazetteor in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.)**VICENTE C. SOTTO III** President of the Senate | (SGD.)**LORD ALLAN JAY Q. VELASCO** Speaker of the House of Representatives |
+
+ This Act which which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on January 27, 2020 and January 18, 2021.
+
+ | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.) **MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved: MAR 12 2021
+
+ | (SGD.)**RODRIGO ROA DUTERTE** President of the Philippines |
+"	success	Education	The Republic Act No. 11528 establishes Mayag National High School as an independent national high school by separating it from Guinzadan National High School – Mayag Extension. It transfers all personnel, assets, liabilities, and records to the new school, appropriates funds for its operation, mandates the Secretary of Education to ensure its operationalization, requires rule-making within 120 days, and sets its effectivity to 15 days after publication.	"[{""title"": ""Section 1"", ""summary"": ""Separates Guinzadan National High School \u2013 Mayag Extension from Guinzadan National High School and names it Mayag National High School.""}, {""title"": ""Section 2"", ""summary"": ""Transfers all personnel, assets, liabilities, and records of Guinzadan National High School \u2013 Mayag Extension to the newly established Mayag National High School.""}, {""title"": ""Section 3"", ""summary"": ""Mandates the Secretary of Education to include the operationalization of Mayag National High School in the Department\u2019s program, with initial funding charged to the current year\u2019s appropriation and subsequent funding included in the annual General Appropriations Act.""}, {""title"": ""Section 4"", ""summary"": ""Requiring the Secretary of Education to formulate rules and regulations implementing the Act within 120 days after its approval.""}, {""title"": ""Section 5"", ""summary"": ""Establishes that the Act takes effect 15 days after publication in the Official Gazette or a newspaper of general circulation.""}]"	11528	March 12, 2021	"[{""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}, {""name"": ""LORD ALLAN JAY Q. VELASCO"", ""title"": ""Speaker of the House of Representatives""}]"		To separate the Mayag Extension from Guinzadan National High School and convert it into an independent national high school, thereby ensuring dedicated governance, appropriate funding, and operational support for education in Barangay Mayag, Bauko, Mountain Province.	"[""Separation of Mayag Extension into Mayag National High School"", ""Transfer of personnel, assets, liabilities, and records"", ""Appropriation of funds for initial and ongoing operations"", ""Mandate for operationalization by the Secretary of Education"", ""Rule-making within 120 days"", ""Effectivity 15 days after publication""]"		"[""Education"", ""School"", ""National High School"", ""Bauko"", ""Mountain Province""]"	"[""Guinzadan National High School"", ""Mayag National High School"", ""Education Department"", ""Appropriations"", ""School Separation""]"
+repacts:datasets/markdown/repacts/2021/ra_11529_2021.md	repacts	2021		datasets/markdown/repacts/2021/ra_11529_2021.md	ra_11529_2021	An Act Separating the Lubon National High School - Mabalite Extension in Barangay Mabalite, Municipality of Tadian, Mountain Province from the Lubon National High School, Converting it into an Independent National High School to be Known as Mabalite National High School, and Appropriating Funds Therefor	"Eighteenth Congress Second Regular Session Begun and held in Metro Manila, on Monday, the twenty-seventh day of July, two thousand twenty.
+
+ **[ REPUBLIC ACT NO. 11529, March 12, 2021 ]**
+
+ **AN ACT SEPARATING THE LUBON NATIONAL HIGH SCHOOL - MABALITE EXTENSION IN BARANGAY MABALITE, MUNICIPALITY OF TADIAN, MOUNTAIN PROVINCE FROM THE LUBON NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS MABALITE NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** The Lubon National High School - Mabalite Extension in Barangay Mabalite, Municipality of Tadian, Mountain Province is hereby separated from the Lubon National High School and converted into an independent national high school to be known as Mabalite National High School.
+
+ **Section 2.** All personnel, assets, liabilities and records of the Lubon National High School - Mabalite Extension are hereby transferred to and absorbed by the Mabalite National High School.
+
+ **Section 3.** The Secretary of Education shall immediately include in the Department's program the operationalization of the Mabalite National High School, the initial funding of which shall be charged against the current year's appropriation of the Lubon National High School - Mabalite Extension. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.
+
+ **Section 4.** Within one hundred twenty (120) days after the approval of this Act, the Secretary of Education shall formulate the rules and regulations implementing the provisions of this Act.
+
+ **Section 5.** This Act shall take effect fifteen (15) days after its publication in theOfficial Gazetteor in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.)**VICENTE C. SOTTO III** President of the Senate | (SGD.)**LORD ALLAN JAY Q. VELASCO** Speaker of the House of Representatives |
+
+ This Act which which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on January 27, 2020 and January 18, 2021.
+
+ | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.) **MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved: MAR 12 2021
+
+ | (SGD.)**RODRIGO ROA DUTERTE** President of the Philippines |
+"	success	Republic Act	The act separates the Lubon National High School - Mabalite Extension from the main school and converts it into Mabalite National High School, transferring personnel, assets, and funding, and establishing its operational framework.	"[{""title"": ""Section 1"", ""summary"": ""Separates the Lubon National High School - Mabalite Extension and converts it into Mabalite National High School.""}, {""title"": ""Section 2"", ""summary"": ""Transfers all personnel, assets, liabilities, and records of the extension to Mabalite National High School.""}, {""title"": ""Section 3"", ""summary"": ""Mandates the Secretary of Education to include the new school in the department\u2019s program and allocate initial funding from the current year\u2019s appropriation.""}, {""title"": ""Section 4"", ""summary"": ""Requires the formulation of rules and regulations implementing the act within 120 days of approval.""}, {""title"": ""Section 5"", ""summary"": ""The act takes effect 15 days after publication in the Official Gazette or a newspaper of general circulation.""}]"	11529	2021-03-12		"[{""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}, {""name"": ""LORD ALLAN JAY Q. VELASCO"", ""title"": ""Speaker of the House of Representatives""}, {""name"": ""MYRA MARIE D. VILLARICA"", ""title"": ""Secretary of the Senate""}, {""name"": ""MARK LLANDRO L. MENDOZA"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""RODRIGO ROA DUTERTE"", ""title"": ""President of the Philippines""}]"	To separate the Lubon National High School - Mabalite Extension from Lubon National High School and convert it into an independent national high school known as Mabalite National High School, and to appropriate funds for its operation.	"[""Separation of the Mabalite Extension from Lubon National High School"", ""Transfer of personnel, assets, liabilities, and records"", ""Appropriation of initial funding from current year\u2019s appropriation"", ""Inclusion in the Department of Education program"", ""Rule and regulation formulation within 120 days"", ""Effectivity after 15 days of publication""]"		"[""Education"", ""Public School"", ""National High School"", ""Republic Act""]"	"[""Lubon National High School"", ""Mabalite National High School"", ""Mountain Province"", ""Department of Education"", ""Appropriations"", ""School Separation""]"
+repacts:datasets/markdown/repacts/2021/ra_11530_2021.md	repacts	2021		datasets/markdown/repacts/2021/ra_11530_2021.md	ra_11530_2021	AN ACT SEPARATING THE DALANAO ELEMENTARY SCHOOL - DABBURAB-DALANAO EXTENSION IN BARANGAY BACARRI, MUNICIPALITY OF PARACELIS, MOUNTAIN PROVINCE FROM THE DALANAO ELEMENTARY SCHOOL, CONVERTING IT INTO AN INDEPENDENT ELEMENTARY SCHOOL TO BE KNOWN AS WELLIE MACLINIC ELEMENTARY SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"Eighteenth Congress Second Regular Session Begun and held in Metro Manila, on Monday, the twenty-seventh day of July, two thousand twenty.
+
+ **[ REPUBLIC ACT NO. 11530, March 12, 2021 ]**
+
+ **AN ACT SEPARATING THE DALANAO ELEMENTARY SCHOOL - DABBURAB-DALANAO EXTENSION IN BARANGAY BACARRI, MUNICIPALITY OF PARACELIS, MOUNTAIN PROVINCE FROM THE DALANAO ELEMENTARY SCHOOL, CONVERTING IT INTO AN INDEPENDENT ELEMENTARY SCHOOL TO BE KNOWN AS WELLIE MACLINIC ELEMENTARY SCHOOL, AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** The Dalanao Elementary School - Dabbarub-Dalanao Extension in Barangay Bacarri, Municipality of Paracelis, Mountain Province is hereby separated from the Dalanao Elementary School and converted into an independent elementary school to be known as Wellie Maclinic Elementary School.
+
+ **Section 2.** All personnel, assets, liabilities and records of the Dalanao Elementary School - Dabbarub-Dalanao Extension are hereby transferred to and absorbed by the Wellie Maclinic Elementary School.
+
+ **Section 3.** The Secretary of Education shall immediately include in the Department's program the operationalization of the Wellie Maclinic Elementary School, the initial funding of which shall be charged against the current year's appropriation of the Dalanao Elementary School - Dabbarub-Dalanao Extension. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.
+
+ **Section 4.** Within one hundred twenty (120) days after the approval of this Act, the Secretary of Education shall formulate the rules and regulations implementing the provisions of this Act.
+
+ **Section 5.** This Act shall take effect fifteen (15) days after its publication in theOfficial Gazetteor in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.)**VICENTE C. SOTTO III** President of the Senate | (SGD.)**LORD ALLAN JAY Q. VELASCO** Speaker of the House of Representatives |
+
+ This Act which which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on January 27, 2020 and January 18, 2021.
+
+ | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.) **MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved: MAR 12 2021
+
+ | (SGD.)**RODRIGO ROA DUTERTE** President of the Philippines |
+"	success	Education	The Act separates the Dalanao Elementary School - Dabbarub-Dalanao Extension in Barangay Bacarri, Municipality of Paracelis, Mountain Province from the main school, converts it into an independent elementary school named Wellie Maclinic Elementary School, and appropriates funds for its operation. It transfers all personnel, assets, liabilities, and records to the new school, includes it in the Department of Education’s program, and mandates the formulation of rules and regulations within 120 days. The Act takes effect 15 days after publication.	"[{""title"": ""Section 1."", ""summary"": ""Separates the Dalanao Elementary School - Dabbarub-Dalanao Extension from the Dalanao Elementary School and converts it into Wellie Maclinic Elementary School.""}, {""title"": ""Section 2."", ""summary"": ""Transfers all personnel, assets, liabilities, and records from the extension to the new school.""}, {""title"": ""Section 3."", ""summary"": ""Includes the new school in the Department of Education\u2019s program and appropriates initial funding from the current year\u2019s appropriation, with ongoing funding to be included in the annual General Appropriations Act.""}, {""title"": ""Section 4."", ""summary"": ""Mandates the Secretary of Education to formulate rules and regulations implementing the Act within 120 days.""}, {""title"": ""Section 5."", ""summary"": ""The Act takes effect 15 days after publication in the Official Gazette or a newspaper of general circulation.""}]"	11530	March 12, 2021			To establish Wellie Maclinic Elementary School as an independent elementary institution, transfer its resources, secure funding, and implement necessary regulations.	"[""Separation and conversion of the extension into an independent elementary school"", ""Transfer of personnel, assets, liabilities, and records"", ""Inclusion in the Department of Education\u2019s program and appropriation of funds"", ""Formulation of rules and regulations within 120 days"", ""Effectivity 15 days after publication""]"		"[""Education"", ""School"", ""Elementary"", ""Republic Act"", ""Dalanao"", ""Wellie Maclinic"", ""Paracelis"", ""Mountain Province""]"	"[""Dalanao Elementary School"", ""Dabbarub-Dalanao Extension"", ""Wellie Maclinic Elementary School"", ""Republic Act 11530"", ""Education Department"", ""Funding"", ""Rules and Regulations"", ""Public School"", ""Paracelis"", ""Mountain Province""]"
+repacts:datasets/markdown/repacts/2021/ra_11531_2021.md	repacts	2021		datasets/markdown/repacts/2021/ra_11531_2021.md	ra_11531_2021	AN ACT SEPARATING THE GUINA-ANG NATIONAL HIGH SCHOOL - MAINIT EXTENSION IN BARANGAY MAINIT, MUNICIPALITY OF BONTOC, MOUNTAIN PROVINCE FROM THE GUINA-ANG NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS MAINIT NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"Eighteenth Congress Second Regular Session Begun and held in Metro Manila, on Monday, the twenty-seventh day of July, two thousand twenty.
+
+ **[ REPUBLIC ACT NO. 11531, March 12, 2021 ]**
+
+ **AN ACT SEPARATING THE GUINA-ANG NATIONAL HIGH SCHOOL - MAINIT EXTENSION IN BARANGAY MAINIT, MUNICIPALITY OF BONTOC, MOUNTAIN PROVINCE FROM THE GUINA-ANG NATIONAL HIGH SCHOOL, CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS MAINIT NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** The Guina-Ang National High School - Mainit Extension in Barangay Mainit, Municipality of Bontoc, Mountain Province is hereby separated from the Guina-Ang National High School and converted into an independent elementary school to be known as Mainit National High School.
+
+ **Section 2.** All personnel, assets, liabilities and records of the Guina-Ang National High School - Mainit Extension are hereby transferred to and absorbed by the Mainit National High School.
+
+ **Section 3.** The Secretary of Education shall immediately include in the Department's program the operationalization of the Mainit National High School, the initial funding of which shall be charged against the current year's appropriation of the Guina-Ang National High School - Mainit Extension. Thereafter, the amount necessary for the continued operation of the school shall be included in the annual General Appropriations Act.
+
+ **Section 4.** Within one hundred twenty (120) days after the approval of this Act, the Secretary of Education shall formulate the rules and regulations implementing the provisions of this Act.
+
+ **Section 5.** This Act shall take effect fifteen (15) days after its publication in theOfficial Gazetteor in a newspaper of general circulation.
+
+ Approved,
+
+  | (SGD.)**VICENTE C. SOTTO III** President of the Senate | (SGD.)**LORD ALLAN JAY Q. VELASCO** Speaker of the House of Representatives |
+
+ This Act which which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on January 27, 2020 and January 18, 2021.
+
+ | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.) **MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved: MAR 12 2021
+
+ | (SGD.)**RODRIGO ROA DUTERTE** President of the Philippines |
+"	success	Republic Act	Separates the Mainit Extension of Guina‑Ang National High School from the main campus, converting it into an independent Mainit National High School and appropriates funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""Separates the Guina\u2011Ang National High School - Mainit Extension from the main school and establishes it as Mainit National High School.""}, {""title"": ""Section 2."", ""summary"": ""Transfers all personnel, assets, liabilities, and records from the Mainit Extension to the newly independent Mainit National High School.""}, {""title"": ""Section 3."", ""summary"": ""Mandates the Secretary of Education to include the new school in the department\u2019s program and to secure initial funding from the current year\u2019s appropriation, with ongoing funding to be included in the General Appropriations Act.""}, {""title"": ""Section 4."", ""summary"": ""Requires the Secretary of Education to formulate rules and regulations implementing this Act within 120 days of its approval.""}, {""title"": ""Section 5."", ""summary"": ""Specifies that the Act takes effect 15 days after publication in the Official Gazette or a general\u2011circulation newspaper.""}]"	11531	March 12, 2021	"[{""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}, {""name"": ""LORD ALLAN JAY Q. VELASCO"", ""title"": ""Speaker of the House of Representatives""}]"		To create an independent Mainit National High School by separating it from Guina‑Ang National High School and to appropriate funds for its operation.	"[""Separation of Mainit Extension from Guina\u2011Ang National High School"", ""Transfer of assets and personnel to the new school"", ""Inclusion of the school in the Department of Education program"", ""Initial funding from current year appropriation"", ""Rule formulation within 120 days"", ""Effectivity after publication""]"		"[""Education"", ""School"", ""Republic Act"", ""Philippines""]"	"[""Guina\u2011Ang National High School"", ""Mainit National High School"", ""Department of Education"", ""funding"", ""independent school""]"
+repacts:datasets/markdown/repacts/2021/ra_11532_2021.md	repacts	2021		datasets/markdown/repacts/2021/ra_11532_2021.md	ra_11532_2021	AN ACT CHANGING THE NAME OF ILAWOD NATIONAL HIGH SCHOOL IN BARANGAY ILAWOD, MUNICIPALITY OF CAMALIG, PROVINCE OF ALBAY, TO CAMALIG NATIONAL HIGH SCHOOL	"Eighteenth Congress Second Regular Session Begun and held in Metro Manila, on Monday, the twenty-seventh day of July, two thousand twenty.
+
+ **[ REPUBLIC ACT NO. 11532, March 24, 2021 ]**
+
+ **AN ACT CHANGING THE NAME OF ILAWOD NATIONAL HIGH SCHOOL IN BARANGAY ILAWOD, MUNICIPALITY OF CAMALIG, PROVINCE OF ALBAY, TO CAMALIG NATIONAL HIGH SCHOOL**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** The name of Ilawod National High School in Barangay Ilawod, Municipality of Camalig, Province of Albay, is hereby changed to Camalig National High School.
+
+ **Section 2.** The main campus of the Camalig National High School shall continue to remain in its present location in Barangay Ilawod, Municipality of Camalig, Province of Albay.
+
+ **Section 3.** This Act shall take effect fifteen (15) days after its publication in theOfficial Gazetteor in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.)**VICENTE C. SOTTO III** President of the Senate | (SGD.)**LORD ALLAN JAY Q. VELASCO** Speaker of the House of Representatives |
+
+ This Act which which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on November 4, 2019 and January 18, 2021.
+
+ | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.) **MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved: MAR 24 2021
+
+ | (SGD.)**RODRIGO ROA DUTERTE** President of the Philippines |
+"	success	Republic Act	This act changes the name of Ilawod National High School to Camalig National High School and confirms its campus location.	"[{""title"": ""Section 1"", ""summary"": ""The name of Ilawod National High School in Barangay Ilawod, Municipality of Camalig, Province of Albay, is hereby changed to Camalig National High School.""}, {""title"": ""Section 2"", ""summary"": ""The main campus of the Camalig National High School shall continue to remain in its present location in Barangay Ilawod, Municipality of Camalig, Province of Albay.""}, {""title"": ""Section 3"", ""summary"": ""This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.""}]"	11532	March 24, 2021	"[{""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}, {""name"": ""LORD ALLAN JAY Q. VELASCO"", ""title"": ""Speaker of the House of Representatives""}]"		To rename Ilawod National High School to Camalig National High School.	"[""Name change of Ilawod National High School to Camalig National High School"", ""Campus location remains in Barangay Ilawod, Camalig, Albay"", ""Effective date fifteen days after publication in Official Gazette or newspaper""]"		"[""Education"", ""School"", ""Name Change""]"	"[""Ilawod National High School"", ""Camalig National High School"", ""Albay"", ""Republic Act 11532"", ""Name change""]"
+repacts:datasets/markdown/repacts/2021/ra_11533_2021.md	repacts	2021		datasets/markdown/repacts/2021/ra_11533_2021.md	ra_11533_2021	AN ACT REAPPORTIONING THE SECOND LEGISLATIVE DISTRICT OF THE PROVINCE OF RIZAL INTO THREE (3) LEGISLATIVE DISTRICTS	"Eighteenth Congress Second Regular Session Begun and held in Metro Manila, on Monday, the twenty-seventh day of July, two thousand twenty.

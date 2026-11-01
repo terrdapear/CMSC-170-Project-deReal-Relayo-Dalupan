@@ -1,0 +1,188 @@
+"	success	Republic Act	Establishes Western Abra National High School in Danglas, Abra, and appropriates funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""There shall be established, under the supervision of the Department of Education, Culture and Sports, a national high school in the Municipality of Danglas, Province of Abra, to be known as the Western Abra National High School.""}, {""title"": ""Section 2."", ""summary"": ""The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.""}, {""title"": ""Section 3."", ""summary"": ""The Secretary of Education, Culture and Sports shall implement this Act so as to make the national high school in operation during the first school year after the effectivity of this Act.""}, {""title"": ""Section 4."", ""summary"": ""This Act shall take effect upon its approval.""}]"	7868	January 21, 1995	"[{""name"": ""EDGARDO J. ANGARA"", ""title"": ""President of the Senate""}, {""name"": ""JOSE DE VENECIA, JR."", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""EDGARDO E. TUMANGAN"", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""FIDEL V. RAMOS"", ""title"": ""President of the Philippines""}]"	To establish a national high school in Danglas, Abra, known as Western Abra National High School, and appropriate funds for its operation.	"[""Section 1 establishes the Western Abra National High School under the supervision of the Department of Education, Culture and Sports."", ""Section 2 provides that the necessary funds will be included in the following year's General Appropriations Act."", ""Section 3 mandates the Secretary of Education, Culture and Sports to implement the Act and make the school operational in the first school year after effectivity."", ""Section 4 states that the Act takes effect upon its approval.""]"		"[""Education"", ""Infrastructure"", ""Republic Act"", ""High School"", ""Abra""]"	"[""National High School"", ""Danglas"", ""Abra"", ""Education"", ""Appropriations"", ""Department of Education, Culture and Sports""]"
+repacts:datasets/markdown/repacts/1995/ra_7869_1995.md	repacts	1995		datasets/markdown/repacts/1995/ra_7869_1995.md	ra_7869_1995	AN ACT ESTABLISHING a HIGH SCHOOL IN BARANGAY SAN AGAPITO, ISLA VERDE, BATANGAS CITY, TO BE KNOWN AS THE SAN AGAPITO HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"Nineth Congress Third Regular Session
+
+ **[ REPUBLIC ACT No. 7869, January 21, 1995 ]**
+
+ AN ACT ESTABLISHING a HIGH SCHOOL IN BARANGAY SAN AGAPITO, ISLA VERDE, BATANGAS CITY, TO BE KNOWN AS THE SAN AGAPITO HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established a high school in Barangay San Agapito, Isla Verde, Batangas City, to be known as the San Agapito High School.
+
+ **Section 2.** the Secretary of the Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** the amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **EDGARDO J. ANGARA** President of the Senate | (Sgd.) **JOSE DE VENECIA, JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on August 1, 1994 and November 15, 1994, respectively.
+
+ | (Sgd.) **EDGARDO E. TUMANGAN** Secretary of the Senate | (Sgd.) **CAMILO L. SABIO** Secretary General House of Representatives |
+
+ Approved, JANUARY 21, 1995
+
+ (Sgd.) **FIDEL V. RAMOS** President of the Philippines
+"	success	Republic Act	Establishes San Agapito High School in Barangay San Agapito, Isla Verde, Batangas City, and appropriates funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of the San Agapito High School.""}, {""title"": ""Section 2."", ""summary"": ""DepEd Secretary to issue rules and regulations necessary to carry out the purpose of the Act.""}, {""title"": ""Section 3."", ""summary"": ""Funding necessary for the Act to be included in the General Appropriations Act of the following year.""}, {""title"": ""Section 4."", ""summary"": ""Act takes effect upon its approval.""}]"	7869	January 21, 1995	"[{""name"": ""EDGARDO J. ANGARA"", ""title"": ""President of the Senate""}, {""name"": ""JOSE DE VENECIA, JR."", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""EDGARDO E. TUMANGAN"", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""FIDEL V. RAMOS"", ""title"": ""President of the Philippines""}]"	The act establishes a high school in Barangay San Agapito, Isla Verde, Batangas City, and appropriates necessary funds for its operation.	"[""Establishment of San Agapito High School."", ""DepEd Secretary to issue rules and regulations."", ""Funding to be included in the General Appropriations Act of the following year."", ""Act takes effect upon approval.""]"		"[""Education"", ""High School"", ""Barangay"", ""Isla Verde"", ""Batangas City""]"	"[""Republic Act"", ""RA 7869"", ""San Agapito High School"", ""DepEd"", ""General Appropriations Act"", ""Education"", ""High School Establishment""]"
+repacts:datasets/markdown/repacts/1995/ra_7870_1995.md	repacts	1995		datasets/markdown/repacts/1995/ra_7870_1995.md	ra_7870_1995	AN ACT ESTABLISHING a NATIONAL HIGH SCHOOL IN THE MUNICIPALITY OF BROOKE'S POINT, PROVINCE OF PALAWAN, TO BE KNOWN AS THE BROOKE'S POINT NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"Nineth Congress Third Regular Session
+
+ **[ REPUBLIC ACT No. 7870, January 21, 1995 ]**
+
+ AN ACT ESTABLISHING a NATIONAL HIGH SCHOOL IN THE MUNICIPALITY OF BROOKE'S POINT, PROVINCE OF PALAWAN, TO BE KNOWN AS THE BROOKE'S POINT NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There is hereby established a national high school in the Municipality of Brooke's Point, Province of Palawan, with school site at Barangay Pangobilian, to be known as the Brooke's Point National High School.
+
+ **Section 2.** the Secretary of Education, Culture and Sports shall issue the necessary rules, orders and circulars to implement the provisions of this Act.
+
+ **Section 3.** the amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approve,
+
+ | (Sgd.) **EDGARDO J. ANGARA** President of the Senate | (Sgd.) **JOSE DE VENECIA, JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on September 27, 1994 and November 15, 1994, respectively.
+
+ | (Sgd.) **EDGARDO E. TUMANGAN** Secretary of the Senate | (Sgd.) **CAMILO L. SABIO** Secretary General House of Representatives |
+
+ Approved, JANUARY 21, 1995
+
+ (Sgd.) **FIDEL V. RAMOS** President of the Philippines
+"	success	Education	Establishes Brooke's Point National High School in Palawan and appropriates funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""Establishes a national high school in the Municipality of Brooke's Point, Province of Palawan, with site at Barangay Pangobilian, to be known as the Brooke's Point National High School.""}, {""title"": ""Section 2."", ""summary"": ""The Secretary of Education, Culture and Sports shall issue the necessary rules, orders, and circulars to implement the provisions of this Act.""}, {""title"": ""Section 3."", ""summary"": ""The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.""}, {""title"": ""Section 4."", ""summary"": ""This Act shall take effect upon its approval.""}]"	7870	January 21, 1995	"[{""name"": ""EDGARDO J. ANGARA"", ""title"": ""President of the Senate""}, {""name"": ""JOSE DE VENECIA, JR."", ""title"": ""Speaker of the House of Representatives""}]"		To establish a national high school in Brooke's Point, Palawan, and allocate funds for its operation.	"[""Establishment of Brooke's Point National High School."", ""Issuance of rules, orders, and circulars by the Secretary of Education, Culture and Sports."", ""Funding to be included in the General Appropriations Act of the following year."", ""Effectivity upon approval.""]"		"[""Education"", ""School Establishment"", ""Republic Act"", ""Palawan""]"	"[""Brooke's Point"", ""National High School"", ""Palawan"", ""Education"", ""Republic Act 7870""]"
+repacts:datasets/markdown/repacts/1995/ra_7871_1995.md	repacts	1995		datasets/markdown/repacts/1995/ra_7871_1995.md	ra_7871_1995	AN ACT ESTABLISHING a NATIONAL HIGH SCHOOL IN BARANGAY AGUINING, MUNICIPALITY OF PRES. GARCIA, PROVINCE OF BOHOL, TO BE KNOWN AS AGUINING NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"Nineth Congress Third Regular Session
+
+ **[ REPUBLIC ACT No. 7871, January 21, 1995 ]**
+
+ AN ACT ESTABLISHING a NATIONAL HIGH SCHOOL IN BARANGAY AGUINING, MUNICIPALITY OF PRES. GARCIA, PROVINCE OF BOHOL, TO BE KNOWN AS AGUINING NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established under the direct supervision of Department of Education, Culture and Sports a national high school in Barangay Aguining, Municipality of Pres. Garcia in the Province of Bohol to be known as Aguining National High School.
+
+ **Section 2.** the Secretary of the Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** the amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **EDGARDO J. ANGARA** President of the Senate | (Sgd.) **JOSE DE VENECIA, JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on July 27, 1994 and November 15, 1994, respectively.
+
+ | (Sgd.) **EDGARDO E. TUMANGAN** Secretary of the Senate | (Sgd.) **CAMILO L. SABIO** Secretary General House of Representatives |
+
+ Approved, JANUARY 21, 1995
+
+ (Sgd.) **FIDEL V. RAMOS** President of the Philippines
+"	success	Act	Establishes Aguining National High School in Bohol and appropriates funds for its operation.	"[{""title"": ""Section 1"", ""summary"": ""Establishes a national high school in Barangay Aguining, Municipality of Pres. Garcia, Province of Bohol, named Aguining National High School.""}, {""title"": ""Section 2"", ""summary"": ""The Secretary of the Department of Education, Culture and Sports shall issue rules and regulations necessary to carry out the purpose of the Act.""}, {""title"": ""Section 3"", ""summary"": ""The amount necessary to carry out the provisions of the Act shall be included in the General Appropriations Act of the year following its enactment.""}, {""title"": ""Section 4"", ""summary"": ""The Act shall take effect upon its approval.""}]"	7871	January 21, 1995			To establish a national high school in Barangay Aguining, Municipality of Pres. Garcia, Province of Bohol, and appropriate funds for its operation.	"[""Establishment of Aguining National High School"", ""Issuance of rules and regulations by the Secretary of the Department of Education, Culture and Sports"", ""Appropriation of funds in the following year's General Appropriations Act"", ""Effectivity upon approval""]"		"[""education"", ""high school"", ""Bohol"", ""Republic Act""]"	"[""education"", ""high school"", ""Bohol"", ""Republic Act""]"
+repacts:datasets/markdown/repacts/1995/ra_7872_1995.md	repacts	1995		datasets/markdown/repacts/1995/ra_7872_1995.md	ra_7872_1995	AN ACT ESTABLISHING a NATIONAL HIGHSCHOOL IN THE MUNICIPALITY OF DINGALAN, PROVINCE OF AURORA, TO BE KNOWN AS THE DINGALAN NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"Nineth Congress Third Regular Session
+
+ **[ REPUBLIC ACT No. 7872, January 21, 1995 ]**
+
+ AN ACT ESTABLISHING a NATIONAL HIGHSCHOOL IN THE MUNICIPALITY OF DINGALAN, PROVINCE OF AURORA, TO BE KNOWN AS THE DINGALAN NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established, under the supervision of the Department of Education, Culture and Sports, a national high school in the municipality of Dingalan, Province of Aurora, to be known as the Dingalan National High School.
+
+ **Section 2.** the amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **EDGARDO J. ANGARA** President of the Senate | (Sgd.) **JOSE DE VENECIA, JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on May 31, 1994 and November 15, 1994, respectively.
+
+ | (Sgd.) **EDGARDO E. TUMANGAN** Secretary of the Senate | (Sgd.) **CAMILO L. SABIO** Secretary General House of Representatives |
+
+ Approved, JANUARY 21, 1995
+
+ (Sgd.) **FIDEL V. RAMOS** President of the Philippines
+"	success	Republic Act	Establishes Dingalan National High School in Aurora and appropriates funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""Establishes a national high school under the supervision of the Department of Education in Dingalan, Aurora.""}, {""title"": ""Section 2."", ""summary"": ""Funds necessary for implementation are to be included in the following year's General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""The act takes effect upon its approval.""}]"	7872	January 21, 1995	"[{""name"": ""EDGARDO J. ANGARA"", ""title"": ""President of the Senate""}, {""name"": ""JOSE DE VENECIA, JR."", ""title"": ""Speaker of the House of Representatives""}]"		To establish a national high school in Dingalan, Aurora, and appropriate funds for its operation.	"[""Establishment of Dingalan National High School under the Department of Education"", ""Funding via the General Appropriations Act of the subsequent year"", ""Effectivity upon approval""]"		"[""Education"", ""High School"", ""Infrastructure"", ""Philippines"", ""Republic Act""]"	"[""Dingalan"", ""Aurora"", ""National High School"", ""Department of Education"", ""General Appropriations Act"", ""Republic Act 7872""]"
+repacts:datasets/markdown/repacts/1995/ra_7873_1995.md	repacts	1995		datasets/markdown/repacts/1995/ra_7873_1995.md	ra_7873_1995	An Act Establishing a National High School in the Municipality of Panamao, Sulu District II, to be Known as the Panamao National High School, and Appropriating Funds Therefor	"Nineth Congress Third Regular Session
+
+ **[ REPUBLIC ACT No. 7873, January 21, 1995 ]**
+
+ AN ACT ESTABLISHING a NATIONAL HIGH SCHOOL IN THE MUNICIPALITY OF PANAMAO, SULU DISTRICT II, TO BE KNOWN AS THE PANAMAO NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established, under the supervision of the Department of Education, Culture and Sports, a national high school in the Municipality of Panamao, Sulu District II, to be known as the Panamao National High School.
+
+ **Section 2.** the Secretary of Education, Culture and Sports shall implement this Act so as to make the Panamao National High School in operation during the first school term after the effectivity of this Act.
+
+ **Section 3.** the amount necessary for the implementation of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **EDGARDO J. ANGARA** President of the Senate | (Sgd.) **JOSE DE VENECIA, JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on August 1, 1994 and November 15, 1994, respectively.
+
+ | (Sgd.) **EDGARDO E. TUMANGAN** Secretary of the Senate | (Sgd.) **CAMILO L. SABIO** Secretary General House of Representatives |
+
+ Approved, JANUARY 21, 1995
+
+ (Sgd.) **FIDEL V. RAMOS** President of the Philippines
+"	success	Education	This act establishes the Panamao National High School in Panamao, Sulu District II, and appropriates funds for its operation.	"[{""title"": ""Section 1"", ""summary"": ""Establishment of the Panamao National High School under the supervision of the Department of Education, Culture and Sports.""}, {""title"": ""Section 2"", ""summary"": ""Implementation of the act by the Secretary of Education, Culture and Sports to get the school operational during the first school term after effectivity.""}, {""title"": ""Section 3"", ""summary"": ""Funding for implementation to be included in the General Appropriations Act of the year following its enactment.""}, {""title"": ""Section 4"", ""summary"": ""The act shall take effect upon its approval.""}]"	RA No. 7873	January 21, 1995			To establish a national high school in Panamao, Sulu District II, and provide funding for its operation.	"[""Establishment of the Panamao National High School"", ""Implementation by the Secretary of Education, Culture and Sports"", ""Funding to be included in the General Appropriations Act of the following year"", ""Effectivity upon approval""]"		"[""Education"", ""High School"", ""Sulu"", ""Public School""]"	"[""Panamao"", ""National High School"", ""Education"", ""Sulu"", ""General Appropriations Act"", ""Department of Education""]"
+repacts:datasets/markdown/repacts/1995/ra_7874_1995.md	repacts	1995		datasets/markdown/repacts/1995/ra_7874_1995.md	ra_7874_1995	"AN ACT PROVIDING FOR THE CONVERSION OF THE SAN ENRIQUE BARANGAY GARITA BAYANIHAN HIGH SCHOOL INTO AN EXTENSION HIGH SCHOOL OF THE SAN ENRIQUE POLYTECHNIC COLLEGE TO BE KNOWN AS THE ""SAN ENRIQUE POLYTECHNIC COLLEGE DOMINADOR ABANG MEMORIAL EXTENSION HIGH SCHOOL"" IN THE MUNICIPALITY OF SAN ENRIQUE, PROVINCE OF ILOILO, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"	"Nineth Congress Third Regular Session
+
+ **[ REPUBLIC ACT No. 7874, January 21, 1995 ]**
+
+ AN ACT PROVIDING FOR THE CONVERSION OF THE SAN ENRIQUE BARANGAY GARITA BAYANIHAN HIGH SCHOOL INTO AN EXTENSION HIGH SCHOOL OF THE SAN ENRIQUE POLYTECHNIC COLLEGE TO BE KNOWN AS THE ""SAN ENRIQUE POLYTECHNIC COLLEGE DOMINADOR ABANG MEMORIAL EXTENSION HIGH SCHOOL"" IN THE MUNICIPALITY OF SAN ENRIQUE, PROVINCE OF ILOILO, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** the San Enrique Barangay Garita Bayanihan High School in the Municipality of San Enrique, Province of Iloilo, is hereby converted into an extension high school of the San Enrique Polytechnic College to be known as the ""San Enrique Polytechnic College Dominador Abang Memorial Extension High School.""
+
+ **Section 2.** the high school department shall retain the curriculum, functions and duties of the Barangay Garita Bayanihan High School.
+
+ **Section 3.** All assets, whether fixed or movable, records and personnel, obligations and appropriations of the Barangay Garita Bayanihan High School are hereby transferred to the San Enrique Polytechnic College Dominador Abang Memorial Extension High School: *Provided, however,* That the positions, rights and security of tenure of the personnel therein employed prior to the conversion shall not be impaired.
+
+ **Section 4.** the amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 5.** the Secretary of the Department of Education, Culture and Sports is hereby directed to take such steps as may be necessary for the completion and operation of the high school.
+
+ **Section 6.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **EDGARDO J. ANGARA** President of the Senate | (Sgd.) **JOSE DE VENECIA, JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on July 27, 1994 and November 15, 1994, respectively.
+
+ | (Sgd.) **EDGARDO E. TUMANGAN** Secretary of the Senate | (Sgd.) **CAMILO L. SABIO** Secretary General House of Representatives |
+
+ Approved, JANUARY 21, 1995
+
+ (Sgd.) **FIDEL V. RAMOS** President of the Philippines
+"	success	Republic Act	Converts San Enrique Barangay Garita Bayanihan High School into a branch of San Enrique Polytechnic College, appropriating funds for its operation and outlining the transfer of assets, personnel, and curriculum.	"[{""title"": ""Section 1."", ""summary"": ""The San Enrique Barangay Garita Bayanihan High School is converted into an extension high school of San Enrique Polytechnic College, to be known as the San Enrique Polytechnic College Dominador Abang Memorial Extension High School.""}, {""title"": ""Section 2."", ""summary"": ""The high school department shall retain the curriculum, functions, and duties of the Barangay Garita Bayanihan High School.""}, {""title"": ""Section 3."", ""summary"": ""All assets, records, personnel, obligations, and appropriations of the Barangay Garita Bayanihan High School are transferred to the new extension high school, while personnel hired prior to conversion retain their positions and security of tenure.""}, {""title"": ""Section 4."", ""summary"": ""The necessary funds to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment.""}, {""title"": ""Section 5."", ""summary"": ""The Secretary of the Department of Education, Culture and Sports is directed to take necessary steps for the completion and operation of the high school.""}, {""title"": ""Section 6."", ""summary"": ""This Act shall take effect upon its approval.""}]"	7874	January 21, 1995			To convert a barangay high school into an extension of a polytechnic college, ensuring continuity of education and proper resource allocation.	"[""Conversion of San Enrique Barangay Garita Bayanihan High School into an extension high school of San Enrique Polytechnic College"", ""Retention of curriculum and functions of the original high school"", ""Transfer of assets, records, personnel, and obligations to the new extension high school"", ""Appropriation of funds in the following year's General Appropriations Act"", ""Directive to the Secretary of DepEd to facilitate operation"", ""Effectivity upon approval""]"		"[""Education"", ""School Conversion"", ""Philippines""]"	"[""San Enrique"", ""Polytechnic College"", ""Extension High School"", ""Garita Bayanihan"", ""Iloilo"", ""Republic Act"", ""Funds appropriation""]"
+repacts:datasets/markdown/repacts/1995/ra_7875_1995.md	repacts	1995		datasets/markdown/repacts/1995/ra_7875_1995.md	ra_7875_1995	AN ACT INSTITUTING a NATIONAL HEALTH INSURANCE PROGRAM FOR ALL FILIPINOS AND ESTABLISHING THE PHILIPPINE HEALTH INSURANCE CORPORATION FOR THE PURPOSE	"Tenth Congress Third Regular Session
+
+ [ REPUBLIC ACT No. 7875, January 21, 1995 ]
+
+ AN ACT INSTITUTING a NATIONAL HEALTH INSURANCE PROGRAM FOR ALL FILIPINOS AND ESTABLISHING THE PHILIPPINE HEALTH INSURANCE CORPORATION FOR THE PURPOSE
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** *Short Title.* - This Act shall be known as the ***""National Health Insurance Act of 1995.""***
+
+ Article 1. GUIDING PRINCIPLES
+
+ **Section 2.** *Declaration of Principles and Policies.* - Section 11, Article XIII of the 1987 Constitution of the Republic of the Philippines declares that the State shall adopt an integrated and comprehensive approach to health development which shall endeavor to make essential goods, health and other social services available to all the people at affordable cost. Priority for the needs of the underprivileged, sick, elderly, disabled, women, and children shall be recognized. Likewise, it shall be the policy of the State to provide free medical care to paupers.
+
+ In the pursuit of a National Health Insurance Program, this Act shall adopt the following guiding principles:
+
+ a. *Allocation of National Resources for Health* - the Program shall underscore the importance for government to give priority to health as a strategy for bringing about faster economic development and improving quality of life. b. *Universality* - the Program shall provide all citizens with the mechanism to gain financial access to health services, in combination with other government health programs. the National Health Insurance Program shall give the highest priority to achieving coverage of the entire population with at least a basic minimum package of health insurance benefits; c. *Equity* - the Program shall provide for uniform basic benefits. Access to care must be a function of a person's health needs rather than his ability to pay; d. *Responsiveness* - the Program shall adequately meet the needs for personal health services at various stages of a member's life; e. *Social Solidarity* - the Program shall be guided by community spirit. It must enhance risk sharing among income groups, age groups, and persons of differing health status, and residing in different geographic areas; f. *Effectiveness* - the Program shall balance economical use of resources with quality of care; g. *Innovation* - the Program shall adapt to changes in medical technology, health service organizations, health care provider payment systems, scopes of professional practice, and other trends in the health sector. It must be cognizant of the appropriate roles and respective strengths of the public and private sectors in health care, including people's organizations and community-based health care organizations; h. *Devolution* - the Program shall be implemented in consultation with local government units (LGUs), subject to the overall policy directions set by the National Government; i. *Fiduciary Responsibility* - the Program shall provide effective stewardship, funds management, and maintenance of reserves; j. *Informed Choice* - the Program shall encourage members to choose from among accredited health care providers. the Corporation's local offices shall objectively apprise its members of the full range of providers involved in the Program and of the services and privileges to which they are entitled as members. This explanation, which the members may use as a guide in selecting the appropriate and most suitable provider, shall be given in clear and simple Filipino and in the local languages that is comprehensible to the member; k . *Maximum Community Participation* - the Program shall build on existing community initiatives for its organization and human resource requirements; l. *Compulsory Coverage* - All citizens of the Philippines shall be required to enroll in the National Health Insurance Program in order to avoid adverse selection and social inequity; m. *Cost Sharing* - the Program shall continuously evaluate its cost sharing schedule to ensure that costs borne by the members are fair and equitable and that the charges by health care providers are reasonable; n. *Professional Responsibility of Health Care Providers* - the Program shall assure that all participating health care providers are responsible and accountable in all their dealings with the Corporation and its members; o.*Public Health Services* - the Government shall be responsible for providing public health services for all groups such as women, children, indigenous people, displaced communities and communities in environmentally endangered areas, while the Program shall focus on the provision of personal health services. Preventive and promotive public health services are essential for reducing the need and spending for personal health services; p.*Quality of Services* - the Program shall promote the improvement in the quality of health services provided through the institutionalization of programs of quality assurance at all levels of the health service delivery system. the satisfaction of the community, as well as individual beneficiaries, shall be a determinant of the quality of service delivery,; q. *Cost Containment* - the Program shall incorporate features of cost containment in its design and operations and provide a viable means of helping the people pay for health care services; and r. *Care for the Indigent* - the Government shall be responsible for providing a basic package of needed personal health services to indigents through premium subsidy, or through direct service provision until such time that the program is fully implemented. **Section 3.** *General Objectives.* - This Act seeks to:

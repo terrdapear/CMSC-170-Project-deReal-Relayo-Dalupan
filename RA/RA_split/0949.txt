@@ -1,0 +1,141 @@
+repacts:datasets/markdown/repacts/1965/ra_4178_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4178_1965.md	ra_4178_1965	REPUBLIC ACT No. 4178	"**REPUBLIC ACT No. 4178**
+
+ An Act to Convert Eastern Pangasinan Agricultural School in the Municipality of Sta. Maria, Province of Pangasinan, into a College to be Known as Eastern Pangasinan Agricultural College, and to Authorize the Appropriations of Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The Eastern Pangasinan Agricultural School located in the Municipality of Sta. Maria, Province of Pangasinan, is hereby converted into a college to be known as Eastern Pangasinan Agricultural College.
+
+ **Section 2.** The Eastern Pangasinan Agricultural College shall offer in addition to the secondary agricultural curriculum, the following collegiate courses:
+
+ (a) A four-year course leading to the degree of Bachelor of Science in Home Economics. (b) A four-year course leading to the degree of Bachelor of Science in Agriculture. (c) A four-year course leading to the degree of Bachelor of Science in Agricultural Education. (d) A four-year course leading to the degree of Bachelor of Science in Agricultural Engineering. (e) A two-year course leading to the title of Associate in Agriculture. **Section 3.** The Eastern Pangasinan Agricultural College shall be under the Bureau of Vocation Education and shall have a superintendent as its head.
+
+ **Section 4.** The Secretary of Education shall implement the conversion provided for in Section one hereof within six months from the approval of this Act.
+
+ **Section 5.** The sum of two hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the conversion, operation and maintenance of the said college, in addition to the present national appropriation of the said school, for the fiscal year nineteen hundred sixty-five. Thereafter, the necessary sum for said purpose shall be included in the annual General Appropriations Act.
+
+ **Section 6.** This Act shall take effect upon its approval.
+
+ Approved: March 26, 1965.
+"	success	Republic Act	An act converting the Eastern Pangasinan Agricultural School into the Eastern Pangasinan Agricultural College and authorizing appropriations of funds for its conversion, operation and maintenance.	"[{""title"": ""Section 1"", ""summary"": ""Converts the Eastern Pangasinan Agricultural School in Sta. Maria, Pangasinan into Eastern Pangasinan Agricultural College.""}, {""title"": ""Section 2"", ""summary"": ""Lists the collegiate courses offered: Bachelor of Science in Home Economics, Agriculture, Agricultural Education, Agricultural Engineering, and Associate in Agriculture.""}, {""title"": ""Section 3"", ""summary"": ""States the college will be under the Bureau of Vocation Education and will have a superintendent as its head.""}, {""title"": ""Section 4"", ""summary"": ""Mandates the Secretary of Education to implement the conversion within six months of the Act's approval.""}, {""title"": ""Section 5"", ""summary"": ""Authorizes an appropriation of two hundred thousand pesos for conversion, operation, and maintenance for FY 1965 and future inclusion in the General Appropriations Act.""}, {""title"": ""Section 6"", ""summary"": ""The Act takes effect upon its approval.""}]"	4178	March 26, 1965			To convert the Eastern Pangasinan Agricultural School into a college and provide the necessary funding and administrative structure for its operation.	"[""Conversion of school to college"", ""Offer of specified collegiate courses"", ""Governance under Bureau of Vocation Education"", ""Implementation by Secretary of Education"", ""200,000 pesos appropriation for FY 1965"", ""Effectivity upon approval""]"		"[""Education"", ""Agricultural"", ""College"", ""Philippines"", ""Republic Act""]"	"[""Eastern Pangasinan Agricultural College"", ""conversion"", ""funding"", ""Bachelor of Science"", ""Associate in Agriculture"", ""Secretary of Education""]"
+repacts:datasets/markdown/repacts/1965/ra_4179_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4179_1965.md	ra_4179_1965	An Act Converting the Pototan General Hospital in the Municipality of Pototan, Province of Iloilo, into a National Hospital to be Known as Doña Trinidad Bolivar Memorial National Hospital, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 4179**
+
+ An Act Converting the Pototan General Hospital in the Municipality of Pototan, Province of Iloilo, into a National Hospital to be Known as Doña Trinidad Bolivar Memorial National Hospital, and Authorizing the Appropriation of Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The Pototan General Hospital in the Municipality of Pototan, Province of Iloilo, is hereby converted into a national hospital, to be known as Doña Trinidad Bolivar Memorial National Hospital.
+
+ **Section 2.** The additional sum of one hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the conversion, operation and maintenance of said hospital during the fiscal year nineteen hundred sixty-five. Thereafter, such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: March 26, 1965.
+"	success	Republic Act	Converts Pototan General Hospital into the Doña Trinidad Bolivar Memorial National Hospital and appropriates funds for its conversion, operation and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""Converts Pototan General Hospital into a national hospital named Do\u00f1a Trinidad Bolivar Memorial National Hospital.""}, {""title"": ""Section 2."", ""summary"": ""Authorizes appropriation of one hundred thousand pesos for conversion, operation and maintenance during fiscal year 1965 and includes future needs in the annual General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""Act takes effect upon its approval.""}]"	4179	March 26, 1965			To convert a general hospital into a national hospital and allocate funds for its operation and maintenance.	"[""Conversion of Pototan General Hospital into Do\u00f1a Trinidad Bolivar Memorial National Hospital"", ""Appropriation of 100,000 pesos for conversion, operation and maintenance in FY1965"", ""Future funding to be included in General Appropriations Act"", ""Act takes effect upon approval""]"		"[""Health"", ""Hospital"", ""National Hospital"", ""Philippines"", ""1965""]"	"[""Pototan"", ""Iloilo"", ""Do\u00f1a Trinidad Bolivar"", ""National Hospital"", ""Appropriation"", ""Conversion""]"
+repacts:datasets/markdown/repacts/1965/ra_4180_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4180_1965.md	ra_4180_1965	AN ACT AMENDING REPUBLIC ACT NUMBERED SIX HUNDRED TWO, OTHERWISE KNOWN AS THE MINIMUM WAGE LAW, BY RAISING THE MINIMUM WAGE FOR CERTAIN WORKERS, AND FOR OTHER PURPOSES.	"**REPUBLIC ACT No. 4180**
+
+ AN ACT AMENDING REPUBLIC ACT NUMBERED SIX HUNDRED TWO, OTHERWISE KNOWN AS THE MINIMUM WAGE LAW, BY RAISING THE MINIMUM WAGE FOR CERTAIN WORKERS, AND FOR OTHER PURPOSES.
+
+ **Section 1.** Section three of Republic Act Numbered Six hundred two is hereby amended to read as follows:
+
+ ""Sec. 3. Minimum Wage. (a) Every employer shall pay to each of his employees who is employed by an enterprise other than in agriculture minimum wages not less than six pesos a day: Provided, That this Act shall not apply to any retail or service enterprise that regularly employs not more than five employees; or mining enterprises;
+
+ ""(b) Every employer who operates a farm enterprise shall pay to each of his employees, who is engaged in agriculture, minimum wages at the rate prescribed in Section forty-two of Republic Act Numbered Thirty-eight hundred forty-four. ""(c) Effective on the first of July, nineteen hundred and sixty-five the minimum wage rates for employees in the government service shall be as follows: for national government laborers and workers, six pesos a day; for provinces and cities, first and second class, six pesos a day; third and fourth class, five pesos a day; and for all other classes the minimum wage shall be fixed by the respective provinces and cities as their finances may permit, provided the same shall not be less than four pesos, for first and second class municipalities, six pesos a day; for third and fourth class municipalities, five pesos a day; and for all other class of municipalities the minimum wage shall be fixed by the respective municipalities as their finances may permit, provided that the same shall not be less than four pesos. ""(d) This Act shall not apply to farm tenancy nor to domestic servants. ""(e) Until and unless investigations by the Secretary of Labor on his initiative or on petition of any interested party results in a different determination of the fair and reasonable value, the furnishing of meals shall be valued at not more than fifty centavos per meal for agricultural employees, and not more than seventy centavos for any other employees covered by this Act, and the furnishing of housing shall be valued at not more than fifty centavos daily for agricultural workers and not more than eighty centavos daily for other employees covered by this Act. ""(f) With respect to piece-work or contract work, on petition of an interested party, the Secretary of Labor shall use all available devices of investigation to determine whether the work is being compensated by the labor contractor in compliance with this Act, and shall issue findings and orders at the beginning of every fiscal year in connection therewith."" **Section 2.** Repeal of inconsistent prior enactments. Any provision of law previously enacted on the subject matter of this Act that is inconsistent with any provision of this Act is hereby repealed.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: April 21, 1965
+"	success	Republic Act	An amendment to RA 602 raising the minimum wage for certain workers, establishing rates for various classes, and specifying exemptions.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 3 of RA 602 to set minimum wages: 6 pesos/day for non\u2011agriculture employees (except small retail/service enterprises with five or fewer employees and mining enterprises), specific rates for farm employees per RA 3844, government employees, exemptions for farm tenancy and domestic servants, meal and housing allowances, and enforcement by the Secretary of Labor.""}, {""title"": ""Section 2"", ""summary"": ""Repeals inconsistent prior enactments.""}, {""title"": ""Section 3"", ""summary"": ""Effectivity upon approval.""}]"	4180	April 21, 1965			To amend the Minimum Wage Law to raise wages for certain workers and establish specific wage rates across various employee categories.	"[""Raising minimum wage to 6 pesos/day for non\u2011agriculture employees"", ""Specifying wage rates for farm employees per RA 3844"", ""Setting wage rates for government employees by class"", ""Exemptions for small retail/service enterprises (\u22645 employees) and mining enterprises"", ""Exemptions for farm tenancy and domestic servants"", ""Meal allowance capped at 50\u201370 centavos per meal"", ""Housing allowance capped at 50\u201380 centavos per day"", ""Enforcement and investigative powers granted to the Secretary of Labor""]"	Amends Republic Act No. 602 (Minimum Wage Law)	"[""Minimum wage"", ""Labor law"", ""Philippines"", ""RA 4180""]"	"[""minimum wage"", ""retail enterprise"", ""agriculture"", ""government employees"", ""Secretary of Labor""]"
+repacts:datasets/markdown/repacts/1965/ra_4181_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4181_1965.md	ra_4181_1965	An Act Providing for the Establishment of an Emergency Hospital in Barrio Baloc, Municipality of Sto. Domingo, Province of Nueva Ecija, to be Known as Sto. Domingo Emergency Hospital, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 4181**
+
+ An Act Providing for the Establishment of an Emergency Hospital in Barrio Baloc, Municipality of Sto. Domingo, Province of Nueva Ecija, to be Known as Sto. Domingo Emergency Hospital, and Authorizing the Appropriation of Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established an emergency hospital in the Barrio of Baloc, Municipality of Sto. Domingo, Province of Nueva Ecija, to be known as Sto. Domingo, Province of Nueva Ecija, to be known as Sto. Domingo Emergency Hospital.
+
+ **Section 2.** The sum of two hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital during the fiscal year nineteen hundred sixty-six. Thereafter, such sum as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: April 21, 1965.
+"	success	Republic Act	Establishes an emergency hospital in Barrio Baloc, Sto. Domingo, Nueva Ecija, and appropriates funds for its operation.	"[{""title"": ""Section 1"", ""summary"": ""Establishment of the emergency hospital in Barrio Baloc, Sto. Domingo, Nueva Ecija.""}, {""title"": ""Section 2"", ""summary"": ""Authorization of two hundred thousand pesos for the establishment, operation, and maintenance of the hospital during the fiscal year 1966, with future appropriations included in the General Appropriations Act.""}, {""title"": ""Section 3"", ""summary"": ""The act shall take effect upon its approval.""}]"	RA 4181	April 21, 1965			To establish an emergency hospital and provide appropriate funding for its operation and maintenance.	"[""Establishment of Sto. Domingo Emergency Hospital"", ""Authorization of 200,000 pesos for the hospital"", ""Effective date upon approval""]"		"[""Health"", ""Emergency Hospital"", ""Nueva Ecija"", ""Public Health""]"	"[""emergency hospital"", ""appropriation"", ""healthcare"", ""Nueva Ecija"", ""Sto. Domingo""]"
+repacts:datasets/markdown/repacts/1965/ra_4182_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4182_1965.md	ra_4182_1965	An Act to Change the Name of Eastern Pangasinan Emergency Hospital to Eastern Pangasinan General Hospital	"**REPUBLIC ACT No. 4182**
+
+ An Act to Change the Name of Eastern Pangasinan Emergency Hospital to Eastern Pangasinan General Hospital
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Eastern Pangasinan Emergency Hospital in the Municipality of Tayug, Province of Pangasinan, is hereby changed to Eastern Pangasinan General Hospital.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: April 21, 1965.
+"	success	Health	An act to rename the Eastern Pangasinan Emergency Hospital to Eastern Pangasinan General Hospital, effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The name of Eastern Pangasinan Emergency Hospital in the Municipality of Tayug, Province of Pangasinan, is hereby changed to Eastern Pangasinan General Hospital.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	4182	April 21, 1965			To change the name of Eastern Pangasinan Emergency Hospital to Eastern Pangasinan General Hospital.	"[""Name change of Eastern Pangasinan Emergency Hospital to Eastern Pangasinan General Hospital""]"		"[""Health"", ""Hospital"", ""Name Change"", ""Pangasinan""]"	"[""Eastern Pangasinan"", ""Emergency Hospital"", ""General Hospital"", ""Name Change"", ""Pangasinan"", ""Hospital""]"
+repacts:datasets/markdown/repacts/1965/ra_4183_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4183_1965.md	ra_4183_1965	An Act to Changing the Name of Inudaran Central Elementary School in the Municipality of Marantao, Province of Lanao del Sur, to Sultan Guro Central Elementary School	"**REPUBLIC ACT No. 4183**
+
+ An Act to Changing the Name of Inudaran Central Elementary School in the Municipality of Marantao, Province of Lanao del Sur, to Sultan Guro Central Elementary School
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Inudaran Central Elementary School in the Municipality of Marantao, Province of Lanao del Sur, is changed to Sultan Guro Central Elementary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: April 21, 1965.
+"	success	Republic Act	An act that changes the name of Inudaran Central Elementary School to Sultan Guro Central Elementary School in Marantao, Lanao del Sur.	"[{""title"": ""Section 1"", ""summary"": ""The name of Inudaran Central Elementary School in the Municipality of Marantao, Province of Lanao del Sur, is changed to Sultan Guro Central Elementary School.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	4183	April 21, 1965			To rename a public elementary school in the Philippines.	"[""Name of Inudaran Central Elementary School changed to Sultan Guro Central Elementary School."", ""Act takes effect upon approval.""]"		"[""Education"", ""Renaming"", ""Philippines""]"	"[""Sultan Guro"", ""Inudaran"", ""Central Elementary School"", ""renaming"", ""Lanao del Sur""]"
+repacts:datasets/markdown/repacts/1965/ra_4184_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4184_1965.md	ra_4184_1965	An Act Authorizing the Appropriation of Two Hundred Thousand Pesos for the Establishment of an Emergency Hospital in Talim Island, Province of Rizal, to be Known as Talim Island Emergency Hospital	"**REPUBLIC ACT No. 4184**
+
+ An Act Authorizing the Appropriation of Two Hundred Thousand Pesos for the Establishment of an Emergency Hospital in Talim Island, Province of Rizal, to be Known as Talim Island Emergency Hospital
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the direct supervision of the Director of Medical Services, an emergency hospital in Talim Island, Province of Rizal, to be known as Talim Island Emergency Hospital.
+
+ **Section 2.** The sum of two hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital during the fiscal year nineteen hundred and sixty-six. Thereafter, such sum as may be needed for the operation and maintenance of the hospital shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: April 21, 1965.
+"	success	Republic Act	Authorizes the appropriation of 200,000 pesos to establish and operate the Talim Island Emergency Hospital in Rizal, effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Establishes an emergency hospital in Talim Island under the supervision of the Director of Medical Services.""}, {""title"": ""Section 2"", ""summary"": ""Authorizes appropriation of 200,000 pesos for the hospital\u2019s establishment, operation and maintenance, and includes future needed funds in the annual General Appropriations Act.""}, {""title"": ""Section 3"", ""summary"": ""The act takes effect upon its approval.""}]"	4184	April 21, 1965			To establish an emergency hospital in Talim Island and provide necessary funding for its operation.	"[""Appropriation of 200,000 pesos for the hospital"", ""Establishment of Talim Island Emergency Hospital"", ""Supervision by Director of Medical Services"", ""Effectiveness upon approval""]"		"[""Healthcare"", ""Emergency Hospital"", ""Rizal"", ""Appropriation""]"	"[""Talim Island"", ""Rizal"", ""Emergency Hospital"", ""Appropriation"", ""National Treasury"", ""Health Services""]"
+repacts:datasets/markdown/repacts/1965/ra_4185_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4185_1965.md	ra_4185_1965	REPUBLIC ACT No. 4185	"**REPUBLIC ACT No. 4185**
+
+ An Act Amending Item (v), Page 476, Subparagraph Thirty, for the Province of Leyte del Sur, Paragraph ""c,"" Section Two of Republic Act Numbered Twenty-Seven Hundred One
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item (v), page four hundred seventy-six, subparagraph thirty, for the Province of Leyte del Sur, paragraph ""c,"" Section two of Republic Act Numbered Twenty-seven hundred one is hereby amended to read as follows:
+
+ > ""(v) Aid to the Municipality of Hinundayan for construction, improvement and/or repair of municipal projects ₱5,000.00""
+
+ **Section 2.** This Act shall take upon its approval.
+
+ Approved: April 21, 1965.
+"	success	Republic Act	An act amending Item (v) of Republic Act No. 2711 to provide aid to the Municipality of Hinundayan, Leyte del Sur.	"[{""title"": ""Section 1."", ""summary"": ""Amends Item (v) to provide \u20b15,000.00 aid for construction, improvement, and repair of municipal projects in Hinundayan.""}, {""title"": ""Section 2."", ""summary"": ""Act takes effect upon approval.""}]"	4185	April 21, 1965			To amend RA 2711 to allocate aid to the Municipality of Hinundayan for municipal projects.	"[""Item (v) of RA 2711 amended to provide \u20b15,000.00 aid for construction, improvement, and repair of municipal projects in Hinundayan.""]"	Republic Act No. 2711	"[""Amendment"", ""Municipal Aid"", ""Leyte"", ""RA 4185""]"	"[""Republic Act"", ""RA 4185"", ""Item (v)"", ""Municipality of Hinundayan"", ""Leyte del Sur"", ""aid"", ""municipal projects"", ""construction"", ""improvement"", ""repair""]"
+repacts:datasets/markdown/repacts/1965/ra_4186_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4186_1965.md	ra_4186_1965	"An Act to Further Amend Republic Act Numbered Twenty Hundred and Forty-Six, Entitled ""An Act Creating a Public Corporation to be Known as the Communications and Electricity Development Authority, Cavite"""	"**REPUBLIC ACT No. 4186**
+
+ An Act to Further Amend Republic Act Numbered Twenty Hundred and Forty-Six, Entitled ""An Act Creating a Public Corporation to be Known as the Communications and Electricity Development Authority, Cavite""
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section two of Republic Act Numbered Twenty hundred and forty-six, as amended, is further amended by amending subparagraph (j) thereof and adding thereto subparagraphs (n), (o), (p) and (q) which shall read as follows:
+
+ > ""(j) When essential to the proper administration of its corporate affairs or when necessary for the proper transaction of its business or for carrying out the purposes for which it was organized, to contract indebtedness, locally or from foreign governments or financing institutions, and issue bonds, subject to the approval of the Provincial Governor of Cavite and the Secretary of Finance. The government of the Republic of the Philippines hereby guarantees the payment of both the principal and interest of the indebtedness incurred by the Communications and Electricity Development Authority (CEDA), Cavite, with foreign governments or financing institutions. The bonded indebtedness of the Authority, of all classes, shall not at any time exceed fifty million pesos, and the issue thereof shall be subject to the conditions set forth in Section five of this Act;
+>
+>  ""(n) When requested in a resolution of a municipality of an adjoining province, to extend its facilities and services beyond the zone of jurisdiction mentioned in Section one of this Act;
+>
+>  ""(o) To acquire and own equipment and materials needed in the implementation of its electrification and communications projects without cost under Republic Act Numbered Seventeen hundred and eighty-nine;
+>
+>  ""(p) To issue and sell shares of stock to its consumers and local governments within its zone of jurisdiction: *Provided,* That when such shares of stocks already constitute fifty per centum of the value of the Authority, the stockholders shall be entitled to elect the members of the board representing the consumers: *Provided, further,* That no consumer shall own a share of more than one-tenth of one per centum of the Authority.
+>
+>  ""(q) To enter into agreements with other power agencies, whether privately or government owned, for the latter to supply the authority with electric power that it may need and for the authority to channel to the other power agencies such excess electric power as it may generate from its plants.""
+
+ Section 2. Paragraphs (a), (b), (c), (d), and (e) of Section three of the same Act are amended to read as follows:
+
+ > ""(a) *Chairman-General Manager.* The Chairman shall be appointed by the Provincial Governor of Cavite, with the consent of the Public Service Commission, and may be removed for cause by the Public Service Commission. He shall, as ex officio General Manager of the Authority, represent the Authority in all its business matters; shall submit to the Board an annual report and such partial reports as may be required by it or he may see fit to render from time to time, regarding the condition of the business, or of any part of the business of the Communications and Electricity Development Authority, Cavite, and shall perform such other executive duties as may be prescribed by law or may be required of him by resolution of the Board.
+>
+>  ""(a-1) *Assistant General Managers.* There shall be two Assistant General Managers. One of them, who shall at least be an electrical engineer, shall be in-charge of operation and shall be appointed by the Provincial Governor of Cavite with the consent of the National Power Board and may be removed for cause by the said National Power Board. The other, who shall at least be a lawyer-accountant, shall be in-charge of business management and administration and shall be appointed by the Provincial Governor of Cavite with the consent of the Public Service Commission and may be removed for cause by the Public Service Commission. They shall both be entitled to sit and take part in the meetings of the Board; but may not vote: *Provided,* However, That the Board shall designate which of the two Assistant General Managers shall act as Chairman-General Manager in case of the temporary disability or absence of the regular incumbent, and in such case, the Assistant General Manager so chosen shall have the right to vote in the absence or disability of the Chairman-General Manager.
+>
+>  ""(b) *Board Member-Engineer.* One member of the Board shall at least be an electrical engineer, who shall be appointed by the Provincial Governor of Cavite with the consent of the National Power Board, and may be removed for cause by the said National Power Board. He shall perform such other duties as may be required of him by the Board.
+>
+>  ""(c) *Board Member-Treasurer.* One member of the Board shall possess knowledge of business management and finance, who shall be appointed by the Provincial Governor of Cavite, with the consent of the Board of Directors of the Development Bank of the Philippines, and may be removed for cause by the said Board of Directors. He shall, as ex officio treasurer of the Authority, perform such duties as may be required of him by the Board or by the General Manager.

@@ -1,0 +1,131 @@
+repacts:datasets/markdown/repacts/1949/ra_411_1949.md	repacts	1949		datasets/markdown/repacts/1949/ra_411_1949.md	ra_411_1949	An Act Granting Nilda E. Martinez a Franchise for an Electric Light, Heat and Power System in Masbate, Masbate	"**[ REPUBLIC ACT NO. 411, June 18, 1949 ]**
+
+ AN ACT TO PROVIDE FOR THE ESTABLISHMENT, OPERATION AND MAINTENANCE OF MUNICIPAL LIBRARIES THROUGHOUT THE PHILIPPINES, APPROPRIATING FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** For the establishment, operation and maintenance of one thousand municipal libraries for a period of five years by the Bureau of Public Libraries, the sum of three hundred thousand pesos, or so much thereof as may be necessary, is hereby appropriated yearly out of the General Fund in the National Treasury not otherwise appropriated for a period of five years, which shall not be affected by any priority appropriation established by law to be spent as follows:
+
+ > For two hundred municipal libraries for the fiscal year 1949-1950:
+>
+>  | (1) | Salaries and wages: |  |  |
+> | --- | --- | --- | --- |
+> | Eight cataloguers at P1,800 per annum. | P14,400.00 |  |  |
+> | Four clerk-typists at P900 per annum | 3,600.00 | P18.000.00 |  |
+> | (2) | Sundry expenses: |  |  |
+> | Traveling expenses of personnel | P20,000.00 |  |  |
+> | Freight, express and delivery service | 10,000.00 |  |  |
+> | Postal, telegraph, telephone, cable and radio service | 5,000.00 |  |  |
+> | Other services | 5,000.00 |  |  |
+> | Supplies and materials for binding books | 10,000.00 | P50.000.00 |  |
+> | (3) | Purchase of furniture and equipment |  | 15,000.00 |
+> | (4) | Purchase of books |  | 217,000.00 |
+> | Total | P300,000.00 =========== |  |  |
+>
+>  The amount to be spent from this appropriation corresponding to the fiscal years 1950-1951, 1951-1952, 1952-1953, and 1953-1954 shall be included in the subsequent General Appropriation Acts corresponding to said fiscal years.
+
+ **Section 2.** The Director of Bureau of Public Libraries shall apportion the libraries provided for in this Act among the several provinces in proportion to their respective population; and the share of each province shall in turn be divided among the municipalities thereof also in proportion to their respective population.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved, June 18, 1949.
+"	success	Republic Act	Republic Act No. 407 grants Nilda E. Martinez a 25‑year franchise to construct, maintain and operate an electric light, heat and power system in Masbate, with provisions for possible government takeover.	"[{""title"": ""Section 1."", ""summary"": ""Grants franchise to Nilda E. Martinez for 25 years to build and operate an electric light, heat, and power system within Masbate.""}, {""title"": ""Section 2."", ""summary"": ""Allows the government to take over the plant and enterprise, requiring the grantee to surrender the franchise and hand over equipment at cost.""}, {""title"": ""Section 3."", ""summary"": ""Act takes effect upon its approval.""}]"	407	June 18, 1949			To grant a franchise for the construction and operation of an electric power system in Masbate, ensuring local energy supply and allowing future government takeover.	"[""Grants a 25\u2011year franchise to Nilda E. Martinez for electric light, heat and power system."", ""Provides for government takeover of the plant and equipment at cost."", ""Effectivity upon approval.""]"	Act Numbered Thirty-six hundred and thirty-six as amended by Commonwealth Act Numbered One hundred and thirty-two	"[""Electricity"", ""Franchise"", ""Masbate"", ""1949"", ""Republic Act""]"	"[""electric light"", ""heat"", ""power system"", ""franchise"", ""Masbate"", ""Nilda E. Martinez""]"
+repacts:datasets/markdown/repacts/1949/ra_412_1949.md	repacts	1949		datasets/markdown/repacts/1949/ra_412_1949.md	ra_412_1949	An Act to Amend Paragraph F of Section One of Republic Act Numbered Sixty-Two	"**REPUBLIC ACT No. 412**
+
+ **An Act Providing for the Establishment of a School of Fisheries in the Municipality of Tabaco, Province of Albay, and Appropriating the Necessary Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established under the direct supervision of the Director of Fisheries, a school of fisheries in the Municipality of Tabaco, Province of Albay, to be known as the Bicol School of Fisheries.
+
+ **Section 2.** The Director of Fisheries shall be ex-officio dean of the Bicol School of Fisheries, serving in such capacity without additional compensation. Subject to the approval of the Secretary of Agriculture and Natural Resources, the Director of Fisheries is authorized to detail to said school such officers and employees of the Bureau of Fisheries as may be necessary and to employ experts in fishing for the purpose of giving instruction to the students therein.
+
+ **Section 3.** The Secretary of Agriculture and Natural Resources shall promulgate such rules and regulations not inconsistent with law as may be necessary to carry into effect the purposes of this Act.
+
+ **Section 4.** The sum of one hundred fifty thousand pesos, or so much thereof as may be necessary, is hereby appropriated out of any funds in the National Treasury not otherwise appropriated to carry into effect the purposes of this Act during the fiscal year nineteen hundred and fifty. Thereafter, the necessary amount for the operation of said school shall be included in the Annual General Appropriation Acts.
+
+ **Section 5.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1949.
+"	success	Republic Act	This law amends paragraph F of section one of Republic Act No. 62 to clarify the handling of securities whose ownership is not proven within a specified period, the role of the Securities and Exchange Commission (SEC), and the treatment of such securities as treasury stock.	"[{""title"": ""Section 1"", ""summary"": ""Paragraph F of section one of RA 62 is amended to state that securities for which ownership has not been proven within the prescribed period will be turned over to and held in trust by the SEC for three years. Litigation pending at the time of this transfer is not affected and may continue until final judgment. The SEC will entertain ownership claims and require issuers to issue new certificates to satisfied claimants. After the three\u2011year period, securities without proven ownership or abandoned claims will be returned to the issuer and become treasury stock. The subject matter of any litigation will also become treasury stock upon final judgment unless adjudicated otherwise.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	408	June 18, 1949			To amend paragraph F of section one of RA 62 concerning the disposition of unclaimed securities and the SEC’s role in handling them.	"[""Securities with unproven ownership are held in SEC trust for three years"", ""Pending litigation remains unaffected and may continue"", ""SEC will entertain ownership claims and issue new certificates"", ""After three years, unclaimed securities return to issuer as treasury stock"", ""Litigation subject matter becomes treasury stock upon final judgment unless otherwise adjudicated""]"	Republic Act No. 62	"[""Amendment"", ""Securities"", ""SEC"", ""Treasury Stock"", ""Ownership""]"	"[""securities"", ""ownership"", ""SEC"", ""treasury stock"", ""law amendment""]"
+repacts:datasets/markdown/repacts/1949/ra_413_1949.md	repacts	1949		datasets/markdown/repacts/1949/ra_413_1949.md	ra_413_1949	An Act to Revise the Charter of the City of Manila, and for Other Purposes	"**REPUBLIC ACT No. 413**
+
+ **An Act Appropriating Three Hundred Thousand Pesos for Additional Personnel of the Bureau of Fisheries in Connection with the Campaign Against Illegal Fishing, the Establishment of Provincial Administrative Stations, Fishery Technological Stations, Fishery Biological Stations, Experimental and Demonstration Fish Farms, and Other Fishery Projects**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Out of any funds in the National Treasury not otherwise appropriated, there is hereby appropriated the sum of three hundred thousand pesos to be expended by the Director of the Bureau of Fisheries upon approval by the Secretary of Agriculture and Natural Resources for the employment of additional personnel of the Bureau of Fisheries in connection with the (1) campaign against illegal fishing, (2) the establishment of provincial administrative stations, (3) fishery technological stations, (4) fishery biological stations, (5) experimental and demonstration fish farms and other fishery projects.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1949.
+"	success	Revised Charter	This Act revises the charter of the City of Manila, establishing it as a public corporation with perpetual succession, defining its general powers, liabilities, boundaries, and other provisions to govern the city.	"[{""title"": ""Preliminary Article"", ""summary"": ""The act is known as the Revised Charter of the City of Manila.""}, {""title"": ""Article I: The City as a Public Corporation"", ""summary"": ""The City of Manila is constituted as a political body corporate with perpetual succession, endowed with powers of a municipal corporation, and granted general powers, liability limits, and defined boundaries.""}]"	409				To revise and modernize the charter of the City of Manila, clarifying its corporate status, powers, boundaries, and responsibilities.	"[""Establishes the City of Manila as a public corporation with perpetual succession."", ""Defines general powers such as holding, leasing, and disposing of property."", ""Sets limits on liability for damages by city officials."", ""Specifies the boundaries of the city in detail."", ""Provides for a common seal and its usage.""]"	Revised Charter of the City of Manila	"[""Revised Charter"", ""Local Government"", ""City of Manila""]"	"[""charter"", ""public corporation"", ""municipality"", ""boundaries"", ""powers"", ""law"", ""government""]"
+repacts:datasets/markdown/repacts/1949/ra_414_1949.md	repacts	1949		datasets/markdown/repacts/1949/ra_414_1949.md	ra_414_1949	An Act to Amend Section Nineteen Hundred and Thirty-Two of the Revised Administrative Code, so as to Provide for the Assignment and Fixing of Compensation of Inspectors of the Bureau of Posts, and for Other Purposes	"**REPUBLIC ACT No. 414**
+
+ **An Act Appropriating the Sum of One Hundred Fifty Thousand Pesos for the Promotion of Home Industries and the Revival as Well as Operation and Maintenance of the Craftsman Section of the Vocational Education Division in the Bureau of Public Schools**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sum of one hundred and fifty thousand pesos, or so much thereof as may be necessary, is hereby appropriated out of any available funds in the National Treasury not otherwise appropriated, for the promotion of home industries and the revival as well as operation and maintenance of the Craftsman Section of the Vocational Education Division, Bureau of Public Schools, said sum to be expended by the Director of Public Schools, with the approval of the Secretary of Education, for the fiscal year ending June thirtieth, nineteen hundred and fifty. Thereafter, said sum shall be included in the Annual General Appropriation Acts.
+
+ The sum herein appropriated shall not be released except upon the certification of the Secretary of Finance and the Auditor General as to the availability of funds in excess of those necessary for the operation of the Government as provided in the annual General Appropriation Act.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1949.
+"	success	Republic Act	Republic Act No. 410 amends Section 1932 of the Revised Administrative Code to establish compensation scales for inspectors of the Bureau of Posts, create assistant and supervising inspector positions, and supersedes existing inspector positions, effective July 1, 1949.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 1932 to specify compensation amounts for inspectors in Manila and provinces, establishes assistant inspectors in Manila, supervising inspectors, and a chief supervising inspector.""}, {""title"": ""Section 2"", ""summary"": ""Supersedes existing inspector positions and allows adjustment of funds from the postal service expansion budget for fiscal year 1949-1950.""}, {""title"": ""Section 3"", ""summary"": ""Sets qualifications for appointees: at least first grade civil service eligible or equivalent, or postal inspector examination passed, with additional qualifications as prescribed.""}, {""title"": ""Section 4"", ""summary"": ""Effectivity date: July 1, 1949.""}]"	410	1949-06-18			To amend Section 1932 of the Revised Administrative Code to provide for the assignment and fixing of compensation of inspectors of the Bureau of Posts, and for other purposes	"[""Establishes compensation scales for inspectors in Manila and provinces"", ""Creates assistant inspectors in Manila"", ""Creates supervising inspectors and a chief supervising inspector"", ""Supersedes existing inspector positions"", ""Adjusts funds from postal service expansion budget""]"	Revised Administrative Code, Section 1932	"[""Bureau of Posts"", ""Compensation"", ""Inspector"", ""Postal Service"", ""Administrative Code"", ""Republic Act""]"	"[""Revised Administrative Code"", ""Section 1932"", ""Bureau of Posts"", ""Inspector compensation"", ""Postal Service"", ""Republic Act 410"", ""1949""]"
+repacts:datasets/markdown/repacts/1949/ra_415_1949.md	repacts	1949		datasets/markdown/repacts/1949/ra_415_1949.md	ra_415_1949	AN ACT TO PROVIDE FOR THE ESTABLISHMENT, OPERATION AND MAINTENANCE OF MUNICIPAL LIBRARIES THROUGHOUT THE PHILIPPINES, APPROPRIATING FUNDS THEREFOR.	"**REPUBLIC ACT No. 415**
+
+ **An Act Appropriating the Sum of Five Hundred Thousand Pesos for the Operation and Maintenance of the Teacher Training Departments of the Existing National Schools of Arts and Trades and the Creation of Teacher Training Departments in the Central Luzon Agricultural School, Baybay National Agricultural School, Bukidnon National Agricultural School, and the Philippine School of Commerce, for the Training of Teachers of Industrial Arts, Trades, Agriculture, and Business, Respectively, for Both the Elementary and the Secondary Schools**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sum of five hundred thousand pesos, or so much thereof as may be necessary, is hereby appropriated out of any available funds in the National Treasury not otherwise appropriated, for the operation and maintenance of the Teacher Training Departments of the existing national schools of arts and trades and the creation of teacher-training departments in the Central Luzon Agricultural School, Baybay National Agricultural School, Bukidnon National Agricultural School, and the Philippine School of Commerce, for the training of teachers of industrial, arts, trades, agriculture, and business, respectively, for both the elementary and the secondary schools, said sum to be expended by the Director of Public Schools subject to the approval of the Secretary of Education for the fiscal year ending June thirtieth, nineteen hundred and fifty. Thereafter, said sum shall be included in the Annual General Appropriation Acts.
+
+ The sum herein appropriated shall not be released except upon the certification of the Secretary of Finance and the Auditor General as to the availability of funds in excess of those necessary for the operation of the Government as provided in the annual General Appropriation Act.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1949.
+"	success	Republic Act	An act appropriating funds for the establishment, operation, and maintenance of one thousand municipal libraries over a five-year period.	"[{""title"": ""Section 1."", ""summary"": ""Appropriates 300,000 pesos annually for the establishment, operation, and maintenance of 1,000 municipal libraries over five years, with a detailed budget for 200 libraries for FY 1949-1950 and provisions for subsequent years.""}, {""title"": ""Section 2."", ""summary"": ""Mandates the Director of the Bureau of Public Libraries to apportion libraries among provinces and municipalities proportionally to population.""}, {""title"": ""Section 3."", ""summary"": ""Specifies that the act takes effect upon approval.""}]"	411	June 18, 1949			To provide for the establishment, operation, and maintenance of municipal libraries throughout the Philippines through the allocation of appropriated funds.	"[""Appropriation of 300,000 pesos annually for 5 years"", ""Establishment of 1,000 municipal libraries"", ""Detailed budget for 200 libraries FY 1949-1950"", ""Allocation of funds for subsequent fiscal years"", ""Director to apportion libraries by population""]"		"[""Libraries"", ""Public Service"", ""Appropriation"", ""Education""]"	"[""municipal libraries"", ""public libraries"", ""appropriation"", ""Bureau of Public Libraries"", ""Philippines""]"
+repacts:datasets/markdown/repacts/1949/ra_416_1949.md	repacts	1949		datasets/markdown/repacts/1949/ra_416_1949.md	ra_416_1949	An Act Providing for the Establishment of a School of Fisheries in the Municipality of Tabaco, Province of Albay, and Appropriating the Necessary Funds Therefor	"**REPUBLIC ACT No. 416**
+
+ **An Act for the Purpose of Converting the Present Philippine Normal School into the Philippine Normal College, Conferring the Degrees of Bachelor of Science in Elementary Education and Master of Arts in Education, Providing for a Board of Trustees, Defining the Boards Responsibilities and Duties, Providing Professional and Technical Instruction, and for Other Purposes**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The present Philippine Normal School, located in the City of Manila, Philippines, is hereby converted into the Philippine Normal College, which will offer not only its present two-year general and three-year combined curricula but also a four-year and a five-year courses leading to the degrees of Bachelor of Science in Elementary Education and Master of Arts in Education, respectively.
+
+ **Section 2.** The purpose of the said college shall be to provide professional, technical, and special instruction, for special purposes and progressive leadership in the field of elementary education.
+
+ **Section 3.** The head of this institution shall be known as the President of the Philippine Normal College. He shall be appointed by the President of the Philippines upon the recommendation of the Board of Trustees. The powers and duties of the President of the College, in addition to those specifically provided for in this Act, shall be those usually pertaining to the office of the president of a college.
+
+ **Section 4.** The government of said college is hereby vested in a Board of Trustees of the Philippine Normal College. The Board of Trustees shall be composed of the Secretary of Education, who shall be ex-officio Chairman of the Board, the Chairman of the Committee on Education of the Senate, the Chairman of the Committee on Education of the House of Representatives, the Director of Public Schools, the President of the College, and the President of the Philippine Normal School Alumni Association.
+
+ Members of the Board shall serve without compensation, other than actual and necessary expenses incurred either in attendance upon meetings of the Board or upon other official business authorized by resolution of the Board.
+
+ **Section 5.** The Board of Trustees shall have the following powers and duties, in addition to its general powers of administration:
+
+ (a) To receive and appropriate to the ends specified by law such sums as may be provided by law for the support of the College; (b) To confer the degrees of Bachelor of Science in Elementary Education and Master of Arts in Education to successful candidates for graduation; (c) To appoint, on the recommendation of the President of the College, instructors, professors, lecturers, and other employees of the College; to fix their compensation, hours of service and such other duties and conditions as it may deem proper; to grant to them, in its discretion, leave of absence under such regulations as it may promulgate, any other provisions of law notwithstanding, and to remove them for cause after an investigation and hearing shall have been had; (d) To approve the curricula and rules of discipline drawn up by the College Council as hereinafter provided; (e) To fix the tuition fees required of students, as well as matriculation fees, graduation fees and fees for laboratory courses, and all special fees, and to remit the same in special cases; (f) To provide fellowships for faculty members and scholarships to students showing special evidence of merit; (g) To provide rules for its own government, and to enact for the government of the College such general ordinances and regulations, not contrary to law, as are consistent with the purposes of the College, as defined in section two of this Act; (h) To receive in trust legacies, gifts, and donations of real and personal property of all kinds and to administer the same for the benefit of the College or for aid to any students, in accordance with the directions and instructions of the donor, and, in default thereof, in such manner as the Board of Trustees may in its discretion determine. **Section 6.** A quorum of the Board of Trustees shall consist of a majority of all the members. All process against the Board of Trustees shall be served on the president or secretary thereof.
+
+ **Section 7.** On or before the fifteenth of June of each year, the Board of Trustees shall file with the President of the Philippines a detailed report, selling forth the progress, conditions, and needs of the College.
+
+ **Section 8.** There shall be a College Council consisting of the President of the College and of all instructors and professors of the College. The Council shall have the power to prescribe the curricula and rules of discipline, subject to the approval of the Board of Trustees. It shall fix the requirements for admission to the College, as well as for graduation and the receiving of a degree. The Council alone shall have the power to recommend students or others to be recipients of degrees. Through its president or committee, it shall have disciplinary power over the students within the limits prescribed by the rules of discipline approved by the Board of Trustees.
+
+ **Section 9.** The body of instructors and professors of the College shall constitute the faculty of the college, with the President of the College as the presiding officer. In the appointment of professors or instructors of the College, no religious test shall be applied, nor shall the religious opinions or affiliations of the faculty of the College be made a matter of examination or inquiry: *Provided,* However, That no instructor or professor in the College shall inculcate sectarian tenets in any of the teachings, nor attempt either directly or indirectly, under penalty of dismissal by the Board of Trustees, to influence students or attendants at the College for or against any particular church or religious sect.
+
+ **Section 10.** Professors and other regular instructors in the College shall be exempt as such from any civil service examinations or regulations as a requisite to appointment.
+
+ **Section 11.** There shall be a secretary of the College, appointed by the Board of Trustees. He shall be the secretary of such Board and also of the College, and shall keep such records of the college as may be designated by the Board.
+
+ **Section 12.** Heads of bureaus or offices of the National Government are hereby authorized to loan or transfer, upon request of the President of the College, such apparatus or supplies as may be needed by the College, and to detail employees for duty therein, when in the judgment of the head of the bureau or office such supplies or employees can be spared without serious detriment to the public service.
+
+ **Section 13.** The President of the College, with the cooperation of the Superintendent of City Schools of Manila, may use one or more of the elementary schools in the City of Manila, as training or laboratory schools of the College.
+
+ **Section 14.** In order not to interrupt the smooth functioning of the two-year general curriculum and the three-year combined curriculum of the Philippine Normal School, the faculty of the school, consisting of the instructors and critic teachers, as well as the other personnel, shall be absorbed by the new College. Salaries of this personnel shall be adjusted at the discretion of the Board of Trustees within the amount available for appropriation.
+
+ **Section 15.** For carrying out the purposes and provinces of this Act, the sum of seven hundred fifty thousand pesos is hereby appropriated from any funds in the National Treasury not otherwise appropriated for the fiscal year 1949-1950.
+
+ The sum herein appropriated shall not be released except upon the certification of the Secretary of Finance and the Auditor General as to the availability of funds in excess of those necessary for the operation of the Government as provided in the annual General Appropriation Act for the fiscal year 1949-1950.
+
+ **Section 16**. This Act shall take effect on July 1, 1949.

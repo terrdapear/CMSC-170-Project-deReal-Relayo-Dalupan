@@ -1,0 +1,166 @@
+
+ **Section 20.** *Appropriations.* - The amount necessary to carry out the initial implementation of this Act shall be charged against the current year's appropriations of the DOST-PHILVOLCS. Thereafter, such amount needed for the continued implementation of the PHILVOLCS Modernization Program shall be included in the annual GAA.
+
+ **Section 21.** *Implementing Rules and Regulations.* - Within ninety (90) days from the effectivity of this Act, the PHILVOLCS, in consultation with relevant stakeholders, shall formulate the rules and regulations to effectively implement the provisions of this Act.
+
+ **Section 22.** *Separability Clause.* - If any provision or part of this Act is declared unconstitutional, the remainder hereof not otherwise affected shall remain in full force and effect.
+
+ **Section 23.** *Repealing Clause.* - All laws, presidential decrees, executive orders, letters of instruction, proclamations, or administrative regulations that are inconsistent with the provisions of this Act are hereby repealed, amended, or modified accordingly.
+
+ **Section 24.** *Effectivity.* - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **FERDINAND MARTIN G. ROMUALDEZ** Speaker of the House of Representatives | (SGD.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate |
+
+ This Act, which is a consolidation of Senate Bill No. 2825 and House Bill No. 10730, was passed by the Senate of the Philippines and the House of Representatives on February 4, 2025.
+
+ | (SGD.) **REGINALD S. VELASCO** Secretary General House of Representatives | (SGD.) **RENATO N. BANTUG, JR.** Secretary of the Senate |
+
+ Approved: APR 24 2025
+
+ (SGD.) **FERDINAND ROMUALDEZ MARCOS JR.** President of the Philippines
+"	success	Republic Act	The act modernizes PHILVOLCS by allocating funds, upgrading equipment, expanding monitoring stations, enhancing personnel training, and establishing a data center to improve disaster risk reduction and management.	"[{""title"": ""Section 1. Short Title"", ""summary"": ""Defines the short title of the act as \""PHILVOLCS Modernization Act\"".""}, {""title"": ""Section 2. Declaration of Policy"", ""summary"": ""States the policy to utilize geoscience knowledge for safety, environmental protection, and national progress, and to strengthen PHILVOLCS capabilities.""}, {""title"": ""Section 3. Objectives"", ""summary"": ""Lists objectives for modernization, including equipment upgrades, personnel training, expansion of monitoring stations, data center, research, and public outreach.""}, {""title"": ""Section 4. Definition of Terms"", ""summary"": ""Provides definitions for terms such as Disaster Risk, Hazard, Risk Transfer, Seismology, Tsunami, Volcanology, Vulnerability, and Whole-of-Government Approach.""}]"	12180	April 24, 2025			To modernize the Philippine Institute of Volcanology and Seismology and enhance its capacity to monitor and mitigate geohazard risks.	"[""Appropriates funds for PHILVOLCS modernization"", ""Upgrades equipment and facilities"", ""Expands seismic and volcanic monitoring stations"", ""Establishes a state-of-the-art data center"", ""Provides training for PHILVOLCS personnel"", ""Enhances public warning and information systems""]"		"[""Disaster Risk Management"", ""Geoscience"", ""Modernization"", ""PHILVOLCS""]"	"[""PHILVOLCS"", ""modernization"", ""seismology"", ""volcanology"", ""disaster risk reduction"", ""monitoring"", ""equipment"", ""data center"", ""funds""]"
+repacts:datasets/markdown/repacts/2025/ra_12181_2025.md	repacts	2025		datasets/markdown/repacts/2025/ra_12181_2025.md	ra_12181_2025	Adjusted DFA Retirement Benefits Act	"[ REPUBLIC ACT NO. 12181, May 02, 2025 ]
+
+ AN ACT ADJUSTING THE MONTHLY BENEFITS OF THE RETIREES OF THE DEPARTMENT OF FOREIGN AFFAIRS
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** *Short Title.* - This Act shall be known as the ""Adjusted DFA Retirement Benefits Act"".
+
+ **Section 2.** *Coverage.* - This Act shall apply to retired officers and employees of the Department of Foreign Affairs (DFA) who are receiving a monthly pension from the Government Service Insurance System (GSIS) and those who opted to retire under Republic Act No. 1616: *Provided,* That said retired officers and employees are Filipino citizens, who have reached sixty-five (65) years of age, and served the DFA for at least fifteen (15) years at the time of their retirement.
+
+ All other DFA officer and employees who have retired but have not met all abovementioned qualifications shall be covered by applicable benefits under existing laws and regulations.
+
+ **Section 3.** *Monthly Pension Differential and Gratuity Benefit.* -
+
+ (a) The DFA retirees receiving monthly pension from the GSIS shall receive a monthly pension differential (MPD). The MPD shall be the difference between the adjusted monthly pension computed by the DFA and the actual monthly pension provided by the GSIS to the DFA retiree, to be multiplied by the adjustment factor: *Provided,* That, upon the effectivity of this Act, the adjustment factor shall be equivalent to fifty percent (50%) which may be subject to review after five (5) years of implementation. The MPD shall be computed as follows: MPD = [Adjusted Monthly Pension - Actual GSIS monthly Pension] x Adjustment Factor The adjusted monthly pension is equal to the product of the monthly salary of the active DFA personnel holding the same rank last held by the retiree, based on the updated salary schedule, multiplied by two and one-half percent (2.5%) and the retiree's recorded creditable service in teh DFA: *Provided,* That for the first five (5) years of the implementation of this Act, the monthly salary corresponding to Salary Grade Step 1 of the fourth tranche of Republic Act No. 11466, also known as the ""salary Standardization Law of 2019"" shall serve as the basis for computing the adjusted monthly pension. (b) The DFA retirees who opted to retire under Republic Act No. 1616 shall receive a monthly gratuity benefit equivalent to not more than fifty percent (50%) of the MPD received by other DFA retirees who retired in the same year and held the same rank. The guidelines on the computation of the MPD shall be periodically reviewed by the DFA to ensure feasibility and sustainability and to prevent any adverse or negative impact on the government deficit, consistent with the provisions of Section 7 of this Act. **Section 4.** *Adjustment of Pension Differential.* - Five (5) years after the effectivity of this Act, and every five (5) years thereafter, the MPD, as provided under Section 3(a), may be adjusted: *Provided,* That the funds collected by the DFA under Executive Order No. 906, series of 2010, are sufficient to finance the said adjustment: *Provided, further*, That the pension differential of the DFA retirees shall not be automatically increased whenever there is an annual increase in the salary of the active DFA personnel holding the same rank last held by the retirees.
+
+ **Section 5.** *Exemption from Income Tax, Attachment, Levy, and Garnishment.* - Any benefit granted under this Act shall not, in whole or in part, be subject to income tax, attachment, execution, forfeiture, or retention under any legal or equitable proceeding, nor shall any lien of any kind or under any consideration be imposed thereon.
+
+ **Section 6.** *Survivorship Benefits.* - In the event of the death of a DFA retiree receiving monthly pension from the GSIS and who met the qualifications provided under Section 2 of this Act, the surviving legal spouse, until he or she remarries, and the qualified dependent children or those eighteen (18) years old and above, but suffering from mental pr physical incapacity or any disability that renders them totally dependent on the deceased, shall be entitled to receive survivorship benefits equivalent to a maximum of fifty percent (50%) of the MPD that the deceased retiree was receiving or entitled to receive subject to the survivorship pension guidelines under Republic Act No. 8291, also known as ""The Government Service Insurance System Act of 1997"", and other applicable laws and regulations.
+
+ The DFA shall formulate guidelines on the distribution and release of survivorship pension benefits provided under this Act to qualified dependents of DFA retirees.
+
+ **Section 7.** *Funding.* - The funding requirements for the effective implementation of this Act shall be charged against the applicable fees collected under Executive Order No. 906, series of 2010. The national government shall not be responsible for any deficit that may arise due to insufficiency of this funding source.
+
+ **Section 8.** *Implementing Rules and Regulations.* - Within ninety (90) days after the effectivity of this Act,the DFA shall issue the necessary rules and regulations for its effective implementation.
+
+ **Section 9.** *Separability Clause.* - If any provision of this Act is declared unconstitutional, the remainder hereof not otherwise affected shall remain in full force and effect.
+
+ **Section 10.** *Repealing Clause.* - All laws, presidential decrees, executive orders, letters of instruction, proclamations, or administrative regulations that are inconsistent with the provisions of this Act are hereby repealed, amended, or modified accordingly.
+
+ **Section 11.** *Effectivity.* - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **FERDINAND MARTIN G. ROMUALDEZ** Speaker of the House of Representatives | (SGD.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate |
+
+ This Act, which is a consolidation of Senate Bill No. 2863 and House Bill No. 10466, was passed by the Senate of the Philippines and the House of Representatives on February 4, 2025 and February 5, 2025, respectively.
+
+ | (SGD.) **REGINALD S. VELASCO** Secretary General House of Representatives | (SGD.) **RENATO N. BANTUG, JR.** Secretary of the Senate |
+
+ Approved: MAY 02 2025
+
+ (SGD.) **FERDINAND ROMUALDEZ MARCOS JR.** President of the Philippines
+"	success	Republic Act	The Adjusted DFA Retirement Benefits Act (RA 12181) modifies the monthly benefits of retired Department of Foreign Affairs (DFA) officers and employees by establishing a monthly pension differential (MPD) and a gratuity benefit for those who retired under RA 1616. It provides tax exemptions, survivorship benefits, funding mechanisms, and implementation guidelines to ensure fair and sustainable pension adjustments for DFA retirees.	"[{""title"": ""Short Title"", ""summary"": ""The act is known as the \""Adjusted DFA Retirement Benefits Act.\""""}, {""title"": ""Coverage"", ""summary"": ""Applies to DFA retirees who are Filipino citizens, at least 65 years old, and have served at least 15 years; others are covered under existing laws.""}, {""title"": ""Monthly Pension Differential and Gratuity Benefit"", ""summary"": ""Defines the MPD calculation based on adjusted monthly pension and actual GSIS pension, with a 50% adjustment factor, and provides a gratuity benefit for RA 1616 retirees not exceeding 50% of the MPD.""}, {""title"": ""Adjustment of Pension Differential"", ""summary"": ""Allows MPD adjustments every five years, subject to funding sufficiency under EO 906.""}, {""title"": ""Exemption from Income Tax, Attachment, Levy, and Garnishment"", ""summary"": ""Benefits are exempt from income tax and other legal levies.""}, {""title"": ""Survivorship Benefits"", ""summary"": ""Provides survivorship benefits up to 50% of the MPD for surviving spouses and qualifying dependents, aligned with RA 8291.""}, {""title"": ""Funding"", ""summary"": ""Funding is charged against fees collected under EO 906; the national government bears no deficit responsibility.""}, {""title"": ""Implementing Rules and Regulations"", ""summary"": ""DFA must issue rules within 90 days of effectivity.""}, {""title"": ""Separability Clause"", ""summary"": ""Unconstitutional provisions can be severed without affecting the rest of the act.""}, {""title"": ""Repealing Clause"", ""summary"": ""Repeals or amends inconsistent laws, presidential decrees, EO, letters, proclamations, and regulations.""}, {""title"": ""Effectivity"", ""summary"": ""Effective 15 days after publication in the Official Gazette or a general circulation newspaper.""}]"	12181	May 02, 2025	"[{""name"": ""FERDINAND MARTIN G. ROMUALDEZ"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""FRANCIS \""CHIZ\"" G. ES"", ""title"": """"}]"	To adjust and ensure fair monthly benefits for DFA retirees, providing tax exemptions, survivorship benefits, and sustainable funding mechanisms.	"[""Establishment of a monthly pension differential (MPD)"", ""Gratuity benefit for RA 1616 retirees"", ""Exemption of benefits from income tax and other levies"", ""Survivorship benefits up to 50% of MPD"", ""Funding through fees under EO 906"", ""Implementation rules within 90 days"", ""Effectivity 15 days after publication""]"	Republic Act No. 1616, Republic Act No. 11466, Republic Act No. 8291, Executive Order No. 906, series of 2010	"[""Retirement"", ""Pension"", ""Foreign Affairs"", ""Government Service Insurance System""]"	"[""DFA"", ""retirees"", ""monthly pension"", ""GSIS"", ""MPD"", ""gratuity"", ""survivorship"", ""income tax exemption""]"
+repacts:datasets/markdown/repacts/2025/ra_12182_2025.md	repacts	2025		datasets/markdown/repacts/2025/ra_12182_2025.md	ra_12182_2025	AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY CALABASA, ZAMBOANGA CITY TO BE KNOWN AS THE CALABASA NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR	"[ REPUBLIC ACT NO. 12182, May 02, 2025 ]
+
+ AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY CALABASA, ZAMBOANGA CITY TO BE KNOWN AS THE CALABASA NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There is hereby established, under the supervision of the Department of Education, a national high school in Barangay Calabasa, Zamboanga City, to be known as the Calabasa National High School.
+
+ **Section 2.** The Secretary of Education shall immediately include in the Department's program the operationalization of the Calabasa National High School, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 3.** Within ninety (90) days from the approval of this Act, the Secretary of Education shall formulate the rules and regulations implementing the provisions of this Act. Such implementing rules and regulations shall provide for the school's organization, administration, operations, and management, in accordance with Republic Act No. 9155 or the ""Governance of Basic Education Act of 2001"", Republic Act No. 10533 or the ""Enhanced Basic Education Act of 2013"", and other basic education-related laws.
+
+ **Section 4.** This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate | (SGD.) **FERDINAND MARTIN G. ROMUALDEZ** Speaker of the House of Representatives |
+
+ This Act, which originated in the House of Representatives, was passed by the House of Representatives and the Senate of the Philippines on September 24, 2024 and January 27, 2025, respectively.
+
+ | (SGD.) **RENATO N. BANTUG, JR.** Secretary of the Senate | (SGD.) **REGINALD S. VELASCO** Secretary General House of Representatives |
+
+ Approved: MAY 02 2025
+
+ (SGD.) **FERDINAND ROMUALDEZ MARCOS JR.** President of the Philippines
+"	success	Republic Act	Establishes the Calabasa National High School in Barangay Calabasa, Zamboanga City, under the supervision of the Department of Education, outlines its operationalization, funding, implementation rules, and specifies its effectivity date.	"[{""title"": ""Section 1"", ""summary"": ""Establishment of the Calabasa National High School under DOE supervision.""}, {""title"": ""Section 2"", ""summary"": ""Operationalization and funding of the school, including inclusion in the annual General Appropriations Act.""}, {""title"": ""Section 3"", ""summary"": ""Formulation of implementing rules and regulations within 90 days, aligning with RA 9155, RA 10533, and other basic education laws.""}, {""title"": ""Section 4"", ""summary"": ""Effectivity of the act fifteen days after publication in the Official Gazette or a newspaper of general circulation.""}]"	12182	May 02, 2025	"[{""name"": ""FRANCIS \""CHIZ\"" G. ESCUDERO"", ""title"": ""President of the Senate""}, {""name"": ""FERDINAND MARTIN G. ROMUALDEZ"", ""title"": ""Speaker of the House of Representatives""}]"		To establish a national high school in Barangay Calabasa, Zamboanga City, and appropriate funds for its operation.	"[""Establishment of Calabasa National High School"", ""Operationalization and funding under DOE and inclusion in the General Appropriations Act"", ""Formulation of implementing rules and regulations within 90 days"", ""Effectivity 15 days after publication in the Official Gazette or a newspaper""]"	Republic Act No. 9155 (Governance of Basic Education Act of 2001), Republic Act No. 10533 (Enhanced Basic Education Act of 2013)	"[""Education"", ""High School"", ""Zamboanga City"", ""National School""]"	"[""Calabasa National High School"", ""Department of Education"", ""Funding"", ""Implementation Rules"", ""Effectivity"", ""Republic Act 12182""]"
+repacts:datasets/markdown/repacts/2025/ra_12183_2025.md	repacts	2025		datasets/markdown/repacts/2025/ra_12183_2025.md	ra_12183_2025	"AN ACT UPGRADING THE LAND TRANSPORTATION OFFICE (LTO) DAPA DISTRICT OFFICE INTO A CLASS ""C"" LTO DISTRICT OFFICE, RENAMING THE SAME AS SIARGAO LTO DISTRICT OFFICE AND APPROPRIATING FUNDS THEREFOR"	"[ REPUBLIC ACT NO. 12183, May 02, 2025 ]
+
+ AN ACT UPGRADING THE LAND TRANSPORTATION OFFICE (LTO) DAPA DISTRICT OFFICE INTO A CLASS ""C"" LTO DISTRICT OFFICE, RENAMING THE SAME AS SIARGAO LTO DISTRICT OFFICE AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The existing Land Transportation Office (LTO) district office in the Municipality of Dapa, Province of Siargao del Norte (LTO Dapa District Office) is hereby upgraded into a Class ""C"" LTO District Office and renamed as Siargao LTO District Office.
+
+ **Section 2.** The Secretary of Transportation shall immediately include in the Department's program the operationalization of the Siargao LTO District Office in the First District of the Province of Surigao del Norte, the initial funding of which shall be charged against the current year's appropriation of the LTO Dapa District Office.
+
+ Thereafter, such sums as may be necessary for the continued operation of the Siargao LTO District Office shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate | (SGD.) **FERDINAND MARTIN G. ROMUALDEZ** Speaker of the House of Representatives |
+
+ This Act, which originated in the House of Representatives, was passed by the House of Representatives on August 9, 2023, amended by the Senate of the Philippines on December 18, 2024, and which amendments were concurred in by the House of Representatives on January 21, 2025.
+
+ | (SGD.) **RENATO N. BANTUG, JR.** Secretary of the Senate | (SGD.) **REGINALD S. VELASCO** Secretary General House of Representatives |
+
+ Approved: MAY 02 2025
+
+ (SGD.) **FERDINAND ROMUALDEZ MARCOS JR.** President of the Philippines
+"	success	Republic Act	"The Republic Act No. 12183 upgrades the LTO Dapa District Office in Siargao to a Class ""C"" LTO District Office, renames it as Siargao LTO District Office, and appropriates funds for its operation in the General Appropriations Act."	"[{""title"": ""Section 1"", ""summary"": ""Upgrades the existing LTO Dapa District Office to a Class \""C\"" LTO District Office and renames it Siargao LTO District Office.""}, {""title"": ""Section 2"", ""summary"": ""Mandates the Secretary of Transportation to operationalize the Siargao LTO District Office, charging initial funding against the current year's appropriation of the LTO Dapa District Office, and includes necessary future sums in the annual General Appropriations Act.""}, {""title"": ""Section 3"", ""summary"": ""The Act takes effect fifteen (15) days after its publication in the Official Gazette or a newspaper of general circulation.""}]"	12183	May 02, 2025	"[{""name"": ""FRANCIS \""CHIZ\"" G. ESCUDERO"", ""title"": ""President of the Senate""}, {""name"": ""FERDINAND MARTIN G. ROMUALDEZ"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""RENATO N. BANTUG, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""REGINALD S. VELASCO"", ""title"": ""Secretary General House of Representatives""}]"	"To upgrade and rename the LTO Dapa District Office to a Class ""C"" LTO District Office named Siargao LTO District Office, and to ensure its operational funding through appropriate appropriation."	"[""Upgrade LTO Dapa to Class \""C\"" and rename as Siargao LTO District Office"", ""Immediate operationalization by Secretary of Transportation"", ""Initial funding charged to current year's LTO Dapa appropriation"", ""Future funding included in annual General Appropriations Act"", ""Effective fifteen days after publication""]"		"[""LTO"", ""Transportation"", ""Siargao"", ""Republic Act""]"	"[""Land Transportation Office"", ""Class C"", ""Siargao"", ""appropriation"", ""effective date""]"
+repacts:datasets/markdown/repacts/2025/ra_12184_2025.md	repacts	2025		datasets/markdown/repacts/2025/ra_12184_2025.md	ra_12184_2025	An Act Converting the Extension Office of the Land Transportation Office in Taguig City into a Regular District Office and Appropriating Funds Therefor	"[ REPUBLIC ACT NO. 12184, May 02, 2025 ]
+
+ AN ACT CONVERTING THE EXTENSION OFFICE OF THE LAND TRANSPORTATION OFFICE IN TAGUIG CITY INTO A REGULAR DISTRICT OFFICE AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Land Transportation Office (LTO) Extension Office in Taguig City is hereby converted into a regular district office.
+
+ **Section 2.** The Secretary of Transportation shall immediately include in the Department's program the operationalization of the LTO District Office in Taguig City, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate | (SGD.) **FERDINAND MARTIN G. ROMUALDEZ** Speaker of the House of Representatives |
+
+ This Act, which originated in the House of Representatives, was passed by the House of Representatives on January 23, 2024, amended by the Senate of the Philippines on December 18, 2024, and which amendments were concurred in by the House of Representatives on January 21, 2025.
+
+ | (SGD.) **RENATO N. BANTUG, JR.** Secretary of the Senate | (SGD.) **REGINALD S. VELASCO** Secretary General House of Representatives |
+
+ Approved: MAY 02 2025
+
+ (SGD.) **FERDINAND ROMUALDEZ MARCOS JR.** President of the Philippines
+"	success	Republic Act	The act converts the LTO Extension Office in Taguig City into a regular district office and appropriates funds for its operationalization, with the conversion taking effect fifteen days after publication.	"[{""title"": ""Section 1"", ""summary"": ""Converts the Land Transportation Office (LTO) Extension Office in Taguig City into a regular district office.""}, {""title"": ""Section 2"", ""summary"": ""Mandates the Secretary of Transportation to include the operationalization of the LTO District Office in Taguig City in the Department\u2019s program and to ensure its funding is included in the annual General Appropriations Act.""}, {""title"": ""Section 3"", ""summary"": ""Specifies that the act takes effect fifteen days after its publication in the Official Gazette or a newspaper of general circulation.""}]"	12184	May 02, 2025	"[{""name"": ""FRANCIS \""CHIZ\"" G. ESCUDERO"", ""title"": ""President of the Senate""}, {""name"": ""FERDINAND MARTIN G. ROMUALDEZ"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""RENATO N. BANTUG, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""REGINALD S. VELASCO"", ""title"": ""Secretary General House of Representatives""}]"	To convert the LTO Extension Office in Taguig City into a regular district office and appropriate funds for its operation, thereby improving land transportation services.	"[""Conversion of the LTO Extension Office into a regular district office"", ""Inclusion of operationalization and funding in the Department\u2019s program and GAAP"", ""Effective date fifteen days after publication""]"		"[""Land Transportation Office"", ""Taguig City"", ""Regular District Office"", ""Appropriations"", ""Transportation""]"	"[""LTO"", ""Taguig"", ""District Office"", ""Appropriations"", ""Transportation Law""]"
+repacts:datasets/markdown/repacts/2025/ra_12185_2025.md	repacts	2025		datasets/markdown/repacts/2025/ra_12185_2025.md	ra_12185_2025	An Act Establishing a District Office of the Land Transportation Office in the Municipality of Ubay, in the Second District of Bohol, and Appropriating Funds Therefor	"[ REPUBLIC ACT NO. 12185, May 02, 2025 ]
+
+ AN ACT ESTABLISHING A DISTRICT OFFICE OF THE LAND TRANSPORTATION OFFICE IN THE MUNICIPALITY OF UBAY, IN THE SECOND DISTRICT OF BOHOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established a district office of the Land Transportation Office (LTO) in the Municipality of Ubay, Province of Bohol.
+
+ **Section 2.** The Secretary of Transportation shall immediately include in the Department's program the operationalization of the LTO District Office in the Municipality of Ubay, Province of Bohol, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate | (SGD.) **FERDINAND MARTIN G. ROMUALDEZ** Speaker of the House of Representatives |
+
+ This Act, which originated in the House of Representatives, was passed by the House of Representatives on January 23, 2024, amended by the Senate of the Philippines on December 17, 2024, and which amendments were concurred in by the House of Representatives on January 21, 2025.
+
+ | (SGD.) **RENATO N. BANTUG, JR.** Secretary of the Senate | (SGD.) **REGINALD S. VELASCO** Secretary General House of Representatives |
+
+ Approved: MAY 02 2025
+
+ (SGD.) **FERDINAND ROMUALDEZ MARCOS JR.** President of the Philippines

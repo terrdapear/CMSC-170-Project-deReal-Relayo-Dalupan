@@ -1,0 +1,151 @@
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Republic Act	Establishes Calamba Community Hospital in Misamis Occidental and authorizes appropriation of funds for its construction, operation, and maintenance.	"[{""title"": ""Section 1"", ""summary"": ""Establishes a community hospital in Calamba under the supervision of the Director of Medical Services.""}, {""title"": ""Section 2"", ""summary"": ""Authorizes appropriation of 100,000 pesos for the hospital's establishment, operation, and maintenance for FY 1967, and future funding.""}, {""title"": ""Section 3"", ""summary"": ""Act takes effect upon approval.""}]"	4936	June 17, 1967			To provide for the establishment of a community hospital and authorize funding for its operation.	"[""Authorizes appropriation of 100,000 pesos for the hospital."", ""Establishes the Calamba Community Hospital under the Director of Medical Services."", ""The act takes effect upon approval.""]"		"[""Healthcare"", ""Community Hospital"", ""Public Health"", ""Misamis Occidental"", ""Funding""]"	"[""Community Hospital"", ""Misamis Occidental"", ""Calamba"", ""appropriation"", ""public health""]"
+repacts:datasets/markdown/repacts/1967/ra_4937_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_4937_1967.md	ra_4937_1967	An Act Increasing the Bed Capacity of Northern Samar General Hospital in the Municipality of Catarman, Province of Samar, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 4937**
+
+ An Act Increasing the Bed Capacity of Northern Samar General Hospital in the Municipality of Catarman, Province of Samar, and Authorizing the Appropriation of Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The bed capacity of Northern Samar General Hospital in the Municipality of Catarman, Province of Samar, is hereby increased from fifty to seventy-five beds.
+
+ **Section 2.** The sum of one hundred thirty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, to carry out the purposes of this Act, for fiscal year nineteen hundred sixty-seven, in addition to its existing appropriations. Thereafter, said sum shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Republic Act	This act increases the bed capacity of Northern Samar General Hospital from fifty to seventy-five beds and appropriates one hundred thirty thousand pesos for fiscal year 1967 to support the expansion, becoming effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The bed capacity of Northern Samar General Hospital in the Municipality of Catarman, Province of Samar, is hereby increased from fifty to seventy-five beds.""}, {""title"": ""Section 2"", ""summary"": ""The sum of one hundred thirty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, to carry out the purposes of this Act, for fiscal year nineteen hundred sixty-seven, in addition to its existing appropriations. Thereafter, said sum shall be included in the annual General Appropriations Act.""}, {""title"": ""Section 3"", ""summary"": ""This Act shall take effect upon its approval.""}]"	4937	June 17, 1967			To increase the bed capacity of Northern Samar General Hospital and authorize the appropriation of funds necessary for its expansion.	"[""Increase bed capacity from 50 to 75 beds"", ""Appropriation of \u20b1130,000 for FY 1967"", ""Effective upon approval""]"		"[""Healthcare"", ""Hospital"", ""Bed Capacity"", ""Appropriation"", ""Northern Samar""]"	"[""bed capacity"", ""hospital"", ""Northern Samar"", ""Catarman"", ""appropriation"", ""Republic Act 4937""]"
+repacts:datasets/markdown/repacts/1967/ra_4938_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_4938_1967.md	ra_4938_1967	An Act Providing for Four Assistant Provincial Fiscals for the Province of Surigao del Norte, by Further Amending Section Sixteen Hundred Seventy-Four of the Administrative Code	"**REPUBLIC ACT No. 4938**
+
+ An Act Providing for Four Assistant Provincial Fiscals for the Province of Surigao del Norte, by Further Amending Section Sixteen Hundred Seventy-Four of the Administrative Code
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section sixteen hundred seventy-four of the Administrative Code, as amended, is further amended by inserting after the subparagraph relative to the number of assistant provincial fiscals in the Province of Sulu, the following new subparagraph to read as follows:
+
+ > ""Surigao del Norte, four assistant provincial fiscals;""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Republic Act	Amends Section 1674 of the Administrative Code to add four assistant provincial fiscals for Surigao del Norte.	"[{""title"": ""Section 1."", ""summary"": ""Amends Section 1674 of the Administrative Code by inserting a new subparagraph for Surigao del Norte, specifying four assistant provincial fiscals.""}, {""title"": ""Section 2."", ""summary"": ""The Act takes effect upon its approval.""}]"	4938	June 17, 1967			To amend the Administrative Code to provide for four assistant provincial fiscals in Surigao del Norte.	"[""Amend Section 1674 of the Administrative Code to include a new subparagraph for Surigao del Norte, specifying four assistant provincial fiscals.""]"	Administrative Code, Section 1674	"[""Administrative Code"", ""Surigao del Norte"", ""Fiscal"", ""Provincial Fiscal"", ""Republic Act""]"	"[""assistant provincial fiscals"", ""Surigao del Norte"", ""Administrative Code"", ""Section 1674"", ""Republic Act 4938""]"
+repacts:datasets/markdown/repacts/1967/ra_4939_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_4939_1967.md	ra_4939_1967	An Act Providing for the Establishment of a National High School of Fisheries in the District of Tinambacan, City of Calbayog, to be Known as the Tinambacan National School of Fisheries, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 4939**
+
+ An Act Providing for the Establishment of a National High School of Fisheries in the District of Tinambacan, City of Calbayog, to be Known as the Tinambacan National School of Fisheries, and Authorizing the Appropriation of Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the supervision of the Director of Public Schools, a school of fisheries in the District of Tinambacan, City of Calbayog, to be known as the Tinambacan National School of Fisheries.
+
+ **Section 2.** The Secretary of Education shall issue such rules and regulations as may be necessary to carry out the provisions of this Act.
+
+ **Section 3.** The sum of three hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said school during the fiscal year nineteen hundred sixty-seven. Thereafter, such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Republic Act	Establishes the Tinambacan National School of Fisheries, authorizes the appropriation of ₱300,000 for its establishment, operation, and maintenance, and requires the Secretary of Education to issue necessary rules and regulations. The Act takes effect upon approval and was enacted on June 17, 1967.	"[{""title"": ""Section 1."", ""summary"": ""Establishes a school of fisheries in Tinambacan, City of Calbayog, under the supervision of the Director of Public Schools, to be known as the Tinambacan National School of Fisheries.""}, {""title"": ""Section 2."", ""summary"": ""Mandates the Secretary of Education to issue rules and regulations necessary to carry out the provisions of the Act.""}, {""title"": ""Section 3."", ""summary"": ""Authorizes the appropriation of \u20b1300,000 for the establishment, operation, and maintenance of the school during FY1967, with subsequent funds to be included in the General Appropriations Act.""}, {""title"": ""Section 4."", ""summary"": ""States that the Act shall take effect upon its approval.""}]"	4939	June 17, 1967			To establish a national high school of fisheries in Tinambacan, provide necessary funding and regulatory framework, and promote fisheries education in the region.	"[""Establishment of the Tinambacan National School of Fisheries"", ""Authorization of \u20b1300,000 appropriation for establishment, operation, and maintenance"", ""Mandate for Secretary of Education to issue rules and regulations"", ""Act takes effect upon approval""]"		"[""Education"", ""Fisheries"", ""Public School"", ""Appropriations""]"	"[""Tinambacan"", ""National School of Fisheries"", ""Calbayog"", ""Appropriation"", ""Secretary of Education""]"
+repacts:datasets/markdown/repacts/1967/ra_4940_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_4940_1967.md	ra_4940_1967	An Act Providing for the Establishment of a Community Hospital in the Municipality of Maramag, Province of Bukidnon, to be Known as South Bukidnon Community Hospital, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 4940**
+
+ An Act Providing for the Establishment of a Community Hospital in the Municipality of Maramag, Province of Bukidnon, to be Known as South Bukidnon Community Hospital, and Authorizing the Appropriation of Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the supervision of the Director of Medical Services, community hospital in the Municipality of Maramag, Province of Bukidnon, to be known as South Bukidnon Community Hospital.
+
+ **Section 2.** The sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital during the fiscal year nineteen hundred and sixty-seven. Thereafter, such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Republic Act	Establishes South Bukidnon Community Hospital in Maramag, Bukidnon, and authorizes appropriation of funds for its establishment, operation, and maintenance.	"[{""title"": ""Section 1"", ""summary"": ""Establishes a community hospital in Maramag, Bukidnon, to be known as South Bukidnon Community Hospital, under the supervision of the Director of Medical Services.""}, {""title"": ""Section 2"", ""summary"": ""Authorizes the appropriation of one hundred thousand pesos for the establishment, operation, and maintenance of the hospital during the fiscal year 1967, with subsequent funds to be included in the General Appropriations Act.""}, {""title"": ""Section 3"", ""summary"": ""The act shall take effect upon its approval.""}]"	4940	June 17, 1967			To establish a community hospital and allocate funds for its establishment, operation, and maintenance in the Municipality of Maramag, Bukidnon.	"[""Establishment of South Bukidnon Community Hospital"", ""Authorization of appropriation of one hundred thousand pesos for establishment, operation, and maintenance"", ""Effectivity upon approval""]"		"[""healthcare"", ""hospital"", ""community hospital"", ""Bukidnon"", ""public health""]"	"[""community hospital"", ""Bukidnon"", ""Maramag"", ""appropriation"", ""funding"", ""public health""]"
+repacts:datasets/markdown/repacts/1967/ra_4941_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_4941_1967.md	ra_4941_1967	An Act Providing for the Establishment of an Agricultural-Industrial High School in the Municipality of Oroquieta, Province of Misamis Occidental, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 4941**
+
+ An Act Providing for the Establishment of an Agricultural-Industrial High School in the Municipality of Oroquieta, Province of Misamis Occidental, and Authorizing the Appropriation of Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established under the direct supervision of the Director of Vocational Education an agricultural-industrial high school in the Municipality of Oroquieta, Province of Misamis Occidental.
+
+ **Section 2.** The Director of Vocational Education shall issue such rules and regulations as may be necessary to carry out the provisions of this Act.
+
+ **Section 3.** The sum of one hundred fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said high school during the fiscal year nineteen hundred sixty-seven. Thereafter, such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Education	The Republic Act No. 4941 establishes an agricultural-industrial high school in Oroquieta, Misamis Occidental, authorizes the appropriation of funds for its establishment, operation, and maintenance, and sets the act to take effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Establishes an agricultural-industrial high school in Oroquieta under the direct supervision of the Director of Vocational Education.""}, {""title"": ""Section 2."", ""summary"": ""Directs the Director of Vocational Education to issue rules and regulations necessary to carry out the provisions of the Act.""}, {""title"": ""Section 3."", ""summary"": ""Authorizes the appropriation of one hundred fifty thousand pesos for the establishment, operation, and maintenance of the high school during FY 1967 and future needs.""}, {""title"": ""Section 4."", ""summary"": ""States that the Act shall take effect upon its approval.""}]"	4941	June 17, 1967			To establish an agricultural-industrial high school in Oroquieta, Misamis Occidental, and authorize the necessary appropriations for its establishment and operation.	"[""Establishment of a new agricultural-industrial high school in Oroquieta."", ""Supervision by the Director of Vocational Education."", ""Issuance of rules and regulations for the school."", ""Appropriation of 150,000 pesos for FY 1967 and future operations."", ""Effectiveness upon approval.""]"		"[""Education"", ""Agriculture"", ""High School"", ""Misamis Occidental""]"	"[""Agricultural-Industrial High School"", ""Oroquieta"", ""Misamis Occidental"", ""Vocational Education"", ""Appropriation"", ""National Treasury""]"
+repacts:datasets/markdown/repacts/1967/ra_4942_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_4942_1967.md	ra_4942_1967	An Act Establishing a Maternity and Childrens Hospital in the Municipality Balaoan, Province of La Union, to be Known as Northern La Union Maternity and Childrens Hospital, and Appropriating Funds Therefor	"**REPUBLIC ACT No. 4942**
+
+ An Act Establishing a Maternity and Childrens Hospital in the Municipality Balaoan, Province of La Union, to be Known as Northern La Union Maternity and Childrens Hospital, and Appropriating Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the supervision of the Department of Health, a maternity and childrens hospital in the Municipality of Balaoan, Province of La Union, to be known as Northern La Union Maternity and Childrens Hospital.
+
+ **Section 2.** The sum of two hundred fifty thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital during the fiscal year nineteen hundred sixty-seven. Thereafter, the amount not less than five hundred thousand pesos, or such sums as may be needed for its operation and maintenance, shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Republic Act	Establishes the Northern La Union Maternity and Childrens Hospital in Balaoan, La Union, and appropriates funds for its establishment, operation, and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of a maternity and childrens hospital under the supervision of the Department of Health in Balaoan, La Union.""}, {""title"": ""Section 2."", ""summary"": ""Appropriation of \u20b1250,000 for the hospital's establishment, operation, and maintenance for FY1967, and inclusion of additional funds in the General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""Effectivity upon approval.""}]"	4942	June 17, 1967			To establish and fund a maternity and childrens hospital in Balaoan, La Union.	"[""Establishment of the Northern La Union Maternity and Childrens Hospital."", ""Supervision by the Department of Health."", ""Appropriation of \u20b1250,000 for FY1967."", ""Future inclusion of at least \u20b1500,000 in the General Appropriations Act for ongoing operations.""]"		"[""health"", ""hospital"", ""maternity"", ""La Union""]"	"[""maternity"", ""hospital"", ""Balaoan"", ""La Union"", ""appropriation"", ""Department of Health"", ""National Treasury""]"
+repacts:datasets/markdown/repacts/1967/ra_4943_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_4943_1967.md	ra_4943_1967	An Act Establishing a Community Hospital in Sapang Palay, Municipality of San Jose Del Monte, Province of Bulacan, to be Known as Sapang Palay Community Hospital, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 4943**
+
+ An Act Establishing a Community Hospital in Sapang Palay, Municipality of San Jose Del Monte, Province of Bulacan, to be Known as Sapang Palay Community Hospital, and Authorizing the Appropriation of Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the direct supervision of the Director of Medical Services, A community hospital in Sapang Palay, Municipality of San Jose del Monte, Province of Bulacan, to be known as the Sapang Palay Community Hospital.
+
+ **Section 2.** The sum of two hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital during the fiscal year nineteen hundred sixty-seven. Thereafter, such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Public Health	Republic Act No. 4943 establishes a community hospital in Sapang Palay, Bulacan, and appropriates funds for its establishment, operation, and maintenance.	"[{""title"": ""Section 1"", ""summary"": ""Establishes a community hospital in Sapang Palay under the supervision of the Director of Medical Services.""}, {""title"": ""Section 2"", ""summary"": ""Authorizes the appropriation of \u20b1200,000 for the hospital's establishment, operation, and maintenance for FY 1967, with future sums to be included in the General Appropriations Act.""}, {""title"": ""Section 3"", ""summary"": ""The Act takes effect upon approval.""}]"	4943	June 17, 1967			To establish a community hospital and provide necessary funding for its operation in Sapang Palay, Bulacan.	"[""Establishment of Sapang Palay Community Hospital"", ""Appropriation of \u20b1200,000 for FY 1967"", ""Post-1967 funding to be included in General Appropriations Act"", ""Act becomes effective upon approval""]"		"[""public health"", ""hospital"", ""community"", ""Bulacan"", ""San Jose del Monte""]"	"[""community hospital"", ""Sapang Palay"", ""Bulacan"", ""public health"", ""funding""]"
+repacts:datasets/markdown/repacts/1967/ra_4944_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_4944_1967.md	ra_4944_1967	An Act Providing for the Establishment of a National Trade School in the Municipality of Marilao, Province of Bulacan, to be Known as Marilao National Trade School, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 4944**
+
+ An Act Providing for the Establishment of a National Trade School in the Municipality of Marilao, Province of Bulacan, to be Known as Marilao National Trade School, and Authorizing the Appropriation of Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the supervision of the Director of Vocational Education, a national trade school in the Municipality of Marilao, Province of Bulacan, to be known as Marilao National Trade School. Courses of secondary level shall be offered in said school.
+
+ **Section 2.** Two hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said school during the fiscal year nineteen hundred sixty-seven. Thereafter, such sum as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Republic Act	This law establishes the Marilao National Trade School in Bulacan, authorizes an initial appropriation of ₱200,000 for its establishment and operation, and sets a framework for future funding, becoming effective upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Establishes a national trade school in Marilao, Bulacan, under the supervision of the Director of Vocational Education, offering secondary level courses.""}, {""title"": ""Section 2."", ""summary"": ""Authorizes appropriation of \u20b1200,000 from the National Treasury for the school's establishment, operation, and maintenance for FY 1967, with future needs to be included in the General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""The act takes effect upon approval.""}]"	4944	June 17, 1967			To provide a vocational education institution in Marilao, Bulacan, thereby enhancing trade skills and employment opportunities in the region.	"[""Establishment of Marilao National Trade School"", ""Initial appropriation of \u20b1200,000 for FY 1967"", ""Ongoing funding through the General Appropriations Act"", ""Effective upon approval""]"		"[""Education"", ""Vocational"", ""Trade School"", ""Bulacan"", ""Marilao""]"	"[""Marilao National Trade School"", ""Vocational Education"", ""Appropriation"", ""Bulacan"", ""Marilao"", ""Republic Act 4944"", ""1967""]"
+repacts:datasets/markdown/repacts/1967/ra_4945_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_4945_1967.md	ra_4945_1967	An Act Establishing a Community Hospital in the Municipality of Piñan, Province of Zamboanga del Norte, to be Known as Piñan Community Hospital, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 4945**
+
+ An Act Establishing a Community Hospital in the Municipality of Piñan, Province of Zamboanga del Norte, to be Known as Piñan Community Hospital, and Authorizing the Appropriation of Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the supervision of the Director of Medical Services, a community hospital in the Municipality of Piñan, Province of Zamboanga, to be known as Piñan Community Hospital.
+
+ **Section 2.** The sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital during the fiscal year nineteen hundred sixty-seven. Thereafter, such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Republic Act	Establishes the Piñan Community Hospital in Piñan, Zamboanga del Norte, and authorizes the appropriation of funds for its establishment, operation, and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of a community hospital in Pi\u00f1an under the supervision of the Director of Medical Services.""}, {""title"": ""Section 2."", ""summary"": ""Authorization of the appropriation of one hundred thousand pesos for the hospital during the fiscal year 1967, and provision for future sums.""}, {""title"": ""Section 3."", ""summary"": ""Effectivity of the Act upon its approval.""}]"	4945	June 17, 1967			To establish a community hospital in Piñan and provide the necessary funding for its construction, operation, and maintenance.	"[""Establishment of Pi\u00f1an Community Hospital"", ""Appropriation of 100,000 pesos for 1967"", ""Future appropriations for operation and maintenance"", ""Effectivity upon approval""]"		"[""Healthcare"", ""Hospital"", ""Zamboanga del Norte"", ""Community Hospital"", ""Republic Act""]"	"[""Pi\u00f1an"", ""Zamboanga del Norte"", ""community hospital"", ""appropriation"", ""healthcare"", ""Republic Act 4945""]"
+repacts:datasets/markdown/repacts/1967/ra_4946_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_4946_1967.md	ra_4946_1967	An Act Establishing an Emergency Hospital in the Municipality of Jose Abad Santos, Province of Davao, to be Known as Jose Abad Santos Emergency Hospital and Authorizing the Appropriation of One Hundred Fifty Thousand Pesos Therefor	"**REPUBLIC ACT No. 4946**
+
+ An Act Establishing an Emergency Hospital in the Municipality of Jose Abad Santos, Province of Davao, to be Known as Jose Abad Santos Emergency Hospital and Authorizing the Appropriation of One Hundred Fifty Thousand Pesos Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established in the Municipality of Jose Abad Santos, Province of Davao, an emergency hospital to be known as Jose Abad Santos Emergency Hospital, which shall be under the supervision of the Director of the Medical Services, Department of Health. The site of said hospital shall be provided for by the Municipal Council of the Municipality of Jose Abad Santos in consultation with the Director of Medical Services.
+
+ **Section 2.** The Secretary of Health shall promulgate such rules and regulations as may be necessary to carry into effect the purposes of this Act.
+
+ **Section 3.** The sum of one hundred fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital during the fiscal year nineteen hundred sixty-seven. Such sums as may be necessary for its operation and maintenance in subsequent years shall be included in the annual General Appropriations Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 17, 1967.
+"	success	Health	Republic Act No. 4946 establishes the Jose Abad Santos Emergency Hospital in Davao Province, authorizes the appropriation of ₱150,000 for its creation and operation in 1967, and mandates the Department of Health to supervise and regulate the facility.	"[{""title"": ""Section 1."", ""summary"": ""Establishes the Jose Abad Santos Emergency Hospital under the supervision of the Director of Medical Services, Department of Health, and designates the Municipal Council for site provision.""}, {""title"": ""Section 2."", ""summary"": ""Empowers the Secretary of Health to promulgate necessary rules and regulations for the Act's implementation.""}, {""title"": ""Section 3."", ""summary"": ""Authorizes the appropriation of \u20b1150,000 from the National Treasury for the hospital's establishment, operation, and maintenance in FY 1967, with future funding to be included in subsequent General Appropriations Acts.""}, {""title"": ""Section 4."", ""summary"": ""States that the Act takes effect upon its approval.""}]"	Republic Act No. 4946	June 17, 1967			To establish an emergency hospital in Jose Abad Santos, Davao and authorize the appropriation of ₱150,000 for its establishment, operation, and maintenance.	"[""Establishment of the Jose Abad Santos Emergency Hospital"", ""Appropriation of \u20b1150,000 for FY 1967"", ""Supervision by the Director of Medical Services"", ""Rule-making authority for Secretary of Health"", ""Effective upon approval""]"		"[""Health"", ""Hospital"", ""Emergency"", ""Philippines"", ""Republic Act"", ""1967""]"	"[""emergency hospital"", ""Jose Abad Santos"", ""Davao"", ""Department of Health"", ""appropriation"", ""National Treasury"", ""rules and regulations""]"

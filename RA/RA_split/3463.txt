@@ -1,0 +1,194 @@
+
+ **Section 17.** *Repealability and Nonexclusivity Clause.* -This franchise shall be subject to amendment, alteration, or repeal by the Congress of the Philippines when the public interest so requires and shall not be interpreted as an exclusive grant of the privileges herein provided for.
+
+ All laws, decrees, orders, resolutions, instructions, rules and regulations, and other issuances, or parts thereof which are inconsistent with the provisions of this Act are hereby repealed, amended, or modified accordingly.
+
+ **Section 18.** *Effectivity.* -This Act shall take effect fifteen (15) days after its publication in the *Official Gazette* or in any newspaper of general circulation.
+
+ Approved,
+
+ (Sgd) **VICENTE C. SOTTO III** President of the Senate
+
+ (Sgd) **GLORIA MACAPAGAL-ARROYO** Speaker of the House of Representatives
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives on March 13, 2018, amended by the Senate of the Philippines on February 4, 2019, and which amendments were concurred in by the House of Representatives on February 8, 2019.
+
+ (Sgd) **MYRA MARIE D. VILLARICA** Secretary of the Senate
+
+ (Sgd) **DANTE ROBERTO P. MALING** Acting Secretary General House of Representatives
+
+ (Sgd) **RODRIGO ROA DUTERTE** President of the Philippines
+
+ Approved: April 17, 2019.
+"	success	Republic Act	Republic Act No. 11303 renews the 25‑year franchise granted to Delta Broadcasting System, Inc. under RA 7723, extending its rights to construct, operate, and maintain radio and television stations while setting conditions for operation, public service, labor compliance, and government oversight.	"[{""title"": ""Section 1. Nature and Scope of Franchise"", ""summary"": ""The franchise of Delta Broadcasting System, Inc. is renewed for another 25 years to construct, maintain, and operate radio and television stations across the Philippines.""}, {""title"": ""Section 2. Manner of Operation of Stations or Facilities"", ""summary"": ""Stations must be operated to minimize interference while maximizing service quality.""}, {""title"": ""Section 3. Prior Approval of the National Telecommunications Commission"", ""summary"": ""The grantee must secure NTC permits and cannot use frequencies without NTC authorization.""}, {""title"": ""Section 4. Responsibility to the Public"", ""summary"": ""Delta must provide free public service time, balanced programming, and avoid broadcasting obscene or false content.""}, {""title"": ""Section 5. Compliance with Labor Standards"", ""summary"": ""The grantee must adhere to applicable labor laws and regulations.""}, {""title"": ""Section 6. Right of the Government"", ""summary"": ""Government, especially the President, may temporarily take over or suspend station operations during emergencies.""}, {""title"": ""Section 7. Term of Franchise"", ""summary"": ""Franchise lasts 25 years from effectivity, revocable if the grantee fails to operate continuously for two years.""}, {""title"": ""Section 8. Self\u2011regulation by and Undertaking of Grantee"", ""summary"": ""The grantee is not required to censor content unless it violates law, and is not liable for lawful broadcasts.""}]"	11303	2018-07-23			To renew and extend the broadcasting franchise of Delta Broadcasting System, Inc. for an additional 25 years, ensuring continued service and compliance with regulatory standards.	"[""Renewal of 25\u2011year franchise for Delta Broadcasting System, Inc."", ""Requirement to secure NTC permits and licenses"", ""Mandate for public service time up to 10% of paid commercials"", ""Compliance with labor standards"", ""Provision for government takeover during emergencies"", ""Conditions for revocation if non\u2011operation for 2 years""]"	Republic Act No. 7723	"[""Broadcasting"", ""Franchise"", ""Public Service"", ""Television"", ""Radio""]"	"[""Delta Broadcasting System"", ""Republic Act 11303"", ""Franchise renewal"", ""NTC permits"", ""Public service time"", ""Labor standards"", ""Government takeover""]"
+repacts:datasets/markdown/repacts/2019/ra_11304_2019.md	repacts	2019		datasets/markdown/repacts/2019/ra_11304_2019.md	ra_11304_2019	"An Act Declaring February Four of Every Year as the ""Philippine-American War Memorial Day"""	"**Seventeenth Congress Third Regular Session**
+
+ Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand eighteen.
+
+ **REPUBLIC ACT No. 11304**
+
+ **An Act Declaring February Four of Every Year as the ""Philippine-American War Memorial Day""**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress assembled:*
+
+ **Section 1.** February 4 of every year is hereby declared a special working holiday in commemoration of the sacrifice and bravery of the men and women who fought and died in defense of the Filipino nation during the Philippine-American war. This holiday shall be referred to as the ""Philippine-American War Memorial Day"" or ""Araw ng Paggunita sa Digmaang Pilipino-Amerikano"".
+
+ **Section 2.** The Department of Education (DepEd) and the Commission on Higher Education (CHED) shall ensure that appropriate activities are held in schools at all levels to commemorate the Philippine-American War Memorial Day.
+
+ **Section 3.** The National Historical Commission of the Philippines (NHCP) shall be responsible for providing the DepEd, CHED, and the general public with the necessary information to ensure a meaningful commemoration of the Philippine-American War Memorial Day.
+
+ **Section 4.** Funds necessary for the implementation of this Act shall be drawn from the yearly appropriations of the agencies concerned.
+
+ **Section 5.** Within ninety (90) days from the approval of this Act, the NHCP shall, in consultation with the DepEd and CHED, formulate the rules and regulations implementing the provisions of this Act.
+
+ **Section 6.** This Act shall take effect fifteen (15) days after its publication in the *Official Gazette* or in a newspaper of general circulation.
+
+ Approved,
+
+ (Sgd) **VICENTE C. SOTTO III** President of the Senate
+
+ (Sgd) **GLORIA MACAPAGAL-ARROYO** Speaker of the House of Representatives
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on May 15, 2018 and February 4, 2019, respectively.
+
+ (Sgd) **MYRA MARIE D. VILLARICA** Secretary of the Senate
+
+ (Sgd) **DANTE ROBERTO P. MALING** Acting Secretary General House of Representatives
+
+ (Sgd) **RODRIGO ROA DUTERTE** President of the Philippines
+
+ Approved: April 17, 2019.
+"	success	Republic Act	Declares February 4 as a special working holiday to honor those who fought in the Philippine-American war, requiring educational institutions and the National Historical Commission to organize commemorative activities.	"[{""title"": ""Section 1."", ""summary"": ""Declares February 4 as a special working holiday referred to as the Philippine-American War Memorial Day.""}, {""title"": ""Section 2."", ""summary"": ""DepEd and CHED shall ensure appropriate activities are held in schools to commemorate the day.""}, {""title"": ""Section 3."", ""summary"": ""NHCP shall provide information to DepEd, CHED, and the public for meaningful commemoration.""}, {""title"": ""Section 4."", ""summary"": ""Funds for implementation are drawn from yearly appropriations of the concerned agencies.""}, {""title"": ""Section 5."", ""summary"": ""NHCP, in consultation with DepEd and CHED, shall formulate rules and regulations within 90 days.""}, {""title"": ""Section 6."", ""summary"": ""Act takes effect 15 days after publication in the Official Gazette or a newspaper of general circulation.""}]"	11304	April 17, 2019		"[{""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}, {""name"": ""GLORIA MACAPAGAL-ARROYO"", ""title"": ""Speaker of the House of Representatives""}, {""name"": ""MYRA MARIE D. VILLARICA"", ""title"": ""Secretary of the Senate""}, {""name"": ""DANTE ROBERTO P. MALING"", ""title"": ""Acting Secretary General House of Representatives""}, {""name"": ""RODRIGO ROA DUTERTE"", ""title"": ""President of the Philippines""}]"	To declare February 4 as a special working holiday commemorating the Philippine-American War and to mandate educational and historical institutions to organize commemorative activities.	"[""Declares Feb 4 as Philippine-American War Memorial Day"", ""DepEd and CHED to ensure school activities"", ""NHCP to provide information for commemoration"", ""Funds from yearly appropriations"", ""NHCP to formulate rules within 90 days"", ""Act takes effect 15 days after publication""]"		"[""public holiday"", ""war memorial"", ""education"", ""historical commemoration""]"	"[""Philippine-American War"", ""Feb 4"", ""Memorial Day"", ""public holiday"", ""DepEd"", ""CHED"", ""NHCP""]"
+repacts:datasets/markdown/repacts/2019/ra_11305_2019.md	repacts	2019		datasets/markdown/repacts/2019/ra_11305_2019.md	ra_11305_2019	An Act Establishing an Integrated School in Barangay Mauway, City of Mandaluyong, to be Known as The Senate President Neptali A. Gonzales Integrated School and Appropriating Funds Therefor	"**Seventeenth Congress Third Regular Session**
+
+ Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand eighteen.
+
+ **REPUBLIC ACT No. 11305**
+
+ **An Act Establishing an Integrated School in Barangay Mauway, City of Mandaluyong, to be Known as The Senate President Neptali A. Gonzales Integrated School and Appropriating Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress assembled:*
+
+ **Section 1.** *Establishment of an Integrated School.* -There is hereby established, under the supervision of the Department of Education, an integrated school in Barangay Mauway, City of Mandaluyong, National Capital Region, to be known as the Senate President Neptali A. Gonzales Integrated School.
+
+ **Section 2.** *Appropriations.* -The Secretary of Education shall immediately include in the Departments program the operationalization of the Senate President Neptali A. Gonzales Integrated School, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 3.** *Implementation.* -The Secretary of Education shall issue such rules and regulations necessary to carry out the purpose of this Act.
+
+ **Section 4.** *Effectivity.* -This Act shall take effect fifteen (15) days after its publication in the *Official Gazette.*
+
+ Approved,
+
+ (Sgd) **VICENTE C. SOTTO III** President of the Senate
+
+ (Sgd) **GLORIA MACAPAGAL-ARROYO** Speaker of the House of Representatives
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on November 12, 2018 and February 6, 2019, respectively.
+
+ (Sgd) **MYRA MARIE D. VILLARICA** Secretary of the Senate
+
+ (Sgd) **DANTE ROBERTO P. MALING** Acting Secretary General House of Representatives
+
+ (Sgd) **RODRIGO ROA DUTERTE** President of the Philippines
+
+ Approved: April 17, 2019.
+"	success	Republic Act	An act establishing the Senate President Neptali A. Gonzales Integrated School in Barangay Mauway, Mandaluyong, and appropriating funds for its operation.	"[{""title"": ""Section 1. Establisment of an Integrated School"", ""summary"": ""There is hereby established, under the supervision of the Department of Education, an integrated school in Barangay Mauway, City of Mandaluyong, National Capital Region, to be known as the Senate President Neptali A. Gonzales Integrated School.""}, {""title"": ""Section 2. Appropriations"", ""summary"": ""The Secretary of Education shall immediately include in the Departments program the operationalization of the Senate President Neptali A. Gonzales Integrated School, the funding of which shall be included in the annual General Appropriations Act.""}, {""title"": ""Section 3. Implementation"", ""summary"": ""The Secretary of Education shall issue such rules and regulations necessary to carry out the purpose of this Act.""}, {""title"": ""Section 4. Effectivity"", ""summary"": ""This Act shall take effect fifteen (15) days after its publication in the Official Gazette.""}]"	11305	April 17, 2019	"[{""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}, {""name"": ""GLORIA MACAPAGAL-ARROYO"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""MYRA MARIE D. VILLARICA"", ""title"": ""Secretary of the Senate""}, {""name"": ""DANTE ROBERTO P. MALING"", ""title"": ""Acting Secretary General House of Representatives""}, {""name"": ""RODRIGO ROA DUTERTE"", ""title"": ""President of the Philippines""}]"	To establish an integrated school in Barangay Mauway, Mandaluyong, and appropriate funds for its operation.	"[""Establishment of the Senate President Neptali A. Gonzales Integrated School"", ""Appropriations for the school under the General Appropriations Act"", ""Implementation rules and regulations by the Secretary of Education"", ""Effectivity fifteen days after publication in the Official Gazette""]"		"[""Education"", ""School"", ""Integrated School"", ""Mandaluyong"", ""Senate"", ""House of Representatives""]"	"[""Integrated school"", ""Mauway"", ""Mandaluyong"", ""Education Department"", ""General Appropriations Act"", ""Senate President Neptali A. Gonzales Integrated School""]"
+repacts:datasets/markdown/repacts/2019/ra_11306_2019.md	repacts	2019		datasets/markdown/repacts/2019/ra_11306_2019.md	ra_11306_2019	An Act Converting into an Independent National High School to be Known as The Currimao National High School The Currimao National High School Pias-Gaang Campus in Barangay Pias Norte, Municipality of Currimao, Province of Ilocos Norte, and Separating it From its Mother School, The Currimao National High School in Barangay Poblacion 2, Municipality of Currimao, Province of Ilocos Norte, Hereinafter Renamed The Wilbur C. Go National High School, and Appropriating Funds Therefor	"**Seventeenth Congress Third Regular Session**
+
+ Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand eighteen.
+
+ **REPUBLIC ACT No. 11306**
+
+ **An Act Converting into an Independent National High School to be Known as The Currimao National High School The Currimao National High School Pias-Gaang Campus in Barangay Pias Norte, Municipality of Currimao, Province of Ilocos Norte, and Separating it From its Mother School, The Currimao National High School in Barangay Poblacion 2, Municipality of Currimao, Province of Ilocos Norte, Hereinafter Renamed The Wilbur C. Go National High School, and Appropriating Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress assembled:*
+
+ **Section 1.** The Currimao National High School Pias-Gaang Campus in Barangay Pias Norte, Municipality of Currimao, Province of Ilocos Norte is hereby converted into an independent national high school to be now known as the Currimao National High School, and separated from its mother school, the Currimao National High School situated in Barangay Poblacion 2, Municipality of Currimao, Province of Ilocos Norte.
+
+ The mother school situated in Barangay Poblacion 2, Municipality of Currimao, Province of Ilocos Norte shall henceforth be known as the Wilbur C. Go National High School.
+
+ **Section 2.** All personnel, assets, liabilities and records of the Currimao National High School Pias-Gaang Campus in Barangay Pias Norte, Municipality of Currimao, Province of Ilocos Norte are hereby transferred to and absorbed by the newly converted national high school, now known as the Currimao National High School.
+
+ **Section 3.** The Secretary of Education shall immediately include in the Departments program the operationalization of the newly converted national high school, now known as the Currimao National High School. The current years appropriation of the mother school situated in Barangay Poblacion 2, Municipality of Currimao, Province of Ilocos Norte shall be absorbed by and remain with the now renamed Wilbur C. Go National High School. Thereafter, the amount necessary for the continued operation of both the Currimao National High School and the Wilbur C. Go National High School shall be included in the annual General Appropriations Act.
+
+ **Section 4.** The Secretary of Education shall issue the rules and regulations necessary to carry out the purpose of this Act within one hundred twenty (120) days after its effectivity.
+
+ **Section 5.** This Act shall take effect fifteen (15) days after its publication in the *Official Gazette* or in a newspaper of general circulation.
+
+ Approved,
+
+ (Sgd) **VICENTE C. SOTTO III** President of the Senate
+
+ (Sgd) **GLORIA MACAPAGAL-ARROYO** Speaker of the House of Representatives
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on January 14, 2019 and February 6, 2019, respectively.
+
+ (Sgd) **MYRA MARIE D. VILLARICA** Secretary of the Senate
+
+ (Sgd) **DANTE ROBERTO P. MALING** Acting Secretary General House of Representatives
+
+ (Sgd) **RODRIGO ROA DUTERTE** President of the Philippines
+
+ Approved: April 17, 2019.
+"	success	Republic Act	The act converts the Currimao National High School Pias-Gaang Campus into an independent national high school named Currimao National High School, separates the mother school which becomes Wilbur C. Go National High School, and appropriates funds for both schools.	"[{""title"": ""Section 1."", ""summary"": ""Converts the Currimao National High School Pias-Gaang Campus into an independent national high school named Currimao National High School and renames the mother school to Wilbur C. Go National High School.""}, {""title"": ""Section 2."", ""summary"": ""Transfers all personnel, assets, liabilities, and records of the Pias-Gaang Campus to the newly converted Currimao National High School.""}, {""title"": ""Section 3."", ""summary"": ""Mandates the Secretary of Education to operationalize the new school and to include the necessary funds in the annual General Appropriations Act.""}, {""title"": ""Section 4."", ""summary"": ""Directs the Secretary of Education to issue rules and regulations within 120 days after effectivity.""}, {""title"": ""Section 5."", ""summary"": ""Specifies that the act takes effect 15 days after publication in the Official Gazette or a newspaper of general circulation.""}]"	11306	April 17, 2019			To convert the Currimao National High School Pias-Gaang Campus into an independent national high school, rename the mother school, and ensure proper funding and operationalization.	"[""Conversion of Pias-Gaang Campus to independent national high school"", ""Renaming of mother school to Wilbur C. Go National High School"", ""Transfer of personnel, assets, liabilities and records"", ""Inclusion of operationalization in Department's program"", ""Issuance of rules within 120 days"", ""Effective 15 days after publication""]"		"[""Education"", ""High School"", ""Ilocos Norte"", ""Currimao"", ""National High School"", ""Republic Act""]"	"[""Currimao National High School"", ""Wilbur C. Go National High School"", ""independent high school"", ""Ilocos Norte"", ""Republic Act 11306"", ""education appropriation"", ""school conversion""]"
+repacts:datasets/markdown/repacts/2019/ra_11307_2019.md	repacts	2019		datasets/markdown/repacts/2019/ra_11307_2019.md	ra_11307_2019	An Act Establishing a Campus of The University of Science and Technology of Southern Philippines (USTSP) in the Municipality of Villanueva, Province of Misamis Oriental to be Known as The University of Science and Technology of Southern Philippines (USTSP)-Villanueva Campus	"**Seventeenth Congress Third Regular Session**
+
+ Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand eighteen.
+
+ **REPUBLIC ACT No. 11307**
+
+ **An Act Establishing a Campus of The University of Science and Technology of Southern Philippines (USTSP) in the Municipality of Villanueva, Province of Misamis Oriental to be Known as The University of Science and Technology of Southern Philippines (USTSP)-Villanueva Campus**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress assembled:*
+
+ **Section 1.** This Act shall be known as the ""University of Science and Technology of Southern Philippines-Villanueva Campus Act"".
+
+ **Section 2.** There is hereby established a campus of the University of Science and Technology of Southern Philippines (USTSP) in the Municipality of Villanueva, Province of Misamis Oriental, to be known as the University of Science and Technology of Southern Philippines-Villanueva Campus.
+
+ **Section 3.** The USTSP shall admit students to its Villanueva Campus who may avail of graduate, undergraduate and short-term technical-vocational courses within the Universitys areas of specialization and according to its capabilities as the Board of Regents may deem necessary to carry out the Universitys objectives, particularly to respond to the needs of the province and the entire Region X.
+
+ The USTSP is also mandated to undertake research and extension services in the Villanueva Campus, and to provide progressive leadership in these areas.
+
+ **Section 4.** The USTSP-Villanueva Campus shall be headed by a Campus Administrator who shall render full-time service and who shall be appointed or designated by the Board of Regents (BOR) upon the recommendation of the search committee and the President, subject to the guidelines, qualifications and standards set by the BOR.
+
+ **Section 5.** The establishment of the USTSP-Villanueva Campus shall ensure that the minimum requirements for its operation and program offerings have been complied with as duly prescribed by the Commission on Higher Education (CHED).
+
+ **Section 6.** In coordination with USTSP, within a period of one hundred twenty (120) days after the approval of this Act, the USTSP-Villanueva Campus shall accomplish the following:
+
+ (a) Submit a five (5)-year development plan, including its corresponding program budget to the CHED, for appropriate recommendation to the Department of Budget and Management; (b) Undergo a management audit in cooperation with the CHED; and (c) Accordingly set up its organizational, administrative as well as academic structure, including the appointment/ designation of University campus key officials. **Section 7.** The provisions of Republic Act No. 8292, otherwise known as the ""Higher Education Modernization Act of 1997"", shall form an integral part of this Act and together shall serve as the governing charter of the University.
+
+ **Section 8.** All other powers, functions, privileges, responsibilities and limitations to state universities and/or its officials under existing laws shall be deemed granted to or imposed upon the University and/or its officials whenever appropriate.
+
+ **Section 9.** The amount necessary to carry out the provisions of this Act shall be included in the annual General Appropriations Act.
+
+ **Section 10.** This Act shall take effect fifteen (15) days after its publication in the *Official Gazette* or in any newspaper of general circulation.
+
+ Approved,
+
+ (Sgd) **VICENTE C. SOTTO III** President of the Senate
+
+ (Sgd) **GLORIA MACAPAGAL-ARROYO** Speaker of the House of Representatives
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives on March 21, 2018, amended by the Senate of the Philippines on February 6, 2019, and which amendments were concurred in by the House of Representatives on February 7, 2019.
+
+ (Sgd) **MYRA MARIE D. VILLARICA** Secretary of the Senate
+
+ (Sgd) **DANTE ROBERTO P. MALING** Acting Secretary General House of Representatives
+
+ (Sgd) **RODRIGO ROA DUTERTE** President of the Philippines
+
+ Approved: April 17, 2019.
+"	success	Republic Act	The act establishes a new USTSP campus in Villanueva, Misamis Oriental, detailing its purpose, admission policies, administration, compliance with CHED, development planning, integration with RA 8292, funding, and effective date.	"[{""title"": ""Section 1"", ""summary"": ""Designation of the act as the \""University of Science and Technology of Southern Philippines-Villanueva Campus Act.\""""}, {""title"": ""Section 2"", ""summary"": ""Establishment of the USTSP campus in Villanueva, Misamis Oriental, named USTSP-Villanueva Campus.""}, {""title"": ""Section 3"", ""summary"": ""Admission policies for graduate, undergraduate, and short-term technical-vocational courses, aligned with university objectives and regional needs.""}, {""title"": ""Section 4"", ""summary"": ""Appointment of a Campus Administrator by the Board of Regents, based on search committee and President recommendations, with full-time service.""}, {""title"": ""Section 5"", ""summary"": ""Compliance with Commission on Higher Education (CHED) minimum requirements for operation and program offerings.""}, {""title"": ""Section 6"", ""summary"": ""Within 120 days post-approval, submission of a 5-year development plan, management audit with CHED, and establishment of organizational structure.""}, {""title"": ""Section 7"", ""summary"": ""Integration of Republic Act No. 8292 (Higher Education Modernization Act) as part of the governing charter.""}, {""title"": ""Section 8"", ""summary"": ""Extension of existing state university powers, functions, and responsibilities to the USTSP campus.""}, {""title"": ""Section 9"", ""summary"": ""Allocation of necessary funds in the annual General Appropriations Act.""}, {""title"": ""Section 10"", ""summary"": ""Act takes effect fifteen days after publication in the Official Gazette or a general circulation newspaper.""}]"	11307	April 17, 2019	"[{""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}, {""name"": ""GLORIA MACAPAGAL-ARROYO"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""MYRA MARIE D. VILLARICA"", ""title"": ""Secretary of the Senate""}, {""name"": ""DANTE ROBERTO P. MALING"", ""title"": ""Acting Secretary General House of Representatives""}, {""name"": ""RODRIGO ROA DUTERTE"", ""title"": ""President of the Philippines""}]"	To establish a USTSP campus in Villanueva, Misamis Oriental, expanding higher education access, research, and service to the region.	"[""Establishment of USTSP Villanueva campus"", ""Admission of students to various courses"", ""Appointment of campus administration"", ""Compliance with CHED requirements"", ""Development plan and audit within 120 days"", ""Integration with RA 8292"", ""Extension of university powers"", ""Funding through General Appropriations Act"", ""Effective date fifteen days after publication""]"	Republic Act No. 8292 (Higher Education Modernization Act of 1997)	"[""education"", ""university"", ""campus"", ""higher education"", ""Misamis Oriental""]"	"[""USTSP"", ""Villanueva"", ""Misamis Oriental"", ""Higher Education Modernization Act""]"
+repacts:datasets/markdown/repacts/2019/ra_11308_2019.md	repacts	2019		datasets/markdown/repacts/2019/ra_11308_2019.md	ra_11308_2019	An Act Converting The West Visayas State University (WVSU)-Extension in the City of Himamaylan, Province of Negros Occidental, into a Regular Campus of the West Visayas State University to be Known as the West Visayas State University-Himamaylan City Campus and Appropriating Funds Therefor	"**Seventeenth Congress Third Regular Session**
+
+ Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand eighteen.
+
+ **REPUBLIC ACT No. 11308**
+
+ **An Act Converting The West Visayas State University (WVSU)-Extension in the City of Himamaylan, Province of Negros Occidental, into a Regular Campus of the West Visayas State University to be Known as the West Visayas State University-Himamaylan City Campus and Appropriating Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress assembled:*
+
+ **Section 1.** *Conversion.* -The West Visayas State University (WVSU)-Extension in the City of Himamaylan, Province of Negros Occidental, is hereby converted into a regular campus of the West Visayas State University to be known as the West Visayas State University-Himamaylan City Campus (WVSU-HCC).
+
+ **Section 2.** *Curricular Offerings.* -The WVSU-HCC shall offer undergraduate and graduate degree programs in advanced education, higher technological, professional instruction and training in the fields of arts, science and technology, education, short-term technical-vocational education and training (TVET), and other related and relevant fields of study within its areas of specialization to meet the needs of the province and of the region. It shall also undertake research, extension services and production activities in support of the socioeconomic development of the province and of the region, and provide progressive leadership in its areas of specialization: *Provided,* That the WVSU-HCC shall retain its original primary mandate as an arts and science institution: *Provided, further,* That the WVSU-HCC shall offer masters and doctorate degree programs and courses related to food production.

@@ -1,0 +1,135 @@
+repacts:datasets/markdown/repacts/1954/ra_1181_1954.md	repacts	1954		datasets/markdown/repacts/1954/ra_1181_1954.md	ra_1181_1954	"An Act to Amend Section One Hundred Seven of Commonwealth Act Numbered One Hundred Forty-One, Entitled ""The Public Land Act"""	"**REPUBLIC ACT No. 1181**
+
+ **An Act to Transfer the Municipal Site of the Municipality of Dupax, Province of Nueva Vizcaya, from its Present Location to the Barrio of Malasin of the Said Municipality**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The municipal site of the municipality of Dupax, province of Nueva Vizcaya, is transferred from its present location to the barrio of Malasin of the said municipality.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1954.
+"	success	Republic Act	Amendment to Section 107 of Commonwealth Act 141 (Public Land Act) to clarify patent issuance and assignment authority.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 107 to state that patents or certificates for land must be prepared in the Bureau of Lands, issued in the name of the Government, and may be assigned by the President to the Undersecretary of Agricultural and Natural Resources for lands exceeding 144 hectares. Patents are effective only for purposes defined in Section 122 of the Land Registration Act.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	1172	June 18, 1954			To clarify the issuance and assignment of land patents and certificates under the Public Land Act.	"[""Amendment to Section 107 of Commonwealth Act 141."", ""Presidential designation to the Undersecretary of Agricultural and Natural Resources for assignment of patents over 144 hectares."", ""Patents effective only for purposes defined in Section 122 of the Land Registration Act."", ""Actual conveyance of land only as provided in Section 122 of the Land Registration Act.""]"	Commonwealth Act No. 141 (Public Land Act), Section 107; Land Registration Act, Section 122.	"[""Public Land Act"", ""Land Patents"", ""Agricultural and Natural Resources""]"	"[""land"", ""patent"", ""certificate"", ""Bureau of Lands"", ""Undersecretary"", ""Agricultural and Natural Resources"", ""Land Registration Act"", ""president""]"
+repacts:datasets/markdown/repacts/1954/ra_1182_1954.md	repacts	1954		datasets/markdown/repacts/1954/ra_1182_1954.md	ra_1182_1954	An Act to Change the Names of Certain Streets in the District of Tondo, City of Manila	"**REPUBLIC ACT No. 1182**
+
+ **An Act to Change the Names of Certain Streets in the District of Tondo, City of Manila**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The streets of Pingkian, Kulambo, and Bangkusay in the district of Tondo, City of Manila, shall hereafter be known as Gregorio Perfecto Street, Rosauro Almario Street, and Francisco Varona Street, respectively.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1954.
+"	success	Republic Act	The Act changes the names of three streets in the Tondo district of Manila to honor local figures.	"[{""title"": ""Section 1"", ""summary"": ""The streets of Pingkian, Kulambo, and Bangkusay are renamed to Gregorio Perfecto Street, Rosauro Almario Street, and Francisco Varona Street, respectively.""}, {""title"": ""Section 2"", ""summary"": ""The Act shall take effect upon its approval.""}]"	1182	June 20, 1954			To rename specific streets in Tondo district for honoring local personalities and improving navigational clarity.	"[""Street of Pingkian renamed to Gregorio Perfecto Street"", ""Street of Kulambo renamed to Rosauro Almario Street"", ""Street of Bangkusay renamed to Francisco Varona Street"", ""Act takes effect upon approval""]"		"[""street renaming"", ""Manila"", ""Tondo"", ""public works""]"	"[""street names"", ""Tondo"", ""Manila"", ""Gregorio Perfecto"", ""Rosauro Almario"", ""Francisco Varona""]"
+repacts:datasets/markdown/repacts/1954/ra_1183_1954.md	repacts	1954		datasets/markdown/repacts/1954/ra_1183_1954.md	ra_1183_1954	An Act to Amend Certain Sections of Executive Order Numbered Three Hundred Ninety-Three, Otherwise Known as the Charter of the Central Luzon Agricultural College	"**REPUBLIC ACT No. 1183**
+
+ **An Act Granting the Metropolitan Broadcasting Co., Inc. a Temporary Permit to Construct, Maintain and Operate Radio Broadcasting Stations and Stations for Television in the Philippines**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Subject to the provisions of the Constitution, the Metropolitan Broadcasting Co., Inc., is hereby granted a temporary permit, which shall continue if force during the time that the Government has not established similar service at the places selected by the grantee, to construct, maintain and operate, for commercial purposes and in the public interest, radio broadcasting stations and stations for television in the Philippines: *Provided,* That this temporary permit shall be void unless the construction of at least one radio broadcasting station or one television station be begun within two years from the date of approval of this Act, and be contemplated within four years from said date: *Provided, further,* That the grantee shall provide adequate public service time to enable the Government, through the said radio broadcasting stations and stations for television, to reach the population on important public issues; shall assist in the functions of public information and education, shall conform to the ethics of honest enterprise, and shall not use its stations for the broadcasting and/or telecasting of obscene or indecent language, speech, act or scene, or for the dissemination of deliberately false information or willful misrepresentation, or to the detriment of the public health, or to incite, encourage, or assist in subversive or treasonable acts.
+
+ **Section 2.** Such provisions of Act Numbered Thirty-eight hundred and forty-six, entitled ""An Act providing for the regulation of radio stations and radio communications in the Philippine Islands, and for other purposes""; Act Numbered Thirty-nine hundred and ninety-seven, known as the Radio Broadcasting Law; Commonwealth Act Numbered One hundred and forty-six, known as the Public Service Act, and their amendments, as are applicable to radio broadcasting stations shall be applied, as far as practicable, to the television stations referred to in section one.
+
+ **Section 3.** The grantee shall file a bond in the amount of fifty thousand pesos to guaranty for the full compliance and fulfillment of the conditions under which this temporary permit is granted.
+
+ **Section 4.** In the event of any competing individual, partnership or corporation receiving from the Congress a similar temporary permit in which there shall be any term or terms more favorable than those herein granted or tending to place the herein grantee at any disadvantage, then such term or terms shall, ipso facto, become a part of the terms hereof and shall operate equally in favor of the grantee as in the case of said competing individual, partnership or corporation.
+
+ **Section 5.** (a) The grantee shall be liable to pay the same taxes on its real estate, buildings and personal property, exclusive of the temporary permit, as other persons or corporations are now hereinafter may be required by law to pay.
+
+ > (b) The grantee shall further be liable to pay all other taxes imposable by National Internal Revenue Code by reason of this franchise.
+
+ **Section 6.** In the event of the Government should desire to maintain and operate for itself any or all of the stations herein authorized, the grantee shall turn over such station or stations to the Government with all the serviceable equipment therein, at cost, less reasonable depreciation.
+
+ **Section 7.** The grantee shall not require any previous censorship of any speech, play, act or scene or other matter to be broadcast and/or telecast from its stations; but if any such speech, play, act or scene or other matter should constitute a violation of the law or infringement of a private right, the grantee shall be free from any liability, civil or criminal, for such speech, play, act or scene or other matter: *Provided,* that the grantee, during any broadcast and/or telecast, may cut off from the air the speech, play, act or scene or other matter being broadcast and/or telecast if the tendency thereof is to propose and/or incite treason, rebellion or sedition, or the language used therein or the scheme thereof is indecent or immoral.
+
+ **Section 8.** The grantee shall not lease, transfer, grant the usufruct of, sell assign this temporary permit nor the rights and privileges acquired thereunder to any person, firm, company, corporation or other commercial or legal entity, nor merge with any other company or corporation organized for the same purposes, without the approval of the Congress of the Philippines first had. Any Corporation to which this temporary permit is sold, transferred or assigned, shall be subject to all the conditions, terms, restrictions and limitations of this temporary permit as fully and completely and to the same extent as if the temporary permit has been originally granted to the said person, firm, company, corporation or other commercial or legal entity.
+
+ **Section 9.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1954.
+"	success	Republic Act	This act amends sections of EO 393 to convert the Central Luzon Agricultural School into a college, update its academic programs, and revise its degree offerings.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 1 of EO 393 to convert the Central Luzon Agricultural School into the Central Luzon Agricultural College and expand its course offerings to include associate, bachelor, and master degree programs.""}, {""title"": ""Section 2"", ""summary"": ""Amends Section 2 of EO 393 to redefine the college\u2019s aim as providing professional, technical, and special instruction, promoting research, extension service, and leadership in agricultural education, engineering, home economics, and related fields.""}, {""title"": ""Section 3"", ""summary"": ""Amends subsection (b) of Section 5 of EO 393 to clarify the titles and degrees conferred upon graduates and allow for honorary degrees.""}, {""title"": ""Section 4"", ""summary"": ""States that the act takes effect upon approval.""}]"	1174	June 18, 1954			To amend Executive Order 393 to establish the Central Luzon Agricultural College and update its academic programs.	"[""Conversion of the school into a college"", ""Introduction of new associate, bachelor, and master degree programs"", ""Revision of the college\u2019s aim and mission"", ""Clarification of degrees conferred upon graduates""]"	Executive Order No. 393 (Charter of the Central Luzon Agricultural College)	"[""Education"", ""Agriculture"", ""College"", ""Republic Act""]"	"[""Central Luzon Agricultural College"", ""Executive Order 393"", ""Associate in Agricultural Education"", ""Bachelor of Science in Agricultural Engineering"", ""Master of Science in Agricultural Education""]"
+repacts:datasets/markdown/repacts/1954/ra_1184_1954.md	repacts	1954		datasets/markdown/repacts/1954/ra_1184_1954.md	ra_1184_1954	An Act Amending Sections One and Two of Republic Act Numbered Six Hundred One, as Amended	"**REPUBLIC ACT No. 1184**
+
+ **An Act Granting Mr. Mariano Lacson a Temporary Permit to Establish, Maintain and Operate Private Fixed Point-to-Point Radiotelephone Stations for the Transmission and Reception of Wireless Messages to and from Said Stations**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Mr. Mariano Lacson, his successors or assigns, is hereby granted a temporary permit to establish, maintain and operate private fixed point-to-point radio-telephone stations in the City of Pasay; Tolong, Oriental Negros; Cadiz, Negros Occidental and Calagna-an Island, Iloilo and in other parts of the Philippines where he operates his business, subject to the approval of the Secretary of Public Works and Communications, for the transmission and reception of wireless messages to and from said stations, including his motor boats.
+
+ **Section 2.** The President of the Philippines shall have the power and authority to permit the construction, maintenance and operation of said private fixed point-to-point radiotelephone stations on any land of the public domain upon such terms as he may prescribe.
+
+ **Section 3.** The temporary permit granted under this Act shall continue to be in force while the Government has not established similar service at places hereinabove stated, and subject to the condition that the grantee, his successors or assigns, shall start operation under said permit within one and a half years from the date of the approval of this Act.
+
+ **Section 4.** The grantee, his successors or assigns, shall not engage in domestic business of telecommunication in the Philippines, it being understood that the necessary permit granted under this Act merely secures the right of the grantee to establish, maintain and operate private fixed point-to-point radiotelephone stations at the places hereinabove stated for not other purpose than to promote, protect and subserve the trade and business interest of the grantee.
+
+ **Section 5.** The actual operation of said private fixed point-to-point radiotelephone stations shall not commence until after the Secretary of Public Works and Communications shall have allotted to the grantee the frequencies and wave lengths to be used thereunder.
+
+ **Section 6.** The grantee, his successors or assigns, shall so construct and operate such stations as not to interfere with the operation of other radio stations maintained and operated in the Philippines.
+
+ **Section 7.** The grantee, his successors or assigns, shall hold the National, provincial, city and municipal governments of the Republic of the Philippines harmless from all claims, accounts, demands, or actions arising out of accidents or injuries, whether to property or to persons, caused by the construction of his radiotelephone stations.
+
+ **Section 8.** A special right is hereby reserved to the President of the Philippines in time of war, rebellion, public peril, calamity, disaster or disturbance of peace or order to cause the closing of the grantees radiotelephone stations or to authorize the temporary use and operation thereof by any department of the Government upon just compensation.
+
+ **Section 9.** The temporary permit granted under this Act shall be subject to amendment, alteration, or repeal by the Congress of the Philippines, when the public interest so requires, and shall not be interpreted as an exclusive grant of the privilege herein provided for.
+
+ **Section 10.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1954.
+"	success	Republic Act	Amends Sections 1 and 2 of RA 601 by imposing a special excise tax on foreign exchange transactions until June 13, 1955, and enumerating goods and services exempt from the tax.	"[{""title"": ""Section 1"", ""summary"": ""Amends Sections 1 and 2 of RA 601 to impose a special excise tax of 17% on foreign exchange transactions until June 13, 1955, and lists numerous goods and services exempt from the tax.""}, {""title"": ""Section 2"", ""summary"": ""The Act takes effect upon approval.""}]"	1175	June 18, 1954			To amend tax provisions related to foreign exchange transactions.	"[""Implements a special excise tax of 17% on foreign exchange transactions until June 13, 1955"", ""Exempts various goods and services from the tax""]"	Republic Act No. 601	"[""tax"", ""foreign exchange"", ""excise tax"", ""RA 1175""]"	"[""special excise tax"", ""foreign exchange"", ""Republic Act 601"", ""tax exemption"", ""June 1955""]"
+repacts:datasets/markdown/repacts/1954/ra_1185_1954.md	repacts	1954		datasets/markdown/repacts/1954/ra_1185_1954.md	ra_1185_1954	An Act Authorizing the Zonification of Abaca Areas, Actual and Potential, and Prescribing Certain Planting Restrictions and Other Measures for the Control of Abaca Mosaic Disease to Protect the Abaca Industry	"**REPUBLIC ACT No. 1185**
+
+ **An Act to Amend Sections One, Two and Three and the Title of Republic Act Numbered Five Hundred Forty-Seven**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Sections one, two and three of Republic Act Numbered Five hundred forty-seven are amended to read as follows:
+
+ > ""Sec. 1. There is hereby granted to the Fernandez Hermanos, Inc., its successors or assigns, a temporary permit to construct, maintain and operate in the Philippines, at the following places, to wit: Main OfficeManila City; Canacao, Province of Cavite; Dalupiri Island, Province of Cagayan; Nasipit, Province of Agusan; Tungao, Province of Agusan; Camp Carmelita, Coron Island, Province of Palawan; Bugo, Province of Misamis Oriental; Ozamis City, Misamis Occidental; Del Monte, Province of Bukidnon; ships managed by Fernandez Hermanos; and at such places as the said company may select, subject to the approval of the Secretary of Public Works and Communications, private base, private fixed point-to-point and private coastal radio stations for the reception and transmission of wireless messages on radiotelegraphy or radiotelephony, each station to be provided with a radio transmitting apparatus and a radio receiving apparatus.
+>
+>  ""Sec. 2. The President of the Philippines shall have the power and authority to permit the location of said private base, private fixed point-to-point and private coastal radio stations or any of them on lands of the public domain upon such terms as he may prescribe.
+>
+>  ""Sec. 3. This temporary permit shall continue to be in force during the time that the Government has not established similar service at the places selected by the grantee, and is granted upon the express condition that the same shall be void unless the construction of said stations be completed within four years from the date of the approval of this amendatory Act.""
+
+ **Section 2.** The title of Republic Act Numbered Five hundred forty-seven is amended to read as follows:
+
+ > ""An Act granting to the Fernandez Hermanos, Inc., a temporary permit to construct, maintain and operate private base, private fixed point-to-point and private coastal radio stations for the reception and transmission of radio communications within the Philippines.""
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 20, 1954.
+"	success	Republic Act	This Act authorizes the zonification of abaca and potential abaca areas to control abaca mosaic disease, establishes buffer zones, prohibits corn planting in abaca zones, mandates destruction of infected plants, requires formation of a mosaic control association, and grants the President power to suspend the Act.	"[{""title"": ""Section 1"", ""summary"": ""Declares policy to promote abaca industry and authorizes Secretary of Agriculture to zonify abaca areas within buffer zones.""}, {""title"": ""Section 2"", ""summary"": ""Guiding principles for defining potential abaca area, abaca area, and buffer zone.""}, {""title"": ""Section 3"", ""summary"": ""Prohibits planting of corn within abaca zones, except existing corn may be harvested.""}, {""title"": ""Section 4"", ""summary"": ""Prohibits planting of corn and abaca within buffer zone; owners must clear land within specified time.""}, {""title"": ""Section 5"", ""summary"": ""Owners of abaca plantations in abaca zones have two years to destroy infected plants and maintain disease-free plantations.""}, {""title"": ""Section 6"", ""summary"": ""Requires abaca planters in zonified zones to organize a mosaic control association and elect officers.""}, {""title"": ""Section 7"", ""summary"": ""Collection of fiber inspection fees for disease control and provision of chemicals and labor by owners via Bureau of Plant Industry.""}, {""title"": ""Section 8"", ""summary"": ""Secretary and Director to promulgate rules and regulations to implement Act.""}, {""title"": ""Section 9"", ""summary"": ""President empowered to suspend Act by Executive Order.""}, {""title"": ""Section 10"", ""summary"": ""Violations punishable by fine up to 200 pesos or imprisonment up to six months.""}, {""title"": ""Section 11"", ""summary"": ""Act takes effect upon approval.""}]"	1176	June 18, 1954			To promote the development of the abaca industry by controlling abaca mosaic disease through zonification and regulatory measures.	"[""Zonification of abaca and potential abaca areas"", ""Prohibition of corn planting in abaca zones"", ""Establishment of buffer zones"", ""Mandatory destruction of infected plants"", ""Formation of mosaic control association"", ""Authority to promulgate rules and regulations"", ""Power to suspend the Act""]"		"[""Agriculture"", ""Plantation"", ""Disease Control"", ""Abaca"", ""Zonification""]"	"[""abaca"", ""zoning"", ""mosaic disease"", ""corn"", ""buffer zone"", ""plantation"", ""control association"", ""President"", ""suspension""]"
+repacts:datasets/markdown/repacts/1954/ra_1186_1954.md	repacts	1954		datasets/markdown/repacts/1954/ra_1186_1954.md	ra_1186_1954	An Act Transferring the Seat of Government in the Municipality of San Pablo, Province of Isabela, from its Present Site to the Site of the Barrio of Auitan in the Same Municipality	"**REPUBLIC ACT No. 1186**
+
+ **An Act to Amend and Repeal Certain Sections of Republic Act Numbered Two Hundred and Ninety-Six, Otherwise Known as ""The Judiciary Act of 1948"" and for Other Purposes**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Sections eleven, twenty-eight, forty, forty-one, forty-two, the second, third, eleventh and twelfth paragraphs of sections forty-nine, fifty, fifty-one, fifty-two, the second, third, fourth, fifth, seventh, tenth, and eleventh sub-paragraphs of the second paragraph of section fifty-four, and section sixty of Republic Act Numbered Two hundred and ninety-six, as amended, are amended to read as follows:
+
+ > ""Sec. 11. *Appointment and compensation of Justices of the Supreme Court.* -The Chief Justice and the Associate Justices of the Supreme Court shall be appointed by the President of the Philippines, with the consent of the Commission on Appointments. The Chief of Justice of the Supreme Court shall receive a compensation of twenty-one thousand pesos per annum, and each Associate Justice shall receive a compensation of twenty thousand pesos per annum. The Chief Justice of the Supreme Court shall be so designated in his commission; and the Associate Justice shall have precedence according to the dates of their respective commissions, or, when the commissions of two or more of them bear the same date, according to the order in which their commissions may have been issued by the President of the Philippines: *Provided,* *However*, That any member of the Supreme Court who has been reappointed to that Court after rendering service in any other branch of the Government shall retain the precedence to which he is entitled under the original appointment and his service in the Court shall, to all intents and purposes, be considered as continuous and uninterrupted.
+>
+>  ""Sec. 28. *Qualifications and compensations of Justices of Court of Appeals.* -The Justices of the Court of Appeals shall have the same qualifications as those provided in the Constitution for members of the Supreme Court. The Presiding Justice of the Court of Appeals shall receive an annual compensation of sixteen thousand pesos, and each Associate Justice, an annual compensation of fifteen thousand pesos.
+>
+>  ""Sec. 40. *Judges of First Instance.* -The judicial function in Courts of First Instance shall be vested in District Judges, to be appointed and commissioned as hereinafter provided: *Provided,* *However*, That those who are District Judges at the time of the approval of this amendatory Act shall continue as such in their respective districts without need of new appointments by the President of the Philippines, and new confirmations by the Commission on Appointments.
+>
+>  ""Sec. 41. *Limitation upon tenure of office.* -District Judges shall be appointed to serve during the good behavior, until they reach the age of seventy years, or become incapacitated to discharge the duties of their office, unless sooner removed in accordance with law.
+>
+>  ""Sec. 42. *Qualification and salary.* -No person shall be appointed District Judges unless he has been ten years a citizen of the Philippines and has practiced law in the Philippines for a period of not less than ten years or has held during a like period, within the Philippines, an office requiring admission to the practice of law in the Philippines as an indispensable requisite.
+>
+>  ""The District Judge shall receive a compensation at the rate of twelve thousand pesos per annum.
+>
+>  ""Sec. 49. *Judicial Districts.* -Judicial districts for Courts of First Instance in the Philippines are constituted as follows:
+>
+>  ""The first Judicial District shall consist of the Province of Cagayan, Batanes, Isabela, and Nueva Vizcaya;
+>
+>  ""The Second Judicial District and the Provinces of Ilocos Norte, Ilocos Sur, Abra, City of Baguio, Mountain Province and La Union;
+>
+>  x x x x x x x x x
+>
+>  ""The Tenth Judicial District, of the Provinces of Camarines Sur, albay, Catanduanes, Sorsogon and Masbate;
+>
+>  ""The Eleventh judicial District, of the provinces of Capiz, Romblon and Iloilo, the City of Iloilo, and the Province of Antique;
+>
+>  ""Sec. 50. *Judges of First Instance of Judicial Districts.* -Five judges shall be commissioned for the First Judicial District. Two judges shall preside over the Courts of First Instance of Cagayan and Batanes, and shall be known as judges of the first and second branches thereof, respectively, the judges of the second branch to preside also over the Court of First Instance of Batanes; two judges shall preside over the Court of First Instance of Isabela, and shall be known as the judges of the first and second branches thereof, and one judge shall be preside over the Court of First Instance of Nueva Vizcaya.

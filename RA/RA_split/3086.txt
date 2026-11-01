@@ -1,0 +1,149 @@
+"	success	Education	This act establishes a City Schools Division Office in Antipolo City, subject to DepED supervision, and appropriates funds for its operation.	"[{""title"": ""Establishment of a Division of City Schools"", ""summary"": ""Creates a City Schools Division Office in Antipolo City under DepED, headed by a qualified division superintendent.""}, {""title"": ""Appropriations"", ""summary"": ""Provides funding for operationalization and continued operation from DepED appropriations.""}, {""title"": ""Repealing Clause"", ""summary"": ""Repeals or amends any law inconsistent with this act.""}, {""title"": ""Implementation"", ""summary"": ""Secretary of Education to issue rules and regulations to carry out the act.""}, {""title"": ""Effectivity"", ""summary"": ""Act effective 15 days after publication in Official Gazette or general circulation newspaper.""}]"	10514	April 16, 2013	"[{""name"": ""JUAN PONCE ENRILE"", ""title"": ""President of the Senate""}, {""name"": ""FELICIANO BELMONTE JR."", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""EMMA LIRIO-REYES"", ""title"": ""Secretary of Senate""}, {""name"": ""MARILYN B. BARUA-YAP"", ""title"": ""Secretary General House of Representatives""}]"	To establish a City Schools Division Office in Antipolo City and secure funding for its operation.	"[""Establishment of the City Schools Division Office"", ""Appropriations for operation"", ""Repealing clause for inconsistent laws"", ""Implementation rules issuance"", ""Effectivity after publication""]"	The act repeals or amends any law inconsistent with its provisions.	"[""Education"", ""Local Government"", ""Department of Education"", ""Antipolo City"", ""City Schools Division Office""]"	"[""City Schools Division Office"", ""Antipolo"", ""DepED"", ""appropriations"", ""education"", ""Republic Act 10514"", ""Philippines""]"
+repacts:datasets/markdown/repacts/2013/ra_10515_2013.md	repacts	2013		datasets/markdown/repacts/2013/ra_10515_2013.md	ra_10515_2013	AN ACT PROHIBITING AND PENALIZING UNAUTHORIZED INTERCEPTION, RECEPTION OR USE OF ANY SIGNAL OR SERVICE OVER A CABLE TELEVISION SYSTEM OR CABLE INTERNET SYSTEM AND/OR NETWORK, AND FOR OTHER PURPOSES	"Fifteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand twelve.*
+
+ **REPUBLIC ACT No. 10515**
+
+ AN ACT PROHIBITING AND PENALIZING UNAUTHORIZED INTERCEPTION, RECEPTION OR USE OF ANY SIGNAL OR SERVICE OVER A CABLE TELEVISION SYSTEM OR CABLE INTERNET SYSTEM AND/OR NETWORK, AND FOR OTHER PURPOSES
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** *Short Title.* This Act shall be known as the ""Anti-Cable Television and Cable Internet Tapping Act of 2013″.
+
+ **Section 2.** *Declaration of Policy.* The State recognizes the indispensable role of the private sector, encourages private enterprise, and provides incentives to needed investments. Pursuant thereto, this Act aims to protect the Cable Television and Cable Internet Industries from cable pilferage.
+
+ **Section 3.** *Definition of Terms.* As used in this Act:
+
+ (a) *Cable Television (CATV) Service*refers to the transmission or delivery of video and audio signals and programming for a fee, through fiber optics, coaxial cable and other technological means. (b) *Cable Internet Service*refers to the transmission or delivery of electronic signals for a fee, to provide and facilitate access to the worldwide web, for a fee, through a CATV transmission or delivery system/network. (c) *Cable Television (CATV) System/Network*refers to a facility engaged in the transmission or delivery of video and audio signals and programming for a fee, through fiber optics, coaxial cable and other technological means. (d) *Cable Internet System/Network*refers to a facility engaged in the transmission or delivery of electronic signals for a fee, to provide and facilitate access to the worldwide web, for a fee, through a CATV transmission or delivery system/network. (e) *Cable Television (CATV) Service Provider*refers to any person, natural or juridical, public or private, which was granted a Certificate of Authority or Provisional Authority as provided under existing laws, rules and regulations, to install, operate and maintain a CATV System/Network and is actually providing Cable Television (CATV) Service to its subscribers. (f) *Cable Internet Service Provider*refers to any person, natural or juridical, public or private, which was issued a registration certificate as provided under existing laws, rules and regulations, to provide and facilitate access to the worldwide web, for a fee, through a CATV transmission or delivery system/network and is actually providing Cable Internet Service to its subscribers. **Section 4.** *Prohibited Acts.* It is hereby declared unlawful for any person, whether natural or juridical, public or private, to:
+
+ (a) intercept or receive, or assist in intercepting or receiving, any signal offered over a cable television system or a cable internet system by tapping, making or causing to be made, any connection to an existing CATV System/Network or Cable Internet System/Network without the authority of the concerned CATV Service Provider or Cable Internet Service Provider; (b) record, reproduce, distribute, import or sell, any intercepted or received CATV System/Network signals for commercial purposes without the authority of the concerned CATV Service Provider or Cable Internet Service Provider; (c) use or receive any direct or indirect benefit, from any CATV System/Network or Cable Internet System/Network with knowledge that it is a result of any of acts enumerated in paragraphs (a) or (b) above; or (d) wantonly, maliciously and willfully damage, destroy or remove CATV and/or Cable Internet facilities and accessories of authorized CATV and/or Cable Internet Service Providers. **Section 5.** *Penalties.* Any person who commits any of the unlawful acts enumerated in the next preceding section shall be punished with imprisonment of not less than two (2) years but not more than five (5) years or a fine of not less than Fifty thousand pesos (P50,000.00) nor more than One hundred thousand pesos (P100,000.00) or both, at the discretion of the court. If the offender is a corporation or association, the president, manager, managing partner or any officer of the corporation or partnership who directly participated in the violation of this Act shall be held liable.
+
+ **Section 6.** *Information Dissemination.* Within sixty (60) days after the effectivity of this Act, the National Telecommunications Commission shall undertake an information dissemination campaign to inform the public of the existence of this Act.
+
+ **Section 7.** *Rules and Regulations.* The National Telecommunications Commission, in consultation with CATV and Cable Internet Service Providers and other affected parties, shall, within sixty (60) days after the conduct of public hearings which must commence within thirty (30) working days upon the effectivity of this Act, issue the implementing rules and regulations to ensure the efficient and effective implementation of the provisions of this Act.
+
+ **Section 8.** *Separability Clause.* If, for any reason, any section or provision of this Act is held invalid or unconstitutional, the remainder of the law or the provisions not otherwise affected shall remain valid and subsisting.
+
+ **Section 9.** *Repealing Clause.* All laws, presidential decrees or issuances, executive orders, letters of instruction, administrative orders, rules or regulations contrary to, or inconsistent with the provisions of this Act are hereby repealed, modified or amended accordingly.
+
+ **Section 10.** *Effectivity Clause.* This Act shall take effect fifteen (15) days after its complete publication in at least two (2) newspapers of general circulation.
+
+ Approved,
+
+   
+ | (Sgd.) **JUAN PONCE ENRILE** President of the Senate | (Sgd.) **FELICIANO BELMONTE JR.** Speaker of the House of Representatives |
+
+ This Act which is a consolidation of Senate Bill No. 3345 and House Bill No. 709 was finally passed by the Senate and the House of Representatives on January 28, 2013 and January 30, 2013, respectively.
+
+   
+ | (Sgd.) **EDWIN B. BELLEN** Acting Senate Secretary | (Sgd.) **MARILYN B. BARUA-YAP** Secretary General House of Representatives |
+
+ Approved: APR 17 2013
+
+ **(Sgd.) BENIGNO S. AQUINO III** *President of the Philippines*
+"	success	Republic Act	This law prohibits unauthorized interception, reception, or use of signals over cable television and cable internet systems and imposes penalties to protect the industry and deter cable pilferage.	"[{""title"": ""Section 1. Short Title"", ""summary"": ""The act is known as the \""Anti-Cable Television and Cable Internet Tapping Act of 2013.\""""}, {""title"": ""Section 2. Declaration of Policy"", ""summary"": ""The state recognizes the private sector\u2019s role and aims to protect cable television and internet industries from pilferage.""}, {""title"": ""Section 3. Definition of Terms"", ""summary"": ""Defines key terms such as CATV Service, Cable Internet Service, System/Network, and Service Providers.""}, {""title"": ""Section 4. Prohibited Acts"", ""summary"": ""Enumerates unlawful acts including unauthorized interception, recording, distribution, and damage to cable facilities.""}, {""title"": ""Section 5. Penalties"", ""summary"": ""Imposes imprisonment of 2\u20135 years or fines of 50,000\u2013100,000 pesos, or both, for violations.""}, {""title"": ""Section 6. Information Dissemination"", ""summary"": ""NTC must launch a public awareness campaign within 60 days after the act\u2019s effectivity.""}, {""title"": ""Section 7. Rules and Regulations"", ""summary"": ""NTC, with industry input, must issue implementing rules within 60 days after hearings conducted within 30 working days of effectivity.""}, {""title"": ""Section 8. Separability Clause"", ""summary"": ""Invalidity of any part does not invalidate the rest of the law.""}, {""title"": ""Section 9. Repealing Clause"", ""summary"": ""Repeals or amends laws inconsistent with this act.""}, {""title"": ""Section 10. Effectivity Clause"", ""summary"": ""The act takes effect 15 days after publication in at least two newspapers.""}]"	10515	2012-07-23	"[{""name"": ""JUAN PONCE ENRILE"", ""title"": ""President of the Senate""}, {""name"": ""FELICIANO BELMONTE JR."", ""title"": ""Speaker of the House of Representatives""}]"		To prohibit unauthorized interception or use of signals over cable television and cable internet systems, protect the industry, and deter cable pilferage.	"[""Prohibition of unauthorized interception, reception, or distribution of cable signals"", ""Imposed penalties of imprisonment (2\u20135 years) and fines (50,000\u2013100,000 pesos)"", ""Information dissemination by NTC within 60 days"", ""NTC to issue implementing rules within 60 days after hearings"", ""Separability clause ensuring partial invalidity does not void the whole law"", ""Repealing clause to remove inconsistent laws"", ""Effectivity after 15 days of publication""]"	Consolidation of Senate Bill No. 3345 and House Bill No. 709; repeals or amends laws inconsistent with this act	"[""Telecommunications"", ""Cable TV"", ""Internet"", ""Signal Interception"", ""Penalties"", ""NTC"", ""Republic Act"", ""Philippines""]"	"[""cable television"", ""cable internet"", ""signal interception"", ""penalty"", ""NTC"", ""Republic Act 10515"", ""Philippines"", ""interception"", ""tapping"", ""telecommunications""]"
+repacts:datasets/markdown/repacts/2013/ra_10516_2013.md	repacts	2013		datasets/markdown/repacts/2013/ra_10516_2013.md	ra_10516_2013	AN ACT EXPANDING THE UTILIZATION OF THE INDUSTRIAL ESTATE IN LAMAO, LIMAY, BATAAN FOR BUSINESSES ENGAGED IN ENERGY AND ENERGY-RELATED INFRASTRUCTURE PROJECTS AND OTHER GAINFUL ECONOMIC ACTIVITIES IN ADDITION TO PETROCHEMICAL AND RELATED INDUSTRIES, AMENDING FOR THE PURPOSE PRESIDENTIAL DECREE NO. 949	"Fifteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand twelve.*
+
+ **REPUBLIC ACT No. 10516**
+
+ AN ACT EXPANDING THE UTILIZATION OF THE INDUSTRIAL ESTATE IN LAMAO, LIMAY, BATAAN FOR BUSINESSES ENGAGED IN ENERGY AND ENERGY-RELATED INFRASTRUCTURE PROJECTS AND OTHER GAINFUL ECONOMIC ACTIVITIES IN ADDITION TO PETROCHEMICAL AND RELATED INDUSTRIES, AMENDING FOR THE PURPOSE PRESIDENTIAL DECREE NO. 949
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** Section 1 of Presidential Decree No. 949, entitled ""Vesting The Administration And Ownership In Favor Of The Philippine National Oil Company Of That Parcel Of Land Of The Public Domain Located At Lamao, Limay, Bataan Which Was Reserved For Industrial Estate Purposes Pursuant To [Proclamation No. 361](http://www.gov.ph/1968/03/06/proclamation-no-361-s-1968/) Dated March 6, 1968 As Amended By [Proclamation No. 630](http://www.gov.ph/1969/11/29/proclamation-no-630-s-1969/) Dated November 29, 1969 And For Other Purposes"", is hereby further amended to read as follows:
+
+ ""SECTION 1. *Assignment of Duty.* The administration, management, and ownership of that parcel of land of the public domain located at Lamao, Limay, Bataan which is reserved for industrial estate purposes and more particularly described in Presidential Proclamation No. 361 dated March 6, 1968 as amended by Proclamation No. 630 dated November 29, 1969, subject to private rights, if any, which shall be the subject of expropriation, is hereby transferred to the Philippine National Oil Company (PNOC) in full and absolute ownership for the nominal sum of One Peso: *Provided,*That, all locators, lessees and sub-lessees, now operating therein shall be allowed to continue with its usual business operations, transactions and activities as authorized by law subject to such rules and regulations as PNOC may prescribe. The Bureau of Lands shall survey and fix the permanent boundaries of the aforementioned parcel of land of the public domain."" **Section 2.** Section 2 of Presidential Decree No. 949 is hereby further amended to read as follows:
+
+ ""SECTION 2. *Purpose of Land Use.* The PNOC shall manage, operate and develop the said parcel of land as an industrial zone and will establish, develop and operate or cause the establishment, development and operation thereat of petrochemical and related industries, as well as of businesses engaged in energy and energy-allied activities or energy-related infrastructure projects, or of such other business activities that will promote its best economic use, as determined by the PNOC Board of Directors, by itself or its subsidiaries or by any other entity or person it may deem competent alone or in joint venture: *Provided,*That, where any petrochemical or energy-related industry or any such other business as determined by the PNOC is operated by private entities or persons, whether or not in joint venture with the PNOC or its subsidiaries, the PNOC may lease, sell and/or convey such portions of the industrial zone to such private entities or persons."" **Section 3.** *Implementing Rules and Regulations.* Within thirty (30) days from the effectivity of this Act, the Department of Energy (DOE) and the PNOC shall prescribe such rules and regulations necessary for the effective implementation of this Act.
+
+ **Section 4.** *Separability Clause.* Should any clause, sentence, paragraph, section or provision of this Act be held unconstitutional or invalid, such declaration shall not affect, impair or invalidate the remainder of this Act.
+
+ **Section 5.** *Repealing Clause.* All other laws, decrees, orders or regulations or parts thereof that are inconsistent with this Act are hereby repealed, modified or amended accordingly.
+
+ **Section 6.** *Effectivity.* This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation.
+
+ Approved,
+
+   
+ | (Sgd.) **JUAN PONCE ENRILE** President of the Senate | (Sgd.) **FELICIANO BELMONTE JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on February 4, 2013 and February 6, 2013, respectively.
+
+   
+ | (Sgd.) **EMMA LIRIO-REYES** Secretary of Senate | (Sgd.) **MARILYN B. BARUA-YAP** Secretary General House of Representatives |
+
+ Approved: APR 17 2013
+
+ **(Sgd.) BENIGNO S. AQUINO III** *President of the Philippines*
+"	success	Republic Act	Republic Act No. 10516 expands the utilization of the industrial estate in Lamao, Limay, Bataan for energy and related infrastructure projects, amending Presidential Decree No. 949 to transfer ownership to PNOC and authorize development of petrochemical and energy-related industries.	"[{""title"": ""Section 1. Assignment of Duty"", ""summary"": ""The ownership of the parcel of land in Lamao, Limay, Bataan is transferred to the Philippine National Oil Company (PNOC) with existing locators allowed to continue operations.""}, {""title"": ""Section 2. Purpose of Land Use"", ""summary"": ""PNOC shall manage and develop the industrial zone, permitting petrochemical and energy-related industries and allowing leasing or sale of portions to private entities.""}, {""title"": ""Section 3. Implementing Rules and Regulations"", ""summary"": ""Within 30 days from effectivity, the Department of Energy and PNOC shall prescribe necessary rules and regulations.""}, {""title"": ""Section 4. Separability Clause"", ""summary"": ""If any provision is void, the remainder of the Act remains unaffected.""}, {""title"": ""Section 5. Repealing Clause"", ""summary"": ""All inconsistent laws, decrees, orders, or regulations are repealed, modified, or amended accordingly.""}, {""title"": ""Section 6. Effectivity"", ""summary"": ""The Act takes effect 15 days after publication in at least two newspapers.""}]"	10516	April 17, 2013	"[{""name"": ""JUAN PONCE ENRILE"", ""title"": ""President of the Senate""}, {""name"": ""FELICIANO BELMONTE JR."", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""EMMA LIRIO-REYES"", ""title"": ""Secretary of Senate""}, {""name"": ""MARILYN B. BARUA-YAP"", ""title"": ""Secretary General House of Representatives""}]"	To expand the utilization of the industrial estate in Lamao, Limay, Bataan for energy and related infrastructure projects and other gainful economic activities, by amending Presidential Decree No. 949 and transferring ownership to PNOC.	"[""Assignment of duty to PNOC"", ""Purpose of land use for industrial zone"", ""Implementing rules and regulations within 30 days"", ""Separability clause"", ""Repealing clause for inconsistent laws"", ""Effectivity 15 days after publication""]"	Presidential Decree No. 949	"[""Industrial Estate"", ""Energy"", ""Petrochemical"", ""PNOC"", ""DOE""]"	"[""industrial estate"", ""Lamao"", ""Limay"", ""Bataan"", ""energy projects"", ""petrochemical"", ""PNOC"", ""Presidential Decree 949""]"
+repacts:datasets/markdown/repacts/2013/ra_10517_2013.md	repacts	2013		datasets/markdown/repacts/2013/ra_10517_2013.md	ra_10517_2013	"AN ACT CREATING THREE (3) ADDITIONAL BRANCHES OF THE REGIONAL TRIAL COURT IN THE FOURTH JUDICIAL REGION TO BE STATIONED AT THE MUNICIPALITY OF SAN PEDRO, PROVINCE OF LAGUNA, FURTHER AMENDING FOR THE PURPOSE BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS ""THE JUDICIARY REORGANIZATION ACT OF 1980"", AS AMENDED, AND APPROPRIATING FUNDS THEREFOR"	"Fifteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand twelve.*
+
+ **REPUBLIC ACT No. 10517**
+
+ AN ACT CREATING THREE (3) ADDITIONAL BRANCHES OF THE REGIONAL TRIAL COURT IN THE FOURTH JUDICIAL REGION TO BE STATIONED AT THE MUNICIPALITY OF SAN PEDRO, PROVINCE OF LAGUNA, FURTHER AMENDING FOR THE PURPOSE BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS ""THE JUDICIARY REORGANIZATION ACT OF 1980″, AS AMENDED, AND APPROPRIATING FUNDS THEREFOR
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** Three (3) additional Regional Trial Court branches for San Pedro, Laguna, with seats thereat, are hereby created in the Fourth Judicial Region.
+
+ **Section 2.** The Supreme Court shall assign the respective branch numbers for the newly created branches.
+
+ **Section 3.** The Chief Justice of the Supreme Court, in coordination with the Secretary of the Department of Justice, shall immediately include in the Courts program the implementation of this Act. The funding therefor shall likewise be included in the annual General Appropriations Act. The funds necessary for the operation of the Courts herein created shall be appropriated and released only upon the actual organization of the Courts and the appointment of its personnel.
+
+ **Section 4.** Section 14(e) of Batas Pambansa Blg. 129, otherwise known as ""The Judiciary Reorganization Act of 1980″, as amended, as well as other provisions that may be inconsistent herewith, are hereby deemed repealed, modified and/or further amended.
+
+ **Section 5.** *Effectivity.* This Act shall take effect fifteen (15) days after completion of its publication in the *Official Gazette*or in two (2) newspapers of general circulation.
+
+ Approved,
+
+   
+ | (Sgd.) **JUAN PONCE ENRILE** President of the Senate | (Sgd.) **FELICIANO BELMONTE JR.** Speaker of the House of Representatives |
+
+ This Act which is a consolidation of Senate Bill No. 3048 and House Bill No. 5896 was finally passed by the Senate and the House of Representatives on September 17, 2012 and February 6, 2013, respectively.
+
+   
+ | (Sgd.) **EDWIN B. BELLEN** Acting Senate Secretary | (Sgd.) **MARILYN B. BARUA-YAP** Secretary General House of Representatives |
+
+ Approved: APR 23 2013
+
+ **(Sgd.) BENIGNO S. AQUINO III** *President of the Philippines*
+"	success	Republic Act	This act establishes three new Regional Trial Court branches in San Pedro, Laguna, amends related provisions of Batas Pambansa Blg. 129, and appropriates funds for their operation.	"[{""title"": ""Section 1."", ""summary"": ""Creates three additional RTC branches in San Pedro, Laguna, with seats thereat, in the Fourth Judicial Region.""}, {""title"": ""Section 2."", ""summary"": ""Supreme Court assigned respective branch numbers for the newly created branches.""}, {""title"": ""Section 3."", ""summary"": ""Chief Justice and Secretary of DOJ coordinate to include implementation in Courts program; funding included in General Appropriations Act; funds appropriated and released only upon actual organization and appointment of personnel.""}, {""title"": ""Section 4."", ""summary"": ""Repeals, modifies or further amends Section 14(e) of Batas Pambansa Blg. 129 and other inconsistent provisions.""}, {""title"": ""Section 5."", ""summary"": ""Effectivity: 15 days after publication in Official Gazette or in two newspapers of general circulation.""}]"	10517	2013-04-23	"[{""name"": ""JUAN PONCE ENRILE"", ""title"": ""President of the Senate""}, {""name"": ""FELICIANO BELMONTE JR."", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""EDWIN B. BELLEN"", ""title"": ""Acting Senate Secretary""}, {""name"": ""MARILYN B. BARUA-YAP"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""BENIGNO S. AQUINO III"", ""title"": ""President of the Philippines""}]"	To create additional Regional Trial Court branches in San Pedro, Laguna, and modify related provisions of the Judiciary Reorganization Act to improve judicial accessibility and appropriating necessary funds.	"[""Creation of three RTC branches in San Pedro, Laguna"", ""Supreme Court to assign branch numbers"", ""Funding appropriation and release upon organization and appointment of personnel"", ""Amendment and repeal of conflicting provisions of Batas Pambansa Blg. 129"", ""Effectivity 15 days after publication""]"	Batas Pambansa Blg. 129 (Judiciary Reorganization Act of 1980)	"[""Judiciary"", ""Regional Trial Court"", ""Legislation"", ""San Pedro"", ""Laguna"", ""Batas Pambansa"", ""Reorganization Act""]"	"[""Regional Trial Court"", ""San Pedro"", ""Laguna"", ""Batas Pambansa Blg. 129"", ""Judiciary Reorganization Act"", ""funding"", ""court branches"", ""approval"", ""Senate Bill 3048"", ""House Bill 5896""]"
+repacts:datasets/markdown/repacts/2013/ra_10518_2013.md	repacts	2013		datasets/markdown/repacts/2013/ra_10518_2013.md	ra_10518_2013	"AN ACT CREATING TWO (2) ADDITIONAL BRANCHES OF THE REGIONAL TRIAL COURT IN THE FOURTH JUDICIAL REGION TO BE STATIONED AT THE CITY OF LUCENA PROVINCE OF QUEZON, FURTHER AMENDING FOR THE PURPOSE BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS ""THE JUDICIARY REORGANIZATION ACT OF 1980"", AS AMENDED, AND APPROPRIATING FUNDS THEREFOR"	"Fifteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand twelve.*
+
+ **REPUBLIC ACT No. 10518**
+
+ AN ACT CREATING TWO (2) ADDITIONAL BRANCHES OF THE REGIONAL TRIAL COURT IN THE FOURTH JUDICIAL REGION TO BE STATIONED AT THE CITY OF LUCENA PROVINCE OF QUEZON, FURTHER AMENDING FOR THE PURPOSE BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS ""THE JUDICIARY REORGANIZATION ACT OF 1980″, AS AMENDED, AND APPROPRIATING FUNDS THEREFOR
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** Two (2) additional Regional Trial Court branches for Lucena City, Quezon, with seats thereat, are hereby created in the Fourth Judicial Region.
+
+ **Section 2.** The Supreme Court shall assign the respective branch numbers for the newly created branches.
+
+ **Section 3.** The Chief Justice of the Supreme Court, in coordination with the Secretary of the Department of Justice, shall immediately include in the Courts program the implementation of this Act. The funding therefor shall likewise be included in the annual General Appropriations Act. The funds necessary for the operation of the Courts herein created shall be appropriated and released only upon the actual organization of the Courts and the appointment of its personnel.
+
+ **Section 4.** Section 14(e) of Batas Pambansa Blg. 129, otherwise known as ""The Judiciary Reorganization Act of 1980″, as amended, as well as other provisions that may be inconsistent herewith, are hereby deemed repealed, modified and/or further amended.
+
+ **Section 5.** *Effectivity.* This Act shall take effect fifteen (15) days after completion of its publication in the *Official Gazette*or in two (2) newspapers of general circulation.
+
+ Approved,
+
+   
+ | (Sgd.) **JUAN PONCE ENRILE** President of the Senate | (Sgd.) **FELICIANO BELMONTE JR.** Speaker of the House of Representatives |
+
+ This Act which is a consolidation of Senate Bill No. 3046 and House Bill No. 6778 was finally passed by the Senate and the House of Representatives on September 17, 2012 and January 29, 2013, respectively.
+
+   
+ | (Sgd.) **EDWIN B. BELLEN** Acting Senate Secretary | (Sgd.) **MARILYN B. BARUA-YAP** Secretary General House of Representatives |
+
+ Approved: APR 23 2013
+
+ **(Sgd.) BENIGNO S. AQUINO III** *President of the Philippines*
+"	success	Republic Act	The act establishes two new Regional Trial Court branches in Lucena City, Quezon, assigns branch numbers, incorporates them into the courts program, appropriates necessary funds, repeals and amends provisions of Batas Pambansa Blg. 129, and becomes effective 15 days after publication.	"[{""title"": ""Section 1."", ""summary"": ""Creation of two additional Regional Trial Court branches for Lucena City, Quezon, within the Fourth Judicial Region.""}, {""title"": ""Section 2."", ""summary"": ""The Supreme Court shall assign branch numbers to the newly created branches.""}, {""title"": ""Section 3."", ""summary"": ""The Chief Justice, in coordination with the Secretary of the Department of Justice, shall immediately incorporate the implementation of the Act into the courts program and appropriate funds, releasing them only upon organization and appointment of personnel.""}, {""title"": ""Section 4."", ""summary"": ""Repeals, modifies, and further amends Section 14(e) of Batas Pambansa Blg. 129 and other inconsistent provisions.""}, {""title"": ""Section 5."", ""summary"": ""Effectivity: The Act shall take effect fifteen (15) days after publication in the Official Gazette or in two newspapers of general circulation.""}]"	10518	April 23, 2013	"[{""name"": ""Juan Ponce Enrile"", ""title"": ""President of the Senate""}, {""name"": ""Feliciano Belmonte Jr."", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""Edwin B. Bellen"", ""title"": ""Acting Senate Secretary""}, {""name"": ""Marilyn B. Barua-Yap"", ""title"": ""Secretary General House of Representatives""}]"	To create two additional branches of the Regional Trial Court in Lucena City, Quezon, amend Batas Pambansa Blg. 129, and appropriate funds for their operation.	"[""Creation of two additional RTC branches in Lucena City"", ""Assignment of branch numbers by the Supreme Court"", ""Inclusion of the branches in the courts program and appropriation of funds"", ""Repeal and amendment of Section 14(e) of Batas Pambansa Blg. 129"", ""Effectivity after 15 days post-publication""]"	Batas Pambansa Blg. 129	"[""Regional Trial Court"", ""Lucena City"", ""Quezon"", ""Judiciary Reorganization"", ""Batas Pambansa 129"", ""Republic Act 10518""]"	"[""regional trial court"", ""judiciary"", ""Quezon"", ""Lucena"", ""Batas Pambansa 129""]"

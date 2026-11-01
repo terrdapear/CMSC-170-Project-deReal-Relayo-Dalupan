@@ -1,0 +1,134 @@
+
+ **Section 1.** The sum of one hundred thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, to implement Republic Act Numbered Forty-two hundred seventy-three, and the sum of twenty-five thousand pesos is likewise appropriated for the payment of the salaries of personnel for the fiscal year nineteen hundred sixty-nine. Such sum as may be needed for the operation of the San Joaquin Breeding Station in the Municipality San Joaquin, Province of Iloilo, in subsequently years shall be included in the annual General Appropriations Act.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 15, 1968.
+"	success	Republic Act	The act appropriates funds to implement Republic Act 4273 and to pay salaries for the fiscal year 1969.	"[{""title"": ""Section 1."", ""summary"": ""Appropriates 100,000 pesos to implement RA 4273 and 25,000 pesos for salaries for FY 1969; future allocations for the San Joaquin Breeding Station are included in the General Appropriations Act.""}, {""title"": ""Section 2."", ""summary"": ""The act takes effect upon its approval.""}]"	5331	June 15, 1968			To provide appropriations for the implementation of RA 4273 and salary payments for FY 1969.	"[""Appropriates 100,000 pesos for RA 4273 implementation"", ""Appropriates 25,000 pesos for personnel salaries FY 1969"", ""Includes future funds for San Joaquin Breeding Station"", ""Act takes effect upon approval""]"	Republic Act 4273	"[""appropriation"", ""budget"", ""salary"", ""RA 4273"", ""San Joaquin Breeding Station""]"	"[""RA 5331"", ""appropriation"", ""budget"", ""salary"", ""San Joaquin"", ""Iloilo"", ""RA 4273""]"
+repacts:datasets/markdown/repacts/1968/ra_5332_1968.md	repacts	1968		datasets/markdown/repacts/1968/ra_5332_1968.md	ra_5332_1968	An Act Granting the Jaro Liberty Electric Company, Inc. a Franchise to Install, Maintain and Operate Electric Light, Heat, Power System and Ice Plant in the Municipality of Jaro, Province of Leyte, and to Extend its Electric Light, Heat and Power System and Distribution of Ice for Sale to the Municipalities of Tunga, Alangalang, Santa Fe and Pastrana, that Province	"**REPUBLIC ACT No. 5332**
+
+ An Act Granting the Jaro Liberty Electric Company, Inc. a Franchise to Install, Maintain and Operate Electric Light, Heat, Power System and Ice Plant in the Municipality of Jaro, Province of Leyte, and to Extend its Electric Light, Heat and Power System and Distribution of Ice for Sale to the Municipalities of Tunga, Alangalang, Santa Fe and Pastrana, that Province
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Subject to the terms and conditions imposed by this Act and in Act Numbered Thirty-six hundred and thirty-six, as amended by Commonwealth Act Numbered One hundred and thirty-two, and to the provisions of the Constitution, there is hereby granted to the Jaro Liberty Electric Company, Inc., for a period of twenty-five years from the approval of this Act, the right, privilege and authority to install, maintain and operate electric light, heat, power system and ice plant in the Municipality of Jaro, Province of Leyte, and to extend its electric light, heat, power system and distribution of ice for sale to the municipalities of Tunga, Alangalang, Santa Fe and Pastrana, that province, for the purpose of generating and distributing electric light, heat and/or power and ice for sale in said municipalities.
+
+ **Section 2.** For the purpose of this Act, the grantee shall have the right to harness and develop the Cabayungan River in the Municipality of Jaro, Province of Leyte, for hydroelectric power. The grantee shall further have the right and privilege to install, lay and maintain on all streets, public thoroughfares, bridges and public places with said units, poles, wires, transformers, capacitors, overhead protective devices, and pole line hardware, and other equipment necessary for the safe distribution of electric current to the public. Furthermore, the grantee shall have the right and privilege to buy and import spare parts, vehicles and machinery solely for the use and operation maintenance of the company and/or corporation: *Provided,* However, That the grantee may not sell or dispose of any vehicle or machinery imported under this Act within five years from the date of its purchase without the vendee paying the corresponding tax for the said machinery or vehicle.
+
+ **Section 3.** The grantee shall manufacture and supply ice up to the limit of the capacity of its plant, said limit to be determined by the Public Service Commission.
+
+ **Section 4.** The books, records and accounts of the grantee shall always be open to the inspection of the Auditor General or his authorized representatives and it shall be the duty of the grantee to submit to the Auditor General quarterly reports in duplicate showing the gross receipts for the quarter past.
+
+ **Section 5.** In the event of any competing individual, association of persons or corporation receiving from the Congress of the Republic of the Philippines a similar franchise on which there shall be any terms more favorable than those herein granted or tending to place the herein grantee at any disadvantage, then such term or terms shall ipso facto become a part of the terms hereof and shall operate equally in favor of the grantee as in the case of said competing individual, association of persons or corporation.
+
+ **Section 6.** A consideration of the franchise and rights hereby granted, the grantee shall pay a franchise tax equal to five per centum of the gross earnings for electric current sold under this franchise of which the two per centum shall accrue to the National Government and the other three per centum to the municipality where the franchise is being operated.
+
+ **Section 7.** This Act shall take effect upon its approval.
+
+ Approved: June 15, 1968.
+"	success	Republic Act	The act grants Jaro Liberty Electric Company a 25‑year franchise to operate electric and ice services in Jaro and adjacent municipalities.	"[{""title"": ""Section 1."", ""summary"": ""Grants a 25\u2011year franchise to Jaro Liberty Electric Company for electric light, heat, power, and ice services in specified municipalities.""}, {""title"": ""Section 2."", ""summary"": ""Authorizes the grantee to harness Cabayungan River for hydroelectric power and to install and maintain distribution equipment, with restrictions on vehicle and machinery resale.""}, {""title"": ""Section 3."", ""summary"": ""Mandates the grantee to manufacture and supply ice up to plant capacity.""}, {""title"": ""Section 4."", ""summary"": ""Requires the grantee to keep records open for inspection and submit quarterly reports to the Auditor General.""}, {""title"": ""Section 5."", ""summary"": ""Ensures any more favorable terms from competing franchises become part of this act.""}, {""title"": ""Section 6."", ""summary"": ""Imposes a franchise tax of 5% on gross earnings, split 2% to the national government and 3% to the municipality.""}, {""title"": ""Section 7."", ""summary"": ""Effective upon approval.""}]"	5332	June 15, 1968			To provide Jaro Liberty Electric Company with the franchise to develop and operate electric and ice infrastructure in Jaro and neighboring municipalities, promoting reliable energy and ice supply.	"[""25\u2011year franchise for electric and ice services"", ""Right to harness Cabayungan River for hydroelectric power"", ""Manufacture and supply ice up to plant capacity"", ""Open records for Auditor General inspection"", ""Equal terms with competing franchises"", ""5% franchise tax split between national government and municipality"", ""Effectivity upon approval""]"	Act No. 3636, amended by Commonwealth Act No. 132	"[""Electricity"", ""Franchise"", ""Leyte"", ""Jaro"", ""Ice Plant""]"	"[""electricity"", ""franchise"", ""electric light"", ""heat"", ""power"", ""ice plant"", ""hydroelectric"", ""tax"", ""municipality""]"
+repacts:datasets/markdown/repacts/1968/ra_5333_1968.md	repacts	1968		datasets/markdown/repacts/1968/ra_5333_1968.md	ra_5333_1968	An Act Changing the Name of the Dao Emergency Hospital in the Municipality of Dao, Province of Antique, to Tobias Fornier Memorial Hospital	"**REPUBLIC ACT No. 5333**
+
+ An Act Changing the Name of the Dao Emergency Hospital in the Municipality of Dao, Province of Antique, to Tobias Fornier Memorial Hospital
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Dao Emergency Hospital in the Municipality of Dao, Province of Antique, is hereby changed and hereafter to be known as the Tobias Fornier Memorial Hospital.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 15, 1968.
+"	success	Republic Act	This act changes the name of the Dao Emergency Hospital to Tobias Fornier Memorial Hospital and takes effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""The name of the Dao Emergency Hospital is changed to Tobias Fornier Memorial Hospital.""}, {""title"": ""Section 2."", ""summary"": ""The act shall take effect upon its approval.""}]"	5333	June 15, 1968			To rename Dao Emergency Hospital to Tobias Fornier Memorial Hospital.	"[""The name of the Dao Emergency Hospital is changed to Tobias Fornier Memorial Hospital.""]"		"[""Hospital"", ""Name change"", ""Antique province""]"	"[""Dao"", ""Tobias Fornier"", ""Hospital"", ""Antique""]"
+repacts:datasets/markdown/repacts/1968/ra_5334_1968.md	repacts	1968		datasets/markdown/repacts/1968/ra_5334_1968.md	ra_5334_1968	An Act Providing Funds for Buildings, Equipment, and Facilities of the Asian Center of the University of the Philippines, and for Other Purposes	"**REPUBLIC ACT No. 5334**
+
+ An Act Providing Funds for Buildings, Equipment, and Facilities of the Asian Center of the University of the Philippines, and for Other Purposes
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** It is hereby declared as a national policy to develop a closer and broader contact with or Asian neighbors in the field of learning and scholarship to attain knowledge of our national identity in relation to other Asian nations through profound studies on Asian cultures, histories, social forces and aspirations.
+
+ **Section 2.** Pursuant to this policy, there is hereby established an Asian Center in the University of the Philippines, which shall absorb the present Institute of Asian Studies, its personnel and facilities: *Provided,* That such center shall give primary emphasis on Philippine studies.
+
+ **Section 3.** There is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, the sum of two million and five hundred thousand pesos, for the construction of the necessary buildings in the present site of the University of the Philippines, Diliman, Quezon City, and the purchase of equipment and other facilities needed for teaching, research and field work. Furthermore, there is hereby appropriated the additional sum of one hundred thousand pesos annually out of any funds in the National Treasury for continuous support to the Asian Center.
+
+ **Section 4.** The University of the Philippines may, for the purposes of teaching, research, field work, and other activities of the Asian Center, obtain the services of scholars and technical personnel of any agency of the Philippine Government to provide instruction, perform research or field work and other activities as may be needed. Such personnel may be given honorarium by the University of the Philippines upon recommendation of the Director of the Asian Center, any law to the contrary notwithstanding.
+
+ **Section 5.** This Act shall take effect upon its approval.
+
+ Approved: June 15, 1968.
+"	success	Republic Act	The act establishes the Asian Center at the University of the Philippines, appropriates funds for its construction and operation, and provides for academic support and personnel.	"[{""title"": ""Section 1."", ""summary"": ""Declares national policy to develop closer contact with Asian neighbors in learning and scholarship.""}, {""title"": ""Section 2."", ""summary"": ""Establishes Asian Center absorbing Institute of Asian Studies, emphasizes Philippine studies.""}, {""title"": ""Section 3."", ""summary"": ""Appropriates funds for construction and equipment; additional annual support.""}, {""title"": ""Section 4."", ""summary"": ""Allows U.P. to hire scholars and technical personnel; honorarium provisions.""}, {""title"": ""Section 5."", ""summary"": ""Act takes effect upon approval.""}]"	5334	June 15, 1968	"[{""name"": ""Senate"", ""title"": """"}, {""name"": ""House of Representatives"", ""title"": """"}]"		To provide funds for the Asian Center, develop closer contact with Asian neighbors, and support academic activities.	"[""Establishment of Asian Center"", ""Appropriation of two million five hundred thousand pesos for construction"", ""Annual appropriation of one hundred thousand pesos for ongoing support"", ""Authority to hire scholars and technical personnel"", ""Provision for honorarium for personnel""]"		"[""Education"", ""Culture"", ""Funding"", ""Research""]"	"[""Asian Center"", ""University of the Philippines"", ""funding"", ""research"", ""culture"", ""education""]"
+repacts:datasets/markdown/repacts/1968/ra_5335_1968.md	repacts	1968		datasets/markdown/repacts/1968/ra_5335_1968.md	ra_5335_1968	An Act Declaring the Swamp Reservation in the Municipality of Libertad, Province of Misamis Oriental, as Alienable and Disposable Land and Conveying the Same in Favor of the Aforementioned Municipality to be Used as Permanent Sites for its Public Market, Municipal Hall and Other Public Buildings	"**REPUBLIC ACT No. 5335**
+
+ An Act Declaring the Swamp Reservation in the Municipality of Libertad, Province of Misamis Oriental, as Alienable and Disposable Land and Conveying the Same in Favor of the Aforementioned Municipality to be Used as Permanent Sites for its Public Market, Municipal Hall and Other Public Buildings
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The Libertad Swamp Reservation situated in the Municipality of Libertad, Province of Misamis Oriental, is hereby declared as alienable and disposable land and is hereby conveyed in favor of the aforementioned municipality to be used as permanent sites for its public market, municipal hall and other public buildings.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 15, 1968.
+"	success	Act	The act declares the Libertad Swamp Reservation as alienable and disposable land and conveys it to the Municipality of Libertad for use as a public market, municipal hall, and other public buildings, taking effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The Libertad Swamp Reservation is declared alienable and disposable land and conveyed to the municipality for use as a public market, municipal hall, and other public buildings.""}, {""title"": ""Section 2"", ""summary"": ""The act takes effect upon its approval.""}]"	5335	June 15, 1968			To declare the swamp reservation as alienable and disposable land and convey it to the municipality for public use.	"[""Declaration of the swamp reservation as alienable and disposable land."", ""Conveyance of the land to the municipality for a public market, municipal hall, and other public buildings."", ""Effectivity of the act upon approval.""]"		"[""Land Reform"", ""Public Property"", ""Municipality"", ""Swamp Reservation""]"	"[""Swamp Reservation"", ""Libertad"", ""Misamis Oriental"", ""Alienable Land"", ""Public Market"", ""Municipal Hall"", ""Conveyance"", ""Republic Act 5335""]"
+repacts:datasets/markdown/repacts/1968/ra_5336_1968.md	repacts	1968		datasets/markdown/repacts/1968/ra_5336_1968.md	ra_5336_1968	"An Act Amending Commonwealth Act Numbered Two Hundred Ninety-Four, as Amended, Entitled ""An Act to Regulate the Practice of Mechanical Engineering in the Philippines, to Provide for Licensing the Operating Personnel in Mechanical Plants and for Other Purposes"""	"**REPUBLIC ACT No. 5336**
+
+ An Act Amending Commonwealth Act Numbered Two Hundred Ninety-Four, as Amended, Entitled ""An Act to Regulate the Practice of Mechanical Engineering in the Philippines, to Provide for Licensing the Operating Personnel in Mechanical Plants and for Other Purposes""
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Subparagraph two of section four of Commonwealth Act Numbered Two hundred ninety four, otherwise known as the ""Mechanical Engineering Law"" is hereby amended to read as follows:
+
+ > ""(2) Hold the degree of M.E. or B.S.M.E. or M.M.E. or M.S.M.E., or the equivalent thereof, conferred by an engineering school or college, legally chartered and of recognized standing.""
+
+ **Section 2.** Section eight of the same Act is hereby amended to read as follows:
+
+ > ""Sec. 8. *Compensation of Board.* The members of the Board shall each receive as compensation the sum of ten pesos for each applicant examined or registered without examination for any of the first two grades provided under Section eleven hereof; and five pesos for each applicant registered without examination or examined for the grade of certified plant mechanic: *Provided,* That the total amount shall not exceed the sum of eighteen thousand pesos per annum. Any mechanical engineer in the service of the Government of the Philippines appointed as member of the Board shall receive the compensation herein provided, in addition to his salary. All fees shall be received by the officer designated by competent authority as the collecting officer for the Civil Service Commission, and such officer shall pay all authorized expenses of the Board, including the compensation provided for by this Act for the members of the Board.
+
+ **Section 3.** Section eleven of the same Act is hereby amended to read as follows:
+
+ > ""Sec. 11. *Grades.* Certificates of registration for the practice of mechanical engineering shall be of three grades and in the order of rank as follows:
+>
+>  (1) professional mechanical engineer, (2) mechanical engineer, and (3) certified plant mechanic.""
+
+ **Section 4.** Paragraph (a) of Section thirteen of the same Act is hereby amended to read as follows:
+
+ > ""Sec. 13. *Definition of terms. (a) Mechanical engineering.* A person shall be deemed to be practicing mechanical engineering or rendering mechanical engineering service within the meaning and intent of this Act, who shall, for a fee, salary or other reward or compensation paid to himself or to another person, or even without such reward or compensation, render professional mechanical engineering service in the form of consultation, investigation, valuation, planning, design, or preparation of specifications or estimates for, or take charge of management, administration and supervision of the construction, erection, installation or alteration of, or render engineering service in connection with the manufacture, sale, supply or distribution of, or to manage, operate, tend or maintain any mechanical equipment machinery or process, for any mechanical works, project or plant; or who shall, by means of signs, cards, advertisement or in any other way, offer to practice mechanical engineering or to render professional mechanical engineering service, or who shall in connection with his name, or otherwise, use, assume or advertise any title or description tending to convey the impression that he is a professional mechanical engineer, or mechanical engineer, or certified plant mechanic, or that he is engaged in the practice of mechanical engineering as defined in this Act.""
+
+ **Section 5.** Subparagraphs (c) and (d-1) of Section sixteen of the same Act is hereby amended to read as follows:
+
+ > ""(c) That he is a registered mechanical engineer under the provisions of this Act.
+>
+>  ""(d) That he has graduated from an engineering school or college of recognized standing, after completing an approved course in mechanical engineering of not less than four years; and that after he has been conferred a degree as provided in Section eighteen of this Act he has a specific record of a total of four years or more of active practice in mechanical engineering work of a character satisfactory to the Board, and in an affidavit by one or more registered professional mechanical engineers indicate that the applicant is competent to practice as professional mechanical engineer.
+>
+>  ""In considering the qualifications of applicants, being in charge of mechanical engineering teaching in an engineering school of recognized standing may be regarded as being in active practice in mechanical engineering work.""
+
+ **Section 6.** Subparagraph (d-2) of Section sixteen and Section seventeen of the same Act are hereby repealed.
+
+ **Section 7.** Section eighteen of the same Act is hereby amended to read as follows:
+
+ > ""Sec. 18. *Qualifications of applicant for mechanical engineer.* Any person applying for examination and for a certificate of registration as mechanical engineer shall, prior to admission to examination, establish to the satisfaction of the Board:
+>
+>  ""(a) That he is at least eighteen years of age: *Provided,* That no license shall be issued to him until he reaches the age of twenty-one. ""(b) That he is of good reputation and moral character. ""(c) That he holds the degree of bachelor of science in mechanical engineering, mechanical engineer, master in mechanical engineering, master of science in mechanical engineering, or the equivalent thereof, conferred by a university, school, college, academy or institute duly constituted and recognized as such by the government or the state in which it is established after completing a collegiate course of not less than four years.""
+
+ **Section 8.** Sections twenty-one, twenty-four, and twenty-five of the same Act, as emended, are hereby amended to read as follows:
+
+ > ""Sec. 21. *Scope of examinations.* The examination for professional mechanical engineer shall be testimonial which shall consist of a submission of an enumeration of the applicant's experiences including the presentation of an engineering report pertinent to his line of experience attested to by one or more professional mechanical engineers duly notarized to the satisfaction of the Board.
+>
+>  ""The scope of the examinations and the methods of procedure shall be prescribed by the Board with special reference to the applicant's ability to do the class of engineering work pertaining to the particular grade he is to be registered for, and to prove that said applicant has sufficient technological knowledge to insure safety to life, health and property as well as economy and efficiency in the design, construction, installation, maintenance, operation, organization and management of mechanical plants or works. It shall be the duty of the Board to prepare the programs of examinations and to publish the same at least six months before the date of the examinations wherein they are to be used.
+>
+>  ""Any alteration or amendments that the Board may later wish to introduce in said program shall also be published at least six months before the date of the examinations.
+>
+>  ""Sec. 24. *Registration as professional mechanical engineer without examination.* No examination shall be required of any person who shall, with his application for registration as professional mechanical engineer submitted to the Board after the date this Act becomes effective, present evidence or other proof satisfactory to the Board, showing that, on the date of the approval of this Act, he was a mechanical engineer duly licensed by the Board of Examiners for Mechanical Engineers under Act Numbered Two thousand nine hundred eighty-five of the Philippine Legislature of nineteen hundred twenty-one, as amended.
+>
+>  ""Sec. 25. *Registration as mechanical engineer without examination.* No examination shall be required of any person who shall, with his application for registration as mechanical engineer, submitted to the Board the date this Act becomes effective, present evidence or sufficient proof satisfactory to the Board, showing that, on the date of the approval of this Act, as amended, he was a junior mechanical engineer duly registered by said Board under the original provisions of this Act.""
+
+ **Section 9.** Section twenty-six of the same Act is hereby repealed.
+
+ **Section 10.** Sections twenty-eight, thirty, thirty-six, thirty-seven, thirty-eight, thirty-nine and forty-one of the same Act, as amended, are hereby amended to read as follows:
+
+ > ""Sec. 28. *Issuance of certificates.* The Board shall issue a certificate of registration upon payment of the registration fee as provided for in this Act, to any applicant who, in the opinion of the Board and after approval of his ratings by the Office of the President, has satisfactorily met all the requirements specified in this Act for the particular grade for which he is registering.
+>
+>  ""All certificates of registration shall show the full name of the registrant, shall have a serial number, and shall be signed by all the members of the Board and the Commissioner of Civil Service, and shall be attested by the official seal.
+>
+>  ""The issuance of a certificate of registration by the Board to a registrant shall be evidence that the person named therein is entitled to all the rights and privileges of a registered professional mechanical engineer, mechanical engineer, certified plant mechanical, as the case may be, while said certificate remains unrevoked or unsuspended.
+>
+>  ""Sec. 30. *Fees for examination and registration.* Every applicant for examination for the grade of professional mechanical engineer or mechanical engineer shall pay an examination fee of fifty pesos; and for the grade of certified plant mechanic, a fee of twenty pesos; which fee shall accompany the application.

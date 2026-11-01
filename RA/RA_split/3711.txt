@@ -1,0 +1,185 @@
+
+ | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.)**MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved: Lapsed into law on JUN 02, 2022 without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.
+
+ **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	Renames the municipality of Lista, Ifugao as Alfonso Lista and sets its effective date upon a plebiscite with majority approval.	"[{""title"": ""Section 1."", ""summary"": ""The Municipality of Lista in the Province of Ifugao is hereby renamed as Alfonso Lista.""}, {""title"": ""Section 2."", ""summary"": ""The renaming shall be effective upon ratification of the majority of qualified voters in a plebiscite supervised by the Commission on Elections; expenses for the plebiscite shall be borne by the Municipality of Lista, Province of Ifugao.""}, {""title"": ""Section 3."", ""summary"": ""The Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.""}]"	11813	2022-06-02			To rename the municipality of Lista in the Province of Ifugao as Alfonso Lista.	"[""Renaming of Municipality of Lista to Alfonso Lista"", ""Effective upon majority in plebiscite and ratification"", ""Expenses borne by Municipality of Lista"", ""Effectivity fifteen days after publication""]"		"[""Renaming"", ""Municipality"", ""Ifugao"", ""Republic Act 11813""]"	"[""municipality"", ""Lista"", ""Alfonso Lista"", ""Ifugao"", ""renaming"", ""plebiscite""]"
+repacts:datasets/markdown/repacts/2022/ra_11814_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11814_2022.md	ra_11814_2022	AN ACT RENAMING THE MUNICIPALITY OF SAN ISIDRO, PROVINCE OF DAVAO DEL NORTE AS THE MUNICIPALITY OF SAWATA AND ITS BARANGAY SAWATA AS BARANGAY POBLACION, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 9265, ENTITLED AN ACT CREATING THE MUNICIPALITY OF SAN ISIDRO IN THE PROVINCE OF DAVAO DEL NORTE	"Eighteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-sixth day of July, two thousand twenty one.*
+
+ **[ REPUBLIC ACT NO. 11814, June 02, 2022 ]**
+
+ **AN ACT RENAMING THE MUNICIPALITY OF SAN ISIDRO, PROVINCE OF DAVAO DEL NORTE AS THE MUNICIPALITY OF SAWATA AND ITS BARANGAY SAWATA AS BARANGAY POBLACION, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 9265, ENTITLED AN ACT CREATING THE MUNICIPALITY OF SAN ISIDRO IN THE PROVINCE OF DAVAO DEL NORTE**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** The Municipality of San Isidro in the Province of Davao del Norte is hereby renamed as the Municipality of Sawata.
+
+ **Section 2.** The present Barangay Sawata referred to in Republic Act No. 9265, entitled An Act Creating the Municipality of San Isidro in the Province of Davao del Norte, is hereby renamed as Barangay Poblacion.
+
+ **Section 3.** The change of name of the subject municipality and barangay shall be effective upon ratification by the majority of the votes cast by qualified voters in separate plebiscites to be conducted and supervised by the Commission on Elections (COMELEC) in the present (1) Municipality of San Isidro, Province of Davao del Norte; and (2) Barangay Sawata, Municipality of San Isidro, Province of Davao del Norte.
+
+ The expenses for both plebiscites shall be borne by the Municipality of San Isidro, Province of Davao del Norte.
+
+ **Section 4.** This Act shall take effect fifteen (15) days after its publication in theOfficial Gazetteor in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.)**VICENTE C. SOTTO III** President of the Senate | (SGD.)**LORD ALAN JAY Q. VELASCO** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives on August 3, 2021, amended by the Senate of the Philippines on January 31, 2022, and which amendments was concurred in by the House of Representatives on February 2, 2022.
+
+ | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.)**MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved: Lapsed into law on JUN 02, 2022 without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.
+
+ **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	The Act renames the Municipality of San Isidro to Sawata and Barangay Sawata to Barangay Poblacion in Davao del Norte, effective upon plebiscite, amending RA 9265.	"[{""title"": ""Section 1."", ""summary"": ""Renames the Municipality of San Isidro to Sawata.""}, {""title"": ""Section 2."", ""summary"": ""Renames Barangay Sawata to Barangay Poblacion.""}, {""title"": ""Section 3."", ""summary"": ""Effectiveness upon plebiscite by majority vote; expenses borne by the municipality.""}, {""title"": ""Section 4."", ""summary"": ""Act takes effect 15 days after publication in Official Gazette or newspaper.""}]"	REPUBLIC ACT NO. 11814	June 02, 2022			To rename the Municipality of San Isidro to Sawata and Barangay Sawata to Barangay Poblacion in Davao del Norte, and amend RA 9265.	"[""Renaming of Municipality of San Isidro to Sawata."", ""Renaming of Barangay Sawata to Barangay Poblacion."", ""Effective upon plebiscite with majority vote."", ""Expenses for plebiscites borne by the Municipality of San Isidro."", ""Act takes effect 15 days after publication.""]"	Republic Act No. 9265	"[""Renaming"", ""Municipality"", ""Barangay"", ""Davao del Norte"", ""Republic Act"", ""Plebiscite""]"	"[""San Isidro"", ""Sawata"", ""Barangay Poblacion"", ""COMELEC"", ""RA 11814"", ""RA 9265""]"
+repacts:datasets/markdown/repacts/2022/ra_11815_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11815_2022.md	ra_11815_2022	AN ACT ESTABLISHING A DISTRICT OFFICE OF THE LAND TRANSPORTATION OFFICE (LTO) IN THE MUNICIPALITY OF LABO IN THE FIRST DISTRICT OF CAMARINES NORTE, AND APPROPRIATING FUNDS THEREFOR	"Eighteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-sixth day of July, two thousand twenty one.*
+
+ **[ REPUBLIC ACT NO. 11815, June 02, 2022 ]**
+
+ **AN ACT ESTABLISHING A DISTRICT OFFICE OF THE LAND TRANSPORTATION OFFICE (LTO) IN THE MUNICIPALITY OF LABO IN THE FIRST DISTRICT OF CAMARINES NORTE, AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** There is hereby established a district office of the Land Transportation Office (LTO) which shall be located in the Municipality of Labo, and which shall serve the First District of Camarines Norte comprised of the municipalities of Capalonga, Jose Panganiban, Labo, Paracale, and Santa Elena.
+
+ **Section 2.** The Secretary of the Department of Transportation shall immediately include in the Department's program the operationalization of the LTO district office in the Municipality of Labo, Province of Camarines Norte, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 3.** The Secretary of the Department of Transportation shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 4.** This Act shall take effect fifteen (15) days after its publication in theOfficial Gazetteor in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.)**VICENTE C. SOTTO III** President of the Senate | (SGD.)**LORD ALAN JAY Q. VELASCO** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives on February 4, 2020, amended by the Senate of the Philippines on January 31, 2022, and which amendments was concurred in by the House of Representatives on February 2, 2022.
+
+ | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.)**MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved: Lapsed into law on JUN 02, 2022 without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.
+
+ **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Act	Establishes a district office of the Land Transportation Office (LTO) in Labo, Camarines Norte, authorizes its funding and operationalization, and sets its effective date 15 days after publication.	"[{""title"": ""Section 1."", ""summary"": ""Establishes a district office of the LTO in the Municipality of Labo, serving the First District of Camarines Norte, comprising the municipalities of Capalonga, Jose Panganiban, Labo, Paracale, and Santa Elena.""}, {""title"": ""Section 2."", ""summary"": ""The Secretary of the Department of Transportation shall immediately include in the Department's program the operationalization and funding of the LTO district office in the Municipality of Labo, with funding included in the annual General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""The Secretary of the Department of Transportation shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.""}, {""title"": ""Section 4."", ""summary"": ""This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.""}]"	REPUBLIC ACT NO. 11815	June 02, 2022			To establish a district office of the Land Transportation Office (LTO) in Labo, Camarines Norte, and provide funding for its operation and regulatory framework.	"[""Establishment of LTO district office in Labo"", ""Secretary of DOT to operationalize and fund the office"", ""Issuance of rules and regulations for the office"", ""Effective 15 days after publication""]"		"[""Land Transportation"", ""LTO"", ""Camarines Norte"", ""District Office"", ""Republic Act"", ""Infrastructure""]"	"[""Land Transportation Office"", ""LTO"", ""district office"", ""Camarines Norte"", ""Labo"", ""funding"", ""operationalization"", ""rules and regulations"", ""effective date""]"
+repacts:datasets/markdown/repacts/2022/ra_11816_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11816_2022.md	ra_11816_2022	AN ACT ESTABLISHING A DISTRICT OFFICE OF THE LAND TRANSPORTATION OFFICE (LTO) IN THE MUNICIPALITY OF ALIAGA, PROVINCE OF NUEVA ECIJA, AND APPROPRIATING FUNDS THEREFOR	"Eighteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-sixth day of July, two thousand twenty one.*
+
+ **[ REPUBLIC ACT NO. 11816, June 02, 2022 ]**
+
+ **AN ACT ESTABLISHING A DISTRICT OFFICE OF THE LAND TRANSPORTATION OFFICE (LTO) IN THE MUNICIPALITY OF ALIAGA, PROVINCE OF NUEVA ECIJA, AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** There is hereby established a district office of the Land Transportation Office (LTO) in the Municipality of Aliaga, Province of Nueva Ecija to be known as the Aliaga Land Transportation Office District Office.
+
+ **Section 2.** The Secretary of the Department of Transportation shall immediately include in the Department's program the operationalization of the LTO district office in the Municipality of Aliaga, Province of Nueva Ecija, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 3.** The Secretary of the Department of Transportation shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 4.** This Act shall take effect fifteen (15) days after its publication in theOfficial Gazetteor in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.)**VICENTE C. SOTTO III** President of the Senate | (SGD.)**LORD ALAN JAY Q. VELASCO** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives on January 27, 2020, amended by the Senate of the Philippines on January 31, 2022, and which amendments was concurred in by the House of Representatives on February 2, 2022.
+
+ | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.)**MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved: Lapsed into law on JUN 02, 2022 without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.
+
+ **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	Establishes a district office of the Land Transportation Office (LTO) in the Municipality of Aliaga, Nueva Ecija, appropriating funds for its operation and mandating the Secretary of Transportation to incorporate it into the General Appropriations Act and issue necessary rules and regulations.	"[{""title"": ""Section 1"", ""summary"": ""Establishes the Aliaga Land Transportation Office District Office.""}, {""title"": ""Section 2"", ""summary"": ""Requires the Secretary of Transportation to include the operationalization and funding of the Aliaga LTO district office in the Department's program and the General Appropriations Act.""}, {""title"": ""Section 3"", ""summary"": ""Mandates the Secretary of Transportation to issue rules and regulations necessary to carry out the purpose of the Act.""}, {""title"": ""Section 4"", ""summary"": ""The Act takes effect fifteen days after its publication in the Official Gazette or a newspaper of general circulation.""}]"	RA 11816	June 02, 2022			To establish and fund a district office of the Land Transportation Office in Aliaga, Nueva Ecija.	"[""Establishment of the Aliaga LTO district office"", ""Inclusion of its operationalization and funding in the General Appropriations Act"", ""Issuance of rules and regulations by the Secretary of Transportation"", ""Effectivity fifteen days after publication""]"		"[""Transportation"", ""Local Government"", ""Land Transportation Office""]"	"[""Land Transportation Office"", ""Aliaga"", ""Nueva Ecija"", ""District Office"", ""Appropriations"", ""Operationalization"", ""Rules and Regulations""]"
+repacts:datasets/markdown/repacts/2022/ra_11817_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11817_2022.md	ra_11817_2022	AN ACT CONVERTING THE EXTENSION OFFICE OF THE LAND TRANSPORTATION OFFICE (LTO) IN THE MUNICIPALITY OF JAVIER, PROVINCE OF LEYTE, INTO A REGULAR DISTRICT OFFICE AND APPROPRIATING FUNDS THEREFOR	"Eighteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-sixth day of July, two thousand twenty one.*
+
+ **[ REPUBLIC ACT NO. 11817, June 02, 2022 ]**
+
+ **AN ACT CONVERTING THE EXTENSION OFFICE OF THE LAND TRANSPORTATION OFFICE (LTO) IN THE MUNICIPALITY OF JAVIER, PROVINCE OF LEYTE, INTO A REGULAR DISTRICT OFFICE AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** The extension office of the Land Transportation Office (LTO) in the Municipality of Javier, Province of Leyte, is hereby converted into a regular district office to be known as the LTO Javier District Office.
+
+ **Section 2.** The Secretary of the Department of Transportation shall immediately include in the Department's program the operationalization of the LTO district office in the Municipality of Javier, Province of Leyte, the initial funding of which shall be charged against the current year's appropriation of the LTO Javier extension office. Thereafter, such sums as may be necessary for the continued operation of the regular LTO district office shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect fifteen (15) days after its publication in theOfficial Gazetteor in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.)**VICENTE C. SOTTO III** President of the Senate | (SGD.)**LORD ALAN JAY Q. VELASCO** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives on January 27, 2020, amended by the Senate of the Philippines on January 31, 2022, and which amendments was concurred in by the House of Representatives on February 2, 2022.
+
+ | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.)**MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved: Lapsed into law on JUN 02, 2022 without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.
+
+ **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	The act converts the extension office of the Land Transportation Office (LTO) in the Municipality of Javier, Province of Leyte into a regular district office and appropriates funds for its operation.	"[{""title"": ""Section 1"", ""summary"": ""The extension office of the LTO in Javier, Leyte is converted into a regular district office known as the LTO Javier District Office.""}, {""title"": ""Section 2"", ""summary"": ""The Secretary of the Department of Transportation shall include the operationalization of the new district office in the department\u2019s program and fund it from the current year\u2019s appropriation and subsequent General Appropriations Acts.""}, {""title"": ""Section 3"", ""summary"": ""The act will take effect fifteen days after its publication in the Official Gazette or a newspaper of general circulation.""}]"	REPUBLIC ACT NO. 11817	June 02, 2022	"[{""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}, {""name"": ""LORD ALAN JAY Q. VELASCO"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""MYRA MARIE D. VILLARICA"", ""title"": ""Secretary of the Senate""}, {""name"": ""MARK LLANDRO L. MENDOZA"", ""title"": ""Secretary General House of Representatives""}]"	To convert the extension office of the Land Transportation Office in Javier, Leyte into a regular district office and provide the necessary appropriations for its operation.	"[""Conversion of the LTO extension office into a regular district office"", ""Secretary of DOT to operationalize and fund the new office"", ""Effectivity fifteen days after publication""]"		"[""Transportation"", ""Local Government"", ""Public Service"", ""LTO"", ""Leyte""]"	"[""Land Transportation Office"", ""district office"", ""Leyte"", ""Javier"", ""appropriation"", ""funding"", ""effectivity"", ""transportation"", ""government""]"
+repacts:datasets/markdown/repacts/2022/ra_11818_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11818_2022.md	ra_11818_2022	AN ACT CONVERTING THE LAND TRANSPORTATION OFFICE (LTO) LICENSING EXTENSION OFFICE IN BACOLOD CITY INTO A REGULAR LICENSING CENTER TO BE KNOWN AS THE NEGROS OCCIDENTAL LICENSING CENTER, AND APPROPRIATING FUNDS THEREFOR	"Eighteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-sixth day of July, two thousand twenty one.*
+
+ **[ REPUBLIC ACT NO. 11818, June 02, 2022 ]**
+
+ **AN ACT CONVERTING THE LAND TRANSPORTATION OFFICE (LTO) LICENSING EXTENSION OFFICE IN BACOLOD CITY INTO A REGULAR LICENSING CENTER TO BE KNOWN AS THE NEGROS OCCIDENTAL LICENSING CENTER, AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.**Conversion into a Regular Licensing Center. -The Land Transportation Office (LTO) Licensing Extension Office in Bacolod City is hereby converted into a regular licensing center to be known as the Negros Occidental Licensing Center.
+
+ **Section 2.**Appropriations. -The Secretary of Transportation shall immediately include in the Department's program the operationalization of the Negros Occidental Licensing Center in the City of Bacolod, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect fifteen (15) days after its publication in theOfficial Gazetteor in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.)**VICENTE C. SOTTO III** President of the Senate | (SGD.)**LORD ALAN JAY Q. VELASCO** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives on December 16, 2020, amended by the Senate of the Philippines on January 31, 2022, and which amendments was concurred in by the House of Representatives on February 2, 2022.
+
+ | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.)**MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved: Lapsed into law on JUN 02, 2022 without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.
+
+ **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	Converts the LTO Licensing Extension Office in Bacolod City into a regular licensing center known as the Negros Occidental Licensing Center, appropriating funds for its operation.	"[{""title"": ""Section 1. Conversion into a Regular Licensing Center"", ""summary"": ""The Land Transportation Office (LTO) Licensing Extension Office in Bacolod City is hereby converted into a regular licensing center to be known as the Negros Occidental Licensing Center.""}, {""title"": ""Section 2. Appropriations"", ""summary"": ""The Secretary of Transportation shall immediately include in the Department's program the operationalization of the Negros Occidental Licensing Center in the City of Bacolod, with funding included in the annual General Appropriations Act.""}, {""title"": ""Section 3. Effective Date"", ""summary"": ""This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.""}]"	RA 11818	June 02, 2022	"[{""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}, {""name"": ""LORD ALAN JAY Q. VELASCO"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""MYRA MARIE D. VILLARICA"", ""title"": ""Secretary of the Senate""}, {""name"": ""MARK LLANDRO L. MENDOZA"", ""title"": ""Secretary General House of Representatives""}]"		"[""Conversion of the LTO Licensing Extension Office in Bacolod City into a regular licensing center named Negros Occidental Licensing Center."", ""Appropriation of funds for the operationalization of the center, to be included in the annual General Appropriations Act."", ""Act takes effect fifteen days after publication in the Official Gazette or a newspaper of general circulation.""]"		"[""Transportation"", ""Licensing"", ""Negros Occidental"", ""Republic Act"", ""LTO""]"	"[""Land Transportation Office"", ""Licensing Extension Office"", ""Regular Licensing Center"", ""Negros Occidental Licensing Center"", ""Appropriations"", ""Effective Date""]"
+repacts:datasets/markdown/repacts/2022/ra_11819_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11819_2022.md	ra_11819_2022	AN ACT CONVERTING THE SATELLITE OFFICE OF THE LAND TRANSPORTATION OFFICE (LTO) LOCATED IN THE MUNICIPALITY OF INITAO, PROVINCE OF MISAMIS ORIENTAL INTO A REGULAR LTO DISTRICT OFFICE, AND APPROPRIATING FUNDS THEREFOR	"Eighteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-sixth day of July, two thousand twenty one.*
+
+ **[ REPUBLIC ACT NO. 11819, June 02, 2022 ]**
+
+ **AN ACT CONVERTING THE SATELLITE OFFICE OF THE LAND TRANSPORTATION OFFICE (LTO) LOCATED IN THE MUNICIPALITY OF INITAO, PROVINCE OF MISAMIS ORIENTAL INTO A REGULAR LTO DISTRICT OFFICE, AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** The Satellite Office of the Land Transportation Office (LTO) in the Municipality of Initao, Province of Misamis Oriental is hereby converted into a regular LTO district office to be known as the LTO District Office of Initao, Misamis Oriental.
+
+ **Section 2.** The Secretary of Transportation shall immediately include in the Department's program the operationalization of a regular LTO district office in the Municipality of Initao, Province of Misamis Oriental, the initial funding of which shall be charged against the current year's appropriations of the Initao LTO Satellite Office located in the Municipality of Initao, Province of Misamis Oriental. Thereafter, such sums as may be necessary for the continued operation of the regular LTO district office shall be included in the annual General Appropriations Act.
+
+ **Section 3.** Within ninety (90) days from the effectivity of this Act, the Secretary of Transportation shall promulgate the rules and regulations necessary for its effective implementation.
+
+ **Section 4.** This Act shall take effect fifteen (15) days after its publication in theOfficial Gazetteor in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.)**VICENTE C. SOTTO III** President of the Senate | (SGD.)**LORD ALAN JAY Q. VELASCO** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on January 27, 2022 and January 31, 2022, respectively.
+
+ | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.)**MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved: Lapsed into law on JUN 02, 2022 without the signature of the President, in accordance with Article VI, Section 27 (1) of the Constitution.
+
+ **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	Converts the LTO satellite office in Initao, Misamis Oriental into a regular LTO district office and appropriates funds for its operation.	"[{""title"": ""Section 1"", ""summary"": ""The Satellite Office of the LTO in Initao is converted into a regular LTO district office named LTO District Office of Initao, Misamis Oriental.""}, {""title"": ""Section 2"", ""summary"": ""Secretary of Transportation to include operationalization in program and appropriate initial funding from current year's appropriations, with continued operation funded annually.""}, {""title"": ""Section 3"", ""summary"": ""Within 90 days from effectivity, Secretary of Transportation shall promulgate rules and regulations necessary for effective implementation.""}, {""title"": ""Section 4"", ""summary"": ""Act takes effect 15 days after publication in Official Gazette or a newspaper of general circulation.""}]"	11819	June 02, 2022	"[{""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}, {""name"": ""LORD ALAN JAY Q. VELASCO"", ""title"": ""Speaker of the House of Representatives""}, {""name"": ""MYRA MARIE D. VILLARICA"", ""title"": ""Secretary of the Senate""}, {""name"": ""MARK LLANDRO L. MENDOZA"", ""title"": ""Secretary General of the House of Representatives""}]"		To convert the LTO satellite office into a regular LTO district office and provide appropriation for its operation.	"[""Conversion of the LTO satellite office in Initao into a regular LTO district office."", ""Secretary of Transportation to include operationalization in program and appropriate funds."", ""Within 90 days, Secretary to promulgate rules and regulations."", ""Act takes effect 15 days after publication.""]"		"[""Transportation"", ""Local Government"", ""LTO"", ""Misamis Oriental"", ""Public Administration""]"	"[""Land Transportation Office"", ""LTO"", ""district office"", ""Initao"", ""Misamis Oriental"", ""appropriation"", ""rules and regulations""]"

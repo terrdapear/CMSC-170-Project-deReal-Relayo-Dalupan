@@ -1,0 +1,213 @@
+
+ c. For the purposes of this section, the causative wounds, injuries, sickness or disease shall be presumed to have been received or contracted, or aggravated, in line of duty in the absence of evidence clearly showing the contrary.
+
+ d. The death gratuity herein provided shall be paid in addition to the retirement and other benefits payable under existing laws on account of the decedent's death:*Provided,*That in computing the amount of such benefits, additional pay and allowances for service overseas shall not be considered.
+
+ **Section 7.***Disability pension.* -
+
+ | PAY AND ALLOWANCES |  |  |
+| --- | --- | --- |
+| 1 | Pay and commutation of quarters for officers and enlisted men, including longevity and overseas duty pay | P2,905,500.00 |
+| 2 | Overseas duty bonus at P100 per enlisted man returning from service overseas | 144,400.00 |
+| 3 | Subsistence of officers and enlisted men at P2 per day | 732,500.00 |
+| 4 | Pay and allowances of personnel replacements at home | 1,395,600.00 |
+|  | Total for pay and allowances | P5,178,000.00 ============ |
+| COMPENSATION FOR DEATH AND DISABILITY |  |  |
+| 5 | Death gratuity | P2,512,500.00 |
+| 6 | Disability pension | 627,200.00 |
+|  | Total for compensation for death and disability | P3,139,700.00 ============ |
+| ARMAMENT, EQUIPMENT AND SUPPLIES |  |  |
+| 7 | Purchase of initial engineer, medical, ordnance, quartermaster and signal supplies and equipment | P8,000,000.00 ============ |
+| SUNDRY EXPENSES |  |  |
+| 8 | Transportation | P445,700.00 |
+| 9 | Temporary shelter | 157,000.00 |
+| 10 | Training requirements | 1,000,000.00 |
+| 11 | Recreation and welfare activities | 35,000.00 |
+|  | Total for sundry expenses | P1,637,700.00 ============ |
+| SUMMARY |  |  |
+|  | Total for pay and allowances | P5,178,000.00 |
+|  | Total for compensation for death and disability | 3,139,700.00 |
+|  | Total for armament, equipment and supplies | 8,000,000.00 |
+|  | Total for sundry expenses | 1,637,700.00 |
+|  | Total | P17,955,400 ============ |
+"	success	Republic Act	The law establishes a Philippine Expeditionary Force to assist the United Nations in Korea, sets pay, allowances, and benefits for service overseas, provides death gratuity and disability compensation, and appropriates funds for these purposes.	"[{""title"": ""Section 1. Short title"", ""summary"": ""Defines the act\u2019s short title as the \""Philippine Military Aid to the United Nations Act\"".""}, {""title"": ""Section 2. Declaration of policy"", ""summary"": ""Outlines the intent to immediately organize a Philippine Expeditionary Force, including ground, air, and naval units, and to provide pay, allowances, and material support for its members.""}, {""title"": ""Section 3. Applicability; definitions"", ""summary"": ""Specifies that the act applies to officers and enlisted men of the Armed Forces serving in the Philippine Expeditionary Force and defines key terms such as \""service overseas\"".""}, {""title"": ""Section 4. Additional pay for overseas duly"", ""summary"": ""Details additional pay for officers and enlisted men, including overseas pay, longevity pay, and overseas duty bonus, with conditions and limitations.""}, {""title"": ""Section 5. Allowances"", ""summary"": ""Provides for rations, accommodations, medical attendance, clothing, and subsistence allowances for officers and enlisted men.""}, {""title"": ""Section 6. Death gratuity"", ""summary"": ""Establishes a death gratuity of five thousand pesos for surviving spouses and children, with provisions for payment and eligibility.""}]"	REPUBLIC ACT NO. 573	September 07, 1950			To establish and support a Philippine Expeditionary Force for UN service, set pay and allowances for its members, provide death and disability compensation, and appropriate necessary funds.	"[""Organization of Philippine Expeditionary Force for UN service"", ""Pay and allowances for officers and enlisted men serving overseas"", ""Death gratuity of five thousand pesos for survivors"", ""Disability compensation provisions"", ""Appropriation of funds for force and compensation""]"	National Defense Act (RA 315), Commonwealth Act 408	"[""Defense"", ""Military"", ""UN"", ""Pay"", ""Compensation"", ""Philippines""]"	"[""Philippine Expeditionary Force"", ""United Nations"", ""pay"", ""allowances"", ""death gratuity"", ""disability compensation"", ""armed forces"", ""service overseas""]"
+repacts:datasets/markdown/repacts/1950/ra_574_1950.md	repacts	1950		datasets/markdown/repacts/1950/ra_574_1950.md	ra_574_1950	AN ACT TO AMEND SECTION SIX OF ACT NUMBERED FORTY-ONE HUNDRED AND THIRTY, AS AMENDED	"**[ REPUBLIC ACT NO. 574, September 08, 1950 ]**
+
+ AN ACT TO AMEND SECTION SIX OF ACT NUMBERED FORTY-ONE HUNDRED AND THIRTY, AS AMENDED.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Section six of Act Numbered Forty-one hundred and thirty, as amended, is hereby amended to read as follows:
+
+ ""**Section 6.** The holding of horse races and sale of tickets authorized by this Act shall be exempt from the payment of any tax, except the tickets each of which shall bear a twelve-centavo internal revenue stamp. The tickets shall be printed in the Government Bureau of Printing and shall be considered as government securities, and any person forging or altering the same shall be subject to the provisions of the Revised Penal Code governing such cases.""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, September 8, 1950.
+"	success	Act	Amends Section 6 of Act No. 41-130 to exempt the holding of horse races and sale of tickets from tax, except that tickets must bear a 12-centavo internal revenue stamp and be printed by the Government Bureau of Printing. Forgery or alteration of tickets is subject to the Revised Penal Code.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 6 of Act No. 41-130 to exempt horse race ticket sales from tax, subject to a 12-centavo stamp and printing by the Government Bureau of Printing, and imposes Revised Penal Code penalties for forgery or alteration.""}, {""title"": ""Section 2"", ""summary"": ""The Act takes effect upon its approval.""}]"	Republic Act No. 574	September 08, 1950			To amend existing tax law to provide exemption for horse race ticket sales while maintaining stamp and printing requirements and criminal penalties for forgery.	"[""Amendment of Section 6 to exempt horse race ticket sales from tax except for tickets bearing a 12-centavo stamp."", ""Tickets must be printed by the Government Bureau of Printing and considered government securities."", ""Forgery or alteration of tickets is punishable under the Revised Penal Code.""]"	Act No. 41-130	"[""tax exemption"", ""horse racing"", ""ticket sales"", ""internal revenue stamp"", ""Revised Penal Code""]"	"[""horse race"", ""tax"", ""ticket"", ""stamp"", ""government securities"", ""forgery"", ""Revised Penal Code""]"
+repacts:datasets/markdown/repacts/1950/ra_576_1950.md	repacts	1950		datasets/markdown/repacts/1950/ra_576_1950.md	ra_576_1950	Act Appropriating Additional Funds for the Armed Forces of the Philippines During the Period from September First, 1950 to June Thirtieth, 1951	"**[ REPUBLIC ACT NO. 576, September 08, 1950 ]**
+
+ ACT APPROPRIATING ADDITIONAL FUNDS FOR THE ARMED FORCES OF THE PHILIPPINES DURING THE PERIOD FROM SEPTEMBER FIRST, NINETEEN HUNDRED AND FIFTY TO JUNE THIRTIETH, NINETEEN HUNDRED AND FIFTY-ONE.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The following sums, or so much thereof as may be necessary, arc appropriated out of any funds in the Philippine Treasury not otherwise appropriated as additional funds for the Armed Forces of the Philippines during the period from September first, nineteen hundred and fifty to June thirtieth, nineteen hundred and fifty-one:
+
+ L. - DEPARTMENT OF NATIONAL DEFENSE
+
+ IV. - SPECIAL PURPOSE
+
+ | 6a. For additional subsistence of troops assigned in active field operations at P1 per day:*Provided,*That no portion of this appropriation shall be transferred to any other item | P6,500,000.00 |
+| --- | --- |
+| 6b. For expenses for hospitalization of veterans | 210,000.00 |
+| 6c. For the employment of temporary employees for the manufacture of an encoding and decoding device | 30,000.00 |
+| Total for special purposes | P6,740,000.00 |
+| (b)PHILIPPINE A1R FORCE |  |
+| 1. Base pay and longevity pay of officers | P431.400.00 |
+| 2. Flying pay of officers on flying status and per diems of special air corps instructor | 252,500.00 |
+| 3. Rentals and commutation of quarters for officers | 73,600.00 |
+| 4. Base pay of enlisted men | 451,600.00 |
+| 5. Hazardous duty pay in accordance with section l(a), Republic Act No. 315 | 16,600.00 |
+| 6. Flying pay of enlisted men | 174,170.00 |
+| 7. Additional pay for air mechanics | 45,800.00 |
+| 8. Additional pay for air specialists. | 78,300.00 |
+| 9. Reenlistment bonus | 9,860.00 |
+| 10. Clothing allowance of enlisted men | 99,300.00 |
+| 11. Rental and commutation of quarters of enlisted men | 70,500.00 |
+| 12. Extra premium on insurance policies of officers and enlisted men provided under section 24, Commonwealth Act No. 186 | 2,380.00 |
+| 13. Subsistence of able-bodied enlisted men | 166,800.00 |
+| 14. Commutation of subsistence allowance of able-bodied officers at P1 each per day | 44,800,00 |
+| 15. Subsistence of officers and enlisted men patients confined in Army Hospitals at P2 each per day | 12,350.00 |
+| 16. Maintenance, operation, upkeep and rentals of ACWS units, stations, and buildings | 10,000.00 |
+| 17. Transportation of military personnel transferred from one base to another and perdiems and sundry expenses of personnel on official mission pursuant to military orders | 30,000.00 |
+| 18. Aerial armament | 100,000.00 |
+| 19. Chemical equipment | 2,300.00 |
+| 20. Engineer equipment | 8,000.00 |
+| 21. Ordnance equipment including maintenance and repair thereof | 50,000.00 |
+| 22. Quartermaster equipment | 5,000.00 |
+| 23. Signal and radar equipment | 200,000.00 |
+| 24. Air corps equipment | 500,000.00 |
+| 25. Maintenance and repair of PAF equipment, facilities and installations | 200,000.00 |
+| 26. Supplies, maintenance and repair of ACWS equipment | 30,000.00 |
+| 27. Weather equipment including maintenance and repair | 8,000.00 |
+| 28. Photographic equipment including maintenance and repair | 10,000.00 |
+| 29. Air corps supplies | 535,000.00 |
+| 30. Engineer supplies | 30,000.00 |
+| 31. Medical supplies | 4,000.00 |
+| 32. Ordnance supplies | 12,000.00 |
+| 33. Quartermaster supplies | 32,000.00 |
+| 34. Signal supplies | 14,000.00 |
+| 35. Weather supplies | 2,000.00 |
+| 36. Photographic supplies | 10,000.00 |
+| 37. Postal, telegraph, telephone, cable and radio service | 2,000.00 |
+| 38. For intelligence and counter-intelligence work, miscellaneous, incidental and contingent expenses of the PAF, and compensation to owners of private properties damaged by troops during aerial maneuvers, practice march or any other lawful activity incidental to the military service | 25,000.00 |
+|  |  |
+| Total for the Philippine Air Force | P3,749,260.00 |
+| (e) PHILIPPINE NAVAL PATROL |  |
+| 1. Base pay and longevity pay of officers | P537,560.00 |
+| 2. Sea duty pay at 10 per cent of base pay | 16,460.00 |
+| 3. Rental and commutation of quarters for officers | 74,300.00 |
+|  |  |
+| 4. Base pay of enlisted men | 653,850.00 |
+| 5. Hazardous duty pay | 16,650.00 |
+| 6. Sea duty pay at 10 per cent of base pay | 56,370.00 |
+| 7. Reenlistment bonus | 26,645.00 |
+| 8. Rental and commutation of quarters | 123,020.00 |
+| 9. Specialist pay for enlisted men | 205,330.00 |
+| 10. For salaries and wages of emergency laborers, skilled and semi-skilled at a rate not exceeding P6 per day | 100,000.00 |
+| 11. Extra premium on policies of officers and enlisted men | 106,620.00 |
+| 12. Subsistence of officers at P1 daily | 91,250.00 |
+| 13. Subsistence of enlisted men at PI daily | 139,000.00 |
+| 14. Additional subsistence of officers on sea duty at P1 'daily | 23,000.00 |
+|  |  |
+| 15. Additional subsistence of petty officers on sea duty at PI daily | 197,640.00 |
+| 16. Additional subsistence of enlisted men on sea duty at PI daily | 4,260.00 |
+| 17. Maintenance, operation and rentals of stations, base, hospitals and buildings | 83,330.00 |
+| 18. Recreation and athletics | 12,250.00 |
+| 19. Burial expenses for military personnel | 5,000.00 |
+| 20. Transportation of military and civilian personnel transferred from one station to another | 27,000.00 |
+| 21. Transportation and packing of supplies and equipment | 5,000.00 |
+| 22. Supplies for upkeep and repair of motor vehicles | 15,000.00 |
+| 23. Engineering and naval equipment | 30,000.00 |
+| 24. Ordnance equipment | 50,000.00 |
+| 25. Quartermaster equipment | 18,000.00 |
+| 26. Signal equipment | 60,000.00 |
+| 27. Medical and dental equipment | 80,000.00 |
+| 28. Maintenance and upkeep of equipment | 25,000.00 |
+| 29. Ammunition of all calibers | 400,000.00 |
+| 30. Quartermaster supplies | 30,000.00 |
+| 31. Medical and dental supplies | 20,000.00 |
+| 32. Signal supplies to include electronics | 100,000.00 |
+| 33. Engineering and naval supplies | 80,000.00 |
+| 34. Repair and overhaul of vessels | 380,000.00 |
+| 35. Fuel, water, lubricating oil and grease | 503,925.00 |
+| 36. Ship supplies | 211,760.00 |
+| 37. Printing and binding of reports and publications | 10,000.00 |
+| 38. Postal, telegraph, telephone, cable and radio service | 3,000.00 |
+| 39. Miscellaneous services | 10,000.00 |
+| 40. Illumination and power service | 20,000.00 |
+| 41. Clothing allowance for enlisted men | 224,360.00 |
+| 42. For construction of marine slipway for Cavite Base and other repair facilities in connection with repairs of vessels: *Provided,* That no portion of this appropriation shall be transferred to any other item | 1,000,000.00 |
+|  |  |
+| 43. For intelligence and counter-intelligence work, miscellaneous, incidental and contingent expenses including representation expenses of the Commander, Philippine Naval Patrol and payment to owners of private property damaged due to operations | 19,700.00 |
+| Total for the Philippine Naval Patrol | P5,795,280.00 |
+| (e) INTELLIGENCE SERVICE |  |
+| 1. For intelligence, counter-intelligence and propaganda including salaries, travel ing expenses, miscellaneous and incidental expenses in connection with intelligence work : |  |
+| a. Salaries and allowances of secret agents | P400,000.00 |
+| b. Traveling expenses of agents | 350,000.00 |
+| c. Telegrams, postage and communication expenses | 12,500.00 |
+| d. Supplies | 17,000.00 |
+| e. Equipment | 8,300.00 |
+| f. Rewards and purchase of information | 38,300.00 |
+| g. Propaganda | 41,600.00 |
+| h. Miscellaneous | 32,200 00 |
+| Total for the Intelligence Service | P899,900 00 |
+| Totals | P17,184,444.00 |
+| VI. - SPECIAL PROVISION |  |
+| 1. No appropriation in this Act shall be transferred from one command to another. |  |
+
+ **Section 2.** This Act shall take effect on September 1, 1950.
+
+ Approved, September 8, 1950.
+"	success	Republic Act	This act appropriates additional funds for the Armed Forces of the Philippines for the fiscal year 1950-1951, allocating money for the Department of National Defense, Philippine Air Force, and Philippine Naval Patrol.	"[{""title"": ""Section 1."", ""summary"": ""Appropriates sums from the Philippine Treasury for the Armed Forces of the Philippines during the period from September 1, 1950 to June 30, 1951, detailing allocations for various personnel and equipment.""}]"	576	September 08, 1950			Appropriating additional funds for the Armed Forces of the Philippines for the fiscal year 1950-1951.	"[""Allocation of funds to the Department of National Defense, Philippine Air Force, and Philippine Naval Patrol."", ""Specific budget items for personnel pay, equipment, and operational expenses."", ""Special purpose funds for subsistence, hospitalization, and other military needs.""]"			
+repacts:datasets/markdown/repacts/1950/ra_577_1950.md	repacts	1950		datasets/markdown/repacts/1950/ra_577_1950.md	ra_577_1950	AN ACT TO AMEND SECTIONS TWO AND THREE OF REPUBLIC ACT NUMBERED SIXTY-FIVE	"**[ REPUBLIC ACT NO. 577, September 12, 1950 ]**
+
+ AN ACT TO AMEND SECTIONS TWO AND THREE OF REPUBLIC ACT NUMBERED SIXTY-FIVE
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Section two of Republic Act Numbered Sixty-five is hereby amended to read as follows:
+
+ ""**Section 2.** Officers and enlisted men in good standing of the Philippine Army and of any recognized or deserving guerrilla organizations who took active participation in the resistance movement and/or in the liberation drive against the enemy who desire to study, or one child of a veteran in whose favor he renounces such right, shall, upon certification of the Chairman of the Philippine Veterans Board be admitted to any school, college, university or institute authorized by the Government, free from all school fees, including tuition, matriculation, athletic, library, laboratory, medical, ROTC, diploma, and graduation fees:*Provided,* however,That the length within which a veteran may enjoy this benefit shall be determined by the length of his war time service between the period of December eight, nineteen hundred and forty-one to December second, nineteen hundred and forty-five, plus one school year but in no case less than two school years:*Provided,* further,That a school year shall mean four quarters or two semesters and one summer:*Provided,* further,That if after utilizing this period the veteran has not yet finished the course he is taking, the board may in its discretion allow him to finish his course depending on his scholastic standing:*Provided,* further,That the veteran is considered not to be using the number of school year he is entitled to if he is enrolled only in the elementary grades or in the high school:*Provided,* further,That the educational benefit may be utilized for review courses such as the pre-bar and the CPA reviews:*Provided,* further,That the board may in its discretion and for plausible reasons authorize the veteran to change the course which he has originally applied or which he is actually taking:*Provided,* further,That no private school, college, or institute can be compelled to accept any number which exceeds twenty-five per centum of its entire enrolment.""
+
+ **Section 2.** Section three of the same Act is hereby amended to read as follows:
+
+ ""**Section 3.** The benefits of the next preceding section shall be available only to those who signify their desire to study to the Chairman of the Philippine Veterans Board not later than July thirty-one, nineteen hundred and fifty-one.""
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved, September 12, 1950.
+"	success	Republic Act	This Act amends Sections 2 and 3 of Republic Act No. 65 to provide free educational benefits to veterans and their children, establishing eligibility criteria, benefit duration, and conditions for utilization.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 2 of RA 65 to grant free education to veterans and their children, outlining eligibility, benefit period, and board discretion.""}, {""title"": ""Section 2"", ""summary"": ""Amends Section 3 of RA 65 to set a deadline of July 31, 1951 for veterans to express their intent to study.""}, {""title"": ""Section 3"", ""summary"": ""States that the Act takes effect upon its approval.""}]"	577	September 12, 1950			To extend educational benefits to veterans and their children by amending RA 65.	"[""Free education for veterans and their children in government-authorized schools."", ""Eligibility requires active participation in the resistance movement."", ""Benefit period tied to war time service plus one school year, minimum two years."", ""Board discretion for course changes and completion of unfinished courses."", ""Deadline for expressing intent to study: July 31, 1951.""]"	Sections 2 and 3 of Republic Act No. 65	"[""Veterans"", ""Education"", ""Philippines"", ""Republic Act"", ""Military""]"	"[""veterans"", ""education benefits"", ""military service"", ""Philippines"", ""RA 577""]"
+repacts:datasets/markdown/repacts/1950/ra_578_1950.md	repacts	1950		datasets/markdown/repacts/1950/ra_578_1950.md	ra_578_1950	"AN ACT TO AMEND SECTIONS ONE, TEN AND TWELVE OF REPUBLIC ACT NUMBERED FIVE HUNDRED AND SIXTY-TWO, OTHERWISE KNOWN AS THE ""ALIEN REGISTRATION ACT OF 1950."""	"**[ REPUBLIC ACT NO. 578, September 15, 1950 ]**
+
+ AN ACT TO AMEND SECTIONS ONE, TEN AND TWELVE OF REPUBLIC ACT NUMBERED FIVE HUNDRED AND SIXTY-TWO, OTHERWISE KNOWN AS THE ""ALIEN REGISTRATION ACT OF 1950.""
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The period for the registration of aliens under Republic Act Numbered Five hundred and sixty-two, otherwise known as the ***""Alien Registration Act 1950,""*** is hereby extended up to one hundred and twenty days from the approval of this Act.
+
+ **Section 2.** Section ten of Republic Act Numbered Five hundred and sixty-two is hereby amended to read as follows:
+
+ ""**Section 10.** Every alien subject to the provisions of this Act shall, within the first sixty days of every calendar year, report in person to the Bureau of Immigration, if residing in the City of Manila, or to the office of the respective city or municipal treasurer, if residing in another locality. The official in charge shall thereupon make a proper notation to that effect on the registration certificate, to which notation a fifty-centavo documentary stamp furnished by the alien shall be fixed. The parent or legal guardian of an alien who is less than fourteen years of age, shall have the duty of reporting for such alien:*Provided,*That whenever any such alien attains his fourteenth birthday in the Philippines, he shall thereafter report in person and furnish the required fifty-centavo documentary stamp once a year within the period and at the place above designated.
+
+ ""Failure to make the report herein required shall subject the alien to prosecution for a violation of this section and upon conviction to be punished by a fine of not exceeding two hundred pesos, or imprisonment for not more than six months, or both.""
+
+ **Section 3.** Section twelve of the same Act is hereby amended to read as follows:
+
+ ""**Section 12.** There is appropriated, out of any funds in the National Treasury not otherwise appropriated, the sum of one hundred thousand pesos, or so much thereof as may be necessary, which shall be disbursed by the Commissioner of Immigration, with the approval of the President, for the payment of salaries, and wages of such temporary employees as may be necessary, and for sundry and incidental expenses to be incurred for carrying out the provisions of this Act.""
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved, September 15, 1950.
+"	success	Republic Act	Amends specific sections of RA 562 to extend alien registration period, establish annual reporting requirements, define penalties, and authorize appropriation of funds for temporary immigration staff.	"[{""title"": ""Section 1."", ""summary"": ""Extends the registration period for aliens under RA 562 to 120 days from the approval of this Act.""}, {""title"": ""Section 2."", ""summary"": ""Amends Section 10 to require aliens to report within 60 days of each calendar year, details reporting procedures, and sets penalties for non\u2011reporting.""}, {""title"": ""Section 3."", ""summary"": ""Amends Section 12 to appropriate 100,000 pesos from the National Treasury for salaries, wages, and incidental expenses for temporary immigration employees.""}, {""title"": ""Section 4."", ""summary"": ""Declares that the Act takes effect upon its approval.""}]"	RA 578	September 15, 1950			To amend specific provisions of RA 562 concerning alien registration and funding for immigration staff.	"[""Extension of registration period to 120 days"", ""Annual reporting requirement within 60 days"", ""Penalties for non\u2011reporting"", ""Appropriation of 100,000 pesos for salaries, wages, and incidental expenses""]"	Republic Act No. 562 (Alien Registration Act of 1950).	"[""alien registration"", ""immigration"", ""law amendment"", ""appropriation""]"	"[""alien registration"", ""immigration"", ""reporting"", ""appropriation"", ""penalty"", ""salary"", ""wages""]"
+repacts:datasets/markdown/repacts/1950/ra_579_1950.md	repacts	1950		datasets/markdown/repacts/1950/ra_579_1950.md	ra_579_1950	AN ACT TO AMEND SECTIONS EIGHTY-FIVE, EIGHTY-SIX, EIGHTY-NINE, ONE HUNDRED AND NINE AND ONE HUNDRED AND TEN OF COMMONWEALTH ACT NUMBERED FOUR HUNDRED AND SIXTY-SIX, OTHERWISE KNOWN AS THE NATIONAL INTERNAL REVENUE CODE, AS AMENDED.	"**[ REPUBLIC ACT NO. 579, September 15, 1950 ]**

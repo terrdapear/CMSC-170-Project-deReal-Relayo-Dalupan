@@ -1,0 +1,144 @@
+
+ **Section 2.** A special right is reserved to the President of the Philippines in times of war, rebellion, public peril, calamity, disaster or disturbance of peace and order, to take over and operate the said stations or to authorize the temporary use and operation thereof by any department of the government without compensating the grantee for the use of said stations during the period when they shall be so operated.
+
+ **Section 3.** The President of the Philippines shall have the power and authority to permit the construction of said stations or any of them on any land of the public domain upon such terms and conditions as he may prescribe.
+
+ **Section 4.** This franchise shall not take effect until the Secretary of Public Works and Communications shall have allotted to the grantee the frequencies and wave lengths to be used thereunder.
+
+ **Section 5.** The grantee shall so construct and operate his radio stations as not to interfere with the operation of other radio stations maintained and operated in the Philippines and to permit the expansion of the grantee's services.
+
+ **Section 6.** The grantee shall not lease, transfer, grant the usufruct of, sell or assign this franchise or the rights, privileges acquired thereunder, to any person, firm, company, corporation or other commercial or legal entity, nor merge with any other person, company or corporation organized for the same purpose, without the approval and/or consent of the Congress of the Philippines.
+
+ **Section 7.** In consideration of the franchise and rights hereby granted, the grantee shall pay a franchise tax equal to five*per centum*of gross earnings under this franchise, three*per centum*shall accrue to the national government and two*per centum*to the municipality where the franchise is being operated.
+
+ **Section 8.** The franchise hereby granted shall be subject to amendment, alteration, or repeal by the Congress of the Philippines when the public interest so requires.
+
+ **Section 9.** The franchise shall continue for a period of twenty-five years from the date the first of said stations shall be placed in operation and is granted upon the express condition that the same shall be void unless the construction of at least one of said stations be begun within two years from the date of the approval of this Act.
+
+ **Section 10.** No private property shall be taken for any purpose by the grantee without proper condemnation proceedings and just compensation paid or tendered therefor, and any authority to take and occupy land contained herein shall not apply to the taking, use, or occupation of any land such as is required for the actual necessary purposes for which this franchise is granted.
+
+ **Section 11.** The grantee shall hold the national, provincial, and municipal governments of the Philippines free from all claims, accounts, demands or actions arising out of accidents or injuries, whether to property or to persons, caused by the construction or operation of the stations of the grantee.
+
+ **Section 12.** In consideration of this franchise the grantee shall offer free of charge the use of the base station to be installed in Barrio Sayong, Municipality of San Francisco, Province of Quezon as a humanitarian act to ensure the speedy medical care and attention of the sick, the injured and wounded considering the place as remote; and for the immediate communication between the said municipality and the proper authorities for the detection of crimes such as cattle rustling and piracy, and the apprehension of criminals.
+
+ **Section 13.** This Act shall take effect upon its approval.
+
+ Enacted without Executive approval, August 16, 1971.
+"	success	Republic Act	An act granting Gil L. Matias a franchise to construct, operate, and maintain various radio stations within the Philippines, including provisions on war powers, tax, and duration of the franchise.	"[{""title"": ""Section 1"", ""summary"": ""Grants Gil L. Matias a franchise to build and operate radio stations under conditions approved by the Secretary of Public Works and Communications.""}, {""title"": ""Section 2"", ""summary"": ""Preserves the President\u2019s right to take over or authorize temporary use of the stations during emergencies without compensating the grantee.""}, {""title"": ""Section 3"", ""summary"": ""Allows the President to permit construction of stations on public lands under prescribed terms.""}, {""title"": ""Section 4"", ""summary"": ""The franchise takes effect only after frequencies and wavelengths are allotted.""}, {""title"": ""Section 5"", ""summary"": ""The grantee must operate stations without interfering with other stations and permit expansion.""}, {""title"": ""Section 6"", ""summary"": ""Prohibits leasing, transferring, or merging the franchise without Congress approval.""}, {""title"": ""Section 7"", ""summary"": ""Sets franchise tax: 5% of gross earnings, with 3% to national government and 2% to the municipality.""}, {""title"": ""Section 8"", ""summary"": ""The franchise may be amended, altered, or repealed by Congress when public interest requires.""}, {""title"": ""Section 9"", ""summary"": ""Duration of twenty-five years, void unless at least one station is begun within two years of approval.""}, {""title"": ""Section 10"", ""summary"": ""No private property may be taken without proper condemnation and compensation.""}, {""title"": ""Section 11"", ""summary"": ""Grantee holds national, provincial, and municipal governments indemnified against claims arising from station operations.""}, {""title"": ""Section 12"", ""summary"": ""Grantee must offer free use of a base station in Barrio Sayong for humanitarian and communication purposes.""}, {""title"": ""Section 13"", ""summary"": ""Act takes effect upon approval.""}]"	Republic Act No. 6383	August 16, 1971			To grant a franchise for the establishment and operation of radio stations in the Philippines.	"[""Granting franchise to Gil L. Matias"", ""Preservation of presidential war powers"", ""Franchise tax structure"", ""Duration and commencement conditions"", ""Restrictions on transfer and leasing"", ""Indemnification of government entities"", ""Humanitarian use of base station""]"	Act No. 3846, Commonwealth Act No. 146 (Public Service Act) and related amendments	"[""Franchise"", ""Radio"", ""Telecommunications"", ""Philippines"", ""Public Works and Communications""]"	"[""Gil L. Matias"", ""public fixed point-to-point"", ""public coastal marine service"", ""land-based radio stations"", ""land-mobile radio stations"", ""franchise tax"", ""public domain"", ""public works"", ""communications"", ""radio stations"", ""war powers"", ""President"", ""Congress""]"
+repacts:datasets/markdown/repacts/1971/ra_6384_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6384_1971.md	ra_6384_1971	AN ACT GRANTING SUAREZ BROTHERS, ENGRAVER AND JEWELLER, A TEMPORARY PERMIT TO CONSTRUCT, ESTABLISH, OPERATE AND MAINTAIN PRIVATE FIXED POINT-TO-POINT, LAND BASED, AND LAND MOBILE RADIO STATIONS FOR THE RECEPTION AND TRANSMISSION OF RADIO COMMUNICATIONS WITHIN THE PHILIPPINES.	"**[ REPUBLIC ACT NO. 6384, August 16, 1971 ]**
+
+ AN ACT GRANTING SUAREZ BROTHERS, ENGRAVER AND JEWELLER, A TEMPORARY PERMIT TO CONSTRUCT, ESTABLISH, OPERATE AND MAINTAIN PRIVATE FIXED POINT-TO-POINT, LAND BASED, AND LAND MOBILE RADIO STATIONS FOR THE RECEPTION AND TRANSMISSION OF RADIO COMMUNICATIONS WITHIN THE PHILIPPINES.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There is hereby granted to Suarez Brothers, Engraver and Jeweller, a temporary permit to construct, establish, operate and maintain in the Philippines, at such places as the grantees may select, subject to the approval of the Secretary of Public Works and Communications, private fixed point-to-point, and land based, and land mobile radio stations for the reception and transmission of wireless messages by radiotelegraph or radiotelephone, each to be provided with a radio transmitting apparatus and radio receiving apparatus.
+
+ **Section 2.** The President of the Philippines shall have the power and authority to permit the location of said radio stations or any of them on lands of the public domain under terms and conditions as he may prescribe.
+
+ **Section 3.** This temporary permit shall continue to be in force during the time that the Government has not established similar service at the places selected by the grantees, and is granted upon the express condition that he same shall be void unless the construction or installation of said stations be begun within one year from the date of approval of this Act and be completed within two years from said date.
+
+ **Section 4.** The grantees, their successors or assigns, shall not engage in domestic business of telecommunications in the Philippines without further special assent of the Congress of the Philippines, it being understood that the purpose of this temporary permit is to secure to the grantee, the right to construct, install, operate and maintain private radio stations in such places within the Philippines as the interest of the grantee may justify.
+
+ **Section 5.** No fees shall be charged by the grantee as the radio stations that may be established by virtue of this Act shall engage in communications regarding the grantees' business only.
+
+ **Section 6.** The grantees, their successors or assigns, shall so construct and operate their radio stations as not to interfere with the operations of other radio stations maintained and operated in the Philippines.
+
+ **Section 7.** The grantees, their successors or assigns, shall hold the national, provincial, city and municipal governments of the Philippines harmless from all claims, accounts, demands, or actions arising out of accidents or injuries, whether to property or persons, caused by the construction or operation of their radio stations.
+
+ **Section 8.** The grantees, their successors or assigns, are authorized to operate their private radio stations in the medium frequency, high frequency, and very high frequency that may be assigned to them by the Secretary of Public Works and Communications.
+
+ **Section 9.** The grantees, their successors or assigns, shall be subject to the corporation laws of the Philippines now existing or hereafter enacted.
+
+ **Section 10.** The grantees shall not lease, transfer, grant the usufruct of, sell or assign this temporary permit, or the rights or privileges acquired thereunder, to any person, firm, company, corporation or other commercial or legal entity, nor merge with any other person, company or corporation organized for the same purpose, without the approval of the Congress of the Philippines first had. Any corporation to which this temporary permit may be sold, transferred, or assigned shall be subject to the corporation laws of the Philippines now existing or hereafter enacted, and any person, firm, company, corporation or other commercial or legal entity to which this temporary permit is sold, transferred, or assigned, shall be subject to all conditions, terms, restrictions and limitations of this temporary permit as fully and completely and to the same extent as if the temporary permit had been originally granted to the said person, firm, company, corporation or other commercial or legal entity.
+
+ **Section 11.** A special right is hereby reserved to the President of the Philippines in time of war, insurrection, public peril, emergency, calamity or disaster to cause the closing of the grantees' radio stations or to authorize the temporary use or possession thereof by any department of the Government upon payment of just compensation.
+
+ **Section 12.** This temporary permit shall be subject to amendment, alteration, or repeal by the Congress of the Philippines when the public interest so requires and shall not be interpreted as an exclusive grant of the privilege herein provided for.
+
+ **Section 13.** This Act shall take effect upon its approval.
+
+ Enacted without Executive approval, August 16, 1971.
+"	success	Republic Act	A temporary permit granted to Suarez Brothers to construct and operate private radio stations within the Philippines, subject to conditions and oversight by government authorities.	"[{""title"": ""Section 1"", ""summary"": ""Grants Suarez Brothers a temporary permit to construct, establish, operate and maintain private radio stations in the Philippines, subject to approval by the Secretary of Public Works and Communications.""}, {""title"": ""Section 2"", ""summary"": ""Empowers the President to permit location of the radio stations on public domain lands under prescribed terms and conditions.""}, {""title"": ""Section 3"", ""summary"": ""The permit remains valid until similar services are established; construction must begin within one year of approval and be completed within two years.""}, {""title"": ""Section 4"", ""summary"": ""Prohibits the grantees from engaging in domestic telecommunications business without congressional assent, emphasizing the purpose of the permit.""}, {""title"": ""Section 5"", ""summary"": ""No fees may be charged by the grantees for communications related to their business; stations are limited to their own business communications.""}, {""title"": ""Section 6"", ""summary"": ""Stations must be operated so as not to interfere with other radio stations in the Philippines.""}, {""title"": ""Section 7"", ""summary"": ""Grantees hold the government harmless from claims arising from the construction or operation of their stations.""}, {""title"": ""Section 8"", ""summary"": ""Grantees are authorized to operate on medium, high, and very high frequencies assigned by the Secretary of Public Works and Communications.""}, {""title"": ""Section 9"", ""summary"": ""Grantees are subject to the corporation laws of the Philippines now existing or enacted thereafter.""}, {""title"": ""Section 10"", ""summary"": ""Prohibits leasing, transferring, selling, or assigning the temporary permit; any such transaction is subject to corporation laws and the same conditions as the original grant.""}, {""title"": ""Section 11"", ""summary"": ""Preserves the President's right to close the stations or authorize their use by government departments during emergencies, providing just compensation.""}, {""title"": ""Section 12"", ""summary"": ""The permit is subject to amendment, alteration, or repeal by Congress as public interest demands.""}, {""title"": ""Section 13"", ""summary"": ""The act takes effect upon its approval.""}]"	6384	August 16, 1971			Granting a temporary permit for private radio stations to the Suarez Brothers	"[""Grant of temporary permit to construct and operate private radio stations"", ""Presidential authority to permit location on public domain lands"", ""Conditions for commencement and completion of construction"", ""Prohibition of leasing or transferring the permit"", ""Presidential right to close stations during emergencies"", ""Permit subject to amendment by Congress""]"		"[""temporary permit"", ""radio stations"", ""telecommunications"", ""Philippines""]"	"[""Suarez Brothers"", ""radio communications"", ""private radio stations"", ""Republic Act 6384"", ""temporary permit""]"
+repacts:datasets/markdown/repacts/1971/ra_6385_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6385_1971.md	ra_6385_1971	AN ACT STANDARDIZING THE SALARIES OF OFFICERS AND EMPLOYEES OF THE BUREAU OF MINES, AND PROVIDING FUNDS THEREFOR.	"**[ REPUBLIC ACT NO. 6385, August 16, 1971 ]**
+
+ AN ACT STANDARDIZING THE SALARIES OF OFFICERS AND EMPLOYEES OF THE BUREAU OF MINES, AND PROVIDING FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Any provision of law, executive order, rule or regulation to the contrary notwithstanding, the salaries of officials and employees of the Bureau of Mines are hereby fixed as follows:
+
+ a. Director of Mines, at the salary rate of WAPCO range 72,*per annum*;
+
+ b. Assistant Director of Mines, at the salary rate of WAPCO range 68,perannum;
+
+ c. Mining Project Coordinator, Chief Geologist, Chief Petroleum Geologist, Chief Mining Engineer, Chief Metallurgist, Head Geodetic Engineer, Chief Legal Officer, Administrative Officer, Chief Accountant and Chief Budget Officer, and the Mines Regional Officers at the salary rate of WAPCO range 66,*per annum*;
+
+ d. Assistant Chief Geologist, Assistant Chief Mining Engineer, Assistant Chief Metallurgist, and Assistant Chief Legal Officer, at the salary rate of WAPCO range 63,*per annum*;
+
+ e. Supervising Geologist II, Supervising Mining Engineer, Supervising Metallurgist, Supervising Economist, Supervising Geodetic Engineer II, Senior Legal Officer, at the salary rate of WAPCO range 60,*per annum*;
+
+ f. Supervising Geologist I, Supervising Geodetic Engineer I, Senior Mining Engineer, Senior Metallurgist, Legal Officer III, Senior Research Chemist, and Chief Chemist II, at the salary rate of WAPCO range 57, *per annum*;
+
+ g. Senior Geologists, Senior Paleonthologist, Senior Economist, Senior Electrical Engineer, Senior Executive Assistant, Senior Geodetic Engineer, Metallurgist II, Research Chemist II, Senior Corporation Auditing Examiner, Trial Attorney II, at the salary rate of WAPCO range 54,*per annum*;
+
+ h. Geologists, Paleontologists, Geodetic Engineer, Mining Engineer, Metallurgist, Supervising Information Officer, Mechanical Engineer, Electrical Engineer, Executive Assistant, Accountant III, Administrative Assistant III, Legal Officer II, Budget Officer I, Research Chemist I, Supervising Chemist, Head Computer, Personnel Officer I, Geophysicist, Assistant Mechanical-Electrical Engineer, at the salary rate of WAPCO range 50, '*per annum*;
+
+ i. Mineral Analyst, Chief, Records Section, Chief, Property and Supply Section, Corporation Auditing Examiner, Chief, General Services Section, Chief, Fiscal Section, Chief, Collection and Disbursement Section, Statistician II, Chief, Bookkeeping Section, Chief, Revenue and Records Section, Administrative Assistants, Chief, Library Section, Legal Officer I, Budget Examiner II, Supervising Accounting Clerk, Bookkeeper II, at a salary rate of WAPCO range 47,*per annum*;
+
+ j. Junior Geodetic Engineer, Information Editor, Supply Officer I, Statistician I, Senior Personnel Aide, Chemist I, Disbursing Officer, Senior Cartographer, Budget Examiner I, Bookkeeper I, Fiscal Examiner I, Records Officer I, Assistant Board Secretary, Senior Cartographer, Supervising Computer, Secretary, and Accounting Clerk III, at the salary rate of WAPCO range 44,*per annum*;
+
+ **Section 2.** Other existing positions in the Bureau of Mines not covered above, except casual and emergency positions, are hereby authorized an increase of six WAPCO ranges each.
+
+ **Section 3.** In order to carry out the provisions of this Act for the fiscal year ending June 30, 1970, the Director of Mines with the approval of the Commissioner of the Budget, is hereby authorized to charge the salary differentials of the officials and employees whose salaries are herein standardized against any savings of the Bureau of Mines and the Mines Special Fund. Thereafter, the said sums shall be included in the annual General Appropriations Act.
+
+ **Section 4.** The incumbents of the positions at the time of the approval of this Act, whose salaries are herein standardized shall automatically be entitled to the benefits hereof without the need of another appointment.
+
+ **Section 5.** This Act shall take effect upon its approval.
+
+ Approved, August 16, 1971.
+"	success	Republic Act	Republic Act No. 6385, enacted on August 16, 1971, establishes fixed salary ranges for officials and employees of the Bureau of Mines, authorizes additional salary increases for other positions, and provides mechanisms for funding these adjustments through savings and the Mines Special Fund.	"[{""title"": ""Section 1"", ""summary"": ""Specifies fixed salary rates, in WAPCO ranges, for various positions within the Bureau of Mines, including directors, assistants, coordinators, and other staff.""}, {""title"": ""Section 2"", ""summary"": ""Provides that all other existing positions in the Bureau of Mines not listed in Section 1 are entitled to an increase of six WAPCO ranges.""}, {""title"": ""Section 3"", ""summary"": ""Authorizes the Director of Mines, with budget approval, to charge salary differentials to savings from the Bureau of Mines and the Mines Special Fund for the fiscal year ending June 30, 1970.""}, {""title"": ""Section 4"", ""summary"": ""States that incumbents of the specified positions at the time of approval are automatically entitled to the benefits without further appointment.""}, {""title"": ""Section 5"", ""summary"": ""Declares that the act will take effect upon its approval.""}]"	6385	August 16, 1971			To standardize salaries of Bureau of Mines officials and employees and provide appropriate funding mechanisms.	"[""Standardization of salaries for specified positions"", ""Authorization of salary increase for other positions"", ""Mechanism to charge salary differentials to savings"", ""Automatic entitlement of benefits to incumbents"", ""Effectivity upon approval""]"		"[""Salary"", ""Bureau of Mines"", ""Labor"", ""Philippines"", ""Republic Act 6385""]"	"[""salary standardization"", ""mining"", ""Bureau of Mines"", ""WAPCO"", ""public service"", ""Philippines""]"
+repacts:datasets/markdown/repacts/1971/ra_6386_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6386_1971.md	ra_6386_1971	[ REPUBLIC ACT NO. 6386, August 16, 1971 ]	"**[ REPUBLIC ACT NO. 6386, August 16, 1971 ]**
+
+ AN ACT AMENDING AND REPEALING CERTAIN SECTIONS OF REPUBLIC ACT NUMBERED FIFTY-FOUR HUNDRED TWELVE, KNOWN AS ""THE CHARTER OF THE CITY OF GENERAL SANTOS.""
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Section eight of Republic Act Numbered Fifty-four hundred twelve is hereby amended to read as follows:
+
+ ""**Section 8.***The Mayor.*-The Mayor shall be the chief executive of the city. He shall be elected at large by the qualified voters of the city. No person shall be eligible for the position of mayor unless at the date of the election he is at least twenty-five years of age, a resident of the city for at least two years prior to his election, and a qualified voter therein. He shall hold office for four years until his successor shall have been duly elected and qualified, unless sooner removed for cause and shall receive a salary of thirteen thousand eight hundred pesos*per annum*""
+
+ **Section 2.** The first paragraph and subparagraph (b), of Section ten of the same Act are also amended to read as follows:
+
+ > ""SEC. 10.*General Powers and Duties of the Mayor.*- The mayor shall have immediate supervision and control over the executive and administrative functions of the different departments of the city. * * *
+>
+>  ""(b) To safeguard all the lands, buildings, records, moneys, credits, and other property and rights of the city, and, subject to the provisions of this Charter, have supervision and control over all its property;""
+
+ **Section 3.** Subparagraph (rr) of Section sixteen of the same Act is hereby repealed.
+
+ **Section 4.** Section twenty of the same Act is also amended to read as follows:
+
+ ""**Section 20.***Appointment and removal of officials and employees*.-The President of the Philippines, with the consent of the Commission on Appointments, shall appoint the city judges and the auxiliary judges of the city; the city treasurer, the city engineer, the city fiscal and his assistants, the city health officer, and the city superintendent of schools. Said officers shall not be suspended nor removed except in the manner and for causes provided by law. Subject to the provisions of the Civil Service Law, the mayor, from a list of nominees recommended by the department head or chief of office concerned, shall appoint all other officers and employees paid out of city funds and they shall not be suspended or removed except in accordance with law.""
+
+ **Section 5.** The first paragraph of Section twenty-five of the same Act is also amended to read as follows:
+
+ ""**Section 25.***Execution of authorized public works and Improvements.*-All public works constructions, repair and improvements of the city shall be carried out by administration of the Office of the City Engineer. The approval of plans and specifications thereof by the city mayor with the favorable recommendation of the city council and the city engineer shall constitute sufficient warrant for the undertaking and execution of said projects.""
+
+ **Section 6.** The first paragraph of Section twenty-nine of the same Act is also amended to read as follows:
+
+ ""**Section 29.***The Chief of Police.*-His powers, duties and compensation.-There shall be a chief of police who shall have immediate charge of the police department and shall perform such duties prescribed by the Police Act of Nineteen hundred sixty-six in addition to those enumerated in this section and shall receive a salary in accordance with law.""
+
+ **Section 7.** Section thirty-one of the same Act is repealed without prejudice to the retention of the incumbent who shall be absorbed by the other units or divisions of the Police Department:*Provided,*That he possesses the necessary qualifications prescribed by the Civil Service Law and the Police Act of Nineteen hundred sixty-six.
+
+ **Section 8.** The title of article nineteen of the same Act is hereby amended to read as follows:
+
+ ""Article XIX.-Disposition of lands of the public domain within the city.""
+
+ **Section 9.** Section ninety-eight of the same Act is hereby amended to read as follows:
+
+ ""Section 98. The disposition of all lands of the public domain within the city shall be in accordance with the provisions of Commonwealth Act Numbered One hundred and forty-one, as amended:*Provided,* That all incomes and receipts derived from such disposition shall accrue exclusively to the city as provided in this Act.""
+
+ **Section 10.** This Act shall take effect upon its approval.
+
+ Enacted without Executive approval, August 16, 1971.
+"	failed												
+repacts:datasets/markdown/repacts/1971/ra_6387_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6387_1971.md	ra_6387_1971	An Act Amending the Charter of the City of Tagbilaran by Providing that the Highway Special Fund and other National Funds accruing to the City of Tagbilaran which are intended for Public Improvements shall be Administered, Programmed and Disbursed by the Bureau of Public Highways or the Bureau of Public Works, as the Case May Be.	"**[ REPUBLIC ACT NO. 6387, August 16, 1971 ]**

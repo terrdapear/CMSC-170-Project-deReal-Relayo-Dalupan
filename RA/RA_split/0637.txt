@@ -1,0 +1,243 @@
+repacts:datasets/markdown/repacts/1960/ra_2826_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2826_1960.md	ra_2826_1960	An Act Creating Certain Barrios in the Municipal of Dumingag, Province of Zamboanga del Sur	"**REPUBLIC ACT No. 2826**
+
+ **An Act Creating Certain Barrios in the Municipal of Dumingag, Province of Zamboanga del Sur**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The following sitios in the Municipality of Dumingag, Province of Zamboanga del Sur, are converted into barrios of said municipality, to wit:
+
+ Sitio Bag-ong Basak to Barrio Bag-ong Basak;
+
+ Sitio Bag-ong Princesa to Barrio Bag-ong Princesa;
+
+ Sitio Bag-ong Valencia to Barrio Bag-ong Valencia;
+
+ Sitio Bocayan to Barrio Bocayan;
+
+ Sitio Boniao to Barrio Boniao;
+
+ Sitio Calumangi to Barrio Calumangi;
+
+ Sitio Dapiwak to Barrio Dapiwak;
+
+ Sitio Dekayo to Barrio Dekayo;
+
+ Sitio Ditolan to Barrio Ditolan;
+
+ Sitio Gelicton to Barrio Gelicton;
+
+ Sitio Gonain to Barrio Gonain;
+
+ Sitio Guintananan to Barrio Guintananan;
+
+ Sitio Guitran to Barrio Guitran;
+
+ Sitio Landing to Barrio Landing;
+
+ Sitio Manguilos to Barrio Manguilos;
+
+ Sitio Macasing to Barrio Macasing;
+
+ Sitio Mahayahay to Barrio Mahayahay;
+
+ Sitio Maralag to Barrio Maralag;
+
+ Sitio Marañgan to Barrio Marañgan;
+
+ Sitio Palili to Barrio Palili;
+
+ Sitio Paraiso to Barrio Paraiso;
+
+ Sitio Poguan to Barrio Poguan;
+
+ Sitio Santa Cruz to Barrio Santa Cruz;
+
+ Sitio Senoto to Barrio Senoto;
+
+ Sitio Timonan (Lower) to Barrio Timonan (Lower);
+
+ Sitio Timonan (Upper) to Barrio Timonan (Upper);
+
+ Sitio Tuñgawan to Barrio Tuñgawan;
+
+ Sitio Tuboy to Barrio Tuboy; and
+
+ Sitio Yabu to Barrio Yabu.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	This act converts a list of sitios in the Municipality of Dumingag, Province of Zamboanga del Sur into barrios, thereby officially establishing new barrios within the municipality.	"[{""title"": ""Section 1."", ""summary"": ""The following sitios in the Municipality of Dumingag, Province of Zamboanga del Sur, are converted into barrios: Sitio Bag-ong Basak to Barrio Bag-ong Basak; Sitio Bag-ong Princesa to Barrio Bag-ong Princesa; Sitio Bag-ong Valencia to Barrio Bag-ong Valencia; Sitio Bocayan to Barrio Bocayan; Sitio Boniao to Barrio Boniao; Sitio Calumangi to Barrio Calumangi; Sitio Dapiwak to Barrio Dapiwak; Sitio Dekayo to Barrio Dekayo; Sitio Ditolan to Barrio Ditolan; Sitio Gelicton to Barrio Gelicton; Sitio Gonain to Barrio Gonain; Sitio Guintananan to Barrio Guintananan; Sitio Guitran to Barrio Guitran; Sitio Landing to Barrio Landing; Sitio Manguilos to Barrio Manguilos; Sitio Macasing to Barrio Macasing; Sitio Mahayahay to Barrio Mahayahay; Sitio Maralag to Barrio Maralag; Sitio Mara\u00f1gan to Barrio Mara\u00f1gan; Sitio Palili to Barrio Palili; Sitio Paraiso to Barrio Paraiso; Sitio Poguan to Barrio Poguan; Sitio Santa Cruz to Barrio Santa Cruz; Sitio Senoto to Barrio Senoto; Sitio Timonan (Lower) to Barrio Timonan (Lower); Sitio Timonan (Upper) to Barrio Timonan (Upper); Sitio Tu\u00f1gawan to Barrio Tu\u00f1gawan; Sitio Tuboy to Barrio Tuboy; and Sitio Yabu to Barrio Yabu.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2826	June 19, 1960			To create new barrios by converting existing sitios into barrios within the Municipality of Dumingag, thereby formalizing local administrative units.	"[""Conversion of listed sitios into barrios""]"		"[""Local Government"", ""Barrios"", ""Municipality"", ""Zamboanga del Sur""]"	"[""Sitio"", ""Barrio"", ""Dumingag"", ""Zamboanga del Sur"", ""Republic Act"", ""1960""]"
+repacts:datasets/markdown/repacts/1960/ra_2827_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2827_1960.md	ra_2827_1960	An Act Changing the Name of Barrio Mongolbongol in the Municipality of Capul, Province of Samar, to San Vicente	"**REPUBLIC ACT No. 2827**
+
+ **An Act Changing the Name of Barrio Mongolbongol in the Municipality of Capul, Province of Samar, to San Vicente**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of barrio Mongolbongol in the Municipality of Capul, Province of Samar, is changed to San Vicente.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	This act changes the name of the barrio Mongolbongol in Capul, Samar to San Vicente, effective upon approval.	"[{""title"": ""Section 1."", ""summary"": ""The name of barrio Mongolbongol in the Municipality of Capul, Province of Samar, is changed to San Vicente.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2827	June 19, 1960			To change the official name of a barrio within the municipality of Capul.	"[""Name of barrio Mongolbongol changed to San Vicente."", ""Act takes effect upon approval.""]"		"[""Name change"", ""Barrio"", ""Municipality""]"	"[""Republic Act"", ""Name change"", ""Barrio"", ""Capul"", ""Samar""]"
+repacts:datasets/markdown/repacts/1960/ra_2828_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2828_1960.md	ra_2828_1960	An Act Creating Certain Barrios in the Municipality of Naujan, Province of Oriental Mindoro	"**REPUBLIC ACT No. 2828**
+
+ **An Act Creating Certain Barrios in the Municipality of Naujan, Province of Oriental Mindoro**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The following sitios in the Municipality of Naujan, Province of Oriental Mindoro, are separated from their respective barrios and constituted into distinct and independent barrios therein to wit:
+
+ 1. The sitios of San Agustin Ilaya, Kabilang Ilog, Mangaya and San Andres of the barrio of San Agustin No. 1, to be known as the barrio of San Agustin; 2. The sitios of Butik Proper, Labak, Ibulo and Bukayao Grande of the barrio of Tagumpay, to be known as the barrio of San Andres; 3. The sitios of Arangin Proper, Bagtu ng Arangin, Bansana, Barumbong and Kaowayan of the barrio of Malvar, to be known as the barrio of Arangin; and 4. The sitios of Paitan, Bandol, Bugayan and Timbolaten of the barrio of Evangelista, to be known as the barrio of Metolza (Paitan). **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	Creates new barrios by separating specific sitios from existing barrios within Naujan, Oriental Mindoro.	"[{""title"": ""Section 1"", ""summary"": ""Lists the sitios that are separated from their parent barrios and constituted into new barrios: San Agustin, San Andres, Arangin, and Metolza (Paitan).""}, {""title"": ""Section 2"", ""summary"": ""The act takes effect upon its approval.""}]"	2828	June 19, 1960			To delineate and establish new barrios within the Municipality of Naujan by separating specific sitios from existing barrios.	"[""Separates specified sitios into newly established barrios: San Agustin, San Andres, Arangin, and Metolza (Paitan).""]"		"[""local government"", ""barrios"", ""municipality"", ""Naujan"", ""Oriental Mindoro""]"	"[""Republic Act 2828"", ""Naujan"", ""Oriental Mindoro"", ""barrios"", ""sitios"", ""local governance""]"
+repacts:datasets/markdown/repacts/1960/ra_2829_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2829_1960.md	ra_2829_1960	An Act Creating the Barrio of Madaat in the Municipality of Daraga, Province of Albay	"**REPUBLIC ACT No. 2829**
+
+ **An Act Creating the Barrio of Madaat in the Municipality of Daraga, Province of Albay**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Madaat in the barrio of San Vicente Grande, Municipality of Daraga, Province of Albay is converted into a barrio of said municipality to be known as the barrio of Madaat.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	This act converts the sitio of Madaat in the barrio of San Vicente Grande, Municipality of Daraga, Province of Albay into an official barrio named Madaat, effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The sitio of Madaat is converted into the barrio of Madaat within the municipality of Daraga.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	2829	June 19, 1960			To create a new barrio by converting a sitio into a barrio within the municipality of Daraga, Albay.	"[""Conversion of the sitio of Madaat into a barrio."", ""Effectivity of the act upon approval.""]"		"[""Local Government"", ""Barangay"", ""Albay""]"	"[""Madaat"", ""Daraga"", ""Albay"", ""barrio"", ""sitio""]"
+repacts:datasets/markdown/repacts/1960/ra_2830_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2830_1960.md	ra_2830_1960	An Act Changing the Name of Barrio Lico in the Municipality of Naval, Province of Leyte, to Barrio Bilbao	"**REPUBLIC ACT No. 2830**
+
+ **An Act Changing the Name of Barrio Lico in the Municipality of Naval, Province of Leyte, to Barrio Bilbao**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Barrio Lico in the Municipality of Naval, Province of Leyte, is hereby changed to Barrio Bilbao.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Act	An act that changes the name of Barrio Lico to Barrio Bilbao.	"[{""title"": ""Section 1."", ""summary"": ""The name of Barrio Lico in the Municipality of Naval, Province of Leyte, is hereby changed to Barrio Bilbao.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2830	June 19, 1960			To change the name of Barrio Lico to Barrio Bilbao.	"[""The name of Barrio Lico in the Municipality of Naval, Province of Leyte, is hereby changed to Barrio Bilbao."", ""This Act shall take effect upon its approval.""]"		"[""geographic name change"", ""local government"", ""municipality"", ""Leyte"", ""Naval""]"	"[""Barrio Lico"", ""Barrio Bilbao"", ""Naval"", ""Leyte"", ""name change"", ""Republic Act 2830""]"
+repacts:datasets/markdown/repacts/1960/ra_2831_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2831_1960.md	ra_2831_1960	An Act Changing the Name of the Baybay National Agricultural School in the Municipality of Baybay, Province of Leyte, to Visayas Agricultural College	"**REPUBLIC ACT No. 2831**
+
+ **An Act Changing the Name of the Baybay National Agricultural School in the Municipality of Baybay, Province of Leyte, to Visayas Agricultural College**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Baybay National Agricultural School located in the Municipality of Baybay, Province of Leyte, is hereby changed to Visayas Agricultural College, to conform with the status and types of curricula which the school offers.
+
+ **Section 2.** The Visayas Agricultural College shall continue to be administered by the Bureau of Public Schools.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	Renames Baybay National Agricultural School to Visayas Agricultural College and maintains its administration by the Bureau of Public Schools.	"[{""title"": ""Section 1."", ""summary"": ""The name of Baybay National Agricultural School is changed to Visayas Agricultural College.""}, {""title"": ""Section 2."", ""summary"": ""Visayas Agricultural College shall continue to be administered by the Bureau of Public Schools.""}, {""title"": ""Section 3."", ""summary"": ""The Act shall take effect upon its approval.""}]"	2831	June 19, 1960			To change the name of Baybay National Agricultural School to Visayas Agricultural College.	"[""Renames the school to Visayas Agricultural College."", ""Continues administration by the Bureau of Public Schools."", ""Becomes effective upon approval.""]"		"[""education"", ""school name change"", ""Leyte"", ""public school""]"	"[""Baybay"", ""Leyte"", ""Visayas Agricultural College"", ""Public School"", ""Republic Act 2831""]"
+repacts:datasets/markdown/repacts/1960/ra_2832_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2832_1960.md	ra_2832_1960	An Act Amending Certain Items in Republic Act Numbered Fourteen Hundred Eleven	"**REPUBLIC ACT No. 2832**
+
+ **An Act Amending Certain Items in Republic Act Numbered Fourteen Hundred Eleven**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item (ad), page 76, group I, subparagraph (25), for the Province of Laguna, paragraph f, Section two of Republic Act Numbered Fourteen hundred eleven is amended to read as follows:
+
+ > ""(ad) Municipal Hall, AlaminosConstruction ₱1,000.00""
+>
+>  Section 2. Item 3, for the Province of Laguna, page 202, paragraph g, Section two of the same Act is amended to read as follows:
+>
+>  ""3. Municipal Hall, AlaminosConstruction ₱2,000.00""
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	Amends specific items in RA 1411 concerning municipal hall construction costs for Laguna province.	"[{""title"": ""Section 1"", ""summary"": ""Amends item (ad) on page 76, group I, subparagraph (25) for Laguna, adding municipal hall construction cost of \u20b11,000.00.""}, {""title"": ""Section 2"", ""summary"": ""Amends item 3 on page 202, paragraph g for Laguna, adding municipal hall construction cost of \u20b12,000.00.""}, {""title"": ""Section 3"", ""summary"": ""Act takes effect upon approval.""}]"	2832	June 19, 1960			To amend specific items in RA 1411 related to municipal hall construction costs for Laguna province.	"[""Amendment of item (ad) in RA 1411 to \u20b11,000.00"", ""Amendment of item 3 in RA 1411 to \u20b12,000.00"", ""Act takes effect upon approval.""]"	Republic Act No. 1411	"[""Amendment"", ""Municipal Hall"", ""Laguna"", ""Construction"", ""Budget"", ""Republic Act""]"	"[""RA 1411"", ""Municipal Hall"", ""Alaminos"", ""Laguna"", ""Construction"", ""Amendment"", ""Budget""]"
+repacts:datasets/markdown/repacts/1960/ra_2833_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2833_1960.md	ra_2833_1960	An Act Changing the Name of Alegria Street in the Municipality of Bilar, Province of Bohol, to Juan Luna Street	"**REPUBLIC ACT No. 2833**
+
+ **An Act Changing the Name of Alegria Street in the Municipality of Bilar, Province of Bohol, to Juan Luna Street**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Alegria Street in the Municipality of Bilar, Province of Bohol, is hereby changed to Juan Luna Street.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	This act changes the name of Alegria Street in Bilar, Bohol to Juan Luna Street.	"[{""title"": ""Section 1."", ""summary"": ""The name of Alegria Street in the Municipality of Bilar, Province of Bohol, is hereby changed to Juan Luna Street.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2833	June 19, 1960			To change the name of Alegria Street in the Municipality of Bilar, Province of Bohol to Juan Luna Street.	"[""Change the name of Alegria Street in the Municipality of Bilar, Province of Bohol, to Juan Luna Street.""]"			"[""Alegria Street"", ""Juan Luna Street"", ""Bilar"", ""Bohol""]"
+repacts:datasets/markdown/repacts/1960/ra_2834_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2834_1960.md	ra_2834_1960	An Act Converting the Clarin High School in the Municipality of Clarin, Province of Bohol, into a National School of Fisheries to be Known as the Clarin School of Fisheries, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 2834**
+
+ **An Act Converting the Clarin High School in the Municipality of Clarin, Province of Bohol, into a National School of Fisheries to be Known as the Clarin School of Fisheries, and Authorizing the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The Clarin High School in the Municipality of Clarin, Province of Bohol, is hereby converted into a national school of fisheries to be known as the Clarin School of Fisheries. The Secretary of Education is hereby empowered to reorganize said school accordingly.
+
+ **Section 2.** The sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the conversion, operation and maintenance of said school during the fiscal year nineteen hundred sixty-one. Such sums as may be necessary for its operation and maintenance in subsequent years shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Education	Converts Clarin High School into a national school of fisheries and authorizes appropriation of funds for its conversion, operation, and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""The Clarin High School is converted into a national school of fisheries and the Secretary of Education is empowered to reorganize.""}, {""title"": ""Section 2."", ""summary"": ""Authorizes the appropriation of one hundred thousand pesos for conversion, operation, and maintenance during 1961, with future needs included in the General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""The act takes effect upon its approval.""}]"	RA 2834	June 19, 1960			To convert Clarin High School into a national school of fisheries and authorize appropriation of funds for its operation.	"[""Conversion of Clarin High School into a national school of fisheries."", ""Authorization of appropriation of one hundred thousand pesos for conversion, operation, and maintenance."", ""Act takes effect upon approval.""]"		"[""Education"", ""Fisheries"", ""Bohol"", ""School"", ""Appropriation""]"	"[""Clarin High School"", ""National School of Fisheries"", ""Clarin School of Fisheries"", ""appropriation"", ""fiscal year 1961"", ""Bohol""]"
+repacts:datasets/markdown/repacts/1960/ra_2835_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2835_1960.md	ra_2835_1960	An Act Creating Certain Barrios in the Municipality of Midsayap, Province of Cotabato	"**REPUBLIC ACT No. 2835**
+
+ **An Act Creating Certain Barrios in the Municipality of Midsayap, Province of Cotabato**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The following sitios in the Municipality of Midsayap, Province of Cotabato, are converted into barrios therein to wit:
+
+ 1. Sitio Dado to Barrio Dado; 2. Sitio Central Bulanan (Km. 52) to Barrio Central Bulanan (Km. 52); 3. Sitio Malamonte to Barrio Malamonte; 4. Sitio Samlang to Barrio Samlang; 5. Sitio Kiloyno to Barrio Kiloyno; 6. Sitio Biacnabato to Barrio Biacnabato; 7. Sitio Kamanal to Barrio Kamanal; and 8. Sitio Pacao to Barrio Pacao. **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	This act converts several sitios in the Municipality of Midsayap, Cotabato into barrios, thereby redefining local administrative divisions.	"[{""title"": ""Section 1"", ""summary"": ""Establishes the conversion of Sitio Dado to Barrio Dado; Sitio Central Bulanan (Km. 52) to Barrio Central Bulanan (Km. 52); Sitio Malamonte to Barrio Malamonte; Sitio Samlang to Barrio Samlang; Sitio Kiloyno to Barrio Kiloyno; Sitio Biacnabato to Barrio Biacnabato; Sitio Kamanal to Barrio Kamanal; and Sitio Pacao to Barrio Pacao.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	2835	June 19, 1960			Creation of new barrios in Midsayap to facilitate local governance and administrative organization.	"[""Conversion of Sitio Dado to Barrio Dado"", ""Conversion of Sitio Central Bulanan (Km. 52) to Barrio Central Bulanan (Km. 52)"", ""Conversion of Sitio Malamonte to Barrio Malamonte"", ""Conversion of Sitio Samlang to Barrio Samlang"", ""Conversion of Sitio Kiloyno to Barrio Kiloyno"", ""Conversion of Sitio Biacnabato to Barrio Biacnabato"", ""Conversion of Sitio Kamanal to Barrio Kamanal"", ""Conversion of Sitio Pacao to Barrio Pacao""]"		"[""local government"", ""barrios"", ""Midsayap"", ""Cotabato""]"	"[""Barrios"", ""Sitios"", ""Midsayap"", ""Cotabato"", ""Republic Act 2835""]"
+repacts:datasets/markdown/repacts/1960/ra_2836_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2836_1960.md	ra_2836_1960	An Act Creating Certain Barrios in the Municipality of Dumingag, Province of Zamboanga del Sur	"**REPUBLIC ACT No. 2836**
+
+ **An Act Creating Certain Barrios in the Municipality of Dumingag, Province of Zamboanga del Sur**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Gumpingan and Lipawan in the Municipality of Dumingag, Province of Zamboanga del Sur, are converted into barrios of said municipality to be known as barrio of Gumpingan and barrio of Lipawan, respectively.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	This act converts the sitios of Gumpingan and Lipawan into barrios within the Municipality of Dumingag, Zamboanga del Sur.	"[{""title"": ""Section 1"", ""summary"": ""The sitios of Gumpingan and Lipawan are converted into barrios named Gumpingan and Lipawan respectively.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	RA 2836	June 19, 1960				"[""Conversion of sitios Gumpingan and Lipawan into barrios."", ""Act takes effect upon approval.""]"		"[""Barrios"", ""Municipality"", ""Zamboanga del Sur"", ""Local Government""]"	"[""Republic Act"", ""Barrios"", ""Municipality"", ""Dumingag"", ""Zamboanga del Sur""]"
+repacts:datasets/markdown/repacts/1960/ra_2837_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2837_1960.md	ra_2837_1960	An Act Creating the Barrio of Lunotan in the Municipality of Gingoog, Province of Misamis Oriental	"**REPUBLIC ACT No. 2837**
+
+ **An Act Creating the Barrio of Lunotan in the Municipality of Gingoog, Province of Misamis Oriental**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Lunotan Hinandigan, Kiboco and Mabuhay in the Municipality of Gingoog, Province of Misamis Oriental, are constituted into a distinct and independent barrio of said municipality, to be known as the barrio of Lunotan.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	Establishes the barrio of Lunotan by constituting the sitios of Lunotan Hinandigan, Kiboco and Mabuhay into a distinct barrio within Gingoog, Misamis Oriental.	"[{""title"": ""Section 1"", ""summary"": ""Constitutes the sitios of Lunotan Hinandigan, Kiboco and Mabuhay into the barrio of Lunotan.""}, {""title"": ""Section 2"", ""summary"": ""The act takes effect upon its approval.""}]"	2837	June 19, 1960			To create a new barrio for administrative and local governance purposes.	"[""Constitutes the sitios of Lunotan Hinandigan, Kiboco and Mabuhay into a distinct barrio of Gingoog.""]"		"[""local government"", ""barrio creation"", ""Misamis Oriental""]"	"[""Lunotan"", ""Gingoog"", ""Misamis Oriental"", ""barrio"", ""Republic Act 2837""]"
+repacts:datasets/markdown/repacts/1960/ra_2838_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2838_1960.md	ra_2838_1960	An Act Changing the Names of Maningaw and Washington Streets in the Municipality of Bilar, Province of Bohol, to Marcelo H. Del Pilar Street and Magsaysay Street, Respectively	"**REPUBLIC ACT No. 2838**
+
+ **An Act Changing the Names of Maningaw and Washington Streets in the Municipality of Bilar, Province of Bohol, to Marcelo H. Del Pilar Street and Magsaysay Street, Respectively**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The names of Maningaw Street and Washington Street in the Municipality of Bilar, Province of Bohol, are hereby changed to Marcelo H. del Pilar Street and Magsaysay Street, respectively.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	The Republic Act No. 2838 changes the names of Maningaw Street and Washington Street in Bilar, Bohol to Marcelo H. del Pilar Street and Magsaysay Street respectively, and takes effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""The names of Maningaw Street and Washington Street in the Municipality of Bilar, Province of Bohol, are hereby changed to Marcelo H. del Pilar Street and Magsaysay Street, respectively.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2838	June 19, 1960			To change the street names of Maningaw and Washington Streets in Bilar, Bohol to new names.	"[""Names of Maningaw Street and Washington Street are changed to Marcelo H. del Pilar Street and Magsaysay Street respectively."", ""Act shall take effect upon approval.""]"		"[""Street Names"", ""Municipality"", ""Bohol"", ""Philippines"", ""Republic Act""]"	"[""Maningaw"", ""Washington"", ""Marcelo H. Del Pilar"", ""Magsaysay"", ""Bilar"", ""Bohol"", ""Street Names"", ""Republic Act 2838""]"
+repacts:datasets/markdown/repacts/1960/ra_2839_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2839_1960.md	ra_2839_1960	An Act Creating the Barrio of Bugay in the Municipality of Bayawan, Province of Negros Oriental	"**REPUBLIC ACT No. 2839**
+
+ **An Act Creating the Barrio of Bugay in the Municipality of Bayawan, Province of Negros Oriental**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Bugay, Bato, Baboy, Manobilan, Manduaw and Bucao in the Municipality of Bayawan, Province of Negros Oriental, are hereby constituted into a barrio of said municipality to be known as Barrio Bugay.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1960.
+"	success	Republic Act	Creates the barrio of Bugay in the municipality of Bayawan, Negros Oriental.	"[{""title"": ""Section 1."", ""summary"": ""Constitutes the sitios of Bugay, Bato, Baboy, Manobilan, Manduaw and Bucao into Barrio Bugay.""}, {""title"": ""Section 2."", ""summary"": ""The act shall take effect upon its approval.""}]"	2839	June 19, 1960			To create a new barrio within the municipality of Bayawan.	"[""Creation of Barrio Bugay"", ""Constitutes specified sitios into the barrio""]"		"[""Republic Act"", ""Local Government"", ""Barrio"", ""Negros Oriental""]"	"[""Bugay"", ""Bayawan"", ""Negros Oriental"", ""barrio"", ""municipality"", ""sitio""]"
+repacts:datasets/markdown/repacts/1960/ra_2840_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2840_1960.md	ra_2840_1960	An Act Converting the Sitio of Bagong Bayan, Barrio of Lual, Municipality of Mauban, Province of Quezon, into a Distinct and Independent Barrio to be Known as the District of Bagong Bayan	"**REPUBLIC ACT No. 2840**
+
+ **An Act Converting the Sitio of Bagong Bayan, Barrio of Lual, Municipality of Mauban, Province of Quezon, into a Distinct and Independent Barrio to be Known as the District of Bagong Bayan**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Bagong Bayan is hereby separated from the barrio of Lual in the Municipality of Mauban, Province of Quezon, and is converted into a distinct and independent barrio to be known as the District of Bagong Bayan.

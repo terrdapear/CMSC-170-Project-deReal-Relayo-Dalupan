@@ -1,0 +1,456 @@
+>
+>  thence N43 14E 50.20 m to point 656;
+>
+>  thence N83 08E 14.20 m to point 657;
+>
+>  thence N79 55E 84.00 m to point 658;
+>
+>  thence N62 14E 19.10 m to point 659;
+>
+>  thence N55 32E 88.50 m to point 660;
+>
+>  thence N52 09E 30.10 m to point 661;
+>
+>  thence N70 09E 89.80 m to point 662;
+>
+>  thence N56 42E 120.60 m to point 663;
+>
+>  thence N81 22E 20.60 m to point 664;
+>
+>  thence S15 27E 28.50 m to point 665;
+>
+>  thence S71 18E 34.30 m to point 666;
+>
+>  thence S88 47E 33.00 m to point 667;
+>
+>  thence N73 48E 50.90 m to point 668;
+>
+>  thence N54 34E 54.00 m to point 669;
+>
+>  thence N43 51E 73.90 m to point 670;
+>
+>  thence N12 57E 58.50 m to point 671;
+>
+>  thence N36 58E 62.20 m to point 672;
+>
+>  thence N68 10E 29.80 m to point 673;
+>
+>  thence S70 41E 67.40 m to point 674;
+>
+>  thence N65 10E 44.30 m to point 675;
+>
+>  thence N53 08E 65.50 m to point 676;
+>
+>  thence N54 49E 29.90 m to point 677;
+>
+>  thence N56 51E 55.10 m to point 678;
+>
+>  thence N47 35E 45.40 m to point 679;
+>
+>  thence N44 43E 42.80 m to point 680;
+>
+>  thence N24 45W 85.00 m to point 681;
+>
+>  thence N03 27E 25.00 m to point 682;
+>
+>  thence N71 47E 74.50 m to point 683;
+>
+>  thence N61 13E 40.50 m to point 684;
+>
+>  thence N40 21E 31.40 m to point 685;
+>
+>  thence N44 22E 19.20 m to point 686;
+>
+>  thence N59 53E 62.20 m to point 687;
+>
+>  thence N15 35E 28.70 m to point 688;
+>
+>  thence N03 42W 114.70 m to point 689;
+>
+>  thence N24 32E 99.70 m to point 690;
+>
+>  thence N12 12W 67.20 m to point 691;
+>
+>  thence N45 50E 97.90 m to point 692;
+>
+>  thence N73 55E 82.30 m to point 693;
+>
+>  thence N16 07W 51.50 m to point 694;
+>
+>  thence N59 36W 19.40 m to point 695;
+>
+>  thence S62 50W 47.30 m to point 696;
+>
+>  thence N70 12W 26.60 m to point 697;
+>
+>  thence N20 33W 68.30 m to point 698;
+>
+>  thence N09 56W 20.30 m to point 699;
+>
+>  thence N38 29E 10.00 m to point 700;
+>
+>  thence N52 23E 209.10 m to point 701;
+>
+>  thence N80 25E 24.60 m to point 702;
+>
+>  thence S28 53E 78.50 m to point 703;
+>
+>  thence S67 33E 139.80 m to point 704;
+>
+>  thence N66 05E 49.30 m to point 705;
+>
+>  thence N28 15E 117.30 m to point 706;
+>
+>  thence N70 32E 44.10 m to point 707;
+>
+>  thence S38 35E 12.00 m to point 708;
+>
+>  thence S30 35E 5.10 m to point 709;
+>
+>  thence S53 37E 39.60 m to point 710;
+>
+>  thence N22 04E 24.50 m to point 711;
+>
+>  thence N45 41E 52.80 m to point 712;
+>
+>  thence N59 02E 32.70 m to point 713;
+>
+>  thence N42 32E 52.50 m to point 714;
+>
+>  thence N06 18W 41.00 m to point 715;
+>
+>  thence N73 11W 9.00 m to point 716;
+>
+>  thence N77 06W 46.60 m to point 717;
+>
+>  thence S70 59W 59.60 m to point 718;
+>
+>  thence S16 34W 8.80 m to point 719;
+>
+>  thence S70 34W 16.20 m to point 720;
+>
+>  thence N24 17W 9.00 m to point 721;
+>
+>  thence N07 12E 87.00 m to point 722;
+>
+>  thence N46 58W 16.40 m to point 723;
+>
+>  thence N09 09E 40.20 m to point 724;
+>
+>  thence N08 04W 14.20 m to point 725;
+>
+>  thence N42 15E 116.60 m to point 726;
+>
+>  thence N36 19W 58.10 m to point 727;
+>
+>  thence S67 46W 137.20 m to point 728;
+>
+>  thence N43 54W 22.20 m to point 729;
+>
+>  thence N41 22W 55.50 m to point 730;
+>
+>  thence N14 48W 49.30 m to point 731;
+>
+>  thence N13 10W 20.60 m to point 732;
+>
+>  thence N05 26W 110.00 m to point 733;
+>
+>  thence N05 34E 160.00 m to point 734;
+>
+>  thence N05 30E 61.60 m to point 735;
+>
+>  thence N58 47E 30.90 m to point 736;
+>
+>  thence N07 04E 55.20 m to point 737;
+>
+>  thence N32 44E 63.20 m to point 738;
+>
+>  thence N58 12E 17.60 m to point 739;
+>
+>  thence N20 33E 8.50 m to point 740;
+>
+>  thence N04 09E 58.00 m to point 741;
+>
+>  thence N09 17E 68.20 m to point 742;
+>
+>  thence N01 33W 211.80 m to point 743;
+>
+>  thence N09 47W 64.10 m to point 744;
+>
+>  thence N05 12W 16.60 m to point 745;
+>
+>  thence N42 48E 143.40 m to point 746;
+>
+>  thence N17 58W 11.70 m to point 747;
+>
+>  thence N26 58W 51.40 m to point 748;
+>
+>  thence N12 07W 138.20 m to point 749;
+>
+>  thence N27 24W 94.30 m to point 750;
+>
+>  thence N18 14W 101.60 m to point 751;
+>
+>  thence N44 42E 174.60 m to point 752;
+>
+>  thence N41 29E 57.80 m to point 753;
+>
+>  thence N08 16W 169.00 m to point 754;
+>
+>  thence N03 54W 199.90 m to point 755;
+>
+>  thence N03 38W 304.40 m to point 756;
+>
+>  thence N11 57W 56.00 m to point 757;
+>
+>  thence N27 46W 126.00 m to point 758;
+>
+>  thence N23 31W 150.40 m to point 759;
+>
+>  thence N42 19E 109.00 m to point 760;
+>
+>  thence N52 49E 65.50 m to point 761;
+>
+>  thence N46 27E 69.70 m to point 762;
+>
+>  thence N68 50E 179.50 m to point 763;
+>
+>  thence N31 27E 41.00 m to point 764;
+>
+>  thence S66 42E 49.50 m to point 765;
+>
+>  thence S33 41E 10.10 m to point 766;
+>
+>  thence N51 49E 78.00 m to point 767;
+>
+>  thence N80 41E 19.20 m to point 768;
+>
+>  thence N66 27E 25.50 m to point 769;
+>
+>  thence N64 10E 24.80 m to point 770;
+>
+>  thence N84 35E 61.50 m to point 771;
+>
+>  thence N61 46E 98.30 m to point 772;
+>
+>  thence S79 36E 21.00 m to point 773;
+>
+>  thence N55 57E 107.40 m to point 774;
+>
+>  thence N70 06E 54.30 m to point 775;
+>
+>  thence N22 37E 37.70 m to point 776;
+>
+>  thence N05 40E 11.00 m to point 777;
+>
+>  thence N18 03E 52.60 m to point 778;
+>
+>  thence N07 56W 29.70 m to point 779;
+>
+>  thence N36 39E 56.00 m to point 780;
+>
+>  thence N15 33W 97.40 m to point 781;
+>
+>  thence N09 22W 93.40 m to point 782;
+>
+>  thence N17 32W 68.40 m to point 783;
+>
+>  thence N04 32W 45.50 m to point 784;
+>
+>  thence N12 32W 62.70 m to point 785;
+>
+>  thence N05 35W 34.00 m to point 786;
+>
+>  thence N05 34W 58.70 m to point 787;
+>
+>  thence N15 51W 95.60 m to point 788;
+>
+>  thence N02 17W 52.80 m to point 789;
+>
+>  thence N09 40E 44.70 m to point 790;
+>
+>  thence N50 55E 57.60 m to point 791;
+>
+>  thence N12 55E 32.20 m to point 792;
+>
+>  thence N83 16E 21.30 m to point 793;
+>
+>  thence N39 45E 47.90 m to point 794;
+>
+>  thence N00 13W 25.90 m to point 795;
+>
+>  thence N53 15E 39.40 m to point 796;
+>
+>  thence N06 25E 78.70 m to point 797;
+>
+>  thence N11 34E 21.40 m to point 798;
+>
+>  thence N27 26W 50.40 m to point 799;
+>
+>  thence S81 31E 18.30 m to point 800;
+>
+>  thence N36 34E 19.30 m to point 801;
+>
+>  thence N08 53E 70.00 m to point 802;
+>
+>  thence N69 22W 19.00 m to point 803;
+>
+>  thence N17 25E 47.80 m to point 804;
+>
+>  thence N67 16W 74.80 m to point 805;
+>
+>  thence N05 55E 115.30 m to point 806;
+>
+>  thence N80 21E 24.40 m to point 807;
+>
+>  thence N62 05E 43.80 m to point 808;
+>
+>  thence N38 16E 70.60 m to point 809;
+>
+>  thence S58 11E 192.90 m to point 810;
+>
+>  thence N86 20E 36.00 m to point 811;
+>
+>  thence S89 15E 7.60 m to point 812;
+>
+>  thence S48 24E 37.00 m to point 813;
+>
+>  thence S47 16E 53.50 m to point 814;
+>
+>  thence S61 07E 3.30 m to point 815;
+>
+>  thence S60 27E 21.50 m to point 816;
+>
+>  thence N88 15E 9.80 m to point 817;
+>
+>  thence S62 56E 25.70 m to point 818;
+>
+>  thence S56 08E 26.40 m to point 819;
+>
+>  thence S68 35E 32.90 m to point 820;
+>
+>  thence N32 54E 2.00 m to point 821;
+>
+>  thence S70 58E 18.40 m to point 822;
+>
+>  thence S69 38E 10.30 m to point 823;
+>
+>  thence S78 41E 9.20 m to point 824;
+>
+>  thence N82 53E 17.70 m to point 825;
+>
+>  thence S75 03E 26.00 m to point 826;
+>
+>  thence S69 13E 33.30 m to point 827;
+>
+>  thence S70 14E 70.70 m to point 828;
+>
+>  thence S89 01E 23.40 m to point 829;
+>
+>  thence N58 59E 41.50 m to point 830;
+>
+>  thence S83 45E 33.10 m to point 831;
+>
+>  thence S85 59E 35.70 m to point 832;
+>
+>  thence N86 02E 20.20 m to point 833;
+>
+>  thence N32 06E 39.90 m to point 834;
+>
+>  thence S74 38E 43.80 m to point 835;
+>
+>  thence S88 10E 28.10 m to point 836;
+>
+>  thence S64 59E 23.20 m to point 837;
+>
+>  thence S76 46E 21.00 m to point 838;
+>
+>  thence S88 25E 36.20 m to point 839;
+>
+>  thence S78 13E 14.20 m to point 840;
+>
+>  thence S71 05E 14.80 m to point 841;
+>
+>  thence S77 05E 29.10 m to point 842;
+>
+>  thence S57 07E 19.50 m to point 843;
+>
+>  thence S49 09E 9.80 m to point 844;
+>
+>  thence S58 35E 15.40 m to point 845;
+>
+>  thence S58 55E 25.60 m to point 846;
+>
+>  thence S63 46E 47.50 m to point 847;
+>
+>  thence S60 28E 37.90 m to point 848;
+>
+>  thence S67 55E 26.90 m to point 849;
+>
+>  thence S82 20E 15.70 m to point 850;
+>
+>  thence S71 51E 58.80 m to point 851;
+>
+>  thence S86 43E 22.70 m to point 852;
+>
+>  thence S77 50E 11.90 m to point 853;
+>
+>  thence N80 16E 39.10 m to point 854;
+>
+>  thence S61 26E 51.20 m to point 855;
+>
+>  thence S59 56E 30.20 m to point 856;
+>
+>  thence S53 40E 45.10 m to point 857;
+>
+>  thence S46 29E 19.00 m to point 858;
+>
+>  thence S39 24E 42.70 m to point 859;
+>
+>  thence S41 29E 26.60 m to point 860;
+>
+>  thence S37 09E 33.10 m to point 861;
+>
+>  thence S45 38E 25.50 m to point 862;
+>
+>  thence S43 27E 5.20 m to point 863;
+>
+>  thence S42 31E 140.70 m to point 864;
+>
+>  thence S42 01E 221.00 m to point 865;
+>
+>  thence S48 05E 215.20 m to point 866;
+>
+>  thence S37 22E 245.40 m to point 867;
+>
+>  thence S45 31E 221.90 m to point 868;
+>
+>  thence S28 59E 428.80 m to point 869;
+>
+>  thence S20 52E 367.30 m to point of beginning.
+
+ The foregoing provision shall be without prejudice to the resolution by the appropriate agency or forum of any existing boundary dispute involving questions of territorial jurisdiction between the City of Santa Rosa and the adjoining local government units:*Provided,* That the territorial jurisdiction of the disputed area or areas shall remain with the local government unit which has existing administrative supervision over said area or areas until the final resolution of the case.
+
+ **Section 3.** *Corporate Powers of the City.* The City constitutes a political body corporate and as such is endowed with the attributes of perpetual succession and possessed of the powers which pertain to a municipal corporation to be exercised in conformity with the provision of the Charter. The City shall have the following corporate powers:
+
+ (a) To have a continuous succession in its corporate name; (b) To sue and be sued; (c) To have and use a corporate seal; (d) To acquire, hold and convey real or personal property; (e) To enter into any contracts and/or agreements; and (f) To exercise such other powers, prerogatives or authority subject to the limitations provided in this Act or laws. **Section 4.** *General Powers of the City.* The City shall have a common seal and may alter the same at pleasure. It shall exercise the powers to levy taxes; to close and open roads, streets, alleys, parks or squares; to take, purchase, receive, hold, lease, convey and dispose of real and personal property for the general interests of the City; to expropriate or condemn private property for public use; to contract and be contracted with; to sue and be sued; to prosecute and defend to final judgment and execution suits wherein the City is involved or interested in; and to exercise all the powers as are granted to corporations or as hereinafter conferred.
+
+ **Section 5.***Liability for Damage.* The City and its officials shall not be exempt from liability for death or injury to persons or damage to property done or caused as a consequence or result of the discharge or performance of official functions within the scope of their duties.
+
+ **Section 6.** *Jurisdiction of the City.* The jurisdiction of the City of Santa Rosa, for police purposes only, shall be coextensive with its territorial jurisdiction and for the purpose of protecting and ensuring the purity of the water supply of the City, such police jurisdiction shall also extend over all the territory within one hundred meters (100 m.) of any reservoir, conduit, canal, aqueduct or pumping station used in connection with the city water service.
+
+ The regional trial courts and the city courts of the City of Santa Rosa shall have concurrent jurisdiction with the regional trial courts and the metropolitan trial courts or city or municipal trial courts of the adjoining municipalities to try crimes and misdemeanor committed within the said drainage area or within said space of one hundred meters (100 m.). The court first taking jurisdiction of such offense shall have exclusive jurisdiction to try said cases. Any license that may be issued within said zone, area or space shall be granted by the proper authorities of the City of Santa Rosa, and the fees arising therefrom shall accrue to the treasury of the said City.
+
+ **ARTICLE II CITY OFFICIALS IN GENERAL**
+
+ **Section 7.***The Officials of the City of Santa Rosa.* (a) There shall be in the City of Santa Rosa a city mayor, a city vice mayor, sangguniang panlungsod members, a secretary to the sangguniang panlungsod, a city treasurer, a city assessor, a city accountant, a city budget officer, a city planning and development coordinator, a city engineer, a city health officer, a city civil registrar, a city administrator, a city legal officer, a city social welfare and development officer, a city veterinarian, a city general services officer, a city agriculturist, a city cooperatives officer and a city environment and natural resources officer.
+
+ (b) In addition thereto, the city mayor may appoint a city architect, a city information officer and a city population officer. (c) There shall be established in the City of Santa Rosa a city fire station, to be headed by a city fire marshal; a city jail, to be headed by a city jail warden; a city schools division, to be headed by a city school division superintendent; and a city prosecution service, to be headed by a city prosecutor. (d) Finally, the city mayor may: (1) Maintain existing offices not mentioned in Subsections (a) and (b) hereof; (2) Create such other offices as may be necessary to carry out the purposes of the city government; or (3) Consolidate the functions of any office with those of another in the interest of efficiency and economy. Unless otherwise provided herein, the city mayor shall appoint heads of departments and offices with the concurrence of the majority of all the sangguniang panlungsod members, subject to civil service laws, rules and regulations. The sangguniang panlungsod shall act on the appointment within fifteen (15) days from its submission; otherwise, the same shall be deemed confirmed.
+
+ **ARTICLE III THE CITY MAYOR AND VICE MAYOR**
+
+ **Section 8.***The City Mayor.* The city mayor shall be the chief executive of the City. He shall be elected at large by the qualified voters of the City. No person shall be eligible for the position of city mayor unless at the time of election, he is at least twenty-one (21) years of age, an actual resident of the City for at least one (1) year prior to his election and a qualified voter therein. He shall hold office for three (3) years, unless sooner removed, and shall receive a minimum monthly compensation equivalent to salary grade thirty (30) as prescribed under Republic Act No. 6758, otherwise known as the Salary Standardization Law and the implementing guidelines issued pursuant thereto.
+
+ The city mayor, as the chief executive of the city government, shall exercise such powers and perform such duties and functions as provided herein:
+
+ (1) Exercise those powers expressly granted to him by law, those necessarily implied therefrom as well as powers necessary, appropriate or incidental for the efficient and effective governance of the City and those which are essential to the promotion of the general welfare: (a) Determine the guidelines of city policies and be responsible to the sangguniang panlungsod for the program of government; (b) Direct the formulation of the city development plan, with the assistance of the city development council and upon approval thereof by the sangguniang panlungsod, implement the same; (c) Present the program of government and propose policies and projects for the consideration of the sangguniang panlungsod at the opening of the regular session of the sangguniang panlungsod every calendar year and as often as may be deemed necessary as the general welfare of the inhabitants and the needs of the city government may require; (d) Initiate and propose legislative measures to the sangguniang panlungsod and as often as may be deemed necessary, provide such information and data needed or requested by said sanggunian in the performance of its legislative functions; (e) Appoint all officials and employees whose salaries and wages are wholly or mainly paid out of city funds and whose appointments are not otherwise provided for in this Act, as well as those he may be authorized by law to appoint except those who are to be appointed by the vice mayor as provided under Section 9 hereof; (f) Represent the City in all its business transactions and sign on its behalf all bonds, contracts, obligations, and such other documents with authority from the sangguniang panlungsod or pursuant to law or ordinance; (g) Carry out such emergency measures as may be necessary during and in the aftermath of man-made and natural disasters and calamities; (h) Determine the time, manner and place of payments of salaries or wages of the city officials and employees, in accordance with law or ordinance; (i) Allocate and assign office space to the city officials and employees who, by law or ordinance, are entitled to such space in the city hall and other buildings owned or leased by the city government; (j) Ensure that all executive officials and employees of the City faithfully discharge their duties and functions as provided by law and this Act and cause to be instituted administrative or judicial proceedings against any official or employee of the City who may have committed an offense in the performance of their official duties; (k) Examine the books, records and other documents of all offices, officials, agents or employees of the City and, in aid of his executive powers and authority, require all national officials and employees stationed in or assigned to the City to make available to him such books, records and other documents in their custody, except those classified by law as confidential; (l) Furnish copies of executive orders issued by him to the office of the governor within seventy-two (72) hours after their issuance; (m) Visit component barangays of the City at least once every six (6) months to deepen his understanding of problems and condition, listen and give appropriate counsel to local officials and inhabitants of general laws and ordinances which especially concern them and otherwise conduct visits and inspections to ensure that the governance of the City will improve the quality of life of the inhabitants; (n) Act on leave applications of officials and employees appointed by him and the commutation of the monetary value of their leave credits in accordance with law; (o) Authorize official trips of City officials and employees outside of the City for a period not exceeding thirty (30) days; (p) Call upon any national official or employee stationed or assigned to the City to advise him, on matters affecting the City and to make recommendations thereon; coordinate with the said official or employee in the formulation and implementation of plans, programs and projects; and when appropriate, initiate an administrative or judicial action against a national government official or employee who may have committed an offense in the performance of their official duties while stationed in or assigned to the City; (q) Authorize payments for medical care, necessary transportation, subsistence, hospital or medical fees of city officials and employees who are injured while in the performance of their official duties and functions, subject to availability of funds; (r) Solemnize marriage, any provision of law to the contrary notwithstanding; (s) Conduct an annual palarong panlungsod which shall feature traditional sports and disciplines included in national and international games, in coordination with the Department of Education; and (t) Submit to the provincial governor the following reports: an annual report containing a summary of all matters pertinent to the management, administration and data relative to its political, social and economic condition; supplemental reports when unexpected events and situations arise at any time during the year, particularly when man-made or natural disasters or calamities affect the general welfare of the City; (2) Enforce all laws and ordinances relative to the governance of the City and in the exercise of its appropriate powers, as well as implement all approved policies, programs, projects, services and activities of the City and in addition thereto, the city mayor shall: (a) Ensure that the acts of the Citys component barangays and of its officials and employees are within the scope of their prescribed powers, duties and functions; (b) Call conventions, conferences, seminars or meetings of elective or appointive officials of the City, including provincial and national officials and employees stationed in or assigned to the City, at such time and place and on such subject he may deem important for the promotion of the general welfare of the local government unit and its inhabitants; (c) Issue such executive orders for the faithful and appropriate enforcement and execution of laws and ordinances; (d) Be entitled to carry the necessary firearms within his territorial jurisdiction; (e) Act as the deputized representative of the National Police Commission, formulate the peace and order plan of the City and upon its approval, implement the same and as such, exercise general and operational control and supervision over the police forces in the City in accordance with Republic Act No. 6975, otherwise known as the Philippine National Police Law; and (f) Call upon the appropriate law enforcement agencies to suppress disorder, riot, lawless violence, rebellion or sedition, or apprehend violators of the law when public interest so requires and when the city police forces are inadequate to cope with the situation or the violators; (3) Initiate and maximize the generation of resources and revenues and apply the same to the implementation of development plans, program objectives and priorities, particularly the resources and revenues programmed for agro-industrial development and countryside growth and progress, and relative thereto shall: (a) Require each head of an office or department to prepare and submit an estimate of appropriations for the ensuing calendar year, in accordance with the provision of Republic Act No. 7160, otherwise known as the Local Government Code of 1991; (b) Prepare and submit to the sanggunian for approval, the executive and supplemental budgets of the City for the ensuing calendar year in the manner provided for under the Local Government Code of 1991; (c) Ensure that all taxes and other revenues of the City are collected and that city funds are applied to the payments of expenses and settlement of obligations of the City in accordance with law or ordinance; (d) Issue licenses and permits and suspend or revoke the same for any violation of the condition upon which said licenses or permits had been issued pursuant to law or ordinance. This also includes the issuance of licenses and permits to gambling operations authorized by law, subject to the ordinance of the sangguniang panlungsod; (e) Issue permits, without need of approval from any national agency, for the holding of activities for any charitable or welfare purpose, excluding prohibited games or shows contrary to law, public policy and public morals; (f) Require owners of illegally constructed houses, buildings or other structures to obtain the necessary permits, subject to such fines and penalties as may be imposed by law or ordinance or to make necessary change, in the construction of the same when said construction violates any law or ordinance, or to order the demolition or removal of said houses, buildings or structures within the period prescribed by law or ordinance; (g) Adopt adequate measures to safeguard and conserve land, mineral, forest, marine and other resources of the City; (h) Provide efficient and effective property and supply management in the City; and protect the funds, credits, rights and other properties of the City; and (i) Institute or cause to be instituted administrative or judicial proceeding for violation of ordinances in the collection of taxes, fees or charges, and for the recovery of funds and property; and cause the City to be defended against all suits to ensure that its interest, resources and rights shall be adequately protected; (4) Ensure the delivery of basic services and the provision of adequate facilities and, in addition thereto: (a) Ensure that the construction and repair of roads, bridges and highways funded by the national government, shall be, as far as practicable, carried out in a spatially contiguous manner and in coordination with the construction and repair of the roads and bridges of the City; and (b) Coordinate the implementation of technical services, including public works and infrastructure programs, rendered by national and provincial offices; (5) Exercise such other powers and perform such other duties and functions as provided for under the Local Government Code of 1991 and those that are prescribed by law or ordinance. **Section 9.***The City Vice Mayor.* There shall be a vice mayor who shall be elected in the same manner as the city mayor and shall at the time of his election, possess the same qualifications as the city mayor. He shall hold office for three (3) years, unless sooner removed, and receive a monthly compensation corresponding to salary grade twenty-six (26) as prescribed under Republic Act No. 6758 and the implementing guidelines issued pursuant thereto.

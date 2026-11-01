@@ -1,0 +1,204 @@
+
+ **Section 6.** All laws, executive orders, issuances, rules and regulations inconsistent with this Act are hereby repealed or modified accordingly.
+
+ **Section 7.** This Act shall take effect fifteen (15) days after its publication in theOfficial Gazetteor in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **VICENTE C. SOTTO III** President of the Senate | (SGD.)**LORD ALLAN JAY Q. VELASCO** Speaker of the House of Representatives |
+| --- | --- |
+| (SGD.) **VICENTE C. SOTTO III** President of the Senate | (SGD.)**LORD ALLAN JAY Q. VELASCO** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on December 1, 202 and January 31, 2022, respectively.
+
+ | (SGD.) **MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.) **MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+| --- | --- |
+| (SGD.) **MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.) **MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved: APR 29 2022
+
+ (SGD.)**RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	An act to increase the bed capacity of the Vicente Sotto Memorial Medical Center (VSMMC) in Cebu City from 1,200 to 1,500 beds, upgrade services, increase workforce, and appropriate funds for implementation.	"[{""title"": ""Section 1"", ""summary"": ""Increase VSMMC bed capacity from 1,200 to 1,500 beds and establish consistency with hospital development plan.""}, {""title"": ""Section 2"", ""summary"": ""Upgrade existing professional health care services and facilities at VSMMC to match increased bed capacity.""}, {""title"": ""Section 3"", ""summary"": ""Increase VSMMC workforce, including doctors, nurses, and support personnel, and determine additional positions by DOH Secretary.""}, {""title"": ""Section 4"", ""summary"": ""Include implementation of the act in the Department of Health program and its funding in the annual General Appropriations Act.""}, {""title"": ""Section 5"", ""summary"": ""Severability clause: unconstitutional provisions do not affect remaining parts.""}, {""title"": ""Section 6"", ""summary"": ""Repeal or modify all laws, executive orders, issuances, rules and regulations inconsistent with this act.""}, {""title"": ""Section 7"", ""summary"": ""Act takes effect fifteen days after publication in the Official Gazette or a newspaper of general circulation.""}]"	11717	April 29, 2022			To increase bed capacity and improve health care services at VSMMC while ensuring adequate funding and workforce.	"[""Increase bed capacity from 1,200 to 1,500 beds."", ""Upgrade services and facilities to match capacity."", ""Increase workforce proportionally."", ""Fund the act through the General Appropriations Act."", ""Severability clause for unconstitutional provisions."", ""Repeal or modify inconsistent laws."", ""Effective fifteen days after publication.""]"	Repeals or modifies laws, executive orders, issuances, rules and regulations inconsistent with this act.	"[""Healthcare"", ""Medical Facilities"", ""Cebu"", ""Bed Capacity""]"	"[""VSMMC"", ""bed capacity"", ""healthcare"", ""Cebu"", ""Republic Act 11717""]"
+repacts:datasets/markdown/repacts/2022/ra_11718_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11718_2022.md	ra_11718_2022	AN ACT ESTABLISHING A TERTIARY GENERAL HOSPITAL IN THE MUNICIPALITY OF ABULUG, PROVINCE OF CAGAYAN VALLEY, TO BE KNOWN AS THE NORTHWESTERN CAGAYAN GENERAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR	"Eighteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-sixth day of July, two thousand twenty one.*
+
+ **[ REPUBLIC ACT NO. 11718, April 29, 2022 ]**
+
+ **AN ACT ESTABLISHING A TERTIARY GENERAL HOSPITAL IN THE MUNICIPALITY OF ABULUG, PROVINCE OF CAGAYAN VALLEY, TO BE KNOWN AS THE NORTHWESTERN CAGAYAN GENERAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** There is hereby established a tertiary general hospital in the Municipality of Abulug, Province of Cagayan Valley to be known as the Northwestern Cagayan General Hospital (NWCGH), which shall be under the direct control and supervision of the Department of Health (DOH). Any future increase in bed capacity shall be inconsistent with the hospital development plan which shall be prepared by the DOH.
+
+ **Section 2.** The Secretary of the DOH shall immediately include in the Departments program the implementation of this Act, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 3.** Within ninety (90) days from the effectivity of this Act, the Secretary of the DOH shall prepare and issue the necessary rules and regulations for its effective implementation consistent with the hospital development plan.
+
+ **Section 4.** If any provision or part of this Act is declared unconstitutional, the remaining parts or provisions not affected shall remain in full force and effect.
+
+ **Section 5.** All laws, executive orders, issuances, rules and regulations inconsistent with this Act are hereby repealed or modified accordingly.
+
+ **Section 6.** This Act shall take effect fifteen (15) days after its publication in theOfficial Gazetteor in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **VICENTE C. SOTTO III** President of the Senate | (SGD.)**LORD ALLAN JAY Q. VELASCO** Speaker of the House of Representatives |
+| --- | --- |
+| (SGD.) **VICENTE C. SOTTO III** President of the Senate | (SGD.)**LORD ALLAN JAY Q. VELASCO** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on January 20, 2021 and January 31, 2022, respectively.
+
+ | (SGD.) **MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.) **MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+| --- | --- |
+| (SGD.) **MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.) **MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved: APR 29 2022
+
+ (SGD.)**RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	This Act establishes the Northwestern Cagayan General Hospital (NWCGH) in Abulug, Cagayan Valley, and appropriates funds for its construction, operation, and development under the supervision of the Department of Health.	"[{""title"": ""Section 1."", ""summary"": ""Establishes the NWCGH under direct control and supervision of the Department of Health (DOH). Any future increase in bed capacity must be consistent with a hospital development plan prepared by the DOH.""}, {""title"": ""Section 2."", ""summary"": ""The Secretary of the DOH shall immediately include the implementation of this Act in the department\u2019s program, with its funding incorporated into the annual General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""Within ninety (90) days from the effectivity of this Act, the Secretary of the DOH shall prepare and issue the necessary rules and regulations for its effective implementation, consistent with the hospital development plan.""}, {""title"": ""Section 4."", ""summary"": ""If any provision or part of this Act is declared unconstitutional, the remaining parts or provisions not affected shall remain in full force and effect.""}, {""title"": ""Section 5."", ""summary"": ""All laws, executive orders, issuances, rules and regulations inconsistent with this Act are hereby repealed or modified accordingly.""}, {""title"": ""Section 6."", ""summary"": ""This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.""}]"	11718	April 29, 2022	"[{""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}, {""name"": ""LORD ALLAN JAY Q. VELASCO"", ""title"": ""Speaker of the House of Representatives""}]"		To establish a tertiary general hospital in the Municipality of Abulug, Province of Cagayan Valley, and appropriate funds for its construction and operation under the Department of Health.	"[""Establishment of the Northwestern Cagayan General Hospital (NWCGH)"", ""DOH supervision and control of the hospital"", ""Funding inclusion in the General Appropriations Act"", ""Preparation of implementation rules within 90 days"", ""Effectivity 15 days after publication"", ""Repeal or modification of inconsistent laws and regulations""]"		"[""Health"", ""Hospital"", ""Cagayan Valley"", ""Department of Health"", ""Republic Act""]"	"[""Northwestern Cagayan General Hospital"", ""Abulug"", ""Cagayan Valley"", ""Department of Health"", ""Republic Act 11718"", ""funding"", ""healthcare"", ""hospital"", ""DOH""]"
+repacts:datasets/markdown/repacts/2022/ra_11719_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11719_2022.md	ra_11719_2022	AN ACT CONVERTING THE BICOL REGIONAL TRAINING AND TEACHING HOSPITAL IN THE MUNICIPALITY OF DARAGA, PROVINCE OF ALBAY INTO A GENERAL AND SUBSPECIALTY HOSPITAL, TO BE KNOWN AS THE BICOL REGIONAL HOSPITAL AND MEDICAL CENTER, AND APPROPRIATING FUNDS THEREFOR	"Eighteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-sixth day of July, two thousand twenty one.*
+
+ **[ REPUBLIC ACT NO. 11719, April 29, 2022 ]**
+
+ **AN ACT CONVERTING THE BICOL REGIONAL TRAINING AND TEACHING HOSPITAL IN THE MUNICIPALITY OF DARAGA, PROVINCE OF ALBAY INTO A GENERAL AND SUBSPECIALTY HOSPITAL, TO BE KNOWN AS THE BICOL REGIONAL HOSPITAL AND MEDICAL CENTER, AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** The Bicol Regional Training and Teaching Hospital located in the Municipality of Daraga, Province of Albay is hereby converted into a general and subspecialty hospital to be known as the Bicol Regional Hospital and Medical Center (BRHMC).
+
+ **Section 2.** The bed capacity of the BRHMC shall be increased from two hundred fifty (250) to eight hundred (800) beds. Any future increase in bed capacity shall be consistent with its hospital development plan which shall be prepared by the Department of Health (DOH).
+
+ **Section 3.** The existing professional health care services and facilities of the BRHMC are also upgraded to conform with and be commensurate to the increase in bed capacity as provided for in Section 2 hereof.
+
+ **Section 4.** The existing workforce of the BRHMC, which includes doctors, nurses, and support personnel, shall also be increased correspondingly. The Secretary of the DOH shall, after consultation with the Chief of BRHMC, and in coordination with the Secretary of the Department of Budget and Management and the Commissioner of the Civil Service Commission, determine the additional new positions to be created and filled up.
+
+ **Section 5.** The Secretary of the DOH shall immediately include in the Departments program the implementation of this Act, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 6.** If any provision or part of this Act is declared unconstitutional, the remaining parts or provisions not affected shall remain in full force and effect.
+
+ **Section 7.** All laws, executive orders, issuances, rules and regulations inconsistent with this Act are hereby modified accordingly.
+
+ **Section 8.** This Act shall take effect fifteen (15) days after its publication in theOfficial Gazetteor in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **VICENTE C. SOTTO III** President of the Senate | (SGD.)**LORD ALLAN JAY Q. VELASCO** Speaker of the House of Representatives |
+| --- | --- |
+| (SGD.) **VICENTE C. SOTTO III** President of the Senate | (SGD.)**LORD ALLAN JAY Q. VELASCO** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on January 20, 2021 and January 31, 2022, respectively.
+
+ | (SGD.) **MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.) **MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+| --- | --- |
+| (SGD.) **MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.) **MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved: APR 29 2022
+
+ (SGD.)**RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	This act converts the Bicol Regional Training and Teaching Hospital in Daraga, Albay into the Bicol Regional Hospital and Medical Center (BRHMC), expands its bed capacity from 250 to 800, upgrades facilities and workforce, and appropriates funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""The Bicol Regional Training and Teaching Hospital is hereby converted into a general and subspecialty hospital known as the Bicol Regional Hospital and Medical Center (BRHMC).""}, {""title"": ""Section 2."", ""summary"": ""The bed capacity of BRHMC is increased from 250 to 800 beds, with future increases to align with a hospital development plan. {""}]"	11719	April 29, 2022	"[{""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}, {""name"": ""LORD ALLAN JAY Q. VELASCO"", ""title"": ""Speaker of the House of Representatives""}, {""name"": ""MYRA MARIE D. VILLARICA"", ""title"": ""Secretary of the Senate""}, {""name"": ""MARK LLANDRO L. MENDOZA"", ""title"": ""Secretary General of the House of Representatives""}]"		To convert the existing regional training and teaching hospital into a general and subspecialty hospital, increase its capacity and resources, and ensure alignment with national health standards.	"[""Conversion of hospital to BRHMC"", ""Increase bed capacity to 800"", ""Upgrade of professional health care services and facilities"", ""Increase in workforce and new positions"", ""Appropriation of funds in the General Appropriations Act"", ""Effectivity fifteen days after publication""]"		"[""Health"", ""Hospital"", ""Bicol"", ""Albay"", ""Republic Act"", ""Healthcare""]"	"[""Bicol Regional Hospital"", ""BRHMC"", ""bed capacity"", ""Department of Health"", ""General Hospital"", ""Subspecialty Hospital"", ""Municipality of Daraga""]"
+repacts:datasets/markdown/repacts/2022/ra_11720_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11720_2022.md	ra_11720_2022	AN ACT ESTABLISHING IN THE MUNICIPALITY OF BOCAUE, PROVINCE OF BULACAN, A GENERAL HOSPITAL TO BE KNOWN AS THE JONI VILLANUEVA GENERAL HOSPITAL AND APPROPRIATING FUNDS THEREFOR	"Eighteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-sixth day of July, two thousand twenty one.*
+
+ **[ REPUBLIC ACT NO. 11720, April 29, 2022 ]**
+
+ **AN ACT ESTABLISHING IN THE MUNICIPALITY OF BOCAUE, PROVINCE OF BULACAN, A GENERAL HOSPITAL TO BE KNOWN AS THE JONI VILLANUEVA GENERAL HOSPITAL AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** There shall be established in the Municipality of Bocaue, Province of Bulacan, a level 2 grade hospital to be known as Joni Villanueva General Hospital, which shall be under the direct control and supervision of the Department of Health (DOH).
+
+ **Section 2.** Any future increase in bed capacity, healthcare facilities, service capability, and human resource complement shall be based on the hospital development plan which shall be prepared by the DOH.
+
+ **Section 3.** The Secretary of the DOH shall immediately include in the Departments program the implementation of this Act, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 4.** If any provision or part of this Act is declared unconstitutional, the remaining parts or provisions not affected shall remain in full force and effect.
+
+ **Section 5.** All laws, executive orders, issuances, rules and regulations inconsistent with this Act are hereby repealed or modified accordingly.
+
+ **Section 6.** This Act shall take effect fifteen (15) days after its publication in theOfficial Gazetteor in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **VICENTE C. SOTTO III** President of the Senate | (SGD.)**LORD ALLAN JAY Q. VELASCO** Speaker of the House of Representatives |
+| --- | --- |
+| (SGD.) **VICENTE C. SOTTO III** President of the Senate | (SGD.)**LORD ALLAN JAY Q. VELASCO** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on February 17, 2021 and January 31, 2022, respectively.
+
+ | (SGD.) **MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.) **MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+| --- | --- |
+| (SGD.) **MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.) **MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved: APR 29 2022
+
+ (SGD.)**RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	An act establishing a level 2 grade general hospital in the Municipality of Bocaue, Bulacan, known as the Joni Villanueva General Hospital, and appropriating funds for its construction and operation.	"[{""title"": ""Section 1"", ""summary"": ""Establishes the Joni Villanueva General Hospital in Bocaue, Bulacan, under the direct control and supervision of the Department of Health.""}, {""title"": ""Section 2"", ""summary"": ""Mandates that any future increase in bed capacity, facilities, services, and human resources be based on a hospital development plan prepared by the DOH.""}, {""title"": ""Section 3"", ""summary"": ""Requires the Secretary of the DOH to include the implementation of this Act in the Department's program and to ensure its funding is included in the annual General Appropriations Act.""}, {""title"": ""Section 4"", ""summary"": ""Provides that if any provision of this Act is declared unconstitutional, the remaining provisions shall remain in force.""}, {""title"": ""Section 5"", ""summary"": ""Repeals or modifies all laws, executive orders, issuances, rules and regulations inconsistent with this Act.""}, {""title"": ""Section 6"", ""summary"": ""The Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.""}]"	11720	April 29, 2022	"[{""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}, {""name"": ""LORD ALLAN JAY Q. VELASCO"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""MYRA MARIE D. VILLARICA"", ""title"": ""Secretary of the Senate""}, {""name"": ""MARK LLANDRO L. MENDOZA"", ""title"": ""Secretary General House of Representatives""}]"	To establish a general hospital in Bocaue, Bulacan and appropriate funds for its construction and operation.	"[""Establishment of Joni Villanueva General Hospital"", ""Creation of a level 2 grade hospital under DOH supervision"", ""Future capacity increases based on DOH development plan"", ""Funding to be included in the General Appropriations Act"", ""Effectivity fifteen days after publication"", ""Repeal of inconsistent laws and regulations""]"	None	"[""Health"", ""Hospital"", ""Bulacan"", ""Philippines""]"	"[""Joni Villanueva General Hospital"", ""Bocaue"", ""Bulacan"", ""Department of Health"", ""Republic Act 11720""]"
+repacts:datasets/markdown/repacts/2022/ra_11721_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11721_2022.md	ra_11721_2022	AN ACT ESTABLISHING A GENERAL HOSPITAL IN THE MUNICIPALITY OF VILLANUEVA, PROVINCE OF MISAMIS ORIENTAL TO BE KNOWN AS THE NORTHEASTERN MISAMIS GENERAL HOSPITAL (NMGH), AND APPROPRIATING FUNDS THEREFOR	"Eighteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-sixth day of July, two thousand twenty one.*
+
+ **[ REPUBLIC ACT NO. 11721, April 29, 2022 ]**
+
+ **AN ACT ESTABLISHING A GENERAL HOSPITAL IN THE MUNICIPALITY OF VILLANUEVA, PROVINCE OF MISAMIS ORIENTAL TO BE KNOWN AS THE NORTHEASTERN MISAMIS GENERAL HOSPITAL (NMGH), AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** There shall be established a general hospital in the Municipality of Villanueva, Province of Misamis Oriental, to be known as the Northeastern Misamis General Hospital (NMGH), which shall be under the direct control and supervision of the Department of Health (DOH).
+
+ Any future increase in bed capacity, healthcare facilities, service capability, and human resource complement shall be based on the hospital development plan which shall be prepared by the DOH.
+
+ **Section 2.** The Secretary of the DOH shall immediately include in the Departments program the implementation of this Act, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 3.** The Secretary of Health shall prepare and issue the necessary rules and regulations for the effective implementation of this Act consistent with the hospital development plan.
+
+ **Section 4.** If any provision or part of this Act is declared unconstitutional, the remaining parts or provisions not affected shall remain in full force and effect.
+
+ **Section 5.** All laws, executive orders, issuances, rules and regulations inconsistent with this Act are hereby repealed or modified accordingly.
+
+ **Section 6.** This Act shall take effect fifteen (15) days after its publication in theOfficial Gazetteor in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **VICENTE C. SOTTO III** President of the Senate | (SGD.)**LORD ALLAN JAY Q. VELASCO** Speaker of the House of Representatives |
+| --- | --- |
+| (SGD.) **VICENTE C. SOTTO III** President of the Senate | (SGD.)**LORD ALLAN JAY Q. VELASCO** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on March 3, 2021 and January 31, 2022, respectively.
+
+ | (SGD.) **MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.) **MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+| --- | --- |
+| (SGD.) **MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.) **MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved: APR 29 2022
+
+ (SGD.)**RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	The law establishes the Northeastern Misamis General Hospital (NMGH) in Villanueva, Misamis Oriental, under the Department of Health (DOH), appropriates funding, and mandates the DOH to prepare a development plan, rules and regulations, and include funding in the General Appropriations Act. The act also provides for severance of unconstitutional provisions and repeal of inconsistent laws, taking effect 15 days after publication.	"[{""title"": ""Section 1"", ""summary"": ""Establishes NMGH under DOH control and supervision.""}, {""title"": ""Section 2"", ""summary"": ""DOH Secretary shall include the act in the Department\u2019s program and fund it via the General Appropriations Act.""}, {""title"": ""Section 3"", ""summary"": ""DOH Secretary shall issue rules and regulations for implementation.""}, {""title"": ""Section 4"", ""summary"": ""Unconstitutional provisions shall be severed, leaving the rest in force.""}, {""title"": ""Section 5"", ""summary"": ""Repeals or modifies any law inconsistent with the act.""}, {""title"": ""Section 6"", ""summary"": ""Act takes effect 15 days after publication in the Official Gazette or a newspaper of general circulation.""}]"	11721	April 29, 2022			To establish a general hospital in Villanueva, Misamis Oriental, improve healthcare access, and allocate necessary funds for its operation and development.	"[""Establish NMGH under DOH control"", ""Funding included in General Appropriations Act"", ""DOH to issue rules and regulations"", ""Severance of unconstitutional provisions"", ""Repeal of inconsistent laws"", ""Effectivity 15 days after publication""]"		"[""Health"", ""Hospital"", ""Misamis Oriental"", ""DOH"", ""Republic Act""]"	"[""general hospital"", ""NMGH"", ""Misamis Oriental"", ""Department of Health"", ""funding"", ""rules and regulations"", ""public health""]"
+repacts:datasets/markdown/repacts/2022/ra_11722_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11722_2022.md	ra_11722_2022	AN ACT CONVERTING THE SULU SANITARIUM IN THE MUNICIPALITY OF JOLO, PROVINCE OF SULU, INTO A GENERAL HOSPITAL TO BE KNOWN AS THE SULU SANITARIUM AND GENERAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR	"Eighteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-sixth day of July, two thousand twenty one.*
+
+ **[ REPUBLIC ACT NO. 11722, April 29, 2022 ]**
+
+ **AN ACT CONVERTING THE SULU SANITARIUM IN THE MUNICIPALITY OF JOLO, PROVINCE OF SULU, INTO A GENERAL HOSPITAL TO BE KNOWN AS THE SULU SANITARIUM AND GENERAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** The Sulu Sanitarium in the Municipality of Jolo, Province of Sulu is hereby converted into a general hospital to be known as the Sulu Sanitarium and General Hospital, under the direct supervision and control of the Department of Health (DOH).
+
+ **Section 2.** Any future increase in bed capacity shall be consistent with the hospital development plan that shall be prepared by the Chief of Hospital of the Sulu Sanitarium and General Hospital and submitted to the DOH.
+
+ **Section 3.** The existing professional health care services and facilities of the Sulu Sanitarium and General Hospital shall also be upgraded to conform with and be commensurate to the increase in bed capacity as provided for in Section 2 hereof.
+
+ **Section 4.** The existing workforce of the Sulu Sanitarium and General Hospital, which includes doctors, nurses, and support personnel, shall be increased correspondingly.
+
+ **Section 5.** The Secretary of the DOH shall, after consultation with the Chief of Hospital of the Sulu Sanitarium and General Hospital, and in coordination with the Secretary of the Department of Budget and Management and the Chairperson of the Civil Service Commission, determine the additional new positions to be created and filled up.
+
+ **Section 6.** The Secretary of Health shall immediately include in the Departments program the implementation of this Act, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 7.** If any provision or part of this Act is declared unconstitutional or invalid, other provisions which are not affected thereby shall continue to be in full force and effect.
+
+ **Section 8.** All laws, decrees, orders, issuances, rules and regulations that are inconsistent with the provisions of this Act are hereby repealed, amended or modified accordingly.

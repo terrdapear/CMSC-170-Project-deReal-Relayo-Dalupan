@@ -1,0 +1,137 @@
+repacts:datasets/markdown/repacts/1950/ra_423_1950.md	repacts	1950		datasets/markdown/repacts/1950/ra_423_1950.md	ra_423_1950	An Act to Amend Section One Hundred Thirty-Seven of the National Internal Revenue Code, as Amended by Republic Acts Numbered Fifty-Six and Two Hundred and Nineteen	"**REPUBLIC ACT No. 423**
+
+ AN ACT TO AMEND SECTIONS ONE, TWO AND SEVEN OF REPUBLIC ACT NUMBERED THREE HUNDRED THIRTY
+
+ **Section 1.** Section one of Republic Act Numbered Three hundred thirty is amended to read as follows:
+
+ ""Sec. 1. There is hereby created an Import Control Board to be composed of the Secretary of Commerce and Industry, as chairman, and four members one of whom shall be chosen from the different Chambers of Commerce in the Philippines, and another from the laborers or consumers to be appointed by the President with the consent of the Commission on Appointments."" **Section 2.** Section two of the same Act is amended to read as follows:
+
+ ""Sec. 2. In order to balance the foreign trade, to conserve the international dollar reserves of the country, to promote and to develop domestic industries, the President, upon recommendation of the Import Control Board, shall fix and allocate quotas of the quantity which may be imported within a certain period of time of each kind or class of nonessential and luxury imports."" **Section 3.** Section seven of the same Act is amended to read as follows:
+
+ ""Sec. 7. The authority herein granted to the President to regulate the volume of imports by quota or license or permit shall terminate on April thirty, nineteen hundred and fifty."" **Section 4.** This Act and the rules and regulations promulgated heretofore under Republic Act Numbered Three hundred thirty shall take effect on December thirty-one nineteen hundred and forty-nine.
+
+ Approved: January 6, 195
+"	success	Republic Act	This act amends Section 137 of the National Internal Revenue Code to establish specific tax rates on cigars and cigarettes based on wholesale price thresholds, maximum sale price determinations, and a minimum tax on mechanically packed cigarettes, while requiring manufacturers and importers to file sworn statements with the Collector of Internal Revenue.	"[{""title"": ""Section 1"", ""summary"": ""Amends Sec. 137 of the NIRC to set specific tax rates on cigars and cigarettes based on wholesale price, maximum sale price, and minimum tax on mechanically packed cigarettes, with filing requirements.""}, {""title"": ""Section 2"", ""summary"": ""Effective upon approval.""}]"	419	June 18, 1949			To amend tax rates and regulations on cigars and cigarettes under the National Internal Revenue Code.	"[""Specific tax rates on cigars based on wholesale price thresholds"", ""Specific tax rates on cigarettes based on wholesale price thresholds"", ""Maximum sale price rule determining tax rate"", ""Minimum tax of four pesos per thousand on mechanically packed cigarettes"", ""Requirement for manufacturers/importers to file sworn statements with Collector of Internal Revenue""]"	Section One Hundred Thirty-Seven of the National Internal Revenue Code, as amended by Republic Acts 56 and 219	"[""tax"", ""cigars"", ""cigarettes"", ""Philippines"", ""RA 419""]"	"[""cigars"", ""cigarettes"", ""tax"", ""wholesale price"", ""maximum sale price"", ""minimum tax"", ""mechanically packed"", ""Collector of Internal Revenue""]"
+repacts:datasets/markdown/repacts/1950/ra_424_1950.md	repacts	1950		datasets/markdown/repacts/1950/ra_424_1950.md	ra_424_1950	"An Act to Grant the ""Opon Electric Service Company"" a Franchise to Operate an Electric Light, Heat, and Power System in the Municipality of Opon, Province of Cebu"	"**REPUBLIC ACT No. 424**
+
+ AN ACT APPROPRIATING FUNDS FOR THE OPERATION OF THE GOVERNMENT OF THE REPUBLIC OF THE PHILIPPINES DURING THE PERIOD FROM JULY ONE, NINETEEN HUNDRED AND FORTY-NINE TO JUNE THIRTY, NINETEEN HUNDRED AND FIFTY, AND FOR OTHER PURPOSES
+
+ **Section 1.** Out of any funds in the National Treasury not otherwise appropriated, the following sums are hereby appropriated for the operation of the Government of the Republic of the Philippines during the period from July one, nineteen hundred and forty-nine to June thirty, nineteen hundred and fifty, as provided in Executive Order Nos. 225, 226, 239 and 240, series of 1949:
+
+ | A. | The several sums appropriated in RepublicAct Numbered Three hundred and twenty forthe same purposes, services, and activities thereinspecified, all the provisions of the said Act beinghereby reenacted and made a part hereof (ExecutiveOrder No. 225, series of 1949 | P232,300,297.00 | | --- | --- | --- | | B. | The following sums, or so much thereofas may be necessary, for the several purposes, servicesand activities established by laws hereinafter mentioned,all the special and general provisions of Republic ActNumbered Three hundred and twenty being herebymade applicable to them (Executive Order No. 240,series of 1949): | | | 1. For the operation and maintenance of the national agricultural school in the Province of Occidental Negros (Republic Act No. 43) | P289,500.00 | | | 2. For additional personnel of the Bureau of Commerce needed in the enforcement of the Bonded Warehouse Act, etc. (Republic Act No. 247) | 10,000.00 | | | 3. For canvassing, locating and evaluating deposits of minerals needed in the development of Philippine industries (Republic Act No. 249) | 200,000.00 | | | 4. For the establishment and operation of the customs service at the port of San Fernando, Province of La Union (Republic Act No. 284) | 25,000.00 | | | 5. Judiciary Act of 1948 (Republic Act No. 296) | 305,513.33 | | | 6. To establish, organize and maintain one national junior agricultural high school in Bunawan, Agusan (Republic Act No. 301) | 50,000.00 | | | 7. For the maintenance of various agricultural schools (Republic Act No. 303) | 400,000.00 | | | 8. For the registration of the claims of all officers and employees of the Government of the Commonwealth, etc., to salaries and wages during the enemy occupation (Republic Act No. 304) | 50,000.00 | | | 9. For the establishment of a school of fisheries in Catbalogan, Samar (Republic Act No. 313) | 50,000.00 | | | 10. For the increase in pay and allowances of enlisted men of the Philippine Constabulary (Republic Act No. 315) | 1,960,000.00 | | | 11. For the increase in pay and allowances of enlisted men of the Armed Forces of the Philippines (Republic Act No. 315) | 1,640,000.00 | | | 12. For salaries and wages and other expenses of the Office of Special Attorneys (Republic Act No. 311, as amended by Republic Act No. 324) | 375,000.00 | | | 13. Reorganizing the Office of the Solicitor General (Republic Act No. 335) | 29,400.00 | | | 14. For salaries and wages and other expenses of the Capital City Planning Commission in accordance with the provisions of section 5 of Republic Act No. 333 | 150,000.00 | | | 15. Regulating the practice of chemical engineering (Republic Act No. 318) | 2,000.00 | | | 16. For the operation and maintenance of additional classes in the Philippine Normal School (Republic Act No. 336) | 99,500.00 | | | 17. For the operation and maintenance of the Pangasinan Normal School (Republic Act No. 336) | 57,800.00 | | | 18. For the operation and maintenance of existing elementary classes (Republic Act No. 346) | 33,698,988.00 | | | 19. For the adjustment of the salaries of public school officials, teachers and other school personnel of the Bureau of Public Schools (Republic Act No. 347) | 12,000,000.00 | | | 20. For expenses in connection with the establishment of a municipal maternity and charity clinic in every municipality and municipal district in accordance with the provisions ofRepublic Act No. 185 | 1,000,000.00 | | | 21. For the adjustment of the salaries of teachersand other school personnel in the SocialWelfare Commission in accordance with theprovisions of Republic Act No. 312 | 9,440.00 | | | *Less* - Amount to be paid out of the receipts under section 6 of Act No. 3203, as amended | (7,560.00) | | | Total | P52,404,581.33 | | | C. | The following sums, or so much thereof asmay be necessary, for the following purposes, all thespecial and general provisions of Republic Act NumberedThree hundred and twenty being hereby made applicableto them (Executive Order No. 239, series of 1949): | | | 1. For continuing the health work and activities undertaken by the United States Public Health Service in the Philippines | P300,000.00 | | | 2. For continuing the quarantine work to be taken over from the United States Public Health Service in accordance with the policy to relinquish gradually to the Philippine Government all activities now being undertaken and financed by the said Service under the Philippine Rehabilitation Act of 1946 | 200,000.00 | | | 3. For the operation and maintenance of international air communications, navigation services and radio aids paid for by the United States Government to be completely taken over by the Government of the Republic of the Philippines on July 1, 1949 | 225,000.00 | | | 4. For the operation and maintenance of the Weather Bureau stations paid for by the United States Government to be completely taken over by the Government of the Republic of the Philippines on July 1, 1949 | 150,000.00 | | | Total | P875,000.00 | | | D. | For the expenses in connection with and incidental to the holding of the national elections which were held on November eight, nineteen hundred and forty-nine (Executive Order No. 226, series of 1949) | P6,000,000.00 | | GRAND TOTAL OF THE APPROPRIATIONS AUTHORIZED IN THIS ACT: TWO HUNDRED NINETY-ONE MILLION FIVE HUNDRED SEVENTY-NINE THOUSAND EIGHT HUNDRED SEVENTY-EIGHT PESOS AND THIRTY-THREE CENTAVOS | P291,579,878.33 | | | | | | | | Total under subparagraph A | P232,300,297.00 | | Total under subparagraph B | 52,404,581.33 | | | Total under subparagraph C | 875,000.00 | | | Total under subparagraph D | 6,000,000.00 | | | GRAND TOTAL | P 291,579,878.33 | |   
+ **Section 2.** The motor vehicles which are to be transferred or which were transferred by the agencies concerned by the United States to the Republic of the Philippines and which are used by the Bureau of Health and the Bureau of Quarantine Service for health, sanitation, and quarantine work for the prevention and control of epidemics, shall continue to be operated and maintained for the same purposes by the said bureaus.
+
+ **Section 3.** For the purposes of this Act, Executive Orders Numbered Two hundred twenty-five, Two hundred twenty-six, Two hundred thirty-nine, and Two hundred forty, series of nineteen hundred forty-nine, are hereby ratified, and all acts and disbursements heretofore made in pursuance thereof are hereby authorized.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: January 6, 1950
+"	success	Republic Act	This Act grants the Opon Electric Service Company a 25‑year franchise to construct, maintain, and operate an electric light, heat, and power system in Opon, Cebu, subject to conditions, and nullifies the prior municipal franchise.	"[{""title"": ""Section 1."", ""summary"": ""The Act grants the Opon Electric Service Company a 25\u2011year franchise to construct, maintain, and operate an electric light, heat, and power plant in Opon, Cebu.""}, {""title"": ""Section 2."", ""summary"": ""If the government wishes to operate the plant, the grantee must surrender the franchise and transfer all serviceable equipment to the government upon payment of fair cost.""}, {""title"": ""Section 3."", ""summary"": ""The municipal franchise under which the grantee was operating is declared null and void.""}, {""title"": ""Section 4."", ""summary"": ""The Act shall take effect upon its approval.""}]"	420	June 18, 1949			To grant a franchise for the operation of an electric light, heat, and power system in Opon, Cebu.	"[""Grant a 25\u2011year franchise to Opon Electric Service Company"", ""Allows surrender of franchise if government takes over operations"", ""Nullifies the prior municipal franchise"", ""Effective upon approval""]"	Act Numbered Thirty-six hundred and thirty-six, as amended by Commonwealth Act Numbered One hundred and thirty-two	"[""Electricity"", ""Franchise"", ""Cebu"", ""Infrastructure""]"	"[""Opon Electric Service Company"", ""franchise"", ""electric light"", ""heat"", ""power"", ""municipality"", ""Cebu""]"
+repacts:datasets/markdown/repacts/1950/ra_425_1950.md	repacts	1950		datasets/markdown/repacts/1950/ra_425_1950.md	ra_425_1950	"An Act Authorizing His Excellency, Elpidio Quirino, President of the Republic of the Philippines, to Accept the Decoration of ""Grand Officer of the Legion of Honor of the Republic of France"" Conferred Upon Him When He was Vice-President of the Philippines by the Government of the Republic of France"	"**REPUBLIC ACT No. 425**
+
+ AN ACT APPROPRIATING ADDITIONAL FUNDS FOR THE OPERATION AND MAINTENANCE OF THE GOVERNMENT OF THE REPUBLIC OF THE PHILIPPINES DURING THE PERIOD FROM JULY FIRST, NINETEEN HUNDRED AND FORTY-NINE TO JUNE THIRTIETH, NINETEEN HUNDRED AND FIFTY, AND FOR OTHER PURPOSES
+
+ **Section 1.** The following sums, or so much thereof as may be necessary, are appropriated out of any funds in the Philippine Treasury not otherwise appropriated, during the period from July first, nineteen hundred and forty-nine to June thirtieth, nineteen hundred and fifty, for the purposes specified hereunder:
+
+ A. - CONGRESS OF THE PHILIPPINES
+
+   
+  
+ | (1) SENATE |  |
+| --- | --- |
+| I. | - SALARIES AND WAGES |
+| 1. Salaries and wages - Regular Force | P120,100.00 |
+| 2. Supplementary force | 100,100.00 |
+| Total for salaries and wages | P220,200.00 |
+| II. | - SUNDRY EXPENSES |
+| 1. Other services | P9,000.00 |
+| 2. Consumption of supplies and materials | 15,000.00 |
+| 3. Printing and binding reports, documents and publications | 8,000.00 |
+| 4. Maintenance and repair of equipment | 8,000.00 |
+| Total for sundry expenses | P40,000.00 |
+| III. | - FURNITURE AND EQUIPMENT |
+| 1. For the purchase of furniture and equipment, including the purchase of motor vehicles | P30,000.00 |
+| Total for furniture and equipment | P30,000.00 |
+| IV. | - SPECIAL PURPOSES |
+| 1. For traveling and other expenses of the Senate President, Senate Committees and subordinate personnel when authorized by the President of the Senate to undertake studies in and outside of the Philippines | P50,000.00 |
+| 2. For the proportionate share of the Senate in the expenses incurred by the Joint Congressional Committee on Education | 20,000.00 |
+| 3. For other services, including transportation, investigation of any Senate Committee and additional secretarial services for the members of the Senate, or expenses incurred by direction of the President of the Senate | 50,000.00 |
+| Total for special purposes | P120,000.00 |
+| V. | - SUMMARY |
+| Total for salaries and wages | P220,200.00 |
+| Total for sundry expenses | 40,000.00 |
+| Total for furniture and equipment | 30,000.00 |
+| Total for special purposes | 120,000.00 |
+| Total amount available for the Senate | P410,200.00 |
+
+   
+  
+ | (2) HOUSE OF REPRESENTATIVES |  |  |
+| --- | --- | --- |
+| I. | - SALARIES AND WAGES |  |
+| 1. Salaries of two new Members of the House of Representatives | P7,277.42 |  |
+| 2. Readjustment of salaries and wages for the permanent personnel of the House of Representatives | 37,620.00 |  |
+| MISCELLANEOUS |  |  |
+|  | 1. For secretarial and clerical service to two new Members of the House of Representatives | 3,032.26 |
+| 2. For supplementary force | 200,000.00 |  |
+| Total for salaries and wages | P247,929.68 |  |
+| II. | - SUNDRY EXPENSES |  |
+| 1. Traveling expenses of Members | P200,000.00 |  |
+| Total for sundry expenses | P200,000.00 |  |
+| IV. | - SPECIAL PURPOSES |  |
+| 1. For expenses of the Electoral Tribunal | P80,000.00 |  |
+| Total for special purposes | P80,000.00 |  |
+| V. | - SUMMARY |  |
+| Total for salaries and wages | P247,929.68 |  |
+| Total for sundry expenses | 200,000.00 |  |
+| Total for special purposes | 80,000.00 |  |
+| Total amount available for the House of Representatives | P527,929.68 |  |
+
+   
+    
+  
+ | II. | - SUNDRY EXPENSES |  |
+| --- | --- | --- |
+| 6. Additional appropriation for consumption of supplies and materials for the subsistence of the inmates of Welfareville | P282,195.00 |  |
+| IV. | - SPECIAL AND GENERAL PURPOSES |  |
+| 9. Additional appropriation for the payment of pensions to veterans of past Philippine revolutions or wars in accordance with the provisions of Commonwealth Act No. 605, including the operating expenses of the Board on Pension for Veterans | 107,000.00 |  |
+| 10. For salaries of personnel and maintenance of the Office of the Coordinator of National Intelligence, as provided in Executive Order No. 167, series of 1948 | 100,000.00 |  |
+| 11. For operating expenses of a board created under Administrative Order No. 89, dated May 18, 1949, to take charge of listing deserving unrecognized guerrilla organizations so as to establish a basis upon which to estimate the total amount needed for the payment of back pay to their members | 50,000.00 |  |
+| 12. For contribution in kind of the Philippine Government to the United Nations International Children's Emergency Fund (UNICEF) | 400,000.00 |  |
+| BUREAU OF PRINTING REVOLVING FUND SALARIES AND WAGES |  |  |
+| 155a. | For the standardization and adjustment of the salaries and wages of the personnel of the Bureau of Printing | P175,260.00 |
+| Amount to be paid out of the Bureau of Printing Revolving Fund | (175,260.00) |  |
+| Total for the Office of the President | P939,195.00 |  |
+
+   
+    
+  
+ | I. | - SALARIES AND WAGES |
+| --- | --- |
+| 1. The Vice-President of the Philippines at P15,000 | P7,600.00 |
+| Total for the Office of the Vice-President | P7,600.00 |
+
+   
+    
+  
+ | I. | - SALARIES AND WAGES |
+| --- | --- |
+| 114a. For the employment of two telephone operators at P 1,560 per annum and of laborers and janitors at wages not exceeding P3.50 per day each | P9,000.00 |
+| IV. | - SPECIAL PURPOSES |
+| 7. Additional appropriation for the operation and maintenance of the Foreign Service of the Republic of the Philippines | 411,870.00 |
+"	success	Republic Act	Authorizes President Quirino to accept and wear the Grand Officer of the Legion of Honor awarded by France.	"[{""title"": ""Section 1"", ""summary"": ""Authorizes President Quirino to accept and wear the Grand Officer of the Legion of Honor of France, conferred when he was Vice-President.""}, {""title"": ""Section 2"", ""summary"": ""The Act takes effect upon its approval.""}]"	421	June 19, 1949	"[{""name"": ""Senate of the Philippines"", ""title"": ""Legislative Body""}, {""name"": ""House of Representatives of the Philippines"", ""title"": ""Legislative Body""}]"		To authorize the President to accept and wear the Grand Officer of the Legion of Honor of France.	"[""Authorization for President Quirino to accept the decoration."", ""Act takes effect upon approval.""]"		"[""Decoration"", ""Foreign Award"", ""Presidential Authority""]"	"[""Quirino"", ""Legion of Honor"", ""France"", ""1949""]"
+repacts:datasets/markdown/repacts/1950/ra_426_1950.md	repacts	1950		datasets/markdown/repacts/1950/ra_426_1950.md	ra_426_1950	AN ACT TO REGULATE IMPORTS AND FOR OTHER PURPOSES	"**REPUBLIC ACT No. 426**
+
+ AN ACT TO REGULATE IMPORTS AND FOR OTHER PURPOSES *(Repealed By Republic Act No. 650)*
+
+ **Section 1.** As used in this Act:
+
+ (a) Definitions: (1) ""Import quota"" refers to the total value of any item of import allowed for entry into the Philippines for any specified period. (2) ""Quota allocation"" refers to the total value of imports of any particular item allowed to an importer, or that portion of the import quota granted to the importer. (3) ""Import license"" refers to the permit issued by the Import Control Board to import any particular shipment of commodities. (4) ""Foreign exchange"" refers to any medium for effecting international payments. (5) ""Old importer"" refers to any person, whether natural or juridical, who imported a particular commodity in the years nineteen hundred forty-six, nineteen hundred forty-seven and/or nineteen hundred forty-eight. (6) ""New importer"" refers to all other importers. (7) ""Board"" refers to the Import Control Board. (8) ""Commissioner"" refers to the Chief of the Import Control Administration. (b) Appendices A, B, C and D as attached, are hereby made an integral part of this Act. **Section 2.** There is hereby created an Import Control Board composed of three members who shall be appointed by the President of the Philippines with the consent of the Commission on Appointments and shall hold office for two years, one of whom shall be designated as Chairman by the President. One member shall represent the Central Bank; one, the businessmen; and one, the consumers: Provided, That with the exception of the member representing the Central Bank, no other member shall be connected with the Government or any of its agencies, instrumentalities or corporations owned or controlled by it.
+
+ The two members of the Board not representing the Central Bank shall each receive a per diem compensation at the rate of twenty-five pesos for every meeting attended, but the total of which per diems for the whole year shall not exceed six thousand pesos for each member.
+
+ **Section 3.** The Import Control Board shall:
+
+ (1) Establish the policies governing the fixing and allocation of quotas for any article, goods, or commodity, pursuant to the provisions of this Act; (2) Promulgate such rules and regulations as may be necessary for the proper enforcement and/or implementation of this Act; (3) Exercise supervision and control over the Import Control Administration, and review, on appeal, any decision, ruling or opinion issued by the Import Control Administration or by its Commissioner; and (4) Be responsible for carrying out the provisions of this Act and such rules and regulations issued thereunder. **Section 4.** In order to provide for the proper administrative machinery in carrying out the policies, rulings, orders or opinions of the Import Control Board as well as the provisions of this Act, there is hereby created the Import Control Administration whose chief shall be known as Commissioner and who shall have the following powers:
+
+ (1) To grant quota allocations among importers in accordance with the policies established by the Import Control Board and the provisions of this Act; (2) To receive and act on applications for quota allocations and import licenses and issue the corresponding quota allocations import licenses for applications approved pursuant to the policies laid down by the Import Control Board and the provisions of this Act; (3) To carry out and implement all policies and resolutions established by the Import Control Board; and (4) To appoint the personnel of his office subject to the approval of the Import Control Board: Provided, That all appointments in the administration shall be subject to the Civil Service Law, rules and regulations. The Commissioner shall be appointed by the President of the Philippines, with the consent of the Commission on Appointments, and shall hold office for two years. He shall receive a salary of ten thousand pesos per annum. He shall not hold any office in any Government entity, agency or corporation, nor shall he have any pecuniary interest in any company or corporation affected by the functions of this office. a. The Import Control Administration shall have an auditor who shall be appointed by the Auditor General and shall receive a compensation of six thousand pesos per annum. He shall audit the accounts of the Import Control Board and the Import Control Administration as well as all quotas of all items of imports and the allocations of the same of all importers in accordance with auditing laws and usual auditing practices. b. The Import Control Administration shall create a Research and Statistics Division to submit statistical data for the guidance of the Import Control Board for fixing import quotas and granting import allocations. c. The President of the Philippines shall have direct control and supervision and control over the Board and the Import Control Administration. **Section 5.** Any person desiring to import any article, goods or commodities into the Philippines shall file an application for a corresponding quota allocation and license with the Import Control Administration. For old importers, the application shall be executed under oath and shall contain, among others, their name, address, nationality, stock on hand of the goods applied, the amount of their importation in the years nineteen forty-six, nineteen forty-seven and nineteen forty-eight of the articles, goods or commodities applied for; and if a new importer, his application shall contain a statement of his actual financial resources to finance the importation of the goods applied for.

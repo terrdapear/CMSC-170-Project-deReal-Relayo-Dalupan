@@ -1,0 +1,184 @@
+repacts:datasets/markdown/repacts/1954/ra_1101_1954.md	repacts	1954		datasets/markdown/repacts/1954/ra_1101_1954.md	ra_1101_1954	An Act to Amend Item One Hundred and Thirty-Six, Group II, Title F of Section One of Republic Act Numbered Nine Hundred Twenty	"**REPUBLIC ACT No. 1101**
+
+ **An Act to Amend Item One Hundred and Thirty-Six, Group II, Title F of Section One of Republic Act Numbered Nine Hundred Twenty**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item one hundred and thirty-six, group II, title F of Section One of Republic Act Numbered Nine hundred twenty is hereby amended to read as follows:
+
+ | ""136. Siaton River Control, Siaton, Negros Oriental | 40,000.00"" |
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 15, 1954.
+"	success	Republic Act	Amends Item 136, Group II, Title F of Section One of RA 920 to update the Siaton River Control details.	"[{""title"": ""Section 1"", ""summary"": ""Item one hundred and thirty-six, group II, title F of Section One of Republic Act Numbered Nine hundred twenty is amended to read as follows: \""136. Siaton River Control, Siaton, Negros Oriental | 40,000.00\"".""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	1101	June 15, 1954			To amend RA 920's Item 136 to reflect updated river control measures.	"[""Item one hundred thirty-six, group II, title F of Section One of RA 920 amended to read: \""136. Siaton River Control, Siaton, Negros Oriental | 40,000.00\"".""]"	Republic Act No. 920	"[""Amendment"", ""River Control"", ""Negros Oriental""]"	"[""Siaton River"", ""Negros Oriental"", ""River Control"", ""RA 920"", ""Amendment""]"
+repacts:datasets/markdown/repacts/1954/ra_1102_1954.md	repacts	1954		datasets/markdown/repacts/1954/ra_1102_1954.md	ra_1102_1954	An Act Fixing the Boundary Line Between the Municipality of Tagum and the Municipalities of Doña Alicia and Compostela, Province of Davao	"**REPUBLIC ACT No. 1102**
+
+ **An Act Fixing the Boundary Line Between the Municipality of Tagum and the Municipalities of Doña Alicia and Compostela, Province of Davao**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The boundary line between the municipality of Tagum and Doña Alicia shall be the Dumlan River from the Gulf of Davao to the source of said river and a straight line from said source running northwestward to the concrete monument in the sitio of Libaybay. The boundary line between the municipalities of Tagum and Compostela shall be the Hijo River.
+
+ **Section 2.** Executive Order No. 596, series of 1953, is amended accordingly.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 15, 1954.
+"	success	Republic Act	This act fixes the boundary line between Tagum, Doña Alicia, and Compostela, amends Executive Order No. 596, and takes effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Defines the boundary line between Tagum and Do\u00f1a Alicia along the Dumlan River and a straight line to a monument in Libaybay.""}, {""title"": ""Section 2"", ""summary"": ""Amends Executive Order No. 596, series of 1953.""}, {""title"": ""Section 3"", ""summary"": ""Specifies that the act takes effect upon approval.""}]"	1102	June 15, 1954			To fix the boundary line between the municipalities of Tagum, Doña Alicia, and Compostela.	"[""Boundary line between Tagum and Do\u00f1a Alicia along Dumlan River and straight line to monument."", ""Boundary line between Tagum and Compostela along Hijo River."", ""Amendment of Executive Order No. 596, series of 1953."", ""Act takes effect upon approval.""]"	Executive Order No. 596, series of 1953	"[""Boundary"", ""Municipalities"", ""Davao"", ""Dumlan River"", ""Hijo River""]"	"[""boundary"", ""Tagum"", ""Do\u00f1a Alicia"", ""Compostela"", ""Davao"", ""Dumlan River"", ""Hijo River"", ""Executive Order"", ""1954""]"
+repacts:datasets/markdown/repacts/1954/ra_1103_1954.md	repacts	1954		datasets/markdown/repacts/1954/ra_1103_1954.md	ra_1103_1954	An Act Changing the Name of the San Agustin Elementary School in the Municipality of Naujan, Province of Oriental Mindoro, to Santiago Garong Memorial School	"**REPUBLIC ACT No. 1103**
+
+ **An Act Changing the Name of the San Agustin Elementary School in the Municipality of Naujan, Province of Oriental Mindoro, to Santiago Garong Memorial School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the San Agustin Elementary School in the municipality of Naujan, Province of Oriental Mindoro, is changed to Santiago Garong Memorial School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 15, 1954.
+"	success	Education	The act changes the name of San Agustin Elementary School in Naujan, Oriental Mindoro to Santiago Garong Memorial School.	"[{""title"": ""Section 1."", ""summary"": ""The name of the San Agustin Elementary School in the municipality of Naujan, Province of Oriental Mindoro, is changed to Santiago Garong Memorial School.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	1103	June 15, 1954			To change the name of San Agustin Elementary School to Santiago Garong Memorial School.	"[""Renames San Agustin Elementary School to Santiago Garong Memorial School.""]"		"[""Education"", ""School Name Change"", ""Oriental Mindoro""]"	"[""San Agustin Elementary School"", ""Santiago Garong Memorial School"", ""Naujan"", ""Oriental Mindoro"", ""name change""]"
+repacts:datasets/markdown/repacts/1954/ra_1104_1954.md	repacts	1954		datasets/markdown/repacts/1954/ra_1104_1954.md	ra_1104_1954	An Act Changing the Name of the Pinagsabangan Elementary School in the Municipality of Naujan, Province of Oriental Mindoro, to Juan L. Luna Memorial School	"**REPUBLIC ACT No. 1104**
+
+ **An Act Changing the Name of the Pinagsabangan Elementary School in the Municipality of Naujan, Province of Oriental Mindoro, to Juan L. Luna Memorial School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Pinagsabangan Elementary School in the municipality of Naujan, Province of Oriental Mindoro, is changed to Juan L. Luna Memorial School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 15, 1954.
+"	success	Republic Act	This act changes the name of Pinagsabangan Elementary School to Juan L. Luna Memorial School in Naujan, Oriental Mindoro, effective upon approval.	"[{""title"": ""Section 1."", ""summary"": ""The name of the Pinagsabangan Elementary School in the municipality of Naujan, Province of Oriental Mindoro, is changed to Juan L. Luna Memorial School.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	1104	June 15, 1954			Change the name of a public elementary school to honor Juan L. Luna.	"[""Change of name of Pinagsabangan Elementary School to Juan L. Luna Memorial School."", ""Act takes effect upon approval.""]"		"[""Education"", ""School"", ""Name Change"", ""Local Government""]"	"[""Pinagsabangan Elementary School"", ""Juan L. Luna Memorial School"", ""Naujan"", ""Oriental Mindoro"", ""Republic Act 1104"", ""Name change"", ""Education""]"
+repacts:datasets/markdown/repacts/1954/ra_1105_1954.md	repacts	1954		datasets/markdown/repacts/1954/ra_1105_1954.md	ra_1105_1954	An Act Changing the Name of the Baco Elementary School in the Municipality of Baco, Province of Oriental Mindoro, to Benito Villar Memorial School	"**REPUBLIC ACT No. 1105**
+
+ **An Act Changing the Name of the Baco Elementary School in the Municipality of Baco, Province of Oriental Mindoro, to Benito Villar Memorial School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Baco Elementary School in the Municipality of Baco, Province of Oriental Mindoro, is changed to Benito Villar Memorial School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 15, 1954.
+"	success		This act changes the name of Baco Elementary School to Benito Villar Memorial School.	"[{""title"": ""Section 1"", ""summary"": ""The name of the Baco Elementary School in the Municipality of Baco, Province of Oriental Mindoro, is changed to Benito Villar Memorial School.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	1105	June 15, 1954			To change the name of Baco Elementary School to Benito Villar Memorial School.	"[""Changes the name of Baco Elementary School to Benito Villar Memorial School.""]"		"[""education"", ""school name change""]"	"[""Baco Elementary School"", ""Benito Villar Memorial School"", ""name change"", ""education""]"
+repacts:datasets/markdown/repacts/1954/ra_1106_1954.md	repacts	1954		datasets/markdown/repacts/1954/ra_1106_1954.md	ra_1106_1954	An Act Changing the Name of the San Jose No. 1 Elementary School in the Municipality of Naujan, Province of Oriental Mindoro, to Mariano Garcia Memorial School	"**REPUBLIC ACT No. 1106**
+
+ **An Act Changing the Name of the San Jose No. 1 Elementary School in the Municipality of Naujan, Province of Oriental Mindoro, to Mariano Garcia Memorial School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the San Jose No. 1 Elementary School in the Municipality of Naujan, Province of Oriental Mindoro, is changed to Mariano Garcia Memorial School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 15, 1954.
+"	success	Philippine Law	This Act changes the name of the San Jose No. 1 Elementary School to Mariano Garcia Memorial School and shall take effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The name of the San Jose No. 1 Elementary School in the Municipality of Naujan, Province of Oriental Mindoro, is changed to Mariano Garcia Memorial School.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	1106	June 15, 1954			To rename a public elementary school in Oriental Mindoro.	"[""Renaming of San Jose No. 1 Elementary School to Mariano Garcia Memorial School"", ""Effective date upon approval""]"		"[""Education"", ""School name change""]"	"[""San Jose No. 1 Elementary School"", ""Mariano Garcia Memorial School"", ""Naujan"", ""Oriental Mindoro"", ""name change""]"
+repacts:datasets/markdown/repacts/1954/ra_1107_1954.md	repacts	1954		datasets/markdown/repacts/1954/ra_1107_1954.md	ra_1107_1954	An Act Changing the Name of the Municipality of Buayan, in the Province of Cotabato, to General Santos	"**REPUBLIC ACT No. 1107**
+
+ **An Act Changing the Name of the Municipality of Buayan, in the Province of Cotabato, to General Santos**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Municipality of Buayan, in the Province of Cotabato, is changed to General Santos.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 15, 1954.
+"	success	Republic Act	This act changes the name of the municipality of Buayan in the Province of Cotabato to General Santos and provides that it shall take effect upon its approval.	"[{""title"": ""Section 1"", ""summary"": ""The name of the Municipality of Buayan, in the Province of Cotabato, is changed to General Santos.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	1107	June 15, 1954			To change the name of the municipality of Buayan to General Santos.	"[""Name of the Municipality of Buayan in Cotabato is changed to General Santos."", ""Act takes effect upon approval.""]"		"[""municipality name change"", ""local government""]"	"[""General Santos"", ""Buayan"", ""Cotabato"", ""municipality"", ""name change""]"
+repacts:datasets/markdown/repacts/1954/ra_1108_1954.md	repacts	1954		datasets/markdown/repacts/1954/ra_1108_1954.md	ra_1108_1954	An Act to Create the Barrios of Lingasad, Silawe, Isis, and Loboc in the Municipality of Polanco, Province of Zamboanga del Norte	"**REPUBLIC ACT No. 1108**
+
+ **An Act to Create the Barrios of Lingasad, Silawe, Isis, and Loboc in the Municipality of Polanco, Province of Zamboanga del Norte**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Lingasad, Silawe, Isis, and Loboc in the municipality of Polancio, Province of Zamboanga del Norte, are hereby constituted into barrios in the said municipality, to be known as the barrios of Lingasad, Silawe, Isis, and Loboc, respectively.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 15, 1954.
+"	success	Republic Act	This act establishes four barrios—Lingasad, Silawe, Isis, and Loboc—in the municipality of Polanco, Zamboanga del Norte.	"[{""title"": ""Section 1."", ""summary"": ""Constitutes the sitios of Lingasad, Silawe, Isis, and Loboc into barrios within the municipality of Polanco.""}, {""title"": ""Section 2."", ""summary"": ""Specifies that the act takes effect upon approval.""}]"	1108	June 15, 1954			To create barrios of Lingasad, Silawe, Isis, and Loboc in Polanco, Zamboanga del Norte.	"[""Creation of barrios of Lingasad, Silawe, Isis, and Loboc in Polanco."", ""Act takes effect upon approval.""]"		"[""Republic Act"", ""Local Government"", ""Barrios"", ""Zamboanga del Norte""]"	"[""Barrios"", ""Polanco"", ""Zamboanga del Norte"", ""Lingasad"", ""Silawe"", ""Isis"", ""Loboc"", ""Republic Act 1108""]"
+repacts:datasets/markdown/repacts/1954/ra_1109_1954.md	repacts	1954		datasets/markdown/repacts/1954/ra_1109_1954.md	ra_1109_1954	An Act to Create the Barrio of Libuton in the Municipality of Manucan, Province of Zamboanga del Norte	"**REPUBLIC ACT No. 1109**
+
+ **An Act to Create the Barrio of Libuton in the Municipality of Manucan, Province of Zamboanga del Norte**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Libuton in the municipality of Manucan, Province of Zamboanga del Norte is hereby constituted into barrio in the said municipality, to be known as the barrio Libuton.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 15, 1954.
+"	success	Republic Act	Establishes the barrio of Libuton in the municipality of Manucan, Zamboanga del Norte, effective upon its approval.	"[{""title"": ""Section 1."", ""summary"": ""Constitutes the sitio of Libuton into a barrio named Libuton.""}, {""title"": ""Section 2."", ""summary"": ""The act takes effect upon its approval.""}]"	1109	June 15, 1954			To create the barrio of Libuton in the Municipality of Manucan, Province of Zamboanga del Norte.	"[""Constitutes the sitio of Libuton into a barrio named Libuton."", ""The act takes effect upon its approval.""]"		"[""Republic Act"", ""Local Government"", ""Zamboanga del Norte"", ""Barrio"", ""Manucan""]"	"[""Libuton"", ""barrio"", ""municipality"", ""Zamboanga del Norte"", ""Manucan"", ""Republic Act 1109""]"
+repacts:datasets/markdown/repacts/1954/ra_1110_1954.md	repacts	1954		datasets/markdown/repacts/1954/ra_1110_1954.md	ra_1110_1954	An Act Changing the Name of the Barrio of Bukaw in the Municipality of Igbaras, Province of Iloilo, to that of Alameda	"**REPUBLIC ACT No. 1110**
+
+ **An Act Changing the Name of the Barrio of Bukaw in the Municipality of Igbaras, Province of Iloilo, to that of Alameda**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the barrio of Bukaw in the municipality of Igbaras, Province of Iloilo, is hereby changed to that of Alameda.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 15, 1954.
+"	success	Local Government	The Republic Act No. 1110 changes the name of the barrio of Bukaw in Igbaras, Iloilo, to Alameda.	"[{""title"": ""Section 1."", ""summary"": ""The name of the barrio of Bukaw in the municipality of Igbaras, Province of Iloilo, is hereby changed to that of Alameda.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	1110	June 15, 1954			To change the name of the barrio of Bukaw to Alameda.	"[""The name of the barrio of Bukaw is changed to Alameda.""]"		"[""Local Government"", ""Place Names"", ""Iloilo""]"	"[""name change"", ""barrio"", ""Alameda"", ""Bukaw"", ""Igbaras"", ""Iloilo""]"
+repacts:datasets/markdown/repacts/1954/ra_1111_1954.md	repacts	1954		datasets/markdown/repacts/1954/ra_1111_1954.md	ra_1111_1954	An Act Changing the Name of the Municipality of Dumaran, Province of Palawan, to Araceli	"**REPUBLIC ACT No. 1111**
+
+ **An Act Changing the Name of the Municipality of Dumaran, Province of Palawan, to Araceli**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Municipality of Dumaran, Province of Palawan, is changed to Araceli.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 15, 1954.
+"	success	Republic Act	This act changes the name of the Municipality of Dumaran in Palawan to Araceli and takes effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The name of the Municipality of Dumaran, Province of Palawan, is changed to Araceli.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	1111	June 15, 1954			To change the name of the Municipality of Dumaran, Palawan, to Araceli.	"[""Name of the Municipality of Dumaran is changed to Araceli."", ""Act takes effect upon approval.""]"		"[""Municipality name change"", ""Palawan"", ""Local government""]"	"[""Dumaran"", ""Araceli"", ""Palawan"", ""Municipality"", ""Name change""]"
+repacts:datasets/markdown/repacts/1954/ra_1112_1954.md	repacts	1954		datasets/markdown/repacts/1954/ra_1112_1954.md	ra_1112_1954	An Act Granting Mariano Nasser a Franchise for an Electric Light, Heat and Power System in the Municipality of Lupon, Province of Davao	"**REPUBLIC ACT No. 1112**
+
+ **An Act Granting Mariano Nasser a Franchise for an Electric Light, Heat and Power System in the Municipality of Lupon, Province of Davao**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Subject to the terms and conditions established in Act Numbered Thirty-six hundred and thirty-six, as amended by Commonwealth Act Numbered One hundred and thirty-two, and to the provisions of the Constitution, there is granted to Mariano Nasser, for a period of twenty-five years from the approval of this Act, the right, privilege, and authority to construct, maintain, and operate an electric light, heat and power system for the purpose of generating and distributing electric light, heat, and/or power of sale within the municipality of Lupon, Province of Davao.
+
+ **Section 2.** In the event that the grantee shall purchase and secure from the National Power Corporation electric heat and power, the National Power Corporation is hereby authorized to negotiate and transact for the benefit and in behalf of the public consumers with reference to rates.
+
+ **Section 3.** It is expressly provided that in the event the Government should desire to maintain and operate for itself the system and enterprise herein authorized, the grantee shall surrender his franchise and will turn over to the Government all serviceable equipment therein, at cost, less reasonable depreciation.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 15, 1954.
+"	success	Act	The Republic Act grants Mariano Nasser a 25‑year franchise to construct, maintain, and operate an electric light, heat, and power system in Lupon, Davao, allowing the National Power Corporation to negotiate rates on his behalf and providing a clause for government takeover of the system.	"[{""title"": ""Section 1"", ""summary"": ""Grants Mariano Nasser a 25\u2011year franchise to construct, maintain, and operate an electric light, heat, and power system in Lupon, Davao, subject to conditions in Act 3636 and Commonwealth Act 132.""}, {""title"": ""Section 2"", ""summary"": ""Authorizes the National Power Corporation to negotiate and transact electric heat and power rates with the grantee in the public's interest.""}, {""title"": ""Section 3"", ""summary"": ""Provides that if the government wishes to take over, the grantee must surrender the franchise and transfer all serviceable equipment to the government at cost, less depreciation.""}, {""title"": ""Section 4"", ""summary"": ""The Act takes effect upon its approval.""}]"	1112	June 15, 1954			To grant a franchise for the construction, maintenance, and operation of an electric light, heat, and power system in Lupon, Davao, and to regulate related matters.	"[""25\u2011year franchise granted to Mariano Nasser"", ""Right to construct, maintain, and operate an electric light, heat, and power system"", ""Authorization for the National Power Corporation to negotiate rates on behalf of the grantee"", ""Government takeover clause with equipment surrender at cost"", ""Effectivity upon approval""]"	Act No. 3636, amended by Commonwealth Act No. 132	"[""Electricity"", ""Franchise"", ""Municipality"", ""Lupon"", ""Davao""]"	"[""Mariano Nasser"", ""Electric Light"", ""Heat"", ""Power System"", ""National Power Corporation"", ""Government Takeover""]"
+repacts:datasets/markdown/repacts/1954/ra_1113_1954.md	repacts	1954		datasets/markdown/repacts/1954/ra_1113_1954.md	ra_1113_1954	An Act Granting the Municipality of Baloi, Province of Lanao, a Franchise for an Electric Light, Heat and Power System	"**REPUBLIC ACT No. 1113**
+
+ **An Act Granting the Municipality of Baloi, Province of Lanao, a Franchise for an Electric Light, Heat and Power System**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Subject to the terms and conditions established in Act Numbered Thirty-six hundred and thirty-six, as amended by Commonwealth Act Numbered One hundred and thirty-two, and to the provisions of the Constitution, there is granted to Municipality of Baloi, Province of Lanao, for a period of twenty-five years from the approval of this Act, the right, privilege, and authority to construct, maintain, and operate an electric light, heat and power system for the purpose of generating and distributing electric light, heat, and/or power of sale within the municipality of Baloi, Province of Lanao.
+
+ **Section 2.** In the event that the grantee shall purchase and secure from the National Power Corporation electric heat and power, the National Power Corporation is hereby authorized to negotiate and transact for the benefit and in behalf of the public consumers with reference to rates.
+
+ **Section 3.** It is expressly provided that in the event the Government should desire to maintain and operate for itself the system and enterprise herein authorized, the grantee shall surrender his franchise and will turn over to the Government all serviceable equipment therein, at cost, less reasonable depreciation.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 15, 1954.
+"	success	Republic Act	Provides a 25‑year franchise to the Municipality of Baloi to construct, maintain, and operate an electric light, heat, and power system for sale within the municipality.	"[{""title"": ""Section 1"", ""summary"": ""Grants the Municipality of Baloi a 25\u2011year franchise to construct, maintain, and operate an electric light, heat, and power system for sale within the municipality.""}, {""title"": ""Section 2"", ""summary"": ""Authorizes the National Power Corporation to negotiate and transact rates on behalf of the public consumers if the grantee purchases electric heat and power from the NPO.""}, {""title"": ""Section 3"", ""summary"": ""Provides that if the government wishes to maintain the system, the grantee may surrender the franchise and turn over all serviceable equipment to the government at cost less depreciation.""}, {""title"": ""Section 4"", ""summary"": ""The Act takes effect upon its approval.""}]"	1113	June 15, 1954			To grant the Municipality of Baloi a franchise to develop and operate an electric utility system for the benefit of its residents.	"[""25\u2011year franchise granted to Municipality of Baloi to construct, maintain, and operate electric light, heat, and power system."", ""NPO authorized to negotiate rates for electric heat and power purchases."", ""Provision for surrender of franchise and transfer of equipment to government if desired.""]"	Act 3636 and Commonwealth Act 132 (as amended).	"[""Electricity"", ""Franchise"", ""Municipality"", ""Baloi"", ""Lanao"", ""Republic Act""]"	"[""electricity"", ""franchise"", ""Baloi"", ""Lanao"", ""public utilities""]"
+repacts:datasets/markdown/repacts/1954/ra_1114_1954.md	repacts	1954		datasets/markdown/repacts/1954/ra_1114_1954.md	ra_1114_1954	An Act Granting Salvador T. Singuillo a Franchise for an Electric Light, Heat and Power System in the Municipality of Sindigan, Province of Zamboanga del Norte	"**REPUBLIC ACT No. 1114**
+
+ **An Act Granting Salvador T. Singuillo a Franchise for an Electric Light, Heat and Power System in the Municipality of Sindigan, Province of Zamboanga del Norte**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Subject to the terms and conditions established in Act Numbered Thirty-six hundred and thirty-six, as amended by Commonwealth Act Numbered One hundred and thirty-two, and to the provisions of the Constitution, there is granted to Salvador T. Singuillo, for a period of twenty-five years from the approval of this Act, the right, privilege, and authority to construct, maintain, and operate an electric light, heat and power system for the purpose of generating and distributing electric light, heat, and/or power of sale within the municipality of Sindangan, Province of Zamboanga del Norte.
+
+ **Section 2.** In the event that the grantee shall purchase and secure from the National Power Corporation electric heat and power, the National Power Corporation is hereby authorized to negotiate and transact for the benefit and in behalf of the public consumers with reference to rates.
+
+ **Section 3.** It is expressly provided that in the event the Government should desire to maintain and operate for itself the system and enterprise herein authorized, the grantee shall surrender his franchise and will turn over to the Government all serviceable equipment therein, at cost, less reasonable depreciation.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 15, 1954.
+"	success	Republic Act	The Act grants a 25‑year franchise to Salvador T. Singuillo for constructing, maintaining, and operating an electric light, heat, and power system in Sindangan, Zamboanga del Norte, with provisions for purchasing power from the National Power Corporation and conditions for government takeover.	"[{""title"": ""Section 1."", ""summary"": ""Grants a 25\u2011year franchise to Salvador T. Singuillo for construction, maintenance, and operation of electric light, heat, and power system in Sindangan, Zamboanga del Norte, subject to terms of Act 3636 and CA 132.""}, {""title"": ""Section 2."", ""summary"": ""Authorizes the National Power Corporation to negotiate and transact electric heat and power purchases on behalf of the public if the grantee purchases such services.""}, {""title"": ""Section 3."", ""summary"": ""Provides that if the government wishes to operate the system, the grantee must surrender the franchise and turn over equipment at cost, less depreciation.""}, {""title"": ""Section 4."", ""summary"": ""Act takes effect upon approval.""}]"	1114	June 15, 1954			To grant a franchise for the development and operation of an electric light, heat, and power system in Sindangan, Zamboanga del Norte.	"[""Grant of 25\u2011year franchise to Salvador T. Singuillo"", ""Authorization of NPP to purchase power on behalf of the public"", ""Conditions for surrendering franchise and equipment to government"", ""Effectiveness upon approval""]"	Act 3636, as amended by Commonwealth Act 132	"[""Electricity"", ""Franchise"", ""Zamboanga del Norte"", ""1954""]"	"[""electric light"", ""heat"", ""power"", ""franchise"", ""Salvador T. Singuillo"", ""National Power Corporation"", ""government takeover""]"

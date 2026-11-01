@@ -1,0 +1,256 @@
+
+ **Section 3.** This Act shall take effect fifteen (15) days after its publication in the *Official Gazette* or in at least two (2) newspapers of general circulation.
+
+ Approved,
+
+ **AQUILINO ""KOKO"" PIMENTEL III** President of the Senate
+
+ **PANTALEON D. ALVAREZ** Speaker of the House of Representatives
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate on February 13, 2017 and March 12, 2018, respectively.
+
+ **LUTGARDO B. BARBO** Secretary of Senate
+
+ **CESAR STRAIT PAREJA** Secretary General House of Representatives
+
+ Approved: June 29, 2018
+
+ **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	The act renames the Kay Tikling-Antipolo-Teresa-Morong National Road to Corazon C. Aquino Avenue in honor of the 11th President of the Philippines, and directs the Department of Public Works and Highways to place markers and issue necessary orders. The act takes effect fifteen days after publication.	"[{""title"": ""Section 1."", ""summary"": ""Renames the Kay Tikling-Antipolo-Teresa-Morong National Road in the Province of Rizal to Corazon C. Aquino Avenue.""}, {""title"": ""Section 2."", ""summary"": ""The Department of Public Works and Highways shall place appropriate markers along the road and issue necessary orders and circulars to implement the provisions of this Act.""}, {""title"": ""Section 3."", ""summary"": ""The Act shall take effect fifteen (15) days after its publication in the Official Gazette or in at least two (2) newspapers of general circulation.""}]"	11045	June 29, 2018	"[{""name"": ""AQUILINO \""KOKO\"" PIMENTEL III"", ""title"": ""President of the Senate""}, {""name"": ""PANTALEON D. ALVAREZ"", ""title"": ""Speaker of the House of Representatives""}]"		Renaming the Kay Tikling-Antipolo-Teresa-Morong National Road to Corazon C. Aquino Avenue to honor former President Corazon C. Aquino.	"[""Renames the Kay Tikling-Antipolo-Teresa-Morong National Road as Corazon C. Aquino Avenue"", ""Department of Public Works and Highways to place markers and issue orders"", ""Act takes effect fifteen days after publication""]"		"[""Renaming"", ""Road"", ""Infrastructure"", ""Philippines"", ""Republic Act""]"	"[""Corazon C. Aquino"", ""Kay Tikling-Antipolo-Teresa-Morong National Road"", ""Rizal"", ""Taytay"", ""Morong"", ""Renaming"", ""Public Works"", ""Effective Date""]"
+repacts:datasets/markdown/repacts/2018/ra_11046_2018.md	repacts	2018		datasets/markdown/repacts/2018/ra_11046_2018.md	ra_11046_2018	An Act Renaming The Road Traversing Barangays San Jose, Tolentino West, Tolentino East, Francisco, Sungay West (Left Side), Sungay East (Right Side), Sungay East, Iruhin West, Iruhin Central, Iruhin East And Dapdap West In The City Of Tagaytay, Province Of Cavite To Isaac O. Tolentino Avenue	"Seventeenth Congress Second Regular Session Begun and held in Metro Manila, on Monday, the twenty-fourth day of July, two thousand seventeen.
+
+ **REPUBLIC ACT No. 11046**
+
+ An Act Renaming The Road Traversing Barangays San Jose, Tolentino West, Tolentino East, Francisco, Sungay West (Left Side), Sungay East (Right Side), Sungay East, Iruhin West, Iruhin Central, Iruhin East And Dapdap West In The City Of Tagaytay, Province Of Cavite To Isaac O. Tolentino Avenue
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** The road traversing barangays San Jose, Tolentino West, Tolentino East, Sungay West (Leftside), Sungay East (Right side), Sungay East, Iruhin West, Iruhin Central, Iruhin East and Dapdap West in the City of Tagaytay, Province of Cavite is hereby renamed as Isaac O. Tolentino Avenue.
+
+ **Section 2.** The Department of Public Works and Highways shall include in their annual budget the funds necessary for the implementation of this Act including posting and maintenance of signages thereat.
+
+ **Section 3.** This Act shall take effect fifteen (15) days after its publication in the *Official Gazette* or in at least two (2) newspapers of general circulation.
+
+ Approved,
+
+ **AQUILINO ""KOKO"" PIMENTEL III** President of the Senate
+
+ **PANTALEON D. ALVAREZ** Speaker of the House of Representatives
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate on March 13, 2017 and March 12, 2018, respectively.
+
+ **LUTGARDO B. BARBO** Secretary of Senate
+
+ **CESAR STRAIT PAREJA** Secretary General House of Representatives
+
+ Approved: June 29, 2018
+
+ **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	Renames the specified road in Tagaytay City to Isaac O. Tolentino Avenue, allocates funds for implementation, and sets its effective date.	"[{""title"": ""Section 1"", ""summary"": ""The road traversing barangays San Jose, Tolentino West, Tolentino East, Sungay West (Leftside), Sungay East (Right side), Sungay East, Iruhin West, Iruhin Central, Iruhin East and Dapdap West in the City of Tagaytay, Province of Cavite is hereby renamed as Isaac O. Tolentino Avenue.""}, {""title"": ""Section 2"", ""summary"": ""The Department of Public Works and Highways shall include in their annual budget the funds necessary for the implementation of this Act including posting and maintenance of signages thereat.""}, {""title"": ""Section 3"", ""summary"": ""This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in at least two (2) newspapers of general circulation.""}]"	11046	June 29, 2018	"[{""name"": ""AQUILINO PIMENTEL III"", ""title"": ""President of the Senate""}, {""name"": ""PANTALEON D. ALVAREZ"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""LUTGARDO B. BARBO"", ""title"": ""Secretary of Senate""}, {""name"": ""CESAR STRAIT PAREJA"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""RODRIGO ROA DUTERTE"", ""title"": ""President of the Philippines""}]"	To rename the road traversing specified barangays in Tagaytay City to honor Isaac O. Tolentino.	"[""Renaming of the specified road to Isaac O. Tolentino Avenue"", ""Allocation of funds by the Department of Public Works and Highways for implementation, including signage posting and maintenance"", ""Effective date fifteen days after publication in Official Gazette or two newspapers""]"		"[""Road renaming"", ""Infrastructure"", ""Tagaytay"", ""Isaac O. Tolentino Avenue""]"	"[""road"", ""renaming"", ""Tagaytay"", ""Cavite"", ""public works"", ""signage"", ""Isaac O. Tolentino""]"
+repacts:datasets/markdown/repacts/2018/ra_11047_2018.md	repacts	2018		datasets/markdown/repacts/2018/ra_11047_2018.md	ra_11047_2018	An Act Renaming Governors Drive, Traversing Soro-Soro Bridge in the City of Binan, Province of Laguna and the Municipality of Ternate, Province of Cavite, as Juanito R. Remulla, Sr. Road	"Seventeenth Congress Second Regular Session Begun and held in Metro Manila, on Monday, the twenty-fourth day of July, two thousand seventeen.
+
+ **REPUBLIC ACT No. 11047**
+
+ An Act Renaming Governors Drive, Traversing Soro-Soro Bridge in the City of Binan, Province of Laguna and the Municipality of Ternate, Province of Cavite, as Juanito R. Remulla, Sr. Road
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** The Governor's Drive, traversing Soro-soro Bridge in the City of Biñan Province of Laguna; the municipalities of Carmona and General Mariano Alvarez; the cities of Dasmariñas, General Trias and Trece Martires; and the municipalities of Tanza, Naic and Ternate, Province of Cavite, is hereby renamed as Juanito R. Remulla, Sr. Road.
+
+ **Section 2.** The Department of Public Works and Highways shall place appropriate markers along the aforementioned national road and issue the necessary orders and circulars to implement the provision of this Act.
+
+ **Section 3.** This Act shall take effect fifteen (15) days after its publication in the *Official Gazette* or in at least two (2) newspapers of general circulation.
+
+ Approved,
+
+ **AQUILINO ""KOKO"" PIMENTEL III** President of the Senate
+
+ **PANTALEON D. ALVAREZ** Speaker of the House of Representatives
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate on May 2, 2017 and March 12, 2018, respectively.
+
+ **LUTGARDO B. BARBO** Secretary of Senate
+
+ **CESAR STRAIT PAREJA** Secretary General House of Representatives
+
+ Approved: June 29, 2018
+
+ **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	Renames Governors Drive and associated road segments to Juanito R. Remulla, Sr. Road, specifies marker placement, and sets effective date.	"[{""title"": ""Section 1"", ""summary"": ""Renames Governors Drive and associated roads to Juanito R. Remulla, Sr. Road.""}, {""title"": ""Section 2"", ""summary"": ""Department of Public Works and Highways to place markers and issue orders to implement the renaming.""}, {""title"": ""Section 3"", ""summary"": ""Act takes effect fifteen days after publication in Official Gazette or newspapers.""}]"	11047	June 29, 2018			To honor Juanito R. Remulla, Sr. by renaming a major roadway in Laguna and Cavite.	"[""Renaming of Governors Drive and related roads to Juanito R. Remulla, Sr. Road."", ""Department of Public Works and Highways to place markers and issue orders for implementation."", ""Effective date of fifteen days after publication in Official Gazette or newspapers.""]"		"[""Renaming"", ""Road"", ""Infrastructure"", ""Philippines""]"	"[""Governors Drive"", ""Juanito R. Remulla"", ""Soro-Soro Bridge"", ""Binan"", ""Cavite"", ""Public Works"", ""Legislation""]"
+repacts:datasets/markdown/repacts/2018/ra_11048_2018.md	repacts	2018		datasets/markdown/repacts/2018/ra_11048_2018.md	ra_11048_2018	"An Act Renaming the Molino-Salawag-Paliparan Road, Traversing Barangay Talaba 4 in the City of Bacoor, and Barangay Paliparan I in the City of Dasmarinas, All in the Province of Cavite, as ""Bacoor-Dasmariñas National Road"""	"Seventeenth Congress Second Regular Session Begun and held in Metro Manila, on Monday, the twenty-fourth day of July, two thousand seventeen.
+
+ **REPUBLIC ACT No. 11048**
+
+ An Act Renaming the Molino-Salawag-Paliparan Road, Traversing Barangay Talaba 4 in the City of Bacoor, and Barangay Paliparan I in the City of Dasmarinas, All in the Province of Cavite, as ""Bacoor-Dasmariñas National Road""
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** The Molino-Salawag-Paliparan Road, traversing barangay Talaba 4, Niog 3, Ligas 2, Ligas 3, Bayanan, Mambog 4, Molino 2, Molino 3 and Molino 4 in the City of Bacoor, Cavite to barangays Salawag, Palipara 3, Paliparan 2 and Paliparan 1 in the City of Dasmariñas National Road.
+
+ **Section 2.** The Department of Public Works and Highways shall place appropriate markers along the aforementioned national road and issue the necessary orders and circulars to implement the provision of this Act.
+
+ **Section 3.** This Act shall take effect fifteen (15) days after its publication in the *Official Gazette* or in at least two (2) newspapers of general circulation.
+
+ Approved,
+
+ **AQUILINO ""KOKO"" PIMENTEL III** President of the Senate
+
+ **PANTALEON D. ALVAREZ** Speaker of the House of Representatives
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate on May 2, 2017 and March 12, 2018, respectively.
+
+ **LUTGARDO B. BARBO** Secretary of Senate
+
+ **CESAR STRAIT PAREJA** Secretary General House of Representatives
+
+ Approved: June 29, 2018
+
+ **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	Renames the Molino-Salawag-Paliparan Road to Bacoor-Dasmariñas National Road and establishes its designation as a national road.	"[{""title"": ""Section 1"", ""summary"": ""Defines the route of the newly designated national road, listing barangays along the path.""}, {""title"": ""Section 2"", ""summary"": ""Mandates the Department of Public Works and Highways to place markers and issue orders/circulars.""}, {""title"": ""Section 3"", ""summary"": ""Effectivity: 15 days after publication in Official Gazette or two newspapers.""}]"	11048	June 29, 2018			To rename the Molino-Salawag-Paliparan Road as Bacoor-Dasmariñas National Road and officially designate it as a national road.	"[""Renames the road to Bacoor-Dasmari\u00f1as National Road"", ""Mandates DOTr to place markers and issue orders"", ""Effective 15 days after publication""]"		"[""Republic Act"", ""Road Renaming"", ""National Road"", ""Cavite""]"	"[""Molino-Salawag-Paliparan Road"", ""Bacoor-Dasmari\u00f1as National Road"", ""Public Works and Highways"", ""Official Gazette"", ""Cavite""]"
+repacts:datasets/markdown/repacts/2018/ra_11049_2018.md	repacts	2018		datasets/markdown/repacts/2018/ra_11049_2018.md	ra_11049_2018	An Act Renaming the Molino Boulevard Traversing Barangay Talaba 4 and Barangay San Nicolas 3 in the City of Bacoor, Province of Cavite as Bacoor Boulevard	"Seventeenth Congress Second Regular Session Begun and held in Metro Manila, on Monday, the twenty-fourth day of July, two thousand seventeen.
+
+ **REPUBLIC ACT No. 11049**
+
+ ""An Act Renaming the Molino Boulevard Traversing Barangay Talaba 4 and Barangay San Nicolas 3 in the City of Bacoor, Province of Cavite as Bacoor Boulevard""
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** The Molino Boulevard which traverses barangay Talaba 4, Niog 3, Ligas 2, Ligas 3, Bayanan, Mambog 4, Molino 2, Molino 3, San Nicolas 1 and San Nicolas 3 in the City of Bacoor, Province of Cavite is hereby renamed as Bacoor Boulevard.
+
+ **Section 2.** The Department of Public Works and Highways shall place appropriate markers along Bacoor Boulevard and issue the necessary orders and circulars to implement the provision of this Act.
+
+ **Section 3.** This Act shall take effect fifteen (15) days after its publication in the *Official Gazette* or in at least two (2) newspapers of general circulation.
+
+ Approved,
+
+ **AQUILINO ""KOKO"" PIMENTEL III** President of the Senate
+
+ **PANTALEON D. ALVAREZ** Speaker of the House of Representatives
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate on May 2, 2017 and March 12, 2018, respectively.
+
+ **LUTGARDO B. BARBO** Secretary of Senate
+
+ **CESAR STRAIT PAREJA** Secretary General House of Representatives
+
+ Approved: June 29, 2018
+
+ **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	The act renames Molino Boulevard to Bacoor Boulevard and mandates the Department of Public Works and Highways to place markers and issue necessary orders. It takes effect 15 days after publication.	"[{""title"": ""Section 1"", ""summary"": ""Renames Molino Boulevard to Bacoor Boulevard.""}, {""title"": ""Section 2"", ""summary"": ""Department of Public Works and Highways shall place appropriate markers along Bacoor Boulevard and issue necessary orders and circulars.""}, {""title"": ""Section 3"", ""summary"": ""The act shall take effect fifteen (15) days after its publication in the Official Gazette or in at least two (2) newspapers of general circulation.""}]"	11049	2018-06-29	"[{""name"": ""LUTGARDO B. BARBO"", ""title"": ""Secretary of Senate""}, {""name"": ""CESAR STRAIT PAREJA"", ""title"": ""Secretary General House of Representatives""}]"	"[{""name"": ""AQUILINO \""KOKO\"" PIMENTEL III"", ""title"": ""President of the Senate""}, {""name"": ""PANTALEON D. ALVAREZ"", ""title"": ""Speaker of the House of Representatives""}, {""name"": ""RODRIGO ROA DUTERTE"", ""title"": ""President of the Philippines""}]"	Renaming of a public roadway and ensuring proper signage and implementation by the Department of Public Works and Highways	"[""Renaming Molino Boulevard to Bacoor Boulevard"", ""Mandating marker placement by the Department of Public Works and Highways"", ""Effectivity fifteen days after publication""]"		"[""Renaming"", ""Infrastructure"", ""Transportation"", ""Local Government""]"	"[""Molino Boulevard"", ""Bacoor Boulevard"", ""Bacoor"", ""Cavite"", ""Renaming"", ""Public Works and Highways""]"
+repacts:datasets/markdown/repacts/2018/ra_11050_2018.md	repacts	2018		datasets/markdown/repacts/2018/ra_11050_2018.md	ra_11050_2018	An Act Naming the Linamon-Matungao-Baloi National Road Traversing Barangay Samburon in the Municipality of Linamon, and Barangay Bulao in the Municipality of Baloi, All in the Province of Lanao del Norte, As the Metro Iligan Regional Agro-Industrial Center (MIRAIC) Highway	"Seventeenth Congress Second Regular Session Begun and held in Metro Manila, on Monday, the twenty-fourth day of July, two thousand seventeen.
+
+ **REPUBLIC ACT No. 11050**
+
+ ""An Act Naming the Linamon-Matungao-Baloi National Road Traversing Barangay Samburon in the Municipality of Linamon, and Barangay Bulao in the Municipality of Baloi, All in the Province of Lanao del Norte, As the Metro Iligan Regional Agro-Industrial Center (MIRAIC) Highway""
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** The Linamon - Matungao - Baloi National Road traversing barangays Samburon, Magoong, Purakan and Busque in the Municipality of Linamon, through barangays Batangan, Pangi, Poblacion and Puntod in the Municipality of Matungao, up to barangays Basagad, Pacalundo, Matampay and Bulao, all in the Municipality of Baloi, all in the Province of Lanao del Norte, as the Metro Iligan Regional Agro-Industrial Center (MIRAIC) Highway.
+
+ **Section 2.** The Department of Public Works and Highways shall issue the necessary rules, orders, and circulars to implement the provision of this Act.
+
+ **Section 3.** This Act shall take effect fifteen (15) days following the completion of its publication in the *Official Gazette* or in a newspaper of general circulation.
+
+ Approved,
+
+ **AQUILINO ""KOKO"" PIMENTEL III** President of the Senate
+
+ **PANTALEON D. ALVAREZ** Speaker of the House of Representatives
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate on May 15, 2017 and March 12, 2018, respectively.
+
+ **LUTGARDO B. BARBO** Secretary of Senate
+
+ **CESAR STRAIT PAREJA** Secretary General House of Representatives
+
+ Approved: June 29, 2018
+
+ **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	This act designates the Linamon-Matungao-Baloi National Road as the Metro Iligan Regional Agro-Industrial Center (MIRAIC) Highway, authorizes the Department of Public Works and Highways to issue rules, and sets the effective date following publication.	"[{""title"": ""Section 1."", ""summary"": ""Defines the Linamon-Matungao-Baloi National Road traversing specified barangays as the MIRAIC Highway.""}, {""title"": ""Section 2."", ""summary"": ""Empowers the Department of Public Works and Highways to issue necessary rules, orders, and circulars to implement the act.""}, {""title"": ""Section 3."", ""summary"": ""Specifies that the act shall take effect fifteen days after publication in the Official Gazette or a newspaper of general circulation.""}]"	11050	June 29, 2018	"[{""name"": ""AQUILINO \""KOKO\"" PIMENTEL III"", ""title"": ""President of the Senate""}, {""name"": ""PANTALEON D. ALVAREZ"", ""title"": ""Speaker of the House of Representatives""}]"		To designate the Linamon-Matungao-Baloi National Road as the Metro Iligan Regional Agro-Industrial Center (MIRAIC) Highway and provide for its implementation.	"[""Renames the Linamon-Matungao-Baloi National Road as the MIRAIC Highway."", ""Authorizes the Department of Public Works and Highways to issue necessary rules, orders, and circulars."", ""Sets the effective date fifteen days after publication.""]"		"[""Infrastructure"", ""Transportation"", ""Road"", ""Agriculture"", ""Philippines""]"	"[""Linamon"", ""Matungao"", ""Baloi"", ""MIRAIC Highway"", ""National Road"", ""Public Works"", ""Agriculture"", ""Lanao del Norte""]"
+repacts:datasets/markdown/repacts/2018/ra_11051_2018.md	repacts	2018		datasets/markdown/repacts/2018/ra_11051_2018.md	ra_11051_2018	An Act Naming the Poblacion-Caniogan National Road Traversing Barangay Poblacion and Barangay Barakanas in the Municipality of Tubod, Province of Lanao Del Norte as the Arsenio Arcelo Quibranza Highway	"Seventeenth Congress Second Regular Session Begun and held in Metro Manila, on Monday, the twenty-fourth day of July, two thousand seventeen.
+
+ **REPUBLIC ACT No. 11051**
+
+ ""An Act Naming the Poblacion-Caniogan National Road Traversing Barangay Poblacion and Barangay Barakanas in the Municipality of Tubod, Province of Lanao Del Norte as the Arsenio Arcelo Quibranza Highway""
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** The Poblacion-Caniogan National Road traversing barangays Poblacion, San Antonio, Patudan, Pinpin, Malingao, Licapao, Candis, Caniogan and Barakanas in the Municipality of Tubod, Province of Lanao del Norte, is hereby named as the Arsenio Arcelo Quibranza Highway.
+
+ **Section 2.** The Department of Public Works and Highways shall issue the necessary rules, orders, and circulars to implement the provision of this Act.
+
+ **Section 3.** This Act shall take effect fifteen (15) days following the completion of its publication in the *Official Gazette* or in a newspaper of general circulation.
+
+ Approved,
+
+ **AQUILINO ""KOKO"" PIMENTEL III** President of the Senate
+
+ **PANTALEON D. ALVAREZ** Speaker of the House of Representatives
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate on May 29, 2017 and March 12, 2018, respectively.
+
+ **LUTGARDO B. BARBO** Secretary of Senate
+
+ **CESAR STRAIT PAREJA** Secretary General House of Representatives
+
+ Approved: June 29, 2018
+
+ **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	This act formally names the Poblacion-Caniogan National Road as the Arsenio Arcelo Quibranza Highway and directs the Department of Public Works and Highways to issue rules and orders for its implementation.	"[{""title"": ""Section 1."", ""summary"": ""The Poblacion-Caniogan National Road traversing barangays Poblacion, San Antonio, Patudan, Pinpin, Malingao, Licapao, Candis, Caniogan and Barakanas in the Municipality of Tubod, Province of Lanao del Norte, is hereby named as the Arsenio Arcelo Quibranza Highway.""}, {""title"": ""Section 2."", ""summary"": ""The Department of Public Works and Highways shall issue the necessary rules, orders, and circulars to implement the provision of this Act.""}, {""title"": ""Section 3."", ""summary"": ""This Act shall take effect fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation.""}]"	11051	June 29, 2018			To officially name the Poblacion-Caniogan National Road as the Arsenio Arcelo Quibranza Highway and ensure its implementation through DPWH guidelines.	"[""The Poblacion-Caniogan National Road is named as the Arsenio Arcelo Quibranza Highway."", ""DPWH shall issue necessary rules, orders, and circulars to implement the provision."", ""The act takes effect fifteen days after publication.""]"		"[""Road"", ""Infrastructure"", ""Public Works"", ""Highway"", ""Naming""]"	"[""Arsenio Arcelo Quibranza Highway"", ""Poblacion-Caniogan National Road"", ""DPWH"", ""Republic Act 11051"", ""Lanao del Norte""]"
+repacts:datasets/markdown/repacts/2018/ra_11052_2018.md	repacts	2018		datasets/markdown/repacts/2018/ra_11052_2018.md	ra_11052_2018	An Act Regulating the Practice of Food Technology in the Philippines, Creating for the Purpose the Board of Food Technology and Appropriating Funds Therefor	"Seventeenth Congress Second Regular Session Begun and held in Metro Manila, on Monday, the twenty-fourth day of July, two thousand seventeen.
+
+ **REPUBLIC ACT No. 11052**
+
+ ""An Act Regulating the Practice of Food Technology in the Philippines, Creating for the Purpose the Board of Food Technology and Appropriating Funds Therefor""
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **ARTICLE I**
+
+ TITLE STATEMENT OF POLICY, AND DEFINITION OF TERMS
+
+ Section 1. *Short Title.* - This Act shall be known as the ""***Philippine Food Technology Act.""***
+
+ **Section 2.** *Statement of Policy.* - The State recognized the importance of professional food technologists in nation-building and development. Hence, it shall develop and nurture competent, virtuous, productive and well-rounded professional food technologists whose standards of practice and service shall be excellent, world class, and globally, competitive through honest, effective, relevant, and credible licensure examinations and through regulatory programs, measures, and activities that foster their professional growth, social responsibility, and development.
+
+ **Section 3.** *Definition of Terms.* - As used in this Act:
+
+ > (a) *Food* refers to any substance or product whether processed, partially processed or unprocessed that is intended for human consumption. It includes drinks, chewing gum, water and other substances, which are intentionally incorporated into such substances or products during the process of manufacturing, preparation, and treatment;
+>
+>  (b) *Food technology* refers to the application of physical, biological, and behavioral sciences to the conversion of raw materials into safe, stable, palatable, and nutritious foods. It includes the processs of handling, storage, processing, packaging, distribution, and utilization of food;
+>
+>  (c) *Food technologist* refers to person qualified to practice food technology as provided in this Act and who is holder of a valid professional license to practice issued by the Professional Regulatory Board of Food Technology and Professional Regulatory Commission (PRC); and
+>
+>  (d) *Microbiological certification* refers to a certification of the microbiological, physical, chemical, sensory, and functional properties of food.
+
+ **Section 4.** *The Scope of the Practice of Food Technology.* - The practice of Food Technology shall include the following:
+
+ > (a) Identification of the appropriate specifications of raw materials and supervision over their procurement;
+>
+>  (b) Supervision of food processing operations;
+>
+>  (c) Evaluation of the microbiological, physical, chemical, sensory, and functional properties of food;
+>
+>  (d) Certification of the analysis of microbiological, physical, chemical, sensory, and functional properties of food;
+>
+>  (e) Technical transactions (e.g. sale, trading) of food, food ingredients and additives, machineries, equipment, and implements used in safe and quality food production and distribution;
+>
+>  (f) Conduct of basic and applied research towards development and/or improvement of the safety and quality of food products;
+>
+>  (g) Teaching, lecturing, and reviewing of professional subject in the curriculum of the Bachelor of Science in Food Technology degree or subject in the food technology licensure examination given in any college, university, or training or review center, or any other educational institution or certification body;
+>
+>  (h) Compliance with food laws and regulations in manufacturing and distribution of foods in the local and international markets;
+>
+>  (i) Implementation of quality management systems (food safety, laboratory management, quality requirements, and quality audit);
+>
+>  (j) Provision of assistance in waste management for environmental safety;
+>
+>  (k) Consultation work related to any or all of the above functions; and
+>
+>  (l) Procurement of chemicals, reagents, equipment, apparatus, and other materials for the conduct of food analysis, research and development.
+
+ **ARTICLE II**
+
+ THE PROFESSIONAL REGULATORY BOARD OF FOOD AND TECHNOLOGY
+
+ Section 5. *Creation of the Professional Regulatory Board of Food Technology.* - There hereby created a Professional Regulatory Board of Food Technology, hereinafter called the Board, under the administrative supervision of the PRC. The Board shall be appointed by the President of the Republic of the Philippines from a list submitted by the PRC of three (3) nominees for each position from a list of five (5) nominees for each position from a list of five (5) nominees for each position, chosen and ranked by the Integrated and accredited professional organization (APO) of food technologists. The Board shall be organized not later than six (6) months after the effectivity of this Act.

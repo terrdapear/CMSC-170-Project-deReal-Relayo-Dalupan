@@ -1,0 +1,154 @@
+repacts:datasets/markdown/repacts/1972/ra_6571_1972.md	repacts	1972		datasets/markdown/repacts/1972/ra_6571_1972.md	ra_6571_1972	AN ACT ESTABLISHING TWO EMERGENCY HOSPITALS IN THE PROVINCE OF ALBAY, ONE IN THE MUNICIPALITY OF GUINOBATAN AND THE OTHER IN THE MUNICIPALITY OF OAS, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.	"**[ REPUBLIC ACT NO. 6571, September 30, 1972 ]**
+
+ AN ACT ESTABLISHING TWO EMERGENCY HOSPITALS IN THE PROVINCE OF ALBAY, ONE IN THE MUNICIPALITY OF GUINOBATAN AND THE OTHER IN THE MUNICIPALITY OF OAS, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established, under the direct supervision of the Director of Medical Services, two emergency hospitals in the Province of Albay, one in the Municipality of Guinobatan and the other in the Municipality of Oas.
+
+ **Section 2.** The sum of five hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of these hospitals during the fiscal year nineteen hundred seventy one at two hundred fifty thousand pesos each. Thereafter, such sums as may be needed for their operation and maintenance shall be included in the annual General appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Enacted without Executive approval, September 30, 1972.
+"	success	Health	The act establishes two emergency hospitals in Albay province and authorizes funds for their operation.	"[{""title"": ""Section 1"", ""summary"": ""Establishes two emergency hospitals under the supervision of the Director of Medical Services in Guinobatan and Oas, Albay.""}, {""title"": ""Section 2"", ""summary"": ""Authorizes appropriation of five hundred thousand pesos for the hospitals, with allocations of two hundred fifty thousand pesos each for FY 1971, and allows further funds for operations.""}, {""title"": ""Section 3"", ""summary"": ""The act takes effect upon its approval.""}]"	6571	1972-09-30			To establish emergency hospitals and provide financial resources for their operation in Albay province.	"[""Establishes two emergency hospitals in Albay"", ""Authorizes appropriation of 500,000 pesos"", ""Allocates 250,000 pesos each for FY 1971"", ""Allows additional funds for ongoing operations"", ""Act effective upon approval""]"		"[""Healthcare"", ""Hospital"", ""Albay"", ""Emergency""]"	"[""Emergency Hospital"", ""Albay"", ""Appropriation"", ""Healthcare""]"
+repacts:datasets/markdown/repacts/1972/ra_6572_1972.md	repacts	1972		datasets/markdown/repacts/1972/ra_6572_1972.md	ra_6572_1972	AN ACT CONVERTING THE PROVINCIAL HOSPITAL IN THE MUNICIPALITY OF VIRAC, PROVINCE OF CATANDUANES, INTO A GENERAL HOSPITAL AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.	"**[ REPUBLIC ACT NO. 6572, September 30, 1972 ]**
+
+ AN ACT CONVERTING THE PROVINCIAL HOSPITAL IN THE MUNICIPALITY OF VIRAC, PROVINCE OF CATANDUANES, INTO A GENERAL HOSPITAL AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The provincial hospital in the Municipality of Virac Province of Catanduanes, is hereby converted into a general hospital to be known as Catanduanes General Hospital.
+
+ **Section 2.** The sum of one million pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the conversion, operation and maintenance of said hospital during the fiscal year nineteen hundred seventy-one. Thereafter, such sums as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Enacted without Executive approval, September 30, 1972.
+"	success	Republic Act	This act converts the provincial hospital in Virac, Catanduanes into a general hospital and authorizes the appropriation of funds for its conversion, operation and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""Converts the provincial hospital in the Municipality of Virac, Province of Catanduanes into a general hospital to be known as Catanduanes General Hospital.""}, {""title"": ""Section 2."", ""summary"": ""Authorizes the appropriation of one million pesos for the conversion, operation and maintenance of the hospital during the fiscal year 1971, with future sums to be included in the annual General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""The act shall take effect upon its approval.""}]"	6572	1972-09-30			To convert a provincial hospital into a general hospital and authorize the appropriation of funds for its operation and maintenance.	"[""Conversion of the provincial hospital into Catanduanes General Hospital"", ""Appropriation of one million pesos for conversion and maintenance during fiscal year 1971"", ""Future appropriations to be included in the General Appropriations Act"", ""Act takes effect upon approval""]"		"[""Healthcare"", ""Hospital"", ""Catanduanes"", ""Republic Act""]"	"[""hospital"", ""conversion"", ""funds"", ""appropriation"", ""Catanduanes"", ""general hospital""]"
+repacts:datasets/markdown/repacts/1972/ra_6573_1972.md	repacts	1972		datasets/markdown/repacts/1972/ra_6573_1972.md	ra_6573_1972	AN ACT ESTABLISHING AN EMERGENCY HOSPITAL IN THE MUNICIPALITY OF BALASAN, PROVINCE OF ILOILO, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.	"**[ REPUBLIC ACT NO. 6573, September 30, 1972 ]**
+
+ AN ACT ESTABLISHING AN EMERGENCY HOSPITAL IN THE MUNICIPALITY OF BALASAN, PROVINCE OF ILOILO, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There is hereby established in the Municipality of Balasan, Province of Iloilo, an emergency hospital to be known as Balasan Emergency Hospital.
+
+ **Section 2.** The sum of three hundred thousand pesos authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintainance of said hospital during the fiscal year nineteen hundred seventy. Thereafter, such sum as may be needed for its operation maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Enacted without executive approval, September 30, 1972.
+"	success	Republic Act	Establishes Balasan Emergency Hospital and appropriates 300,000 pesos for its construction, operation, and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""Establishes Balasan Emergency Hospital.""}, {""title"": ""Section 2."", ""summary"": ""Appropriates 300,000 pesos for establishment, operation, and maintenance; subsequent funds to be included in the annual General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""Act takes effect upon approval.""}]"	6573	September 30, 1972			To establish an emergency hospital in Balasan, Iloilo, and provide the necessary funds for its construction and operation.	"[""Establishment of Balasan Emergency Hospital"", ""Appropriation of 300,000 pesos for establishment and operation"", ""Effective upon approval""]"		"[""Healthcare"", ""Hospital"", ""Iloilo"", ""Emergency Services""]"	"[""Balasan"", ""Emergency Hospital"", ""Iloilo"", ""Republic Act"", ""Appropriation"", ""Funds"", ""Construction""]"
+repacts:datasets/markdown/repacts/1972/ra_6574_1972.md	repacts	1972		datasets/markdown/repacts/1972/ra_6574_1972.md	ra_6574_1972	REPUBLIC ACT NO. 6574, September 30, 1972	"**[ REPUBLIC ACT NO. 6574, September 30, 1972 ]**
+
+ AN ACT ESTABLISHING A NATIONAL EMERGENCY HOSPITAL IN THE MUNICIPALITY OF LIANGA, PROVINCE OF SURIGAO DEL SUR, TO BE KNOWN AS LIANGA NATIONAL EMERGENCY HOSPITAL, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress Assembled:
+
+ **Section 1.** There shall be established, under the direct supervision of the Director of Medical Services, a national emergency hospital in the Municipality of Lianga, Province of Surigao del Sur, to be known as Lianga National Emergency Hospital.
+
+ **Section 2.** The sum of two hundred fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital during the fiscal year nineteen hundred seventy-one. Thereafter, such sum as may be needed for its operation and maintenance shall be included in the Annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Enacted without executive approval, September 30, 1972.
+"	success	Republic Act	An act establishing the Lianga National Emergency Hospital in Lianga, Surigao del Sur, and authorizing the appropriation of funds for its establishment and operation.	"[{""title"": ""Section 1."", ""summary"": ""Establishes a national emergency hospital in the Municipality of Lianga under the supervision of the Director of Medical Services.""}, {""title"": ""Section 2."", ""summary"": ""Authorizes the appropriation of 250,000 pesos for the establishment, operation, and maintenance of the hospital during the fiscal year 1971, with additional funds to be included in future appropriations.""}, {""title"": ""Section 3."", ""summary"": ""The act takes effect upon its approval.""}]"	6574	September 30, 1972			To establish a national emergency hospital in Lianga to provide emergency medical services and to allocate necessary funding for its operation.	"[""Establish Lianga National Emergency Hospital"", ""Allocate 250,000 pesos for establishment and maintenance"", ""Act takes effect upon approval""]"		"[""Health"", ""Emergency"", ""Hospital"", ""Lianga"", ""Surigao del Sur"", ""Public Health""]"	"[""Lianga National Emergency Hospital"", ""Appropriation"", ""Medical Services"", ""Surigao del Sur""]"
+repacts:datasets/markdown/repacts/1972/ra_6575_1972.md	repacts	1972		datasets/markdown/repacts/1972/ra_6575_1972.md	ra_6575_1972	AN ACT INCREASING THE BED CAPACITY OF SOUTHERN SAMAR GENERAL HOSPITAL IN THE MUNICIPALITY OF GUIUAN, PROVINCE OF EASTERN SAMAR, FROM TWENTY-FIVE TO FIFTY BEDS, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.	"**[ REPUBLIC ACT NO. 6575, September 30, 1972 ]**
+
+ AN ACT INCREASING THE BED CAPACITY OF SOUTHERN SAMAR GENERAL HOSPITAL IN THE MUNICIPALITY OF GUIUAN, PROVINCE OF EASTERN SAMAR, FROM TWENTY-FIVE TO FIFTY BEDS, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The bed capacity of Southern Samar General Hospital in the Municipality of Guiuan, Province of Eastern Samar, is increased from twenty-five to fifty beds.
+
+ **Section 2.** In addition to its existing appropriation, there is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, the sum of one hundred thousand pesos for the operation and maintenance of the aforesaid hospital for the fiscal year nineteen hundred seventy-one including the cost of the construction of additional building therefor. Thereafter, such sum as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Enacted without executive approval, September 30, 1972.
+"	success	Republic Act	The act increases bed capacity of Southern Samar General Hospital from 25 to 50 beds and appropriates funds for operation, maintenance, and construction.	"[{""title"": ""Section 1."", ""summary"": ""Bed capacity of Southern Samar General Hospital increased from twenty-five to fifty beds.""}, {""title"": ""Section 2."", ""summary"": ""Authorized appropriation of one hundred thousand pesos for operation and maintenance, with future necessary funds included in the annual General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""Act takes effect upon its approval.""}]"	6575	September 30, 1972			To increase bed capacity and secure funding for Southern Samar General Hospital.	"[""Increase bed capacity from 25 to 50"", ""Appropriation of 100,000 pesos for operation and maintenance"", ""Future necessary funds included in General Appropriations Act"", ""Effectivity upon approval""]"		"[""Healthcare"", ""Hospitals"", ""Bed Capacity"", ""Funding"", ""Eastern Samar""]"	"[""Southern Samar General Hospital"", ""bed capacity"", ""appropriation"", ""funding"", ""operational maintenance""]"
+repacts:datasets/markdown/repacts/1972/ra_6576_1972.md	repacts	1972		datasets/markdown/repacts/1972/ra_6576_1972.md	ra_6576_1972	AN ACT ESTABLISHING AN EMERGENCY HOSPITAL IN THE MUNICIPALITY OF CATIGBIAN, PROVINCE OF BOHOL, TO BE KNOWN AS CATIGBIAN EMERGENCY HOSPITAL, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.	"**[ REPUBLIC ACT NO. 6576, September 30, 1972 ]**
+
+ AN ACT ESTABLISHING AN EMERGENCY HOSPITAL IN THE MUNICIPALITY OF CATIGBIAN, PROVINCE OF BOHOL, TO BE KNOWN AS CATIGBIAN EMERGENCY HOSPITAL, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established, under the direct supervision of the Director of Medical Services, an emergency hospital in the Municipality of Catigbian, Province of Bohol to be known as Catigbian Emergency Hospital.
+
+ **Section 2.** The sum of two hundred fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital during the fiscal year nineteen hundred seventy-one. Thereafter, such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Enacted without executive approval, September 30, 1972.
+"	success	Republic Act	An act that establishes an emergency hospital in Catigbian, Bohol, and appropriates funds for its establishment, operation, and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""An emergency hospital is established under the direct supervision of the Director of Medical Services in the Municipality of Catigbian, Province of Bohol.""}, {""title"": ""Section 2."", ""summary"": ""Appropriates \u20b1250,000 for the establishment, operation, and maintenance of the hospital during FY 1971, with further amounts to be included in the General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""The act takes effect upon its approval.""}]"	6576	September 30, 1972			To establish an emergency hospital in Catigbian, Bohol, and authorize the appropriation of funds for its establishment, operation, and maintenance.	"[""Establishment of Catigbian Emergency Hospital"", ""Appropriation of \u20b1250,000 for establishment, operation and maintenance"", ""Effective upon approval""]"		"[""healthcare"", ""hospital"", ""Bohol"", ""emergency"", ""public health""]"	"[""emergency hospital"", ""Catigbian"", ""Bohol"", ""fund appropriation"", ""public health""]"
+repacts:datasets/markdown/repacts/1972/ra_6577_1972.md	repacts	1972		datasets/markdown/repacts/1972/ra_6577_1972.md	ra_6577_1972	Republic Act No. 6577 – An Act Establishing an Emergency Hospital in the Municipality of Inabanga, Province of Bohol, to be Known as Puyat Emergency Hospital and Authorizing the Appropriation of Funds Therefor	"**[ REPUBLIC ACT NO. 6577, September 30, 1972 ]**
+
+ AN ACT ESTABLISHING AN EMERGENCY HOSPITAL IN THE MUNICIPALITY OF INABANGA, PROVINCE OF BOHOL, TO BE KNOWN AS PUYAT EMERGENCY HOSPITAL AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established under the direct supervision of the Director of Medical Services, an emergency hospital in the Municipality of Inabanga, Province of Bohol, to be known as Puyat Emergency Hospital.
+
+ **Section 2.** The sum of three hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital during the fiscal year nineteen hundred seventy-two. Thereafter, such sums as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Enacted without executive approval, September 30, 1972.
+"	success	Health	The act establishes the Puyat Emergency Hospital in Inabanga, Bohol, and appropriates funds for its construction, operation, and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""Establishes the emergency hospital under the supervision of the Director of Medical Services.""}, {""title"": ""Section 2."", ""summary"": ""Appropriates 300,000 pesos for establishment, operation, and maintenance of the hospital; future necessary funds to be included in the annual General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""The act takes effect upon its approval.""}]"	6577	September 30, 1972			To establish an emergency hospital in Inabanga, Bohol and secure funding for its operation and maintenance.	"[""Establishment of Puyat Emergency Hospital"", ""Appropriation of 300,000 pesos for its operation and maintenance"", ""Future funding through the General Appropriations Act"", ""Effectivity upon approval""]"		"[""health"", ""hospital"", ""Bohol"", ""emergency"", ""funding""]"	"[""emergency hospital"", ""Inabanga"", ""Bohol"", ""appropriation"", ""Republic Act 6577"", ""healthcare"", ""Philippines""]"
+repacts:datasets/markdown/repacts/1972/ra_6578_1972.md	repacts	1972		datasets/markdown/repacts/1972/ra_6578_1972.md	ra_6578_1972	An Act Establishing an Emergency Hospital in the Municipality of Sta. Maria, Province of Laguna, to be Known as Sta. Maria Emergency Hospital, and Authorizing the Appropriation of Funds Therefor	"**[ REPUBLIC ACT NO. 6578, September 30, 1972 ]**
+
+ AN ACT ESTABLISHING AN EMERGENCY HOSPITAL IN THE MUNICIPALITY OF STA. MARIA, PROVINCE OF LAGUNA, TO BE KNOWN AS STA. MARIA EMERGENCY HOSPITAL, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representative of the Philippines in Congress assembled:
+
+ **Section 1.** There is hereby established in the Municipality of Sta. Maria, Province of Laguna, an emergency hospital, under the supervision of the Bureau of Medical hospital, Services, to be known as Sta. maria Emergency Hospital.
+
+ **Section 2.** In order to carry out the purposes of this Act, the sum of two hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National treasury not otherwise appropriated, which shall be expended for the operation, maintenance, and the acquisition of site as well as for the purchase and seventy-two. Thereafter, such sum as may be necessary for the same purposes shall be included in the annual General Appropriations Act.
+
+ **Section 3.** this Act shall effect upon its approval.
+
+ Enacted without executive approval, September 30, 1972.
+"	success	Republic Act	Establishes Sta. Maria Emergency Hospital and authorizes appropriation of funds for its operation, maintenance, and site acquisition.	"[{""title"": ""Section 1"", ""summary"": ""Establishment of an emergency hospital in Sta. Maria under the supervision of the Bureau of Medical Hospital Services.""}, {""title"": ""Section 2"", ""summary"": ""Authorization of 200,000 pesos for operation, maintenance, site acquisition, and related purchases, with additional funds to be included in the annual General Appropriations Act as needed.""}, {""title"": ""Section 3"", ""summary"": ""The Act shall take effect upon its approval.""}]"	6578	September 30, 1972			To establish an emergency hospital in Sta. Maria, Laguna, and authorize appropriation of funds for its operation.	"[""Establishment of Sta. Maria Emergency Hospital."", ""Authorization of 200,000 pesos for operation, maintenance, site acquisition, and purchases."", ""Effectivity of the Act upon approval.""]"		"[""healthcare"", ""hospital"", ""Laguna"", ""public health""]"	"[""emergency hospital"", ""Sta. Maria"", ""Laguna"", ""appropriation"", ""health services""]"
+repacts:datasets/markdown/repacts/1972/ra_6579_1972.md	repacts	1972		datasets/markdown/repacts/1972/ra_6579_1972.md	ra_6579_1972	AN ACT INCREASING THE BED CAPACITY OF ZIGA MEMORIAL HOSPITAL IN THE MUNICIPALITY OF TABACO, PROVINCE OF ALBAY, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.	"**[ REPUBLIC ACT NO. 6579, September 30, 1972 ]**
+
+ AN ACT INCREASING THE BED CAPACITY OF ZIGA MEMORIAL HOSPITAL IN THE MUNICIPALITY OF TABACO, PROVINCE OF ALBAY, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The bed capacity of Ziga Memorial Hospital in the Municipality of Tabaco, Province of Albay, hereby increased from twenty-five beds to fifty beds.
+
+ **Section 2.** The sum of three hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, to carry out the purpose of this Act during the fiscal year nineteen hundred seventy-two. Thereafter, such sum as may be necessary for the maintenance of the said number of beds shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Enacted without executive approval, September 30, 1972.
+"	success	Republic Act	The Act increases the bed capacity of Ziga Memorial Hospital from twenty-five to fifty beds and appropriates funds for its maintenance.	"[{""title"": ""Section 1."", ""summary"": ""The bed capacity of Ziga Memorial Hospital in the Municipality of Tabaco, Province of Albay, is increased from twenty-five beds to fifty beds.""}, {""title"": ""Section 2."", ""summary"": ""The sum of three hundred thousand pesos is authorized to be appropriated for the fiscal year 1972, and future sums for maintenance are to be included in the annual General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""This Act shall take effect upon its approval.""}]"	6579	September 30, 1972			To increase the bed capacity of Ziga Memorial Hospital and authorize the necessary funds for its operation and maintenance.	"[""Increase bed capacity from 25 to 50 beds"", ""Appropriation of 300,000 pesos for fiscal year 1972"", ""Future maintenance funds to be included in annual General Appropriations Act""]"		"[""Health"", ""Hospital"", ""Bed Capacity"", ""Appropriation""]"	"[""Ziga Memorial Hospital"", ""Tabaco"", ""Albay"", ""bed capacity"", ""appropriation""]"
+repacts:datasets/markdown/repacts/1972/ra_6580_1972.md	repacts	1972		datasets/markdown/repacts/1972/ra_6580_1972.md	ra_6580_1972	An Act converting Central Ilocos Sur Emergency Hospital in the Municipality of Narvacan, Province of Ilocos Sur, into a fifty-bed capacity general hospital to be known as Jacob-Laya General Hospital, and authorizing the appropriation of funds therefor.	"**[ REPUBLIC ACT NO. 6580, September 30, 1972 ]**
+
+ AN ACT CONVERTING CENTRAL ILOCOS SUR EMERGENCY HOSPITAL IN THE MUNICIPALITY OF NARVACAN, PROVINCE OF ILOCOS SUR, INTO A FIFTY-BED CAPACITY GENERAL HOSPITAL TO BE KNOWN AS JACOB-LAYA GENERAL HOSPITAL, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Central Ilocos Sur Emergency Hospital in the Municipality of Narvacan, Province of Ilocos Sur, is hereby converted into a general hospital to be known as the Jacob-Laya General Hospital. This hospital shall have a fifty-bed capacity.
+
+ **Section 2.** In addition to the appropriation of said hospital under Republic Act Numbered Three thousand seven hundred and seventy-seven, the sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of said hospital during the fiscal year nineteen hundred seventy-two and nineteen hundred seventy-three. Thereafter, the said amounts and such sums as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Enacted without executive approval, September 30, 1972.
+"	success	Republic Act	This act converts the Central Ilocos Sur Emergency Hospital into the Jacob-Laya General Hospital with a fifty-bed capacity and authorizes appropriation of funds for its operation and maintenance.	"[{""title"": ""Section 1. Conversion of Central Ilocos Sur Emergency Hospital to Jacob-Laya General Hospital"", ""summary"": ""The Central Ilocos Sur Emergency Hospital is converted into a general hospital named Jacob-Laya General Hospital with fifty-bed capacity.""}, {""title"": ""Section 2. Appropriation of Funds for Operation and Maintenance"", ""summary"": ""Authorizes appropriation of one hundred thousand pesos for operation and maintenance of the hospital for fiscal years 1972 and 1973, and includes future necessary funds in the General Appropriations Act.""}, {""title"": ""Section 3. Effective Date"", ""summary"": ""The act takes effect upon its approval.""}]"	6580	September 30, 1972			To convert the Central Ilocos Sur Emergency Hospital into a fifty-bed general hospital named Jacob-Laya General Hospital and to authorize appropriation of funds for its operation and maintenance.	"[""Conversion of the hospital to Jacob-Laya General Hospital"", ""Authorization of one hundred thousand pesos appropriation for operation and maintenance"", ""Inclusion of future necessary funds in the General Appropriations Act"", ""Act takes effect upon approval""]"		"[""Healthcare"", ""Hospital"", ""Ilocos Sur"", ""Republic Act""]"	"[""Central Ilocos Sur Emergency Hospital"", ""Jacob-Laya General Hospital"", ""fifty-bed capacity"", ""appropriation"", ""National Treasury"", ""General Appropriations Act""]"
+repacts:datasets/markdown/repacts/1972/ra_6581_1972.md	repacts	1972		datasets/markdown/repacts/1972/ra_6581_1972.md	ra_6581_1972	AN ACT INCREASING THE BED CAPACITY OF NORTHWESTERN LEYTE GENERAL HOSPITAL IN THE MUNICIPALITY OF CALUBIAN, PROVINCE OF LEYTE, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 6581, September 30, 1972 ]**
+
+ AN ACT INCREASING THE BED CAPACITY OF NORTHWESTERN LEYTE GENERAL HOSPITAL IN THE MUNICIPALITY OF CALUBIAN, PROVINCE OF LEYTE, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The bed capacity of Northwestern Leyte General Hospital in the Municipality of Calubian, Province of Leyte, is hereby increased from fifty beds to seventy-five beds.
+
+ **Section 2.** The additional sum of one hundred fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, to carry out the purpose of this Act during the fiscal year nineteen hundred seventy-three. Such sum as may be needed for its operation and maintenance in subsequent years shall be included in the annual General appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Enacted without executive approval, September 30, 1972.
+"	success	Republic Act	The act increases the bed capacity of Northwestern Leyte General Hospital from fifty to seventy-five beds and authorizes the appropriation of one hundred fifty thousand pesos for its operation and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""Increases the bed capacity of Northwestern Leyte General Hospital from fifty beds to seventy-five beds.""}, {""title"": ""Section 2."", ""summary"": ""Authorizes the appropriation of one hundred fifty thousand pesos from the National Treasury for the fiscal year 1973, with additional funds for operation and maintenance in subsequent years.""}, {""title"": ""Section 3."", ""summary"": ""The act shall take effect upon its approval.""}]"	6581	September 30, 1972			To increase hospital bed capacity and authorize funds for its operation and maintenance.	"[""Increase bed capacity from 50 to 75 beds"", ""Appropriation of 150,000 pesos for fiscal year 1973"", ""Provision for additional funds for future operation and maintenance"", ""Effectivity upon approval""]"		"[""Healthcare"", ""Hospital"", ""Funding""]"	"[""bed capacity"", ""Northwestern Leyte General Hospital"", ""Leyte"", ""fund appropriation"", ""Philippines"", ""Republic Act"", ""1972""]"

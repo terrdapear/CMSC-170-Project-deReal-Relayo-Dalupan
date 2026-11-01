@@ -1,0 +1,142 @@
+
+ **Section 2.** The first mayor, vice-mayor, and councilors of the new municipality shall be appointed by the President, subject to the confirmation of the Commission of Appointments, and shall hold office until their successors shall have been elected in the next general elections for local officials and shall have qualified.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1961.
+"	success	Republic Act	Establishes the municipality of Buldon in the province of Cotabato by separating specified barrios and sitios from the municipality of Parang and defining its boundaries.	"[{""title"": ""Section 1"", ""summary"": ""Separates specified barrios and sitios from Parang and defines the boundaries of the new municipality of Buldon.""}, {""title"": ""Section 2"", ""summary"": ""Provides for appointment of the first mayor, vice\u2011mayor, and councilors by the President, subject to confirmation by the Commission of Appointments.""}, {""title"": ""Section 3"", ""summary"": ""States that the Act shall take effect upon its approval.""}]"	3419	June 18, 1961			To create a new municipality of Buldon in Cotabato, thereby providing local governance and administrative autonomy for the area.	"[""Defines the barrios and sitios separated from Parang"", ""Describes detailed boundary lines of Buldon"", ""Specifies appointment process for first local officials"", ""Sets effectivity date of the Act""]"		"[""Municipality"", ""Local Government"", ""Cotabato"", ""Republic Act""]"	"[""Buldon"", ""Cotabato"", ""municipality"", ""boundary"", ""local officials""]"
+repacts:datasets/markdown/repacts/1961/ra_3420_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3420_1961.md	ra_3420_1961	An Act Creating the Municipality of Surallah in the Province of Cotabato	"**REPUBLIC ACT No. 3420**
+
+ **An Act Creating the Municipality of Surallah in the Province of Cotabato**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The barrios of Centrallah, Sinolon, New Dumangas, Veterans, Lake, Sebu, Lambongtong, Soluton, Lamian, Lamla-at and Lahit, including the sitios of Ladiana (West Base Camp), Colongolo, Tubi-Ala, Bayabas, Head Sapali, Taboltol, Nawan, Lacag, Kolon Bong, Laconon, Salacape, Bogaad, North Seguil, Tabanlid, Lambod, Bacnob, Lamcade, San Jose, Dalag, Talihik, Bac-alo, Datu Ligal, Datu Ba-oy, Lamlosok, Bacdolong, Tabawao, Tanon, Camoning, Head Ala, Lambilan, Maculan, Lamsogod, Buenavista, Canajay, Lamloko, San Francisco, Little Baguio, Lambosong, Tamsolon, Tacamsad, Lamhinik, Tucubo, Sla-Abon, Datal Kling, Head Sipaca, Lawa, South Kiantay, Siop, Moto Bantong, Moloy, Crossing Cabayo, Ila-elis, Datu Glam, Datu Godwino, Datu Ouel and Sala Banog, of Bañga, Cotabato, are separated from said municipality, and are constituted into a distinct and independent municipality to be known as the Municipality of Surallah, Province of Cotabato, with the seat of government at the present site of the Barrio of Centrallah, and the boundary of this new municipality shall be more particularly defined as follows:
+
+ From point Highway, road going to Compound Landing; thence to cemetery; thence follow farm road up to James Weavers lot and farm Weavers lot to boundary of Barrio 12 and Barrio 10; thence to Sapali River; going upward; thence from Highway to crossing Cabayo; thence going straight to the Crusher and Allah River, following the course of the river to the boundary of Isulan Municipality, as clearly indicated in the plan of the province.
+
+ **Section 2.** This Act shall take effect upon the elections of the new municipal officials in the general elections for local officials in November of nineteen hundred and sixty-three.
+
+ Approved: June 18, 1961.
+"	success	Republic Act	This act establishes the Municipality of Surallah by separating specified barrios from the municipality of Bañga in Cotabato Province, defines its boundaries, and sets its effectivity upon the local elections of 1963.	"[{""title"": ""Section 1."", ""summary"": ""Separates the listed barrios and sitios from the municipality of Ba\u00f1ga and constitutes them into the new Municipality of Surallah, with a detailed boundary description.""}, {""title"": ""Section 2."", ""summary"": ""States that the act takes effect upon the election of the new municipal officials in the 1963 general elections.""}]"	Republic Act No. 3420	June 18, 1961			To create a new municipality of Surallah in Cotabato Province, thereby organizing local governance and delineating its territorial boundaries.	"[""Creation of the Municipality of Surallah"", ""Separation of specified barrios and sitios"", ""Definition of municipal boundaries"", ""Effectivity upon the 1963 local elections""]"		"[""municipality creation"", ""local government"", ""cotabato""]"	"[""Surallah"", ""Cotabato"", ""municipality"", ""Republic Act"", ""1961""]"
+repacts:datasets/markdown/repacts/1961/ra_3421_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3421_1961.md	ra_3421_1961	An Act Creating the Municipality of Parubcan in the Province of Camarines Sur	"**REPUBLIC ACT No. 3421**
+
+ **An Act Creating the Municipality of Parubcan in the Province of Camarines Sur**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The barrios of Panicuan, Dalhogan, Bagong Sirang, Maagnas, Lamon, Malobago, Ayugao, Pagsangahan, Pili, Cagnipa, Baligian, Bulalacao, Bitaogan and Parubcan are separated from the Municipality of Lagonoy, Province of Camarines Sur, and are constituted into a distinct and independent municipality to be known as the Municipality of Parubcan, same province, with the seat of government to be located at the site of the present barrio of Parubcan.
+
+ **Section 2.** This Act shall take effect upon the election of the new municipal officials in the general elections for local officials in November of nineteen hundred and sixty-three.
+
+ Approved: June 18, 1961.
+"	success	Republic Act	The act establishes the Municipality of Parubcan by separating several barrios from Lagonoy, Camarines Sur, and sets the seat of government at the site of the present barrio of Parubcan.	"[{""title"": ""Section 1"", ""summary"": ""Separates the barrios of Panicuan, Dalhogan, Bagong Sirang, Maagnas, Lamon, Malobago, Ayugao, Pagsangahan, Pili, Cagnipa, Baligian, Bulalacao, Bitaogan and Parubcan from the Municipality of Lagonoy and constitutes them as the Municipality of Parubcan.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon the election of the new municipal officials in the general elections for local officials in November 1963.""}]"	3421	June 18, 1961			To create a new independent municipality by separating barrios from an existing municipality.	"[""Creation of the Municipality of Parubcan"", ""Effective upon election of municipal officials""]"		"[""Municipality"", ""Local Government"", ""Camarines Sur""]"	"[""municipality"", ""Parubcan"", ""Camarines Sur"", ""creation"", ""government""]"
+repacts:datasets/markdown/repacts/1961/ra_3422_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3422_1961.md	ra_3422_1961	An Act Creating the Municipality of Bugho in the Province of Leyte	"**REPUBLIC ACT No. 3422**
+
+ **An Act Creating the Municipality of Bugho in the Province of Leyte**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The barrios of Bugho, Binolho, Andres Bonifacio, Pinocawan, Calsada-Casulongan, Calsada-Batug, Pongon, Inayupan, Rizal, Malitbogay, Odiong, Guindapunan, Naliwatan, Caraye, Manlilisid, Olhay, Tambis, Comatin, Picas Norte, Sta. Cruz, Cangcayang, Abuyogay and Caranhog, and the sitios of Talisayan, Manarug, Responde, Laray, Dap-dap, Samoyaw, Malbog and Oguisan, all in the Municipality of Abuyog, Province of Leyte, are separated from the said municipality and constituted into a separate and independent municipality in the said province to be known as the Municipality of Bugho, with the seat of government at the present site of the barrio of Bugho.
+
+ **Section 2.** This Act shall take effect upon the elections of the new municipal officials in the general elections for local officials in November of nineteen hundred and sixty-three.
+
+ Approved: June 18, 1961.
+"	success	Local Government	Establishes the Municipality of Bugho in Leyte by separating various barrios and sitios from the Municipality of Abuyog.	"[{""title"": ""Section 1"", ""summary"": ""Separates the barrios and sitios of Abuyog listed in the act to constitute the independent Municipality of Bugho with its seat at the barrio of Bugho.""}, {""title"": ""Section 2"", ""summary"": ""The act takes effect upon the elections of the new municipal officials in the general elections for local officials in November 1963.""}]"	3422	June 18, 1961			To create a new municipality in the province of Leyte.	"[""Separates barrios and sitios from Abuyog to form the Municipality of Bugho."", ""Establishes Bugho\u2019s seat of government at the barrio of Bugho."", ""Effective upon the November 1963 local elections.""]"		"[""Local Government"", ""Municipality Creation"", ""Leyte""]"	"[""Bugho"", ""Leyte"", ""municipality"", ""local government"", ""Abuyog"", ""barangay"", ""sitio"", ""separation""]"
+repacts:datasets/markdown/repacts/1961/ra_3423_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3423_1961.md	ra_3423_1961	An Act Creating the Municipal District of Carabao Island in the Province of Romblon	"**REPUBLIC ACT No. 3423**
+
+ **An Act Creating the Municipal District of Carabao Island in the Province of Romblon**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The barrios of Agcogon, Busay, Lanas and Pinamihagan are separated from the Municipality of Santa Fe, Province of Romblon, and are constituted into a distinct and independent municipal district of the same province, to be known as the Municipal District of Carabao Island. The seat of government of the municipal district shall be in the present site of the barrio of Agcogon.
+
+ **Section 2.** This Act shall take effect upon the election of the new municipal officials in the general elections for local officials in November of nineteen hundred and sixty-three.
+
+ Approved: June 18, 1961.
+"	success	Act	Establishes the Municipal District of Carabao Island by separating four barrios from the Municipality of Santa Fe, Romblon. The seat of government is in Agcogon.	"[{""title"": ""Section 1"", ""summary"": ""Separates the barrios of Agcogon, Busay, Lanas, and Pinamihagan from Santa Fe and creates them as an independent municipal district.""}, {""title"": ""Section 2"", ""summary"": ""Specifies that the act takes effect upon the election of new municipal officials in the November 1963 local elections.""}]"	3423	June 18, 1961			To create a new municipal district in Romblon and provide for its governance structure.	"[""Separates barrios of Agcogon, Busay, Lanas, and Pinamihagan from Santa Fe."", ""Creates an independent municipal district named Carabao Island."", ""Sets seat of government at Agcogon."", ""Effectivity upon election of municipal officials in November 1963.""]"		"[""Municipal District"", ""Romblon"", ""Local Government""]"	"[""Carabao Island"", ""municipal district"", ""Romblon"", ""local government"", ""barrio""]"
+repacts:datasets/markdown/repacts/1961/ra_3424_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3424_1961.md	ra_3424_1961	An Act Changing the Name of the Atimonan Emergency Hospital to Do’na Marta Memorial Hospital	"**REPUBLIC ACT No. 3424**
+
+ **An Act Changing the Name of the Atimonan Emergency Hospital to Doña Marta Memorial Hospital**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** In recognition of the invaluable services rendered to the people of the municipality of Atimonan, Province of Quezon, by the late Doña Marta Montes Guinto, a former civic and spiritual leader of the said municipality, the name of the Atimonan Emergency Hospital is changed to Doña Marta Memorial Hospital.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1961.
+"	success	Republic Act	An act renaming the Atimonan Emergency Hospital to Do’na Marta Memorial Hospital in honor of Do’na Marta Montes Guinto.	"[{""title"": ""Section 1."", ""summary"": ""Renames the Atimonan Emergency Hospital to Do\u2019na Marta Memorial Hospital in recognition of the services rendered by the late Do\u2019na Marta Montes Guinto.""}, {""title"": ""Section 2."", ""summary"": ""The act takes effect upon its approval.""}]"	3424	June 18, 1961			To honor the late Do’na Marta Montes Guinto by renaming the municipal hospital.	"[""Renames the Atimonan Emergency Hospital to Do\u2019na Marta Memorial Hospital."", ""The act takes effect upon approval.""]"		"[""Hospital"", ""Renaming"", ""Quezon""]"	"[""Atimonan"", ""Do\u2019na Marta Montes Guinto"", ""Hospital"", ""Renaming""]"
+repacts:datasets/markdown/repacts/1961/ra_3425_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3425_1961.md	ra_3425_1961	AN ACT CREATING THE MUNICIPALITY OF BATARASA IN THE PROVINCE OF PALAWAN	"**REPUBLIC ACT No. 3425**
+
+ AN ACT CREATING THE MUNICIPALITY OF BATARASA IN THE PROVINCE OF PALAWAN
+
+ **Section 1.** The barrios of Inognong, Marangas, Bonobono, Malihod, Bulalakaw, Tarusan, Iwahig, Iganigang, Sarong, Akayan, Rio Tuba, Sumbiling, Sapa, Malitub, Puring, Buliluyan and Tahod in the Municipality of Brooke's Point, Province of Palawan, are separated from said municipality and constituted into a distinct and independent municipality, to be known as the Municipality of Batarasa, same province. The seat of government of the new municipality shall be in the present site of the barrio of Marangas.
+
+ **Section 2.** This Act shall take effect upon the election of the new municipal officials in the general elections for local officials in November of nineteen hundred and sixty-three.
+
+ Enacted, without Executive approval, June 18, 1961.
+"	success	Republic Act	Establishes the municipality of Batarasa in Palawan, formed from several barrios of Brooke's Point, with its seat at Marangas, effective upon the 1963 local elections.	"[{""title"": ""Section 1"", ""summary"": ""Separates the barrios of Inognong, Marangas, Bonobono, Malihod, Bulalakaw, Tarusan, Iwahig, Iganigang, Sarong, Akayan, Rio Tuba, Sumbiling, Sapa, Malitub, Puring, Buliluyan and Tahod from Brooke's Point and constitutes them into the independent municipality of Batarasa, with its seat of government in Marangas.""}, {""title"": ""Section 2"", ""summary"": ""The Act shall take effect upon the election of the new municipal officials in the general elections for local officials in November 1963.""}]"	3425	June 18, 1961			To create the municipality of Batarasa in Palawan.	"[""Separation of specified barrios from Brooke's Point"", ""Creation of the independent municipality of Batarasa"", ""Designation of Marangas as the seat of government"", ""Effectivity upon the 1963 local elections""]"		"[""Municipality"", ""Local Government"", ""Palawan"", ""Republic Act""]"	"[""municipality"", ""Batarasa"", ""Palawan"", ""creation"", ""local government""]"
+repacts:datasets/markdown/repacts/1961/ra_3426_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3426_1961.md	ra_3426_1961	An Act Creating the Municipality of Magsaysay in the Province of Palawan	"**REPUBLIC ACT No. 3426**
+
+ **An Act Creating the Municipality of Magsaysay in the Province of Palawan**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The barrios of Los Angeles, Rizal, Lucbuan, Igabas, Imilod, Balaguen, Danawan, Cocoro, Patonga, Tagawayan Island, Siparay Island and Canipo in the Municipality of Cuyo, Province of Palawan, are separated from said municipality and constituted into a distinct and independent municipality, to be known as the Municipality of Magsaysay. The seat of government of the new municipality shall be the present site of the barrio of Danawan.
+
+ **Section 2.** This Act shall take effect upon the election of the new municipal officials in the general elections for local officials in November of nineteen hundred and sixty-three.
+
+ Approved: June 18, 1961.
+"	success	Republic Act	This act creates the Municipality of Magsaysay in the Province of Palawan by separating specific barrios from the Municipality of Cuyo and establishes its seat at Danawan, taking effect upon the election of new municipal officials in November 1963.	"[{""title"": ""Section 1"", ""summary"": ""The barrios of Los Angeles, Rizal, Lucbuan, Igabas, Imilod, Balaguen, Danawan, Cocoro, Patonga, Tagawayan Island, Siparay Island and Canipo are separated from the Municipality of Cuyo and constituted into the Municipality of Magsaysay, with its seat of government at Danawan.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon the election of the new municipal officials in the general elections for local officials in November of 1963.""}]"	3426	June 18, 1961			To create the Municipality of Magsaysay in Palawan.	"[""Creation of the Municipality of Magsaysay"", ""Seat of government at Danawan"", ""Effectivity upon election of municipal officials in November 1963""]"		"[""municipality"", ""local government"", ""Palawan""]"	"[""Magsaysay"", ""Palawan"", ""municipality"", ""Republic Act 3426""]"
+repacts:datasets/markdown/repacts/1961/ra_3427_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3427_1961.md	ra_3427_1961	An Act Creating the Municipal District of Quezon in the Province of Nueva Vizcaya	"**REPUBLIC ACT No. 3427**
+
+ **An Act Creating the Municipal District of Quezon in the Province of Nueva Vizcaya**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** All the barrios and sitios of the Magat River including Daresbes, Boliwao, Caliat, Dariba, Mayabbuang, Madiangat and Nalub-unan in the Municipality of Solano, Province of Nueva Vizcaya, are separated from said municipality, and constituted into a distinct and independent municipal district to be known as the Municipal District of Quezon. The Magat River is the boundary between the Municipality of Solano and this municipal district. Unless otherwise provided by two-thirds vote of all the members of the Municipal Council of said municipal district within one year from its creation, the seat of government of the new Municipal District of Quezon shall be in the present site of the barrio of Caliat.
+
+ **Section 2.** This Act shall take effect upon the election of the new municipal officials in the general elections of the municipal officials in November, nineteen hundred and sixty-three.
+
+ Approved: June 18, 1961.
+"	success	Republic Act	The act establishes the Municipal District of Quezon by separating several barrios and sitios along the Magat River from the Municipality of Solano, Nueva Vizcaya, and designates Caliat as its seat of government unless otherwise decided by the municipal council.	"[{""title"": ""Section 1"", ""summary"": ""Separates the barrios and sitios of the Magat River, including Daresbes, Boliwao, Caliat, Dariba, Mayabbuang, Madiangat, and Nalub-unan, from Solano and creates the Municipal District of Quezon, with Caliat as the seat unless changed by a two-thirds vote of the municipal council within one year.""}, {""title"": ""Section 2"", ""summary"": ""The act takes effect upon the election of new municipal officials in the November 1963 general elections.""}]"	3427	June 18, 1961			Establishment of a new municipal district within Nueva Vizcaya to promote local governance.	"[""Creation of the Municipal District of Quezon"", ""Separation of specified barrios and sitios from Municipality of Solano"", ""Designation of Caliat as the seat of government unless altered by council vote"", ""Effectivity upon election of municipal officials in November 1963""]"		"[""Municipal District"", ""Local Government"", ""Nueva Vizcaya"", ""Magat River""]"	"[""Quezon"", ""Nueva Vizcaya"", ""Municipality"", ""Magat River"", ""Local Governance"", ""Republic Act 3427""]"
+repacts:datasets/markdown/repacts/1961/ra_3428_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3428_1961.md	ra_3428_1961	AN ACT CONVERTING THE ANGADANAN HIGH SCHOOL IN THE MUNICIPALITY OF ANGADANAN, PROVINCE OF ISABELA, INTO A VOCATIONAL HIGH SCHOOL OF THE RODRIGUEZ VOCATIONAL HIGH SCHOOL OF MANILA TYPE TO BE KNOWN AS THE ANGADANAN VOCATIONAL HIGH SCHOOL AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.	"**REPUBLIC ACT No. 3428**
+
+ AN ACT CONVERTING THE ANGADANAN HIGH SCHOOL IN THE MUNICIPALITY OF ANGADANAN, PROVINCE OF ISABELA, INTO A VOCATIONAL HIGH SCHOOL OF THE RODRIGUEZ VOCATIONAL HIGH SCHOOL OF MANILA TYPE TO BE KNOWN AS THE ANGADANAN VOCATIONAL HIGH SCHOOL AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.
+
+ **Section 1.** The Angadanan High School in the Municipality of Angadanan, Province of Isabela, is hereby converted into a vocational high school of the Rodriguez Vocational High School of Manila type to be known as the Angadanan Vocational High School. The said school shall be under the supervision of the Bureau of Public Schools and subject to the provisions of the School Law. Courses of secondary level shall be offered in the said school.
+
+ **Section 2.** The sum of one hundred fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of said school during the fiscal year nineteen hundred sixty-two. Such sums as may be necessary for its operation and maintenance in subsequent years shall be included in the annual General Appropriation Acts.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Enacted, without Executive approval, June 18, 1961.
+"	success	Republic Act	This act converts Angadanan High School into a vocational high school under the Rodriguez Vocational High School of Manila type, names it Angadanan Vocational High School, and appropriates funds for its operation and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""The Angadanan High School is converted into a vocational high school of the Rodriguez Vocational High School of Manila type, to be known as the Angadanan Vocational High School, under the supervision of the Bureau of Public Schools and subject to the School Law.""}, {""title"": ""Section 2."", ""summary"": ""An appropriation of one hundred fifty thousand pesos is authorized for the operation and maintenance of the new school during the fiscal year 1962, with additional funds to be included in subsequent General Appropriation Acts.""}, {""title"": ""Section 3."", ""summary"": ""The act shall take effect upon its approval.""}]"	3428	June 18, 1961			To convert Angadanan High School into a vocational high school and provide necessary funding for its operation, thereby enhancing vocational education in the region.	"[""Conversion of Angadanan High School into a vocational high school"", ""Appropriation of PHP 150,000 for fiscal year 1962"", ""Funding authorization for subsequent years"", ""Effectivity upon approval""]"		"[""Education"", ""Vocational"", ""School"", ""Funding""]"	"[""Angadanan High School"", ""Vocational"", ""Rodriguez Vocational High School"", ""Isabela"", ""Appropriation"", ""School Law"", ""Bureau of Public Schools""]"
+repacts:datasets/markdown/repacts/1961/ra_3429_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3429_1961.md	ra_3429_1961	An Act Converting the Dumalag Regional High School in the Municipality of Dumalag, Province of Capiz, into a Regional Vocational High School to be Known as the Capiz Regional Vocational High School, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 3429**
+
+ **An Act Converting the Dumalag Regional High School in the Municipality of Dumalag, Province of Capiz, into a Regional Vocational High School to be Known as the Capiz Regional Vocational High School, and Authorizing the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The Dumalag Regional High School in the Municipality of Dumalag, Province of Capiz, is hereby converted into a regional vocational high school to be known as the Capiz Regional Vocational High School. Said school shall be under the supervision of the Bureau of Public Schools and subject to the provisions of the School Law. Courses of secondary level shall be offered in the said school.
+
+ **Section 2.** The sum of two hundred fifty thousand pesos is hereby authorized to be appropriated, our of any funds in the National Treasury not otherwise appropriated, for the operation of the said school during the fiscal year nineteen hundred sixty-two. The necessary funds for its maintenance in subsequent years shall be included in the annual General Appropriation Acts.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1961.
+"	success	Education	Converts Dumalag Regional High School into Capiz Regional Vocational High School and appropriates 250,000 pesos for its operation and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""Converts Dumalag Regional High School into Capiz Regional Vocational High School under BPS supervision and provides secondary level courses.""}, {""title"": ""Section 2."", ""summary"": ""Authorizes appropriation of 250,000 pesos for the fiscal year 1962 and includes maintenance funds in subsequent General Appropriation Acts.""}, {""title"": ""Section 3."", ""summary"": ""Act takes effect upon its approval.""}]"	3429	June 18, 1961			To convert the Dumalag Regional High School into a regional vocational high school and provide appropriate funding for its operation and maintenance.	"[""Conversion of the school to a vocational high school"", ""Appropriation of 250,000 pesos for 1962 fiscal year"", ""Effectivity upon approval""]"		"[""Education"", ""Vocational"", ""School"", ""Funding""]"	"[""Dumalag"", ""Capiz"", ""Vocational"", ""High School"", ""Funding"", ""Appropriation"", ""Education""]"
+repacts:datasets/markdown/repacts/1961/ra_3430_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3430_1961.md	ra_3430_1961	An Act to Establish a Fresh Water Fishery School in the Barrio of Pangul, Municipality of Solana, Province of Cagayan, and to Authorize the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 3430**
+
+ **An Act to Establish a Fresh Water Fishery School in the Barrio of Pangul, Municipality of Solana, Province of Cagayan, and to Authorize the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the supervision of the Director of Public Schools, a fresh water fishery school in the barrio of Pangul, Municipality of Solana, Province of Cagayan, to be known as the Solana Fresh Water Fishery School.
+
+ **Section 2.** The Director of Public Schools shall, with the approval of the Secretary of Education, issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said school during the fiscal year nineteen hundred sixty-two. Such sums as may be needed for the same purpose in subsequent years shall be included in the annual General Appropriation Act.
+
+ **Section 4.** This Act shall take effect upon its approval.

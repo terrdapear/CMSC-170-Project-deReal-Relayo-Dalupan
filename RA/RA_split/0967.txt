@@ -1,0 +1,180 @@
+repacts:datasets/markdown/repacts/1965/ra_4286_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4286_1965.md	ra_4286_1965	An Act Converting the Romblon National Agricultural School in the Municipality of Odiongan, Province of Romblon, into a College and Authorizing the Appropriations of Funds Therefor	"**REPUBLIC ACT No. 4286**
+
+ An Act Converting the Romblon National Agricultural School in the Municipality of Odiongan, Province of Romblon, into a College and Authorizing the Appropriations of Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The Romblon National Agricultural School in the Municipality of Odiongan, Province of Romblon, is hereby converted into a college, to be known as the Romblon National Agricultural College, which shall be under the supervision of the Director of Vocational Education. The said college shall offer, in addition to its present curriculum, such collegiate courses as the said Director may determine.
+
+ **Section 2.** In addition to the appropriation for the Romblon National Agricultural School in the General Appropriations Act, the sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the conversion, operation and maintenance of the college herein created during the fiscal year nineteen hundred sixty-six. Such sums as may be necessary for its maintenance and operation in subsequent years shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1965.
+"	success	Republic Act	The Republic Act converts the Romblon National Agricultural School into a college and authorizes appropriation of ₱100,000 for its conversion, operation, and maintenance during the fiscal year 1966.	"[{""title"": ""Section 1."", ""summary"": ""The Romblon National Agricultural School is converted into Romblon National Agricultural College, supervised by the Director of Vocational Education, and will offer additional collegiate courses as determined by the Director.""}, {""title"": ""Section 2."", ""summary"": ""An appropriation of one hundred thousand pesos is authorized for the conversion, operation, and maintenance of the college during FY 1966, with future appropriations to be included in the General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""The Act takes effect upon its approval.""}]"	4286	June 19, 1965			Convert the Romblon National Agricultural School into a college and authorize appropriations for its operation.	"[""Conversion of Romblon National Agricultural School into Romblon National Agricultural College"", ""Authorization of \u20b1100,000 appropriation for conversion, operation, and maintenance during FY 1966"", ""Supervision under Director of Vocational Education""]"		"[""Education"", ""Agriculture"", ""College"", ""Appropriations""]"	"[""Romblon"", ""National Agricultural School"", ""College"", ""Appropriation"", ""Vocational Education"", ""June 1965""]"
+repacts:datasets/markdown/repacts/1965/ra_4287_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4287_1965.md	ra_4287_1965	An Act Creating the Barrio of Tagumpay in the Municipality of Roxas, Province of Palawan	"**REPUBLIC ACT No. 4287**
+
+ An Act Creating the Barrio of Tagumpay in the Municipality of Roxas, Province of Palawan
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Buayan in the Municipality of Roxas, Province of Palawan, is hereby converted into a distinct and independent barrio of said municipality, to be known as the barrio of Tagumpay.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1965.
+"	success	Local Government	An act that converts the sitio of Buayan in Roxas, Palawan into an independent barrio named Tagumpay, effective upon approval on June 19, 1965.	"[{""title"": ""Section 1."", ""summary"": ""The sitio of Buayan in the Municipality of Roxas, Province of Palawan, is hereby converted into a distinct and independent barrio of said municipality, to be known as the barrio of Tagumpay.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	4287	June 19, 1965			To create the barrio of Tagumpay in Roxas, Palawan.	"[""Conversion of the sitio of Buayan into barrio of Tagumpay."", ""Act takes effect upon its approval.""]"		"[""Republic Act"", ""Local Government"", ""Barangay"", ""Palawan"", ""Roxas""]"	"[""barrio"", ""Tagumpay"", ""Roxas"", ""Palawan"", ""Republic Act"", ""1965""]"
+repacts:datasets/markdown/repacts/1965/ra_4288_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4288_1965.md	ra_4288_1965	An Act Providing for the Establishment of an Animal Breeding Station in the Municipality of Solana, Province of Cagayan	"**REPUBLIC ACT No. 4288**
+
+ An Act Providing for the Establishment of an Animal Breeding Station in the Municipality of Solana, Province of Cagayan
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There is hereby established, under the supervision of the Director of Animal Industry, an animal breeding station in the Municipality of Solana, Province of Cagayan.
+
+ **Section 2.** The Director of Animal Industry shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said animal breeding station; said sum to be spent by the Director of Animal Industry, subject to the approval of the Secretary of Agriculture and Natural Resources, for the purchase of breeding animals, supplies and materials; for the construction of buildings, sheds, corrals and other structures; for the establishment of a water system; for the salaries and wages of personnel and such other expenses as may be necessary to carry out the purposes of this Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1965.
+"	success	Republic Act	Establishes an animal breeding station in Solana, Cagayan, authorizes funding of one hundred thousand pesos, and empowers the Director of Animal Industry to issue rules and regulations for its operation.	"[{""title"": ""Section 1"", ""summary"": ""Establishes an animal breeding station in Solana, Cagayan under the supervision of the Director of Animal Industry.""}, {""title"": ""Section 2"", ""summary"": ""Authorizes the Director of Animal Industry to issue necessary rules and regulations to carry out the purpose of the Act.""}, {""title"": ""Section 3"", ""summary"": ""Authorizes the appropriation of one hundred thousand pesos for establishment, operation, and maintenance of the station, including construction, supplies, and personnel.""}, {""title"": ""Section 4"", ""summary"": ""Specifies that the Act takes effect upon its approval.""}]"	4288	June 19, 1965			To establish an animal breeding station for livestock development in Solana, Cagayan.	"[""Establishment of animal breeding station"", ""Funding authorized"", ""Director of Animal Industry empowered to issue rules"", ""Act takes effect upon approval""]"		"[""Animal Breeding"", ""Agriculture"", ""Cagayan"", ""Republic Act""]"	"[""animal breeding station"", ""Cagayan"", ""Director of Animal Industry"", ""funding"", ""regulation""]"
+repacts:datasets/markdown/repacts/1965/ra_4289_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4289_1965.md	ra_4289_1965	An Act Changing the Name of the Municipal District of Carabao Island in the Province of Romblon to Municipal District of San Jose	"**REPUBLIC ACT No. 4289**
+
+ An Act Changing the Name of the Municipal District of Carabao Island in the Province of Romblon to Municipal District of San Jose
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The Municipal District of Carabao Island in the Province of Romblon shall hereafter be known for all intents and purposes as the Municipal Districts of San Jose.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1965.
+"	success	Republic Act	The act changes the name of the Municipal District of Carabao Island, Romblon, to San Jose, effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The Municipal District of Carabao Island in the Province of Romblon shall hereafter be known for all intents and purposes as the Municipal Districts of San Jose.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	4289	June 19, 1965			Change the name of a municipal district to reflect local identity.	"[""The Municipal District of Carabao Island shall be renamed to San Jose."", ""The act takes effect upon approval.""]"		"[""name change"", ""municipal district"", ""Romblon""]"	"[""Carabao Island"", ""San Jose"", ""Romblon"", ""municipal district""]"
+repacts:datasets/markdown/repacts/1965/ra_4290_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4290_1965.md	ra_4290_1965	An Act Providing for the Establishment, Operation, and Maintenance of a School of Fisheries in the Municipality of Tagkawayan, Province of Quezon, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 4290**
+
+ An Act Providing for the Establishment, Operation, and Maintenance of a School of Fisheries in the Municipality of Tagkawayan, Province of Quezon, and Authorizing the Appropriation of Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the supervision of the Director of Vocational Education, a school of fisheries in the Municipality of Tagkawayan, Province of Quezon, to be known as Tagkawayan School of Fisheries.
+
+ **Section 2.** The Commissioner of Fisheries shall be the ex-officio dean of Tagkawayan School of Fisheries serving in such capacity without additional compensation. Subject to the approval of the Secretary of Agriculture and Natural Resources, the Commissioner of Fisheries is hereby authorized to detail to said school such officers and employees of the Fisheries Commission as may be needed, and to employ fishing experts for the purpose of giving instruction to the students therein.
+
+ **Section 3.** The Secretary of Education shall promulgate such rules and regulations as may be necessary to carry out the provisions of this Act.
+
+ **Section 4.** There is hereby authorized to be appropriated the sum of three hundred thousand pesos out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation, and maintenance of the said school during the fiscal year nineteen hundred sixty-five. Thereafter, such sums as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 5.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1965.
+"	success	Republic Act	An act establishing the Tagkawayan School of Fisheries, designating the Commissioner of Fisheries as its dean, authorizing rules by the Secretary of Education, and appropriating funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""Establish a school of fisheries under the supervision of the Director of Vocational Education, named Tagkawayan School of Fisheries.""}, {""title"": ""Section 2."", ""summary"": ""Commissioner of Fisheries serves as ex\u2011officio dean, authorized to detail officers and employ fishing experts with approval of the Secretary of Agriculture and Natural Resources.""}, {""title"": ""Section 3."", ""summary"": ""Secretary of Education shall promulgate rules and regulations necessary to carry out the provisions of this act.""}, {""title"": ""Section 4."", ""summary"": ""Appropriate three hundred thousand pesos for establishment, operation, and maintenance during the fiscal year 1965; subsequent necessary sums to be included in the General Appropriations Act.""}, {""title"": ""Section 5."", ""summary"": ""Act shall take effect upon its approval.""}]"	4290	June 19, 1965			Establish a fisheries school in Tagkawayan, Quezon, and provide funding for its operation and maintenance.	"[""Establishment of Tagkawayan School of Fisheries"", ""Designation of Commissioner of Fisheries as dean"", ""Authorization for additional staff and experts"", ""Rules promulgated by Secretary of Education"", ""Appropriation of 300,000 pesos for FY 1965""]"		"[""Education"", ""Fisheries"", ""Tagkawayan"", ""Quezon"", ""School""]"	"[""Education"", ""Fisheries"", ""Tagkawayan"", ""Quezon"", ""School""]"
+repacts:datasets/markdown/repacts/1965/ra_4291_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4291_1965.md	ra_4291_1965	An Act Creating the Positions of Four Assistant City Fiscals for the City of Dagupan, Amending for the Purpose Section Twenty-Four of the Charter of Said City	"**REPUBLIC ACT No. 4291**
+
+ An Act Creating the Positions of Four Assistant City Fiscals for the City of Dagupan, Amending for the Purpose Section Twenty-Four of the Charter of Said City
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The first paragraph of Section twenty-four of Republic Act Numbered One hundred seventy, otherwise known as the Charter of the City of Dagupan is hereby amended to read as follows:
+
+ > ""Sec. 24. *The City Fiscal.His assistants.His powers, duties and compensation.* The law department shall consist of the city fiscal who shall be the chief legal adviser of the city and four assistants who shall be known, respectively, as the first, second, third and fourth assistant city fiscals. Said assistant city fiscals shall be appointed by the President of the Philippines, with the consent of the Commission on Appointments. The city fiscal shall have the following powers and duties;""
+
+ **Section 2.** This Act shall take effect on January second, nineteen hundred and sixty-six.
+
+ Approved: June 19, 1965.
+"	success	Republic Act	Amends Section 24 of the Dagupan City Charter to create four assistant city fiscals, establish their appointment process, and define their powers and duties.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 24 of the Dagupan City Charter to include four assistant city fiscals and outlines their appointment by the President with consent of the Commission on Appointments, as well as their powers and duties.""}, {""title"": ""Section 2"", ""summary"": ""States that the Act shall take effect on January 2, 1966.""}]"	4291	June 19, 1965			To create positions for assistant city fiscals and amend the city charter accordingly.	"[""Creation of four assistant city fiscals"", ""Appointment by President with consent of Commission on Appointments"", ""Definition of powers and duties""]"	Section 24 of the City Charter of Dagupan	"[""Local Government"", ""City Charter"", ""Fiscal Management"", ""Dagupan""]"	"[""assistant city fiscals"", ""city fiscal"", ""Dagupan"", ""charter amendment"", ""fiscal powers"", ""Commission on Appointments""]"
+repacts:datasets/markdown/repacts/1965/ra_4292_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4292_1965.md	ra_4292_1965	An Act Changing the Name of Infanta Emergency Hospital in the Municipality of Infanta, Province of Quezon, to Claro M. Recto Memorial Hospital	"**REPUBLIC ACT No. 4292**
+
+ An Act Changing the Name of Infanta Emergency Hospital in the Municipality of Infanta, Province of Quezon, to Claro M. Recto Memorial Hospital
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Infanta Emergency Hospital in the Municipality of Infanta, Province of Quezon, is hereby changed to Claro M. Recto Memorial Hospital.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1965.
+"	success	Act	This act changes the name of Infanta Emergency Hospital to Claro M. Recto Memorial Hospital and specifies its effectivity upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The name of Infanta Emergency Hospital in the Municipality of Infanta, Province of Quezon, is hereby changed to Claro M. Recto Memorial Hospital.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	4292	June 19, 1965			To change the name of Infanta Emergency Hospital to Claro M. Recto Memorial Hospital.	"[""Change of name of Infanta Emergency Hospital to Claro M. Recto Memorial Hospital."", ""Act shall take effect upon approval.""]"		"[""Health"", ""Hospital"", ""Name Change""]"	"[""Infanta"", ""Quezon"", ""Claro M. Recto Memorial Hospital"", ""Hospital"", ""Name Change""]"
+repacts:datasets/markdown/repacts/1965/ra_4293_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4293_1965.md	ra_4293_1965	Act to Create the Barrio of Malaya in the Municipality of Marikina, Province of Rizal	"**REPUBLIC ACT No. 4293**
+
+ An Act to Create the Barrio of Malaya in the Municipality of Marikina, Province of Rizal
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The areas covering Paliparan Subdivision, Better Homes, Inc., and abandoned Manila Railroad tracks, within the Municipality of Marikina, Province of Rizal, are hereby constituted into a barrio in said municipality, to be known as Barrio of Malaya.
+
+ The boundaries of said barrio shall be as follows:
+
+ On the North, the 14-meter wide road and an imaginary line going West to East; on the East, the first creek near Barrio Parang; on the South, the Marikina townsite, including the hospital site and property of Roberto Tuason; and on the West, the Sto. Niño (Lazaro Estate, Manotok Subdivision), Lamuan (Malanday, Manotok, Inc.) Concepcion (Manotok Subdivision), and property of Gregorio San Diego, and others.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1965.
+"	success	Act	This Act creates the Barrio of Malaya in Marikina, defines its boundaries, and sets its effective date.	"[{""title"": ""Section 1."", ""summary"": ""Defines the boundaries and constituting area of the new barrio.""}, {""title"": ""Section 2."", ""summary"": ""Effective date upon approval.""}]"	4293	June 19, 1965			Establish a new barrio named Malaya within Marikina municipality.	"[""Creation of Barrio of Malaya"", ""Specification of its boundaries"", ""Effective date upon approval""]"		"[""Republic Act"", ""Local Government"", ""Barrio""]"	"[""Malaya"", ""Marikina"", ""Rizal"", ""barrio"", ""boundaries""]"
+repacts:datasets/markdown/repacts/1965/ra_4294_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4294_1965.md	ra_4294_1965	An Act Changing the Name of Pantalan Barrio School in the Municipality of Carles, Province of Iloilo, to Tiburcio Betita Memorial School	"**REPUBLIC ACT No. 4294**
+
+ An Act Changing the Name of Pantalan Barrio School in the Municipality of Carles, Province of Iloilo, to Tiburcio Betita Memorial School
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Pantalan Barrio School in the Municipality of Carles, Province of Iloilo, is hereby changed to Tiburcio Betita Memorial School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1965.
+"	success	Education	This act changes the name of Pantalan Barrio School to Tiburcio Betita Memorial School.	"[{""title"": ""Section 1"", ""summary"": ""Changes the name of Pantalan Barrio School to Tiburcio Betita Memorial School.""}, {""title"": ""Section 2"", ""summary"": ""Act shall take effect upon its approval.""}]"	4294	June 19, 1965			To rename the Pantalan Barrio School to honor Tiburcio Betita.	"[""The school is renamed to Tiburcio Betita Memorial School.""]"		"[""Education"", ""School"", ""Renaming""]"	"[""Pantalan Barrio School"", ""Tiburcio Betita"", ""Iloilo"", ""Carles"", ""School renaming""]"
+repacts:datasets/markdown/repacts/1965/ra_4295_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4295_1965.md	ra_4295_1965	An Act Converting San Juan (Cabalian) National Vocational High School in the Municipality of San Juan, Province of Southern Leyte, into a Comprehensive High School to be Known as San Juan Comprehensive High School, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 4295**
+
+ An Act Converting San Juan (Cabalian) National Vocational High School in the Municipality of San Juan, Province of Southern Leyte, into a Comprehensive High School to be Known as San Juan Comprehensive High School, and Authorizing the Appropriation of Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** San Juan (Cabalian) National Vocational High School in the Municipality of San Juan, Province of Southern Leyte, is hereby converted into a comprehensive high school to be known as San Juan Comprehensive High School.
+
+ **Section 2.** The sum of fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the conversion, operation and maintenance of said school during the fiscal year nineteen hundred and sixty-six. Thereafter, such sum as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1965.
+"	success	Republic Act	This act converts the San Juan (Cabalian) National Vocational High School into San Juan Comprehensive High School and appropriates funds for its conversion, operation, and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""Converts San Juan (Cabalian) National Vocational High School into San Juan Comprehensive High School.""}, {""title"": ""Section 2."", ""summary"": ""Appropriates fifty thousand pesos for conversion, operation, and maintenance during fiscal year 1966; future amounts to be included in the annual General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""The act takes effect upon approval.""}]"	4295	June 19, 1965			Conversion of a national vocational high school into a comprehensive high school and appropriation of funds for its operation and maintenance.	"[""Conversion of San Juan (Cabalian) National Vocational High School to San Juan Comprehensive High School"", ""Appropriation of fifty thousand pesos for conversion, operation, and maintenance during fiscal year 1966"", ""Subsequent funding to be included in annual General Appropriations Act""]"		"[""Education"", ""School Conversion"", ""Funding""]"	"[""San Juan"", ""Cabalian"", ""Southern Leyte"", ""Comprehensive High School"", ""Appropriation"", ""National Vocational High School"", ""Fiscal Year 1966""]"
+repacts:datasets/markdown/repacts/1965/ra_4296_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4296_1965.md	ra_4296_1965	An Act Providing for the Establishment of an Emergency Hospital in the Municipality of Taft, Province of Samar, to be Known as Taft Emergency Hospital, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 4296**
+
+ An Act Providing for the Establishment of an Emergency Hospital in the Municipality of Taft, Province of Samar, to be Known as Taft Emergency Hospital, and Authorizing the Appropriation of Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There is hereby established, under the supervision of the Department of Health, an emergency hospital in the Municipality of Taft, Province of Samar, to be known as Taft Emergency Hospital.
+
+ **Section 2.** The Secretary of Health shall appoint such personnel as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** Such sum as may be necessary to carry out the purpose of this Act is hereby authorized to be appropriated annually out of any funds in the National Treasury not otherwise appropriated.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1965.
+"	success	Republic Act	This act establishes the Taft Emergency Hospital in Samar and authorizes its appropriation.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of the hospital under the supervision of the Department of Health.""}, {""title"": ""Section 2."", ""summary"": ""Appointment of personnel to carry out the purpose of the act.""}, {""title"": ""Section 3."", ""summary"": ""Authorization of appropriation of necessary funds annually from the National Treasury.""}, {""title"": ""Section 4."", ""summary"": ""Effectivity of the act upon its approval.""}]"	4296	June 19, 1965			To establish an emergency hospital in Taft, Samar, and authorize its funding.	"[""Establishment of Taft Emergency Hospital"", ""Appointment of personnel by the Secretary of Health"", ""Annual appropriation of funds from National Treasury"", ""Effectivity upon approval""]"		"[""Health"", ""Emergency Hospital"", ""Samar"", ""Public Health""]"	"[""emergency hospital"", ""Taft"", ""Samar"", ""Department of Health"", ""appropriation""]"
+repacts:datasets/markdown/repacts/1965/ra_4297_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4297_1965.md	ra_4297_1965	An Act Changing the Name of Camaysa Primary School in the Barrio of Dapdap, Municipality of Tayabas, Province of Quezon, to Dapdap Primary School	"**REPUBLIC ACT No. 4297**
+
+ An Act Changing the Name of Camaysa Primary School in the Barrio of Dapdap, Municipality of Tayabas, Province of Quezon, to Dapdap Primary School
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Camaysa Primary School in the Barrio of Dapdap, Municipality of Tayabas, Province of Quezon, is hereby changed to Dapdap Primary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1965.
+"	success	Republic Act	This act changes the name of Camaysa Primary School to Dapdap Primary School.	"[{""title"": ""Section 1."", ""summary"": ""The name of Camaysa Primary School in the Barrio of Dapdap, Municipality of Tayabas, Province of Quezon, is hereby changed to Dapdap Primary School.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	4297	June 19, 1965			Change the name of Camaysa Primary School to Dapdap Primary School in Tayabas, Quezon.	"[""Name change of Camaysa Primary School to Dapdap Primary School"", ""Act shall take effect upon approval""]"		"[""Education"", ""School Renaming"", ""Quezon""]"	"[""Camaysa"", ""Dapdap"", ""Primary School"", ""Renaming"", ""Quezon""]"
+repacts:datasets/markdown/repacts/1965/ra_4298_1965.md	repacts	1965		datasets/markdown/repacts/1965/ra_4298_1965.md	ra_4298_1965	An Act Authorizing the Appropriation of Three Hundred Thousand Pesos for the Operation and Maintenance of Cabalian National Vocational High School	"**REPUBLIC ACT No. 4298**
+
+ An Act Authorizing the Appropriation of Three Hundred Thousand Pesos for the Operation and Maintenance of Cabalian National Vocational High School
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sum of three hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of Cabalian National Vocational High School during the fiscal year nineteen hundred and sixty-six. Thereafter, the necessary funds for the same purpose shall be included in the annual General Appropriations Act.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1965.
+"	success	Republic Act	This law authorizes the appropriation of ₱300,000 from the National Treasury for the operation and maintenance of Cabalian National Vocational High School during the fiscal year 1966 and mandates its inclusion in the annual General Appropriations Act thereafter.	"[{""title"": ""Section 1"", ""summary"": ""Appropriates \u20b1300,000 for the operation and maintenance of Cabalian National Vocational High School during FY 1966 and requires inclusion in future general appropriations.""}, {""title"": ""Section 2"", ""summary"": ""The act takes effect upon its approval.""}]"	4298	June 19, 1965			To authorize the appropriation of funds for the operation and maintenance of Cabalian National Vocational High School.	"[""Appropriates \u20b1300,000 for the operation and maintenance of Cabalian National Vocational High School during FY 1966"", ""Funds to be included in the annual General Appropriations Act thereafter"", ""The act takes effect upon approval""]"		"[""Appropriation"", ""Education"", ""Cabalian National Vocational High School"", ""Fiscal Year 1966""]"	"[""Cabalian"", ""National Vocational High School"", ""appropriation"", ""operation"", ""maintenance"", ""fiscal year 1966"", ""1965"", ""Republic Act 4298""]"

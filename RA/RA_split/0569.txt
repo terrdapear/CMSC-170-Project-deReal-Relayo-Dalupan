@@ -1,0 +1,142 @@
+
+ **Section 2.** This Act shall take effect upon the date the funds authorized herein to be appropriated are provided for.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	An act establishing the Bukig National Rural High School in Aparri, Cagayan, and authorizing the appropriation of funds for its establishment, operation, and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""Establishes the Bukig National Rural High School under the supervision of the Director of Public Schools.""}, {""title"": ""Section 2."", ""summary"": ""Authorizes the President to reserve necessary public lands in Aparri for the school and farm site.""}, {""title"": ""Section 3."", ""summary"": ""Appropriates fifty thousand pesos for the school's establishment, operation, and maintenance for FY 1960, with provisions for future years.""}, {""title"": ""Section 4."", ""summary"": ""The act takes effect upon availability of the authorized funds.""}]"	2395	June 21, 1959			To establish a national rural high school in Aparri, Cagayan, and authorize necessary funds for its operation.	"[""Establishment of Bukig National Rural High School"", ""Reservation of public lands for school site"", ""Appropriation of fifty thousand pesos for FY 1960"", ""Effective upon provision of authorized funds""]"		"[""Education"", ""Rural Schools"", ""Cagayan"", ""Bukig National Rural High School""]"	"[""National Rural High School"", ""Aparri"", ""Cagayan"", ""Bukig"", ""Appropriation"", ""Public Lands"", ""Director of Public Schools"", ""President""]"
+repacts:datasets/markdown/repacts/1959/ra_2410_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2410_1959.md	ra_2410_1959	An Act to Convert the Gamu High School in the Province of Isabela into a Rural High School to be Known as the Gamu Rural High School	"**REPUBLIC ACT No. 2410**
+
+ **An Act Converting the Sta. Barbara High School in the Municipality of Sta. Barbara, Province of Iloilo, into a National Vocational High School and Authorizing the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The Sta. Barbara High School in the Municipality of Sta. Barbara, Province of Iloilo, is hereby converted into a national vocational high school to be known as the Sta. Barbara National Vocational High School.
+
+ **Section 2.** The Secretary of Education is hereby authorized to reorganize said school accordingly.
+
+ **Section 3.** The sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of said school for the fiscal year nineteen hundred sixty. Thereafter, the necessary sum for the said purpose shall be included in the annual General Appropriation Act.
+
+ **Section 4.** This Act shall take effect upon the date the funds authorized herein to be appropriated are provided for.
+
+ Approved: June 21, 1959.
+"	success	Education	This act converts Gamu High School into Gamu Rural High School and authorizes the appropriation of funds for its operation and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""The Gamu High School in the Province of Isabela is hereby converted into a rural high school to be known as the Gamu Rural High School.""}, {""title"": ""Section 2."", ""summary"": ""The sum of one hundred thousand pesos is authorized to be appropriated for the operation and maintenance of the school for the school year 1959-1960, with future sums to be included in the annual General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""This act shall take effect upon the date the authorized funds are provided.""}]"	2396	June 21, 1959			To convert Gamu High School into a rural high school and provide funding for its operation and maintenance.	"[""Conversion of Gamu High School into Gamu Rural High School"", ""Authorization of 100,000 pesos for operation and maintenance"", ""Act takes effect upon provision of authorized funds""]"		"[""Education"", ""Rural School"", ""Appropriation""]"	"[""Gamu"", ""Isabela"", ""High School"", ""Rural"", ""Appropriation"", ""1959""]"
+repacts:datasets/markdown/repacts/1959/ra_2411_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2411_1959.md	ra_2411_1959	An Act granting the Monserrat Broadcasting System, Incorporated, a temporary permit to construct, maintain and operate radio broadcasting and television stations in the Philippines.	"**REPUBLIC ACT No. 2411**
+
+ **An Act Converting the Janiuay High School in the Municipality of Janiuay, Province of Iloilo, into a National Vocational High School, and Authorizing the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The Janiuay High School in the Municipality of Janiuay, Province of Iloilo, is hereby converted into a national vocational high school to be known as the Janiuay National Vocational High School.
+
+ **Section 2.** The Secretary of Education is hereby authorized to reorganize said school accordingly.
+
+ **Section 3.** The sum of two hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of said school for the fiscal year nineteen hundred sixty. Thereafter, the necessary sum for the said purpose shall be included in the annual General Appropriation Act.
+
+ **Section 4.** This Act shall take effect upon the date the funds authorized herein to be appropriated are provided for.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	Republic Act No. 2397 amends RA 1272 to grant the Monserrat Broadcasting System, Incorporated a temporary permit to construct, maintain and operate radio and television stations in the Philippines. The permit is subject to conditions such as commencement within six months, completion within two years, provision of public service time, prohibition of obscene or false broadcasts, and the right of the grantee to cut off speeches inciting treason or containing indecent content. The Act also allows the government to take over stations and removes prior censorship requirements.	"[{""title"": ""Section 1"", ""summary"": ""Amends Sections 1, 4 and 6 of RA 1272 to issue a temporary permit to Monserrat Broadcasting System, with conditions on commencement, completion, public service provision, prohibition of obscene or false broadcasts, and the right to cut off treasonous or indecent content.""}, {""title"": ""Section 2"", ""summary"": ""Amends the title of the Act to \""An Act granting the Monserrat Broadcasting System, Incorporated, a temporary permit to construct, maintain and operate radio broadcasting and television stations in the Philippines.\""""}, {""title"": ""Section 3"", ""summary"": ""Specifies that the Act shall take effect upon its approval.""}]"	2397	June 21, 1959			To amend RA 1272 to grant a temporary permit for Monserrat Broadcasting System to operate radio and television stations under specified conditions.	"[""Temporary permit granted to Monserrat Broadcasting System."", ""Permit void if construction not begun within six months from approval."", ""Completion required within two years from approval."", ""Permit holder must provide adequate public service time."", ""Broadcasts of obscene or false information prohibited."", ""Permit holder may cut off speech that incites treason, rebellion or sedition, or is indecent."", ""Government may take over stations with all equipment at cost less depreciation."", ""No prior censorship required for broadcasts except when violating law or private rights.""]"	Republic Act No. 1272 (An Act granting the Monserrat Broadcasting System, Incorporated a temporary permit to construct, maintain and operate radio broadcasting stations in the Philippines).	"[""Broadcasting"", ""Television"", ""Radio"", ""Temporary Permit"", ""Amendment"", ""Republic Act""]"	"[""Monserrat Broadcasting System"", ""temporary permit"", ""radio broadcasting"", ""television stations"", ""public service"", ""obscene"", ""false information"", ""government takeover"", ""censorship"", ""treason"", ""rebellion"", ""sedition""]"
+repacts:datasets/markdown/repacts/1959/ra_2412_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2412_1959.md	ra_2412_1959	An Act to Convert the Sanchez Mira High School in the Municipality of Sanchez Mira, the Itawes High School in the Municipality of Tuao, and the Abulog High School in the Municipality of Abulog, All in the Province of Cagayan, into National Rural and Vocational High Schools to be Known, Respectively, as the Sanchez Mira National Rural and Vocational High School, the Itawes National Rural and Vocational High School and the Abulog National Rural and Vocational High School and to Authorize the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 2412**
+
+ **An Act Converting the Alimodian High School in the Municipality of Alimodian, Province of Iloilo, into a National Vocational High School and Authorizing the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The Alimodian High School in the Municipality of Alimodian, Province of Iloilo, is hereby converted into a national vocational high school to be known as the Alimodian National Vocational High School.
+
+ **Section 2.** The Secretary of Education is hereby authorized to reorganize said school accordingly.
+
+ **Section 3.** The sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of said school for the fiscal year nineteen hundred sixty. Thereafter, the necessary sum for the said purpose shall be included in the annual General Appropriation Acts.
+
+ **Section 4.** This Act shall take effect upon the date the funds authorized herein to be appropriated are provided for.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This Act converts three high schools in Cagayan into national rural and vocational high schools and appropriates ₱100,000 for their operation and maintenance.	"[{""title"": ""Section 1"", ""summary"": ""Conversion of Sanchez Mira, Itawes, and Abulog high schools into national rural and vocational high schools and authorizing the Director of Public Schools to reorganize them.""}, {""title"": ""Section 2"", ""summary"": ""Authorization of \u20b1100,000 for the operation and maintenance of the converted schools.""}, {""title"": ""Section 3"", ""summary"": ""The Act takes effect upon the provision of the authorized funds.""}]"	2398	June 21, 1959			To enhance rural and vocational education in the province of Cagayan by converting existing high schools into national institutions and providing necessary funding.	"[""Conversion of three high schools into national rural and vocational high schools"", ""Authorization of \u20b1100,000 appropriation for operation and maintenance"", ""Effectivity upon funding provision""]"		"[""Education"", ""Rural"", ""Vocational"", ""High Schools"", ""Cagayan"", ""Philippines Law""]"	"[""Sanchez Mira"", ""Itawes"", ""Abulog"", ""National Rural and Vocational High School"", ""appropriation"", ""funds"", ""1959""]"
+repacts:datasets/markdown/repacts/1959/ra_2413_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2413_1959.md	ra_2413_1959	An Act Converting the Calinog Regional High School in the Province of Iloilo into an Agricultural-Industrial High School to be Known as the Calinog Agricultural-Industrial High School	"**REPUBLIC ACT No. 2413**
+
+ **An Act Authorizing the Appropriation of the Sum of One Hundred Fifty Thousand Pesos for the Operation and Maintenance of the Alcala Rural High School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sum of one hundred fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of the Alcala Rural High School during the fiscal year nineteen hundred sixty. Such sum as may be necessary for its operation and maintenance in subsequent years shall be included in the annual General Appropriation Act.
+
+ **Section 2.** This Act shall take effect upon the date the funds authorized herein to be appropriated are provided for.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act converts Calinog Regional High School into Calinog Agricultural-Industrial High School and appropriates funds for its operation and construction.	"[{""title"": ""Section 1."", ""summary"": ""Converts Calinog Regional High School into Calinog Agricultural-Industrial High School.""}, {""title"": ""Section 2."", ""summary"": ""Appropriates 200,000 pesos for operation, maintenance, site acquisition, construction, and equipment, and mandates inclusion of future operating funds in the General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""Act takes effect upon availability of authorized funds.""}]"	2399	June 21, 1959			To convert an existing regional high school into an agricultural-industrial high school and secure funding for its operation and development.	"[""Conversion of school status"", ""Appropriation of 200,000 pesos"", ""Future funding inclusion in General Appropriations"", ""Effectivity upon fund availability""]"		"[""education"", ""school"", ""agriculture"", ""Philippines""]"	"[""Calinog"", ""Iloilo"", ""Agricultural-Industrial High School"", ""appropriation"", ""1959""]"
+repacts:datasets/markdown/repacts/1959/ra_2414_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2414_1959.md	ra_2414_1959	REPUBLIC ACT No. 2400	"**REPUBLIC ACT No. 2414**
+
+ **An Act Authorizing the Appropriation of the Sum of Two Hundred Thousand Pesos for the Operation and Maintenance of the Aparri Vocational High School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sum of two hundred thousand pesos is authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of the Aparri Vocational High School during the fiscal year nineteen hundred sixty. Such sum as may be necessary for its operation and maintenance in subsequent years shall be included in the annual General Appropriation Acts.
+
+ **Section 2.** This Act shall take effect upon the date the funds authorized herein to be appropriated are provided for.
+
+ Approved: June 21, 1959.
+"	success	Healthcare	An act establishing a twenty‑five bed general hospital in the Municipality of Cajidiocan, Romblon, authorizing appropriation of funds and granting the Secretary of Health authority to promulgate necessary rules.	"[{""title"": ""Section 1"", ""summary"": ""Creation of a twenty\u2011five bed general hospital, the Sibuyan Hospital, under the Bureau of Hospitals with the site provided by the Municipal Council in consultation with the Director of Hospitals.""}, {""title"": ""Section 2"", ""summary"": ""The Secretary of Health is authorized to promulgate rules and regulations necessary to implement the act.""}, {""title"": ""Section 3"", ""summary"": ""Authorization of fifty thousand pesos for the maintenance and operation of the hospital during the fiscal year ending June 30, 1960, with conditions on release of funds and future appropriations.""}, {""title"": ""Section 4"", ""summary"": ""The act takes effect upon the provision of the authorized funds.""}]"	2400	June 21, 1959			To establish and maintain a general hospital in Cajidiocan, Romblon, ensuring adequate healthcare facilities for the local population.	"[""Establishment of a 25\u2011bed general hospital (Sibuyan Hospital)"", ""Authorization of 50,000 pesos for its operation and maintenance"", ""Secretary of Health to promulgate necessary rules"", ""Conditional appropriation based on availability of a suitable building""]"		"[""hospital"", ""healthcare"", ""Romblon"", ""Cajidiocan""]"	"[""hospital"", ""Sibuyan Hospital"", ""Bureau of Hospitals"", ""Secretary of Health"", ""appropriation""]"
+repacts:datasets/markdown/repacts/1959/ra_2415_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2415_1959.md	ra_2415_1959	An Act Repealing Republic Act Numbered Nineteen Hundred Seventy-Five	"**REPUBLIC ACT No. 2415**
+
+ **An Act to Establish in the Barrio of La Granja, Municipality of La Carlota, Province of Negros Occidental, a Branch of the College of Agriculture of the University of the Philippines, and Authorizing the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There is hereby established in the barrio of La Granja, Municipality of La Carlota, Province of Negros Occidental, a branch of the College of Agriculture of the University of the Philippines, which shall offer courses as may be determined by the said college of agriculture.
+
+ **Section 2.** The personnel of the branch shall be appointed as members of the staff of the College of Agriculture of the University of the Philippines, on detail in the said branch: *Provided,* That the personnel shall draw their salaries directly from the budget of the branch.
+
+ **Section 3.** There is hereby authorized to be appropriated, out of the funds in the National Treasury not otherwise appropriated, the sum of one million pesos to carry out the provisions of this Act.
+
+ **Section 4.** This Act shall take effect upon the date the funds authorized herein to be appropriated are provided for.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	Repeals Republic Act No. 1975, which granted a franchise to Amador Dayola and R. Mulet for an electric light, heat, and power system in the Municipality of Panabo, Province of Davao.	"[{""title"": ""Section 1"", ""summary"": ""Repeals Republic Act No. 1975, which granted the franchise to Amador Dayola and R. Mulet for an electric light, heat, and power system in Panabo, Davao.""}, {""title"": ""Section 2"", ""summary"": ""The Act shall take effect upon its approval.""}]"	2401	June 21, 1959			Repeal of Republic Act No. 1975	"[""Repeal of Republic Act No. 1975, which granted a franchise for electric light, heat and power in Panabo, Davao.""]"	Republic Act No. 1975	"[""Repeal"", ""Electric Utility"", ""Franchise""]"	"[""repeal"", ""electric light"", ""heat"", ""power"", ""Panabo"", ""Davao"", ""Amador Dayola"", ""R. Mulet""]"
+repacts:datasets/markdown/repacts/1959/ra_2416_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2416_1959.md	ra_2416_1959	An Act to Grant the Municipality of Panabo, Province of Davao, a Franchise for an Electric Light, Heat and Power System	"**REPUBLIC ACT No. 2416**
+
+ **An Act Converting the Bulacan National Agricultural High School into a National Agricultural School to be Known as the Bulacan National Agricultural School, and Authorizing the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The Bulacan National Agricultural High School in the Municipality of San Ildefonso, Province of Bulacan, is hereby converted into a national agricultural school of the Pampanga National Agricultural College type, to be known as the Bulacan National Agricultural School. The Secretary of Education is hereby empowered to reorganize the said school accordingly.
+
+ Upon the organization of the Bulacan National Agricultural School, the assets, liabilities, personnel, equipment and records of the Bulacan National Agricultural High School shall stand transferred to the Bulacan National Agricultural School.
+
+ **Section 2.** The sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of the said school of the fiscal year nineteen hundred fifty-nine to nineteen hundred sixty. Thereafter, the necessary sum for the operation of the said school shall be included in the annual General Appropriation Acts.
+
+ **Section 3.** This Act shall take effect upon the date the funds authorized herein to be appropriated are provided for.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	Provides a 25‑year franchise to the Municipality of Panabo in Davao for constructing, operating, and maintaining an electric light, heat, and power system.	"[{""title"": ""Section 1"", ""summary"": ""Grants the Municipality of Panabo a 25\u2011year franchise to construct, maintain, and operate an electric light, heat and power plant for sale within the municipality.""}, {""title"": ""Section 2"", ""summary"": ""Authorizes the National Power Corporation to negotiate and transact rates for electric heat and power if the grantee purchases from NPC.""}, {""title"": ""Section 3"", ""summary"": ""Allows the government to take over the system, requiring the grantee to surrender the franchise and return equipment at cost.""}, {""title"": ""Section 4"", ""summary"": ""The Act becomes effective upon approval.""}]"	2402	June 21, 1959			To grant a franchise for electric utilities to the Municipality of Panabo.	"[""25\u2011year franchise granted to Municipality of Panabo"", ""Authority to construct, maintain, and operate an electric plant"", ""NPC authorized to negotiate rates if electricity purchased"", ""Government may take over the system and equipment"", ""Act takes effect upon approval""]"	Act Numbered Thirty‑six hundred and thirty‑six (Act No. 336) and Commonwealth Act No. 100	"[""Electricity"", ""Franchise"", ""Municipality"", ""Davao""]"	"[""panabo"", ""electric light"", ""heat"", ""power"", ""franchise"", ""municipality"", ""davao"", ""electricity"", ""public utilities""]"
+repacts:datasets/markdown/repacts/1959/ra_2417_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2417_1959.md	ra_2417_1959	An Act Converting the Siocon High School in the Municipality of Siocon, Province of Zamboanga del Norte, into a National Vocational High School to be Known as the Siocon National Vocational High School, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 2417**
+
+ **An Act to Amend the Title and Section One of Republic Act Numbered Nineteen Hundred and Fifty-Two, Entitled ""An Act to Establish the Roxas Memorial School of Arts and Trades in the Municipality of Ibajay, Province of Aklan, and to Authorize the Appropriation of Funds Therefor""**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The title of Republic Act Numbered Nineteen hundred and fifty-two is amended to read as follows:
+
+ > ""An Act to establish the Roxas Memorial School of Arts and Trades in the Municipality of Kalibo, Province of Aklan, and to authorize the appropriation of funds therefor.""
+
+ **Section 2.** Section one of the same Act is amended to read as follows:
+
+ > **Sec. 1**. The Director of Public Schools is hereby authorized and directed to establish a national school of arts and trades of the Philippine School of Arts and Trades type in the Municipality of Kalibo, Province of Aklan, which shall be called Roxas Memorial School of Arts and Trades. The Secretary of Education is hereby empowered to organize the said school and to issue such rules and regulations as may be necessary to carry out the purpose of this Act. Courses of junior college and secondary levels shall be offered in the said school.""
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Education	Converts Siocon High School into Siocon National Vocational High School and appropriates funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""Converts Siocon High School into a national vocational high school under the supervision of the Bureau of Public Schools.""}, {""title"": ""Section 2."", ""summary"": ""Appropriates one hundred fifty thousand pesos for the operation and maintenance of the school during fiscal year 1960.""}, {""title"": ""Section 3."", ""summary"": ""The act takes effect upon the availability of the authorized funds.""}]"	2403	June 21, 1959			To convert a high school into a national vocational high school and authorize funding for its operation.	"[""Conversion of Siocon High School to national vocational high school"", ""Appropriation of 150,000 pesos for FY1960"", ""Effectiveness upon availability of funds""]"		"[""Education"", ""Vocational"", ""School"", ""Funding"", ""Republic Act""]"	"[""Siocon National Vocational High School"", ""Bureau of Public Schools"", ""General Appropriation Acts"", ""National Treasury"", ""Fiscal year 1960""]"
+repacts:datasets/markdown/repacts/1959/ra_2418_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2418_1959.md	ra_2418_1959	An Act Providing for the Maintenance and Operation of a Hospital in the Municipality of Sanchez Mira, Province of Cagayan, and Authorizing the Appropriation of the Sum of Fifty Thousand Pesos for the Purpose	"**REPUBLIC ACT No. 2418**
+
+ **An Act Creating the Municipality of Quezon in the Province of Isabela**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The barrios and sitios of Minagbag, Settlement No. I, Malalao, Estrada, Pasurong, Cauayan, PODCO, Abut, Lepanto, Manga, Barucboc Norte, Turod and Maragato are hereby separated from the Municipality of Malig, Province of Isabela, and constituted into a new municipality in the same province to be known as the Municipality of Quezon, with the seat of government at the site of the present Barrio Settlement No. I.
+
+ **Section 2.** The first mayor, vice-mayor and councilors of the new municipality shall be appointed by the President of the Philippines, with the consent of the Commission on Appointments, and shall hold office until their successors shall have been elected and shall have qualified.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Health	Establishes the Northern Cagayan Hospital in Sanchez Mira, Cagayan, and authorizes the appropriation of ₱50,000 for its maintenance and operation.	"[{""title"": ""Section 1"", ""summary"": ""Establishes a 25-bed general hospital, Northern Cagayan Hospital, in Sanchez Mira, Cagayan, with the site provided by the Municipal Council in consultation with the Director of Hospitals.""}, {""title"": ""Section 2"", ""summary"": ""The Secretary of Health shall promulgate necessary rules and regulations to implement the Act.""}, {""title"": ""Section 3"", ""summary"": ""Appropriates \u20b150,000 for maintenance and operation of the hospital; funds released only after the Secretary certifies a suitable building; future operational costs to be included in General Appropriation Acts.""}, {""title"": ""Section 4"", ""summary"": ""The Act takes effect when the authorized funds are provided.""}]"	2404	June 21, 1959			To provide for the establishment, maintenance, and operation of a hospital in Sanchez Mira, Cagayan and to authorize the appropriation of funds for its operation.	"[""Establishment of Northern Cagayan Hospital"", ""Appropriation of \u20b150,000 for hospital maintenance and operation"", ""Secretary of Health to promulgate rules"", ""Effective upon provision of authorized funds""]"		"[""Health"", ""Hospital"", ""Cagayan"", ""Appropriation"", ""Public Health""]"	"[""hospital"", ""maintenance"", ""operation"", ""Cagayan"", ""Sanchez Mira"", ""Secretary of Health"", ""appropriation"", ""National Treasury"", ""General Appropriation Acts""]"
+repacts:datasets/markdown/repacts/1959/ra_2419_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2419_1959.md	ra_2419_1959	An Act to Convert the Bucay High School into a Rural High School to be Known as the Bucay High School, Authorizing the Appropriation of Funds Therefor, and for Other Purposes	"**REPUBLIC ACT No. 2419**

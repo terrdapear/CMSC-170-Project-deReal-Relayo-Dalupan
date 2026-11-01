@@ -1,0 +1,143 @@
+>
+>  ""*Provided,*That the Secretary of Justice shall, with the approval of the President, fix the salary of each justice of the peace within the above limitations, taking into consideration, among other things, the number of cases docketed in his court and the accessibility and means of transportation available between the different municipalities under his jurisdiction: *Provided,* further, That when a justice of the peace is designated to act temporarily in one or more municipalities or districts in addition to his own municipality or district, he shall be entitled to the salary of his municipality or district, plus thirtyper centumof the salary for each municipality or district in which he is temporarily designated to act.
+>
+>  ""Section 83.Salaries of the judges of the municipal courts of chartered cities and of the justices of the peace in provincial capitals.The annual salary of each of the judges of the municipal courts of the following chartered cities shall be:
+>
+>  ""(a) Of the City of Manila, seven thousand two hundred pesos;
+>
+>  ""(b) Of Quezon City, and the cities of Baguio, Cebu, Pasay and Iloilo, six thousand six hundred pesos;
+>
+>  ""(c) Of the cities of Bacolod and San Pablo, four thousand eight hundred pesos;
+>
+>  ""(d) Of the cities of Cavite, Davao, Ormoc, Dagupan, Lipa and Zamboanga, and of other cities, four thousand two hundred pesos.
+>
+>  ""The annual salaries of the justices of the peace of the capitals of the provinces shall be as follows:
+>
+>  ""Of the justices of the peace of the capitals of first class ""A"" provinces, four thousand eight hundred pesos each; of the justices of the peace of the capitals of first class ""B"" provinces, four thousand two hundred pesos each; of the justices of the peace of the capitals of first class provinces, three thousand nine hundred sixty pesos each; of the justices of the peace of the capitals of other provinces, three thousand three hundred sixty pesos each:*Provided,* however,That the judge of the municipal court of a city which is at the same time the capital of a province shall be considered as the justice of the peace of the capital of such province.""
+
+ **Section 2.** Add a new section to be known as Sec. 98-A of Republic Act Numbered Two hundred ninety-six read as follows:
+
+ > ""Section 98-A.Vacation and sick leaves of judges of municipal courts and justices of the peace.Judges of municipal courts and justices of the peace shall be entitled annually to fifteen days vacation and fifteen days sick leaves with pay which they shall enjoy in accordance with a rotation plan to be laid by the Executive Judge of the Court of First Instance of the city or district to which said judge of the municipal court or justice of the peace pertains.""
+
+ **Section 3.** Such sum as may be necessary to carry out the purposes of this Act shall be included in the annual General Appropriations Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved, May 5, 1953.
+"	success	Republic Act	Amends sections 82 and 83 of RA 296, adds new section 98-A to increase salaries of justices of the peace and municipal judges, and provides vacation and sick leave benefits with pay.	"[{""title"": ""Section 1"", ""summary"": ""Amends sections 82 and 83 of RA 296 to specify new salary ranges for justices of the peace and municipal judges, and conditions for salary fixation.""}, {""title"": ""Section 2"", ""summary"": ""Adds new section 98-A to provide 15 days vacation and 15 days sick leave with pay for judges and justices of the peace.""}, {""title"": ""Section 3"", ""summary"": ""Provides appropriation for implementation of the new salary and leave provisions.""}, {""title"": ""Section 4"", ""summary"": ""States that the Act shall take effect upon its approval.""}]"	RA 843	1953-05-05			To amend and increase salaries and benefits for justices of the peace and municipal judges, and to provide vacation and sick leave with pay.	"[""Amendment of sections 82 and 83 of RA 296"", ""Addition of section 98-A for vacation and sick leave"", ""Salary scales for justices of the peace and municipal judges"", ""Provision for salary fixation by Secretary of Justice""]"	Republic Act No. 296	"[""Amendment"", ""Salary"", ""Judiciary"", ""Public Service"", ""Leave Policy""]"	"[""justices of the peace"", ""municipal courts"", ""vacation"", ""sick leave"", ""salary"", ""RA 296""]"
+repacts:datasets/markdown/repacts/1953/ra_844_1953.md	repacts	1953		datasets/markdown/repacts/1953/ra_844_1953.md	ra_844_1953	AN ACT REQUIRING NAUTICAL OR MARITIME SCHOOLS TO HAVE AT LEAST ONE TRAINING SHIP EACH.	"**[ REPUBLIC ACT NO. 844, May 07, 1953 ]**
+
+ AN ACT REQUIRING NAUTICAL OR MARITIME SCHOOLS TO HAVE AT LEAST ONE TRAINING SHIP EACH.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** All nautical or maritime schools shall have at least one training ship each.
+
+ No nautical or maritime school shall be recognized by the Government unless it has at least one ship for the practical training of its students:*Provided,* however,That any existing nautical or maritime school already recognized by the government shall provide itself with a training ship within the period of six months from the date of approval of this Act, and the failure of such school to provide itself with a training ship within said period shall result in the cancellation of its government recognition.
+
+ The Secretary of Education is authorized to exempt any nautical or maritime school from the requirements of this Act if he is satisfied that such school has an arrangement nth any shipping enterprise whereby its students may be given practical training in the ship or ships of such shipping enterprise.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, May 7, 1953.
+"	success	Republic Act	Mandates that all nautical or maritime schools have at least one training ship for practical training; existing schools must provide one within six months or risk cancellation; Secretary of Education may exempt schools with arrangements for practical training with a shipping enterprise; Act takes effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""All nautical or maritime schools shall have at least one training ship. Existing recognized schools must acquire a training ship within six months; failure to comply may lead to cancellation of government recognition. The Secretary of Education may exempt schools that have arrangements with shipping enterprises for practical training.""}, {""title"": ""Section 2."", ""summary"": ""The Act shall take effect upon its approval.""}]"	844	1953-05-07			To ensure practical maritime education by mandating training ships for nautical and maritime schools.	"[""All nautical or maritime schools must have at least one training ship."", ""Existing recognized schools must acquire a training ship within six months."", ""Failure to comply may result in cancellation of government recognition."", ""Secretary of Education may exempt schools with arrangements for practical training with shipping enterprises."", ""The Act takes effect upon approval.""]"		"[""Education"", ""Maritime"", ""Training"", ""Ship"", ""Regulation""]"	"[""nautical schools"", ""maritime schools"", ""training ship"", ""practical training"", ""Secretary of Education"", ""cancellation"", ""exemption""]"
+repacts:datasets/markdown/repacts/1953/ra_845_1953.md	repacts	1953		datasets/markdown/repacts/1953/ra_845_1953.md	ra_845_1953	AN ACT TO CONVERT THE NUEVA ECIJA TRADE SCHOOL IN THE CITY OF CABANATUAN INTO A REGIONAL SCHOOL OF ARTS AND TRADES, TO BE KNOWN AS THE CENTRAL LUZON SCHOOL OF ARTS AND TRADES, AND TO AUTHORIZE THE APPROPRIATION OF FUNDS FOR THE PURPOSE.	"**[ REPUBLIC ACT NO. 845, May 08, 1953 ]**
+
+ AN ACT TO CONVERT THE NUEVA ECIJA TRADE SCHOOL IN THE CITY OF CABANATUAN INTO A REGIONAL SCHOOL OF ARTS AND TRADES, TO BE KNOWN AS THE CENTRAL LUZON SCHOOL OF ARTS AND TRADES, AND TO AUTHORIZE THE APPROPRIATION OF FUNDS FOR THE PURPOSE.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Nueva Ecija Trade School in the City of Cabanatuan is hereby converted into a regional school of arts and trades, to be known as the Central Luzon School of Arts and Trades. The said school shall be under the supervision of the Bureau of Public Schools and subject to the provisions of the School Law. Courses of junior collegiate and secondary levels shall be offered in the said school.
+
+ **Section 2.** The sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the expenses of the said school during the fiscal year ending June thirtieth, nineteen hundred and fifty-three, including the purchase of a suitable school site. In the succeeding years, the operating expenses thereof shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved, May 8, 1953.
+"	success	Act	Converts Nueva Ecija Trade School to Central Luzon School of Arts and Trades and authorizes appropriation of funds.	"[{""title"": ""Section 1."", ""summary"": ""Converts the Nueva Ecija Trade School into a regional school of arts and trades, known as Central Luzon School of Arts and Trades.""}, {""title"": ""Section 2."", ""summary"": ""Authorizes an appropriation of one hundred thousand pesos for the school's expenses during the fiscal year ending June 30, 1953, and for purchase of a suitable school site.""}, {""title"": ""Section 3."", ""summary"": ""The Act shall take effect upon its approval.""}]"	845	May 08, 1953			To upgrade the trade school to a regional school of arts and trades and provide financial appropriation.	"[""Conversion of Nueva Ecija Trade School to Central Luzon School of Arts and Trades"", ""Appropriation of 100,000 pesos for school expenses""]"		"[""Education"", ""School"", ""Appropriation""]"	"[""Nueva Ecija Trade School"", ""Central Luzon School of Arts and Trades"", ""100,000 pesos"", ""appropriation"", ""regional school""]"
+repacts:datasets/markdown/repacts/1953/ra_846_1953.md	repacts	1953		datasets/markdown/repacts/1953/ra_846_1953.md	ra_846_1953	AN ACT CONVERTING THE ZAMBOANGA CITY TRADE SCHOOL INTO A REGIONAL SCHOOL OF ARTS AND TRADES TO BE KNOWN AS ZAMBOANGA CITY REGIONAL SCHOOL ARTS AND TRADES AND AUTHORIZING APPROPRIATION OF FUNDS FOR THE PURPOSE	"**[ REPUBLIC ACT NO. 846, May 08, 1953 ]**
+
+ AN ACT CONVERTING THE ZAMBOANGA CITY TRADE SCHOOL INTO A REGIONAL SCHOOL OF ARTS AND TRADES TO BE KNOWN AS ZAMBOANGA CITY REGIONAL SCHOOL ARTS AND TRADES AND AUTHORIZING APPROPRIATION OF FUNDS FOR THE PURPOSE.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Zamboanga City Trade School is converted into a regional school of arts and trades of the Northern Luzon School of Arts and Trades type, to be known as the Zamboanga City Regional School of Arts and Trades. The said school shall be under the supervision of the Bureau of Public Schools and subject to the provisions of the School Law. Courses of secondary and collegiate levels shall be offered in the said school.
+
+ **Section 2.** The sum of one hundred thousand pesos is authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the expenses of the said school during its first year of operation, including the purchase of a suitable school site. In succeeding years the operating expenses thereof shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved, May 8, 1953.
+"	success	Education	The Republic Act No. 846 converts the Zamboanga City Trade School into the Zamboanga City Regional School of Arts and Trades and authorizes the appropriation of funds for its operation.	"[{""title"": ""Section 1"", ""summary"": ""Converts the Zamboanga City Trade School into a regional school of arts and trades, named Zamboanga City Regional School of Arts and Trades, supervised by the Bureau of Public Schools and subject to the School Law.""}, {""title"": ""Section 2"", ""summary"": ""Authorizes appropriation of one hundred thousand pesos for the first year of operation, with subsequent operating expenses to be included in the annual General Appropriations Act.""}, {""title"": ""Section 3"", ""summary"": ""The act takes effect upon approval.""}]"	RA 846	May 8, 1953			Convert the existing trade school into a regional school of arts and trades and provide funding for its operation.	"[""Conversion of Zamboanga City Trade School to a regional school of arts and trades"", ""Authorization of one hundred thousand pesos for first year expenses"", ""Inclusion of subsequent operating expenses in the General Appropriations Act"", ""Effectivity upon approval""]"		"[""Education"", ""Public School"", ""Zamboanga City""]"	"[""Zamboanga City Trade School"", ""regional school"", ""arts and trades"", ""appropriation"", ""National Treasury""]"
+repacts:datasets/markdown/repacts/1953/ra_847_1953.md	repacts	1953		datasets/markdown/repacts/1953/ra_847_1953.md	ra_847_1953	AN ACT TRANSFERRING THE MEDICAL AND DENTAL SERVICES TO THE DEPARTMENT OF EDUCATION.	"**[ REPUBLIC ACT NO. 847, May 23, 1953 ]**
+
+ AN ACT TRANSFERRING THE MEDICAL AND DENTAL SERVICES TO THE DEPARTMENT OF EDUCATION.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Medical and Dental Services in the Public Schools which is now functioning as a division of Bureau of Health, since January first, nineteen hundred and fifty-one, is hereby transferred or returned back the Department of Education as a division of that Department where it originally belonged from nineteen hundred and forty-six to nineteen hundred and fifty:*Provided,*That the supervision of hygiene and sanitation shall be exercised by the Department of Health.
+
+ **Section 2.** All laws, acts, executive orders, or parts thereof, inconsistent with the provision of this act are hereby repealed.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Enacted on May 23, 1953, without the Executive approval.
+"	success	Republic Act	The act transfers the medical and dental services currently under the Bureau of Health to the Department of Education, subject to supervision of hygiene and sanitation by the Department of Health, and repeals inconsistent laws.	"[{""title"": ""Section 1."", ""summary"": ""Transfers the medical and dental services division from the Bureau of Health to the Department of Education, with the condition that the Department of Health supervises hygiene and sanitation.""}, {""title"": ""Section 2."", ""summary"": ""Repeals all laws, acts, executive orders, or parts thereof that are inconsistent with this act.""}, {""title"": ""Section 3."", ""summary"": ""The act shall take effect upon its approval.""}]"	RA 847	May 23, 1953			Transfer of medical and dental services to the Department of Education, ensuring supervision of hygiene and sanitation by the Department of Health.	"[""Transfer of medical and dental services division to the Department of Education"", ""Supervision of hygiene and sanitation by the Department of Health"", ""Repeal of inconsistent laws"", ""Effective upon approval""]"		"[""Education"", ""Health"", ""Public Schools"", ""Department of Education""]"	"[""Medical Services"", ""Dental Services"", ""Department of Education"", ""Bureau of Health"", ""Hygiene"", ""Sanitation"", ""Repeal""]"
+repacts:datasets/markdown/repacts/1953/ra_848_1953.md	repacts	1953		datasets/markdown/repacts/1953/ra_848_1953.md	ra_848_1953	AN ACT ESTABLISHING A NATIONAL SCHOOL OF ARTS AND TRADES OF THE PHILIPPINE SCHOOL OF ARTS AND TRADES TYPE IN THE PROVINCE OF NEGROS OCCIDENTAL	"**[ REPUBLIC ACT NO. 848, May 27, 1953 ]**
+
+ AN ACT ESTABLISHING A NATIONAL SCHOOL OF ARTS AND TRADES OF THE PHILIPPINE SCHOOL OF ARTS AND TRADES TYPE IN THE PROVINCE OF NEGROS OCCIDENTAL.
+
+ Be it enacted by the Senate and House or Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There is hereby established a national school of arts and trades of the Philippine School of Arts and Trades type, in the Province of Negros Occidental.
+
+ **Section 2.** The Secretary of Education is hereby empowered to organize said school. He may locate or acquire, or cause to be located or acquired any suitable site for said school, which may be public or private lands situated within the Province of Negros Occidental.
+
+ **Section 3.** The sum of one hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated for the operation and maintenance of said school for the school year nineteen hundred fifty-two to nineteen hundred fifty-three.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved, May 27, 1953.
+"	success	Republic Act	Establishes a national school of arts and trades in Negros Occidental to provide education and training in various trades.	"[{""title"": ""Section 1."", ""summary"": ""Establishes a national school of arts and trades of Philippine School of Arts and Trades type in the Province of Negros Occidental.""}, {""title"": ""Section 2."", ""summary"": ""Empowers the Secretary of Education to organize the school and acquire a suitable site within the province.""}, {""title"": ""Section 3."", ""summary"": ""Authorizes the appropriation of one hundred thousand pesos from the National Treasury for the operation and maintenance of the school for the school year 1952-1953.""}, {""title"": ""Section 4."", ""summary"": ""The Act shall take effect upon its approval.""}]"	848	1953-05-27			To establish a national school of arts and trades in Negros Occidental and authorize its organization and funding.	"[""Establishes a national school of arts and trades in Negros Occidental."", ""Empowers Secretary of Education to organize the school and acquire a suitable site."", ""Authorizes appropriation of one hundred thousand pesos for operation and maintenance of the school."", ""Act takes effect upon approval.""]"		"[""Education"", ""Arts and Trades"", ""Negros Occidental"", ""Republic Act""]"	"[""National School of Arts and Trades"", ""Negros Occidental"", ""Secretary of Education"", ""Appropriation"", ""Education Act""]"
+repacts:datasets/markdown/repacts/1953/ra_849_1953.md	repacts	1953		datasets/markdown/repacts/1953/ra_849_1953.md	ra_849_1953	AN ACT AUTHORIZING THE PAYMENT OF THE UNPAID COST AND EXPENSES OF CADASTRAL PROCEEDINGS COMPLETED AND ASSESSED ON OR BEFORE DECEMBER EIGHT, NINETEEN HUNDRED AND FORTY-ONE, WITHOUT PENALTY UNDER CERTAIN CONDITIONS.	"**[ REPUBLIC ACT NO. 849, May 28, 1953 ]**
+
+ AN ACT AUTHORIZING THE PAYMENT OF THE UNPAID COST AND EXPENSES OF CADASTRAL PROCEEDINGS COMPLETED AND ASSESSED ON OR BEFORE DECEMBER EIGHT, NINETEEN HUNDRED AND FORTY-ONE, WITHOUT PENALTY UNDER CERTAIN CONDITIONS.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** In provinces, municipalities and municipal districts in which registration proceedings under Act Numbered Two thousand two hundred and fifty-nine, as amended, had been completed and the cost of registration proceedings and of the cadastral survey and monumenting had been determined and assessed on or before December eight, nineteen hundred and forty-one, the provinces, municipalities or municipal districts concerned may pay the obligation due from them and remaining unpaid, without penalty, if they pay said obligation within two years from the date of the approval of this Act.
+
+ The owners of lots included in said cadastral proceedings shall have the same right as regards any unpaid amount assessed against their respective lots if they pay the same within the same period.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, May 28, 1953.
+"	success	Republic Act	This act allows provinces, municipalities, and municipal districts to pay outstanding costs of cadastral proceedings completed by 1941 without penalty if paid within two years of approval. Owners of lots included in the proceedings also have the same right to pay within that period.	"[{""title"": ""Section 1."", ""summary"": ""Provinces, municipalities, or municipal districts may pay unpaid obligations without penalty if paid within two years from the act\u2019s approval. Owners of lots included in the cadastral proceedings have the same right to pay within that period.""}, {""title"": ""Section 2."", ""summary"": ""The act takes effect upon its approval.""}]"	849	May 28, 1953			To authorize payment of unpaid costs and expenses of cadastral proceedings without penalty under certain conditions.	"[""Allows payment of unpaid costs within two years of approval without penalty."", ""The act takes effect upon its approval.""]"		"[""cadastral"", ""property"", ""payment"", ""unpaid costs"", ""penalty"", ""law"", ""Republic Act""]"	"[""cadastral proceedings"", ""unpaid costs"", ""payment"", ""penalty"", ""municipalities"", ""districts"", ""registration""]"
+repacts:datasets/markdown/repacts/1953/ra_850_1953.md	repacts	1953		datasets/markdown/repacts/1953/ra_850_1953.md	ra_850_1953	Public School Salary Act of 1953	"**[ REPUBLIC ACT NO. 850, May 28, 1953 ]**
+
+ AN ACT TO AMEND REPUBLIC ACT NUMBERED FIVE HUNDRED SEVENTY-THREE IN ORDER TO PROVIDE FOR THE EXTENSION OF THE ACTIVE DUTY OR ENLISTMENT OF RESERVE OFFICERS AND ENLISTED MEN OF THE PHILIPPINE EXPEDITIONARY FORCE PROVIDED FOR IN SAID ACT.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Republic Act Numbered Five hundred seventy-three, otherwise known as the ""Philippine Military Aid to the United Nations Act,"" is hereby amended by inserting a new section between sections ten and eleven thereof, to be designated as section ten-A, which shall read as follows:
+
+ > ""Section 10-A. The provisions of any law to the contrary notwithstanding, Reserve Officers in the Philippine Expeditionary Force shall remain on active duty as long as the Philippines continues to maintain said force overseas, unless sooner relieved from such active duty or discharged by the President, or dismissed from the service pursuant to the approved sentence of a general, court-martial. All enlistments of enlisted men serving with the Philippine Expeditionary Force shall continue in force for a like period, unless sooner terminated by the President or pursuant to the approved sentence of a court-martial.""
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved, May 28, 1953.
+"	success		Republic Act No. 842, enacted on May 1, 1953, establishes fixed salary ranges and automatic salary increases for public school officials, teachers, and other personnel in the Philippines, with provisions for cost‑of‑living adjustments and references to Commonwealth Act No. 402.	"[{""title"": ""Section 1"", ""summary"": ""The act may be cited as the \""Public School Salary Act of 1953.\""""}, {""title"": ""Section 2"", ""summary"": ""Specifies the minimum and maximum annual compensation for national, provincial, and city positions in the educational service, outlines salary ranges for various positions, and allows additional compensation in high cost\u2011of\u2011living areas based on grade differentials.""}]"	842	May 01, 1953			To provide compensation and automatic salary increases for public school officials, teachers, and other school personnel of the Government of the Philippines.	"[""Fixed salary ranges for educational positions"", ""Automatic salary increases"", ""Cost\u2011of\u2011living adjustment provision"", ""Reference to Commonwealth Act No. 402"", ""Classification of positions by grade and salary range""]"	Commonwealth Act No. 402	"[""salary"", ""public school"", ""compensation"", ""Philippines""]"	"[""public school"", ""salary"", ""compensation"", ""automatic salary increase"", ""cost of living"", ""Philippines"", ""1953""]"
+repacts:datasets/markdown/repacts/1953/ra_851_1953.md	repacts	1953		datasets/markdown/repacts/1953/ra_851_1953.md	ra_851_1953	An Act Establishing the Antique School of Arts and Trades in the Municipality of Sibalom, Province of Antique, and Authorizing the Appropriation of Funds for the Purpose	"**[ REPUBLIC ACT NO. 851, May 28, 1953 ]**
+
+ AN ACT ESTABLISHING THE ANTIQUE SCHOOL OF ARTS AND TRADES IN THE MUNICIPALITY OF SIBALOM, PROVINCE OF ANTIQUE, AND AUTHORIZING THE APPROPRIATION OF FUNDS FOR THE PURPOSE.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** A national school of arts and trades, of the Philippine School of Arts and Trades type, to be known as the Antique School of Arts and Trades shall be established in the municipality of Sibalom, Province of Antique. The said school shall be under the supervision of Bureau of Public Schools and subject to the provisions of the School Law. Courses of collegiate and secondary levels shall be offered in the said school.
+
+ **Section 2.** The sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the expenses of the said school during its first year of operation. Thereafter, the necessary funds for its operation and maintenance shall be included in the annual General Appropriation Acts.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved, May 28, 1953.
+"	success	Republic Act	The act establishes the Antique School of Arts and Trades in Sibalom, Antique, and appropriates funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""Establishes the Antique School of Arts and Trades as a national school of arts and trades and outlines its supervision and courses offered.""}, {""title"": ""Section 2."", ""summary"": ""Authorizes the appropriation of one hundred thousand pesos for the school's first year and provisions for future funding in the General Appropriation Acts.""}, {""title"": ""Section 3."", ""summary"": ""States that the act will take effect upon its approval.""}]"	851	May 28, 1953			To establish a national school of arts and trades in Antique and allocate funds for its operation.	"[""Establishment of the Antique School of Arts and Trades"", ""Appropriation of one hundred thousand pesos for first year of operation"", ""Inclusion of subsequent funding in General Appropriation Acts"", ""Effective upon approval""]"		"[""Education"", ""Arts"", ""Trade"", ""Antique"", ""School"", ""Funding""]"	"[""Antique School of Arts and Trades"", ""Sibalom"", ""Antique Province"", ""Appropriation"", ""National School"", ""Arts and Trades""]"

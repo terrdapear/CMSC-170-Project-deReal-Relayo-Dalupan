@@ -1,0 +1,152 @@
+repacts:datasets/markdown/repacts/1964/ra_3970_1964.md	repacts	1964		datasets/markdown/repacts/1964/ra_3970_1964.md	ra_3970_1964	"An Act Increasing the Salary of the Chief of the Secret Service of the Police Department of the City of Cagayan De Oro, Amending for the Purpose Section Twenty-Seven of Republic Act Numbered Five Hundred Twenty-One, Otherwise Known as the ""Charter of the City of Cagayan De Oro"""	"**REPUBLIC ACT No. 3970**
+
+ **An Act Increasing the Salary of the Chief of the Secret Service of the Police Department of the City of Cagayan De Oro, Amending for the Purpose Section Twenty-Seven of Republic Act Numbered Five Hundred Twenty-One, Otherwise Known as the ""Charter of the City of Cagayan De Oro""**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section twenty-seven of Republic Act Numbered Five hundred twenty-one, otherwise known as the Charter of the City of Cagayan de Oro is hereby amended to read as follows:
+
+ > ""Sec. 27. *Chief of the Secret Service.* -There shall be a chief of the Secret Service who shall, under the Chief of Police, have charge of the detective work of the department and of the detective force of the city, and shall perform such other duties as may be assigned to him by the chief of police or prescribed by law or ordinance.
+>
+>  ""The chief of secret service shall receive a salary of not less than three thousand pesos per annum.""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1964.
+"	success	Republic Act	This act amends Section 27 of Republic Act No. 521 to increase the salary of the Chief of the Secret Service of the Police Department of Cagayan de Oro to not less than three thousand pesos per annum and clarifies the duties of the position.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 27 of RA 521 to specify that the Chief of the Secret Service shall receive a salary of not less than three thousand pesos per annum and outlines his duties under the Chief of Police.""}, {""title"": ""Section 2"", ""summary"": ""States that the act shall take effect upon its approval.""}]"	3970	June 18, 1964			To increase the salary of the Chief of the Secret Service of the Police Department of Cagayan de Oro and amend Section 27 of the Charter of the City of Cagayan de Oro (RA 521).	"[""Chief of Secret Service shall receive a salary of not less than three thousand pesos per annum."", ""Section 27 of RA 521 is amended to reflect the new salary and duties.""]"	Republic Act No. 521 (Charter of the City of Cagayan De Oro)	"[""Salary Increase"", ""Police Department"", ""Cagayan de Oro"", ""Charter Amendment""]"	"[""Chief of Secret Service"", ""salary"", ""Cagayan de Oro"", ""Charter"", ""RA 521""]"
+repacts:datasets/markdown/repacts/1964/ra_3971_1964.md	repacts	1964		datasets/markdown/repacts/1964/ra_3971_1964.md	ra_3971_1964	An Act Approving Any Assignment, Sale, and Transfer of the Franchise Granted to Rafael Consing Under Republic Act Numbered Seven Hundred Fifty-Seven in Favor of Marcela S. Aquino	"**REPUBLIC ACT No. 3971**
+
+ **An Act Approving Any Assignment, Sale, and Transfer of the Franchise Granted to Rafael Consing Under Republic Act Numbered Seven Hundred Fifty-Seven in Favor of Marcela S. Aquino**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Subject to the terms and conditions prescribed in Act Numbered Thirty-six hundred thirty-six, and to the provisions of the Constitution, approval is hereby given to any assignment, sale and transfer of the franchise granted to Rafael Consing to install, operate and maintain a telephone system in the Province of Agusan and the municipalities and municipal districts thereof, under Republic Act Numbered Seven hundred fifty-seven, in favor of Marcela S. Aquino, together with all the property and equipment acquired thereunder.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1964.
+"	success	Republic Act	This act approves the assignment, sale, and transfer of the telephone franchise granted to Rafael Consing under RA 757 to Marcela S. Aquino, allowing the transfer of all related property and equipment and establishing the effectivity upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Provides approval for the assignment, sale, and transfer of the franchise granted to Rafael Consing under RA 757 to Marcela S. Aquino, including all property and equipment acquired under the franchise.""}, {""title"": ""Section 2"", ""summary"": ""States that the act shall take effect upon its approval.""}]"	RA 3971	June 18, 1964			To approve the assignment, sale, and transfer of a telephone franchise and associated assets.	"[""Approval of the assignment, sale, and transfer of the franchise to Marcela S. Aquino"", ""Transfer of all property and equipment acquired under the franchise"", ""Effectiveness upon approval""]"	Republic Act 757	"[""franchise"", ""telecommunication"", ""assignment"", ""sale"", ""transfer"", ""Agusan""]"	"[""franchise"", ""telecommunication"", ""assignment"", ""sale"", ""transfer"", ""Agusan"", ""Rafael Consing"", ""Marcela S. Aquino""]"
+repacts:datasets/markdown/repacts/1964/ra_3972_1964.md	repacts	1964		datasets/markdown/repacts/1964/ra_3972_1964.md	ra_3972_1964	An Act Approving Any Assignment, Sale, and Transfer of the Franchise Granted to Rafael Consing Under Republic Act Numbered Six Hundred Ninety-Seven in Favor of Marcela S. Aquino of Butuan City	"**REPUBLIC ACT No. 3972**
+
+ **An Act Approving Any Assignment, Sale, and Transfer of the Franchise Granted to Rafael Consing Under Republic Act Numbered Six Hundred Ninety-Seven in Favor of Marcela S. Aquino of Butuan City**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Subject to the terms and conditions prescribed in Act Numbered Thirty-six hundred thirty-six, and to the provisions of the Constitution, approval is hereby given to any assignment, sale and transfer of the franchise granted to Rafael Consing to install, operate and maintain a telephone system in the City of Butuan, under Republic Act Numbered Six hundred ninety-seven, in favor of Marcela S. Aquino of Butuan City, together with all the property and equipment acquired thereunder.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1964.
+"	success	Republic Act	This act approves the assignment, sale, and transfer of the telephone franchise granted to Rafael Consing to Marcela S. Aquino, including the property and equipment acquired under the franchise.	"[{""title"": ""Section 1"", ""summary"": ""Approval of the assignment, sale, and transfer of the franchise to Marcela S. Aquino, together with all property and equipment acquired thereunder.""}, {""title"": ""Section 2"", ""summary"": ""The act takes effect upon its approval.""}]"	3972	June 18, 1964			To approve the assignment, sale, and transfer of the franchise granted to Rafael Consing to Marcela S. Aquino of Butuan City.	"[""Approval of assignment, sale, and transfer of the franchise to Marcela S. Aquino"", ""Inclusion of all property and equipment acquired under the franchise"", ""Act takes effect upon approval""]"	Act Numbered 336 and Republic Act 697	"[""franchise"", ""telecommunications"", ""assignment"", ""sale"", ""transfer""]"	"[""Rafael Consing"", ""Marcela S. Aquino"", ""Butuan City"", ""Republic Act 697"", ""telephony""]"
+repacts:datasets/markdown/repacts/1964/ra_3973_1964.md	repacts	1964		datasets/markdown/repacts/1964/ra_3973_1964.md	ra_3973_1964	An Act to Convert Sinait Provincial High School into a National High School to be Known as Sinait National High School, and to Authorize the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 3973**
+
+ **An Act to Convert Sinait Provincial High School into a National High School to be Known as Sinait National High School, and to Authorize the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The Sinait Provincial High School located at Sinait, Ilocos Sur, is hereby converted into a national high school, hereinafter to be known as Sinait National High School.
+
+ **Section 2.** Upon organization of Sinait National High School all assets, liabilities, personnel, equipment and records of Sinait Provincial High School shall stand transferred to Sinait National High School.
+
+ **Section 3.** The Secretary of Education is hereby empowered to promulgate such rules and regulations as may be necessary to carry out the purpose of this Act, including the power to reorganize the school, revise its curriculum and provide for its supervision.
+
+ **Section 4.** The sum of one hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of the said school for the fiscal year nineteen hundred sixty-four-sixty-five. Thereafter, the necessary sum for the operation of the said school shall be included in the annual General Appropriations Act.
+
+ **Section 5.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1964.
+"	success	Republic Act	This act converts Sinait Provincial High School into Sinait National High School, transfers all assets and liabilities, empowers the Secretary of Education to promulgate necessary rules, appropriates funds for operation and maintenance, and specifies its effective date.	"[{""title"": ""Section 1"", ""summary"": ""Conversion of Sinait Provincial High School into Sinait National High School.""}, {""title"": ""Section 2"", ""summary"": ""Transfer of all assets, liabilities, personnel, equipment, and records to the new national high school.""}, {""title"": ""Section 3"", ""summary"": ""Empowerment of the Secretary of Education to promulgate rules and regulations for the school.""}, {""title"": ""Section 4"", ""summary"": ""Authorization of appropriated funds for operation and maintenance for FY 1964-1965 and future inclusion in the General Appropriations Act.""}, {""title"": ""Section 5"", ""summary"": ""Act takes effect upon approval.""}]"	3973	June 18, 1964			To convert a provincial high school into a national high school and provide necessary appropriations for its operation.	"[""Conversion of school status"", ""Transfer of assets and liabilities"", ""Authority for rulemaking"", ""Appropriation of funds"", ""Effective date""]"		"[""Education"", ""School Conversion"", ""Appropriation""]"	"[""Sinait"", ""National High School"", ""Education"", ""Appropriation"", ""Ilocos Sur""]"
+repacts:datasets/markdown/repacts/1964/ra_3974_1964.md	repacts	1964		datasets/markdown/repacts/1964/ra_3974_1964.md	ra_3974_1964	An Act to Convert Ilocos Sur Provincial High School into a National High School, to be Known as Ilocos Sur National High School, and to Authorize the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 3974**
+
+ **An Act to Convert Ilocos Sur Provincial High School into a National High School, to be Known as Ilocos Sur National High School, and to Authorize the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The Ilocos Sur Provincial High School located at Vigan, Ilocos Sur, is hereby converted into a national high school, hereinafter to be known as Ilocos Sur National High School.
+
+ **Section 2.** Upon the organization of Ilocos Sur National High School all assets, liabilities, personnel, equipment and records of Ilocos Sur Provincial High School shall stand transferred to Ilocos Sur National High School.
+
+ **Section 3.** The Secretary of Education is hereby empowered to promulgate such rules and regulations as may be necessary to carry out the purpose of this Act, including the power to reorganize the school, revise its curriculum and provide for its supervision.
+
+ **Section 4.** The sum of one hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of the said school for the fiscal year nineteen hundred sixty-four-sixty-five. Thereafter, the necessary sum for the operation of the said school shall be included in the annual General Appropriations Act.
+
+ **Section 5.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1964.
+"	success	Republic Act	This Act converts Ilocos Sur Provincial High School into Ilocos Sur National High School and authorizes the appropriation of funds for its operation and maintenance.	"[{""title"": ""Section 1"", ""summary"": ""Converts Ilocos Sur Provincial High School into Ilocos Sur National High School.""}, {""title"": ""Section 2"", ""summary"": ""Transfers all assets, liabilities, personnel, equipment, and records of the former school to the new national high school.""}, {""title"": ""Section 3"", ""summary"": ""Empowers the Secretary of Education to promulgate rules and regulations necessary to implement the Act, including reorganization and curriculum revision.""}, {""title"": ""Section 4"", ""summary"": ""Authorizes the appropriation of one hundred thousand pesos for the school\u2019s operation and maintenance for the fiscal year 1964-1965, with future funding to be included in the General Appropriations Act.""}, {""title"": ""Section 5"", ""summary"": ""The Act takes effect upon its approval.""}]"	3974	June 18, 1964			To convert the provincial high school into a national high school and authorize funding for its operation.	"[""Conversion of Ilocos Sur Provincial High School to Ilocos Sur National High School"", ""Transfer of all assets, liabilities, personnel, equipment, and records"", ""Empowerment of the Secretary of Education to promulgate necessary rules and regulations"", ""Authorization of one hundred thousand pesos for operation and maintenance for 1964-1965"", ""Effectivity upon approval""]"		"[""Education"", ""School"", ""Conversion"", ""Funding""]"	"[""Ilocos Sur"", ""National High School"", ""Secretary of Education"", ""Appropriation"", ""Fund"", ""Conversion""]"
+repacts:datasets/markdown/repacts/1964/ra_3975_1964.md	repacts	1964		datasets/markdown/repacts/1964/ra_3975_1964.md	ra_3975_1964	An Act Changing the Name of Pampanga High School to Jose Abad Santos High School	"**REPUBLIC ACT No. 3975**
+
+ **An Act Changing the Name of Pampanga High School to Jose Abad Santos High School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Pampanga High School in San Fernando, Pampanga, shall hereafter be known and referred to as Jose Abad Santos High School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1964.
+"	success	Education	This act changes the name of Pampanga High School to Jose Abad Santos High School.	"[{""title"": ""Section 1."", ""summary"": ""Pampanga High School in San Fernando, Pampanga, shall hereafter be known and referred to as Jose Abad Santos High School.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	REPUBLIC ACT No. 3975	June 18, 1964			To change the name of the school.	"[""Name of Pampanga High School changed to Jose Abad Santos High School""]"		"[""Education"", ""School"", ""Name Change""]"	"[""Jose Abad Santos"", ""Pampanga High School"", ""name change"", ""education"", ""Philippines""]"
+repacts:datasets/markdown/repacts/1964/ra_3976_1964.md	repacts	1964		datasets/markdown/repacts/1964/ra_3976_1964.md	ra_3976_1964	An Act Establishing a Reception Center of the Social Welfare Administration in the City of Angeles	"**REPUBLIC ACT No. 3976**
+
+ **An Act Establishing a Reception Center of the Social Welfare Administration in the City of Angeles**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There is hereby established a reception center of the Social Welfare Administration in the City of Angeles. The said center shall be erected in a two-hectare site to be provided by the said city.
+
+ **Section 2.** The said reception center shall have the following functions:
+
+ (1) To provide a system of community care and social and consultative services essential to the needs of children, adolescents, adults and transient destitute families and promote their social well-being; (2) To provide and attend to the needs and extent aid to destitute transient families; (3) To establish the necessary facilities to carry out said activities; and (4) To carry out such other functions aid implement such programs and activities as the Social Welfare Administration may direct. **Section 3.** The reception center shall be headed by a superintendent who shall be under the administrative or technical supervision of the Social Welfare Administrator. The superintendent shall be appointed by the Executive Secretary upon the recommendation of the Social Welfare Administrator, and shall receive an annual compensation provided for by law for superintendents of institutions of similar nature.
+
+ **Section 4.** The sum of two hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, to carry into effect the provisions of this Act.
+
+ **Section 5.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1964.
+"	success	Republic Act	Establishes a reception center under the Social Welfare Administration in Angeles City to provide community care and social services for children, families, and other beneficiaries.	"[{""title"": ""Section 1"", ""summary"": ""Establishes a reception center of the Social Welfare Administration in the City of Angeles on a two\u2011hectare site provided by the city.""}, {""title"": ""Section 2"", ""summary"": ""Lists the functions of the center, including community care, social and consultative services, aid to destitute families, facility establishment, and implementation of additional programs directed by the Administration.""}, {""title"": ""Section 3"", ""summary"": ""Specifies that the center will be headed by a superintendent supervised by the Social Welfare Administrator, appointed by the Executive Secretary upon recommendation, and entitled to legal compensation.""}, {""title"": ""Section 4"", ""summary"": ""Authorizes appropriation of 200,000 pesos from the National Treasury to carry out the Act.""}, {""title"": ""Section 5"", ""summary"": ""States that the Act takes effect upon approval.""}]"	3976	June 18, 1964			To establish a reception center for the Social Welfare Administration in Angeles City to provide community care and social services to children, families, and other beneficiaries.	"[""Establishment of a reception center in Angeles City."", ""Functions of the center: community care, social services, aid to destitute families, facility establishment, and implementation of additional programs."", ""Appointment of a superintendent supervised by the Social Welfare Administrator."", ""Appropriation of 200,000 pesos for the center."", ""Effectivity upon approval.""]"		"[""Social Welfare"", ""Community Care"", ""Angeles City""]"	"[""reception center"", ""social welfare administration"", ""Angeles City"", ""community care"", ""social services""]"
+repacts:datasets/markdown/repacts/1964/ra_3977_1964.md	repacts	1964		datasets/markdown/repacts/1964/ra_3977_1964.md	ra_3977_1964	An Act Converting Badian Provincial High School into a National High School to be Known as Badian National High School, and Authorizing the Appropriation of the Necessary Funds Therefor	"**REPUBLIC ACT No. 3977**
+
+ **An Act Converting Badian Provincial High School into a National High School to be Known as Badian National High School, and Authorizing the Appropriation of the Necessary Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Badian Provincial High School is hereby converted into a national high school, to be known as Badian National High School. Comprehensive curriculum which includes both academic and vocational courses shall be offered implementing the 2-2 plan. The Secretary of Education is hereby empowered to reorganize the said school accordingly.
+
+ Upon organization of Badian National High School, the assets, liabilities, personnel, equipment and records of Badian Provincial High School shall stand transferred to Badian National High School.
+
+ **Section 2.** The sum of two hundred thousand pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of the said school for the fiscal year nineteen hundred sixty-four and nineteen hundred sixty-five. Thereafter, the necessary sum for the operation and maintenance of the said school shall be included in the annual General Appropriations Act.
+
+ **Section 3.** Each student, regardless of grade, shall pay only thirty-two pesos as tuition fee for each school year.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1964.
+"	success	Republic Act	The act converts Badian Provincial High School into Badian National High School, authorizes appropriation of funds for its operation and maintenance, sets a tuition fee of thirty-two pesos per year, and stipulates the act to take effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Badian Provincial High School is converted into a national high school named Badian National High School. It will offer a comprehensive curriculum including academic and vocational courses under the 2-2 plan, and the Secretary of Education is empowered to reorganize the school. Assets, liabilities, personnel, equipment, and records are transferred to the new school.""}, {""title"": ""Section 2"", ""summary"": ""Authorizes the appropriation of two hundred thousand pesos from the National Treasury for the operation and maintenance of Badian National High School for the fiscal years 1964 and 1965, with subsequent funding to be included in the annual General Appropriations Act.""}, {""title"": ""Section 3"", ""summary"": ""Each student, regardless of grade, shall pay a tuition fee of thirty-two pesos per school year.""}, {""title"": ""Section 4"", ""summary"": ""The act shall take effect upon its approval.""}]"	3977	June 18, 1964			To convert Badian Provincial High School into a national high school and authorize necessary funds for its operation and maintenance.	"[""Conversion of Badian Provincial High School to a national high school"", ""Authorization of two hundred thousand pesos for operation and maintenance"", ""Tuition fee set at thirty-two pesos per year"", ""Act effective upon approval""]"		"[""Education"", ""High School"", ""Funding"", ""Philippines"", ""Republic Act""]"	"[""Badian"", ""National High School"", ""funding"", ""tuition"", ""Education"", ""Republic Act 3977""]"
+repacts:datasets/markdown/repacts/1964/ra_3978_1964.md	repacts	1964		datasets/markdown/repacts/1964/ra_3978_1964.md	ra_3978_1964	An Act Changing the Name of Mangcruz-Pamorangon Elementary School in the Municipality of Daet, Province of Camarines Norte, to Gregorio Pimentel Memorial School	"**REPUBLIC ACT No. 3978**
+
+ **An Act Changing the Name of Mangcruz-Pamorangon Elementary School in the Municipality of Daet, Province of Camarines Norte, to Gregorio Pimentel Memorial School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Mangcruz-Pamorangon Elementary School in the Municipality of Daet, Province of Camarines Norte, is hereby changed to Gregorio Pimentel Memorial School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1964.
+"	success	Republic Act	This act changes the name of Mangcruz-Pamorangon Elementary School to Gregorio Pimentel Memorial School and sets its effective date upon approval.	"[{""title"": ""Section 1."", ""summary"": ""The name of Mangcruz-Pamorangon Elementary School in the Municipality of Daet, Province of Camarines Norte, is hereby changed to Gregorio Pimentel Memorial School.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	3978	June 18, 1964			Change the name of a local elementary school	"[""Name of Mangcruz-Pamorangon Elementary School changed to Gregorio Pimentel Memorial School""]"		"[""Education"", ""Local Government"", ""School Name Change""]"	"[""Mangcruz-Pamorangon Elementary School"", ""Gregorio Pimentel Memorial School"", ""Daet"", ""Camarines Norte"", ""School Name Change""]"
+repacts:datasets/markdown/repacts/1964/ra_3979_1964.md	repacts	1964		datasets/markdown/repacts/1964/ra_3979_1964.md	ra_3979_1964	An Act Granting the Cabatuan Community Cooperative Service Association a Franchise to Install, Maintain and Operate an Electric Light, Heat and Power System in the Municipality of Cabatuan, Province of Iloilo	"**REPUBLIC ACT No. 3979**
+
+ **An Act Granting the Cabatuan Community Cooperative Service Association a Franchise to Install, Maintain and Operate an Electric Light, Heat and Power System in the Municipality of Cabatuan, Province of Iloilo**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Subject to the terms and conditions established in Act Numbered Thirty-six hundred and thirty-six, as amended by Commonwealth Act Numbered One hundred and thirty-two, and to the provisions of the Constitution, there is granted to the Community Cooperative Service Association, for a period of twenty-five years from the approval of this Act, the right, privilege and authority to install, maintain and operate an electric light, heat and power system in the Municipality of Cabatuan, Province of Iloilo.
+
+ **Section 2.** In the event that the grantee shall purchase and secure from the National Power Corporation electric heat and power, the latter is hereby authorized to negotiate and transact for the benefit and in behalf of the public consumers with reference to rates.
+
+ **Section 3.** It is expressly provided that in the event the National Government should desire to maintain and operate for itself the system and enterprise herein authorized, the grantee shall surrender its franchise and will turn over to the Government all serviceable equipment therein, at cost, less reasonable depreciation.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1964.
+"	success	Republic Act	The Act grants the Cabatuan Community Cooperative Service Association a 25‑year franchise to install, maintain, and operate an electric light, heat, and power system in Cabatuan, Iloilo, subject to conditions in previous laws and allows the National Power Corporation to negotiate rates on behalf of consumers. It also stipulates surrender of the franchise if the national government chooses to operate the system.	"[{""title"": ""Section 1"", ""summary"": ""The association is granted a 25\u2011year franchise to install, maintain, and operate an electric light, heat, and power system in Cabatuan, subject to terms in Act No. 3636 and Commonwealth Act No. 132.""}, {""title"": ""Section 2"", ""summary"": ""If the association purchases power from the National Power Corporation, the latter is authorized to negotiate and transact rates for the benefit of public consumers.""}, {""title"": ""Section 3"", ""summary"": ""If the national government desires to operate the system, the association must surrender its franchise and hand over all serviceable equipment to the government at cost, less reasonable depreciation.""}, {""title"": ""Section 4"", ""summary"": ""The Act takes effect upon its approval.""}]"	3979	June 18, 1964			To grant a franchise to a community cooperative for the installation and operation of an electric light, heat, and power system in Cabatuan, Iloilo.	"[""Grant of 25\u2011year franchise to Cabatuan Community Cooperative Service Association"", ""Conditions as per Act No. 3636 and Commonwealth Act No. 132"", ""Authority of National Power Corporation to negotiate rates if power is purchased"", ""Requirement to surrender franchise if national government takes over"", ""Effectivity upon approval""]"	Act No. 3636 and Commonwealth Act No. 132	"[""Electric Power"", ""Cooperative"", ""Franchise"", ""Municipality""]"	"[""Cabatuan"", ""Iloilo"", ""Electric Light"", ""Heat"", ""Power"", ""Franchise"", ""National Power Corporation"", ""National Government""]"

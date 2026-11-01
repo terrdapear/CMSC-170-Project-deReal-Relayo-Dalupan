@@ -1,0 +1,199 @@
+repacts:datasets/markdown/repacts/1971/ra_6178_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6178_1971.md	ra_6178_1971	AN ACT CREATING BARRIO LERMA IN THE CITY OF NAGA	"**[ REPUBLIC ACT NO. 6178, June 19, 1971 ]**
+
+ AN ACT CREATING BARRIO LERMA IN THE CITY OF NAGA
+
+ Be it enacted by the Senate and House of Representatives of the Philippinesin Congress assembled:
+
+ **Section 1.** Sitio Lerma, City of Naga, is hereby constituted into a barrio to be known as Barrio Lerma.
+
+ **Section 2.** The Barrio of Lerma shall be bounded on the North by Panganiban River from the present residence of Lucas Villesca going Eastward of Panganiban Road to the Naga City Shell Service Station; on the East by the present residence of Mr. Loquinario running Northeast to the present residence of Mr. Fortuna following a horizontal line to the present residence of Mr. Pedro Pontejos; on the South from the residence of Diego Nugal going East traversing the PNR tracks up to the residence of Pedro Pontejos; on the West by Naga City River from Panganiban Bridge down to Naric warehouse.
+
+ **Section 3.** The new barrio officials shall be appointed by the City Mayor, and they shall hold office until their successors are elected in the next regular barrio elections.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Republic Act	An act creating Barrio Lerma in the City of Naga, establishing its boundaries, appointing officials, and taking effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Sitio Lerma, City of Naga, is hereby constituted into a barrio to be known as Barrio Lerma.""}, {""title"": ""Section 2."", ""summary"": ""Defines the boundaries of Barrio Lerma on the North, East, South, and West.""}, {""title"": ""Section 3."", ""summary"": ""The new barrio officials shall be appointed by the City Mayor and shall hold office until the next regular barrio elections.""}, {""title"": ""Section 4."", ""summary"": ""The act shall take effect upon its approval.""}]"	6178	June 19, 1971			To create a new barrio in the City of Naga, defining its boundaries and appointing officials.	"[""Creation of Barrio Lerma"", ""Boundary definitions"", ""Appointment of officials by City Mayor"", ""Effectivity upon approval""]"		"[""Republic Act"", ""Local Government"", ""Barangay"", ""Naga City""]"	"[""Barrio Lerma"", ""City of Naga"", ""Republic Act 6178"", ""boundary"", ""officials""]"
+repacts:datasets/markdown/repacts/1971/ra_6179_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6179_1971.md	ra_6179_1971	AN ACT CREATING CERTAIN BARRIOS IN THE MUNICIPALITY OF ESPIRITU IN THE PROVINCE OF ILOCOS NORTE.	"**[ REPUBLIC ACT NO. 6179, June 19, 1971 ]**
+
+ AN ACT CREATING CERTAIN BARRIOS IN THE MUNICIPALITY OF ESPIRITU IN THE PROVINCE OF ILOCOS NORTE.
+
+ Be it enacted by the Senate and House of Representatives of the Philippinesin Congress assembled:
+
+ **Section 1.** The following sitios in the Municipality of Espiritu, Province of Ilocos Norte, are constituted as barrios thereof, to wit:
+
+ 1. The sitios of Santo Nino, San Pedro, Santa Maria, and Santa Ana in Barrio Caestehanan, and the sitio of San Jose in Barrio Capacacan, all in the Municipality of Espiritu, Province of Ilocos Norte, are separated from said barrios and constituted into a distinct and independent barrio of said municipality, to be known as Barrio Ferdinand; and
+
+ 2. The sitios of San Juan, Dispenza, and Nanamburan in Barrio Caribquib, Municipality of Espiritu, Province of Ilocos Norte, are separated from said barrio and constituted into a distinct and independent barrio of said municipality to be known as Barrio San Simeon.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Republic Act	An act establishing new barrios in the Municipality of Espiritu, Ilocos Norte, by separating specified sitios from existing barrios and naming the new barrios as Barrio Ferdinand and Barrio San Simeon, effective upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Constitutes the sitios of Santo Nino, San Pedro, Santa Maria, and Santa Ana in Barrio Caestehanan, and the sitio of San Jose in Barrio Capacacan, as the new independent barrio of Barrio Ferdinand; and the sitios of San Juan, Dispenza, and Nanamburan in Barrio Caribquib as the new independent barrio of Barrio San Simeon.""}, {""title"": ""Section 2."", ""summary"": ""The act shall take effect upon its approval.""}]"	6179	June 19, 1971			To create certain barrios in the Municipality of Espiritu, Ilocos Norte.	"[""Creation of Barrio Ferdinand from specified sitios in Barrio Caestehanan and Barrio Capacacan."", ""Creation of Barrio San Simeon from specified sitios in Barrio Caribquib."", ""Act takes effect upon approval.""]"		"[""Republic Act"", ""Barangay"", ""Ilocos Norte"", ""Local Government""]"	"[""barrios"", ""situs"", ""Espiritu"", ""Ilocos Norte"", ""Republic Act 6179""]"
+repacts:datasets/markdown/repacts/1971/ra_6180_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6180_1971.md	ra_6180_1971	AN ACT CREATING THE BARRIO OF NEW KABALAN IN OLONGAPO CITY.	"**[ REPUBLIC ACT NO. 6180, June 19, 1971 ]**
+
+ AN ACT CREATING THE BARRIO OF NEW KABALAN IN OLONGAPO CITY.
+
+ Be it enacted by the Senate and House of Representatives of the Philippinesin Congress assembled:
+
+ **Section 1.** The sitio of New Kabalan in the barrio of Sta. Rita, Olongapo City, is hereby separated from said barrio and constituted into a distinct and independent barrio of said city, to be known as the barrio of New Kabalan.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Republic Act	This Republic Act establishes the barrio of New Kabalan as a distinct and independent barrio within Olongapo City, separating it from the barrio of Sta. Rita.	"[{""title"": ""Section 1"", ""summary"": ""Separates the sitio of New Kabalan from the barrio of Sta. Rita and constitutes it as an independent barrio of Olongapo City.""}, {""title"": ""Section 2"", ""summary"": ""The Act shall take effect upon its approval.""}]"	6180	June 19, 1971			To create the barrio of New Kabalan as a distinct administrative unit within Olongapo City.	"[""Creation of the barrio of New Kabalan as an independent barrio of Olongapo City."", ""The barrio of New Kabalan is separated from the barrio of Sta. Rita.""]"		"[""Republic Act"", ""Local Government"", ""Olongapo City"", ""Barrio""]"	"[""New Kabalan"", ""Olongapo City"", ""Barrio"", ""Republic Act 6180""]"
+repacts:datasets/markdown/repacts/1971/ra_6181_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6181_1971.md	ra_6181_1971	AN ACT CREATING THE BARRIO OF BUTONG IN THE MUNICIPALITY OF CABUYAO, PROVINCE OF LAGUNA.	"**[ REPUBLIC ACT NO. 6181, June 19, 1971 ]**
+
+ AN ACT CREATING THE BARRIO OF BUTONG IN THE MUNICIPALITY OF CABUYAO, PROVINCE OF LAGUNA.
+
+ Be it enacted by the Senate and House of Representatives of the Philippinesin Congress assembled:
+
+ **Section 1.** The sitio of Butong in the Municipality of Cabuyao, Province of Laguna, is hereby converted into a distinct and independent barrio of said municipality, to be known as the Barrio of Butong.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Republic Act	This act converts the sitio of Butong in Cabuyao, Laguna into an independent barrio.	"[{""title"": ""Section 1."", ""summary"": ""Converts the sitio of Butong into a distinct barrio named Barrio of Butong.""}, {""title"": ""Section 2."", ""summary"": ""Act takes effect upon approval.""}]"	RA No. 6181	June 19, 1971			To create a new barrio for local governance.	"[""Conversion of sitio to barrio"", ""Effective upon approval""]"		"[""Local Government"", ""Barangay"", ""Municipality"", ""Laguna""]"	"[""Butong"", ""Cabuyao"", ""Laguna"", ""Barrio"", ""Republic Act 6181""]"
+repacts:datasets/markdown/repacts/1971/ra_6182_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6182_1971.md	ra_6182_1971	Act Changing the Name of Barrio Tallag in the Municipality of Cabagan, Province of Isabela, to Barrio Biuag.	"**[ REPUBLIC ACT NO. 6182, June 19, 1971 ]**
+
+ AN ACT CHANGING THE NAME OF BARRIO TALLAG IN THE MUNICIPALITY OF CABAGAN, PROVINCE OF ISABELA, TO BARRIO BIUAG.
+
+ Be it enacted by the Senate and House of Representatives of the Philippinesin Congress assembled:
+
+ **Section 1.** The name of Barrio Tallag in the Municipality of Cabagan, Province of Isabela, is hereby changed to Barrio Biuag.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Republic Act	This act changes the name of Barrio Tallag to Barrio Biuag in Cabagan, Isabela.	"[{""title"": ""Section 1"", ""summary"": ""The name of Barrio Tallag is changed to Barrio Biuag.""}, {""title"": ""Section 2"", ""summary"": ""The Act shall take effect upon its approval.""}]"	6182	June 19, 1971			To officially change the name of Barrio Tallag to Barrio Biuag in the Municipality of Cabagan, Isabela.	"[""Name of Barrio Tallag changed to Barrio Biuag."", ""Act takes effect upon approval.""]"		"[""Name Change"", ""Barrio"", ""Isabela"", ""Cabagan""]"	"[""Barrio"", ""Name Change"", ""Isabela"", ""Cabagan"", ""Republic Act 6182""]"
+repacts:datasets/markdown/repacts/1971/ra_6183_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6183_1971.md	ra_6183_1971	AN ACT CHANGING THE NAME OF THE MUNICIPALITY OF LIWAN, PROVINCE OF KALINGA-APAYAO, TO THE MUNICIPALITY OF RIZAL	"**[ REPUBLIC ACT NO. 6183, June 19, 1971 ]**
+
+ AN ACT CHANGING THE NAME OF THE MUNICIPALITY OF LIWAN, PROVINCE OF KALINGA-APAYAO, TO THE MUNICIPALITY OF RIZAL.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The name of the Municipality of Liwan in the Province of Kalinga-Apayao is changed to the Municipality of Rizal.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Act	This act changes the name of the Municipality of Liwan in the Province of Kalinga-Apayao to the Municipality of Rizal.	"[{""title"": ""Section 1"", ""summary"": ""The name of the Municipality of Liwan in the Province of Kalinga-Apayao is changed to the Municipality of Rizal.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	6183	June 19, 1971			To rename the municipality of Liwan to Rizal.	"[""Name of Municipality of Liwan changed to Municipality of Rizal"", ""Act takes effect upon approval""]"			"[""municipality"", ""name change"", ""Kalinga-Apayao"", ""Rizal""]"
+repacts:datasets/markdown/repacts/1971/ra_6184_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6184_1971.md	ra_6184_1971	AN ACT CREATING BARRIO LITAWAN IN THE MUNICIPALITY OF SIBUCO, PROVINCE OF ZAMBOANGA DEL NORTE.	"**[ REPUBLIC ACT NO. 6184, June 19, 1971 ]**
+
+ AN ACT CREATING BARRIO LITAWAN IN THE MUNICIPALITY OF SIBUCO, PROVINCE OF ZAMBOANGA DEL NORTE.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The sitios of Litawan, Besong, Supit, Palatanan, Cumaron, Lindang, Durian, Sulitan and Timulan in Barrio Panganuran, Municipality of Sibuco, Province of Zamboanga del Norte, are separated from said barrio, and constituted into a distinct and independent barrio in said municipality, to be known as Barrio Litawan.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Local Government	Act creating Barrio Litawan in the municipality of Sibuco, Province of Zamboanga del Norte, separating specified sitios from Barrio Panganuran and establishing it as an independent barrio, effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Separates the sitios of Litawan, Besong, Supit, Palatanan, Cumaron, Lindang, Durian, Sulitan and Timulan from Barrio Panganuran in Sibuco to form Barrio Litawan.""}, {""title"": ""Section 2"", ""summary"": ""The Act shall take effect upon its approval.""}]"	6184	June 19, 1971			Creation of a new independent barrio within the municipality of Sibuco, Province of Zamboanga del Norte.	"[""Separates specified sitios from Barrio Panganuran to form Barrio Litawan"", ""Establishes Barrio Litawan as an independent barrio"", ""Effectiveness upon approval""]"		"[""Local Government"", ""Barrio"", ""Zamboanga del Norte""]"	"[""Barrio Litawan"", ""Sibuco"", ""Zamboanga del Norte"", ""Republic Act 6184""]"
+repacts:datasets/markdown/repacts/1971/ra_6185_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6185_1971.md	ra_6185_1971	An Act Transferring the Seat of Government of the Municipality of Siayan, Province of Zamboanga del Norte, from Barrio Paranglumba to Barrio Siayan Proper	"**[ REPUBLIC ACT NO. 6185, June 19, 1971 ]**
+
+ AN ACT TRANSFERRING THE SEAT OF GOVERNMENT OF THE MUNICIPALITY OF SIAYAN, PROVINCE OF ZAMBOANGA DEL NORTE, FROM BARRIO PARANGLUMBA TO BARRIO SIAYAN PROPER.
+
+ Be it enacted by the Senate and House of Representatives of the Philippinesin Congress assembled:
+
+ **Section 1.** The present seat of government of the Municipality of Siayan, Province of Zamboanga del Norte, is hereby transferred from Barrio Paranglumba to Barrio Siayan Proper.
+
+ **Section 2.** The provisions of Republic Act Numbered Forty-nine hundred eighty-nine which are inconsistent with the provisions of this Act are hereby repealed.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Statute	This act transfers the seat of government of the Municipality of Siayan from Barrio Paranglumba to Barrio Siayan Proper.	"[{""title"": ""Section 1"", ""summary"": ""The present seat of government of the Municipality of Siayan, Province of Zamboanga del Norte, is hereby transferred from Barrio Paranglumba to Barrio Siayan Proper.""}, {""title"": ""Section 2"", ""summary"": ""The provisions of Republic Act Numbered Forty-nine hundred eighty-nine which are inconsistent with the provisions of this Act are hereby repealed.""}, {""title"": ""Section 3"", ""summary"": ""This Act shall take effect upon its approval.""}]"	6185	June 19, 1971			To transfer the seat of government of the Municipality of Siayan to a new location.	"[""Section 1 establishes the transfer of the seat of government from Barrio Paranglumba to Barrio Siayan Proper."", ""Section 2 repeals inconsistent provisions of Republic Act No. 4989."", ""Section 3 sets the effective date of the Act upon its approval.""]"	Republic Act No. 4989	"[""government"", ""municipality"", ""Zamboanga del Norte"", ""seat transfer""]"	"[""seat transfer"", ""municipality"", ""Siayan"", ""Zamboanga del Norte"", ""Barrio"", ""repeal""]"
+repacts:datasets/markdown/repacts/1971/ra_6186_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6186_1971.md	ra_6186_1971	AN ACT NAMING THE PILAR-BAGAC-MORONG NATIONAL ROAD IN THE PROVINCE OF BATAAN TO GOVERNOR JOAQUIN J. LINAO NATIONAL ROAD	"**[ REPUBLIC ACT NO. 6186, June 19, 1971 ]**
+
+ AN ACT NAMING THE PILAR-BAGAC-MORONG NATIONAL ROAD IN THE PROVINCE OF BATAAN TO GOVERNOR JOAQUIN J. LINAO NATIONAL ROAD.
+
+ Be it enacted by the Senate and House of Representatives of the Philippinesin Congress assembled:
+
+ **Section 1.** The Pilar-Bagac-Morong National Road in the Province of Bataan is hereby named Governor Joaquin J. Linao National Road.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Republic Act	An act that officially names the Pilar-Bagac-Morong National Road in Bataan as the Governor Joaquin J. Linao National Road.	"[{""title"": ""Section 1"", ""summary"": ""The Pilar-Bagac-Morong National Road in the Province of Bataan is hereby named Governor Joaquin J. Linao National Road.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	6186	June 19, 1971			To name a national road in Bataan after Governor Joaquin J. Linao.	"[""The Pilar-Bagac-Morong National Road is officially named Governor Joaquin J. Linao National Road.""]"		"[""Road Naming"", ""Infrastructure"", ""Republic Act""]"	"[""Pilar-Bagac-Morong National Road"", ""Governor Joaquin J. Linao"", ""Bataan"", ""Road Naming"", ""Republic Act 6186""]"
+repacts:datasets/markdown/repacts/1971/ra_6187_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6187_1971.md	ra_6187_1971	AN ACT CREATING CERTAIN BARRIOS IN THE MUNICIPALITY OF ANDA, PROVINCE OF BOHOL	"**[ REPUBLIC ACT NO. 6187, June 19, 1971 ]**
+
+ AN ACT CREATING CERTAIN BARRIOS IN THE MUNICIPALITY OF ANDA, PROVINCE OF BOHOL
+
+ Be it enacted by the Senate and House of Representatives of the Philippinesin Congress assembled:
+
+ **Section 1.** The sitios of Biasong, Amontay, Estaca, Mahayahay, Kangkao, Lutao, Agso, Sawang, Dagohoy and Licong in the Municipality of Anda, Province of Bohol, are converted into barrios of said municipality, to be known as the barrios of Biasong, Mahayahay, Virgen del Rosario, Sto. Nino and Licong.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Republic Act	An act converting specific sitios in the Municipality of Anda, Province of Bohol into barrios.	"[{""title"": ""Section 1."", ""summary"": ""Converts the sitios of Biasong, Amontay, Estaca, Mahayahay, Kangkao, Lutao, Agso, Sawang, Dagohoy and Licong into barrios named Biasong, Mahayahay, Virgen del Rosario, Sto. Nino and Licong.""}, {""title"": ""Section 2."", ""summary"": ""The act shall take effect upon its approval.""}]"	6187	June 19, 1971			To create barrios in the municipality of Anda, Bohol.	"[""Conversion of specified sitios into barrios."", ""Effectivity upon approval.""]"		"[""Republic Act"", ""Barangay"", ""Bohol"", ""Local Government"", ""1971""]"	"[""barrios"", ""municipality"", ""Anda"", ""Bohol"", ""sitios"", ""conversion"", ""act"", ""June 19 1971""]"
+repacts:datasets/markdown/repacts/1971/ra_6188_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6188_1971.md	ra_6188_1971	AN ACT INCREASING THE BED CAPACITY OF BATAC GENERAL HOSPITAL IN THE MUNICIPALITY OF BATAC, PROVINCE OF ILOCOS NORTE, AND APPROPRIATING FUNDS THEREFOR.	"**[ REPUBLIC ACT NO. 6188, June 19, 1971 ]**
+
+ AN ACT INCREASING THE BED CAPACITY OF BATAC GENERAL HOSPITAL IN THE MUNICIPALITY OF BATAC, PROVINCE OF ILOCOS NORTE, AND APPROPRIATING FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippinesin Congress assembled:
+
+ **Section 1.** The bed capacity of the Batac General Hospital in the Municipality of Batac, Province of IIocos Norte, is hereby increased from fifty beds to one hundred beds.
+
+ **Section 2.** Such sums as may be needed for the operation of the additional facilities shall be included in the annual General Appropriations Act:*Provided,* That no portion of the appropriation shall be transferred.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Legislative Act	An act that increases the bed capacity of Batac General Hospital from 50 to 100 beds and appropriates funds for the additional facilities.	"[{""title"": ""Section 1."", ""summary"": ""Bed capacity increased from 50 to 100 beds.""}, {""title"": ""Section 2."", ""summary"": ""Funds for operation of additional facilities to be included in the annual General Appropriations Act; no portion of appropriation shall be transferred.""}, {""title"": ""Section 3."", ""summary"": ""Act becomes effective upon approval.""}]"	RA 6188	June 19, 1971			To increase bed capacity and secure funding for Batac General Hospital.	"[""Increase bed capacity from 50 to 100 beds."", ""Appropriate funds for operation of additional facilities."", ""Funds to be included in General Appropriations Act."", ""No transfer of appropriation.""]"		"[""Healthcare"", ""Hospital"", ""Bed Capacity"", ""Ilocos Norte""]"	"[""Batac"", ""General Hospital"", ""Bed Capacity"", ""Funds"", ""Appropriations""]"
+repacts:datasets/markdown/repacts/1971/ra_6189_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6189_1971.md	ra_6189_1971	AN ACT SITIO LAPGAP INTO A REGULAR BARRIO IN THE MUNICIPALITY OF MAYDOLONG, PROVINCE OF EASTERN SAMAR, TO BE KNOWN AS BARRIO LAPGAP.	"**[ REPUBLIC ACT NO. 6189, June 19, 1971 ]**
+
+ AN ACT SITIO LAPGAP INTO A REGULAR BARRIO IN THE MUNICIPALITY OF MAYDOLONG, PROVINCE OF EASTERN SAMAR, TO BE KNOWN AS BARRIO LAPGAP.
+
+ Be it enacted by the Senate and House of Representative of the Philippines in Congress assembled:
+
+ **Section 1.** The sitio of Lapgap is hereby converted into a regular barrio in the Municipality of Maydolong, Province of Eastern Samar, to be known as Barrio Lapgap.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Republic Act	Converts the sitio of Lapgap into a regular barrio in the Municipality of Maydolong, Eastern Samar.	"[{""title"": ""Section 1"", ""summary"": ""The sitio of Lapgap is hereby converted into a regular barrio in the Municipality of Maydolong, Province of Eastern Samar, to be known as Barrio Lapgap.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	6189	June 19, 1971			To convert the sitio of Lapgap into a regular barrio.	"[""Conversion of the sitio of Lapgap into a regular barrio"", ""The Act takes effect upon approval""]"		"[""barrio"", ""conversion"", ""Maydolong"", ""Eastern Samar""]"	"[""sitio"", ""barrio"", ""Maydolong"", ""Eastern Samar"", ""Republic Act 6189""]"
+repacts:datasets/markdown/repacts/1971/ra_6190_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6190_1971.md	ra_6190_1971	AN ACT CONVERTING SITIO ISLAGAN INTO A REGULAR BARRIO IN THE MUNICIPALITY OF MASLOG, PROVINCE OF EASTERN SAMAR, TO BE KNOWN AS BARRIO SAN ISIDRO.	"**[ REPUBLIC ACT NO. 6190, June 19, 1971 ]**
+
+ AN ACT CONVERTING SITIO ISLAGAN INTO A REGULAR BARRIO IN THE MUNICIPALITY OF MASLOG, PROVINCE OF EASTERN SAMAR, TO BE KNOWN AS BARRIO SAN ISIDRO.
+
+ Be it enacted by the Senate and House of Representatives of the Philippinesin Congress assembled:
+
+ **Section 1.** The sitio of Islagan is hereby converted into a regular barrio in the Municipality of Maslog, Province of Eastern Samar, to be known as Barrio San Isidro.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Local Government	Converts the sitio of Islagan in Maslog, Eastern Samar into a regular barrio named Barrio San Isidro.	"[{""title"": ""Section 1."", ""summary"": ""Converts the sitio of Islagan into a regular barrio named Barrio San Isidro.""}, {""title"": ""Section 2."", ""summary"": ""Act takes effect upon approval.""}]"	RA 6190	June 19, 1971			Convert an existing sitio into a regular barrio to formalize its status.	"[""Conversion of the sitio of Islagan into Barrio San Isidro."", ""Act takes effect upon approval.""]"		"[""Local Government"", ""Barangay"", ""Sitio"", ""Barrio""]"	"[""sitio"", ""barrio"", ""Maslog"", ""Eastern Samar"", ""conversion""]"
+repacts:datasets/markdown/repacts/1971/ra_6191_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6191_1971.md	ra_6191_1971	An Act Converting the Sitios of Naubay, Denapalan, Libtong, Balud and Rawis, All in the Municipality of Arteche, Province of Eastern Samar, into Regular Barrios, to be Known as Barrios Santiago, San Antonio, San Celestino, San Pablo and San Marquez, Respectively.	"**[ REPUBLIC ACT NO. 6191, June 19, 1971 ]**
+
+ AN ACT CONVERTING THE SITIOS OF NAUBAY, DENAPALAN, LIBTONG, BALUD AND RAWIS, ALL IN THE MUNICIPALITY OF ARTECHE, PROVINCE OF EASTERN SAMAR, INTO REGULAR BARRIOS, TO BE KNOWN AS BARRIOS SANTIAGO, SAN ANTONIO, SAN CELESTINO, SAN PABLO AND SAN MARQUEZ, RESPECTIVELY.
+
+ Be it enacted by the Senate and House of Representatives of the Philippinesin Congress assembled:
+
+ **Section 1.** The sitios of Naubay, Denapalan, Libtong, Balud and Rawis, all in the Municipality of Arteche, Province of Eastern Samar, are hereby converted into regular barrios to be known as Barrios Santiago, San Antonio, San Celestino, San Pablo and San Marquez, respectively.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Republic Act	This act converts five sitios in Arteche, Eastern Samar into regular barrios named Barrios Santiago, San Antonio, San Celestino, San Pablo and San Marquez, respectively, and takes effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The sitios of Naubay, Denapalan, Libtong, Balud and Rawis are hereby converted into regular barrios named Barrios Santiago, San Antonio, San Celestino, San Pablo and San Marquez.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	6191	June 19, 1971			To reclassify certain sitios in Eastern Samar into regular barrios for better local governance.	"[""Conversion of specified sitios into regular barrios"", ""Effectivity upon approval""]"		"[""Local Government"", ""Barangay"", ""Sitios"", ""Reclassification""]"	"[""Sitios"", ""Barrios"", ""Arteche"", ""Eastern Samar"", ""Republic Act"", ""Local Government""]"
+repacts:datasets/markdown/repacts/1971/ra_6192_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6192_1971.md	ra_6192_1971	AN ACT CONVERTING THE SITIOS OF BINALOAN, CANBAGAHAY, DACOL, UPPER DANAO, BONGDO II, PANGABOTAN AND GAYAM, ALL IN THE MUNICIPALITY OF TAFT, PROVINCE OF EASTERN SAMAR, INTO BARRIOS TO BE KNOWN AS BARRIOS BINALOAN, SAN PABLO, DACOL, DEL REMEDIOS, BETO, PANGABOTAN AND GAYAM, RESPECTIVELY.	"**[ REPUBLIC ACT NO. 6192, June 19, 1971 ]**
+
+ AN ACT CONVERTING THE SITIOS OF BINALOAN, CANBAGAHAY, DACOL, UPPER DANAO, BONGDO II, PANGABOTAN AND GAYAM, ALL IN THE MUNICIPALITY OF TAFT, PROVINCE OF EASTERN SAMAR, INTO BARRIOS TO BE KNOWN AS BARRIOS BINALOAN, SAN PABLO, DACOL, DEL REMEDIOS, BETO, PANGABOTAN AND GAYAM, RESPECTIVELY.
+
+ Be it enacted by the Senate and House of Representatives of the Philippinesin Congress assembled:
+
+ **Section 1.** The sitios of Binaloan, Canbagahay, Dacol, Upper Danao, Bongdo II, Pangabotan and Gayaro, all in the Municipality of Taft, Province of Eastern Samar, are hereby converted into barrios to be known as Barrios Binaloan, San Pablo, Dacol, Del Remedios, Beto, Pangabotan and Gayam, respectively.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Republic Act	Converts specified sitios in Taft, Eastern Samar into barrios with new names and establishes their effective date.	"[{""title"": ""Section 1"", ""summary"": ""Converts the sitios of Binaloan, Canbagahay, Dacol, Upper Danao, Bongdo II, Pangabotan and Gayam into barrios named Barrios Binaloan, San Pablo, Dacol, Del Remedios, Beto, Pangabotan and Gayam.""}, {""title"": ""Section 2"", ""summary"": ""The act takes effect upon its approval.""}]"	6192	June 19, 1971			Conversion of sitios to barrios to formalize local administrative units.	"[""Conversion of specified sitios into barrios."", ""Act takes effect upon approval.""]"			"[""Sitios"", ""Barrios"", ""Taft"", ""Eastern Samar"", ""Republic Act 6192""]"
+repacts:datasets/markdown/repacts/1971/ra_6193_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6193_1971.md	ra_6193_1971	AN ACT CREATING CERTAIN BARRIOS IN THE MUNICIPALITY OF VILLABA, PROVINCE OF LEYTE.	"**[ REPUBLIC ACT NO. 6193, June 19, 1971 ]**
+
+ AN ACT CREATING CERTAIN BARRIOS IN THE MUNICIPALITY OF VILLABA, PROVINCE OF LEYTE.
+
+ Be it enacted, by the Senate and House of Representatives of the Philippinesin Congress assembled:
+
+ **Section 1.** The following sitios in the Municipality of Villaba, Province of Leyte, are hereby converted into barrios, of said municipality, to wit:

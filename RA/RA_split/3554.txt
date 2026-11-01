@@ -1,0 +1,162 @@
+
+ Approved: NOV 13 2020
+
+ (SGD.)**RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	An act to establish the Bicol Women’s and Children’s Hospital in Pamplona, Camarines Sur, providing for its 200-bed capacity, specialized services, funding, and operational framework.	"[{""title"": ""Section 1"", ""summary"": ""Establishes a 200\u2011bed women\u2019s and children\u2019s hospital under the direct supervision of the Provincial Government of Camarines Sur.""}, {""title"": ""Section 2"", ""summary"": ""Defines the hospital\u2019s specialized services, including prenatal testing, obstetrics, gynecology, pediatrics, lactation programs, nutrition, neonatal care, immunization, postpartum depression support, parenting education, and health awareness.""}, {""title"": ""Section 3"", ""summary"": ""Mandates the province to develop a hospital development plan covering bed capacity, service capability, staffing, capital outlay, and operational budget.""}, {""title"": ""Section 4"", ""summary"": ""Provides for funding from the Provincial Government and the Secretary of Health\u2019s subsidy program to support capital outlays and operations.""}, {""title"": ""Section 5"", ""summary"": ""Severability clause ensuring remaining provisions remain in force if any part is declared unconstitutional.""}, {""title"": ""Section 6"", ""summary"": ""Repeals, amends, or modifies all other inconsistent laws, decrees, executive orders, issuances, rules, and regulations.""}, {""title"": ""Section 7"", ""summary"": ""Effective 15 days after publication in the Official Gazette or a newspaper of general circulation.""}]"	11495	2020-11-13			To provide for the establishment and funding of a dedicated women’s and children’s hospital in the Municipality of Pamplona to improve healthcare services for women and children in Camarines Sur.	"[""Establishment of a 200\u2011bed women\u2019s and children\u2019s hospital"", ""Specialized healthcare services for women and children"", ""Provincial government supervision"", ""Funding from provincial and national sources"", ""Severability clause"", ""Repeal of inconsistent laws"", ""Effective date after publication""]"	Repeals or amends any laws, decrees, executive orders, issuances, rules, or regulations that conflict with the provisions of this act.	"[""Health"", ""Women\u2019s Health"", ""Children's Health"", ""Hospital"", ""Camarines Sur"", ""Philippines""]"	"[""women\u2019s hospital"", ""children\u2019s hospital"", ""healthcare"", ""Camarines Sur"", ""Pamplona"", ""Republic Act 11495"", ""hospital funding"", ""specialized services""]"
+repacts:datasets/markdown/repacts/2020/ra_11496_2020.md	repacts	2020		datasets/markdown/repacts/2020/ra_11496_2020.md	ra_11496_2020	AN ACT INCREASING THE BED CAPACITY OF THE WESTERN VISAYAS MEDICAL CENTER IN MANDURRIAO, ILOILO CITY FROM HUNDRED TWENTY-FIVE (425) BEDS TO SEVEN HUNDRED (700) BEDS, UPGRADING ITS PROFESSIONAL HEALTH CARE SERVICES AND FACILITIES, AUTHORIZING THE INCREASE OF ITS MEDICAL PERSONNEL AND APPROPRIATING FUNDS THEREFOR	"Eighteenth Congress Second Regular Session Begun and held in Metro Manila, on Monday, the twenty-seventh day of July, two thousand twenty.
+
+ **[ REPUBLIC ACT NO. 11496, November 13, 2020 ]**
+
+ **AN ACT INCREASING THE BED CAPACITY OF THE WESTERN VISAYAS MEDICAL CENTER IN MANDURRIAO, ILOILO CITY FROM HUNDRED TWENTY-FIVE (425) BEDS TO SEVEN HUNDRED (700) BEDS, UPGRADING ITS PROFESSIONAL HEALTH CARE SERVICES AND FACILITIES, AUTHORIZING THE INCREASE OF ITS MEDICAL PERSONNEL AND APPROPRIATING FUNDS THEREFOR**
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The authorized bed capacity of the Western Visayas Medical Center (WVMC) located in Mandurriao, Iloilo City is hereby increased from four hundred twenty-five (425) beds to seven hundred (700) beds.
+
+ **Section 2.** The existing professional health care services and facilities of the WVMC are hereby upgraded to conform with and be commensurate to the increase in its bed capacity as provided in Section 1 hereof.
+
+ **Section 3.** The existing workforce of the WVMC shall also be correspondingly increased. The Secretary of the Department of Health (DOH), in coordination with the Secretary of the Department of Budget and Management (DBM), the Commissioner of the Civil Service Commission (CSC) and the Chief of the WVMC, shall determine the additional plantilla positions to be created and filled up.
+
+ **Section 4.** Any future increase in bed capacity, service capability and staffing requirements shall be consistent with the hospital development plan, which shall be prepared and submitted by the Medical Center Chief of the WVMC to the DOH to reflect the developmental goals of the hospital.
+
+ **Section 5.** The Secretary of Health shall immediately include in the Department's programs the implementation of this Act, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 6.** If any provisions or part of this Act is declared unconstitutional, the remaining parts or provisions not affected shall remain in full force and effect.
+
+ **Section 7.** All other laws, decrees, executive orders, issuances, rules and regulations, or parts thereof which are inconsistent with the provisions of this Act are hereby repealed, amended or modified accordingly.
+
+ **Section 8.** This Act shall take effect fifteen (15) days following its publication in theOfficial Gazetteor in any newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.)**VICENTE C. SOTTO III** President of the Senate | (SGD.)**ALAN PETER S. CAYETANO** Speaker of the House of Representatives |
+
+ This Act which was originated in the House of Representatives was passed by the House of Representatives on march 2, 2020, amended by the Senate of the Philippines on July 28, 2020, and which amendments were concurred in by the House of Representatives on August 26, 2020.
+
+ | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.)**JOSE LUIS G. MONTALES** Secretary General House of Representatives |
+
+ Approved: NOV 13 2020
+
+ (SGD.)**RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	The Act increases the bed capacity of Western Visayas Medical Center from 425 to 700 beds, upgrades services and facilities, increases medical personnel, and appropriates funds.	"[{""title"": ""Section 1."", ""summary"": ""Increases bed capacity from 425 to 700 beds.""}, {""title"": ""Section 2."", ""summary"": ""Upgrades existing professional health care services and facilities to match increased capacity.""}, {""title"": ""Section 3."", ""summary"": ""Increases workforce; determines new plantilla positions.""}, {""title"": ""Section 4."", ""summary"": ""Future increases must align with hospital development plan prepared by WVMC Chief.""}, {""title"": ""Section 5."", ""summary"": ""Secretary of Health to include implementation in programs; funding in General Appropriations Act.""}, {""title"": ""Section 6."", ""summary"": ""Constitutional declaration of any provision does not affect remaining parts.""}, {""title"": ""Section 7."", ""summary"": ""Repeals or amends inconsistent laws, decrees, etc.""}, {""title"": ""Section 8."", ""summary"": ""Act takes effect 15 days after publication in Official Gazette or newspaper.""}]"	11496	November 13, 2020	"[{""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}, {""name"": ""ALAN PETER S. CAYETANO"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""MYRA MARIE D. VILLARICA"", ""title"": ""Secretary of the Senate""}, {""name"": ""JOSE LUIS G. MONTALES"", ""title"": ""Secretary General House of Representatives""}]"	To increase bed capacity and upgrade services at Western Visayas Medical Center.	"[""Bed capacity increased from 425 to 700 beds"", ""Services and facilities upgraded"", ""Medical personnel increased"", ""Funds appropriated"", ""Future increases aligned with hospital development plan"", ""Repeals or amends inconsistent laws"", ""Act effective 15 days after publication""]"	Repeals or amends provisions inconsistent with the Act	"[""Healthcare"", ""Hospital capacity"", ""Medical Services"", ""Philippines""]"	"[""bed capacity"", ""Western Visayas Medical Center"", ""Mandurriao"", ""Iloilo City"", ""healthcare"", ""medical personnel"", ""funding"", ""General Appropriations Act""]"
+repacts:datasets/markdown/repacts/2020/ra_11497_2020.md	repacts	2020		datasets/markdown/repacts/2020/ra_11497_2020.md	ra_11497_2020	AN ACT INCREASING THE BED CAPACITY OF THE LAS PIAS GENERAL HOSPITAL AND SATELLITE TRAUMA CENTER IN LAS PIAS CITY, METRO MANILA FROM TWO HUNDRED (200) TO FIVE HUNDRED (500) BEDS, UPGRADING ITS PROFESSIONAL HEALTH CARE SERVICES AND FACILITIES, AND APPROPRIATING FUNDS THEREFOR	"Eighteenth Congress Second Regular Session Begun and held in Metro Manila, on Monday, the twenty-seventh day of July, two thousand twenty.
+
+ **[ REPUBLIC ACT NO. 11497, November 13, 2020 ]**
+
+ **AN ACT INCREASING THE BED CAPACITY OF THE LAS PIAS GENERAL HOSPITAL AND SATELLITE TRAUMA CENTER IN LAS PIAS CITY, METRO MANILA FROM TWO HUNDRED (200) TO FIVE HUNDRED (500) BEDS, UPGRADING ITS PROFESSIONAL HEALTH CARE SERVICES AND FACILITIES, AND APPROPRIATING FUNDS THEREFOR**
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The authorized bed capacity of the Las Pias General Hospital and Satellite Trauma Center (LPGHSTC) in Las Pias City, Metro Manila is hereby increased from two hundred (200) to five hundred (500) beds.
+
+ **Section 2.** The existing professional health care services and facilities of the LPGHSTC are also hereby upgraded to conform with and be commensurate to the increase in its bed capacity as provided in Section 1 hereof.
+
+ **Section 3.** The existing workforce of the LPGHSTC, which includes doctors, nurses and support personnel, shall also be correspondingly increased. The Secretary of the Department of Health (DOH) shall, in coordination with the Secretary of the Department of Budget and Management (DBM) and the Commissioner of the Civil Service Commission (CSC), and after consultation with the Chief of the LPGHSTC, determine the additional new positions to be created and filled up.
+
+ **Section 4.** Any future increase in bed capacity, service capability and staffing requirements shall be consistent with the hospital development plan, which shall be prepared and submitted by the Medical Center Chief of the LPGHSTC to the DOH to reflect the developmental goals of the hospital.
+
+ **Section 5.** The Secretary of Health shall immediately include in the Department's programs the implementation of this Act, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 6.** The Secretary of Health, in coordination with the Secretary of the DBM and the Commissioner of the CSC shall, within ninety (90) days from the effectivity of this Act, promulgate the necessary rules and regulations for its effective implementation.
+
+ **Section 7.** If any provisions or part of this Act is declared unconstitutional, the remaining parts or provisions not affected shall remain in full force and effect.
+
+ **Section 8.** All other laws, decrees, executive orders, issuances, rules and regulations, or parts thereof which are inconsistent with the provisions of this Act are hereby repealed, amended or modified accordingly.
+
+ **Section 9.** This Act shall take effect fifteen (15) days following its publication in theOfficial Gazetteor in a newspaper of general circulation.
+
+ Approved,
+
+  | (SGD.)**VICENTE C. SOTTO III** President of the Senate | (SGD.)**ALAN PETER S. CAYETANO** Speaker of the House of Representatives |
+
+ This Act which was originated in the House of Representatives was passed by the House of Representatives on March 2, 2020, amended by the Senate of the Philippines on July 28, 2020, and which amendments were concurred in by the House of Representatives on August 26, 2020.
+
+ | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.)**JOSE LUIS G. MONTALES** Secretary General House of Representatives |
+
+ Approved: NOV 13 2020
+
+ (SGD.)**RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	The act increases the bed capacity of Las Pias General Hospital and Satellite Trauma Center from 200 to 500 beds, upgrades its health care services and facilities, expands workforce, and appropriates funds for implementation.	"[{""title"": ""Section 1."", ""summary"": ""Increases the authorized bed capacity of LPGHSTC from 200 to 500 beds.""}, {""title"": ""Section 2."", ""summary"": ""Upgrades professional health care services and facilities to match the increased bed capacity.""}, {""title"": ""Section 3."", ""summary"": ""Expands workforce and creates new positions in coordination with DOH, DBM, and CSC.""}, {""title"": ""Section 4."", ""summary"": ""Future increases in bed capacity and staffing must align with the hospital development plan.""}, {""title"": ""Section 5."", ""summary"": ""Secretary of Health to include implementation of the act in departmental programs, with funding in the General Appropriations Act.""}, {""title"": ""Section 6."", ""summary"": ""Within 90 days, Secretary of Health with DBM and CSC to promulgate necessary rules and regulations.""}, {""title"": ""Section 7."", ""summary"": ""Unconstitutional provisions are severed; the rest remain in force.""}, {""title"": ""Section 8."", ""summary"": ""Repeals or amends inconsistent laws, decrees, executive orders, issuances, rules and regulations.""}, {""title"": ""Section 9."", ""summary"": ""Effectivity 15 days after publication in the Official Gazette or a newspaper of general circulation.""}]"	11497	November 13, 2020			To increase bed capacity, upgrade services and facilities of LPGHSTC, and provide necessary funding and regulatory support.	"[""Increase bed capacity from 200 to 500."", ""Upgrade health care services and facilities."", ""Expand workforce and create new positions."", ""Align future increases with development plan."", ""Include implementation in health programs."", ""Promulgate rules within 90 days."", ""Sever unconstitutional provisions."", ""Repeal or amend inconsistent laws."", ""Effectivity after publication.""]"		"[""Health"", ""Hospital"", ""Bed Capacity""]"	"[""Las Pias General Hospital"", ""Satellite Trauma Center"", ""Bed Capacity"", ""Health Care Services"", ""Department of Health"", ""Department of Budget and Management"", ""Civil Service Commission""]"
+repacts:datasets/markdown/repacts/2020/ra_11498_2020.md	repacts	2020		datasets/markdown/repacts/2020/ra_11498_2020.md	ra_11498_2020	AN ACT INCREASING THE BED CAPACITY OF THE CAGAYAN VALLEY MEDICAL CENTER (CVMC) IN TUGUEGARAO CITY, PROVINCE OF CAGAYAN, FROM FIVE HUNDRED (500) TO ONE THOUSAND (1,000) BEDS AND APPROPRIATING FUNDS THEREFOR	"Eighteenth Congress Second Regular Session Begun and held in Metro Manila, on Monday, the twenty-seventh day of July, two thousand twenty.
+
+ **[ REPUBLIC ACT NO. 11498, November 13, 2020 ]**
+
+ **AN ACT INCREASING THE BED CAPACITY OF THE CAGAYAN VALLEY MEDICAL CENTER (CVMC) IN TUGUEGARAO CITY, PROVINCE OF CAGAYAN, FROM FIVE HUNDRED (500) TO ONE THOUSAND (1,000) BEDS AND APPROPRIATING FUNDS THEREFOR**
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There bed capacity of the Cagayan Valley Medical Center (CVMC) shall be increased from five hundred (500) to one thousand (1,000) beds. Any future increase in bed capacity shall be consistent with the hospital development plan which shall be prepared and submitted by the Medical Center Chief of the CVMC to the Department of Health (DOH) to reflect the development goals of the hospital.
+
+ **Section 2.** The existing professional health care service and facilities of the CVMC are also hereby upgraded to conform with and be commensurate to the increase in bed capacity as provided for in Section 1 hereof, consistent with the hospital development plan.
+
+ **Section 3.** The existing workforce of the CVMC, which includes doctors, nurses, and support personnel, shall also be increased correspondingly, consistent with the hospital development plan. The Secretary of the DOH shall, after consultation with the Medical Center Chief of the CVMC, and in coordination with the Secretary of the Department of Budget and Management and the Commissioner of the Civil Service Commission, determine the additional new positions to be created and filled up.
+
+ **Section 4.** The Secretary of Health shall immediately include in the program of the DOH the implementation of this Act, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 5.** If any provisions or part of this Act is declared unconstitutional, the remaining parts or provisions not affected shall remain in full force and effect.
+
+ **Section 6.** All other laws, decrees, executive orders, issuances, rules and regulations, or parts thereof which are inconsistent with the provisions of this Act are hereby repealed, amended or modified accordingly.
+
+ **Section 7.** This Act shall take effect fifteen (15) days following its publication in theOfficial Gazetteor in any newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.)**VICENTE C. SOTTO III** President of the Senate | (SGD.)**ALAN PETER S. CAYETANO** Speaker of the House of Representatives |
+
+ This Act which was originated in the House of Representatives was passed by the House of Representatives on March 2, 2020, amended by the Senate of the Philippines on July 28, 2020, and which amendments were concurred in by the House of Representatives on August 26, 2020.
+
+ | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.)**JOSE LUIS G. MONTALES** Secretary General House of Representatives |
+
+ Approved: NOV 13 2020
+
+ (SGD.)**RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	This Act increases the bed capacity of the Cagayan Valley Medical Center from 500 to 1,000 beds, upgrades its services and workforce in line with a development plan, appropriates funds for the expansion, and repeals inconsistent laws.	"[{""title"": ""Section 1."", ""summary"": ""Increases CVMC bed capacity from 500 to 1,000 and requires future increases to align with a hospital development plan.""}, {""title"": ""Section 2."", ""summary"": ""Upgrades CVMC's professional health care services and facilities to match the increased bed capacity, in accordance with the development plan.""}, {""title"": ""Section 3."", ""summary"": ""Expands CVMC's workforce (doctors, nurses, support personnel) in line with the development plan; the Secretary of Health, with other officials, will determine new positions.""}, {""title"": ""Section 4."", ""summary"": ""Includes the Act in the DOH program and ensures its funding is part of the annual General Appropriations Act.""}, {""title"": ""Section 5."", ""summary"": ""Provides that if any part of the Act is unconstitutional, the remaining provisions remain in force.""}, {""title"": ""Section 6."", ""summary"": ""Repeals, amends, or modifies any other laws, decrees, executive orders, issuances, rules or regulations inconsistent with this Act.""}, {""title"": ""Section 7."", ""summary"": ""The Act takes effect 15 days after publication in the Official Gazette or a newspaper of general circulation.""}]"	11498	November 13, 2020			To increase the bed capacity and improve the services and workforce of the Cagayan Valley Medical Center, ensuring adequate healthcare facilities for the region.	"[""Increase bed capacity from 500 to 1,000"", ""Upgrade services and facilities"", ""Expand workforce"", ""Appropriate funds for expansion"", ""Include in DOH program"", ""Repeal inconsistent laws"", ""Effective 15 days after publication""]"		"[""Healthcare"", ""Medical Center"", ""Bed Capacity"", ""Cagayan Valley""]"	"[""bed capacity"", ""Cagayan Valley Medical Center"", ""healthcare services"", ""Department of Health"", ""hospital development plan"", ""funding appropriations""]"
+repacts:datasets/markdown/repacts/2020/ra_11499_2020.md	repacts	2020		datasets/markdown/repacts/2020/ra_11499_2020.md	ra_11499_2020	AN ACT EXPANDING THE SERVICES OF THE MALITA DISTRICT HOSPITAL IN BARANGAY POBLACION, MUNICIPALITY OF MALITA, PROVINCE OF DAVAO OCCIDENTAL, RENAMING IT AS THE MALITA WOMEN'S AND CHILDREN'S WELLNESS CENTER	"Eighteenth Congress Second Regular Session Begun and held in Metro Manila, on Monday, the twenty-seventh day of July, two thousand twenty.
+
+ **[ REPUBLIC ACT NO. 11499, November 13, 2020 ]**
+
+ **AN ACT EXPANDING THE SERVICES OF THE MALITA DISTRICT HOSPITAL IN BARANGAY POBLACION, MUNICIPALITY OF MALITA, PROVINCE OF DAVAO OCCIDENTAL, RENAMING IT AS THE MALITA WOMEN'S AND CHILDREN'S WELLNESS CENTER**
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Malita District Hospital located in Barangay Problacion, Municipality of Malita, Province of Davao Occidental is hereby renamed the Malita Women's and Chidlren's Wellness Center.
+
+ **Section 2.** The Malita Women's and Children's Wellness Center, hereinafter referred to as the Center, shall provide specialty healthcare services on obstetrics and gynecology, prenatal, postnatal, and neonatal care, lactation programs, children's immunization, other women and pediatric care and animal bite treatment.
+
+ **Section 3.** The Center shall be under the direct supervision and control of the Provincial Government of Davao Occidental.
+
+ **Section 4.** The Secretary of the Department of Health (DOH) shall immediately include in the Department's subsidy program, its support for the capital outlays requirement of the Center.
+
+ **Section 5.** The Chief of Hospital shall submit to the DOH a development plan to reflect the development goals of the Center. The medical personnel, capital outlays and budgetary needs for the operation of the Center shall be based on its development plan.
+
+ **Section 6.** If any provisions or part of this Act is declared unconstitutional, the remaining parts or provisions not affected shall remain in full force and effect.
+
+ **Section 7.** All other laws, decrees, executive orders, issuances, rules and regulations, or parts thereof which are inconsistent with the provisions of this Act are hereby repealed, amended or modified accordingly.
+
+ **Section 8.**This Act shall take effect fifteen (15) days following its publication in theOfficial Gazetteor in any newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.)**VICENTE C. SOTTO III** President of the Senate | (SGD.)**ALAN PETER S. CAYETANO** Speaker of the House of Representatives |
+
+ This Act which was originated in the House of Representatives was passed by the House of Representatives on March 3, 2020, amended by the Senate of the Philippines on July 28, 2020, and which amendments were concurred in by the House of Representatives on August 26, 2020.
+
+ | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.)**JOSE LUIS G. MONTALES** Secretary General House of Representatives |
+
+ Approved: NOV 13 2020
+
+ (SGD.)**RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	This act renames the Malita District Hospital to the Malita Women's and Children's Wellness Center and expands its services to include specialized healthcare for women and children.	"[{""title"": ""Section 1."", ""summary"": ""Renames the Malita District Hospital as the Malita Women's and Children's Wellness Center.""}, {""title"": ""Section 2."", ""summary"": ""Specifies that the Center will provide specialty healthcare services on obstetrics and gynecology, prenatal, postnatal, neonatal care, lactation programs, children\u2019s immunization, other women and pediatric care, and animal bite treatment.""}, {""title"": ""Section 3."", ""summary"": ""States that the Center shall be under the direct supervision and control of the Provincial Government of Davao Occidental.""}, {""title"": ""Section 4."", ""summary"": ""Mandates the Secretary of the Department of Health to include the Center in the Department's subsidy program and support its capital outlays.""}, {""title"": ""Section 5."", ""summary"": ""Requires the Chief of Hospital to submit a development plan to the DOH, which will guide the Center\u2019s medical personnel, capital outlays, and budgetary needs.""}, {""title"": ""Section 6."", ""summary"": ""Provides that if any provisions are declared unconstitutional, the remaining unaffected provisions remain in force.""}, {""title"": ""Section 7."", ""summary"": ""Repeals, amends, or modifies all other laws, decrees, executive orders, issuances, rules and regulations inconsistent with this Act.""}, {""title"": ""Section 8."", ""summary"": ""The Act shall take effect fifteen days after its publication in the Official Gazette or in a newspaper of general circulation.""}]"	11499	November 13, 2020			To rename Malita District Hospital as Malita Women's and Children's Wellness Center and expand its services to provide specialized healthcare for women and children.	"[""Renaming of the hospital"", ""Expansion of services for women and children"", ""Direct supervision by provincial government"", ""DOH subsidy inclusion"", ""Development plan submission"", ""Constitutionality safeguard"", ""Repeal/amendment of inconsistent laws"", ""Effective date after publication""]"	All other laws, decrees, executive orders, issuances, rules and regulations, or parts thereof which are inconsistent with the provisions of this Act are hereby repealed, amended or modified accordingly.	"[""Health"", ""Women"", ""Children"", ""Philippines""]"	"[""Malita"", ""District Hospital"", ""Renaming"", ""Wellness Center"", ""Obstetrics"", ""Gynecology"", ""Prenatal"", ""Postnatal"", ""Neonatal"", ""Lactation"", ""Immunization"", ""Animal bite treatment"", ""Provincial Government"", ""Department of Health"", ""Capital outlays"", ""Development plan""]"
+repacts:datasets/markdown/repacts/2020/ra_11500_2020.md	repacts	2020		datasets/markdown/repacts/2020/ra_11500_2020.md	ra_11500_2020	AN ACT UPGRADING THE SIARGAO DISTRICT HOSPITAL IN THE MUNICIPALITY OF DAPA, PROVINCE OF SURIGAO DEL NORTE INTO A LEVEL II GENERAL HOSPITAL TO BE KNOWN AS SIARGAO ISLAND MEDICAL CENTER, INCREASING ITS BED CAPACITY, UPGRADING ITS PROFESSIONAL HEALTH CARE SERVICES AND FACILITIES, AUTHORIZING THE INCREASE OF ITS MEDICAL PERSONNEL AND APPROPRIATING FUNDS THEREFOR	"Eighteenth Congress Second Regular Session Begun and held in Metro Manila, on Monday, the twenty-seventh day of July, two thousand twenty.
+
+ **[ REPUBLIC ACT NO. 11500, November 13, 2020 ]**
+
+ **AN ACT UPGRADING THE SIARGAO DISTRICT HOSPITAL IN THE MUNICIPALITY OF DAPA, PROVINCE OF SURIGAO DEL NORTE INTO A LEVEL II GENERAL HOSPITAL TO BE KNOWN AS SIARGAO ISLAND MEDICAL CENTER, INCREASING ITS BED CAPACITY, UPGRADING ITS PROFESSIONAL HEALTH CARE SERVICES AND FACILITIES, AUTHORIZING THE INCREASE OF ITS MEDICAL PERSONNEL AND APPROPRIATING FUNDS THEREFOR**
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Siargao District Hospital in the Municipality of Dapa, Province of Surigao del Norte, is hereby upgraded into a Level II General Hospital to be known as the Siargao Island Medical Center (SIMC), under the direct supervision and control of the Department of Health (DOH).
+
+ The authorized bed capacity of the medical center is hereby increased from fifty (50) to one hundred (100) beds. Any future increase in bed capacity shall be consistent with the hospital development plan which shall be prepared by the Medical Center Chief of the SIMC and submitted to the DOH to reflect the development goals of the hospital.
+
+ **Section 2.** The existing professional health care services and facilities of the SIMC are also hereby upgraded to conform with and be commensurate to the increase in bed capacity as provided for in Section 1 hereof, consistent with the hospital development plan.

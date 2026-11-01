@@ -1,0 +1,157 @@
+
+ Any vacancy in the Tax Commission shall not affect its powers but shall be filled in the same manner in which the original appointment was made.
+
+ Members of the Tax Commission who are government officials shall not receive additional compensation for services rendered thereto. Members of the Tax Commission who are not government officials shall receive a per diem of twenty-five pesos when engaged in the performance of duties vested in the Tax Commission. Traveling and other necessary expenses shall, however, be allowed.
+
+ **Section 5.** *Submission of report.* The Tax Commission shall submit its report and recommendations to the President of the Philippines ad to both presiding officers of Congress not later than ten days after the opening of the next regular session of the Fourth Congress.
+
+ **Section 6.** *Funds.* To carry out the provisions of this Act, the sum of five hundred thousand pesos is hereby appropriated out of any funds in the National Treasury not otherwise appropriated.
+
+ **Section 7.** *Effectivity.* This Act shall take effect upon its
+
+ Approved: May 15, 1959.
+"	success	Act	An act that establishes the barrio of San Isidro by separating specified sitios from existing barrios within the municipality of Tingloy, Batangas.	"[{""title"": ""Section 1"", ""summary"": ""Separates the sitios of Banalo, Camastilisan, Pook, Pinagiluhan, and Look from the barrio of Papaya, and the sitios of Nangcaan and Bucal from the barrio of Pisa, constituting them into the new barrio of San Isidro.""}, {""title"": ""Section 2"", ""summary"": ""States that the act shall take effect upon its approval.""}]"	2197	May 7, 1959			To create a new barrio within the Municipality of Tingloy, thereby redefining local administrative boundaries.	"[""Separates specified sitios from existing barrios"", ""Constitutes the separated sitios into the barrio of San Isidro"", ""Effectivity upon approval""]"		"[""local government"", ""barrio"", ""municipality""]"	"[""San Isidro"", ""Tingloy"", ""Batangas"", ""barrio creation""]"
+repacts:datasets/markdown/repacts/1959/ra_2212_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2212_1959.md	ra_2212_1959	An Act to Change the Name of the Bago Bantay Elementary School in Quezon City to Esteban Abada Elementary School	"**REPUBLIC ACT No. 2212**
+
+ **An Act to Amend Sections One and Four of Republic Act Numbered Twenty Hundred Seventy, Entitled ""An Act to Provide for National Tax Census""**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section one of Republic Act Numbered Twenty hundred seventy is amended to read as follows:
+
+ > ""**Sec. 1.** Every resident of the Philippines over eighteen years of age, every guardian of minors and executor or administrator of estates and every corporation, joint stock company, partnership, joint account or association, whether domestic or resident foreign, shall within the month of February of 1962, and thereafter within the same month every four years, file with the city or municipal treasurer in such form as the Commissioner of Internal Revenue, with the approval of the Secretary of Finance, shall prescribe, without charge to such resident corporation, joint stock company, partnership, joint account or association, a statement under oath showing: in the case of a corporation, joint stock company, partnership, joint account or association: (1) the name of the business or businesses engaged in, (2) form of organization, (3) name and nationality of president, (4) name and nationality of manager thereof and (5) list of stockholders, partners or members of associations with their respective holdings; in the case of individuals: (1) name, (2) age, (3) sex, (4) nationality (if alien, the number of the Alien Registration Certificate), and aliases used, or authorized to be used, if any, (5) address, (6) occupation, (7) place of business, (8) wifes or husbands name, age, sex, occupation and place of business, and (9) the members of his family, age and sex; and in both cases: (1) real property owned, stating the nature thereof, location and assessed value thereof, and the annual gross income therefrom during the preceding year, (2) property held under lease stating also the nature, location and assessed value thereof and the annual income during the preceding year, (3) businesses subject to tax giving the nature and location thereof and the annual gross receipts or earnings during the preceding year, (4) stocks in corporations or shares in partnership or associations, (5) inventories of assets particularly machineries and buildings, merchandise on hand, unfinished goods and raw materials on hand, short and long-term receivables, and investments in stocks and bonds, (6) professions or occupations, stating the kind and location thereof and the annual salaries or gross receipts or earnings during the preceding year, and (7) personal properties except those worth less than five hundred pesos: *Provided,* *However*, That persons who failed to file their tax census declaration on or before October 21, 1958 are required to do so up to February 28, 1960, without incurring any penalty: *Provided, further,* That administrative or other fines imposed upon and collected from persons who filed their declarations after October 21, 1958 shall be refunded, without the necessity of any written claims for credit as provided for in section three hundred nine of the National Internal Revenue Code, and administrative or other fines imposed and unpaid are hereby remitted. This statement shall be prepared in quadruplicate. One copy shall be retained by the city or municipal treasurer who shall transmit the original and two copies to the Regional Director concerned, who shall send the original to the Commissioner of Internal Revenue and a copy to the Director of the Census and Statistics.
+>
+>  ""The Commissioner of Internal Revenue may, in meritorious cases, grant a reasonable extension of thirty days for filing the statement required in this Act.""
+
+ **Section 2.** Section four of Republic Act Numbered Twenty hundred and seventy is hereby amended to read as follows:
+
+ > ""**Sec. 4.** The statements furnished the Commissioner of Internal Revenue shall be consolidated by the Bureau of Internal Revenue into a tax census, copies of which shall be transmitted to the Secretary of Finance for statistical purposes, with the end in view of formulating tax policies and recommending reforms in the tax system and in revenue administration to achieve efficiency and honesty in the collection of taxes. The Secretary of Finance shall submit to Congress within five months after the last day set for filing the return a report on said tax census and the extent to which such census has been compiled, tabulated and analyzed in relation to actual revenue collections.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: May 15, 1959.
+"	success	Act	The act changes the name of the Bago Bantay Elementary School to Esteban Abada Elementary School.	"[{""title"": ""Section 1."", ""summary"": ""The name of the Bago Bantay Elementary School in Quezon City is hereby changed to Esteban Abada Elementary School.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2198	May 7, 1959			To change the name of the Bago Bantay Elementary School to Esteban Abada Elementary School.	"[""Name changed to Esteban Abada Elementary School."", ""Act takes effect upon approval.""]"		"[""Education"", ""School"", ""Name Change""]"	"[""Bago Bantay Elementary School"", ""Esteban Abada Elementary School"", ""Quezon City"", ""Republic Act 2198""]"
+repacts:datasets/markdown/repacts/1959/ra_2213_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2213_1959.md	ra_2213_1959	An Act Creating the Barrio of Hagichikan in the Municipality of Naval, Province of Leyte	"**REPUBLIC ACT No. 2213**
+
+ **An Act Changing the Name of the Ragan Norte Elementary School in the Municipality of Magsaysay, Province of Isabela, to San Ramon Elementary School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Ragan Norte Elementary School in the Municipality of Magsaysay, Province of Isabela, is hereby changed to San Ramon Elementary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: May 16, 1959.
+"	success	Republic Act	This act establishes the barrio of Hagichikan by consolidating several sitios within the municipality of Naval, Leyte, and declares it effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The sitios of Hagichikan, Bagakay, Hubasan, Cambonot, and Gisok are constituted into a distinct and independent barrio of Naval, Leyte, named the barrio of Hagichikan.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	2199	May 7, 1959			To create a new barrio within the municipality of Naval, Leyte.	"[""Constitutes specified sitios as the barrio of Hagichikan"", ""Act takes effect upon approval""]"		"[""local government"", ""barangay"", ""Leyte"", ""Naval""]"	"[""Barrio"", ""Hagichikan"", ""Naval"", ""Leyte"", ""Republic Act"", ""1959""]"
+repacts:datasets/markdown/repacts/1959/ra_2214_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2214_1959.md	ra_2214_1959	An Act Constituting the Sitios of Bobowa and Inakaran into Barrio Libertad, Sitios Campo Uno and Campo Dos into Barrio Sto. Niño, Sitios Balogo, Hagumayan and Hubas into Barrio Balogo, Sitios Guinodiongan and Pangdan into Barrio Guinodiongan, All of the Municipality of Capoocan, Province of Leyte	"**REPUBLIC ACT No. 2214**
+
+ **An Act Creating the Barrios of Caglanipao, San Roque, Sabella, Acedillo, Happy Valley, Alegria, Salvacion and Mabuhay in the Municipality of San Isidro, Province of Samar**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The following barrios are hereby created in the Municipality of San Isidro, Province of Samar:
+
+ (1) Barrio Caglanipao, consisting of the sitio of Panhigotan; (2) Barrio San Roque, consisting of the sitios of Manga, Cangahan and Naquibradohan; (3) Barrio Sabelia, consisting of the sitios of Cananias and Guenbogno-an; (4) Barrio Acedillo, consisting of the sitios of Catabonan and Balequaton; (5) Barrio Happy Valley, consisting of the sitios of Cacawayan and Benolobay; (6) Barrio Alegria, consisting of the sitios of Danao and Teres; (7) Barrio Salvacion, consisting of the sitios of Canawayon, Maripa-caban and Gallerahan; and (8) Barrio Mabuhay, consisting of the sitios of Maludbalud and Sohotan. **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: May 16, 1959.
+"	success	Local Government	An act that reconstitutes specific sitios in Capoocan, Leyte into designated barrios.	"[{""title"": ""Section 1"", ""summary"": ""The sitios of Bobowa and Inakaran are constituted into Barrio Libertad, sitios Campo Uno and Campo Dos into Barrio Sto. Ni\u00f1o, sitios Balogo, Hagumayan and Hubas into Barrio Balogo, sitios Guinodiongan and Pangdan into Barrio Guinodiongan, all of the Municipality of Capoocan, Province of Leyte.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	2200	May 7, 1959			To reorganize and formalize the barrio boundaries within Capoocan municipality for improved local governance.	"[""Constitutes the specified sitios into barrios"", ""The Act takes effect upon approval""]"		"[""Republic Act"", ""Local Government"", ""Legislation"", ""Barangay"", ""Leyte"", ""Capoocan""]"	"[""sitios"", ""barrio"", ""Capoocan"", ""Leyte"", ""constitution"", ""local government""]"
+repacts:datasets/markdown/repacts/1959/ra_2215_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2215_1959.md	ra_2215_1959	An Act Creating Certain Barrios in the Municipality of Dapitan, Province of Zamboanga del Norte	"**REPUBLIC ACT No. 2215**
+
+ **An Act Converting the Pototan Emergency Hospital in the Municipality of Pototan, Province of Iloilo, into a General Hospital to be Known as the Pototan General Hospital**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The Pototan Emergency Hospital in the Municipality of Pototan, Province of Iloilo, is converted into a general hospital to be known as the Pototan General Hospital.
+
+ **Section 2.** The expenses for the operation and maintenance shall be governed by the provisions of Republic Act Numbered One thousand nine hundred thirty-nine, otherwise known as the Hospital Financing Act: *Provided,* That the present appropriation for its operation and maintenance shall continue to be borne by the National Government and shall be increased as conditions warrant.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: May 16, 1959.
+"	success	Law	Republic Act No. 2201 establishes seven new barrios in the Municipality of Dapitan by consolidating existing sitios, thereby formalizing local administrative units.	"[{""title"": ""Section 1"", ""summary"": ""Constitutes the sitios of Urap and Talisay as the barrio of Oro; San Francisco, Villa Trinidad and Sigayan as the barrio of San Francisco; Sicayab, Larayan, Pagatpatan, Boton and Aligway Island as the barrio of Sicayab; Napo as the barrio of Napo; Oyan as the barrio of Oyan; Tag-olo as the barrio of Tag-olo; and Aseniero as the barrio of Aseniero.""}, {""title"": ""Section 2"", ""summary"": ""The Act shall take effect upon its approval.""}]"	2201	May 7, 1959			To create certain barrios in the Municipality of Dapitan, Province of Zamboanga del Norte.	"[""Creation of seven new barrios from existing sitios in Dapitan.""]"		"[""Local Government"", ""Barrios"", ""Dapitan""]"	"[""barrios"", ""sitios"", ""Dapitan"", ""Zamboanga del Norte"", ""Republic Act 2201""]"
+repacts:datasets/markdown/repacts/1959/ra_2216_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2216_1959.md	ra_2216_1959	An Act Creating the Barrio of San Nicolas in the Municipality of Dapitan, Province of Zamboanga del Norte	"**REPUBLIC ACT No. 2216**
+
+ **An Act Changing the Name of the Barrio of Tambon in the Municipality of Alicia, Province of Zamboanga del Sur, to Barrio Tandiong Muslim**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the barrio of Tambon in the Municipality of Alicia, Province of Zamboanga del Sur, is changed to barrio Tandiong Muslim.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: May 16, 1959.
+"	success	Local Government	Establishes the barrio of San Nicolas by consolidating the sitios of San Nicolas, Domonob, Barita, Malobog, Pangi and Lo-ok within the Municipality of Dapitan, Zamboanga del Norte.	"[{""title"": ""Section 1"", ""summary"": ""Constitutes the sitios of San Nicolas, Domonob, Barita, Malobog, Pangi and Lo-ok into an independent barrio named San Nicolas.""}, {""title"": ""Section 2"", ""summary"": ""The Act shall take effect upon its approval.""}]"	2202	May 7, 1959			To create a distinct and independent barrio within the Municipality of Dapitan.	"[""Creation of the barrio of San Nicolas"", ""Effective upon approval""]"		"[""Local Government"", ""Zamboanga del Norte"", ""Municipality of Dapitan""]"	"[""barrio"", ""San Nicolas"", ""Dapitan"", ""Zamboanga del Norte"", ""Republic Act 2202""]"
+repacts:datasets/markdown/repacts/1959/ra_2217_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2217_1959.md	ra_2217_1959	An Act to Change the Name of the Dulao Primary School in the Barrio of Dulao, Municipality of Bago, Province of Negros Occidental, to Vidal Cauntoy Primary School	"**REPUBLIC ACT No. 2217**
+
+ **An Act Changing the Name of the San Isidro Community School in the Municipality of Malitbog, Province of Leyte, to Oppus Memorial School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the San Isidro Community School in the Municipality of Malitbog, Province of Leyte, is changed to Oppus Memorial School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: May 7, 1959.
+"	success	Act	An act that changes the name of Dulao Primary School to Vidal Cauntoy Primary School in Bago, Negros Occidental.	"[{""title"": ""Section 1."", ""summary"": ""The name of the Dulao Primary School in the barrio of Dulao, Municipality of Bago, Province of Negros Occidental, is hereby changed to Vidal Cauntoy Primary School.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2203	May 7, 1959			To change the name of a primary school in Bago, Negros Occidental.	"[""The name of Dulao Primary School is changed to Vidal Cauntoy Primary School.""]"		"[""name change"", ""education"", ""primary school""]"	"[""Dulao"", ""Vidal Cauntoy"", ""primary school"", ""Negros Occidental"", ""Bago"", ""Republic Act""]"
+repacts:datasets/markdown/repacts/1959/ra_2218_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2218_1959.md	ra_2218_1959	An Act Creating Certain Barrios in the Municipality of Polanco, Province of Zamboanga del Norte	"**REPUBLIC ACT No. 2218**
+
+ **An Act Creating Certain Barrios in the Municipality of Quinapundan, Province of Samar**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Palactad, Pana-ogan, Loro nga Diyo and Anislag in the Municipality of Quinapundan, Province of Samar, are converted into barrios of said municipality to be known as the barrios of Mons. Guimbaolibot, Victor Terencio, Mons. Joel and Ramon Magsaysay, respectively.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: May 16, 1959.
+"	success	Republic Act	Establishes three new barrios in Polanco by combining listed sitios.	"[{""title"": ""Section 1."", ""summary"": ""Constitutes the sitios of Lantoy, Dalemaso, Banban, Apil, Salvar, Macasawad as Barrio Lantoy; Magangon, Sianib B, Sialo as Barrio Magangon; and Lapayanbaba, Bolagoc, Tena-an, Gosa wan, Miasi, Lobayan, Dewacat, Galematok, Sekot, Lenabo as Barrio Lapayanbaba.""}, {""title"": ""Section 2."", ""summary"": ""The Act shall take effect upon its approval.""}]"	2204	May 7, 1959			To create and formalize barrios within the Municipality of Polanco for administrative and local governance purposes.	"[""Creation of Barrio Lantoy from specified sitios"", ""Creation of Barrio Magangon from specified sitios"", ""Creation of Barrio Lapayanbaba from specified sitios""]"		"[""Local Government"", ""Barangay"", ""Zamboanga del Norte"", ""Polanco""]"	"[""barrios"", ""sitios"", ""municipality"", ""Zamboanga del Norte"", ""Polanco""]"
+repacts:datasets/markdown/repacts/1959/ra_2219_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2219_1959.md	ra_2219_1959	An Act to Constitute the Sitios of Cambuñgatod and Solop Both in the Municipality of Talalora, Province of Samar, into a Barrio to be Known as Barrio San Juan of the Same Municipality	"**REPUBLIC ACT No. 2219**
+
+ **An Act Changing the Name of the Barrio of Baboy in the Municipality of Talibon, Province of Bohol, to Barrio San Agustin**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the barrio of Baboy in the Municipality of Talibon, Province of Bohol, is changed to Barrio San Agustin.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: May 16, 1959.
+"	success	Republic Act	This act establishes the sitios of Cambuñgatod and Solop in Talalora, Samar as a new barrio named Barrio San Juan, effective upon its approval.	"[{""title"": ""Section 1"", ""summary"": ""Constitutes the sitios of Cambu\u00f1gatod and Solop into the barrio of Barrio San Juan in the Municipality of Talalora, Samar.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	2205	May 7, 1959			To establish a new barrio by combining two sitios into Barrio San Juan.	"[""Constitutes the sitios of Cambu\u00f1gatod and Solop into Barrio San Juan"", ""Act takes effect upon approval""]"		"[""Local Government"", ""Barangay"", ""Samar"", ""Territorial Reorganization""]"	"[""Sitios"", ""Barrio"", ""Talalora"", ""Samar"", ""Republic Act 2205""]"
+repacts:datasets/markdown/repacts/1959/ra_2220_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2220_1959.md	ra_2220_1959	An Act Creating Barrios in the Province of Leyte	"**REPUBLIC ACT No. 2220**
+
+ **An Act Transferring the Seat of Government of the Municipality of Liloy, Province of Zamboanga del Norte, from Barrio Timan to Upper Liloy Beach**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The seat of government of the Municipality of Liloy, Province of Zamboanga del Norte, is hereby transferred from Barrio Timan to upper Liloy Beach.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: May 16, 1959.
+"	success	Republic Act	This act converts specified sitios into barrios within the province of Leyte, establishing new administrative units.	"[{""title"": ""Section 1."", ""summary"": ""Converts the sitio of Lo-ok in the Municipality of Cabucgayan into Barrio Lo-ok.""}, {""title"": ""Section 2."", ""summary"": ""Converts multiple sitios in the Municipality of Calubian into barrios including Malobago, Inalad, Caruyocan, Laray, Bunacan, Kawayanan, Railes, Nepa, Tagharigue, Oson, Jubay, and Gotusan.""}, {""title"": ""Section 3."", ""summary"": ""Converts several sitios in the Municipality of Almeria into barrios including Sampao, Eyusan, Polang Bato, and Matango.""}, {""title"": ""Section 4."", ""summary"": ""Converts sitios in the Municipality of Culaba into barrios including Kalipayan, Bacolod, and Guinadapunan.""}, {""title"": ""Section 5."", ""summary"": ""Converts sitios in the Municipality of Biliran into barrios including Bato, Kanila, and Nasonogan.""}, {""title"": ""Section 6."", ""summary"": ""The act shall take effect upon its approval.""}]"	2206	May 7, 1959			To establish new barrios by converting existing sitios, thereby enhancing local administrative organization in Leyte.	"[""Conversion of Lo-ok sitio to Barrio Lo-ok"", ""Conversion of sitios in Calubian to barrios: Malobago, Inalad, Caruyocan, Laray, Bunacan, Kawayanan, Railes, Nepa, Tagharigue, Oson, Jubay, Gotusan"", ""Conversion of sitios in Almeria to barrios: Sampao, Eyusan, Polang Bato, Matango"", ""Conversion of sitios in Culaba to barrios: Kalipayan, Bacolod, Guinadapunan"", ""Conversion of sitios in Biliran to barrios: Bato, Kanila, Nasonogan""]"		"[""Local Governance"", ""Administrative Division"", ""Leyte""]"	"[""Barrios"", ""Sitios"", ""Leyte"", ""Local Government""]"
+repacts:datasets/markdown/repacts/1959/ra_2221_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2221_1959.md	ra_2221_1959	REPUBLIC ACT No. 2207 – An Act Prohibit the Importation of Rice and Corn and Provide Penalties for the Violation Thereof.	"**REPUBLIC ACT No. 2221**
+
+ **An Act Creating the Barrio of Manyaya in the Municipality of Murcia, Province of Negros Occidental**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Manyaya in the barrio of Sta. Rosa, Municipality of Murcia, Province of Negros Occidental, is separated from said barrio and converted into a distinct and independent barrio of said municipality to be known as the barrio of Manyaya.
+
+ The boundary of the proposed barrio of Manyaya and the barrio of Sta. Rosa, Municipality of Murcia, Province of Negros Occidental, shall be the Puncian River.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: May 16, 1959.
+"	success	Agriculture	This act prohibits the importation of rice and corn, establishes penalties for violations, allows authorized importation during national emergencies, and repeals conflicting laws.	"[{""title"": ""Section 1. Declaration of Policy"", ""summary"": ""Policy to protect local producers and promote self-sufficiency of rice and corn.""}, {""title"": ""Section 2. Prohibition"", ""summary"": ""Makes importation unlawful except under national emergency authorization by the President with NEC approval.""}, {""title"": ""Section 3. Penalties"", ""summary"": ""Defines fines, imprisonment, disqualification, license revocation, deportation, and confiscation.""}, {""title"": ""Section 4. Repeal"", ""summary"": ""Repeals inconsistent acts.""}, {""title"": ""Section 5. Effectivity"", ""summary"": ""Effective upon approval.""}]"	2207	May 15, 1959			To protect local rice and corn producers, ensure self-sufficiency, and regulate imports.	"[""Prohibits importation of rice and corn."", ""Allows importation during national emergency with NEC approval."", ""Sets penalties: fine of 5,000 pesos and 5 years imprisonment, disqualification, license revocation, deportation, and confiscation of imported goods.""]"		"[""Agriculture"", ""Trade"", ""Customs"", ""Food Security"", ""Importation"", ""Penalties""]"	"[""rice"", ""corn"", ""importation"", ""penalties"", ""national emergency"", ""self-sufficiency"", ""local producers"", ""disqualification"", ""confiscation""]"
+repacts:datasets/markdown/repacts/1959/ra_2222_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2222_1959.md	ra_2222_1959	An Act to Provide One Additional Assistant Provincial Fiscal for the Province of Samar, Amending for the Purpose Section Sixteen Hundred Seventy-Four of the Administrative Code, as Amended	"**REPUBLIC ACT No. 2222**
+
+ **An Act Changing to Marilag the Name of Barrio Pinagkaanuran in the Municipality of Rosario, Province of Batangas**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Barrio Pinagkaanuran in the Municipality of Rosario, Province of Batangas, is hereby changed to Marilag.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: May 16, 1959.
+"	success	Act	This Act amends Section 1674 of the Administrative Code to provide for the appointment of additional assistant provincial fiscals in several provinces, including the addition of one extra assistant fiscal for Samar, and sets salary scales and appointment procedures.	"[{""title"": ""Section 1."", ""summary"": ""Amends Section 1674 of the Administrative Code to add assistant provincial fiscal positions in multiple provinces, specifies salary scales, appointment process, and eligibility criteria.""}, {""title"": ""Section 2."", ""summary"": ""The Act shall take effect upon its approval.""}]"	2208	May 15, 1959			Provide one additional assistant provincial fiscal for Samar and amend Section 1674 of the Administrative Code to define fiscal positions, salaries, and appointment procedures for assistant provincial fiscals.	"[""Provides one additional assistant provincial fiscal for the Province of Samar."", ""Amends Section 1674 of the Administrative Code to add assistant provincial fiscal positions in numerous provinces."", ""Sets salary scales for assistant provincial fiscals based on class and number of positions."", ""Specifies appointment by the President with consent of the Commission on Appointments."", ""Defines eligibility criteria for appointment, requiring citizenship, legal practice, and five years of experience.""]"	Section 1674 of the Administrative Code (as amended by Republic Act No. 1799)	"[""act"", ""administrative code"", ""assistant provincial fiscal"", ""Samar"", ""Philippines"", ""RA 2208""]"	"[""assistant provincial fiscal"", ""Samar"", ""Administrative Code"", ""Section 1674"", ""salary"", ""appointment"", ""Commission on Appointments"", ""lawyer"", ""Philippines""]"

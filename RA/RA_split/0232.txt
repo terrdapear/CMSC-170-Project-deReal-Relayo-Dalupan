@@ -1,0 +1,158 @@
+
+ Section 6 All existing rules and regulations regulating exports with the exception of those promulgated by the Central Bank shall hereafter be readjusted, revised and integrated to conform with the provisions of this Act.
+
+ **Section 7.** This Act shall take effect upon its approval.
+
+ Approved, May 11, 1951.
+"	success	Act	Republic Act No. 607 establishes the municipality of Arteche in the Province of Samar by separating several barrios from the municipality of Oras. It provides for the appointment of municipal officials and specifies the act's effective date.	"[{""title"": ""Section 1."", ""summary"": ""Separates the barrios of San Ramon, Carapdapan, Beri, Tangbo, Catumsan, Bego, Concepcion, Casidman, Tawagan, and Tibalawon from the municipality of Oras and constitutes them as the municipality of Arteche, with its seat in San Ramon.""}, {""title"": ""Section 2."", ""summary"": ""The municipal mayor, vice-mayor and councilors of the new municipality shall be appointed by the President of the Republic of the Philippines to hold office until their successors are elected and qualified.""}, {""title"": ""Section 3."", ""summary"": ""The Act shall take effect upon its approval.""}]"	607	April 27, 1951			To create the municipality of Arteche in Samar by separating its barrios from Oras.	"[""Separates specified barrios from Oras and establishes them as the municipality of Arteche"", ""Establishes the municipal seat in San Ramon"", ""Provides for appointment of mayor, vice-mayor and councilors by the President until elections"", ""Specifies that the Act takes effect upon approval""]"		"[""Municipality"", ""Local Government"", ""Samar"", ""Republic Act 607""]"	"[""Arteche"", ""Samar"", ""municipality"", ""barrio"", ""local government"", ""Republic Act 607""]"
+repacts:datasets/markdown/repacts/1951/ra_614_1951.md	repacts	1951		datasets/markdown/repacts/1951/ra_614_1951.md	ra_614_1951	An Act to Amend Sections Thirteen and Seventeen of Republic Act Numbered Five Hundred Nine, by Creating Provincial and City Price Administration Committees and Extending the Period of Operation of the Said Act.	"**[ REPUBLIC ACT NO. 614, May 15, 1951 ]**
+
+ AN ACT CREATING THE MUNICIPALITY OF GIGMOTO IN THE PROVINCE OF CATANDUANES
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The barrios of Sicmil and Sioron of the municipality of Viga and the barrios of San Vicente, Gigmoto, Biong and Dororian of the municipality of Baras of the province of Catanduanes, are separated from said municipalities and constituted into a new municipality to be known as the municipality of Gigmoto.
+
+ **Section 2.** The elective officials of the new municipality shall be appointed by the President of the Philippines and shall hold office until their successors shall have been elected and qualified.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved, May 15, 1951.
+"	success	Republic Act	This act amends RA 509 to establish provincial and city price administration committees, outlines their composition, and sets the effective period until June 30, 1952.	"[{""title"": ""Section 1"", ""summary"": ""Establishes provincial and city price administration committees, defines their composition and authority, and allows delegation of powers.""}, {""title"": ""Section 2"", ""summary"": ""Amends Section 17 to set the act\u2019s effective period until June 30, 1952 and ensures convictions remain valid until termination.""}, {""title"": ""Section 3"", ""summary"": ""States that the act takes effect upon approval.""}]"	608	April 30, 1951				"[""Creation of provincial price administration committees with specified members"", ""Creation of city price administration committees with specified members"", ""Effective period until June 30, 1952"", ""Continued validity of convictions under the act""]"	Republic Act No. 509	"[""Price Administration"", ""Committee"", ""Amendment"", ""RA 608""]"	"[""price administration"", ""provincial committee"", ""city committee"", ""RA 509"", ""effective period"", ""convictions""]"
+repacts:datasets/markdown/repacts/1951/ra_615_1951.md	repacts	1951		datasets/markdown/repacts/1951/ra_615_1951.md	ra_615_1951	Act Creating the Municipality of Maydolong, Province of Samar	"**[ REPUBLIC ACT NO. 615, May 15, 1951 ]**
+
+ AN ACT CREATING THE MUNICIPALITY OF ROXAS, PROVINCE OP PALAWAN
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The barrios of Tinitian, Caramay, Rizal, Del Pilar, Malcampo, Tumarbong, Taradugan, Ilian, and Capayas in the municipality of Puerto Princesa, Province of Palawan, are hereby separated from said municipality and constituted into a new municipality to be known as the Municipality of Roxas. The seat of the government of the new municipality shall be at the sitio of Barbacan in the barrio of Del Pilar, Puerto Princesa.
+
+ **Section 2.** The elective officials of the newly created municipality shall be appointed by the President of the Philippines and shall hold office until their successors have been duly elected and shall have qualified in accordance with the Revised Election Code.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved, May 15, 1951.
+"	success	Republic Act	This Act establishes the municipality of Maydolong in Samar by separating specified barrios from the municipality of Borongan and appointing its officials.	"[{""title"": ""Section 1"", ""summary"": ""Separates the barrios of Maydolong, Balogo, Maybocog, Omawas, Tagaslian, Kampakirit, Suribao, Mayburak, Kanmanungdong, Malobago, Tabi, Maytigbao, and Kanluterio from the municipality of Borongan and constitutes them as the municipality of Maydolong, with its seat in the barrio of Maydolong.""}, {""title"": ""Section 2"", ""summary"": ""The municipal mayor, vice-mayor, and councilors of the new municipality shall be appointed by the President of the Republic of the Philippines until their successors are elected and qualified.""}, {""title"": ""Section 3"", ""summary"": ""This Act shall take effect upon its approval.""}]"	NO. 609	May 01, 1951			To create the municipality of Maydolong in the Province of Samar.	"[""Creation of the municipality of Maydolong"", ""Separation of specified barrios from Borongan"", ""Appointment of municipal officials by the President"", ""Act takes effect upon approval""]"		"[""municipality"", ""Samar"", ""local government"", ""Republic Act 609""]"	"[""Maydolong"", ""Samar"", ""municipality"", ""Republic Act 609""]"
+repacts:datasets/markdown/repacts/1951/ra_616_1951.md	repacts	1951		datasets/markdown/repacts/1951/ra_616_1951.md	ra_616_1951	Armed Forces Death Gratuity and Disability Pension Act of 1951	"**[ REPUBLIC ACT NO. 616, May 15, 1951 ]**
+
+ AN ACT TO CONVERT THE MUNICIPAL DISTRICT OF ITOGON, SUB-PROVINCE OF BENGUET MOUNTAIN PROVINCE, INTO A REGULAR MUNICIPALITY TO BE KNOWN AS THE MUNICIPALITY OF ITOGON.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The municipal district of Itogon, sub-province of Benguet, Mountain Province, is hereby converted into a new municipality to be known as Municipality of Itogon.
+
+ **Section 2.** The present municipal district mayor, vice-mayor, and councilors shall continue as such officials of the new municipality with the powers and duties of the same in regular municipalities and shall hold office until their successors shall have been elected and qualified.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved, May 15, 1951.
+"	success	Republic Act	An act providing for gratuities and pensions for officers and enlisted men who die or become disabled as a result of wounds, injuries, or disease incurred in line of duty, with appropriate appropriations and administrative provisions.	"[{""title"": ""Section 1. Short title"", ""summary"": ""Declares the short title of the act as \""Armed Forces Death Gratuity and Disability Pension Act of 1951\"".""}, {""title"": ""Section 2. Definitions"", ""summary"": ""Defines key terms such as Officer, Enlisted man, Active service, Child, Father, Mother, Widow, and Reasonable maintenance for purposes of the act.""}, {""title"": ""Section 3. Death Gratuity"", ""summary"": ""Provides a lump sum gratuity of three thousand pesos upon death of an officer or enlisted man, split between widow and children, or parents if no widow or children.""}, {""title"": ""Section 4. Determination of Right"", ""summary"": ""Specifies that rights to gratuity are determined at time of death and that shares pass to intestate heirs if a beneficiary predeceases.""}, {""title"": ""Section 5. Disability Pension"", ""summary"": ""Sets monthly pension rates based on disability percentage (25% to 100%) and provides additional increments for anatomical loss of limbs or partial blindness.""}, {""title"": ""Section 6. General Provisions"", ""summary"": ""Outlines procedures for determining service connection, disability degrees, and administration of funds by the Philippine Veterans Board.""}]"	610	1951-05-04			To provide monetary support in the form of gratuities and pensions to officers and enlisted men of the Armed Forces of the Philippines and the Philippine Constabulary who die or become disabled due to service‑related injuries, illnesses, or disease, and to establish the administrative mechanisms for implementing such benefits.	"[""Gratuity of P3,000 to surviving widow and children upon death of a service member."", ""Monthly disability pension ranging from P30 to P100 based on disability percentage."", ""Additional P30 or P40 increments for specific anatomical losses."", ""Determinations of service connection and disability grade to be made before honorable discharge."", ""Administration of funds by the Philippine Veterans Board.""]"		"[""Gratuity"", ""Pension"", ""Armed Forces"", ""Disability"", ""Veterans""]"	"[""gratuity"", ""pension"", ""disability"", ""armed forces"", ""service"", ""wounds"", ""injuries"", ""sickness""]"
+repacts:datasets/markdown/repacts/1951/ra_617_1951.md	repacts	1951		datasets/markdown/repacts/1951/ra_617_1951.md	ra_617_1951	An Act Further Amending Section Two Hundred and Eighty-Six of the Revised Administrative Code, as Amended.	"**[ REPUBLIC ACT NO. 617, May 15, 1951 ]**
+
+ AN ACT TO CREATE THE MUNICIPALITY OF QUEZON IN THE PROVINCE OF PALAWAN
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The barrios of Berong and Alfonso XIII in the municipality of Aborlan and the barrios of Iraan, Candawaga and Canipaan in the municipality of Brook's Point are separated from the said municipalities and constituted into a new and regular municipality to be known as the municipality of Quezon, with the present site of the barrio of Alfonso XIII as the seat of the government.
+
+ **Section 2.** The elective officials of the new municipality shall be appointed by the President of the Philippines and shall hold office until their successors shall have been elected and shall have duly qualified.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved, May 15, 1951.
+"	success	Law	Amendment to Section 286 of the Revised Administrative Code to clarify vacation and sick leave accrual, commutation, and reappointment rules for government employees.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 286 to allow cumulative vacation and sick leave, carryover of unused leave up to five months, commutation of all accumulated leave upon voluntary resignation, salary commutation by department head, and restrictions on reappointment before leave expiration.""}, {""title"": ""Section 2"", ""summary"": ""States that the Act takes effect upon approval.""}]"	RA No. 611	May 5, 1951			To provide clearer rules on vacation and sick leave accrual, carryover, commutation, and reappointment for government employees.	"[""Vacation and sick leave are cumulative"", ""Unused leave may be carried over up to five months"", ""Voluntary resignation triggers commutation of all accumulated leave"", ""Maximum accumulation capped at five months"", ""Department head may authorize commutation of salary"", ""Reappointment restrictions before leave expiration""]"	Section 286 of the Revised Administrative Code	"[""Revised Administrative Code"", ""Vacation Leave"", ""Sick Leave"", ""Government Employees"", ""Leave Accumulation""]"	"[""vacation leave"", ""sick leave"", ""commutation"", ""reappointment"", ""government employees"", ""Revised Administrative Code""]"
+repacts:datasets/markdown/repacts/1951/ra_618_1951.md	repacts	1951		datasets/markdown/repacts/1951/ra_618_1951.md	ra_618_1951	An Act Authorizing the President of the Senate to Transfer from the Unexpended Balance of Paragraph IV-Special Purposes, Item 3, Page 10 of Republic Act Numbered Five Hundred Sixty-Three, the Sum of Fifty Thousand Pesos to Letter (A)-Senate Electoral Tribunal, for its Additional Expenses and of its Members, Commissions, Delegates and Helpers, and Such Other Personnel as May Be Authorized by Said Tribunal	"**[ REPUBLIC ACT NO. 618, May 15, 1951 ]**
+
+ AN ACT TO CHANGE THE NAME OF BULACAN HIGH SCHOOL TO MARCELO H. DEL PILAR HIGH SCHOOL.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** In recognition of the distinguished services rendered by Marcelo H. del Pilar, Filipino hero and patriot and a distinguished son of the Province of Bulacan, the name of Bulacan High School is changed to Marcelo H. del Pilar High School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, May 15, 1951.
+"	success	Republic Act	Authorizes the President of the Senate to transfer ₱50,000 from the unspent balance of RA 563 to the Senate Electoral Tribunal to cover its additional expenses and authorized personnel.	"[{""title"": ""Section 1"", ""summary"": ""The President of the Senate is authorized to transfer \u20b150,000 from the unspent balance of RA 563 to the Senate Electoral Tribunal for its additional expenses and the expenses of its members, commissions, delegates, helpers, and other authorized personnel.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	612	May 10, 1951			To authorize the transfer of ₱50,000 from the unspent balance of RA 563 to the Senate Electoral Tribunal for its operational and personnel expenses.	"[""Authorizes transfer of \u20b150,000 from RA 563 to Senate Electoral Tribunal"", ""Funds are for additional expenses and authorized personnel"", ""Effective upon approval""]"	Republic Act Numbered Five Hundred Sixty-Three (RA 563)	"[""Senate"", ""Electoral Tribunal"", ""Funding"", ""Republic Act"", ""1951""]"	"[""Senate"", ""Electoral Tribunal"", ""fund transfer"", ""unspent balance"", ""RA 563""]"
+repacts:datasets/markdown/repacts/1951/ra_619_1951.md	repacts	1951		datasets/markdown/repacts/1951/ra_619_1951.md	ra_619_1951	AN ACT TO REGULATE, CONTROL AND/OR PROHIBIT CERTAIN EXPORTS FROM THE PHILIPPINES, TO AUTHORIZE THE PRESIDENT OF THE PHILIPPINES TO ISSUE RULES AND REGULATIONS TO CARRY INTO EFFECT THE PROVISIONS OF THIS ACT, TO PROVIDE PENALTIES FOR THE VIOLATION THEREOF AND OF THE REGULATIONS ISSUED THEREUNDER, AND FOR OTHER PURPOSES.	"**[ REPUBLIC ACT NO. 619, May 15, 1951 ]**
+
+ AN ACT TO GRANT TO THE LUMANLAN BROTHERS COMPANY A FRANCHISE FOR AN ELECTRIC LIGHT, HEAT AND POWER SYSTEM IN THE MUNICIPALITY OF TANABO, PROVINCE OF DAVAO.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Subject to the terms and conditions established in Act Numbered Thirty-six hundred and thirty-six, as amended by Commonwealth Act Numbered One hundred and thirty-two, and the provisions of the Constitution, there is granted to the Lumanlan Brothers Company, a Filipino Corporation, for a period of twenty-five years after the approval of this Act, the right, privilege and authority to construct, maintain and operate an electric light, heat and power system for the purpose of generating and distributing electric light, heat and/or power for sale within the Municipality of Tanabo, Province of Davao.
+
+ **Section 2.** It is expressly provided that in the event the Government should desire to maintain and operate for itself the plant and enterprise herein authorized, the grantee shall surrender its franchise and will turn over to the Government all serviceable equipments therein, at cost, less reasonable depreciation.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved, May 15, 1951.
+"	success	Act	Regulates and prohibits certain exports from the Philippines, authorizes the President to issue rules and regulations, and establishes penalties for violations.	"[{""title"": ""Section 1."", ""summary"": ""Prohibits export or re-export of specified items without a Presidential permit.""}, {""title"": ""Section 2."", ""summary"": ""Establishes a committee to review permit applications, requires publication of favorable recommendations, and outlines procedures for issuance or rejection of permits.""}, {""title"": ""Section 3."", ""summary"": ""Authorizes the President to control, regulate, or prohibit exportation of listed materials and to issue necessary rules and regulations.""}, {""title"": ""Section 4."", ""summary"": ""Sets penalties for violations, including fines, imprisonment, and potential revocation of licenses.""}, {""title"": ""Section 5."", ""summary"": ""States the act terminates at the end of the next regular session unless earlier terminated; provisions remain for ongoing offenses.""}, {""title"": ""Section 6."", ""summary"": ""Mandates readjustment of existing export rules, except those promulgated by the Central Bank.""}, {""title"": ""Section 7."", ""summary"": ""Act takes effect upon approval.""}]"	RA 613	May 11, 1951			To regulate, control, or prohibit certain exports from the Philippines, authorize the President to issue rules and regulations, and provide penalties for violations.	"[""Prohibits export of specified items without permit"", ""Establishes committee to review permit applications"", ""Authorizes President to regulate exportation"", ""Sets penalties for violations"", ""Establishes termination clause"", ""Adjusts existing export rules""]"		"[""export control"", ""trade"", ""national security"", ""Philippines"", ""Republic Act 613""]"	"[""export"", ""permit"", ""nationalsecurity"", ""penalties"", ""President"", ""committee"", ""rules"", ""regulations""]"
+repacts:datasets/markdown/repacts/1951/ra_620_1951.md	repacts	1951		datasets/markdown/repacts/1951/ra_620_1951.md	ra_620_1951	An Act Creating the Municipality of Gigmoto in the Province of Catanduanes	"**[ REPUBLIC ACT NO. 620, May 26, 1951 ]**
+
+ AN ACT TO AUTHORIZE THE PHILIPPINE CHARITY SWEEPSTAKE OFFICE TO HOLD ANNUALLY ONE SPECIAL SWEEPSTAKE RACE FOR THE BENEFIT OF THE GIRL SCOUTS OF THE PHILIPPINES.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Philippine Charity Sweepstake Office is authorized to hold annually one special sweepstake horse race the whole proceeds of which shall, after deducting the payment of the prizes and expenses as provided in Act Numbered Forty-one hundred and thirty, as amended by Commonwealth Act Numbered Five hundred and forty-six, be turned over to the Girl Scouts of the Philippines for its support and expenses. In said special sweepstake horse race, the prizes for winning horses and horses placed second and third shall be in direct proportion to the three main prizes for winning tickets and shall be ten per cent thereto, but in no case shall the total amount of said prizes exceed fifty thousand pesos.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, May 26, 1951.
+"	success	Republic Act	Creates the municipality of Gigmoto in Catanduanes.	"[{""title"": ""Section 1"", ""summary"": ""Separation of the barrios of Sicmil, Sioron, San Vicente, Gigmoto, Biong and Dororian from their respective municipalities to constitute the new municipality of Gigmoto.""}, {""title"": ""Section 2"", ""summary"": ""Elective officials of the new municipality shall be appointed by the President of the Philippines and shall hold office until their successors are elected and qualified.""}, {""title"": ""Section 3"", ""summary"": ""The Act shall take effect upon its approval.""}]"	614	May 15, 1951			To establish the municipality of Gigmoto in the province of Catanduanes.	"[""Establishment of the municipality of Gigmoto by separating specified barrios from Viga and Baras."", ""Appointment of elective officials by the President until successors are elected and qualified."", ""Effectivity of the Act upon approval.""]"		"[""Municipality"", ""Catanduanes"", ""Republic Act"", ""Local Government""]"	"[""Gigmoto"", ""Catanduanes"", ""municipality"", ""local government"", ""Republic Act 614""]"
+repacts:datasets/markdown/repacts/1951/ra_621_1951.md	repacts	1951		datasets/markdown/repacts/1951/ra_621_1951.md	ra_621_1951	AN ACT CREATING THE MUNICIPALITY OF ROXAS, PROVINCE OF PALAWAN	"**[ REPUBLIC ACT NO. 621, May 26, 1951 ]**
+
+ AN ACT CREATING THE UNITED NATIONS EDUCATIONAL, SCIENTIFIC AND CULTURAL ORGANIZATION NATIONAL COMMISSION OF THE PHILIPPINES.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The United Nations Educational, Scientific and Cultural Organization National Commission of the Philippines, hereinafter referred to as the Commission, is hereby created under the Department of Foreign Affairs to serve as a liaison agency between the Government of the Philippines and the United Nations Educational, Scientific and Cultural Organization (UNESCO) and to associate principal bodies in the Philippines interested in educational, scientific and cultural matters with the work of the UNESCO, in accordance with Article VII of the Constitution of the aforesaid Organization accepted by Joint Resolution Numbered Three of the Congress of the Philippines adopted on October 17, 1946.
+
+ **Section 2.** The members of the Commission shall be appointed by the President of the Philippines with the consent of the Commission on Appointments and shall be composed of the following;
+
+ a. Twenty shall be designated by the President of the Philippines upon the recommendation of organizations interested in educational, scientific and cultural matters affiliated with and duly registered in the Commission;
+
+ b. Eight shall represent educational, scientific, and cultural agencies of the Government; and,
+
+ c. Two shall be designated at the discretion of the President.
+
+ A Chairman and Vice-Chairman shall be elected by the Commission to serve for a term of one year or until their respective successors shall have been elected or qualified. The Chairman shall be the presiding officer of the Commission and shall ex-officio be the Head of the Executive Committee herein provided.
+
+ **Section 3.** The Commission, with the approval of the Secretary of Foreign Affairs, shall create an Executive Committee and such other committees or sub-committees as may be necessary for the effective and efficient performance of its powers and duties.
+
+ There shall also be a Secretariat to be headed by an Executive Secretary who shall act as the secretary of the Commission, its committees and sub-committees and shall attend to all administrative matters of the Commission.
+
+ **Section 4.** The members of the Commission shall serve in honorary capacity and shall receive no compensation or remuneration except traveling expenses and per diems for each day of actual attendance in the sessions of the Commission, its committees, or sub-committees, in such amounts and under such conditions as the Commission, with the approval of the President of the Philippines, may prescribe.
+
+ **Section 5.** The members of the Commission shall serve for a term of two years:*Provided,* however,That fifty per cent of the members first appointed shall serve only for one year which shall be indicated in their appointments.
+
+ **Section 6.** The Commission shall have the following powers and duties:
+
+ a. To meet at least once a year on such date and place as it might designate;
+
+ b. With the approval of the Secretary of Foreign Affairs, to promulgate rules and regulations for the conduct of its own affairs;
+
+ c. To advise the Government of the Philippines on matters relating to the UNESCO and on the best ways and means by which educational, scientific, and cultural developments could be best taken advantage of by the Philippines;
+
+ d. To advise Philippine delegations to the UNESCO Conference;
+
+ e. To serve as a liaison agency between the Government of the Philippines and the UNESCO;
+
+ f. To associate the principal bodies in the Philippines actually interested in educational, scientific, and cultural matters with the work of the UNESCO; and
+
+ g. To submit an annual report to the President and the Congress of its activities and accomplishments during the year.
+
+ **Section 7.** There is hereby authorized to be appropriated the amount of one hundred and twenty thousand pesos or so much thereof as may be necessary for the immediate organization and operation of the Commission up to and including the fiscal year 1951-1952.
+
+ **Section 8.** All acts, or parts of acts, rules, regulations, and executive orders, inconsistent with the provisions of this Act are hereby repealed.
+
+ **Section 9.** This Act shall take effect upon its approval.
+
+ Approved, May 26, 1951.
+"	success	Republic Act	An act establishing the municipality of Roxas in Palawan, comprising several barrios separated from Puerto Princesa and setting provisions for its government and effectivity.	"[{""title"": ""Section 1."", ""summary"": ""The barrios of Tinitian, Caramay, Rizal, Del Pilar, Malcampo, Tumarbong, Taradugan, Ilian, and Capayas are separated from Puerto Princesa and constituted into the Municipality of Roxas with its seat at the sitio of Barbacan in Del Pilar.""}, {""title"": ""Section 2."", ""summary"": ""The elective officials of the newly created municipality shall be appointed by the President of the Philippines and shall hold office until their successors have been duly elected.""}, {""title"": ""Section 3."", ""summary"": ""This Act shall take effect upon its approval.""}]"	615	May 15, 1951			To create the municipality of Roxas in the province of Palawan and establish its local government structure.	"[""Separation of specified barrios from Puerto Princesa"", ""Constitution of the Municipality of Roxas"", ""Designation of Barbacan as the municipal seat"", ""Appointment of elective officials by the President until elections"", ""Effectivity upon approval""]"		"[""Municipality"", ""Palawan"", ""Local Government"", ""Republic Act""]"	"[""municipality"", ""Palawan"", ""local government"", ""Republic Act"", ""creation""]"
+repacts:datasets/markdown/repacts/1951/ra_622_1951.md	repacts	1951		datasets/markdown/repacts/1951/ra_622_1951.md	ra_622_1951	AN ACT TO CONVERT THE MUNICIPAL DISTRICT OF ITOGON, SUB-PROVINCE OF BENGUET MOUNTAIN PROVINCE, INTO A REGULAR MUNICIPALITY TO BE KNOWN AS THE MUNICIPALITY OF ITOGON.	"**[ REPUBLIC ACT NO. 622, June 05, 1951 ]**
+
+ AN ACT CREATING THE BUREAU OF SOIL CONSERVATION, DEFINING ITS POWERS, DUTIES AND FUNCTIONS.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** For the purpose of carrying out the provisions of this Act, there is hereby created a bureau, which shall be known as the Bureau of Soil Conservation, and shall be under the executive control and supervision of the Department of Agriculture and Natural Resources.

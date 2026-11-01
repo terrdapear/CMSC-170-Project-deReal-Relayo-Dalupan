@@ -1,0 +1,176 @@
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	law	This act officially changes the name of Tabuc Primary School to Jose Rotea Memorial School in honor of the late Jose Rotea and declares the act effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Changes the name of Tabuc Primary School to Jose Rotea Memorial School.""}, {""title"": ""Section 2"", ""summary"": ""States that the act takes effect upon its approval.""}]"	2576	June 21, 1959			To rename a local primary school in honor of a prominent community benefactor.	"[""Name of Tabuc Primary School is changed to Jose Rotea Memorial School"", ""Act takes effect upon approval""]"		"[""education"", ""school"", ""name change"", ""Philippines""]"	"[""Tabuc Primary School"", ""Jose Rotea"", ""Tanjay"", ""Negros Oriental"", ""school name change""]"
+repacts:datasets/markdown/repacts/1959/ra_2577_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2577_1959.md	ra_2577_1959	An Act Changing the Name of Barrio Samalague in the Municipality of Dao, Province of Antique, to Barrio Santa Maria	"**REPUBLIC ACT No. 2577**
+
+ **An Act Changing the Name of Barrio Samalague in the Municipality of Dao, Province of Antique, to Barrio Santa Maria**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the barrio of Samalague in the Municipality of Dao, Province of Antique, is changed to Barrio Santa Maria.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act changes the name of Barrio Samalague to Barrio Santa Maria in the Municipality of Dao, Antique.	"[{""title"": ""Section 1."", ""summary"": ""The name of the barrio of Samalague in the Municipality of Dao, Province of Antique, is changed to Barrio Santa Maria.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2577	June 21, 1959			To change the name of Barrio Samalague to Barrio Santa Maria in the Municipality of Dao, Antique.	"[""Name change of Barrio Samalague to Barrio Santa Maria."", ""Act takes effect upon approval.""]"		"[""Republic Act"", ""Name Change""]"	"[""Barrio"", ""Samalague"", ""Santa Maria"", ""Dao"", ""Antique""]"
+repacts:datasets/markdown/repacts/1959/ra_2578_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2578_1959.md	ra_2578_1959	An Act to Change the Name of Calle Gran Capitan in the City of Tacloban to Justice Norberto Romualdez, Sr. Street	"**REPUBLIC ACT No. 2578**
+
+ **An Act to Change the Name of Calle Gran Capitan in the City of Tacloban to Justice Norberto Romualdez, Sr. Street**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Calle Gran Capitan in the City of Tacloban is hereby changed to Justice Norberto Romualdez, Sr. Street.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Act	This Republic Act changes the name of Calle Gran Capitan in Tacloban to Justice Norberto Romualdez, Sr. Street and establishes its effective date upon approval.	"[{""title"": ""Section 1."", ""summary"": ""The name of Calle Gran Capitan in the City of Tacloban is hereby changed to Justice Norberto Romualdez, Sr. Street.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2578	June 21, 1959			To rename Calle Gran Capitan in Tacloban as Justice Norberto Romualdez, Sr. Street.	"[""Name of the street is changed to Justice Norberto Romualdez, Sr. Street."", ""Act takes effect upon approval.""]"		"[""Name change"", ""Street naming""]"	"[""Calle Gran Capitan"", ""Justice Norberto Romualdez"", ""Tacloban"", ""Street name change""]"
+repacts:datasets/markdown/repacts/1959/ra_2579_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2579_1959.md	ra_2579_1959	An Act to Change the Name of President Wilson Street in the City of Tacloban to Senator Francisco Enage Street	"**REPUBLIC ACT No. 2579**
+
+ **An Act to Change the Name of President Wilson Street in the City of Tacloban to Senator Francisco Enage Street**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of President Wilson Street in the City of Tacloban is hereby changed to Senator Francisco Enage Street.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Act	This act changes the name of President Wilson Street to Senator Francisco Enage Street in the City of Tacloban.	"[{""title"": ""Section 1"", ""summary"": ""The name of President Wilson Street in the City of Tacloban is hereby changed to Senator Francisco Enage Street.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	2579	June 21, 1959			To rename a street in Tacloban.	"[""The name of President Wilson Street is changed to Senator Francisco Enage Street.""]"		"[""Street Renaming"", ""Tacloban"", ""Legislation""]"	"[""President Wilson Street"", ""Senator Francisco Enage Street"", ""Tacloban"", ""street renaming"", ""Philippines""]"
+repacts:datasets/markdown/repacts/1959/ra_2580_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2580_1959.md	ra_2580_1959	An Act Changing the Name of the Sitio of Bural in the Barrio of Zinundungan, Municipality of Rizal, Province of Cagayan, to San Juan	"**REPUBLIC ACT No. 2580**
+
+ **An Act Changing the Name of the Sitio of Bural in the Barrio of Zinundungan, Municipality of Rizal, Province of Cagayan, to San Juan**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the sitio of Bural in the barrio of Zinundungan, Municipality of Rizal, Province of Cagayan, is changed to San Juan.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act changes the name of the sitio of Bural in the barrio of Zinundungan, Municipality of Rizal, Province of Cagayan, to San Juan.	"[{""title"": ""Section 1."", ""summary"": ""The name of the sitio of Bural in the barrio of Zinundungan, Municipality of Rizal, Province of Cagayan, is changed to San Juan.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2580	June 21, 1959			To change the name of a sitio in Rizal municipality.	"[""Changes the name of the sitio of Bural to San Juan.""]"		"[""Renaming"", ""Local Government"", ""Cagayan"", ""Municipality""]"	"[""sitio"", ""Bural"", ""San Juan"", ""Zinundungan"", ""Rizal"", ""Cagayan""]"
+repacts:datasets/markdown/repacts/1959/ra_2581_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2581_1959.md	ra_2581_1959	An Act Constituting the Sitios of Kay-Poo, Nabiling, Kahawanan, Apartahan and Kalimpay in the Barrio of Tigwi, Municipality of Torrijos, Province of Marinduque, into a Separate Barrio to be Known as the Barrio of Kawayanan	"**REPUBLIC ACT No. 2581**
+
+ **An Act Constituting the Sitios of Kay-Poo, Nabiling, Kahawanan, Apartahan and Kalimpay in the Barrio of Tigwi, Municipality of Torrijos, Province of Marinduque, into a Separate Barrio to be Known as the Barrio of Kawayanan**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Kay-Poo, Nabiling, Kahawanan, Apartahan and Kalimpay in the barrio of Tigwi, Municipality of Torrijos, Province of Marinduque, are hereby constituted into a separate barrio of the said municipality to be known as the barrio of Kawayanan.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	The Republic Act establishes the barrio of Kawayanan by constituting the sitios of Kay-Poo, Nabiling, Kahawanan, Apartahan, and Kalimpay within the barrio of Tigwi, Municipality of Torrijos, Marinduque, into a separate barrio.	"[{""title"": ""Section 1"", ""summary"": ""Constitutes the specified sitios into the new barrio of Kawayanan.""}, {""title"": ""Section 2"", ""summary"": ""Act shall take effect upon its approval.""}]"	2581	June 21, 1959			To establish the barrio of Kawayanan by consolidating existing sitios.	"[""Constitutes sitios into a separate barrio"", ""Act effective upon approval""]"		"[""Local Government"", ""Barangay"", ""Marinduque"", ""Torrijos""]"	"[""kawayanan"", ""kay-poo"", ""nabiling"", ""kahawanan"", ""apartahan"", ""kalimpay"", ""tigwi"", ""torrijos"", ""marinduque"", ""barrio""]"
+repacts:datasets/markdown/repacts/1959/ra_2582_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2582_1959.md	ra_2582_1959	An Act Creating Barrios in the Third District of the Province of Samar	"**REPUBLIC ACT No. 2582**
+
+ **An Act Creating Barrios in the Third District of the Province of Samar**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Seguinon, Karapdapan, Lusod, Hagnaya, Santa Cruz and Cantomoja in the Municipality of Salcedo, Province of Samar, are converted into barrios of said municipality to be known as the barrios of Seguinon, Karapdapan, Lusod, Hagnaya, Santa Cruz and Cantomoja, respectively.
+
+ **Section 2.** The sitio of Limbujan in the Municipality of General MacArthur, Province of Samar, is converted into a barrio of said municipality to be known as the barrio of Limbujan.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act converts several sitios in the Third District of Samar into barrios, thereby redefining local administrative units within the municipality of Salcedo and General MacArthur.	"[{""title"": ""Section 1."", ""summary"": ""Converts the sitios of Seguinon, Karapdapan, Lusod, Hagnaya, Santa Cruz and Cantomoja in Salcedo into barrios bearing the same names.""}, {""title"": ""Section 2."", ""summary"": ""Converts the sitio of Limbujan in General MacArthur into a barrio named Limbujan.""}, {""title"": ""Section 3."", ""summary"": ""States that the act shall take effect upon its approval.""}]"	2582	June 21, 1959			To create barrios in the Third District of the Province of Samar by converting existing sitios into official barrios.	"[""Conversion of specified sitios into barrios in Salcedo and General MacArthur""]"		"[""Republic Act"", ""Samar"", ""Barrios"", ""Local Government""]"	"[""barrios"", ""Samar"", ""sitios"", ""municipality"", ""Seguinon"", ""Karapdapan"", ""Lusod"", ""Hagnaya"", ""Santa Cruz"", ""Cantomoja"", ""Limbujan"", ""General MacArthur"", ""Salcedo""]"
+repacts:datasets/markdown/repacts/1959/ra_2583_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2583_1959.md	ra_2583_1959	An Act Creating Certain Barrios in the Province of Isabela	"**REPUBLIC ACT No. 2583**
+
+ **An Act Creating Certain Barrios in the Province of Isabela**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Rang-ayan in the Municipality of Mallig, Province of Isabela, is hereby converted into a barrio to be known as Barrio Rang-ayan.
+
+ **Section 2.** The sitio of Sta. Rita in the Municipality of Aurora, same province, is hereby converted into a barrio to be known as Barrio Sta. Rita.
+
+ **Section 3.** The sitios of Balmarin, Belma and Salipan in the Municipality of San Agustin, same province, are hereby constituted into a barrio to be known as Barrio Damabal.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	An act that creates new barrios in the province of Isabela by converting designated sitios into barrios; effective upon approval on June 21, 1959.	"[{""title"": ""Section 1."", ""summary"": ""Converts the sitio of Rang-ayan in Mallig, Isabela into Barrio Rang-ayan.""}, {""title"": ""Section 2."", ""summary"": ""Converts the sitio of Sta. Rita in Aurora, Isabela into Barrio Sta. Rita.""}, {""title"": ""Section 3."", ""summary"": ""Constitutes the sitios of Balmarin, Belma, and Salipan in San Agustin, Isabela as Barrio Damabal.""}, {""title"": ""Section 4."", ""summary"": ""The act shall take effect upon its approval.""}]"	2583	June 21, 1959			To create certain barrios in the province of Isabela	"[""Conversion of sitio Rang-ayan to Barrio Rang-ayan"", ""Conversion of sitio Sta. Rita to Barrio Sta. Rita"", ""Constitution of sitios Balmarin, Belma, Salipan into Barrio Damabal"", ""Act takes effect upon approval""]"		"[""Republic Act"", ""Barrios"", ""Isabela""]"	"[""Rang-ayan"", ""Sta. Rita"", ""Balmarin"", ""Belma"", ""Salipan"", ""Mallig"", ""Aurora"", ""San Agustin"", ""Isabela""]"
+repacts:datasets/markdown/repacts/1959/ra_2584_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2584_1959.md	ra_2584_1959	An Act Changing the Names of the Barrio of Crossing Macasilao or Barrio Yonson in the Municipality of Calatrava, and the Barrio of Binabongol in the Municipality of Escalante, Province of Negros Occidental, to Barrio Castellano and Barrio Magsaysay, Respectively	"**REPUBLIC ACT No. 2584**
+
+ **An Act Changing the Names of the Barrio of Crossing Macasilao or Barrio Yonson in the Municipality of Calatrava, and the Barrio of Binabongol in the Municipality of Escalante, Province of Negros Occidental, to Barrio Castellano and Barrio Magsaysay, Respectively**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the barrio of Crossing Macasilao or Barrio Yonson in the Municipality of Calatrava, Province of Negros Occidental, is changed to Barrio Castellano.
+
+ **Section 2.** The name of the barrio of Binobongol in the Municipality of Escalante, same province, is changed to Barrio Magsaysay.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	An act to rename specific barrios in Negros Occidental.	"[{""title"": ""Section 1"", ""summary"": ""The name of the barrio of Crossing Macasilao or Barrio Yonson in the Municipality of Calatrava is changed to Barrio Castellano.""}, {""title"": ""Section 2"", ""summary"": ""The name of the barrio of Binabongol in the Municipality of Escalante is changed to Barrio Magsaysay.""}, {""title"": ""Section 3"", ""summary"": ""This Act shall take effect upon its approval.""}]"	RA 2584	June 21, 1959			To rename barrios in accordance with local administrative needs.	"[""Name of barrio Crossing Macasilao/Barrio Yonson changed to Barrio Castellano."", ""Name of barrio Binabongol changed to Barrio Magsaysay."", ""Act takes effect upon approval.""]"		"[""Act"", ""Renaming"", ""Barrio"", ""Negros Occidental""]"	"[""Crossing Macasilao"", ""Yonson"", ""Binabongol"", ""Barrio Castellano"", ""Barrio Magsaysay"", ""Negros Occidental""]"
+repacts:datasets/markdown/repacts/1959/ra_2585_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2585_1959.md	ra_2585_1959	An Act Creating Certain Barrios in the Province of Negros Occidental	"**REPUBLIC ACT No. 2585**
+
+ **An Act Creating Certain Barrios in the Province of Negros Occidental**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Jerusalem, Macabal-ong, Manuyo, Campo Negros, Siwahon and Alimatoc in the barrio of Cabahug, Municipality of Cadiz, Province of Negros Occidental, are separated from said barrio and constituted into a distinct and independent barrio of said municipality to be known as the barrio of Magsaysay.
+
+ **Section 2.** The sitios of Bat-us and Punao and haciendas Refugio and Cubay in the Municipality of Calatrava, same province, are constituted into a distinct and independent barrio of said municipality to be known as the barrio of Refugio.
+
+ **Section 3.** The following sitios and haciendas in the Municipality of Manapla, same province, are constituted as barrios, to wit:
+
+ (a) The sitio of Sta. Tereza, and haciendas Belen, Anita, Mose, Balew, Sicaba, Lacson, Fortuna and Apanoy into a distinct and independent barrio of said municipality to be known as the barrio of Sta. Tereza; (b) The sitio of Pta. Salong, and haciendas Catalina and Nagsico, and the sitios of Pinanonghan, Locdo and To-ong into a distinct and independent barrio of said municipality to be known as the barrio of Pta. Salong; (c) The sitios of Pta. Mesa, Cotosan and Olamhay, and haciendas Tividavo, Cogon (Ascona), Busay and Lumayagan into a distinct and independent barrio of said municipality to be known as the barrio of Pta. Mesa; and (d) The sitio of Purissima, and haciendas Begonia, Candelaria, Patlagan, Guicay, Remedios, Pandayan, Tagbac and Central Manapla into a distinct and independent barrio of said municipality to be known as the barrio of Purissima. **Section 4.** The following haciendas and sitios in the Municipality of Talisay, same province, are constituted as barrios, to wit:
+
+ (a) The haciendas of San Jacinto, Gusa-Lacson, Manaul, Bacong-Gonzaga, Socorro-Lizares, Matab-ang (Nilo Lizares), Minulwan (Labayen), Matab-ang (Ledesma and Granada), and Vista-Lacson as a distinct and independent barrio of said municipality to be known as the barrio of Matab-ang; (b) The sitio of Busay, and the haciendas of Epigenio, Bagacay-Lacson, Minulwan-Lizares, Cabanbanan (Osmeña) Cafe-Kilayko, Virgen del Pilar and Binaliwan (Yusay and Pison) as a distinct and independent barrio of said municipality to be known as the barrio of Epigenio Lizares; and (c) The hacienda and sitios of To-ong, Bocboc, Cabakahan, Bagacay, Magbuyo, Masanglad, Mambucano, Tambara and Hacienda Semillano-Honores as a distinct and independent barrio of said municipality to be known as the barrio of Cabatangan. **Section 5.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	The act establishes new barrios in Negros Occidental by segregating existing sitios and haciendas from existing barrios.	"[{""title"": ""Section 1"", ""summary"": ""Separates the sitios Jerusalem, Macabal-ong, Manuyo, Campo Negros, Siwahon, and Alimatoc in the barrio of Cabahug, Municipality of Cadiz, into a new barrio named Magsaysay.""}, {""title"": ""Section 2"", ""summary"": ""Separates the sitios Bat-us and Punao and the haciendas Refugio and Cubay in the Municipality of Calatrava into a new barrio named Refugio.""}, {""title"": ""Section 3"", ""summary"": ""Creates several new barrios in the Municipality of Manapla: Sta. Tereza, Pta. Salong, Pta. Mesa, and Purissima, by segregating various sitios and haciendas.""}, {""title"": ""Section 4"", ""summary"": ""Creates new barrios in the Municipality of Talisay: Matab-ang, Epigenio Lizares, and Cabatangan, by segregating specified haciendas and sitios.""}, {""title"": ""Section 5"", ""summary"": ""The act takes effect upon its approval.""}]"	2585	June 21, 1959			To create new barrios in Negros Occidental by separating existing sitios and haciendas from existing barrios.	"[""Creation of barrio Magsaysay"", ""Creation of barrio Refugio"", ""Creation of barrios Sta. Tereza, Pta. Salong, Pta. Mesa, Purissima"", ""Creation of barrios Matab-ang, Epigenio Lizares, Cabatangan""]"		"[""barrios"", ""Negros Occidental"", ""local government"", ""Philippines""]"	"[""barrios"", ""sitios"", ""haciendas"", ""Negros Occidental"", ""Republic Act""]"
+repacts:datasets/markdown/repacts/1959/ra_2586_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2586_1959.md	ra_2586_1959	An Act Changing the Name of the Coron Elementary School in the Municipality of Coron, Province of Palawan, to Claudio Sandoval Elementary School	"**REPUBLIC ACT No. 2586**
+
+ **An Act Changing the Name of the Coron Elementary School in the Municipality of Coron, Province of Palawan, to Claudio Sandoval Elementary School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Coron Elementary School in the Municipality of Coron, Province of Palawan, is changed to Claudio Sandoval Elementary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act changes the name of Coron Elementary School to Claudio Sandoval Elementary School, taking effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The name of the Coron Elementary School in the Municipality of Coron, Province of Palawan, is changed to Claudio Sandoval Elementary School.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	2586	June 21, 1959			To rename a public elementary school.	"[""The name of Coron Elementary School is changed to Claudio Sandoval Elementary School."", ""The Act takes effect upon its approval.""]"		"[""Education"", ""School name change"", ""Republic Act""]"	"[""Coron"", ""Palawan"", ""Claudio Sandoval"", ""Elementary School"", ""Name change""]"
+repacts:datasets/markdown/repacts/1959/ra_2587_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2587_1959.md	ra_2587_1959	An Act Changing the Name of the Municipality of Lambayong, Province of Cotabato, to Sultan sa Baroñgis	"**REPUBLIC ACT No. 2587**
+
+ **An Act Changing the Name of the Municipality of Lambayong, Province of Cotabato, to Sultan sa Baroñgis**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Municipality of Lambayong in the Province of Cotabato is changed to Sultan Sa Barongis.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act changes the name of the Municipality of Lambayong in the Province of Cotabato to Sultan Sa Barongis.	"[{""title"": ""Section 1"", ""summary"": ""The name of the Municipality of Lambayong in the Province of Cotabato is changed to Sultan Sa Barongis.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	Republic Act No. 2587	June 21, 1959			To change the name of the Municipality of Lambayong to Sultan Sa Barongis.	"[""The name of the Municipality of Lambayong in the Province of Cotabato is changed to Sultan Sa Barongis."", ""This Act shall take effect upon its approval.""]"		"[""Municipality"", ""Name Change"", ""Legislation"", ""Philippines""]"	"[""Lambayong"", ""Sultan Sa Barongis"", ""Cotabato"", ""Municipality"", ""Name Change""]"
+repacts:datasets/markdown/repacts/1959/ra_2588_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2588_1959.md	ra_2588_1959	An Act Creating Certain Barrios in the Province of Davao	"**REPUBLIC ACT No. 2588**
+
+ **An Act Creating Certain Barrios in the Province of Davao**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The following sitios in the Municipality of Digos, Province of Davao, are converted into barrios thereof, to wit:
+
+ 1. The sitios of Colorado to be known as the barrio of Colorado; 2. The sitio of Balabag to be known as the barrio of Balabag; 3. The sitio of San Miguel (Odaca) to be known as the barrio of San Miguel (Odaca); 4. The sitio of Kiagot to be known as the barrio of Kiagot; 5. The sitio of Tiguman to be known as the barrio of Tiguman; 6. The sitio of Mahayahay to be known as the barrio of Mahayahay; 7. The sitio of Lungag to be known as the barrio of Lungag; and 8. The sitio of San Agustin to be known as the barrio of San Agustin. **Section 2.** The sitio of Tigbawan, Lubganon and Boa in the Municipality of Caraga, same province, are converted into barrios of said municipality to be known as the barrios of Tigbawan, Lubganon and Boa, respectively.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Act	An act converting specified sitios in the Province of Davao into barrios.	"[{""title"": ""Section 1"", ""summary"": ""Converts the sitios of Colorado, Balabag, San Miguel (Odaca), Kiagot, Tiguman, Mahayahay, Lungag, and San Agustin in the Municipality of Digos into barrios.""}, {""title"": ""Section 2"", ""summary"": ""Converts the sitios of Tigbawan, Lubganon, and Boa in the Municipality of Caraga into barrios.""}, {""title"": ""Section 3"", ""summary"": ""The act shall take effect upon its approval.""}]"	2588	June 21, 1959			To establish new barrios in the Province of Davao by converting designated sitios.	"[""Conversion of specified sitios in Digos municipality into barrios."", ""Conversion of specified sitios in Caraga municipality into barrios."", ""Act takes effect upon approval.""]"		"[""Republic Act"", ""Barrios"", ""Davao"", ""Municipality""]"	"[""barrios"", ""sitios"", ""Davao"", ""municipality""]"
+repacts:datasets/markdown/repacts/1959/ra_2589_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2589_1959.md	ra_2589_1959	An Act Creating Barrios in Certain Municipalities of the Province of Iloilo	"**REPUBLIC ACT No. 2589**
+
+ **An Act Creating Barrios in Certain Municipalities of the Province of Iloilo**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The following sitios in the Municipality of Nueva Valencia, Province of Iloilo, are separated from their respective barrios and constituted as distinct and independent barrios of said municipality, to wit:
+
+ 1. The sitios of Napandong, Timuyon and Ilaya Catilaran in the barrio of Magamay, the sitios of Beta, Lumbiya and Catmon in the barrio of Lucmayan, the sitio of Sambulawa in the barrio of Tando and the sitio of Palanas in the barrio of Dolores to be known as the barrio of Napandong; 2. The sitios of Harubharub, Pinamangkaw, Comian, Nabinbinan and Punta Lomboy in the barrio of Salvacion to be known as the barrio of San Roque; 3. The sitios of Lanipe, Ubog, Desan and Tugpahan Sur in the barrio of Salvacion to be known as the barrio of Lanipe; 4. The sitios of Taras, Butcanaway, Bungalon, Dawo, Sibunag, Budhi-an, Tamsic, Badiang, Tigbao, Guicay, Tipulo, Magobaye, Casili-an and Bangyan in the barrio of Calawa to be known as the barrio of San Antonio; 5. The sitios of Bongga, Ilaya, Catilaran, Minuro, Limbiya, Punda, Utod, Inawa and Bunlao in the barrio of Igang to be known as the barrio of Santo Domingo; and 6. The sitios of Canhawan Norte and Pacu Sur in the barrio of Igdarapdap, and the sitios of Canhawan Sur, Casling and Odiongan in the barrio of Cabalagnan to be known as the barrio of Canhawan. **Section 2.** The following sitios in the Municipality of Buenavista, same province, are separated from their respective barrios and constituted as distinct and independent barrios of said municipality, to wit:
+
+ 1. The sitio of Tastasan Sur in the barrio of Tastasan to be known as the barrio of San Isidro; 2. The sitio of Agsanayan in the barrio of San Roque to be known as the barrio of Agsanayan; 3. The sitio of Salag Diutay in the barrio of Zaldivar to be known as the barrio of Magsaysay; 4. The sitio of Gaban in the barrio of San Enrique to be known as the barrio of Gaban; 5. The sitio of M. Chavez in the barrio of Suclaran to be known as the barrio of M. Chavez; and 6. The sitios of Calingao in the barrio of Salvacion to be known as the New Poblacion and designated as seat of the municipal government of Buenavista. **Section 3.** The sitio of Ilong-Buquid in the Municipality of Barotac Viejo, same province, is converted into barrio of Ilong-Buquid.

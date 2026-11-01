@@ -1,0 +1,207 @@
+repacts:datasets/markdown/repacts/1959/ra_2553_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2553_1959.md	ra_2553_1959	An Act Creating the Barrio of Siayan in the Municipality of Sindangan, Province of Zamboanga del Norte	"**REPUBLIC ACT No. 2553**
+
+ **An Act Creating the Barrio of Siayan in the Municipality of Sindangan, Province of Zamboanga del Norte**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Siayan, Bentol, Litalet, Dibalan, Colaton, Moyo Gamay, Pasi and Dalongdong in the Municipality of Sindangan, Province of Zamboanga del Norte, are constituted into a distinct and independent barrio of said municipality to be known as the barrio of Siayan.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	Establishes the barrio of Siayan, comprising several sitios, in Sindangan, Zamboanga del Norte.	"[{""title"": ""Section 1"", ""summary"": ""Constitutes the sitios of Siayan, Bentol, Litalet, Dibalan, Colaton, Moyo Gamay, Pasi and Dalongdong into the barrio of Siayan.""}, {""title"": ""Section 2"", ""summary"": ""The act takes effect upon its approval.""}]"	2553	June 21, 1959			To establish the barrio of Siayan.	"[""Constitutes the sitios of Siayan, Bentol, Litalet, Dibalan, Colaton, Moyo Gamay, Pasi and Dalongdong into the barrio of Siayan."", ""The act takes effect upon its approval.""]"		"[""Republic Act"", ""Local Law"", ""Zamboanga del Norte""]"	"[""Siayan"", ""Sindangan"", ""Zamboanga del Norte"", ""barrio"", ""sitios""]"
+repacts:datasets/markdown/repacts/1959/ra_2554_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2554_1959.md	ra_2554_1959	An Act Creating Certain Barrios in the Municipality of Rosario, Province of Batangas	"**REPUBLIC ACT No. 2554**
+
+ **An Act Creating Certain Barrios in the Municipality of Rosario, Province of Batangas**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The following barrios in the Municipality of Rosario, Province of Batangas, are constituted into barrios of said municipality as follows:
+
+ 1. The barrio of Macalamcam is divided into two distinct and independent barrios to be known as the barrios of Macalamcam-A and Macalamcam-B; 2. The barrio of Putingkahoy is divided into two distinct and independent barrios to be known as the barrios of Putingkahoy and Nazi; 3. The barrio of Matamis is divided into two distinct and independent barrios to be known as the barrios of Matamis and Antipolo; 4. The barrio of Mayuro is divided into two distinct and independent barrios to be known as the barrios of Mayuro and Bayawang, and 5. The barrio of Tulos is divided into two distinct and independent barrios to be known as the barrios of Tulos and Calantas. The boundaries of the above-mentioned barrios shall be determined and fixed by the Municipal Council of the Municipality of Rosario, Province of Batangas, within one year from the date of the approval of this Act.
+
+ **Section 2.** The sitios of Lumbangan, Cantarilya and Makukak in the Municipality of Rosario, Province of Batangas, are constituted into a district and independent barrio of said municipality to be known as the barrio of Lumbangan.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This Act establishes several new barrios within the Municipality of Rosario, Batangas, by dividing existing barrios into distinct units, creating new barrio names, and consolidating sitios into a barrio. It also sets the effective date upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Divides the barrios of Macalamcam, Putingkahoy, Matamis, Mayuro, and Tulos into two distinct and independent barrios each, specifying the new names for each division and stipulates that boundaries be determined within one year by the Municipal Council.""}, {""title"": ""Section 2"", ""summary"": ""Constitutes the sitios of Lumbangan, Cantarilya, and Makukak into a single district and independent barrio named Lumbangan.""}, {""title"": ""Section 3"", ""summary"": ""States that the Act shall take effect upon its approval.""}]"	2554	June 21, 1959			To create and delineate specific barrios in Rosario, Batangas, thereby reorganizing local administrative units.	"[""Creation of new barrios by division of existing ones"", ""Designation of Lumbangan barrio from three sitios"", ""Effective date upon approval""]"		"[""Barrios"", ""Municipality"", ""Local Government"", ""Republic Act"", ""Geographic Division""]"	"[""barrios"", ""Rosario"", ""Batangas"", ""municipality"", ""division"", ""Lumbangan"", ""Mayuro"", ""Tulos"", ""Macalamcam"", ""Putingkahoy"", ""Matamis""]"
+repacts:datasets/markdown/repacts/1959/ra_2555_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2555_1959.md	ra_2555_1959	An Act Changing the Name of Pulantubig Elementary School at Dumaguete City to Ramon Magsaysay Memorial School	"**REPUBLIC ACT No. 2555**
+
+ **An Act Changing the Name of Pulantubig Elementary School at Dumaguete City to Ramon Magsaysay Memorial School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of Pulantubig Elementary School at Dumaguete City is changed to Ramon Magsaysay Memorial School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act changes the name of Pulantubig Elementary School in Dumaguete City to Ramon Magsaysay Memorial School and specifies its effective date.	"[{""title"": ""Section 1."", ""summary"": ""The name of Pulantubig Elementary School at Dumaguete City is changed to Ramon Magsaysay Memorial School.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2555	June 21, 1959			To rename Pulantubig Elementary School to Ramon Magsaysay Memorial School	"[""Section 1: Name change"", ""Section 2: Effective date""]"		"[""Education"", ""School Name Change"", ""Philippines""]"	"[""Pulantubig Elementary School"", ""Ramon Magsaysay"", ""Dumaguete City"", ""Name change"", ""Republic Act 2555""]"
+repacts:datasets/markdown/repacts/1959/ra_2556_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2556_1959.md	ra_2556_1959	An Act Creating Certain Barrios in the Municipality of Samal, Province of Davao	"**REPUBLIC ACT No. 2556**
+
+ **An Act Creating Certain Barrios in the Municipality of Samal, Province of Davao**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The following places in the Municipality of Samal, Province of Davao, are constituted as barrios of said municipality, to wit:
+
+ a. Anunang as Barrio Anunang; b. Aumbay as Barrio Aumbay; c. Aundanao as Barrio Aundanao; d. Dadatan as Barrio Dadatan; e. Del Monte as Barrio Del Monte; f. Guilon as Barrio Guilon; g. Kana-an as Barrio Kana-an; h. Katagman as Barrio Katagman; i. Kawag as Barrio Kawag; j. Libertad as Barrio Libertad; k. Licup as Barrio Licup; l. Limao as Barrio Limao; m. Linusutan as Barrio Linusutan; n. Mambago A as Barrio Mambago A; o. New San Remegio as Barrio New San Remegio; p. Pangubatan as Barrio Pangubatan; q. San Isidro as Barrio San Isidro; r. San Miguel as Barrio San Miguel; s. Sion as Barrio Sion; t. Sta. Cruz as Barrio Sta. Cruz; u. Tagbaobo as Barrio Tagbaobo; v. Tagbay as Barrio Tagbay; w. Tagbitanag as Barrio Tagbitanag; and x. Tagdaliao as Barrio Tagdaliao. **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	An act that establishes a list of barrios in the Municipality of Samal, Province of Davao.	"[{""title"": ""Section 1"", ""summary"": ""Lists the places in the Municipality of Samal that are constituted as barrios.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	2556	June 21, 1959			To create specific barrios within the Municipality of Samal, Province of Davao.	"[""Establishment of barrios in Samal municipality"", ""List of barrios including Anunang, Aumbay, Aundanao, Dadatan, Del Monte, Guilon, Kana-an, Katagman, Kawag, Libertad, Licup, Limao, Linusutan, Mambago A, New San Remegio, Pangubatan, San Isidro, San Miguel, Sion, Sta. Cruz, Tagbaobo, Tagbay, Tagbitanag, Tagdaliao""]"		"[""Municipality"", ""Barrios"", ""Davao""]"	"[""Samal"", ""Province of Davao"", ""Barrios""]"
+repacts:datasets/markdown/repacts/1959/ra_2557_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2557_1959.md	ra_2557_1959	An Act Changing the Name of the Patao Primary School in the Barrio of Bawod, Municipality of Bantayan, Province of Cebu, to Bawod Primary School	"**REPUBLIC ACT No. 2557**
+
+ **An Act Changing the Name of the Patao Primary School in the Barrio of Bawod, Municipality of Bantayan, Province of Cebu, to Bawod Primary School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Patao Primary School in the barrio of Bawod, Municipality of Bantayan, Province of Cebu, is changed to Bawod Primary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act changes the name of Patao Primary School to Bawod Primary School.	"[{""title"": ""Section 1"", ""summary"": ""The name of the Patao Primary School in the barrio of Bawod, Municipality of Bantayan, Province of Cebu, is changed to Bawod Primary School.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	2557	June 21, 1959			To rename the primary school in Bawod, Bantayan, Cebu.	"[""Changes the name of Patao Primary School to Bawod Primary School""]"		"[""Education"", ""School"", ""Renaming""]"	"[""Patao Primary School"", ""Bawod Primary School"", ""Renaming"", ""Cebu"", ""Bantayan""]"
+repacts:datasets/markdown/repacts/1959/ra_2558_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2558_1959.md	ra_2558_1959	An Act Creating Barrios in the Province of Isabela	"**REPUBLIC ACT No. 2558**
+
+ **An Act Creating Barrios in the Province of Isabela**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The following sitios in the Municipality of San Agustin, Province of Isabela, are constituted into a barrio of the said municipality, as follows:
+
+ Sitios Salay and Narien to Barrio Salay.
+
+ **Section 2.** The following sitios in the Municipality of Tumauini, Province of Isabela, are constituted into a barrio of the said municipality, as follows:
+
+ Sitios Sical and Cabal to Barrio Namnama.
+
+ **Section 3.** The sitio of Puroc No. 6, Salinungan, in the Municipality of San Mateo, Province of Isabela, is hereby converted into a barrio to be known as Barrio Salinungan East.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	An act that creates new barrios in the Province of Isabela by converting specified sitios into barrios, effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Constitutes the sitios Salay and Narien of the Municipality of San Agustin into Barrio Salay.""}, {""title"": ""Section 2"", ""summary"": ""Constitutes the sitios Sical and Cabal of the Municipality of Tumauini into Barrio Namnama.""}, {""title"": ""Section 3"", ""summary"": ""Converts the sitio Puroc No. 6, Salinungan of the Municipality of San Mateo into Barrio Salinungan East.""}, {""title"": ""Section 4"", ""summary"": ""The act shall take effect upon its approval.""}]"	2558	June 21, 1959			To establish official barrios in the Province of Isabela by converting specified sitios into barrios.	"[""Creation of Barrio Salay from sitios Salay and Narien."", ""Creation of Barrio Namnama from sitios Sical and Cabal."", ""Creation of Barrio Salinungan East from sitio Puroc No. 6, Salinungan."", ""Act takes effect upon approval.""]"		"[""Republic Act"", ""Local Government"", ""Isabela"", ""Barrios"", ""Municipalities""]"	"[""barrios"", ""Isabela"", ""municipality"", ""sitios"", ""legislation"", ""Republic Act 2558""]"
+repacts:datasets/markdown/repacts/1959/ra_2559_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2559_1959.md	ra_2559_1959	An Act Creating Barrios in the Province of Pangasinan	"**REPUBLIC ACT No. 2559**
+
+ **An Act Creating Barrios in the Province of Pangasinan**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The following sitios in the Municipality of Labrador, Province of Pangasinan, are constituted into a barrio of the said municipality, as follows:
+
+ Sitios of Tokoc, Polowen and the adjoining part of Barrio Bolo bordering Silag to Barrio Magsaysay.
+
+ **Section 2.** The following sitios in the Municipality of Mabini, Province of Pangasinan, are constituted into a barrio of the said municipality, as follows:
+
+ Sitios Loboc, Lalasoran, Libsong and Biga to Barrio Kaabiangan.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	The act establishes new barrios in the Province of Pangasinan by consolidating specified sitios in the municipalities of Labrador and Mabini.	"[{""title"": ""Section 1"", ""summary"": ""Constitutes sitios Tokoc, Polowen and the adjoining part of Barrio Bolo bordering Silag to Barrio Magsaysay into a barrio of the Municipality of Labrador.""}, {""title"": ""Section 2"", ""summary"": ""Constitutes sitios Loboc, Lalasoran, Libsong and Biga into a barrio of the Municipality of Mabini.""}, {""title"": ""Section 3"", ""summary"": ""The act shall take effect upon its approval.""}]"	2559	June 21, 1959			Create barrios in Pangasinan by consolidating specified sitios into barrios.	"[""Constitutes sitios Tokoc, Polowen and adjoining part of Barrio Bolo into a barrio of Labrador."", ""Constitutes sitios Loboc, Lalasoran, Libsong and Biga into a barrio of Mabini."", ""Act takes effect upon approval.""]"		"[""Republic Act"", ""Pangasinan"", ""Barrios"", ""Municipalities""]"	"[""barrios"", ""sitios"", ""Pangasinan"", ""Labrador"", ""Mabini"", ""Tokoc"", ""Polowen"", ""Barrio Bolo"", ""Silag"", ""Magsaysay"", ""Loboc"", ""Lalasoran"", ""Libsong"", ""Biga"", ""Kaabiangan""]"
+repacts:datasets/markdown/repacts/1959/ra_2560_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2560_1959.md	ra_2560_1959	An Act Creating Barrios in the Province of Zamboanga del Norte	"**REPUBLIC ACT No. 2560**
+
+ **An Act Creating Barrios in the Province of Zamboanga del Norte**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The following sitios in the Municipality of Liloy, Province of Zamboanga del Norte, are constituted into barrios of the said municipality, as follows:
+
+ Sitios Danao, Tangal and Luwao to Barrio Danao; and Sitios Balatinao, Cape, Labulo and Gingayan to Barrio San Isidro. **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	An act that consolidates specific sitios in the Municipality of Liloy, Province of Zamboanga del Norte into two new barrios, Danao and San Isidro, and specifies the act’s effective date upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Constitutes the sitios Danao, Tangal, and Luwao as Barrio Danao and the sitios Balatinao, Cape, Labulo, and Gingayan as Barrio San Isidro in the Municipality of Liloy, Province of Zamboanga del Norte.""}, {""title"": ""Section 2."", ""summary"": ""The act shall take effect upon its approval.""}]"	2560	June 21, 1959			To create barrios by consolidating listed sitios in Liloy, Zamboanga del Norte.	"[""Constitutes sitios Danao, Tangal, Luwao as Barrio Danao; and sites Balatinao, Cape, Labulo, Gingayan as Barrio San Isidro."", ""Act takes effect upon approval.""]"		"[""Local Government"", ""Administrative"", ""Zamboanga del Norte"", ""Barrios""]"	"[""barrios"", ""sitios"", ""Zamboanga del Norte"", ""Liloy"", ""Republic Act""]"
+repacts:datasets/markdown/repacts/1959/ra_2561_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2561_1959.md	ra_2561_1959	An Act Creating Barrios in the Province of Batangas	"**REPUBLIC ACT No. 2561**
+
+ **An Act Creating Barrios in the Province of Batangas**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The following sitios in the Municipality of Nasugbu, Province of Batangas, are hereby converted into barrios of the said municipality, as follows:
+
+ Sitio Lumbangan to Barrio Lumbangan; Sitio Balaytigui to Barrio Balaytigui; Sitio Malapad na Bato to Barrio Malapad na Bato; Sitio Aga to Barrio Aga; Sitio Kayrilao to Barrio Kayrilao; and Sitio Mataas na Pulo to Barrio Mataas na Pulo.
+
+ **Section 2.** The sitios of Sambal in the Municipality of Lemery, Province of Batangas, is hereby converted into a barrio to be known as the barrio of Sambal.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	The Act converts specified sitios in the Municipality of Nasugbu and the Municipality of Lemery, Province of Batangas into barrios.	"[{""title"": ""Section 1"", ""summary"": ""Converts the sitios of Lumbangan, Balaytigui, Malapad na Bato, Aga, Kayrilao, and Mataas na Pulo in Nasugbu into barrios with the same names.""}, {""title"": ""Section 2"", ""summary"": ""Converts the sitios of Sambal in Lemery into a barrio named Sambal.""}, {""title"": ""Section 3"", ""summary"": ""The Act shall take effect upon approval.""}]"	2561	June 21, 1959			To create new barrios in the Province of Batangas.	"[""Conversion of specified sitios into barrios in Nasugbu and Lemery.""]"		"[""Local Government"", ""Barrios"", ""Batangas""]"	"[""barrios"", ""municipality"", ""Nasugbu"", ""Lemery"", ""Batangas""]"
+repacts:datasets/markdown/repacts/1959/ra_2562_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2562_1959.md	ra_2562_1959	An Act Creating Barrios in the Province of Samar	"**REPUBLIC ACT No. 2562**
+
+ **An Act Creating Barrios in the Province of Samar**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The following sitios in the Municipality of Basey, Province of Samar, are constituted into barrios of the said municipality, as follows:
+
+ > Sitios Bagacay, Dene, Pandong and Cambonia to Barrio Basiao.
+>
+>  Sitios Dongon, Rawis, Calotan and Tambak to Barrio Serum.
+>
+>  Sitios Pelit , Banga, Pananyogan, Amanlolobog, Tinabanan, Panlalawagan, Sangpao and Carapacan to Barrio Lo-og.
+>
+>  Sitios Waclet, Mongabong, Cato-ogan, Calapi, Lelinte-an and Agutay to Barrio Dolongan.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Local Government	An act establishing barrios in the municipality of Basey, Samar by converting specified sitios.	"[{""title"": ""Section 1"", ""summary"": ""Constitutes the following sitios in the Municipality of Basey, Province of Samar into barrios: Sitios Bagacay, Dene, Pandong and Cambonia to Barrio Basiao; Sitios Dongon, Rawis, Calotan and Tambak to Barrio Serum; Sitios Pelit, Banga, Pananyogan, Amanlolobog, Tinabanan, Panlalawagan, Sangpao and Carapacan to Barrio Lo-og; Sitios Waclet, Mongabong, Cato-ogan, Calapi, Lelinte-an and Agutay to Barrio Dolongan.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	RA 2562	June 21, 1959			To establish barrios in Basey, Samar.	"[""Constitutes specified sitios into barrios"", ""The act takes effect upon approval""]"		"[""Local Government"", ""Barangay"", ""Samar""]"	"[""Barrios"", ""Samar"", ""Basey"", ""Sitios"", ""Republic Act 2562""]"
+repacts:datasets/markdown/repacts/1959/ra_2564_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2564_1959.md	ra_2564_1959	An Act Creating the Barrio of San Vicente in the Municipality of Roxas, Province of Palawan	"**REPUBLIC ACT No. 2564**
+
+ **An Act Creating the Barrio of San Vicente in the Municipality of Roxas, Province of Palawan**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Malamnang in the Municipality of Roxas, Province of Palawan, is converted into a barrio of said municipality to be known as the barrio of San Vicente.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act creates the barrio of San Vicente by converting the sitio of Malamnang in the Municipality of Roxas, Palawan.	"[{""title"": ""Section 1."", ""summary"": ""The sitio of Malamnang in the Municipality of Roxas, Province of Palawan, is converted into a barrio of said municipality to be known as the barrio of San Vicente.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2564	June 21, 1959			To establish a new barrio within the municipality of Roxas, Palawan.	"[""Converts the sitio of Malamnang into the barrio of San Vicente.""]"		"[""barrio"", ""municipality"", ""Palawan""]"	"[""San Vicente"", ""Roxas"", ""Palawan"", ""barrio""]"
+repacts:datasets/markdown/repacts/1959/ra_2565_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2565_1959.md	ra_2565_1959	An Act Creating Certain Barrios in the Municipality of Abuyog, Province of Leyte	"**REPUBLIC ACT No. 2565**
+
+ **An Act Creating Certain Barrios in the Municipality of Abuyog, Province of Leyte**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The following places in the Municipality of Abuyog, Province of Leyte, are constituted as barrios of said municipality, to wit:
+
+ Casulongan as Barrio Casulongan; Odiong as Barrio Odiong; Responde as Barrio Responde; Tambis as Barrio Tambis; Tagaytay as Barrio Tagaytay; Palanugan as Barrio Palanugan; Mahayag as Barrio Mahayag; Mabunga as Barrio Mabunga; Bugho Sur as Barrio Bugho Sur; Parasanon as Barrio Parasanon; Taligue as Barrio Taligue; Laray as Barrio Laray; Salvacion as Barrio Salvacion; Canaporong as Barrio Canaporong; Pilar as Barrio Pilar; Batug as Barrio Batug; Talisayan as Barrio Talisayan; Guinadapunan as Barrio Guinadapunan; Caraye as Barrio Caraye; Liberacion as Barrio Liberacion; Campilas as Barrio Campilas; Malinao as Barrio Malinao; Cagbolo as Barrio Cagbolo; Anibongan as Barrio Anibongan; Libertad as Barrio Libertad; Tinocolan as Barrio Tinocolan; Dingle as Barrio Dingle; Burubudan as Barrio Burubudan; Bahay as Barrio Bahay; Malaguicay as Barrio Malaguicay; San Isidro as Barrio San Isidro; Manarug as Barrio Manarug; Barayong as Barrio Barayong; Ulhay as Barrio Ulhay; Lower Mahaplag as Barrio Lower Mahaplag; Upper Mahaplag as Barrio Upper Mahaplag; Cuatro de Agosto as Barrio Cuatro de Agosto; Sta. Cruz (Layug) as Barrio Santa Cruz (Layug); Hinaguimitan as Barrio Hinaguimitan; Mahayahay Sur as Barrio Mahayahay Sur; Pinamanagan as Barrio Pinamanagan; Maitum as Barrio Maitum; Tadoc as Barrio Tadoc; Magatubang as Barrio Magatubang; San Francisco as Barrio San Francisco; Guintagbukan as Barrio Guintagbukan; Loyonsawang as Barrio Loyonsawang; Victory as Barrio Victory; Bito as Barrio Bito; Canuguib as Barrio Canuguib; Santa Fe as Barrio Santa Fe; Nalibunan as Barrio Nalibunan; and Santo Niño as Barrio Santo Niño.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	Creates several barrios within the Municipality of Abuyog, Leyte, establishing them as official administrative divisions.	"[{""title"": ""Section 1. The following places in the Municipality of Abuyog, Province of Leyte, are constituted as barrios of said municipality, to wit:"", ""summary"": ""Lists the barrios to be created in Abuyog, Leyte.""}, {""title"": ""Section 2. This Act shall take effect upon its approval."", ""summary"": ""Specifies that the act becomes effective upon its approval.""}]"	2565	June 21, 1959			To officially establish and recognize new barrios within the Municipality of Abuyog, Leyte.	"[""Creation of barrios in Abuyog, Leyte.""]"		"[""Local Government"", ""Barangay"", ""Leyte""]"	"[""barrios"", ""Abuyog"", ""Leyte"", ""Republic Act"", ""municipality""]"
+repacts:datasets/markdown/repacts/1959/ra_2566_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2566_1959.md	ra_2566_1959	An Act Changing the Name of Naawan River in the Municipality of Manticao, Province of Misamis Oriental, to Manticao River	"**REPUBLIC ACT No. 2566**
+
+ **An Act Changing the Name of Naawan River in the Municipality of Manticao, Province of Misamis Oriental, to Manticao River**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Naawan River in the Municipality of Manticao, Province of Misamis Oriental, is hereby changed to Manticao River.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Act	The Republic Act No. 2566 changes the name of the Naawan River in Manticao, Misamis Oriental to Manticao River and specifies its effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The name of the Naawan River in the Municipality of Manticao, Province of Misamis Oriental is hereby changed to Manticao River.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	2566	June 21, 1959			To rename the Naawan River to Manticao River in the municipality of Manticao, Misamis Oriental.	"[""Name of Naawan River changed to Manticao River"", ""Act takes effect upon approval""]"			
+repacts:datasets/markdown/repacts/1959/ra_2567_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2567_1959.md	ra_2567_1959	An Act Providing that the Public Plaza in the Poblacion of the Municipality of Calatrava, Province of Negros Occidental, Shall Hereafter be Known as Andres Menchaca Park	"**REPUBLIC ACT No. 2567**
+
+ **An Act Providing that the Public Plaza in the Poblacion of the Municipality of Calatrava, Province of Negros Occidental, Shall Hereafter be Known as Andres Menchaca Park**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The public plaza in the poblacion of the Municipality of Calatrava Province of Negros Occidental, shall hereafter be known as Andres Menchaca Park.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act designates the public plaza in Calatrava, Negros Occidental as Andres Menchaca Park.	"[{""title"": ""Section 1."", ""summary"": ""Designates the public plaza in Calatrava as Andres Menchaca Park.""}, {""title"": ""Section 2."", ""summary"": ""The act takes effect upon approval.""}]"	2567	June 21, 1959			To designate the public plaza in Calatrava, Negros Occidental as Andres Menchaca Park.	"[""Designation of the public plaza in Calatrava as Andres Menchaca Park."", ""Act takes effect upon approval.""]"		"[""public plaza"", ""renaming"", ""Calatrava"", ""Negros Occidental"", ""park""]"	"[""public plaza"", ""Andres Menchaca Park"", ""Calatrava"", ""Negros Occidental"", ""renaming""]"
+repacts:datasets/markdown/repacts/1959/ra_2568_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2568_1959.md	ra_2568_1959	An Act Changing the Name of the Hda. Idad Primary School in the Municipality of Cadiz, Province of Negros Occidental, to Sombito Primary School	"**REPUBLIC ACT No. 2568**
+
+ **An Act Changing the Name of the Hda. Idad Primary School in the Municipality of Cadiz, Province of Negros Occidental, to Sombito Primary School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Hda. Idad Primary School in the Municipality of Cadiz, Province of Negros Occidental, is changed to Sombito Primary School.

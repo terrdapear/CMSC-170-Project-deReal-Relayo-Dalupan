@@ -1,0 +1,150 @@
+
+ | No. of Positions | Position Title | Salary Grade |  |
+| --- | --- | --- | --- |
+| 1 | Municipal Trial Court Judge | 29 |  |
+| 1 | Clerk of Court 1 | 15 |  |
+| 1 | Interpreter I | 8 |  |
+| 4 | Court Stenographer I | 8 |  |
+| 2 | Clerk II | 4 |  |
+| 1 | Junior Process Server | 3 |  |
+| 1 | Utility Worker I | 1 |  |
+| 9 | Personnel |  |  |
+
+ **Section 6.** Section 14(k) and Section 30 of Batas Pambansa Blg, 139, otherwise known as ""The Judiciary Reorganization Act of 1980"", as amended, and all other laws, rules and regulations which are inconsistent with this Act are hereby amended, repealed or modified accordingly.
+
+ **Section 7.** This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate | (SGD.) **FERDINAND MARTIN G. ROMUALDEZ**Speaker of the House of Representatives |
+
+ This Act, which originated in the House of Representatives, was passed by the House of Representatives on January 31, 2023, amended by the Senate of the Philippines on May 13, 2024, and which amendments were concurred in by the House of Representatives on July 30, 2024.
+
+ | (SGD.) **REGINALD S. VELASCO** Secretary General House of Representatives | (SGD.) **RENATO N. BANTUG, JR.** Secretary of the Senate |
+
+ Approved: OCT 17 2024
+
+ (SGD.) **FERDINAND ROMUALDEZ MARCOS JR.** President of the Philippines
+"	success	Republic Act	This law establishes three new branches of the Regional Trial Court and two new branches of the Municipal Trial Court in Dinagat Islands, provides funding and staffing details, decircuitizes an existing circuit court, and amends provisions of the Judiciary Reorganization Act to facilitate the implementation of these courts.	"[{""title"": ""Section 1"", ""summary"": ""Creation and stationing of new RTC and MTC branches in San Jose and Basilisa, Dinagat Islands, and decircuitization of the existing Municipal Circuit Trial Court.""}, {""title"": ""Section 2"", ""summary"": ""Operationalization directives for the new branches, including coordination between the Chief Justice and the Secretary of Justice.""}, {""title"": ""Section 3"", ""summary"": ""Allocation of funds for personnel, operations, and construction of court facilities, to be included in the General Appropriations Act.""}, {""title"": ""Section 4"", ""summary"": ""Staffing structure and positions for the new RTC branches.""}, {""title"": ""Section 5"", ""summary"": ""Staffing structure and positions for the new MTC branches.""}, {""title"": ""Section 6"", ""summary"": ""Amendments to Sections 14(k) and 30 of Batas Pambansa Blg. 139 (Judiciary Reorganization Act) and related laws.""}, {""title"": ""Section 7"", ""summary"": ""Effective date of the act, fifteen days after publication.""}]"	12032	October 17, 2024	"[{""name"": ""Francis \""Chiz\"" G. Escudero"", ""title"": ""President of the Senate""}, {""name"": ""Ferdinand Martin G. Romualdez"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""Reginald S. Velasco"", ""title"": ""Secretary General, House of Representatives""}, {""name"": ""Renato N. Bantug, Jr."", ""title"": ""Secretary of the Senate""}]"	To expand the judiciary in Dinagat Islands by creating additional RTC and MTC branches, ensuring adequate funding, staffing, and jurisdictional adjustments.	"[""Creation of three RTC branches and two MTC branches in Dinagat Islands"", ""Decircuitization of the existing Municipal Circuit Trial Court"", ""Funding appropriation for personnel, operations, and court facilities"", ""Detailed staffing plans for new branches"", ""Amendments to judiciary reorganization statutes""]"	Sections 14(k) and 30 of Batas Pambansa Blg. 139 (Judiciary Reorganization Act) and other inconsistent laws, rules, and regulations are amended, repealed or modified accordingly.	"[""Judiciary"", ""Legislation"", ""Dinagat Islands"", ""RTC"", ""MTC"", ""Appropriations"", ""Decircuitization""]"	"[""Regional Trial Court"", ""Municipal Trial Court"", ""Dinagat Islands"", ""Judiciary Reorganization Act"", ""Appropriations"", ""Staffing"", ""Decircuitization""]"
+repacts:datasets/markdown/repacts/2024/ra_12033_2024.md	repacts	2024		datasets/markdown/repacts/2024/ra_12033_2024.md	ra_12033_2024	"AN ACT CREATING ONE (1) ADDITIONAL BRANCH OF THE REGIONAL TRIAL COURT IN THE EIGHTH JUDICIAL REGION TO BE STATIONED IN THE CITY OF BAYBAY, PROVINCE OF LEYTE, AND APPROPRIATING FUNDS THEREFOR, AMENDING FOR THE PURPOSE SECTION 14(I) OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS ""THE JUDICIARY REORGANIZATION ACT OF 1980"""	"[ REPUBLIC ACT NO. 12033, October 17, 2024 ]
+
+ AN ACT CREATING ONE (1) ADDITIONAL BRANCH OF THE REGIONAL TRIAL COURT IN THE EIGHTH JUDICIAL REGION TO BE STATIONED IN THE CITY OF BAYBAY, PROVINCE OF LEYTE, AND APPROPRIATING FUNDS THEREFOR, AMENDING FOR THE PURPOSE SECTION 14(I) OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS ""THE JUDICIARY REORGANIZATION ACT OF 1980""
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** One (1) additional branch of the Regional Trial Court (RTC) in the Eighth Judicial Region are hereby created and stationed in the the City of Baybay, Province of Leyte.
+
+ The Supreme Court shall assign the respective branch numbers for the newly created branch of the RTC.
+
+ **Section 2.** The Chief Justice of the Supreme Court, in coordination with the Secretary of the Department of Justice, shall immediately include in the Court's program the operationalization of the additional branches of the RTC in the City of Baybay, Province of Leyte. The Supreme Court shall issue the necessary rules and regulations for the effective implementation of this Act and, if warranted, the realignment of seats of existing branches and their territorial jurisdiction.
+
+ **Section 3.** The funds necessary for the implementation of this Act, including appropriations for personnel services such as salaries, benefits and emoluments for judges and court personnel, court operations under maintenance and other operating expenses (MOOE), and provisions for Halls of Justice or courtrooms to accommodate judges and court staff, as well as funds necessary for the implementation of automatically-created prosecutor positions pursuant to Section 13 of Republic Act No. 10071 or the ""Prosecution Service Act of 2010"" and appointment of public attorneys pursuant to Section 7 of Republic Act No. 9406 or the ""Act Reorganizing and Strengthening the Public Attorney's Office (PAO), resulting from the creation of these courts, including appropriations for personnel services such as salaries, benefits, and emoluments for prosecutors and public attorneys, shall be included in the annual General Appropriations Act.
+
+ The funds necessary for the operation of the courts herein created shall be appropriated and released only upon the actual organization of the court and the appointment of its personnel.
+
+ **Section 4.** The RTC of Baybay, Leyte will have two (2) branches. The staffing pattern of each branch shall be as follows:
+
+ | No. of Positions | Position Title | Salary Grade |  |
+| --- | --- | --- | --- |
+| 1 | Regional Trial Court Judge | 29 |  |
+| 1 | Clerk of Court V | 24 |  |
+| 1 | Court Legal Researcher II | 15 |  |
+| 1 | Interpreter III | 12 |  |
+| 4 | Court Stenographer III | 12 |  |
+| 1 | Sheriff IV | 12 |  |
+| 2 | Clerk III | 6 |  |
+| 1 | Process Server | 5 |  |
+| 1 | Utility Worker I | 1 |  |
+| 13 | Personnel |  |  |
+
+ The staff complement of the new Office of the Clerk of Court (OCC) shall be composed of fifteen (15) personnel, while the date entry machine operator (DEMO) from the original RTC will be transferred to the OCC, unless modified as determined by the Supreme Court.
+
+ In addition, there shall be appointed the corresponding numbers of prosecutor/s and public attorney/s and their support staff based on the ratio outlined in Republic Act No. 10071 and Republic Act No. 9406, respectively.
+
+ **Section 5.** Section 14(i) of Batas Pambansa Blg, 139, otherwise known as ""The Judiciary Reorganization Act of 1980"", as amended, and all other laws, rules and regulations which are inconsistent with this Act are hereby amended, repealed or modified accordingly.
+
+ **Section 6.** This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate | (SGD.) **FERDINAND MARTIN G. ROMUALDEZ**Speaker of the House of Representatives |
+
+ This Act, which originated in the House of Representatives, was passed by the House of Representatives on January 31, 2023, amended by the Senate of the Philippines on May 13, 2024, and which amendments were concurred in by the House of Representatives on July 30, 2024.
+
+ | (SGD.) **REGINALD S. VELASCO** Secretary General House of Representatives | (SGD.) **RENATO N. BANTUG, JR.** Secretary of the Senate |
+
+ Approved: OCT 17 2024
+
+ (SGD.) **FERDINAND ROMUALDEZ MARCOS JR.** President of the Philippines
+"	success	Judiciary	Republic Act No. 12033 establishes an additional branch of the Regional Trial Court (RTC) in the Eighth Judicial Region, stationing it in Baybay, Leyte, appropriating necessary funds, detailing staffing, and amending Section 14(i) of Batas Pambansa Blg. 129 to accommodate the new court.	"[{""title"": ""Section 1"", ""summary"": ""Creation and stationing of one additional RTC branch in Baybay, Leyte.""}, {""title"": ""Section 2"", ""summary"": ""Operationalization directives: Supreme Court to include the new branch in its program, issue rules, and realign existing branches if needed.""}, {""title"": ""Section 3"", ""summary"": ""Funding provisions: appropriation of personnel, operating expenses, and new prosecutor positions; funds released upon actual organization.""}, {""title"": ""Section 4"", ""summary"": ""Staffing pattern for the RTC of Baybay, detailing positions, salary grades, and personnel complement.""}, {""title"": ""Section 5"", ""summary"": ""Amendment of Section 14(i) of Batas Pambansa Blg. 129 and repeal of inconsistent laws.""}, {""title"": ""Section 6"", ""summary"": ""Effectivity: the act takes effect 15 days after publication in the Official Gazette or a newspaper of general circulation.""}]"	RA 12033	2024-10-17	"[{""name"": ""FRANCIS \""CHIZ\"" G. ESCUDERO"", ""title"": ""President of the Senate""}, {""name"": ""FERDINAND MARTIN G. ROMUALDEZ"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""REGINALD S. VELASCO"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""RENATO N. BANTUG, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""FERDINAND ROMUALDEZ MARCOS JR."", ""title"": ""President of the Philippines""}]"	To create an additional branch of the Regional Trial Court in Baybay, Leyte, appropriate necessary funds, establish staffing, and amend Section 14(i) of Batas Pambansa Blg. 129 to support the reorganization of the judiciary.	"[""Creation of one additional RTC branch in Baybay, Leyte"", ""Appropriation of funds for personnel, operations, and new prosecutor positions"", ""Detailed staffing pattern and salary grades"", ""Supreme Court to issue rules and realign existing branches if necessary"", ""Amendment of Section 14(i) of Batas Pambansa Blg. 129"", ""Act takes effect 15 days after publication""]"	Section 14(i) of Batas Pambansa Blg. 129	"[""Judiciary"", ""Court Reorganization"", ""Regional Trial Court"", ""Legislation"", ""Philippines""]"	"[""Regional Trial Court"", ""Baybay"", ""Leyte"", ""RTC"", ""Judiciary"", ""Batas Pambansa"", ""Section 14(i)"", ""Funds"", ""Staffing"", ""Reorganization""]"
+repacts:datasets/markdown/repacts/2024/ra_12034_2024.md	repacts	2024		datasets/markdown/repacts/2024/ra_12034_2024.md	ra_12034_2024	"AN ACT CREATING SIX (6) ADDITIONAL BRANCHES OF THE REGIONAL TRIAL COURT IN THE NINTH JUDICIAL REGION TO BE STATIONED IN THE MUNICIPALITY OF DIPLAHAN, PROVINCE OF ZAMBOANGA SIBUGAY, AND APPROPRIATING FUNDS THEREFOR, AMENDING FOR THE PURPOSE SECTION 14(J) OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS ""THE JUDICIARY REORGANIZATION ACT OF 1980"""	"[ REPUBLIC ACT NO. 12034, October 17, 2024 ]
+
+ AN ACT CREATING SIX (6) ADDITIONAL BRANCHES OF THE REGIONAL TRIAL COURT IN THE NINTH JUDICIAL REGION TO BE STATIONED IN THE MUNICIPALITY OF DIPLAHAN, PROVINCE OF ZAMBOANGA SIBUGAY, AND APPROPRIATING FUNDS THEREFOR, AMENDING FOR THE PURPOSE SECTION 14(J) OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS ""THE JUDICIARY REORGANIZATION ACT OF 1980""
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Six (6) additional branch of the Regional Trial Court (RTC) in the Ninth Judicial Region are hereby created and stationed in the the Municipality of Diplahan, Province of Zamboanga Sibugay, to be designated as follows:
+
+ (a) One (1) Family Court; and (b) Five (5) regular RTCs. The Supreme Court shall assign the respective branch numbers for the newly created branches of the RTC.
+
+ **Section 2.** The Chief Justice of the Supreme Court, in coordination with the Secretary of the Department of Justice, shall immediately include in the Court's program the operationalization of the additional branches of the RTC in the Municipality of Diplahan, Province of Zamboanga Sibugay. The Supreme Court shall issue the necessary rules and regulations for the effective implementation of this Act and, if warranted, the realignment of seats of existing branches and their territorial jurisdiction.
+
+ **Section 3.** The funds necessary for the implementation of this Act, including appropriations for personnel services such as salaries, benefits and emoluments for judges and court personnel, court operations under maintenance and other operating expenses (MOOE), and provisions for Halls of Justice or courtrooms to accommodate judges and court staff, as well as funds necessary for the implementation of automatically-created prosecutor positions pursuant to Section 13 of Republic Act No. 10071 or the ""Prosecution Service Act of 2010"" and appointment of public attorneys pursuant to Section 7 of Republic Act No. 9406 or the ""Act Reorganizing and Strengthening the Public Attorney's Office (PAO), resulting from the creation of these courts, including appropriations for personnel services such as salaries, benefits, and emoluments for prosecutors and public attorneys, shall be included in the annual General Appropriations Act.
+
+ **Section 4.** Section 14(j) of Batas Pambansa Blg, 139, otherwise known as ""The Judiciary Reorganization Act of 1980"", as amended, and all other laws, rules and regulations which are inconsistent with this Act are hereby amended, repealed or modified accordingly.
+
+ **Section 5.** This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate | (SGD.) **FERDINAND MARTIN G. ROMUALDEZ**Speaker of the House of Representatives |
+
+ This Act, which originated in the House of Representatives, was passed by the House of Representatives on January 31, 2023, amended by the Senate of the Philippines on May 6, 2024, and which amendments were concurred in by the House of Representatives on July 30, 2024.
+
+ | (SGD.) **REGINALD S. VELASCO** Secretary General House of Representatives | (SGD.) **RENATO N. BANTUG, JR.** Secretary of the Senate |
+
+ Approved: OCT 17 2024
+
+ (SGD.) **FERDINAND ROMUALDEZ MARCOS JR.** President of the Philippines
+"	success	Republic Act	The Act establishes six new branches of the Regional Trial Court (RTC) in the Ninth Judicial Region, specifically in Diplahan, Zamboanga Sibugay, allocating funds for their operation, personnel, and infrastructure. It also amends Section 14(j) of Batas Pambansa Blg. 129 (The Judiciary Reorganization Act of 1980) to accommodate the new branches, and mandates the Supreme Court to issue necessary rules and realign existing jurisdictions. The law takes effect fifteen days after publication.	"[{""title"": ""Section 1."", ""summary"": ""Creation of six additional RTC branches\u2014one Family Court and five regular RTCs\u2014in Diplahan, Zamboanga Sibugay, with assignment of branch numbers by the Supreme Court.""}, {""title"": ""Section 2."", ""summary"": ""The Chief Justice, in coordination with the Secretary of Justice, must include the operationalization of the new branches in the Court\u2019s program and issue rules for implementation, including possible realignment of existing branches.""}, {""title"": ""Section 3."", ""summary"": ""Appropriations for personnel, operations, MOOE, and new prosecutor positions under RA 10071 and appointments of public attorneys under RA 9406 are to be included in the General Appropriations Act.""}, {""title"": ""Section 4."", ""summary"": ""Amendment of Section 14(j) of Batas Pambansa Blg. 129, and repeal or modification of all inconsistent laws, rules, and regulations.""}, {""title"": ""Section 5."", ""summary"": ""The Act becomes effective fifteen days after publication in the Official Gazette or a newspaper of general circulation.""}]"	RA 12034	October 17, 2024	"[{""name"": ""FRANCIS \""CHIZ\"" G. ESCUDERO"", ""title"": ""President of the Senate""}, {""name"": ""FERDINAND MARTIN G. ROMUALDEZ"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""REGINALD S. VELASCO"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""RENATO N. BANTUG, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""FERDINAND ROMUALDEZ MARCOS JR."", ""title"": ""President of the Philippines""}]"	To expand the judiciary’s capacity in the Ninth Judicial Region by creating six additional RTC branches, provide necessary funding, and amend existing laws to facilitate the new courts’ operation.	"[""Creation of six new RTC branches in Diplahan, Zamboanga Sibugay"", ""Allocation of funds for personnel, operations, MOOE, and new prosecutor positions"", ""Amendment of Section 14(j) of Batas Pambansa Blg. 129"", ""Supreme Court to issue rules for operationalization and realignment of existing branches"", ""Effective date fifteen days after publication""]"	Section 14(j) of Batas Pambansa Blg. 129 (The Judiciary Reorganization Act of 1980)	"[""Judiciary"", ""Regional Trial Court"", ""Zamboanga Sibugay"", ""Appropriations"", ""Amendment""]"	"[""Regional Trial Court"", ""Diplahan"", ""Zamboanga Sibugay"", ""RTC"", ""Batas Pambansa"", ""Judiciary"", ""Appropriations"", ""MOOE"", ""Public Attorneys"", ""Prosecution Service Act""]"
+repacts:datasets/markdown/repacts/2024/ra_12035_2024.md	repacts	2024		datasets/markdown/repacts/2024/ra_12035_2024.md	ra_12035_2024	"AN ACT CREATING THREE (3) ADDITIONAL BRANCHES OF THE REGIONAL TRIAL COURT IN THE TENTH JUDICIAL REGION TO BE STATIONED IN THE CITY OF VALENCIA, PROVINCE OF BUKIDNON, AND APPROPRIATING FUNDS THEREFOR, AMENDING FOR THE PURPOSE SECTION 14(K) OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS ""THE JUDICIARY REORGANIZATION ACT OF 1980"""	"[ REPUBLIC ACT NO. 12035, October 17, 2024 ]
+
+ AN ACT CREATING THREE (3) ADDITIONAL BRANCHES OF THE REGIONAL TRIAL COURT IN THE TENTH JUDICIAL REGION TO BE STATIONED IN THE CITY OF VALENCIA, PROVINCE OF BUKIDNON, AND APPROPRIATING FUNDS THEREFOR, AMENDING FOR THE PURPOSE SECTION 14(K) OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS ""THE JUDICIARY REORGANIZATION ACT OF 1980""
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Three (3) additional branch of the Regional Trial Court (RTC) in the Tenth Judicial Region are hereby created and stationed in the the City of Valencia, Province of Bukidnon.
+
+ The Supreme Court shall assign the respective branch numbers for the newly created branches of the RTC.
+
+ **Section 2.** The Chief Justice of the Supreme Court, in coordination with the Secretary of the Department of Justice, shall immediately include in the Court's program the operationalization of the additional branches of the RTC in the City of Valencia, Province of Bukidnon. The Supreme Court shall issue the necessary rules and regulations for the effective implementation of this Act and, if warranted, the realignment of seats of existing branches and their territorial jurisdiction.
+
+ **Section 3.** The funds necessary for the implementation of this Act, including appropriations for personnel services such as salaries, benefits and emoluments for judges and court personnel, court operations under maintenance and other operating expenses (MOOE), and provisions for Halls of Justice or courtrooms to accommodate judges and court staff, as well as funds necessary for the implementation of automatically-created prosecutor positions pursuant to Section 13 of Republic Act No. 10071 or the ""Prosecution Service Act of 2010"" and appointment of public attorneys pursuant to Section 7 of Republic Act No. 9406 or the ""Act Reorganizing and Strengthening the Public Attorney's Office (PAO), resulting from the creation of these courts, including appropriations for personnel services such as salaries, benefits, and emoluments for prosecutors and public attorneys, shall be included in the annual General Appropriations Act.
+
+ **Section 4.** Section 14(k) of Batas Pambansa Blg, 139, otherwise known as ""The Judiciary Reorganization Act of 1980"", as amended, and all other laws, rules and regulations which are inconsistent with this Act are hereby amended, repealed or modified accordingly.
+
+ **Section 5.** This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate | (SGD.) **FERDINAND MARTIN G. ROMUALDEZ**Speaker of the House of Representatives |
+
+ This Act, which originated in the House of Representatives, was passed by the House of Representatives on January 31, 2023, amended by the Senate of the Philippines on May 6, 2024, and which amendments were concurred in by the House of Representatives on July 30, 2024.
+
+ | (SGD.) **REGINALD S. VELASCO** Secretary General House of Representatives | (SGD.) **RENATO N. BANTUG, JR.** Secretary of the Senate |
+
+ Approved: OCT 17 2024
+
+ (SGD.) **FERDINAND ROMUALDEZ MARCOS JR.** President of the Philippines
+"	success	Judiciary	This act establishes three new branches of the Regional Trial Court (RTC) in the Tenth Judicial Region, specifically in Valencia, Bukidnon, and appropriates funds for their operation and staffing. It also amends Section 14(k) of Batas Pambansa Blg. 129 to align existing laws with this reorganization. The act becomes effective 15 days after publication in the Official Gazette or a newspaper of general circulation.	"[{""title"": ""Section 1."", ""summary"": ""Creation and stationing of three additional branches of the RTC in Valencia, Bukidnon.""}, {""title"": ""Section 2."", ""summary"": ""The Chief Justice, with the DOJ Secretary, will operationalize the new branches and issue necessary rules.""}, {""title"": ""Section 3."", ""summary"": ""Appropriation of funds for personnel, operations, and facilities for the new RTC branches and associated prosecutor positions.""}, {""title"": ""Section 4."", ""summary"": ""Amendment, repeal, or modification of Section 14(k) of Batas Pambansa Blg. 129 and other inconsistent laws.""}, {""title"": ""Section 5."", ""summary"": ""Effectivity of the act 15 days after publication.""}]"	RA No. 12035	October 17, 2024	"[{""name"": ""Francis \""Chiz\"" G. Escudero"", ""title"": ""President of the Senate""}, {""name"": ""Ferdinand Martin G. Romualdez"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""Reginald S. Velasco"", ""title"": ""Secretary General, House of Representatives""}, {""name"": ""Renato N. Bantug, Jr."", ""title"": ""Secretary of the Senate""}]"	To create additional RTC branches in Valencia, Bukidnon, appropriate funding for their operation, and amend Section 14(k) of Batas Pambansa Blg. 129 for consistency with the reorganization.	"[""Creation of three RTC branches in Valencia, Bukidnon"", ""Appropriation of funds for personnel, operations, and facilities"", ""Operationalization by the Chief Justice and DOJ Secretary"", ""Issuance of rules and regulations for implementation"", ""Amendment of Section 14(k) of Batas Pambansa Blg. 129"", ""Effectivity after 15 days of publication""]"	Section 14(k) of Batas Pambansa Blg. 129 (and related provisions of Blg. 139)	"[""Judiciary"", ""RTC"", ""Bukidnon"", ""Funding"", ""Reorganization""]"	"[""Regional Trial Court"", ""Valencia"", ""Bukidnon"", ""Batas Pambansa"", ""Republic Act 12035"", ""Judiciary Reorganization"", ""Appropriation"", ""Section 14(k)""]"
+repacts:datasets/markdown/repacts/2024/ra_12036_2024.md	repacts	2024		datasets/markdown/repacts/2024/ra_12036_2024.md	ra_12036_2024	"AN ACT CREATING FOUR (4) ADDITIONAL BRANCHES OF THE REGIONAL TRIAL COURT IN THE EIGHTH JUDICIAL REGION TO BE STATIONED IN THE CITY OF TACLOBAN, PROVINCE OF LEYTE, AND APPROPRIATING FUNDS THEREFOR, AMENDING FOR THE PURPOSE SECTION 14(I) OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS ""THE JUDICIARY REORGANIZATION ACT OF 1980"""	"[ REPUBLIC ACT NO. 12036, October 17, 2024 ]
+
+ AN ACT CREATING FOUR (4) ADDITIONAL BRANCHES OF THE REGIONAL TRIAL COURT IN THE EIGHTH JUDICIAL REGION TO BE STATIONED IN THE CITY OF TACLOBAN, PROVINCE OF LEYTE, AND APPROPRIATING FUNDS THEREFOR, AMENDING FOR THE PURPOSE SECTION 14(I) OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS ""THE JUDICIARY REORGANIZATION ACT OF 1980""
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Four (4) additional branch of the Regional Trial Court (RTC) in the Eighth Judicial Region are hereby created and stationed in the the City of Tacloban, Province of Leyte.
+
+ The Supreme Court shall assign the respective branch numbers for the newly created branches of the RTC.
+
+ **Section 2.** The Chief Justice of the Supreme Court, in coordination with the Secretary of the Department of Justice, shall immediately include in the Court's program the operationalization of the additional branches of the RTC in the City of Tacloban, Province of Leyte. The Supreme Court shall issue the necessary rules and regulations for the effective implementation of this Act and, if warranted, the realignment of seats of existing branches and their territorial jurisdiction.

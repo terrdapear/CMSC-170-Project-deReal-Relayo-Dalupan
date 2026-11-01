@@ -1,0 +1,197 @@
+repacts:datasets/markdown/repacts/1953/ra_890_1953.md	repacts	1953		datasets/markdown/repacts/1953/ra_890_1953.md	ra_890_1953	AN ACT TO CHANGE THE NAME OF THE OLIMPIA ELEMENTARY SCHOOL IN THE MUNICIPALITY OF MAKATI, PROVINCE OF RIZAL, TO FRANCISCO BENITEZ ELEMENTARY SCHOOL	"**[ REPUBLIC ACT NO. 890, June 19, 1953 ]**
+
+ AN ACT TO CHANGE THE NAME OF THE BARRIO OF CATMON, MUNICIPALITY OF SIBALOM, PROVINCE OF ANTIQUE, TO PAJARITO.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The name of the barrio of Catmon in the municipality of Sibalom, Province of Antique, is hereby changed to Pajarito.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1953.
+"	success	Education	This law changes the name of Olimpia Elementary School in Makati, Rizal to Francisco Benitez Elementary School.	"[{""title"": ""Section 1"", ""summary"": ""The name of Olimpia Elementary School in Makati, Rizal is changed to Francisco Benitez Elementary School.""}, {""title"": ""Section 2"", ""summary"": ""The act takes effect upon its approval.""}]"	882	June 19, 1953			To rename a public elementary school in Makati, Rizal.	"[""Name change of Olimpia Elementary School to Francisco Benitez Elementary School"", ""Act takes effect upon its approval""]"		"[""Education"", ""School"", ""Renaming""]"	"[""Olimpia Elementary School"", ""Francisco Benitez Elementary School"", ""Makati"", ""Rizal"", ""school name change""]"
+repacts:datasets/markdown/repacts/1953/ra_891_1953.md	repacts	1953		datasets/markdown/repacts/1953/ra_891_1953.md	ra_891_1953	AN ACT CHANGING THE NAME OF THE JESUS DE LA PESA BARRIO SCHOOL IN THE MUNICIPALITY OF MARIKINA, PROVINCE OF RIZAL, TO LEODEGARIO VICTORINO ELEMENTARY SCHOOL.	"**[ REPUBLIC ACT NO. 891, June 19, 1953 ]**
+
+ AN ACT APPROPRIATING ADDITIONAL FUNDS FOR THE OPERATION AND MAINTENANCE OF THE GOVERNMENT OF THE REPUBLIC OF THE PHILIPPINES DURING THE PERIOD FROM JULY FIRST, NINETEEN HUNDRED AND FIFTY-TWO TO JUNE THIRTIETH, NINETEEN HUNDRED AND FIFTY-THREE, AND FOR OTHER PURPOSES.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The following sums, or so much thereof as may be necessary, are appropriated out of any funds in the Philippine Treasury not otherwise appropriated for the period from July first, nineteen hundred and fifty-two to June thirtieth, nineteen hundred and fifty-three, for the purposes specified hereunder:
+
+ > ORDINARY EXPENDITURES A.CONGRESS OF THE PHILIPPINES (2) HOUSE OF REPRESENTATIVES
+>
+>  I.Salaries and Wages
+>
+>  | 1. For other services, including transportation and additional secretarial services for the Members of the House of Representatives or expenses incurred by direction of the Speaker | P75,000.00 |
+> | --- | --- |
+> | 2. For supplementary force that may be employed at any time in the discretion of the Speaker, including additional compensation for per diems to the military and police attaches of the Speaker | P75,000.00 |
+> | Total for salaries and wages | P150,000.00 |
+>
+>  II.Sundry Expenses
+>
+>  | 1. For payment of the cash commutation of the accumulated vacation and/or sick leaves of secretarial and clerical personnel of the Members of the House of Representatives | P100,000.00 |
+> | --- | --- |
+> | Total for sundry expenses | P100,000.00 |
+> | Total amount available for the House of Representatives | P250,000.00 |
+>
+>  H-DEPARTMENT OF PUBLIC WORKS AND COMMUNICATIONS
+>
+>  IV.Special Purposes
+>
+>  | 1. For the transportation of foreign airmail, Bureau of Posts | P1,500,000.00 |
+> | --- | --- |
+> | Total amount available for the Department of Public Works and Communication | P1,500,000.00 |
+>
+>  I.DEPARTMENT OF EDUCATION
+>
+>  IV.Special Purposes
+>
+>  | 1. For the operation and maintenance of 3,000 additional public elementary classes including salaries of teachers, salary adjustments for 19501951, sundry expenses,purchase of equipment and for the purchase of textbooks, Bureau of Public Schools | P6,103,000.00 |
+> | --- | --- |
+> | Total amount available for the Department of Education | P6,103,000.00 |
+>
+>  L.Department op Health
+>
+>  II.Sundry Expenses
+>
+>  | 1. Consumption of supplies and materials, Bureau of Hospitals | P230,000.00 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | North General Hospital | P100,000.00 | National Orthopedic Hospital | 100,000.00 | National Indigent Children's Hospital | 30,000.00 |  | P230,000.00 | _____________ | Total amount available for the Department of Health |  | P230,000.00 | Total amount available for Ordinary Expenditures |  | P8,083,900.00 |
+> | National Orthopedic Hospital | 100,000.00 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+> | National Indigent Children's Hospital | 30,000.00 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+> |  | P230,000.00 | _____________ |  |  |  |  |  |  |  |  |  |  |  |  |
+> | Total amount available for the Department of Health |  | P230,000.00 |  |  |  |  |  |  |  |  |  |  |  |  |
+> | Total amount available for Ordinary Expenditures |  | P8,083,900.00 |  |  |  |  |  |  |  |  |  |  |  |  |
+>
+>  EXTRAORDINARY EXPENDITURES
+>
+>  K.Department of National Defense
+>
+>  Special Purpose
+>
+>  | 1. For payment of family subsistence allowance to officers and enlisted men of the Armed Forces of the Philippines assigned to overseas duty, authorized in Republic Act No. 815 | P1,500,000.00 |
+> | --- | --- |
+> | Total amount available for the Department of National Defense | P1,500,000.00 |
+> | Total amount available for Extraordinary Expenditures | P1,500,000.00 |
+> | GRAND TOTAL OF THE APPROPRIATIONS AUTHORIZED IN THIS ACT: NINE MILLION, FIVE HUNDRED EIGHTY-THREEE THOUSAND, NINE HUNDRED PESOS | P9,583,900.00 |
+
+ **Section 2.** The provisions of Republic Act Numbered Eight hundred and sixteen to the contrary notwithstanding, any savings from the appropriations authorized in the said Act for the Department of Justice and the Department of National Defense may be used to cover the following additional expenses of said departments, respectively, not exceeding the amounts specified hereunder:
+
+ > F.Department of Justice
+>
+>  II.Sundry Expenses
+>
+>  | 1. Traveling expenses of personnel, Court of Industrial Relations | P10,000.00 |
+> | --- | --- |
+> | 2. Postal, telegraph, telephone, cable and radio service, Bureau of Immigration | 3,700.00 |
+> | 3. Illumination and power service, Bureau of Immigration | 2,500.00 |
+> | 4. Rental of buildings and grounds. Bureau of Immigration | 100.00 |
+> | 5. Consumption of supplies and materials, Bureau of Immigration | 14,000.00 |
+> | 6. Traveling expenses of persons not government employees, including subsistence of alien detainees which in no case shall exceed Pl.50 per day, Bureau of Immigration | 27,500.00 |
+> | 7. Maintenance and repair of equipment, Bureau of Immigration | 460.00 |
+> | 8. Other services, Bureau of Immigration | 1,740.00 |
+> | Total for sundry expenses | P60,000.00 |
+> | Total amount available for the Department of Justice | P60,000.00 |
+>
+>  K.Department of National Defense
+>
+>  ARMED FORCES OF THE PHILIPPINES
+>
+>  I.Salaries and Wages
+>
+>  | 1. For the implementation of the Minimum Wage Law | P1,369,005.00 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> | General Headquarters | P110,000.00 | Philippine Constabulary | 160,000.00 | Philippine Army | 930,005.00 | Philippine Air Force | 82,000.00 | Philippine Navy | 87,000.00 |  | P1,369,005.00 | ____________ | Total amount available for the Department of national Defense | P1,369,005.00 |
+> | Philippine Constabulary | 160,000.00 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+> | Philippine Army | 930,005.00 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+> | Philippine Air Force | 82,000.00 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+> | Philippine Navy | 87,000.00 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+> |  | P1,369,005.00 | ____________ |  |  |  |  |  |  |  |  |  |  |  |  |
+> | Total amount available for the Department of national Defense | P1,369,005.00 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+ **Section 3.** The special and general provisions of Republic Act Numbered Eight hundred and sixteen are hereby made applicable to the appropriations provided in this Act:*Provided,* That no portion of the different items of the appropriations contained in this Act shall be transferred to any other item.
+
+ **Section 4.**Effective date.This Act shall take effect as of July first, nineteen hundred and fifty-two.
+
+ Approved, June 19, 1953.
+"	success	Republic Act	This act changes the name of Jesus de la Pena Barrio School to Leodegario Victorino Elementary School in Marikina, Rizal.	"[{""title"": ""Section 1."", ""summary"": ""The name of the Jesus de la Pena Barrio School in the municipality of Marikina, Province of Rizal is hereby changed to Leodegario Victorino Elementary School.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	883	June 19, 1953			To change the name of the school.	"[""Name of Jesus de la Pena Barrio School changed to Leodegario Victorino Elementary School."", ""Act takes effect upon approval.""]"		"[""Republic Act"", ""Education"", ""School Name Change""]"	"[""Jesus de la Pena"", ""Leodegario Victorino"", ""Marikina"", ""Rizal"", ""school name change""]"
+repacts:datasets/markdown/repacts/1953/ra_892_1953.md	repacts	1953		datasets/markdown/repacts/1953/ra_892_1953.md	ra_892_1953	An Act to Change the Name of the Maasin Elementary School in the Municipality of Maasin, Province of Leyte, to Tomas Oppus Elementary School.	"**[ REPUBLIC ACT NO. 892, June 20, 1953 ]**
+
+ AN ACT TO AMEND SECTIONS ONE, TWO, THREE AND SIX OF REPUBLIC ACT NUMBERED SIX HUNDRED AND TWENTY-ONE BY TRANSFERRING THE UNITED NATIONS EDUCATIONAL, SCIENTIFIC AND CULTURAL ORGANIZATION NATIONAL COMMISSION OF THE PHILIPPINES FROM THE SUPERVISION OF THE DEPARTMENT OF FOREIGN AFFAIRS TO THE PRESIDENT OF THE PHILIPPINES, AND FOR OTHER PURPOSES.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Section one of Republic Act Numbered Six hundred and twenty-one is hereby amended to read as follows:
+
+ > ""**Section 1.** The United Nations Educational, Scientific and Cultural Organization National Commission of the Philippines, herein after referred to as the Commission, is hereby created under the President of the Philippines to serve as a liaison agency between the Government of the Philippines and the United Nations Educational, Scientific and Cultural Organization (UNESCO) and to associate principal bodies in the Philippines interested in educational, scientific and cultural matters with the work of the UNESCO, in accordance with Article VII of the Constitution of the aforesaid Organization accepted by Joint Resolution Numbered Three of the Congress of the Philippines adopted on October seventeen, nineteen hundred and forty-six.""
+
+ **Section 2.** Subsection(a)of section two of the same Act is hereby amended to read as follows:
+
+ > ""(a) Twenty shall be designated by the President of the Philippines upon recommendation of organizations interested in educational, scientific and cultural matters affiliated with and duly registered in the Commission;*Provided,* That no person shall be appointed to the commission who is not morally and academically qualified for membership therein.""
+
+ **Section 3.** The second paragraph of section two of the same Act is further amended to read as follows:
+
+ > ""A Chairman and Vice-Chairman shall be elected by the Commission to serve for a term of two years or until their respective successors shall have been elected or qualified. The Chairman shall be the presiding officer of the Commission and shallex officiobe the Head of the Executive Committee herein provided.""
+
+ **Section 4.** The first paragraph of section three of the same Act is amended to read as follows:
+
+ > ""The Commission shall create an Executive Committee and such other committees or sub-committees as may be necessary for the effective and efficient performance of its powers and duties.""
+
+ **Section 5.** Sub-section (b) of section six of the same Act is hereby amended to read as follows:
+
+ > ""(b) To promulgate rules and regulations for the conduct of its own affairs;""
+
+ **Section 6.** The transfer of the United Nations Educational, Scientific and Cultural Organization (UNESCO) National Commission of the Philippines from the supervision of the Department of Foreign Affairs to that of the President of the Philippines shall include the transfer of all its records, property, equipment, appropriations and personnel.
+
+ **Section 7.** This Act shall take effect upon its approval.
+
+ Approved, June 20, 1953.
+"	success	Education	This Act changes the name of Maasin Elementary School to Tomas Oppus Elementary School.	"[{""title"": ""Section 1"", ""summary"": ""The name of the Maasin Elementary School is changed to Tomas Oppus Elementary School.""}, {""title"": ""Section 2"", ""summary"": ""The Act shall take effect upon its approval.""}]"	884	June 19, 1953			To change the name of Maasin Elementary School to Tomas Oppus Elementary School.	"[""Name change of Maasin Elementary School to Tomas Oppus Elementary School."", ""Act takes effect upon approval.""]"		"[""Education"", ""School Name Change"", ""Leyte""]"	"[""Maasin Elementary School"", ""Tomas Oppus Elementary School"", ""Leyte"", ""name change""]"
+repacts:datasets/markdown/repacts/1953/ra_893_1953.md	repacts	1953		datasets/markdown/repacts/1953/ra_893_1953.md	ra_893_1953	AN ACT GRANTING THE AMERICAN RUBBER CO., INC., A TEMPORARY PERMIT TO ESTABLISH, MAINTAIN AND OPERATE PRIVATE FIXED POINT-TO-POINT RADIOTELEPHONE STATIONS FOR THE TRANSMISSION AND RECEPTION OF WIRELESS MESSAGES TO AND FROM SAID STATIONS.	"**[ REPUBLIC ACT NO. 893, June 20, 1953 ]**
+
+ AN ACT TO AMEND FURTHER SECTION NINETEEN HUNDRED TWENTY-NINE OF THE REVISED ADMINISTRATIVE CODE, SO AS TO RECREATE THE POSITION OF ASSISTANT DIRECTOR OF POSTS, AND FOR OTHER PURPOSES.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Section nineteen hundred twenty-nine of the Revised Administrative Code, as amended by Executive Order Numbered Ninety-four, dated October fourth, nineteen hundred and forty-seven, is hereby further amended to read as follows:
+
+ > ""Section 1929. Chief officials of the Bureau of Posts.The Bureau of Posts shall have one chief and one assistant chief, designated respectively as the Director of Posts and the Assistant Director of Posts.""
+
+ **Section 2.** The designation ""Assistant Director of Posts"" which appeared in other sections of said Code prior to the elimination thereof by the aforesaid Executive Order shall be restored.
+
+ **Section 3.** The Assistant Director of Posts shall receive a salary of six thousand six hundred pesos per annum. The sum needed to cover the salary of the Assistant Director of Posts, upon the effectivity of this Act until the end of the fiscal year nineteen hundred and fifty-three to nineteen hundred and fifty-four, shall be taken from the savings of the Bureau of Posts for the fiscal year nineteen hundred fifty-two to nineteen hundred and fifty-three, and thereafter such sum shall be included in the annual General Appropriations Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved, June 20, 1953.
+"	success	Republic Act	This Act grants American Rubber Co., Inc. a temporary permit to establish, maintain, and operate private fixed point-to-point radiotelephone stations in specified areas of the Philippines, subject to presidential and governmental oversight, with conditions on operation commencement, frequency allocation, non-interference, and emergency provisions.	"[{""title"": ""Section 1."", ""summary"": ""Granting temporary permit to American Rubber Co., Inc. to establish and operate private fixed point-to-point radiotelephone stations in Basilan, Zamboanga, and other parts of the Philippines, subject to approval of Secretary of Public Works and Communications.""}, {""title"": ""Section 2."", ""summary"": ""President authorized to permit construction, maintenance, and operation of such stations on public domain land under prescribed terms.""}, {""title"": ""Section 3."", ""summary"": ""Permit remains in force until government establishes similar service; grantee must start operation within one and a half years of Act approval.""}, {""title"": ""Section 4."", ""summary"": ""Grantee prohibited from engaging in domestic telecommunications business; permit solely for trade and business interest of the grantee.""}, {""title"": ""Section 5."", ""summary"": ""Operation to commence only after Secretary allocates frequencies and wavelengths.""}, {""title"": ""Section 6."", ""summary"": ""Stations must be constructed and operated not to interfere with other radio stations.""}, {""title"": ""Section 7."", ""summary"": ""Grantee holds governments harmless from claims arising from construction or operation of stations.""}, {""title"": ""Section 8."", ""summary"": ""Grantee subject to existing and future corporation laws.""}, {""title"": ""Section 9."", ""summary"": ""President reserves right to close stations or authorize use by government in emergencies, with just compensation.""}, {""title"": ""Section 10."", ""summary"": ""Permit subject to amendment, alteration, or repeal by Congress; not exclusive grant.""}, {""title"": ""Section 11."", ""summary"": ""Act takes effect upon approval.""}]"	885	June 19, 1953			To provide a temporary framework for the operation of private fixed point-to-point radiotelephone stations by American Rubber Co., Inc., ensuring regulated use of the airwaves and safeguarding public interests.	"[""Grant temporary permit to American Rubber Co., Inc. for fixed point-to-point radiotelephone stations."", ""Presidential authority to permit construction on public land."", ""Permit valid until government establishes similar service; operation within 1.5 years."", ""Restriction on engaging in domestic telecom business."", ""Requirement for frequency allocation by Secretary of Public Works and Communications."", ""Non-interference with other radio stations."", ""Hold governments harmless from claims."", ""Subject to corporation laws."", ""Emergency provisions for closure or government use with compensation."", ""Subject to amendment or repeal by Congress."", ""Effectivity upon approval.""]"		"[""Telecommunications"", ""Radiotelephone"", ""Private Permit"", ""Philippines"", ""Republic Act 885""]"	"[""American Rubber Co."", ""private fixed point-to-point radiotelephone stations"", ""temporary permit"", ""Secretary of Public Works and Communications"", ""President of the Philippines""]"
+repacts:datasets/markdown/repacts/1953/ra_894_1953.md	repacts	1953		datasets/markdown/repacts/1953/ra_894_1953.md	ra_894_1953	AN ACT CHANGING THE NAME OF THE CAMANGAAN ELEMENTARY SCHOOL IN THE BARRIO 28, MUNICIPALITY OF LAOAG, PROVINCE OF ILOCOS NORTE, TO PLARIDEL ELEMENTARY SCHOOL.	"**[ REPUBLIC ACT NO. 894, June 20, 1953 ]**
+
+ AN ACT TO AMEND THE FIRST PARAGRAPH OF SECTION ONE HUNDRED AND EIGHTY-SIX, CHAPTER ONE, TITLE V, OF COMMONWEALTH ACT NUMBERED FOUR HUNDRED AND SIXTY-SIX, ENTITLED ""AN ACT TO REVISE, AMEND AND CODIFY THE INTERNAL REVENUE LAWS OF THE PHILIPPINES.""
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The first paragraph of section one hundred and eighty-six, Chapter one, *Title* V, of Commonwealth Act Numbered Four hundred and sixty-six is hereby amended to read as follows:
+
+ > ""Section 186.Percentage tax on sales of other articles. There shall be levied, assessed, and collected once only on every original sale, barter, exchange, and similar transaction either for nominal or valuable considerations to transfer ownership of, or title to, the articles not enumerated in section one hundred and eighty-four and one hundred and eighty-five a tax equivalent to sevenper centumof the gross selling price or gross value in money of the articles so sold, bartered, exchanged, or transferred, such tax to be paid by the manufacturer, producer, or importer:*Provided,* That where the articles are manufactured out of materials, subject to tax under this section, the total cost of such materials, as duly established, shall be deductible from the gross selling price or gross value in money of the manufactured articles:And *Provided,* further, That with respect to all forest products, whether manufactured or in the original form, a tax equivalent to fiveper centumonly of the selling price or gross value in money shall be levied, assessed, and collected:And provided, finally,That with respect to goods or products shipped or exported abroad, no percentage tax shall be levied thereon irrespective of any shipping arrangement that may be agreed upon which may influence or determine the transfer of ownership of the goods or products exported.
+>
+>  ""In the case of operators or proprietors of sawmills who buy logs for the purpose of sawing and/or cutting them into lumber of standard sizes, the tax prescribed in this section shall be computed on thirty-three and one-thirdper centumof the gross cost of logs purchased during any given quarter intended for manufacture. Operators or proprietors of sawmills entitled to the privilege of paying the tax on thirty-three and one-thirdper centumof the gross cost of the logs purchased by them shall keep a complete record of their transactions, specially their purchase of logs together with the corresponding vouchers, such as official and auxiliary invoices, or the commercial invoices of the producers from whom they purchased the logs, in cases where the logs purchased constitute merely a portion of the logs covered by an official invoice, in which commercial invoices the assessment numbers of the official invoices covering the logs and the names and addresses of the vendors shall be indicated. They shall also keep a complete record of lumber purchased by them for resale.""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 20, 1953.
+"	success	Education	An act changing the name of Camangaan Elementary School in Barrio 28, Laoag, Ilocos Norte to Plaridel Elementary School, effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The name of the Camangaan Elementary School in the barrio 28, municipality of Laoag, Province of Ilocos Norte, is hereby changed to Plaridel Elementary School.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	REPUBLIC ACT NO. 886	June 19, 1953			Changing the name of Camangaan Elementary School to Plaridel Elementary School.	"[""Name of the school is changed from Camangaan Elementary School to Plaridel Elementary School.""]"			"[""Camangaan"", ""Plaridel"", ""school"", ""Ilocos Norte"", ""Laoag""]"
+repacts:datasets/markdown/repacts/1953/ra_895_1953.md	repacts	1953		datasets/markdown/repacts/1953/ra_895_1953.md	ra_895_1953	AN ACT TO AMEND SECTIONS THREE HUNDRED AND THIRTY-NINE AND THREE HUNDRED AND FIFTY-SIX OF COMMONWEALTH ACT NUMBERED FOUR HUNDRED AND SIXTY-SIX, OTHERWISE KNOWN AS THE NATIONAL INTERNAL REVENUE CODE, AS AMENDED.	"**[ REPUBLIC ACT NO. 895, June 20, 1953 ]**
+
+ AN ACT TO AMEND SECTION SEVEN, PART C, TITLE III, OF REPUBLIC ACT NUMBERED SEVEN HUNDRED EIGHT, REGARDING CONVERSION OF CERTAIN POSITIONS IN THE DEPARTMENT OF FOREIGN AFFAIRS TO POSITIONS OF FOREIGN AFFAIRS OFFICERS.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Section seven, Part C, *Title* III, of Republic Act Numbered Seven hundred eight, is amended to read as follows:
+
+ > ""**Section 7.**Conversion of positions.To permit rotation of career personnel between the Home Office and the Foreign Service, as contemplated in this Act, the positions of Counselors and the positions of chiefs of division and those of equal rank and responsibility now occupied by graduates of the Foreign Affairs Training Program in the United States Department of State are hereby converted into positions of Foreign Affairs Officers, Class I and Class II, respectively, occupying the rate in each class which the Secretary deems appropriate. The Secretary shall, by regulation, determine the manner and frequency in which Counselors, chiefs of division and occupants of positions of equal rank and responsibility shall be exchanged with Foreign Affairs Officers in the field, subject to the limitations of this Act.""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 20, 1953.
+"	success	Republic Act	The act amends Sections 339 and 356 of the National Internal Revenue Code to define prohibited drugs and establish penalties for failure to maintain proper records of such drugs.	"[{""title"": ""Section 1."", ""summary"": ""Amendment to Section 339 of Commonwealth Act No. 466 to define the term \""prohibited drugs\"" and list specific narcotics and opiates.""}, {""title"": ""Section 2."", ""summary"": ""Amendment to Section 356 of Commonwealth Act No. 466 imposing fines for pharmacists, physicians, dentists, and veterinarians who fail to keep true and correct records of prohibited drugs.""}, {""title"": ""Section 3."", ""summary"": ""Effectivity of the act upon approval.""}]"	RA 887	1953-06-19			To clarify the definition of prohibited drugs and enforce record-keeping requirements for healthcare professionals under the National Internal Revenue Code.	"[""Definition of prohibited drugs in Section 339"", ""Imposition of fines for failure to maintain records in Section 356"", ""Effectivity upon approval""]"	Commonwealth Act No. 466 (National Internal Revenue Code)	"[""National Internal Revenue Code"", ""Drug Regulation"", ""Pharmacist Record-Keeping""]"	"[""prohibited drugs"", ""opiate"", ""pharmacist"", ""fine"", ""record-keeping"", ""National Internal Revenue Code""]"

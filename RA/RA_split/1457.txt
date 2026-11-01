@@ -1,0 +1,158 @@
+
+ **Section 10.***Annual Report.* At the end of each fiscal year, the Board shall submit to the President of the Philippines and both Houses of Congress a report of its activities and meetings during the fiscal year just ended.
+
+ **Section 11.**Registration Requirement. No person shall practice or offer to practice the forestry profession in the Philippines unless he possesses a valid certificate of registration as forester issued by the Board. A certificate of Registration shall be issued to those who are exempt from examination and qualified under Section 16 hereof or to those who passed the forestry board examination under this Act.
+
+ **Section 12.***Examination Requirement.* Except as provided in Section 16, all applicants for registration for the practice of forestry shall be required to pass a technical examination hereinafter provided.
+
+ **Section 13.***Holding of Examination.*Examinations of candidates desiring to practice forestry in the Philippines shall be held at such time, date and place as may be determined by the Board.
+
+ The subjects and methods of examination shall be prescribed by the Board.
+
+ **Section 14.***Qualifications for examination.*Any person applying for admission to the forester examination shall, prior to the date of the examination, establish to the satisfaction of the Board that he has the following qualifications:
+
+ a. At least twenty-one years of age;
+
+ b. A citizen of the Philippines;
+
+ c. Of good reputation and good moral character; and
+
+ d. A graduate of a four-year course in forestry or its equivalent from an educational institution in the Philippines or abroad.
+
+ **Section 15.***Oath of Foresters.* All those qualified under Section 16 hereof and successful candidates in the examination shall be required to take a professional oath before the Board or other Government officials authorized, to administer oaths, prior to the issuance of a certificate of registration.
+
+ **Section 16.***Exemption from examination.* Examinations shall not be required of the following persons:
+
+ a. Holders of the degree of Bachelor of Science in Forestry or its equivalent or a higher forestry degree:*Provided,*That they have at least ten years experience in technical forestry work either in the Government or with a private forestry enterprise, or both or they have passed a civil service examination for foresters.
+
+ b. Forestry experts from other countries who are called in by the Philippine Government for consultation on forestry matters:*Provided,*that they have qualified in their respective countries in appropriate forestry examinations, or if no forestry examinations are given therein, that their expertise be certified by the proper Philippine diplomatic or consular representative therein.
+
+ c. Forestry experts from other countries under contract with and working for local private forestry enterprises:*Provided,*That they have qualified in their respective countries in appropriate forestry examinations or if no forestry examinations are given therein, that their expertise be certified by the proper Philippines diplomatic or consular representative therein.
+
+ **Section 17.***Violation of this Act.* Any person who wilfully violates any provision of this Act shall be subject to a fine of not more than five hundred pesos. Should any person give false testimony or submit falsified evidence of any kind to the Board or any member thereof in obtaining a certificate of registration or in connection with hearings for malpractice or unethical conduct, he shall be penalized under the Revised Penal Code for falsification or perjury. The Board may revoke a certificate of registration for malpractice or unethical conduct, subject to Civil Service procedures and regulations. This law shall not be construed to deprive any person of the right to avail himself of any and all judicial proceedings or remedies available under existing laws.
+
+ **Section 18.***Roster of registered foresters.* A roster showing the names and places of business of all registered professional foresters shall be prepared by the Commissioner of Civil Service within six months from approval of this Act after giving due notice that the Board is ready for registration of persons qualified as foresters but are exempt from taking the forestry board examination. Thereafter, the Commissioner shall annually update the roster with additional names of registered foresters, including those who are exempt from examination and those who successfully passed the Board examination. Certified copies of this roster shall be placed on file with the Secretary of Agriculture and Natural Resources, the Bureau of Forestry, Reforestation Administration, Parks and Wildlife Office, and College of Forestry, Certified copies of such roster may also be furnished without cost to department heads, mayors of chartered cities, and such other bureaus, government entities or agencies, and city, provincial and municipal authorities as may be deemed necessary, and to the public upon request.
+
+ **Section 19.***Separability Clause*. If any part or provision of this Act or the application thereof to any person or circumstance shall be declared unconstitutional, the remainder of the Act or the application of such provision to other persons or circumstances shall not be affected by such declaration.
+
+ **Section 20.***Effectivity*. This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Act	This act establishes the Forestry Profession Law, defining the forestry profession and the qualifications for foresters, creating a Board of Examiners for Foresters, and outlining the powers, duties, and disciplinary procedures for the Board and its members.	"[{""title"": ""Section 1. Title of Act"", ""summary"": ""The act is known as \""The Forestry Profession Law.\""""}, {""title"": ""Section 2. Definition of Terms"", ""summary"": ""Defines the forestry profession and the term \""forester.\""""}, {""title"": ""Section 3. Creation and Composition of the Board of Examiners for Forester"", ""summary"": ""Establishes the Board of Examiners, its composition, appointment process, and terms of office.""}, {""title"": ""Section 4. Removal, Suspension and Filling of Vacancies"", ""summary"": ""Outlines procedures for removal, suspension, and filling vacancies of Board members.""}, {""title"": ""Section 5. Powers and Duties of the Board"", ""summary"": ""Enumerates the Board's authority to administer oaths, issue certificates, investigate malpractice, and enforce standards.""}, {""title"": ""Section 6. Qualifications and Disqualification of Board Members"", ""summary"": ""Sets the qualifications and disqualifications for Board members.""}]"	6239	June 19, 1971			To regulate the practice of the forestry profession in the Philippines.	"[""Defines the forestry profession and forester"", ""Creates the Board of Examiners for Foresters"", ""Sets qualifications and disqualifications for Board members"", ""Outlines powers and duties of the Board"", ""Establishes procedures for removal and suspension of Board members""]"		"[""forestry"", ""profession"", ""board of examiners"", ""regulation""]"	"[""forestry profession"", ""Board of Examiners"", ""forester qualifications"", ""professional regulation""]"
+repacts:datasets/markdown/repacts/1971/ra_6240_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6240_1971.md	ra_6240_1971	AN ACT AMENDING REPUBLIC ACT NUMBERED FORTY-EIGHT HUNDRED AND TWO, AS AMENDED, ENTITLED 'AN ACT CREATING THE MUNICIPALITY OF QUEZON IN THE PROVINCE OF BUKIDNON.'	"**[ REPUBLIC ACT NO. 6240, June 19, 1971 ]**
+
+ AN ACT AMENDING REPUBLIC ACT NUMBERED FORTY-EIGHT HUNDRED AND TWO, AS AMENDED, ENTITLED ""AN ACT CREATING THE MUNICIPALITY OF QUEZON IN THE PROVINCE OF BUKIDNON.""
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Section one of Republic Act Numbered Forty-eight hundred and two, as amended, is further amended to read as follows:
+
+ ""**Section 1.** The barrios and sitios of Nanapan (Pontian), Sta. Cruz, Dilapa, Kiburiao, Mibantang and Cebole in the Municipality of Maramag (subsequently annexed by the Municipality of Dangcagan), Province of Bukidnon, and the barrios of Salawagan, Manoto, San Jose, Kiokong, Paitan, Lumintao and Kulaman in the Municipality of Maramag, Province of Bukidnon, are hereby separated from their respective mother municipality of said province to be known as the Municipality of Quezon, with the seat of government at the present site of Barrio Kiokong.""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Act	An amendment to Republic Act No. 482 that creates the Municipality of Quezon in Bukidnon by separating specified barrios and sitios from Maramag, establishing the seat of government at Barrio Kiokong.	"[{""title"": ""Section 1."", ""summary"": ""Amends Section 1 of RA 482 to separate the barrios and sitios of Nanapan (Pontian), Sta. Cruz, Dilapa, Kiburiao, Mibantang, Cebole, Salawagan, Manoto, San Jose, Kiokong, Paitan, Lumintao, and Kulaman from Maramag into the Municipality of Quezon, with its seat at Barrio Kiokong.""}, {""title"": ""Section 2."", ""summary"": ""The Act shall take effect upon its approval.""}]"	6240	June 19, 1971				"[""Amends RA 482 to create Municipality of Quezon by separating specified barrios and sitios."", ""Establishes seat of government at Barrio Kiokong."", ""Act takes effect upon approval.""]"	Republic Act No. 482	"[""municipality creation"", ""Bukidnon"", ""Quezon""]"	"[""municipality"", ""Quezon"", ""Bukidnon"", ""barrios"", ""sitios"", ""RA 482""]"
+repacts:datasets/markdown/repacts/1971/ra_6241_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6241_1971.md	ra_6241_1971	AN ACT PROVIDING FOR TWO ASSISTANT PROVINCIAL FISCALS FOR THE PROVINCE OF CAMIGUIN, BY FURTHER AMENDING SECTION SIXTEEN HUNDRED SEVENTY-FOUR OF THE ADMINISTRATIVE CODE.	"**[ REPUBLIC ACT NO. 6241, June 19, 1971 ]**
+
+ AN ACT PROVIDING FOR TWO ASSISTANT PROVINCIAL FISCALS FOR THE PROVINCE OF CAMIGUIN, BY FURTHER AMENDING SECTION SIXTEEN HUNDRED SEVENTY-FOUR OF THE ADMINISTRATIVE CODE.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Section sixteen hundred seventy-four of the Administrative Code, as amended, is further amended by inserting a subparagraph relative to the number of assistant provincial fiscals in the Province of Camiguin, to read as follows:
+
+ ""Camiguin, two assistant provincial fiscals;""
+
+ **Section 2.** There is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, the sum of twenty thousand pesos or so much .thereof as may be necessary to pay the share of the National Government for the positions provided for in this Act for the current fiscal year. Thereafter, appropriations for the succeeding fiscal years shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Republic Act	Amends Section 1674 of the Administrative Code to establish two assistant provincial fiscals in Camiguin and appropriates funds for their salaries in the current fiscal year.	"[{""title"": ""Section 1."", ""summary"": ""Amends Section 1674 of the Administrative Code to insert 'Camiguin, two assistant provincial fiscals.'""}, {""title"": ""Section 2."", ""summary"": ""Appropriates approximately 20,000 pesos from the National Treasury for the positions provided for in this Act for the current fiscal year.""}, {""title"": ""Section 3."", ""summary"": ""The Act shall take effect upon its approval.""}]"	6241	June 19, 1971			To establish and fund two assistant provincial fiscals in Camiguin by amending the Administrative Code.	"[""Amendment of Section 1674 to create two assistant provincial fiscals in Camiguin."", ""Appropriation of approximately 20,000 pesos for their salaries in the current fiscal year.""]"	Section 1674 of the Administrative Code	"[""Republic Act"", ""Administrative Code"", ""Fiscal"", ""Camiguin""]"	"[""assistant provincial fiscals"", ""Camiguin"", ""Administrative Code"", ""appropriation"", ""National Treasury""]"
+repacts:datasets/markdown/repacts/1971/ra_6242_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6242_1971.md	ra_6242_1971	AN ACT CREATING FOUR ADDITIONAL POSITIONS OF ASSISTANT PROVINCIAL FISCAL FOR THE PROVINCE OF DAVAO ORIENTAL, AMENDING FOR THE PURPOSE SECTION SIXTEEN HUNDRED SEVENTY-FOUR OF THE ADMINISTRATIVE CODE, AS AMENDED.	"**[ REPUBLIC ACT NO. 6242, June 19, 1971 ]**
+
+ AN ACT CREATING FOUR ADDITIONAL POSITIONS OF ASSISTANT PROVINCIAL FISCAL FOR THE PROVINCE OF DAVAO ORIENTAL, AMENDING FOR THE PURPOSE SECTION SIXTEEN HUNDRED SEVENTY-FOUR OF THE ADMINISTRATIVE CODE, AS AMENDED.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Section sixteen hundred seventy-four of the Administrative Code, as amended, relative to the number of assistant provincial fiscals in the Province of Davao Oriental, is further amended to read as follows:
+
+ ""Davao Oriental, six assistant provincial fiscals;""
+
+ **Section 2.** There is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, the sum of forty thousand pesos or so much thereof as may be necessary to pay the share of the National Government for the positions provided for in this Act for the current fiscal year. Thereafter, appropriate for the succeeding fiscal years shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Republic Act	This act increases the number of assistant provincial fiscals in Davao Oriental to six, authorizes appropriation of funds for their salaries, and takes effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Amends Section 16 174 of the Administrative Code to increase the number of assistant provincial fiscals in Davao Oriental to six.""}, {""title"": ""Section 2."", ""summary"": ""Authorizes appropriation of funds from the National Treasury to pay the share of the National Government for the positions for the current fiscal year and future years.""}, {""title"": ""Section 3."", ""summary"": ""The act takes effect upon its approval.""}]"	6242	1971-06-19			To increase the number of assistant provincial fiscals in Davao Oriental and provide funding for their salaries.	"[""Amendment to Section 16 174 of the Administrative Code to increase assistant provincial fiscals to six."", ""Authorization of appropriation of funds for the positions for the current fiscal year and future years."", ""Effective upon approval.""]"	Section Sixteen Hundred Seventy-Four of the Administrative Code.	"[""Administrative Code"", ""Fiscal"", ""Davao Oriental"", ""Assistant Provincial Fiscal""]"	"[""assistant provincial fiscal"", ""Davao Oriental"", ""administrative code"", ""appropriation"", ""budget"", ""public finance""]"
+repacts:datasets/markdown/repacts/1971/ra_6243_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6243_1971.md	ra_6243_1971	AN ACT CREATING ADDITIONAL POSITIONS OF ASSISTANT PROVINCIAL FISCAL IN THE PROVINCE OF BATANGAS, AMENDING FOR THE PURPOSE SECTION SIXTEEN HUNDRED AND SEVENTY-FOUR OF THE REVISED ADMINISTRATIVE CODE, AS AMENDED.	"**[ REPUBLIC ACT NO. 6243, June 19, 1971 ]**
+
+ AN ACT CREATING ADDITIONAL POSITIONS OF ASSISTANT PROVINCIAL FISCAL IN THE PROVINCE OF BATANGAS, AMENDING FOR THE PURPOSE SECTION SIXTEEN HUNDRED AND SEVENTY-FOUR OF THE REVISED ADMINISTRATIVE CODE, AS AMENDED.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Section sixteen hundred and seventy-four of the Revised Administrative Code, as amended, relative to the number of assistant provincial fiscals in the Province of Batangas, is hereby further amended to read as follows:
+
+ ""Batangas, fourteen assistant provincial fiscals;""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Republic Act	The act increases the number of assistant provincial fiscals in the Province of Batangas to fourteen by amending Section 1674 of the Revised Administrative Code. The amendment takes effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Amends Section 1674 of the Revised Administrative Code to provide for fourteen assistant provincial fiscals in Batangas.""}, {""title"": ""Section 2."", ""summary"": ""Declares that the act takes effect upon its approval.""}]"	6243	June 19, 1971			To increase the number of assistant provincial fiscals in Batangas to fourteen by amending the Revised Administrative Code.	"[""Amends Section 1674 of the Revised Administrative Code to authorize fourteen assistant provincial fiscals in Batangas."", ""The act takes effect upon approval.""]"	Section 1674 of the Revised Administrative Code	"[""Republic Act"", ""Administrative Code"", ""Batangas"", ""Fiscal"", ""Assistant Provincial Fiscal""]"	"[""assistant provincial fiscal"", ""Batangas"", ""Revised Administrative Code"", ""Section 1674"", ""public finance""]"
+repacts:datasets/markdown/repacts/1971/ra_6244_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6244_1971.md	ra_6244_1971	AN ACT PROVIDING FOR FOUR ADDITIONAL POSITIONS OF ASSISTANT PROVINCIAL FISCAL FOR THE PROVINCE OF ZAMBOANGA DEL SUR, AMENDING FOR THE PURPOSE SECTION SIXTEEN HUNDRED SEVENTY-FOUR OF THE ADMINISTRATIVE CODE.	"**[ REPUBLIC ACT NO. 6244, June 19, 1971 ]**
+
+ AN ACT PROVIDING FOR FOUR ADDITIONAL POSITIONS OF ASSISTANT PROVINCIAL FISCAL FOR THE PROVINCE OF ZAMBOANGA DEL SUR, AMENDING FOR THE PURPOSE SECTION SIXTEEN HUNDRED SEVENTY-FOUR OF THE ADMINISTRATIVE CODE.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The provision of Section sixteen hundred seventy-four of the Administrative Code, as amended, relative to the number of assistant provincial fiscals in the Province of Zamboanga del Sur is hereby amended to read as follows:
+
+ ""Zamboanga del Sur, six assistant provincial fiscals;""
+
+ **Section 2.** There is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, such sums as may be necessary to pay the share of the National Government for the positions provided for in this Act for the current fiscal year. Thereafter, the approbation for the succeeding fiscal years shall be included thy annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Republic Act	Amends Section 1674 of the Administrative Code to increase the number of assistant provincial fiscals in Zamboanga del Sur to six, and appropriates funds for the positions.	"[{""title"": ""Section 1."", ""summary"": ""Amends Section 1674 to increase the number of assistant provincial fiscals to six.""}, {""title"": ""Section 2."", ""summary"": ""Appropriates funds for the positions and outlines future appropriations.""}, {""title"": ""Section 3."", ""summary"": ""Establishes the act's effectivity upon approval.""}]"	6244	June 19, 1971			To provide additional positions of assistant provincial fiscals in Zamboanga del Sur, amending Section 1674 of the Administrative Code.	"[""Amends Section 1674 to increase assistant provincial fiscals to six."", ""Appropriates funds for the positions."", ""Act takes effect upon approval.""]"	Section 1674 of the Administrative Code.	"[""Zamboanga del Sur"", ""Assistant Provincial Fiscal"", ""Administrative Code"", ""Republic Act""]"	"[""assistant provincial fiscal"", ""Zamboanga del Sur"", ""Administrative Code"", ""Republic Act 6244"", ""appropriations""]"
+repacts:datasets/markdown/repacts/1971/ra_6245_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6245_1971.md	ra_6245_1971	AN ACT AUTHORIZING THE ABRA SCHOOL OF ARTS AND TRADES IN THE MUNICIPALITY OF BANGUED, PROVINCE OF ABRA, TO OFFER FOUR-YEAR DEGREE COURSES OF BACHELOR OF SCIENCE IN INDUSTRIAL EDUCATION AND BACHELOR OF SCIENCE IN INDUSTRIAL ARTS.	"**REPUBLIC ACT No. 6245**
+
+ AN ACT AUTHORIZING THE ABRA SCHOOL OF ARTS AND TRADES IN THE MUNICIPALITY OF BANGUED, PROVINCE OF ABRA, TO OFFER FOUR-YEAR DEGREE COURSES OF BACHELOR OF SCIENCE IN INDUSTRIAL EDUCATION AND BACHELOR OF SCIENCE IN INDUSTRIAL ARTS.
+
+ **Section 1.** The Abra School of Arts and Trades in the Municipality of Bangued, Province of Abra is hereby authorized to offer four-year degree courses of Bachelor of Science in Industrial Education and Bachelor of Science in Industrial Arts. The said courses shall be in addition to the present courses being offered under the trade technical education curriculum and the four-year secondary trade curriculum: *Provided*, That the school shall offer short vocational courses for training in vocations needed in the locality which shall be open to elementary school graduates.
+
+ **Section 2.** The Abra School of Arts and Trades shall be headed by a Superintendent of Arts and Trades and shall be under the Bureau of Vocational Education.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 19, 1971
+"	success	Republic Act	Authorizes the Abra School of Arts and Trades to offer Bachelor of Science in Industrial Education and Industrial Arts courses, provide short vocational training, and establishes its governance under the Bureau of Vocational Education.	"[{""title"": ""Section 1."", ""summary"": ""Authorizes the school to offer four-year BS Industrial Education and BS Industrial Arts courses, and to provide short vocational courses for training in local vocations.""}, {""title"": ""Section 2."", ""summary"": ""The school shall be headed by a Superintendent of Arts and Trades and shall operate under the Bureau of Vocational Education.""}, {""title"": ""Section 3."", ""summary"": ""The Act shall take effect upon its approval.""}]"	6245	June 19, 1971			To authorize the Abra School of Arts and Trades to offer specific degree courses and vocational training.	"[""Authorization of four-year degree courses: Bachelor of Science in Industrial Education and Bachelor of Science in Industrial Arts"", ""Provision of short vocational courses for training in local vocations"", ""School headed by a Superintendent of Arts and Trades"", ""Under the Bureau of Vocational Education"", ""Act takes effect upon approval""]"		"[""Education"", ""Republic Act"", ""Vocational Education"", ""Abra""]"	"[""Abra School of Arts and Trades"", ""Bachelor of Science in Industrial Education"", ""Bachelor of Science in Industrial Arts"", ""Vocational Education"", ""Bureau of Vocational Education""]"
+repacts:datasets/markdown/repacts/1971/ra_6246_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6246_1971.md	ra_6246_1971	Republic Act No. 6246, June 19, 1971	"**[ REPUBLIC ACT NO. 6246, June 19, 1971 ]**
+
+ AN ACT PROVIDING FOR THE ESTABLISHMENT OF A GENERAL HOSPITAL IN THE PROVINCE OF AGUSAN DEL SUR, TO BE KNOWN AS AGUSAN DEL SUR GENERAL HOSPITAL, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established under the direct supervision of the Director of Medical Services, a general hospital in the Province of Agusandel Sur, to be known as Agusan del Sur General Hospital.
+
+ **Section 2.** The sum of five hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of the said hospital for the fiscal year nineteen hundred seventy-one. Thereafter, such sum as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Health	This act establishes a general hospital in Agusan del Sur and authorizes appropriation of funds for its establishment, operation, and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of a general hospital in Agusan del Sur under the supervision of the Director of Medical Services.""}, {""title"": ""Section 2."", ""summary"": ""Authorization to appropriate five hundred thousand pesos for the hospital\u2019s establishment, operation, and maintenance for FY 1971, with future funding to be included in the annual General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""Effectivity of the act upon approval.""}]"	6246	June 19, 1971			To establish a general hospital in Agusan del Sur and authorize the appropriation of funds for its operation and maintenance.	"[""Establishment of Agusan del Sur General Hospital"", ""Approval of five hundred thousand pesos appropriation"", ""Inclusion of hospital operation and maintenance fund in the annual General Appropriations Act"", ""Effectivity upon approval""]"		"[""Health"", ""Hospital"", ""Finance"", ""Local Government""]"	"[""agusan del sur"", ""general hospital"", ""appropriation"", ""public health""]"
+repacts:datasets/markdown/repacts/1971/ra_6247_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6247_1971.md	ra_6247_1971	AN ACT ESTABLISHING A GENERAL HOSPITAL IN THE CITY OF LAOAG, TO BE KNOWN AS LAOAG CITY GENERAL HOSPITAL, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.	"**[ REPUBLIC ACT NO. 6247, June 19, 1971 ]**
+
+ AN ACT ESTABLISHING A GENERAL HOSPITAL IN THE CITY OF LAOAG, TO BE KNOWN AS LAOAG CITY GENERAL HOSPITAL, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established, under the direct supervision of the Director of Medical Services, a general hospital in the City of Laoag, to be known as Laoag City General Hospital.
+
+ **Section 2.** The sum of three hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital during the fiscal year nineteen hundred seventy. Thereafter, such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Republic Act	The act establishes the Laoag City General Hospital, appropriates funds for its establishment, operation, and maintenance, and sets its effective date upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of the Laoag City General Hospital under the supervision of the Director of Medical Services.""}, {""title"": ""Section 2."", ""summary"": ""Authorization of 300,000 pesos for the hospital\u2019s establishment, operation, and maintenance for FY 1970, with future funds to be included in the General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""The act takes effect upon its approval.""}]"	6247	June 19, 1971			To establish a general hospital in Laoag City and authorize appropriation of funds for its establishment, operation, and maintenance.	"[""Establishment of Laoag City General Hospital"", ""Appropriation of 300,000 pesos for establishment, operation, and maintenance"", ""Effective upon approval""]"		"[""Healthcare"", ""Hospital"", ""Republic Act"", ""Laoag""]"	"[""general hospital"", ""Laoag"", ""appropriation"", ""funds"", ""healthcare""]"
+repacts:datasets/markdown/repacts/1971/ra_6248_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6248_1971.md	ra_6248_1971	An Act granting the Philippine Banking Corporation a franchise to construct, establish, operate and maintain private fixed point-to-point, coastal and land mobile radio stations for the reception and transmission of radio communications within the Philippines	"**[ REPUBLIC ACT NO. 6248, June 19, 1971 ]**

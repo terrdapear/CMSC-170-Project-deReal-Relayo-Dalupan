@@ -1,0 +1,188 @@
+> | 46 - 47 | S 34 deg. 16' E | 27.30 m. |
+> | 47 - 48 | S 78 deg. 11' E | 11.20 m. |
+> | 48 - 49 | S 28 deg. 36' E | 11.30 m. |
+> | 49 - 50 | S 07 deg. 41' E | 48.60 m. |
+> | 50 - 51 | N 80 deg. 34' E | 28.70 m. |
+> | 51- 52 | N 15 deg. 57' E | 9.50 m. |
+> | 52 - 53 | N 18 deg. 49' W | 23.20 m. |
+> | 53 - 54 | S 54 deg. 44' E | 48.50 m. |
+> | 54 - 55 | S 47 deg. 35' E | 17.20 m. |
+> | 55 - 56 | S 08 deg. 56' E | 14.90 m. |
+> | 56 - 57 | S 81 deg. 15' E | 105.79 m. |
+> | 57 - 58 | N 65 deg. 14' E | 12.90 m. |
+> | 58 - 59 | S 46 deg. 04' E | 12.20 m |
+> | 59 - 60 | S 30 deg. 13' E | 25.20 m. |
+> | 60 - 61 | S 50 deg. 49' E | 15.40 m. |
+> | 61 - 62 | N 77 deg. 28' E | 21.20 m. |
+> | 62 - 63 | S 01 deg. 08' E | 20.20 m. |
+> | 63 - 64 | S 49 deg. 44' W | 13.80 m. |
+> | 64 - 65 | N 51 deg. 35' W | 9.99 m. |
+> | 65 - 66 | S 57 deg. 51' W | 22.61 m. |
+> | 66 - 67 | S 20 deg. 16' W | 10.71 m. |
+> | 67 - 68 | S 82 deg. 42' W | 11.80 m. |
+> | 68 - 69 | S 05 deg. 16' W | 28.32 m. |
+> | 69 - 70 | S 05 deg. 52' E | 22.51 m. |
+> | 70 - 71 | S 00deg. 27' E | 26.01 m. |
+> | 71 - 72 | S 05 deg. 32' W | 46.61 m. |
+> | 72 - 73 | N 54 deg. 49' W | 22.18 m. |
+> | 73 - 74 | S 44 deg. 27' W | 14.60 m. |
+> | 74 - 75 | S 08 deg. 45' W | 35.50 m. |
+> | 75 - 76 | S 08 deg. 53' E | 11.00 m. |
+> | 76 - 77 | S 19 deg. 25' E | 24.10 m. |
+> | 77 - 78 | S 03 deg. 22' W | 40.90 m. |
+> | 78 - 79 | S 49 deg. 01' E | 11.10 m. |
+> | 79 - 80 | N 89 deg. 12' E | 21.70 m. |
+> | 80 - 81 | S 36 deg. 40' E | 9.70 m. |
+> | 81 - 82 | S 11 deg. 59' E | 11.60 m. |
+> | 82 - 83 | S 06 deg. 19' W | 12.99 m. |
+> | 83 - 84 | S 25 deg. 19' E | 78.58 m. |
+> | 84 - 85 | S 46 deg. 39' W | 31.90 m. |
+> | 85 - 86 | S 40 deg. 09' E | 69.50 m. |
+> | 86 - 87 | S 78 deg. 04' E | 25.10 m. |
+> | 87 - 88 | S 25 deg. 05' E | 24.30 m. |
+> | 88 - 89 | S 04 deg. 46' W | 49.50 m. |
+> | 89 - 90 | S 15 deg. 54' E | 15.00 m. |
+> | 90 - 91 | S 04 deg. 46' E | 21.81 m. |
+> | 91 - 92 | S 06 deg. 55' W | 19.00 m. |
+> | 92 - 93 | S 34 deg. 02' W | 127.80 m. |
+> | 93 - 94 | S 31 deg. 20' W | 67.90 m. |
+> | 94 - 95 | S 52 deg. 59' W | 126.87 m. |
+> | 95 - 96 | S 25 deg. 42' W | 99.92 m. |
+> | 96 - 97 | S 03 deg. 04' W | 74.80 m. |
+> | 97 - 98 | S 26 deg. 46' W | 352.73 m. |
+> | 98 - 99 | S 18 deg. 38' W | 41.95 m. |
+> | 99 - 100 | S 68 deg. 39' W | 27.12 m. |
+> | 100 -101 | S 47 deg. 47' W | 16.32 m. |
+> | 101 - 102 | S 17 deg. 37' W | 47.18 m. |
+> | 102 - 103 | Due South | 23.03 m. |
+> | 103 - 104 | S 04 deg. 52' E | 31.04 m. |
+> | 104 - 105 | S 18 deg. 28' W | 20.81 m. |
+> | 105 - 106 | S 77 deg. 06' W | 54.07 m. |
+> | 106 - 107 | S 64 deg. 03' W | 95.16 m. |
+> | 107 - 108 | S 69 deg. 54' W | 35.09 m. |
+> | 108 - 109 | N 80 deg. 46' W | 47.84 m. |
+> | 109 - 110 | N 68 deg. 27' W | 61.44 m. |
+> | 110 - 111 | N 19 deg. 10' W | 70.16 m. |
+> | 111 - 112 | N 25 deg. 58' W | 45.13 m. |
+> | 112 - 113 | N 48 deg. 24' W | 13.22 m. |
+> | 113 - 114 | Due West | 18.67 m. |
+> | 114 - 115 | S 68 deg. 59' W | 15.29 m. |
+> | 115 - 116 | S 55 deg. 32' W | 21.32 m. |
+> | 116 - 117 | S 20 deg. 00' W | 38.51 m. |
+> | 117 - 118 | S 11 deg. 05' W | 51.41 m. |
+> | 118 - 119 | S 05 deg. 43' E | 44.09 m. |
+> | 119 - 120 | S 36 deg. 30' E | 31.38 m. |
+> | 120 - 121 | S 23 deg. 07' E | 72.74 m. |
+> | 121 - 122 | S 01 deg. 59' W | 31.82 m. |
+> | 122 - 123 | S 27 deg. 27' W | 33.37 m. |
+> | 123 - 124 | S 75 deg. 59' W | 27.16 m. |
+> | 124 - 125 | S 86 deg. 03' W | 31.92 m. |
+> | 125 - 126 | N 64 deg. 28' W | 27.99 m. |
+> | 126 - 127 | N 57 deg. 26' W | 32.59 m. |
+> | 127 - 128 | N 78 deg. 23' W | 38.12 m. |
+> | 128 - 129 | N 74 deg. 05' W | 31.98 m. |
+> | 129 - 130 | N 72 deg. 30' W | 21.88 m. |
+> | 130 - 131 | N 81 deg. 15' W | 14.44 m. |
+> | 131 - 132 | S 71 deg. 35' W | 13.89 m. |
+> | 132 - 133 | S 47 deg. 32' W | 17.86 m. |
+> | 133 - 1 | N 38 deg. 55' W | 26.47 m. |
+>
+>  containing an area of one million four hundred sixty-five thousand four hundred six (1,465,406) square meters, more or less.
+
+ **Section 3.** *Conduct and Supervision of Plebiscite.* - The Commission on Elections (COMELEC) shall conduct and supervise the plebiscite to be held in Barangay Muzon in the City of San Jose del Monte, Province of Bulacan within ninety (90) days from the effectivity of this Act.
+
+ The expenses for such plebiscite shall be borne by the City of San Jose del Monte, Province of Bulacan.
+
+ **Section 4.** Special Election of Barangay Officials. - The first set of officials of the barangays created under this Act shall be elected not later than ninety (90) days from approval by majority of the votes cast in a plebiscite held pursuant to Section 3 of this Act. Said special election shall be conducted and supervised by the COMELEC.
+
+ The expenses for such special elections shall be borne by the City of San Jose del Monte, Province of Bulacan.
+
+ **Section 5.** *Incumbent Barangay Officials.* - The incumbent barangay officials of Barangay Muzon in the City of San Jose del Monte, Province of Bulacan shall continue to hold office until such time that the officials of the newly created barangays have been duly elected and qualified.
+
+ **Section 6.** *Public Infrastructure and Facilities.* - All public infrastructure and facilities existing therein at the time of the approval of this Act are hereby transferred without cost or compensation to and shall be administered by the new barangays.
+
+ **Section 7.** *National Tax Allotment Shares.* - All barangays herein created shall be entitled to the National Tax Allotment (NTA) shares pursuant to Section 285 of Republic Act No. 7160, otherwise known as the Local Government Code of 1991, as amended.
+
+ **Section 8.** *Effectivity.* - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+  | (Sgd.) **VICENTE C. SOTTO III** President of the Senate | (Sgd.) **LORD ALAN JAY Q. VELASCO** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives on June 3, 2020, amended by the Senate of the Philippines on January 17, 2022, and which amendments were concurred in by the House of Representatives on January 31, 2022.
+
+   | (Sgd.) **MYRA MARIE D. VILLARICA** Secretary of the Senate | (Sgd.) **MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved: Lapsed into law on JUL 01 2022 without the signature of the President, in accordance with Article VI Section 27 (1) of the Constitution.
+
+ **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	Divides Barangay Muzon in San Jose del Monte, Bulacan into four independent barangays: Muzon Proper, East, West, and South.	"[{""title"": ""Division of Barangay Muzon"", ""summary"": ""Barangay Muzon is divided into four separate barangays: Muzon Proper, East, West, and South.""}, {""title"": ""Territorial Boundaries"", ""summary"": ""Specifies the detailed territorial boundaries for each new barangay.""}]"	11896	July 01, 2022			To improve local governance by creating four separate barangays from the existing Barangay Muzon.	"[""Division of Barangay Muzon into four barangays"", ""Specification of territorial boundaries for each new barangay"", ""Technical description of Barangay Muzon Proper""]"		"[""Republic Act"", ""Barangay"", ""Local Government"", ""San Jose del Monte"", ""Bulacan""]"	"[""Barangay Muzon"", ""San Jose del Monte"", ""Bulacan"", ""division"", ""territorial boundaries""]"
+repacts:datasets/markdown/repacts/2022/ra_11897_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11897_2022.md	ra_11897_2022	AN ACT DECLARING THE SECOND THURSDAY OF JANUARY OF EVERY YEAR AS SPECIAL WORKING HOLIDAY TO BE KNOWN AS NATIONAL BAPTIST DAY	"Eighteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-sixth day of July, two thousand twenty one.*
+
+ **[ REPUBLIC ACT NO. 11897, July 23, 2022 ]**
+
+ **AN ACT DECLARING THE SECOND THURSDAY OF JANUARY OF EVERY YEAR AS SPECIAL WORKING HOLIDAY TO BE KNOWN AS NATIONAL BAPTIST DAY**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.**ThisActshall be known as the ***""National Baptist DayAct.""***
+
+ **Section 2.** It is hereby the declared policy of the State to recognize the Baptists for the continuous pursuit of their evangelical mission to contribute to nation-building by establishing Christian schools that instill academic excellence and build character in individuals, and churches that proclaim, teach and share biblical principles for the betterment of society.
+
+ **Section 3.** To recognize the important contribution of the Baptists in nation-building, the State shall promote the observance of the second Thursday of January of every year as ""National Baptist Day"" and proclaim the same as a special working holiday.
+
+ **Section 4.** ThisActshall take effect fifteen (15) days after its publication in theOfficial Gazetteor in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.)**VICENTE C. SOTTO III** President of the Senate | (SGD.)**LORD ALAN JAY Q. VELASCO** Speaker of the House of Representatives |
+
+ This Act was passed by the Senate of the Philippines as Senate Bill No. 2522 on May 30, 2022, and adopted by the House of Representatives as an amendment to House Bill No. 6522 on June 1, 2022.
+
+ | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.)**MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved: Lapsed into law on JUL 23 2022 without the signature of the President, in accordance with Article VI Section 27 (1) of the Constitution.
+
+ **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	The act declares the second Thursday of January each year as National Baptist Day, a special working holiday, to recognize the contributions of Baptists to nation-building through education and religious services.	"[{""title"": ""Section 1."", ""summary"": ""The act shall be known as the \""National Baptist Day Act.\""""}, {""title"": ""Section 2."", ""summary"": ""The state acknowledges the Baptists for their evangelical mission and contribution to nation-building via Christian schools and churches.""}, {""title"": ""Section 3."", ""summary"": ""The state shall promote observance of the second Thursday of January each year as \""National Baptist Day\"" and proclaim it as a special working holiday.""}, {""title"": ""Section 4."", ""summary"": ""The act shall take effect fifteen days after its publication in the Official Gazette or a newspaper of general circulation.""}]"	11897	July 23, 2022	"[{""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}, {""name"": ""LORD ALAN JAY Q. VELASCO"", ""title"": ""Speaker of the House of Representatives""}]"		To recognize the Baptists' contributions to nation-building and establish National Baptist Day as a special working holiday.	"[""Declaration of National Baptist Day as a special working holiday."", ""Recognition of Baptists' contributions to education and society."", ""Provision for observance on the second Thursday of January."", ""Effective date fifteen days after publication.""]"	Amended House Bill No. 6522.	"[""special working holiday"", ""national day"", ""religious"", ""Baptist"", ""Philippines""]"	"[""National Baptist Day"", ""special working holiday"", ""Baptist"", ""Philippine law"", ""Republic Act 11897""]"
+repacts:datasets/markdown/repacts/2022/ra_11898_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11898_2022.md	ra_11898_2022	AN ACT INSTITUTIONALIZING THE EXTENDED PRODUCER RESPONSIBILITY ON PLASTIC PACKAGING WASTE, AMENDING FOR THIS PURPOSE REPUBLIC ACT NO. 9003, OTHERWISE KNOWN AS THE ECOLOGICAL SOLID WASTE MANAGEMENT ACT OF 2000	"Eighteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-sixth day of July, two thousand twenty one.*
+
+ **[ REPUBLIC ACT NO. 11898, July 23, 2022 ]**
+
+ **AN ACT INSTITUTIONALIZING THE EXTENDED PRODUCER RESPONSIBILITY ON PLASTIC PACKAGING WASTE, AMENDING FOR THIS PURPOSE REPUBLIC ACT NO. 9003, OTHERWISE KNOWN AS THE ECOLOGICAL SOLID WASTE MANAGEMENT ACT OF 2000**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** *Short Title.* This Act shall be known as the ***""Extended Producer Responsibility Act of 2022.""***
+
+ **Section 2.** Section 2 of Republic Act No. 9003 is hereby amended to read as follows:
+
+ > ""**Section 2.** *Declaration of Policies.* It is hereby declared the policy of the State to adopt a systematic, comprehensive and ecological solid waste management program which shall:
+>
+>  ""x x x ""(i) Integrate public participation in the development and implementation of national and local comprehensive and ecological waste management programs; ""(j) Strengthen the integration of ecological solid waste management and resource conservation and recovery topics into the academic curricula of formal and non-formal education in order to promote environmental awareness and action among the citizenry; and (k) Institutionalize the extended producer responsibility mechanism as a practical approach to efficient waste management, focusing on waste reduction, recovery and recycling, and the development of environment-friendly products that advocate the internationally accepted principles on sustainable consumption and production, circular economy, and producers' full responsibility throughout the life cycle of their product.
+
+ **Section 3.** Section 3 of Republic Act No. 9003 is hereby amended to read as follows:
+
+ > ""**Section 3.** *Definition of Terms.* For the purposes of this Act:
+>
+>  ""x x x ""(d-1) Circular economy shall refer to an economic model of creating value by extending product lifespan through improved design and servicing, and relocating ways from the end of the supply chain to the beginning. This intends to efficiently utilize resources by its continual use, and aims to retain the highest utility and value of products, components and materials at all times, through sharing, leasing, reuse, repair, refurbishment, and recycling in an almost closed loop; ""x x x ""(m-1) Extended producer responsibility (EPR) shall refer to the environmental policy approach and practice that requires producers to be environmentally responsible throughout the life cycle of a product, especially its post-consumer or end-of-life stage; ""x x x ""(p-1) High recyclability shall refer to a condition wherein the value for recovery and reprocessing of a product is high, due to its design, composition, content, and density, among other things; ""(p-2) High retrievability shall refer to a condition wherein after use of a product, a significant volume of its waste can be recovered, properly recycled, processed or disposed of, on account of its high value for recovery, recycling, or reprocessing; ""(p-3) Importer shall refer to a natural or juridical person engaged in bringing consumer goods into the Philippines, intended to be sold, whether in original packaging or to be repackaged for distribution to the general public; ""(p-4) Large enterprises shall refer to any business entity whose total assets, inclusive of those arising from loans but exclusive of the land on which the particular business entity's office, plant and equipment are situated, are exceeding that of medium enterprises stated under Republic Act No. 9501, otherwise known as the """"Magna Carta for Micro, Small, and Medium Enterprises""""; ""x x x ""(s-1) Obliged enterprises shall refer to product producers that are required to implement an EPR program under this Act; ""x x x ""(v-1) Plastic shall refer to a synthetic material made from a wide range of organic polymers such as polyethylene terephthalate, high density polyethylene, low density polyethylene, polypropylene, polystyrene, PVC and nylon that can be processed to form solid objects of various shapes; ""(v-2) Plastic neutrality shall refer to a system or its desired outcome where, for every amount of plastic product footprint created, an equivalent amount thereof is recovered or removed from the environment by the product producers through an efficient waste management system; ""(v-3) Plastic packaging shall refer to the polymer material designed to protect a product from environmental factors, or carry goods for transportation, distribution, and sale, including service necessities and more particularly described under Section 44-C; ""(w-1) Product footprint shall refer to a measure of the amount of goods produced, imported, distributed or supplied by a product producer, and deemed to cause damage to the environment; ""(w-2) Product producer shall refer to any of the following persons: (1) brand owner who sells or supplies any commodity under a brand, label or identity using a product it produced, or a material supplied to it by another manufacturer, or supplier; an (2) product manufacturer or importer that supplies its commodities for the use of the general consumer, or distributes the same as a material product of a brand owner: *Provided,* That for purposes of Article 2 of Chapter III-A, in case the commodities are manufactured, assembled or processed by a product manufacturer for another obliged enterprise which affixes its own brand name, the latter shall be deemed as the manufacturer; ""x x x ""(qq-1) Sustainable consumption and production shall refer to the use of services and related products that respond to basic needs and bring a better quality of life, while minimizing the use of natural resources and toxic materials, as well as the emission of wastes and pollutants over the life cycle of the service or product, so as not to jeopardize the needs of future generations; x x x.
+
+ **Section 4.** Section 4 of Republic Act No. 9003 is hereby amended to read as follows:
+
+ > ""**Section 4.** *National Solid Waste Management Commission.* There is hereby established a National Solid Waste Management Commission, hereinafter referred to as the Commission, under the Office of the President. The Commission shall be composed of eight (8) members from the government sector and five (5) members from the private sector. The government sector shall be represented by the heads of the following agencies in their ex officio capacity:
+>
+>  ""(1) Department of Environment and Natural Resources (DENR); ""(2) Department of the Interior and Local Government (DILG); ""(3) Department of Science and Technology (DOST); ""(4) Department of Health (DOH); ""(5) Department of Trade and Industry (DTI); ""(6) Department of Agriculture (DA); ""(7) Metro Manila Development Authority (MMDA); and ""(8) Union of Local Authorities of the Philippines. ""The private sector shall be represented by the following: ""(a) Three (3) representatives from nongovernment organizations (NGOs) with a track record on solid waste management or waste reduction, recycling and resource recovery; ""(b) A representative from the recycling, composting, or resource recovery and processing industry; and ""(c) A representative from the manufacturing industry, packaging industry, or obliged enterprises; ""x x x ""*Provided,* That representatives from the private sector shall be appointed by the President for a term of three (3) years.
+>
+>  ""x x x.""""
+
+ **Section 5.** Section 7 of Republic Act No. 9003 is hereby amended to read as follows:
+
+ > ""**Section 7.** *The National Ecology Center.* There shall be established a National Ecology Center (NEC) under the Commission which shall provide technical expertise, information, training, and networking services for the implementation of the provisions of this Act. As part of its oversight function, the NSWMC shall have direct supervision over the NEC.
+>
+>  ""In this regard, the NEC shall perform the following functions:
+>
+>  ""(a) Facilitate training and education in integrated ecological solid waste management; ""(b) Establish and manage a solid waste management information database, in coordination with the DTI and other concerned agencies: ""(1) on solid waste generation and management techniques as well as the management, technical and operational approaches to resource recovery; ""(2) of processors/recyclers, the list of materials being recycled or bought by them and their respective prices; and ""(3) on the rate of recovery of each type of plastic waste, updated semi-annually. ""(c) Promote the development of a recycling market through the establishment of a national network that will enhance the opportunity to recycle; ""(d) Maintain an EPR Registry that contains the registered EPR programs submitted by obliged enterprises or Producer Responsibility Organizations (PROs); ""(e) Monitor and evaluate the compliance of obliged enterprises and PROs, with the registration of their EPR programs; ""(f) Develop and maintain a database, which includes digital formats, subject to the provisions of Section 44-G, and ensure that it is reliable, effective, secure, transparent, and accessible to the public; ""(g) Receive sampling and assessment reports submitted pursuant to second paragraph of Section 44-H and undertake the necessary action on such reports, or complaints from any citizen against a waste generator, an obliged enterprises, PRO, or waste management entity, for the purpose of improving compliance with the law; ""(h) Provide or facilitate expert assistance in pilot modeling of solid waste management facilities; ""(i) Develop, test, and disseminate model on waste minimization and reduction auditing procedures for evaluating options; and ""(j) Within one (1) year after the effectivity of the Extended Producer Responsibility Act of 2022, provide an assessment on the volume or footprint of other generated wastes, for priority inclusion in the EPR scheme. ""The National Ecology Center shall be headed by the Assistant Director of the Bureau in his/her ex officio capacity. The Assistant Director shall regularly submit reports as may be required by the NSWMC in its monthly meetings. The reports of the NEC shall be consolidated by the NSWMC Secretariat for submission to the NSWMC. The NEC shall maintain a multi-sectoral, multi-disciplinary pool of experts including those from the academe, inventors, practicing professionals, business and industry, youth, women, and other concerned sectors, who shall be screened according to qualifications set by the Commission.""""

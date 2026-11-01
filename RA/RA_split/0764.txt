@@ -1,0 +1,156 @@
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1961.
+"	success	Republic Act	Authorizes and approves the transfer of the temporary permit held by Mr. Honorio G. Reyes to Mr. Enrique M. Orozco, subject to the same terms and conditions as provided in Republic Act 1835.	"[{""title"": ""Section 1."", ""summary"": ""The transfer of the temporary permit granted to Mr. Honorio G. Reyes by Republic Act Numbered Eighteen Hundred Thirty-Five in favor of Mr. Enrique M. Orozco, together with all the rights, privileges and permits that may have been granted to the former is hereby authorized and approved, provided that this transfer of temporary permit shall be subject to the same terms and conditions provided under Republic Act Numbered Eighteen Hundred Thirty-Five.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	3338	June 18, 1961			To authorize and approve the transfer of the temporary permit from Mr. Honorio G. Reyes to Mr. Enrique M. Orozco, ensuring compliance with existing conditions under RA 1835.	"[""Transfer of the temporary permit is authorized and approved."", ""Transfer is subject to the same terms and conditions as RA 1835."", ""Act takes effect upon approval.""]"		"[""transfer"", ""temporary permit"", ""authorization"", ""Republic Act"", ""1961""]"	"[""temporary permit"", ""transfer"", ""Honorio G. Reyes"", ""Enrique M. Orozco"", ""RA 1835"", ""Philippines"", ""1961""]"
+repacts:datasets/markdown/repacts/1961/ra_3339_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3339_1961.md	ra_3339_1961	An Act Creating an Additional Position of Assistant Provincial Fiscal in the Province of Palawan, Amending for This Purpose Section Sixteen Hundred Seventy-Four of the Revised Administrative Code, as Amended	"**REPUBLIC ACT No. 3339**
+
+ **An Act Creating an Additional Position of Assistant Provincial Fiscal in the Province of Palawan, Amending for This Purpose Section Sixteen Hundred Seventy-Four of the Revised Administrative Code, as Amended**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The provision of Section sixteen hundred seventy-four of the Revised Administrative Code, as amended, relative to the number of assistant provincial fiscals in the Province of Palawan, is further amended to read as follows:
+
+ > ""Palawan, two assistant provincial fiscals.""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1961.
+"	success	Republic Act	Creates an additional assistant provincial fiscal in Palawan by amending Section 1674 of the Revised Administrative Code, increasing the number to two.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 1674 of the Revised Administrative Code to read that Palawan has two assistant provincial fiscals.""}, {""title"": ""Section 2"", ""summary"": ""The Act shall take effect upon its approval.""}]"	3339	June 18, 1961			To create an additional assistant provincial fiscal in Palawan and amend the Revised Administrative Code accordingly.	"[""Amendment of Section 1674 of the Revised Administrative Code to increase assistant provincial fiscals in Palawan to two.""]"	Section 1674 of the Revised Administrative Code	"[""Fiscal"", ""Palawan"", ""Revised Administrative Code"", ""Republic Act""]"	"[""assistant provincial fiscal"", ""Palawan"", ""Revised Administrative Code"", ""Section 1674"", ""Republic Act 3339""]"
+repacts:datasets/markdown/repacts/1961/ra_3340_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3340_1961.md	ra_3340_1961	REPUBLIC ACT No. 3340 - An Act to Provide Two Additional Assistant Provincial Fiscals for the Province of Cavite, Amending for the Purpose Section Sixteen Hundred Seventy-Four of the Administrative Code, as Amended	"**REPUBLIC ACT No. 3340**
+
+ **An Act to Provide Two Additional Assistant Provincial Fiscals for the Province of Cavite, Amending for the Purpose Section Sixteen Hundred Seventy-Four of the Administrative Code, as Amended**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The provision of Section sixteen hundred seventy-four of the Administrative Code, as amended, relative to the number of assistant provincial fiscals in the Province of Cavite, is further amended to read as follows:
+
+ > ""Cavite, six assistant provincial fiscals;""\
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1961.
+"	success	Act	An act that amends Section 1674 of the Administrative Code to increase the number of assistant provincial fiscals in Cavite to six, thereby providing two additional assistant provincial fiscals for the province.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 1674 of the Administrative Code to increase the number of assistant provincial fiscals in Cavite to six.""}, {""title"": ""Section 2"", ""summary"": ""The act takes effect upon its approval.""}]"	3340	June 18, 1961			To provide two additional assistant provincial fiscals for Cavite and amend Section 1674 of the Administrative Code.	"[""Provides two additional assistant provincial fiscals for Cavite"", ""Amends Section 1674 of the Administrative Code to read \""Cavite, six assistant provincial fiscals\""""]"	Section Sixteen Hundred Seventy-Four of the Administrative Code	"[""Cavite"", ""Assistant Provincial Fiscal"", ""Administrative Code"", ""Amendment""]"	"[""Cavite"", ""assistant provincial fiscal"", ""Administrative Code"", ""Section 1674""]"
+repacts:datasets/markdown/repacts/1961/ra_3341_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3341_1961.md	ra_3341_1961	REPUBLIC ACT No. 3341	"**REPUBLIC ACT No. 3341**
+
+ **An Act Amending Commonwealth Act Numbered Four Hundred and Eighty-Seven, Entitled ""An Act to Grant to Cotabato Light and Power Company, Incorporated, a Franchise for an Electric Light, Heat, and Power System in Cotabato, Cotabato""**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section one of Commonwealth Act Numbered Four hundred and eighty-seven is hereby amended to read as follows:
+
+ > ""Sec. 1. Subject to the terms and conditions established in Act Numbered Thirty-six hundred and thirty-six, as amended by Commonwealth Act Numbered One hundred and thirty-two, and to the provisions of the Constitution, there is granted to the Cotabato Light and Power Company, Incorporated, for a period of twenty-five years from the approval of this Act, the right, privileges and authority to construct, maintain and operate an electric light, heat, and power plant for the purpose of generating and distributing electric light, heat or power for sale within the limits of the City of Cotabato and the municipalities of Nulling and Dinaig, Province of Cotabato.""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1961.
+"	failed												
+repacts:datasets/markdown/repacts/1961/ra_3342_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3342_1961.md	ra_3342_1961	An Act Increasing the Number of Assistant Provincial Fiscals for the Province of Cagayan, Amending for the Purpose Section Sixteen Hundred Seventy-Four of the Administrative Code, as Amended	"**REPUBLIC ACT No. 3342**
+
+ **An Act Increasing the Number of Assistant Provincial Fiscals for the Province of Cagayan, Amending for the Purpose Section Sixteen Hundred Seventy-Four of the Administrative Code, as Amended**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The provision of Section sixteen hundred seventy-four of the Administrative Code, as amended, relative to the number of assistant provincial fiscals in the Province of Cagayan, is further amended to read as follows:
+
+ > ""Cagayan, five assistant provincial fiscals;""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1961.
+"	success	Republic Act	Republic Act No. 3342 increases the number of assistant provincial fiscals in the Province of Cagayan to five by amending Section 1674 of the Administrative Code; the act takes effect upon its approval on June 18, 1961.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 1674 of the Administrative Code to state that Cagayan shall have five assistant provincial fiscals.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	3342	June 18, 1961			To increase the number of assistant provincial fiscals in the Province of Cagayan and to amend Section 1674 of the Administrative Code.	"[""Increase the number of assistant provincial fiscals in Cagayan to five"", ""Amend Section 1674 of the Administrative Code"", ""Act takes effect upon approval""]"	Section 1674 of the Administrative Code	"[""Administrative Code"", ""Cagayan"", ""Provincial Fiscal"", ""1961""]"	"[""assistant provincial fiscal"", ""Cagayan"", ""Administrative Code"", ""increase"", ""enactment"", ""June 18 1961""]"
+repacts:datasets/markdown/repacts/1961/ra_3343_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3343_1961.md	ra_3343_1961	An Act Granting Valentin O. Pacina a Franchise to Construct, Maintain and Operate an Ice Plant and Cold Storage in the Municipality of Bantayan, Island of Bantayan, Province of Cebu, and to Sell Ice and Supply Cold Storage in Said Island	"**REPUBLIC ACT No. 3343**
+
+ **An Act Granting Valentin O. Pacina a Franchise to Construct, Maintain and Operate an Ice Plant and Cold Storage in the Municipality of Bantayan, Island of Bantayan, Province of Cebu, and to Sell Ice and Supply Cold Storage in Said Island**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Subject to the terms and conditions established in this Act and in Commonwealth Act Numbered one hundred forty-six, as amended, and to the provisions of the Constitution, there is granted to Valentin O. Pacina, for a period of fifty-years from the approval of this Act, the right, privilege and authority to construct, maintain and operate an ice plant and cold storage in the Municipality of Bantayan, Island of Bantayan, Province of Cebu, for the purpose of manufacturing ice for distribution and sale, and for supplying cold storage, in the said island.
+
+ **Section 2.** The grantee shall manufacture and supply ice up to the limit of the capacity of his plant, said limit to be determined by the Public Service Commission, and sell the same at rates to be determined by the said Commission.
+
+ **Section 3.** All the apparatus and appurtenances to be used by the grantee shall be modern, safe and first class in every respect, and the grantee shall, whenever the Public Service Commission shall determine that public interest reasonably requires it, change or alter any of its apparatus and appurtenances at grantees expense.
+
+ **Section 4.** If the grantee shall not commence the manufacture of ice for distribution and sale within the Island of Bantayan, Province of Cebu, within two years from the approval of this Act, unless prevented by an act of God or force majeure, martial law, riot, civil commotion, usurpation by a military power or any other cause beyond the grantees control, this franchise shall become null and void.
+
+ **Section 5.** This franchise is granted with the understanding and upon the condition that it shall be subject to amendment, alteration, or repeal by the Congress of the Philippines when the public interest so requires.
+
+ **Section 6.** The books, records and accounts of the grantee shall always be open to the inspection of the Auditor General or his authorized representatives, and it shall be the duty of the grantee to submit to the Auditor General quarterly reports in duplicate showing the gross receipts for the quarter past.
+
+ **Section 7.** In the event of any competing person, natural or juridical, receiving from the Congress of the Philippines a similar franchise in which there shall be any term or terms more favorable than those herein granted or tending to place the herein grantee at any disadvantage, then such term or terms shall ipso facto become a part of the terms hereof and shall operate equally in favor of the grantee as in the case of such competing person.
+
+ **Section 8.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1961.
+"	success	Republic Act	The act grants Valentin O. Pacina a fifty-year franchise to construct, maintain, and operate an ice plant and cold storage facility in Bantayan, Cebu, and to manufacture and sell ice, subject to conditions and oversight by the Public Service Commission and Auditor General.	"[{""title"": ""Section 1."", ""summary"": ""Grants a 50\u2011year franchise to construct, maintain, and operate an ice plant and cold storage in Bantayan, Cebu, for manufacturing and supplying ice.""}, {""title"": ""Section 2."", ""summary"": ""Grantee must manufacture and supply ice up to capacity determined by PSC and sell at rates set by PSC.""}, {""title"": ""Section 3."", ""summary"": ""Equipment must be modern, safe, and first class; PSC may require changes at grantee's expense.""}, {""title"": ""Section 4."", ""summary"": ""If grantee fails to commence within two years, franchise becomes null and void unless force majeure.""}, {""title"": ""Section 5."", ""summary"": ""Franchise subject to amendment, alteration, or repeal by Congress when public interest requires.""}, {""title"": ""Section 6."", ""summary"": ""Grantee's books and accounts open to Auditor General; must submit quarterly reports.""}, {""title"": ""Section 7."", ""summary"": ""If another franchise contains more favorable terms, those terms apply equally to grantee.""}, {""title"": ""Section 8."", ""summary"": ""Act takes effect upon approval.""}]"	3343	June 18, 1961			To grant a franchise for the construction and operation of an ice plant and cold storage facility in Bantayan, Cebu, facilitating the manufacture and sale of ice for public use.	"[""50-year franchise granted to Valentin O. Pacina"", ""Manufacturing and supplying ice up to PSC-determined capacity"", ""PSC determines rates for sale of ice"", ""Nullification if grantee fails to commence within two years"", ""Franchise subject to amendment or repeal by Congress"", ""Requirement for quarterly reporting to the Auditor General""]"	Commonwealth Act No. 146 (as amended)	"[""Franchise"", ""Ice Plant"", ""Cold Storage"", ""Bantayan"", ""Cebu"", ""Republic Act""]"	"[""Valentin O. Pacina"", ""Public Service Commission"", ""Auditor General"", ""Manufacture"", ""Sale of ice"", ""Franchise"", ""Cold Storage"", ""Bantayan""]"
+repacts:datasets/markdown/repacts/1961/ra_3344_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3344_1961.md	ra_3344_1961	AN ACT INCREASING THE NUMBER OF ASSISTANT PROVINCIAL FISCALS FOR THE PROVINCE OF CAGAYAN, AMENDING FOR THE PURPOSE SECTION SIXTEEN HUNDRED SEVENTY-FOUR OF THE ADMINISTRATIVE CODE, AS AMENDED.	"**REPUBLIC ACT No. 3344**
+
+ AN ACT INCREASING THE NUMBER OF ASSISTANT PROVINCIAL FISCALS FOR THE PROVINCE OF CAGAYAN, AMENDING FOR THE PURPOSE SECTION SIXTEEN HUNDRED SEVENTY-FOUR OF THE ADMINISTRATIVE CODE, AS AMENDED.
+
+ **Section 1.** The provision of Section sixteen hundred seventy-four of the Administrative Code, as amended, relative to the number of assistant provincial fiscals in the Province of Cagayan, is further amended to read as follows:
+
+ ""Cagayan, five assistant provincial fiscals;""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Enacted, without Executive approval, June 18, 1961.
+"	success	Republic Act	An act increasing the number of assistant provincial fiscals in Cagayan to five, amending Section 166 of the Administrative Code.	"[{""title"": ""Section 1."", ""summary"": ""Amends Section 166 of the Administrative Code to set the number of assistant provincial fiscals in Cagayan to five.""}, {""title"": ""Section 2."", ""summary"": ""The act takes effect upon its approval.""}]"	3344	June 18, 1961			To increase the number of assistant provincial fiscals in the Province of Cagayan.	"[""Amends Section 166 of the Administrative Code to increase assistant provincial fiscals in Cagayan to five.""]"	Section 166 of the Administrative Code	"[""Cagayan"", ""Assistant Provincial Fiscal"", ""Administrative Code"", ""1961""]"	"[""assistant provincial fiscal"", ""Cagayan"", ""Administrative Code"", ""Section 166"", ""Republic Act""]"
+repacts:datasets/markdown/repacts/1961/ra_3345_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3345_1961.md	ra_3345_1961	AN ACT TO AMEND SECTIONS ONE AND TWO OF REPUBLIC ACT NUMBERED NINE HUNDRED- TWENTY-FOUR, STANDARDIZING THE SALARIES OF MUNICIPAL JUDGES IN ACCORDANCE WITH THE CLASSIFICATION OF CHARTERED CITIES AND FOR OTHER PURPOSES.	"**REPUBLIC ACT No. 3345**
+
+ AN ACT TO AMEND SECTIONS ONE AND TWO OF REPUBLIC ACT NUMBERED NINE HUNDRED TWENTY-FOUR, STANDARDIZING THE SALARIES OF MUNICIPAL JUDGES IN ACCORDANCE WITH THE CLASSIFICATION OF CHARTERED CITIES AND FOR OTHER PURPOSES.
+
+ **Section 1.** Section 1 of Republic Act Numbered Nine hundred twenty-four is hereby amended to read as follows:
+
+ ""Sec. 1. The annual salary of each judge of the municipal courts of chartered cities shall be:
+
+ ""(a) Of the City of Manila, eleven thousand six hundred pesos; ""(b) Of Baguio, Quezon City and Pasay City, ten thousand six hundred pesos; ""(c) Of first class cities, nine thousand six hundred pesos; ""(d) Of second class cities, eight thousand seven hundred sixty pesos; ""(e) Of third class cities, seven thousand eight hundred pesos; ""(f) Of fourth class cities, seven thousand two hundred pesos; and ""(g) Of fifth class cities, six thousand six hundred pesos."" **Section 2.** Section two of Republic Act Numbered Nine hundred twenty-four is hereby amended to read as follows:
+
+ ""Sec. 2. The municipal judges shall be entitled to thirty days vacation leave with pay for each year of service.
+
+ ""Any provision of law to the contrary notwithstanding, the designation of the positions of municipal judge in chartered cities in the Philippines is hereby changed to that of city judge.""
+
+ **Section 3.** All Acts or parts of Acts inconsistent herewith are hereby repealed.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Enacted, without Executive signature on June 18, 1961.
+"	success	Republic Act	This Act amends Republic Act No. 924 to standardize the salaries of municipal judges in chartered cities based on city class, provides 30 days paid vacation leave, changes the designation of municipal judges to city judges, and repeals inconsistent provisions.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 1 of RA 924 to specify the annual salary of municipal judges for different city classes.""}, {""title"": ""Section 2"", ""summary"": ""Amends Section 2 of RA 924 to grant municipal judges 30 days of paid vacation leave and changes their designation to city judges.""}, {""title"": ""Section 3"", ""summary"": ""Repeals all acts or parts of acts inconsistent with this amendment.""}, {""title"": ""Section 4"", ""summary"": ""States that the Act takes effect upon approval.""}]"	3345	June 18, 1961			Standardize salaries and benefits for municipal judges in chartered cities.	"[""Amend RA 924 Section 1 to set salaries for municipal judges based on city class."", ""Amend RA 924 Section 2 to grant 30 days paid vacation leave."", ""Change designation of municipal judges to city judges."", ""Repeal inconsistent acts.""]"	Republic Act No. 924	"[""Salary"", ""Judiciary"", ""Municipal Courts"", ""Republic Act"", ""1961""]"	"[""municipal judges"", ""salary"", ""vacation leave"", ""chartered cities"", ""RA 3345"", ""RA 924"", ""classification"", ""city judge""]"
+repacts:datasets/markdown/repacts/1961/ra_3346_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3346_1961.md	ra_3346_1961	An Act Granting Gratuity to the Heirs of the Late Representative Atanacio Mapping and Appropriating Funds for the Purpose	"**REPUBLIC ACT No. 3346**
+
+ **An Act Granting Gratuity to the Heirs of the Late Representative Atanacio Mapping and Appropriating Funds for the Purpose**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The legal heirs of the late Representative Atanacio MAPPING, who was among those killed in the sinking of S.S. Corregidor, are hereby given a gratuity of fifteen thousand pesos.
+
+ **Section 2.** There is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, the sum of fifteen thousand pesos for the purpose indicated in the preceding section.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1961.
+"	success	Republic Act	Provides a gratuity of fifteen thousand pesos to the heirs of the late Representative Atanacio Mapping and appropriates the same amount from the National Treasury.	"[{""title"": ""Section 1."", ""summary"": ""The legal heirs of the late Representative Atanacio Mapping are given a gratuity of fifteen thousand pesos.""}, {""title"": ""Section 2."", ""summary"": ""Appropriates fifteen thousand pesos from the National Treasury for the purpose indicated in Section 1.""}, {""title"": ""Section 3."", ""summary"": ""The Act shall take effect upon its approval.""}]"	3346	June 18, 1961			To provide financial assistance to the heirs of a deceased representative.	"[""Gratuity of fifteen thousand pesos to heirs"", ""Appropriation of fifteen thousand pesos from National Treasury"", ""Act takes effect upon approval""]"		"[""gratuity"", ""heirs"", ""appropriation"", ""public fund""]"	"[""gratuity"", ""heirs"", ""Representative Atanacio Mapping"", ""S.S. Corregidor"", ""National Treasury"", ""15,000 pesos""]"
+repacts:datasets/markdown/repacts/1961/ra_3347_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3347_1961.md	ra_3347_1961	An Act Granting Gratuity to the Widow and Children of the Late Representative Juan M. Reyes and Authorizing the Appropriation of Funds for the Purpose	"**REPUBLIC ACT No. 3347**
+
+ **An Act Granting Gratuity to the Widow and Children of the Late Representative Juan M. Reyes and Authorizing the Appropriation of Funds for the Purpose**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The widow and children of the late Representative Juan M. Reyes who was among those who died in the sinking of S.S. Corregidor in December 1941 are hereby given a gratuity of fifteen thousand pesos.
+
+ **Section 2.** There is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, the sum of fifteen thousand pesos for the purpose indicated in the preceding section. Said amount shall be exempt from all kinds of taxes.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1961.
+"	success	Republic Act	Provides a gratuity of ₱15,000 to the widow and children of late Representative Juan M. Reyes and appropriates funds for that purpose.	"[{""title"": ""Section 1."", ""summary"": ""Gratuity of fifteen thousand pesos is granted to the widow and children of the late Representative Juan M. Reyes.""}, {""title"": ""Section 2."", ""summary"": ""Authorization to appropriate fifteen thousand pesos from the National Treasury for the specified purpose, exempt from all taxes.""}, {""title"": ""Section 3."", ""summary"": ""Act takes effect upon approval.""}]"	3347	June 18, 1961			To provide financial assistance to the widow and children of a fallen representative and authorize necessary appropriations.	"[""Gratuity of \u20b115,000 to widow and children"", ""Authorization to appropriate funds"", ""Tax exemption for the allocated amount"", ""Effectivity upon approval""]"		"[""Gratuity"", ""Widow"", ""Children"", ""Appropriation"", ""Fiscal"", ""Sinking of S.S. Corregidor""]"	"[""gratuity"", ""widow"", ""children"", ""representative"", ""appropriation"", ""funds"", ""tax exemption"", ""S.S. Corregidor"", ""June 1961""]"
+repacts:datasets/markdown/repacts/1961/ra_3348_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3348_1961.md	ra_3348_1961	AN ACT AMENDING SECTIONS ONE AND THREE OF REPUBLIC ACT NUMBERED FOUR HUNDRED SEVENTY-SEVEN	"**REPUBLIC ACT No. 3348**
+
+ AN ACT AMENDING SECTIONS ONE AND THREE OF REPUBLIC ACT NUMBERED FOUR HUNDRED SEVENTY-SEVEN.
+
+ **Section 1.** Section one of Republic Act Numbered Four hundred seventy-seven, as amended by Republic Act Numbered Nineteen hundred seventy, is further amended to read as follows:
+
+ ""Sec. 1. All lands which have been or may hereafter be transferred to the Republic of the Philippines in accordance with the Philippine Property Act of nineteen hundred and forty-six (Act of Congress of the United States of July three, nineteen hundred and forty-six), and Republic Act Numbered Eight and all the public lands and improvements thereon transferred from the Bureau of Lands to the National Abaca and other Fibers Corporation under the provisions of Executive Order Numbered Twenty-nine, dated October twenty-five, nineteen hundred and forty-six and Executive Order Numbered Ninety-nine, dated October twenty-two, nineteen hundred and forty-seven, shall be subdivided by the National Abaca and other Fibers Corporation into convenient-sized lots, except such portions thereof as the President of the Philippines may reserve or transfer title thereto for the use of the National or local governments, or for the use of corporations or entities owned or controlled by the Government. Subdivision lots primarily intended for, or devoted to, agricultural purposes shall not exceed an area of five hectares for coconut lands, ten hectares for improved abaca lands, and twelve hectares for unimproved lands; urban homesite or residential lots shall not exceed an area of one thousand square meters: *Provided*, That any provision of law to the contrary notwithstanding, the Department of General Services shall determine the minimum size of said urban homesites or residential lots and shall allot said lots to the actual occupants thereof at the time of the approval of this Act.""
+
+ **Section 2.** Section three of the same Act is amended to read as follows:
+
+ ""Sec. 3. All lands so subdivided except commercial and industrial lots shall be sold by the National Abaca and other Fibers Corporation without the sales application, publication and the public auction required in Sections twenty-four, twenty-five, and twenty-six of Commonwealth Act Numbered One hundred forty-one, as amended, to persons who are qualified to acquire public agricultural lands: *Provided, however*, That sales of such lands heretofore made by the National Abaca and other Fibers Corporation without the sales application, publication and public auction as provided in the above-mentioned sections of the Public Land Law are hereby authorized, ratified and confirmed: *Provided, further*, That preference shall be given first to bona fide occupants thereof on or before December twelve, nineteen hundred and forty-six and second to veterans of the last war, and to members of the guerrilla organizations and other qualified persons who entered the land after December twelve, nineteen hundred and forty-six, but not later than December thirty-one, nineteen hundred and fifty-three and who shall be limited to the area they have actually improved and maintained: *Provided, finally*, That the subdivided lots which may still be unoccupied shall be disposed of by drawing lots among qualified persons who may apply for said lots.""

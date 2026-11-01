@@ -1,0 +1,142 @@
+
+ AN ACT TO LEGALIZE PERMISSIONS TO USE HUMAN ORGANS OR ANY PORTION OR PORTIONS OF THE HUMAN BODY FOR MEDICAL, SURGICAL, OR SCIENTIFIC PURPOSES, UNDER CERTAIN CONDITIONS.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** A person may validly grant to a licensed physician, surgeon, known scientist, or any medical or scientific institution, authority to detach at any time after the grantor's death any organ, part or parts of his body and to utilize the same for medical, surgical or scientific purposes.
+
+ Similar authority may also be granted for the utilization for medical, surgical, or scientific purposes, of any organ, part or parts of the body which, for a legitimate reason, would be detached from the body of the grantor.
+
+ **Section 2.** The authorization referred to in section one of this Act must: be in writing; specify the person or institution granted the authorization ; the organ, part or parts to be detached, the specific use or uses of the organ, part or parts are to be employed; and, signed by the grantor and two disinterested witnesses.
+
+ If the grantor is a minor or an incompetent person, the authorization may be executed by his guardian with the approval of court; in default thereof, by the legitimate father or mother, in order, named. Married women may grant the authority referred to in section one of this Act, without the consent of the husband.
+
+ A copy of every such authorization must be furnished the Secretary of Health.
+
+ **Section 3.** An authorization granted in accordance with the provisions of this Act shall bind the executors, administrates and successors of the deceased and all members of his family.
+
+ **Section 4.** Any law or regulation inconsistent with this Act are hereby repealed.
+
+ **Section 5.** This Act shall take effect upon its approval.
+
+ Approved, May 17, 1949.
+"	success	Act	Legalizes the permission for the use of human organs or parts of the body for medical, surgical, or scientific purposes under specified conditions.	"[{""title"": ""Section 1."", ""summary"": ""Allows a person to grant a licensed physician, surgeon, scientist, or medical institution the authority to detach organs or parts after death for medical, surgical, or scientific use, and permits similar authority for organs that would otherwise be detached for legitimate reasons.""}, {""title"": ""Section 2."", ""summary"": ""Mandates that the authorization must be in writing, specify the authorized party, organ(s) to be detached, intended use, and be signed by the grantor and two witnesses. For minors or incompetent persons, a guardian may execute it with court approval; married women may grant without husband's consent. Copies must be furnished to the Secretary of Health.""}, {""title"": ""Section 3."", ""summary"": ""The granted authorization binds executors, administrators, and successors of the deceased, as well as members of the family.""}, {""title"": ""Section 4."", ""summary"": ""Repeals any law or regulation inconsistent with this Act.""}, {""title"": ""Section 5."", ""summary"": ""The Act takes effect upon its approval.""}]"	REPUBLIC ACT NO. 349	May 17, 1949			To legalize and regulate the use of human organs or body parts for medical, surgical or scientific purposes, ensuring proper authorization procedures and protecting the rights of donors and their families.	"[""Granting authority to licensed medical professionals and institutions to detach organs after death"", ""Requiring written authorization specifying authorized party, organ(s), and intended use"", ""Mandating signatures of grantor and two disinterested witnesses"", ""Allowing guardians to execute authorization for minors with court approval"", ""Permitting married women to grant without husband's consent"", ""Requiring copies of authorization to be furnished to the Secretary of Health"", ""Binding executors, administrators, and family members to the authorization"", ""Repealing inconsistent laws"", ""Act takes effect upon approval""]"	Any law or regulation inconsistent with this Act are hereby repealed.	"[""Human organ donation"", ""Medical law"", ""Philippines legislation""]"	"[""human organs"", ""donation"", ""medical purposes"", ""surgical purposes"", ""scientific purposes"", ""authorization"", ""minor"", ""guardian"", ""court approval""]"
+repacts:datasets/markdown/repacts/1949/ra_350_1949.md	repacts	1949		datasets/markdown/repacts/1949/ra_350_1949.md	ra_350_1949	AN ACT TO AMEND SECTION TWO OF REPUBLIC ACT NUMBERED SIXTY-TWO, EXTENDING THE TIME LIMIT FOR THE RECONSTRUCTION OF CORPORATE AND PARTNERSHIP RECORDS.	"**[ REPUBLIC ACT NO. 350, May 17, 1949 ]**
+
+ AN ACT TO AMEND SECTION TWO OF REPUBLIC ACT NUMBERED SIXTY-TWO, EXTENDING THE TIME LIMIT FOR THE RECONSTRUCTION OF CORPORATE AND PARTNERSHIP RECORDS.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Section two of Republic Act Numbered sixty-two is hereby amended to read as follows:
+
+ ""**Section 2.**Reconstruction of records of domestic corporations and registered partnerships or other forms of associations. All registered domestic corporations, and registered partnerships or other forms of associations which lost their articles of incorporation and by-laws or articles of copartnerships, either totally or partially, shall reconstruct the same or take steps towards such reconstruction within a period not to extend beyond December thirty-one, nineteen hundred and fifty by following the procedure which the Securities and Exchange Commission may adopt by rules and regulations approved by the Secretary of Justice. Such corporations, associations or partnerships as shall fail to reconstruct their records within the said period, or having taken steps to reconstruct such records within that period, shall fail to exert reasonable efforts to complete the reconstruction required, pursuant to the aforesaid rules and regulations, shall lose all rights, powers, and privileges afforded by their past registration.""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, May 17, 1949.
+"	success	Republic Act	Amends Section 2 of RA 62 to extend the deadline for reconstruction of corporate and partnership records to December 31, 1950.	"[{""title"": ""Section 1."", ""summary"": ""Amends Section 2 of RA 62 to read new text regarding reconstruction of records.""}, {""title"": ""Section 2."", ""summary"": ""Act takes effect upon approval.""}]"	350	May 17, 1949			To amend Section 2 of RA 62 extending the deadline for reconstruction of corporate and partnership records.	"[""Amends Section 2 of RA 62"", ""Extends deadline to December 31, 1950"", ""Requires corporations and partnerships to reconstruct records within the period"", ""Failure to reconstruct results in loss of rights, powers, and privileges""]"	Section 2 of Republic Act 62	"[""Corporate law"", ""Reconstruction"", ""RA 62"", ""RA 350"", ""Philippines""]"	"[""corporate records"", ""partnership records"", ""reconstruction"", ""deadline"", ""RA 62"", ""RA 350"", ""Securities and Exchange Commission"", ""Secretary of Justice""]"
+repacts:datasets/markdown/repacts/1949/ra_351_1949.md	repacts	1949		datasets/markdown/repacts/1949/ra_351_1949.md	ra_351_1949	An Act Appropriating the Additional Amount of Ten Million Pesos to Carry into Effect the Purposes of Numbered Sixty-Five, as Amended, and for Other Purposes	"**[ REPUBLIC ACT NO. 351, June 04, 1949 ]**
+
+ AN ACT APPROPRIATING THE ADDITIONAL AMOUNT OF TEN MILLION PESOS TO CARRY INTO EFFECT THE PURPOSES OF NUMBERED SIXTY-FIVE, AS AMENDED, AND FOR OTHER PURPOSES.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, the additional amount of ten million pesos to carry into effect the purposes of Republic Act Numbered Sixty-five, as amended, to be expended in accordance with the provisions of said Act.
+
+ **Section 2.** This Act shall take effect as of January first, nineteen hundred and forty-nine.
+
+ Approved, June 4, 1949.
+"	success	Republic Act	Appropriates an additional ten million pesos for the implementation of Republic Act No. 65.	"[{""title"": ""Section 1"", ""summary"": ""Appropriates ten million pesos from the National Treasury to implement Republic Act No. 65.""}, {""title"": ""Section 2"", ""summary"": ""The Act takes effect on January 1, 1949.""}]"	351	June 4, 1949			To provide additional funds for the implementation of Republic Act No. 65.	"[""Appropriates an additional ten million pesos for RA 65."", ""The Act takes effect on January 1, 1949.""]"	Republic Act No. 65	"[""appropriation"", ""budget"", ""RA 351"", ""public finance""]"	"[""appropriation"", ""ten million pesos"", ""Republic Act 65"", ""public funds""]"
+repacts:datasets/markdown/repacts/1949/ra_352_1949.md	repacts	1949		datasets/markdown/repacts/1949/ra_352_1949.md	ra_352_1949	"An Act Further Amending Act Numbered Two Thousand Five Hundred and Seventy-Eight, Converting the ""School of Forestry"" of the University of the Philippines into the ""College of Forestry."""	"**[ REPUBLIC ACT NO. 352, June 04, 1949 ]**
+
+ AN ACT FURTHER AMENDING ACT NUMBERED TWO THOUSAND FIVE HUNDRED AND SEVENTY-EIGHT, CONVERTING THE ""SCHOOL OF FORESTRY"" OF THE UNIVERSITY OF THE PHILIPPINES INTO THE ""COLLEGE OF FORESTRY.""
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Act Numbered Two thousand five hundred and seventy-eight, as amended by Act Numbered Three thousand and ninety-five, is hereby further amended SO as to read as follows:
+
+ ""**Section 1.** There is hereby created a college of the University of the Philippines to be known as the 'college of forestry.' It shall embrace all work hitherto carried on in the school of forestry, of the University of the Philippines.
+
+ ""**Section 2.** The Director of Forestry shall be ex-officio Dean of the college of forestry, serving in such capacity without additional compensation. He is hereby also authorized to detail to the college of forestry for part time such regular members of the Bureau of Forestry as may be necessary for the giving of instruction to the students of the college of forestry.""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 4, 1949.
+"	success	Republic Act	This act further amends RA 578, converting the School of Forestry into the College of Forestry, creating the college, designating the Director of Forestry as the ex‑officio Dean, authorizing the detailing of Bureau of Forestry members for instruction, and taking effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Creation of the College of Forestry at the University of the Philippines, encompassing all work previously conducted in the School of Forestry.""}, {""title"": ""Section 2"", ""summary"": ""The Director of Forestry shall serve as the ex\u2011officio Dean of the College of Forestry and may detail Bureau of Forestry members for part\u2011time instructional duties.""}]"	352	June 04, 1949			To further amend RA 578 and convert the School of Forestry into the College of Forestry, establishing the college structure and governance.	"[""Creation of the College of Forestry."", ""Director of Forestry as ex\u2011officio Dean."", ""Authority to detail Bureau of Forestry members for instruction."", ""Effectivity upon approval.""]"	Act Numbered Two Thousand Five Hundred and Seventy-Eight (RA 578)	"[""Education"", ""Forestry"", ""University of the Philippines"", ""Legislation""]"	"[""College of Forestry"", ""School of Forestry"", ""Director"", ""Dean"", ""University of the Philippines"", ""Act 352"", ""RA 578""]"
+repacts:datasets/markdown/repacts/1949/ra_353_1949.md	repacts	1949		datasets/markdown/repacts/1949/ra_353_1949.md	ra_353_1949	An Act Appropriating Funds for the Rehabilitation of Domestic Insurance Companies.	"**[ REPUBLIC ACT NO. 353, June 04, 1949 ]**
+
+ AN ACT APPROPRIATING FUNDS FOR THE REHABILITATION OF DOMESTIC INSURANCE COMPANIES.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Such sums as may be necessary to carry into effect the provisions of Executive Order Numbered One hundred and seven of the President of the Philippines, dated April twenty, nineteen hundred and forty-six, are hereby appropriated out of any funds in the National Treasury not otherwise appropriated:*Provided,* That no amount shall be set up in the books of the General Auditing Office or otherwise made available for investment unless previously authorized by the President of the Philippines, upon certification of the Secretary of Finance that the sum involved is necessary for the rehabilitation of domestic insurance companies on recommendation of the Bank and Insurance Commissioner:And provided, further, That any amount released under the provision of this Act for the purposes provided in Executive Order Numbered One hundred and seven, dated April twenty, nineteen hundred and forty-six, as amended, shall be credited to the subscription of the Government of the Republic of the Philippines to the capital stock of the Rehabilitation Finance Corporation.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 4, 1949.
+"	success	Republic Act	This act appropriates necessary funds from the National Treasury for the rehabilitation of domestic insurance companies in accordance with Executive Order No. 107, setting conditions on investment and crediting to the government’s subscription to the Rehabilitation Finance Corporation, and takes effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Appropriates sums from the National Treasury to implement Executive Order No. 107 for the rehabilitation of domestic insurance companies, with conditions that no amount be invested without presidential authorization and that releases be credited to the government\u2019s subscription to the capital stock of the Rehabilitation Finance Corporation.""}, {""title"": ""Section 2."", ""summary"": ""The act takes effect upon its approval.""}]"	353	June 04, 1949			Appropriation of funds for the rehabilitation of domestic insurance companies.	"[""Appropriation of necessary sums from the National Treasury as per EO 107."", ""Conditions on investment requiring presidential authorization and certification by the Secretary of Finance."", ""Releases to be credited to the government\u2019s subscription to the capital stock of the Rehabilitation Finance Corporation."", ""Act takes effect upon approval.""]"	Executive Order No. 107 (dated April 20, 1946).	"[""Appropriation"", ""Insurance"", ""Rehabilitation"", ""Finance"", ""Executive Order""]"	"[""funds"", ""rehabilitation"", ""domestic insurance"", ""executive order"", ""national treasury"", ""government subscription"", ""Rehabilitation Finance Corporation""]"
+repacts:datasets/markdown/repacts/1949/ra_354_1949.md	repacts	1949		datasets/markdown/repacts/1949/ra_354_1949.md	ra_354_1949	AN ACT TO AMEND THE FIRST PARAGRAPH OF SECTION THIRTEEN OF COMMONWEALTH ACT NUMBERED THREE HUNDRED TWENTY-SIX, AS AMENDED.	"**[ REPUBLIC ACT NO. 354, June 04, 1949 ]**
+
+ AN ACT TO AMEND THE FIRST PARAGRAPH OF SECTION THIRTEEN OF COMMONWEALTH ACT NUMBERED THREE HUNDRED TWENTY-SIX, AS AMENDED.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The first paragraph of section thirteen of Commonwealth Act Numbered Three hundred and twenty-six, as amended, is hereby further amended to read as follows :
+
+ ""SEC. 13.Constitution and organization of the City Council. The City Council shall be the legislative body of the city and shall be composed of the city mayor, the vice-mayor, the city engineer, the city treasurer and seven councilors elected by popular vote. The mayor shall act as president of the council. Until the induction of their elective successors in the next general election for city officials, the present appointive councilors shall continue to hold office and any vacancy shall be filled in accordance with existing law.
+
+ **Section 2.***Effectivity*.This Act shall take effect on the next regular election for city officials.
+
+ Approved, June 4, 1949.
+"	success	Republic Act	Amends Section 13 of Commonwealth Act 326 to specify the composition of the City Council, including the mayor, vice‑mayor, city engineer, city treasurer, and seven councilors, with effectivity on the next regular election for city officials.	"[{""title"": ""Section 1"", ""summary"": ""Amendment to Section 13, specifying the composition and roles within the City Council.""}, {""title"": ""Section 2"", ""summary"": ""Effectivity clause stating the Act takes effect on the next regular election for city officials.""}]"	354	June 04, 1949			To amend the first paragraph of Section 13 of Commonwealth Act 326.	"[""Amended Section 13 to include mayor, vice\u2011mayor, city engineer, city treasurer, and seven councilors.""]"	Commonwealth Act 326	"[""Amendment"", ""City Council"", ""Legislature"", ""Philippines""]"	"[""Section 13"", ""Commonwealth Act 326"", ""City Council"", ""Mayor"", ""Vice\u2011Mayor"", ""City Engineer"", ""City Treasurer"", ""Councilors"", ""Effectivity"", ""Election""]"
+repacts:datasets/markdown/repacts/1949/ra_355_1949.md	repacts	1949		datasets/markdown/repacts/1949/ra_355_1949.md	ra_355_1949	AN ACT TO INCREASE THE SALARIES OF CERTAIN OFFICIALS OF THE CITY OF BASILAN, AMENDING FOR THIS PURPOSE SECTIONS SIX, SEVENTEEN, THIRTY-FIVE AND THIRTY-SIX OF REPUBLIC ACT NUMBERED TWO HUNDRED EIGHTY-EIGHT	"**[ REPUBLIC ACT NO. 355, June 04, 1949 ]**
+
+ AN ACT TO INCREASE THE SALARIES OF CERTAIN OFFICIALS OF THE CITY OF BASILAN, AMENDING FOR THIS PURPOSE SECTIONS SIX, SEVENTEEN, THIRTY-FIVE AND THIRTY-SIX OF REPUBLIC ACT NUMBERED TWO HUNDRED EIGHTY-EIGHT.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Section six of Republic Act Numbered Two hundred eighty-eight is amended to read as follows:
+
+ > ""**Section 6.**Appointment and compensation. The City Basilan shall have a mayor who shall be its chief executive who shall reside therein. He shall be appointed by the President of the Philippines, with the consent of the Commission on Appointments, and shall hold office at the pleasure of the President.
+>
+>  ""The mayor shall receive a salary of not to exceed five thousand pesos per annum, the amount to be fixed by the council on the basis of the income of the city.""
+
+ **Section 2.** The third paragraph of section seventeen of the same Act is amended to read as follows:
+
+ > ""**Section 17.**Appointment and removal of officers and employeesCompensation. ""The engineer of the city shall receive a compensation not to exceed three thousand six hundred pesos a year; the city treasurer-assessor, a compensation not to exceed three thousand six hundred pesos a year; the city attorney, a compensation not to exceed thirty-six hundred pesos year; the chief of police, a compensation not to exceed three thousand pesos a year; the assistant chief of polio a compensation not to exceed eighteen hundred pesos year:*Provided,* however,That the city council shall determine and fix by ordinance the compensation of such officers and the salaries of other officers and employees of city.""
+
+ **Section 3.** Sections thirty-five and thirty-six of the same Act are amended to read as follows:
+
+ > ""**Section 35.**Auditor General's Office. The Auditor general shall receive and audit all accounts of the cit accordance with the provisions of law relating to Government's accounts and accounting.
+>
+>  ""Until the council shall provide otherwise, the of the City of Zamboanga shall be ""ex-officio"" auditor the City of Basilan, with an additional compensation to be paid by the City of Basilan, in the sum of one thousand pesos per annum.
+>
+>  **Section 36.**The Bureau of Public Schools. The Director of Public Schools shall exercise the same jurisdiction and powers in the city as elsewhere in the Philippines, and until the council shall provide otherwise, the division superintendent of schools for the city of Zamboanga shall beex-officiosuperintendent of schools for the city of Basilan, in the sum of one thousand pesos per annum. Said superintendent shall have the same powers in respect to the establishment of schools, as are conferred by law on the provincial boards of municipal councils of regularly organized provinces and municipalities.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved, June 4, 1949.
+"	success	Act	An act increasing the salaries of specified officials in the City of Basilan by amending sections 6, 17, 35, and 36 of Republic Act No. 288.	"[{""title"": ""Section 1."", ""summary"": ""Amends Section 6 of RA 288 to set the mayor's salary at a maximum of five thousand pesos per annum, to be fixed by the city council.""}, {""title"": ""Section 2."", ""summary"": ""Amends Section 17 of RA 288 to specify maximum annual compensation for the engineer, treasurer\u2011assessor, city attorney, chief of police, and assistant chief of police, all capped between one thousand and three thousand six hundred pesos.""}, {""title"": ""Section 3."", ""summary"": ""Amends Sections 35 and 36 of RA 288 to establish the Auditor General and Director of Public Schools for Basilan, granting them a one thousand peso annual compensation and specific jurisdictional powers.""}, {""title"": ""Section 4."", ""summary"": ""The act takes effect upon approval.""}]"	355	June 04, 1949			To increase the salaries of certain officials of the City of Basilan by amending specific provisions of Republic Act No. 288.	"[""Amends mayor's salary in Section 6"", ""Sets compensation limits for engineer, treasurer, attorney, chief of police, assistant chief of police in Section 17"", ""Provides auditor and public schools roles and compensation in Sections 35 and 36"", ""Effectiveness upon approval""]"	Republic Act No. 288	"[""Salary increase"", ""Local government"", ""Basilan"", ""Republic Act"", ""Government compensation""]"	"[""Basilan"", ""Mayor"", ""Engineer"", ""Treasurer"", ""Attorney"", ""Chief of Police"", ""Assistant Chief of Police"", ""Auditor"", ""Public Schools"", ""Salary"", ""Compensation""]"
+repacts:datasets/markdown/repacts/1949/ra_356_1949.md	repacts	1949		datasets/markdown/repacts/1949/ra_356_1949.md	ra_356_1949	An Act Appropriating the Sum of Three Thousand Pesos to Grant a Monetary Reward to the Persons Who Found the Remains of the Late Governor Juan Agudo of Batanes and for Burial Expenses of Said Remains	"**[ REPUBLIC ACT NO. 356, June 04, 1949 ]**
+
+ AN ACT APPROPRIATING THE SUM OF THREE THOUSAND PESOS TO GRANT A MONETARY REWARD TO THE PERSONS WHO FOUND THE REMAINS OF THE LATE GOVERNOR JUAN AGUDO OF BATANES AND FOR BURIAL EXPENSES OF SAID REMAINS.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The sum of three thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, to be at the disposal of the Provincial Board of Batanes with the approval of the Secretary of the Interior, of which amount, one thousand pesos shall be granted as monetary reward to the persons who found the remains of the late Governor Juan Agudo of Batanes and two thousand pesos shall be spent for the burial expenses of the remains of said deceased governor.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 4, 1949.
+"	success	Appropriation Act	Appropriates 3,000 pesos for a monetary reward to those who found the remains of Governor Juan Agudo of Batanes and for burial expenses of the said remains.	"[{""title"": ""Section 1"", ""summary"": ""The sum of three thousand pesos is appropriated, with 1,000 pesos granted as a monetary reward to the persons who found the remains of the late Governor Juan Agudo of Batanes and 2,000 pesos spent for burial expenses of the remains.""}, {""title"": ""Section 2"", ""summary"": ""The Act shall take effect upon its approval.""}]"	REPUBLIC ACT NO. 356	June 04, 1949			To provide financial reward and burial expenses for the remains of Governor Juan Agudo of Batanes.	"[""Appropriates 3,000 pesos for reward and burial expenses"", ""1,000 pesos granted as reward to persons who found remains"", ""2,000 pesos spent for burial expenses"", ""Act takes effect upon approval""]"		"[""Appropriation"", ""Reward"", ""Burial"", ""Batanes"", ""Republic Act 356""]"	"[""Governor Juan Agudo"", ""Batanes"", ""Appropriation"", ""Reward"", ""Burial Expenses"", ""National Treasury""]"
+repacts:datasets/markdown/repacts/1949/ra_357_1949.md	repacts	1949		datasets/markdown/repacts/1949/ra_357_1949.md	ra_357_1949	AN ACT TO AUTHORIZE THE NATIONAL POWER CORPORATION TO CONTRACT LOANS FROM TIME TO TIME FROM THE INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT, AUTHORIZING THE PRESIDENT OF THE PHILIPPINES TO NEGOTIATE AND CONTRACT THE SAME FOR AND ON BEHALF OF THE NATIONAL POWER CORPORATION AND TO GUARANTEE THE SAME FOR AND ON BEHALF OF THE REPUBLIC OF THE PHILIPPINES, AND FOR OTHER PURPOSES.	"**[ REPUBLIC ACT NO. 357, June 04, 1949 ]**
+
+ AN ACT TO AUTHORIZE THE NATIONAL POWER CORPORATION TO CONTRACT LOANS FROM TIME TO TIME FROM THE INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT, AUTHORIZING THE PRESIDENT OF THE PHILIPPINES TO NEGOTIATE AND CONTRACT THE SAME FOR AND ON BEHALF OF THE NATIONAL POWER CORPORATION AND TO GUARANTEE THE SAME FOR AND ON BEHALF OF THE REPUBLIC OF THE PHILIPPINES, AND FOR OTHER PURPOSES.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The National Power Corporation is hereby authorized to contract loans from time to time from the International Bank for Reconstruction and Development, the total amount of which, exclusive of interest, shall not exceed fifty million United States dollars or equivalent thereof in other currencies on such terms and conditions as it shall deem appropriate for the accomplishment of its purposes and to enter into and execute agreements and other documents specifying such terms and conditions.
+
+ **Section 2.** The President of the Philippines is hereby authorized to negotiate and contract with the Internal Bank for Reconstruction and Development, in the name on behalf of the National Power Corporation, one or loans, for the purpose of assisting in the reconstruction, or promoting the development, of the economy country.
+
+ **Section 3.** The President of the Philippines is hereby further authorized to guarantee, absolutely and unconditionally, as primary obligor and not as surety merely, in the name and on behalf of the Republic of the Philippines, the payment of the loan or loans herein authorized as well as the performance of all or any of the obligations undertaken by the National Power Corporation in the territory of the Republic of the Philippines pursuant to loan agreements entered into with the International Bank for Reconstruction and Development.

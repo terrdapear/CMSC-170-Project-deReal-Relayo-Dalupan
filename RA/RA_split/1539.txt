@@ -1,0 +1,183 @@
+repacts:datasets/markdown/repacts/1972/ra_6618_1972.md	repacts	1972		datasets/markdown/repacts/1972/ra_6618_1972.md	ra_6618_1972	AN ACT ESTABLISHING AN EMERGENCY HOSPITAL IN THE MUNICIPALITY OF BINIDAYAN, PROVINCE OF LANAO DEL SUR, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 6618, October 23, 1972 ]**
+
+ AN ACT ESTABLISHING AN EMERGENCY HOSPITAL IN THE MUNICIPALITY OF BINIDAYAN, PROVINCE OF LANAO DEL SUR, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established a twenty-bed capacity emergency hospital within the Municipality of Binidayan, Province of Lanao del Sur, the appropriate site to be determined by the Municipal Council of said municipality in consultation with the Director of Medical Services.
+
+ **Section 2.** The Secretary of Health shall, upon approval of this Act, promulgate the necessary rules and regulations to carry into effect the provisions of this Act.
+
+ **Section 3.** The sum of two hundred fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, to carry into effect the provisions of this Act for fiscal year nineteen hundred and seventy-three. Thereafter, the sums necessary for the same purpose shall be included in the annual General Appropriations Act.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | **GIL J. PUYAT** *President of the Senate* Finally passed by the Senate on September 4, 1972. | **CORNELIO T. VILLAREAL** *Speaker of the House of Representatives* This Act, which originated in the House of Representatives, was finally passed by the same on April 25, 1972. |
+| --- | --- |
+| **ELISEO M. TENZA** *Secretary of the Senate* | **INOCENCIO B. PAREJA** *Secretary of the House Representatives* |
+
+ Approved: October 23, 1972
+
+ **FERDINAND E. MARCOS** *President of the Philippines*
+"	success	Public Health	This act establishes a 20-bed emergency hospital in Binidayan, Lanao del Sur, and authorizes the appropriation of 250,000 pesos for 1973 to fund its construction and operation.	"[{""title"": ""Section 1"", ""summary"": ""Establishes a twenty-bed capacity emergency hospital in Binidayan, with the site to be determined by the Municipal Council in consultation with the Director of Medical Services.""}, {""title"": ""Section 2"", ""summary"": ""Mandates the Secretary of Health to promulgate necessary rules and regulations upon approval of the act.""}, {""title"": ""Section 3"", ""summary"": ""Authorizes the appropriation of 250,000 pesos for fiscal year 1973 and mandates inclusion of future necessary sums in the annual General Appropriations Act.""}, {""title"": ""Section 4"", ""summary"": ""Specifies that the act takes effect upon its approval.""}]"	6618	October 23, 1972	"[{""name"": ""CORNELIO T. VILLAREAL"", ""title"": ""Speaker of the House of Representatives""}, {""name"": ""GIL J. PUYAT"", ""title"": ""President of the Senate""}]"	"[{""name"": ""ELISEO M. TENZA"", ""title"": ""Secretary of the Senate""}, {""name"": ""INOCENCIO B. PAREJA"", ""title"": ""Secretary of the House of Representatives""}]"	To establish an emergency hospital in Binidayan, Lanao del Sur, and authorize the appropriation of funds for its construction and operation.	"[""Establishment of a 20-bed emergency hospital in Binidayan"", ""Appropriation of 250,000 pesos for fiscal year 1973"", ""Secretary of Health to promulgate rules and regulations"", ""Act takes effect upon approval""]"		"[""Healthcare"", ""Hospital"", ""Emergency"", ""Lanao del Sur"", ""Public Health""]"	"[""emergency hospital"", ""Lanao del Sur"", ""budget appropriation"", ""health services"", ""public health""]"
+repacts:datasets/markdown/repacts/1972/ra_6619_1972.md	repacts	1972		datasets/markdown/repacts/1972/ra_6619_1972.md	ra_6619_1972	An Act Establishing an Emergency Hospital in the Municipality of Badian, Province of Cebu, to be Known as the Badian Emergency Hospital, and Authorizing the Appropriation of Funds Therefor	"**[ REPUBLIC ACT NO. 6619, October 23, 1972 ]**
+
+ AN ACT ESTABLISHING AN EMERGENCY HOSPITAL IN THE MUNICIPALITY OF BADIAN, PROVINCE OF CEBU, TO BE KNOWN AS THE BADIAN EMERGENCY HOSPITAL, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established under the direct supervision of the Director of Medical Services, an emergency hospital in the Municipality of Badian, Province of Cebu, to be known as the Badian Emergency Hospital.
+
+ **Section 2.** The sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital during the fiscal year nineteen hundred seventy-three. Thereafter, such sum as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | **GIL J. PUYAT** *President of the Senate* Finally passed by the Senate on September 11, 1972. | **CORNELIO T. VILLAREAL** *Speaker of the House of Representatives* This Act, which originated in the House of Representatives, was finally passed by the same on June 8, 1972. |
+| --- | --- |
+| **ELISEO M. TENZA** *Secretary of the Senate* | **INOCENCIO B. PAREJA** *Secretary of the House Representatives* |
+
+ Approved: June 17, 1972
+
+ **FERDINAND E. MARCOS** *President of the Philippines*
+"	success	Legislation	This act establishes the Badian Emergency Hospital and authorizes the appropriation of funds for its establishment and operation.	"[{""title"": ""Section 1"", ""summary"": ""Establishment of the Badian Emergency Hospital under the direct supervision of the Director of Medical Services.""}, {""title"": ""Section 2"", ""summary"": ""Authorization of an appropriation of one hundred thousand pesos for the establishment, operation, and maintenance of the hospital during fiscal year 1973, with future appropriations to be included in the General Appropriations Act.""}, {""title"": ""Section 3"", ""summary"": ""The act takes effect upon its approval.""}]"	Republic Act No. 6619	October 23, 1972	"[{""name"": ""Gil J. Puyat"", ""title"": ""President of the Senate""}, {""name"": ""Cornelio T. Villareal"", ""title"": ""Speaker of the House of Representatives""}]"		To establish an emergency hospital in Badian and authorize the appropriation of funds for its operation and maintenance.	"[""Establishment of the Badian Emergency Hospital"", ""Authorization of one hundred thousand pesos for establishment, operation, and maintenance"", ""Future appropriations included in the General Appropriations Act"", ""Effectivity upon approval""]"		"[""Health"", ""Hospital"", ""Cebu"", ""Municipality"", ""Emergency Hospital""]"	"[""Badian"", ""Emergency Hospital"", ""appropriation"", ""National Treasury"", ""fiscal year 1973"", ""Republic Act 6619""]"
+repacts:datasets/markdown/repacts/1972/ra_6620_1972.md	repacts	1972		datasets/markdown/repacts/1972/ra_6620_1972.md	ra_6620_1972	AN ACT ESTABLISHING AN EMERGENCY HOSPITAL IN THE MUNICIPALITY OF OSLOB, PROVINCE OF CEBU, TO BE KNOWN AS THE OSLOB EMERGENCY HOSPITAL, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.	"**[ REPUBLIC ACT NO. 6620, October 23, 1972 ]**
+
+ AN ACT ESTABLISHING AN EMERGENCY HOSPITAL IN THE MUNICIPALITY OF OSLOB, PROVINCE OF CEBU, TO BE KNOWN AS THE OSLOB EMERGENCY HOSPITAL, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established under the direct supervision of the Director of Medical Services, an emergency hospital in the Municipality of Oslob, Province of Cebu, to be known as the Oslob Emergency Hospital.
+
+ **Section 2.** The sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital during the fiscal year nineteen hundred seventy-three. Thereafter, such sum as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall lake effect upon its approval.
+
+ Approved,
+
+ | **GIL J. PUYAT** *President of the Senate* Finally passed by the Senate on September 11, 1972. | **CORNELIO T. VILLAREAL** *Speaker of the House of Representatives* This Act, which originated in the House of Representatives, was finally passed by the same on June 22, 1972. |
+| --- | --- |
+| **ELISEO M. TENZA** *Secretary of the Senate* | **INOCENCIO B. PAREJA** *Secretary of the House Representatives* |
+
+ Approved: October 23, 1972
+
+ **FERDINAND E. MARCOS** *President of the Philippines*
+"	success	Republic Act	Establishes the Oslob Emergency Hospital in Cebu and authorizes appropriation of funds for its establishment, operation, and maintenance.	"[{""title"": ""Section 1"", ""summary"": ""The Oslob Emergency Hospital shall be established under the direct supervision of the Director of Medical Services.""}, {""title"": ""Section 2"", ""summary"": ""An appropriation of one hundred thousand pesos is authorized for the hospital\u2019s establishment, operation, and maintenance for FY 1973, with future sums to be included in the annual General Appropriations Act.""}, {""title"": ""Section 3"", ""summary"": ""The Act shall have effect upon its approval.""}]"	6620	October 23, 1972			To establish an emergency hospital in Oslob, Cebu and to appropriate funds for its operation and maintenance.	"[""Establishment of Oslob Emergency Hospital under Director of Medical Services"", ""Authorization of 100,000 pesos for FY 1973 and future operations"", ""Effect of the Act upon approval"", ""Inclusion of future sums in the annual General Appropriations Act""]"		"[""Healthcare"", ""Hospital"", ""Cebu"", ""Emergency"", ""Public Health""]"	"[""Oslob"", ""Cebu"", ""Emergency Hospital"", ""Republic Act 6620"", ""Philippines"", ""Public Health"", ""Funding""]"
+repacts:datasets/markdown/repacts/1972/ra_6621_1972.md	repacts	1972		datasets/markdown/repacts/1972/ra_6621_1972.md	ra_6621_1972	An Act Establishing an Emergency Hospital in the Municipality of Arteche, Province of Eastern Samar, to be known as Arteche Emergency Hospital, and Authorizing the Appropriation of Funds Therefor	"**[ REPUBLIC ACT NO. 6621, October 23, 1972 ]**
+
+ AN ACT ESTABLISHING AN EMERGENCY HOSPITAL IN THE MUNICIPALITY OF ARTECHE, PROVINCE OF EASTERN SAMAR, TO BE KNOWN AS ARTECHE EMERGENCY HOSPITAL, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established under the direct supervision of the Department of Health, an emergency hospital in the Municipality of Arteche, Province of Eastern Samar, to be known as Arteche Emergency Hospital.
+
+ **Section 2.** The sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital during the fiscal year nineteen hundred seventy-three. Thereafter, any sum needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | **GIL J. PUYAT** *President of the Senate* Finally passed by the Senate on September 11 1972. | **CORNELIO T. VILLAREAL** *Speaker of the House of Representatives* This Act, which originated in the House of Representatives, was finally passed by the same on April 25, 1972. |
+| --- | --- |
+| **ELISEO M. TENZA** *Secretary of the Senate* | **INOCENCIO B. PAREJA** *Secretary of the House Representatives* |
+
+ Approved: October 23, 1972
+
+ **FERDINAND E. MARCOS** *President of the Philippines*
+"	success	Republic Act	This law creates the Arteche Emergency Hospital in Eastern Samar and authorizes the initial appropriation of one hundred thousand pesos for its establishment, operation, and maintenance, with ongoing funding provisions.	"[{""title"": ""Section 1."", ""summary"": ""Establishes the Arteche Emergency Hospital under the direct supervision of the Department of Health.""}, {""title"": ""Section 2."", ""summary"": ""Appropriates one hundred thousand pesos for the hospital\u2019s establishment, operation, and maintenance during FY 1973 and provides for future funding.""}, {""title"": ""Section 3."", ""summary"": ""The Act takes effect upon its approval.""}]"	6621	October 23, 1972	"[{""name"": ""Gil J. Puyat"", ""title"": ""President of the Senate""}, {""name"": ""Cornelio T. Villareal"", ""title"": ""Speaker of the House of Representatives""}]"		To establish a public emergency hospital in Arteche, Eastern Samar, and to secure necessary funding for its operation and maintenance.	"[""Establishment of Arteche Emergency Hospital"", ""Authorization of 100,000 pesos appropriation for FY 1973"", ""Provision for ongoing annual appropriations"", ""Effective date upon approval""]"		"[""healthcare"", ""hospital"", ""Eastern Samar"", ""Republic Act""]"	"[""emergency hospital"", ""appropriation"", ""Department of Health"", ""FY 1973"", ""Philippines""]"
+repacts:datasets/markdown/repacts/1972/ra_6622_1972.md	repacts	1972		datasets/markdown/repacts/1972/ra_6622_1972.md	ra_6622_1972	An Act Establishing a General Hospital in the Municipality of Naga, Province of Cebu, to be known as Naga General Hospital, and Authorizing the Appropriation of Funds Therefor.	"**[ REPUBLIC ACT NO. 6622, October 23, 1972 ]**
+
+ AN ACT ESTABLISHING A GENERAL HOSPITAL IN THE MUNICIPALITY OF NAGA, PROVINCE OF CEBU, TO BE KNOWN AS NAGA GENERAL HOSPITAL, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established under the direct supervision of the Director of Medical Services, a general hospital in the Municipality of Naga, Province of Cebu, to be known as Naga General Hospital.
+
+ **Section 2.** The sum of five hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital during the fiscal year nineteen hundred seventy-two. Thereafter, such sum as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | **GIL J. PUYAT** *President of the Senate* Finally passed by the Senate on September 11,1972. | **CORNELIO T. VILLAREAL** *Speaker of the House of Representatives* This Act, which originated in the House of Representatives, was finally passed by the same on May 8, 1972. |
+| --- | --- |
+| **ELISEO M. TENZA** *Secretary of the Senate* | **INOCENCIO B. PAREJA** *Secretary of the House Representatives* |
+
+ Approved: October 23, 1972
+
+ **FERDINAND E. MARCOS** *President of the Philippines*
+"	success	Republic Act	This Act establishes the Naga General Hospital in the Municipality of Naga, Cebu, and authorizes the appropriation of five hundred thousand pesos for its establishment, operation, and maintenance. The hospital shall operate under the supervision of the Director of Medical Services, and the appropriation shall be included in the annual General Appropriations Act for ongoing needs. The Act takes effect upon its approval.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of a general hospital in the Municipality of Naga, Province of Cebu, to be known as Naga General Hospital, under the direct supervision of the Director of Medical Services.""}, {""title"": ""Section 2."", ""summary"": ""Authorization of the appropriation of five hundred thousand pesos for the establishment, operation, and maintenance of the hospital during the fiscal year 1972, with further funding to be included in subsequent annual appropriations.""}, {""title"": ""Section 3."", ""summary"": ""The Act shall take effect upon its approval.""}]"	6622	October 23, 1972	"[{""name"": ""GIL J. PUYAT"", ""title"": ""President of the Senate""}, {""name"": ""CORNELIO T. VILLAREAL"", ""title"": ""Speaker of the House of Representatives""}]"		To establish a general hospital in Naga, Cebu and to authorize the appropriation of funds for its establishment, operation, and maintenance.	"[""Establishment of Naga General Hospital"", ""Authorization of five hundred thousand pesos for the hospital"", ""Effectivity upon approval""]"		"[""Healthcare"", ""Hospital"", ""Cebu"", ""Philippines"", ""Republic Act""]"	"[""general hospital"", ""Naga"", ""Cebu"", ""appropriation"", ""funds"", ""healthcare"", ""Republic Act 6622""]"
+repacts:datasets/markdown/repacts/1972/ra_6623_1972.md	repacts	1972		datasets/markdown/repacts/1972/ra_6623_1972.md	ra_6623_1972	An Act Establishing an Emergency Hospital in the Municipality of Maripipi, Sub-province of Biliran, Province of Leyte, and Authorizing the Appropriation of Funds Therefor	"**[ REPUBLIC ACT NO. 6623, October 23, 1972 ]**
+
+ AN ACT ESTABLISHING AN EMERGENCY HOSPITAL IN THE MUNICIPALITY OF MARIPIPI, SUB-PROVINCE OF BILIRAN, PROVINCE OF LEYTE, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established, under the direct Supervision of the Director of Medical Services, a twenty-five-bed emergency hospital in the Municipality of Maripipi, Subprovince of Biliran, Province of Leyte. The site for the said hospital shall be determined by the Municipal Council of Maripipi in consultation with the Director of Medical Services.
+
+ **Section 2.** The sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital for the fiscal year nineteen hundred seventy-three. Such sums as may be necessary for its operation and maintenance in subsequent years shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | **GIL J. PUYAT** *President of the Senate* Finally passed by the Senate on September 11, 1972. | **CORNELIO T. VILLAREAL** *Speaker of the House of Representatives* This Act, which originated in the House of Representatives, was finally passed by the same on May 5, 1972. |
+| --- | --- |
+| **ELISEO M. TENZA** *Secretary of the Senate* | **INOCENCIO B. PAREJA** *Secretary of the House Representatives* |
+
+ Approved: October 23,1972
+
+ **FERDINAND E. MARCOS** *President of the Philippines*
+"	success	Republic Act	Establishes a 25-bed emergency hospital in Maripipi, Biliran, Leyte, authorizes appropriation of 100,000 pesos for its establishment, operation and maintenance, and takes effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of a twenty-five-bed emergency hospital under the direct supervision of the Director of Medical Services; site to be determined by the Municipal Council of Maripipi in consultation with the Director.""}, {""title"": ""Section 2."", ""summary"": ""Authorization of 100,000 pesos for the establishment, operation and maintenance of the hospital for the fiscal year 1973; future necessary sums to be included in the General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""The act takes effect upon its approval.""}]"	6623	October 23, 1972	"[{""name"": ""Gil J. Puyat"", ""title"": ""President of the Senate""}, {""name"": ""Cornelio T. Villareal"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""Eliseo M. Tenza"", ""title"": ""Secretary of the Senate""}, {""name"": ""Inocencio B. Pareja"", ""title"": ""Secretary of the House of Representatives""}]"	To establish a local emergency hospital in Maripipi, Biliran, Leyte, and to authorize the appropriation of necessary funds for its establishment, operation, and maintenance.	"[""Establishment of a 25-bed emergency hospital under the supervision of the Director of Medical Services."", ""Appropriation of 100,000 pesos for the hospital for FY 1973."", ""Future necessary funds to be included in the General Appropriations Act."", ""Act takes effect upon approval.""]"		"[""Health"", ""Infrastructure"", ""Local Government"", ""Healthcare"", ""Emergency Services""]"	"[""Emergency Hospital"", ""Maripipi"", ""Biliran"", ""Leyte"", ""100,000 pesos"", ""FY 1973"", ""Director of Medical Services""]"
+repacts:datasets/markdown/repacts/1972/ra_6624_1972.md	repacts	1972		datasets/markdown/repacts/1972/ra_6624_1972.md	ra_6624_1972	AN ACT INCREASING THE BED CAPACITY OF THE WESTERN LEYTE GENERAL HOSPITAL IN THE MUNICIPALITY OF BAYBAY, PROVINCE OF LEYTE, FROM FIFTY TO SEVENTY-FIVE BEDS, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.	"**[ REPUBLIC ACT NO. 6624, October 23, 1972 ]**
+
+ AN ACT INCREASING THE BED CAPACITY OF THE WESTERN LEYTE GENERAL HOSPITAL IN THE MUNICIPALITY OF BAYBAY, PROVINCE OF LEYTE, FROM FIFTY TO SEVENTY-FIVE BEDS, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The bed capacity of the Western Leyte General Hospital in the Municipality of Baybay, Province of Leyte, is hereby increased from fifty to seventy-five.
+
+ **Section 2.** The sum of two hundred thousand pesos, or so much thereof as may be necessary, is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, to carry out the purpose of this Act during the fiscal year nineteen hundred seventy-two. Thereafter, such sum as may be needed for its operation and maintenance in subsequent years shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | **GIL J. PUYAT** *President of the Senate* Finally passed by the Senate on September 11, 1972. | **CORNELIO T. VILLAREAL** *Speaker of the House of Representatives* This Act, which originated in the House of Representatives, was finally passed by the same on May 18, 1972. |
+| --- | --- |
+| **ELISEO M. TENZA** *Secretary of the Senate* | **INOCENCIO B. PAREJA** *Secretary of the House Representatives* |
+
+ Approved: October 23, 1972
+
+ **FERDINAND E. MARCOS** President of the Philippines
+"	success	Republic Act	The Act increases the bed capacity of Western Leyte General Hospital from 50 to 75 beds and appropriates funds for its operation.	"[{""title"": ""Section 1"", ""summary"": ""Increases the bed capacity from fifty to seventy-five.""}, {""title"": ""Section 2"", ""summary"": ""Appropriates two hundred thousand pesos for the Act and future maintenance.""}, {""title"": ""Section 3"", ""summary"": ""The Act takes effect upon approval.""}]"	6624	October 23, 1972	"[{""name"": ""GIL J. PUYAT"", ""title"": ""President of the Senate""}, {""name"": ""CORNELIO T. VILLAREAL"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""ELISEO M. TENZA"", ""title"": ""Secretary of the Senate""}, {""name"": ""INOCENCIO B. PAREJA"", ""title"": ""Secretary of the House Representatives""}]"	To increase bed capacity and authorize funding for Western Leyte General Hospital.	"[""Increase bed capacity from 50 to 75."", ""Appropriation of 200,000 pesos."", ""Effectivity upon approval.""]"		"[""Hospital"", ""Bed Capacity"", ""Appropriation"", ""Leyte General Hospital""]"	"[""bed capacity"", ""Western Leyte General Hospital"", ""Baybay"", ""Leyte"", ""appropriation"", ""funds"", ""200,000 pesos"", ""effectivity""]"
+repacts:datasets/markdown/repacts/1972/ra_6625_1972.md	repacts	1972		datasets/markdown/repacts/1972/ra_6625_1972.md	ra_6625_1972	AN ACT INCREASING THE BED CAPACITY OP THE ORMOC GENERAL HOSPITAL IN THE CITY OF ORMOC FROM FIFTY TO SEVENTY-FIVE, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.	"**[ REPUBLIC ACT NO. 6625, October 23, 1972 ]**
+
+ AN ACT INCREASING THE BED CAPACITY OP THE ORMOC GENERAL HOSPITAL IN THE CITY OF ORMOC FROM FIFTY TO SEVENTY-FIVE, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The bed capacity of the Ormoc General Hospital in the City of Ormoc is hereby increased from fifty to seventy-five beds.
+
+ **Section 2.** The sum of two hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, to carry out the purpose of this Act during the fiscal year nineteen hundred seventy-two. Such sum as may be needed for its operation and maintenance in subsequent years shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | **GIL J. PUYAT** *President of the Senate* Finally passed by the Senate on September 11, 1972. | **CORNELIO T. VILLAREAL** *Speaker of the House of Representatives* This Act, which originated in the House of Representatives, was finally passed by the same on May 17, 1972. |
+| --- | --- |
+| **ELISEO M. TENZA** *Secretary of the Senate* | **INOCENCIO B. PAREJA** *Secretary of the House Representatives* |
+
+ Approved: October 23, 1972
+
+ **FERDINAND E. MARCOS** *President of the Philippines*
+"	success	Republic Act	The Act increases the bed capacity of Ormoc General Hospital from fifty to seventy-five beds and appropriates two hundred thousand pesos for its operation and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""The bed capacity of the Ormoc General Hospital in the City of Ormoc is hereby increased from fifty to seventy-five beds.""}, {""title"": ""Section 2."", ""summary"": ""The sum of two hundred thousand pesos is authorized to be appropriated for carrying out the purpose of this Act during the fiscal year 1972, with additional funds to be included in subsequent General Appropriations Acts.""}, {""title"": ""Section 3."", ""summary"": ""This Act shall take effect upon its approval.""}]"	6625	October 23, 1972	"[{""name"": ""GIL J. PUYAT"", ""title"": ""President of the Senate""}, {""name"": ""CORNELIO T. VILLAREAL"", ""title"": ""Speaker of the House of Representatives""}]"		To increase bed capacity and provide appropriated funds for the expansion and operation of Ormoc General Hospital.	"[""Increase bed capacity from fifty to seventy-five beds"", ""Authorize appropriation of two hundred thousand pesos for the hospital"", ""Act takes effect upon approval""]"		"[""Healthcare"", ""Hospital"", ""Bed Capacity"", ""Appropriation""]"	"[""Ormoc General Hospital"", ""bed capacity"", ""appropriation"", ""Philippines"", ""Republic Act""]"
+repacts:datasets/markdown/repacts/1972/ra_6626_1972.md	repacts	1972		datasets/markdown/repacts/1972/ra_6626_1972.md	ra_6626_1972	AN ACT ESTABLISHING AN EMERGENCY HOSPITAL IN THE MUNICIPALITY OF SIATON, PROVINCE OF NEGROS ORIENTAL, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 6626, October 23, 1972 ]**
+
+ AN ACT ESTABLISHING AN EMERGENCY HOSPITAL IN THE MUNICIPALITY OF SIATON, PROVINCE OF NEGROS ORIENTAL, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:

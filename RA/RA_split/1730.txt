@@ -1,0 +1,176 @@
+| (Sgd.)**ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.)**CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: April 10, 1992
+
+ (Sgd.)**CORAZON C. AQUINO** *President of the Philippines*
+"	success		The act converts the Bukidnon State College Extension Center into Surigao del Sur Polytechnic College, establishes its branches, sets its governance, academic programs, staffing, asset transfer, audit, funding, and repeals inconsistent laws.	"[{""title"": ""Section 1. Conversion and Branches"", ""summary"": ""Converts the Bukidnon State College Extension Center into Surigao del Sur Polytechnic College and establishes branches at Cagwait, Lianga, Tago, and Tagbina-Barobo.""}, {""title"": ""Section 2. Governance"", ""summary"": ""The college shall be under the regulation, supervision, and control of the Department of Education, Culture and Sports.""}, {""title"": ""Section 3. Academic Programs"", ""summary"": ""The college shall offer one- to three-year technical courses and undergraduate courses in agriculture, aquaculture, fisheries, forestry, and industrial education.""}, {""title"": ""Section 4. Leadership Appointment"", ""summary"": ""The college shall be headed by a Vocational Superintendent II appointed by the Secretary of Education, Culture and Sports.""}, {""title"": ""Section 5. Staffing Structure"", ""summary"": ""Administrative and academic staff shall be structured and organized as with other DECS-supervised colleges, with salaries per DECS regulations.""}, {""title"": ""Section 6. Asset Transfer"", ""summary"": ""All assets, personnel, and land of the former centers are transferred to the new college, with provisions for personnel tenure and land reversion.""}, {""title"": ""Section 7. Audit"", ""summary"": ""All accounts and expenses shall be audited by the Commission on Audit.""}, {""title"": ""Section 8. Appropriations"", ""summary"": ""Additional appropriations needed for the Act's provisions shall be included in the General Appropriations Act of the following year.""}, {""title"": ""Section 9. Repeal of Conflicting Laws"", ""summary"": ""All laws, presidential decrees, executive orders, rules and regulations contrary to or inconsistent with the provisions of this Act are repealed, amended, or modified accordingly.""}, {""title"": ""Section 10. Effective Date"", ""summary"": ""The Act shall take effect upon its approval.""}]"	7377	April 10, 1992	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""ANACLETO D. BADOY, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}]"	To convert the Bukidnon State College Extension Center into a polytechnic college, establish its branches, and provide for its governance, academic programs, staffing, asset transfer, funding, and compliance with national education regulations.	"[""Conversion of the Bukidnon State College Extension Center into Surigao del Sur Polytechnic College."", ""Establishment of branches at Cagwait, Lianga, Tago, and Tagbina-Barobo."", ""Governance under the Department of Education, Culture and Sports."", ""Offer of technical and undergraduate courses in agriculture, aquaculture, fisheries, forestry, and industrial education."", ""Appointment of a Vocational Superintendent II."", ""Structuring of administrative and academic staff per DECS regulations."", ""Transfer of assets, personnel, and land to the new college."", ""Audit of accounts by the Commission on Audit."", ""Inclusion of additional appropriations in the General Appropriations Act of the following year."", ""Repeal or amendment of conflicting laws, decrees, orders, and regulations."", ""Effectivity upon approval.""]"	Repeal or amendment of all laws, presidential decrees, executive orders, rules and regulations contrary to or inconsistent with the provisions of this Act.	"[""Education"", ""Polytechnic"", ""Surigao del Sur"", ""Bukidnon State College""]"	"[""conversion"", ""polytechnic"", ""branches"", ""education"", ""regulation"", ""appropriation"", ""asset transfer"", ""audit""]"
+repacts:datasets/markdown/repacts/1992/ra_7378_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7378_1992.md	ra_7378_1992	An Act changing the name of the Arteche Provincial High School in the Municipality of Arteche, Province of Eastern Samar, to Arteche High School	"**[ REPUBLIC ACT NO. 7378, April 10, 1992 ]**
+
+ AN ACT CHANGING THE NAME OF THE ARTECHE PROVINCIAL HIGH SCHOOL IN THE MUNICIPALITY OF ARTECHE, PROVINCE OF EASTERN SAMAR, TO ARTECHE HIGH SCHOOL
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The name of the Arteche Provincial High School in the Municipality of Arteche, Province of Eastern Samar, is hereby changed to Arteche High School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on April 5, 1990 and January 23, 1992, respectively. |  |
+| (Sgd.)**ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.)**CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: April 10, 1992
+
+ (Sgd.)**CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	An act to rename Arteche Provincial High School to Arteche High School, effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The name of the Arteche Provincial High School in the Municipality of Arteche, Province of Eastern Samar, is hereby changed to Arteche High School.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	7378	April 10, 1992	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""ANACLETO D. BADOY, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""CORAZON C. AQUINO"", ""title"": ""President of the Philippines""}]"	To officially rename Arteche Provincial High School to Arteche High School in Eastern Samar.	"[""Section 1: Renaming of Arteche Provincial High School to Arteche High School."", ""Section 2: Effective upon approval of the Act.""]"		"[""education"", ""school renaming"", ""public institution""]"	"[""Arteche"", ""Provincial High School"", ""Eastern Samar"", ""renaming"", ""Republic Act""]"
+repacts:datasets/markdown/repacts/1992/ra_7379_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7379_1992.md	ra_7379_1992	AN ACT ESTABLISHING A HIGH SCHOOL IN BARANGAY KILING, MUNICIPALITY OF TANAUAN, PROVINCE OF LEYTE, TO BE KNOWN AS THE KILING HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 7379, April 10, 1992 ]**
+
+ AN ACT ESTABLISHING A HIGH SCHOOL IN BARANGAY KILING, MUNICIPALITY OF TANAUAN, PROVINCEOF LEYTE, TO BE KNOWN AS THE KILING HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established a high school inBarangay Kiling, Municipality of Tanauan, Province of Leyte, to be known as the Kiling High School.
+
+ **Section 2.** The Secretary of Education, Culture and Sports shall issue the rules and regulations necessary to implement this Act.
+
+ **Section 3.** The amount necessary for the implementation of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on January 29,1992 and January 27, 1992, respectively. |  |
+| (Sgd.) **ANACLETO D. DABOY, JR.** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: APR 10, 1992
+
+ (Sgd.)**CORAZON C. AQUINO** *President of the Philippines*
+"	success	Education	The Republic Act No. 7379 establishes the Kiling High School in Barangay Kiling, Tanauan, Leyte, and appropriates funds for its operation, while delegating the issuance of rules and regulations to the Secretary of Education, Culture and Sports.	"[{""title"": ""Section 1."", ""summary"": ""There shall be established a high school in Barangay Kiling, Municipality of Tanauan, Province of Leyte, to be known as the Kiling High School.""}, {""title"": ""Section 2."", ""summary"": ""The Secretary of Education, Culture and Sports shall issue the rules and regulations necessary to implement this Act.""}, {""title"": ""Section 3."", ""summary"": ""The amount necessary for the implementation of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.""}, {""title"": ""Section 4."", ""summary"": ""This Act shall take effect upon its approval.""}]"	7379	April 10, 1992	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""ANACLETO D. DABOY, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""CORAZON C. AQUINO"", ""title"": ""President of the Philippines""}]"	To establish the Kiling High School and appropriate funds for its operation.	"[""Establishment of Kiling High School"", ""Issuance of rules and regulations by the Secretary of Education, Culture and Sports"", ""Appropriation of necessary funds in the next General Appropriations Act"", ""Effective date upon approval""]"		"[""Education"", ""High School"", ""Leyte"", ""Republic Act""]"	"[""Kiling High School"", ""Barangay Kiling"", ""Tanauan"", ""Leyte"", ""funds"", ""rules and regulations"", ""General Appropriations Act""]"
+repacts:datasets/markdown/repacts/1992/ra_7380_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7380_1992.md	ra_7380_1992	AN ACT DECLARING OCTOBER 17 OF EVERY YEAR AS A SPECIAL HOLIDAY IN THE WHOLE PROVINCE OF SORSOGON IN CELEBRATION AND COMMEMORATION OF THE ANNIVERSARY OF ITS ESTABLISHMENT	"**[ REPUBLIC ACT NO. 7380, April 10, 1992 ]**
+
+ AN ACT DECLARING OCTOBER 17 OF EVERY YEAR AS A SPECIAL HOLIDAY IN THE WHOLE PROVINCE OF SORSOGON IN CELEBRATION AND COMMEMORATION OF THE ANNIVERSARY OF ITS ESTABLISHMENT
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Subject to the provisions of the Constitution and of laws, not inconsistent herewith, October 17, of every year is hereby declared a special holiday throughout the Province of Sorsogon in commemoration and celebration of the anniversary of its foundation as a local government unit.
+
+ **Section 2.** All government officials in the province, national and local, elected and appointed, shall see to it to look forward every year thereafter to spearhead the commemoration of the foundation day of the province.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on February 3, 1992 and January 23, 1992, respectively. |  |
+| (Sgd.)**ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.)**CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: April 10, 1992
+
+ (Sgd.)**CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	This act declares October 17 as a special holiday throughout the Province of Sorsogon to commemorate and celebrate the anniversary of its establishment as a local government unit.	"[{""title"": ""Section 1"", ""summary"": ""Declares October 17 as a special holiday across Sorsogon for the anniversary of its foundation.""}, {""title"": ""Section 2"", ""summary"": ""Mandates all government officials, national and local, elected and appointed, to spearhead the commemoration of the foundation day.""}, {""title"": ""Section 3"", ""summary"": ""Specifies that the act takes effect upon its approval.""}]"	7380	April 10, 1992	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""ANACLETO D. BADOY, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}]"	To declare October 17 as a special holiday in Sorsogon to commemorate its foundation anniversary.	"[""Declaration of October 17 as a special holiday"", ""Mandate for officials to lead commemoration"", ""Act takes effect upon approval""]"		"[""Holiday"", ""Local Government"", ""Sorsogon"", ""Special Holiday""]"	"[""October 17"", ""Sorsogon"", ""special holiday"", ""anniversary"", ""foundation"", ""government officials""]"
+repacts:datasets/markdown/repacts/1992/ra_7381_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7381_1992.md	ra_7381_1992	AN ACT INCREASING THE BED CAPACITY OF THE CAGAYAN DISTRICT HOSPITAL IN THE MUNICIPALITY OF APARRI, PROVINCE OF CAGAYAN, FROM FIFTY (50) TO SEVENTY-FIVE (75) BEDS, AND UPGRADING IT INTO A PROVINCIAL HOSPITAL TO BE KNOWN AS THE APARRI PROVINCIAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 7381, April 10, 1992 ]**
+
+ AN ACT INCREASING THE BED CAPACITY OF THE CAGAYAN DISTRICT HOSPITAL IN THE MUNICIPALITY OF APARRI, PROVINCE OF CAGAYAN, FROM FIFTY (50) TO SEVENTY-FIVE (75) BEDS, AND UPGRADING IT INTO A PROVINCIAL HOSPITAL TO BE KNOWN AS THE APARRI PROVINCIAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The bed capacity of the Cagayan District Hospital in the Municipality of Aparri, Province of Cagayan, is hereby expanded and upgraded from fifty (50) to seventy-five (75) beds and upgrading it into a provincial hospital to be known as the Aparri Provincial Hospital.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on February 3, 1992 and January 23, 1992, respectively. |  |
+| (Sgd.)**ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.)**CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: April 10, 1992
+
+ (Sgd.)**CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	The Act expands the bed capacity of Cagayan District Hospital to 75 beds and upgrades it to a provincial hospital named Aparri Provincial Hospital, allocating necessary funds.	"[{""title"": ""Section 1"", ""summary"": ""Expands bed capacity from 50 to 75 and upgrades the hospital to a provincial hospital.""}, {""title"": ""Section 2"", ""summary"": ""Funds for the expansion will be included in the General Appropriations Act of the following year.""}, {""title"": ""Section 3"", ""summary"": ""Act takes effect upon approval.""}]"	7381	April 10, 1992	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""ANACLETO D. BADOY, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""CORAZON C. AQUINO"", ""title"": ""President of the Philippines""}]"	To increase the bed capacity and upgrade Cagayan District Hospital to a provincial hospital, thereby improving healthcare services in Aparri.	"[""Increase bed capacity from 50 to 75 beds"", ""Upgrade the hospital to Aparri Provincial Hospital"", ""Appropriate funds for the expansion"", ""Funds to be included in the next year's General Appropriations Act"", ""Act takes effect upon approval""]"		"[""Healthcare"", ""Hospital"", ""Bed Capacity"", ""Provincial Hospital"", ""Cagayan"", ""Aparri""]"	"[""bed capacity"", ""hospital upgrade"", ""Cagayan District Hospital"", ""Aparri Provincial Hospital"", ""General Appropriations Act""]"
+repacts:datasets/markdown/repacts/1992/ra_7382_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7382_1992.md	ra_7382_1992	AN ACT CHANGING THE NAME OF THE LAYOG BARANGAY NATIONAL HIGH SCHOOL IN BARANGAY LAYOG, MUNICIPALITY OF MAASIN, PROVINCE OF ILOILO, TO AUREA BELONIA MEMORIAL HIGH SCHOOL	"**[ REPUBLIC ACT NO. 7382, April 10, 1992 ]**
+
+ AN ACT CHANGING THE NAME OF THE LAYOG BARANGAY NATIONAL HIGH SCHOOL IN BARANGAY LAYOG, MUNICIPALITY OF MAASIN, PROVINCE OF ILOILO, TO AUREA BELONIA MEMORIAL HIGH SCHOOL
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The name of the Layog Barangay National High School in Barangay Layog, Municipality of Maasin, Province of Iloilo, is hereby changed to Aurea Belonia Memorial High School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.)**NEPTALI A. GONZALES** *President of the Senate* | (Sgd.)**RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on April 5, 1990 and January 27, 1992, respectively. |  |
+| (Sgd.)**ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.)**CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: April 10, 1992
+
+ (Sgd.)**CORAZON C. AQUINO** *President of the Philippines*
+"	success	Education	An act amending the name of Layog Barangay National High School to Aurea Belonia Memorial High School, effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The name of the Layog Barangay National High School in Barangay Layog, Municipality of Maasin, Province of Iloilo, is hereby changed to Aurea Belonia Memorial High School.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	REPUBLIC ACT NO. 7382	April 10, 1992	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""ANACLETO D. BADOY, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""CORAZON C. AQUINO"", ""title"": ""President of the Philippines""}]"	To change the name of Layog Barangay National High School to Aurea Belonia Memorial High School.	"[""Name of the Layog Barangay National High School changed to Aurea Belonia Memorial High School."", ""Act takes effect upon its approval.""]"		"[""Education"", ""School renaming"", ""Philippines""]"	"[""Layog Barangay National High School"", ""Aurea Belonia Memorial High School"", ""name change"", ""high school"", ""Philippines education law""]"
+repacts:datasets/markdown/repacts/1992/ra_7383_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7383_1992.md	ra_7383_1992	AN ACT CONVERTING THE RURAL HEALTH UNIT IN THE MUNICIPALITY OF SAN GUILLERMO, PROVINCE OF ISABELA, INTO A FIVE-BED CAPACITY HEALTH INFIRMARY, TO BE KNOWN AS THE SAN GUILLERMO HEALTH INFIRMARY, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 7383, April 10, 1992 ]**
+
+ AN ACT CONVERTING THE RURAL HEALTH UNIT IN THE MUNICIPALITY OF SAN GUILLERMO, PROVINCE OF ISABELA, INTO A FIVE-BED CAPACITY HEALTH INFIRMARY, TO BE KNOWN AS THE SAN GUILLERMO HEALTH INFIRMARY, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The rural health unit in the Municipality of San Guillermo, Province of Isabela, is hereby converted into a five-bed capacity health infirmary, to be known as the San Guillermo Health Infirmary.
+
+ **Section 2.** The purpose of this Act is to provide adequate health services directly and promptly to the people of the town of San Guillermo, Province of Isabela.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on October 17, 1991 and February 3, 1992, respectively. |  |
+| (Sgd.)**ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.)**CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: April 10, 1992
+
+ (Sgd.)**CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	Converts the rural health unit in San Guillermo, Isabela into a five‑bed capacity health infirmary, providing adequate health services to the town and appropriating funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""The rural health unit in San Guillermo, Isabela is converted into a five\u2011bed capacity health infirmary known as the San Guillermo Health Infirmary.""}, {""title"": ""Section 2."", ""summary"": ""Purpose to provide adequate health services to residents of San Guillermo, Isabela.""}, {""title"": ""Section 3."", ""summary"": ""Funding to be included in the General Appropriations Act of the year following enactment.""}, {""title"": ""Section 4."", ""summary"": ""Act takes effect upon approval.""}]"	7383	April 10, 1992	"[{""name"": ""NEPTALI A. GONZALES"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}, {""name"": ""CORAZON C. AQUINO"", ""title"": ""President of the Philippines""}]"	"[{""name"": ""ANACLETO D. BADOY, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}]"	Provide adequate health services directly and promptly to the people of San Guillermo, Isabela.	"[""Conversion of rural health unit into a five\u2011bed health infirmary"", ""Appropriation of funds for operation"", ""Funding to be included in the General Appropriations Act of the following year"", ""Effective upon approval""]"		"[""Health"", ""Infirmary"", ""Rural Health"", ""Isabela""]"	"[""rural health unit"", ""San Guillermo"", ""five-bed capacity"", ""health infirmary"", ""Isabela"", ""fund appropriation"", ""General Appropriations Act""]"
+repacts:datasets/markdown/repacts/1992/ra_7384_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7384_1992.md	ra_7384_1992	An Act Converting the Rural Health Unit in the Municipality of Nagtipunan, Province of Quirino, into a Five-Bed Capacity Health Infirmary, To Be Known As the Nagtipunan Health Infirmary, and Appropriating Funds Therefor	"**[ REPUBLIC ACT NO. 7384, April 10, 1992 ]**
+
+ AN ACT CONVERTING THE RURAL HEALTH UNIT IN THE MUNICIPALITY OF NAGTIPUNAN, PROVINCE OF QUIRINO, INTO A FIVE-BED CAPACITY HEALTH INFIRMARY, TO BE KNOWN AS THE NAGTIPUNAN HEALTH INFIRMARY, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The rural health unit in the Municipality of Nagtipunan, Province of Quirino, is hereby converted into a five-bed capacity health infirmary, to be known as the Nagtipunan Health Infirmary.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **NEPTALI A. GONZALES** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on October 17, 1991 and February 3, 1992, respectively. |  |
+| (Sgd.)**ANACLETO D. BADOY, JR.** *Secretary of the Senate* | (Sgd.)**CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: April 10, 1992
+
+ (Sgd.)**CORAZON C. AQUINO** *President of the Philippines*
+"	success	Health	Converts the rural health unit in Nagtipunan, Quirino into a five‑bed health infirmary and appropriates funds for its operation.	"[{""title"": ""Section 1"", ""summary"": ""Converts the rural health unit in the Municipality of Nagtipunan, Province of Quirino, into a five\u2011bed capacity health infirmary, to be known as the Nagtipunan Health Infirmary.""}, {""title"": ""Section 2"", ""summary"": ""The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.""}, {""title"": ""Section 3"", ""summary"": ""This Act shall take effect upon its approval.""}]"	7384	April 10, 1992	"[{""name"": ""Neptali A. Gonzales"", ""title"": ""President of the Senate""}, {""name"": ""Ram\u00f3n V. Mitra"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""Anacleto D. Badoy, Jr."", ""title"": ""Secretary of the Senate""}, {""name"": ""Camilo L. Sabio"", ""title"": ""Secretary General House of Representatives""}]"	To convert the rural health unit into a health infirmary and appropriate funds for its operation.	"[""Conversion of the rural health unit into a five\u2011bed capacity health infirmary"", ""Allocation of funds via the General Appropriations Act of the following year"", ""Effective date upon approval""]"		"[""Health"", ""Infrastructure"", ""Public Health"", ""Philippines""]"	"[""health infirmary"", ""rural health unit"", ""Nagtipunan"", ""Quirino"", ""funds appropriation"", ""General Appropriations Act"", ""five-bed capacity""]"
+repacts:datasets/markdown/repacts/1992/ra_7385_1992.md	repacts	1992		datasets/markdown/repacts/1992/ra_7385_1992.md	ra_7385_1992	An Act Converting the Rural Health Unit in the City of Iriga, Province of Camarines Sur, into a Five-Bed Capacity Health Infirmary, to Be Known as the Iriga Health Infirmary, and Appropriating Funds Therefor	"**[ REPUBLIC ACT NO. 7385, April 10, 1992 ]**
+
+ AN ACT CONVERTING THE RURAL HEALTH UNIT IN THE CITY OF IRIGA, PROVINCE OF CAMARINES SUR, INTO A FIVE-BED CAPACITY HEALTH INFIRMARY, TO BE KNOWN AS THE IRIGA HEALTH INFIRMARY, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The rural health unit in the City of Iriga, Province of Camarines Sur, is hereby converted into a five-bed capacity health infirmary, to be known as the Iriga Health Infirmary.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.

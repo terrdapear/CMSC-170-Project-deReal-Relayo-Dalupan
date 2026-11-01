@@ -1,0 +1,193 @@
+
+ **Section 2.** The provisions of this Act shall apply to the provinces of Mindanao and Sulu.
+
+ **Section 3.** All acts and regulations inconsistent with the provisions of this Act, are hereby repealed.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 16, 1948.
+"	success	Republic Act	Authorizes the Director of Lands to subdivide and dispose of lands within military reservations no longer needed for military purposes, subject to approvals and conditions.	"[{""title"": ""Section 1."", ""summary"": ""Authorizes the Director of Lands to subdivide lands within military reservations that may be declared by the President as no longer needed for military purposes.""}, {""title"": ""Section 2."", ""summary"": ""The area of each lot within the subdivisions shall be determined by the Director of Lands with approval of the Secretary of Agriculture and Natural Resources, based on land nature, number of applicants, and intended use.""}, {""title"": ""Section 3."", ""summary"": ""All subdivided lands, except portions needed for public service, may be sold to qualified persons with President's approval, giving priority to bona fide occupants, war veterans, recognized guerrillas, and members of unrecognized guerrilla organizations.""}, {""title"": ""Section 4."", ""summary"": ""The act shall take effect upon its approval.""}]"	274	June 15, 1948			To authorize the subdivision and disposal of military reservation lands no longer needed for military purposes, under specified approvals and conditions.	"[""Authorization for subdivision of lands within military reservations no longer needed for military purposes"", ""Approval required from Secretary of Agriculture and Natural Resources for lot areas"", ""Sales subject to President's approval with priority to bona fide occupants, war veterans, and guerrilla members"", ""Act takes effect upon approval""]"		"[""Land"", ""Military reservation"", ""Subdivision"", ""Sale"", ""Agricultural lands""]"	"[""Director of Lands"", ""Military reservations"", ""Public lands"", ""Sale"", ""Priority"", ""Bona fide occupants"", ""War veterans"", ""Guerrillas""]"
+repacts:datasets/markdown/repacts/1948/ra_278_1948.md	repacts	1948		datasets/markdown/repacts/1948/ra_278_1948.md	ra_278_1948	An Act to Rehabilitate the Ormoc Electric Company, Organized Under Act Numbered Twenty-Seven Hundred and Seventy, by Extending the Term of its Franchise to Twenty-Five Years from the Date of its Expiration on March Four, Nineteen Hundred and Fifty-Three	"**REPUBLIC ACT No. 278**
+
+ An Act to Rehabilitate the Ormoc Electric Company, Organized Under Act Numbered Twenty-Seven Hundred and Seventy, by Extending the Term of its Franchise to Twenty-Five Years from the Date of its Expiration on March Four, Nineteen Hundred and Fifty-Three
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The term of the franchise of the Ormoc Electric Company, granted under the provisions of Act Numbered Twenty-seven hundred and seventy of the Philippine Legislature, approved March five, nineteen hundred and eighteen, for the operation and maintenance of an electric power, heat and light system in the municipality of Ormoc, Province of Leyte, is hereby extended for a period of twenty-five years from the date said franchise shall, under the provisions of section one of the said Act Numbered Twenty-seven hundred and seventy, expire on March four, nineteen hundred and fifty-three: *Provided,* However, That the enjoyment or use of said franchise and the operation or maintenance of the electric power, heat and light system thereunder shall, from the beginning of the extension on March five, nineteen hundred and fifty-three, be subject to the restrictions and conditions prescribed in section eight of Article Fourteen of the Philippine Constitution, as amended, and to those provided in Acts of the Congress of the Philippines enacted pursuant to the said section of the Constitution.
+
+ **Section 2.** The extension herein granted shall not take effect unless the grantee or its representatives, successors, or assigns shall, within ninety days after the approval of this Act, accept in writing sworn to under oath the provisions contained in the proviso of the preceding section.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 16, 1948.
+"	success	Republic Act	The act extends the franchise of the Ormoc Electric Company by 25 years, subject to conditions, and requires acceptance within 90 days. It takes effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The franchise of the Ormoc Electric Company is extended for 25 years from its expiration on March 4, 1953, subject to constitutional and statutory conditions.""}, {""title"": ""Section 2"", ""summary"": ""The extension takes effect only if the grantee accepts the conditions in writing within 90 days of the act's approval.""}, {""title"": ""Section 3"", ""summary"": ""The act takes effect upon its approval.""}]"	278	June 16, 1948			To extend the franchise of the Ormoc Electric Company for 25 years, ensuring continued operation of electric power, heat, and light services in Ormoc, Leyte.	"[""Extension of franchise for 25 years from March 4, 1953"", ""Subject to constitutional and statutory conditions"", ""Requires written acceptance within 90 days"", ""Effective upon approval""]"	Act No. 270 (Act Numbered Twenty-Seven Hundred and Seventy)	"[""Electricity"", ""Franchise"", ""Leyte"", ""Ormoc"", ""Republic Act"", ""1948""]"	"[""Ormoc Electric Company"", ""franchise extension"", ""electric power"", ""Leyte"", ""Republic Act 278"", ""1948""]"
+repacts:datasets/markdown/repacts/1948/ra_279_1948.md	repacts	1948		datasets/markdown/repacts/1948/ra_279_1948.md	ra_279_1948	"An Act to Extend the Effects of the Provisions of Act Numbered Forty-One Hundred and Sixty-Six, Entitled ""An Act to Provide for the Limitation, Regulation, and Allocation of Sugar Produced in the Philippine Islands, and for the Processing and Marketing Thereof, and for Other Purposes,"" as Amended"	"**REPUBLIC ACT No. 279**
+
+ An Act to Extend the Effects of the Provisions of Act Numbered Forty-One Hundred and Sixty-Six, Entitled ""An Act to Provide for the Limitation, Regulation, and Allocation of Sugar Produced in the Philippine Islands, and for the Processing and Marketing Thereof, and for Other Purposes,"" as Amended
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Act Numbered Forty-one hundred and sixty-six, entitled ""An Act to provide for the limitation, regulation, and allocation of sugar produced in the Philippine Islands, and for the processing and marketing thereof, and for other purposes,"" as amended, shall continue in force until the nineteen hundred and seventy-three-nineteen hundred and seventy-four crop year, unless the President of the Philippines determines that the state of national emergency declared in said Act has temporarily or definitely ceased, in which case he shall so declare by proclamation, whereupon the effects of said Act, as amended, shall thereby either be suspended temporarily or cease definitely, in part or in whole.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 16, 1948.
+"	success	Republic Act	This act extends the effect of the Sugar Control Act (Act No. 166) until the 1973-1974 crop year and allows its suspension or cessation if the national emergency declared therein ends.	"[{""title"": ""Section 1"", ""summary"": ""Act 166 continues in force until the 1973-1974 crop year, unless the President declares the emergency ended, in which case the act may be temporarily suspended or cease definitively.""}, {""title"": ""Section 2"", ""summary"": ""The act takes effect upon its approval.""}]"	279	June 16, 1948			To extend the regulatory framework of sugar production and marketing until the 1973-1974 crop year and provide for its suspension if the national emergency ends.	"[""Extends effect of Act No. 166 until the 1973-1974 crop year"", ""Allows suspension or cessation if national emergency ends""]"	Act No. 166 (Sugar Control Act)	"[""sugar industry"", ""regulation"", ""law extension""]"	"[""sugar"", ""regulation"", ""allocation"", ""emergency"", ""crop year"", ""extension""]"
+repacts:datasets/markdown/repacts/1948/ra_280_1948.md	repacts	1948		datasets/markdown/repacts/1948/ra_280_1948.md	ra_280_1948	An Act Further Amending Section Sixteen Hundred and Seventy-Five of the Revised Administrative Code, Fixing Salaries of Provincial Fiscals	"**REPUBLIC ACT No. 280**
+
+ An Act Authorizing the Municipal Board of the City of Manila to Impose a Municipal Tax, not to Exceed One-Half of One Per Centum, on the Total Amount of Premiums Received by Fire Insurance Companies on Properties Situated in Manila, the Proceeds of Which Shall be Utilized Exclusively for the Acquisition of Fire-Fighting Equipment for the City Fire Department, and for Other Purposes
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** A new subsection to be designated as subsection (m-3) is hereby inserted after subsection (m-2) of section twenty-four hundred and forty-four of the Revised Administrative Code, as amended, which shall read as follows:
+
+ > ""(m-3) To impose a municipal tax, not to exceed one-half of one per centum, on the total premiums collected by fire insurance companies on properties located within the City of Manila, the proceeds of which tax shall be appropriated exclusively for the acquisition of fire-fighting equipment for the City Fire Department.
+>
+>  ""The tax herein prescribed shall be subject to the same conditions and limitations as those prescribed under Chapter II of Title VIII of the National Internal Revenue Code, as amended, for the collection of the tax on insurance premiums accruing to the National Government.""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 16, 1948.
+"	success	Act	This act further amends Section 1675 of the Revised Administrative Code to fix the salaries of provincial fiscals, provide for filling vacancies caused by retirements, and applies to Mindanao and Sulu provinces while repealing inconsistent acts.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 1675 to set fixed salaries for provincial fiscals by class and provides for filling vacancies left by retired fiscals.""}, {""title"": ""Section 2"", ""summary"": ""Applies the provisions of this Act to the provinces of Mindanao and Sulu.""}, {""title"": ""Section 3"", ""summary"": ""Repeals all acts and regulations inconsistent with the provisions of this Act.""}, {""title"": ""Section 4"", ""summary"": ""The Act shall take effect upon its approval.""}]"	277	June 16, 1948			To fix the salaries of provincial fiscals, update retirement provisions, and ensure consistency across relevant laws.	"[""Fixed salaries for provincial fiscals by class"", ""Provision for filling vacancies of retired fiscals"", ""Application to Mindanao and Sulu provinces"", ""Repeal of inconsistent acts"", ""Effective upon approval""]"	Section 1675 of the Revised Administrative Code	"[""Revised Administrative Code"", ""Provincial Fiscals"", ""Salaries"", ""Republic Act"", ""Government Employee Salaries""]"	"[""Section 1675"", ""Provincial Fiscals"", ""Salaries"", ""Mindanao"", ""Sulu"", ""Retirement"", ""Act 2589""]"
+repacts:datasets/markdown/repacts/1948/ra_281_1948.md	repacts	1948		datasets/markdown/repacts/1948/ra_281_1948.md	ra_281_1948	An Act Creating the Municipality of San Policarpo in the Province of Samar	"**REPUBLIC ACT No. 281**
+
+ An Act Creating the Municipality of San Policarpo in the Province of Samar
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The barrios of San Policarpo, Bahay, Alugan, Pangpang, Japonan, Tabo, Bonogawan and Cajag-wayan of the municipality of Oras, are hereby constituted as a separate and independent municipality to be known as the municipality of San Policarpo, Province of Samar, with the seat of government in the said barrio of San Policarpo.
+
+ **Section 2.** The municipal mayor, vice-mayor and councilors of the newly-created municipality shall be appointed by the President of the Republic of the Philippines to hold office until their successors are duly elected and qualified.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 16, 1948.
+"	success	Republic Act	This act establishes the municipality of San Policarpo in Samar, appointing its officials and taking effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Constitutes the barrios of San Policarpo, Bahay, Alugan, Pangpang, Japonan, Tabo, Bonogawan and Cajag-wayan as a separate municipality named San Policarpo in Samar.""}, {""title"": ""Section 2"", ""summary"": ""The municipal mayor, vice-mayor, and councilors shall be appointed by the President of the Republic of the Philippines until successors are elected.""}, {""title"": ""Section 3"", ""summary"": ""The act shall take effect upon its approval.""}]"	281	June 16, 1948			To create the municipality of San Policarpo and establish its local government structure.	"[""Creation of the municipality of San Policarpo"", ""Appointment of municipal officials by the President"", ""Effectivity upon approval""]"		"[""Municipality"", ""Local Government"", ""Samar"", ""Republic Act""]"	"[""San Policarpo"", ""Samar"", ""municipality"", ""local government"", ""Republic Act 281""]"
+repacts:datasets/markdown/repacts/1948/ra_282_1948.md	repacts	1948		datasets/markdown/repacts/1948/ra_282_1948.md	ra_282_1948	"An Act to Extend the Effects of the Provisions of Act Numbered Forty-One Hundred and Sixty-Six, Entitled ""An Act to Provide for the Limitation, Regulation, and Allocation of Sugar Produced in the Philippine Islands, and for the Processing and Marketing Thereof, and for Other Purposes,"" as Amended"	"**REPUBLIC ACT No. 282**
+
+ An Act Further Amending Section Sixteen Hundred and Seventy-Four of the Revised Administrative Code
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section sixteen hundred and seventy-four of the Revised Administrative Code, as amended, is further amended so as to read as follows:
+
+ > ""Sec. 1674. *Assistant provincial fiscals.* -In the following provinces there shall be assistant provincial fiscals in such numbers and with such salaries as are hereinafter provided:
+>
+>  ""Bohol, three assistant provincial fiscals, one at three thousand pesos, another at two thousand eight hundred pesos and the third one at two thousand four hundred pesos per annum;
+>
+>  ""Cagayan, two assistant provincial fiscals, three thousand pesos and two thousand four hundred pesos, respectively, per annum;
+>
+>  ""Cotabato, two assistant provincial fiscals at two thousand eight hundred pesos per annum;
+>
+>  ""Ilocos Norte, two assistant provincial fiscals at two thousand eight hundred pesos per annum each;
+>
+>  ""Ilocos Sur, one assistant provincial fiscal at two thousand eight hundred pesos per annum, and one at two thousand four hundred pesos per annum;
+>
+>  ""Isabela, one assistant provincial fiscal at two thousand four hundred pesos per annum;
+>
+>  ""La Union, two assistant provincial fiscals, one at two thousand eight hundred pesos per annum, and one at two thousand four hundred pesos per annum;
+>
+>  ""Mountain Province, one assistant provincial fiscal at two thousand eight hundred pesos per annum;
+>
+>  ""Pangasinan, five assistant provincial fiscals, one at three thousand pesos, two at two thousand eight hundred pesos each, and the last two at two thousand four hundred pesos per annum each;
+>
+>  ""Nueva Ecija, four assistant provincial fiscals at three thousand pesos and two thousand eight hundred pesos, respectively, and the last two at two thousand four hundred pesos per annum each;
+>
+>  ""Nueva Vizcaya, one assistant provincial fiscal at two thousand four hundred pesos per annum;
+>
+>  ""Pampanga, two assistant provincial fiscals at three thousand pesos per annum each and two at two thousand eight hundred pesos each per annum;
+>
+>  ""Bulacan, three assistant provincial fiscals, one at three thousand pesos and two at two thousand eight hundred pesos each, respectively, per annum;
+>
+>  ""Tarlac, three assistant provincial fiscals at three thousand pesos per annum each;
+>
+>  ""Albay, three assistant provincial fiscals at three thousand pesos per annum each;
+>
+>  ""Oriental Negros, two assistant provincial fiscals at two thousand eight hundred pesos each per annum;
+>
+>  ""Rizal, six assistant provincial fiscals, one at three thousand pesos, another at two thousand eight hundred pesos respectively, and the last four at two thousand four hundred pesos per annum each;
+>
+>  ""Samar, three assistant provincial fiscals, one at three thousand pesos per annum and two at two thousand eight hundred pesos each per annum;
+>
+>  ""Laguna, two assistant provincial fiscals at three thousand pesos each per annum;
+>
+>  ""Lanao, two assistant provincial fiscals, one at two thousand four hundred pesos per annum; and the other at two thousand eight hundred pesos per annum;
+>
+>  ""Batangas, three assistant provincial fiscals, two at three thousand pesos each per annum and one at two thousand four hundred pesos per annum;
+>
+>  ""Cavite, two assistant provincial fiscals at three thousand pesos each per annum;
+>
+>  ""Quezon, three assistant provincial fiscals, one at three thousand pesos and two at two thousand four hundred pesos, respectively, per annum;
+>
+>  ""Mindoro, one assistant provincial fiscal at two thousand eight hundred pesos per annum;
+>
+>  ""Sorsogon, two assistant provincial fiscals at two thousand four hundred pesos each per annum;
+>
+>  ""Antique, one assistant provincial fiscal at two thousand four hundred pesos per annum;
+>
+>  ""Capiz, two assistant provincial fiscals at three thousand pesos per annum each;
+>
+>  ""Iloilo, five assistant provincial fiscals, one at three thousand pesos, two at two thousand eight hundred pesos each, and two at two thousand four hundred pesos each per annum: *Provided,* However, That the two positions of special attorneys now existing in the office of the provincial fiscal of said province are hereby abolished;
+>
+>  ""Occidental Negros, five assistant provincial fiscals, one at three thousand pesos, two at two thousand eight hundred pesos each, and two at two thousand four hundred pesos per annum each;
+>
+>  ""Leyte, six assistant provincial fiscals, one at three thousand pesos, two at two thousand eight hundred pesos each, and three at two thousand four hundred pesos per annum each;
+>
+>  ""Cebu, seven assistant provincial fiscals, one at three thousand pesos, and six at two thousand eight hundred pesos each per annum;
+>
+>  ""Oriental Misamis, one assistant provincial fiscal at two thousand four hundred pesos per annum;
+>
+>  ""Occidental Misamis, one assistant provincial fiscal at two thousand four hundred pesos per annum;
+>
+>  ""Surigao, one assistant provincial fiscal at two thousand four hundred pesos per annum;
+>
+>  ""Camarines Sur, two assistant provincial fiscals, one at two thousand four hundred pesos per annum and one at two thousand pesos per annum;
+>
+>  ""Camarines Norte, one assistant provincial fiscal at two thousand four hundred pesos per annum;
+>
+>  ""Abra, one assistant provincial fiscal at two thousand pesos per annum;
+>
+>  ""Masbate, one assistant provincial fiscal at two thousand four hundred pesos per annum;
+>
+>  ""Agusan, one assistant provincial fiscal at two thousand four hundred pesos per annum;
+>
+>  ""Zamboanga, one assistant provincial fiscal at two thousand four hundred pesos per annum; and
+>
+>  ""Sulu, one assistant provincial fiscal at two thousand four hundred pesos per annum.
+>
+>  ""These officers shall be appointed by the President of the Philippines with the consent of the Commission on Appointments of the Congress of the Philippines, and their salaries shall be paid by the provinces concerned. The salary of the assistant provincial fiscal shall be included in the annual appropriation of the province in the same manner as the salary of the provincial fiscal. To be eligible for appointment to this position, a person must be a citizen of the Philippines who has been duly admitted to practice in the court of said Islands, and has been in actual practice for at least five years, prior to his appointment.""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 16, 1948.
+"	success	Act	This Act extends the effects of Republic Act No. 166 until the 1973-1974 crop year, allowing for temporary or permanent suspension if a national emergency declared under Act 166 ends.	"[{""title"": ""Section 1."", ""summary"": ""Continues the force of Act 166 until the 1973-1974 crop year, with possible suspension or cessation if the national emergency declared under that Act ends.""}, {""title"": ""Section 2."", ""summary"": ""The Act takes effect upon its approval.""}]"	279	June 16, 1948			To extend the effects of Act 166 until the 1973-1974 crop year and provide for suspension if the national emergency ends	"[""Continues Act 166 until 1973-1974 crop year"", ""Allows suspension or cessation if national emergency ends"", ""Effectiveness upon approval""]"	Act 166	"[""sugar"", ""agriculture"", ""public policy"", ""emergency""]"	"[""sugar regulation"", ""crop year extension"", ""national emergency"", ""Act 166""]"
+repacts:datasets/markdown/repacts/1948/ra_283_1948.md	repacts	1948		datasets/markdown/repacts/1948/ra_283_1948.md	ra_283_1948	An Act Amending Section One of Republic Act Numbered Fifty-Eight	"**REPUBLIC ACT No. 283**
+
+ An Act Amending Section One of Republic Act Numbered Fifty-Eight
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section one of Republic Act Numbered Fifty-eight is amended by adding thereto the following paragraph:
+
+ > ""The seat of government of the municipality of Tubod in the Province of Lanao shall be the site of the former barrio of Tubod before its incorporation into the said municipality.""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 16, 1948.
+"	success	Republic Act	Amends Section One of Republic Act No. 58 to specify that the seat of government of the municipality of Tubod in Lanao province is the former barrio of Tubod.	"[{""title"": ""Section 1"", ""summary"": ""Adds a paragraph stating the seat of government of Tubod municipality is the former barrio of Tubod.""}, {""title"": ""Section 2"", ""summary"": ""The Act shall take effect upon its approval.""}]"	283	June 16, 1948			To amend RA 58 regarding the seat of government of Tubod municipality.	"[""Adds a paragraph stating the seat of government of Tubod municipality is the former barrio of Tubod.""]"	Republic Act No. 58	"[""amendment"", ""government seat"", ""municipality""]"	"[""Tubod"", ""Lanao"", ""seat of government"", ""Republic Act 58""]"
+repacts:datasets/markdown/repacts/1948/ra_284_1948.md	repacts	1948		datasets/markdown/repacts/1948/ra_284_1948.md	ra_284_1948	An Act Amending Section Eleven Hundred and Fifty-One of the Revised Administrative Code, as Amended by Act Numbered Thirty-One Hundred and Six, and Commonwealth Acts Numbered One Hundred and Seventy-Five, Six Hundred and Sixty-Eight and Six Hundred and Seventy-Seven, by Adding San Fernando, Province of La Union, as Port of Entry, and Appropriating Funds Therefor	"**REPUBLIC ACT No. 284**
+
+ An Act Amending Section Eleven Hundred and Fifty-One of the Revised Administrative Code, as Amended by Act Numbered Thirty-One Hundred and Six, and Commonwealth Acts Numbered One Hundred and Seventy-Five, Six Hundred and Sixty-Eight and Six Hundred and Seventy-Seven, by Adding San Fernando, Province of La Union, as Port of Entry, and Appropriating Funds Therefor
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section eleven hundred and fifty-one of the Revised Administrative Code, as amended by Act Numbered Thirty-one hundred and six, and Commonwealth Acts Numbered One hundred and seventy-five, Six hundred and sixty-eight and Six hundred and seventy-seven, is hereby further amended to read as follows:
+
+ > ""Sec. 1151. *Collection districts and ports of entry thereof.* For administrative purposes, the Philippines shall be divided into sixteen collection districts, the respective limits of which may be changed from time to time in the discretion of the Insular Collector of Customs, but the Province of Pangasinan shall belong to the district of Pangasinan, with Sual as its port of entry, and the Province of Quezon to the district of Quezon, with Hondagua as its port of entry. The principal ports of entry for the respective collection districts shall be Manila, Sual, Tabaco, Cebu, Pulupandan, Hondagua, Iloilo, Davao, Legaspi, Zamboanga, Jolo, Aparri, Jose Panganiban, Cagayan, Tacloban, and San Fernando.""
+
+ **Section 2.** The sum of twenty-five thousand pesos is hereby appropriated out of any funds in the National Treasury, not otherwise appropriated, for the establishment and operation of the customs service at the port of San Fernando, Province of La Union.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 16, 1948.
+"	success	Republic Act	This act amends Section 1151 of the Revised Administrative Code to add San Fernando, La Union, as a port of entry and appropriates funds for the establishment and operation of the customs service at that port. It also appropriates ₱25,000 for the same purpose and takes effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Amendment to Section 1151 of the Revised Administrative Code to include San Fernando, La Union, as a port of entry, and description of collection districts and ports of entry.""}, {""title"": ""Section 2"", ""summary"": ""Appropriation of \u20b125,000 from the National Treasury for the establishment and operation of the customs service at San Fernando port.""}, {""title"": ""Section 3"", ""summary"": ""The act shall take effect upon its approval.""}]"	284	June 16, 1948			To amend Section 1151 of the Revised Administrative Code to add San Fernando as a port of entry and allocate funds for its customs service.	"[""Amendment of Section 1151 to add San Fernando, La Union, as a port of entry"", ""Appropriation of \u20b125,000 for customs service at San Fernando"", ""Effective upon approval""]"	Revised Administrative Code (Section 1151), Commonwealth Acts 175, 668, 677	"[""customs"", ""port of entry"", ""funding"", ""administrative code""]"	"[""San Fernando"", ""La Union"", ""port of entry"", ""customs"", ""Revised Administrative Code"", ""Section 1151"", ""appropriation"", ""National Treasury""]"

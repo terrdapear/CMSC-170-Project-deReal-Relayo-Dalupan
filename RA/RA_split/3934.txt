@@ -1,0 +1,171 @@
+
+ This Act, which is originated in the House of Representatives, was passed by the House of Representatives on March 18, 2024, amended by the Senate of the Philippines on February 3, 2025, and which amendments were concurred in by the House of Representatives on February 5, 2025.
+
+ | (SGD.) **RENATO N. BANTUG, JR.** Secretary of the Senate | (SGD.) **REGINALD S. VELASCO** Secretary General House of Representatives |
+
+ Approved: MAY 08 2025
+
+ (SGD.) **FERDINAND ROMUALDEZ MARCOS JR.** President of the Philippines
+"	success	Republic Act	This act increases the bed capacity of the Region 1 Medical Center from 600 to 1,500 beds and appropriates funds, upgrading facilities and workforce.	"[{""title"": ""Section 1"", ""summary"": ""Increases bed capacity from 600 to 1,500 beds.""}, {""title"": ""Section 2"", ""summary"": ""Upgrades existing healthcare services and facilities to match increased capacity.""}, {""title"": ""Section 3"", ""summary"": ""Expands workforce to include doctors, nurses, and support personnel.""}, {""title"": ""Section 4"", ""summary"": ""Secretary of Health will determine new positions with consultations.""}, {""title"": ""Section 5"", ""summary"": ""Includes funding for implementation in the annual General Appropriations Act.""}, {""title"": ""Section 6"", ""summary"": ""Unconstitutional provisions are severable.""}, {""title"": ""Section 7"", ""summary"": ""Repeals or modifies inconsistent laws and regulations.""}, {""title"": ""Section 8"", ""summary"": ""Effective 15 days after publication in official gazette or newspaper.""}]"	REPUBLIC ACT NO. 12203	May 08, 2025	"[{""name"": ""FRANCIS \""CHIZ\"" G. ESCUDERO"", ""title"": ""President of the Senate""}, {""name"": ""FERDINAND MARTIN G. ROMUALDEZ"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""RENATO N. BANTUG, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""REGINALD S. VELASCO"", ""title"": ""Secretary General House of Representatives""}]"	To increase the bed capacity of R1MC to meet healthcare needs and improve services.	"[""Increase bed capacity from 600 to 1,500"", ""Upgrade professional healthcare services and facilities"", ""Increase workforce accordingly"", ""Create additional new positions"", ""Include funding in General Appropriations Act"", ""Repeal inconsistent laws"", ""Effective 15 days after publication""]"		"[""Healthcare"", ""Hospital"", ""Budget"", ""Regional Medical Center""]"	"[""bed capacity"", ""Region 1 Medical Center"", ""Dagupan"", ""Pangasinan"", ""health workforce"", ""budget appropriation"", ""General Appropriations Act""]"
+repacts:datasets/markdown/repacts/2025/ra_12204_2025.md	repacts	2025		datasets/markdown/repacts/2025/ra_12204_2025.md	ra_12204_2025	An Act Increasing the Bed Capacity of the Amang Rodriguez Memorial Medical Center in the City of Marikina, from Five Hundred (500) to One Thousand (1,000) Beds, and Appropriating Funds Therefor	"[ REPUBLIC ACT NO. 12204, May 08, 2025 ]
+
+ AN ACT INCREASING THE BED CAPACITY OF THE AMANG RODRIGUEZ MEMORIAL MEDICAL CENTER IN THE CITY OF MARIKINA, FROM FIVE HUNDRED (500) TO ONE THOUSAND (1,000) BEDS, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The authorized bed capacity of the Amang Rodriguez Memorial Medical Center (ARMMC), shall be increased from six hundred (500) to one thousand (1,000) beds.
+
+ **Section 2.** The existing professional healthcare services and facilities of the ARMMC shall also be upgraded to conform with and be commensurate to the increase in bed capacity as provided in Section 1 hereof.
+
+ **Section 3.** The existing workforce of the ARMMC, which includes doctors, nurses, and support personnel, shall be increased correspondingly
+
+ **Section 4.** The Secretary of Health, after consultation with the Medical Center Chief of ARMMC, and in coordination with the Secretary of the Department of Budget and Management and the Chairperson of the Civil Service Commission, determine the additional new positions to be created.
+
+ **Section 5.** The Secretary of Health shall immediately include in the Department's program the implementation of this Act, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 6.** If any provision of this Act is declared unconstitutional, the remaining parts or provisions not affected shall remain in full force and effect.
+
+ **Section 7.** Republic Act No. 9419, entitled ""An Act Increasing the Bed Capacity of the Amang Rodriguez Memorial Medical Center from One Hundred Fifty (150) to Three Hundred Bed and Appropriating Funds Therefor"", as amended by Republic Act No. 11287, entitled ""An Act Increasing the Bed Capacity of the Amang Rodriguez Memorial Medical Center in the City of Marikina From Three Hundred (300) to Five Hundred (500) Beds, Upgrading the Service Facilities and Professional Health Care Therein, and Appropriating Funds Therefor"", is hereby further amended. All other laws, decrees, orders, issuances, rules and regulations, or parts thereof which are inconsistent with the provisions of this Act are hereby repealed, amended or modified accordingly.
+
+ **Section 8.** This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate | (SGD.) **FERDINAND MARTIN G. ROMUALDEZ** Speaker of the House of Representatives |
+
+ This Act, which is originated in the House of Representatives, was passed by the House of Representatives on March 18, 2024, amended by the Senate of the Philippines on February 3, 2025, and which amendments were concurred in by the House of Representatives on February 4, 2025.
+
+ | (SGD.) **RENATO N. BANTUG, JR.** Secretary of the Senate | (SGD.) **REGINALD S. VELASCO** Secretary General House of Representatives |
+
+ Approved: MAY 08 2025
+
+ (SGD.) **FERDINAND ROMUALDEZ MARCOS JR.** President of the Philippines
+"	success	Healthcare	This act increases the authorized bed capacity of the Amang Rodriguez Memorial Medical Center (ARMMC) from 500 to 1,000 beds, upgrades its facilities and workforce, appropriates necessary funds, amends prior related laws, and sets the act to take effect 15 days after publication.	"[{""title"": ""Section 1"", ""summary"": ""Increases authorized bed capacity of ARMMC from 500 to 1,000 beds.""}, {""title"": ""Section 2"", ""summary"": ""Upgrades existing professional healthcare services and facilities to match the increased bed capacity.""}, {""title"": ""Section 3"", ""summary"": ""Increases workforce of ARMMC, including doctors, nurses, and support personnel, accordingly.""}, {""title"": ""Section 4"", ""summary"": ""Secretary of Health, in consultation with ARMMC chief and other officials, determines additional new positions to be created.""}, {""title"": ""Section 5"", ""summary"": ""Secretary of Health will include implementation of this Act in the Department's program and appropriate funding in the General Appropriations Act.""}, {""title"": ""Section 6"", ""summary"": ""If any provision is declared unconstitutional, remaining provisions remain in force.""}, {""title"": ""Section 7"", ""summary"": ""Amends R.A. 9419 and R.A. 11287; repeals or amends inconsistent laws, orders, issuances, rules, and regulations.""}, {""title"": ""Section 8"", ""summary"": ""Act takes effect 15 days after publication in the Official Gazette or a newspaper of general circulation.""}]"	12204	2025-05-08	"[{""name"": ""FRANCIS \""CHIZ\"" G. ESCUDERO"", ""title"": ""President of the Senate""}, {""name"": ""FERDINAND MARTIN G. ROMUALDEZ"", ""title"": ""Speaker of the House of Representatives""}]"		To increase the bed capacity of ARMMC to 1,000 beds, upgrade its services and workforce, and appropriate necessary funds.	"[""Increase bed capacity from 500 to 1,000"", ""Upgrade healthcare services and facilities"", ""Increase workforce"", ""Create additional positions"", ""Allocate funding in General Appropriations Act"", ""Amend prior related laws"", ""Set effective date after publication""]"	Republic Act No. 9419 and Republic Act No. 11287	"[""Healthcare"", ""Hospital"", ""Bed Capacity"", ""Medical Center"", ""Marikina""]"	"[""Amang Rodriguez Memorial Medical Center"", ""bed capacity"", ""healthcare services"", ""budget appropriation"", ""facility upgrade"", ""workforce expansion"", ""Department of Health"", ""Civil Service Commission""]"
+repacts:datasets/markdown/repacts/2025/ra_12205_2025.md	repacts	2025		datasets/markdown/repacts/2025/ra_12205_2025.md	ra_12205_2025	An Act Increasing the Bed Capacity of the Laguna Provincial Hospital - San Pedro District Hospital in the City of San Pedro, Province of Laguna, from Fifteen (15) to Fifty (50) Beds, and Appropriating Funds Therefor	"[ REPUBLIC ACT NO. 12205, May 08, 2025 ]
+
+ AN ACT INCREASING THE BED CAPACITY OF THE LAGUNA PROVINCIAL HOSPITAL - SAN PEDRO DISTRICT HOSPITAL IN THE CITY OF SAN PEDRO, PROVINCE OF LAGUNA, FROM FIFTEEN (15) TO FIFTY (50) BEDS, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The authorized bed capacity of the Laguna Provincial Hospital - San Pedro District Hospital in the City of San Pedro, Province of Laguna, shall be increased from fifteen (15) to fifty (50) beds. Any future increase in bed capacity shall consistent with the hospital development plan that shall be prepared by the Chief of Hospital of the Laguna Provincial Hospital - San Pedro District Hospital and submitted to the Department of Health.
+
+ **Section 2.** The existing professional healthcare services and facilities of the Laguna Provincial Hospital - San Pedro District Hospital shall also be upgraded to conform with and be commensurate to the increase in bed capacity as provided in Section 1 hereof.
+
+ **Section 3.** The existing workforce of the Laguna Provincial Hospital - San Pedro District Hospital, which includes doctors, nurses, and support personnel, shall be increased correspondingly.
+
+ **Section 4.** The Provincial Government of Laguna shall provide the necessary funds to cover the maintenance and other operating expenses of the Laguna Provincial Hospital - San Pedro District Hospital. It shall also appropriate funds for the additional human resource complement to support the increase in bed capacity and the corresponding upgrading of its service facilities and professional healthcare services.
+
+ **Section 5.** The Secretary of Health shall include in the Department's subsidy program, support for the capital outlay requirements of the Laguna Provincial Hospital - San Pedro District Hospital.
+
+ **Section 6.** If any provision of this Act is declared unconstitutional, the remaining parts or provisions not affected shall remain in full force and effect.
+
+ **Section 7.** All other laws, executive orders, issuances, rules and regulations inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+
+ **Section 8.** This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (Sgd.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate | (Sgd.) **FERDINAND MARTIN G. ROMUALDEZ** Speaker of the House of Representatives |
+
+ This Act, which is originated in the House of Representatives, was passed by the House of Representatives on May 8 , 2024, amended by the Senate of the Philippines on February 3, 2025, and which amendments were concurred in by the House of Representatives on February 4, 2025.
+
+ | (Sgd.) **RENATO N. BANTUG, JR.** Secretary of the Senate | (Sgd.) **REGINALD S. VELASCO** Secretary General House of Representatives |
+
+ Approved: MAY 08 2025
+
+ (Sgd.) **FERDINAND ROMUALDEZ MARCOS JR.** President of the Philippines
+"	success	Healthcare	Republic Act No. 12205 increases the bed capacity of the Laguna Provincial Hospital - San Pedro District Hospital from 15 to 50 beds, upgrades its services and facilities, expands workforce, appropriates necessary funds, and incorporates subsidy support, with effectivity 15 days after publication.	"[{""title"": ""Section 1."", ""summary"": ""Increases authorized bed capacity from 15 to 50 beds.""}, {""title"": ""Section 2."", ""summary"": ""Upgrades existing professional healthcare services and facilities to match increased bed capacity.""}, {""title"": ""Section 3."", ""summary"": ""Expands workforce including doctors, nurses, and support personnel.""}, {""title"": ""Section 4."", ""summary"": ""Provincial government provides funds for maintenance, operating expenses, and human resources.""}, {""title"": ""Section 5."", ""summary"": ""Secretary of Health includes capital outlay support for the hospital in subsidy program.""}, {""title"": ""Section 6."", ""summary"": ""Unconstitutional provisions severed; remaining parts remain in effect.""}, {""title"": ""Section 7."", ""summary"": ""Repeals or modifies laws inconsistent with this Act.""}, {""title"": ""Section 8."", ""summary"": ""Effectivity 15 days after publication in Official Gazette or newspaper.""}]"	Republic Act No. 12205	May 08, 2025	"[{""name"": ""Francis \""Chiz\"" G. Escudero"", ""title"": ""President of the Senate""}, {""name"": ""Ferdinand Martin G. Romualdez"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""Renato N. Bantug Jr."", ""title"": ""Secretary of the Senate""}, {""name"": ""Reginald S. Velasco"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""Ferdinand Romualdez Marcos Jr."", ""title"": ""President of the Philippines""}]"	Increase bed capacity and improve healthcare services and facilities at Laguna Provincial Hospital - San Pedro District Hospital, ensuring adequate funding and workforce.	"[""Increase bed capacity from 15 to 50 beds"", ""Upgrade healthcare services and facilities"", ""Expand hospital workforce"", ""Allocate funds for maintenance and operating expenses"", ""Include capital outlay support in subsidy program"", ""Repeal inconsistent laws"", ""Effectivity after 15 days post-publication""]"		"[""Healthcare"", ""Hospital"", ""Bed Capacity"", ""Laguna"", ""Public Health"", ""Philippines""]"	"[""bed capacity"", ""Laguna Provincial Hospital"", ""San Pedro District Hospital"", ""healthcare services"", ""hospital workforce"", ""Department of Health""]"
+repacts:datasets/markdown/repacts/2025/ra_12206_2025.md	repacts	2025		datasets/markdown/repacts/2025/ra_12206_2025.md	ra_12206_2025	AN ACT ESTABLISHING IN THE MUNICIPALITY OF RAMON MAGSAYSAY, PROVINCE OF ZAMBOANGA DEL SUR, A DISTRICT HOSPITAL TO BE KNOWN AS ZAMBOANGA DEL SUR FIRST DISTRICT HOSPITAL, AND APPROPRIATING FUNDS THEREFOR	"[ REPUBLIC ACT NO. 12206, May 08, 2025 ]
+
+ AN ACT ESTABLISHING IN THE MUNICIPALITY OF RAMON MAGSAYSAY, PROVINCE OF ZAMBOANGA DEL SUR, A DISTRICT HOSPITAL TO BE KNOWN AS ZAMBOANGA DEL SUR FIRST DISTRICT HOSPITAL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established in the Municipality of Ramon Magsaysay, Province of Zamboanga del Sur, a district hospital to be known as the Zamboanga del Sur First District Hospital, which shall be under the direct control and supervision of the Provincial Government of Zamboanga del Sur.
+
+ **Section 2.** Any future increase in the bed capacity, healthcare facilities, service capability and human resource complement shall be based on the hospital development plan that shall be prepared by the Chief of Hospital, in consultation with the Department of Health.
+
+ **Section 3.** The Provincial Government of Zamboanga del Sur shall provide the necessary funds for the establishment of the Zamboanga del Sur First District Hospital. The Secretary of Health shall include the department's subsidy program its support for the capital outlay requirements of the said hospital.
+
+ **Section 4.** If any provision or part of this Act is declared unconstitutional, the remaining parts or provisions not affected shall remain in full force and effect.
+
+ **Section 5.** All other laws, executive orders, issuances, rules and regulations inconsistent with this Act are hereby repealed or modified accordingly.
+
+ **Section 6.** This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (Sgd.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate | (Sgd.) **FERDINAND MARTIN G. ROMUALDEZ** Speaker of the House of Representatives |
+
+ This Act, which is originated in the House of Representatives, was passed by the House of Representatives on May 15, 2024, amended by the Senate of the Philippines on February 3, 2025, and which amendments were concurred in by the House of Representatives on February 4, 2025.
+
+ | (Sgd.) **RENATO N. BANTUG, JR.** Secretary of the Senate | (Sgd.) **REGINALD S. VELASCO** Secretary General House of Representatives |
+
+ Approved: MAY 08 2025
+
+ (Sgd.) **FERDINAND ROMUALDEZ MARCOS JR.** President of the Philippines
+"	success	Republic Act	The Republic Act establishes the Zamboanga del Sur First District Hospital in Ramon Magsaysay, Zamboanga del Sur, under provincial supervision, outlines bed capacity planning, appropriates funds, and repeals inconsistent laws. It takes effect 15 days after publication.	"[{""title"": ""Section 1."", ""summary"": ""Establishes the Zamboanga del Sur First District Hospital in Ramon Magsaysay, under direct control of the provincial government.""}, {""title"": ""Section 2."", ""summary"": ""Future increases in bed capacity and facilities must be based on a development plan prepared by the Chief of Hospital in consultation with the Department of Health.""}, {""title"": ""Section 3."", ""summary"": ""The provincial government shall provide necessary funds; the Secretary of Health shall include the department\u2019s subsidy program to support capital outlay.""}, {""title"": ""Section 4."", ""summary"": ""If any provision is declared unconstitutional, the remaining parts shall remain in force.""}, {""title"": ""Section 5."", ""summary"": ""Repeals or modifies all other laws, executive orders, issuances, rules and regulations inconsistent with this Act.""}, {""title"": ""Section 6."", ""summary"": ""The Act takes effect 15 days after publication in the Official Gazette or a newspaper of general circulation.""}]"	12206	May 08, 2025	"[{""name"": ""FRANCIS \""CHIZ\"" G. ESCUDERO"", ""title"": ""President of the Senate""}, {""name"": ""FERDINAND MARTIN G. ROMUALDEZ"", ""title"": ""Speaker of the House of Representatives""}]"		To establish a district hospital in Ramon Magsaysay to improve healthcare access and infrastructure in Zamboanga del Sur.	"[""Establishment of the Zamboanga del Sur First District Hospital"", ""Bed capacity and facility planning guidelines"", ""Appropriation of funds by provincial government"", ""Supervision under provincial government"", ""Effectivity clause 15 days after publication"", ""Repeal of inconsistent laws""]"	No specific amendments to existing laws; repeal of inconsistent statutes	"[""Healthcare"", ""Hospital"", ""Zamboanga del Sur"", ""District Hospital"", ""Public Health""]"	"[""district hospital"", ""Zamboanga del Sur"", ""bed capacity"", ""funding"", ""healthcare facilities"", ""provincial government"", ""Department of Health""]"
+repacts:datasets/markdown/repacts/2025/ra_12207_2025.md	repacts	2025		datasets/markdown/repacts/2025/ra_12207_2025.md	ra_12207_2025	AN ACT INCREASING THE BED CAPACITY OF THE AMAI PAKPAK MEDICAL CENTER IN THE CITY OF MARAWI, PROVINCE OF LANAO DEL SUR FROM FOUR HUNDRED (400) TO EIGHT HUNDRED (800) BEDS AND APPROPRIATING FUNDS THEREFOR	"[ REPUBLIC ACT NO. 12207, May 08, 2025 ]
+
+ AN ACT INCREASING THE BED CAPACITY OF THE AMAI PAKPAK MEDICAL CENTER IN THE CITY OF MARAWI, PROVINCE OF LANAO DEL SUR FROM FOUR HUNDRED (400) TO EIGHT HUNDRED (800) BEDS AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The authorized bed capacity of the Amai Pakpak Medical Center (APMC) in the City of Marawi, Province of Lanao del Sur, shall be increased from four hundred (400) to eight hundred (800) beds.
+
+ **Section 2.** The existing professional healthcare services and facilities of the APMC are hereby upgraded to conform with and commensurate to the increase in bed capacity as provided in Section 1 hereof.
+
+ **Section 3.** The existing workforce of the APMC, which include doctors, nurses, and support personnel, shall be increased correspondingly.
+
+ **Section 4.** The Secretary of Health shall, after consultation with the Medical Center Chief of the APMC, and in coordination with the Secretary of the Department of Budget and Management and the Chairperson of the Civil Service Commission, determine the additional new positions to be created.
+
+ **Section 5.** The Secretary of Health shall immediately include in the Department's program the implementation of this Act, the funding of which shall be included in the General Appropriations Act.
+
+ **Section 6.** If any provision of this Act is declared unconstitutional, the remaining parts or provisions not affected shall remain in full force and effect.
+
+ **Section 7.** All other laws, executive orders, issuances, rules and regulations inconsistent with this Act are hereby repealed or modified accordingly.
+
+ **Section 8.** This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (Sgd.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate | (Sgd.) **FERDINAND MARTIN G. ROMUALDEZ** Speaker of the House of Representatives |
+
+ This Act, which is originated in the House of Representatives, was passed by the House of Representatives on May 15, 2024, amended by the Senate of the Philippines on February 3, 2025, and which amendments were concurred in by the House of Representatives on February 4, 2025.
+
+ | (Sgd.) **RENATO N. BANTUG, JR.** Secretary of the Senate | (Sgd.) **REGINALD S. VELASCO** Secretary General House of Representatives |
+
+ Approved: MAY 08 2025
+
+ (Sgd.) **FERDINAND ROMUALDEZ MARCOS JR.** President of the Philippines
+"	success	Republic Act	The law increases the authorized bed capacity of the Amai Pakpak Medical Center (APMC) in Marawi from 400 to 800 beds, upgrades healthcare facilities and workforce accordingly, and appropriates necessary funds through the General Appropriations Act.	"[{""title"": ""Section 1"", ""summary"": ""Authorizes increasing APMC bed capacity from 400 to 800 beds.""}, {""title"": ""Section 2"", ""summary"": ""Requires upgrading APMC's professional healthcare services and facilities to match the increased bed capacity.""}, {""title"": ""Section 3"", ""summary"": ""Mandates a corresponding increase in APMC workforce, including doctors, nurses, and support personnel.""}, {""title"": ""Section 4"", ""summary"": ""Empowers the Secretary of Health, in consultation with APMC's Medical Center Chief, and coordination with the Secretary of the Department of Budget and Management and the Chairperson of the Civil Service Commission, to determine additional new positions.""}, {""title"": ""Section 5"", ""summary"": ""Directs the Secretary of Health to include the act\u2019s implementation in the Department's program and ensures funding is incorporated in the General Appropriations Act.""}, {""title"": ""Section 6"", ""summary"": ""States that if any provision is declared unconstitutional, the remaining provisions remain in effect.""}, {""title"": ""Section 7"", ""summary"": ""Repeals or modifies all other laws, executive orders, issuances, rules and regulations inconsistent with this act.""}, {""title"": ""Section 8"", ""summary"": ""The act takes effect 15 days after publication in the Official Gazette or a newspaper of general circulation.""}]"	12207	2025-05-08	"[{""name"": ""FRANCIS \""CHIZ\"" G. ESCUDERO"", ""title"": ""President of the Senate""}, {""name"": ""FERDINAND MARTIN G. ROMUALDEZ"", ""title"": ""Speaker of the House of Representatives""}]"		To expand the bed capacity of the Amai Pakpak Medical Center and ensure necessary upgrades in facilities, workforce, and funding for improved healthcare delivery in Marawi.	"[""Increase bed capacity from 400 to 800"", ""Upgrade healthcare facilities and services"", ""Increase workforce of doctors, nurses and support staff"", ""Create additional new positions with Secretary of Health"", ""Appropriate funding via General Appropriations Act"", ""Maintain effectivity after 15 days of publication"", ""Repeal inconsistent laws""]"		"[""Health"", ""Medical Facilities"", ""Bed Capacity"", ""Lanao del Sur"", ""Marawi""]"	"[""bed capacity"", ""healthcare facilities"", ""workforce"", ""funding"", ""General Appropriations Act"", ""public health"", ""Marawi"", ""Lanao del Sur""]"
+repacts:datasets/markdown/repacts/2025/ra_12208_2025.md	repacts	2025		datasets/markdown/repacts/2025/ra_12208_2025.md	ra_12208_2025	AN ACT ESTABLISHING IN THE CITY OF CALAMBA, PROVINCE OF LAGUNA, A GENERAL HOSPITAL TO BE KNOWN AS CALAMBA CITY GENERAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR	"[ REPUBLIC ACT NO. 12208, May 08, 2025 ]
+
+ AN ACT ESTABLISHING IN THE CITY OF CALAMBA, PROVINCE OF LAGUNA, A GENERAL HOSPITAL TO BE KNOWN AS CALAMBA CITY GENERAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established in the City of Calamba, Province of Laguna, a general hospital to be known as the Calamba City General Hospital (CCGH), which shall be under the direct control and supervision of the City Government of Calamba, Province of Laguna.
+
+ **Section 2.** Any future increase in bed capacity, healthcare facilities, service capability, and human resource complement shall be based on the hospital development plan which shall be prepared by the Chief of Hospital, in consultation with the Department of Health.
+
+ **Section 3.** The City Government of Calamba, Province of Laguna, shall provide the necessary funds for the establishment of the CCGH. The Secretary of Health shall include in the department's subsidy program, support for the capital outlay requirements of the said hospital.
+
+ **Section 4.** If any provision or part of this Act is declared unconstitutional, the remaining parts or provisions not affected shall remain in full force and effect.
+
+ **Section 5.** All other laws, executive orders, issuances, rules and regulations inconsistent with this Act are hereby repealed or modified accordingly.
+
+ **Section 6.** This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (Sgd.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate | (Sgd.) **FERDINAND MARTIN G. ROMUALDEZ** Speaker of the House of Representatives |
+
+ This Act, which is originated in the House of Representatives, was passed by the House of Representatives and the Senate of the Philippines on July 30, 2024 and February 3, 2025, respectively.
+
+ | (Sgd.) **RENATO N. BANTUG, JR.** Secretary of the Senate | (Sgd.) **REGINALD S. VELASCO** Secretary General House of Representatives |
+
+ Approved: MAY 08 2025
+
+ (Sgd.) **FERDINAND ROMUALDEZ MARCOS JR.** President of the Philippines
+"	success	Republic Act	Establishes Calamba City General Hospital and appropriates funds for its establishment.	"[{""title"": ""Section 1."", ""summary"": ""Establishes the Calamba City General Hospital (CCGH) under the direct control of the City Government of Calamba.""}, {""title"": ""Section 2."", ""summary"": ""Future increases in bed capacity and facilities shall be based on a hospital development plan prepared by the Chief of Hospital in consultation with the Department of Health.""}, {""title"": ""Section 3."", ""summary"": ""The City Government of Calamba shall provide necessary funds; the Secretary of Health shall include support for capital outlay in the subsidy program.""}, {""title"": ""Section 4."", ""summary"": ""If any provision is declared unconstitutional, the remaining provisions remain in effect.""}, {""title"": ""Section 5."", ""summary"": ""Repeals or modifies any laws, executive orders, issuances, rules and regulations inconsistent with this Act.""}, {""title"": ""Section 6."", ""summary"": ""The Act takes effect fifteen days after publication in the Official Gazette or a newspaper of general circulation.""}]"	12208	May 08, 2025	"[{""name"": ""FRANCIS \""CHIZ\"" G. ESCUDERO"", ""title"": ""President of the Senate""}, {""name"": ""FERDINAND MARTIN G. ROMUALDEZ"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""RENATO N. BANTUG, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""REGINALD S. VELASCO"", ""title"": ""Secretary General House of Representatives""}]"	To establish a general hospital in Calamba City, Laguna, and allocate funds for its construction and operation.	"[""Establishment of Calamba City General Hospital (CCGH)"", ""Bed capacity increases based on a development plan"", ""City government funding and DHS subsidy"", ""Survival of provisions if unconstitutional parts declared"", ""Repeal of inconsistent laws"", ""Effectivity after 15 days of publication""]"		"[""Healthcare"", ""Hospital"", ""Laguna"", ""Calamba"", ""Public Health""]"	"[""Calamba City General Hospital"", ""bed capacity"", ""Department of Health"", ""City Government"", ""funds appropriation"", ""public health"", ""Republic Act 12208""]"

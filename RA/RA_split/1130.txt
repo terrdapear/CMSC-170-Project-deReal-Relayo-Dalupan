@@ -1,0 +1,154 @@
+
+ **Section 8.** This Act shall take effect upon its approval.
+
+ Approved: May 8, 1967.
+"	success	Republic Act	The Act divides the former Province of Davao into three new provinces—Davao del Norte, Davao del Sur, and Davao Oriental—specifying their constituent municipalities, capitals, congressional representation, and the distribution of assets and obligations between them.	"[{""title"": ""Section 1"", ""summary"": ""Divides the Province of Davao into three provinces with specified municipalities for each new province.""}, {""title"": ""Section 2"", ""summary"": ""Designates the capitals of each new province: Tagum for Davao del Norte, Digos for Davao del Sur, and Mati for Davao Oriental.""}, {""title"": ""Section 3"", ""summary"": ""Applies existing provincial laws to the new provinces unless otherwise provided.""}, {""title"": ""Section 4"", ""summary"": ""Addresses the assignment of incumbent provincial officials, appointment of new positions, voting qualifications, and special election procedures.""}, {""title"": ""Section 5"", ""summary"": ""Allocates one representative to each new province and includes the city of Davao in Davao del Sur for congressional representation.""}, {""title"": ""Section 6"", ""summary"": ""Distributes the funds, obligations, and assets of the former Province of Davao among the new provinces proportionate to municipal incomes, with specific handling of contractual obligations.""}, {""title"": ""Section 7"", ""summary"": ""Continues the service of incumbent provincial officials and employees in the new provinces with salary continuance until new adjustments.""}, {""title"": ""Section 8"", ""summary"": ""States that the Act takes effect upon approval.""}]"	4867	May 8, 1967			To create new provinces from the existing Province of Davao.	"[""Creation of Davao del Norte, Davao del Sur, and Davao Oriental"", ""Designation of provincial capitals"", ""Allocation of congressional representation"", ""Distribution of assets and obligations among new provinces"", ""Appointment procedures for new provincial officials""]"		"[""Provinces"", ""Davao"", ""Republic Act"", ""1967""]"	"[""province"", ""Davao"", ""creation"", ""capital"", ""representation"", ""assets"", ""distribution""]"
+repacts:datasets/markdown/repacts/1967/ra_4868_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_4868_1967.md	ra_4868_1967	An Act Creating the Municipality of Lutayan, Province of Cotabato	"**REPUBLIC ACT No. 4868**
+
+ An Act Creating the Municipality of Lutayan, Province of Cotabato
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Barrios Lutayan, Bayasong, Tamnag, Antong, Blingkong, Bulok, Talik, Kolondapok and Mamali, Municipality of Buluan, Province of Cotabato, are separated from said municipality, and constituted into a distinct and independent municipality, to be known as the Municipality of Lutayan, same province. The seat of government of the new municipality shall be the present site of Barrio Tamnag.
+
+ The boundaries of the new municipality shall be: Beginning from the corner point of the boundary line of Buluan and Columbio and along the boundary line of Koronadal, going due west following the boundary line of Buluan and Koronadal at a distance of 9,000 meters, more or less; thence north, 39 degrees, zero minute, west the following the boundary line of Buluan and Tantangan at a distance of 4,400 meters, more or less; thence, north, 38 degrees, 30 minutes, east passing the eastern sitio of Tugal and Maindang at a distance of 2,300 meters, more or less; thence due north, passing through the center of Buluan Lake at a distance of 3,500 meters, more or less; thence due east, passing at about one kilometer north of Sumangolong until it intersects the boundary line of Buluan and Columbio at a distance of 6,000 meters more or less; thence south, 26 degrees zero minute east following the boundary line of Buluan and Columbio to the point of beginning at a distance of 9,400 meters, more or less.
+
+ **Section 2.** The first mayor, vice-mayor, and councilors of the new municipality shall be elected in the next general elections for local officials in 1967 and shall have qualified.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: May 8, 1967.
+"	success	Republic Act	Creates the municipality of Lutayan in Cotabato by separating it from Buluan, defines its boundaries, sets election provisions, and takes effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Separates barrios from Buluan to constitute the municipality of Lutayan and defines its boundaries.""}, {""title"": ""Section 2"", ""summary"": ""Mandates election of mayor, vice-mayor, and councilors for 1967.""}, {""title"": ""Section 3"", ""summary"": ""States the act will take effect upon approval.""}]"	RA No. 4868	May 8, 1967			To create a new municipality of Lutayan in the province of Cotabato.	"[""Separates the barrios of Lutayan, Bayasong, Tamnag, Antong, Blingkong, Bulok, Talik, Kolondapok and Mamali from Buluan."", ""Defines the boundaries of the new municipality."", ""Specifies election of municipal officials in 1967."", ""Declares the act effective upon approval.""]"		"[""municipality creation"", ""local government""]"	"[""Lutayan"", ""Cotabato"", ""Buluan"", ""Republic Act"", ""Municipality""]"
+repacts:datasets/markdown/repacts/1967/ra_4869_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_4869_1967.md	ra_4869_1967	An Act Creating the Municipality of President Roxas in the Province of Cotabato	"**REPUBLIC ACT No. 4869**
+
+ An Act Creating the Municipality of President Roxas in the Province of Cotabato
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The barrios and sitios of Butsi, Kabunuangan, Salat, Arakan, (part), Kisupaan, Sarayan, Naje, Datu Selio, Basak, Roxas, Labo-o, Idauman, Camarahan, Tuael, Magsaysay, New Cebu, Del Carmen, Kamasi, Kisupa-an, Kiyab, Lohong, New Camiguin, and Lebpas, in the Municipality of Kidapawan, Province of Cotabato, are separated from said municipality, and constituted into a distinct and independent municipality, to be known as the Municipality of President Roxas, same province. The seat of government of the new municipality shall be in the present Barrio Roxas.
+
+ The boundaries of the new municipalities shall be: Starting from a point where the Kinamalig Creek intersects Paco (Km. 118)Inac Road; thence going a westerly direction following the Kinamalig creek to a point where it intersects the original boundary of Matalam and Kidapawan; thence northward following the said boundary up to the point of intersection of Kabacan and Magpet Rivers; thence following the old boundary of Matalam and Kidapawan, through Arakan, and Pulangi rivers up to the point of intersection of Pulangi and Mulita Rivers; thence following Mulita River upstream to a point where this river intersects the Bukidnon-Cotabato boundary; thence in an easterly direction following the Cotabato-Bukidnon boundary up to the peak of Mt. Tianlad; thence going southward following the original boundary of Magpet and Kidapawan to a point where the Paco-Inac road and Marbel River intersects; thence following the road in a southerly direction up to the Kinamalig creek, the beginning point.
+
+ **Section 2.** The first mayor, vice-mayor and councilors of the new municipality shall be elected in the next general elections for local officials in 1967 and shall have qualified.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: May 8, 1967.
+"	success	Republic Act	This act establishes the Municipality of President Roxas by separating specified barrios and sitios from Kidapawan in Cotabato province, designating its seat of government, and setting provisions for its officials and effectivity.	"[{""title"": ""Section 1"", ""summary"": ""Separates the barrios and sitios listed from Kidapawan and constitutes them into the Municipality of President Roxas, defines its boundaries and seat of government.""}, {""title"": ""Section 2"", ""summary"": ""Provides that the first mayor, vice-mayor, and councilors of the new municipality shall be elected in the next general elections for local officials in 1967.""}, {""title"": ""Section 3"", ""summary"": ""States that the act shall take effect upon its approval.""}]"	4869	May 8, 1967			To create the Municipality of President Roxas in Cotabato province.	"[""Separate specified barrios and sitios from Kidapawan to form a new municipality"", ""Define the boundaries and seat of government for President Roxas"", ""Set the election of first mayor, vice-mayor, and councilors in 1967"", ""Declare act effective upon approval""]"		"[""Municipality creation"", ""Local government"", ""Philippines"", ""Cotabato""]"	"[""municipality"", ""President Roxas"", ""Cotabato"", ""local government"", ""separation of barrios""]"
+repacts:datasets/markdown/repacts/1967/ra_4870_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_4870_1967.md	ra_4870_1967	An Act Creating the Municipality of Sebaste in the Province of Antique	"**REPUBLIC ACT No. 4870**
+
+ AN ACT CREATING THE MUNICIPALITY OF SEBASTE IN THE PROVINCE OF ANTIQUE.
+
+ **Section 1.** Barrios Callan, Nauhon, Ydio, Sebaste, Abiera, Bacalan, Alegre, Arasasan, P. Javier, and Aguila are separated from the municipalities of Culasi and Pandan, Province of Antique, and constituted into a separate municipality, to be known as the Municipality of Sebaste, with the seat of government at the present site of barrio Sebaste.
+
+ **Section 2.** The first mayor, vice-mayor and councilors of the Municipality of Sebaste shall be elected in the next general elections for local officials and shall have qualified.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: May 8, 1967
+"	success	Republic Act	The act establishes the Municipality of Sebaste in Antique by separating several barrios from the municipalities of Culasi and Pandan, and outlines the election of local officials and its effective date.	"[{""title"": ""Section 1"", ""summary"": ""Separates the barrios of Callan, Nauhon, Ydio, Sebaste, Abiera, Bacalan, Alegre, Arasasan, P. Javier, and Aguila from Culasi and Pandan and forms the Municipality of Sebaste with its seat at barrio Sebaste.""}, {""title"": ""Section 2"", ""summary"": ""Mandates the election of the first mayor, vice-mayor, and councilors of Sebaste in the next general elections.""}, {""title"": ""Section 3"", ""summary"": ""States that the act takes effect upon approval.""}]"	4870	May 8, 1967			To create a new municipality in the province of Antique.	"[""Creation of the Municipality of Sebaste"", ""Separation of specified barrios from Culasi and Pandan"", ""Election of local officials"", ""Effectivity upon approval""]"		"[""municipality"", ""local government"", ""creation"", ""Antique"", ""Republic Act""]"	"[""Sebaste"", ""Antique"", ""municipality"", ""barrios"", ""local government""]"
+repacts:datasets/markdown/repacts/1967/ra_4871_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_4871_1967.md	ra_4871_1967	An Act Creating the Municipality of Midsalip in the Province of Zamboanga del Sur	"**REPUBLIC ACT No. 4871**
+
+ An Act Creating the Municipality of Midsalip in the Province of Zamboanga del Sur
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Barrios Midsalip, Guma, Bakahan, Guinabot, Kamaron, Lumpanid, Lumangoy, Dumalinao, Boloran, Sawa, Sominot, Bolobohan, Balonai, Timbaboy, Ganipay, Matalang, Sigapod, Duilic, Pawan, Dakayakan and Pisompongan, all of the Municipality of Ramon Magsaysay, Province of Zamboanga del Sur, and Barrios Pili, Cabaloran, Ecuan, Golictop, Guitalos and Licoro-an, all of the municipality of Dumingag, same province, are hereby separated from the said municipalities and constituted into a distinct and independent municipality, to be known as the Municipality of Midsalip, Province of Zamboanga del Sur. The seat of government of the new municipality shall be in the present site of Barrio Midsalip.
+
+ The municipality shall be bounded as follows: ""Beginning from point 1, intersection of latitude 7 58 and longitude 123 23; thence due west until it intersects longitude 123 10 called point 2; thence due north following partly the provincial boundary between Zamboanga del Norte and Zamboanga del Sur until it intersects latitude 8 06 called point 3; thence due east until intersects latitude 123 23 called point 4; thence due south back to point 1, point of beginning.""
+
+ **Section 2.** The first mayor, vice-mayor and councilors of the municipality shall be elected in the next general elections for local officials and shall have qualified.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: May 8, 1967.
+"	success	Republic Act	This Act establishes the Municipality of Midsalip by separating various barrios from existing municipalities in Zamboanga del Sur, defines its boundaries, and specifies its initial government officials, taking effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Barrios Midsalip, Guma, Bakahan, Guinabot, Kamaron, Lumpanid, Lumangoy, Dumalinao, Boloran, Sawa, Sominot, Bolobohan, Balonai, Timbaboy, Ganipay, Matalang, Sigapod, Duilic, Pawan, Dakayakan and Pisompongan from Ramon Magsaysay and Barrios Pili, Cabaloran, Ecuan, Golictop, Guitalos and Licoro-an from Dumingag are separated to constitute the Municipality of Midsalip with boundaries as described.""}, {""title"": ""Section 2."", ""summary"": ""The first mayor, vice-mayor and councilors will be elected in the next general elections for local officials.""}, {""title"": ""Section 3."", ""summary"": ""The Act shall take effect upon its approval.""}]"	4871	May 8, 1967			To create a new municipality of Midsalip by separating barrios from existing municipalities and establish its governance structure.	"[""Separation of specified barrios to form Municipality of Midsalip"", ""Definition of municipal boundaries"", ""Election of first mayor, vice-mayor, and councilors in next general elections"", ""Act takes effect upon approval""]"		"[""Municipality"", ""Local Government"", ""Zamboanga del Sur""]"	"[""Municipality"", ""Midsalip"", ""Zamboanga del Sur"", ""Republic Act"", ""Local Government"", ""Barrios""]"
+repacts:datasets/markdown/repacts/1967/ra_4872_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_4872_1967.md	ra_4872_1967	An Act Creating the Municipality of Bayog in the Province of Zamboanga del Sur	"**REPUBLIC ACT No. 4872**
+
+ An Act Creating the Municipality of Bayog in the Province of Zamboanga del Sur
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The barrios and sitios of Bayog, Buboan, Datagan, Pulang Bato, Dipili, Salawagan, Lamari, Damit, Depasi, Pangi, Liba, Datagan 1, Datagan 2, Mataga, Dimalinao, Baking, Dipuri, Kwai, Maton-og, and Kanipa-an in the Municipality of Buug, Province of Zamboanga del Sur, are separated from said municipality, and constituted into a distinct and independent municipality to be known as the Municipality of Bayog. The seat of government of the new municipality shall be in Barrio Bayog.
+
+ **Section 2.** The first mayor, vice-mayor and councilors of the new municipality shall be elected in the next general elections for local officials and shall have been qualified.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: May 8, 1967.
+"	success	Republic Act	This act establishes the Municipality of Bayog, separating its barrios from the Municipality of Buug, and outlines the election of its officials.	"[{""title"": ""Section 1."", ""summary"": ""Separates specified barrios and sitios from Buug to form the Municipality of Bayog, with its seat in Barrio Bayog.""}, {""title"": ""Section 2."", ""summary"": ""Mandates election of first mayor, vice-mayor, and councilors in next general elections.""}, {""title"": ""Section 3."", ""summary"": ""Act takes effect upon approval.""}]"	4872	May 8, 1967			To create the Municipality of Bayog.	"[""Separates specified barrios and sitios from Buug to form the Municipality of Bayog"", ""Mandates election of first mayor, vice-mayor, and councilors in next general elections"", ""Act takes effect upon approval""]"		"[""municipality creation"", ""local government"", ""Zamboanga del Sur""]"	"[""Bayog"", ""municipality"", ""Zamboanga del Sur"", ""Republic Act 4872""]"
+repacts:datasets/markdown/repacts/1967/ra_4873_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_4873_1967.md	ra_4873_1967	An Act Creating the Municipality of Benito Soliven in the Province of Isabela	"**REPUBLIC ACT No. 4873**
+
+ An Act Creating the Municipality of Benito Soliven in the Province of Isabela
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Barrios Melappia, San Carlos, Capoceran, Ara, Guilingan, Danipa, Makindol, San Francisco, Gomez, Villaluz, New Magsaysay, Dagupan, Andabuen, Binogtongan, Nacalma, Sevillana and Sinippit in the Municipality of San Mariano; the barrios of Lucban, Yeban, Maluno and Balliao in the Municipality of Ilagan; and the barrios of Placer, Santa Cruz, La Salette, San Francisco (now named Santiago), and Punit in the Municipality of Naguilian, all in the Province of Isabela, are hereby separated from said municipalities and constituted into a distinct and independent municipality to be known as the Municipality of Benito Soliven, same province.
+
+ The seat of government of the new municipality shall be in the present site of Barrio Melappia.
+
+ **Section 2.** The first mayor, vice-mayor and councilors of the new municipality shall be elected in the next general elections for local officials.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: May 18, 1967.
+"	success	Republic Act	An act establishing the Municipality of Benito Soliven by separating specified barrios from San Mariano, Ilagan, and Naguilian in Isabela Province, designating Barrio Melappia as its seat, and setting election procedures for its first officials.	"[{""title"": ""Section 1"", ""summary"": ""Separates the barrios of Melappia, San Carlos, Capoceran, Ara, Guilingan, Danipa, Makindol, San Francisco, Gomez, Villaluz, New Magsaysay, Dagupan, Andabuen, Binogtongan, Nacalma, Sevillana, and Sinippit from San Mariano; Lucban, Yeban, Maluno, and Balliao from Ilagan; and Placer, Santa Cruz, La Salette, San Francisco (now Santiago), and Punit from Naguilian to constitute the Municipality of Benito Soliven.""}, {""title"": ""Section 2"", ""summary"": ""Mandates election of the first mayor, vice-mayor, and councilors of the new municipality in the next general elections for local officials.""}, {""title"": ""Section 3"", ""summary"": ""The act shall take effect upon its approval.""}]"	4873	May 18, 1967			To create a new municipality in Isabela Province, thereby promoting local governance and administrative efficiency.	"[""Separation of specified barrios to form Municipality of Benito Soliven"", ""Designation of Barrio Melappia as seat of government"", ""Election of first mayor, vice-mayor, and councilors"", ""Act takes effect upon approval""]"		"[""Municipality Creation"", ""Local Governance"", ""Isabela"", ""Republic Act""]"	"[""Benito Soliven"", ""Isabela"", ""Municipality"", ""Barrios"", ""Local Officials"", ""May 18 1967""]"
+repacts:datasets/markdown/repacts/1967/ra_4874_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_4874_1967.md	ra_4874_1967	An Act Increasing the Number of Assistant Provincial Fiscals for the Province of Leyte, Amending for the Purpose Section Sixteen Hundred and Seventy-Four of the Administrative Code, as Amended	"**REPUBLIC ACT No. 4874**
+
+ An Act Increasing the Number of Assistant Provincial Fiscals for the Province of Leyte, Amending for the Purpose Section Sixteen Hundred and Seventy-Four of the Administrative Code, as Amended
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The provisions of Section sixteen hundred and seventy-four of the Administrative Code, as amended, relative to the number of assistant provincial fiscals in the Province of Leyte, is further amended to read as follows:
+
+ > ""Leyte, sixteen assistant provincial fiscals;""
+
+ **Section 2.** For the purpose of paying the national share of the salaries of the seven additional positions of assistant fiscals of Leyte herein created, there is hereby authorized to be appropriated for the current fiscal year and annually thereafter, out of any funds in the National Treasury not otherwise appropriated, the amount of twenty-one thousand pesos which shall be annually included in the lump sum appropriated for salaries of provincial and city fiscals and their assistants in the annual General Appropriations Act.
+
+ The provincial share of such salaries shall, at the rate fixed by Republic Act Numbered Seventeen hundred ninety-nine, be included in the annual appropriation of the province of Leyte pursuant to the provisions of Section four of Republic Act Numbered Thirty-seven hundred nineteen.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: May 18, 1967.
+"	success	Republic Act	This act increases the number of assistant provincial fiscals in Leyte to sixteen and authorizes appropriation for additional salaries.	"[{""title"": ""Section 1"", ""summary"": ""Amends section 1674 of the Administrative Code to increase assistant provincial fiscals to sixteen.""}, {""title"": ""Section 2"", ""summary"": ""Authorizes appropriation of 21,000 pesos annually for salaries of seven additional assistant fiscals.""}, {""title"": ""Section 3"", ""summary"": ""Act takes effect upon approval.""}]"	4874	May 18, 1967			Increase number of assistant provincial fiscals and provide funding.	"[""Amends Section 1674 of the Administrative Code to increase assistant provincial fiscals to sixteen."", ""Authorizes appropriation of 21,000 pesos annually for salaries of seven additional assistant fiscals."", ""Act takes effect upon approval.""]"	Section 1674 of the Administrative Code	"[""Fiscal"", ""Leyte"", ""Administrative Code"", ""Salary"", ""Provincial Fiscals""]"	"[""assistant provincial fiscals"", ""Leyte"", ""Administrative Code"", ""appropriation"", ""salary""]"
+repacts:datasets/markdown/repacts/1967/ra_4875_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_4875_1967.md	ra_4875_1967	An Act Creating the Municipality of Naga in the Province of Zamboanga del Sur	"**REPUBLIC ACT No. 4875**
+
+ An Act Creating the Municipality of Naga in the Province of Zamboanga del Sur
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The barrios and sitios of Naga, Cubawang, Mamagon, Baus, Bongcaobangcao, Baga, Santa Clara Crossing, Lower Solitan, Upper Solitan, Solo, Tambanan, Botong, Batang, Cucotan, Lupa, Balono, Kaliantana, Andamio, Posaan, Cabong and Tipan in the Municipality of Kabasalan, Province of Zamboanga del Sur, are separated from said municipality and constituted into a distinct and independent municipality to be known as the Municipality of Naga, same province. The seat of government of the new municipality shall be the present site of Barrio Naga.
+
+ **Section 2.** The first mayor, vice-mayor and councilors shall be elected in the next general elections for local officials and shall have qualified.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: May 18, 1967.
+"	success	Republic Act	This act establishes the Municipality of Naga, separating several barrios and sitios from the Municipality of Kabasalan in the Province of Zamboanga del Sur.	"[{""title"": ""Section 1"", ""summary"": ""Separates the barrios and sitios of Naga, Cubawang, Mamagon, Baus, Bongcaobangcao, Baga, Santa Clara Crossing, Lower Solitan, Upper Solitan, Solo, Tambanan, Botong, Batang, Cucotan, Lupa, Balono, Kaliantana, Andamio, Posaan, Cabong and Tipan from Kabasalan and constitutes them into the Municipality of Naga.""}, {""title"": ""Section 2"", ""summary"": ""Provides that the first mayor, vice-mayor, and councilors of the new municipality shall be elected in the next general elections.""}, {""title"": ""Section 3"", ""summary"": ""The act shall take effect upon its approval.""}]"	4875	May 18, 1967			Creation of a new municipality in Zamboanga del Sur.	"[""Separation of barrios and sitios from Kabasalan"", ""Constitution of Municipality of Naga"", ""Designation of Barrio Naga as seat of government"", ""Election of first municipal officials in the next general elections"", ""Effectivity upon approval""]"		"[""Municipality creation"", ""Local government"", ""Zamboanga del Sur""]"	"[""Naga"", ""Zamboanga del Sur"", ""municipality"", ""Republic Act"", ""1967""]"
+repacts:datasets/markdown/repacts/1967/ra_4876_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_4876_1967.md	ra_4876_1967	An Act Creating the Municipality of Mabuhay in the Province of Zamboanga del Sur	"**REPUBLIC ACT No. 4876**
+
+ An Act Creating the Municipality of Mabuhay in the Province of Zamboanga del Sur
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Barrios Mabuhay, Malinao, Sagay, Katipan, Mualbual, Tuburan, Kawilan, Abunda, Punawan, Kaliran, Taguisian, Bag-ong Silang, Siotan, Bagurod, Paminsa-an, Pinalim, Kasigpitan, Sawa and Ligaya, all in the Municipality of Olutanga, Province of Zamboanga del Sur, are separated from said municipality, and constituted into a distinct and independent municipality to be known as the Municipality of Mabuhay.
+
+ The seat of the government of the new municipality shall be at the present site of Barrio Mabuhay.
+
+ **Section 2.** The first mayor, vice-mayor and councilors of the new municipality shall be duly elected in the next general elections for local officials.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: May 18, 1967.
+"	success	Republic Act	This act establishes the Municipality of Mabuhay in Zamboanga del Sur, separating several barrios from Olutanga and designating the seat at Barrio Mabuhay.	"[{""title"": ""Section 1"", ""summary"": ""Separates listed barrios from Olutanga, forming the Municipality of Mabuhay.""}, {""title"": ""Section 2"", ""summary"": ""Elections for mayor, vice-mayor and councilors.""}, {""title"": ""Section 3"", ""summary"": ""Act takes effect upon approval.""}]"	4876	May 18, 1967			To create a new municipality of Mabuhay in Zamboanga del Sur.	"[""Separates listed barrios from Olutanga into Municipality of Mabuhay"", ""Seat of government at Barrio Mabuhay"", ""Elections for local officials"", ""Act takes effect upon approval""]"		"[""Municipality"", ""Zamboanga del Sur"", ""Republic Act"", ""Local Government""]"	"[""Mabuhay"", ""Zamboanga del Sur"", ""municipality"", ""local government"", ""Republic Act 4876""]"
+repacts:datasets/markdown/repacts/1967/ra_4877_1967.md	repacts	1967		datasets/markdown/repacts/1967/ra_4877_1967.md	ra_4877_1967	An Act Creating the Municipality of Burgos in the Province of Isabela	"**REPUBLIC ACT No. 4877**
+
+ An Act Creating the Municipality of Burgos in the Province of Isabela
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The barrios of Caliguian, Catabban, Gullalabo, Masigun East, Malasin, San Bonifacio, San Roque, San Miguel and Raniag in the Municipality of Gamu; and the barrios of Bacnor East, Bacnor West and Dalig in the Municipality of Aurora, Province of Isabela, are separated from said municipalities, and constituted into a distinct and independent municipality, to be known as the Municipality of Burgos, same province.
+
+ The seat of government of the new municipality shall be in any place between barrios Caliguian and Gullalabo.
+
+ **Section 2.** The first mayor, vice-mayor and councilors of the said municipality shall be elected in the next general elections for local officials.

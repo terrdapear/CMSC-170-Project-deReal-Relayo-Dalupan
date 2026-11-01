@@ -1,0 +1,171 @@
+
+ **Section 3.** Before the construction of the hospital, the Secretary of Health shall issue a written assurance that personnel of the hospital will be appointed and that funds for its maintenance and operation have been appropriated.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **JOVITO R. SALONGA** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on December 22, 1989. |  |
+| (Sgd.) **EDWIN P. ACOBA** *Secretary of the Senate* | (Sgd.) **QUIRINO D. ABAD SANTOS, JR.** *Secretary of the House of Representatives* |
+
+ Approved: March 8, 1990
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippine*
+"	success	Public Health	This Act establishes a ten-bed municipal hospital in Pozorrubio, Pangasinan, known as the Pozorrubio Municipal Hospital, appropriates funds for its construction and operation, requires a written assurance from the Secretary of Health, and takes effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Establishes a ten-bed municipal hospital in Pozorrubio, Pangasinan, under the supervision of the Department of Health.""}, {""title"": ""Section 2."", ""summary"": ""Appropriates the necessary funds under the Fiscal Year 1989 General Appropriations Act and includes future operational and maintenance funds in the annual General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""Mandates the Secretary of Health to issue a written assurance that hospital personnel will be appointed and that maintenance and operation funds have been appropriated.""}, {""title"": ""Section 4."", ""summary"": ""The Act takes effect upon its approval.""}]"	6892	March 08, 1990	"[{""name"": ""JOVITO R. SALONGA"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""EDWIN P. ACOBA"", ""title"": ""Secretary of the Senate""}, {""name"": ""QUIRINO D. ABAD SANTOS, JR."", ""title"": ""Secretary of the House of Representatives""}, {""name"": ""CORAZON C. AQUINO"", ""title"": ""President of the Philippines""}]"	To establish a ten-bed municipal hospital in Pozorrubio, Pangasinan, and appropriate funds for its construction and operation.	"[""Establishes a ten-bed municipal hospital in Pozorrubio, Pangasinan."", ""Appropriates funds for construction, operation, and maintenance."", ""Requires written assurance from the Secretary of Health."", ""Effective upon approval.""]"		"[""Healthcare"", ""Hospital"", ""Municipal"", ""Pangasinan"", ""Public Health""]"	"[""Ten-bed hospital"", ""Pozorrubio"", ""Pangasinan"", ""Department of Health"", ""Fiscal Year 1989"", ""General Appropriations Act"", ""Health Secretary Assurance""]"
+repacts:datasets/markdown/repacts/1990/ra_6893_1990.md	repacts	1990		datasets/markdown/repacts/1990/ra_6893_1990.md	ra_6893_1990	AN ACT ESTABLISHING A TEN-BED MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF ANTIPOLO, PROVINCE OF RIZAL, TO BE KNOWN AS THE ANTIPOLO MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 6893, March 08, 1990 ]**
+
+ AN ACT ESTABLISHING A TEN-BED MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF ANTIPOLO, PROVINCE OF RIZAL, TO BE KNOWN AS THE ANTIPOLO MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established, under the supervision of the Department or Health, a ten-bed municipal hospital in the Municipality of Antipolo, Province of Rizal, to be known as the Antipolo Municipal Hospital.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be charged against the appropriations authorized for the purpose under the Fiscal Year 1989 General Appropriations Act. Thereafter, such sums as may be necessary for the operation and maintenance of the herein hospital shall be included in the annual General Appropriations Act.
+
+ **Section 3.** Before the construction of the hospital, the Secretary of Health shall issue a written assurance that personnel of the hospital will be appointed and that funds for its maintenance and operation have been appropriated.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **JOVITO R. SALONGA** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on December 22, 1989. |  |
+| (Sgd.) **EDWIN P. ACOBA** *Secretary of the Senate* | (Sgd.) **QUIRINO D. ABAD SANTOS, JR.** *Secretary of the House of Representatives* |
+
+ Approved: March 8, 1990
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	This act establishes a ten‑bed municipal hospital in Antipolo, Rizal, and appropriates funds for its construction, operation, and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""There shall be established, under the supervision of the Department of Health, a ten\u2011bed municipal hospital in the Municipality of Antipolo, Province of Rizal, to be known as the Antipolo Municipal Hospital.""}, {""title"": ""Section 2."", ""summary"": ""The amount necessary to carry out the provisions of this Act shall be charged against the appropriations authorized for the purpose under the Fiscal Year 1989 General Appropriations Act. Thereafter, such sums as may be necessary for the operation and maintenance of the herein hospital shall be included in the annual General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""Before the construction of the hospital, the Secretary of Health shall issue a written assurance that personnel of the hospital will be appointed and that funds for its maintenance and operation have been appropriated.""}, {""title"": ""Section 4."", ""summary"": ""This Act shall take effect upon its approval.""}]"	6893	March 8, 1990	"[{""name"": ""JOVITO R. SALONGA"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}, {""name"": ""CORAZON C. AQUINO"", ""title"": ""President of the Philippines""}]"		To establish a ten‑bed municipal hospital in Antipolo and appropriate funds for its construction, operation, and maintenance.	"[""Establishment of a ten\u2011bed municipal hospital in Antipolo"", ""Appropriation of funds under the Fiscal Year 1989 General Appropriations Act"", ""Requirement of written assurance by the Secretary of Health"", ""Effective date upon approval""]"		"[""Health"", ""Hospital"", ""Municipal"", ""Rizal"", ""Antipolo"", ""Philippines""]"	"[""ten-bed"", ""municipal hospital"", ""Antipolo"", ""Rizal"", ""Department of Health"", ""appropriation"", ""Fiscal Year 1989"", ""General Appropriations Act""]"
+repacts:datasets/markdown/repacts/1990/ra_6894_1990.md	repacts	1990		datasets/markdown/repacts/1990/ra_6894_1990.md	ra_6894_1990	AN ACT ESTABLISHING A TEN-BED MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF CALATRAVA, PROVINCE OF NEGROS OCCIDENTAL, TO BE KNOWN AS THE CALATRAVA MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 6894, March 08, 1990 ]**
+
+ AN ACT ESTABLISHING A TEN-BED MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF CALATRAVA, PROVINCE OF NEGROS OCCIDENTAL, TO BE KNOWN AS THE CALATRAVA MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established, under the supervision of the Department of Health, a ten-bed municipal hospital in the Municipality of Calatrava, Province of Negros Occidental, to be known as the Calatrava Municipal Hospital.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be charged against the appropriations authorized for the purpose under the Fiscal Year 1989 General Appropriations Act. Thereafter, such sums as may be necessary for the operation and maintenance of the herein hospital shall be included in the annual General Appropriations Act.
+
+ **Section 3.** Before the construction of the hospital, the Secretary of Health shall issue a written assurance that personnel of the hospital will be appointed and that funds for its maintenance and operation have been appropriated.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **JOVITO R. SALONGA** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on December 22, 1989. |  |
+| (Sgd.) **EDWIN P. ACOBA** *Secretary of the Senate* | (Sgd.) **QUIRINO D. ABAD SANTOS, JR.** *Secretary of the House of Representatives* |
+
+ Approved: March 8, 1990
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	This act establishes a ten-bed municipal hospital in Calatrava, Negros Occidental, known as Calatrava Municipal Hospital, and appropriates funds for its construction, operation, and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of a ten-bed municipal hospital in Calatrava under the supervision of the Department of Health.""}, {""title"": ""Section 2."", ""summary"": ""Allocation of funds from Fiscal Year 1989 General Appropriations Act and future appropriations for operation and maintenance.""}, {""title"": ""Section 3."", ""summary"": ""Secretary of Health to issue written assurance of personnel and funding for the hospital.""}, {""title"": ""Section 4."", ""summary"": ""Act takes effect upon approval.""}]"	6894	March 08, 1990	"[{""name"": ""JOVITO R. SALONGA"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""EDWIN P. ACOBA"", ""title"": ""Secretary of the Senate""}, {""name"": ""QUIRINO D. ABAD SANTOS, JR."", ""title"": ""Secretary of the House of Representatives""}, {""name"": ""CORAZON C. AQUINO"", ""title"": ""President of the Philippines""}]"	To establish a ten-bed municipal hospital in Calatrava, Negros Occidental, and to appropriate funds for its construction, operation, and maintenance.	"[""Establishment of a ten-bed municipal hospital under DOH supervision."", ""Allocation of funds from FY 1989 GA Act and future appropriations."", ""Secretary of Health to issue written assurance of personnel and funding."", ""Act takes effect upon approval.""]"		"[""Health"", ""Hospital"", ""Negros Occidental"", ""Calatrava"", ""Republic Act"", ""Infrastructure""]"	"[""municipal hospital"", ""negros occidental"", ""health"", ""funding"", ""appropriation"", ""department of health"", ""Calatrava""]"
+repacts:datasets/markdown/repacts/1990/ra_6895_1990.md	repacts	1990		datasets/markdown/repacts/1990/ra_6895_1990.md	ra_6895_1990	AN ACT ESTABLISHING A TEN-BED EXTENSION HOSPITAL IN THE HISTORIC ISLAND OF HOMONHON, MUNICIPALITY OF GUIUAN, PROVINCE OF EASTERN SAMAR, TO BE KNOWN AS THE SOUTHERN SAMAR EXTENSION GENERAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 6895, March 08, 1990 ]**
+
+ AN ACT ESTABLISHING A TEN-BED EXTENSION HOSPITAL IN THE HISTORIC ISLAND OF HOMONHON, MUNICIPALITY OF GUIUAN, PROVINCE OF EASTERN SAMAR, TO BE KNOWN AS THE SOUTHERN SAMAR EXTENSION GENERAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established, under the supervision of the Department of Health, a ten-bed extension hospital of Southern Samar General Hospital, in the historic island of Homonhon, Municipality of Guiuan, Province of Eastern Samar, to be known as the Southern Samar Extension General Hospital.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be charged against the appropriations authorized for the purpose under the Fiscal Year 1989 General Appropriations Act. Thereafter, such sums as may be necessary for the operation and maintenance of the herein hospital shall be included in the annual General Appropriations Act.
+
+ **Section 3.** Before the construction of the hospital, the Secretary of Health shall issue a written assurance that personnel of the hospital will be appointed and that funds for its maintenance and operation have been appropriated.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **JOVITO R. SALONGA** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on December 22, 1989. |  |
+| (Sgd.) **EDWIN P. ACOBA** *Secretary of the Senate* | (Sgd.) **QUIRINO D. ABAD SANTOS, JR.** *Secretary of the House of Representatives* |
+
+ Approved: March 8, 1990
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	Establishes a ten‑bed extension hospital in Homonhon, Eastern Samar, known as Southern Samar Extension General Hospital, and appropriates funds for its construction, operation, and maintenance.	"[{""title"": ""Section 1"", ""summary"": ""Creates a ten\u2011bed extension hospital under the supervision of the Department of Health in Homonhon, Eastern Samar, named Southern Samar Extension General Hospital.""}, {""title"": ""Section 2"", ""summary"": ""Authorizes the use of FY1989 General Appropriations Act funds for construction and includes future operational and maintenance funds in the annual General Appropriations Act.""}, {""title"": ""Section 3"", ""summary"": ""Requires the Secretary of Health to issue written assurance that personnel will be appointed and that funds for maintenance and operation are appropriated before construction.""}, {""title"": ""Section 4"", ""summary"": ""The act takes effect upon approval.""}]"	6895	March 8, 1990	"[{""name"": ""JOVITO R. SALONGA"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""EDWIN P. ACOBA"", ""title"": ""Secretary of the Senate""}, {""name"": ""QUIRINO D. ABAD SANTOS, JR."", ""title"": ""Secretary of the House of Representatives""}, {""name"": ""CORAZON C. AQUINO"", ""title"": ""President of the Philippines""}]"	To establish a ten‑bed extension hospital in Homonhon, Eastern Samar to improve healthcare services and provide accessible medical care to the local population.	"[""Establishment of Southern Samar Extension General Hospital"", ""Appropriation of funds from FY1989 GAAP for construction and operation"", ""Requirement of written assurance by Secretary of Health"", ""Act effective upon approval""]"		"[""Healthcare"", ""Hospital"", ""Public Health"", ""Local Government"", ""Infrastructure"", ""Eastern Samar""]"	"[""Homonhon"", ""Southern Samar"", ""Ten-bed hospital"", ""Department of Health"", ""Fiscal Year 1989"", ""General Appropriations Act"", ""Secretary of Health"", ""President of Senate"", ""Speaker of House""]"
+repacts:datasets/markdown/repacts/1990/ra_6896_1990.md	repacts	1990		datasets/markdown/repacts/1990/ra_6896_1990.md	ra_6896_1990	An Act Establishing a Ten-Bed Extension Hospital in Poon-Bato, Municipality of Botolan, Province of Zambales, to be known as the President Ramon Magsaysay Memorial Extension Hospital, and Appropriating Funds Therefor	"**[ REPUBLIC ACT NO. 6896, March 08, 1990 ]**
+
+ AN ACT ESTABLISHING A TEN-BED EXTENSION HOSPITAL IN POON-BATO, MUNICIPALITY OF BOTOLAN, PROVINCE OF ZAMBALES, TO BE KNOWN AS THE PRESIDENT RAMON MAGSAYSAY MEMORIAL EXTENSION HOSPITAL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established, under the supervision of the Department of Health, a ten-bed extension hospital in Poon-Bato, Municipality of Botolan, Province of Zambales, to be known as the President Ramon Magsaysay Memorial Extension Hospital.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be charged against the appropriations authorized for the purpose under the Fiscal Year 1989 General Appropriations Act. Thereafter, such sums as may be necessary for the operation and maintenance of the herein hospital shall be included in the annual General Appropriations Act.
+
+ **Section 3.** Before the construction of the hospital, the Secretary of health shall issue a written assurance that personnel of the hospital will be appointed and that funds for its maintenance and operation have been appropriated.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **JOVITO R. SALONGA** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on December 22, 1989. |  |
+| (Sgd.) **EDWIN P. ACOBA** *Secretary of the Senate* | (Sgd.) **QUIRINO D. ABAD SANTOS, JR.** *Secretary of the House of Representatives* |
+
+ Approved: March 8, 1990
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	This law establishes a ten-bed extension hospital in Poon-Bato, Botolan, Zambales, known as the President Ramon Magsaysay Memorial Extension Hospital, and appropriates funds for its construction, operation, and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""Establishes a ten-bed extension hospital in Poon-Bato, Botolan, Zambales, under the supervision of the Department of Health.""}, {""title"": ""Section 2."", ""summary"": ""Authorizes the use of appropriations from the Fiscal Year 1989 General Appropriations Act for construction and includes future operating funds in the annual General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""Requires the Secretary of Health to issue a written assurance that hospital personnel will be appointed and that funds for operation and maintenance have been appropriated.""}, {""title"": ""Section 4."", ""summary"": ""The Act takes effect upon its approval.""}]"	6896	March 08, 1990	"[{""name"": ""JOVITO R. SALONGA"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""EDWIN P. ACOBA"", ""title"": ""Secretary of the Senate""}, {""name"": ""QUIRINO D. ABAD SANTOS, JR."", ""title"": ""Secretary of the House of Representatives""}]"	To establish a ten-bed extension hospital in Poon-Bato, Botolan, Zambales, and to appropriate funds for its construction, operation, and maintenance.	"[""Establishment of a ten-bed extension hospital"", ""Appropriation of funds from Fiscal Year 1989 General Appropriations Act"", ""Requirement of written assurance by the Secretary of Health"", ""Effective date upon approval""]"		"[""hospital"", ""health"", ""public health"", ""Zambales"", ""extension hospital""]"	"[""ten-bed extension hospital"", ""President Ramon Magsaysay Memorial Extension Hospital"", ""Fiscal Year 1989 General Appropriations Act"", ""General Appropriations Act"", ""Department of Health"", ""Zambales""]"
+repacts:datasets/markdown/repacts/1990/ra_6897_1990.md	repacts	1990		datasets/markdown/repacts/1990/ra_6897_1990.md	ra_6897_1990	AN ACT ESTABLISHING A TEN-BED EXTENSION HOSPITAL IN BARANGAY GUBA, CEBU CITY, TO BE KNOWN AS THE SOUTHERN ISLAND EXTENSION HOSPITAL II, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 6897, March 08, 1990 ]**
+
+ AN ACT ESTABLISHING A TEN-BED EXTENSION HOSPITAL IN BARANGAY GUBA, CEBU CITY, TO BE KNOWN AS THE SOUTHERN ISLAND EXTENSION HOSPITAL II, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established, under the supervision of the Department of Health, a ten-bed extension hospital in Barangay Guba, Cebu City, to be known as the Southern Island Extension Hospital II.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be charged against the appropriations authorized for the purpose under the Fiscal Year 1989 General Appropriations Act. Thereafter, such sums as may be necessary for the operation and maintenance of the herein hospital shall be included in the annual General Appropriations Act.
+
+ **Section 3.** Before the construction of the hospital, the Secretary of Health shall issue a written assurance that personnel of the hospital will be appointed and that funds for its maintenance and operation have been appropriated.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **JOVITO R. SALONGA** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on December 22, 1989. |  |
+| (Sgd.) **EDWIN P. ACOBA** *Secretary of the Senate* | (Sgd.) **QUIRINO D. ABAD SANTOS, JR** *Secretary of the House of Representatives* |
+
+ Approved: March 8, 1990
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	The act establishes a ten-bed extension hospital in Barangay Guba, Cebu City, known as the Southern Island Extension Hospital II, and appropriates funds for its construction, operation, and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""Establishes a ten-bed extension hospital in Barangay Guba, Cebu City, to be known as the Southern Island Extension Hospital II and places it under the supervision of the Department of Health.""}, {""title"": ""Section 2."", ""summary"": ""Authorizes the amount necessary for construction to be charged against the 1989 General Appropriations Act and incorporates subsequent operational and maintenance funds into the annual General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""Requires the Secretary of Health to issue written assurance that hospital personnel will be appointed and that funds for its maintenance and operation have been appropriated prior to construction.""}, {""title"": ""Section 4."", ""summary"": ""The act shall take effect upon its approval.""}]"	6897	March 08, 1990	"[{""name"": ""JOVITO R. SALONGA"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""EDWIN P. ACOBA"", ""title"": ""Secretary of the Senate""}, {""name"": ""QUIRINO D. ABAD SANTOS, JR"", ""title"": ""Secretary of the House of Representatives""}, {""name"": ""CORAZON C. AQUINO"", ""title"": ""President of the Philippines""}]"	To establish a ten-bed extension hospital in Barangay Guba, Cebu City, and appropriate funds for its construction, operation, and maintenance.	"[""Establishment of the Southern Island Extension Hospital II"", ""Appropriation of funds for construction and operation"", ""Requirement of Secretary of Health assurance"", ""Effective upon approval""]"		"[""Health"", ""Hospital"", ""Infrastructure"", ""Cebu"", ""Philippines""]"	"[""ten-bed extension hospital"", ""Barangay Guba"", ""Southern Island Extension Hospital II"", ""Department of Health"", ""Fiscal Year 1989 General Appropriations Act""]"
+repacts:datasets/markdown/repacts/1990/ra_6898_1990.md	repacts	1990		datasets/markdown/repacts/1990/ra_6898_1990.md	ra_6898_1990	AN ACT ESTABLISHING A TEN-BED MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF DON MARCELINO, PROVINCE OF DAVAO DEL SUR, TO BE KNOWN AS THE DON MARCELINO MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 6898, March 09, 1990 ]**
+
+ AN ACT ESTABLISHING A TEN-BED MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF DON MARCELINO, PROVINCE OF DAVAO DEL SUR, TO BE KNOWN AS THE DON MARCELINO MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established, under the direct supervision of the Department of Health, a ten-bed municipal hospital in the Municipality of Don Marcelino, Province of Davao del Sur, to be known as the Don Marcelino Municipal Hospital.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be charged against the appropriations authorized for the purpose under the Fiscal Year 1989 General Appropriations Act. Thereafter, such sums as may be necessary for the operation and maintenance of the herein hospital shall be included in the annual General Appropriations Act.
+"	success	Republic Act	Establishes a ten-bed municipal hospital in Don Marcelino, Davao del Sur, and appropriates funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of a ten-bed municipal hospital in Don Marcelino under the direct supervision of the Department of Health.""}, {""title"": ""Section 2."", ""summary"": ""Appropriation of funds from the FY 1989 General Appropriations Act and subsequent General Appropriations Acts for the operation and maintenance of the hospital.""}]"	6898	March 09, 1990			To establish a municipal hospital and secure funding for its operation.	"[""Establishment of a ten-bed municipal hospital in Don Marcelino"", ""Hospital to be under direct supervision of the Department of Health"", ""Funding appropriated from the FY 1989 General Appropriations Act and subsequent General Appropriations Acts""]"		"[""Health"", ""Hospital"", ""Local Government"", ""Funding""]"	"[""municipal hospital"", ""Davao del Sur"", ""Department of Health"", ""appropriation"", ""General Appropriations Act""]"
+repacts:datasets/markdown/repacts/1990/ra_6899_1990.md	repacts	1990		datasets/markdown/repacts/1990/ra_6899_1990.md	ra_6899_1990	AN ACT ESTABLISHING A TEN-BED MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF DUMARAN, PROVINCE OF PALAWAN, TO BE KNOWN AS THE DUMARAN MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 6899, March 09, 1990 ]**
+
+ AN ACT ESTABLISHING A TEN-BED MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF DUMARAN, PROVINCE OF PALAWAN, TO BE KNOWN AS THE DUMARAN MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established, under the supervision of the Department of Health, a ten-bed municipal hospital in the Municipality of Dumaran, Province of Palawan, to be known as the Dumaran Municipal Hospital.
+
+ **Section 2.** The amount necessary to carry out the provisions of this Act shall be charged against the appropriations authorized for the purpose under the Fiscal Year 1989 General Appropriations Act. Thereafter, such sums as may be necessary for the operation and maintenance of the herein hospital shall be included in the annual General Appropriations Act.
+
+ **Section 3.** Before the construction of the hospital, the Secretary of Health shall issue a written assurance that personnel of the hospital will be appointed and that funds for its maintenance and operation have been appropriated.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **JOVITO R. SALONGA** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on December 22, 1989. |  |
+| **Sgd.) EDWIN P. ACOBA** *Secretary of the Senate* | (Sgd.) **QUIRINO D. ABAD SANTOS, JR.** *Secretary of the House of Representatives* |

@@ -1,0 +1,144 @@
+repacts:datasets/markdown/repacts/1957/ra_2002_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_2002_1957.md	ra_2002_1957	REPUBLIC ACT No. 1990	"**REPUBLIC ACT No. 2002**
+
+ **An Act to Authorize the Establishment of a Brackish Water Experimental and Demonstration Fish Farm Station in the Municipality of Himamaylan, Province of Negros Occidental, Appropriating Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established and maintained, under the supervision of the Director of Fisheries, a brackish water experimental and demonstration fish farm station in the Municipality of Himamaylan, Province of Negros Occidental.
+
+ **Section 2.** The sum of fifty thousand pesos is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, to carry into effect the purposes of this Act during the fiscal year ending June thirty nineteen hundred and fifty-seven. Thereafter, the necessary amount for the purpose shall be included in the General Appropriation Act of each year.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 22, 1957.
+"	success	Act	Republic Act No. 1990 amends Republic Act No. 1162 to include Quezon City and its suburbs within its purview, authorizing the expropriation of landed estates and establishing procedures for compensation and proceedings.	"[{""title"": ""Section 1"", ""summary"": ""The expropriation of landed estates or haciendas in the City of Manila, Quezon City and its suburbs, which have been and are actually being leased to tenants, is hereby authorized.""}, {""title"": ""Section 2"", ""summary"": ""Immediately upon the availability of the necessary funds by the Congress of the Philippines for the payment of just compensation for the said landed estates or haciendas, the Solicitor General shall institute the necessary expropriation proceedings before the competent court of the City of Manila or Quezon City, as the case may be.""}, {""title"": ""Section 3"", ""summary"": ""The title of said Act is amended to read as follows: 'An Act providing for the expropriation of landed estates or haciendas or lands which formed part thereof in the City of Manila and Quezon, their subdivision into small lots, and the sale of such lots at cost or their lease on reasonable terms, and for other purposes.'""}, {""title"": ""Section 4"", ""summary"": ""This Act shall take effect upon its approval.""}]"	1990	June 22, 1957			To amend Republic Act No. 1162 to include Quezon City and its suburbs within its purview and to authorize the expropriation of landed estates and haciendas.	"[""Expropriation of landed estates or haciendas in Manila, Quezon City and its suburbs is authorized."", ""Payment of just compensation upon availability of necessary funds."", ""Solicitor General shall institute expropriation proceedings before the competent court."", ""Title amended to include expropriation, subdivision into small lots, sale or lease at cost or reasonable terms."", ""Act takes effect upon approval.""]"	Republic Act No. 1162	"[""Amendment"", ""Quezon City"", ""Expropriation"", ""Land Acquisition""]"	"[""expropriation"", ""landed estates"", ""haciendas"", ""Quezon City"", ""Manila"", ""just compensation"", ""Solicitor General"", ""suburbs"", ""small lots"", ""sale"", ""lease""]"
+repacts:datasets/markdown/repacts/1957/ra_2003_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_2003_1957.md	ra_2003_1957	An Act Granting the Lapu-Lapu Broadcasting Corporation a Franchise to Construct, Maintain and Operate Fixed Point-to-Point Radiophone and Radiotelegraph Stations for the Reception and Transmission of Radio Communications in the Philippines	"**REPUBLIC ACT No. 2003**
+
+ **An Act Reappropriating for Certain Purposes the Appropriations in Certain Items in Republic Act Numbered Fourteen Hundred Eleven**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Items (f), (g), (h), (i), (j), (k), (m), (n), (o), (p), (q), (r), (s), (t), (v) and (w), Group II, paragraph (47) Sorsogon, subsection f, section two of Republic Act Numbered Fourteen hundred eleven, are repealed and substituted with the following items:
+
+ | ""(f) Basud Home Economics Building, SorsogonConstruction | ₱10,000.00 |
+| --- | --- |
+| ""(g) Balogo 2-room school building, SorsogonConstruction | 10,000.00 |
+| ""(h) Donsol 2-room Central School BuildingConstruction | 10,000.00 |
+| ""(i) Barayong 1-room school building, SorsogonConstruction | 5,000.00 |
+| ""(j) Cogon 1-room school building, CastillaConstruction | 5,000.00"" |
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 22, 1957.
+"	success	Republic Act	Republic Act No. 1991 establishes a franchise for the Lapu-Lapu Broadcasting Corporation to build, maintain and run fixed radiophone and radiotelegraph stations across the Philippines, subject to conditions such as bond payment, timely construction, non-interference with other stations, and Congressional approval for any transfer or alteration.	"[{""title"": ""Section 1"", ""summary"": ""Grants the Lapu-Lapu Broadcasting Corporation a franchise to construct, maintain and operate fixed point-to-point radiophone and radiotelegraph stations from Manila to the Visayan Islands and Mindanao.""}, {""title"": ""Section 2"", ""summary"": ""Prohibits the grantee from engaging in domestic telecommunications business without further Congressional assent, emphasizing the purpose of securing construction rights.""}, {""title"": ""Section 3"", ""summary"": ""States the franchise remains in force until the government establishes similar service; it becomes void if construction is not begun within one year or completed within two years.""}, {""title"": ""Section 4"", ""summary"": ""Specifies that no fees shall be charged by the grantee, and stations are limited to communications regarding the grantee\u2019s business.""}, {""title"": ""Section 5"", ""summary"": ""Mandates that the grantee\u2019s operation shall not interfere with other radio stations in the Philippines.""}, {""title"": ""Section 6"", ""summary"": ""Requires the grantee to file a bond of fifty thousand pesos to guarantee compliance with the franchise conditions.""}, {""title"": ""Section 7"", ""summary"": ""Subject the grantee to the corporation laws of the Philippines both existing and future.""}, {""title"": ""Section 8"", ""summary"": ""Prohibits leasing, transferring, selling, or assigning the franchise without Congressional approval, ensuring the franchise remains with the original grantee.""}, {""title"": ""Section 9"", ""summary"": ""The franchise does not take effect until frequencies and wavelengths are allotted by the Secretary of Public Works and Communications.""}, {""title"": ""Section 10"", ""summary"": ""Reserves the President\u2019s right to close or temporarily use the stations in emergencies or war, with just compensation.""}, {""title"": ""Section 11"", ""summary"": ""Clarifies that the franchise is not exclusive and may be amended, altered, or repealed by Congress as needed.""}, {""title"": ""Section 12"", ""summary"": ""Declares the Act takes effect upon its approval.""}]"	1991	June 22, 1957			To grant the Lapu-Lapu Broadcasting Corporation a franchise for constructing and operating fixed point-to-point radiophone and radiotelegraph stations across the Philippines.	"[""Grant of franchise to construct and operate radiophone and radiotelegraph stations"", ""Bond of fifty thousand pesos required"", ""Construction must begin within one year and be completed within two years"", ""Stations cannot interfere with other radio stations"", ""No fees charged to the public"", ""Non-transferability of the franchise without Congressional approval"", ""Franchise subject to corporation laws"", ""President\u2019s authority to close stations in emergencies"", ""Franchise not exclusive and subject to amendment""]"		"[""Broadcasting"", ""Telecommunications"", ""Franchise"", ""Philippines""]"	"[""Lapu-Lapu Broadcasting Corporation"", ""radiophone"", ""radiotelegraph"", ""franchise"", ""public works"", ""communications"", ""Philippines""]"
+repacts:datasets/markdown/repacts/1957/ra_2004_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_2004_1957.md	ra_2004_1957	An Act to Amend Republic Act Numbered Three Hundred Twenty-Eight, Otherwise Known as the Charter of the City of Calbayog	"**REPUBLIC ACT No. 2004**
+
+ **An Act to Set Aside Thirty Hectares of the Mount Arayat National Park for Use as Camping Ground by the Philippine Boy Scouts and Philippine Girl Scouts**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There is set aside thirty hectares of the Mount Arayat National Park for use as camping ground by the Philippine Boy Scouts and Philippine Girl Scouts, which portion shall be determined by the President of the Philippines, who shall cause the same to be surveyed and delimited by the Bureau of Lands, and turned over to the Philippine Boy Scouts for its administration and improvement.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 22, 1957.
+"	success	Republic Act	Amendments to RA 328 Charter of Calbayog: changes to Section 13, repeal of Sections 14-15, amendment to Section 77, effective June 22 1957	"[{""title"": ""Section 1"", ""summary"": ""Amendment to Section 13 of RA 328: modifies board\u2019s session schedule, quorum, voting, veto, and publication procedures.""}, {""title"": ""Section 2"", ""summary"": ""Repeal of Sections 14 and 15 of RA 328.""}, {""title"": ""Section 3"", ""summary"": ""Amendment to the last paragraph of Section 77 of RA 328: clarifies that the clerk of the municipal court shall also serve as the city sheriff with corresponding powers.""}, {""title"": ""Section 4"", ""summary"": ""The Act takes effect upon approval, on June 22, 1957.""}]"	1992	June 22, 1957			To modify existing municipal charter provisions concerning board operations and clerk/sheriff duties.	"[""Amendment to Section 13: changes to sessions, quorum, voting, veto, and publication procedures"", ""Repeal of Sections 14-15 of RA 328"", ""Amendment to Section 77: clerk of municipal court to also serve as city sheriff with corresponding powers""]"	Republic Act No. 328	"[""charter"", ""municipal"", ""governance"", ""Calbayog"", ""amendment""]"	"[""calbayog"", ""charter"", ""board"", ""sessions"", ""veto"", ""clerk"", ""sheriff"", ""repeal""]"
+repacts:datasets/markdown/repacts/1957/ra_2005_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_2005_1957.md	ra_2005_1957	REPUBLIC ACT No. 1993	"**REPUBLIC ACT No. 2005**
+
+ **An Act to Amend Sub-Item (m), Group II, Item 27 for the Province of Leyte, Paragraph (a), Title C, Section One of Republic Act Numbered Nine Hundred Twenty**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Sub-item (m), Group II, item 27 for the Province of Leyte, paragraph (a), Title C, section one of Republic Act Numbered Nine hundred twenty is hereby amended to read as follows:
+
+ | ""(m) Burauen-Albuera road | ₱56,000.00"" |
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 22, 1957.
+"	success	Labor Law	An amendment to Commonwealth Act No. 444 (Eight-Hour Labor Law) inserting a prescriptive period of three years for actions to enforce the law, with an exemption for actions already commenced before the act’s effective date.	"[{""title"": ""Section 1"", ""summary"": ""Inserts Section 7-A, stating that any action to enforce the Act must be commenced within three years of the cause of action accruing; actions already commenced before the effective date are exempt.""}, {""title"": ""Section 2"", ""summary"": ""Specifies that the Act takes effect upon its approval.""}]"	1993	June 22, 1957			To amend the Eight-Hour Labor Law by establishing a prescriptive period for causes of action and ensuring timely filing of related claims.	"[""Prescriptive period of three years for action to enforce the Act"", ""Exception for actions already commenced before the effective date""]"	Commonwealth Act No. 444 (Eight-Hour Labor Law) – Section 7 amended by adding Section 7-A.	"[""Labor Law"", ""Prescriptive Period"", ""Eight-Hour Labor Law"", ""Republic Act"", ""Philippines""]"	"[""prescriptive period"", ""causes of action"", ""Eight-Hour Labor Law"", ""Republic Act 1993"", ""Philippine labor law"", ""action barred"", ""effective date"", ""commencement""]"
+repacts:datasets/markdown/repacts/1957/ra_2006_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_2006_1957.md	ra_2006_1957	AN ACT GRANTING THE MUNICIPAL GOVERNMENT OF SAMAL, PROVINCE OF DAVAO, A FRANCHISE TO CONSTRUCT, OPERATE AND MAINTAIN AN ELECTRIC LIGHT, HEAT AND POWER SYSTEM IN SAID MUNICIPALITY.	"**REPUBLIC ACT No. 2006**
+
+ **An Act Amending Certain Items in Republic Act Numbered Fourteen Hundred Eleven, Entitled ""An Act Appropriating Funds for Public Works""**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item (c) under (45) Romblon, paragraph f section two of Republic Act Numbered Fourteen hundred eleven is amended to read as follows:
+
+ | ""(c) Gabawan-Odiongan High School Communal Irrigation System Completion | ₱12,000.00"" |
+
+ **Section 2.** Item (k) under (45) Romblon, paragraph f, section two of the same Act is repealed.
+
+ **Section 3.** Project No. G-044.2, title G, appendix A of the same Act is amended to read as follows:
+
+ | ""G-044.2: Gabawan-Odiongan High School Communal Irrigation System | GR | 90 | 15 | 15 | 75 | 8 |
+
+ Construction of diversion works; and canal; 300 hectares.
+
+ **Section 4.** Project No. G-045.9, title G, appendix A of the same Act is amended to read as follows:
+
+ > ""G-045.9: Concepcion Communal Irrigation System Badajoz : GR : 15 : : : : : : 15 : : : : 1 : Construction""
+
+ **Section 5.** This Act shall take effect upon its approval.
+
+ Approved: June 22, 1957.
+"	success	Republic Act	This Republic Act grants the Municipal Government of Samal, Province of Davao, a franchise to construct, operate, and maintain an electric light, heat, and power system for 25 years, enabling the generation and distribution of electricity within the municipality.	"[{""title"": ""Section 1."", ""summary"": ""There is hereby granted to the Municipal Government of Samal, Province of Davao, for a period of twenty-five years from the approval of this Act, a franchise to construct, operate and maintain an electric light, heat and power system in said municipality for the purpose of generating and/or distributing electric light, heat and power for sale within the limits of the Municipality of Samal, Province of Davao.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	RA 1994	June 22, 1957			To grant a franchise for the construction, operation, and maintenance of an electric light, heat, and power system in Samal municipality, facilitating local electricity generation and distribution.	"[""Grant of a 25-year franchise to the Municipal Government of Samal for constructing, operating, and maintaining an electric light, heat and power system."", ""Establishment of a framework for generating and distributing electricity within the municipality.""]"		"[""franchise"", ""electricity"", ""municipal government"", ""Davao"", ""Republic Act""]"	"[""franchise"", ""electricity"", ""municipal government"", ""Davao"", ""Republic Act""]"
+repacts:datasets/markdown/repacts/1957/ra_2007_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_2007_1957.md	ra_2007_1957	AN ACT TO ESTABLISH A BREEDING STATION IN THE BARRIO OF UPI IN THE MUNICIPALITY OF GAMU, PROVINCE OF ISABELA, AND TO APPROPRIATE THE NECESSARY FUNDS THEREFOR.	"**REPUBLIC ACT No. 2007**
+
+ **An Act Amending Certain Items in Republic Act Numbered Twelve Hundred, Entitled ""An Act Appropriating Funds for Public Works and Amending Republic Act Numbered Nine Hundred and Twenty""**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Items (153) and (156), under paragraph ""aa. Leyte,"" section two of Republic Act Numbered Twelve hundred are amended to read as follows:
+
+ | ""(153) Construction of Home Economics Building, Central School, Capoocan | ₱10,000.00"" |
+| --- | --- |
+| ""(156) Construction of upper Caghalo Barrio School, Carigara | 10,000.00"" |
+
+ **Section 2.** Under paragraph ""aa. Leyte,"" section two of the same Act, the following item, to be known as item (162), is inserted:
+
+ | ""(162) Construction of San Vicente Barrio School Building, Alang-alang | ₱20,000.00"" |
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 22, 1957.
+"	success	Republic Act	The act establishes an animal breeding station in Upi, Gamu, Isabela and appropriates funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""Establishes the Isabela Breeding Station under the supervision of the Director of Animal Industry.""}, {""title"": ""Section 2."", ""summary"": ""Director of Animal Industry must establish the station on at least twenty-five hectares of suitable land.""}, {""title"": ""Section 3."", ""summary"": ""Appropriates fifty thousand pesos for construction, equipment, salaries and other expenses; funds for future operation are to be included in General Appropriation Acts.""}, {""title"": ""Section 4."", ""summary"": ""The act takes effect upon its approval.""}]"	1995	June 22, 1957			To establish a breeding station in Upi, Gamu, Isabela and appropriate necessary funds for its construction and operation.	"[""Establishes breeding station under Director of Animal Industry"", ""Appropriates 50,000 pesos for construction, supplies, and salaries"", ""Requires at least 25 hectares of suitable land"", ""Act effective upon approval""]"		"[""Agriculture"", ""Animal Husbandry"", ""Infrastructure"", ""Public Funds""]"	"[""breeding station"", ""UPI"", ""Gamu"", ""Isabela"", ""Animal Industry"", ""appropriated funds"", ""fiscal year"", ""public lands"", ""construction"", ""salaries""]"
+repacts:datasets/markdown/repacts/1957/ra_2008_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_2008_1957.md	ra_2008_1957	"An Act to Further Amend Republic Act Numbered Five Hundred Seventeen, Entitled ""An Act Granting Eduardo Lopez a Temporary Permit to Construct, Maintain and Operate a Commercial Radio Broadcasting Station in the Philippines,"" as Amended by Republic Act Numbered Fifteen Hundred and Forty-Five"	"**REPUBLIC ACT No. 2008**
+
+ **An Act Amending Section One of Republic Act Numbered One Thousand, so as to Increase the Amount Available from Any Bond Issue for Non-Self-Liquidating and Non-Revenue-Producing Projects, from Twenty Per Cent to Thirty Per Cent of Such Bond Issue**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section one of Republic Act Numbered One thousand is amended to read as follows:
+
+ > ""Sec. 1. Upon the recommendation of the Secretary of Finance, after consultation with the Monetary Board, the National Economic Council, and the Council of State, the President of the Philippines is authorized to issue, preferably in the Philippines, or abroad if necessary, in the name and behalf of the Republic of the Philippines, bonds in an amount not exceeding one billion pesos to finance public works and self-liquidating projects for economic development, which may be authorized by law, including expropriation of lands for subdivision and resale to individuals, or to repay or service bonded obligations of the Government incurred for such projects: *Provided, However*, That no single issue shall exceed two hundred million pesos and that no further issue shall be made if eighty per centum of the immediately preceding issue has not been sold: And *Provided, further,* That not more than thirty per centum of any issue is spent for non-self-liquidating and non-revenue-producing projects. Investments in the self-liquidating projects in provinces, cities, and municipalities shall be limited by the paying capacity of the province, city or municipality to be certified by the Secretary of Finance: *Provided,* That the probable income from such projects shall be taken into consideration: *Provided, finally,* That not more than ten per centum of this bond issue shall be used to pay unserviced government obligations, loans and advances, secured or unsecured, guaranteed by the National Government, made by government-owned or controlled financial institutions other than the Central Bank, to government political subdivisions, offices and instrumentalities, and/or other loans committed, by government-owned and/or controlled financial institutions, other than the Central Bank, guaranteed by the Government.
+>
+>  ""The bonds shall be issued in such amount as will be needed at any one time taking into account the rate at which said bonds may be absorbed by the buying public and the fund requirements of projects ready for execution, and taking into consideration further a proper balance between productive and non-productive projects so that inflation shall be held to the minimum.
+>
+>  ""The Secretary of Finance, in consultation with the Monetary Board, shall prescribe the form, the rate of interests, the denominations, maturities, negotiability, convertibility, call and redemption features, and all other terms and conditions of issuance, placement, sale, servicing, redemption, and payment of all bonds issued under the authority of this Act.
+>
+>  ""The bonds issued under the authority of this section may be made payable both as to principal and interest, in Philippine currency or any readily convertible foreign currency.
+>
+>  ""Nothing in this section shall be interpreted to mean that the Secretary of Finance, in the redemption of securities, is prevented from applying the lottery principle by which bonds, drawn by lot, may be redeemed before maturity either at their face value or above.
+>
+>  ""The bonds to be issued under this Act shall be exempt from taxation, including the tax on foreign exchange, by the Government of the Republic of the Philippines or by any political or municipal subdivision thereof, which fact shall be stated on their face in accordance with this Act under which the said bonds are issued; and shall likewise be exempt from attachment, execution or seizure.""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 22, 1957.
+"	success	Republic Act	This act amends RA 517 to grant Eduardo Lopez a temporary permit to construct, maintain and operate commercial radio broadcasting stations in the Philippines, subject to conditions such as construction within 1.5 years, provision of public service time, prohibition of obscene or false content, and a bond of fifty thousand pesos per station.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 1 of RA 517 to grant Eduardo Lopez a permit to construct, maintain and operate commercial radio stations, with conditions on construction timeline, public service, ethics, and prohibited content.""}, {""title"": ""Section 2"", ""summary"": ""Amends the title of RA 517 to read \""An Act granting Eduardo Lopez a permit to construct, maintain and operate commercial radio broadcasting stations in the Philippines.\""""}, {""title"": ""Section 3"", ""summary"": ""Amends Section 2 of RA 517 to state the permit remains in force until the Government establishes similar service at the selected locations.""}, {""title"": ""Section 4"", ""summary"": ""Amends Section 3 of RA 517 to require the grantee to file a bond of fifty thousand pesos per station.""}, {""title"": ""Section 5"", ""summary"": ""Specifies that the act takes effect upon its approval.""}]"	1996	June 22, 1957			To further amend RA 517 by granting Eduardo Lopez a temporary permit to construct and operate commercial radio stations in the Philippines, establishing conditions and obligations for the permit holder.	"[""Grant of temporary permit to Eduardo Lopez"", ""Construction of stations must begin within 1.5 years"", ""Public service time requirement"", ""Prohibition of obscene, indecent, false, or subversive content"", ""Bond of fifty thousand pesos per station""]"	Republic Act No. 517 (as amended by RA 145)	"[""Broadcasting"", ""Radio"", ""Permit"", ""Legislation""]"	"[""Eduardo Lopez"", ""radio"", ""permit"", ""broadcasting"", ""public service"", ""bond""]"
+repacts:datasets/markdown/repacts/1957/ra_2009_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_2009_1957.md	ra_2009_1957	An Act Converting the Camiling Rural High School into a National Agricultural School, to be Known as the Tarlac National Agricultural School, and Appropriating the Necessary Funds Therefor	"**REPUBLIC ACT No. 2009**
+
+ **An Act Creating the Municipality of Magsaysay in the Province of Isabela**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The barrios of San Antonio, San Juan, Ragan Sur, Ragan Norte, Ragan Almacen, San Jose (Bulo), San Patricio, Quibal, San Andres (Lattu), Calinawan Sur, Bayabo, Santor, Sto. Rosario, Andarayan, Aneg, San Isidro, Mawi, San Roque, Carmencita, Aga, Villa Pareda, Villaluz, San Pedro, Concepcion, Sammabario and San Nicolas and the sitios of Turod, Paco, Calamagui and Kim-malabasa, are hereby separated from the Municipality of Tumauini, Province of Isabela, and constituted into a new municipality in the same province to be known as the Municipality of Magsaysay, with the seat of government at the site of the present barrio of Ragan Sur.
+
+ The first mayor, vice-mayor and councilors of the new municipality shall be appointed by the President of the Philippines and shall hold office until their successors shall have been elected and shall have qualified.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 22, 1957.
+"	success	Education	This act converts the Camiling Rural High School into the Tarlac National Agricultural School and appropriates funds for its operation and maintenance for the fiscal years 1957 and 1958.	"[{""title"": ""Section 1."", ""summary"": ""Converts the Camiling Rural High School into the Tarlac National Agricultural School and empowers the Secretary of Education to reorganize it; assets, liabilities, personnel, equipment and records are transferred to the new institution.""}, {""title"": ""Section 2."", ""summary"": ""Appropriates two hundred thousand pesos for the operation and maintenance of the school for FY1957 and FY1958; thereafter the necessary sum will be included in the annual General Appropriation Act.""}, {""title"": ""Section 3."", ""summary"": ""States that the act shall take effect upon its approval.""}]"	1997	June 22, 1957			To convert a rural high school into a national agricultural school and provide appropriate funding for its operation.	"[""Conversion of Camiling Rural High School to Tarlac National Agricultural School"", ""Appropriation of 200,000 pesos for FY1957 and FY1958 operations"", ""Effectivity upon approval""]"		"[""Education"", ""Agriculture"", ""School Conversion"", ""Appropriation""]"	"[""Camiling"", ""Tarlac"", ""National Agricultural School"", ""200,000 pesos"", ""FY1957"", ""FY1958"", ""General Appropriation Act""]"
+repacts:datasets/markdown/repacts/1957/ra_2010_1957.md	repacts	1957		datasets/markdown/repacts/1957/ra_2010_1957.md	ra_2010_1957	An Act to Regulate the Practice of Optometry in the Philippines	"**REPUBLIC ACT No. 2010**

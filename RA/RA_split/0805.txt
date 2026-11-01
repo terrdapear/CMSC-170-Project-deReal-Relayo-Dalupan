@@ -1,0 +1,148 @@
+
+ **Section 26.** *Repealing clause.* Provisions of the Revised Election Code, and other laws, rules and regulations inconsistent herewith are hereby repealed.
+
+ **Section 27.** *Effectivity.* This Act shall take effect on January one, nineteen hundred sixty-four: *Provided*, That section twenty-five hereof shall take effect immediately upon approval of this act.
+
+ Approved: June 22, 1963
+"	success	Republic Act	This law establishes a permanent list of voters and postpones the general renewal of voter registration, outlining eligibility, appointment of election registrars, registration procedures, application requirements, and adjudication processes.	"[{""title"": ""Permanent list of voters."", ""summary"": ""Establishes a permanent list of voters in each city, municipality, and municipal district.""}, {""title"": ""Who may be registered in the Permanent List of Voters."", ""summary"": ""Defines eligibility criteria for voters, requiring qualifications and no disqualifications, and allows registration based on future domicile qualifications.""}, {""title"": ""Election Registrar."", ""summary"": ""Mandates appointment of an election registrar and clerk by the Commission on Elections, sets salary guidelines, and provides special provisions for small districts.""}, {""title"": ""Qualification of Election Registrar."", ""summary"": ""Specifies that only members of the Philippine Bar may qualify, with allowances for qualified graduates if no lawyers are available.""}, {""title"": ""Registration of voters."", ""summary"": ""Outlines the timeline for voters to register within 60 days of acquiring qualifications, deadlines relative to regular and special elections, and consequences of late registration.""}, {""title"": ""Application for registration."", ""summary"": ""Details the contents required in the sworn application, including personal data, signatures, photographs, and other information.""}, {""title"": ""Approval or disapproval of application and petition for inclusions."", ""summary"": ""Describes the hearing process, decision timeline, issuance of certificates of disapproval, and appeal procedures to courts.""}]"	3588				To provide for a permanent list of voters, postpone the general renewal of voter registration, and establish procedures for voter registration and adjudication.	"[""Establishment of a permanent voter list"", ""Eligibility criteria for voter registration"", ""Appointment of election registrars and clerks"", ""Qualification requirements for registrars"", ""Registration timeline and deadlines"", ""Application content requirements"", ""Adjudication and appeal process""]"		"[""voter registration"", ""elections"", ""Republic Act""]"	"[""voter"", ""registration"", ""election registrar"", ""Commission on Elections"", ""Philippine Bar"", ""permanent list"", ""eligibility"", ""application"", ""adjudication""]"
+repacts:datasets/markdown/repacts/1963/ra_3589_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3589_1963.md	ra_3589_1963	Republic Act No. 3589 – An Act Amending Republic Act Numbered Two Thousand Sixty-Seven Modifying the National Science Development Board, National Institute of Science and Technology, and the Philippine Atomic Energy Commission, Extending Tax Exemption, Privileges on Grants, Requests and Donations for Scientific Purposes to Private Educational Institutions, and for Other Purposes	"**REPUBLIC ACT No. 3589**
+
+ **An Act Amending Republic Act Numbered Two Thousand Sixty-Seven Modifying the National Science Development Board, National Institute of Science and Technology, and the Philippine Atomic Energy Commission, Extending Tax Exemption, Privileges on Grants, Requests and Donations for Scientific Purposes to Private Educational Institutions, and for Other Purposes**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Republic Act Numbered Two thousand and sixty-seven is hereby amended by adding a new section to be designated as Section ten-a, after Section ten thereof, to read as follows:
+
+ > ""Sec. 10-A. The National Science Development Board shall have final authority to program and utilize exclusively for the support of the activities mentioned in the preceding section, all income, grants, bequests, donations and unexpended balances, which shall compose a Fiduciary Fund to be known as the Science, Engineering and Technology Research Fund.""
+
+ **Section 2.** New sections to be designated as Sections twelve-a and twelve-b, are inserted after section twelve of the same Act, to read as follows:
+
+ > ""Sec. 12-A. The National Institute of Science and Technology is authorized and empowered to charge reasonable fees in connection with all analyses and tests for purposes of establishing suitable standards, calibration of weights and measures, determination of quality and composition of materials and products, for services as technical determinations where arbitration is sought, and for other analysis and tests. The Institute shall issue rules and regulations establishing scale of fees for above analysis, tests and services and such rules and regulations as the Institute may deem desirable for the collection of such fees.
+>
+>  ""Sec. 12-B. All income, donations, grants, bequests, and unexpended balances of the National Institute of Science and Technology shall accrue to a Fiduciary Fund, to be known as the Research Foundation Fund, which shall be expended by the Commissioner thereof solely for scientific researches and investigations in the field of conventional science upon the approval and final authority of the Board, the provisions of existing laws to the contrary notwithstanding.""
+
+ **Section 3.** Section sixteen of the same Act is hereby amended to read as follows:
+
+ > ""Sec. 16. There is hereby created the Philippine Atomic Energy Commission hereinafter referred to as the Commission, which shall be under the supervision of the Board, with the following functions, powers and duties:
+>
+>  ""(1) To establish or cause the establishment of laboratories for nuclear research training;
+>
+>  ""(2) To conduct or cause the performance of research and development relating to:
+>
+>  ""(a) nuclear processes and techniques; ""(b) the theory of atomic energy, ""(c) processes, materials and devices used in the production of atomic energy. ""(d) the utilization of special nuclear material and other radioactive material for commercial, industrial, medical, biological, agricultural or other peaceful purposes; ""(3) To approve and facilitate the procurement of radioactive material and instrument for use in nuclear laboratories; ""(4) To study and evaluate project proposals on nuclear research from public and private sectors, and to recommend necessary technical, financial and other appropriate assistance thereto; ""(5) To coordinate the work of research entities and government agencies instrumentalities on nuclear science; ""(6) To keep posted on nuclear research projects and activities financed or assisted under this Act; ""(7) To represent the Philippines in conference related to atomic energy and its application; ""(8) To recommend deserving citizens for training, government and private grants and scholarships in the Philippines and abroad in nuclear science; and ""(9) To render annual reports and such special reports as may be requested by the Board.""
+
+ **Section 4.** New Sections to be designated as Sections sixteen-a and sixteen-b are inserted after Section sixteen of the same Act, to read as follows:
+
+ > ""Sec. 16-A. No person may manufacture, produce, transfer, acquire, own, possess, import or export any radioactive material except in pursuance of a license issued in accordance with this Act.
+>
+>  ""The Commission is hereby authorized to regulate and license the acquisition, distribution, and use of radioactive material and for the purpose issue and promulgate such rules, regulations or orders as may be necessary depending upon the degree or importance to the health and safety of the public or to the national defense and security, of the physical characteristics, quantities and the intended use of the radioactive materials.
+>
+>  ""The Commission shall likewise issue such rules and regulations establishing such standards and instructions to govern the shipments, possession, and use of radioactive materials, and such other rules and regulations, as the Commission may deem desirable, to protect health, minimize danger to life and property, promote the national defense and security or otherwise protect the general public.
+>
+>  ""The Commission is authorized and empowered to charge reasonable fees in connection with the issuance of licenses; *Provided,* However, That such fees shall not exceed the reasonable cost of regulating and licensing the activities as provided herein.
+>
+>  ""The rules and regulations of the Commission shall take effect upon the publication thereof in the Official Gazette.""
+>
+>  ""Sec. 16-B. The Commission may sell, lease or otherwise dispose of such radioactive material, as it owns or possess, with or without charge; *Provided,* However, That the Commission in fixing a charge for radioactive material distributed by it shall establish such charge, on an equitable basis, as in the opinion of the Commission will (a) provide reasonable compensation to the Government for such material, and (b) will encourage research and development: *Provided, further,* That the Commission may waive any charge depending on whether the licensee is a non-profit of eleemosynary institution and on the purposes for which the radioactive material shall be used.""
+
+ **Section 5.** Section twenty-three of the same Act is hereby amended to read as follows:
+
+ > ""Sec. 23. The Board and its agencies as well as the University of the Philippines are hereby authorized and empowered to receive grants, bequests, and donations made or given for the purpose of aiding scientific and technological investigations or establishing scholarship or professional chairs in the fields of science, engineering and technology. Such grants, bequests and donations as well as those received by public or recognized private educational institutions, shall be tax exempt and deductible from the income tax returns of the donor upon certification of the Board, or the University of the Philippines in case it is the donee, that said grants, bequests and donations are dedicated to the purpose above-mentioned, any provision of law, rule or regulation to the contrary notwithstanding.
+
+ **Section 6.** Section twenty-four of Republic Act Numbered Two thousand sixty-seven is hereby amended to read as follows:
+
+ > ""Sec. 24. The Board shall promote and, in its discretion, assist in the establishment of private foundations for scientific advancements as well as specific research and development projects by private individuals, firms and institutions. All funds contributed to the support and maintenance of such foundations and their projects as well as specific research and development projects undertaken by private individuals and educational institutions, shall be tax-exempt and deductible from the donors income tax returns, upon certification by the Board that such foundations and funds are dedicated to scientific pursuits. All income of whatever kind and character which such foundations may derive from any of their properties, real or personal, or from their investments shall also be tax exempt.""
+
+ **Section 7.** A new section is hereby inserted after Section twenty-four of the same Act, to read as follows:
+
+ > ""Sec. 24-A. Any provision of existing laws to the contrary notwithstanding, apparatus, instruments, utensils, equipment, and materials may be imported into the Philippines, whether or not foreign exchange has been allocated by the Central Bank for the payment of such importations, free from all taxes and duties, upon certification of the National Science Development Board that such articles are imported solely for scientific and technological research and development and not for barter, sale or hire: *Provided,* However, That in case such articles are subsequently conveyed or transferred to other parties for a pecuniary consideration, taxes and duties shall be collected thereon at double the rate provided for under existing laws, payable by the transferor; *Provided, further,* That the Board shall promulgate the rules and regulations to implement this provision.""
+
+ **Section 8.** Section twenty-five of the same Act is hereby amended so as to read as follows:
+
+ > ""Sec. 25. Any person who evades or defeats or attempts to evade or defeat, in any manner, any tax imposed by law by availing himself of the provisions of Section twenty-three or twenty-four hereof through fraud or misrepresentation or violates the rules and regulations promulgated by the Board under this Act shall be punished by a fine of not more than four thousand pesos or imprisonment for not more than one year or both, in the discretion of the Court.
+>
+>  ""In case the violator is a corporation or association the penalty shall be a fine of not more than ten thousand pesos, without prejudice to the criminal responsibility of the member, officer or employee thereof committing such violation.
+>
+>  ""Any person who violates any provision of the rules, regulations or orders of the Commission issued pursuant to the provisions of this Act shall be punished by a fine of not more than one thousand pesos or imprisonment for not more than six months, or both, in the discretion of the court.
+>
+>  ""In case the violator is a corporation or association the penalty shall be a fine of not more than twenty thousand pesos, without prejudice to the criminal responsibility of the officer, member, or employee thereof committing such violation.""
+
+ **Section 9.** The same Act is hereby amended by adding after Section twenty-six thereof a new section to be known as Section twenty-six-a, to read as follows:
+
+ > ""Sec. 26-A The restrictive provisions of Section thirty of Republic Act Numbered Two thousand two hundred and sixty and the law on automatic compulsory retirement, as provided for in Section twelve (c) of Commonwealth Act Numbered One hundred eighty-six, as amended, shall not apply to scientists and researchers appointed and working as such: *Provided,* However, That the appointing authority concerned may terminate the services of said scientists and researchers at any time after reaching the compulsory retirement age.""
+
+ **Section 10.** The same Act is hereby amended by adding a new section after Section twenty-seven thereof to be known as Section twenty-seven-a, to read as follows:
+
+ > ""Sec. 27-A. There shall be under the administration and control of the Commission on Fiduciary Fund to be known as the Atomic Energy Research Fund which shall accrue and pertain all the fees and charges imposed and collected by the Commission, all income, donations, bequests, grants, and unexpended balance of the Commission, which shall not, any provisions of law to the contrary notwithstanding, revert to the General Fund. The Atomic Energy Research Fund shall be devoted to and disposed of exclusively for the purpose of carrying out the research and development functions of the Commission as provided in Section sixteen of this Act, upon the approval and final authority of the Board.""
+
+ **Section 11.** Section twenty-eight of the same Act is hereby amended to read as follows:
+
+ > ""Sec. 28. Funds appropriated for the Board and its agencies shall remain available for obligation, for expenditure, and for obligation and expenditure, until expended.""
+
+ **Section 12.** Section thirty-two of the same Act is hereby amended to read as follows:
+
+ > ""Sec. 32. This Act repeals Republic Act Numbered One thousand six hundred and six, except Section three thereof which shall continue in force as amended by Section twenty-seven hereof, Republic Act Numbered One thousand eight hundred and fifteen, except Section ten thereof which shall continue in force as amended by Section twenty-seven hereof, and such other Acts or parts of Acts which are inconsistent herewith.
+
+ **Section 13.** The same Act is hereby amended by adding a new section to be known as Section thirty-three to read as follows:
+
+ > ""Sec. 33. For purposes of this Act and unless otherwise indicated in the committee terms herein enumerated shall have the following meanings;
+>
+>  *""Agencies""*means the National Institute of Science and Technology and the Philippine Atomic Energy Commission;
+>
+>  *""Radioactive material""*means any material which spontaneously gives off ionizing radiation;
+>
+>  *""Source material""*means uranium, thorium or any other material which is determined by the Commission to be source materials or ores containing one or more of the foregoing materials in such concentration as the Commission may by regulation determine from time to time;
+>
+>  *""Special nuclear materials""*means plutonium, uranium, or any other material in sufficient quantity which the Commission determines to be capable of releasing substantial quantities of energy through nuclear chain reaction of the material.""
+
+ **Section 14.** Section thirty-three of the same Act is hereby redesignated as Section thirty-four.
+
+ **Section 15.** This Act shall take effect upon its approval.
+
+ Approved: June 22, 1963.
+"	success	Public Law	Republic Act No. 3589 amends RA 267 by adding new sections to the National Science Development Board, National Institute of Science and Technology, and Philippine Atomic Energy Commission, establishing fiduciary funds, authorizing fees, setting regulations for radioactive materials, and extending tax exemption and privileges for scientific activities.	"[{""title"": ""Section 1 \u2013 Section 10-A"", ""summary"": ""Creates Section 10-A in RA 267, authorizing the National Science Development Board to program and utilize income, grants, bequests, donations, and unexpended balances as the Science, Engineering and Technology Research Fund.""}, {""title"": ""Section 2 \u2013 Sections 12-A and 12-B"", ""summary"": ""Adds Sections 12-A and 12-B to RA 267, granting the National Institute of Science and Technology authority to charge reasonable fees for analyses and tests, and establishing a Research Foundation Fund for scientific research.""}, {""title"": ""Section 3 \u2013 Section 16"", ""summary"": ""Amends Section 16 of RA 267 to create the Philippine Atomic Energy Commission with expanded functions, powers, and duties related to nuclear research, regulation, and international representation.""}, {""title"": ""Section 4 \u2013 Sections 16-A and 16-B"", ""summary"": ""Inserts Sections 16-A and 16-B into RA 267, providing licensing and regulatory authority over radioactive materials, fee structures, and regulatory rules for safety and national defense.""}]"	3589				To strengthen the governance and funding mechanisms of national science and technology institutions, establish fiduciary funds for research, authorize fee-based services, and regulate radioactive materials for scientific purposes.	"[""Establishment of the Science, Engineering and Technology Research Fund"", ""Authorization for the National Institute of Science and Technology to charge fees and create the Research Foundation Fund"", ""Creation of the Philippine Atomic Energy Commission with expanded duties"", ""Regulation and licensing of radioactive materials with fee structures and safety rules""]"	Republic Act No. 267 (National Science Development Board, National Institute of Science and Technology, and Philippine Atomic Energy Commission Act of 1967)	"[""Science"", ""Technology"", ""Atomic Energy"", ""Tax Exemption"", ""Funding"", ""Regulation"", ""National Science Development Board"", ""National Institute of Science and Technology"", ""Philippine Atomic Energy Commission"", ""Fiduciary Fund"", ""Research Foundation Fund""]"	"[""science funding"", ""research fiduciary fund"", ""national science board"", ""atomic energy commission"", ""radioactive material regulation"", ""fee structure"", ""tax exemption"", ""privileges"", ""grant requests"", ""donations"", ""scientific purposes""]"
+repacts:datasets/markdown/repacts/1963/ra_3590_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3590_1963.md	ra_3590_1963	Revised Barrio Charter	"**REPUBLIC ACT No. 3590**
+
+ REVISED BARRIO CHARTER
+
+ AN ACT TO AMEND AND REVISE REPUBLIC ACT NUMBERED TWENTY-THREE HUNDRED AND SEVENTY, OTHERWISE KNOWN AS ""THE BARRIO CHARTER (Rep. Act No. 3590, as amended by Rep. Act No. 5676 and by Pres. Decree No. 431.)
+
+ **ARTICLE I General provisions**
+
+ **Section 1.** *Title of Act.* This Act shall be known and cited as the Revised Barrio Charter. 1
+
+ **Section 2.** *Definition and general powers of barrios.* Barrios are units of municipalities or municipal districts in which they are situated. They are quasi-municipal corporations endowed with such powers as are herein provided for the performance of particular government functions, to be exercised by and through their respective barrio governments in conformity with law.
+
+ All barrios existing at the time of the approval of this amendatory Act come under the provisions hereof including poblaciones which, on December thirty-first, nineteen hundred and sixty-two, were already elected and organized their respective barrio councils: *Provided*, That in the latter case, such poblaciones are given a period of six months from and after the approval of this amendatory Act within which to complete their organization into barrios, in accordance with section three hereof, otherwise they shall be excluded from the provisions of this Act.
+
+ It shall be competent for them in their proper corporate name to sue and be sued, to contract and be contracted with and to acquire, hold and convey real and personal property for purposes herein specified, and generally to exercise the powers herein or otherwise conferred upon them by law.
+
+ **ARTICLE II Organization of Barrios**
+
+ **Section 3.** *The creation of new barrios.* Upon petition of a majority of the voters in the areas affected, a new barrio may be created or the name of an existing one may be changed by the provincial board of the province, upon recommendation of the council of the municipality or municipalities in which the proposed barrio is situated. The recommendation of the municipal council shall be embodied in a resolution approved by at least two-thirds of the entire membership of the said council: *Provided, however*, That no barrio may be created if its population is less than five hundred persons, nor out of chartered cities or Poblaciones of municipalities.
+
+ Barrios shall not be created or their boundaries altered nor their names changed except under the provisions of this Act or by Act of Congress.
+
+ Boundaries of the Barrios shall be determined by the Municipal Councils within six months after the passage of this Act. For this purpose, municipal councils shall be assisted by the Provincial Assessors and the Director of Lands or their Deputies. In the absence of formal documentary basis for fixing the boundaries, municipal councils shall be guided initially by commonly accepted boundaries. If within thirty (30) days from determination of the same no boundary disputes arise, these boundary limits shall be deemed to be final unless new barrios are created or formal proceedings for the relocation of boundaries are instituted within the said prescribed period.
+
+ Boundary disputes between barrios within the same municipality shall be heard and decided by the municipal council, subject to appeal within thirty days from receipt of notice of the decision by the barrio council concerned to the corresponding provincial board, whose decision shall be final.
+
+ Boundary disputes between barrios belonging to different municipalities shall be treated as boundary disputes between municipalities under existing provisions of law.
+
+ Boundary disputes between barrios belonging to different provinces and/or chartered cities, shall be treated as boundary disputes between provinces under existing provisions of law.
+
+ All property rights of the barrio whose boundaries are altered shall be vested in the barrio in which the property is situated after the alteration has been made.
+
+ **Section 4.** *The barrio assembly.* The barrio assembly shall consist of all persons who are residents of the barrio for at least six months, eighteen years of age or over, citizens of the Republic of the Philippines and who are duly registered in the list of barrio assembly members kept by the Barrio Secretary.
+
+ The barrio assembly shall meet at least once a year to hear the annual report of the barrio council concerning the activities and finances of the barrio.
+
+ It shall meet also at the call of the barrio council or upon written petition of at least One-Tenth of the members of the barrio assembly.
+
+ No meeting of the barrio assembly shall take place unless notice is given one week prior to the meeting except in matters involving public safety to security in which case notice within a reasonable time shall be sufficient. The barrio captain, or in his absence, the councilman acting as barrio captain, or any assembly member selected during the meeting, shall act as presiding officer at all meetings of the barrio assembly. The barrio secretary or in his absence, any member designated by the presiding officer to act as secretary shall discharge the duties of secretary of the barrio assembly.
+
+ For the purpose of conducting business and taking any official action in the barrio assembly, it is necessary that at least one-fifth of the members of the barrio assembly be present to constitute a quorum. All actions shall require a majority vote of these present at the meeting there being a quorum.
+
+ **Section 5.** *Powers of the barrio assembly.* The powers of the barrio assembly shall be as follows:
+
+ a. To recommend to the barrio council the adoption of measures for the welfare of the barrio; b. To decide on the holding of a plebiscite as provided for in section 6 of this Act; c. To act on budgetary and supplemental appropriations and special tax ordinances submitted for its approval by the barrio council; and d. To hear the annual report of the Barrio council concerning the activities and finances of the assembly. **Section 6.** *Plebiscite.* A plebiscite may be held in the barrio when authorized by a majority vote of the members present in the barrio assembly, there being a quorum, or when called by at least four members of the barrio council: *Provided, however*, That no plebiscite shall be held until after thirty days from its approval by either body, and such plebiscite has been given the widest publicity in the barrio, stating the date, time, and place thereof, the questions or issues to be decided, action to be taken by the voters, and such other information relevant to the holding of the plebiscite.

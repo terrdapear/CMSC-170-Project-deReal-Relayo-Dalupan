@@ -1,0 +1,156 @@
+repacts:datasets/markdown/repacts/2025/ra_12176_2025.md	repacts	2025		datasets/markdown/repacts/2025/ra_12176_2025.md	ra_12176_2025	AN ACT INCREASING THE BED CAPACITY OF THE TOMAS LACHICA DISTRICT HOSPITAL IN THE MUNICIPALITY OF JOSE ABAD SANTOS, PROVINCE OF DAVAO OCCIDENTAL, FROM TWENTY-FIVE (25) TO FIFTY (50) BEDS, AND APPROPRIATING FUND THEREFOR	"[ REPUBLIC ACT NO. 12176, April 15, 2025 ]
+
+ AN ACT INCREASING THE BED CAPACITY OF THE TOMAS LACHICA DISTRICT HOSPITAL IN THE MUNICIPALITY OF JOSE ABAD SANTOS, PROVINCE OF DAVAO OCCIDENTAL, FROM TWENTY-FIVE (25) TO FIFTY (50) BEDS, AND APPROPRIATING FUND THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The authorized bed capacity of the Tomas Lachica District Hospital in the Municipality of Jose Abad Santos, Province of Davao Occidental, shall be increased from twenty-five (25) to fifty (50) beds. Any future increase in bed capacity shall be consistent with the hospital development plan that shall be prepared by the Chief of Hospital of the Tomas Lachica District Hospital and submitted to the Department of Health.
+
+ **Section 2.** The existing professional healthcare services and facilities of the Tomas Lachica District Hospital shall also be upgraded to conform with and be commensurate to the increase in bed capacity as provided in Section 1 hereof.
+
+ **Section 3.** The existing workforce of the Tomas Lachica District Hospital, which includes doctors, nurses, and support personnel, shall be increased correspondingly.
+
+ **Section 4.** The Provincial Government of Davao Occidental shall provide for the necessary funds to cover the maintenance and other operating expenses of the Tomas Lachica District Hospital. It shall also appropriate funds for the additional human resources complement to support the increase in bed capacity and the corresponding upgrading of its service facilities and professional healthcare services.
+
+ **Section 5.** The Secretary of Health shall include in the Department's subsidy program, support for the capital outlay requirements of the Tomas Lachica District Hospital.
+
+ **Section 6.** If any provision of this Act is declared unconstitutional, the remaining parts or provisions not affected shall remain in full force and effect.
+
+ **Section 7.** All laws, executive orders, issuances, and rules and regulations inconsistent with this Act are hereby repealed or modified accordingly.
+
+ **Section 8.** This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate | (SGD.) **FERDINAND MARTIN G. ROMUALDEZ** Speaker of the House of Representatives |
+
+ This Act, which is originated in the House of Representatives, was passed by the House of Representatives and the Senate of the Philippines on July 30, 2024 and February 3, 2025, respectively.
+
+ | (SGD.) **RENATO N. BANTUG, JR.** Secretary of the Senate | (SGD.) **REGINALD S. VELASCO** Secretary General House of Representatives |
+
+ Approved: APR 15 2025
+
+ (SGD.) **FERDINAND ROMUALDEZ MARCOS JR.** President of the Philippines
+"	success	Republic Act	This Act increases the bed capacity of the Tomas Lachica District Hospital from 25 to 50 beds and appropriates funds for related upgrades in facilities, workforce, and operating expenses.	"[{""title"": ""Section 1."", ""summary"": ""The authorized bed capacity of the Tomas Lachica District Hospital is increased from twenty-five (25) to fifty (50) beds. Any future increase shall be consistent with a hospital development plan prepared by the Chief of Hospital and submitted to the Department of Health.""}, {""title"": ""Section 2."", ""summary"": ""The existing professional healthcare services and facilities of the hospital shall be upgraded to conform with and be commensurate to the increase in bed capacity.""}, {""title"": ""Section 3."", ""summary"": ""The existing workforce, including doctors, nurses, and support personnel, shall be increased accordingly.""}, {""title"": ""Section 4."", ""summary"": ""The Provincial Government of Davao Occidental shall provide funds to cover maintenance, operating expenses, and additional human resources needed to support the increased capacity and upgraded services.""}, {""title"": ""Section 5."", ""summary"": ""The Secretary of Health shall include the hospital's capital outlay requirements in the Department's subsidy program.""}, {""title"": ""Section 6."", ""summary"": ""If any provision of this Act is declared unconstitutional, the remaining parts not affected shall remain in full force and effect.""}, {""title"": ""Section 7."", ""summary"": ""All laws, executive orders, issuances, and rules inconsistent with this Act are repealed or modified accordingly.""}, {""title"": ""Section 8."", ""summary"": ""The Act shall take effect fifteen (15) days after its publication in the Official Gazette or a newspaper of general circulation.""}]"	12176	April 15, 2025	"[{""name"": ""FRANCIS \""CHIZ\"" G. ESCUDERO"", ""title"": ""President of the Senate""}, {""name"": ""FERDINAND MARTIN G. ROMUALDEZ"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""RENATO N. BANTUG, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""REGINALD S. VELASCO"", ""title"": ""Secretary General House of Representatives""}]"	To increase bed capacity and upgrade facilities, workforce, and operating resources of the Tomas Lachica District Hospital.	"[""Increase bed capacity from 25 to 50 beds"", ""Upgrade healthcare services and facilities"", ""Increase workforce of doctors, nurses, and support personnel"", ""Appropriate funds for maintenance, operating expenses, and personnel"", ""Include capital outlay in health subsidy program"", ""Ensure remaining provisions remain in force if unconstitutional"", ""Repeal or modify inconsistent laws and regulations""]"	All laws, executive orders, issuances, and rules and regulations inconsistent with this Act are hereby repealed or modified accordingly.	"[""Healthcare"", ""Hospital Capacity"", ""Budget"", ""Davao Occidental"", ""Philippines"", ""Legislation""]"	"[""bed capacity"", ""hospital"", ""Davao Occidental"", ""healthcare services"", ""funding"", ""Department of Health"", ""province"", ""Philippines""]"
+repacts:datasets/markdown/repacts/2025/ra_12177_2025.md	repacts	2025		datasets/markdown/repacts/2025/ra_12177_2025.md	ra_12177_2025	Free Legal Assistance for Military and Uniformed Personnel Act	"[ REPUBLIC ACT NO. 12177, April 15, 2025 ]
+
+ AN ACT PROVIDING LEGAL ASSISTANCE TO MILITARY AND UNIFORMED PERSONNEL FACING ANY CHARGE ARISING FROM INCIDENTS RELATED TO THE PERFORMANCE OF OFFICIAL DUTY, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** *Short Title.* - This Act shall be known as the ""Free Legal Assistance for Military and Uniformed Personnel Act"".
+
+ **Section 2.** **Declaration of Policy.** - It is the declared policy of the State to protect the dignity and rights of its citizens, including those responsible for upholding the Constitution, defending the sovereignty and territory of the country against all enemies, enforcing the laws of the land, preventing crimes, and maintaining peace and order.
+
+ The State shall promote peace and order and ensure public safety through effective and efficient military and uniformed service composed of highly motivated officers, enlisted and uniformed personnel.
+
+ To this end, the State shall, as far as practicable, provide free legal assistance to military and uniformed personnel in criminal, civil, or administrative proceedings arising from service-related incidents.
+
+ **Section 3.** *Definition of Terms.* - As used in this Act:
+
+ (a) Military and Uniformed Personnel (MUP) refers to officers, enlisted and uniformed personnel of the Armed Forces of the Philippines (AFP), Bureau of Fire Protection (BFP), Bureau of Jail Management and Penology (BJMP), Philippine Coast Guard (PCG), Bureau of Corrections (BuCor), Philippine National Police (PNP), and the Hydrography Branch of the National Mapping and Resource Information Authority (NAMRIA); and (b) Service-related Cases refer to civil, criminal, and administrative cases filed against the MUP for incidents related to or in connection with the discharge of their official functions or the performance of their duties. **Section 4.** *Qualifications for Free Legal Assistance.* - The MUP facing any service-related case before a prosecutor's office, court, quasi-judicial or administrative body, or any competent body or tribunal shall be entitled to free legal assistance.
+
+ Retired and honorably discharged and separated MUP shall be eligible for free legal assistance on service-related cases committed while still in active duty.
+
+ **Section 5.** *Procedure and Coverage.* - Within twenty-four (24) hours from the official receipt of the charge against the MUP, the heads of the MUP agencies, through the head of the Legal Office, shall direct their respective legal officers to provide free legal assistance to qualified MUP as provided in this Act. The agencies shall establish guidelines and procedures for availing free legal assistance and determining service-related cases to be approved by the head of the MUP agency: *Provided,* That in case of conflict of interest, the MUP shall not be entitled to free legal assistance under this Act. Notwithstanding any provision to the contrary, ""conflict of interest"" as used in this Act shall refer to an instance where the handling by the legal office of a case will adversely affect the interest of the MUP concerned agency.
+
+ The determination of which cases are service-related shall be made by the respective legal offices of the AFP, BFP, BJMP, PCG, BuCor, PNP, and NAMRIA based on the evidence provided by the MUP. Any officer tasked to determine the eligibility of MUP applicants for free legal assistance under this Act who, through manifest partiality, evident bad faith, or gross inexcusable negligence, improperly denies or approves an application shall be held liable under Section 3(e) of Republic Act No. 3019, otherwise known as the ""Anti-Graft and Corrupt Practices Act"".
+
+ Free legal assistance shall include the following:
+
+ (a) Legal representatives in civil, criminal, or administrative proceedings, as far as practicable; (b) Legal advice or consultations; (c) Preparation of pleadings, motions, memoranda, and all other legal forms and documents; (d) Court fees and other related fees; and (e) Notarization of documents. **Section 6.** *Strengthening the Legal Offices of the AFP, BFP, BJMP, PCG, BuCor, PNP, and NAMRIA.* - Within ninety (90) days from the effectivity of this Act, the Chie of Staff of the AFP, the Chiefs of the PNP, BJMP, and NFP, the Commandant of the PCG, the Director General of BuCor, and the Administrator of the NAMRIA shall submit to the organizational structure and staffing patterns based on the idea ratio of legal officers with the total number of personnel, taking into consideration the demands of the service, historical number of cases handled, current case load, and logistical requirements necessary for their respective legal officers to render adequate and effective free legal assistance to qualified personnel. The DBM shall act on the submissions in accordance with Republic Act No. 11032 or the ""Ease of Doing Business and Efficient Government Service Delivery Act of 2018"".
+
+ **Section 7.** *Entitlement of Government Lawyers to Payment for Expenses.* - The government lawyer providing legal assistance to the MUP shall be entitled to payment of actual travel and other expenses, including Special Counsel Allowance for each appearance before the prosecutor's office, court, quasi-judicial, and administrative agency, or any competent body or tribunal, subject to existing laws, rules, and regulations.
+
+ **Section 8.** *Applicability to Pending Cases.* - This Act shall apply to all MUP who have pending service-related cases.
+
+ **Section 9.** *Applicability to Pending Cases.* - This Act shall apply to all MUP who have pending service-related cases.
+
+ **Section 9.** *Implementing Rules and Regulations.* - Within ninety (90) days from the effectivity of this Act, the DBM, Department of National Defense, Department of Justice, Department of the Interior and Local Government, and Department of Transportation, in coordination with the Chief of Staff of the AFP, Chiefs of the PNP, BJMP and BFP, the Commandant of the PCG, the Director General of BuCor, and the Administrator of the NAMRIA, shall issue the necessary rules and regulation to implement this Act: *Provided,* That the non-promulgation of the implementing rules and regulations shall not prevent the implementation of this Act upon effectivity.
+
+ **Section 10.** *Appropriations.* - The amount necessary for the implementation of this Act shall be included in the annual General Appropriations Act.
+
+ **Section 11.** *Separability Clause.* - If any portion or provision of this Act is declared unconstitutional, the remainder or any provision not affected thereby shall remain in force and effect.
+
+ **Section 12.** *Repealing Clause.* - All other laws, decrees, orders, rules, regulations, or parts thereof inconsistent with this Act are hereby amended, repealed, or modified accordingly.
+
+ **Section 13.** *Effectivity.* - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **FERDINAND MARTIN G. ROMUALDEZ** Speaker of the House of Representatives | (SGD.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate |
+
+ This Act was passed by the Senate of the Philippines as Senate Bill No. 2814 on January 27, 2025 and adopted by the House of Representatives as an amendment to House Bill No. 6509 on January 28, 2025.
+
+ | (SGD.) **REGINALD S. VELASCO** Secretary General House of Representatives | (SGD.) **RENATO N. BANTUG, JR.** Secretary of the Senate |
+
+ Approved: APR 15 2025
+
+ (SGD.) **FERDINAND ROMUALDEZ MARCOS JR.** President of the Philippines
+"	success	Republic Act	Republic Act No. 12177, enacted on April 15, 2025, provides free legal assistance to military and uniformed personnel (MUP) facing criminal, civil, or administrative cases arising from service-related incidents, and appropriates funds to support the implementation of this assistance.	"[{""title"": ""Section 1. Short Title"", ""summary"": ""Defines the short title of the Act as \""Free Legal Assistance for Military and Uniformed Personnel Act.\""""}, {""title"": ""Section 2. Declaration of Policy"", ""summary"": ""States the State\u2019s policy to protect the dignity and rights of military and uniformed personnel, promote peace and order, and provide free legal assistance to MUP involved in service-related cases.""}, {""title"": ""Section 3. Definition of Terms"", ""summary"": ""Defines \""Military and Uniformed Personnel (MUP)\"" and \""Service-related Cases\"" for purposes of the Act.""}, {""title"": ""Section 4. Qualifications for Free Legal Assistance"", ""summary"": ""Establishes eligibility criteria for MUP to receive free legal assistance, including active duty and retired honorably discharged personnel.""}, {""title"": ""Section 5. Procedure and Coverage"", ""summary"": ""Outlines the 24\u2011hour procedure for providing assistance, guidelines for agencies, conflict of interest provisions, and details of coverage such as representation, advice, documents, fees, and notarization.""}, {""title"": ""Section 6. Strengthening the Legal Offices of the AFP, BFP, BJMP, PCG, BuCor, PNP, and NAMRIA"", ""summary"": ""Calls for strengthening legal offices, staffing, and coordination with the DBM to ensure adequate legal assistance for MUP.""}, {""title"": ""Section 7. Entitlement of Government Lawyers to Payment for Expenses"", ""summary"": ""Provides that government lawyers providing assistance are entitled to payment of actual travel and other expenses, including special counsel allowance.""}, {""title"": ""Section 8. Applicability to Pending Cases"", ""summary"": ""States that the Act applies to all MUP who have pending service\u2011related cases.""}, {""title"": ""Section 9. Implementing Rules and Regulations"", ""summary"": ""Sets the implementation timeline and coordination among various departments for the execution of the Act.""}]"	Republic Act No. 12177	April 15, 2025			To provide free legal assistance to military and uniformed personnel, safeguard their rights during legal proceedings, and ensure adequate support for legal services.	"[""Provides free legal assistance to military and uniformed personnel"", ""Defines eligibility criteria and qualifications"", ""Establishes a 24\u2011hour procedure for assistance"", ""Details coverage including representation, advice, documents, fees, and notarization"", ""Strengthens legal offices and staffing"", ""Entitles government lawyers to expenses"", ""Applies to pending service\u2011related cases""]"		"[""Legal Assistance"", ""Military"", ""Uniformed Personnel"", ""Philippines"", ""Free Legal Aid""]"	"[""free legal assistance"", ""military personnel"", ""uniformed personnel"", ""service-related cases"", ""legal aid"", ""Philippines law""]"
+repacts:datasets/markdown/repacts/2025/ra_12178_2025.md	repacts	2025		datasets/markdown/repacts/2025/ra_12178_2025.md	ra_12178_2025	National Education Support Personnel Day Act	"[ REPUBLIC ACT NO. 12178, April 15, 2025 ]
+
+ AN ACT DECLARING THE SIXTEENTH DAY OF MAY OF EVERY YEAR A SPECIAL WORKING HOLIDAY TO BE KNOWN AS THE ""NATIONAL EDUCATION SUPPORT PERSONNEL DAY"", MANDATING THE DEPARTMENT OF EDUCATION AND THE COMMISSION ON HIGHER EDUCATION TO LEAD IN ITS OBSERVANCE, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** *Short Title.* - This Act shall be known as the ""National Education Support Personnel Day Act "".
+
+ **Section 2.** *Declaration of Policy.* - It is hereby declared the policy of the State to undertake initiatives that will recognize the vital role of Education Support Personnel in the realization of the right to education, in fostering positive and safe learning environments, and in ensuring that public and private educational institutions function effectively in providing quality education for all learners and students.
+
+ **Section 3.** *Definition.* - As used in this Act, the term ""Education Support Personnel"" refers to the persons employed in teaching-related or non-teaching positions of any public or private school college, university, or other educational institution, including but not limited to teaching assistants, registrars, librarians, doctors, nurses,schools division counselors, school counselor, school counselor associates, guidance counselors, psychologists, clerks, and the rest of the professional, administrative, technical, and general staff who provide support to learners, students, and teaching personnel.
+
+ **Section 4.** *National Education Support Personnel Day.* - In recognition of the observance of the World Education Support Personnel Day, the sixteenth (16th) day of May of every year is hereby declared a special working holiday to be known as the ""National Education Support Personnel Day"".
+
+ **Section 5.** **Inter-Agency and Multi-Sectoral Effort; Implementation.** - The Department of Education and the Commission on Higher Education shall serve as the lead agencies in the preparation and implementation of the annual program of activities for the observance of the National Education Support Personnel Day.
+
+ To ensure the meaningful observance and celebration of this day, the heads of national government agencies and government-owned and/or -controlled corporations involved in education, local government units, and private sector employers involved in education are encouraged to allow their respective personnel to participate in any related activity to be held within the premises of their respective offices or establishments.
+
+ **Section 6.** *Appropriations.* - The amount necessary to implement this Act shall be included in the annual General Appropriations Act.
+
+ **Section 7.** *Separability Clause.* - If any part or provision of this Act is declared invalid or unconstitutional, the other provisions not otherwise affected shall remain in force and effect.
+
+ **Section 8.** *Repealing Clause.* - All laws, executive orders, presidential decrees, administrative orders, rules and regulations, issuances, or parts thereof contrary to or inconsistent with the provisions of this Act are hereby repealed or amended accordingly.
+
+ **Section 9.** *Effectivity.* - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **FERDINAND MARTIN G. ROMUALDEZ** Speaker of the House of Representatives | (SGD.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate |
+
+ This Act, which is a consolidation of Senate Bill No. 2872 and House Bill No. 4896, was passed by the Senate of the Philippines and the House of Representatives on February 4, 2025 and February 5, 2025, respectively.
+
+ | (SGD.) **REGINALD S. VELASCO** Secretary General House of Representatives | (SGD.) **RENATO N. BANTUG, JR.** Secretary of the Senate |
+
+ Approved: APR 15 2025
+
+ (SGD.) **FERDINAND ROMUALDEZ MARCOS JR.** President of the Philippines
+"	success	Republic Act	An act declaring the sixteenth day of May every year as a special working holiday known as the National Education Support Personnel Day, mandating the Department of Education and the Commission on Higher Education to lead its observance and appropriating funds for its implementation.	"[{""title"": ""Short Title"", ""summary"": ""The act is known as the \""National Education Support Personnel Day Act.\""""}, {""title"": ""Declaration of Policy"", ""summary"": ""The State acknowledges the vital role of Education Support Personnel in ensuring quality education and safe learning environments.""}, {""title"": ""Definition"", ""summary"": ""Defines \""Education Support Personnel\"" as individuals employed in teaching-related or non-teaching positions in educational institutions, including support staff.""}, {""title"": ""National Education Support Personnel Day"", ""summary"": ""Declares May 16 as a special working holiday titled \""National Education Support Personnel Day.\""""}, {""title"": ""Inter-Agency and Multi-Sectoral Effort; Implementation"", ""summary"": ""The Department of Education and the Commission on Higher Education will lead the preparation and implementation of the annual program for the day.""}, {""title"": ""Appropriations"", ""summary"": ""Funds for implementing the act will be included in the annual General Appropriations Act.""}, {""title"": ""Separability Clause"", ""summary"": ""Invalid or unconstitutional provisions do not affect other provisions of the act.""}, {""title"": ""Repealing Clause"", ""summary"": ""Repeals or amends any law or rule inconsistent with the act.""}, {""title"": ""Effectivity"", ""summary"": ""The act takes effect fifteen days after publication in the Official Gazette or a newspaper of general circulation.""}]"	12178	April 15, 2025	"[{""name"": ""FERDINAND MARTIN G. ROMUALDEZ"", ""title"": ""Speaker of the House of Representatives""}, {""name"": ""FRANCIS \""CHIZ\"" G. ESCUDERO"", ""title"": ""President of the Senate""}]"	"[{""name"": ""REGINALD S. VELASCO"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""RENATO N. BANTUG, JR."", ""title"": ""Secretary of the Senate""}]"	To recognize and celebrate the role of education support personnel and establish a national day of observance for them.	"[""Declares May 16 as a special working holiday"", ""Designates the Department of Education and the Commission on Higher Education as lead agencies"", ""Appropriates funds through the General Appropriations Act"", ""Encourages participation of national agencies and private sector in observance""]"		"[""education"", ""holiday"", ""public sector"", ""support personnel""]"	"[""National Education Support Personnel Day"", ""May 16"", ""Department of Education"", ""Commission on Higher Education"", ""public holiday""]"
+repacts:datasets/markdown/repacts/2025/ra_12179_2025.md	repacts	2025		datasets/markdown/repacts/2025/ra_12179_2025.md	ra_12179_2025	AN ACT AMENDING SECTION 50 OF REPUBLIC ACT NO. 9136, OTHERWISE KNOWN AS THE ELECTRIC POWER INDUSTRY REFORM ACT OF 2001	"[ REPUBLIC ACT NO. 12179, April 18, 2025 ]
+
+ AN ACT AMENDING SECTION 50 OF REPUBLIC ACT NO. 9136, OTHERWISE KNOWN AS THE ""ELECTRIC POWER INDUSTRY REFORM ACT OF 2001""
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Section 50 of Republic Act No. 9136, otherwise known as the ""Electric Power Industry Reform Act of 2001"", is hereby amended to read as follows:
+
+ ""**Section 50.** *Purpose and Objective, Domicile and Term of Existence.* - The principal purpose of the Power Sector Assets and Liabilities Management Corporation (PSALM Corp.) is to manage the orderly sale, disposition, and privatization of NPC generation, assets, real estate, and other disposable assets, and IPP contracts with the objective of liquidating all NPC financial obligations and stranded contract costs in an optimal manner.
+
+ The PSALM Corp. shall continue to exist for a period of ten (10) years from the expiration of its original term on June 26, 2026. All assets held by it, all moneys and properties belonging to it, and all its liabilities outstanding upon the expiration of its term of existence shall revert to and be assumed by the National Government: *Provided,* That PSALM Corp. shall be prohibited from collecting or charging consumers for stranded costs and stranded debts during its extended corporate life, except as otherwise approved by the Energy Regulatory Commission (ERC) prior to the date of the passage of this Act.""
+
+ **Section 2.** *Repealing Clause.* - All laws, presidential decrees, executive orders, letters of instruction, proclamations, or administrative regulations that are inconsistent with the provisions of this Act are hereby repealed, amended, or modified accordingly.
+
+ **Section 3.** *Effectivity.* - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **FERDINAND MARTIN G. ROMUALDEZ** Speaker of the House of Representatives | (SGD.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate |
+
+ This Act, which is a consolidation of Senate Bill No. 2837 and House Bill No. 10592, was passed by the Senate of the Philippines and the House of Representatives on February 3, 2025 and February 4, 2025, respectively.
+
+ | (SGD.) **REGINALD S. VELASCO** Secretary General House of Representatives | (SGD.) **RENATO N. BANTUG, JR.** Secretary of the Senate |
+
+ Approved: Lapsed into law APR 18 2025, without the signature of the President, in accordance with Article VI, Section 27(1) of the Constitution.
+
+  **FERDINAND ROMUALDEZ MARCOS JR.** President of the Philippines
+"	success	Republic Act	This act amends Section 50 of Republic Act No. 9136 to revise the purpose, objective, domicile and term of existence of the Power Sector Assets and Liabilities Management Corporation (PSALM Corp.), and provides the framework for its liquidation and transition of assets to the National Government.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 50 of RA 9136, specifying the purpose, objective, domicile and ten\u2011year term of PSALM Corp., its liquidation responsibilities, and restrictions on collecting stranded costs.""}, {""title"": ""Section 2"", ""summary"": ""Repealing clause that repeals, amends or modifies any laws, presidential decrees, executive orders, letters of instruction, proclamations or administrative regulations inconsistent with this Act.""}, {""title"": ""Section 3"", ""summary"": ""Effectivity clause stating the Act takes effect fifteen days after publication in the Official Gazette or a newspaper of general circulation.""}]"	12179	April 18, 2025	"[{""name"": ""FERDINAND MARTIN G. ROMUALDEZ"", ""title"": ""Speaker of the House of Representatives""}, {""name"": ""FRANCIS \""CHIZ\"" G. ESCUDERO"", ""title"": ""President of the Senate""}]"		To amend Section 50 of RA 9136 to update the governance and liquidation framework of PSALM Corp., ensuring orderly disposal of NPC assets and transition of liabilities to the National Government.	"[""Amendment of Section 50 of RA 9136"", ""Repealing clause for inconsistent laws"", ""Effectivity 15 days after publication""]"	Republic Act No. 9136, Section 50	"[""Electric Power Industry Reform Act"", ""PSALM Corp."", ""Energy Regulation"", ""Philippines""]"	"[""PSALM Corp."", ""Electric Power Industry Reform Act"", ""Energy Regulatory Commission"", ""National Government"", ""Privatization"", ""NPC"", ""Energy Sector""]"

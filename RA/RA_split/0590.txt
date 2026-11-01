@@ -1,0 +1,138 @@
+>
+>  ""(bb) Census of rehabilitation facilities;
+>
+>  ""(cc) Census of rehabilitation needs;
+>
+>  ""(dd) Census of already qualified handicapped workers; and
+>
+>  ""(ee) Census of employment opportunities;
+>
+>  ""(8) To conduct and supervise campaigns to raise fund as provided for in section ten (a) of Republic Act Numbered one thousand one hundred seventy-nine; and
+>
+>  ""(9) To submit annual report to Congress.
+>
+>  ""(d) *Chairman.* -The fifteen members of the Council shall appoint its chairman by democratic process from among its members within fifteen days from the date of appointment while meeting in banc.
+>
+>  ""(e) *Executive Secretary.* -The Council is also empowered to appoint an executive secretary outside of its members by a majority vote. The executive secretary shall be paid an annual compensation of five thousand four hundred pesos which shall be drawn from the fiduciary fund of the Office of Vocational Rehabilitation which are its net proceeds from the Philippine Charity Sweepstakes draw as stipulated in section ten (b) of Republic Act Numbered One thousand one hundred seventy-nine, and shall possess the following qualifications: At least five years experience with accepted competence in rehabilitation work, at least a four-year college course graduate and with good moral standing.
+>
+>  ""(f) *Compensation of the members of the Council.* -The members of the Council which shall meet at least six (6) times a year shall receive no compensation, but shall be entitled to an honorarium not exceeding twenty-five pesos per meeting; and shall also be entitled to receive an allowance for actual and necessary traveling and subsistence expenses while so serving away from their places of business.""
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: August 1, 1959.
+"	success	Republic Act	This law amends Republic Act 1179 by expanding supervision and operation standards for vocational rehabilitation centers, establishes new regional training centers, and creates a National Council on Rehabilitation to coordinate rehabilitation activities.	"[{""title"": ""Section 1"", ""summary"": ""Amends subsection (b) of section seven of RA 1179 to include over\u2011all supervision of the Pilot Adjustment and Training Center and all possible regional training centers.""}, {""title"": ""Section 2"", ""summary"": ""Amends subsection (c) of section eight of RA 1179 to set operating hours of the Pilot Adjustment and Training Center and regional centers to eight hours a day, five instruction days per week for a minimum of three months with possible extensions up to twelve months.""}, {""title"": ""Section 3 - Regional Training Centers"", ""summary"": ""Introduces new sections detailing the creation, location, staffing, and funding of regional adjustment and training centers for vocational rehabilitation across various regions.""}, {""title"": ""Section 3 - National Council on Rehabilitation"", ""summary"": ""Establishes a National Council on Rehabilitation to coordinate activities related to all phases of rehabilitation.""}]"	RA 2615				To enhance vocational rehabilitation services for blind and other handicapped persons by amending RA 1179 and establishing a National Council on Rehabilitation and regional centers.	"[""Amendment to subsection (b) of section 7 of RA 1179 adding supervision"", ""Amendment to subsection (c) of section 8 of RA 1179 specifying operation hours"", ""Creation of regional adjustment and training centers"", ""Creation of National Council on Rehabilitation"", ""Funding and staffing provisions for regional centers""]"	Republic Act No. 1179	"[""Vocational Rehabilitation"", ""Blind"", ""Handicapped Persons"", ""National Council"", ""Regional Training Centers"", ""Amendment""]"	"[""vocational rehabilitation"", ""blind"", ""handicapped"", ""regional training centers"", ""National Council"", ""RA 1179"", ""amendment""]"
+repacts:datasets/markdown/repacts/1959/ra_2616_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2616_1959.md	ra_2616_1959	An Act Providing for the Expropriation of the Tatalon Estate in Quezon City and for the Sale, at Cost, of the Lots Therein to Their Present Bona Fide Occupants, and Authorizing the Appropriation of Ten Million Pesos for the Purpose	"**REPUBLIC ACT No. 2616**
+
+ AN ACT PROVIDING FOR THE EXPROPRIATION OF THE TATALON ESTATE IN QUEZON CITY AND FOR THE SALE, AT COST, OF THE LOTS THEREIN TO THEIR PRESENT BONA FIDE OCCUPANTS, AND AUTHORIZING THE APPROPRIATION OF TEN MILLION PESOS FOR THE PURPOSE.
+
+ **Section 1.** The expropriation of the Tatalon Estate in Quezon City jointly owned by the J. M. Tuazon and Company, Inc., Gregorio Araneta and Company, Inc., and Florencio Deudor, et al., is hereby authorized.
+
+ **Section 2.** Immediately upon the appropriation of funds by the Congress of the Philippines for the payment of just compensation for the said Tatalon Estate, the Solicitor General, or any other proper Government authority shall institute the necessary expropriation proceedings before the Court of First Instance of Quezon City.
+
+ **Section 3.** After the expropriation of the Tatalon Estate as provided in this Act, the lots therein shall be sold at cost to their present bona fide occupants in not more than two hundred forty equal monthly installments with interest of not more than six per centum per annum on the unpaid balance.
+
+ **Section 4.** After the expropriation proceedings mentioned in section two of this Act shall have been initiated and during the pendency of the same, no ejectment proceedings shall be instituted or prosecuted against the present occupant of any lot in said Tatalon Estate, and no ejectment proceedings already commenced shall be continued, and such lot or any portion thereof shall not be sold by the owners of said estate to any person other than the present occupant without the consent of the latter given in a public instrument.
+
+ **Section 5.** Any owner, manager, agent, or other representative of the owners of said estate who shall violate the provisions of the preceding section shall be liable for exemplary damages equivalent to the amount of actual damages suffered by the prejudiced occupant, and for attorney's fees and expenses of litigation.
+
+ **Section 6.** No person acquiring by virtue of this Act any lot in the Tatalon Estate shall sell, transfer, mortgage or otherwise dispose of said lot or any portion thereof within five years from the date full ownership of such lot has been vested in him, without the consent of the Secretary of Agriculture and Natural Resources.
+
+ **Section 7.** The amount of ten million pesos is hereby authorized to be appropriated for the purposes of this Act, without prejudice to any other method of raising the necessary funds required for the expropriation herein provided, which the President of the Philippines may determine, including the use of proceeds of Government bonds and proceeds from the Japanese reparations.
+
+ **Section 8.** This Act shall take effect upon its approval.
+
+ Enacted without executive approval, August 3, 1959
+"	success	Republic Act	This act authorizes the expropriation of the Tatalon Estate in Quezon City, appropriates ten million pesos for the purpose, and provides for the sale of the expropriated lots at cost to their present bona fide occupants, including detailed procedures, protective measures, and restrictions on transfer.	"[{""title"": ""Section 1"", ""summary"": ""Authorizes the expropriation of the Tatalon Estate in Quezon City.""}, {""title"": ""Section 2"", ""summary"": ""Mandates that expropriation proceedings be instituted by the Solicitor General or a proper authority before the Court of First Instance of Quezon City.""}, {""title"": ""Section 3"", ""summary"": ""Provides that the lots shall be sold at cost to occupants in up to 240 monthly installments with an interest rate not exceeding 6% per annum.""}, {""title"": ""Section 4"", ""summary"": ""Protects occupants by prohibiting ejectment proceedings during expropriation proceedings and preventing sale to others without occupant consent.""}, {""title"": ""Section 5"", ""summary"": ""Imposes liability for violations, including exemplary damages and attorney's fees.""}, {""title"": ""Section 6"", ""summary"": ""Restricts the transfer or disposal of acquired lots for five years without the consent of the Secretary of Agriculture and Natural Resources.""}, {""title"": ""Section 7"", ""summary"": ""Authorizes the appropriation of ten million pesos and allows alternative funding methods, such as government bonds and Japanese reparations.""}, {""title"": ""Section 8"", ""summary"": ""States that the act takes effect upon its approval.""}]"	2616	August 3, 1959			To expropriate the Tatalon Estate and provide fair compensation and sale at cost to its present occupants.	"[""Expropriation of the Tatalon Estate is authorized."", ""Appropriation of ten million pesos for expropriation."", ""Sale of lots at cost in up to 240 monthly installments with \u22646% interest."", ""Protection against ejectment during proceedings."", ""Liability for violations with damages and attorney's fees."", ""Restriction on transfer of acquired lots for five years without Secretary consent."", ""Alternative funding methods allowed.""]"		"[""expropriation"", ""land reform"", ""Quezon City"", ""public acquisition"", ""sale at cost""]"	"[""Tatalon Estate"", ""Quezon City"", ""expropriation"", ""sale at cost"", ""ten million pesos"", ""bona fide occupants"", ""Secretary of Agriculture and Natural Resources"", ""Japanese reparations""]"
+repacts:datasets/markdown/repacts/1960/ra_2617_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2617_1960.md	ra_2617_1960	An Act Amending Item (e), Page 212 Subparagraph (6), for the Province of Bataan, Paragraph f, Section Two of Republic Act Numbered Nineteen Hundred	"**REPUBLIC ACT No. 2617**
+
+ **An Act Amending Item (e), Page 212 Subparagraph (6), for the Province of Bataan, Paragraph f, Section Two of Republic Act Numbered Nineteen Hundred**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item (e), page 212, subparagraph (6), for the Province of Bataan, paragraph f, section two of Republic Act Numbered Nineteen hundred is hereby amended to read as follows:
+
+ > ""(e) Pantalan Luma-Wawa Streets, Orani Improvement ₱2,000.00""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: March 15, 1960.
+"	success	Republic Act	Amends Item (e) on page 212, subparagraph (6) of Republic Act 1900 for the Province of Bataan, adding a provision on Pantalan Luma-Wawa Streets, Orani Improvement with an amount of ₱2,000.00. The act takes effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Amendment to Item (e) on page 212, subparagraph (6) for Bataan province, specifying \""(e) Pantalan Luma-Wawa Streets, Orani Improvement \u20b12,000.00\"".""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	RA 2617	March 15, 1960				"[""Amends Item (e) on page 212, subparagraph (6) of RA 1900 for Bataan province."", ""Adds provision \""(e) Pantalan Luma-Wawa Streets, Orani Improvement \u20b12,000.00\""."", ""Act takes effect upon approval.""]"	Republic Act Numbered Nineteen Hundred	"[""Amendment"", ""Republic Act"", ""Bataan"", ""Infrastructure"", ""Improvement""]"	"[""Republic Act"", ""RA 2617"", ""Bataan"", ""Item (e)"", ""Pantalan Luma-Wawa"", ""Orani Improvement"", ""\u20b12,000.00""]"
+repacts:datasets/markdown/repacts/1960/ra_2618_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2618_1960.md	ra_2618_1960	An Act Transferring the Administration of the Laborers Dwelling Established Under Act Numbered Forty-One Hundred Eighty-Four from the Secretary of Labor to the Peoples Homesite and Housing Corporation and for Other Purposes	"**REPUBLIC ACT No. 2618**
+
+ **An Act Transferring the Administration of the Laborers Dwelling Established Under Act Numbered Forty-One Hundred Eighty-Four from the Secretary of Labor to the Peoples Homesite and Housing Corporation and for Other Purposes**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** All functions powers and authority vested on the Secretary of Labor under Act Numbered Forty-one hundred and eighty-four, as amended, are hereby transferred to the Peoples Homesite and Housing Corporation together with all the appropriations provided for in said Act.
+
+ **Section 2.** All the lands and buildings comprising what is known as the Government Tenement Houses situated at Vitas, Tondo, Manila acquired by the Government and the administration of which is entrusted to the Secretary of Labor by virtue of said Act Numbered Forty-one hundred and eighty-four, as amended, are hereby transferred to the Peoples Homesite and Housing Corporation for its administration and maintenance together with all the monies and records pertaining to said lands and buildings, and the personnel in charge thereof.
+
+ **Section 3.** The Peoples Homesite and Housing Corporation in fixing the rentals that shall be charged in these tenement houses shall take as a primary consideration the income of the tenants therein.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: March 22, 1960.
+"	success	Republic Act	Transfers the administration, lands, buildings, funds and personnel of the laborers’ dwellings under Republic Act No. 418 to the Peoples Homesite and Housing Corporation, allowing PHHC to set rentals based on tenants’ income.	"[{""title"": ""Section 1."", ""summary"": ""All functions, powers and authority vested in the Secretary of Labor under Act 418 are transferred to PHHC along with all appropriations.""}, {""title"": ""Section 2."", ""summary"": ""All lands and buildings of the Government Tenement Houses in Vitas, Tondo, Manila, along with monies, records, and personnel, are transferred to PHHC for administration and maintenance.""}, {""title"": ""Section 3."", ""summary"": ""PHHC shall fix rentals in these tenement houses taking as a primary consideration the income of the tenants.""}, {""title"": ""Section 4."", ""summary"": ""The Act shall take effect upon its approval.""}]"	2618	March 22, 1960			To transfer the administration and assets of laborers’ dwellings from the Secretary of Labor to the Peoples Homesite and Housing Corporation for improved management and housing provision.	"[""Transfer of authority from Secretary of Labor to PHHC"", ""Transfer of lands and buildings to PHHC"", ""PHHC to set rentals based on tenants\u2019 income"", ""Effectivity upon approval""]"	Act Numbered Forty-One Hundred Eighty-Four (RA 418)	"[""Housing"", ""Labor"", ""Philippines"", ""Act 1960""]"	"[""laborers dwellings"", ""administration transfer"", ""Peoples Homesite and Housing Corporation"", ""Act 418"", ""PHHC"", ""Vitas"", ""Tondo"", ""Manila"", ""rentals"", ""income consideration""]"
+repacts:datasets/markdown/repacts/1960/ra_2619_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2619_1960.md	ra_2619_1960	An Act Converting the Aborlan Agricultural High School in the Municipality of Aborlan, Province of Palawan, into a National Regional Agricultural School of the Iloilo National Agricultural School Type to be Known as the Palawan National Regional Agricultural School, and Authorizing the Appropriation of the Necessary Funds Therefor	"**REPUBLIC ACT No. 2619**
+
+ **An Act Converting the Aborlan Agricultural High School in the Municipality of Aborlan, Province of Palawan, into a National Regional Agricultural School of the Iloilo National Agricultural School Type to be Known as the Palawan National Regional Agricultural School, and Authorizing the Appropriation of the Necessary Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The Aborlan Agricultural High School in the Municipality of Aborlan, Province of Palawan, is hereby converted into a national regional agricultural school of the Iloilo National Agricultural School type to be known as the Palawan National Regional Agricultural School.
+
+ **Section 2.** The sum of one hundred thousand pesos in addition to what the school is now receiving from the National Government is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of the said school during the fiscal year nineteen hundred and sixty-one. Thereafter, the necessary funds for its operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect upon the date the funds herein authorized to be appropriated shall have been provided for.
+
+ Approved: March 29, 1960.
+"	success	Republic Act	This act converts the Aborlan Agricultural High School into the Palawan National Regional Agricultural School of the Iloilo National Agricultural School type and appropriates funds for its operation and maintenance.	"[{""title"": ""Section 1"", ""summary"": ""Converts the Aborlan Agricultural High School into the Palawan National Regional Agricultural School of the Iloilo National Agricultural School type.""}, {""title"": ""Section 2"", ""summary"": ""Appropriates an additional one hundred thousand pesos for operation and maintenance during fiscal year 1961 and includes future funds in the General Appropriations Act.""}, {""title"": ""Section 3"", ""summary"": ""The act takes effect upon the provision of authorized funds.""}]"	2619	March 29, 1960			To convert a local agricultural school into a national regional agricultural school and to authorize the appropriation of necessary funds for its operation and maintenance.	"[""Conversion of Aborlan Agricultural High School to Palawan National Regional Agricultural School"", ""Appropriation of 100,000 pesos for fiscal year 1961"", ""Effectivity upon provision of authorized funds""]"		"[""Education"", ""Agricultural School"", ""Funding"", ""Republic Act""]"	"[""Aborlan"", ""Palawan"", ""National Regional Agricultural School"", ""Appropriation"", ""Fiscal Year 1961""]"
+repacts:datasets/markdown/repacts/1960/ra_2620_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2620_1960.md	ra_2620_1960	An Act Nationalizing the Medical and Dental Services of the Bureau of Public Schools, Department of Education, and Authorizing the Appropriation of the Necessary Funds Therefor	"**REPUBLIC ACT No. 2620**
+
+ **An Act Nationalizing the Medical and Dental Services of the Bureau of Public Schools, Department of Education, and Authorizing the Appropriation of the Necessary Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Upon the approval of this Act, the salaries and wages of the personnel of the Medical and Dental Services of the Bureau of Public Schools and all other expenses for the maintenance and operation of these services shall be paid by the National Government.
+
+ **Section 2.** To carry out the provisions of this Act, the sum of three million pesos is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated.
+
+ **Section 3.** The collection of the contributions from pupils and students for the support and operation of the Medical and Dental Services as provided in Executive Order Numbered Fourteen, series of nineteen hundred forty-six, shall continue until government funds are made available for these services in accordance with the provisions of this Act.
+
+ **Section 4.** All Acts, executive orders, administrative orders, rules and regulations, or parts thereof inconsistent with the provisions of this Act are repealed or modified accordingly.
+
+ **Section 5.** This Act shall take effect upon its approval.
+
+ Approved: May 25, 1960.
+"	success	Republic Act	This law nationalizes the medical and dental services of the Bureau of Public Schools, provides for the appropriation of three million pesos for their operation, mandates continued collection of contributions from pupils and students until government funds are available, repeals inconsistent acts, and takes effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Salaries and wages of personnel of the Medical and Dental Services of the Bureau of Public Schools and all other expenses for maintenance and operation shall be paid by the National Government.""}, {""title"": ""Section 2."", ""summary"": ""Authorizes the appropriation of three million pesos from any funds in the National Treasury not otherwise appropriated.""}, {""title"": ""Section 3."", ""summary"": ""Continues the collection of contributions from pupils and students for the support and operation of the Medical and Dental Services until government funds become available.""}, {""title"": ""Section 4."", ""summary"": ""Repeals or modifies all acts, executive orders, administrative orders, rules and regulations inconsistent with the provisions of this Act.""}, {""title"": ""Section 5."", ""summary"": ""The Act shall take effect upon its approval.""}]"	2620	May 25, 1960			Nationalize the medical and dental services of the Bureau of Public Schools and authorize the appropriation of necessary funds for their maintenance and operation.	"[""Nationalization of medical and dental services of the Bureau of Public Schools"", ""Appropriation of three million pesos for service operation"", ""Continuation of pupil and student contributions until government funds are available"", ""Repeal of inconsistent acts, orders, rules and regulations""]"		"[""public health"", ""education"", ""budget appropriation""]"	"[""Medical services"", ""Dental services"", ""Bureau of Public Schools"", ""Nationalization"", ""Appropriation"", ""Budget""]"
+repacts:datasets/markdown/repacts/1960/ra_2621_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2621_1960.md	ra_2621_1960	An Act Appropriating the Sum of One Million Pesos and Two Hundred Thousand Pesos, Respectively, for Relief and Aid to Fire Victims in the Cities of Cavite and Butuan	"**REPUBLIC ACT No. 2621**
+
+ **An Act Appropriating the Sum of One Million Pesos and Two Hundred Thousand Pesos, Respectively, for Relief and Aid to Fire Victims in the Cities of Cavite and Butuan**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There are appropriated, out of any funds in the National Treasury not otherwise appropriated, the sums of one million pesos for relief and aid to Filipino fire victims in the City of Cavite, and two hundred thousand pesos for Butuan City.
+
+ The distribution of the relief and aid shall be made by the Red Cross.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: May 25, 1960.
+"	success	Republic Act	Appropriates funds from the National Treasury to provide relief and aid to fire victims in Cavite and Butuan, with distribution handled by the Red Cross.	"[{""title"": ""Section 1."", ""summary"": ""Appropriates one million pesos for relief and aid to fire victims in Cavite and two hundred thousand pesos for Butuan, to be distributed by the Red Cross.""}, {""title"": ""Section 2."", ""summary"": ""The Act takes effect upon its approval.""}]"	2621	May 25, 1960			Provide financial relief and aid to victims of fire in Cavite and Butuan.	"[""Appropriation of 1,000,000 pesos for Cavite"", ""Appropriation of 200,000 pesos for Butuan"", ""Distribution of funds by Red Cross"", ""Effectivity upon approval""]"		"[""appropriation"", ""fire relief"", ""Cavite"", ""Butuan"", ""Red Cross""]"	"[""appropriation"", ""fire victims"", ""relief"", ""aid"", ""Cavite"", ""Butuan""]"
+repacts:datasets/markdown/repacts/1960/ra_2622_1960.md	repacts	1960		datasets/markdown/repacts/1960/ra_2622_1960.md	ra_2622_1960	An Act to Amend Sections Thirty-Nine and Forty-Six of the Revised Charter of the City of Manila, as Amended by Republic Act Numbered Twelve Hundred One	"**REPUBLIC ACT No. 2622**
+
+ **An Act to Amend Sections Thirty-Nine and Forty-Six of the Revised Charter of the City of Manila, as Amended by Republic Act Numbered Twelve Hundred One**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section thirty-nine of Republic Act Numbered Four hundred nine, otherwise known as the Revised Charter of the City of Manila, as amended by Republic Act Numbered Twelve hundred one, is further amended to read as follows:
+
+ > **Sec. 39.** *The Municipal Court.* -There shall be a municipal court for the City of Manila, for which eleven judges shall be appointed. An executive judge shall be chosen from among them in such manner and at such time as the Secretary of Justice may determine. Four judges shall be designated by the Secretary of Justice to try traffic cases exclusively, such judges so designated shall hold session in such manner that there shall be one judge on duty from eight oclock in the morning until midnight. With regard to ordinary traffic violation, not involving accident, damage to property and/or physical injuries and wherein the accused desires to enter a plea of guilty, imposition of the fine may be made by such deputy clerks as may be designated by the executive judge. The deputy clerks receiving the fines shall be guided by a schedule of fines to be prepared by the Court.
+
+ x x x x x x x x x
+
+ > ""The judges shall have a compensation of eleven thousand six hundred pesos per annum each.""
+
+ **Section 2.** Section forty-six of the same Act is hereby amended to read as follows:
+
+ > **Sec. 46.** *Procedure on appeal from Municipal Court to Court of First Instance.* -An appeal shall lie to the Court of First Instance next to be held within the city, in all cases where fine or imprisonment, or both, is imposed by the municipal court. The party desiring to appeal shall before six oclock post meridian of the day after the rendition and entry of the judgment by the municipal court, file with the clerk of the court a written statement that he appeals to the Court of First Instance. The filing of such statement shall perfect the appeal. However, with regard to criminal cases in which the municipal court has concurrent jurisdiction with the Court of First Instance, the Rules of Court, with respect to appeal, shall apply. The judge of the court from whose decision appeal is taken shall within five days after the appeal is taken, transmit to the clerk of the Court of First Instance a certified copy of the record of proceedings and all the original papers and process in the case, and the clerk of the Court of First Instance shall docket the appeal in that Court. A perfected appeal shall operate to vacate the judgment of the municipal court, and the action, when duly entered in the Court of First Instance, shall stand for trial de novo upon its merits in accordance with the regular procedure in that court, as though the same had never been tried and had been originally there commenced.

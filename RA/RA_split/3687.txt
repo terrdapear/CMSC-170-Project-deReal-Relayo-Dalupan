@@ -1,0 +1,197 @@
+| --- | --- |
+| (SGD.) **MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.) **MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved: APR 29 2022
+
+ (SGD.) **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	This act grants Philippine citizenship to Patrick Francois Renucci, outlining the oath process, issuance of a Certificate of Naturalization, and specifying the effective date.	"[{""title"": ""Section 1."", ""summary"": ""Grant of Philippine citizenship to Patrick Francois Renucci, including all associated rights, privileges, prerogatives, duties, and obligations under the Constitution and laws.""}, {""title"": ""Section 2."", ""summary"": ""Renucci must take the Oath of Allegiance before an authorized officer and register the oath with the Bureau of Immigration.""}, {""title"": ""Section 3."", ""summary"": ""Upon registration of the oath, the Bureau of Immigration shall issue a Certificate of Naturalization to Renucci, enabling full enjoyment of citizenship.""}, {""title"": ""Section 4."", ""summary"": ""The act takes effect fifteen days after its publication in the Official Gazette or a newspaper of general circulation.""}]"	REPUBLIC ACT NO. 11733	April 29, 2022	"[{""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}, {""name"": ""LORD ALLAN JAY Q. VELASCO"", ""title"": ""Speaker of the House of Representatives""}]"		To grant Philippine citizenship to Patrick Francois Renucci, ensuring his rights and obligations under the Constitution and laws of the Republic of the Philippines.	"[""Granting citizenship to Mr. Patrick Francois Renucci"", ""Requirement to take oath of allegiance before an authorized officer"", ""Registration of oath with Bureau of Immigration"", ""Issuance of Certificate of Naturalization upon oath registration"", ""Act takes effect 15 days after publication""]"		"[""citizenship"", ""naturalization"", ""Republic Act"", ""Philippines"", ""PATRICK FRANCOIS RENUCCI""]"	"[""citizenship"", ""naturalization"", ""oath of allegiance"", ""Bureau of Immigration"", ""Certificate of Naturalization"", ""Republic Act 11733""]"
+repacts:datasets/markdown/repacts/2022/ra_11734_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11734_2022.md	ra_11734_2022	AN ACT ESTABLISHING A CENTRAL MULTI-SPECIES MARINE HATCHERY IN THE CITY ENVIRONMENTAL ESTATE IN BARANGAY STA. LUCIA, CITY OF PUERTO PRINCESA, PROVINCE OF PALAWAN, AND APPROPRIATING FUNDS THEREFOR	"Eighteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-sixth day of July, two thousand twenty one.*
+
+ **[ REPUBLIC ACT NO. 11734, April 27, 2022 ]**
+
+ **AN ACT ESTABLISHING A CENTRAL MULTI-SPECIES MARINE HATCHERY IN THE CITY ENVIRONMENTAL ESTATE IN BARANGAY STA. LUCIA, CITY OF PUERTO PRINCESA, PROVINCE OF PALAWAN, AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** There shall be established under the supervision of the Bureau of Fisheries and Aquatic Resources of the Department of Agriculture (BFAR-DA), a central multi-species marine hatchery in the City Environmental Estate in Barangay Sta. Lucia, City of Puerto Princesa, Province of Palawan.
+
+ **Section 2.** The BFAR-DA shall transfer the management of the central multi-species marine hatchery to the Western Philippines University (WPU) within five (5) years after its construction through a memorandum of agreement. With the assistance of the Southeast Asian Fisheries Development Center Aquaculture Division, the BFAR-DA shall implement a training and phasing-in program for WPU personnel on the management and operation of the central hatchery.
+
+ **Section 3.** The BFAR-DA and the WPU shall develop an extension program which shall cater to marginal fisherfolk to educate them on new methods and technology especially on the propagation of high-value marine species.
+
+ **Section 4.** The Secretary of Agriculture shall include in the Department's programs the establishment of the central multi-species marine hatchery in the City Environmental Estate in Barangay Sta. Lucia, City of Puerto Princesa, Province of Palawan, the funding of which shall be included in the annual General Appropriations Act. The WPU shall set aside funds from any available revenue in an amount deemed appropriate for the operationalization of the central hatchery.
+
+ **Section 5.** Within sixty (60) days from the passage of this Act, the Secretary of Agriculture shall issue the rules and regulations on the supervision, operation, monitoring, and the eventual transfer of the management of the multi-species marine hatchery to the WPU.
+
+ **Section 6.** The Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.) **VICENTE C. SOTTO III** President of the Senate | (SGD.) **LORD ALLAN JAY Q. VELASCO** Speaker of the House of Representatives |
+| --- | --- |
+| (SGD.) **VICENTE C. SOTTO III** President of the Senate | (SGD.) **LORD ALLAN JAY Q. VELASCO** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on September 16, 2020 and January 31, 2022, respectively.
+
+ | (SGD.) **MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.) **MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+| --- | --- |
+| (SGD.) **MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.) **MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved: APR 27 2022
+
+ (SGD.) **RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	The act establishes a central multi-species marine hatchery in Puerto Princesa, Palawan, under BFAR-DA supervision, assigns management to Western Philippines University, provides training for fishery personnel, creates an extension program for marginal fisherfolk, allocates funds through the General Appropriations Act, mandates the issuance of rules and regulations, and sets effectivity fifteen days after publication.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of a central multi-species marine hatchery in the City Environmental Estate, Barangay Sta. Lucia, Puerto Princesa, Palawan, under BFAR-DA supervision.""}, {""title"": ""Section 2."", ""summary"": ""BFAR-DA shall transfer management of the hatchery to Western Philippines University within five years and implement a training program for WPU personnel.""}, {""title"": ""Section 3."", ""summary"": ""BFAR-DA and WPU shall develop an extension program to educate marginal fisherfolk on new methods and technology for marine species propagation.""}, {""title"": ""Section 4."", ""summary"": ""Secretary of Agriculture shall include the hatchery establishment in departmental programs and appropriate funding in the General Appropriations Act.""}, {""title"": ""Section 5."", ""summary"": ""Within 60 days, the Secretary of Agriculture shall issue rules and regulations on supervision, operation, monitoring, and eventual transfer of management to WPU.""}, {""title"": ""Section 6."", ""summary"": ""The act shall take effect fifteen days after its publication in the Official Gazette or a general circulation newspaper.""}]"	11734	April 27, 2022	"[{""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}, {""name"": ""LORD ALLAN JAY Q. VELASCO"", ""title"": ""Speaker of the House of Representatives""}]"		To establish a central multi-species marine hatchery in Puerto Princesa, Palawan, and appropriate funds for its operation.	"[""Establishment of the hatchery under BFAR-DA supervision"", ""Transfer of management to WPU within five years"", ""Training program for WPU personnel"", ""Extension program for marginal fisherfolk"", ""Funding appropriation via General Appropriations Act"", ""Issuance of rules and regulations within 60 days"", ""Effectivity fifteen days after publication""]"		"[""Marine Conservation"", ""Aquaculture"", ""Fishery"", ""Hatchery"", ""Palawan"", ""BFAR""]"	"[""marine hatchery"", ""multi-species"", ""aquaculture"", ""BFAR"", ""Western Philippines University"", ""Palawan"", ""fishing"", ""fisherfolk"", ""training""]"
+repacts:datasets/markdown/repacts/2022/ra_11735_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11735_2022.md	ra_11735_2022	AN ACT ESTABLISHING A SATELLITE MULTI-SPECIES MARINE HATCHERY IN THE MUNICIPALITY OF BATAD, PROVINCE OF ILOILO AND APPROPRIATING FUNDS THEREFOR	"Eighteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-sixth day of July, two thousand twenty one.*
+
+ **[ REPUBLIC ACT NO. 11735, April 27, 2022 ]**
+
+ **AN ACT ESTABLISHING A SATELLITE MULTI-SPECIES MARINE HATCHERY IN THE MUNICIPALITY OF BATAD, PROVINCE OF ILOILO AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** There shall be established, under the supervision of the Bureau of Fisheries and Aquatic Resources of the Department of Agriculture (BFAR-DA), a satellite multi-species marine hatchery in the Municipality of Batad, Province of Iloilo.
+
+ **Section 2.** The BFAR-DA shall, within three (3) years after the establishment of the satellite multi-species marine hatchery, transfer the management of the same to the Northern Iloilo Polytechnic State College (NIPSCO through a memorandum of agreement. The BFAR-DA shall implement a training and phasing-in program for NIPSC personnel on the management and operation of the satellite multi-species marine hatchery.
+
+ The BFAR-DA and the NIPSC shall conduct continuing research and experimentation on the breeding and production of marine species, especially as they apply to local conditions, to discover new methods and strategy that shall benefit the fisheries industry.
+
+ **Section 3.** The Secretary of Agriculture shall include in the Department's programs the establishment of the satellite multi-species marine hatchery in the Municipality of Batad, Province of Iloilo, the funding of which shall be included in the annual General Appropriations Act. The NIPSC shall set aside funds from any available revenue in an amount deemed appropriate for the operationalization of the satellite hatchery
+
+ **Section 4.** Within sixty (60) days from the approval of this Act, the Department of Agriculture and the NIPSC shall issue the rules and regulations on the establishment, supervision, operation, monitoring, and the eventual transfer of the management of the satellite multi-species marine hatchery to the NIPSC.
+
+ **Section 5.** The Act shall take effect fifteen (15) days after its publication in theOfficial Gazetteor in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.)**VICENTE C. SOTTO III** President of the Senate | (SGD.) **LORD ALLAN JAY Q. VELASCO** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on September 16, 2020 and January 31, 2022, respectively.
+
+ | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.)**MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved: APR 27 2022
+
+ (SGD.)**RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	This Republic Act establishes a satellite multi-species marine hatchery in Batad, Iloilo, supervised by the Bureau of Fisheries and Aquatic Resources (BFAR-DA). It appropriates funds for the hatchery, mandates the transfer of management to the Northern Iloilo Polytechnic State College within three years, and requires training, research, and the issuance of rules within 60 days. The act becomes effective 15 days after publication.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of a satellite multi-species marine hatchery in Batad, Iloilo, under BFAR-DA supervision.""}, {""title"": ""Section 2."", ""summary"": ""BFAR-DA to transfer management to NIPSCO within three years, provide training for NIPSC personnel, and conduct research on marine species.""}, {""title"": ""Section 3."", ""summary"": ""Secretary of Agriculture to include hatchery in programs and funding in the General Appropriations Act; NIPSC to allocate operational funds.""}, {""title"": ""Section 4."", ""summary"": ""Within 60 days, the Department of Agriculture and NIPSC must issue rules and regulations for the hatchery.""}, {""title"": ""Section 5."", ""summary"": ""Act takes effect 15 days after publication in the Official Gazette or a newspaper of general circulation.""}]"	Republic Act No. 11735	April 27, 2022		"[{""name"": ""Vicente C. Sotto III"", ""title"": ""President of the Senate""}, {""name"": ""Lord Allan J. Q. Velasco"", ""title"": ""Speaker of the House of Representatives""}, {""name"": ""Myra Marie D. Villarica"", ""title"": ""Secretary of the Senate""}, {""name"": ""Mark Llandro L. Mendoza"", ""title"": ""Secretary General of the House of Representatives""}, {""name"": ""Rodrigo Roa Duterte"", ""title"": ""President of the Philippines""}]"	To establish a satellite multi-species marine hatchery in Batad, Iloilo, for fishery development and to ensure proper management, funding, and regulation of marine breeding activities.	"[""Establishment of the hatchery under BFAR-DA supervision"", ""Transfer of management to NIPSCO within three years"", ""Training program for NIPSC personnel"", ""Research on marine species breeding"", ""Funding appropriation in the General Appropriations Act"", ""Issuance of rules and regulations within 60 days"", ""Effectivity 15 days after publication""]"		"[""Marine Fisheries"", ""Hatchery"", ""Iloilo"", ""Agriculture""]"	"[""satellite hatchery"", ""BFAR-DA"", ""NIPSCO"", ""marine species"", ""fisheries"", ""Iloilo""]"
+repacts:datasets/markdown/repacts/2022/ra_11736_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11736_2022.md	ra_11736_2022	AN ACT ESTABLISHING A MULTI-SPECIES MARINE HATCHERY IN THE MUNICIPALITY OF BASILISA, PROVINCE OF DINAGAT ISLANDS, AND APPROPRIATING FUNDS THEREFOR	"Eighteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-sixth day of July, two thousand twenty one.*
+
+ **[ REPUBLIC ACT NO. 11736, April 27, 2022 ]**
+
+ **AN ACT ESTABLISHING A MULTI-SPECIES MARINE HATCHERY IN THE MUNICIPALITY OF BASILISA, PROVINCE OF DINAGAT ISLANDS, AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** There shall be established, under the supervision of the Bureau of Fisheries and Aquatic Resources of the Department of Agriculture (BFAR-DA), a multi-species marine hatchery in the Municipality of Basilisa, Province of Dinagat Islands.
+
+ **Section 2.** The BFAR-DA shall transfer the management of the multi-species marine hatchery to the local government of Basilisa, within two (2) years after its construction through a memorandum of agreement. The BFAR-DA shall implement a training and phasing-in program for the personnel of the local government unit concerned on the management and operation of the multi-species marine hatchery.
+
+ The BFAR-DA shall conduct continuing research and experimentation on the breeding and production of marine species, especially as they apply to local conditions, to discover new methods and strategy that shall benefit the fisheries industry.
+
+ **Section 3.** The Secretary of Agriculture shall include in the Department's programs the establishment of the multi-species marine hatchery in the Municipality of Basilisa, Province of Dinagat Islands, the funding of which shall be included in the annual General Appropriations Act. The local government unit concerned shall set aside funds from any available revenue in an amount deemed appropriate for the operationalization of the hatchery.
+
+ **Section 4.** Within sixty (60) days from the effectivity of this Act, the Secretary of Agriculture shall issue the rules and regulations on the supervision, operation, monitoring, and the eventual transfer of the management of the multi-species marine hatchery to the local government of Basilisa.
+
+ **Section 5.** The Act shall take effect fifteen (15) days after its publication in theOfficial Gazetteor in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.)**VICENTE C. SOTTO III** President of the Senate | (SGD.) **LORD ALLAN JAY Q. VELASCO** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on August 3, 2021 and January 31, 2022, respectively.
+
+ | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.)**MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved: APR 27 2022
+
+ (SGD.)**RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	This law establishes a multi-species marine hatchery in Basilisa, Dinagat Islands, supervised by the Bureau of Fisheries and Aquatic Resources (BFAR-DA). It transfers management to the local government within two years, provides training and research programs, ensures funding through the General Appropriations Act and local revenues, and mandates the issuance of rules within 60 days. The act takes effect 15 days after publication.	"[{""title"": ""Section 1"", ""summary"": ""Establishes a multi-species marine hatchery in Basilisa under the supervision of BFAR-DA.""}, {""title"": ""Section 2"", ""summary"": ""BFAR-DA will transfer the management of the hatchery to Basilisa\u2019s local government within two years, implement training for local personnel, and conduct research on marine species breeding and production.""}, {""title"": ""Section 3"", ""summary"": ""The Secretary of Agriculture includes the hatchery in departmental programs and its funding in the General Appropriations Act, while the local government allocates operational funds from available revenues.""}, {""title"": ""Section 4"", ""summary"": ""Within 60 days of effectivity, the Secretary of Agriculture issues rules and regulations on supervision, operation, monitoring, and eventual transfer of management to Basilisa.""}, {""title"": ""Section 5"", ""summary"": ""The act takes effect 15 days after publication in the Official Gazette or a general circulation newspaper.""}]"	11736	April 27, 2022			To establish a marine hatchery that promotes sustainable fisheries, supports local economic development, and enhances the Philippines’ marine biodiversity and food security.	"[""Establishment of a multi-species marine hatchery in Basilisa"", ""Transfer of management to local government within two years"", ""Implementation of training and phasing-in program for local personnel"", ""Conducting research and experimentation on marine species breeding"", ""Funding through the General Appropriations Act and local revenue"", ""Issuance of rules and regulations within 60 days"", ""Effectivity 15 days after publication""]"		"[""Marine Hatchery"", ""Fisheries"", ""Dinagat Islands"", ""BFAR"", ""Agriculture""]"	"[""marine hatchery"", ""fisheries"", ""Dinagat Islands"", ""BFAR"", ""agriculture"", ""multi-species"", ""training"", ""research"", ""funding""]"
+repacts:datasets/markdown/repacts/2022/ra_11737_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11737_2022.md	ra_11737_2022	AN ACT ESTABLISHING A REGULAR DISTRICT OFFICE OF THE LAND TRANSPORTATION (LTO) IN THE MUNICIPALITY OF ALICIA, PROVINCE OF ISABELA	"Eighteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-sixth day of July, two thousand twenty one.*
+
+ **[ REPUBLIC ACT NO. 11737, April 27, 2022 ]**
+
+ **AN ACT ESTABLISHING A REGULAR DISTRICT OFFICE OF THE LAND TRANSPORTATION (LTO) IN THE MUNICIPALITY OF ALICIA, PROVINCE OF ISABELA**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** There shall be established a regular district office of the Land Transportation Office (LTO) in the Municipality of Alicia, Province of Isabela.
+
+ **Section 2.** The Secretary of Transportation shall immediately include in the Department's program the operationalization of the LTO-Alicia District Office in the Province of Isabela, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect fifteen (15) days after its publication in two (2) newspapers of general circulation.
+
+ Approved,
+
+ | (SGD.)**VICENTE C. SOTTO III** President of the Senate | (SGD.) **LORD ALLAN JAY Q. VELASCO** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on November 4, 2019 and January 31, 2022, respectively.
+
+ | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.)**MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved:APR 27 2022
+
+ (SGD.)**RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	Establishes a regular district office of the Land Transportation Office in Alicia, Isabela.	"[{""title"": ""Section 1."", ""summary"": ""There shall be established a regular district office of the Land Transportation Office (LTO) in the Municipality of Alicia, Province of Isabela.""}, {""title"": ""Section 2."", ""summary"": ""The Secretary of Transportation shall immediately include in the Department's program the operationalization of the LTO-Alicia District Office in the Province of Isabela, the funding of which shall be included in the annual General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""This Act shall take effect fifteen (15) days after its publication in two (2) newspapers of general circulation.""}]"	11737	April 27, 2022			To establish a regular LTO district office in Alicia, Isabela, thereby improving land transportation oversight and services in the province.	"[""Establishment of a regular district office of the LTO in Alicia, Isabela."", ""Operationalization and funding inclusion in the General Appropriations Act."", ""Effectivity fifteen days after publication.""]"		"[""Land transportation"", ""Local government"", ""Infrastructure"", ""Public administration""]"	"[""Land Transportation Office"", ""Alicia"", ""Isabela"", ""Regular district office"", ""Republic Act 11737""]"
+repacts:datasets/markdown/repacts/2022/ra_11738_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11738_2022.md	ra_11738_2022	AN ACT ESTABLISHING THE LAND TRANSPORTATION (LTO) DISTRICT OFFICE IN THE MUNICIPALITY OF MANOLO FORTICH, BUKIDNON AND APPROPRIATING FUNDS THEREFOR	"Eighteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-sixth day of July, two thousand twenty one.*
+
+ **[ REPUBLIC ACT NO. 11738, April 27, 2022 ]**
+
+ **AN ACT ESTABLISHING THE LAND TRANSPORTATION (LTO)DISTRICT OFFICE IN THE MUNICIPALITY OF MANOLO FORTICH, BUKIDNON AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** There is hereby established a district office of the Land Transportation Office (LTO) to be located in the Municipality of Manolo Fortich, Province of Bukidnon.
+
+ **Section 2.** The Secretary of Transportation shall immediately include in the Department's program the operationalization of an LTO district office in Manolo Fortich, Province of Bukidnon, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect fifteen (15) days after its publication in theOfficial Gazetteor in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.)**VICENTE C. SOTTO III** President of the Senate | (SGD.) **LORD ALLAN JAY Q. VELASCO** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on November 4, 2019 and January 31, 2022, respectively.
+
+ | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.)**MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved:APR 27 2022
+
+ (SGD.)**RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	Establishes an LTO district office in Manolo Fortich, Bukidnon and appropriates funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""There is hereby established a district office of the Land Transportation Office (LTO) to be located in the Municipality of Manolo Fortich, Province of Bukidnon.""}, {""title"": ""Section 2."", ""summary"": ""The Secretary of Transportation shall immediately include in the Department's program the operationalization of an LTO district office in Manolo Fortich, Province of Bukidnon, the funding of which shall be included in the annual General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.""}]"	11738	April 27, 2022		"[{""name"": ""MYRA MARIE D. VILLARICA"", ""title"": ""Secretary of the Senate""}, {""name"": ""MARK LLANDRO L. MENDOZA"", ""title"": ""Secretary General House of Representatives""}]"	To establish an LTO district office in Manolo Fortich, Bukidnon and allocate funds for its operation.	"[""Section 1 establishes the LTO district office in Manolo Fortich."", ""Section 2 mandates the Secretary of Transportation to include its operationalization in the Department's program and funding in the General Appropriations Act."", ""Section 3 sets the effective date fifteen days after publication.""]"		"[""Transportation"", ""Land Transportation Office"", ""Bukidnon"", ""Manolo Fortich""]"	"[""LTO"", ""district office"", ""Manolo Fortich"", ""Bukidnon"", ""funding"", ""General Appropriations Act""]"
+repacts:datasets/markdown/repacts/2022/ra_11739_2022.md	repacts	2022		datasets/markdown/repacts/2022/ra_11739_2022.md	ra_11739_2022	AN ACT ESTABLISHING A REGULAR DISTRICT OFFICE OF THE LAND TRANSPORTATION FRANCHISING AND REGULATORY BOARD (LTFRB) IN THE CITY OF BACOOR, PROVINCE OF CAVITE AND APPROPRIATING FUNDS THEREFOR	"Eighteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-sixth day of July, two thousand twenty one.*
+
+ **[ REPUBLIC ACT NO. 11739, April 27, 2022 ]**
+
+ **AN ACT ESTABLISHING A REGULAR DISTRICT OFFICE OF THE LAND TRANSPORTATION FRANCHISING AND REGULATORY BOARD (LTFRB) IN THE CITY OF BACOOR, PROVINCE OF CAVITE AND APPROPRIATING FUNDS THEREFOR**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.** There is hereby established, under the supervision of the Land Transportation Franchising and Regulatory Board (LTFRB), a regular district office of the LTFRB in the City of Bacoor, Province of Cavite.
+
+ **Section 2.** The Secretary of Transportation shall immediately include in the Department's program the operationalization of LTFRB Regular District Office in the City of Bacoor, Province of Cavite, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect fifteen (15) days after its publication in two (2) newspapers of general circulation.
+
+ Approved,
+
+ | (SGD.)**VICENTE C. SOTTO III** President of the Senate | (SGD.) **LORD ALLAN JAY Q. VELASCO** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was passed by the House of Representatives and the Senate of the Philippines on November 4, 2019 and January 31, 2022, respectively.
+
+ | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of the Senate | (SGD.)**MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved:APR 27 2022
+
+ (SGD.)**RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	This act establishes a regular district office of the Land Transportation Franchising and Regulatory Board (LTFRB) in the City of Bacoor, Cavite, and appropriates funds for its operation. The office will be operationalized within fifteen days after publication in two newspapers of general circulation.	"[{""title"": ""Section 1"", ""summary"": ""Establishes a regular district office of the LTFRB in the City of Bacoor, Province of Cavite.""}, {""title"": ""Section 2"", ""summary"": ""Mandates the Secretary of Transportation to include the operationalization of the LTFRB Regular District Office in Bacoor in the Department\u2019s program and to fund it through the General Appropriations Act.""}, {""title"": ""Section 3"", ""summary"": ""Specifies that the act takes effect fifteen (15) days after its publication in two newspapers of general circulation.""}]"	11739	April 27, 2022	"[{""name"": ""VICENTE C. SOTTO III"", ""title"": ""President of the Senate""}, {""name"": ""LORD ALLAN JAY Q. VELASCO"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""MYRA MARIE D. VILLARICA"", ""title"": ""Secretary of the Senate""}, {""name"": ""MARK LLANDRO L. MENDOZA"", ""title"": ""Secretary General House of Representatives""}]"	To establish a regular district office of the LTFRB in Bacoor, Cavite and provide for its funding and operationalization.	"[""Establishment of a regular LTFRB district office in Bacoor, Cavite"", ""Appropriation of funds for the office"", ""Operationalization within 15 days of publication""]"		"[""Transportation"", ""Infrastructure"", ""LTFRB"", ""Bacoor"", ""Cavite""]"	"[""Land Transportation"", ""Franchising"", ""Regulatory Board"", ""District Office"", ""Funding""]"

@@ -1,0 +1,150 @@
+|  | G.2 | [Center for International Trade Expositions and Missions](pdf/ra10633/bsgc-g2.pdf) |
+|  | G.3 | [Cottage Industry Technology Center](pdf/ra10633/bsgc-g3.pdf) |
+|  | G.4 | [Small Business Corporation](pdf/ra10633/bsgc-g4.pdf) |
+|  | H. | [DEPARTMENT OF TRANSPORTATION AND COMMUNICATIONS](pdf/ra10633/bsgc-h.pdf) |
+|  | H.1 | [Philippine National Railways](pdf/ra10633/bsgc-h.pdf) |
+|  | I. | [NATIONAL ECONOMIC AND DEVELOPMENT AUTHORITY](pdf/ra10633/bsgc-i.pdf) |
+|  | I.1 | [Philippine Institute for Development Studies](pdf/ra10633/bsgc-i.pdf) |
+|  | J. | [PRESIDENTIAL COMMUNICATIONS OPERATIONS OFFICE](pdf/ra10633/bsgc-j.pdf) |
+|  | J.1 | [Peoples Television Network, Inc.](pdf/ra10633/bsgc-j.pdf) |
+|  | K. | [OTHER EXECUTIVE OFFICES](pdf/ra10633/bsgc-k.pdf) |
+|  | K.1 | [Authority of the Freeport Area of Bataan](pdf/ra10633/bsgc-k.pdf) |
+|  | K.2 | [Cagayan Economic Zone Authority](pdf/ra10633/bsgc-k2.pdf) |
+|  | K.3 | [Credit Information Corporation](pdf/ra10633/bsgc-k3.pdf) |
+|  | K.4 | [Cultural Center of the Philippines](pdf/ra10633/bsgc-k4.pdf) |
+|  | K.5 | [Development Academy of the Philippines](pdf/ra10633/bsgc-k5.pdf) |
+|  | K.6 | [Home Guaranty Corporation](pdf/ra10633/bsgc-k6.pdf) |
+|  | K.7 | [National Home Mortgage Finance Corporation](pdf/ra10633/bsgc-k7.pdf) |
+|  | K.8 | [National Housing Authority](pdf/ra10633/bsgc-k8.pdf) |
+|  | K.9 | [Peoples Credit Finance Corporation](pdf/ra10633/bsgc-k9.pdf) |
+|  | K.10 | [Philippine Center for Economic Development](pdf/ra10633/bsgc-k10.pdf) |
+|  | K.11 | [Philippine Postal Corporation](pdf/ra10633/bsgc-k11.pdf) |
+|  | K.12 | [Social Housing Finance Corporation](pdf/ra10633/bsgc-k12.pdf) |
+|  | K.13 | [Southern Philippines Development Authority](pdf/ra10633/bsgc-k13.pdf) |
+|  | K.14 | [Zamboanga City Special Economic Zone Authority](pdf/ra10633/bsgc-k14.pdf) |
+|  | L. | [BUDGETARY SUPPORT TO GOVERNMENT CORPORATIONS OTHERS](pdf/ra10633/bsgc-l.pdf) |
+| XXXVI. | [ALLOCATIONS TO LOCAL GOVERNMENT UNITS](pdf/ra10633/algu.pdf) |  |
+|  | A. | [Metropolitan Manila Development Authority](pdf/ra10633/algu.pdf) |
+|  | B. | [Special Shares of LGUs in the Proceeds of National Taxes](pdf/ra10633/algu-b.pdf) |
+|  | C. | [Barangay Officials Death Benefits Fund](pdf/ra10633/algu-c.pdf) |
+|  | D. | [Local Government Support Fund (formerly Financial Subsidy to Local Government Units](pdf/ra10633/algu-d.pdf)) |
+|  | E. | [Special Shares of Local Government Units in the Proceeds of Fire Code Fees](pdf/ra10633/algu-e.pdf) |
+| XXXVII. | [CONTINGENT FUND](pdf/ra10633/cf.pdf) |  |
+| XXXVIII. | [Department of Education School Building Program](pdf/ra10633/DepEd-sbp.pdf) |  |
+| XXXIX. | [E-GOVERNMENT FUND](pdf/ra10633/e-gov.pdf) |  |
+| XL. | [FEASIBILITY STUDIES FUND](pdf/ra10633/feas.pdf) |  |
+| XLI. | [INTERNATIONAL COMMITMENTS FUND](pdf/ra10633/icf.pdf) |  |
+| XLII. | [MISCELLANEOUS PERSONNEL BENEFITS FUND](pdf/ra10633/misc-pb.pdf) |  |
+| XLIII. | [NATIONAL DISASTER RISK REDUCTION AND MANAGEMENT FUND](pdf/ra10633/ndrrm.pdf) |  |
+| XLIV. | [PENSION AND GRATUITY FUND](pdf/ra10633/pgf.pdf) |  |
+| XLV. | [REHABILITATION AND RECONSTRUCTION PROGRAM](pdf/ra10633/rehab.pdf) |  |
+| XLVI. | [UNPROGRAMMED FUND](pdf/ra10633/uf.pdf) |  |
+|  |  |  |
+| [Staffing Summary](pdf/ra10633/staff.pdf) |  |  |
+|  |  |  |
+| Budgets of Department of Energy Attached Corporations |  |  |
+|  | [National Electrification Administration](pdf/ra10633/nea.pdf) |  |
+|  | [National Power Corporation](pdf/ra10633/npc.pdf) |  |
+|  | [Philippine National Oil Company](pdf/ra10633/pnoc.pdf) |  |
+|  |  |  |
+| [General Provisions](pdf/ra10633/genprov.pdf) |  |  |
+| [Presidents Veto Message](http://www.gov.ph/2013/12/20/veto-message-of-president-aquino-to-the-15th-congress-on-the-general-appropriations-act-of-2014-december-20-2013/) |  |  |
+| [Summary of FY 2014 New Appropriations](pdf/ra10633/summary.pdf) |  |  |
+|  |  |  |
+| **Annexes** |  |  |
+|  | A. | [Automatic Appropriations](pdf/ra10633/auto-a.pdf) |
+|  | B. | [Debt Service-Principal Amortization](pdf/ra10633/debt.pdf) |
+
+ Source: [The Department of Budget and Management](http://www.dbm.gov.ph/?page_id=7906)
+"	success	Republic Act	This law appropriates funds for the operation of the Philippine government for the fiscal year 2014 and for other specified purposes.	"[{""title"": ""Section 1. Appropriation of Funds"", ""summary"": ""Appropriates funds from the national treasury for the operation of the government for the year 2014, with detailed allocations by agency, fund, program, project, and activity.""}]"	RA 10633	July 22, 2013			To provide the necessary funds for the operation of the Philippine government for the fiscal year 2014 and for other purposes.	"[""Appropriation of funds for the operation of the government for 2014"", ""Allocation of funds by agency, fund, program, project, and activity"", ""Provision of funds for other specified purposes""]"		"[""Appropriation"", ""Budget"", ""Government Operation"", ""Fiscal Year 2014"", ""RA 10633""]"	"[""appropriation"", ""funds"", ""government"", ""budget"", ""Philippines"", ""2014""]"
+repacts:datasets/markdown/repacts/2013/ra_10634_2013.md	repacts	2013		datasets/markdown/repacts/2013/ra_10634_2013.md	ra_10634_2013	AN ACT APPROPRIATING THE SUM OF FOURTEEN BILLION SIX HUNDRED MILLION PESOS (P14,600,000,000.00) AS SUPPLEMENTAL APPROPRIATIONS FOR FY 2013 AND FOR OTHER PURPOSES	"Sixteenth Congress First Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-second day of July, two thousand thirteen.*
+
+ **REPUBLIC ACT NO. 10634**
+
+ AN ACT APPROPRIATING THE SUM OF FOURTEEN BILLION SIX HUNDRED MILLION PESOS (P14,600,000,000.00) AS SUPPLEMENTAL APPROPRIATIONS FOR FY 2013 AND FOR OTHER PURPOSES
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** *Appropriations.* The sum of Fourteen billion six hundred million pesos (P14,600,000,000.00) is hereby appropriated to supplement the FY 2013 Budget under the General Appropriations Act of 2013 (Republic Act No. 10352) for the purpose of augmenting the Calamity Fund by Eleven billion two hundred million pesos (P11,200,000,000.00) and the Quick Response Fund of the Department of Social Welfare and Development by Three billion four hundred million pesos (P3,400,000,000.00).
+
+ **Section 2.** *Use and Release of Funds.* The amounts appropriated herein shall be used for relief and rehabilitation services, and the repair, rehabilitation and reconstruction of permanent structures, including other capital expenditures for disaster operations and rehabilitation activities in areas affected by disasters and calamities, both natural and man-made including, but not limited to, the areas devastated by typhoons ""Labuyo"", ""Odette"", ""Pablo"", ""Sendong"", ""Santi"" and ""Vinta"", as declared by the National Disaster Risk Reduction and Management Council, the siege and unrest in Zamboanga City, the magnitude 7.2 earthquake in Bohol and Cebu, and the massive onslaught of super Typhoon ""Yolanda"" which severely hit the Central Philippines, including Leyte, Eastern Samar, Northern Samar, Capiz, Aklan, the northern part of Antique, the northern areas of Cebu, Iloilo, Palawan, Romblon, Biliran, Southern Leyte, Negros Occidental and Negros Oriental.
+
+ Releases from this Fund shall be made by the Department of Budget and Management (DBM) directly to the appropriate implementing departments/agencies in accordance with the approval of the President of the Philippines.
+
+ **Section 3.** *Availability of Appropriations.* The appropriations authorized in this Act shall be available for release and obligation for the purposes specified until December 31, 2014.
+
+ **Section 4.** *Submission of Reports.* The DBM and the implementing department/agency shall submit, either in printed form or by way of electronic document, to the House Committee on Appropriations, the Senate Committee on Finance and the Commission on Audit, the quarterly accountability reports on the utilization of funds. The DBM and the DBMs web administrator or his/her equivalent shall be responsible for ensuring that the said quarterly reports are likewise posted on the official website of the DBM and the implementing agency.
+
+ Releases from the said Fund shall be subject to the submission of a special budget pursuant to Section 35, [Chapter 5, Book VI of Executive Order No. 292](http://www.gov.ph/1987/07/25/executive-order-no-292-book-vichapter-5-budget-execution/), series of 1987.
+
+ **Section 5.** *Separability Clause.* If, for any reason or reasons, any part or provision of this Act shall be declared as unconstitutional or invalid, the other parts or provisions hereof which are not affected thereby shall continue to be in full force and effect.
+
+ **Section 6.** *Repealing Clause.* All provisions of existing laws, orders, rules and regulations or parts thereof which are in conflict or inconsistent with the provisions of this Act are hereby repealed, amended or modified accordingly.
+
+ **Section 7.** *Effectivity.* This Act shall take effect immediately upon its publication in the *Official Gazette*or in at least two (2) newspapers of general circulation in the Philippines.
+
+ Approved,
+
+   
+ | (Sgd.) **FRANKLIN M. DRILON** President of the Senate | (Sgd.) **FELICIANO BELMONTE JR.** Speaker of the House of Representatives |
+
+ This Act which originated in the House of Representatives was finally passed by the House of Representatives and the Senate on December 9, 2013 and December 4, 2013, respectively.
+
+   
+ | (Sgd.) **OSCAR G. YABES** Secretary of the Senate | (Sgd.) **MARILYN B. BARUA-YAP** Secretary General House of Representatives |
+
+ Approved: DEC 26 2013
+
+ **(Sgd.) BENIGNO S. AQUINO III** *President of the Philippines*
+"	success	Republic Act	Appropriates P14.6B as supplemental appropriations for FY 2013, funding calamity and quick response funds, with specified use, availability, reporting, and effectivity provisions.	"[{""title"": ""Appropriations"", ""summary"": ""Appropriates P14.6B to supplement FY 2013 budget, allocating to Calamity Fund P11.2B and Quick Response Fund P3.4B.""}, {""title"": ""Use and Release of Funds"", ""summary"": ""Funds to be used for relief, rehabilitation, reconstruction, capital expenditures for disaster operations in affected areas.""}, {""title"": ""Availability of Appropriations"", ""summary"": ""Funds available for release and obligation until December 31, 2014.""}, {""title"": ""Submission of Reports"", ""summary"": ""DBM and implementing agencies must submit quarterly accountability reports to committees and COA; reports posted on DBM website.""}, {""title"": ""Separability Clause"", ""summary"": ""If any part invalid, remaining parts continue in force.""}, {""title"": ""Repealing Clause"", ""summary"": ""Repeals, amends or modifies existing laws, orders, rules conflicting with this Act.""}, {""title"": ""Effectivity"", ""summary"": ""Act takes effect upon publication in Official Gazette or in at least two newspapers of general circulation.""}]"	10634	December 26, 2013	"[{""name"": ""FELICIANO BELMONTE JR."", ""title"": ""Speaker of the House of Representatives""}]"		To provide supplemental appropriations for FY 2013 to support disaster relief and rehabilitation.	"[""Appropriates P14.6B for disaster relief"", ""Allocates P11.2B to Calamity Fund"", ""Allocates P3.4B to Quick Response Fund"", ""Funds available until Dec 31, 2014"", ""Requires quarterly accountability reports"", ""Includes separability and repealing clauses"", ""Effectivity upon publication""]"	General Appropriations Act of 2013 (RA 10352); Executive Order No. 292	"[""Appropriations"", ""Disaster Relief"", ""FY 2013"", ""Republic Act""]"	"[""appropriations"", ""calamity fund"", ""quick response fund"", ""disaster"", ""relief"", ""rehabilitation"", ""budget"", ""reporting""]"
+repacts:datasets/markdown/repacts/2014/ra_10635_2014.md	repacts	2014		datasets/markdown/repacts/2014/ra_10635_2014.md	ra_10635_2014	AN ACT ESTABLISHING THE MARITIME INDUSTRY AUTHORITY (MARINA) AS THE SINGLE MARITIME ADMINISTRATION RESPONSIBLE FOR THE IMPLEMENTATION AND ENFORCEMENT OF THE 1978 INTERNATIONAL CONVENTION ON STANDARDS OF TRAINING, CERTIFICATION AND WATCHKEEPING FOR SEAFARERS, AS AMENDED, AND INTERNATIONAL AGREEMENTS OR COVENANTS RELATED THERETO	"**Sixteenth Congress First Regular Session**
+
+ *Begun and held in Metro Manila, on Monday, the twenty-second day of July, two thousand thirteen.*
+
+ **REPUBLIC ACT NO. 10635**
+
+ AN ACT ESTABLISHING THE MARITIME INDUSTRY AUTHORITY (MARINA) AS THE SINGLE MARITIME ADMINISTRATION RESPONSIBLE FOR THE IMPLEMENTATION AND ENFORCEMENT OF THE 1978 INTERNATIONAL CONVENTION ON STANDARDS OF TRAINING, CERTIFICATION AND WATCHKEEPING FOR SEAFARERS, AS AMENDED, AND INTERNATIONAL AGREEMENTS OR COVENANTS RELATED THERETO
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** *Declaration of Policy.*The following are hereby declared to be the policies of the State:
+
+ (a) The State shall ensure compliance with the 1978 International Convention on Standards of Training, Certification and Watchkeeping for Seafarers (STCW Convention), as amended; all international agreements implementing or applying the STCW Convention; and other international maritime safety conventions or agreements that the STCW Convention seeks to promote compliance with; (b) The State recognizes the vital contribution of the seafarers to the national economy. Toward this end, the State shall establish systems and mechanisms for the promotion and protection of the well-being of the seafarers to ensure their professionalism and competitiveness, both in local and international trade, consistent with existing local labor laws and applicable international laws; (c) The State shall create a single maritime administrative system and structure that shall provide an enabling environment for the business of Philippine seafaring; establish appropriate institutional arrangements with other agencies of government; and create an effective regulatory framework conducive to the efficiency, transparency and competitiveness of the Philippine seafaring industry consistent with the STCW Convention; and (d) The State shall harmonize all legal and administrative measures which are taken and provided for by government regulatory agencies and ensure that such measures are appropriate and consistent with the STCW Convention. **Section 2.** *Definition of Terms.*As used in this Act, the following terms shall mean:
+
+ (a) *Certificate of competency*a certificate issued to masters, officers and Global Maritime Distress and Safety System (GMDSS) radio operators in accordance with the provisions of Chapters II, III, IV or VII of the Annex to the STCW Convention entitling the lawful holder to serve and perform the functions involved at the level of responsibility specified therein. (b) *Certificate of endorsement*an attestation of the maritime administration as to the authenticity and validity of the certificates, incorporated in the format of the certificates issued to masters and officers, stating that the issuance of the relevant certificate is in compliance with the requirements of the STCW Convention. (c) *Certificate of proficiency*a certificate other than a certificate of competency issued to a seafarer, stating that the relevant requirements of training competencies or seagoing service under the STCW Convention have been met. (d) *Documentary evidence*all the documentation, other than a certificate of competency or certificate of proficiency, used to establish that the relevant requirements of the STCW Convention have been met. (e) *Maritime administration or single maritime administration*the Maritime Industry Authority (MARINA), as the single government agency mandated to ensure complete and effective implementation of the STCW Convention. (f) *Seafarer*any person who is employed, engaged or works onboard seagoing ships, whether or not such ships are engaged in the domestic or overseas trade, and to whom the STCW Convention applies. (g) *STCW Convention*the 1978 International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, and its subsequent amendments. **Section 3.** MARINA *as the Single Maritime Administration.*The MARINA, created under Presidential Decree. No. 474, as amended, shall be the single maritime administration mandated to implement and enforce the 1978 International Convention on Standards of Training, Certification and Watchkeeping for Seafarers. It shall carry out an effective regulatory framework conducive to the efficiency, transparency and competitiveness of the Philippine seafaring industry.
+
+ **Section 4.** *Powers and Functions of the MARINA.*In addition to the mandate of the MARINA under Presidential Decree No. 474, as amended, and in order to carry out the provisions of this Act, the MARINA shall exercise the following powers and functions:
+
+ (a) Act as the single and central maritime administration for all purposes relating to compliance with the STCW Convention. (b) Administer and ensure the effective implementation of the STCW Convention; including all international conventions or agreements implementing or applying the same, as well as international maritime safety conventions or agreements that it seeks to promote compliance with. (c) Assume all powers and functions of the Professional Regulation Commission (PRC), the Commission on Higher Education (CHED), the Technical Education and Skills Development Authority (TESDA), the Department of Health (DOH) and the National Telecommunications Commission (NTC) relative to the issuance, validation, verification, correction, revocation or cancellation of certificates of competency, endorsement, proficiency and documentary evidence required of all seafarers and all such other matters pertaining to the implementation of the STCW Convention, subject to the following: (1) The MARINA shall ensure that the examination, licensing and certification system for marine deck and engine officers are in accordance with the requirements prescribed under the STCW Convention. All powers, duties and functions of the PRC on examination, licensing and certification system for marine deck and engine officers as provided in Republic Act No. 8544, otherwise known as ""The Philippine Merchant Marine Officers Act of 1998"", shall henceforth be exercised by the MARINA. The compensation and allowances of the Board of Marine Deck Officers and Marine Engine Officers under Article TV, Section 8 of Republic Act No. 8544 shall, however, be comparable to the compensation and allowances being received by the chairpersons and members of other existing regulatory boards under the PRC and as provided in the General Appropriations Act. (2) The MARINA shall adopt rules and regulations, in accordance with the STCW Convention, governing able-bodied deck and engine ratings including: (i) Monitoring and verification of compliance with the standards of ratings; (ii) Harmonization of the procedures for periodic evaluation, assessment and monitoring activities undertaken by accredited institutions with registered programs for ratings; and (iii) Issuance of certificates of proficiency to ratings. (3) The MARINA shall ensure that all legal and administrative measures relative to the issuance of certificates of competency of GMDSS radio operators are in accordance with the STCW Convention. For this purpose, the MARINA shall assess, revalidate and issue GMDSS radio operators certificate in accordance with the provisions under the STCW Convention. (4) The MARINA shall ensure that all maritime education, including the curricula and training programs, are structured and delivered in accordance with the written programs, methods and media of delivery, procedures, and course materials compliant with international standards as prescribed under the STCW Convention. For this purpose, the MARINA shall: (i) Chair the Technical Panel on Maritime Education (TPME) of the CHED; the TPME shall among others, formulate, review and recommend to the CHED *en banc* all policies, standards, and guidelines for maritime education, including curricula, facilities and guidelines; (ii) Monitor and verify, in coordination with the CHED, compliance with the policies, standards, and guidelines of maritime education in the conduct of maritime education and training programs;- (iii) Review and harmonize the procedures for periodic evaluation, assessment and monitoring of all maritime education and training institutions in accordance with the standards of the CHED and other recognized international organizations; (iv) Develop, formulate and recommend for implementation, strict quality assurance mechanisms and relevant typology for maritime education programs and institutions; (v) Recommend to the CHED *en banc* the closure/phase-out of substandard maritime education institutions, in accordance with the rules and regulations, as well as recommend alternative schemes or options for the affected maritime educational institution; (vi) Maintain an updated list of compliant and phased-out maritime education and training programs, publish such lists in appropriate media, and provide the public with a clear understanding of the consequences of enrolling in a phased-out program; (5) The MARINA shall coordinate with the DOH to ensure that the medical standards established to ascertain the medical fitness of seafarers are in accordance with the international conventions/treaties and existing laws. For this purpose, the MARINA shall: (i) Ensure that the medical examinations and issuance of medical certificates by the DOH accredited hospitals, medical clinics, and laboratories, including medical practitioners are in accordance with the standards prescribed by the STCW Convention; and (ii) Ensure that medical certificates are issued by a duly-qualified medical practitioner recognized by and accredited with the DOH, and for this purpose, a register of recognized medical practitioners shall be maintained and made available to seafarers, shipping companies and State parties to the STCW Convention, **Section 5.** *Composition of the Maritime Industry Board.*To ensure the proper implementation and enforcement of the STCW Convention in relation to international maritime safety and environmental agreements, the Commandant of the Philippine Coast Guard (PCG), in lieu of the Secretary of National Defense, shall be included as member of the Maritime Industry Board established pursuant to Presidential Decree No. 474 creating the MARINA. The Maritime Industry Board may create an advisory council that will assist the MARINA in ensuring compliance with the STCW Convention, as it may deem proper. The number and members of this council shall be identified and determined by the Maritime Industry Board.
+
+ **Section 6.** *Appropriations.*The Secretary of Transportation and Communications, through, the MARINA, shall immediately include in its programs the operationalization requirement of the STCW Services, the initial funding of which shall be charged against the savings or current years appropriations of the MARINA. Thereafter, such sums as may be necessary for the continued implementation of this Act shall be included in the annual General Appropriations Act.
+
+ **Section 7.** *Implementing Rules and Regulations.*The MARINA shall issue the required implementing rules and regulations in accordance with the provisions of this Act within six (6) months from the effectivity hereof. In the formulation of such rules and regulations, the MARINA shall ensure that the processes and procedures for issuance, validation, verification, correction, revocation, or cancellation of certificates of competency, endorsement, proficiency arid documentary evidence required of seafarers under the STCW Convention shall be the most efficient and convenient way for the seafarers including, but not limited to, the establishment of one-stop shop arrangements, computerization and automation, and elimination of redundant fees and charges.
+
+ **Section 8.** *Transitory Provisions.*All certificates of competency, endorsement, proficiency and documentary evidence issued prior to the effectivity of this Act shall be deemed valid without necessity of revalidation or reissuance until the date of expiration as stated in such certificates or other documents. Thereafter, new certificates or other documents shall be revalidated or reissued only in accordance with the implementing rules and regulations issued pursuant to this Act, in conformity with the STCW requirements.
+
+ **Section 9.** *Separability Clause.*If for any reason any section or provision of this Act is declared unconstitutional or invalid, the other sections, or provisions hereof not affected by such declaration shall remain in force and in effect.
+
+ **Section 10.** *Repealing Clause.*The provisions of Presidential Decree No. 474 on the composition of the Maritime Industry Board and all the provisions under Republic Act No. 8544 relating to the examination, licensing and certification system for marine deck and engine officers are hereby amended. All existing laws, orders, decrees, rules and regulations or parts thereof inconsistent with the provisions of this Act are hereby repealed or modified accordingly.
+
+ **Section 11.** *Effectivity Clause.*This Act shall take effect fifteen (15) days from its publication in the *Official Gazette* or in at least two (2) national newspapers of general circulation.
+
+ Approved,
+
+   
+ | (Sgd.) **FRANKLIN M. DRILON** President of the Senate | (Sgd.) **FELICIANO BELMONTE JR.** Speaker of the House of Representatives |
+
+ This Act which is a consolidation of Senate Bill No. 2043 and House Bill No. 3766 was finally passed by the Senate and the House of Representatives on February 10, 2014 and February 17, 2014, respectively.
+
+   
+ | (Sgd.) **OSCAR G. YABES** Secretary of the Senate | (Sgd.) **MARILYN B. BARUA-YAP** Secretary General House of Representatives |
+
+ Approved: MAR 13 2014
+
+ **(Sgd.) BENIGNO S. AQUINO III** *President of the Philippines*
+"	success	Act	Republic Act No. 10635 establishes the Maritime Industry Authority (MARINA) as the sole maritime administrative agency responsible for implementing and enforcing the 1978 International Convention on Standards of Training, Certification and Watchkeeping for Seafarers (STCW) and related agreements, while ensuring compliance, protecting seafarers, and creating a unified regulatory framework.	"[{""title"": ""Declaration of Policy"", ""summary"": ""States the State\u2019s commitment to comply with the STCW Convention, protect seafarers, create a single maritime administrative system, and harmonize all related legal measures.""}, {""title"": ""Definition of Terms"", ""summary"": ""Defines key terms such as Certificate of Competency, Endorsement, Proficiency, Documentary Evidence, Maritime Administration, Seafarer, and STCW Convention.""}, {""title"": ""MARINA as the Single Maritime Administration"", ""summary"": ""Establishes MARINA, under Presidential Decree No. 474 (as amended), as the sole maritime administration mandated to implement and enforce the STCW Convention.""}, {""title"": ""Powers and Functions of the MARINA"", ""summary"": ""Grants MARINA authority to act as the central maritime administration, administer the STCW Convention, assume functions of PRC, CHED, TESDA, DOH, and NTC regarding certification, and oversee all aspects of seafarer competency and safety.""}]"	10635	2013-07-22			To establish MARINA as the sole maritime administrative body for implementing the STCW Convention, ensuring compliance, protecting seafarers, and creating a unified regulatory framework.	"[""Declares State policy to ensure compliance with the STCW Convention and related agreements"", ""Defines essential terms related to seafarer certification and administration"", ""Establishes MARINA as the single maritime administration under PD 474 (as amended)"", ""Grants MARINA comprehensive powers to administer, enforce, and coordinate the STCW Convention and related functions""]"	Presidential Decree No. 474 (as amended)	"[""Maritime"", ""STCW"", ""Seafarers"", ""Regulation"", ""Philippines"", ""MARINA""]"	"[""Maritime Industry Authority"", ""STCW Convention"", ""Seafarers"", ""Certification"", ""Compliance"", ""Regulation""]"
+repacts:datasets/markdown/repacts/2014/ra_10636_2014.md	repacts	2014		datasets/markdown/repacts/2014/ra_10636_2014.md	ra_10636_2014	AN ACT GRANTING PHILIPPINE CITIZENSHIP TO ANDRAY BLATCHE	"**Sixteenth Congress First Regular Session**
+
+ *Begun and held in Metro Manila, on Monday, the twenty-second day of July, two thousand thirteen.*

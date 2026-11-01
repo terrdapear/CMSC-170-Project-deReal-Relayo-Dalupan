@@ -1,0 +1,145 @@
+
+ **Section 2.** The sum of five hundred thousand pesos is hereby authorized to be appropriated for the operation and maintenance of this school and shall thereafter be included in the annual General Appropriation Acts.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1963.
+"	success	Republic Act	The act establishes the Lapak National School of Fisheries, transfers existing facilities from the Lapak Agricultural School, authorizes a ₱500,000 appropriation for operation and maintenance, and mandates a research pearl culture station.	"[{""title"": ""Section 1"", ""summary"": ""Establishment of the school and transfer of facilities""}, {""title"": ""Section 2"", ""summary"": ""Authorization of appropriation of five hundred thousand pesos""}, {""title"": ""Section 3"", ""summary"": ""Effective upon approval""}]"	3566	June 21, 1963			Establishment of a fishery school and allocation of funds for its operation and maintenance.	"[""Creation of the Lapak National School of Fisheries"", ""Transfer of existing facilities to the new school"", ""Appropriation of five hundred thousand pesos for operation and maintenance"", ""Establishment of a research pearl culture station""]"		"[""Education"", ""Fishery"", ""Sulu"", ""Republic Act"", ""1963""]"	"[""fishery school"", ""Lapak"", ""Siasi"", ""Sulu"", ""500,000 pesos"", ""pearl culture"", ""public school""]"
+repacts:datasets/markdown/repacts/1963/ra_3567_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3567_1963.md	ra_3567_1963	An Act Creating a Branch Office of the Register of Deeds of the Province of Ilocos Sur, with Permanent Station at the Municipality of Narvacan, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 3567**
+
+ **An Act Creating a Branch Office of the Register of Deeds of the Province of Ilocos Sur, with Permanent Station at the Municipality of Narvacan, and Authorizing the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There is hereby created a branch office of the Register of Deeds of the Province of Ilocos Sur, with permanent station at the Municipality of Narvacan. which shall be under the immediate control and supervision of a deputy register of deeds to be appointed by the Secretary of Justice. The said deputy register of deeds shall be class III under WAPCO classification and shall receive such compensation in the range now provided by laws and regulations. He shall be assisted by such additional personnel, likewise appointed by the Secretary of Justice, as may be necessary to carry out the duties appurtenant to the said branch office.
+
+ **Section 2.** The sum of fifty thousand pesos, or as much thereof as may be necessary is hereby authorized to be appropriated out of any funds in the National Treasury not otherwise appropriated, to carry out the purposes of this Act. Thereafter, such sum necessary for the same purpose shall be included in the annual General Appropriation Acts.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1963.
+"	success	Republic Act	Establishes a branch office of the Register of Deeds in Ilocos Sur with permanent station at Narvacan, appoints a deputy register, authorizes appropriation of funds, and sets the act to take effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Creation of a branch office of the Register of Deeds of Ilocos Sur in Narvacan, under a deputy register appointed by the Secretary of Justice, with specified compensation and additional personnel as needed.""}, {""title"": ""Section 2."", ""summary"": ""Authorization of appropriation of fifty thousand pesos or necessary amount from National Treasury for the purpose of the act, to be included in annual General Appropriation Acts.""}, {""title"": ""Section 3."", ""summary"": ""Effective upon approval.""}]"	3567	June 21, 1963			To establish a branch office of the Register of Deeds in Ilocos Sur and authorize funds for its operation.	"[""Creation of branch office at Narvacan"", ""Appointment of deputy register under Secretary of Justice"", ""Authorization of appropriation of funds of fifty thousand pesos"", ""Effective upon approval""]"		"[""Register of Deeds"", ""Ilocos Sur"", ""Branch Office"", ""Fund Appropriation""]"	"[""branch office"", ""register of deeds"", ""Ilocos Sur"", ""Narvacan"", ""fund appropriation""]"
+repacts:datasets/markdown/repacts/1963/ra_3568_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3568_1963.md	ra_3568_1963	An Act Converting the Initao Forest Reserve Located in the Municipality of Initao, Province of Misamis Oriental, into a National Park, and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 3568**
+
+ **An Act Converting the Initao Forest Reserve Located in the Municipality of Initao, Province of Misamis Oriental, into a National Park, and Authorizing the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The Initao Forest Reserve located in the Municipality of Initao, Province of Misamis Oriental, is hereby converted into a national park to be known as the Initao National Park.
+
+ **Section 2.** The sum of two hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, to defray the expenses for development, beautification, and construction of rest houses and other facilities within the vicinity of the Initao National Park.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1963.
+"	success	Republic Act	Converts the Initao Forest Reserve into Initao National Park and appropriates ₱200,000 for its development, beautification, and construction of facilities.	"[{""title"": ""Section 1."", ""summary"": ""Converts the Initao Forest Reserve into Initao National Park.""}, {""title"": ""Section 2."", ""summary"": ""Appropriates \u20b1200,000 for development, beautification, and construction of facilities within the vicinity of the Initao National Park.""}, {""title"": ""Section 3."", ""summary"": ""Act takes effect upon its approval.""}]"	3568	June 21, 1963			To convert the Initao Forest Reserve into a national park and allocate funds for its development and facilities.	"[""Conversion of Initao Forest Reserve into Initao National Park"", ""Appropriation of \u20b1200,000 for development, beautification, and construction of facilities"", ""Effective upon approval""]"		"[""Conservation"", ""National Park"", ""Forest Reserve"", ""Appropriation""]"	"[""Initao"", ""Misamis Oriental"", ""National Park"", ""Forest Reserve"", ""Appropriation"", ""Development"", ""Beautification"", ""Rest houses""]"
+repacts:datasets/markdown/repacts/1963/ra_3569_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3569_1963.md	ra_3569_1963	An Act Constituting the First Congressional District of the Province of Cebu into a Separate Engineering District	"**REPUBLIC ACT No. 3569**
+
+ **An Act Constituting the First Congressional District of the Province of Cebu into a Separate Engineering District**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Any provision of law to the contrary notwithstanding, the first congressional district of the Province of Cebu is hereby constituted into a separate engineering district to be known as the Second Engineering District of the Province of Cebu, with its office at the City of Danao.
+
+ The district engineer for said engineering district shall be appointed in accordance with existing laws.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1963.
+"	success	Republic Act	This act establishes the first congressional district of Cebu as a separate engineering district, designating its office in Danao and appointing a district engineer.	"[{""title"": ""Section 1."", ""summary"": ""Constitutes the first congressional district of Cebu as a separate engineering district, known as the Second Engineering District, with its office at Danao.""}, {""title"": ""Section 2."", ""summary"": ""The act takes effect upon approval.""}]"	3569	June 21, 1963			To create a separate engineering district for the first congressional district of Cebu.	"[""Constitution of the Second Engineering District of Cebu"", ""Appointment of a district engineer in accordance with existing laws""]"		"[""engineering district"", ""Cebu"", ""district"", ""Republic Act""]"	"[""engineering"", ""district"", ""Cebu"", ""province"", ""congressional district""]"
+repacts:datasets/markdown/repacts/1963/ra_3570_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3570_1963.md	ra_3570_1963	An Act granting the Cagayan Electric Power and Light Co., Inc., a franchise to install, operate, and maintain an electric light, heat and power system in the municipalities of Tagoloan and Opol and in the City of Cagayan de Oro and its suburbs.	"**REPUBLIC ACT No. 3570**
+
+ AN ACT AMENDING REPUBLIC ACT NUMBERED THIRTY-TWO HUNDRED FORTY SEVEN, ENTITLED ""AN ACT GRANTING THE CAGAYAN ELECTRIC POWER AND LIGHT CO., INC., A FRANCHISE TO INSTALL, OPERATE, AND MAINTAIN AN ELECTRIC LIGHT, HEAT AND POWER SYSTEM IN THE CITY OF CAGAYAN DE ORO AND ITS SUBURBS""
+
+ **Section 1.** Sections one and three of Republic Act Numbered Thirty-two hundred forty-seven is hereby amended to read as follows:
+
+ ""Sec. 1. Subject to the provisions of the Constitution and to the terms and conditions established in Act Numbered Thirty-six hundred thirty-six, as amended by Commonwealth Act Numbered One hundred thirty-two, there is granted to the Cagayan Electric Power and Light Co., Inc., a corporation duly organized and existing under the laws of the Republic of the Philippines, for a period of fifty years from the date of approval of this Act, the right, privilege and authority to construct, maintain and operate an electric light, heat and power system for the purpose of generating and/or distributing electric light, heat and/or power for sale within the municipalities of Tagoloan and Opol, both in the Province of Misamis Oriental, and in the City of Cagayan de Oro and its suburbs. The grantee shall further have the right and privilege to install, lay and maintain on all streets, public thoroughfares, bridges and public places within said limits, poles, wires, transformers, capacitors, overhead protective devices, and pole line hardware, and other equipment necessary for the safe distribution of electric current to the public.
+
+ ""Sec. 3. In consideration of the franchise and rights hereby granted, the grantee shall pay a franchise tax equal to three per centum of the gross earnings for electric current sold under this franchise, of which two per centum goes into the National Treasury and one per centum goes into the treasury of the Municipality of Tagoloan, the Municipality of Opol, and Cagayan de Oro City, as the case may be: *Provided*, That said franchise tax of three per centum of the gross earnings shall be in lieu of all taxes and assessments of whatever authority upon privileges, earnings, income, franchise, and poles, wires, transformers, and insulators of the grantee from which taxes and assessments the grantee is hereby expressly exempted.""
+
+ **Section 2.** The title of the same Act is hereby amended to read as follows:
+
+ ""An Act granting the Cagayan Electric Power and Light Co., Inc., a franchise to install, operate, and maintain an electric light, heat and power system in the municipalities of Tagoloan and Opol and in the City of Cagayan de Oro and its suburbs.""
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1963
+"	success	Republic Act	Amends Republic Act No. 327 to grant a 50‑year franchise to Cagayan Electric Power and Light Co., Inc. for the construction, operation, and maintenance of an electric system in Tagoloan, Opol, and Cagayan de Oro, including tax provisions and franchise terms.	"[{""title"": ""Section 1"", ""summary"": ""Amends Sections 1 and 3 of RA 327 to grant Cagayan Electric Power and Light Co., Inc. a 50\u2011year franchise for building and operating an electric system in the specified municipalities and city, with rights to install infrastructure and a franchise tax of 3% of gross earnings split between national and local treasuries.""}, {""title"": ""Section 2"", ""summary"": ""Amends the title of the act to reflect the grant of franchise to Cagayan Electric Power and Light Co., Inc. for the specified areas.""}, {""title"": ""Section 3"", ""summary"": ""Specifies that the act takes effect upon approval.""}]"	3570	June 21, 1963			To amend RA 327 and grant franchise rights to Cagayan Electric Power and Light Co., Inc. for electric service provision in Tagoloan, Opol, and Cagayan de Oro.	"[""Grant of a 50\u2011year franchise to Cagayan Electric Power and Light Co., Inc."", ""Franchise tax of 3% of gross earnings, with 2% allocated to the National Treasury and 1% to local treasuries."", ""Tax provisions exempt the grantee from other taxes and assessments on utilities.""]"	Republic Act No. 327	"[""Electricity"", ""Franchise"", ""Cagayan de Oro"", ""Misamis Oriental""]"	"[""Cagayan Electric Power"", ""franchise"", ""electric system"", ""tax"", ""Misamis Oriental""]"
+repacts:datasets/markdown/repacts/1963/ra_3571_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3571_1963.md	ra_3571_1963	An Act to Prohibit the Cutting, Destroying or Injuring of Planted or Growing Trees, Flowering Plants and Shrubs or Plants of Scenic Value Along Public Roads, in Plazas, Parks, School Premises or in Any Other Public Pleasure Ground	"**REPUBLIC ACT No. 3571**
+
+ **An Act to Prohibit the Cutting, Destroying or Injuring of Planted or Growing Trees, Flowering Plants and Shrubs or Plants of Scenic Value Along Public Roads, in Plazas, Parks, School Premises or in Any Other Public Pleasure Ground**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** In order to promote and conserve the beauty of objects of scenic and ornamental value along public places and help preserve cool, fresh and healthful climate, it is the policy of the Government to cherish, protect and conserve planted or growing trees, flowering plants and shrubs or plants of ornamental value along public roads, in plazas, parks, school premises or in any other public ground.
+
+ **Section 2.** For the purpose of carrying out effectively the provisions of this Act, the Director of Parks and Wildlife shall have the power to create a committee in each and every municipality in the Philippines and shall appoint any civic conscious and well-travelled citizen as chairman, and the municipal mayor, the municipal treasurer, the supervising school teacher, and the municipal health officer, as ex officio members thereof. The Director of Parks and Wildlife shall also have the power to issue and promulgate rules and regulations as may be necessary in carrying out the provisions of this Act.
+
+ The chairman shall receive compensation of one peso per annum to be paid out of the funds of the city or municipality concerned, and the members shall not receive extra compensation. The Committee shall have the power to implement the rules and regulations issued by the Director of Parks and Wildlife under the provisions of this Act.
+
+ The Committee shall coordinate with the Director of Parks and Wildlife in the beautification of their respective locality and shall, under its supervision, require school children on Arbor Day to plant trees and flowering plants of useful and scenic value in places provided for in the preceding paragraph.
+
+ **Section 3.** No cutting, destroying or injuring of planted or growing trees, flowering plants and shrubs or plants of scenic value along public roads, in plazas, parks, school premises or in any other public ground shall be permitted save when the cutting, destroying or injuring of same is necessary for public safety, or such pruning of same is necessary to enhance its beauty and only upon the recommendation of the committee mentioned in the preceding section, and upon the approval of the Director of Parks and Wildlife. The cutting, destroying or pruning shall be under the supervision of the committee.
+
+ **Section 4.** Any person who shall cut, destroy or injure trees, flowering plants and shrubs or plants of scenic value mentioned in the preceding sections of this Act, shall be punished by prision correccional in its minimum period to prision mayor in its minimum period.
+
+ **Section 5.** All laws, Acts, parts of Acts, executive orders, and administrative orders or regulations inconsistent with the provisions of this Act, are hereby repealed.
+
+ **Section 6.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1963.
+"	success	Environmental Law	The Republic Act 3571 establishes the protection of trees, flowering plants, shrubs, and plants of scenic value along public roads, plazas, parks, schools, and other public grounds. It creates municipal committees under the Director of Parks and Wildlife to oversee conservation, beautification, and enforcement, and imposes penalties for violations.	"[{""title"": ""Section 1."", ""summary"": ""States the policy of the government to promote and conserve scenic and ornamental value along public places, aiming to preserve a cool, fresh, and healthful climate.""}, {""title"": ""Section 2."", ""summary"": ""Empowers the Director of Parks and Wildlife to form a committee in each municipality, appoint a chairman and ex officio members, issue rules and regulations, and coordinate beautification efforts, including encouraging school children to plant trees on Arbor Day.""}, {""title"": ""Section 3."", ""summary"": ""Prohibits cutting, destroying, or injuring protected trees and plants except when necessary for public safety or pruning, with recommendations from the committee and approval from the Director.""}, {""title"": ""Section 4."", ""summary"": ""Specifies penalties for violations, ranging from prision correccional to prision mayor, both at minimum periods.""}, {""title"": ""Section 5."", ""summary"": ""Repeals all laws, acts, executive orders, and regulations inconsistent with this Act.""}, {""title"": ""Section 6."", ""summary"": ""Declares the Act effective upon its approval.""}]"	3571	June 21, 1963			To prohibit the cutting, destroying, or injuring of trees, flowering plants, shrubs, and plants of scenic value along public roads, plazas, parks, school premises, and other public pleasure grounds, thereby protecting environmental and aesthetic interests.	"[""Protection of trees and plants along public roads, plazas, parks, schools and other public grounds"", ""Creation of municipal committees under the Director of Parks and Wildlife"", ""Coordination of beautification efforts and school planting programs"", ""Penalties for violations ranging from prision correccional to prision mayor"", ""Repeal of inconsistent laws"", ""Effectivity upon approval""]"		"[""Environmental"", ""Plant Protection"", ""Public Spaces"", ""Conservation"", ""Legislation""]"	"[""trees"", ""flowering plants"", ""shrubs"", ""public roads"", ""plazas"", ""parks"", ""schools"", ""Parks and Wildlife"", ""Arbor Day"", ""committee"", ""penalties""]"
+repacts:datasets/markdown/repacts/1963/ra_3572_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3572_1963.md	ra_3572_1963	An Act Appropriating Funds for the Construction of Dewey Boulevard Extension to Cavite City	"**REPUBLIC ACT No. 3572**
+
+ **An Act Appropriating Funds for the Construction of Dewey Boulevard Extension to Cavite City**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sum of forty million pesos or so much thereof as may be necessary is appropriated out of the proceeds of bonds issued under Republic Act Numbered One thousand for the construction of Dewey Boulevard extension from the Rizal-Cavite Boundary to Cavite City.
+
+ **Section 2.** The extension of Dewey Boulevard to be constructed under the provisions of this Act is declared as a Limited Access Highway.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1963.
+"	success	Republic Act	This act appropriates funds for the construction of the Dewey Boulevard Extension from the Rizal-Cavite Boundary to Cavite City, declares it a limited access highway, and sets its effectivity upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Appropriates forty million pesos for the construction of Dewey Boulevard extension.""}, {""title"": ""Section 2."", ""summary"": ""Declares the extension of Dewey Boulevard to be constructed as a Limited Access Highway.""}, {""title"": ""Section 3."", ""summary"": ""The act takes effect upon its approval.""}]"	3572	June 21, 1963			Appropriating Funds for the Construction of Dewey Boulevard Extension to Cavite City	"[""Appropriates 40 million pesos for construction"", ""Declares extension as Limited Access Highway"", ""Effectivity upon approval""]"		"[""Infrastructure"", ""Transportation""]"	"[""Dewey Boulevard"", ""Cavite City"", ""Highway"", ""Funding""]"
+repacts:datasets/markdown/repacts/1963/ra_3573_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3573_1963.md	ra_3573_1963	An Act Providing for the Establishment of an Emergency Hospital in the Municipality of Ballesteros, Province of Cagayan, to be Known as the Ballesteros Emergency Hospital and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 3573**
+
+ **An Act Providing for the Establishment of an Emergency Hospital in the Municipality of Ballesteros, Province of Cagayan, to be Known as the Ballesteros Emergency Hospital and Authorizing the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the supervision of the Director of Medical Services, an emergency hospital in the Municipality of Ballesteros, Province of Cagayan, to be known as the Ballesteros Emergency Hospital.
+
+ **Section 2.** The sum of fifty thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital during the fiscal year nineteen hundred sixty-four. Therefore, such sum as may be needed for its operation and maintenance shall be included in the annual General Appropriation Acts.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1963.
+"	success	Republic Act	A law establishing the Ballesteros Emergency Hospital and authorizing the appropriation of funds for its creation, operation, and maintenance.	"[{""title"": ""Section 1"", ""summary"": ""Establishment of the Ballesteros Emergency Hospital under the supervision of the Director of Medical Services.""}, {""title"": ""Section 2"", ""summary"": ""Authorization of fifty thousand pesos for the establishment, operation, and maintenance of the hospital during fiscal year 1964, with additional needed funds to be included in the annual General Appropriation Acts.""}, {""title"": ""Section 3"", ""summary"": ""The act takes effect upon its approval.""}]"	3573	June 21, 1963			To establish an emergency hospital in Ballesteros, Cagayan and authorize the necessary appropriations for its operation.	"[""Establishment of the Ballesteros Emergency Hospital"", ""Appropriation of fifty thousand pesos for hospital establishment, operation, and maintenance"", ""Effectivity of the act upon approval""]"		"[""healthcare"", ""hospital"", ""emergency medical services"", ""Cagayan"", ""Ballesteros""]"	"[""emergency hospital"", ""Ballesteros"", ""Cagayan"", ""fund appropriation"", ""public health""]"
+repacts:datasets/markdown/repacts/1963/ra_3574_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3574_1963.md	ra_3574_1963	An Act Providing for the Establishment of an Emergency Hospital in the Municipality of Tabuk, Mountain Province, to be Known as the Tabuk Emergency Hospital and Authorizing the Appropriation of Funds Therefor	"**REPUBLIC ACT No. 3574**
+
+ **An Act Providing for the Establishment of an Emergency Hospital in the Municipality of Tabuk, Mountain Province, to be Known as the Tabuk Emergency Hospital and Authorizing the Appropriation of Funds Therefor**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There shall be established, under the supervision of the Director of Medical Services, an emergency hospital in the Municipality of Tabuk, Mountain Province, to be known as the Tabuk Emergency Hospital.
+
+ **Section 2.** The sum of one hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said hospital during the fiscal year nineteen hundred sixty-four. Thereafter, such sum as may be needed for its operation and maintenance shall be included in the annual General Appropriation Acts.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1963.
+"	success	Act	The act establishes the Tabuk Emergency Hospital in Mountain Province, appropriates 100,000 pesos for its construction and operation during the fiscal year 1964, and authorizes its inclusion in subsequent General Appropriation Acts, taking effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Establishment of the Tabuk Emergency Hospital under the supervision of the Director of Medical Services.""}, {""title"": ""Section 2."", ""summary"": ""Authorization to appropriate one hundred thousand pesos for the hospital\u2019s establishment, operation, and maintenance during FY 1964, with future amounts to be included in annual General Appropriation Acts.""}, {""title"": ""Section 3."", ""summary"": ""The act shall take effect upon its approval.""}]"	3574	June 21, 1963			To establish an emergency hospital in Tabuk, Mountain Province, and allocate necessary funds for its operation.	"[""Establishment of Tabuk Emergency Hospital"", ""Appropriation of 100,000 pesos for establishment and operation"", ""Effective upon approval""]"		"[""Healthcare"", ""Hospital"", ""Emergency"", ""Mountain Province"", ""Tabuk""]"	"[""Tabuk Emergency Hospital"", ""Mountain Province"", ""National Treasury"", ""Director of Medical Services"", ""General Appropriation Acts""]"
+repacts:datasets/markdown/repacts/1963/ra_3575_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3575_1963.md	ra_3575_1963	An Act Changing the Name of the Albay High School in the Municipality of Guinobatan, Province of Albay, to Pio Duran Memorial School	"**REPUBLIC ACT No. 3575**
+
+ **An Act Changing the Name of the Albay High School in the Municipality of Guinobatan, Province of Albay, to Pio Duran Memorial School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Albay High School in the Municipality of Guinobatan, Province of Albay, is hereby changed to Pio Duran Memorial School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1963.
+"	success	Education	This act changes the name of Albay High School to Pio Duran Memorial School and takes effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""The name of the Albay High School in the Municipality of Guinobatan, Province of Albay, is hereby changed to Pio Duran Memorial School.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	3575	June 21, 1963			To change the name of a public school.	"[""Name of Albay High School changed to Pio Duran Memorial School"", ""Act takes effect upon approval""]"		"[""Education"", ""School Name Change"", ""Albay"", ""Guinobatan""]"	"[""Albay"", ""Guinobatan"", ""Pio Duran"", ""High School"", ""School Name Change""]"

@@ -1,0 +1,200 @@
+repacts:datasets/markdown/repacts/1991/ra_7008_1991.md	repacts	1991		datasets/markdown/repacts/1991/ra_7008_1991.md	ra_7008_1991	AN ACT ESTABLISHING A HIGH SCHOOL IN THE MUNICIPALITY OF DIFFUN, PROVINCE OF QUIRINO, TO BE KNOWN AS THE DIFFUN HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 7008, May 17, 1991 ]**
+
+ AN ACT ESTABLISHING A HIGH SCHOOL IN THE MUNICIPALITY OF DIFFUN, PROVINCE OF QUIRINO, TO BE KNOWN AS THE DIFFUN HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established a high school in the Municipality of Diffun, Province of Quirino, to be known as the Diffun High School.
+
+ **Section 2.** The Secretary of the Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act is hereby authorized to be appropriated in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **JOVITO R. SALONGA** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated from the House of Representatives was finally passed by the House of Representatives and the Senate on November 29, 1989 and March 14, 1991, respectively. |  |
+| (Sgd.) **EDWIN P. ACOBA** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: May 17, 1991
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Education	This act establishes the Diffun High School in the Municipality of Diffun, Quirino, and appropriates funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""Establishes the Diffun High School in the Municipality of Diffun, Province of Quirino.""}, {""title"": ""Section 2."", ""summary"": ""The Secretary of the Department of Education, Culture and Sports shall issue rules and regulations necessary to carry out the purpose of this act.""}, {""title"": ""Section 3."", ""summary"": ""Authorizes the appropriation of necessary funds in the General Appropriations Act of the year following its enactment.""}, {""title"": ""Section 4."", ""summary"": ""The act shall take effect upon its approval.""}]"	7008	May 17, 1991	"[{""name"": ""JOVITO R. SALONGA"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""EDWIN P. ACOBA"", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""CORAZON C. AQUINO"", ""title"": ""President of the Philippines""}]"	To establish a high school in Diffun, Quirino Province, and provide the necessary funding for its operation.	"[""Establishment of Diffun High School"", ""Issuance of rules and regulations by the Secretary of the Department of Education, Culture and Sports"", ""Appropriation of funds in the General Appropriations Act"", ""Effectivity upon approval""]"		"[""Education"", ""School Establishment"", ""Republic Act""]"	"[""Diffun"", ""Quirino"", ""High School"", ""Education"", ""Funds""]"
+repacts:datasets/markdown/repacts/1991/ra_7009_1991.md	repacts	1991		datasets/markdown/repacts/1991/ra_7009_1991.md	ra_7009_1991	An Act Establishing a High School in the Municipality of Labo, Province of Camarines Norte, to be Known as the Labo High School, and Appropriating Funds Therefor	"**[ REPUBLIC ACT NO. 7009, May 17, 1991 ]**
+
+ AN ACT ESTABLISHING A HIGH SCHOOL IN THE MUNICIPALITY OF LABO, PROVINCE OF CAMARINES NORTE, TO BE KNOWN AS THE LABO HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established a high school in the Municipality of Labo, Province of Camarines Norte, to be known as the Labo High School.
+
+ **Section 2.** The Secretary of the Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act is bereby authorized to be appropriated in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **JOVITO R. SALONGA** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated from the House of Representatives was finally passed by the House of Representatives and the Senate on November 23, 1989 and March 14, 1991, respectively. |  |
+| (Sgd.) **EDWIN P. ACOBA** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: May 17, 1991
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Education	Republic Act No. 7009 establishes the Labo High School in the Municipality of Labo, Camarines Norte, and appropriates funds for its operation. The Act authorizes the Secretary of the Department of Education, Culture and Sports to issue necessary rules and regulations and sets the appropriation to be included in the following year's General Appropriations Act. The law takes effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Establishes the Labo High School in the Municipality of Labo, Province of Camarines Norte.""}, {""title"": ""Section 2"", ""summary"": ""Authorizes the Secretary of the Department of Education, Culture and Sports to issue rules and regulations necessary to carry out the purpose of the Act.""}, {""title"": ""Section 3"", ""summary"": ""Authorizes the amount necessary to carry out the provisions of the Act to be appropriated in the General Appropriations Act of the following year.""}, {""title"": ""Section 4"", ""summary"": ""The Act shall take effect upon its approval.""}]"	7009	May 17, 1991	"[{""name"": ""JOVITO R. SALONGA"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""EDWIN P. ACOBA"", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}]"	To establish a high school in Labo, Camarines Norte, and appropriate funds for its establishment and operation.	"[""Establishment of Labo High School"", ""Authorization of the Secretary of Education to issue rules and regulations"", ""Appropriation of necessary funds in the following General Appropriations Act"", ""Effectivity upon approval""]"		"[""Education"", ""High School"", ""Camarines Norte"", ""Labo"", ""Appropriation""]"	"[""high school"", ""Labo"", ""Camarines Norte"", ""education"", ""appropriation"", ""Republic Act 7009""]"
+repacts:datasets/markdown/repacts/1991/ra_7010_1991.md	repacts	1991		datasets/markdown/repacts/1991/ra_7010_1991.md	ra_7010_1991	An Act Establishing a High School in Barangay Bacusanon, Municipality of Pangantucan, Province of Bukidnon, to be known as the Bacusanon High School, and Appropriating Funds Therefor	"**[ REPUBLIC ACT NO. 7010, May 20, 1991 ]**
+
+ AN ACT ESTABLISHING A HIGH SCHOOL IN BARANGAY BACUSANON, MUNICIPALITY OF PANGANTUCAN, PROVINCE OF BUKIDNON, TO BE KNOWN AS THE BACUSANON HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established a high school in Barangay Bacusanon, Municipality of Pangantucan, Province of Bukidnon, to be known as the Bacusanon High School.
+
+ **Section 2.** The Secretary of the Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act is hereby authorized to be appropriated in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **JOVITO R. SALONGA** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated from the House of Representatives was finally passed by the House of Representatives and the Senate on November 23, 1989 and March 14, 1991, respectively. |  |
+| (Sgd.) **EDWIN P. ACOBA** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: May 20, 1991
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Education	Establishes Bacusanon High School in Bukidnon and appropriates funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""Establishes a high school in Barangay Bacusanon, Municipality of Pangantucan, Province of Bukidnon, to be known as the Bacusanon High School.""}, {""title"": ""Section 2."", ""summary"": ""Mandates the Secretary of the Department of Education, Culture and Sports to issue necessary rules and regulations to carry out the purpose of this Act.""}, {""title"": ""Section 3."", ""summary"": ""Authorizes the appropriation of the necessary amount in the General Appropriations Act of the year following its enactment.""}, {""title"": ""Section 4."", ""summary"": ""The Act shall take effect upon its approval.""}]"	Republic Act No. 7010	May 20, 1991	"[{""name"": ""JOVITO R. SALONGA"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""EDWIN P. ACOBA"", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General of the House of Representatives""}]"	To establish a high school in Barangay Bacusanon, Pangantucan, Bukidnon, and to appropriate funds for its operation.	"[""Establish Bacusanon High School"", ""Secretary D, E, S to issue regulations"", ""Appropriation of funds in next General Appropriations Act"", ""Effective upon approval""]"		"[""education"", ""public school"", ""Bukidnon"", ""high school""]"	"[""bacusanon high school"", ""Bukidnon"", ""public education"", ""appropriation"", ""Department of Education""]"
+repacts:datasets/markdown/repacts/1991/ra_7011_1991.md	repacts	1991		datasets/markdown/repacts/1991/ra_7011_1991.md	ra_7011_1991	An Act Establishing a High School in the Municipality of Abuyog, Province of Leyte, to be Known as the Abuyog High School, and Appropriating Funds Therefor	"**[ REPUBLIC ACT NO. 7011, May 20, 1991 ]**
+
+ AN ACT ESTABLISHING A HIGH SCHOOL IN THE MUNICIPALITY OF ABUYOG, PROVINCE OF LEYTE, TO BE KNOWN AS THE ABUYOG HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established a high school in the Municipality of Abuyog, Province of Leyte, to be known as the Abuyog High School.
+
+ **Section 2.** The Secretary of the Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act is hereby authorized to be appropriated in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **JOVITO R. SALONGA** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated from the House of Representatives was finally passed by the House of Representatives and the Senate on December 14, 1989 and March 14, 1991, respectively. |  |
+| (Sgd.) **EDWIN P. ACOBA** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: May 20, 1991
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Education	This act establishes the Abuyog High School in the municipality of Abuyog, Leyte, and appropriates funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""Creates a high school named Abuyog High School in the municipality of Abuyog, Leyte.""}, {""title"": ""Section 2."", ""summary"": ""Authorizes the Secretary of the Department of Education, Culture and Sports to issue rules and regulations necessary to carry out the purpose of the act.""}, {""title"": ""Section 3."", ""summary"": ""Authorizes the appropriation of necessary funds in the General Appropriations Act of the year following its enactment.""}, {""title"": ""Section 4."", ""summary"": ""States that the act shall take effect upon its approval.""}]"	7011	May 20, 1991	"[{""name"": ""JOVITO R. SALONGA"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""EDWIN P. ACOBA"", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""CORAZON C. AQUINO"", ""title"": ""President of the Philippines""}]"	To establish the Abuyog High School and allocate funds for its establishment and operation.	"[""Establishment of Abuyog High School"", ""Issuance of rules and regulations by the Department of Education, Culture and Sports"", ""Appropriation of necessary funds in the following General Appropriations Act"", ""Effectivity upon approval""]"		"[""Education"", ""High School"", ""Leyte"", ""Abuyog"", ""Republic Act""]"	"[""Abuyog High School"", ""High School"", ""Education Act"", ""Leyte"", ""Funds appropriation"", ""School establishment""]"
+repacts:datasets/markdown/repacts/1991/ra_7012_1991.md	repacts	1991		datasets/markdown/repacts/1991/ra_7012_1991.md	ra_7012_1991	AN ACT ESTABLISHING A HIGH SCHOOL IN THE MUNICIPALITY OF CABANGAN, PROVINCE OF ZAMBALES, TO BE KNOWN AS THE CABANGAN HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 7012, May 20, 1991 ]**
+
+ AN ACT ESTABLISHING A HIGH SCHOOL IN THE MUNICIPALITY OF CABANGAN, PROVINCE OF ZAMBALES, TO BE KNOWN AS THE CABANGAN HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established a high school in the Municipality of Cabangan, Province of Zambales, to be known as the Cabangan High School.
+
+ **Section 2.** The Secretary of the Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act is hereby authorized to be appropriated in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **JOVITO R. SALONGA** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated from the House of Representatives was finally passed by the House of Representatives and the Senate on November 23, 1989 and March 14, 1991, respectively. |  |
+| (Sgd.) **EDWIN P. ACOBA** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: May 20, 1991
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Education	This act establishes the Cabangan High School in Cabangan, Zambales, and appropriates funds for its operation, authorizing the Department of Education, Culture and Sports to issue necessary regulations and allocating the required budget through the General Appropriations Act.	"[{""title"": ""Section 1."", ""summary"": ""Establishes the Cabangan High School in the Municipality of Cabangan, Province of Zambales.""}, {""title"": ""Section 2."", ""summary"": ""Empowers the Secretary of the Department of Education, Culture and Sports to issue rules and regulations necessary to implement the act.""}, {""title"": ""Section 3."", ""summary"": ""Authorizes appropriation of funds for the school in the General Appropriations Act of the year following the act's enactment.""}, {""title"": ""Section 4."", ""summary"": ""States that the act takes effect upon its approval.""}]"	7012	May 20, 1991			To establish a high school in Cabangan, Zambales and allocate appropriate funding for its establishment and operation.	"[""Establishment of Cabangan High School"", ""Secretary of DepEd to issue necessary regulations"", ""Authorization of appropriation in the General Appropriations Act"", ""Effectivity upon approval""]"		"[""Education"", ""School"", ""Zambales"", ""Cabangan"", ""Republic Act""]"	"[""high school"", ""Cabangan"", ""Zambales"", ""education"", ""appropriation"", ""Republic Act 7012""]"
+repacts:datasets/markdown/repacts/1991/ra_7013_1991.md	repacts	1991		datasets/markdown/repacts/1991/ra_7013_1991.md	ra_7013_1991	AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY BAYAS, MUNICIPALITY OF ESTANCIA, PROVINCE OF ILOILO, TO BE KNOWN AS THE BAYAS NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 7013, May 20, 1991 ]**
+
+ AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY BAYAS, MUNICIPALITY OF ESTANCIA, PROVINCE OF ILOILO, TO BE KNOWN AS THE BAYAS NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established a national high school in Barangay Bayas, Municipality of Estancia, Province of Iloilo, to be known as the Bayas National High School.
+
+ **Section 2.** The Secretary of the Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The amount needed to carry out the provisions of this Act is hereby authorized to be appropriated in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **JOVITO R. SALONGA** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated from the House of Representatives was finally passed by the House of Representatives and the Senate on September 22, 1988 and March 13, 1991, respectively. |  |
+| (Sgd.) **EDWIN P. ACOBA** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: May 20, 1991
+
+ (Sgd.) **CORAZON C. AQUINO** President of the Philippines
+"	success	Republic Act	Establishes Bayas National High School in Iloilo and appropriates funds for its operations.	"[{""title"": ""Section 1."", ""summary"": ""Establishes a national high school in Barangay Bayas, Municipality of Estancia, Province of Iloilo, to be known as the Bayas National High School.""}, {""title"": ""Section 2."", ""summary"": ""The Secretary of the Department of Education, Culture and Sports shall issue rules and regulations necessary to carry out the purpose of this Act.""}, {""title"": ""Section 3."", ""summary"": ""The amount needed to carry out the provisions of this Act is authorized to be appropriated in the General Appropriations Act of the year following its enactment.""}, {""title"": ""Section 4."", ""summary"": ""This Act shall take effect upon its approval.""}]"	7013	May 20, 1991	"[{""name"": ""JOVITO R. SALONGA"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""EDWIN P. ACOBA"", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}]"	To establish a national high school in Barangay Bayas, Estancia, Iloilo, and appropriate funds for its operation.	"[""Establishment of Bayas National High School"", ""Issuance of rules and regulations by the Secretary of the Department of Education, Culture and Sports"", ""Authorization of appropriation of funds in the General Appropriations Act"", ""Effectivity upon approval""]"		"[""Education"", ""High School"", ""Iloilo"", ""Republic Act"", ""Law"", ""Funding""]"	"[""Bayas National High School"", ""Iloilo"", ""Department of Education, Culture and Sports"", ""appropriation"", ""rules and regulations"", ""effectivity""]"
+repacts:datasets/markdown/repacts/1991/ra_7014_1991.md	repacts	1991		datasets/markdown/repacts/1991/ra_7014_1991.md	ra_7014_1991	An Act Establishing a High School in the Municipality of Solano, Province of Nueva Vizcaya, to be Known as the Solano High School, and Appropriating Funds Therefor	"**[ REPUBLIC ACT NO. 7014, May 20, 1991 ]**
+
+ AN ACT ESTABLISHING A HIGH SCHOOL IN THE MUNICIPALITY OF SOLANO, PROVINCE OF NUEVA VIZCAYA, TO BE KNOWN AS THE SOLANO HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established a high school in the Municipality of Solano, Province of Nueva Vizcaya, to be known is the Solano High School.
+
+ **Section 2.** The Secretary of the Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act is hereby authorized to be appropriated in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **JOVITO R. SALONGA** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated from the House of Representatives was finally passed by the House of Representatives and the Senate on November 20, 1989 and March 14, 1991, respectively. |  |
+| (Sgd.) **EDWIN P. ACOBA** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: May 20, 1991
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	This act establishes the Solano High School in the Municipality of Solano, Nueva Vizcaya, and appropriates funds for its operation, with rules to be issued by the Department of Education, Culture and Sports.	"[{""title"": ""Section 1"", ""summary"": ""Establishes the Solano High School in the Municipality of Solano, Nueva Vizcaya.""}, {""title"": ""Section 2"", ""summary"": ""Authorizes the Secretary of the Department of Education, Culture and Sports to issue necessary rules and regulations to carry out the purpose of the act.""}, {""title"": ""Section 3"", ""summary"": ""Authorizes appropriation of the necessary amount in the General Appropriations Act of the year following its enactment.""}, {""title"": ""Section 4"", ""summary"": ""States that the act shall take effect upon its approval.""}]"	7014	May 20, 1991	"[{""name"": ""JOVITO R. SALONGA"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""EDWIN P. ACOBA"", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""CORAZON C. AQUINO"", ""title"": ""President of the Philippines""}]"	To establish a public high school in Solano, Nueva Vizcaya and allocate funds for its establishment and operation.	"[""Establishment of Solano High School"", ""Issuance of rules by the Department of Education, Culture and Sports"", ""Appropriation of funds in the following General Appropriations Act"", ""Effectivity upon approval""]"		"[""Education"", ""High School"", ""Local Government"", ""Public Funding""]"	"[""Solano"", ""Nueva Vizcaya"", ""High School"", ""Appropriation"", ""Education Department"", ""Republic Act 7014""]"
+repacts:datasets/markdown/repacts/1991/ra_7015_1991.md	repacts	1991		datasets/markdown/repacts/1991/ra_7015_1991.md	ra_7015_1991	AN ACT ESTABLISHING AN AGRO-INDUSTRIAL HIGH SCHOOL IN THE MUNICIPALITY OF PANTAO-RAGAT, PROVINCE OF LANAO DEL NORTE, TO BE KNOWN AS THE PANTAO-RAGAT AGRO-INDUSTRIAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR	"**[ REPUBLIC ACT NO. 7015, May 20, 1991 ]**
+
+ AN ACT ESTABLISHING AN AGRO-INDUSTRIAL HIGH SCHOOL IN THE MUNICIPALITY OF PANTAO-RAGAT, PROVINCE OF LANAO DEL NORTE, TO BE KNOWN AS THE PANTAO-RAGAT AGRO-INDUSTRIAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** There shall be established an agro-industrial high school in the Municipality of Pantao-Ragat, Province of Lanao del Norte, to be known as the Pantao-Ragat Agro-Industrial High School.
+
+ **Section 2.** The Secretary of the Department of Education, Culture and Sports shall issue such rules and regulations as may be necessary to carry out the purpose of this Act.
+
+ **Section 3.** The amount necessary to carry out the provisions of this Act is hereby authorized to be appropriated in the General Appropriations Act of the year following its enactment into law and thereafter.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **JOVITO R. SALONGA** *President of the Senate* | (Sgd.) **RAMON V. MITRA** *Speaker of the House of Representatives* |
+| --- | --- |
+| This Act which originated from the House of Representatives was finally passed by the House of Representatives and the Senate on December 14, 1989 and March 18, 1991, respectively. |  |
+| (Sgd.) **EDWIN P. ACOBA** *Secretary of the Senate* | (Sgd.) **CAMILO L. SABIO** *Secretary General House of Representatives* |
+
+ Approved: May 20, 1991
+
+ (Sgd.) **CORAZON C. AQUINO** *President of the Philippines*
+"	success	Republic Act	This law establishes the Pantao-Ragat Agro-Industrial High School in Lanao del Norte and appropriates funds for its operation.	"[{""title"": ""Section 1"", ""summary"": ""Establishment of the Pantao-Ragat Agro-Industrial High School in the Municipality of Pantao-Ragat, Province of Lanao del Norte.""}, {""title"": ""Section 2"", ""summary"": ""The Secretary of the Department of Education, Culture and Sports shall issue rules and regulations to carry out the purpose of this Act.""}, {""title"": ""Section 3"", ""summary"": ""Appropriation of the necessary amount in the General Appropriations Act of the following year and thereafter.""}, {""title"": ""Section 4"", ""summary"": ""The Act shall take effect upon its approval.""}]"	7015	May 20, 1991	"[{""name"": ""JOVITO R. SALONGA"", ""title"": ""President of the Senate""}, {""name"": ""RAMON V. MITRA"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""EDWIN P. ACOBA"", ""title"": ""Secretary of the Senate""}, {""name"": ""CAMILO L. SABIO"", ""title"": ""Secretary General House of Representatives""}]"	To establish an agro-industrial high school in Pantao-Ragat, Lanao del Norte, and allocate funding for its establishment and operation.	"[""Establishment of the Pantao-Ragat Agro-Industrial High School"", ""Issuance of rules and regulations by the Secretary of the Department of Education, Culture and Sports"", ""Appropriation of funds in the General Appropriations Act"", ""Effectivity upon approval""]"		"[""Education"", ""Agriculture"", ""High School"", ""Lanao del Norte""]"	"[""agro-industrial high school"", ""Pantao-Ragat"", ""Lanao del Norte"", ""appropriation"", ""Department of Education""]"

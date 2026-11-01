@@ -1,0 +1,147 @@
+repacts:datasets/markdown/repacts/2007/ra_9457_2007.md	repacts	2007		datasets/markdown/repacts/2007/ra_9457_2007.md	ra_9457_2007	AN ACT CREATING A BARANGAY TO BE KNOWN AS BARANGAY SAN CARLOS IN THE MUNICIPALITY OF BINANGONAN, PROVINCE OF RIZAL	"Thirteenth Congress Third Special Session
+
+ *Begun and held in Metro Manila, on Monday, the nineteenth day of February, two thousand seven.*
+
+ **REPUBLIC ACT No. 9457 May 15, 2007**
+
+ **AN ACT CREATING A BARANGAY TO BE KNOWN AS BARANGAY SAN CARLOS IN THE MUNICIPALITY OF BINANGONAN, PROVINCE OF RIZAL**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1. *Creation of Barangay San Carlos.*** - The San Carlos Heights Subdivision in Barangay Tayuman, Municipality of Binangonan, Province of Rizal is hereby separated from the said barangay and constituted into a distinct and independent barangay to be known as Barangay San Carlos.
+
+ The technical description of Barangay San Carlos shall be as follows:
+
+ The parcel of land lots (15300, 15390, 15573 to 15592, 15301, 15381, 15436, 15307, 15240 to 15226, 15003, 15227 to 15257, 15108, 15318 to 15320, 15226, 15003, 15227 to 15229, 15230 (port.) and 15330) , all of CAD 609-D, Case I, Binangonan cadastre and lots (18204, 18205, 18011 to 18015) , all of CAD 609.D, Case 2, Binangonan cadastre (comprising the San Carlos Heights Subdivision) , situated in Barangay Tayuman, Municipality of Binangonan, Province of Rizal. Bounded on the Northwest by lots 15001, 15002, 15225 and 15636. On the Northeast, by lots 15331, 15362, 15361, 15329, 15328, 15327, 15325 and 15326. Thence, West and North of creek, along lots 15319 and 15318. Thence, along centerline of road adjoining lots 15317, 15315, 15309 and 15313. Thence, by lots 15309, 15310, 15380, 15382, 15387, 15377, 15391, 15388 and 15389. On the Southeast, by lots 14376, 14374,18016 and 18053. Thence, along centerline of road adjoining lots 18023, 18047; 18009, 18008, 18007, 18004, 18003 and 18002. Thence, by lots 18066 and 18186. On the Southwest, by provincial road and lots 15503, 15504, 15505, 15506, 15507 and 15500. Thence, by creek, adjoining and on the Northwest of lot 15300. Thence, by lots 15298, 15299, 15302,15306, 15305, 15304 and 15258. On the West, by lots 15255, 15608, 15607, 15611, 15253 and 15252. Thence, along creek adjoining lots 15108, 15247 and 15246. Thence, West of lots 15240 and 15228. Thence, by lots 15239, 15230 and 15185. **Sec. 2. *Conduct and Supervision of Plebiscite.*** - Pursuant to Section 10 of Republic Act No. 7160, otherwise known as the Local Government Code of 1991, the new barangay shall exist upon the majority of the votes cast by the qualified voters of Barangay San Carlos in a plebiscite to he conducted and supervised by the Commission on Elections (COMELEC) in the area affected within ninety (90) days from the effectivity of this Act.
+
+ **Sec. 3. *Barangay Officials.*** - The first set of officials of the said barangay shall be appointed by the provincial governor of the Province of Rizal and shall hold office until such time that their successors have been duly elected and qualified.
+
+ **Sec. 4. *Public Infrastructure and Facilities.*** - All existing public infrastructure and facilities for public use existing therein at the time of the approval of this Act are hereby transferred without cost or compensation to and shall be administered by the new barangay.
+
+ **Sec. 5. *Internal Revenue Allotment Shares.*** - Barangay San Carlos shall be entitled to Internal Revenue Allotment (IRA) shares pursuant to Section 285 of Republic Act No. 7160, otherwise known as the Local Government Code of 1991.
+
+ **Sec. 6. *Appropriations.*** - The amount necessary to conduct the plebiscite as provided for under this Act shall be borne by the Municipality of Binangonan, Province of Rizal.
+
+ **Sec. 7. *Effectivity.*** - This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **MANNY VILLAR** President of the Senate | (Sgd.) **JOSE DE VENECIA, JR.** Speaker of the House of Representatives |
+"	success	Republic Act	This act creates Barangay San Carlos by separating the San Carlos Heights Subdivision from Barangay Tayuman in Binangonan, Rizal. It outlines the area’s boundaries, establishes a plebiscite supervised by COMELEC, appoints initial officials, transfers existing infrastructure, grants IRA shares, specifies appropriation for the plebiscite, and declares the act effective upon approval.	"[{""title"": ""Section 1. Creation of Barangay San Carlos"", ""summary"": ""Separates the San Carlos Heights Subdivision from Barangay Tayuman and constitutes it as the independent Barangay San Carlos, providing its technical description and boundaries.""}, {""title"": ""Section 2. Conduct and Supervision of Plebiscite"", ""summary"": ""Mandates a plebiscite supervised by COMELEC within 90 days to approve the new barangay, following Section 10 of the Local Government Code.""}, {""title"": ""Section 3. Barangay Officials"", ""summary"": ""States that the provincial governor will appoint the first set of barangay officials until they are duly elected.""}, {""title"": ""Section 4. Public Infrastructure and Facilities"", ""summary"": ""Transfers all existing public infrastructure and facilities at the time of approval to the new barangay at no cost.""}, {""title"": ""Section 5. Internal Revenue Allotment Shares"", ""summary"": ""Grants Barangay San Carlos IRA shares pursuant to Section 285 of the Local Government Code.""}, {""title"": ""Section 6. Appropriations"", ""summary"": ""Specifies that the Municipality of Binangonan, Rizal will bear the cost of conducting the plebiscite.""}, {""title"": ""Section 7. Effectivity"", ""summary"": ""Declares the act effective upon its approval.""}]"	9457	May 15, 2007	"[{""name"": ""MANNY VILLAR"", ""title"": ""President of the Senate""}, {""name"": ""JOSE DE VENECIA, JR."", ""title"": ""Speaker of the House of Representatives""}]"		To create a new barangay, Barangay San Carlos, within Binangonan, Rizal, and establish its governance structure and resources.	"[""Creation of Barangay San Carlos"", ""Plebiscite conduct and supervision"", ""Appointment of first officials"", ""Transfer of public infrastructure"", ""IRA share entitlement"", ""Appropriation for plebiscite"", ""Effectivity upon approval""]"		"[""Barangay"", ""Local Government"", ""Rizal"", ""Binangonan"", ""Local Government Code""]"	"[""Barangay"", ""San Carlos"", ""Binangonan"", ""Rizal"", ""Local Government Code"", ""IRA"", ""Plebiscite"", ""Inauguration""]"
+repacts:datasets/markdown/repacts/2007/ra_9458_2007.md	repacts	2007		datasets/markdown/repacts/2007/ra_9458_2007.md	ra_9458_2007	AN ACT DECLARING THE ISLAND-TOWNS OF BIRI, CAPUL, SAN ANTONIO AND SAN VICENTE, ALL IN THE PROVINCE OF NORTHERN SAMAR AS ECO-TOURISM ZONES	"Thirteenth Congress Third Special Session
+
+ *Begun and held in Metro Manila, on Monday, the nineteenth day of February, two thousand seven.*
+
+ **REPUBLIC ACT No. 9458 May 15, 2007**
+
+ **AN ACT DECLARING THE ISLAND-TOWNS OF BIRI, CAPUL, SAN ANTONIO AND SAN VICENTE, ALL IN THE PROVINCE OF NORTHERN SAMAR AS ECO-TOURISM ZONES**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** This Act hereby declares the Island-towns of Biri, Capul, San Antonio and San Vicente in the Province of Northern Samar as national tourism zones.
+
+ **Sec. 2.** Until comprehensive legislation rationalizing the national tourism program is adopted, the following principles shall govern the planning, development, promotion and management of these tourism zones:
+
+ (a) The Department of Tourism (DOT) and its attached agencies, and the provincial government of Northern Samar shall coordinate in the formulation of a tourism development plan for these tourism zones: *Provided*, That said plan is consistent with, or may be integrated into, the national tourism master plan of the DOT. (b) The plan shall protect and enhance the natural features and cultural heritage of the tourism zone, while providing sustainable economic opportunities for the local community. (c) The relevant local government shall utilize its powers provided under the Local Government Code to implement and enforce the tourism development plan. (d) The DOT and its attached agencies may provide necessary technical and financial assistance for the development of tourism infrastructure and skills development in the local government while endeavoring, when practicable, to promote the tourism zones both locally and internationally. (e) The DOT and the local government shall create a forum by which the private sector, nongovernment organizations and other interest groups, can interact with one another and the government to create an atmosphere that shall encourage investment, and the development of a culture of tourism. (f) The land embraced by the tourism zone shall be exempt from the coverage of the Comprehensive Agrarian Reform Program, and shall be determined by the concerned sanggunian. **Sec. 3.** The DOT, in consultation with the local government concerned, shall adopt appropriate rules and regulations, and enter into agreements to implement this Act.
+
+ **Sec. 4.** This Act shall take effect after fifteen (15) days of completion of its publication.
+
+ Approved,
+
+ | (Sgd.) **MANNY VILLAR** President of the Senate | (Sgd.) **JOSE DE VENECIA, JR.** Speaker of the House of Representatives |
+"	success	Republic Act	This Act declares the island-towns of Biri, Capul, San Antonio and San Vicente in Northern Samar as national tourism zones, establishes coordinating principles between the Department of Tourism and local governments, outlines development guidelines, and provides for exemption from the Comprehensive Agrarian Reform Program.	"[{""title"": ""Section 1"", ""summary"": ""Declaration of the island-towns as national tourism zones.""}, {""title"": ""Sec. 2"", ""summary"": ""Principles governing planning, development, promotion and management of the tourism zones, including coordination between DOT and local government, protection of natural and cultural heritage, and facilitation of investment.""}, {""title"": ""Sec. 3"", ""summary"": ""Adoption of rules, regulations and agreements by the DOT in consultation with local government to implement the Act.""}, {""title"": ""Sec. 4"", ""summary"": ""Effective date of the Act, which is fifteen days after publication.""}]"	RA 9458	May 15, 2007	"[{""name"": ""Manny Villar"", ""title"": ""President of the Senate""}, {""name"": ""Jose de Venecia, Jr."", ""title"": ""Speaker of the House of Representatives""}]"		To declare the island-towns of Biri, Capul, San Antonio and San Vicente as eco-tourism zones and establish guiding principles for their development.	"[""Declaration of the towns as national tourism zones"", ""Coordination between DOT and local governments for planning and development"", ""Protection of natural features and cultural heritage"", ""Exemption from the Comprehensive Agrarian Reform Program for lands within the zones"", ""Adoption of rules and regulations to implement the Act""]"		"[""eco-tourism"", ""tourism"", ""Northern Samar"", ""Republic Act""]"	"[""Biri"", ""Capul"", ""San Antonio"", ""San Vicente"", ""Northern Samar"", ""Department of Tourism"", ""DOT"", ""Local Government Code"", ""Comprehensive Agrarian Reform Program"", ""CARP"", ""national tourism zones""]"
+repacts:datasets/markdown/repacts/2007/ra_9459_2007.md	repacts	2007		datasets/markdown/repacts/2007/ra_9459_2007.md	ra_9459_2007	AN ACT TO ESTABLISH AN OYSTER, MUSSEL, CRAB, PRAWN AND SHRIMP FARM IN THE MUNICIPALITY OF CALABANGA, PROVINCE OF CAMARINES SUR, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES	"Thirteenth Congress Third Special Session
+
+ *Begun and held in Metro Manila, on Monday, the nineteenth day of February, two thousand seven.*
+
+ **REPUBLIC ACT No. 9459 May 15, 2007**
+
+ **AN ACT TO ESTABLISH AN OYSTER, MUSSEL, CRAB, PRAWN AND SHRIMP FARM IN THE MUNICIPALITY OF CALABANGA, PROVINCE OF CAMARINES SUR, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The Department of Agriculture is hereby authorized to establish an oyster, mussel, crab, prawn and shrimp farm in the Municipality of Calabanga, Province of Camarines Sur, which shall be under the supervision and control of the Bureau of Fisheries and Aquatic Resources of the Department of Agriculture or its equivalent office.
+
+ **Sec. 2.** The Bureau of Fisheries and Aquatic Resources shall take such steps as may be necessary to demonstrate the scientific culture of oyster, mussels, crab, prawn and shrimp and such other marine and aquatic animals and provide the facilities of the said farm, the technology of operating and maintaining an oyster, mussel, crab, prawn and shrimp farm as a technically sound and commercially viable venture and, for this purpose, may issue such rules and regulations to effectively implement the purposes and intents of this Act.
+
+ **Sec. 3.** The Department of Agriculture, through the oyster, mussel, crab, prawn and shrimp farm, is hereby authorized to conduct such researches and experiments as may be necessary to improve existing technology on oyster, mussel, crab, prawn and shrimp and such other marine and aquatic animals farming and to enhance and maximize income potentials of said industry.
+
+ The Department shall assist the local government to establish, in appropriate locations, their own oyster, mussel, crab, prawn and shrimp farms as pilot demonstration farms or as economic enterprises for local revenue generating purposes.
+
+ **Sec. 4.** The Secretary of Agriculture shall include in the Department's program the funding requirements for the establishment and operationalization of the oyster, mussel, crab, prawn and shrimp farm in the Municipality of Calabanga, Province of Camarines Sur. Thereafter, such sum as may be necessary for its continued operation and maintenance shall be included in the annual General Appropriations Act.
+
+ **Sec. 5.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **MANNY VILLAR** President of the Senate | (Sgd.) **JOSE DE VENECIA, JR.** Speaker of the House of Representatives |
+"	success	Republic Act	The act establishes an oyster, mussel, crab, prawn, and shrimp farm in Calabanga, Camarines Sur, authorizes the Department of Agriculture and Bureau of Fisheries to establish and operate the farm, provides for funding and research, and enables local governments to set up pilot farms.	"[{""title"": ""Section 1"", ""summary"": ""Authorizes the Department of Agriculture to establish an oyster, mussel, crab, prawn, and shrimp farm in Calabanga under the supervision of the Bureau of Fisheries and Aquatic Resources.""}, {""title"": ""Section 2"", ""summary"": ""Mandates the Bureau of Fisheries to develop technology and regulations for operating the farm and to demonstrate scientific culture of marine and aquatic animals.""}, {""title"": ""Section 3"", ""summary"": ""Empowers the Department of Agriculture to conduct research and experiments to improve technology and maximize income potentials of the aquaculture industry.""}, {""title"": ""Section 4"", ""summary"": ""Requires the Secretary of Agriculture to include funding for the farm in the Department's program and appropriations, ensuring continued operation and maintenance.""}, {""title"": ""Section 5"", ""summary"": ""States that the act takes effect upon approval.""}]"	9459	May 15, 2007	"[{""name"": ""MANNY VILLAR"", ""title"": ""President of the Senate""}, {""name"": ""JOSE DE VENECIA, JR."", ""title"": ""Speaker of the House of Representatives""}]"		To promote marine aquaculture development, create economic opportunities, and enhance the Department of Agriculture's capacity to manage fishery resources.	"[""Establishment of oyster, mussel, crab, prawn, and shrimp farm in Calabanga"", ""Authorization of Department of Agriculture and Bureau of Fisheries to operate and manage the farm"", ""Provision of funding through the General Appropriations Act"", ""Research and technology development for aquaculture"", ""Creation of pilot demonstration farms for local governments"", ""Regulation and rule\u2011making for farm operations""]"		"[""Agriculture"", ""Aquaculture"", ""Fisheries"", ""Economic Development""]"	"[""oyster"", ""mussel"", ""crab"", ""prawn"", ""shrimp"", ""farm"", ""Camarines Sur"", ""Calabanga"", ""Department of Agriculture"", ""Bureau of Fisheries"", ""Aquatic Resources""]"
+repacts:datasets/markdown/repacts/2007/ra_9460_2007.md	repacts	2007		datasets/markdown/repacts/2007/ra_9460_2007.md	ra_9460_2007	AN ACT ESTABLISHING A MARINE RESEARCH AND BREEDING CENTER IN THE MUNICIPALITY OF ODIONGAN, PROVINCE OF ROMBLON, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES	"Thirteenth Congress Third Special Session
+
+ *Begun and held in Metro Manila, on Monday, the nineteenth day of February, two thousand seven.*
+
+ **REPUBLIC ACT No. 9460 May 15, 2007**
+
+ **AN ACT ESTABLISHING A MARINE RESEARCH AND BREEDING CENTER IN THE MUNICIPALITY OF ODIONGAN, PROVINCE OF ROMBLON, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** There is hereby established, under the supervision of the Department of Agriculture, a marine research and breeding center in the Municipality of Odiongan, Province of Romblon.
+
+ **Sec. 2.** The Bureau of Fisheries and Aquatic Resources of the Department of Agriculture, in coordination with the Province of Romblon, is hereby authorized to assist in the establishment and maintenance of such facilities and equipment as may he necessary to implement the intents and purposes of this Act. For this purpose, the marine research and breeding center shall formulate such operating guidelines as shall be recommended by the Department of Agriculture for research and experimentation on, and the breeding, propagation and distribution of spawners, fry or fingerlings of, marine species endemic to the waters around the Province of Romblon.
+
+ **Sec. 3.** The marine research and breeding center, with the technical assistance of the Bureau of Fisheries and Aquatic Resources of the Department of Agriculture and such other agencies involved in marine research, shall conduct continuing research and experimentation on the culture and propagation of native marine species especially as they apply to the peculiarities and characteristics of local conditions, for the purpose of improving existing technology and for maximizing income potentials of the fishing industry.
+
+ **Sec. 4.** The marine research and breeding center, with the assistance of the Bureau of Fisheries and Aquatic Resources of the Department of Agriculture, shall take such steps as may be necessary to encourage the culture of marine species native to the province and thereby promote and attract investments in this field of economic endeavor by providing, through the facilities of the breeding component of the center, the application of the technologies developed by the research component of the center and ensure the ready and steady supply of spawners, fries and fingerlings to those engaged in this industry.
+
+ **Sec. 5.** The Secretary of Agriculture shall include in the Department's program the funding requirements for the establishment and operationalization of the marine research and breeding center. Thereafter, the amount necessary for the continued operation and maintenance of the center shall be included in the annual General Appropriations Act.
+
+ **Sec. 6.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **MANNY VILLAR** President of the Senate | (Sgd.) **JOSE DE VENECIA, JR.** Speaker of the House of Representatives |
+"	success	Republic Act	The Act establishes a marine research and breeding center in Odiongan, Romblon, authorizes the Bureau of Fisheries and Aquatic Resources to assist in its development, outlines the center’s research and breeding responsibilities, provides for funding through the General Appropriations Act, and specifies that the Act takes effect upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Establishes a marine research and breeding center in Odiongan under the supervision of the Department of Agriculture.""}, {""title"": ""Section 2"", ""summary"": ""Authorizes the Bureau of Fisheries and Aquatic Resources to assist in establishing and maintaining the center\u2019s facilities and equipment, and mandates the formulation of operating guidelines for research and breeding of native marine species.""}, {""title"": ""Section 3"", ""summary"": ""Outlines the center\u2019s role in conducting research and experimentation on the culture and propagation of native marine species to improve technology and maximize income potentials of the fishing industry.""}, {""title"": ""Section 4"", ""summary"": ""Mandates the center, with assistance from the Bureau, to encourage marine species culture, attract investment, and provide spawners, fry, and fingerlings to the industry.""}, {""title"": ""Section 5"", ""summary"": ""Requires the Secretary of Agriculture to include funding for the center in the Department\u2019s program and the General Appropriations Act for ongoing operation.""}, {""title"": ""Section 6"", ""summary"": ""States that the Act will take effect upon its approval.""}]"	REPUBLIC ACT No. 9460	May 15, 2007	"[{""name"": ""MANNY VILLAR"", ""title"": ""President of the Senate""}, {""name"": ""JOSE DE VENECIA, JR."", ""title"": ""Speaker of the House of Representatives""}]"		To establish a marine research and breeding center in Odiongan, Romblon, allocating funds and resources to support research, breeding, and promotion of native marine species, thereby enhancing the local fishing industry.	"[""Establishment of the marine research and breeding center under DAgri supervision"", ""Authorization of the Bureau of Fisheries and Aquatic Resources to assist in facilities and equipment"", ""Mandate for research and breeding of native marine species"", ""Funding provision through the General Appropriations Act"", ""Effectivity upon approval""]"		"[""Marine Research"", ""Breeding Center"", ""Romblon"", ""Agriculture"", ""Fisheries""]"	"[""marine research"", ""breeding center"", ""Odiongan"", ""Romblon"", ""fisheries"", ""Bureau of Fisheries"", ""Department of Agriculture""]"
+repacts:datasets/markdown/repacts/2007/ra_9461_2007.md	repacts	2007		datasets/markdown/repacts/2007/ra_9461_2007.md	ra_9461_2007	AN ACT NAMING THE CIRCUMFERENTIAL ROAD CONNECTING THE MUNICIPALITIES OF VILLABA, TABANGO, SAN ISIDRO, CALUBIAN AND LEYTE-LEYTE AS MARCELINO R. VELOSO NATIONAL HIGHWAY	"Thirteenth Congress Third Special Session
+
+ *Begun and held in Metro Manila, on Monday, the nineteenth day of February, two thousand seven.*
+
+ **REPUBLIC ACT No. 9461 May 15, 2007**
+
+ **AN ACT NAMING THE CIRCUMFERENTIAL ROAD CONNECTING THE MUNICIPALITIES OF VILLABA, TABANGO, SAN ISIDRO, CALUBIAN AND LEYTE-LEYTE AS MARCELINO R. VELOSO NATIONAL HIGHWAY**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** This Act shall be known as the **""*Marcelino R. Veloso National Highway Act*""**.
+
+ **Sec. 2.** The circumferential road connecting the municipalities of Villaba, Tabango, San Isidro, Calubian and Leyte-Leyte is hereby named and shall be known as the Marcelino R. Veloso National Highway, after the late Majority Floor Leader Marcelino R. Veloso, to honor him and in recognition of his services to his country and people.
+
+ **Sec. 3.** The proper government agencies are hereby directed to implement this Act.
+
+ **Sec. 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **MANNY VILLAR** President of the Senate | (Sgd.) **JOSE DE VENECIA, JR.** Speaker of the House of Representatives |
+"	success	Republic Act	The act names the circumferential road connecting Villaba, Tabango, San Isidro, Calubian and Leyte-Leyte as the Marcelino R. Veloso National Highway, honoring the late Majority Floor Leader Marcelino R. Veloso.	"[{""title"": ""Section 1."", ""summary"": ""Designation of the act as the Marcelino R. Veloso National Highway Act.""}, {""title"": ""Sec. 2."", ""summary"": ""Official naming of the road as the Marcelino R. Veloso National Highway.""}, {""title"": ""Sec. 3."", ""summary"": ""Directive to proper government agencies to implement the act.""}, {""title"": ""Sec. 4."", ""summary"": ""Effective upon approval of the act.""}]"	REPUBLIC ACT No. 9461	May 15, 2007	"[{""name"": ""MANNY VILLAR"", ""title"": ""President of the Senate""}, {""name"": ""JOSE DE VENECIA, JR."", ""title"": ""Speaker of the House of Representatives""}]"		To name and honor the circumferential road connecting Villaba, Tabango, San Isidro, Calubian and Leyte-Leyte as the Marcelino R. Veloso National Highway.	"[""Naming of the Marcelino R. Veloso National Highway"", ""Direction to government agencies for implementation"", ""Effective upon approval""]"		"[""Infrastructure"", ""Roads"", ""Highway"", ""Philippines""]"	"[""Marcelino R. Veloso"", ""National Highway"", ""Villaba"", ""Tabango"", ""San Isidro"", ""Calubian"", ""Leyte-Leyte"", ""Republic Act 9461""]"
+repacts:datasets/markdown/repacts/2007/ra_9462_2007.md	repacts	2007		datasets/markdown/repacts/2007/ra_9462_2007.md	ra_9462_2007	AN ACT NAMING THE SOUTHERN TAGALOG ARTERIAL ROAD (STAR) TO APOLINARIO MABINI SUPERHIGHWAY (AMS)	"Thirteenth Congress Third Special Session
+
+ *Begun and held in Metro Manila, on Monday, the nineteenth day of February, two thousand seven.*
+
+ **REPUBLIC ACT No. 9462 May 15, 2007**
+
+ **AN ACT NAMING THE SOUTHERN TAGALOG ARTERIAL ROAD (STAR) TO APOLINARIO MABINI SUPERHIGHWAY (AMS)**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** This Act shall be officially known as the **""*Apolinario Mabini Superhighway Act*""**.
+
+ **Sec. 2.** This Act officially names the Southern Tagalog Arterial Road (STAR) to Apolinario Mabini Superhighway (AMS) .
+
+ **Sec. 3.** This Act shall take effect upon its approval.
+
+ Approved,
+
+ | (Sgd.) **MANNY VILLAR** President of the Senate | (Sgd.) **JOSE DE VENECIA, JR.** Speaker of the House of Representatives |
+"	success	Republic Act	An act that officially names the Southern Tagalog Arterial Road (STAR) to Apolinario Mabini Superhighway (AMS).	"[{""title"": ""Section 1."", ""summary"": ""This Act shall be officially known as the Apolinario Mabini Superhighway Act.""}, {""title"": ""Sec. 2."", ""summary"": ""This Act officially names the Southern Tagalog Arterial Road (STAR) to Apolinario Mabini Superhighway (AMS).""}, {""title"": ""Sec. 3."", ""summary"": ""This Act shall take effect upon its approval.""}]"	REPUBLIC ACT No. 9462	May 15, 2007	"[{""name"": ""MANNY VILLAR"", ""title"": ""President of the Senate""}, {""name"": ""JOSE DE VENECIA, JR."", ""title"": ""Speaker of the House of Representatives""}]"		To rename the Southern Tagalog Arterial Road (STAR) to Apolinario Mabini Superhighway (AMS) and establish its official designation.	"[""Names the Southern Tagalog Arterial Road to Apolinario Mabini Superhighway (AMS)."", ""Defines the effective date of the act.""]"		"[""Infrastructure"", ""Transportation"", ""Highway""]"	"[""Southern Tagalog Arterial Road"", ""Apolinario Mabini Superhighway"", ""STAR""]"
+repacts:datasets/markdown/repacts/2007/ra_9463_2007.md	repacts	2007		datasets/markdown/repacts/2007/ra_9463_2007.md	ra_9463_2007	AN ACT NAMING THE SAN NICOLAS-SOLSONA PORTION OF THE ILOCOS NORTE-APAYAO ROAD AS THE JOSEFA LLANES ESCODA NATIONAL HIGHWAY	"Thirteenth Congress Third Special Session

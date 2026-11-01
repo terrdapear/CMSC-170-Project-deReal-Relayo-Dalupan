@@ -1,0 +1,195 @@
+repacts:datasets/markdown/repacts/1961/ra_3284_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3284_1961.md	ra_3284_1961	An Act to Amend Item (28), Page 434, Title (A), Group IV for the Province of Iloilo, Section Three of Republic Act Numbered Fourteen Hundred Eleven	"**REPUBLIC ACT No. 3284**
+
+ **An Act to Amend Item (28), Page 434, Title (A), Group IV for the Province of Iloilo, Section Three of Republic Act Numbered Fourteen Hundred Eleven**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item 28, page 434, title (A), Group IV for the Province of Iloilo, Section three of Republic Act Numbered Fourteen hundred eleven is amended to read as follows:
+
+ > ""(20) So-ol barrio school building, Barotac Nuevo Construction, repair and improvement ₱3,000.00""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1961.
+"	success	Republic Act	Amends Section 3 of RA 1411 to include costs for construction, repair and improvement of So-ol barrio school building.	"[{""title"": ""Section 1"", ""summary"": ""Item 28, page 434, title (A), Group IV for the Province of Iloilo, Section three of RA 1411 is amended to read as follows: \""(20) So-ol barrio school building, Barotac Nuevo Construction, repair and improvement \u20b13,000.00\""""}, {""title"": ""Section 2"", ""summary"": ""Act shall take effect upon its approval.""}]"	3284	June 18, 1961			To amend RA 1411 regarding the costs for construction, repair and improvement of the So-ol barrio school building in Iloilo.	"[""Amendment to Item 28 of RA 1411 to include \u20b13,000.00 for construction, repair and improvement of So-ol barrio school building.""]"	Republic Act Numbered Fourteen Hundred Eleven	"[""Education"", ""Infrastructure"", ""Iloilo"", ""School building"", ""Amendment""]"	"[""Republic Act"", ""RA 3284"", ""RA 1411"", ""So-ol barrio school"", ""Barotac Nuevo"", ""Iloilo"", ""construction"", ""repair"", ""improvement"", ""budget"", ""\u20b13,000.00""]"
+repacts:datasets/markdown/repacts/1961/ra_3285_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3285_1961.md	ra_3285_1961	An Act Amending Item Fifty-One, Page Seven Hundred Eighty-Six, Section Three of Republic Act Numbered Nineteen Hundred	"**REPUBLIC ACT No. 3285**
+
+ **An Act Amending Item Fifty-One, Page Seven Hundred Eighty-Six, Section Three of Republic Act Numbered Nineteen Hundred**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item fifty-one, page seven hundred eighty-six, Section three of Republic Act Numbered Nineteen hundred, is hereby amended to read as follows:
+
+ > ""51. Construction and/or repair of Home Economics building, Lalig Barrio School, Tiaong ₱5,000.00""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1961.
+"	success	Republic Act	Amends Republic Act 1910 by adding a clause regarding the construction and/or repair of a Home Economics building at Lalig Barrio School, Tiaong, with a budget of ₱5,000.00.	"[{""title"": ""Section 1"", ""summary"": ""Amendment to Item 51, page 786, Section 3 of Republic Act 1910 to specify construction and/or repair of Home Economics building at Lalig Barrio School, Tiaong, with \u20b15,000.00.""}, {""title"": ""Section 2"", ""summary"": ""Effectivity upon approval.""}]"	3285	June 18, 1961			To amend Republic Act 1910 to include construction/repair of a Home Economics building at Lalig Barrio School, Tiaong.	"[""Item 51, page 786, Section 3 amended to include construction/repair of Home Economics building at Lalig Barrio School, Tiaong, with \u20b15,000.00""]"	Republic Act Numbered Nineteen Hundred	"[""Amendment"", ""Education"", ""Construction""]"	"[""RA 3285"", ""Home Economics building"", ""Lalig Barrio School"", ""Tiaong"", ""\u20b15,000.00"", ""Item 51"", ""Page 786"", ""Section 3"", ""Republic Act 1910""]"
+repacts:datasets/markdown/repacts/1961/ra_3286_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3286_1961.md	ra_3286_1961	An Act to Amend Project Numbered (128), Page 24-A, Title A, Appendix A of Republic Act Numbered Nineteen Hundred	"**REPUBLIC ACT No. 3286**
+
+ **An Act to Amend Project Numbered (128), Page 24-A, Title A, Appendix A of Republic Act Numbered Nineteen Hundred**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Project No. (128), page 24-A, Title A, Appendix A of Republic Act Numbered Nineteen hundred, is amended to read as follows:
+
+ > ""(128) Bibak Students GOB 80.00 (80.00) (80.00) Construction.""
+>
+>  Dormitory including purchase of equipment Baguio City:
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1961.
+"	success	Legislation	An amendment to the project outlined in Republic Act No. 19xx, modifying the content of Project No. (128) on page 24-A, Title A, Appendix A.	"[{""title"": ""Section 1."", ""summary"": ""(128) Bibak Students GOB 80.00 (80.00) (80.00) Construction. Dormitory including purchase of equipment Baguio City:""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	3286	June 18, 1961			To amend the project details in Republic Act No. 19xx as specified.	"[""(128) Bibak Students GOB 80.00 (80.00) (80.00) Construction. Dormitory including purchase of equipment Baguio City:""]"	Amends Republic Act No. 19xx	"[""Amendment"", ""Project 128""]"	"[""Republic Act"", ""Amendment"", ""Project 128"", ""Baguio City""]"
+repacts:datasets/markdown/repacts/1961/ra_3287_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3287_1961.md	ra_3287_1961	An Act Amending Item (f) on Page 440, Subparagraph 38, for the Province of Negros Oriental, Group I, Paragraph d, Section Two of Republic Act Numbered Twenty-Three Hundred and One	"**REPUBLIC ACT No. 3287**
+
+ **An Act Amending Item (f) on Page 440, Subparagraph 38, for the Province of Negros Oriental, Group I, Paragraph d, Section Two of Republic Act Numbered Twenty-Three Hundred and One**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item (f) on page 440, subparagraph 38, for the Province of Negros Oriental, Group I, paragraph d, Section two of Republic Act Numbered Twenty-three hundred and one, is amended to read as follows:
+
+ > ""(f) La Libertad-Pacuan Road Construction and/or improvement ₱10,000.00.""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1961.
+"	success	Republic Act	Amends item (f) on page 440 of Republic Act 231 to specify the construction or improvement of the La Libertad-Pacuan Road in Negros Oriental.	"[{""title"": ""Amendment to Item (f)"", ""summary"": ""Item (f) is amended to read as: (f) La Libertad-Pacuan Road Construction and/or improvement \u20b110,000.00.""}, {""title"": ""Effective Date"", ""summary"": ""Act takes effect upon approval.""}]"	3287	June 18, 1961				"[""(f) La Libertad-Pacuan Road Construction and/or improvement \u20b110,000.00.""]"	Republic Act No. 231	"[""Republic Act"", ""Amendment"", ""Negros Oriental"", ""Road Construction""]"	"[""Amendment"", ""Item f"", ""La Libertad-Pacuan Road"", ""Negros Oriental"", ""Republic Act 231""]"
+repacts:datasets/markdown/repacts/1961/ra_3288_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3288_1961.md	ra_3288_1961	An Act to Amend Certain Items of Republic Act Numbered Twenty-Three Hundred One	"**REPUBLIC ACT No. 3288**
+
+ **An Act to Amend Certain Items of Republic Act Numbered Twenty-Three Hundred One**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item (cu) on page 255, Section one of Republic Act Numbered Twenty-three hundred one is amended to read as follows:
+
+ > ""(cu) Pook-Biasong Road, Talisay, Cebu ₱5,000.00.""
+>
+>  Section 2. Item (cv) on page 255, Section one of the same Act is amended to read as follows:
+>
+>  ""(cv) Lawaan-Maghaway Road, Talisay, Cebu ₱5,000.00""
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1961.
+"	success	Republic Act	Amendment to specific items (cu and cv) of RA 231 to update road allocations and amounts in Talisay, Cebu.	"[{""title"": ""Section 1."", ""summary"": ""Amends item (cu) on page 255, Section one of RA 231 to read '(cu) Pook-Biasong Road, Talisay, Cebu \u20b15,000.00.'""}, {""title"": ""Section 2."", ""summary"": ""Amends item (cv) on page 255, Section one of RA 231 to read '(cv) Lawaan-Maghaway Road, Talisay, Cebu \u20b15,000.00.'""}, {""title"": ""Section 3."", ""summary"": ""The Act shall take effect upon its approval.""}]"	3288	June 18, 1961			To amend specific items of RA 231 concerning road allocations in Talisay, Cebu.	"[""Amendment to item (cu) in RA 231 to include Pook-Biasong Road with amount \u20b15,000.00."", ""Amendment to item (cv) in RA 231 to include Lawaan-Maghaway Road with amount \u20b15,000.00."", ""Act takes effect upon approval.""]"	Republic Act No. 231	"[""Amendment"", ""Infrastructure"", ""Roads"", ""Cebu"", ""Pook-Biasong"", ""Lawaan-Maghaway""]"	"[""Republic Act"", ""RA 3288"", ""RA 231"", ""Talisay"", ""Cebu"", ""Roads"", ""Pook-Biasong"", ""Lawaan-Maghaway"", ""amendment"", ""budget""]"
+repacts:datasets/markdown/repacts/1961/ra_3289_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3289_1961.md	ra_3289_1961	An Act to Amend Item (62), Page 162, Paragraph (G) for the Province of Laguna, Section Two of Republic Act Numbered Sixteen Hundred and Thirteen	"**REPUBLIC ACT No. 3289**
+
+ **An Act to Amend Item (62), Page 162, Paragraph (G) for the Province of Laguna, Section Two of Republic Act Numbered Sixteen Hundred and Thirteen**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Item (62), Page 162, Paragraph (G) for the Province of Laguna, Section two of Republic Act Numbered Sixteen hundred and thirteen, is amended to read as follows:
+
+ > ""62. Municipal Building, Alaminos Aid to the municipality for construction and/or improvement ₱3,000.00""
+
+ **Section 2.** The above amendment shall pertain only to the unexpended balance of the appropriation.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1961.
+"	success	Republic Act	Amends Item (62) of RA 1631 to allocate ₱3,000.00 for Alaminos Aid to the municipality for construction and/or improvement, specific to Laguna.	"[{""title"": ""Section 1"", ""summary"": ""Amended Item (62) reads: \""62. Municipal Building, Alaminos Aid to the municipality for construction and/or improvement \u20b13,000.00\"".""}, {""title"": ""Section 2"", ""summary"": ""The amendment applies only to the unexpended balance of the appropriation.""}, {""title"": ""Section 3"", ""summary"": ""The Act shall take effect upon its approval.""}]"	3289	June 18, 1961			To amend a specific provision of RA 1631 concerning municipal building aid for Laguna.	"[""Allocation of \u20b13,000.00 for Alaminos Aid to the municipality for construction and/or improvement.""]"	Republic Act No. 1631, Section Two	"[""Amendment"", ""Municipal Building"", ""Laguna"", ""Philippines"", ""1961""]"	"[""Republic Act"", ""Amendment"", ""Municipal Building"", ""Alaminos Aid"", ""Laguna""]"
+repacts:datasets/markdown/repacts/1961/ra_3290_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3290_1961.md	ra_3290_1961	"An Act Reappropriating the Sum of Forty Thousand Pesos Which is the Unexpended Balance of Fifty Thousand Pesos Appropriated Under Item (17), Page 183, Subparagraph ""ab"", for the City of Manila, Paragraph 4, Title A, Section One of Republic Act Numbered Twelve Hundred"	"**REPUBLIC ACT No. 3290**
+
+ **An Act Reappropriating the Sum of Forty Thousand Pesos Which is the Unexpended Balance of Fifty Thousand Pesos Appropriated Under Item (17), Page 183, Subparagraph ""ab"", for the City of Manila, Paragraph 4, Title A, Section One of Republic Act Numbered Twelve Hundred**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sum of forty thousand pesos which is unexpended balance of fifty thousand pesos appropriated under item (17), page 183, subparagraph ""ab"" for the City of Manila, paragraph 4, Title A, Section one of Republic Act Numbered Twelve hundred, to wit:
+
+ > ""(17) New Public Toilets and Bath, Fourth DistrictConstruction ₱50,000.00""
+>
+>  is hereby reappropriated for the asphalt paving, filling and construction of curbs and gutters of the streets and alleys in Mendoza Estate, Santa Ana, City of Manila.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1961.
+"	success	Republic Act	Reappropriation of a forty‑thousand‑peso unexpended balance for asphalt paving, filling, and construction of curbs and gutters in Mendoza Estate, Santa Ana, City of Manila.	"[{""title"": ""Section 1."", ""summary"": ""The sum of forty thousand pesos, which is the unexpended balance of fifty thousand pesos appropriated under item (17) page 183 subparagraph \""ab\"" for the City of Manila, paragraph 4, Title A, Section one of Republic Act Numbered Twelve hundred, is hereby reappropriated for the asphalt paving, filling and construction of curbs and gutters of the streets and alleys in Mendoza Estate, Santa Ana, City of Manila.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	3290	June 18, 1961			Reappropriation of unexpended funds for municipal infrastructure improvements in Manila.	"[""Reappropriation of \u20b140,000 from the unexpended balance of \u20b150,000 under item (17) of RA 1200"", ""Allocation of the reappropriated funds for asphalt paving, filling, and construction of curbs and gutters in Mendoza Estate, Santa Ana, City of Manila"", ""Effectivity of the Act upon approval""]"		"[""Reappropriation"", ""Public Works"", ""Manila"", ""Infrastructure""]"	"[""reappropriation"", ""unexpended balance"", ""asphalt paving"", ""curbs"", ""gutters"", ""Mendoza Estate"", ""Santa Ana""]"
+repacts:datasets/markdown/repacts/1961/ra_3291_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3291_1961.md	ra_3291_1961	An Act to Amend Section One of Republic Act Numbered Eighteen Hundred Twenty-Two	"**REPUBLIC ACT No. 3291**
+
+ **An Act to Amend Section One of Republic Act Numbered Eighteen Hundred Twenty-Two**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** Section one of Republic Act Numbered Eighteen hundred twenty-two is hereby amended to read as follows:
+
+ > ""Sec. 1. The sum of ten thousand pesos appropriated in item (19), page one hundred eighty-three, subparagraph ""ab"", for the City of Manila, paragraph 4, title A, Section one of Republic Act Numbered Twelve hundred, is hereby reappropriated for the following purposes:
+>
+>  ""(1) Sta. Clara Street Asphalting from Lamayan to Havana ₱6,000.00
+>
+>  ""(2) Eden Streetfrom Herran to Rennaisance Improvement 2,000.00
+>
+>  ""(3) La Torre Streetfrom Calderon to M. Roxas Improvement 2,000.00""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1961.
+"	success	Act	This act amends Section 1 of Republic Act No. 222 to reappropriate ten thousand pesos originally allocated for the City of Manila, directing the funds toward specific street improvement projects on Sta. Clara Street, Eden Street, and La Torre Street.	"[{""title"": ""Section 1"", ""summary"": ""Reappropriates ten thousand pesos for the City of Manila, allocating \u20b16,000.00 for Sta. Clara Street Asphalting and \u20b12,000.00 each for Eden Street and La Torre Street improvements.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	3291	June 18, 1961			Amendment to RA 222 for reappropriation of funds for street improvement projects in Manila.	"[""Reappropriation of \u20b110,000 for City of Manila"", ""Allocation of \u20b16,000 for Sta. Clara Street Asphalting"", ""Allocation of \u20b12,000 for Eden Street improvement"", ""Allocation of \u20b12,000 for La Torre Street improvement""]"	Republic Act No. 222	"[""Amendment"", ""Reappropriation"", ""Infrastructure"", ""Transportation""]"	"[""Republic Act 3291"", ""RA 222"", ""Manila"", ""street improvement"", ""reappropriation""]"
+repacts:datasets/markdown/repacts/1961/ra_3292_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3292_1961.md	ra_3292_1961	An Act Reappropriating Certain Sums Appropriated in Republic Act Numbered Sixteen Hundred Thirteen	"**[ REPUBLIC ACT NO. 3292, June 18, 1961 ]** **AN ACT REAPPROPRIATING CERTAIN SUMS APPROPRIATED IN REPUBLIC ACT NUMBERED SIXTEEN HUNDRED THIRTEEN.** *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:* **Section 1.** The sums appropriated in Republic Act Numbered Sixteen hundred thirteen under: | 1.Item (b), group IV, page 79, subparagraph (28) for the City of Manila, paragraph ""f"", Section two, for Social Welfare Administration Building, Central Street, PandacanAid for construction | ₱10,000.00 | | --- | --- | | 2. Item (p), group IV, page 80, subparagraph (28) for the City of Manila, paragraph ""f"", Section two, for Dart Extension Asphaltpaving from Oregon to Sison Street | 7,000.00 | | 3. Item 18, for the City of Manila, page 202 paragraph ""g"", Section two, for Public Improvements, 4th District | 5,000.00 | | 4. Item 23 for the City of Manila, page 203, paragraph ""g"", Section two, for Asphalting of Enriquez Street from Singalong Street to Dart Street, Malate | ₱11,000.00 | | 5. Item 29, for the City of Manila, page 203, paragraph ""g"", Section two, for Asphalting of A. Flores Street from A.Mabini Street toNebraska Street, Ermita | 4,000.00 | | 6. Project No. B-004.13 for the City of Manila, page 850-A, Title B-High-ways (Feeder and Secondary Roads), Appendix A, for Estero de Sta. Clara, D el Pan Street: |GR|20.00|10.00|10.00|..|..|..|..|..|..|..|10.00| 3].... | | | 7. Project No. B-004.41, for the City of Manila, page 854-A, Title B-High-ways (Feeder and Secondary Roads), Appendix A,for Dart Street: From Oregon to Looban ...|GR|15.00|8.00|8.00|....|....|....|....|....|7.00|,...|....|Improvement totalling fifty-five thousand pesos, are hereby reappropriated, for the following1 purposes: | | | > 1. Intramuros Health Center, Sta. Potenciana, corner General Luna Street Construction | ₱20,000.00 | | > 2. All streets in Fabie Estate, Paco and Sta. Ana districts Construction and asphalt paving | 35,000.00 | **Section 2.** This Act shall take effect upon its approval. Enacted, without Executive approval, June 18, 1961.
+"	success	Act	An act that reallocates specific appropriations from Republic Act 613 to fund infrastructure and construction projects in Manila, including road paving, building construction, and health center development.	"[{""title"": ""Section 1"", ""summary"": ""Details the reappropriated sums from RA 613 for various projects in Manila, listing specific items and amounts for road paving, building construction, and other improvements, and the total amount reappropriated.""}, {""title"": ""Section 2"", ""summary"": ""States that the act takes effect upon its approval and was enacted on June 18, 1961, without executive approval.""}]"	3292	June 18, 1961			To reallocate certain appropriated funds from RA 613 for targeted infrastructure and construction projects in Manila.	"[""Reappropriation of sums from RA 613 for specific infrastructure projects in Manila"", ""Reallocation of funds for Intramuros Health Center and Fabie Estate construction and road paving""]"	Republic Act No. 613	"[""Reappropriation"", ""Infrastructure"", ""Manila"", ""Budget""]"	"[""reappropriation"", ""budget"", ""Manila"", ""infrastructure"", ""construction"", ""roads""]"
+repacts:datasets/markdown/repacts/1961/ra_3293_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3293_1961.md	ra_3293_1961	An Act Reappropriating Certain Sums Appropriated in Republic Act Numbered Fourteen Hundred Eleven	"**REPUBLIC ACT No. 3293**
+
+ **An Act Reappropriating Certain Sums Appropriated in Republic Act Numbered Fourteen Hundred Eleven**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sums appropriated in Republic Act Numbered Fourteen hundred eleven under:
+
+ 1. Item (f), group, IV, page 86, subparagraph 28 for the City of Manila, paragraph ""f"", Section two, for Lamayan Basketball CourtImprovement ₱2,500.00 2. Project No. B-0047.7, page 256-A, Title B-Highways (Feeder and Secondary Roads)Urban, Appendix A, forAnda Streets, City of ManilaPave with asphalt, from Muralla to Sta. Lucia 640 m. GR 40 40 10 30 - - - - - 3 - 3. Project No. B-004.8, page 256-A, Title B-Highways (Feeder and Secondary Road)Urban, Appendix A, for Sta. Lucia, City of Manila Paving from Victoria to Anda, 350 m. Estimate based on asphalt paving| GR 15 15 15 - - - - - - 3 -
+
+ totalling twenty-seven thousand five hundred pesos, are hereby reappropriated for the following purposes:
+
+ (1) Filling of low areas in the Fourth District of Manila ₱20,000.00 (2) Leroy Street from Trece de Agosto to San Gregorio Improvement 7,500.00 **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1961.
+"	success	Republic Act	Reappropriates specific sums from RA 1411 for local infrastructure projects in Manila.	"[{""title"": ""Section 1"", ""summary"": ""Reappropriates \u20b127,500 from RA 1411 for filling low areas and street improvements in Manila.""}, {""title"": ""Section 2"", ""summary"": ""The Act becomes effective upon its approval.""}]"	3293	June 18, 1961	"[{""name"": ""Senate"", ""title"": ""Legislative Body""}, {""name"": ""House of Representatives"", ""title"": ""Legislative Body""}]"		To reallocate appropriated funds from RA 1411 for infrastructure improvements in Manila.	"[""Reappropriation of \u20b127,500 from RA 1411"", ""Allocation of funds for filling low areas in the Fourth District of Manila"", ""Allocation of funds for street improvements on Leroy Street and other projects"", ""Act becomes effective upon approval.""]"	Republic Act No. 1411	"[""Reappropriation"", ""Infrastructure"", ""Manila"", ""RA 3293""]"	"[""Reappropriation"", ""Funds"", ""RA 1411"", ""Manila"", ""Infrastructure"", ""Paving""]"
+repacts:datasets/markdown/repacts/1961/ra_3294_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3294_1961.md	ra_3294_1961	An Act Reappropriating Certain Sums Appropriated in Republic Act Numbered Nineteen Hundred	"**REPUBLIC ACT No. 3294**
+
+ **An Act Reappropriating Certain Sums Appropriated in Republic Act Numbered Nineteen Hundred**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sums appropriated in items (g) and (af ), pages 119 and 121, respectively, subparagraph 70 for the City of Manila, paragraph, ""a"", Title B, Section one of Republic Act Numbered Nineteen hundred, to wit:
+
+ > ""(g) Marques de Comillas (NaC) Street, from Oregon to Isaac Peral and around Paco Cemetery Improvement and paving ₱25,000.00
+>
+>  ""(af) Esguerra Street, Aua-Marina Section, San Andres Subdivision 15,000.00
+>
+>  and the sums appropriated in items (e) and (g) page 323 and item ( j), page 324, all under Group IV, subparagraph (29) for the City of Manila, paragraph"" f Section two of the same Act, to wit:
+>
+>  ""(e) Sases Puericulture Center General improvement ₱10,000.00
+>
+>  ""(g) Waiting Shed in Herran and Calderon Streets, Sta. Ana Construction 10,000.00
+>
+>  ""(j) Jose Rizal Monument, De la Peña Paco Construction 10,000.00""
+>
+>  totalling seventy thousand pesos, are hereby reappropriated, for the following purposes:
+>
+>  (1) Social Welfare Administration Building, Kansas St., Malate Construction ₱53,000.00 (2) Arellano Streetfrom Diamante to Esguerra Ext., and Diamante Street from Pasig Line to Arellano Improvement 17,000.00
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1961.
+"	success	Republic Act	This act reappropriates specific sums originally appropriated in Republic Act No. 1900 for the City of Manila, directing the funds toward municipal improvement projects such as construction of a Social Welfare Administration Building and street improvements on Arellano and other streets.	"[{""title"": ""Section 1"", ""summary"": ""Details the specific sums reappropriated from RA 1900 items (g), (af), (e), (g), and (j) and allocates them to construction and improvement projects in Manila.""}, {""title"": ""Section 2"", ""summary"": ""States that the act takes effect upon its approval.""}]"	3294	June 18, 1961			To reallocate appropriated funds from RA 1900 for municipal infrastructure and social welfare projects in Manila.	"[""Reappropriation of \u20b125,000 from item (g) \u2013 Marques de Comillas Street improvement"", ""Reappropriation of \u20b115,000 from item (af) \u2013 Esguerra Street improvement"", ""Reappropriation of \u20b110,000 from item (e) \u2013 Sases Puericulture Center improvement"", ""Reappropriation of \u20b110,000 from item (g) \u2013 Waiting Shed construction"", ""Reappropriation of \u20b110,000 from item (j) \u2013 Jose Rizal Monument construction"", ""Allocation of \u20b153,000 to Social Welfare Administration Building on Kansas St., Malate"", ""Allocation of \u20b117,000 to Arellano Street and Diamante Street improvements""]"	Republic Act Numbered Nineteen Hundred (RA 1900)	"[""Reappropriation"", ""Municipal Works"", ""RA 1900"", ""1961""]"	"[""reappropriation"", ""Manila"", ""construction"", ""social welfare"", ""Arellano Street"", ""Jose Rizal Monument""]"
+repacts:datasets/markdown/repacts/1961/ra_3295_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3295_1961.md	ra_3295_1961	An Act to Amend Certain Provisions of Republic Act Numbered Sixteen Hundred Thirteen Regarding Public Works Projects for the Province of Iloilo	"**REPUBLIC ACT No. 3295**
+
+ **An Act to Amend Certain Provisions of Republic Act Numbered Sixteen Hundred Thirteen Regarding Public Works Projects for the Province of Iloilo**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Priority No. 23, page 43-B and Priorities Nos. 30 and 33, page 44, group III, for the Province of Iloilo, Appendix B, Republic Act Numbered Sixteen hundred thirteen, are hereby amended to read as follows:
+
+ > ""23. Janiuay (Elementary) Tolarucan Completion ₱3,000.00
+>
+>  ""30. Janiuay Poblacion Repair 4,000.00
+>
+>  ""3. Leon (High School) Poblacion Repair 6,000.00""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 18, 1961.
+"	success	Republic Act	Amends provisions of RA 613 concerning public works projects in Iloilo province.	"[{""title"": ""Section 1"", ""summary"": ""Amendments to RA 613 priorities for Iloilo, specifying new amounts for Janiuay Elementary, Janiuay Poblacion, and Leon High School.""}, {""title"": ""Section 2"", ""summary"": ""Act takes effect upon approval.""}]"	3295	June 18, 1961			To amend certain provisions of RA 613 regarding public works projects for the Province of Iloilo.	"[""Amendment to priorities 23, 30, and 33 of RA 613"", ""Specifies completion and repair amounts for Janiuay Elementary, Janiuay Poblacion, and Leon High School""]"	Republic Act No. 613	"[""Public Works"", ""Iloilo"", ""Amendment"", ""RA 613"", ""Infrastructure"", ""Republic Act""]"	"[""RA 3295"", ""RA 613"", ""public works"", ""Iloilo"", ""Janiuay"", ""Leon"", ""education"", ""repair"", ""completion""]"
+repacts:datasets/markdown/repacts/1961/ra_3296_1961.md	repacts	1961		datasets/markdown/repacts/1961/ra_3296_1961.md	ra_3296_1961	An Act Reappropriating the Sum of One Thousand Six Hundred Seventy-Eight Pesos and Twenty-Three Centavos Which is the Unexpended Balance of Two Thousand Pesos Appropriated Under Item (p), Page 80 Group II, Subparagraph (27), for the Province of Leyte, Paragraph f, Section Two of Republic Act Numbered Fourteen Hundred Eleven	"**REPUBLIC ACT No. 3296**

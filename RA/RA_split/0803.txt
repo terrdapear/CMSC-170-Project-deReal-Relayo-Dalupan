@@ -1,0 +1,219 @@
+repacts:datasets/markdown/repacts/1963/ra_3576_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3576_1963.md	ra_3576_1963	An Act Changing the Name of the Welfareville School in the Municipality of Mandaluyong, Province of Rizal, to Jose Fabella Memorial School	"**REPUBLIC ACT No. 3576**
+
+ **An Act Changing the Name of the Welfareville School in the Municipality of Mandaluyong, Province of Rizal, to Jose Fabella Memorial School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Welfareville School in the Municipality of Mandaluyong, Province of Rizal, is hereby changed to Jose Fabella Memorial School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1963.
+"	success	Act	This act changes the name of the Welfareville School in Mandaluyong, Rizal to Jose Fabella Memorial School.	"[{""title"": ""Section 1."", ""summary"": ""The name of the Welfareville School in the Municipality of Mandaluyong, Province of Rizal, is hereby changed to Jose Fabella Memorial School.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	3576	June 21, 1963			To change the name of the Welfareville School to Jose Fabella Memorial School.	"[""The name of the Welfareville School in the Municipality of Mandaluyong, Province of Rizal, is hereby changed to Jose Fabella Memorial School."", ""This Act shall take effect upon its approval.""]"		"[""Education"", ""School"", ""Name Change""]"	"[""Welfareville School"", ""Jose Fabella Memorial School"", ""Mandaluyong"", ""Rizal"", ""Republic Act 3576"", ""name change""]"
+repacts:datasets/markdown/repacts/1963/ra_3577_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3577_1963.md	ra_3577_1963	An Act Changing the Name of the Gutad Elementary School in the Municipality of Floridablanca, Province of Pampanga, to Atanacio Pangan Elementary School	"**REPUBLIC ACT No. 3577**
+
+ **An Act Changing the Name of the Gutad Elementary School in the Municipality of Floridablanca, Province of Pampanga, to Atanacio Pangan Elementary School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Gutad Elementary School in the Municipality of Floridablanca, Province of Pampanga, is hereby changed to Atanacio Pangan Elementary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1963.
+"	success	Education	This act changes the name of Gutad Elementary School to Atanacio Pangan Elementary School in Floridablanca, Pampanga, effective June 21, 1963.	"[{""title"": ""Section 1"", ""summary"": ""Changes the name of Gutad Elementary School to Atanacio Pangan Elementary School.""}, {""title"": ""Section 2"", ""summary"": ""Act shall take effect upon approval.""}]"	3577	June 21, 1963			To rename a public elementary school.	"[""Name of Gutad Elementary School changed to Atanacio Pangan Elementary School."", ""Act shall take effect upon approval.""]"		"[""education"", ""school renaming"", ""local government"", ""pampanga""]"	"[""Gutad Elementary School"", ""Atanacio Pangan Elementary School"", ""Floridablanca"", ""Pampanga"", ""Republic Act 3577""]"
+repacts:datasets/markdown/repacts/1963/ra_3578_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3578_1963.md	ra_3578_1963	An Act Changing the Name of the Buenavista Elementary School in the Municipality of Buenavista, Province of Quezon, to Doña Asuncion Palma Guevara Elementary School	"**REPUBLIC ACT No. 3578**
+
+ **An Act Changing the Name of the Buenavista Elementary School in the Municipality of Buenavista, Province of Quezon, to Doña Asuncion Palma Guevara Elementary School**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the Buenavista Elementary School in the Municipality of Buenavista, Province of Quezon, is hereby changed to Doña Asuncion Palma Guevara Elementary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1963.
+"	success	Education	This act changes the name of Buenavista Elementary School to Doña Asuncion Palma Guevara Elementary School.	"[{""title"": ""Section 1."", ""summary"": ""The name of the Buenavista Elementary School in the Municipality of Buenavista, Province of Quezon, is hereby changed to Do\u00f1a Asuncion Palma Guevara Elementary School.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	3578	June 21, 1963			To change the name of a public elementary school in Quezon province.	"[""Change the name of Buenavista Elementary School to Do\u00f1a Asuncion Palma Guevara Elementary School"", ""Act takes effect upon approval""]"		"[""Education"", ""School"", ""Name Change"", ""Republic Act""]"	"[""Buenavista Elementary School"", ""Do\u00f1a Asuncion Palma Guevara Elementary School"", ""Quezon"", ""Republic Act 3578"", ""name change""]"
+repacts:datasets/markdown/repacts/1963/ra_3579_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3579_1963.md	ra_3579_1963	An Act Creating Additional Positions of Assistant Provincial Fiscals in the Province of Ilocos Norte, Amending for This Purpose Section Sixteen Hundred and Seventy-Four of the Revised Administrative Code, as Amended	"**REPUBLIC ACT No. 3579**
+
+ **An Act Creating Additional Positions of Assistant Provincial Fiscals in the Province of Ilocos Norte, Amending for This Purpose Section Sixteen Hundred and Seventy-Four of the Revised Administrative Code, as Amended**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section sixteen hundred and seventy-four of the Revised Administrative Code, as amended, relative to the number of assistant provincial fiscals in the Province of Ilocos Norte, is further amended to read as follows:
+
+ > ""Ilocos Norte, six assistant provincial fiscals.""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1963.
+"	success	Republic Act	This Act amends Section 1674 of the Revised Administrative Code to establish six assistant provincial fiscals in Ilocos Norte.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 1674 of the Revised Administrative Code to specify that Ilocos Norte shall have six assistant provincial fiscals.""}, {""title"": ""Section 2"", ""summary"": ""The Act shall take effect upon its approval.""}]"	3579	June 21, 1963			To create additional positions of assistant provincial fiscals in the Province of Ilocos Norte.	"[""Amendment to Section 1674 of the Revised Administrative Code to establish six assistant provincial fiscals in Ilocos Norte""]"	Section 1674 of the Revised Administrative Code	"[""Administrative Law"", ""Local Government"", ""Fiscal Positions""]"	"[""assistant provincial fiscals"", ""Ilocos Norte"", ""Revised Administrative Code"", ""Republic Act 3579""]"
+repacts:datasets/markdown/repacts/1963/ra_3580_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3580_1963.md	ra_3580_1963	AN ACT TO FURTHER THE MODERNIZATION PROGRAM OF THE GENERAL AUDITING OFFICE AND TO MAKE FUNDS AVAILABLE FOR THIS PURPOSE.	"**[ REPUBLIC ACT NO. 3580, June 21, 1963 ]**
+
+ **AN ACT TO FURTHER THE MODERNIZATION PROGRAM OF THE GENERAL AUDITING OFFICE AND TO MAKE FUNDS AVAILABLE FOR THIS PURPOSE.**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:*
+
+ **Section 1.** The Auditor General is hereby authorized to pursue further its modernization program by reorganizing"" and expanding the Program Audit Department and the Audit Methods and Training Staff of the General Auditing Office to include in their operations the program audit of local governments, development of auditing personnel, and improvement of auditing, accounting, and other fiscal procedures and practices that are the responsibilities of the General Auditing Office under existing laws, and for this purpose there is hereby appropriated, out of any funds in the National Treasury not otherwise appropriated, the amount of throe hundred sixty-four thousand three hundred four pesos, as follows:
+
+ | I.-PERSONAL SERVICES |  |
+| --- | --- |
+| A. For new positions: |  |
+| PROGRAM AUDIT DEPARTMENT |  |
+| Office of the Manager |  |
+| One Chief Supervising Auditor at P8,400*per annum* | P8,400 |
+| One Auditor at P5,100*per annum*, | 5,100 |
+| One Stenographer at P3,720*per annum* | 3,720 |
+| One Driver at P2,400*per annum* | 2,400 |
+| One Janitor at P1,680*per annum* | 1,680 |
+| One Laborer at PI,680*per annum* | 1,680 |
+| Program Audit Division for Local Governments |  |
+| One Chief Supervising Auditor at P8,400*per annum* | 8,400 |
+| One Auditor at P7.800*per annum* | 7,800 |
+| One Auditor at P6.888*per annum* | 6,888 |
+| One Auditor at P5,700*per annum* | 5,700 |
+| One Auditor at P5,100*per annum* | 5,100 |
+| Two Auditors at P4,200 each*per annum* | 8,400 |
+| Two Auditing Examiners at P8,600 each*per annum* | 7,200 |
+| Two Auditing Examiners at P3,300 each*per annum* | 6,600 |
+| Program Audit Division I |  |
+| One Chief Supervising Auditor at P8,400*per annum* | 8,400 |
+| One Auditor at P7,800*per annum* | 7,800 |
+| One Auditor at P6,888*per annum* | 6,888 |
+| One Auditor at P5,700*per annum* | 5,700 |
+| One Auditor at P5,100*per annum* | 5,100 |
+| One Auditor at P4,200*per annum* | 4,200 |
+| One Auditing Examiner at P3,600*per annum* | 3,600 |
+| One Auditing Examiner at P3,300*per annum* | 3,300 |
+| Program Audit Division II |  |
+| One Chief Supervising Auditor at P8,400*per annum* | 8,400 |
+| One Auditor at P7,800*per annum* | 7,800 |
+| One Auditor at P5,700*per annum* | 5,700 |
+| One Auditor at P5,100*per annum* | 5,100 |
+| One Auditor at P4,200*per annum* | 4,200 |
+| One Auditing Examiner at P3,600*per annum* | 3,600 |
+| One Auditing Examiner at P3,300*per annum* | 3,300 |
+| Income Examination Division |  |
+| Chief Supervising Auditor at P8,400*per annum* | 8,400 |
+| One Auditor at P6,888*per annum* | 6,888 |
+| One Auditor at P5,700*per annum* | 5,700 |
+| One Auditor at P5,100*per annum* | 5,100 |
+| One Auditor at P4,200*per annum* | 4,200 |
+| One Auditing Examiner at P3,600*per annum* | 3,600 |
+| One Auditing Examiner at P3,300*per annum* | 3,300 |
+| AUDIT METHODS AND TRAINING STAFF |  |
+| Training Branch |  |
+| Two Auditors at P6,000 each*per annum* | 12,000 |
+| One Clerk-Typist at P2,400*per annum* | 2,400 |
+| One Duplicating Equipment Operator at P2,400*per annum* | 2,400 |
+| One Janitor at P1,680*per annum* | 1,680 |
+| One Laborer at P1,680*per annum* | 1,680 |
+| Methods and Systems Branch |  |
+| Three Auditors at P6,000 each*per annum* | 18,000 |
+| Three Auditors at P4,800 each*per annum* | 14,400 |
+| One Clerk-Typist at P2,400*per annum* | 2,400 |
+| Research Branch |  |
+| Two Auditors at 1M.800 each*per annum* | 9,600 |
+| One Clerk-Typist at P2,400*per annum* | 2,400 |
+|  | ______________ |
+| Total for new positions | P266,304 |
+|  | ______________ |
+| B. Government share in employees' life and retirement insurance premiums | 26,000 |
+|  | ______________ |
+| Total for Personal Services | P292,304 |
+|  | ______________ |
+| II.-MAINTENANCE AND OTHER OPERATING EXPENSES |  |
+| Travel expenses | P30,000 |
+| Rentals | 12,000 |
+| Sundries | 10,000 |
+|  | ______________ |
+| Total for Maintenance and other Operating Expenses | P52,000 |
+|  | ______________ |
+| III.-FURNITURE AND EQUIPMENT |  |
+| Equipment Outlay | P20,000 |
+|  | ______________ |
+| IV.-SUMMARY |  |
+| Total for personal services | P292,304 |
+| Total for maintenance and other operating expenses | 52,000 |
+| Total for furniture and equipment | 20,000 |
+|  | ______________ |
+| Total Appropriation | P364,304 |
+|  | ______________ |
+
+ **Section 2.** The sum necessary for the succeeding fiscal years shall be included in the appropriations for the General Auditing Office in the annual General Appropriation Acts.
+
+ **Section 3.** This Act shall take effect on July first, nineteen hundred sixty-three.
+
+ Approved, June 21, 1963.
+"	success	Republic Act	This Act authorizes the Auditor General to modernize the General Auditing Office (GAO) by reorganizing its Program Audit Department and expanding its audit and training staff, and appropriates funds for personnel, operating expenses, and equipment needed for the program. It also provides for future fiscal year appropriations and sets the effective date.	"[{""title"": ""Section 1"", ""summary"": ""Authorizes the Auditor General to pursue modernization of the GAO, reorganizes the Program Audit Department, expands audit and training staff, and appropriates \u20b1164,304.00 for new positions, operating expenses, and equipment.""}, {""title"": ""Section 2"", ""summary"": ""Mandates that the sum necessary for succeeding fiscal years be included in the GAO's appropriations in the annual General Appropriation Acts.""}, {""title"": ""Section 3"", ""summary"": ""Establishes the effective date of the Act as July 1, 1963.""}]"	3580	June 21, 1963			To modernize the General Auditing Office by reorganizing its audit and training functions and to provide the necessary funds for personnel, operations, and equipment, thereby enhancing the efficiency and effectiveness of public auditing.	"[""Authorization of modernization program for the GAO"", ""Reorganization and expansion of the Program Audit Department and Training Staff"", ""Appropriation of P364,304 for new positions, operating expenses, and equipment"", ""Allocation of future fiscal year funds in General Appropriation Acts"", ""Effective date of July 1, 1963""]"		"[""Republic Act"", ""GAO"", ""Modernization"", ""Auditing"", ""Appropriation""]"	"[""General Auditing Office"", ""modernization program"", ""fund appropriation"", ""budget"", ""public auditing""]"
+repacts:datasets/markdown/repacts/1963/ra_3581_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3581_1963.md	ra_3581_1963	An Act Granting Philippine Citizenship to Mr. Narciso Padilla	"**REPUBLIC ACT No. 3581**
+
+ **An Act Granting Philippine Citizenship to Mr. Narciso Padilla**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Mr. Narciso Padilla is hereby granted Philippine citizenship with all the rights, privileges and prerogatives appurtenant thereto.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1963.
+"	success	Republic Act	An act granting Philippine citizenship to Mr. Narciso Padilla.	"[{""title"": ""Section 1"", ""summary"": ""Mr. Narciso Padilla is hereby granted Philippine citizenship with all the rights, privileges and prerogatives appurtenant thereto.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	3581	June 21, 1963			Granting citizenship to Mr. Narciso Padilla.	"[""Granting Philippine citizenship to Mr. Narciso Padilla""]"		"[""citizenship"", ""Republic Act"", ""1963"", ""Narciso Padilla""]"	"[""citizenship"", ""Philippines"", ""Narciso Padilla""]"
+repacts:datasets/markdown/repacts/1963/ra_3582_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3582_1963.md	ra_3582_1963	An Act to Increase the Bed Capacity of the Cagayan Provincial Hospital in the Province of Cagayan from Fifty to Seventy-Five Beds and to Authorize the Appropriation of Funds for the Purpose	"**REPUBLIC ACT No. 3582**
+
+ **An Act to Increase the Bed Capacity of the Cagayan Provincial Hospital in the Province of Cagayan from Fifty to Seventy-Five Beds and to Authorize the Appropriation of Funds for the Purpose**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The bed capacity of the Cagayan Provincial Hospital in the Province of Cagayan is hereby increased from fifty to seventy-five beds.
+
+ **Section 2.** In addition to the appropriations for the said hospital under existing law, the sum of two hundred ninety-six thousand seven hundred twenty-one pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance thereof.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1963.
+"	success	Republic Act	The Act increases the bed capacity of Cagayan Provincial Hospital from 50 to 75 beds and appropriates an additional 296,721 pesos for its operation and maintenance.	"[{""title"": ""Section 1."", ""summary"": ""Increases the bed capacity of Cagayan Provincial Hospital from fifty to seventy-five beds.""}, {""title"": ""Section 2."", ""summary"": ""Authorizes the appropriation of 296,721 pesos from national treasury funds for operation and maintenance of the hospital.""}, {""title"": ""Section 3."", ""summary"": ""States that the Act shall take effect upon its approval.""}]"	3582	June 21, 1963			To increase hospital bed capacity and provide funds for its operation and maintenance.	"[""Increase bed capacity from 50 to 75"", ""Appropriation of 296,721 pesos for operation and maintenance"", ""Act takes effect upon approval""]"		"[""Health"", ""Hospital"", ""Infrastructure"", ""Budget""]"	"[""bed capacity"", ""Cagayan Provincial Hospital"", ""appropriation"", ""hospital beds"", ""Philippines""]"
+repacts:datasets/markdown/repacts/1963/ra_3583_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3583_1963.md	ra_3583_1963	An Act Granting the Ilocos Norte Electric Company a Franchise to Install, Maintain and Operate an Electric Light, Heat and Power System in the Municipalities of Laoag and San Nicolas, Both in the Province of Ilocos Norte, and to Sell and Distribute Light, Heat and Power Therein	"**REPUBLIC ACT No. 3583**
+
+ **An Act Granting the Ilocos Norte Electric Company a Franchise to Install, Maintain and Operate an Electric Light, Heat and Power System in the Municipalities of Laoag and San Nicolas, Both in the Province of Ilocos Norte, and to Sell and Distribute Light, Heat and Power Therein**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Subject to the provisions of the Constitution and to the terms and conditions established in Act Numbered Thirty-six hundred and thirty-six, as amended by Commonwealth Act Numbered One hundred and thirty-two, there is granted to the Ilocos Norte Electric Company, for a period of fifty years from the approval of this Act, the right, privilege and authority to install, maintain and operate electric light, heat and power system for the purpose of generating and distributing electric light, heat and power for sale in the municipalities of Laoag and San Nicolas, both in the Province of Ilocos Norte, and to collect and charge a schedule of prices, which schedule of prices and rates shall at all times be subject to regulation by the Public Service Commission; *Provided,* That electric and power services to the Ablan Memorial and the Ilocos Norte Waterworks reservoir at Ermita Hill including all government buildings established in said area, be charged only at costs.
+
+ **Section 2.** In the event that the National Power Corporation shall have established its lines in the areas adjacent to or over the territory covered by this franchise, the National Power Corporation may make available its power and heat only after negotiation with and through the Ilocos Norte Electric Company, or with the authority and consent of the grantee. The National Power Corporation is hereby authorized to negotiate and transact for the benefit and in behalf of the public consumers with reference to rates as approved by the Public Service Commission subject to the exception in the next preceding paragraph.
+
+ **Section 3.** In consideration of this franchise and rights hereby granted, the grantee shall pay into the Treasury of the Philippines a franchise tax equal to two per centum of the gross earnings for electric current sold under this franchise. Provisions of law to the contrary notwithstanding, the franchise tax equal to two per centum of the gross earnings of the grantee as provided for in the original franchises granted by the municipalities of Laoag and San Nicolas, both in the Province of Ilocos Norte, shall be respected. Effective upon the date the original franchise was granted, no other tax upon its capital stock, franchise, right of way, earnings and all other property owned or operated by the grantee under this concession or franchise shall be levied or assessed on the herein grantee except the franchise tax of two per centum of the gross earnings mentioned in the said original franchise.
+
+ **Section 4.** Upon approval of this Act, the municipal franchise granted the Ilocos Norte Electric Company shall terminate and this franchise shall take its place.
+
+ **Section 5.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1963.
+"	success	Republic Act	Provides a 50‑year franchise to the Ilocos Norte Electric Company for electric service in Laoag and San Nicolas, including tax provisions and coordination with the National Power Corporation.	"[{""title"": ""Section 1"", ""summary"": ""Grants franchise rights and specifies regulatory conditions and pricing schedule.""}, {""title"": ""Section 2"", ""summary"": ""Allows National Power Corporation to negotiate power supply within the franchise area.""}, {""title"": ""Section 3"", ""summary"": ""Mandates a 2% franchise tax on gross earnings and exempts other taxes.""}, {""title"": ""Section 4"", ""summary"": ""Terminates the municipal franchise upon approval of this Act.""}, {""title"": ""Section 5"", ""summary"": ""Specifies the effective date of the Act.""}]"	3583	June 21, 1963			To grant the Ilocos Norte Electric Company a franchise to operate electric services in Laoag and San Nicolas.	"[""50\u2011year franchise granted to Ilocos Norte Electric Company."", ""Franchise tax of 2% of gross earnings."", ""Regulation of rates by Public Service Commission."", ""Coordination with National Power Corporation for power supply."", ""Termination of municipal franchise.""]"	Act Numbered Thirty‑six hundred and thirty‑six, amended by Commonwealth Act Numbered One hundred and thirty‑two.	"[""Electricity"", ""Franchise"", ""Ilocos Norte"", ""Public Service Commission""]"	"[""Ilocos Norte Electric Company"", ""franchise"", ""electric power"", ""Public Service Commission"", ""National Power Corporation""]"
+repacts:datasets/markdown/repacts/1963/ra_3584_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3584_1963.md	ra_3584_1963	An Act Creating the Municipality of Libertad in the Municipality of Misamis Oriental	"**REPUBLIC ACT No. 3584**
+
+ **An Act Creating the Municipality of Libertad in the Municipality of Misamis Oriental**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The barrios of Libertad, Gimaylan, Lubluban, Dulong, Taytayan and Tangcub are hereby separated from the Municipality of Initao, Province of Misamis Oriental, and constituted into a new municipality to be known as the Municipality of Libertad of the same province.
+
+ **Section 2.** The boundaries of the Municipality of Libertad are as follows:
+
+ > ""Beginning at point marked ""1"" on plan, a common point of the municipalities of Gitagum and Initao, thence following the original Gitagum and Initao boundary; S. 39 00 E, 8,255.00 meters to point ""2"" thence S 17 00 W, 4,200.00 meters to point ""3"" thence N 39 00 W, 5,000.00 meters to point ""4"" thence, northwest approximately 6,600.00 meters following a natural waterway to point ""5"", thence, northeast approximately 6,200.00 meters following the coastal stretch to point of beginning.""
+
+ **Section 3.** The first mayor, vice-mayor and councilors of the municipality shall be appointed by the President of the Philippines with the consent of the Commission on Appointments and shall continue in office until their successors shall have been elected in the next election for local officials and shall have qualified.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1963.
+"	success	Municipality creation	Creates the Municipality of Libertad in Misamis Oriental, defining its boundaries and establishing its local government structure.	"[{""title"": ""Section 1"", ""summary"": ""Separates the barrios of Libertad, Gimaylan, Lubluban, Dulong, Taytayan and Tangcub from the Municipality of Initao to form the new Municipality of Libertad.""}, {""title"": ""Section 2"", ""summary"": ""Provides the detailed boundaries of the newly created Municipality of Libertad.""}, {""title"": ""Section 3"", ""summary"": ""Specifies the appointment of the first mayor, vice-mayor, and councilors by the President of the Philippines with the consent of the Commission on Appointments.""}, {""title"": ""Section 4"", ""summary"": ""Stipulates that the Act shall take effect upon its approval.""}]"	3584	June 21, 1963			To create a new municipality, define its boundaries, and establish the local government officials.	"[""Creation of Municipality of Libertad"", ""Definition of municipal boundaries"", ""Appointment of local officials"", ""Effectivity of the Act""]"		"[""Municipality"", ""Local Government"", ""Misamis Oriental"", ""Republic Act""]"	"[""Libertad"", ""Misamis Oriental"", ""municipality creation"", ""local government"", ""boundaries""]"
+repacts:datasets/markdown/repacts/1963/ra_3585_1963.md	repacts	1963		datasets/markdown/repacts/1963/ra_3585_1963.md	ra_3585_1963	An Act Authorizing the Sale, Transfer and Conveyance to the Universal Telecommunications Service, Inc. of the Franchise and All the Properties and Rights Acquired Thereunder Granted to Mr. Anastacio Morales Under Republic Act Numbered Thirty-Two Hundred Forty-Six to Establish, Maintain and Operate Radio Stations for International and Domestic Communications	"**REPUBLIC ACT No. 3585**
+
+ **An Act Authorizing the Sale, Transfer and Conveyance to the Universal Telecommunications Service, Inc. of the Franchise and All the Properties and Rights Acquired Thereunder Granted to Mr. Anastacio Morales Under Republic Act Numbered Thirty-Two Hundred Forty-Six to Establish, Maintain and Operate Radio Stations for International and Domestic Communications**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Subject to the provisions of Republic Act Numbered Thirty-two forty-six, the sale, transfer, and conveyance to the Universal Telecommunications Service, Inc., of the franchise and all the properties and rights acquired thereunder granted to Mr. Anastacio Morales under the said Act, to establish, maintain and operate radio stations for international and domestic communications, is hereby authorized and approved.
+
+ **Section 2.** This Act shall take effect upon its approval.

@@ -1,0 +1,135 @@
+repacts:datasets/markdown/repacts/1955/ra_1323_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1323_1955.md	ra_1323_1955	An Act Converting into Barrios Certain Sitios in the Province of Zamboanga del Norte	"**REPUBLIC ACT No. 1323**
+
+ **An Act to Create the Barrios of Talisay, Linungganan, Sukailang, and Biyabid, in the Municipality of Surigao, Province of Surigao**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Talisay, Linungganan, Sukailang, and Biyabid, in the Municipality of Surigao, Province of Surigao, are hereby constituted into barrios in the same municipality, to be known as Talisay, Linungganan, Sukailang and Biyabid, respectively.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 16, 1955.
+"	success	Republic Act	This act converts specified sitios into barrios within the Province of Zamboanga del Norte, effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Conversion of listed sitios into barrios.""}, {""title"": ""Section 2"", ""summary"": ""Act takes effect upon approval.""}]"	1313	June 16, 1955			To convert sitios into barrios for improved local governance.	"[""Conversion of specified sitios into barrios."", ""Effective upon approval.""]"		"[""Republic Act"", ""Zamboanga del Norte"", ""Barangay"", ""Local Government""]"	"[""sitios"", ""barrios"", ""Zamboanga del Norte"", ""Republic Act 1313""]"
+repacts:datasets/markdown/repacts/1955/ra_1324_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1324_1955.md	ra_1324_1955	An Act Changing the Name of Barrio Iraya Norte in the Municipality of San Vicente, Province of Camarines Norte, to San Jose of the Said Municipality	"**REPUBLIC ACT No. 1324**
+
+ **An Act to Create the Barrio of Bungahan in the City of Lipa**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Duhatan, Tagbakin, Initan, Malabong and Halang, all in the barrio of Pinagtungolan, City of Lipa, are separated from the said barrio, and constituted into a separate barrio in the said city to be known as the barrio of Bungahan.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 16, 1955.
+"	success	Republic Act	This act changes the name of Barrio Iraya Norte in San Vicente, Camarines Norte, to Barrio San Jose, effective upon approval.	"[{""title"": ""Section 1."", ""summary"": ""The name of barrio Iraya Norte is changed to barrio San Jose.""}, {""title"": ""Section 2."", ""summary"": ""The act shall take effect upon its approval.""}]"	1314	June 16, 1955			To change the name of a barrio in the municipality of San Vicente.	"[""Name of Barrio Iraya Norte changed to Barrio San Jose"", ""Act takes effect upon approval""]"		"[""Name Change"", ""Barangay"", ""Local Government""]"	"[""Iraya Norte"", ""San Jose"", ""San Vicente"", ""Camarines Norte""]"
+repacts:datasets/markdown/repacts/1955/ra_1325_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1325_1955.md	ra_1325_1955	An Act Converting the Sitio of Patag to Barrio of San Isidro in the Municipality of Basud, Province of Camarines Norte	"**REPUBLIC ACT No. 1325**
+
+ AN ACT MAKING ELECTIVE THE POSITIONS OF MAYOR AND VICE-MAYOR AND THE ENTIRE MEMBERSHIP OF THE MUNICIPAL BOARD OF THE CITY OF CAGAYAN DE ORO, AMENDING FOR THIS PURPOSE CERTAIN SECTIONS OF REPUBLIC ACT NUMBERED FIVE HUNDRED TWENTY-ONE.
+
+ **Section 1.** Sections seven, eight and eleven of Republic Act Numbered Five hundred twenty-one, otherwise known as the Charter of the City of Cagayan de Oro, are amended to read as follows:
+
+ Sec. 7. The Mayor. The Mayor shall be the chief executive of the city. He shall be elected by the qualified voters of the city during every election for provincial and municipal officials in accordance with the provisions of the Revised Election Code. No person shall be eligible for the position of mayor unless he is at least twenty-five years of age, a qualified voter and a resident of the city for not less than one year immediately preceding his election. He shall receive a salary of not exceeding six thousand pesos a year. With the approval of the Secretary of Finance, the Mayor may be provided, in addition to his salary, a non-commutable allowance of not exceeding five thousand pesos per annum. Sec. 8. The Vice-Mayor. There shall be a Vice-Mayor who shall perform the duties of the Mayor, in the event of the sickness, absence or other temporary incapacity of the Mayor, or in the event of a definitive vacancy in the position of the mayor, until said office shall be filled in accordance with law. He shall be elected in the same manner and shall possess the same qualifications as the mayor. If for any reason, the Vice-Mayor is temporarily incapacitated for the performance of the duties of the office of mayor or said office of the Vice-Mayor is vacant, the duties of the Mayor shall be performed by the city treasurer. The acting mayor shall have the same powers and duties as the mayor. The Vice-Mayor shall be a member of the Municipal Board and shall perform such other duties as may be assigned to him by the mayor or prescribed by law or ordinance. He shall receive a salary not exceeding three thousand six hundred pesos per annum: *Provided*, That when he acts as mayor his salary shall be equivalent to that of the Mayor. Sec. 11. Constitution and organization of the Municipal Board. compensation of members thereof. The Municipal Board shall be the legislative body of the city and shall be composed of the Mayor, who shall be its presiding officer, the Vice-Mayor and seven councilors elected at large by popular vote during every election for provincial and municipal officials in conformity with the provisions of the Revised Election Code. In case of sickness, absence, suspension or other temporary disability of any member of the Board, or if necessary to maintain a quorum, the President of the Philippines may appoint a temporary substitute belonging to the same political party as the temporarily incapacitated member who shall possess all the rights and perform all the duties of a member of the Board until the return to duty of the regular incumbent. If any member of the Municipal Board should be candidate for office in any election, he shall be disqualified to act with the Board in the discharge of the duties conferred upon it relative to election matters, in such case the other members of the Board shall discharge said duties without his assistance, or they may choose a disinterested elector of the city to act with the Board in such matters in his stead. The members of the Municipal Board shall receive per diem in provided for in Republic Act Numbered Eight hundred forty."" **Section 2.** The appointive mayor and vice-mayor and all the councilors who are serving as such on the date of the approval of this Act shall continue in office until their successors are elected and have qualified in the next general election for provincial and municipal officials in conformity with the provisions of the Revised Penal Code.
+
+ **Section 3.** This Act shall take effect upon its approval.
+"	success	Republic Act	Converts the sitio of Patag into the barrio of San Isidro in Basud, Camarines Norte.	"[{""title"": ""Section 1"", ""summary"": ""Converts the sitio of Patag into a barrio named San Isidro.""}, {""title"": ""Section 2"", ""summary"": ""Act takes effect upon approval.""}]"	RA 1315	June 16, 1955			To convert a sitio to a barrio, formalizing administrative boundaries within the municipality of Basud.	"[""Conversion of the sitio of Patag to barrio of San Isidro."", ""Act takes effect upon approval.""]"		"[""Local Government"", ""Administrative Division"", ""Barangay"", ""Basud"", ""Camarines Norte""]"	"[""Sitio"", ""Barrio"", ""Conversion"", ""Basud"", ""Camarines Norte"", ""Republic Act 1315""]"
+repacts:datasets/markdown/repacts/1955/ra_1326_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1326_1955.md	ra_1326_1955	An Act Converting the Sitio of Ilayang Basiad in the Municipality of Capalonga, Province of Camarines Norte, into Barrio San Pedro of Said Municipality	"**REPUBLIC ACT No. 1326**
+
+ **An Act Changing the Name of the Barrio of Taniongbobog, Municipality of Brookes Point, Province of Palawan, to Saraza**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of barrio of Taniongbobog, Municipality of Brookes Point, Province of Palawan, is changed to Saraza.
+
+ **Section 2.** This Act shall take effect upon its approval
+
+ Approved: June 16, 1955.
+"	success	Republic Act	Converts the sitio of Ilayang Basiad into the barrio San Pedro in the municipality of Capalonga, Camarines Norte.	"[{""title"": ""Section 1."", ""summary"": ""The sitio of Ilayang Basiad is converted into barrio San Pedro of said municipality.""}, {""title"": ""Section 2."", ""summary"": ""The Act shall take effect upon its approval.""}]"	1316	June 16, 1955			To convert the sitio of Ilayang Basiad into a recognized barrio within Capalonga.	"[""Conversion of Ilayang Basiad into Barrio San Pedro.""]"		"[""Local Government"", ""Administrative Division""]"	"[""Ilayang Basiad"", ""Capalonga"", ""Camarines Norte"", ""Barrio San Pedro""]"
+repacts:datasets/markdown/repacts/1955/ra_1327_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1327_1955.md	ra_1327_1955	An Act Converting the Sitios of Lidong, Taba-Taba, Manmontoy, Borabod, Taisan, Hinampacan, Manlimonsito, Polantuna, and Oliva in the Municipality of Basud, Province of Camarines Norte, into Barrios of Said Municipality with the Same Names	"**REPUBLIC ACT No. 1327**
+
+ **An Act to Amend Certain Provisions of the Charter of the City of Butuan**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section seven of Republic Act Numbered Five hundred twenty-three, otherwise known as the Charter of the city of Butuan, is amended to read as follows:
+
+ > ""Sec. 7. *The Mayor His election, qualifications and compensation.* The Mayor shall be the chief executive of the city. He shall be elected by the qualified voters of the city during every election for provincial and municipal officials in conformity with the provisions of the Revised Election Code. No person shall be elected mayor unless he is at least twenty-five years of age, a resident of the city for at least two years prior to his election, and a qualified voter therein.
+>
+>  ""He shall receive compensation as provided in Republic Act Numbered Eight hundred forty, entitled ""An Act classifying chartered cities, except Manila, Baguio and Quezon Cities, according to their annual revenues and fixing the salaries of the officials thereof.""
+
+ **Section 2.** Section eight of the same Act is amended to read as follows:
+
+ > ""Sec. 8. *The Vice-Mayor His election, qualifications, duties and compensation.* There shall be a vice-mayor who shall be elected in the same manner as the mayor and shall at the time of his election possess the same qualifications as the mayor. He shall perform the duties of the mayor, in the event of the sickness, absence or other temporary incapacity of the mayor, or in the event of a definitive vacancy in the position of mayor. If, for any reason, the vice-mayor is temporarily incapacitated for the performance of the duties of the office of the mayor, or said office of the vice-mayor is vacant, the duties of the Mayor shall be performed by the councilor who obtained the highest number of votes. The acting mayor shall have the same powers and duties as the mayor.
+>
+>  ""The vice-mayor shall perform such other duties as may be assigned to him by the mayor or prescribed by law or ordinance. He shall receive a salary of not exceeding three thousand pesos per annum.""
+
+ **Section 3.** Section eleven of the same Act is amended to read as follows:
+
+ > ""Sec. 11. *Constitution and organization of the Municipal Board Compensation of members thereof.* The Municipal Board shall be the legislative body of the city and shall be composed of the vice-mayor, who shall be its presiding officer, and six councilors who shall be elected at large by popular vote during every election for provincial and municipal officials in conformity with the provisions of the Revised Election Code. In case of sickness, absence, suspension or other temporary disability of any member of the Board, or if necessary to maintain a quorum, the President of the Philippines may appoint a temporary substitute who shall possess all the rights and perform all the duties of a member of the Board until the return to duty of the regular incumbent.
+>
+>  ""If any member of the Municipal Board should be a candidate for office in any election, he shall be disqualified to act with the Board in the discharge of the duties conferred upon it relative to election matters, and in such case the other members of the Board shall discharge said duties without his assistance, or they may choose some disinterested elector of the city to act with the Board in such matters in his stead.
+>
+>  ""The members of the Municipal Board shall receive compensation as provided in Republic Act Numbered Eight hundred forty.""
+
+ **Section 4.** This Act shall take effect upon its approval: *Provided,* That the incumbent appointive Mayor and vice-mayor of the City of Butuan shall continue to hold office and the present composition of the Municipal Board of said city shall likewise continue until the elective City Mayor, vice-mayor and councilors provided for in this Act shall have been elected in the next regular election for provincial and municipal officials and shall have qualified.
+
+ Approved: June 16, 1955.
+"	success	Republic Act	The Act converts the specified sitios in Basud, Camarines Norte into barrios with the same names.	"[{""title"": ""Section 1."", ""summary"": ""The sitios of Lidong, Taba-taba, Manmontoy, Borabod, Taisan, Hinampacan, Manlimonsito, Polantuna, and Oliva in the Municipality of Basud, Province of Camarines Norte, are converted into barrios of said municipality with the same names.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	1317	June 16, 1955			To reorganize local government units by converting specified sitios into barrios.	"[""Conversion of specified sitios into barrios"", ""Act to take effect upon approval""]"		"[""local government units"", ""administrative division""]"	"[""Sitios"", ""Barrios"", ""Basud"", ""Camarines Norte"", ""Republic Act 1317""]"
+repacts:datasets/markdown/repacts/1955/ra_1328_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1328_1955.md	ra_1328_1955	An Act Changing the Name of the Municipality of Sabani, Province of Nueva Ecija, to Gabaldon	"**REPUBLIC ACT No. 1328**
+
+ AN ACT TO AMEND REPUBLIC ACT NUMBERED SIX HUNDRED AND THIRTY-TWO, BY ENLARGING THE POWERS, FUNCTIONS AND DUTIES OF THE PHILIPPINE SUGAR INSTITUTE, PROVIDING FOR THE FINANCING THEREOF, AND FOR OTHER PURPOSES.
+
+ **Section 1.** Section two of Republic Act Numbered Six hundred and thirty-two is hereby amended to read as follows:
+
+ **Section 2.** Purposes and Objectives. The PHILSUGIN shall have the following purposes and objectives:
+
+ (a) To conduct research work for the sugar industry in all its phases, either agricultural or industrial, for the purpose of introducing into the sugar industry such practices or processes that will reduce the cost of production, increase and improve the industrialization of the by-products of sugar cane, and achieve greater efficiency in the industry; (b) To improve existing methods of raising sugar cane and of sugar manufacturing; (c) To insure a permanent, sufficient and balanced production of sugar and its by-products for local consumption and exportation; (d) To establish and maintain such balanced relation between production and consumption of sugar and its by-products, and such marketing conditions thereof, as will insure stabilized prices at a level sufficient to cover the cost of production plus a reasonable profit; (e) To promote the effective merchandising of sugar and its by-products in the domestic and foreign markets so that those engaged in the sugar industry will be placed on a basis of economic security; (f) To improve the living and economic conditions of laborers engaged in the sugar industry by the gradual and effective correction of the inequalities existing in the industry; and (g) To finance the activities of the sugar industry, or any of its component elements, where such assistance is needed and conducive to the progress of the industry in all its phases."" **Section 2.** Section three of Republic Act Numbered Six hundred and thirty-two is hereby amended to read as follows:
+
+ **Section 3.** Specific and General Powers. For carrying out the purposes mentioned in the preceding section, the PHILSUGIN shall have the following powers:
+
+ (a) To establish, keep, maintain and operate, or help establish, keep, maintain, and operate one central experiment station and such number of regional experimental stations in any part of the Philippines as may be necessary to undertake extensive research in sugar cane culture and manufacture, including studies as to the feasibility of mechanizing sugar cane farms, the control and eradication of pests, the selection and propagation of high-yielding varieties of sugar cane suited to Philippine climatic conditions, and such other pertinent studies as will be useful in adjusting the sugar industry to a position independent of existing trade preference in the American market; (b) To purchase such machineries, materials, equipment, and supplies as may be necessary to prosecute successfully such researches and experimental work; (c) To explore and expand the domestic and foreign markets for sugar and its by-products to assure mutual benefits to consumers and producers, and to promote and maintain a sufficient general production of sugar and its by-products by an efficient coordination of the component elements of the sugar industry of the country; (d) To buy, sell, assign, own, operate, rent or lease, subject to existing laws, machineries, equipment, materials, merchant vessels, rails, railroad lines, and any other means of transportation, warehouses, buildings, and any other equipment and material for the production, manufacture, handling, transportation and warehousing of sugar and its by-products; (e) To borrow or raise or secure money for the purpose of meeting the financial needs of the industry, the growers and the millers; to issue bonds and debentures to carry out the purposes and objectives outlined in Chapter one of this Act; (f) To provide credit facilities and/or loans, on reasonable terms, to sugar cane growers and/or millers when it deems such loans advisable; (g) To enter, make and execute contracts of any kind as may be necessary or incidental to the attainment of its purposes with any person, firm, or public or private corporation, with the Government of the Philippines or of the United States, of any state, territory or persons thereof or with any foreign government and, in general, to do everything directly or indirectly necessary or incidental to, or in furtherance of, the purposes of the corporation; (h) To do all such other things, transact all such business and perform such functions directly or indirectly necessary, incidental or conducive to the attainment of the purposes of the corporation; and (i) Generally, to exercise all the powers of a corporation under the Corporation Law insofar as they are not inconsistent with the provisions of this Act."" **Section 3.** A section is hereby inserted between sections sixteen and seventeen of Republic Act Numbered Six hundred and thirty-two, to be known as section sixteen-A, to read as follows:
+
+ Section 16- A. The proceeds of all collections made under Commonwealth Act Numbered Five hundred and sixty-seven, shall constitute a special fund and accrue to the Sugar Research and Stabilization Fund which shall likewise be available for the maintenance, operation and use of the Philippine Sugar Institute.""
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 16, 1955.
+"	success	Republic Act	This act changes the name of the municipality of Sabani in Nueva Ecija to Gabaldon.	"[{""title"": ""Section 1"", ""summary"": ""The name of the Municipality of Sabani, Province of Nueva Ecija, is hereby changed to Gabaldon.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	1318	June 16, 1955			To rename the municipality of Sabani to Gabaldon.	"[""The name of the Municipality of Sabani is changed to Gabaldon.""]"		"[""municipality"", ""name change"", ""Nueva Ecija"", ""Republic Act""]"	"[""Sabani"", ""Gabaldon"", ""Nueva Ecija"", ""municipality"", ""name change"", ""Republic Act 1318""]"
+repacts:datasets/markdown/repacts/1955/ra_1329_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1329_1955.md	ra_1329_1955	An Act Creating the Barrio of San Jose, Maricaban Island, Municipality of Bauan, Province of Batangas	"**REPUBLIC ACT No. 1329**
+
+ **An Act to Create the Barrios of Uba, Mabahin, Tag-Anongan and Manlico, in the Municipality of Cortes, Province of Surigao**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Uba, Mabahin, Tag-anongan and Manlico, in the Municipality of Cortes, Province of Surigao, are hereby constituted into barrios in the same municipality, to be known as Uba, Mabahin, Tag-anongan and Manlico, respectively.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 16, 1955.
+"	success	Republic Act	Establishes the barrio of San Jose in Bauan, Batangas by separating the sitios of Pinagcurusan from Maricaban and Tingloy barrios.	"[{""title"": ""Section 1"", ""summary"": ""Separates the sitios of Pinagcurusan from Maricaban and Tingloy to constitute the barrio of San Jose.""}, {""title"": ""Section 2"", ""summary"": ""Act takes effect upon approval.""}]"	1319	June 16, 1955			To create a new barrio of San Jose for local governance.	"[""Separation of the sitios of Pinagcurusan from Maricaban and Tingloy to form the barrio of San Jose."", ""Act takes effect upon approval.""]"		"[""Local Government"", ""Barangay"", ""Bauan"", ""Batangas""]"	"[""Barrio"", ""San Jose"", ""Maricaban"", ""Bauan"", ""Batangas"", ""Republic Act 1319""]"
+repacts:datasets/markdown/repacts/1955/ra_1330_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1330_1955.md	ra_1330_1955	An Act Creating the Barrio of San Juan in Maricaban Island, Municipality of Bauan, Province of Batangas	"**REPUBLIC ACT No. 1330**
+
+ **An Act to Create the Barrio of Bagsac in the Municipality of Madrin, Province of Surigao**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Bagsac in the Municipality of Madrid, Province of Surigao, is hereby constituted into a barrio in the same municipality, to be known as Bagsac.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 16, 1955.
+"	success	Republic Act	Creates the barrio of San Juan in Maricaban Island by separating the sitio of Pirasan from the barrio of Payapa.	"[{""title"": ""Section 1"", ""summary"": ""Separates the sitio of Pirasan from the barrio of Payapa and constitutes it as the independent barrio of San Juan.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	1320	June 16, 1955			To create a new barrio within the municipality of Bauan.	"[""Establishment of the barrio of San Juan by separating the sitio of Pirasan from the barrio of Payapa."", ""Effectivity of the act upon approval.""]"		"[""local government"", ""barrio"", ""administrative law""]"	"[""barrio"", ""San Juan"", ""Maricaban Island"", ""Bauan"", ""Batangas"", ""site"", ""Pirasan"", ""creation"", ""legislation""]"
+repacts:datasets/markdown/repacts/1955/ra_1331_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1331_1955.md	ra_1331_1955	An Act Creating the Barrio of Masara in the Municipality of Mabini, Province of Davao	"**REPUBLIC ACT No. 1331**
+
+ **An Act to Convert the Sitio of San Vicente in the Municipality of Ivana, Province of Batanes, into a Barrio to be Known as the Barrio of San Vicente of Said Municipality**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of San Vicente in the Municipality of Ivana, Province of Batanes, is hereby converted into a barrio to be known as the barrio San Vicente of said municipality.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 16, 1955.
+"	success	Republic Act	Creates the barrio of Masara in Mabini, Davao.	"[{""title"": ""Section 1"", ""summary"": ""The territory bounded by Compostela, mountain ranges, sitio Panibasan, and Caraga is created as the barrio of Masara.""}, {""title"": ""Section 2"", ""summary"": ""The Act takes effect upon its approval.""}]"	1321	June 16, 1955			To create the barrio of Masara	"[""Creation of the barrio of Masara"", ""Effectivity upon approval""]"		"[""Republic Act"", ""Local Government"", ""Barrio Creation""]"	"[""Masara"", ""Mabini"", ""Davao"", ""Barrio"", ""Creation""]"
+repacts:datasets/markdown/repacts/1955/ra_1332_1955.md	repacts	1955		datasets/markdown/repacts/1955/ra_1332_1955.md	ra_1332_1955	An Act to Finance Peoples Homesite and Housing Corporation Projects from the Bond Issue Under Republic Act Numbered One Thousand	"**REPUBLIC ACT No. 1332**
+
+ **An Act to Convert the Sitio of Diptan in the Municipality of Basco, Province of Batanes, into a Barrio to be Known as the Barrio of San Antonio De Padua of Said Municipality**

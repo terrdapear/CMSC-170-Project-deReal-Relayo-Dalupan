@@ -1,0 +1,181 @@
+
+ Approved,
+
+  | (Sgd.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate | (Sgd.) **FERDINAND MARTIN G. ROMUALDEZ** Speaker of the House of Representatives |
+
+ This Act, which originated in the House of Representatives, was passed by the House of Representatives and the Senate of the Philippines on August 9, 2023 and December 17, 2024, respectively.
+
+ | (Sgd.) **RENATO N. BANTUG, JR.** Secretary of the Senate | (Sgd.) **REGINALD S. VELASCO** Secretary General House of Representatives |
+
+ Approved: MAR 14 2025
+
+ (Sgd.) **FERDINAND ROMUALDEZ MARCOS JR.**
+"	success	Revised law	This Republic Act creates a district office of the Land Transportation Office (LTO) in Sulop, Davao del Sur, authorizes the Department of Transportation to operationalize and fund it through the General Appropriations Act, and sets its effective date after publication.	"[{""title"": ""Section 1"", ""summary"": ""Establishes a district office of the LTO in the Municipality of Sulop, Province of Davao del Sur.""}, {""title"": ""Section 2"", ""summary"": ""Mandates the Secretary of the Department of Transportation to include the operationalization and funding of the LTO District Office in Sulop within the Department\u2019s program and the annual General Appropriations Act.""}, {""title"": ""Section 3"", ""summary"": ""The Act becomes effective fifteen days after its publication in the Official Gazette or a newspaper of general circulation.""}]"	12126	March 14, 2025	"[{""name"": ""FRANCIS \""CHIZ\"" G. ESCUDERO"", ""title"": ""President of the Senate""}, {""name"": ""FERDINAND MARTIN G. ROMUALDEZ"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""RENATO N. BANTUG, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""REGINALD S. VELASCO"", ""title"": ""Secretary General House of Representatives""}]"	To establish a Land Transportation Office district office in Sulop, Davao del Sur and provide appropriate funding for its operations.	"[""Establishment of an LTO district office in Sulop, Davao del Sur"", ""Inclusion of the office\u2019s operationalization and funding in the Department of Transportation\u2019s program and the General Appropriations Act"", ""Effectiveness set to fifteen days post-publication""]"		"[""Land Transportation"", ""Local Government"", ""Davao del Sur"", ""Republic Act""]"	"[""Land Transportation Office"", ""District Office"", ""Sulop"", ""Davao del Sur"", ""Funding"", ""General Appropriations Act""]"
+repacts:datasets/markdown/repacts/2025/ra_12127_2025.md	repacts	2025		datasets/markdown/repacts/2025/ra_12127_2025.md	ra_12127_2025	AN ACT CONVERTING THE LAND TRANSPORTATION OFFICE EXTENSION OFFICE IN THE MUNICIPALITY OF GATTARAN, PROVINCE OF CAGAYAN, INTO A REGULAR LTO DISTRICT OFFICE AND APPROPRIATING FUNDS THEREFOR	"[ REPUBLIC ACT NO. 12127, March 14, 2025 ]
+
+ AN ACT CONVERTING THE LAND TRANSPORTATION OFFICE EXTENSION OFFICE IN THE MUNICIPALITY OF GATTARAN, PROVINCE OF CAGAYAN, INTO A REGULAR LTO DISTRICT OFFICE AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The existing Land Transportation Office (LTO) extension office in the Municipality of Gattaran, Province of Cagayan, is hereby converted into a regular LTO district office to be known as the Gattaran LTO District Office.
+
+ **Section 2.** The Secretary of the Department of Transportation shall immediately include in the Department's program the operationalization of the LTO District Office, the initial funding of which shall be charged against the current year's appropriation of the LTO extension office in the Municipality of Gattaran, Province of Cagayan. Thereafter, such sum as may be necessary for the continued operation of the Gattaran LTO District Office shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (Sgd.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate | (Sgd.) **FERDINAND MARTIN G. ROMUALDEZ** Speaker of the House of Representatives |
+
+ This Act, which originated in the House of Representatives, was passed by the House of Representatives and the Senate of the Philippines on August 9, 2023 and December 17, 2024, respectively.
+
+ | (Sgd.) **RENATO N. BANTUG, JR.** Secretary of the Senate | (Sgd.) **REGINALD S. VELASCO** Secretary General House of Representatives |
+
+ Approved: MAR 14 2025
+
+ (Sgd.) **FERDINAND ROMUALDEZ MARCOS JR.**
+"	success	Republic Act	This Act converts the Land Transportation Office extension office in Gattaran, Cagayan into a regular LTO district office and authorizes appropriation of funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""Converts the existing LTO extension office into the Gattaran LTO District Office.""}, {""title"": ""Section 2."", ""summary"": ""Appropriates initial funds from the current year's LTO extension office appropriation and includes future operational costs in the annual General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""The Act takes effect fifteen days after its publication in the Official Gazette or a newspaper of general circulation.""}]"	12127	March 14, 2025	"[{""name"": ""Francis \""Chiz\"" G. Escudero"", ""title"": ""President of the Senate""}, {""name"": ""Ferdinand Martin G. Romualdez"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""Renato N. Bantug, Jr."", ""title"": ""Secretary of the Senate""}, {""name"": ""Reginald S. Velasco"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""Ferdinand Romualdez Marcos Jr."", ""title"": ""President of the Philippines""}]"	To convert the LTO extension office in Gattaran into a regular LTO district office and to appropriate funds for its operation.	"[""Conversion of the existing LTO extension office into a regular district office"", ""Appropriation of initial and ongoing funds for operation"", ""Effectivity after 15 days post-publication""]"		"[""Land Transportation Office"", ""Public Service"", ""Government Funding""]"	"[""LTO"", ""District Office"", ""Gattaran"", ""Cagayan"", ""Appropriation"", ""Transportation"", ""Public Service""]"
+repacts:datasets/markdown/repacts/2025/ra_12128_2025.md	repacts	2025		datasets/markdown/repacts/2025/ra_12128_2025.md	ra_12128_2025	AN ACT CONVERTING THE EXTENSION OFFICE OF THE LAND TRANSPORTATION OFFICE IN THE MUNICIPALITY OF TAAL, PROVINCE OF BATANGAS, INTO A DISTRICT OFFICE TO BE KNOWN AS THE TAAL LAND TRANSPORTATION OFFICE DISTRICT OFFICE AND APPROPRIATING FUNDS THEREFOR	"[ REPUBLIC ACT NO. 12128, March 14, 2025 ]
+
+ AN ACT CONVERTING THE EXTENSION OFFICE OF THE LAND TRANSPORTATION OFFICE IN THE MUNICIPALITY OF TAAL, PROVINCE OF BATANGAS, INTO A DISTRICT OFFICE TO BE KNOWN AS THE TAAL LAND TRANSPORTATION OFFICE DISTRICT OFFICE AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The existing extension office of the Land Transportation Office (LTO) in the Municipality of Taal, Province of Batangas, is hereby covered into a regular district office to beknown as the Taal LTO District Office.
+
+ **Section 2.** The Secretary of the Department of Transportation shall immediately include in the Department's program the operationalization of the Taal LTO District Office, the initial funding of which shall be charged against the current year's appropriation of the LTO Extension Office in the Municipality of Taal, Provice of Batangas. Thereafter, such sum as may be necessary for the continued operation of the Taal LTO District Office shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (Sgd.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate | (Sgd.) **FERDINAND MARTIN G. ROMUALDEZ** Speaker of the House of Representatives |
+
+ This Act, which originated in the House of Representatives, was passed by the House of Representatives and the Senate of the Philippines on August 9, 2023 and December 18, 2024, respectively.
+
+ | (Sgd.) **RENATO N. BANTUG, JR.** Secretary of the Senate | (Sgd.) **REGINALD S. VELASCO** Secretary General House of Representatives |
+
+ Approved: MAR 14 2025
+
+ (Sgd.) **FERDINAND ROMUALDEZ MARCOS JR.**
+"	success	Republic Act	This act converts the Land Transportation Office extension office in Taal, Batangas into a district office and appropriates funds for its operation.	"[{""title"": ""Section 1."", ""summary"": ""The existing extension office of the LTO in the Municipality of Taal is converted into a regular district office named the Taal LTO District Office.""}, {""title"": ""Section 2."", ""summary"": ""The Secretary of the Department of Transportation shall include the operationalization and initial funding of the Taal LTO District Office in the Department's program, charging it against current year's appropriation and future General Appropriations Act.""}, {""title"": ""Section 3."", ""summary"": ""The act takes effect fifteen days after publication in the Official Gazette or a newspaper of general circulation.""}]"	12128	March 14, 2025	"[{""name"": ""FRANCIS \""CHIZ\"" G. ESCUDERO"", ""title"": ""President of the Senate""}, {""name"": ""FERDINAND MARTIN G. ROMUALDEZ"", ""title"": ""Speaker of the House of Representatives""}]"		To convert the LTO Extension Office in Taal, Batangas into a district office and provide funding for its operation.	"[""Conversion of the LTO Extension Office into the Taal LTO District Office."", ""Appropriation of funds for initial and ongoing operations."", ""Operationalization by the Secretary of the Department of Transportation."", ""Effectivity after fifteen days from publication.""]"		"[""Transportation"", ""Land Transportation Office"", ""District Office"", ""Appropriations""]"	"[""LTO"", ""Taal"", ""Batangas"", ""District Office"", ""Appropriations"", ""Transportation""]"
+repacts:datasets/markdown/repacts/2025/ra_12129_2025.md	repacts	2025		datasets/markdown/repacts/2025/ra_12129_2025.md	ra_12129_2025	"AN ACT UPGRADING THE DISTRICT OFFICE OF THE LAND TRANSPORTATION OFFICE IN THE CITY OF DIGOS, PROVINCE OF DAVAO DEL SUR, FROM CLASS ""D"" TO CLASS ""C"" AND APPROPRIATING FUNDS THEREFOR"	"[ REPUBLIC ACT NO. 12129, March 14, 2025 ]
+
+ AN ACT UPGRADING THE DISTRICT OFFICE OF THE LAND TRANSPORTATION OFFICE IN THE CITY OF DIGOS, PROVINCE OF DAVAO DEL SUR, FROM CLASS ""D"" TO CLASS ""C"" AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The district office of the Land Transportation Office (LTO) in the City of Digos, Province of Davao del Sur is hereby upgraded from Class ""D"" to a Class ""C"" district office.
+
+ **Section 2.** The Secretary of the Department of Transportation shall immediately include in the Department's program the operationalization of the LTO District Office in the City of Digos, the initial funding of which shall be charged against the current year's appropriation of LTO Region XI. Thereafter, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (Sgd.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate | (Sgd.) **FERDINAND MARTIN G. ROMUALDEZ** Speaker of the House of Representatives |
+
+ This Act, which originated in the House of Representatives, was passed by the House of Representatives and the Senate of the Philippines on September 18, 2023 and December 18, 2024, respectively.
+
+ | (Sgd.) **RENATO N. BANTUG, JR.** Secretary of the Senate | (Sgd.) **REGINALD S. VELASCO** Secretary General House of Representatives |
+
+ Approved: MAR 14 2025
+
+ (Sgd.) **FERDINAND ROMUALDEZ MARCOS JR.**
+"	success	Republic Act	Upgrades the LTO district office in Digos, Davao del Sur from Class D to Class C and appropriates funds for its operation.	"[{""title"": ""Section 1"", ""summary"": ""The LTO district office in Digos is upgraded from Class D to Class C.""}, {""title"": ""Section 2"", ""summary"": ""The Secretary of Transportation shall include the operationalization of the upgraded LTO office in the department\u2019s program, with initial funding from LTO Region XI appropriation and subsequent funding from the General Appropriations Act.""}, {""title"": ""Section 3"", ""summary"": ""The Act becomes effective fifteen days after its publication in the Official Gazette or a newspaper of general circulation.""}]"	12129	March 14, 2025	"[{""name"": ""FRANCIS \""CHIZ\"" G. ESCUDERO"", ""title"": ""President of the Senate""}, {""name"": ""FERDINAND MARTIN G. ROMUALDEZ"", ""title"": ""Speaker of the House of Representatives""}, {""name"": ""RENATO N. BANTUG, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""REGINALD S. VELASCO"", ""title"": ""Secretary General, House of Representatives""}]"		To upgrade the LTO district office in Digos to Class C and provide appropriate funding for its operations.	"[""Upgrading LTO District Office in Digos from Class D to Class C"", ""Appropriating initial funding from LTO Region XI and future funding from the General Appropriations Act"", ""Effective after 15 days following publication""]"		"[""Transportation"", ""Local Government"", ""Public Administration""]"	"[""Land Transportation Office"", ""Digos"", ""Davao del Sur"", ""Class C"", ""Class D"", ""appropriation"", ""budget""]"
+repacts:datasets/markdown/repacts/2025/ra_12130_2025.md	repacts	2025		datasets/markdown/repacts/2025/ra_12130_2025.md	ra_12130_2025	"AN ACT CONVERTING THE LAND TRANSPORTATION OFFICE URDANETA DISTRICT OFFICE INTO A CLASS ""A"" DISTRICT OFFICE, RENAMING THE SAME AS THE LAND TRANSPORTATION OFFICE BINALONAN DISTRICT OFFICE AND APPROPRIATING FUNDS THEREFOR"	"[ REPUBLIC ACT NO. 12130, March 14, 2025 ]
+
+ AN ACT CONVERTING THE LAND TRANSPORTATION OFFICE URDANETA DISTRICT OFFICE INTO A CLASS ""A"" DISTRICT OFFICE, RENAMING THE SAME AS THE LAND TRANSPORTATION OFFICE BINALONAN DISTRICT OFFICE AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The existing Land Transportation Office (LTO) District Office in Urdaneta City, Pangasinan (LTO Urdaneta District Office) is hereby converted into a Class ""A"" LTO district office and renamed as the LTO Binalonan District Office.
+
+ **Section 2.** The Secretary of the Department of Transportation shall immediately include in the Department's program the operationalization of the LTO Binalonan District Office in the Fifth District of Pangasinan, the initial funding of which shall be charged against the current year's appropriation of the LTO Urdaneta District Office. Thereafter, the funding of which shall be included in the annual General Appropriation Act.
+
+ **Section 3.** This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (Sgd.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate | (Sgd.) **FERDINAND MARTIN G. ROMUALDEZ** Speaker of the House of Representatives |
+
+ This Act, which originated in the House of Representatives, was passed by the House of Representatives and the Senate of the Philippines on November 29, 2023 and December 18, 2024, respectively.
+
+ | (Sgd.) **RENATO N. BANTUG, JR.** Secretary of the Senate | (Sgd.) **REGINALD S. VELASCO** Secretary General House of Representatives |
+
+ Approved: MAR 14 2025
+
+ (Sgd.) **FERDINAND ROMUALDEZ MARCOS JR.**
+"	success	Republic Act	"This Act converts the Land Transportation Office (LTO) District Office in Urdaneta City, Pangasinan, into a Class ""A"" district office, renames it as the LTO Binalonan District Office, and appropriates funds for its operationalization."	"[{""title"": ""Section 1"", ""summary"": ""Converts the existing LTO Urdaneta District Office into a Class \""A\"" LTO district office and renames it as the LTO Binalonan District Office.""}, {""title"": ""Section 2"", ""summary"": ""The Secretary of the Department of Transportation shall include the operationalization of the LTO Binalonan District Office in the Department\u2019s program, with initial funding charged against the current year\u2019s appropriation of the former LTO Urdaneta District Office, and subsequent funding included in the annual General Appropriation Act.""}, {""title"": ""Section 3"", ""summary"": ""The Act shall take effect fifteen (15) days after its publication in the Official Gazette or a newspaper of general circulation.""}]"	12130	March 14, 2025	"[{""name"": ""FRANCIS \""CHIZ\"" G. ESCUDERO"", ""title"": ""President of the Senate""}, {""name"": ""FERDINAND MARTIN G. ROMUALDEZ"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""RENATO N. BANTUG, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""REGINALD S. VELASCO"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""FERDINAND ROMUALDEZ MARCOS JR."", ""title"": """"}]"	To convert the LTO Urdaneta District Office into a Class A district office, rename it as LTO Binalonan District Office, and appropriate funds for its operation and integration into the General Appropriation Act.	"[""Conversion of LTO Urdaneta District Office to Class A"", ""Renaming to LTO Binalonan District Office"", ""Appropriation of funds for operationalization"", ""Inclusion of funding in General Appropriation Act"", ""Effectivity after 15 days of publication""]"		"[""Transportation"", ""Land Transportation Office"", ""LTO"", ""Class A District Office"", ""Appropriation""]"	"[""LTO"", ""Urdaneta"", ""Binalonan"", ""Class A"", ""Appropriation"", ""Department of Transportation""]"
+repacts:datasets/markdown/repacts/2025/ra_12131_2025.md	repacts	2025		datasets/markdown/repacts/2025/ra_12131_2025.md	ra_12131_2025	"AN ACT UPGRADING THE DISTRICT OFFICE OF THE LAND TRANSPORTATION OFFICE IN CANDON CITY, PROVINCE OF ILOCOS SUR, INTO A CLASS ""B"" DISTRICT OFFICE AND APPROPRIATING FUNDS THEREFOR"	"[ REPUBLIC ACT NO. 12131, March 14, 2025 ]
+
+ AN ACT UPGRADING THE DISTRICT OFFICE OF THE LAND TRANSPORTATION OFFICE IN CANDON CITY, PROVINCE OF ILOCOS SUR, INTO A CLASS ""B"" DISTRICT OFFICE AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The district office of the Land Transportation Office (LTO) in Candon City, Province of Ilocos Sur, is hereby upgraded into a Class ""B"" district office.
+
+ **Section 2.** The Secretary of the Department of Transportation shall immediately include in the Department's program the upgrading into a Class ""B"" district office of the LTO District Office in Candon City, Province of Ilkocos Sur, the initial funding of which shall be charged the current year's appropriation of the existing LTO District Office in Candon City. Thereafter, the funding of which shall be included in the annual General Appropriations Acts.
+
+ **Section 3.** This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (Sgd.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate | (Sgd.) **FERDINAND MARTIN G. ROMUALDEZ** Speaker of the House of Representatives |
+
+ This Act, which originated in the House of Representatives, was passed by the House of Representatives and the Senate of the Philippines on December 12, 2023 and December 18, 2024, respectively.
+
+ | (Sgd.) **RENATO N. BANTUG, JR.** Secretary of the Senate | (Sgd.) **REGINALD S. VELASCO** Secretary General House of Representatives |
+
+ Approved: MAR 14 2025
+
+ (Sgd.) **FERDINAND ROMUALDEZ MARCOS JR.**
+"	success	Republic Act	"This Act upgrades the Land Transportation Office (LTO) District Office in Candon City, Ilocos Sur to a Class ""B"" district office and appropriates funds for its operation."	"[{""title"": ""Section 1."", ""summary"": ""The district office of the LTO in Candon City is upgraded into a Class \""B\"" district office.""}, {""title"": ""Section 2."", ""summary"": ""Funding for the upgrade is included in the Department's program and appropriations act.""}, {""title"": ""Section 3."", ""summary"": ""The Act takes effect 15 days after publication.""}]"	12131	2025-03-14			To upgrade the LTO district office in Candon City to a Class B district office and provide appropriated funds for its operations.	"[""Upgrade to Class B district office"", ""Appropriation of funds for the upgrade"", ""Effectivity after 15 days of publication""]"		"[""Land Transportation Office"", ""Class B District Office"", ""Candon City"", ""Ilocos Sur""]"	"[""LTO"", ""district office"", ""upgrade"", ""funding"", ""class B""]"
+repacts:datasets/markdown/repacts/2025/ra_12132_2025.md	repacts	2025		datasets/markdown/repacts/2025/ra_12132_2025.md	ra_12132_2025	"An Act Upgrading the District Office of the Land Transportation Office Located in the Municipality of Lingayen, Province of Pangasinan into a Class ""B"" District Office, and Appropriating Funds Therefor"	"[ REPUBLIC ACT NO. 12132, March 14, 2025 ]
+
+ AN ACT UPGRADING THE DISTRICT OFFICE OF THE LAND TRANSPORTATION OFFICE LOCATED IN THE MUNICIPALITY OF LINGAYEN, PROVINCE OF PANGASINAN INTO A CLASS ""B"" DISTRICT OFFICE, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The district office of the Land Transportation Office (LTO) in the Municipality of Lingayen, Province of Pangasinan, is hereby upgraded into a Class ""B"" district office.
+
+ **Section 2.** The Secretary of the Department of Transportation shall immediately include in the Department's program the upgrading into a Class ""B"" district office of the LTO District Office in the Municipality of Lingayen, Province of Pangasinan, the initial funding of which shall be charged against the current year appropriations of the LTO Lingayen District Office. Thereafter, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (Sgd.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate | (Sgd.) **FERDINAND MARTIN G. ROMUALDEZ** Speaker of the House of Representatives |
+
+ This Act, which originated in the House of Representatives, was passed by the House of Representatives and the Senate of the Philippines on December 12, 2023 and December 18, 2024, respectively.
+
+ | (Sgd.) **RENATO N. BANTUG, JR.** Secretary of the Senate | (Sgd.) **REGINALD S. VELASCO** Secretary General House of Representatives |
+
+ Approved: MAR 14 2025
+
+ (Sgd.) **FERDINAND ROMUALDEZ MARCOS JR.**
+"	success	Republic Act	"The Republic Act 12132 upgrades the LTO district office in Lingayen, Pangasinan to a Class ""B"" office and appropriates funds for its operation."	"[{""title"": ""Section 1"", ""summary"": ""Upgrades the LTO district office in Lingayen, Pangasinan to a Class \""B\"" district office.""}, {""title"": ""Section 2"", ""summary"": ""Mandates the Secretary of the Department of Transportation to include the upgrading in the Department\u2019s program and appropriate initial funding from current year appropriations, with subsequent funding to be included in the annual General Appropriations Act.""}, {""title"": ""Section 3"", ""summary"": ""Specifies that the act takes effect fifteen days after publication in the Official Gazette or a newspaper of general circulation.""}]"	12132	March 14, 2025	"[{""name"": ""FRANCIS \""CHIZ\"" G. ESCUDERO"", ""title"": ""President of the Senate""}, {""name"": ""FERDINAND MARTIN G. ROMUALDEZ"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""RENATO N. BANTUG, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""REGINALD S. VELASCO"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""FERDINAND ROMUALDEZ MARCOS JR."", ""title"": """"}]"	"To upgrade the LTO district office in Lingayen, Pangasinan to a Class ""B"" office and provide appropriate funds for its operation."	"[""Upgrades LTO district office to Class \""B\"""", ""Appropriates initial funding from current year appropriations"", ""Includes subsequent funding in the annual General Appropriations Act"", ""Effective 15 days after publication""]"		"[""Land Transportation Office"", ""Class B"", ""Appropriations"", ""Republic Act"", ""Pangasinan"", ""Lingayen""]"	"[""Land Transportation Office"", ""Class B"", ""Appropriations"", ""Republic Act"", ""Pangasinan"", ""Lingayen""]"
+repacts:datasets/markdown/repacts/2025/ra_12133_2025.md	repacts	2025		datasets/markdown/repacts/2025/ra_12133_2025.md	ra_12133_2025	"AN ACT CONVERTING THE EXTENSION OFFICE OF THE LAND TRANSPORTATION OFFICE IN THE MUNICIPALITY OF NAGUILIAN, PROVINCE OF LA UNION, INTO A ""CLASS D"" DISTRICT OFFICE, TO BE KNOWN AS THE LTO DISTRICT OFFICE OF NAGUILIAN, AND APPROPRIATING FUNDS THEREFOR"	"[ REPUBLIC ACT NO. 12133, March 14, 2025 ]
+
+ AN ACT CONVERTING THE EXTENSION OFFICE OF THE LAND TRANSPORTATION OFFICE IN THE MUNICIPALITY OF NAGUILIAN, PROVINCE OF LA UNION, INTO A ""CLASS D"" DISTRICT OFFICE, TO BE KNOWN AS THE LTO DISTRICT OFFICE OF NAGUILIAN, AND APPROPRIATING FUNDS THEREFOR
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The Land Transportation Office (LTO) Extension Office in the Municipality of Naguilian, Province of La Union, is hereby converted into a ""Class D"" district office, to be known as the LTO District Office of Naguilian.
+
+ **Section 2.** The Secretary of the Department of Transportation shall immediately include in the Department's program the operationalization of the ""Class D"" LTO District Office in the Municipality of Naguilian, Province of La Union, the initial funding of which shall be charged against the current year's appropriation of the existing LTO naguilian Extension Office. Thereafter, the funding of which shall be included in the annual General Appropriations Act.
+
+ **Section 3.** This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation.
+
+ Approved,
+
+ | (Sgd.) **FRANCIS ""CHIZ"" G. ESCUDERO** President of the Senate | (Sgd.) **FERDINAND MARTIN G. ROMUALDEZ** Speaker of the House of Representatives |
+
+ This Act, which originated in the House of Representatives, was passed by the House of Representatives and the Senate of the Philippines on January 23, 2024 and December 18, 2024, respectively.
+
+ | (Sgd.) **RENATO N. BANTUG, JR.** Secretary of the Senate | (Sgd.) **REGINALD S. VELASCO** Secretary General House of Representatives |
+
+ Approved: MAR 14 2025
+
+ (Sgd.) **FERDINAND ROMUALDEZ MARCOS JR.**
+"	success	Republic Act	The Act converts the LTO Extension Office in Naguilian into a Class D district office, establishes the LTO District Office of Naguilian, mandates funding and operationalization, and specifies effectivity after publication.	"[{""title"": ""Section 1"", ""summary"": ""Converts the LTO Extension Office in Naguilian into a Class D district office, to be known as the LTO District Office of Naguilian.""}, {""title"": ""Section 2"", ""summary"": ""Mandates the Secretary of the Department of Transportation to include the operationalization of the Class D LTO District Office in the program, fund it from the current year's appropriation, and thereafter include it in the annual General Appropriations Act.""}, {""title"": ""Section 3"", ""summary"": ""Specifies that the Act shall take effect fifteen (15) days after publication in the Official Gazette or a newspaper of general circulation.""}]"	REPUBLIC ACT NO. 12133	March 14, 2025	"[{""name"": ""FRANCIS \""CHIZ\"" G. ESCUDERO"", ""title"": ""President of the Senate""}, {""name"": ""FERDINAND MARTIN G. ROMUALDEZ"", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""RENATO N. BANTUG, JR."", ""title"": ""Secretary of the Senate""}, {""name"": ""REGINALD S. VELASCO"", ""title"": ""Secretary General House of Representatives""}, {""name"": ""FERDINAND ROMUALDEZ MARCOS JR."", ""title"": ""President of the Senate""}]"	To convert the LTO Extension Office in Naguilian into a Class D district office, establish the LTO District Office of Naguilian, and allocate funds for its operation.	"[""Conversion of LTO Extension Office into Class D district office"", ""Establishment of LTO District Office of Naguilian"", ""Funding and operationalization of the office"", ""Effectivity after 15 days of publication""]"		"[""Transportation"", ""Local Government"", ""Land Transportation Office"", ""Class D District Office""]"	"[""LTO"", ""Naguilian"", ""Class D"", ""District Office"", ""Funding"", ""Operationalization"", ""Effectivity""]"

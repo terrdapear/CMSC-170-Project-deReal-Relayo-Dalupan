@@ -1,0 +1,208 @@
+repacts:datasets/markdown/repacts/1971/ra_6210_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6210_1971.md	ra_6210_1971	AN ACT CREATING BARRIO KAPATAGAN IN THE MUNICIPALITY OF DIGOS, PROVINCE OF DAVAO DEL SUR	"**[ REPUBLIC ACT NO. 6210, June 19, 1971 ]**
+
+ AN ACT CREATING BARRIO KAPATAGAN IN THE MUNICIPALITY OF DIGOS, PROVINCE OF DAVAO DEL SUR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippinesin Congress assembled:
+
+ **Section 1.** The sitio of Kapatagan in the Municipality of Digos, Province of Davao del Sur, is hereby converted into a distinct and independent barrio of said municipality to be known as the barrio of Kapatagan.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Republic Act	An act that converts the sitio of Kapatagan into a distinct and independent barrio within the municipality of Digos, Davao del Sur.	"[{""title"": ""Section 1"", ""summary"": ""The sitio of Kapatagan in the Municipality of Digos, Province of Davao del Sur, is hereby converted into a distinct and independent barrio of said municipality to be known as the barrio of Kapatagan.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	RA 6210	June 19, 1971			To create a distinct barrio within the municipality of Digos, Davao del Sur.	"[""Conversion of the sitio of Kapatagan into a barrio"", ""Effectivity upon approval""]"		"[""Local Governance"", ""Barangay"", ""Davao del Sur"", ""Municipality""]"	"[""barrio"", ""Kapatagan"", ""Digos"", ""Davao del Sur"", ""Republic Act 6210""]"
+repacts:datasets/markdown/repacts/1971/ra_6211_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6211_1971.md	ra_6211_1971	AN ACT CHANGING THE NAME OF MANTA ELEMENTARY SCHOOL IN THE MUNICIPALITY OF SIASI, PROVINCE OF SULU, TO SUSULAN JIMLANI ELEMENTARY SCHOOL.	"**[ REPUBLIC ACT NO. 6211, June 19, 1971 ]**
+
+ AN ACT CHANGING THE NAME OF MANTA ELEMENTARY SCHOOL IN THE MUNICIPALITY OF SIASI, PROVINCE OF SULU, TO SUSULAN JIMLANI ELEMENTARY SCHOOL.
+
+ Be it enacted by the Senate and House of Representatives of the Philippinesin Congress assembled:
+
+ **Section 1.** The name of Manta Elementary School in the Municipality of Siasi, Province of Sulu, is changed to Susulan Jimlani Elementary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Republic Act	This act changes the name of Manta Elementary School in Siasi, Sulu to Susulan Jimlani Elementary School.	"[{""title"": ""Section 1"", ""summary"": ""The name of Manta Elementary School in the Municipality of Siasi, Province of Sulu, is changed to Susulan Jimlani Elementary School.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	6211	June 19, 1971			To change the name of Manta Elementary School to Susulan Jimlani Elementary School in Siasi, Sulu.	"[""The name of Manta Elementary School is changed to Susulan Jimlani Elementary School."", ""The Act shall take effect upon its approval.""]"		"[""education"", ""school"", ""name change"", ""Sulu"", ""Manta Elementary School"", ""Susulan Jimlani Elementary School""]"	"[""name change"", ""school"", ""Sulu"", ""Manta Elementary School"", ""Susulan Jimlani Elementary School""]"
+repacts:datasets/markdown/repacts/1971/ra_6212_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6212_1971.md	ra_6212_1971	AN ACT CHANGING THE NAME OF EAST SIASI ELEMENTARY SCHOOL IN THE MUNICIPALITY OF SIASI, PROVINCE OF SULU, TO PANGLIMA JALMAANI IMLANI ELEMENTARY SCHOOL.	"**[ REPUBLIC ACT NO. 6212, June 19, 1971 ]**
+
+ AN ACT CHANGING THE NAME OF EAST SIASI ELEMENTARY SCHOOL IN THE MUNICIPALITY OF SIASI, PROVINCE OF SULU, TO PANGLIMA JALMAANI IMLANI ELEMENTARY SCHOOL.
+
+ Be it enacted by the Senate and House of Representatives of the Philippinesin Congress assembled:
+
+ **Section 1.** The name of East Siasi Elementary School in the Municipality of Siasi, Province of Sulu, is changed to Panglima Jalmaani Imlani Elementary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Republic Act	An act to change the name of East Siasi Elementary School to Panglima Jalmaani Imlani Elementary School.	"[{""title"": ""Section 1."", ""summary"": ""The name of East Siasi Elementary School in the Municipality of Siasi, Province of Sulu, is changed to Panglima Jalmaani Imlani Elementary School.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	6212	June 19, 1971			To change the name of East Siasi Elementary School to Panglima Jalmaani Imlani Elementary School.	"[""Change the name of East Siasi Elementary School to Panglima Jalmaani Imlani Elementary School."", ""Act shall take effect upon its approval.""]"		"[""Education"", ""School Name Change""]"	"[""East Siasi Elementary School"", ""Panglima Jalmaani Imlani Elementary School"", ""Sulu"", ""School name change""]"
+repacts:datasets/markdown/repacts/1971/ra_6213_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6213_1971.md	ra_6213_1971	AN ACT CHANGING THE NAME OF PAMAGUNAN ELEMENTARY SCHOOL IN THE MUNICIPALITY OF SIASI, PROVINCE OF SULU, TO COUNCILOR ANNI JALMAANI ELEMENTARY SCHOOL.	"**[ REPUBLIC ACT NO. 6213, June 19, 1971 ]**
+
+ AN ACT CHANGING THE NAME OF PAMAGUNAN ELEMENTARY SCHOOL IN THE MUNICIPALITY OF SIASI, PROVINCE OF SULU, TO COUNCILOR ANNI JALMAANI ELEMENTARY SCHOOL.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The name of Pamagunan Elementary School in the Municipality of Siasi, Province of Sulu, is changed to Councilor Anni Jalmaani Elementary School.
+
+ **Section 2.** This Act shall take effect upon approval.
+
+ Approved, June 19, 1971.
+"	success	Republic Act	This act changes the name of Pamagunan Elementary School in Siasi, Sulu to Councilor Anni Jalmaani Elementary School and takes effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""The name of Pamagunan Elementary School in the Municipality of Siasi, Province of Sulu is changed to Councilor Anni Jalmaani Elementary School.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon approval.""}]"	6213	June 19, 1971			Renaming a public elementary school.	"[""Change of name of Pamagunan Elementary School to Councilor Anni Jalmaani Elementary School."", ""Act takes effect upon approval.""]"		"[""Education"", ""School Renaming""]"	"[""Republic Act"", ""Pamagunan Elementary School"", ""Councilor Anni Jalmaani"", ""Siasi"", ""Sulu"", ""Renaming""]"
+repacts:datasets/markdown/repacts/1971/ra_6214_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6214_1971.md	ra_6214_1971	An Act Converting Sitio Cantubi in the Municipality of Balangkayan in the Province of Eastern Samar into a Regular Barrio to be Known as Barrio Cantubi	"**[ REPUBLIC ACT NO. 6214, June 19, 1971 ]**
+
+ AN ACT CONVERTING SITIO CANTUBI IN THE MUNICIPALITY OF BALANGKAYAN IN THE PROVINCE OF EASTERN SAMAR INTO A REGULAR BARRIO TO BE KNOWN AS BARRIO CANTUBI.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The sitio of Cantubi in the Municipality of Balangkayan in the Province of Eastern Samar is hereby converted into a regular barrio to be known as Barrio Cantubi.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Republic Act	This act converts the sitio of Cantubi into a regular barrio named Barrio Cantubi and specifies that it takes effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""The sitio of Cantubi in the Municipality of Balangkayan, Eastern Samar, is hereby converted into a regular barrio to be known as Barrio Cantubi.""}, {""title"": ""Section 2."", ""summary"": ""This act shall take effect upon its approval.""}]"	6214	June 19, 1971			To convert the sitio of Cantubi into a regular barrio.	"[""Conversion of the sitio of Cantubi into a regular barrio."", ""The act takes effect upon approval.""]"		"[""Local Government"", ""Barangay"", ""Republic Act"", ""Eastern Samar""]"	"[""Sitio Cantubi"", ""Balangkayan"", ""Eastern Samar"", ""Barrio Cantubi"", ""Republic Act 6214""]"
+repacts:datasets/markdown/repacts/1971/ra_6215_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6215_1971.md	ra_6215_1971	Republic Act No. 6215, June 19, 1971	"**[ REPUBLIC ACT NO. 6215, June 19, 1971 ]**
+
+ AN ACT CHANGING THE NAME OF GOVERNOR FORBES STREET IN THE THIRD DISTRICT OF MANILA TO MAYOR ARSENIO H. LACSON.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The name of Governor Forbes Street in the Third District of Manila is hereby changed to Mayor Arsenio H. Lacson.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Republic Act	An act changing the name of Governor Forbes Street in the Third District of Manila to Mayor Arsenio H. Lacson.	"[{""title"": ""Section 1"", ""summary"": ""The name of Governor Forbes Street in the Third District of Manila is hereby changed to Mayor Arsenio H. Lacson.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	6215	June 19, 1971			To change the name of a street in Manila.	"[""The name of Governor Forbes Street in the Third District of Manila is hereby changed to Mayor Arsenio H. Lacson.""]"		"[""street name change"", ""Manila"", ""Republic Act""]"	"[""Governor Forbes Street"", ""Mayor Arsenio H. Lacson"", ""Manila"", ""street name change""]"
+repacts:datasets/markdown/repacts/1971/ra_6216_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6216_1971.md	ra_6216_1971	AN ACT CHANGING THE NAME OF BARRIO SANTO TOMAS IN THE MUNICIPALITY OF PINILI, PROVINCE OF ILOCOS NORTE, TO BARRIO ARCANGEL	"**[ REPUBLIC ACT NO. 6216, June 19, 1971 ]**
+
+ AN ACT CHANGING THE NAME OF BARRIO SANTO TOMAS IN THE MUNICIPALITY OF PINILI, PROVINCE OF ILOCOS NORTE, TO BARRIO ARCANGEL.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The name of Barrio Santo Tomas in the Municipality of Pinili, Province of Ilocos Norte, is hereby changed to Barrio Arcangel.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Republic Act	An act that changes the name of Barrio Santo Tomas in Pinili, Ilocos Norte to Barrio Arcangel.	"[{""title"": ""Section 1"", ""summary"": ""The name of Barrio Santo Tomas in the Municipality of Pinili, Province of Ilocos Norte, is hereby changed to Barrio Arcangel.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	6216	June 19, 1971			To officially rename Barrio Santo Tomas to Barrio Arcangel in Pinili, Ilocos Norte.	"[""Name change of the barrio from Santo Tomas to Arcangel""]"		"[""name change"", ""local government"", ""municipality"", ""Ilocos Norte""]"	"[""Barrio Santo Tomas"", ""Barrio Arcangel"", ""Pinili"", ""Ilocos Norte"", ""RA 6216""]"
+repacts:datasets/markdown/repacts/1971/ra_6217_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6217_1971.md	ra_6217_1971	Act changing the name of Barrio Puzol in the Municipality of Pinili, Province of Ilocos Norte, to Barrio Tugaoen	"**[ REPUBLIC ACT NO. 6217, June 19, 1971 ]**
+
+ AN ACT CHANGING THE NAME OF BARRIO PUZOL IN THE MUNICIPALITY OF PINILI, PROVINCE OF ILOCOS NORTE, TO BARRIO TUGAOEN.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The name of Barrio Puzol in the Municipality of Pinili, Province of Ilocos Norte, is hereby changed to Barrio Tugaoen.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Republic Act	This act changes the name of Barrio Puzol to Barrio Tugaoen.	"[{""title"": ""Section 1"", ""summary"": ""The name of Barrio Puzol in the Municipality of Pinili, Province of Ilocos Norte, is hereby changed to Barrio Tugaoen.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	6217	June 19, 1971			To rename the barrio from Puzol to Tugaoen.	"[""Change the name of Barrio Puzol to Barrio Tugaoen."", ""Act shall take effect upon approval.""]"		"[""Renaming"", ""Local Government"", ""Municipality"", ""Ilocos Norte""]"	"[""Barrio"", ""Puzol"", ""Tugaoen"", ""Pinili"", ""Ilocos Norte"", ""Name change""]"
+repacts:datasets/markdown/repacts/1971/ra_6218_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6218_1971.md	ra_6218_1971	AN ACT CHANGING THE NAME OF THE MUNICIPALITY OF ANAO-AON, PROVINCE OF SURIGAO DEL NORTE, TO SAN FRANCISCO.	"**[ REPUBLIC ACT NO. 6218, June 19, 1971 ]**
+
+ AN ACT CHANGING THE NAME OF THE MUNICIPALITY OF ANAO-AON, PROVINCE OF SURIGAO DEL NORTE, TO SAN FRANCISCO.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The name of the Municipality of Anao-aon in the Province of Surigao del Norte, is hereby changed to San Francisco,
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Republic Act	An act changing the name of the municipality of Anao-aon to San Francisco.	"[{""title"": ""Section 1"", ""summary"": ""The name of the Municipality of Anao-aon in the Province of Surigao del Norte, is hereby changed to San Francisco.""}, {""title"": ""Section 2"", ""summary"": ""This Act shall take effect upon its approval.""}]"	6218	June 19, 1971			To change the name of the municipality of Anao-aon to San Francisco.	"[""Section 1: Name change of the Municipality of Anao-aon to San Francisco."", ""Section 2: Effective date upon approval.""]"		"[""municipality name change"", ""local government"", ""Philippines""]"	"[""municipality"", ""Anao-aon"", ""San Francisco"", ""Surigao del Norte"", ""name change"", ""Republic Act"", ""Philippines"", ""June 19 1971""]"
+repacts:datasets/markdown/repacts/1971/ra_6219_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6219_1971.md	ra_6219_1971	An Act Changing the Name of the Bibihan School in Barrio Puting-Tubig, Municipality of Calapan, Province of Oriental Mindoro, to Pedro C. Tolentino Memorial School	"**[ REPUBLIC ACT NO. 6219, June 19, 1971 ]**
+
+ AN ACT CHANGING THE NAME OF THE BIBIHAN SCHOOL IN BARRIO PUTING-TUBIG, MUNICIPALITY OF CALAPAN, PROVINCE OF ORIENTAL MINDORO, TO PEDRO C. TOLENTINO MEMORIAL SCHOOL.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The name of the Bibihan School, in Barrio Puting-Tubig, Municipality of Calapan, Province of Oriental Mindoro, is hereby changed to Pedro C. Tolentino Memorial School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Republic Act	This act changes the name of the Bibihan School to Pedro C. Tolentino Memorial School.	"[{""title"": ""Section 1."", ""summary"": ""The name of the Bibihan School is changed to Pedro C. Tolentino Memorial School.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	6219	June 19, 1971			To change the name of the Bibihan School to Pedro C. Tolentino Memorial School.	"[""Name of the Bibihan School is changed to Pedro C. Tolentino Memorial School.""]"		"[""Education"", ""School name change"", ""Local government""]"	"[""Bibihan School"", ""Pedro C. Tolentino"", ""Calapan"", ""Oriental Mindoro"", ""name change""]"
+repacts:datasets/markdown/repacts/1971/ra_6220_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6220_1971.md	ra_6220_1971	AN ACT CHANGING THE NAME OF LUMBANG ELEMENTARY SCHOOL IN THE MUNICIPALITY OF CAJIDIOCAN, PROVINCE OF ROMBLON, TO DAMASO RAMILO MEMORIAL ELEMENTARY SCHOOL.	"**[ REPUBLIC ACT NO. 6220, June 19, 1971 ]**
+
+ AN ACT CHANGING THE NAME OF LUMBANG ELEMENTARY SCHOOL IN THE MUNICIPALITY OF CAJIDIOCAN, PROVINCE OF ROMBLON, TO DAMASO RAMILO MEMORIAL ELEMENTARY SCHOOL.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The name of the Lumbang Elementary School in the Municipality of Cajidiocan, Province of Romblon, is hereby changed to Damaso Ramilo Memorial Elementary School.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Education	The act changes the name of Lumbang Elementary School in Cajidiocan, Romblon to Damaso Ramilo Memorial Elementary School.	"[{""title"": ""Section 1."", ""summary"": ""The name of the Lumbang Elementary School in the Municipality of Cajidiocan, Province of Romblon, is hereby changed to Damaso Ramilo Memorial Elementary School.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	REPUBLIC ACT NO. 6220	June 19, 1971			To rename Lumbang Elementary School to Damaso Ramilo Memorial Elementary School.	"[""Name change of Lumbang Elementary School to Damaso Ramilo Memorial Elementary School.""]"		"[""Education"", ""School Name Change"", ""Romblon"", ""Local Government"", ""Philippines""]"	"[""Lumbang Elementary School"", ""Damaso Ramilo Memorial Elementary School"", ""Cajidiocan"", ""Romblon"", ""Name Change"", ""Republic Act 6220"", ""June 19, 1971""]"
+repacts:datasets/markdown/repacts/1971/ra_6221_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6221_1971.md	ra_6221_1971	AN ACT CONVERTING A CERTAIN DISTRICT INTO A BARRIO IN THE MUNICIPALITY OF CUYAPO, PROVINCE OF NUEVA ECIJA.	"**[ REPUBLIC ACT NO. 6221, June 19, 1971 ]**
+
+ AN ACT CONVERTING A CERTAIN DISTRICT INTO A BARRIO IN THE MUNICIPALITY OF CUYAPO, PROVINCE OF NUEVA ECIJA.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The District No. III of the Municipality of Cuyapo, Province of Nueva Ecija, is hereby converted into a distinct and independent barrio of said municipality, to be known as Barrio Latap.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Republic Act	Converts District No. III of Cuyapo, Nueva Ecija into Barrio Latap.	"[{""title"": ""Section 1."", ""summary"": ""District No. III of Cuyapo is converted into an independent barrio named Barrio Latap.""}, {""title"": ""Section 2."", ""summary"": ""The act takes effect upon its approval.""}]"	6221	June 19, 1971			To convert a certain district into a barrio.	"[""Converts District No. III of Cuyapo into an independent barrio named Barrio Latap.""]"		"[""Republic Act"", ""Barrio"", ""District"", ""Cuyapo"", ""Nueva Ecija""]"	"[""Republic Act"", ""Barrio"", ""District"", ""Cuyapo"", ""Nueva Ecija""]"
+repacts:datasets/markdown/repacts/1971/ra_6222_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6222_1971.md	ra_6222_1971	AN ACT CREATING BARRIO NAPARASAN IN THE MUNICIPALITY OF GAMAY, PROVINCE OF NORTHERN SAMAR.	"**[ REPUBLIC ACT NO. 6222, June 19, 1971 ]**
+
+ AN ACT CREATING BARRIO NAPARASAN IN THE MUNICIPALITY OF GAMAY, PROVINCE OF NORTHERN SAMAR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The sitios of Naparasan, Cadahonan, Capatagan, Guinawitan, Maticawol, Cabogawan, and Lonoy in the Municipality of Gamay, Province of Northern Samar, are hereby constituted into a distinct and independent barrio of said municipality, to be known as the barrio of Naparasan.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Republic Act	An act establishing the barrio of Naparasan in the municipality of Gamay, Northern Samar.	"[{""title"": ""Section 1."", ""summary"": ""Constitutes the sitios of Naparasan, Cadahonan, Capatagan, Guinawitan, Maticawol, Cabogawan, and Lonoy into a distinct and independent barrio called Naparasan.""}, {""title"": ""Section 2."", ""summary"": ""The act shall take effect upon its approval.""}]"	6222	June 19, 1971			To create a distinct and independent barrio of Naparasan for local governance.	"[""The sitios of Naparasan, Cadahonan, Capatagan, Guinawitan, Maticawol, Cabogawan, and Lonoy are constituted into a distinct and independent barrio of Naparasan.""]"		"[""Local government"", ""Administrative division"", ""Philippines""]"	"[""NaparaSan"", ""Gamay"", ""Northern Samar"", ""barrio"", ""sitios""]"
+repacts:datasets/markdown/repacts/1971/ra_6223_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6223_1971.md	ra_6223_1971	AN ACT CREATING BARRIO CRISPINA MARCOS IN THE MUNICIPALITY OF BATAC, PROVINCE OF ILOCOS NORTE.	"**[ REPUBLIC ACT NO. 6223, June 19, 1971 ]**
+
+ AN ACT CREATING BARRIO CRISPINA MARCOS IN THE MUNICIPALITY OF BATAC, PROVINCE OF ILOCOS NORTE.
+
+ Be it enacted by the Senate and House of Representatives of the Philippinesin Congress assembled:
+
+ **Section 1.** The sitios of Palongpong, Calogoan, Sampalocan and Aracua in the Municipality of Batac, Province of Ilocos Norte, are constituted into a distinct and independent barrio of said municipality, to be known as the Barrio of Crispina Marcos.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Republic Act	An act establishing the barrio of Crispina Marcos in the municipality of Batac, Ilocos Norte, by constituting certain sitios into a distinct barrio.	"[{""title"": ""Section 1"", ""summary"": ""Constitutes the sitios of Palongpong, Calogoan, Sampalocan, and Aracua into the barrio of Crispina Marcos.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	6223	June 19, 1971			To create the barrio of Crispina Marcos in the municipality of Batac, Ilocos Norte.	"[""Creation of the barrio of Crispina Marcos"", ""Act takes effect upon approval""]"		"[""Local Government"", ""Barangay"", ""Ilocos Norte""]"	"[""barrio"", ""Crispina Marcos"", ""Batac"", ""Ilocos Norte""]"
+repacts:datasets/markdown/repacts/1971/ra_6224_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6224_1971.md	ra_6224_1971	Act Changing the Name of the Barrio of Barangay in the Municipality of Espiritu, Province of Ilocos Norte, to Barrio Hilario Valdez	"**[ REPUBLIC ACT NO. 6224, June 19, 1971 ]**
+
+ AN ACT CHANGING THE NAME OF THE BARRIO OF BARANGAY IN THE MUNICIPALITY OF ESPIRITU, PROVINCE OF ILOCOS NORTE, TO BARRIO HILARIO VALDEZ.
+
+ Be it enacted by the Senate and House of Representatives of the Philippinesin Congress assembled:
+
+ **Section 1.** The name of the Barrio of Barangay in the Municipality of Espiritu, Province of Ilocos Norte, is hereby changed to Barrio Hilario Valdez.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Republic Act	This act changes the name of the Barrio of Barangay in the Municipality of Espiritu, Ilocos Norte, to Barrio Hilario Valdez and takes effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""Name of the Barrio changed to Barrio Hilario Valdez.""}, {""title"": ""Section 2."", ""summary"": ""Act takes effect upon approval.""}]"	6224	June 19, 1971			To rename the barrio.	"[""Name of the Barrio changed to Barrio Hilario Valdez"", ""Act takes effect upon approval""]"		"[""Local Government"", ""Name Change"", ""Ilocos Norte""]"	"[""Barrio"", ""Barangay"", ""Espiritu"", ""Ilocos Norte"", ""Hilario Valdez"", ""Republic Act"", ""Name Change""]"
+repacts:datasets/markdown/repacts/1971/ra_6225_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6225_1971.md	ra_6225_1971	AN ACT CREATING THE BARRIOS OF PECIO, PAWAAN, LINOGEN, TIWALES, GIGANG, GUAGAN, PINGOLES AND BATANG IN THE MUNICIPALITY OF LAPUYAN, PROVINCE OF ZAMBOANGA DEL SUR.	"**[ REPUBLIC ACT NO. 6225, June 19, 1971 ]**
+
+ AN ACT CREATING THE BARRIOS OF PECIO, PAWAAN, LINOGEN, TIWALES, GIGANG, GUAGAN, PINGOLES AND BATANG IN THE MUNICIPALITY OF LAPUYAN, PROVINCE OF ZAMBOANGA DEL SUR.
+
+ Be it enacted by the Senate and House of Representatives of the Philippinesin Congress assembled:
+
+ **Section 1.** Sitios Pecio, Pawaan, Linogen, Tiwales, Gigang, Guagan, Pingolea and Batang in the Municipality of Lapuyan, Province of Zamboanga del Sur, are hereby converted into distinct and independent barrios of said municipality.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Republic Act	Establishes new barrios in Lapuyan, Zamboanga del Sur.	"[{""title"": ""Section 1"", ""summary"": ""Conversion of specified sitios into distinct barrios of Lapuyan.""}, {""title"": ""Section 2"", ""summary"": ""Act takes effect upon approval.""}]"	6225	June 19, 1971			To create new barrios in Lapuyan, Zamboanga del Sur, thereby formalizing local governance.	"[""Conversion of specified sitios into barrios.""]"		"[""Republic Act"", ""Barrio"", ""Zamboanga del Sur"", ""Municipality of Lapuyan""]"	"[""Barrios"", ""Sitios"", ""Lapuyan"", ""Zamboanga del Sur"", ""Republic Act 6225""]"
+repacts:datasets/markdown/repacts/1971/ra_6226_1971.md	repacts	1971		datasets/markdown/repacts/1971/ra_6226_1971.md	ra_6226_1971	AN ACT CREATING THE BARRIO OF SALVACION IN THE MUNICIPALITY OF PANABO, PROVINCE OF DAVAO DEL NORTE	"**[ REPUBLIC ACT NO. 6226, June 19, 1971 ]**
+
+ AN ACT CREATING THE BARRIO OF SALVACION IN THE MUNICIPALITY OF PANABO, PROVINCE OF DAVAO DEL NORTE.
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ **Section 1.** The sitio of Salvacion in the Municipality of Panabo, Province of Davao del Norte, is hereby converted into a distinct and independent barrio of said municipality, to be known as the Barrio of Salvacion.
+
+ The Barrio of Salvacion shall be bounded as follows:
+
+ ""On the North, by the boundaries of the municipalities of Panabo and Carmen; on the East, beginning from the lot of Mr. Nicolas Lucedra running north parallel to the National Highway; on the South, by the Poblacion of Panabo; and on the West, beginning from the land of Dr. Jose Tongson running north parallel to the National Highway.""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved, June 19, 1971.
+"	success	Republic Act	This act converts the sitio of Salvacion in the Municipality of Panabo, Davao del Norte into an independent barrio, defines its boundaries, and establishes that it takes effect upon approval.	"[{""title"": ""Section 1."", ""summary"": ""The sitio of Salvacion in the Municipality of Panabo, Province of Davao del Norte, is hereby converted into a distinct and independent barrio of said municipality, to be known as the Barrio of Salvacion. The Barrio of Salvacion shall be bounded as follows: On the North, by the boundaries of the municipalities of Panabo and Carmen; on the East, beginning from the lot of Mr. Nicolas Lucedra running north parallel to the National Highway; on the South, by the Poblacion of Panabo; and on the West, beginning from the land of Dr. Jose Tongson running north parallel to the National Highway.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	6226	June 19, 1971			To create the barrio of Salvacion in Panabo, Davao del Norte.	"[""Conversion of the sitio of Salvacion into an independent barrio."", ""Definition of the barrio's boundaries with reference to Panabo, Carmen, and adjacent properties."", ""Act takes effect upon approval.""]"		"[""Local Government"", ""Barangay"", ""Davao del Norte"", ""Republic Act""]"	"[""Salvacion"", ""Panabo"", ""Davao del Norte"", ""barrio"", ""sitio"", ""boundary"", ""National Highway"", ""Carmen"", ""Nicolas Lucedra"", ""Jose Tongson""]"

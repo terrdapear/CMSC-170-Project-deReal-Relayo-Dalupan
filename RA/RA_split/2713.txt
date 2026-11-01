@@ -1,0 +1,155 @@
+
+ **SEC. 14. *Implementing Rules and Regulations.*** The PNVSCA, with advice from the MSAB, shall promulgate the rules and regulations to effectively implement the provisions of this Act.
+
+ **SEC. 15. *Repealing Clause.*** All laws, decrees, executive orders and rules and regulations or parts thereof contrary to or inconsistent with the provisions of this Act, including Section 12 of Executive Order No. 635 are hereby deemed repealed or modified accordingly.
+
+ **SEC. 16. *Effectivity.*** - This Act shall take effect after fifteen (15) days following its publication in the Official Gazette or in at least two newspapers of general circulation.
+
+ Approved,
+
+ | **MANNY VILLAR** President of the Senate | **JOSE DE VENECIA JR.** Speaker of the House of Representatives |
+"	success	Republic Act	Republic Act No. 9418, known as the Volunteer Act of 2007, institutionalizes a strategy for rural development, strengthens volunteerism, and promotes the participation of Filipino society and international volunteer organizations in public and civic affairs to attain national development and international understanding.	"[{""title"": ""Title"", ""summary"": ""The act shall be known and cited as the Volunteer Act of 2007.""}, {""title"": ""Declaration of Policy"", ""summary"": ""The State shall promote volunteerism as a strategy for national development and international understanding, encouraging participation of Filipino society and international volunteer organizations.""}, {""title"": ""Statement of Goals and Objectives"", ""summary"": ""The government shall pursue goals such as providing a policy framework, creating an enabling environment for volunteers, and strengthening the Philippine National Volunteer Service Coordinating Agency.""}, {""title"": ""Definition of Terms"", ""summary"": ""Defines key terms including volunteerism, volunteer, volunteer service organization, and voluntary sector.""}, {""title"": ""Role and Modalities of Volunteerism in the Private Sector"", ""summary"": ""Describes volunteerism in academia, corporate sector, and not-for-profit organizations, outlining various activities and benefits.""}, {""title"": ""Role and Modalities of Volunteerism by Foreign Volunteer Organizations"", ""summary"": ""Describes the participation of foreign volunteer organizations in providing technical assistance and cooperation.""}, {""title"": ""Role of the Government"", ""summary"": ""The government shall coordinate, facilitate, and encourage the participation of the voluntary sector in national development and international cooperation.""}, {""title"": ""The Philippine National Volunteer Service Coordinating Agency (PNVSCA)"", ""summary"": ""Establishes the PNVSCA as the coordinating agency for volunteer services.""}]"	9418	April 10, 2007			To institutionalize a strategy for rural development, strengthen volunteerism, and promote volunteer participation in public and civic affairs.	"[""Title of the act as Volunteer Act of 2007"", ""Policy to promote volunteerism"", ""Goals and objectives for volunteerism"", ""Definitions of key terms"", ""Private sector volunteerism roles"", ""Foreign volunteer organization roles"", ""Government coordination and facilitation"", ""Establishment of PNVSCA""]"		"[""volunteerism"", ""rural development"", ""public policy"", ""Philippines""]"	"[""volunteerism"", ""volunteer"", ""volunteer service organization"", ""PNVSCA"", ""public policy"", ""development""]"
+repacts:datasets/markdown/repacts/2007/ra_9419_2007.md	repacts	2007		datasets/markdown/repacts/2007/ra_9419_2007.md	ra_9419_2007	AN ACT INCREASING THE BED CAPACITY OF THE AMANG RODRIGUEZ MEMORIAL MEDICAL CENTER FROM ONE HUNDRED FIFTY (150) TO THREE HUNDRED (300) BEDS AND APPROPRIATING FUNDS THEREFOR	"Thirteenth Congress Third Special Session
+
+ *Begun and held in Metro Manila, on Monday, the nineteenth day of February, two thousand seven.*
+
+ **REPUBLIC ACT NO. 9421 April 10, 2007**
+
+ **AN ACT INCREASING THE BED CAPACITY OF THE AMANG RODRIGUEZ MEMORIAL MEDICAL CENTER FROM ONE HUNDRED FIFTY (150) TO THREE HUNDRED (300) BEDS AND APPROPRIATING FUNDS THEREFOR**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **SECTION 1.** The authorized bed capacity of Amang Rodriguez Memorial Medical Center (ARMMC) , a national medical center created through Republic Act No. 8019, is hereby increased from one hundred fifty (150) to three hundred beds with concomitant manpower complement.
+
+ **SEC. 2.** The increase in the bed capacity of the ARMMC from one hundred fifty (150) to three hundred beds shall be implemented for a period of not more than four years from the approval of this Act.
+
+ **SEC. 3.** The Secretary of Health shall include in the Department's program the implementation of this increase in bed capacity of the ARMMC, the funding of which shall be included in the annual General Appropriation Act.
+
+ **SEC. 4.** all laws, decrees, rules and regulations inconsistent with this Act shall be deemed amended or repealed accordingly.
+
+ **SEC. 5.** This Act shall take effect upon its approval.
+
+ Approved,
+
+  | **MANNY VILLAR** President of the Senate | **JOSE DE VENECIA JR.** Speaker of the House of Representatives |
+"	success	Legislation	Increases the bed capacity of the Amang Rodriguez Memorial Medical Center from 150 to 300 beds and appropriates funds for the expansion.	"[{""title"": ""Section 1"", ""summary"": ""The authorized bed capacity of Amang Rodriguez Memorial Medical Center (ARMMC) is increased from 150 to 300 beds with a concomitant manpower complement.""}, {""title"": ""Section 2"", ""summary"": ""The increase in bed capacity shall be implemented for a period of not more than four years from the approval of this Act.""}, {""title"": ""Section 3"", ""summary"": ""The Secretary of Health shall include the implementation of this increase in the Department's program, with funding included in the annual General Appropriation Act.""}, {""title"": ""Section 4"", ""summary"": ""All laws, decrees, rules and regulations inconsistent with this Act shall be deemed amended or repealed accordingly.""}, {""title"": ""Section 5"", ""summary"": ""This Act shall take effect upon its approval.""}]"	9421	April 10, 2007	"[{""name"": ""MANNY VILLAR"", ""title"": ""President of the Senate""}, {""name"": ""JOSE DE VENECIA JR."", ""title"": ""Speaker of the House of Representatives""}]"		To increase the bed capacity of ARMMC to meet healthcare demand and ensure proper funding for the expansion.	"[""Increase bed capacity from 150 to 300 beds"", ""Implementation period of up to 4 years"", ""Inclusion of funding in the annual General Appropriation Act"", ""Amendment or repeal of inconsistent laws"", ""Act takes effect upon approval""]"	Republic Act No. 8019	"[""Healthcare"", ""Medical Center"", ""Bed Capacity"", ""RA"", ""Philippines""]"	"[""bed capacity"", ""Amang Rodriguez Memorial Medical Center"", ""healthcare"", ""funding"", ""Republic Act""]"
+repacts:datasets/markdown/repacts/2007/ra_9420_2007.md	repacts	2007		datasets/markdown/repacts/2007/ra_9420_2007.md	ra_9420_2007	AN ACT CONVERTING TWO HUNDRED (200) BEDS OF THE 2000-BED DR. JOSE N. RODRIGUEZ MEMORIAL HOSPITAL AND SANITARIUM FOR TERTIARY GENERAL HEALTH CARE, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES	"Thirteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-fourth day of July, two thousand six.*
+
+ **REPUBLIC ACT No. 9420 April 10, 2007**
+
+ **AN ACT CONVERTING TWO HUNDRED (200) BEDS OF THE 2000-BED DR. JOSE N. RODRIGUEZ MEMORIAL HOSPITAL AND SANITARIUM FOR TERTIARY GENERAL HEALTH CARE, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Two hundred (200) beds ofthe 2000-bed Dr. Jose N. Rodriguez Memorial Hospital and Sanitarium located in Tala, Caloocan City are hereby converted for tertiary general hospital use.
+
+ **Section 2.** The Secretary of Health shall include in the Department's program the operationalization of the two hundred (200) beds of the 2000-bed Dr. Jose N. Rodriguez Memorial Hospital and Sanitarium for tertiary general health care, the initial funding of which shall be charged against the current year's appropriations of the hospital. Thereafter, the funds necessary for its continued operation shall be included in the annual General Appropriations Act.
+
+ **Section 3.** Administrative jurisdiction over the hospital is hereby transferred from the Department of Health - Region IV to the Department of Health, National Capital Region.
+
+ **Section 4.** This Act shall take effect immediately.
+
+ Approved,
+
+ | **MANNY VILLAR** President of the Senate | **JOSE DE VENECIA, JR.** Speaker of the House of Representatives |
+"	success	Republic Act	Converts 200 beds of Dr. Jose N. Rodriguez Memorial Hospital into a tertiary general health care facility and appropriates funds for its operation.	"[{""title"": ""Section 1"", ""summary"": ""Converts 200 beds of Dr. Jose N. Rodriguez Memorial Hospital and Sanitarium into tertiary general hospital use.""}, {""title"": ""Section 2"", ""summary"": ""Includes operationalization and funding of the two hundred beds in the Department of Health program and appropriates current year and future appropriations.""}, {""title"": ""Section 3"", ""summary"": ""Transfers administrative jurisdiction from the Department of Health \u2013 Region IV to the Department of Health, National Capital Region.""}, {""title"": ""Section 4"", ""summary"": ""The Act shall take effect immediately.""}]"	9420	April 10, 2007	"[{""name"": ""Manny Villar"", ""title"": ""President of the Senate""}, {""name"": ""Jose De Venecia, Jr."", ""title"": ""Speaker of the House of Representatives""}]"		To convert beds to tertiary general health care and appropriate funds for operation.	"[""Conversion of 200 beds into tertiary general hospital use"", ""Operationalization and funding of the beds"", ""Transfer of administrative jurisdiction to National Capital Region"", ""Immediate effect of the Act""]"		"[""Health"", ""Hospital"", ""Legislation"", ""Budget""]"	"[""Dr. Jose N. Rodriguez Memorial Hospital"", ""Tertiary General Health Care"", ""Department of Health"", ""Budget Appropriations"", ""Caloocan City""]"
+repacts:datasets/markdown/repacts/2007/ra_9421_2007.md	repacts	2007		datasets/markdown/repacts/2007/ra_9421_2007.md	ra_9421_2007	AN ACT UPGRADING THE VALENZUELA GENERAL HOSPITAL IN THE CITY OF VALENZUELA, METRO MANILA INTO A TWO HUNDRED BED CAPACITY TERTIARY LEVEL HOSPITAL TO BE KNOWN AS THE VALENZUELA MEDICAL CENTER AND APPROPRIATING FUNDS THEREFOR	"Thirteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-fourth day of July, two thousand six.*
+
+ **REPUBLIC ACT NO. 9421 April 10, 2007**
+
+ **AN ACT UPGRADING THE VALENZUELA GENERAL HOSPITAL IN THE CITY OF VALENZUELA, METRO MANILA INTO A TWO HUNDRED BED CAPACITY TERTIARY LEVEL HOSPITAL TO BE KNOWN AS THE VALENZUELA MEDICAL CENTER AND APPROPRIATING FUNDS THEREFOR**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **SECTION 1.** The Valenzuela General Hospital in the City of Valenzuela, Metro Manila is hereby upgraded from a one hundred bed capacity general hospital into a two hundred bed capacity tertiary level hospital to be known as the Valenzuela Medical Center, which shall be under the direct technical operation and administration of the Department of Health.
+
+ **SEC. 2.** The Secretary of Health shall include in the Department's programs the implementation of the increase in the bed capacity of the Valenzuela Medical Center, the funding of which shall be included in the annual General Appropriations Act.
+
+ The increase in the bed capacity of the Valenzuela Medical Center from one hundred (100) to two hundred (200) beds shall be implemented for a period of not more than four years from the approval of this Act.
+
+ **SEC. 3.** The Secretary of Health shall issue rules and regulations necessary for the effective implementation of this Act.
+
+ **SEC. 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+  | **MANNY VILLAR** President of the Senate | **JOSE DE VENECIA JR.** Speaker of the House of Representatives |
+"	success	Republic Act	Upgrades Valenzuela General Hospital to a 200-bed tertiary level hospital named Valenzuela Medical Center and appropriates funds for the upgrade, including implementation and funding provisions.	"[{""title"": ""SECTION 1."", ""summary"": ""Upgrades the Valenzuela General Hospital from a 100-bed capacity general hospital to a 200-bed capacity tertiary level hospital known as Valenzuela Medical Center, under the technical operation and administration of the Department of Health.""}, {""title"": ""SEC. 2."", ""summary"": ""The Secretary of Health shall include the implementation of the bed capacity increase in the Department's programs and funding will be included in the annual General Appropriations Act; the increase will be implemented for up to four years from approval.""}, {""title"": ""SEC. 3."", ""summary"": ""The Secretary of Health shall issue rules and regulations necessary for effective implementation of the Act.""}, {""title"": ""SEC. 4."", ""summary"": ""The Act shall take effect upon its approval.""}]"	9421	April 10, 2007	"[{""name"": ""MANNY VILLAR"", ""title"": ""President of the Senate""}, {""name"": ""JOSE DE VENECIA JR."", ""title"": ""Speaker of the House of Representatives""}]"		To upgrade Valenzuela General Hospital to a 200-bed tertiary level hospital known as Valenzuela Medical Center and appropriate funds for the upgrade.	"[""Upgrade from 100 to 200 beds."", ""Direct technical operation and administration by the Department of Health."", ""Funding to be included in the annual General Appropriations Act."", ""Secretary of Health to issue necessary rules and regulations."", ""Act takes effect upon approval.""]"		"[""Health"", ""Hospital"", ""Valenzuela"", ""Medical Center"", ""Department of Health""]"	"[""Valenzuela General Hospital"", ""Valenzuela Medical Center"", ""200-bed"", ""tertiary level hospital"", ""Department of Health"", ""General Appropriations Act""]"
+repacts:datasets/markdown/repacts/2007/ra_9422_2007.md	repacts	2007		datasets/markdown/repacts/2007/ra_9422_2007.md	ra_9422_2007	"AN ACT TO STRENGTHEN THE REGULATORY FUNCTIONS OF THE PHILIPPINE OVERSEAS EMPLOYMENT ADMINISTRATION (POEA), AMENDING FOR THIS PURPOSE REPUBLIC ACT NO. 8042, OTHERWISE KNOWN AS THE ""MIGRANT WORKERS AND OVERSEAS FILIFINOS ACT OF 1995"""	"Thirteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-fourth day of July, two thousand six.*
+
+ **REPUBLIC ACT No. 9422 April 10, 2007**
+
+ **AN ACT TO STRENGTHEN THE REGULATORY FUNCTIONS OF THE PHILIPPINE OVERSEAS EMPLOYMENT ADMINISTRATION (POEA) , AMENDING FOR THIS PURPOSE REPUBLIC ACT NO. 8042, OTHERWISE KNOWN AS THE ""MIGRANT WORKERS AND OVERSEAS FILIFINOS ACT OF 1995""**
+
+ *Be it enacted by the Senate and the House of Representatives of the Philippines in Congress assembled*:
+
+ **SECTION 1.** Section 23, paragraph (b.1) of Republic Act. No. 8042, otherwise known as the ""Migrant Workers and Overseas Filipinos Act of 1995"" is hereby amended to read as follows:
+
+ ""(b.1) Philippine Overseas Employment Administration - The Administration shall regulate private sector participation in the recruitment and overseas placement of workers by setting up a licensing and registration system. It shall also formulate and implement, in coordination with appropriate entities concerned, when necessary, a system for promoting and monitoring the overseas employment of Filipino workers taking into consideration their welfare and the domestic manpower requirements. ""In addition to its powers and functions, the administration shall inform migrant workers not only of their rights as workers but also of their rights as human beings, instruct and guide the workers how to assert their rights and provide the available mechanism to redress violation of their rights."" ""In the recruitment and placement of workers to service the requirements for trained and competent Filipino workers of foreign governments and their instrumentalies, and such other employers as public interests may require, the administration shall deploy only to countries where the Philippines has concluded bilateral labor agreements or arrangements: *Provided*, That such courtries shall guarantee to protect the rights of Filipino migrant workers; and: *Provided, further*, That such countries shall observe and/or comply with the international laws and standards for migrant workers."" **SEC. 2.** Section 29 of the same law is hereby repealed.
+
+ **SEC. 3.** Section 30 of the same law is also hereby repealed.
+
+ **SEC. 4.** All laws, orders, issuances, rules or regulations or parts thereof inconsistent with the provisions of this Act are hereby repealed, amended or modified accordingly.
+
+ **SEC. 5.** if, for any reason, any portion or provision of this Act is declared unconstitutional or invalid, the other portions or provisions hereof shall not be affected thereby.
+
+ **SEC. 6.** This Act Shall take effect fifteen (15) days after its publication in at least two newspapers of general circulation.
+
+ Approved,
+
+ | **JOSE DE VENECIA JR.** Speaker of the House of Representatives | **MANNY VILLAR** President of the Senate |
+"	success	Republic Act	This act strengthens the regulatory functions of the Philippine Overseas Employment Administration by amending Republic Act No. 8042, expanding its powers over recruitment and placement of Filipino workers, and clarifying its responsibilities.	"[{""title"": ""SECTION 1"", ""summary"": ""Amends section 23(b.1) of RA 8042 to broaden POEA's regulatory and protective powers over recruitment and overseas placement of Filipino workers.""}, {""title"": ""SEC. 2"", ""summary"": ""Repeals Section 29 of RA 8042.""}, {""title"": ""SEC. 3"", ""summary"": ""Repeals Section 30 of RA 8042.""}, {""title"": ""SEC. 4"", ""summary"": ""Repeals or amends all laws, orders, issuances, rules or regulations inconsistent with the Act.""}, {""title"": ""SEC. 5"", ""summary"": ""Preserves other provisions if any part is declared unconstitutional.""}, {""title"": ""SEC. 6"", ""summary"": ""Act takes effect 15 days after publication in at least two newspapers.""}]"	9422	April 10, 2007	"[{""name"": ""JOSE DE VENECIA JR."", ""title"": ""Speaker of the House of Representatives""}]"	"[{""name"": ""MANNY VILLAR"", ""title"": ""President of the Senate""}]"	To strengthen the regulatory functions of the Philippine Overseas Employment Administration by amending Republic Act No. 8042, thereby enhancing protection and oversight of Filipino migrant workers.	"[""Amendment of Section 23(b.1) of RA 8042 to expand POEA's regulatory powers"", ""Repeal of Sections 29 and 30 of RA 8042"", ""Repeal or amendment of laws inconsistent with the Act"", ""Effectiveness after 15 days of publication""]"	Republic Act No. 8042 (Migrant Workers and Overseas Filipinos Act of 1995)	"[""POEA"", ""Migration"", ""Labor"", ""Philippines"", ""Overseas Workers""]"	"[""POEA"", ""overseas employment"", ""migrant workers"", ""regulatory functions"", ""RA 8042"", ""amendment"", ""repeal""]"
+repacts:datasets/markdown/repacts/2007/ra_9423_2007.md	repacts	2007		datasets/markdown/repacts/2007/ra_9423_2007.md	ra_9423_2007	AN ACT CREATING AN ADDITIONAL BRANCH OF THE REGIONAL TRIAL COURT IN THE PROVINCE OF LANAO DEL SUR TO BE STATIONED AT THE MUNICIPALITY OF WAO, AMENDING FOR THE PURPOSE SECTION 14, PARAGRAPH (M) OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS THE JUDICIARY REORGANIZATION ACT OF 1980, AS AMENDED AND APPROPRIATING FUNDS THEREFOR	"Thirteenth Congress Third Special Session
+
+ *Begun and held in Metro Manila, on Monday, the nineteenth day of February, two thousand seven.*
+
+ **REPUBLIC ACT NO. 9423 April 10, 2007**
+
+ **AN ACT CREATING AN ADDITIONAL BRANCH OF THE REGIONAL TRIAL COURT IN THE PROVINCE OF LANAO DEL SUR TO BE STATIONED AT THE MUNICIPALITY OF WAO, AMENDING FOR THE PURPOSE SECTION 14, PARAGRAPH (M) OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS THE JUDICIARY REORGANIZATION ACT OF 1980, AS AMENDED AND APPROPRIATING FUNDS THEREFOR**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **SECTION 1.** Section 14, paragraph (m) of Batas Pambansa Blg. 129, otherwise known as the ""Judiciary Reorganization Act of 1980"", as amended, is hereby further amended to read as follows:
+
+ ""SEC. 14. *Regional Trial Courts.* - ""x x x ""(m) Twenty-six Regional Trial Court Judges shall be commissioned for the Twelfth Judicial Region. There shall be: ""Six branches with seats thereat for the Province of Lanao del Sur and the City of Marawi, with seats at Marawi City, Malabang and Wao; ""x x x"" **SEC. 2.** The Supreme Court shall assign the additional branch of the Regional Trial Court in the Municipality of Wao, Province of Lanao del Sur in accordance with this Act.
+
+ **SEC. 3.** The Chief Justice of the Supreme Court, in coordination with the Secretary of the Department of Justice, shall immediately include in the court's program the operationalization of the additional regional trial court branch in the Province of Lanao del Sur, with station at the Municipality of Wao, the funding of which shall be included in the annual General Appropriations Act.
+
+ **SEC. 4.** This Act shall take effect upon its approval.
+
+ Approved,
+
+  | **MANNY VILLAR** President of the Senate | **JOSE DE VENECIA JR.** Speaker of the House of Representatives |
+"	success	Republic Act	The act amends Section 14(m) of Batas Pambansa Blg. 129 to create an additional branch of the Regional Trial Court in Wao, Lanao del Sur, commissioning 26 judges for the Twelfth Judicial Region and establishing six branches in the province, while appropriating funds and assigning the Supreme Court to facilitate operationalization.	"[{""title"": ""SEC. 1"", ""summary"": ""Amendment to Section 14(m) of Batas Pambansa Blg. 129, commissioning 26 RT judges for the 12th Judicial Region and establishing six branches in Lanao del Sur including Wao.""}, {""title"": ""SEC. 2"", ""summary"": ""Supreme Court shall assign the additional branch of the Regional Trial Court in Wao in accordance with the act.""}, {""title"": ""SEC. 3"", ""summary"": ""Chief Justice and Secretary of Justice to include operationalization of the additional branch in the court program and ensure funding is included in the General Appropriations Act.""}, {""title"": ""SEC. 4"", ""summary"": ""Act takes effect upon approval.""}]"	9423	April 10, 2007	"[{""name"": ""Manny Villar"", ""title"": ""President of the Senate""}, {""name"": ""Jose de Venecia Jr."", ""title"": ""Speaker of the House of Representatives""}]"		To create an additional branch of the Regional Trial Court in Lanao del Sur, augment judicial capacity, and appropriate necessary funds for its operation.	"[""Amendment of Section 14(m) of Batas Pambansa Blg. 129"", ""Commissioning of 26 Regional Trial Court judges for the Twelfth Judicial Region"", ""Establishment of six branches including Wao in Lanao del Sur"", ""Assignment of Supreme Court to designate the new branch"", ""Operationalization of the branch by Chief Justice and Secretary of Justice"", ""Appropriation of funds in the General Appropriations Act""]"	Batas Pambansa Blg. 129 (Judiciary Reorganization Act of 1980)	"[""Judiciary"", ""Regional Trial Court"", ""Lanao del Sur"", ""Wao"", ""Batas Pambansa"", ""Legislation"", ""Republic Act""]"	"[""Regional Trial Court"", ""Lanao del Sur"", ""Wao"", ""Judiciary Reorganization Act"", ""Batas Pambansa Blg. 129"", ""Republic Act 9423""]"
+repacts:datasets/markdown/repacts/2007/ra_9424_2007.md	repacts	2007		datasets/markdown/repacts/2007/ra_9424_2007.md	ra_9424_2007	An Act Creating Four Additional Metropolitan Trial Court Branches in the City of Marikina, National Capital Region, Amending for the Purpose Section 27 of Batas Pambansa Blg. 129, Otherwise Known as the Judiciary Reorganization Act of 1980, as Amended, and Appropriating Funds Therefor	"Thirteenth Congress Third Regular Session
+
+ *Begun and held in Metro Manila, on Monday, the twenty-fourth day of July, two thousand six.*
+
+ **REPUBLIC ACT NO. 9424 April 10, 2007**
+
+ **AN ACT CREATING FOUR ADDITIONAL METROPOLITAN TRIAL COURT BRANCHES IN THE CITY OF MARIKINA, NATIONAL CAPITAL REGION, AMENDING FOR THE PURPOSE SECTION 27 OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS THE JUDICIARY REORGANIZATION ACT OF 1980, AS AMENDED, AND APPROPRIATING FUNDS THEREFOR**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **SECTION 1.** Section 27, Chapter III of Batas Pambansa Blg. 129, otherwise known as the ""Judiciary Reorganization Act of 1980"", as amended, is hereby further amended to read as follows:
+
+ ""SEC. 27. *Metropolitan Trial Courts of the National Capital Region.* - There shall be a Metropolitan Trial Court in the National Capital Region, to be known as the Metropolitan Trial Court of Metro Manila, which shall be composed of eighty-six (86) branches. There shall be: ""x x x Six branches for Marikina with seats thereat; ""x x x."" **SEC. 2.** The Supreme Court shall assign the additional four branches of the Metropolitan Trial Court in the City of Marikina with seats thereat.
+
+ **SEC. 3.** The Chief Justice of the Supreme Court, in coordination with the Secretary of the Department of Justice, shall immediately include in the Court's program the operationalization of four additional branches of the Metropolitan Trial Court for the City of Marikina, the funding of which shall be included in the annual General Appropriations Act.
+
+ **SEC. 4.** The Supreme Court shall issue the necessary rules and regulations for the effective implementation of this Act and if warranted, the realignment of the seats of existing branches and their territorial jurisdictions.
+
+ **SEC. 5. *Repealing Clause.*** All geneal and special laws, acts, decrees, executive orders, proclamations and administrative regulations or part or parts thereof which are inconsistent with any provision of this Act are hereby repealed or modified accordingly.
+
+ **SEC. 5.** This Act shall take effect upon its approval.
+
+ Approved,
+
+  | **MANNY VILLAR** President of the Senate | **JOSE DE VENECIA JR.** Speaker of the House of Representatives |
+"	success	Republic Act	This act amends Section 27 of Batas Pambansa Blg. 129 to establish additional Metropolitan Trial Court branches in Marikina, providing for new branches, funding, operationalization, and repeal of inconsistent laws.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 27 to provide for a Metropolitan Trial Court in Metro Manila composed of 86 branches, including six branches for Marikina.""}, {""title"": ""Section 2"", ""summary"": ""Supreme Court shall assign the additional four branches of the Metropolitan Trial Court in the City of Marikina.""}, {""title"": ""Section 3"", ""summary"": ""Chief Justice and Secretary of DOJ to include operationalization of four additional branches and funding in the annual General Appropriations Act.""}, {""title"": ""Section 4"", ""summary"": ""Supreme Court to issue rules, regulations, and, if needed, realign existing branches and jurisdictions.""}, {""title"": ""Section 5"", ""summary"": ""Repealing clause and effectivity: act takes effect upon approval.""}]"	9424	April 10, 2007	"[{""name"": ""Manny Villar"", ""title"": ""President of the Senate""}, {""name"": ""Jose De Venecia Jr."", ""title"": ""Speaker of the House of Representatives""}]"		Amend Section 27 of Batas Pambansa Blg. 129 to create four additional Metropolitan Trial Court branches in Marikina, providing for new branches, funding, and operationalization.	"[""Creation of a Metropolitan Trial Court in Metro Manila with 86 branches."", ""Addition of six branches for Marikina."", ""Supreme Court assignment of four branches in Marikina."", ""Operationalization and funding of new branches under the General Appropriations Act."", ""Issuance of rules and regulations for implementation and realignment of jurisdictions."", ""Repealing of inconsistent laws and taking effect upon approval.""]"	Section 27 of Batas Pambansa Blg. 129	"[""Judiciary"", ""Trial Courts"", ""Marikina"", ""National Capital Region""]"	"[""Metropolitan Trial Court"", ""Marikina"", ""Judiciary Reorganization Act"", ""Batas Pambansa Blg. 129"", ""Republic Act 9424""]"

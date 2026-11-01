@@ -1,0 +1,141 @@
+>
+>  ""Fifty-two per centum per annum upon the amount by which such total net income exceeds one hundred thousand pesos and does not exceed one hundred and twenty thousand pesos;
+>
+>  ""Fifty-three per centum per annum upon the amount by which such total net income exceeds one hundred and twenty thousand pesos and does not exceed one hundred and forty thousand pesos;
+>
+>  ""Fifty-four per centum per annum upon the amount by which such total net income exceeds one hundred and forty thousand pesos and does not exceed one hundred and sixty thousand pesos;
+>
+>  ""Fifty-five per centum per annum upon the amount by which such total net income exceeds one hundred and sixty thousand pesos and does not exceed one two hundred thousand pesos;
+>
+>  ""Fifty-six per centum per annum upon the amount by which such total net income exceeds two hundred thousand pesos and does not exceed one two hundred and fifty thousand pesos;
+>
+>  ""Fifty-seven per centum per annum upon the amount by which such total net income exceeds two hundred and fifty thousand pesos and does not exceed three hundred thousand pesos;
+>
+>  ""Fifty-nine per centum per annum upon the amount by which such total net income exceeds three hundred thousand pesos and does not exceed four hundred thousand pesos;
+>
+>  ""Sixty per centum per annum upon the amount by which such total net income exceeds five hundred thousand pesos.""
+
+ **Section 2.** This Act shall take effect upon its approval; *Provided,* *However*, That the rates of hereinabove fixed shall apply to income to received from January first, nineteen hundred and fifty-four, to December thirty-first, nineteen hundred and fifty-five.
+
+ Approved: June 15, 1954.
+"	success	Tax Law	This act revises Section 21 of the National Internal Revenue Code by setting a graduated income tax schedule ranging from 5% to 60% for net income brackets, and specifies that the new rates apply to income earned between January 1, 1954, and December 31, 1955.	"[{""title"": ""Section 1"", ""summary"": ""Amendment to Sec. 21 establishing graduated tax rates on net income for citizens or residents.""}, {""title"": ""Section 2"", ""summary"": ""The act takes effect upon approval; the new rates apply to income earned from Jan 1, 1954 to Dec 31, 1955.""}]"	1094	1954-06-15			To update the National Internal Revenue Code with a progressive tax schedule for net income.	"[""Amend Section 21 to impose graduated tax rates from 5% to 60% on net income."", ""Define specific income brackets and corresponding rates."", ""Specify effective period for the new rates (Jan 1, 1954 \u2013 Dec 31, 1955).""]"	Commonwealth Act No. 466 (National Internal Revenue Code)	"[""tax"", ""revenue"", ""income tax"", ""Philippines"", ""1954""]"	"[""Section 21"", ""National Internal Revenue Code"", ""tax rates"", ""income"", ""graduated rates"", ""Philippines""]"
+repacts:datasets/markdown/repacts/1954/ra_1095_1954.md	repacts	1954		datasets/markdown/repacts/1954/ra_1095_1954.md	ra_1095_1954	An Act to Amend Section Two Thousand and Seventy-One of the Revised Administrative Code, as Amended	"**REPUBLIC ACT No. 1095**
+
+ **An Act to Amend Section Two Thousand and Seventy-One of the Revised Administrative Code, as Amended**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section two thousand and seventy-one of the Revised Administrative Code, as amended by section one of Commonwealth Act Numbered Two hundred and thirty-three, is hereby further amended to read as follows:
+
+ > ""Sec. 2071. *Qualifications of provincial officer.* -No person shall be eligible to a provincial office unless at the time of the election he is a qualified voter of the province, has been a bona fide resident therein for at least one year prior to the election, and is not less than twenty-five years of age.""
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 15, 1954.
+"	success	Republic Act	Amends Section 2071 of the Revised Administrative Code to require provincial officials to be qualified voters, have resided in the province for at least one year, and be at least twenty-five years old.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 2071 to state that no person shall be eligible to a provincial office unless they are a qualified voter of the province, have been a bona fide resident for at least one year prior to the election, and are not less than twenty-five years of age.""}, {""title"": ""Section 2"", ""summary"": ""The act shall take effect upon its approval.""}]"	1095	June 15, 1954			To amend the qualifications of provincial officers in the Revised Administrative Code.	"[""Provincial officers must be qualified voters of the province."", ""Provincial officers must have been bona fide residents of the province for at least one year prior to the election."", ""Provincial officers must be at least twenty-five years old.""]"	Revised Administrative Code Section 2071	"[""administrative code"", ""provincial office"", ""voter eligibility""]"	"[""provincial officer"", ""qualified voter"", ""resident"", ""age requirement""]"
+repacts:datasets/markdown/repacts/1954/ra_1096_1954.md	repacts	1954		datasets/markdown/repacts/1954/ra_1096_1954.md	ra_1096_1954	"An Act Further Amending Section Fifty-Eight of Act Numbered Four Hundred Ninety-Six, Known as the ""Land Registration Act,"" to Facilitate Dealings in Lands Sold by the Government Pending Approval of the Subdivision Surveys"	"**REPUBLIC ACT No. 1096**
+
+ **An Act Further Amending Section Fifty-Eight of Act Numbered Four Hundred Ninety-Six, Known as the ""Land Registration Act,"" to Facilitate Dealings in Lands Sold by the Government Pending Approval of the Subdivision Surveys**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section fifty-eight of Act Numbered Four hundred ninety-six, known as the Land Registration Act, is hereby further amended by adding at the end thereof the following additional paragraph:
+
+ > ""For the purpose of securing loans from banking and credit institutions, the foregoing prohibition against the acceptance for registration or annotation of a subsequent deed or other voluntary instrument shall not apply in the case of deeds of sale duly executed by the Government or any of its instrumentalities, with respect to portions of lands registered in the name of the Republic of the Philippines.""
+
+ **Section 2.** All laws and regulations, or parts thereof inconsistent with the provisions of this Act, are hereby repealed.
+
+ **Section 3.** This Act shall take effect upon its approval
+
+ Approved: June 15, 1954.
+"	success	Republic Act	This Act further amends Section 58 of the Land Registration Act to permit the registration of deeds of sale executed by the Government for lands pending subdivision surveys, thereby facilitating loan securing. It repeals inconsistent laws and regulations and takes effect upon approval on June 15, 1954.	"[{""title"": ""Section 1"", ""summary"": ""Adds a paragraph to Section 58 of the Land Registration Act allowing registration or annotation of deeds of sale executed by the Government for lands registered in the name of the Republic of the Philippines, for the purpose of securing loans from banking and credit institutions.""}, {""title"": ""Section 2"", ""summary"": ""Repeals all laws and regulations, or parts thereof, that are inconsistent with the provisions of this Act.""}, {""title"": ""Section 3"", ""summary"": ""The Act shall take effect upon its approval.""}]"	1096	June 15, 1954			To facilitate dealings in lands sold by the Government pending approval of subdivision surveys by amending the Land Registration Act to allow registration of such deeds for loan securing purposes.	"[""Amendment to Section 58 of the Land Registration Act allowing registration of government sale deeds for lands pending subdivision surveys"", ""Repeal of inconsistent laws and regulations""]"	Act No. 496 (Land Registration Act) – Section 58 amended.	"[""Land Registration"", ""Government Sale Deeds"", ""Subdivision Surveys"", ""Philippines""]"	"[""Land Registration Act"", ""Government sale"", ""Subdivision survey"", ""loan securing"", ""Philippines law""]"
+repacts:datasets/markdown/repacts/1954/ra_1097_1954.md	repacts	1954		datasets/markdown/repacts/1954/ra_1097_1954.md	ra_1097_1954	An Act to Amend Certain Sections of Republic Act Numbered Seven Hundred Twenty, Otherwise Known as the Rural Banks Act	"**REPUBLIC ACT No. 1097**
+
+ **An Act to Amend Certain Sections of Republic Act Numbered Seven Hundred Twenty, Otherwise Known as the Rural Banks Act**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** Section four of Republic Act Numbered Seven hundred twenty, otherwise known as the Rural Banks Act, is hereby amended to read as follows:
+
+ > ""Sec. 4. No Rural Bank shall be operated without a Certificate of Authority of the Monetary Board of the Central Bank. Rural Banks shall be organized in the form of stock corporations. Duly established cooperatives may organize Rural Banks and/or subscribed to the shares of stock of any Rural Bank. At least sixty per cent of the capital stock of any Rural Bank shall be owned and held by citizens of the Philippines: *Provided,* *However*, That if said subscription of private shareholders to the capital stock of Rural Bank cannot be secured or is not available, the Rehabilitation Finance Corporation, on representation of the said private shareholders and upon approval of the Monetary Board of the Central Bank, shall subscribe to the capital stock of such rural bank, which shall be paid in full at the time of subscription, in an amount equal to the fully paid subscribed capital of the private shareholders: *Provided, further,* That such shares of stock subscribed by the Rehabilitation Finance Corporation may be sold at any time at par to private individuals who are citizens of the Philippines: *Provided, finally,* That in the sale of the shares of stock registered by the Rehabilitation Finance Corporation, the registered stockholders shall have the right or preemption within five years from the date of offer in proportion to their respective holdings, but in the absence of such buyer, preference, however, shall be given to residents of the locality of province where the Rural Bank is located. All members of the Board of Directors of the Rural Banks shall be citizens of the Philippines.""
+
+ **Section 2.** Section seven of the same Act is amended to read as follows:
+
+ > ""Sec. 7. To provide supplemental capital to any Rural Bank until it has accumulated enough capital of its own or stimulate private investments in Rural Banks, the Rehabilitation Finance Corporation shall, upon certification of the Monetary Board which shall be final, of the existence of such need, subscribe within thirty days to capital stock of any Rural Bank from time to time in an amount equal to but not exceeding the total equity investment of the private shareholders: *Provided,* *However*, That shares of stock issued to the Rehabilitation Finance Corporation, pursuant to this section, may at any time be paid off at par and retired in whole or in part if, in the opinion of the Monetary Board, the Rural Banks has accumulated enough capital strength to permit retirement of such shares; or if an offer is received from private sources, to replace the equity investments of the Rehabilitation Finance Corporation with an equivalent investment or more in the common stock or replacement of equity investments of the Rehabilitation Finance Corporation, the registered private shareholders of the Rural Bank shall have the right of preemption within five years from date of offer in proportion to their respective holdings.
+>
+>  ""Stock held by the Rehabilitation Finance Corporation, under the terms of this section, shall be made preferred only as to assets upon liquidation and without the power to vote and shall share in dividend distributions not exceeding two percent thereof without preference; *Provided,* *However,* That if such stock of the Rehabilitation Finance Corporation is sold to private shareholders, the same shall be converted into common stock of the class provided for in section nine.""
+
+ **Section 3.** Section twelve of the same Act is amended to read as follows:
+
+ > ""Sec. 12. The Rehabilitation Finance Corporation shall, within sixty days of certification of the Monetary Board, which shall be final, extend to a Rural Bank a loan or loans from time to time repayable in ten years, with interest at the rate of two per cent per annum, against security which may be offered by any stockholder or stockholders of the Rural Bank: *Provided*
+>
+>  ""(a) That the Monetary Board is convinced that the resources of the Rural Bank are inadequate to meet the legitimate credit requirements of the locality wherein the Rural Bank is established;
+>
+>  ""(b) That there is a dearth of private capital in the said locality; and
+>
+>  ""(c) That is not possible for the stockholders of the Rural Bank to increase the paid-up capital thereof.""
+
+ **Section 4.** Section fourteen of the same Act is amended to read as follows:
+
+ > ""Sec. 14. All Rural Banks created and organized under the provisions of this Act, with net assets not exceeding seven hundred thousand pesos, shall be exempt from the payment of all taxes, charges and fees of whatever nature and description.""
+
+ **Section 5.** Section sixteen of the same Act is amended to read as follows:
+
+ > ""Sec. 16. Any justice of the peace, in his capacity as notary ex-officio, shall administer the oath to or acknowledge the instruments of any Rural Bank and its borrowers or mortgagors, free from all charges, fees and documentary stamp tax, collectible under the existing laws, relative to any loan or transaction not exceeding two thousand pesos.""
+
+ **Section 6.** Section seventeen of the same Act is amended to read as follows:
+
+ > ""Sec. 17. Any register of deeds shall accept from any Rural Bank and its borrowers or mortgagors for registration, free from all charges, fees, and documentary stamp tax, collectible under existing laws, any instrument, whether voluntary or involuntary, relating to loans or transactions extended by a Rural Bank in an amount not exceeding two thousand pesos; *Provided,* *However*, That charges if any shall only be collectible on the amount in excess of two thousand pesos; and that in instruments related to assignments of several mortgages consolidated in a single deed, charges or fees, if any, shall be levied only on the amount in excess of two thousand pesos of the consideration in the assignment of each mortgage.""
+
+ **Section 7.** Section twenty-three of the same Act is amended to read as follows:
+
+ > ""Sec. 23. Any justice of the peace or register of deeds who shall demand or accept, directly or indirectly, any gift, fee, commission or other form of compensation in connection with the service or shall arbitrarily or without reasonable cause delay the acknowledgment or administration of oath or the registration of documents required to be performed by said justice of the peace as provided in section sixteen and by said register of deeds as provided in section seventeen of this Act, shall be punished by a fine of not more than one thousand pesos or by imprisonment for not more than one year, or both, at the discretion of the court.""
+
+ **Section 8.** Section twenty five of the same Act is amended to read as follows:
+
+ > ""Sec. 25. The Monetary Board of the Central Bank shall submit a report to the Congress as of the end of each calendar year of all the rules and regulations promulgated by it in accordance with the provisions of this Act, as well as its other actuations in connection with Rural Banks, together with an explanation of its reasons therefor.""
+
+ **Section 9.** This Act shall take effect upon its approval.
+
+ Approved: June 15, 1954.
+"	success	Act	Republic Act No. 1097 amends six sections of RA 720 to clarify requirements for rural bank operations, ownership, capital financing through the Rehabilitation Finance Corporation, loan terms, tax exemptions, and administrative duties of notaries and register of deeds.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 4 of RA 720 to require a Certificate of Authority, specify that rural banks be organized as stock corporations, mandate 60% Filipino ownership, and allow the Rehabilitation Finance Corporation to subscribe to shares when private shareholders cannot, with provisions for sale and preemption rights.""}, {""title"": ""Section 2"", ""summary"": ""Amends Section 7 of RA 720 to enable the Rehabilitation Finance Corporation to provide supplemental capital to rural banks, with limits on subscription amounts, preemption rights for private shareholders, and conditions for retirement or conversion of its shares.""}, {""title"": ""Section 3"", ""summary"": ""Amends Section 12 of RA 720 to allow the Rehabilitation Finance Corporation to extend loans to rural banks with specified terms, subject to the Monetary Board\u2019s certification of need and resource adequacy.""}, {""title"": ""Section 4"", ""summary"": ""Amends Section 14 of RA 720 to exempt rural banks with net assets not exceeding 700,000 pesos from all taxes, charges, and fees.""}, {""title"": ""Section 5"", ""summary"": ""Amends Section 16 of RA 720 to grant justice of the peace, as notary ex\u2011officio, the authority to administer oaths and acknowledge instruments for rural banks and borrowers free from charges and documentary stamp tax on loans not exceeding 2,000 pesos.""}, {""title"": ""Section 6"", ""summary"": ""Amends Section 17 of RA 720 to allow register of deeds to accept instruments related to rural bank loans not exceeding 2,000 pesos free from charges and documentary stamp tax, with charges limited to amounts exceeding 2,000 pesos.""}]"	1097				To modernize and streamline the operation, financing, and regulatory compliance of rural banks under the Rural Banks Act, ensuring adequate capital, tax incentives, and administrative facilitation.	"[""Amends RA 720 Section 4 to require Certificate of Authority and Filipino ownership"", ""Provides for Rehabilitation Finance Corporation subscription and preemption rights"", ""Allows supplemental capital subscription under Section 7"", ""Extends loans with specified terms under Section 12"", ""Exempts small rural banks from taxes under Section 14"", ""Free of charges for notary and register of deeds under Sections 16 and 17""]"	Republic Act No. 720 (Rural Banks Act)	"[""Rural Banks"", ""Amendment"", ""Finance"", ""Philippines""]"	"[""Rural Bank"", ""Rehabilitation Finance Corporation"", ""Monetary Board"", ""Capital stock"", ""Shareholders"", ""Tax exemption"", ""Notary"", ""Register of deeds""]"
+repacts:datasets/markdown/repacts/1954/ra_1098_1954.md	repacts	1954		datasets/markdown/repacts/1954/ra_1098_1954.md	ra_1098_1954	An Act Appropriating the Sum of One Million Pesos as Working Capital of the Prison Industries and Salvage Warehouse Revolving Fund, and Providing for its Annual Amortization Within the Period of Ten Years	"**REPUBLIC ACT No. 1098**
+
+ **An Act Appropriating the Sum of One Million Pesos as Working Capital of the Prison Industries and Salvage Warehouse Revolving Fund, and Providing for its Annual Amortization Within the Period of Ten Years**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sum of one million pesos is hereby appropriated out of any funds in the National Treasury not otherwise appropriated as working capital of the Prison Industries and Salvage Warehouse Revolving Fund. Any cash overdraft of the said Revolving Fund which may be found existing and certified to as correct by the Auditor General upon approval of this Act, shall be considered as advanced from the general fund.
+
+ **Section 2.** The working capital herein provided for may be released by the Auditor General to the Bureau of Prisons in one lump sum upon certification of the Commissioner of the Budget as to the necessity thereof.
+
+ **Section 3.** The working capital herein appropriated as well as the cash overdraft shall be repaid to the National Treasury by the Prison Industries and Salvage Warehouse Revolving fund during a period of ten years beginning with the fiscal year 1955-1956 on the annual amortization basis.
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 15, 1954.
+"	success	Appropriations Act	Appropriates 1 million pesos for working capital of Prison Industries and Salvage Warehouse Revolving Fund, with provisions for repayment over ten years.	"[{""title"": ""Section 1."", ""summary"": ""Appropriates 1 million pesos from the National Treasury as working capital for the Prison Industries and Salvage Warehouse Revolving Fund; any cash overdraft is considered advanced from the general fund.""}, {""title"": ""Section 2."", ""summary"": ""The working capital may be released by the Auditor General to the Bureau of Prisons in a lump sum upon certification of the Commissioner of the Budget.""}, {""title"": ""Section 3."", ""summary"": ""The working capital and cash overdraft shall be repaid to the National Treasury over a period of ten years, beginning with the fiscal year 1955-1956, on an annual amortization basis.""}, {""title"": ""Section 4."", ""summary"": ""The Act shall take effect upon its approval.""}]"	Republic Act No. 1098	June 15, 1954			To provide working capital for prison industries and salvage warehouse operations and establish a repayment schedule over ten years.	"[""Appropriates 1 million pesos as working capital"", ""Cash overdraft considered advanced from the general fund"", ""Repayment over ten years starting fiscal year 1955-1956"", ""Funds released upon certification by the Auditor General""]"		"[""appropriation"", ""prison industries"", ""salvage warehouse"", ""revolving fund"", ""national treasury""]"	"[""prison"", ""industries"", ""salvage"", ""warehouse"", ""fund"", ""appropriation"", ""repayment"", ""amortization"", ""auditor general"", ""bureau of prisons""]"
+repacts:datasets/markdown/repacts/1954/ra_1099_1954.md	repacts	1954		datasets/markdown/repacts/1954/ra_1099_1954.md	ra_1099_1954	An Act Authorizing the Municipality of Romblon in the Province of Romblon to Reclaim a Portion of its Foreshore Bordering Romblon Bay and Vesting Title Thereto in the Said Municipality	"**REPUBLIC ACT No. 1099**
+
+ **An Act Authorizing the Municipality of Romblon in the Province of Romblon to Reclaim a Portion of its Foreshore Bordering Romblon Bay and Vesting Title Thereto in the Said Municipality**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The municipality of Romblon in the Province of Romblon is hereby authorized to reclaim a portion not exceeding five hectares of its foreshore bordering Romblon Bay. After reclamation, title to the area reclaimed shall vest in the said municipality and, thereafter, the said municipality shall subdivide said reclaimed area into lots or blocks of suitable size for the purpose of constructing public improvements thereon, and the lots or blocks not needed for public purposes may be leased by it for commercial or industrial purposes or for the purpose of providing homesites for its inhabitants: *Provided,* That the new foreshore along the reclaimed lands shall continue to be property of the National Government.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 15, 1954.
+"	success	Republic Act	Authorizes the municipality of Romblon to reclaim up to five hectares of its foreshore bordering Romblon Bay, vesting the title in the municipality while the new foreshore remains national property.	"[{""title"": ""Section 1."", ""summary"": ""Authorizes Romblon municipality to reclaim up to five hectares of foreshore, vest title in the municipality, and allows subdivision for public improvements or leasing of remaining lots, with the new foreshore remaining national property.""}, {""title"": ""Section 2."", ""summary"": ""The Act takes effect upon its approval.""}]"	1099	June 15, 1954			To authorize reclamation of foreshore for public use and infrastructure development in Romblon.	"[""Reclaim up to five hectares of foreshore."", ""Title vested in the municipality of Romblon."", ""New foreshore remains property of the National Government."", ""Subdivision of reclaimed area for public improvements or leasing."", ""Act takes effect upon approval.""]"		"[""Reclamation"", ""Foreshore"", ""Municipality"", ""Romblon"", ""Public Improvements""]"	"[""foreshore"", ""reclamation"", ""Romblon"", ""public improvements"", ""National Government"", ""municipality""]"
+repacts:datasets/markdown/repacts/1954/ra_1100_1954.md	repacts	1954		datasets/markdown/repacts/1954/ra_1100_1954.md	ra_1100_1954	An Act to Convert the Sitio of Hinangayon, Mogpog, Marinduque, into a Barrio to be Known as the Barrio of Hinangayon	"**REPUBLIC ACT No. 1100**
+
+ **An Act to Convert the Sitio of Hinangayon, Mogpog, Marinduque, into a Barrio to be Known as the Barrio of Hinangayon**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Hinangayon, barrio of Argao, municipality of Mogpog, Province of Marinduque, is hereby converted into a barrio to be known as the barrio of Hinangayon.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 15, 1954.
+"	success	Republic Act	Converts the sitio of Hinangayon into a barrio.	"[{""title"": ""Section 1."", ""summary"": ""The sitio of Hinangayon, barrio of Argao, municipality of Mogpog, Province of Marinduque, is hereby converted into a barrio to be known as the barrio of Hinangayon.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	1100	June 15, 1954			To convert the sitio of Hinangayon into a barrio.	"[""Conversion of the sitio of Hinangayon into a barrio"", ""Effectivity upon approval""]"		"[""Local Government"", ""Barangay"", ""Conversion"", ""Marinduque""]"	"[""Hinangayon"", ""Mogpog"", ""Marinduque"", ""barrio"", ""sitio""]"

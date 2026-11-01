@@ -1,0 +1,186 @@
+
+ **Section 2.***Repealing Clause*.- All laws, executive orders, regulations, or parts thereof, inconsistent with the provisions of this Act, are hereby repealed or modified accordingly.
+
+ **Section 3.***Effectivity* Clause. - This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation in the Philippines.
+
+ Approved, Lapsed into law on January 17, 1994 without the President's signature, pursuant to Sec. 27(1), Article VI of the Constitution.
+"	success	Republic Act	An act amending Section 9 of Republic Act No. 7617 to restrict sale, lease, transfer, or assignment of the franchise, requiring congressional approval, with certain exceptions.	"[{""title"": ""Section 1"", ""summary"": ""Amends Section 9 of RA 7617 to impose restrictions on sale, lease, transfer, usufruct, etc., of the franchise, requiring congressional approval, with specified exceptions for share transfers and foreign investors.""}, {""title"": ""Section 2"", ""summary"": ""Repealing clause that repeals or modifies laws inconsistent with this Act.""}, {""title"": ""Section 3"", ""summary"": ""Effectivity clause stating the Act takes effect fifteen days after publication in two newspapers.""}]"	7674	January 17, 1994			To amend RA 7617 Section 9 regarding franchise transferability and related restrictions.	"[""Restriction on sale, lease, transfer, or assignment of franchise without congressional approval"", ""Exceptions for share transfers to foreign investors and capital increases"", ""Repeal of inconsistent laws"", ""Effectivity after 15 days of publication""]"	Section 9 of Republic Act No. 7617	"[""telecommunications"", ""franchise"", ""law"", ""congress""]"	"[""sale"", ""lease"", ""transfer"", ""usufruct"", ""foreign investor"", ""capital stock"", ""congress approval"", ""repealing clause"", ""effectivity""]"
+repacts:datasets/markdown/repacts/1994/ra_7675_1994.md	repacts	1994		datasets/markdown/repacts/1994/ra_7675_1994.md	ra_7675_1994	AN ACT CONVERTING THE MUNICIPALITY OF MANDALUYONG INTO A HIGHLY URBANIZED CITY TO BE KNOWN AS THE CITY OF MANDALUYONG	"Republic of the Philippines Congress of the Philippines Second Regular Session
+
+ **[ REPUBLIC ACT NO. 7675, February 09, 1994 ]**
+
+ AN ACT CONVERTING THE MUNICIPALITY OF MANDALUYONG INTO A HIGHLY URBANIZED CITY TO BE KNOWN AS THE CITY OF MANDALUYONG
+
+ Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+
+ Article I. General Provisions
+
+ **Section 1.***Title*. This Act shall be known as the Charter of the City of Mandaluyong.
+
+ **Section 2.***The City of Mandaluyong.* The Municipality of Mandaluyong shall be converted into a highly urbanized city to be known as the City of Mandaluyong, hereinafter referred to as the City, which shall comprise the present territory of the Municipality of Mandaluyong in metropolitan area.
+
+ **Section 3.***Corporate Powers of the City.* The City constitutes a political body corporate and as such is endowed with the attribute of perpetual succession and possessed of the powers which pertain to a municipal corporation, to be exercised in conformity with the provisions of this Charter. The City shall have the following corporate powers:
+
+ > (1) To have a continuous succession in its corporate name;
+>
+>  (2) To sue and be sued;
+>
+>  (3) To have and use a corporate seal;
+>
+>  (4) To acquire and convey real or personal property;
+>
+>  (5) To enter into contracts; and
+>
+>  (6) To exercise such other powers as are granted to corporations, subject to the limitations provided in this Act and other laws.
+
+ **Section 4.***General Powers of the City.* The City shall have a common seal, and may alter the same at pleasure. It shall exercise the powers to levy taxes and close roads, streets, alleys, parks or squares. It may take, purchase, receive, hold, lease, convey, and dispose of real and personal property for the general interest of the City, condemn private property for public use, contract and be contracted with, sue and be sued, prosecute and defend to final judgment and execution suits wherein said City is a party, and exercise all the powers as are granted to corporations and/or hereinafter conferred.
+
+ **Section 5.***Liability for Damages.* The City and its officials shall not be exempt from liability for death or injury to persons or damage to property.
+
+ **Section 6.***Jurisdiction of the City.* The jurisdiction of the City of Mandaluyong, for police purposes only, shall be co-extensive with its territorial jurisdiction, and for the purpose of protecting and insuring the purity of the water supply of the City, such police jurisdiction shall also extend over all territory within the drainage area of such water supply, or within one hundred meters (100 m.) of any reservoir, conduit, canal, aqueduct or pumping station used in connection with the city water service. The city court of the City shall have concurrent jurisdiction with the city or municipal court of the adjoining municipalities or cities, to try crimes and misdemeanors committed within said drainage area, or within said spaces of one hundred meters (100 m.). The court first taking cognizance of such an offense shall have jurisdiction to try said cases to the exclusion of others. The police forces of the several municipalities and cities concerned shall have concurrent jurisdiction with the police force of the City for the maintenance of good order and the enforcement of ordinances throughout said zone, area and spaces. But any license that may be issued within said zone, area or spaces shall be granted by the proper authorities of the city or municipality concerned, and the fees arising therefrom shall accrue to the treasury of the said city or municipality concerned and not to the City.
+
+ ARTICLE II. *CITY OFFICIALS IN GENERAL*
+
+ **Section 7.***The Officials of the City of Mandaluyong.* (a) There shall be in the City of Mandaluyong a city mayor, a vice mayor, sangguniang panlungsod members, a secretary to the sangguniang panlungsod, a city treasurer and an assistant city treasurer, a city assessor and an assistant city assessor, a city accountant, a city budget officer, a city planning and development coordinator, a city engineer, a city health officer, a city civil registrar, a city administrator, a city legal officer, a city veterinarian, a city social welfare and social development officer, and a city general services officer.
+
+ > (b) In addition thereto, the city mayor may appoint a city architect, a city information officer, a city population officer, a city environment and natural resources officer, and a city cooperatives officer.
+>
+>  (c) The City of Mandaluyong may:
+>
+>  > (1) Maintain existing offices not mentioned in subsections (a) and (b) hereof;
+> >
+> >  (2) Create such other offices as may be necessary to carry out the purposes of the City; or
+> >
+> >  (3) Consolidate the functions of any office with those of another in the interest of efficiency and economy;
+>
+>  (d) Unless otherwise provided herein, all appointive city officials of the City shall be appointed by the city mayor with the concurrence of the majority of all the sangguniang panlungsod members, subject to civil service law, rules and regulations. The sangguniang panlungsod shall act on the appointment within fifteen (15) days from the date of its submission, otherwise the same shall be deemed confirmed.
+
+ ARTICLE III. *THE CITY MAYOR AND VICE MAYOR*
+
+ **Section 8.***The City Mayor.* (a) The city mayor shall be the chief executive of the City. He shall be elected at large by the qualified voters of the City. No person shall be eligible for the position of the city mayor unless at the time of the election he is at least twenty-three (23) years of age, an actual resident of the City for at least one (1) year prior to his election, and a qualified voter therein. He shall hold office for three (3) years, unless sooner removed, and shall receive a minimum monthly compensation corresponding to Salary Grade thirty (30) as prescribed under Republic Act No. 6758 and the implementing guidelines issued pursuant thereto.
+
+ > (b) The city mayor, as the chief executive of the city government, shall exercise such powers and perform such duties and functions as provided herein:
+>
+>  > (1) Exercise those powers expressly granted to him by law, those necessarily implied therefrom, as well as powers necessary, appropriate, or incidental for the efficient and effective governance of the City, and those which are essential to the promotion of general welfare;
+> >
+> >  > (aa) Determine the guidelines of city policies and be responsible to the sangguniang panlungsod for the program of government;
+> > >
+> > >  (bb) Direct the formulation of the city development plan, with the assistance of the city development council and, upon approval thereof by the sangguniang panlungsod, implement the same;
+> > >
+> > >  (cc) Present the program of government and propose policies and projects for the consideration of the sangguniang panlungsod at the opening of the regular session of the sangguniang panlungsod every calendar year and as often as may be deemed necessary as the general welfare of the inhabitants and the needs of the city government may require;
+> > >
+> > >  (dd) Initiate and propose legislative measures to the sangguniang panlungsod and as often as may be deemed necessary, provide such information and data needed or requested by said sanggunian in the performance of its legislative functions;
+> > >
+> > >  (ee) Appoint all officials and employees whose salaries and wages are wholly or mainly paid out of city funds and whose appointments are not otherwise provided for in this Act, as well as those he may be authorized by law to appoint;
+> > >
+> > >  (ff) Represent the City in all its business transactions and sign in its behalf all bonds, contracts, and obligations, and such other documents upon authority of the sangguniang panlungsod or pursuant to law or ordinance;
+> > >
+> > >  (gg) Carry out such emergency measures as may be necessary during and in the aftermath of man-made and natural disasters and calamities;
+> > >
+> > >  (hh) Determine the time, manner and place of payment of salaries or wages of the officials and employees of the City, in accordance with law or ordinance;
+> > >
+> > >  (ii) Allocate and assign office space to city and other officials and employees who, by law or ordinance, are entitled to such space in the city hall and other buildings owned or leased by the city government;
+> > >
+> > >  (jj) Ensure that all executive officials and employees of the City faithfully discharge their duties and functions as provided by law and this Act, and cause to be instituted administrative or judicial proceedings against any official or employee of the City who may have committed an offense in the performance of his official duties;
+> > >
+> > >  (kk) Examine the books, records and other documents of all offices, officials, agents or employees of the City and, in aid of his executive powers and authority, require all national officials and employees stationed in or assigned to the City to make available to him such books, records, and other documents in their custody, except those classified by law as confidential;
+> > >
+> > >  (ll) Furnish copies of executive orders issued by him to the respective council chairmen within seventy-two (72) hours after their issuance;
+> > >
+> > >  (mm) Visit component barangays of the City at least once every six (6) months to deepen his understanding of problems and conditions, listen and give appropriate counsel to local officials and inhabitants of general laws and ordinances which especially concern them, and otherwise conduct visits and inspections to ensure that the governance of the City will improve the quality of life of the inhabitants;
+> > >
+> > >  (nn) Act on leave applications of officials and employees appointed by him and the commutation of the monetary value of their leave credits in accordance with law;
+> > >
+> > >  (oo) Authorize official trips of city officials and employees outside of the City for a period not exceeding thirty (30) days;
+> > >
+> > >  (pp) Call upon any national official or employee stationed in or assigned to the City to advise him on matters affecting the City and to make recommendations thereon; coordinate with said official or employee in the formulation and implementation of plans, programs and projects; and, when appropriate, initiate any administrative or judicial action against a national government official or employee who may have committed an offense in the performance of his official duties while stationed in or assigned to the City;
+> > >
+> > >  (qq) Authorize payment for medical care, necessary transportation, subsistence, hospital or medical fees of city officials and employees who are injured while in the performance of their official duties and functions, subject to availability of funds;
+> > >
+> > >  (rr) Solemnize marriages, any provision of law to the contrary notwithstanding;
+> > >
+> > >  (ss) Conduct an annual palarong panlungsod, which shall feature traditional sports and disciplines included in national and international games, in coordination with the Department of Education, Culture and Sports; and
+> > >
+> > >  (tt) Submit to the respective metropolitan authority council chairmen and to the Office of the President the following reports: an annual report containing a summary of all matters pertinent to the management, administration and development of the City and all information and data relative to its political, social and economic conditions; and supplemental reports when unexpected events and situations arise at any time during the year, particularly when man-made or natural disasters or calamities affect the general welfare of the City.
+>
+>  > (2) Enforce all laws and ordinances relative to the governance of the City and in the exercise of its appropriate corporate powers, as well as implement all approved policies, programs, projects, services and activities of the City;
+> >
+> >  > (aa) Ensure that the acts of the City's component barangays and of its officials and employees are within the scope of their prescribed powers, duties and functions;
+> > >
+> > >  (bb) Call conventions, conferences, seminars, or meetings of elective and appointive officials of the City, including national officials and employees stationed in or assigned to the City, at such time and place and on such subject as he may deem important for the promotion of the general welfare of the local government unit and its inhabitants;
+> > >
+> > >  (cc) Issue such executive orders for the faithful and appropriate enforcement and execution of laws and ordinances;
+> > >
+> > >  (dd) Be entitled to carry the necessary firearm within his territorial jurisdiction;
+> > >
+> > >  (ee) Act as the deputized representative of the National Police Commission, formulate the peace and order plan of the City and upon its approval, implement the same; and as such, exercise general and operational control and supervision over the local police forces in the City, in accordance with Republic Act No. 6975; and
+> > >
+> > >  (ff) Call upon the appropriate law enforcement agencies to suppress disorder, riot, lawless violence, rebellion or sedition, or to apprehend violators of the law when public interest so requires and the city police forces are inadequate to cope with the situation or the violators;
+> >
+> >  (3) Initiate and maximize the generation of resources and revenues, and apply the same to the implementation of development plans, programs, objectives and priorities, particularly those resources and revenues programmed for agro-industrial development and countryside growth and progress;
+> >
+> >  > (aa) Require each head of an office or department to prepare and submit an estimate of appropriations for the ensuing calendar year, in accordance with the budget preparation process in accordance with the provisions of the Local Government Code;
+> > >
+> > >  (bb) Prepare and submit to the sanggunian for approval the executive and supplemental budgets of the City for the ensuing calendar year in the manner provided for under the Local Government Code;
+> > >
+> > >  (cc) Ensure that all taxes and other revenues of the City are collected, and that city funds are applied to the payment of expenses and settlement of obligations of the City, in accordance with law or ordinance;
+> > >
+> > >  (dd) Issue licenses and permits and suspend or revoke the same for any violation of the conditions upon which said licenses or permits had been issued, pursuant to law or ordinance;
+> > >
+> > >  (ee) Issue permits, without need of approval therefor from any national agency, for the holding of activities for any charitable or welfare purpose, excluding prohibited games of chance or shows contrary to law, public policy and public morals;
+> > >
+> > >  (ff) Require owners of illegally constructed houses, buildings or other structures to obtain the necessary permit, subject to such fines and penalties as may be imposed by law or ordinance, or to make necessary changes in the construction of the same when said construction violates any law or ordinance, or to order the demolition or removal of said house, building or structure within the period prescribed by law or ordinance.
+> > >
+> > >  (gg) Adopt adequate measures to safeguard and conserve land, mineral, and other resources of the City;
+> > >
+> > >  (hh) Provide efficient and effective property and supply management in the City; and protect the funds, credits, rights and other properties of the City; and
+> > >
+> > >  (ii) Institute or cause to be instituted administrative or judicial proceedings for violation of ordinances in the collection of taxes, fees or charges, and for the recovery of funds and property; and cause the City to be defended against all suits to ensure that its interests, resources and rights shall be adequately protected;
+> >
+> >  (4) Ensure the delivery of basic services and the provision of adequate facilities and, in addition thereto:
+> >
+> >  > (aa) Ensure that the construction and repair of roads and highways funded by the national government shall be, as far as practicable, carried out in a spatially contiguous manner and in coordination with the construction and repair of the roads and bridges of the City; and
+> > >
+> > >  (bb) Coordinate the implementation of technical services, including public works and infrastructure programs, rendered by national offices.
+> >
+> >  (5) Perform such other duties and functions and exercise such other powers, as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991, and those that are prescribed by law or ordinance.
+
+ **Section 9.***The City Vice Mayor.*- (a) There shall be a vice mayor who shall be elected in the same manner as the city mayor and shall, at the time of his election, possess the same qualifications as the city mayor. He shall hold office for three (3) years, unless sooner removed, and shall receive a monthly compensation corresponding to Salary Grade twenty-eight (28) as prescribed under Republic Act No. 6758 and the implementing guidelines issued pursuant thereto.
+
+ > (b) The vice mayor shall:
+>
+>  > (1) Act as presiding officer of the sangguniang panlungsod and sign all warrants drawn on the city treasury for all expenditures appropriated for the operation of the sangguniang panlungsod;
+> >
+> >  (2) Subject to civil service law, rules and regulations, appoint all officials and employees of the sangguniang panlungsod, except those whose manner of appointment is specifically provided for under existing laws;
+> >
+> >  (3) Assume the office of the city mayor for the unexpired term of the latter in the event of permanent vacancy;
+> >
+> >  (4) Exercise the powers and perform the duties and functions of the city mayor in cases of temporary vacancy; and
+> >
+> >  (5) Perform such other duties and functions and exercise such other powers as provided for under Republic Act No. 7160, otherwise known as the Local Government Code of 1991 and those that are prescribed by law or ordinance.
+
+ ARTICLE IV. *THE SANGGUNIANG PANLUNGSOD*
+
+ **Section 10.***The Sangguniang Panlungsod.* (a) The sangguniang panlungsod, the legislative body of the City, shall be composed of the city vice mayor as presiding officer, the regular sanggunian members, the president of the city chapter of the liga ng mga barangay, the president of the panlungsod na pederasyon ng mga sangguniang kabataan, and the sectoral representatives, as members.
+
+ > (b) In addition thereto, there shall be three (3) sectoral representatives: one (1) from the women; and, as shall be determined by the sangguniang panlungsod within ninety (90) days prior to the holding of the local elections, one (1) from the agricultural or industrial workers; and one (1) from the other sectors, including the urban poor, indigenous cultural communities, or disabled persons.
+>
+>  (c) The regular members of the sangguniang panlungsod and the sectoral representatives shall be elected in the manner as may be provided for by law. The elective members of the sangguniang panlungsod shall possess the same qualifications as that of the city mayor and vice mayor.
+>
+>  (d) They shall receive such compensation, emoluments and allowances as may be determined by law.
+>
+>  (e) The sangguniang panlungsod shall:
+>
+>  > (1) Approve ordinances and pass resolutions necessary for an efficient and effective city government and, in this connection, shall:
+> >
+> >  > (aa) Review all ordinances approved by the sangguniang barangay and executive orders issued by the punong barangay to determine whether these are within the scope of the prescribed powers of the sanggunian and of the punong barangay;
+> > >
+> > >  (bb) Maintain peace and order by enacting measures to prevent and suppress lawlessness, disorder, riot, violence, rebellion or sedition and impose penalties for the violation of said ordinances;
+> > >
+> > >  (cc) Approve ordinances imposing a fine not exceeding Five thousand pesos (P5,000) or an imprisonment for a period not exceeding one (1) year, or both at the discretion of the court, for the violation of a city ordinance;
+> > >
+> > >  (dd) Adopt measures to protect the inhabitants of the City from the harmful effects of man-made or natural disasters and calamities, and to provide relief services and assistance for victims during and in the aftermath of said disasters or calamities and in their return to productive livelihood following said events;
+> > >
+> > >  (ee) Enact ordinances intended to prevent, suppress and impose appropriate penalties for habitual drunkenness in public places, vagrancy, mendicancy, prostitution, establishment and maintenance of houses of ill repute, gambling and other prohibited games of chance, fraudulent devices and ways to obtain money or property, drug addiction, maintenance of drug dens, drug pushing, juvenile delinquency, the printing, distribution or exhibition of obscene or pornographic materials or publications, and such other activities inimical to the welfare and morals of the inhabitants of the City;
+> > >
+> > >  (ff) Protect the environment and impose appropriate penalties for acts which endanger the environment and such other activities which result in pollution, acceleration or eutrophication of creeks and rivers or of ecological imbalance;

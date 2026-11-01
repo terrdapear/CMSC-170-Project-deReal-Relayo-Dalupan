@@ -1,0 +1,152 @@
+
+ **Section 4.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act establishes new barrios in several municipalities of Iloilo Province by separating specific sitios from existing barrios, thereby creating distinct administrative units and designating a new municipal seat in Buenavista.	"[{""title"": ""Section 1"", ""summary"": ""Separates a list of sitios from various barrios in Nueva Valencia to form new barrios: Napandong, San Roque, Lanipe, San Antonio, Santo Domingo, and Canhawan.""}, {""title"": ""Section 2"", ""summary"": ""Separates a list of sitios in Buenavista to form new barrios: San Isidro, Agsanayan, Magsaysay, Gaban, M. Chavez, and designates Calingao as the New Poblacion and municipal seat.""}, {""title"": ""Section 3"", ""summary"": ""Converts the sitio of Ilong-Buquid in Barotac Viejo into a barrio.""}, {""title"": ""Section 4"", ""summary"": ""States that the act shall take effect upon its approval.""}]"	2589	June 21, 1959			To reorganize local administrative boundaries by creating new barrios, thereby improving governance and representation in the province of Iloilo.	"[""Creation of new barrios Napandong, San Roque, Lanipe, San Antonio, Santo Domingo, and Canhawan in Nueva Valencia."", ""Creation of new barrios San Isidro, Agsanayan, Magsaysay, Gaban, M. Chavez in Buenavista."", ""Designation of Calingao as the New Poblacion and municipal seat of Buenavista."", ""Conversion of Ilong-Buquid into a barrio in Barotac Viejo."", ""Act takes effect upon approval.""]"		"[""Barrios"", ""Iloilo"", ""Local Government"", ""Municipalities"", ""Republic Act""]"	"[""barrios"", ""sitios"", ""municipalities"", ""Iloilo"", ""local government"", ""administrative division""]"
+repacts:datasets/markdown/repacts/1959/ra_2590_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2590_1959.md	ra_2590_1959	An Act Creating Certain Barrios in the Province of Batangas	"**REPUBLIC ACT No. 2590**
+
+ **An Act Creating Certain Barrios in the Province of Batangas**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Cumba in the barrio of Conde Itaas and the sitio of Maulabi in the barrio of San Miguel, both in the Municipality of Batangas, Province of Batangas, are separated from said barrios, and are constituted into a distinct and independent barrio of said municipality to be known as the barrio of Cumba.
+
+ **Section 2.** The sitio of Guinhawa in the barrio of Pinagbayanan, Municipality of Taysan, same province, is separated from said barrio, and constituted into a distinct and independent barrio of said municipality to be known as the barrio of Guinhawa.
+
+ **Section 3.** The sitio of Kaingin in the barrio of Natunuan, Municipality of Bauan, same province, is converted into a barrio of said municipality to be known as the barrio of Kaingin.
+
+ **Section 4.** The sitio of Kalii in the Municipality of Talisay, same province, is converted into a barrio of said municipality to be known as the barrio of Asis.
+
+ **Section 5.** The sitio of Kalii in the Municipality of Talisay, same province, is converted into a barrio of said municipality to be known as the barrio of Miranda.
+
+ **Section 6.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	The act establishes new barrios by separating specified sitios from existing barrios in the province of Batangas, thereby expanding local administrative units.	"[{""title"": ""Section 1"", ""summary"": ""Separates the sitio of Cumba in the barrio of Conde Itaas and the sitio of Maulabi in the barrio of San Miguel, both in the Municipality of Batangas, forming the independent barrio of Cumba.""}, {""title"": ""Section 2"", ""summary"": ""Separates the sitio of Guinhawa in the barrio of Pinagbayanan, Municipality of Taysan, forming the independent barrio of Guinhawa.""}, {""title"": ""Section 3"", ""summary"": ""Converts the sitio of Kaingin in the barrio of Natunuan, Municipality of Bauan, into the independent barrio of Kaingin.""}, {""title"": ""Section 4"", ""summary"": ""Converts the sitio of Kalii in the Municipality of Talisay into the independent barrio of Asis.""}, {""title"": ""Section 5"", ""summary"": ""Converts the sitio of Kalii in the Municipality of Talisay into the independent barrio of Miranda.""}, {""title"": ""Section 6"", ""summary"": ""States that the act shall take effect upon approval.""}]"	2590	June 21, 1959			To create new barrios in Batangas by separating sitios from existing barrios, thereby reorganizing local administrative boundaries.	"[""Creation of barrio of Cumba"", ""Creation of barrio of Guinhawa"", ""Creation of barrio of Kaingin"", ""Creation of barrio of Asis"", ""Creation of barrio of Miranda""]"		"[""Barrios"", ""Batangas"", ""Local Government"", ""Republic Act 2590""]"	"[""Cumba"", ""Guinhawa"", ""Kaingin"", ""Asis"", ""Miranda"", ""sitio"", ""barrio"", ""Batangas"", ""province""]"
+repacts:datasets/markdown/repacts/1959/ra_2591_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2591_1959.md	ra_2591_1959	An Act Creating Barrios in Certain Municipalities of the Province of Samar	"**REPUBLIC ACT No. 2591**
+
+ **An Act Creating Barrios in Certain Municipalities of the Province of Samar**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Babanikhon and Julag in the Municipality of Llorente, Province of Samar, are converted into barrios of said municipality to be known as the barrios of Babanikon and Julag, respectively.
+
+ **Section 2.** The sitio of Cantenio in the Municipality of Quinapundan, same province, is converted into a barrio of said municipality to be known as the barrio of Cantenio.
+
+ **Section 3.** The sitios of Potong, Casoroy and Bonacan in the Municipality of San Julian, same province, are converted into barrios of said municipality to be known as the barrio of Potong, Casoroy and Bonacan, respectively.
+
+ **Section 4.** The sitios of Garawon and San Isidro in the Municipality of Hernani, same province, are converted into barrios of said municipality to be known as the barrios of Garawon and San Isidro, respectively.
+
+ **Section 5.** The sitios of Bacjao, Cansomangcay, Guinmaayohan, Santa Rosa, Guinob-an and Bita-ug in the Municipality of Balangiga, same province, are converted into barrios of said municipality to be known as the barrios of Bacjao, Candomangcay, Guinma-ayohan, Santa Rosa, Guinob-an and Bita-ug, respectively.
+
+ **Section 6.** The sitios of Dacul, Burak, Gayam, Mapunod, Betoc, Papuahanand Guinto-inan in the Municipality of Taft, same province, are converted into barrios of said municipality to be known as the barrios of Dacul, Burak, Gayam, Mapunod, Betoc, Papuahan and Guinto-inan, respectively.
+
+ **Section 7.** The sitios of Son-og, Canyomanao, Tarusan, Cabagngan, Magsaysay and Pinantao in the Municipality of Laoang, same province, are converted into barrios of said municipality to be known as the barrios of Son-og, Canyomanao, Tarusan, Cabagngan, Magsaysay and Pinantao, respectively.
+
+ **Section 8.** The sitios of Cag-olango and Pinayagan in the Municipality of Allen, same province, are constituted into a barrio in the said municipality to be known as the barrio of San Miguel.
+
+ **Section 9.** The sitios of Borac and Caranas in the Municipality of Mondragon, same province, are converted into barrios of said municipality to be known as the barrios of San Antonio and San Isidro, respectively.
+
+ **Section 10.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This Act creates barrios in various municipalities of Samar by converting specified sitios into barrios.	"[{""title"": ""Section 1."", ""summary"": ""The sitios of Babanikhon and Julag in the Municipality of Llorente, Province of Samar, are converted into barrios of said municipality to be known as the barrios of Babanikon and Julag, respectively.""}, {""title"": ""Section 2."", ""summary"": ""The sitio of Cantenio in the Municipality of Quinapundan, same province, is converted into a barrio of said municipality to be known as the barrio of Cantenio.""}, {""title"": ""Section 3."", ""summary"": ""The sitios of Potong, Casoroy and Bonacan in the Municipality of San Julian, same province, are converted into barrios of said municipality to be known as the barrio of Potong, Casoroy and Bonacan, respectively.""}, {""title"": ""Section 4."", ""summary"": ""The sitios of Garawon and San Isidro in the Municipality of Hernani, same province, are converted into barrios of said municipality to be known as the barrios of Garawon and San Isidro, respectively.""}, {""title"": ""Section 5."", ""summary"": ""The sitios of Bacjao, Cansomangcay, Guinmaayohan, Santa Rosa, Guinob-an and Bita-ug in the Municipality of Balangiga, same province, are converted into barrios of said municipality to be known as the barrios of Bacjao, Candomangcay, Guinma-ayohan, Santa Rosa, Guinob-an and Bita-ug, respectively.""}, {""title"": ""Section 6."", ""summary"": ""The sitios of Dacul, Burak, Gayam, Mapunod, Betoc, Papuahanand Guinto-inan in the Municipality of Taft, same province, are converted into barrios of said municipality to be known as the barrios of Dacul, Burak, Gayam, Mapunod, Betoc, Papuahan and Guinto-inan, respectively.""}, {""title"": ""Section 7."", ""summary"": ""The sitios of Son-og, Canyomanao, Tarusan, Cabagngan, Magsaysay and Pinantao in the Municipality of Laoang, same province, are converted into barrios of said municipality to be known as the barrios of Son-og, Canyomanao, Tarusan, Cabagngan, Magsaysay and Pinantao, respectively.""}, {""title"": ""Section 8."", ""summary"": ""The sitios of Cag-olango and Pinayagan in the Municipality of Allen, same province, are constituted into a barrio in the said municipality to be known as the barrio of San Miguel.""}, {""title"": ""Section 9."", ""summary"": ""The sitios of Borac and Caranas in the Municipality of Mondragon, same province, are converted into barrios of said municipality to be known as the barrios of San Antonio and San Isidro, respectively.""}, {""title"": ""Section 10."", ""summary"": ""This Act shall take effect upon its approval.""}]"	RA 2591	June 21, 1959			To convert specified sitios into barrios in Samar municipalities.	"[""Conversion of specified sitios into barrios."", ""Act takes effect upon approval.""]"		"[""Local Government"", ""Barangay"", ""Samar"", ""Republic Act""]"	"[""barrios"", ""sitios"", ""Samar"", ""municipalities"", ""conversion"", ""local administration""]"
+repacts:datasets/markdown/repacts/1959/ra_2592_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2592_1959.md	ra_2592_1959	An Act Creating Certain Barrios in the Province of Camarines Sur	"**REPUBLIC ACT No. 2592**
+
+ **An Act Creating Certain Barrios in the Province of Camarines Sur**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Catanusan, Irayang Solong, Mataoroc, Manapao and Salingongon in the Municipality of Minalabac, Province of Camarines Sur, are converted into barrios of said municipality to be known as the barrios of Catanusan, Irayang Solong, Mataoroc, Manapao and Salingongon, respectively.
+
+ **Section 2.** The following sitios are constituted or converted as barrios in the Municipality of Calabanga, same province, as follows:
+
+ 1. The sitios of Buri and Kaningan into a barrio to be known as the barrio of Camuning; 2. The sitio of San Francisco into a barrio to be known as the barrio of San Francisco; 3. The sitio of Sibao into a barrio to be known as the barrio of Sibao; 4. The sitio of San Pablo into a barrio to be known as the barrio of San Pablo; 5. The sitio of Sogoan into a barrio to be known as the barrio of Lugsad; 6. The sitios of Kinali, Punicon, Sogsong and Maybayawas into a barrio to be known as the barrio of Penada; 7. The sitios of Tawang, Inarihan, Binaliw-gote and Quinali into a barrio to be known as the barrio of Fabrica; 8. The sitios of Malobago and Renangan into a barrio to be known as the barrio of Balombon; 9. The sitios of Pongod, Quehadog and Baunot (Talacop) into a barrio to be known as the barrio of Sta. Rita; 10. The sitio of Puro into a barrio to be known as the barrio of Sta. Cruz (Quipayo); 11. The sitios of Balentong, Anahaw, Elelocdo, Que-Olleta, Que-deleon, Panatengan, Que-Paligid, Gantilo, Gotean and Tambongon into a barrio to be known as the barrio of Balatasan; 12. The sitios of Pacoyog, Bangko and Bacong into a barrio to be known as the barrio of Deminorog; 13. The sitios of Queriwa, Quinali, Napotol and Manoknok into a barrio to be known as the barrio of Punta-Tarawal; 14. The sitio of Lupi-Lupi into a barrio to be known as the barrio of Sogod; 15. The sitio of Salvacion into a barrio to be known as the barrio of Salvacion; 16. The sitio of San Bernardino into a barrio to be known as the barrio of San Bernardino; 17. The sitios of Bigong, Sogod Bigong and Balod into a barrio to be known as the barrio of Bigaas; and 18. The sitio of Binaliw into a barrio to be known as the barrio of Binaliw; **Section 3.** The following sitios are constituted or converted as barrios in the municipality of Canaman, same province, to wit:
+
+ 1. The sitio of Cogon into a barrio to be known as the barrio of Teresita; 2. The sitio of Gotob into a barrio to be known as the barrio of San Agustin; 3. The eastern half of the barrio of Tacolod into a barrio to be known as the barrio of San Vicente Ferrer; 4. The eastern half of the barrio of San Jose and the sitio of Calambog into a barrio to be known as the barrio of San Jose East; and 5. The western half of the barrio of San Jose as the Barrio sitio of Bencay into a barrio to be known as the barrio of the San Jose West. **Section 4.** The Sitios of Kilantao, Calancaan, Waquit, Catalotoan and Tarobog in the Municipality of Sagnay, same province, are constituted into a barrio of said municipality to be known as the barrio of Kilantao.
+
+ **Section 5.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act converts numerous sitios into barrios in various municipalities of Camarines Sur, Philippines, thereby reclassifying local settlements for administrative purposes.	"[{""title"": ""Section 1"", ""summary"": ""Converts the sitios of Catanusan, Irayang Solong, Mataoroc, Manapao and Salingongon in Minalabac into barrios with the same names.""}, {""title"": ""Section 2"", ""summary"": ""Converts multiple sitios in Calabanga into barrios, including Camuning, San Francisco, Sibao, San Pablo, Lugsad, Penada, Fabrica, Balombon, Sta. Rita, Sta. Cruz (Quipayo), Balatasan, Deminorog, Punta-Tarawal, Sogod, Salvacion, San Bernardino, Bigaas and Binaliw.""}, {""title"": ""Section 3"", ""summary"": ""Converts sitios in Canaman into barrios such as Teresita, San Agustin, San Vicente Ferrer, San Jose East, and San Jose West (Bencay).""}, {""title"": ""Section 4"", ""summary"": ""Converts the sitios of Kilantao, Calancaan, Waquit, Catalotoan and Tarobog in Sagnay into the barrio of Kilantao.""}, {""title"": ""Section 5"", ""summary"": ""The act takes effect upon its approval.""}]"	2592	1959-06-21			To reorganize local settlements by converting sitios into barrios, thereby improving administrative governance and local service delivery in Camarines Sur.	"[""Conversion of sitios in Minalabac into barrios."", ""Conversion of numerous sitios in Calabanga into barrios."", ""Conversion of sitios in Canaman into barrios."", ""Conversion of sitios in Sagnay into a barrio."", ""Effectivity upon approval.""]"		"[""Camarines Sur"", ""Barrios"", ""Sitios"", ""Republic Act"", ""Local Government""]"	"[""barrios"", ""sitios"", ""Camarines Sur"", ""municipality"", ""conversion"", ""local governance""]"
+repacts:datasets/markdown/repacts/1959/ra_2593_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2593_1959.md	ra_2593_1959	An Act Creating Certain Barrios in the Province of Palawan	"**REPUBLIC ACT No. 2593**
+
+ **An Act Creating Certain Barrios in the Province of Palawan**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitios of Panitian, Odiong, Malatgao, Tagpisa, Candis and Napwaran in the Municipality of Quezon, Province of Palawan, are constituted into a distinct and independent barrio of said municipality to be known as the barrio of Panitian.
+
+ **Section 2.** The sitio of Calatubog in the Municipality of Puerto Princesa, same province, is converted into a barrio of said municipality to be known as the barrio of Calatubog.
+
+ **Section 3.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	An act that creates two new barrios in Palawan: the barrio of Panitian in Quezon municipality and the barrio of Calatubog in Puerto Princesa municipality.	"[{""title"": ""Section 1"", ""summary"": ""Constitutes the sitios of Panitian, Odiong, Malatgao, Tagpisa, Candis and Napwaran in the Municipality of Quezon, Province of Palawan, into a distinct and independent barrio known as the barrio of Panitian.""}, {""title"": ""Section 2"", ""summary"": ""Converts the sitio of Calatubog in the Municipality of Puerto Princesa, Province of Palawan, into a barrio known as the barrio of Calatubog.""}, {""title"": ""Section 3"", ""summary"": ""States that the act shall take effect upon its approval.""}]"	RA 2593	June 21, 1959			To create distinct and independent barrios within the Province of Palawan for local governance and administrative purposes.	"[""Creation of the barrio of Panitian"", ""Creation of the barrio of Calatubog"", ""Act takes effect upon approval""]"		"[""Republic Act"", ""Palawan"", ""Barrios"", ""Local Government""]"	"[""barrios"", ""Palawan"", ""municipality"", ""sitio"", ""constitution"", ""creation""]"
+repacts:datasets/markdown/repacts/1959/ra_2594_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2594_1959.md	ra_2594_1959	An Act Changing the Names of Barrios in the Municipality of Lemery, Province of Iloilo	"**REPUBLIC ACT No. 2594**
+
+ **An Act Changing the Names of Barrios in the Municipality of Lemery, Province of Iloilo**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The names of the following barrios in the Municipality of Lemery, Province of Iloilo, are changed as follows:
+
+ 1. Barrio Tuguis to Barrio Jose Almenana; 2. Barrio Nabaloto to Barrio Pedro Velasco; 3. Barrio Tuburan to Barrio Inocencio Sepanton; 4. Barrio Alaguingay to Barrio Patricio Alcantara; and 5. Barrio Bajo to Barrio San Diego. **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act changes the names of five barrios in Lemery, Iloilo to new names and becomes effective upon approval.	"[{""title"": ""Section 1"", ""summary"": ""Lists the new names for the five barrios: Tuguis\u2192Jose Almenana, Nabaloto\u2192Pedro Velasco, Tuburan\u2192Inocencio Sepanton, Alaguingay\u2192Patricio Alcantara, Bajo\u2192San Diego.""}, {""title"": ""Section 2"", ""summary"": ""States that the act shall take effect upon its approval.""}]"	2594	June 21, 1959			To rename barrios in Lemery, Iloilo.	"[""Names of five barrios changed to new names""]"		"[""Renaming"", ""Local Government""]"	"[""barrios"", ""Lemery"", ""Iloilo"", ""names""]"
+repacts:datasets/markdown/repacts/1959/ra_2595_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2595_1959.md	ra_2595_1959	An Act Creating the Barrio of Pagsulhogon in the Municipality of Babatngon, Province of Leyte	"**REPUBLIC ACT No. 2595**
+
+ **An Act Creating the Barrio of Pagsulhogon in the Municipality of Babatngon, Province of Leyte**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The sitio of Pagsulhogon in the Municipality of Babatngon, Province of Leyte, is converted into a barrio of said municipality to be known as the barrio of Pagsulhogon.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	Creates the barrio of Pagsulhogon in Babatngon, Leyte, converting the sitio into a barrio.	"[{""title"": ""Section 1."", ""summary"": ""Converts the sitio of Pagsulhogon into a barrio named Pagsulhogon.""}, {""title"": ""Section 2."", ""summary"": ""The act takes effect upon approval.""}]"	2595	June 21, 1959			Establish the barrio of Pagsulhogon.	"[""Conversion of sitio to barrio"", ""Effectiveness upon approval""]"		"[""Local Government"", ""Barangay"", ""Leyte"", ""Babatngon""]"	"[""barrio"", ""Pagsulhogon"", ""Leyte"", ""Babatngon"", ""site conversion""]"
+repacts:datasets/markdown/repacts/1959/ra_2596_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2596_1959.md	ra_2596_1959	An Act Dividing the Barrio of Casibarag in the Municipality of Cabagan, Province of Isabela, into Two Barrios to be Known as Casibarag Norte and Casibarag Sur	"**REPUBLIC ACT No. 2596**
+
+ **An Act Dividing the Barrio of Casibarag in the Municipality of Cabagan, Province of Isabela, into Two Barrios to be Known as Casibarag Norte and Casibarag Sur**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The barrio of Casibarag in the Municipality of Cabagan, Province of Isabela, is hereby divided into two barrios to be known as Casibarag Norte and Casibarag Sur.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	Divides the barrio of Casibarag into two barrios, Casibarag Norte and Casibarag Sur.	"[{""title"": ""Section 1."", ""summary"": ""The barrio of Casibarag in the Municipality of Cabagan, Province of Isabela, is hereby divided into two barrios to be known as Casibarag Norte and Casibarag Sur.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	2596	June 21, 1959			To divide the barrio of Casibarag into two separate barrios for administrative purposes.	"[""The barrio of Casibarag is divided into Casibarag Norte and Casibarag Sur."", ""The act takes effect upon its approval.""]"		"[""barrio"", ""municipality"", ""Isabela"", ""division""]"	"[""Casibarag"", ""Cabagan"", ""Isabela"", ""norte"", ""sur"", ""barrio"", ""division""]"
+repacts:datasets/markdown/repacts/1959/ra_2597_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2597_1959.md	ra_2597_1959	An Act to Create Certain Barrios in the Municipality of Bolinao, Province of Pangasinan	"**REPUBLIC ACT No. 2597**
+
+ **An Act to Create Certain Barrios in the Municipality of Bolinao, Province of Pangasinan**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The following sitios are constituted into distinct and separate barrios of the Municipality of Bolinao, Province of Pangasinan:
+
+ 1. The sitios of Repay Sapa, Ibabasat, Pingol and Tayao into Barrio Victory; 2. The sitios of Matber, Tilna and Bulac-bulac into barrio Goyoden; 3. The sitios of Dalan Bubon, Pamarbaran, Balungbong, Namlangan, Capas, Mateo and Nalsoc into Barrio Catuday; 4. The sitios of Natulang, Nacaanoran, Macabet Norte, Poro Omic, Nasipit and Dalamas into Barrio San Roque; 5. The sitios of Manulumanat Sur, Ca-butan, Ranom Biala, Nigagalantay, Bayoy and Sabutan into Barrio Samang; 6. The sitios of Catubig Norte, Nanaytayan, Opay, Bongco-an, Mabalanac, Sinora, Ma-bot, Silag, Ibot, Maniorang, Talog-tog Barit, Patag Ranaw and Ilog-Balo into Barrio Tara; 7. The sitios of Pansor, Madacay, Pandam, Lubigan, Maimpis, Pinadulang and Salumague into Barrio Cabuyao; 8. The sitios of Banawang, Codelem, Matapopo, Cagange, Taal and Dalan Cabog into Barrio Estanza; 9. The sitios of Paraguing, Manulumanat Norte, Sumaracasac, Tudo, Maro-mot, Nangadian Obe and Pocal-pocal into Barrio Tupa; and 10. The sitios of Bersang, Imbo as Lomboy, Dalan Salumangue, Sapa Silag and Anonang into Barrio Liwa-liwa. **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act establishes ten new barrios in the municipality of Bolinao, Pangasinan, by grouping specified sitios and becomes effective upon its approval on June 21, 1959.	"[{""title"": ""Section 1."", ""summary"": ""Constitutes the specified sitios into distinct barrios: Barrio Victory, Barrio Goyoden, Barrio Catuday, Barrio San Roque, Barrio Samang, Barrio Tara, Barrio Cabuyao, Barrio Estanza, Barrio Tupa, and Barrio Liwa-liwa.""}, {""title"": ""Section 2."", ""summary"": ""This act shall take effect upon its approval.""}]"	2597	June 21, 1959			To create new barrios in Bolinao, Pangasinan by grouping existing sitios.	"[""Creation of ten new barrios from specified sitios in Bolinao."", ""Effective date upon approval on June 21, 1959.""]"			
+repacts:datasets/markdown/repacts/1959/ra_2598_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2598_1959.md	ra_2598_1959	An Act Changing the Name of the Barrio of Kaga-Olas in the Municipality of Matanao, Province of Davao, to Swerte	"**REPUBLIC ACT No. 2598**
+
+ **An Act Changing the Name of the Barrio of Kaga-Olas in the Municipality of Matanao, Province of Davao, to Swerte**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The name of the barrio of Kaga-olas in the Municipality of Matanao, Province of Davao, is changed to Swerte.
+
+ **Section 2.** This Act shall take effect upon its approval.
+
+ Approved: June 21, 1959.
+"	success	Republic Act	This act changes the name of the barrio of Kaga-olas in Matanao, Davao, to Swerte.	"[{""title"": ""Section 1."", ""summary"": ""The name of the barrio of Kaga-olas in the Municipality of Matanao, Province of Davao, is changed to Swerte.""}, {""title"": ""Section 2."", ""summary"": ""This Act shall take effect upon its approval.""}]"	Republic Act No. 2598	June 21, 1959			Renaming a barrio within the Municipality of Matanao, Davao	"[""Name of barrio changed to Swerte"", ""Act takes effect upon approval""]"		"[""Renaming"", ""Local Government"", ""Barangay""]"	"[""Republic Act"", ""Barrios"", ""Davao"", ""Matanao"", ""Swerte"", ""Kaga-Olas""]"
+repacts:datasets/markdown/repacts/1959/ra_2599_1959.md	repacts	1959		datasets/markdown/repacts/1959/ra_2599_1959.md	ra_2599_1959	An Act Changing the Names of Certain Barrios in the Municipality of Goa, Province of Camarines Sur	"**REPUBLIC ACT No. 2599**
+
+ **An Act Changing the Names of Certain Barrios in the Municipality of Goa, Province of Camarines Sur**
+
+ *Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled:*
+
+ **Section 1.** The names of the barrios of Balaynan and Aroro in the Municipality of Goa, Province of Camarines Sur, are changed to San Rafael and San Pedro, respectively.

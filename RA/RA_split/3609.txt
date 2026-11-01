@@ -1,0 +1,140 @@
+
+ **Section 14.***Separability Clause.* If any part, section or provision of this Act is declared invalid or unconstitutional, the sections or provisions which are not affected shall remain valid and subsisting.
+
+ **Section 15.***Repealing Clause.* Section 54 of Republic Act No. 6975, as amended and Sections 5, 12 and 13 of Republic Act No. 9514 are hereby amended or modified accordingly.
+
+ All laws, decrees, ordinances, rules, regulations, other issuances or parts thereof which are inconsistent with the provisions of this Act are hereby repealed, amended, or modified accordingly.
+
+ **Section 16.***Effectivity.* -This Act shall take effect fifteen (15) days after its complete publication in theOfficial Gazetteor in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.)**VICENTE C. SOTTO III** Senate President | (SGD.)**LORD ALLAN JAY Q. VELASCO** Speaker of the House of Representatives |
+
+ This Act which is a consolidation of House Bill No. 7406 and Senate Bill No. 1832 was passed by the House of Representatives and the Senate of the Philippines on August 4, 2021.
+
+ | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of Senate | (SGD.)**MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved: SEP 10 2021
+
+ (SGD.)**RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	Republic Act No. 11589 strengthens and modernizes the Bureau of Fire Protection, expands its powers and functions, appropriates funds, and establishes protocols for fire safety, training, and disaster response.	"[{""title"": ""Section 1 \u2013 Naming of the Act"", ""summary"": ""Defines the Act as the \""Bureau of Fire Protection Modernization Act.\""""}, {""title"": ""Section 2 \u2013 Declaration of Policy"", ""summary"": ""Affirms the policy of ensuring public safety through fire prevention and suppression, and outlines the state's commitment to modernize the BFP and expand its mandate.""}, {""title"": ""Section 3 \u2013 Powers and Functions of the BFP"", ""summary"": ""Enumerates the expanded powers and functions of the BFP, including prevention, suppression, disaster response, coordination with LGUs and national agencies, issuance of regulations, building safety evaluations, investigations, training, and other operational duties.""}]"	11589	September 10, 2021			To strengthen and modernize the Bureau of Fire Protection and allocate funds for its enhanced operations.	"[""Expand BFP powers and functions"", ""Strengthen coordination with LGUs and national agencies"", ""Establish fire safety evaluation clearance for building permits"", ""Provide funding for modernization and training"", ""Set up fire laboratories and research facilities"", ""Enhance disaster response capabilities""]"	Amends and references Republic Act Nos. 6975, 9514, 11032, 7160, and 10121.	"[""Bureau of Fire Protection"", ""Fire Safety"", ""Disaster Risk Reduction"", ""Public Safety"", ""Legislation""]"	"[""BFP"", ""fire protection"", ""modernization"", ""public safety"", ""disaster risk reduction"", ""fire safety evaluation"", ""training"", ""hazardous materials"", ""fire code"", ""fire laboratories""]"
+repacts:datasets/markdown/repacts/2021/ra_11590_2021.md	repacts	2021		datasets/markdown/repacts/2021/ra_11590_2021.md	ra_11590_2021	AN ACT TAXING PHILIPPINE OFFSHORE GAMING OPERATIONS, AMENDING FOR THE PURPOSE SECTIONS 22, 25, 27, 106, 108, AND ADDING NEW SECTIONS 125-A AND NEW SECTIONS 125-A AND 228(G) OF THE NATIONAL INTERNAL REVENUE CODE OF 1997, AS AMENDED, AND FOR OTHER PURPOSES	"Eighteenth Congress Third Regular Session Begun and held in Metro Manila, on Monday, the twenty-sixth day of July, two thousand twenty one.
+
+ **[ REPUBLIC ACT NO. 11590, September 22, 2021 ]**
+
+ **AN ACT TAXING PHILIPPINE OFFSHORE GAMING OPERATIONS, AMENDING FOR THE PURPOSE SECTIONS 22, 25, 27, 106, 108, AND ADDING NEW SECTIONS 125-A AND NEW SECTIONS 125-A AND 228(G) OF THE NATIONAL INTERNAL REVENUE CODE OF 1997, AS AMENDED, AND FOR OTHER PURPOSES**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.***Declaration of Policy.* It is hereby declared the policy of the State to promote a just and dynamic social order that will ensure the prosperity and independence of the nation and free the people from poverty through policies that provide adequate social services, promote full employment, a rising standard of living, and an improved quality of life for all. Towards this end, the State shall strictly regulate all forms of legal gambling and prohibit all forms of illegal gambling. While doing so, the State recognizes that revenues generated from legal gambling are not a sustainable source of income. The State further reiterates that the recognition of legal forms of gambling, including offshore gaming, shall not be construed as a favorable state endorsement of such activity.
+
+ **Section 2.** Section 22 of the National Internal Revenue Code of 1997, as amended, is hereby further amended to read as follows:
+
+ > SEC 22.*Definitions.* When used in this Title:
+>
+>  x x x (II) The term offshore gaming licensee shall refer to the offshore gaming operator, whether organized abroad or in the Philippines, duly licensed and authorized, through a gaming license, by the Philippine Amusement and Gaming Corporation or any special economic zone authority or tourism zone authority or freeport authority to conduct offshore gaming operations, including the acceptance of bets from offshore customers, as provided for in their respective charters. Notwithstanding any law to the contrary, no offshore gaming license shall hereinafter be issued by the Aurora Pacific Economic Zone and Freeport Authority. All offshore gaming licensees whose licenses was issued by the Aurora Pacific Economic Zone and Freeport Authority shall be transferred, regulated, and monitored by the Philippine Amusement and Gaming Corporation. For purposes of this Section, an offshore gaming licensee shall be considered engaged in doing business in the Philippines. (JJ) The term offshore gaming licensee-gaming agent shall refer to the representative in the Philippines of an offshore-based operator who shall act as a resident agent for the mere purpose of receiving summons, notices and other legal processes for the offshore gaming licensee and to comply with disclosure requirements of the Securities and Exchange Commission. The offshore gaming licensee-gaming agent shall not be involved with the business operations of the offshore gaming licensee and shall derive no income therefrom.
+
+ **Section 3.** Section 25 of the National Internal Revenue Code of 1997, as amended, is hereby further amended to read as follows:
+
+ > SEC. 25.Tax on Nonresident Alien Individual.
+>
+>  (A) x x x (B) x x x (C) x x x (D) x x x (E) x x x (F) x x x (G)Alien Individuals Employed by an Offshore Gaming Licensee and Service Providers. Alien individuals regardless of residency and who are employed and assigned in the Philippines, regardless of term and class of working or employment permit or visa, by an offshore gaming licensee or its service provider as defined in Section 22(II) and Section 27(G) of this Code, shall pay a final withholding tax of twenty-five percent (25%) on their gross income as computed in the succeeding paragraph:*Provided,* however,That the minimum final withholding tax due for any taxable month from said person shall not be lower than Twelve thousand five hundred pesos (P12,500.00). In computing the tax provided in this Section, gross income shall include, whether in cash or in kind, basic salary/wages, annuities, compensation, remuneration and other emoluments, such ashonorariaand allowances, received from such service provider or offshore gaming licensee:*Provided,*That all offshore gaming licensees and service providers shall submit to the Bureau of Internal Revenue the original copy of notarized contract of employment clearly stating therein the annual salary and other benefits and entitlements of the concerned alien.
+>
+>  The tax imposed herein shall be withheld and remitted in accordance with the provision of this Code and failure to do so shall be governed by this Code. In addition, the alien concerned may be subject to deportation and may be barred from reentering the Philippines, or blacklisted as a foreign employee by the Department of Labor and Employment, Bureau of Immigration, and other relevant agencies.
+>
+>  For the efficient assessment, verification, and administration of taxes imposed in this Section, the Bureau of Immigration, the Department of Labor and Employment, the Bureau of Internal Revenue, the Securities and Exchange Commission, the Philippine Amusement and Gaming Corporation, and any special economic zone authority, tourism zone authority, freeport authority, as provided for in their respective charters, shall issue joint and consolidated rules and regulations, including the issuance of a gaming employment license by the issuance of a gaming employment license by the concerned agency, for the implementation of free and efficient exchange of information among the said agencies in relation to the proper payment of taxes by persons covered under this Section. For this purpose, the data sharing and reporting system as well as the joint inspection team created under Joint Memorandum Circular No, 1, Series of 2019, entitled, Rules and Procedures Governing Foreign Nationals Intending to Work in the Philippines shall be institutionalized.
+>
+>  All foreign employees of offshore gaming licensees and their service providers, regardless of nature of employment, shall have a tax identification number, All offshore gaming licensee and service providers that employ or engage a foreign national without the foregoing shall be liable for a fine of Twenty thousand pesos (20,000.00) for every foreign national without such tax identification number and, in proper instances, revocation of their primary and other licenses obtained from government agencies and/or perpetual or temporary ban in employing or engaging foreign nationals for their operations:*Provided,*That the foreign national concerned shall still pay, and the employer shall remit, any corresponding taxes, penalties, interests, and surcharges due in accordance with this Code.
+>
+>  Any income earned from all other sources within the Philippines by the alien employee referred under this Subsection shall be subject to pertinent income tax imposed under this Code.
+
+ **Section 4.** Section 27 of the National Internal Revenue Code of 1997, as amended, is hereby further amended to read as follows:
+
+ > SEC. 27.Rates of Income Tax on Domestic Corporations.
+>
+>  (A) x x x (B) x x x (C) x x x (D) x x x (E) x x x (F)Offshore Gaming Licensees. The provisions of existing special or general laws to the contrary notwithstanding, the non-gaming revenues of Philippine-based offshore gaming licensees as duly licensed by the Philippine Amusement and Gaming Corporation or any special economic zone authority or tourism zone authority or freeport authority shall be subject to an income tax equivalent to twenty-five percent (25%) of the taxable income derived during each taxable year from all sources within and without the Philippines. (G)Accredited Service Providers to Offshore Gaming Licensees. Unless otherwise provided in this Code, accredited service providers to offshore gaming tax imposed by Section 125-A, but shall pay such rate of tax as imposed in Section 27(A) of this Code, and shall be subject to all other applicable local and national taxes. For purposes of this Section, an accredited service provider to an offshore gaming licensee (Service provider) shall be a juridical person that is duly created or organized within or outside the Philippines or a natural person, regardless of citizenship or residence, which provides ancillary services to an offshore gaming licensee as defined by Section 22(II) of this Code or to any gaming licensee or operator with licenses from other jurisdictions. Such ancillary services may include, but shall bot be limited to, customer and technical relations and support, information technology, gaming software, data provision, payment solutions, and live studio and streaming services.
+
+ **Section 5.** Section 28 of the National Internal Revenue Code of 1997, as amended, is hereby further amended to read as follows:
+
+ SEC. 28.Rates of Income Tax on Foreign Corporations. (A)Tax on Resident Foreign Corporations (1) x x x x x x (7)Offshore Gaming Licensees. The provisions of existing special or general laws to the contrary notwithstanding, the non-gaming revenue derived within the Philippines of foreign-based offshore gaming licensees as defined and duly licensed by the Philippine Amusement and Gaming Corporation or any special economic zone authority or tourism zone authority or freeport authority shall be subject to an income tax equivalent to twenty-five percent (25%) of the taxable income derived during each taxable year. **Section 6.** Section106 of the National Internal Revenue Code of 1997, as amended, is hereby amended to read as follows:
+
+ > SEC. 106.Value-Added tax on Sale of Goods or Properties.
+>
+>  (A) x x x (1) x x x (2) The following sales by VAT-registered persons shall be subject to zero percent (0%) rate: (a) x x x (b) x x x (c) Sales to offshore gaming licensees subject to gaming tax under Section 125-A of this Code. x x x.
+
+ **Section 7.** Section 108 of the National Internal Revenue Code of 1997, as amended, is hereby amended to read as follows:
+
+ > SEC. 108.Value-Added Tax on Sale of Services and Use or Lease of Properties.
+>
+>  (A) x x x x x x (B)Transactions Subject to Zero Percent (0%) Rate. The following services performed in the Philippines by VAT-registered persons shall be subject to zero percent (0%) rate: (1) x x x x x x (9) Services rendered to offshore gaming licensees subject to gaming tax under Section 125-A of this Code by service providers, including accredited service providers as defined in Section 27(G) of this Code.
+
+ **Section 8.** A new section designated as Section 125-A of the National Internal Revenue Code of 1997, as amended, is hereby added to read as follows:
+
+ > SEC. 125-A.Gaming Tax on Services Rendered by Offshore Gaming Licensees. Any provision of existing laws, rules or regulations to the contrary notwithstanding, the entire gross gaming revenue or receipts or the agreed predetermined minimum monthly revenue or receipts from gaming, whichever is higher, shall be levied, assessed, and collected a gaming tax equivalent to five percent (5%), in lieu of all other direct and indirect internal revenue taxes and local taxes, with respect to gaming income:*Provided,*That the gaming tax shall be directly remitted to the Bureau of Internal Revenue not later than the 20thday following the end of each month:*Provided,* further,That the Philippine Amusement and Gaming Corporation or any special economic zone authority or tourism zone authority or freeport authority may impose regulatory fees on offshore gaming licensees which shall not cumulatively exceed two percent (2%) of the gross gaming revenue or receipts derived from gaming operations and similar related activities of all offshore gaming licensees or a predetermined minimum guaranteed fee, whichever is higher:*Provided,* furthermore,That for purposed of this Section, gross gaming revenue or receipts shall mean gross wagers less payouts:*Provided,* finally,That the taking of wagers made in the Philippines and the grave failure to cooperate with the third-party auditor shall result in the revocation of the license of the offshore gaming license.
+>
+>  The Philippine Amusement and Gaming Corporation or any special economic zone authority or tourism zone authority or freeport authority shall engage the services of a third-party audit platform that would determine the gross gaming revenues or receipts of offshore gaming licensees. To ensure that the proper taxes and regulatory fees are levied, periodic reports about the results of the operation showing, among others, the gross gaming revenue or receipts of each offshore gaming licensee shall be submitted to the Bureau of Internal Revenue by the Philippine Amusement and Gaming Corporation or any special economic zone authority or tourism zone authority or freeport authority as certified by their third-party auditor:*Provided,*That the third-party auditor shall be independent, reputable, internationally-known, and duly accredited as such by an accrediting or similar agency recognized by industry experts:*Provided,* finally,That nothing herein shall prevent the Bureau of Internal Revenue and the Commission on Audit from undertaking a post-audit or independent verification of the gross gaming revenues determined by the third-party auditor.
+
+ **Section 9.** A new Subsection designated as Section 288(G) of the National Internal Revenue Code of 1997, as amended, is hereby added to read as follows:
+
+ > SEC. 288.Disposition of Incremental Revenues.
+>
+>  (A) x x x
+>
+>  x x x
+>
+>  (G)Disposition of Revenues from Gaming Tax on Offshore Gaming Licensees. The provisions of existing law to the contrary notwithstanding, sixty-percent (60%) of the total revenue collected from the gaming tax imposed on offshore gaming licensees shall be allocated and used exclusively in the following manner:
+>
+>  (1) Sixty percent (60%) for the implementation of Republic Act No. 11223, otherwise known as the Universal Health Care Act; (2) Twenty percent (20%) shall be allocated to the Health Facilities Enhancement Program (HFEP), the annual requirements of which shall be determined by the Department of Health; AND (3) Twenty percent (20%) shall be allocated for the attainment of the Sustainable Development Goals (SDGs):*Provided,*That the specific SDG targets shall be determined by the National Economic and Development Authority.
+
+ **Section 10.***Oversight and Review.* Within three (3) months from the effectivity of this Act and every three (3) months thereafter, the Bureau of Internal Revenue shall submit report to Congress, containing all pertinent information, including but not limited to, reports by the third-party auditors and collection performance data of all offshore gaming licensees, for review of the same for possible adjustment of rates and any other matter pertinent to the taxation of Philippine Amusement and Gaming Corporation.
+
+ **Section 11.***Implementing Rules and Regulations.* Within ninety (90) days after the effectivity of this Act, the Secretary of Finance shall, upon the recommendation of the Commissioner of Internal Revenue, promulgate the necessary rules and regulations for its implementation.
+
+ **Section 12.***Separability Clause.* If any provision of this Act shall be held unconstitutional or invalid, the other provisions not otherwise affected shall remain in full force and effect.
+
+ **Section 13.***Repealing Clause.* All laws, decrees, executive orders, rules and regulations or parts thereof, including Republic Act No. 9497, otherwise known as PAGCOR Charter, Section 12(f) of Republic Act No. 9490 as amended by Republic Act No. 10083, otherwise known as the Aurora Special Economic Zone Act of 2007, and Republic Act No. 11494, otherwise known as the Bayanihan to Recover As One Act, which are contrary to or inconsistent with this Act are hereby repealed, amended, or modified accordingly.
+
+ **Section 14.***Effectivity.* -This Act shall take effect fifteen (15) days after its publication in theOfficial Gazetteor in a newspaper of general circulation.
+
+ Approved,
+
+  | (SGD.)**VICENTE C. SOTTO III** Senate President | (SGD.)**LORD ALLAN JAY Q. VELASCO** Speaker of the House of Representatives |
+
+ This Act was passed by the House of Representatives as House Bill No. 5777 on February 8, 2021, passed by the Senate of the Philippines as Senate Bill No. 2232 on June 2, 2021, and adopted by the House of Representatives as an amendment to House Bill No. 5777 on July 28, 2021.
+
+ | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of Senate | (SGD.)**MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved: SEP 22 2021
+
+ (SGD.)**RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Taxation	This act imposes taxes on Philippine offshore gaming operators and their employees, amends specific provisions of the National Internal Revenue Code, and establishes regulatory frameworks for offshore gaming licensees, gaming agents, and related agencies.	"[{""title"": ""Section 1. Declaration of Policy"", ""summary"": ""Declares the state's policy to promote a just and dynamic social order, regulate gambling, and ensure that revenues from legal gambling are not considered a sustainable source of income.""}, {""title"": ""Section 2. Amendment to Section 22 of the NIRC"", ""summary"": ""Defines offshore gaming licensees and gaming agents, specifies licensing authorities, and establishes that licenses issued by the Aurora Pacific Economic Zone and Freeport Authority are to be transferred to the Philippine Amusement and Gaming Corporation.""}, {""title"": ""Section 3. Amendment to Section 25 of the NIRC"", ""summary"": ""Imposes a final withholding tax of 25% on alien individuals employed by offshore gaming licensees, with a minimum tax of P12,500 per month, and outlines joint regulatory and reporting responsibilities among BIR, DILG, SEC, PA&GC, and other agencies.""}]"	11590	September 22, 2021			To impose taxes on Philippine offshore gaming operations, amend relevant provisions of the National Internal Revenue Code, and establish regulatory frameworks for offshore gaming licensees and employees.	"[""Taxation of offshore gaming operators and employees"", ""Amendments to NIRC Sections 22, 25, 27, 106, 108, 125-A, 228(G)"", ""Definition of offshore gaming licensee and gaming agent"", ""Minimum withholding tax of P12,500 for alien employees"", ""Joint rules and regulations among BIR, DILG, SEC, PA&GC, and other agencies"", ""Issuance of gaming employment license"", ""Data sharing and reporting system for tax assessment""]"	National Internal Revenue Code Sections 22, 25, 27, 106, 108, 125-A, 228(G)	"[""taxation"", ""offshore gaming"", ""national internal revenue code"", ""alien employees"", ""gaming licensee"", ""gaming agent""]"	"[""offshore gaming"", ""taxation"", ""alien employees"", ""National Internal Revenue Code"", ""Philippine Amusement and Gaming Corporation"", ""Bureau of Internal Revenue"", ""minimum final withholding tax"", ""gaming licensee"", ""gaming agent""]"
+repacts:datasets/markdown/repacts/2021/ra_11591_2021.md	repacts	2021		datasets/markdown/repacts/2021/ra_11591_2021.md	ra_11591_2021	AN ACT FIXING THE LAST DAY OF REGISTRATION OF VOTERS FOR THE 2022 NATIONAL AND LOCAL ELECTIONS	"Eighteenth Congress Third Regular Session Begun and held in Metro Manila, on Monday, the twenty-sixth day of July, two thousand twenty one.
+
+ **[ REPUBLIC ACT NO. 11591, September 30, 2021 ]**
+
+ **AN ACT FIXING THE LAST DAY OF REGISTRATION OF VOTERS FOR THE 2022 NATIONAL AND LOCAL ELECTIONS**
+
+ **Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:**
+
+ **Section 1.***Last Day of Registration.* The last day of registration of voters for the 2022 National and Local Elections shall be thirty (30) days after the effectivity of this Act.
+
+ **Section 2.***Repealing Clause.* All laws, presidential decrees, executive orders, memoranda, circulars, rules and regulations, and other issuances or parts thereof, which are inconsistent with this Act are hereby repealed, amended, or modified accordingly.
+
+ **Section 3.***Effectivity.* -This Act shall take effect immediately after its publication in theOfficial Gazetteor in a newspaper of general circulation.
+
+ Approved,
+
+ | (SGD.)**VICENTE C. SOTTO III** Senate President | (SGD.)**LORD ALLAN JAY Q. VELASCO** Speaker of the House of Representatives |
+
+ This Act was passed by the House of Representatives as House Bill No. 10261 and adopted by the Senate of the Philippines as an amendment to Senate Bill No. 2408 on September 27, 2021.
+
+ | (SGD.)**MYRA MARIE D. VILLARICA** Secretary of Senate | (SGD.)**MARK LLANDRO L. MENDOZA** Secretary General House of Representatives |
+
+ Approved: SEP 30 2021
+
+ (SGD.)**RODRIGO ROA DUTERTE** President of the Philippines
+"	success	Republic Act	The act sets the last day of voter registration to thirty days after the effectivity of the act.	"[{""title"": ""Last Day of Registration"", ""summary"": ""The last day of registration of voters for the 2022 National and Local Elections shall be thirty (30) days after the effectivity of this Act.""}, {""title"": ""Repealing Clause"", ""summary"": ""All laws, presidential decrees, executive orders, memoranda, circulars, rules and regulations, and other issuances or parts thereof, which are inconsistent with this Act are hereby repealed, amended, or modified accordingly.""}, {""title"": ""Effectivity"", ""summary"": ""This Act shall take effect immediately after its publication in the Official Gazette or in a newspaper of general circulation.""}]"	11591	2021-09-30	"[{""name"": ""VICENTE C. SOTTO III"", ""title"": ""Senate President""}, {""name"": ""LORD ALLAN JAY Q. VELASCO"", ""title"": ""Speaker of the House of Representatives""}]"		To fix the last day of registration of voters for the 2022 national and local elections.	"[""Sets the last day of voter registration to thirty days after the effectivity of the act."", ""Repeals, amends, or modifies laws inconsistent with the act."", ""Effectivity clause for immediate effect after publication.""]"		"[""Election"", ""Voter Registration"", ""Philippines"", ""Republic Act""]"	"[""voter registration"", ""elections"", ""Republic Act 11591"", ""2022 elections""]"
+repacts:datasets/markdown/repacts/2021/ra_11592_2021.md	repacts	2021		datasets/markdown/repacts/2021/ra_11592_2021.md	ra_11592_2021	Republic Act No. 11592	"Eighteenth Congress Third Regular Session Begun and held in Metro Manila, on Monday, the twenty-sixth day of July, two thousand twenty one.
+
+ **[ REPUBLIC ACT NO. 11592, October 14, 2021 ]**
