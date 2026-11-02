@@ -205,6 +205,57 @@ def prepare_data(train_ratio=TRAIN_RATIO, seed=SEED):
     return train_paragraphs, train_labels, test_paragraphs, test_labels
 
 
+def load_folder(path):
+    # sorted so every run sees the same order
+    texts = []
+    for file in sorted(os.listdir(path)):
+        with open(os.path.join(path, file), 'r', encoding="utf-8") as f:
+            texts.append(f.read())
+    return texts
+
+
+def prepare_data_folders(train_bcs, train_ra, test_bcs, test_ra):
+    '''
+    returns
+    train paragraphs, train labels, test paragraphs, test labels
+
+    Each file in the folders is one sample, so this keeps the split in Data.
+
+    labels
+    0 : Better Call Saul
+    1 : Republic Act
+    '''
+    bcs = load_folder(train_bcs)
+    ra = load_folder(train_ra)
+    train_paragraphs = bcs + ra
+    train_labels = [0] * len(bcs) + [1] * len(ra)
+
+    bcs = load_folder(test_bcs)
+    ra = load_folder(test_ra)
+    test_paragraphs = bcs + ra
+    test_labels = [0] * len(bcs) + [1] * len(ra)
+
+    print(f"Train: {len(train_paragraphs)} files, Test: {len(test_paragraphs)} files")
+    return train_paragraphs, train_labels, test_paragraphs, test_labels
+
+
+def make_bag_lists(paragraphs, labels):
+    '''
+    returns
+    list of bags of Better Call Saul, list of bags of Republic Acts
+    '''
+    bcs = []
+    ra = []
+    for i in range(len(paragraphs)):
+        bag = Counter()
+        clean_update(bag, paragraphs[i])
+        if labels[i] == 0:
+            bcs.append(bag)
+        else:
+            ra.append(bag)
+    return bcs, ra
+
+
 def make_class_bags(paragraphs, labels):
     '''
     returns

@@ -1,4 +1,4 @@
-from scripts.preprocess import load_and_bow_everyth,load_and_bow_list,prepare_data,make_class_bags
+from scripts.preprocess import load_and_bow_everyth,load_and_bow_list,prepare_data_folders,make_class_bags,make_bag_lists
 from scripts.count import total_words
 from scripts.NB import NB_for_2
 from scripts.KNN import KNN_for_2_colors
@@ -9,10 +9,7 @@ import os
 
 #.-._.-._.- Parameters .-._.-._.-#
 
-#share of episodes and acts used for training
-TRAIN_RATIO = 0.8
-
-#same seed, same split and same shuffles
+#same seed, same shuffles in the Perceptron
 SEED = 170
 
 #NB smoothing
@@ -141,7 +138,7 @@ def print_results(rows):
 def main():
 
     print(f"---------- LOAD and PREPROCESS ----------")
-    train,train_labels,test,test_labels = prepare_data(TRAIN_RATIO,SEED)
+    train,train_labels,test,test_labels = prepare_data_folders(BCS_DIR,RA_DIR,BCS_TEST,RA_TEST)
     print(f"---------- LOAD and PREPROCESS ----------")
 
     rows = [("Always RA",0,evaluate(AlwaysRA(),test,test_labels))]
@@ -152,12 +149,16 @@ def main():
     NB = NB_for_2(BCS,RA,LAPLACE)
     rows.append(("Naive Bayes",perf_counter()-start,evaluate(NB,test,test_labels)))
 
+    start = perf_counter()
+    BCS_list,RA_list = make_bag_lists(train,train_labels)
+    KNN = KNN_for_2_colors(BCS_list,RA_list,K,P)
+    rows.append(("KNN",perf_counter()-start,evaluate(KNN,test,test_labels)))
+
     PT = Perceptron(R,BIAS,MAX_EPOCHS,SEED)
     start = perf_counter()
     PT.train(train,train_labels)
     rows.append(("Perceptron",perf_counter()-start,evaluate(PT,test,test_labels)))
 
-    #KNN still runs on the old Data folders until it can handle the real split
     print_results(rows)
 
 

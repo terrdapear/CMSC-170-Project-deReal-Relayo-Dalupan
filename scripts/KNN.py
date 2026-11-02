@@ -1,4 +1,6 @@
 from bisect import insort
+from collections import Counter
+from scripts.bow import clean_update
 
 class KNN_for_2_colors:
     # A,B are a lists of bag of words
@@ -55,3 +57,8 @@ class KNN_for_2_colors:
             return 1
         else:
             return 0
+
+    def classify_paragraph(s,p): #p is the raw text, same as in NB
+        bag = Counter()
+        clean_update(bag,p)
+        return s.classify(bag)
