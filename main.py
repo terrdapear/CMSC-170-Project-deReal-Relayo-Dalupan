@@ -1,4 +1,4 @@
-from scripts.load import load_and_bow_everyth,load_and_bow_list
+from scripts.preprocess import load_and_bow_everyth,load_and_bow_list
 from scripts.count import total_words
 from scripts.NB import NB_for_2
 from scripts.KNN import KNN_for_2_colors
@@ -26,9 +26,6 @@ RA_DIR = "Data/Training/RA"
 
 BCS_TEST = "Data/Testing/BCS"
 RA_TEST = "Data/Testing/RA"
-
-MAGIC_NUM = 3847
-#average number of words in a Better Call Saul episode
 
 def test_NB(NB):
     print("\nTesting NB...\n")
