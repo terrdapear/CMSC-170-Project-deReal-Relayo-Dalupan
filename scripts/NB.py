@@ -13,9 +13,9 @@ class NB_for_2:
     def __init__(s,A,B,k):
         print("\nCreating NB Classifier...")
         s.a, s.b = total_words(A), total_words(B)
-        
-        aub = s.a + s.b
 
+        aub = s.a + s.b
+        
         s.dictionary = set(A.keys()) | set(B.keys())
 
         s.A = A
