@@ -205,6 +205,21 @@ def prepare_data(train_ratio=TRAIN_RATIO, seed=SEED):
     return train_paragraphs, train_labels, test_paragraphs, test_labels
 
 
+def make_class_bags(paragraphs, labels):
+    '''
+    returns
+    bag of words of Better Call Saul, bag of words of Republic Acts
+    '''
+    bcs = Counter()
+    ra = Counter()
+    for i in range(len(paragraphs)):
+        if labels[i] == 0:
+            clean_update(bcs, paragraphs[i])
+        else:
+            clean_update(ra, paragraphs[i])
+    return bcs, ra
+
+
 def load_and_bow_everyth(path): #called from main
     bag = Counter()
     print(f"Loading files from {path}\n")
