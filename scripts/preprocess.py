@@ -1,5 +1,6 @@
 import csv
 import os
+from random import Random
 from scripts.bow import clean
 
 BCS_DIR = "Better_Call_Saul_Transcripts/All_Seasons"
@@ -11,6 +12,9 @@ BCS_CREDIT = "Synced and corrected by"
 
 WINDOW_SIZE = 10
 MAX_WINDOWS_PER_ACT = 50
+
+TRAIN_RATIO = 0.8
+SEED = 170
 
 
 def strip_bcs_extras(text):
@@ -118,3 +122,82 @@ def make_windows(text, size=WINDOW_SIZE, max_windows=None):
         return spaced
 
     return windows
+
+
+def split_documents(documents, train_ratio, random):
+    # split before making windows so a whole episode or act stays on one side
+    shuffled = list(documents)
+    random.shuffle(shuffled)
+    cut = int(len(shuffled) * train_ratio)
+    return shuffled[:cut], shuffled[cut:]
+
+
+def documents_to_windows(documents, max_windows=None):
+    windows = []
+    for name, text in documents:
+        for window in make_windows(text, max_windows=max_windows):
+            windows.append(window)
+    return windows
+
+
+def remove_repeats(windows, seen):
+    # standard wording repeats across acts, and seen stops it from being in both train and test
+    kept = []
+    for window in windows:
+        if window not in seen:
+            seen.add(window)
+            kept.append(window)
+    return kept
+
+
+def balance(bcs, ra, random):
+    # RA has far more windows, so always guessing RA would look accurate otherwise
+    size = min(len(bcs), len(ra))
+    return random.sample(bcs, size), random.sample(ra, size)
+
+
+def add_labels(bcs, ra, random):
+    labeled = []
+    for window in bcs:
+        labeled.append((window, 0))
+    for window in ra:
+        labeled.append((window, 1))
+    random.shuffle(labeled)
+
+    paragraphs = []
+    labels = []
+    for window, label in labeled:
+        paragraphs.append(window)
+        labels.append(label)
+    return paragraphs, labels
+
+
+def prepare_data(train_ratio=TRAIN_RATIO, seed=SEED):
+    '''
+    returns
+    train paragraphs, train labels, test paragraphs, test labels
+
+    labels
+    0 : Better Call Saul
+    1 : Republic Act
+    '''
+    random = Random(seed)
+
+    train_bcs, test_bcs = split_documents(remove_duplicates(load_bcs()), train_ratio, random)
+    train_ra, test_ra = split_documents(remove_duplicates(load_ra()), train_ratio, random)
+
+    # train goes first so repeated windows are kept in train and removed from test
+    seen = set()
+    train_bcs = remove_repeats(documents_to_windows(train_bcs), seen)
+    train_ra = remove_repeats(documents_to_windows(train_ra, MAX_WINDOWS_PER_ACT), seen)
+    test_bcs = remove_repeats(documents_to_windows(test_bcs), seen)
+    test_ra = remove_repeats(documents_to_windows(test_ra, MAX_WINDOWS_PER_ACT), seen)
+
+    train_bcs, train_ra = balance(train_bcs, train_ra, random)
+    test_bcs, test_ra = balance(test_bcs, test_ra, random)
+
+    train_paragraphs, train_labels = add_labels(train_bcs, train_ra, random)
+    test_paragraphs, test_labels = add_labels(test_bcs, test_ra, random)
+
+    print(f"Train: {len(train_paragraphs)} paragraphs, Test: {len(test_paragraphs)} paragraphs")
+    return train_paragraphs, train_labels, test_paragraphs, test_labels
