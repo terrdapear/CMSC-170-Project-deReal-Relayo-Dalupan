@@ -21,5 +21,25 @@ def load_and_bow_everyth(path): #called from main
 
     return bag
 
+def load_and_bow_list(path):
+
+    bags = []
+
+    print(f"Loading files from {path}\n")
+    for root,dirs,files in os.walk(path):
+        print(f"Loading {len(files)} files...\n")
+        for file in files:
+            # print(f"loading {file}")
+            file_path = os.path.join(root,file)
+
+            with open(file_path,'r',encoding="utf-8") as f:
+                bags.append([Counter(),file])
+                clean_update(bags[-1][0],f.read())
+                f.close()
+
+    print(f"{path} loaded\n")
+    print(f"Created {len(bags)} bags, totalling {sum([total_words(bag[0]) for bag in bags])} words. ")
+    return bags
+
 
 
