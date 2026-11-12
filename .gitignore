@@ -1,4 +1,7 @@
 RA/RA_single
 
+# made by helper_scripts/parq_to_txt.py, too big for GitHub (over 100 MB)
+repacts_with_summary.txt
+
 # python cache, made fresh on every machine
 __pycache__/
