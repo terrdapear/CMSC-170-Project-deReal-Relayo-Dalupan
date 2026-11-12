@@ -1,1 +1,4 @@
 RA/RA_single
+
+# python cache, made fresh on every machine
+__pycache__/
