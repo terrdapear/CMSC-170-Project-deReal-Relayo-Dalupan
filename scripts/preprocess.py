@@ -213,7 +213,7 @@ def load_folder(path):
     return texts
 
 
-def prepare_data_folders(train_bcs, train_ra, test_bcs, test_ra):
+def prepare_data_folders(bcs,ra,test_ratio): # test_ratio out of 100
     '''
     returns
     train paragraphs, train labels, test paragraphs, test labels
@@ -224,15 +224,23 @@ def prepare_data_folders(train_bcs, train_ra, test_bcs, test_ra):
     0 : Better Call Saul
     1 : Republic Act
     '''
-    bcs = load_folder(train_bcs)
-    ra = load_folder(train_ra)
-    train_paragraphs = bcs + ra
-    train_labels = [0] * len(bcs) + [1] * len(ra)
+    bcs = load_folder(bcs)
+    ra = load_folder(ra)
 
-    bcs = load_folder(test_bcs)
-    ra = load_folder(test_ra)
-    test_paragraphs = bcs + ra
-    test_labels = [0] * len(bcs) + [1] * len(ra)
+    m,n = len(bcs),len(ra)
+
+    men = min(m,n)
+    bcs,ra = bcs[:men],ra[:men]
+
+    bcs_train = bcs[:men*test_ratio//100]
+    ra_train = ra[:men*test_ratio//100]
+    train_paragraphs = bcs_train + ra_train
+    train_labels = [0] * len(bcs_train) + [1] * len(ra_train)
+
+    bcs_test = bcs[men*test_ratio//100:]
+    ra_test = ra[men*test_ratio//100:]
+    test_paragraphs = bcs_test + ra_test
+    test_labels = [0] * len(bcs_test) + [1] * len(ra_test)
 
     print(f"Train: {len(train_paragraphs)} files, Test: {len(test_paragraphs)} files")
     return train_paragraphs, train_labels, test_paragraphs, test_labels

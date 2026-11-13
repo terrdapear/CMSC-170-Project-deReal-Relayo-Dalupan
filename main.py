@@ -31,12 +31,10 @@ MAX_EPOCHS = 20
 #.-._.-._.- Parameters .-._.-._.-#
 
 
-BCS_DIR = "Data/Training/BCS"
-RA_DIR = "Data/Training/RA"
-
-BCS_TEST = "Data/Testing/BCS"
-RA_TEST = "Data/Testing/RA"
-
+BCS_DIR = "Better_Call_Saul_Transcripts/per10"
+RA_DIR = "RA/RA_single/per10"
+test_ratio = 80
+#int from 0 to 100
 
 #the classes are balanced, so a model has to beat this to be learning anything
 class AlwaysRA:
@@ -58,7 +56,7 @@ def print_results(rows):
 def main():
 
     print(f"---------- LOAD and PREPROCESS ----------")
-    train,train_labels,test,test_labels = prepare_data_folders(BCS_DIR,RA_DIR,BCS_TEST,RA_TEST)
+    train,train_labels,test,test_labels = prepare_data_folders(BCS_DIR,RA_DIR,test_ratio)
     print(f"---------- LOAD and PREPROCESS ----------")
 
     rows = [("Always RA",0,evaluate(AlwaysRA(),test,test_labels))]
@@ -67,16 +65,19 @@ def main():
     start = perf_counter()
     BCS,RA = make_class_bags(train,train_labels)
     NB = NB_for_2(BCS,RA,LAPLACE)
+    print("Testing Naive Bayes...")
     rows.append(("Naive Bayes",perf_counter()-start,evaluate(NB,test,test_labels)))
 
     start = perf_counter()
     BCS_list,RA_list = make_bag_lists(train,train_labels)
     KNN = KNN_for_2_colors(BCS_list,RA_list,K,P)
+    print("Testing KNN...")
     rows.append(("KNN",perf_counter()-start,evaluate(KNN,test,test_labels)))
 
     PT = Perceptron(R,BIAS,MAX_EPOCHS,SEED)
     start = perf_counter()
     PT.train(train,train_labels)
+    print("Testing Perceptron...")
     rows.append(("Perceptron",perf_counter()-start,evaluate(PT,test,test_labels)))
 
     print_results(rows)
