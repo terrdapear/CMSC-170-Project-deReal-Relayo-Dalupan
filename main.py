@@ -32,7 +32,7 @@ MAX_EPOCHS = 20
 
 
 BCS_DIR = "Better_Call_Saul_Transcripts/per10"
-RA_DIR = "RA/RA_single/per10"
+RA_DIR = "RA/per10"
 test_ratio = 80
 #int from 0 to 100
 
@@ -44,13 +44,13 @@ class AlwaysRA:
 
 def print_results(rows):
     print("\n---------- RESULTS ----------")
-    print(f"{'':<12}{'Accuracy':>10}{'Precision':>11}{'Recall':>9}{'F1':>9}{'Train (s)':>11}{'Classify (s)':>14}")
+    print(f"{'':<28}{'Accuracy':>10}{'Precision':>11}{'Recall':>9}{'F1':>9}{'Train (s)':>11}{'Classify (s)':>14}")
     for name,train_time,r in rows:
-        print(f"{name:<12}{r['accuracy']:>10.4f}{r['precision']:>11.4f}{r['recall']:>9.4f}{r['f1']:>9.4f}{train_time:>11.3f}{r['runtime']:>14.3f}")
+        print(f"{name:<28}{r['accuracy']:>10.4f}{r['precision']:>11.4f}{r['recall']:>9.4f}{r['f1']:>9.4f}{train_time:>11.3f}{r['runtime']:>14.3f}")
 
-    print(f"\n{'':<12}{'TP':>7}{'FN':>7}{'FP':>7}{'TN':>7}")
+    print(f"\n{'':<28}{'TP':>7}{'FN':>7}{'FP':>7}{'TN':>7}")
     for name,train_time,r in rows:
-        print(f"{name:<12}{r['tp']:>7}{r['fn']:>7}{r['fp']:>7}{r['tn']:>7}")
+        print(f"{name:<28}{r['tp']:>7}{r['fn']:>7}{r['fp']:>7}{r['tn']:>7}")
 
 
 def main():
@@ -68,11 +68,13 @@ def main():
     print("Testing Naive Bayes...")
     rows.append(("Naive Bayes",perf_counter()-start,evaluate(NB,test,test_labels)))
 
-    start = perf_counter()
-    BCS_list,RA_list = make_bag_lists(train,train_labels)
-    KNN = KNN_for_2_colors(BCS_list,RA_list,K,P)
-    print("Testing KNN...")
-    rows.append(("KNN",perf_counter()-start,evaluate(KNN,test,test_labels)))
+    for K in [3,5,11]:
+        for P in [1,2]:
+            start = perf_counter()
+            BCS_list,RA_list = make_bag_lists(train,train_labels)
+            KNN = KNN_for_2_colors(BCS_list,RA_list,K,P)
+            print(f"Testing KNN [K={K} P={P}]...")
+            rows.append((f"KNN [K={K} P={P}]",perf_counter()-start,evaluate(KNN,test,test_labels)))
 
     PT = Perceptron(R,BIAS,MAX_EPOCHS,SEED)
     start = perf_counter()
