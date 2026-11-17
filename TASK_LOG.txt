@@ -1,0 +1,48 @@
+CATgpt Task Log
+CMSC 170 EF-6L
+
+Members: Terrence de Real, Angelo Rene Dalupan, Cris Benedict Relayo (Leader)
+
+
+MILESTONE 1: Proposal and setup
+
+Oct 21  Group      Chose the two datasets: Republic Acts with Summaries and Better Call Saul transcripts.
+Oct 21  Terrence   Created the GitHub repo and added the instructor.
+Oct 23  Group      Completed and submitted the Milestone 1 proposal.
+Oct 27  Group      Revised the Milestone 1 proposal.
+
+
+MILESTONE 2: Data preparation and implementation
+
+Oct 28  Terrence   Added the Better Call Saul transcripts and the Republic Acts Parquet file to the repo.
+Nov 1   Terrence   Set up the folders. Wrote the bag of words, loading and preprocessing functions and main.py.
+                   Converted the Republic Acts to text and split them into 3,995 files.
+Nov 2   Terrence   Wrote the Naive Bayes classifier and the KNN model. Made the train/test split in Data/.
+Nov 2   Cris       Wrote the data loading, the Perceptron, duplicate removal, word windows, the train/test
+                   split code and the evaluation metrics. Connected all three methods in main.py.
+Nov 2   Group      Wrote the Milestone 2 report.
+Nov 2   Cris       Submitted the Milestone 2 report and code zip, and pushed them to the repo.
+
+
+PRESENTATION: Milestones 1 and 2
+
+Nov 5   Angelo     Provided the slide template.
+Nov 5   Angelo     Made the slides from Data to Methods.
+Nov 5   Cris       Made the slides from Evaluation of Methods to Train/Test Split.
+Nov 5   Terrence   Made the slides from the GitHub Repo to the end.
+Nov 6   Group      Presented Milestones 1 and 2.
+
+
+MILESTONE 3: Comparison
+
+Nov 12  Cris       Cleaned up the repo: stopped tracking Python cache files, removed unused test functions
+                   and loaders, and matched the Republic Acts conversion file names.
+Nov 12  Terrence   Removed the headers and footers from the Better Call Saul transcripts.
+Nov 13  Terrence   Cut both datasets into 10, 20 and 50-word paragraphs. Changed the data loading to
+                   balance the classes and split them 80-20.
+Nov 13  Terrence   Ran the Naive Bayes and Perceptron tests on 10, 20 and 50-word paragraphs.
+Nov 13  Cris       Added the Republic Acts paragraph cleaner and kept the paragraph folder out of Git.
+Nov 13  Cris       Made KNN faster and ran the KNN tests for k = 3, 5, 11 and p = 1, 2.
+Nov 13  Group      Picked the best setting of each method and wrote the Milestone 3 report.
+Nov 13  Cris       Submitted the Milestone 3 report and pushed the PDF to the repo.
+Nov 16  Cris       Merged the Milestone 3 work into main.
