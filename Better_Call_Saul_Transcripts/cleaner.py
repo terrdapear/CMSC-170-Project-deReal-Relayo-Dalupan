@@ -18,9 +18,8 @@ def clean(s: str):
     s_new = "".join([c for c in s.lower() if c in VALID_CHAR])
     return s_new if s_new!='' else None
 
-def main():
+def main(cap):
     path = "cleaned"
-    cap = 50
     path2=f"per{cap}"
     os.makedirs(path2, exist_ok=True)
     
@@ -50,10 +49,6 @@ def main():
             temp = 0
             count+=1
                 
-
-
-    
-    
-
-main()
-
+cleaner()
+for cap in [10, 20, 50]:
+    main(cap)
