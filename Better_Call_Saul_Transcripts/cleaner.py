@@ -1,6 +1,7 @@
 import os
 
 def cleaner():
+    os.makedirs("cleaned", exist_ok=True)
     path = "All_Seasons"
     for file in sorted(os.listdir(path)):
         text = []
@@ -21,6 +22,7 @@ def main():
     path = "cleaned"
     cap = 50
     path2=f"per{cap}"
+    os.makedirs(path2, exist_ok=True)
     
     count = 0
     for file in sorted(os.listdir(path)):

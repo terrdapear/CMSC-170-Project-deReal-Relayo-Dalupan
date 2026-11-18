@@ -1,3 +1,5 @@
+import os
+
 VALID_CHAR = set([x for x in 'abcdefghijklmnopqrstuvwxyz1234567890'])
 
 def clean(s: str):
@@ -10,7 +12,8 @@ def main():
     cnt = 0
     cap = 10
     path = f"per{cap}"
-    with open("repacts_with_summary.txt",'r') as f:
+    os.makedirs(path, exist_ok=True)
+    with open("repacts_with_summary.txt",'r', encoding="utf-8") as f:
         words = []
         for line in f:
             for word in line.split():
@@ -19,11 +22,11 @@ def main():
                     continue
                 words.append(word)
                 if len(words)==cap:
-                    with open(f"per{cap}/{cnt:08d}.txt",'w') as g:
+                    with open(f"{path}/{cnt:08d}.txt",'w', encoding="utf-8") as g:
                         g.write(" ".join(words))
                     words.clear()
                     cnt+=1
-        with open(f"per{cap}/{cnt:08d}.txt",'w') as g:
+        with open(f"{path}/{cnt:08d}.txt",'w', encoding="utf-8") as g:
             g.write(" ".join(words))
 
 main()
