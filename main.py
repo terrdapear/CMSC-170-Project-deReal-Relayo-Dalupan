@@ -33,7 +33,7 @@ MAX_EPOCHS = 20
 
 BCS_DIR = "Better_Call_Saul_Transcripts/per10"
 RA_DIR = "RA/per10"
-test_ratio = 80
+train_percent = 80
 #int from 0 to 100
 
 #the classes are balanced, so a model has to beat this to be learning anything
@@ -56,7 +56,7 @@ def print_results(rows):
 def main():
 
     print(f"---------- LOAD and PREPROCESS ----------")
-    train,train_labels,test,test_labels = prepare_data_folders(BCS_DIR,RA_DIR,test_ratio)
+    train,train_labels,test,test_labels = prepare_data_folders(BCS_DIR,RA_DIR,train_percent)
     print(f"---------- LOAD and PREPROCESS ----------")
 
     rows = [("Always RA",0,evaluate(AlwaysRA(),test,test_labels))]

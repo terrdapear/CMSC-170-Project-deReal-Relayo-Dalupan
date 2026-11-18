@@ -16,13 +16,13 @@ def load_folder(path, files):
     return texts
 
 
-def prepare_data_folders(bcs,ra,test_ratio): # test_ratio out of 100
+def prepare_data_folders(bcs,ra,train_percent): # train_percent out of 100
     '''
     returns
     train paragraphs, train labels, test paragraphs, test labels
 
     Each file in the folders is one paragraph. Both folders are cut to the
-    same number of files, and the first test_ratio% of each goes to training.
+    same number of files, and the first train_percent% of each goes to training.
 
     labels
     0 : Better Call Saul
@@ -38,13 +38,13 @@ def prepare_data_folders(bcs,ra,test_ratio): # test_ratio out of 100
     bcs = load_folder(bcs,bcs_files[:men])
     ra = load_folder(ra,ra_files[:men])
 
-    bcs_train = bcs[:men*test_ratio//100]
-    ra_train = ra[:men*test_ratio//100]
+    bcs_train = bcs[:men*train_percent//100]
+    ra_train = ra[:men*train_percent//100]
     train_paragraphs = bcs_train + ra_train
     train_labels = [0] * len(bcs_train) + [1] * len(ra_train)
 
-    bcs_test = bcs[men*test_ratio//100:]
-    ra_test = ra[men*test_ratio//100:]
+    bcs_test = bcs[men*train_percent//100:]
+    ra_test = ra[men*train_percent//100:]
     test_paragraphs = bcs_test + ra_test
     test_labels = [0] * len(bcs_test) + [1] * len(ra_test)
 
