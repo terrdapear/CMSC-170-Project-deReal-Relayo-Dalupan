@@ -204,10 +204,14 @@ def prepare_data(train_ratio=TRAIN_RATIO, seed=SEED):
     return train_paragraphs, train_labels, test_paragraphs, test_labels
 
 
-def load_folder(path):
+def list_folder(path):
     # sorted so every run sees the same order
+    return sorted(os.listdir(path))
+
+
+def load_folder(path, files):
     texts = []
-    for file in sorted(os.listdir(path)):
+    for file in files:
         with open(os.path.join(path, file), 'r', encoding="utf-8") as f:
             texts.append(f.read())
     return texts
@@ -224,13 +228,15 @@ def prepare_data_folders(bcs,ra,test_ratio): # test_ratio out of 100
     0 : Better Call Saul
     1 : Republic Act
     '''
-    bcs = load_folder(bcs)
-    ra = load_folder(ra)
+    bcs_files = list_folder(bcs)
+    ra_files = list_folder(ra)
 
-    m,n = len(bcs),len(ra)
+    m,n = len(bcs_files),len(ra_files)
 
+    #only the first men files of each are used, so only those are read
     men = min(m,n)
-    bcs,ra = bcs[:men],ra[:men]
+    bcs = load_folder(bcs,bcs_files[:men])
+    ra = load_folder(ra,ra_files[:men])
 
     bcs_train = bcs[:men*test_ratio//100]
     ra_train = ra[:men*test_ratio//100]
