@@ -85,5 +85,23 @@
 
 <p>The RA paragraphs are too many files for GitHub, so they are not in the repository. The <a href="https://github.com/terrdapear/CMSC-170-Project-deReal-Relayo-Dalupan/blob/main/README.md">README</a> shows how to make them from RA/RA_split.</p>
 
+<h2 id="methods">Methods</h2>
+
+<p>We compare Naive Bayes, K-Nearest Neighbors (KNN) and the Perceptron. All three use the same bag of words for each paragraph, so they solve the same task with the same input. We wrote every method ourselves in Python, using only the standard library. Each method is a Python class in its own file in the scripts folder.</p>
+
+<h3>Naive Bayes (scripts/NB.py)</h3>
+<p><b>How it works:</b> Naive Bayes learns how likely each word is to appear in RA and in BCS paragraphs. It then classifies a new paragraph by which class most likely produced its words.</p>
+<p><b>How we implemented it:</b> We follow the CMSC 170 laboratory module. The model keeps the word counts of all RA training paragraphs and of all BCS training paragraphs. The probability of a word given a class uses add-k (Laplace) smoothing:</p>
+<p>P(word | class) = (count of the word in the class + k) / (total words in the class + k &times; vocabulary size)</p>
+<p>Multiplying many small probabilities made our scores go to 0 in Milestone 2, so instead we add up their logs, based on Jurafsky and Martin. The paragraph goes to the class with the higher log score. Words that never appeared in training are skipped.</p>
+
+<h3>K-Nearest Neighbors (scripts/KNN.py)</h3>
+<p><b>How it works:</b> KNN compares a new paragraph to every training paragraph and labels it by the majority vote of the k closest ones. Each word is one dimension, and the distance between two paragraphs is the Minkowski distance with exponent p (p = 1 is Manhattan distance, p = 2 is Euclidean distance).</p>
+<p><b>How we implemented it:</b> In Milestone 2, KNN turned every bag of words into a point with one number for every word in the vocabulary. With 38,678 training paragraphs and 16,703 words, that is about 646 million numbers, which was too slow to finish. The new version keeps each bag as a dictionary and keeps an index of which training paragraphs contain each word. It only computes the full distance for paragraphs that share a word with the test paragraph. For the rest, the distance only depends on the size of each bag, so we use a list sorted by size. The distances are exactly the same as before.</p>
+
+<h3>Perceptron (scripts/perceptron.py)</h3>
+<p><b>How it works:</b> The Perceptron learns a weight for each word and predicts RA if the weighted sum is positive. It adjusts the weights whenever it makes a mistake.</p>
+<p><b>How we implemented it:</b> We follow the same steps as in our laboratory exercise. The two classes become desired outputs of -1 (BCS) and 1 (RA). The model computes v = sum(w<sub>i</sub> &times; x<sub>i</sub>) + b and outputs 1 if v &gt; 0, and -1 otherwise. When the output y does not match the desired output d, it updates each weight using w(n+1) = w(n) + r(d - y)x, and the bias in the same way. Weights are stored in a dictionary by word, since most words do not appear in a given paragraph, and a word with no weight yet counts as 0. The training data is shuffled every epoch with a fixed seed, so the classes are mixed and the results repeat. Training stops when an epoch has no mistakes or after 20 epochs, since the data might not be linearly separable.</p>
+
 </body>
 </html>
