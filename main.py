@@ -10,20 +10,20 @@ from time import perf_counter
 #same seed, same shuffles in the Perceptron
 SEED = 170
 
-#NB smoothing
-LAPLACE = 1
+#NB smoothing, one run for each
+LAPLACES = [1,0.5,0.1]
 
 #k in KNN
-K = 7
+KS = [3,5,11]
 
 #distance exponent in KNN
-P = 2
+PS = [1,2]
 
 #Perceptron learning rate
-R = 1
+RS = [1,0.5,0.1]
 
 #Perceptron starting bias
-BIAS = 0
+BIASES = [0,1,-1]
 
 #Perceptron stops here if it still makes mistakes
 MAX_EPOCHS = 20
@@ -61,26 +61,29 @@ def main():
 
     rows = [("Always RA",0,evaluate(AlwaysRA(),test,test_labels))]
 
-    #bags are made here since they are part of training NB
-    start = perf_counter()
-    BCS,RA = make_class_bags(train,train_labels)
-    NB = NB_for_2(BCS,RA,LAPLACE)
-    print("Testing Naive Bayes...")
-    rows.append(("Naive Bayes",perf_counter()-start,evaluate(NB,test,test_labels)))
+    for LAPLACE in LAPLACES:
+        #bags are made here since they are part of training NB
+        start = perf_counter()
+        BCS,RA = make_class_bags(train,train_labels)
+        NB = NB_for_2(BCS,RA,LAPLACE)
+        print(f"Testing Naive Bayes [k={LAPLACE}]...")
+        rows.append((f"Naive Bayes [k={LAPLACE}]",perf_counter()-start,evaluate(NB,test,test_labels)))
 
-    for K in [3,5,11]:
-        for P in [1,2]:
+    for K in KS:
+        for P in PS:
             start = perf_counter()
             BCS_list,RA_list = make_bag_lists(train,train_labels)
             KNN = KNN_for_2_colors(BCS_list,RA_list,K,P)
             print(f"Testing KNN [K={K} P={P}]...")
             rows.append((f"KNN [K={K} P={P}]",perf_counter()-start,evaluate(KNN,test,test_labels)))
 
-    PT = Perceptron(R,BIAS,MAX_EPOCHS,SEED)
-    start = perf_counter()
-    PT.train(train,train_labels)
-    print("Testing Perceptron...")
-    rows.append(("Perceptron",perf_counter()-start,evaluate(PT,test,test_labels)))
+    for R in RS:
+        for BIAS in BIASES:
+            PT = Perceptron(R,BIAS,MAX_EPOCHS,SEED)
+            start = perf_counter()
+            PT.train(train,train_labels)
+            print(f"Testing Perceptron [r={R} b={BIAS}]...")
+            rows.append((f"Perceptron [r={R} b={BIAS}]",perf_counter()-start,evaluate(PT,test,test_labels)))
 
     print_results(rows)
 
