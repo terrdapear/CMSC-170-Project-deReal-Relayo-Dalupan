@@ -47,5 +47,43 @@
 
 <p>Republic Acts are formal government documents, while the transcripts are informal TV dialogue. We want to measure how different the two kinds of text are, and to compare how three machine learning methods do at classifying unseen text, in both accuracy and speed. We also look at how changing each method's parameters, like the smoothing factor in Naive Bayes or k in KNN, changes its results.</p>
 
+<h2 id="dataset">Dataset</h2>
+
+<h3>Sources</h3>
+<ul>
+  <li><b>Republic Acts:</b> <a href="https://data.bettergov.ph/datasets/24/resources/437">Republic Acts with Summaries (Parquet)</a> from BetterGov.PH, part of their <a href="https://huggingface.co/datasets/bettergovph/gov-library">gov-library</a> of Philippine legal documents converted from Lawphil.net.</li>
+  <li><b>Better Call Saul:</b> the 63 episode transcripts of Better Call Saul (2015-2022) from <a href="https://subslikescript.com/series/Better_Call_Saul-3032476">Subslikescript</a>.</li>
+</ul>
+
+<p>The TV show transcripts are used only for natural language processing research. Under Section 185 of Republic Act No. 8293 (the Intellectual Property Code of the Philippines), using copyrighted works for research and scholarship is fair use. All rights to the original works stay with their copyright holders.</p>
+
+<h3>Samples, features and target</h3>
+<ul>
+  <li><b>Samples:</b> 10-word paragraphs of text.</li>
+  <li><b>Features:</b> a bag of words for each paragraph, which is how many times each word appears in it. The training paragraphs have a vocabulary of 16,703 words (12,115 in BCS and 7,574 in RA).</li>
+  <li><b>Target:</b> the class of the paragraph. RA is the positive class (label 1) and BCS is the negative class (label 0).</li>
+</ul>
+
+<h3>Size</h3>
+<table border="1">
+  <tr><th></th><th>Better Call Saul</th><th>Republic Acts</th></tr>
+  <tr><td>10-word paragraphs made</td><td>24,174</td><td>1,689,912</td></tr>
+  <tr><td>Paragraphs used</td><td>24,174 (all)</td><td>24,174 (the first ones, acts from 1946-1947)</td></tr>
+  <tr><td>Training paragraphs</td><td>19,339</td><td>19,339</td></tr>
+  <tr><td>Test paragraphs</td><td>4,835</td><td>4,835</td></tr>
+</table>
+
+<h3>Preprocessing</h3>
+<ol>
+  <li><b>Parquet to text (RA, done once).</b> The Republic Acts were converted from Parquet to one tab-separated text file (helper_scripts/parq_to_txt.py). This is the only step that uses pandas. The data loading, preprocessing and method code do not use it. The file was larger than GitHub's 100 MB limit, so RA/split.py cut it into the 3,995 files in RA/RA_split.</li>
+  <li><b>Remove website text (BCS).</b> We removed the first 4 lines (title and source) and the last 3 lines (footer) of each transcript (Better_Call_Saul_Transcripts/cleaner.py).</li>
+  <li><b>Clean.</b> We lowercased every word and removed every character outside a-z and 0-9, so "Court's" becomes "courts". Words left empty are dropped.</li>
+  <li><b>Cut into 10-word paragraphs.</b> Every 10 words are saved as one paragraph file. A BCS paragraph never runs into the next episode, so the last one in each episode can be shorter (Better_Call_Saul_Transcripts/cleaner.py and RA/cleaner.py).</li>
+  <li><b>Balance.</b> There are far more RA paragraphs, so we only keep the first 24,174 paragraphs of each class, the size of the smaller class (prepare_data_folders in scripts/preprocess.py). With balanced classes, always guessing one class only gets 50% accuracy.</li>
+  <li><b>Bag of words.</b> Each paragraph is turned into word counts (scripts/bow.py).</li>
+</ol>
+
+<p>The RA paragraphs are too many files for GitHub, so they are not in the repository. The <a href="https://github.com/terrdapear/CMSC-170-Project-deReal-Relayo-Dalupan/blob/main/README.md">README</a> shows how to make them from RA/RA_split.</p>
+
 </body>
 </html>
