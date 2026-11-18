@@ -1,5 +1,3 @@
-from collections import Counter
-
 VALID_CHAR = set([x for x in 'abcdefghijklmnopqrstuvwxyz1234567890'])
 
 def clean(s: str):
