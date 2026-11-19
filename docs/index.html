@@ -103,5 +103,38 @@
 <p><b>How it works:</b> The Perceptron learns a weight for each word and predicts RA if the weighted sum is positive. It adjusts the weights whenever it makes a mistake.</p>
 <p><b>How we implemented it:</b> We follow the same steps as in our laboratory exercise. The two classes become desired outputs of -1 (BCS) and 1 (RA). The model computes v = sum(w<sub>i</sub> &times; x<sub>i</sub>) + b and outputs 1 if v &gt; 0, and -1 otherwise. When the output y does not match the desired output d, it updates each weight using w(n+1) = w(n) + r(d - y)x, and the bias in the same way. Weights are stored in a dictionary by word, since most words do not appear in a given paragraph, and a word with no weight yet counts as 0. The training data is shuffled every epoch with a fixed seed, so the classes are mixed and the results repeat. Training stops when an epoch has no mistakes or after 20 epochs, since the data might not be linearly separable.</p>
 
+<h2 id="setup">Experimental Setup</h2>
+
+<h3>Data split</h3>
+<p>We read the files in sorted order and use the first 80% of each class for training and the last 20% for testing. That is 19,339 training and 4,835 test paragraphs per class, or 38,678 and 9,670 in total. We only use one split because our instructor pointed out that the split ratio can affect KNN. Since the split is not shuffled, the test paragraphs come from different episodes and acts than the training ones. For example, the BCS test paragraphs are from the last episodes in alphabetical order (Something Beautiful to Witness).</p>
+<p>All three methods use the same paragraphs and the same preprocessing. The Perceptron shuffles its training data with seed 170, so we get the same results every run. Only the times change.</p>
+
+<h3>Hyperparameters</h3>
+<table border="1">
+  <tr><th>Method</th><th>Parameter</th><th>Values tested</th></tr>
+  <tr><td>Naive Bayes</td><td>Smoothing factor k (Laplace / add-k)</td><td>1, 0.5, 0.1</td></tr>
+  <tr><td>Perceptron</td><td>Learning rate r</td><td>1, 0.5, 0.1</td></tr>
+  <tr><td>Perceptron</td><td>Starting bias</td><td>0, 1, -1</td></tr>
+  <tr><td>Perceptron</td><td>Maximum epochs</td><td>20</td></tr>
+  <tr><td>KNN</td><td>k, distance exponent p</td><td>k = 3, 5, 11; p = 1, 2</td></tr>
+</table>
+
+<h3>Metrics</h3>
+<p>We wrote all the metrics ourselves in scripts/metrics.py. RA is the positive class and BCS is the negative class.</p>
+<table border="1">
+  <tr><th></th><th>Predicted RA</th><th>Predicted BCS</th></tr>
+  <tr><th>Actual RA</th><td>True Positive (TP)</td><td>False Negative (FN)</td></tr>
+  <tr><th>Actual BCS</th><td>False Positive (FP)</td><td>True Negative (TN)</td></tr>
+</table>
+<ul>
+  <li><b>Accuracy</b> = (TP + TN) / (TP + TN + FP + FN): how many paragraphs were classified correctly.</li>
+  <li><b>Precision</b> = TP / (TP + FP): of the paragraphs called RA, how many really were RA.</li>
+  <li><b>Recall</b> = TP / (TP + FN): of the real RA paragraphs, how many the model found.</li>
+  <li><b>F1</b> = 2 &times; Precision &times; Recall / (Precision + Recall)</li>
+  <li><b>Training time and classification runtime:</b> seconds to build the model, and seconds to classify all the test paragraphs.</li>
+</ul>
+<p>Precision and recall usually trade off: calling more paragraphs RA raises recall but lowers precision, and the other way around. F1 is the harmonic mean of the two, so it is only high when both are high.</p>
+<p>We also report a baseline that always predicts RA. It still gets 100% recall and a 66.67% F1, so a method has to beat it to show that it learned anything.</p>
+
 </body>
 </html>
