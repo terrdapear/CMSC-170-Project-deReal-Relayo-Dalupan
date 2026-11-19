@@ -187,5 +187,50 @@
 <h3>Figures</h3>
 <p>(Figures will be added here.)</p>
 
+<h2 id="discussion">Discussion</h2>
+
+<h3>Comparing the methods</h3>
+<p>All three methods beat the Always RA baseline (50%). Naive Bayes (k = 1) had the highest accuracy (98.73%), recall (98.68%) and F1 (98.73%), and the shortest training time (0.257 s). The Perceptron (r = 0.1, bias 0) was second with 98.43% accuracy and had the fastest classification time (0.083 s), but the longest training time (2.499 s). KNN (k = 3, p = 2) had the lowest accuracy (81.10%) but the highest precision (99.15%), and it took about 115 seconds to classify, compared to about 0.1 seconds for the other two.</p>
+
+<h3>Naive Bayes</h3>
+<p>All three smoothing values scored between 98.61% and 98.73%. k = 1 had the highest accuracy, recall and F1, while k = 0.1 had the highest precision (98.96%). As k got smaller, false negatives went up (64, 74, 84) and false positives went down (59, 55, 50).</p>
+<p><b>Why:</b> the two classes use very different words. Of the 16,703 words in the training paragraphs, 12,115 appear in BCS and 7,574 in RA, so only 2,986 appear in both. Naive Bayes adds up the evidence from every word in a paragraph, so 10 words are usually enough. It is also fast, since training only counts words and classifying only looks up the words in the paragraph.</p>
+
+<h3>Perceptron</h3>
+<p>All nine settings scored between 97.76% and 98.43%, and r = 0.1 with bias 0 scored the highest. With a starting bias of 0 or 1, r = 1 and r = 0.5 gave exactly the same results. Every setting except r = 0.1 with bias 0 made more false negatives than false positives, so precision was higher than recall.</p>
+<p><b>Why:</b></p>
+<ul>
+  <li>Like Naive Bayes, the Perceptron gives each word a weight and adds them up, so it also does well. With r = 1 and bias 0, it was still making 22 mistakes on the training data at epoch 20, so it never found weights that classify every training paragraph correctly.</li>
+  <li>With a starting bias of 0, the learning rate only scales all the weights by the same amount, so it does not change which side of 0 the sum lands on. This is why r = 1 and r = 0.5 gave the same results with bias 0.</li>
+  <li>When the sum is exactly 0, our Perceptron outputs -1 (BCS). With r = 1 and bias 0, 48 test paragraphs had a sum of exactly 0, and 37 of them were RA. This is part of why it made more false negatives.</li>
+  <li>0.1 cannot be stored exactly as a floating-point number, so with r = 0.1, sums that should be exactly 0 come out slightly above or below 0, and these paragraphs no longer all go to BCS. This, not the learning rate itself, is why r = 0.1 scored higher.</li>
+</ul>
+
+<h3>KNN</h3>
+<p>Every setting had a precision above 98.7% but a recall of only 19.42% to 62.73%, so almost all of its mistakes were RA paragraphs classified as BCS (1,802 to 3,896 false negatives, but at most 26 false positives). p = 2 scored higher than p = 1 for every k, and accuracy went down as k went up: from 81.10% to 69.82% with p = 2, and from 75.34% to 59.70% with p = 1. Training took about 0.5 seconds, but classifying took 115 to 125 seconds.</p>
+<p><b>Why:</b></p>
+<ul>
+  <li><b>Ties.</b> A 10-word paragraph shares no words with most training paragraphs, and many of those are exactly the same distance away (for example, 20 with p = 1 when neither paragraph repeats a word). So there are usually many training paragraphs tied for the k-th closest spot. Our code keeps the BCS ones first when there is a tie. For 1,204 to 1,833 test paragraphs per setting, the tie decided the answer, and most of these were RA paragraphs. This is why KNN made thousands of false negatives but almost no false positives.</li>
+  <li><b>Identical paragraphs.</b> Our code skips training paragraphs at distance 0 (the exact same words). 276 test paragraphs have such a match, and 274 of them are RA, since Republic Acts repeat phrases like "be it enacted by the senate and house of representatives". Skipping them throws away the closest match.</li>
+  <li><b>p and k.</b> With p = 2, a repeated word counts more, so there are fewer exact ties, which is why p = 2 did better. A larger k takes more neighbors from the tied group, so more of them are BCS, which is why accuracy went down as k went up.</li>
+  <li><b>Speed.</b> KNN does its work at classification time: it compares each test paragraph to the training paragraphs, about 12 ms per paragraph. Naive Bayes and the Perceptron only look up the words in the paragraph.</li>
+</ul>
+
+<h3>Limitations</h3>
+<ul>
+  <li><b>KNN ties.</b> The KNN results above come from code that breaks ties in favor of BCS and skips identical paragraphs. We are fixing this, and the KNN results will change.</li>
+  <li><b>Metadata in the RA paragraphs.</b> The RA file still has table columns like IDs, file paths and summary headings. About 167 of the 24,174 paragraphs we used (less than 1%) contain this.</li>
+  <li><b>Narrow RA sample.</b> The paragraphs we used only cover acts from 1946 and 1947.</li>
+  <li><b>One run.</b> Every setting was run once on one split.</li>
+  <li><b>Too many files.</b> The RA paragraphs make 1,689,912 files, which is too many for GitHub, even though we only use 24,174 of them.</li>
+</ul>
+
+<h3>Possible improvements</h3>
+<ul>
+  <li>Break KNN ties fairly and keep identical training paragraphs.</li>
+  <li>Remove the table columns from the RA text before cutting it into paragraphs.</li>
+  <li>Use Republic Acts from more years, not only the first ones in the file.</li>
+</ul>
+
 </body>
 </html>
