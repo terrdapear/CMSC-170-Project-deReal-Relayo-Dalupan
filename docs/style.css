@@ -10,6 +10,7 @@ body {
   line-height: 1.6;
   color: #222;
   background: #fff;
+  overflow-wrap: break-word; /* long links wrap instead of sticking out */
 }
 
 /* Headings */
@@ -66,4 +67,11 @@ th {
 }
 .numbers td:first-child {
   white-space: nowrap;
+}
+
+/* A table wider than the page scrolls sideways inside its own box */
+table {
+  display: block;
+  max-width: 100%;
+  overflow-x: auto;
 }
