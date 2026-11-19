@@ -66,7 +66,7 @@
 </ul>
 
 <h3>Size</h3>
-<table border="1">
+<table>
   <tr><th></th><th>Better Call Saul</th><th>Republic Acts</th></tr>
   <tr><td>10-word paragraphs made</td><td>24,174</td><td>1,689,912</td></tr>
   <tr><td>Paragraphs used</td><td>24,174 (all)</td><td>24,174 (the first ones, acts from 1946-1947)</td></tr>
@@ -111,7 +111,7 @@
 <p>All three methods use the same paragraphs and the same preprocessing. The Perceptron shuffles its training data with seed 170, so we get the same results every run. Only the times change.</p>
 
 <h3>Hyperparameters</h3>
-<table border="1">
+<table>
   <tr><th>Method</th><th>Parameter</th><th>Values tested</th></tr>
   <tr><td>Naive Bayes</td><td>Smoothing factor k (Laplace / add-k)</td><td>1, 0.5, 0.1</td></tr>
   <tr><td>Perceptron</td><td>Learning rate r</td><td>1, 0.5, 0.1</td></tr>
@@ -122,7 +122,7 @@
 
 <h3>Metrics</h3>
 <p>We wrote all the metrics ourselves in scripts/metrics.py. RA is the positive class and BCS is the negative class.</p>
-<table border="1">
+<table>
   <tr><th></th><th>Predicted RA</th><th>Predicted BCS</th></tr>
   <tr><th>Actual RA</th><td>True Positive (TP)</td><td>False Negative (FN)</td></tr>
   <tr><th>Actual BCS</th><td>False Positive (FP)</td><td>True Negative (TN)</td></tr>
@@ -143,7 +143,7 @@
 
 <h3>Best setting of each method</h3>
 <p>For each method, we picked the setting with the highest accuracy and F1.</p>
-<table border="1">
+<table class="numbers">
   <tr><th></th><th>Accuracy</th><th>Precision</th><th>Recall</th><th>F1</th><th>Training Time (s)</th><th>Classification Runtime (s)</th></tr>
   <tr><td>Always RA (baseline)</td><td>50.00%</td><td>50.00%</td><td>100.00%</td><td>66.67%</td><td>-</td><td>0.000</td></tr>
   <tr><td>Naive Bayes, k = 1</td><td>98.73%</td><td>98.78%</td><td>98.68%</td><td>98.73%</td><td>0.257</td><td>0.113</td></tr>
@@ -152,7 +152,7 @@
 </table>
 
 <p></p>
-<table border="1">
+<table class="numbers">
   <tr><th></th><th>TP</th><th>FN</th><th>FP</th><th>TN</th></tr>
   <tr><td>Always RA (baseline)</td><td>4,835</td><td>0</td><td>4,835</td><td>0</td></tr>
   <tr><td>Naive Bayes, k = 1</td><td>4,771</td><td>64</td><td>59</td><td>4,776</td></tr>
@@ -161,7 +161,7 @@
 </table>
 
 <h3>Every setting</h3>
-<table border="1">
+<table class="numbers">
   <tr><th></th><th>Accuracy</th><th>Precision</th><th>Recall</th><th>F1</th><th>FN</th><th>FP</th><th>Training Time (s)</th><th>Classification Runtime (s)</th></tr>
   <tr><td>Always RA (baseline)</td><td>50.00%</td><td>50.00%</td><td>100.00%</td><td>66.67%</td><td>0</td><td>4,835</td><td>-</td><td>0.000</td></tr>
   <tr><td><b>Naive Bayes, k = 1</b></td><td>98.73%</td><td>98.78%</td><td>98.68%</td><td>98.73%</td><td>64</td><td>59</td><td>0.257</td><td>0.113</td></tr>

@@ -43,3 +43,27 @@ hr {
   border-top: 1px solid #ddd;
   margin: 24px 0;
 }
+
+/* Tables: shaded header, light lines between rows */
+table {
+  border-collapse: collapse;
+  margin: 16px 0;
+  font-size: 15px;
+}
+th, td {
+  padding: 6px 8px;
+  border-bottom: 1px solid #ddd;
+  text-align: left;
+}
+th {
+  background: #f2f2f2;
+}
+
+/* Results tables (class="numbers"): numbers right-aligned, first column stays left */
+.numbers td + td,
+.numbers th + th {
+  text-align: right;
+}
+.numbers td:first-child {
+  white-space: nowrap;
+}
