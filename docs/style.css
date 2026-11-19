@@ -1,0 +1,45 @@
+/* Style for the CATgpt project page (docs/index.html) */
+
+/* Page: one centered column with easy-to-read text */
+body {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 16px 40px;
+  font-family: system-ui, "Segoe UI", Roboto, Arial, sans-serif;
+  font-size: 17px;
+  line-height: 1.6;
+  color: #222;
+  background: #fff;
+}
+
+/* Headings */
+h1 {
+  font-size: 2em;
+  line-height: 1.25;
+  margin: 32px 0 16px;
+}
+h2 {
+  margin-top: 40px;
+  padding-bottom: 4px;
+  border-bottom: 1px solid #ddd;
+}
+h3 {
+  margin-top: 28px;
+}
+
+/* Links */
+a {
+  color: #0b5cad;
+}
+
+/* Lists: a little space between items */
+li {
+  margin-bottom: 4px;
+}
+
+/* Line under the contents */
+hr {
+  border: 0;
+  border-top: 1px solid #ddd;
+  margin: 24px 0;
+}
