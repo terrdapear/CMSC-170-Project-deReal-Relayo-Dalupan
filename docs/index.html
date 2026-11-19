@@ -232,5 +232,18 @@
   <li>Use Republic Acts from more years, not only the first ones in the file.</li>
 </ul>
 
+<h2 id="conclusion">Conclusion</h2>
+
+<p>All three methods can tell a Republic Act paragraph from a Better Call Saul paragraph much better than guessing, even with only 10 words. Naive Bayes did best overall, with 98.73% accuracy, and was also fast. The Perceptron was close behind at 98.43% and was the fastest to classify. KNN was the weakest at 81.10% and by far the slowest, mostly because of how it breaks ties between equally distant paragraphs, which we are fixing next.</p>
+
+<h2 id="references">References</h2>
+<ul>
+  <li>BetterGov.PH. Republic Acts with Summaries (Parquet). <a href="https://data.bettergov.ph/datasets/24/resources/437">https://data.bettergov.ph/datasets/24/resources/437</a></li>
+  <li>BetterGov.PH. gov-library. Hugging Face. <a href="https://huggingface.co/datasets/bettergovph/gov-library">https://huggingface.co/datasets/bettergovph/gov-library</a></li>
+  <li>Jurafsky, D., &amp; Martin, J. H. Speech and Language Processing (3rd ed. draft), Appendix B. <a href="https://web.stanford.edu/~jurafsky/slp3/B.pdf">https://web.stanford.edu/~jurafsky/slp3/B.pdf</a></li>
+  <li>Subslikescript. Better Call Saul (2015-...) - episodes with scripts. <a href="https://subslikescript.com/series/Better_Call_Saul-3032476">https://subslikescript.com/series/Better_Call_Saul-3032476</a></li>
+  <li>CMSC 170 laboratory modules and exercises on Naive Bayes, KNN and the Perceptron.</li>
+</ul>
+
 </body>
 </html>
