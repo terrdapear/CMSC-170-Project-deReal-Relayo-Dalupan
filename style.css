@@ -182,7 +182,26 @@ figcaption {
   font-size: 14px;
 }
 
+.pair {
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+}
+.pair figure {
+  min-width: 0;
+  margin: 8px 0 20px;
+}
+figure.ra {
+  border-top: 5px solid var(--ra);
+}
+figure.bcs {
+  border-top: 5px solid var(--bcs);
+}
+
 @media (max-width: 600px) {
+  .pair {
+    display: block;
+  }
   body {
     margin: 0;
     padding: 16px 14px 32px;
