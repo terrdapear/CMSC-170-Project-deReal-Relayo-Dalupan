@@ -43,11 +43,11 @@ def main(cap):
                     words.clear()
                     temp = 0
                     count+=1
-            with open(os.path.join(path2,f"{count:05d}.txt"),'w', encoding="utf-8") as g:
-                g.write(" ".join(words))
-            words.clear()
-            temp = 0
-            count+=1
+            # with open(os.path.join(path2,f"{count:05d}.txt"),'w', encoding="utf-8") as g:
+            #     g.write(" ".join(words))
+            # words.clear()
+            # temp = 0
+            # count+=1
                 
 cleaner()
 for cap in [10, 20, 50]:
