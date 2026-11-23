@@ -46,3 +46,32 @@ Nov 13  Cris       Made KNN faster and ran the KNN tests for k = 3, 5, 11 and p 
 Nov 13  Group      Picked the best setting of each method and wrote the Milestone 3 report.
 Nov 13  Cris       Submitted the Milestone 3 report and pushed the PDF to the repo.
 Nov 16  Cris       Merged the Milestone 3 work into main.
+
+
+PROGRESS UPDATE: Milestone 3 results
+
+Nov 18  Cris       Cleaned up the code: main.py runs every setting, faster loading, removed unused code,
+                   and the helper scripts create their folders. Wrote the README and added the task log.
+Nov 18  Terrence   Made the repo public.
+Nov 19  Cris       Made the project page with the Milestone 3 results and its stylesheet.
+Nov 19  Terrence   Turned on GitHub Pages.
+Nov 19  Angelo     Made the slides for the progress update.
+Nov 20  Cris       Moved the project page to the root of the repo.
+Nov 20  Group      Presented the progress update.
+
+
+MILESTONE 4: Tuning and final page
+
+Nov 23  Terrence   Deleted the old Data folder.
+Nov 23  Terrence   Saved the trained models with pickle and made main.py a menu, so training and testing
+                   run separately. Added more settings: k from 3 to 15, r = 0.01, and up to 100 epochs.
+Nov 23  Terrence   Removed the Better Call Saul data with fewer than 10 tokens and retrained the models.
+Nov 23  Cris       Redesigned the project page as a case file, with paper and wood textures, a header image,
+                   and a Republic Act page and the Better Call Saul poster beside the Sources.
+Nov 23  Terrence   Saved the program output to out.txt and ran every setting on the cleaned data.
+Nov 24  Cris       Checked the new Naive Bayes and Perceptron results.
+Nov 24  Cris       Changed the page and README to say "tokens" and "data" instead of "words" and
+                   "paragraphs", as the instructor asked.
+Nov 24  Cris       Updated the dataset and setup numbers on the page for the cleaned data.
+Nov 24  Cris       Updated the Naive Bayes and Perceptron results, their Discussion and the Limitations
+                   on the page.
