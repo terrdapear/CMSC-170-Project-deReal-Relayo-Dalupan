@@ -181,3 +181,17 @@ figcaption {
   font-family: var(--typed);
   font-size: 14px;
 }
+
+@media (max-width: 600px) {
+  body {
+    margin: 0;
+    padding: 16px 14px 32px;
+    box-shadow: none;
+  }
+  h2 {
+    font-size: 1.3em;
+  }
+  .notes {
+    padding: 0 16px 16px;
+  }
+}
