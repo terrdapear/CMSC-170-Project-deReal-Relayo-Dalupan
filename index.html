@@ -72,55 +72,55 @@
 
 <h3>Samples, features and target</h3>
 <ul>
-  <li><b>Samples:</b> 10-word paragraphs of text.</li>
-  <li><b>Features:</b> a bag of words for each paragraph, which is how many times each word appears in it. The training paragraphs have a vocabulary of 16,703 words (12,115 in BCS and 7,574 in RA).</li>
-  <li><b>Target:</b> the class of the paragraph. RA is the positive class (label 1) and BCS is the negative class (label 0).</li>
+  <li><b>Samples:</b> each data point is 10 tokens of text.</li>
+  <li><b>Features:</b> a bag of words for each data point, which is how many times each token appears in it. The training data have a vocabulary of 16,703 distinct tokens (12,115 in BCS and 7,574 in RA).</li>
+  <li><b>Target:</b> the class of the data point. RA is the positive class (label 1) and BCS is the negative class (label 0).</li>
 </ul>
 
 <h3>Size</h3>
 <table>
   <tr><th></th><th class="bcs">Better Call Saul</th><th class="ra">Republic Acts</th></tr>
-  <tr><td>10-word paragraphs made</td><td>24,174</td><td>1,689,912</td></tr>
-  <tr><td>Paragraphs used</td><td>24,174 (all)</td><td>24,174 (the first ones, acts from 1946-1947)</td></tr>
-  <tr><td>Training paragraphs</td><td>19,339</td><td>19,339</td></tr>
-  <tr><td>Test paragraphs</td><td>4,835</td><td>4,835</td></tr>
+  <tr><td>10-token data made</td><td>24,174</td><td>1,689,912</td></tr>
+  <tr><td>Data used</td><td>24,174 (all)</td><td>24,174 (the first ones, acts from 1946-1947)</td></tr>
+  <tr><td>Training data</td><td>19,339</td><td>19,339</td></tr>
+  <tr><td>Test data</td><td>4,835</td><td>4,835</td></tr>
 </table>
 
 <h3>Preprocessing</h3>
 <ol>
   <li><b>Parquet to text (RA, done once).</b> The Republic Acts were converted from Parquet to one tab-separated text file (helper_scripts/parq_to_txt.py). This is the only step that uses pandas. The data loading, preprocessing and method code do not use it. The file was larger than GitHub's 100 MB limit, so RA/split.py cut it into the 3,995 files in RA/RA_split.</li>
   <li><b>Remove website text (BCS).</b> We removed the first 4 lines (title and source) and the last 3 lines (footer) of each transcript (Better_Call_Saul_Transcripts/cleaner.py).</li>
-  <li><b>Clean.</b> We lowercased every word and removed every character outside a-z and 0-9, so "Court's" becomes "courts". Words left empty are dropped.</li>
-  <li><b>Cut into 10-word paragraphs.</b> Every 10 words are saved as one paragraph file. A BCS paragraph never runs into the next episode, so the last one in each episode can be shorter (Better_Call_Saul_Transcripts/cleaner.py and RA/cleaner.py).</li>
-  <li><b>Balance.</b> There are far more RA paragraphs, so we only keep the first 24,174 paragraphs of each class, the size of the smaller class (prepare_data_folders in scripts/preprocess.py). With balanced classes, always guessing one class only gets 50% accuracy.</li>
-  <li><b>Bag of words.</b> Each paragraph is turned into word counts (scripts/bow.py).</li>
+  <li><b>Clean.</b> We split the text at spaces into tokens, lowercased every token and removed every character outside a-z and 0-9, so "Court's" becomes "courts". Tokens left empty are dropped.</li>
+  <li><b>Cut into 10-token data.</b> Every 10 tokens are saved as one data point file. A BCS data point never runs into the next episode, so the last one in each episode can be shorter (Better_Call_Saul_Transcripts/cleaner.py and RA/cleaner.py).</li>
+  <li><b>Balance.</b> There are far more RA data, so we only keep the first 24,174 data of each class, the size of the smaller class (prepare_data_folders in scripts/preprocess.py). With balanced classes, always guessing one class only gets 50% accuracy.</li>
+  <li><b>Bag of words.</b> Each data point is turned into token counts (scripts/bow.py).</li>
 </ol>
 
-<p>The RA paragraphs are too many files for GitHub, so they are not in the repository. The <a href="https://github.com/terrdapear/CMSC-170-Project-deReal-Relayo-Dalupan/blob/main/README.md">README</a> shows how to make them from RA/RA_split.</p>
+<p>The RA data are too many files for GitHub, so they are not in the repository. The <a href="https://github.com/terrdapear/CMSC-170-Project-deReal-Relayo-Dalupan/blob/main/README.md">README</a> shows how to make them from RA/RA_split.</p>
 
 <h2 id="methods">Methods</h2>
 
-<p>We compare Naive Bayes, K-Nearest Neighbors (KNN) and the Perceptron. All three use the same bag of words for each paragraph, so they solve the same task with the same input. We wrote every method ourselves in Python, using only the standard library. Each method is a Python class in its own file in the scripts folder.</p>
+<p>We compare Naive Bayes, K-Nearest Neighbors (KNN) and the Perceptron. All three use the same bag of words for each data point, so they solve the same task with the same input. We wrote every method ourselves in Python, using only the standard library. Each method is a Python class in its own file in the scripts folder.</p>
 
 <h3>Naive Bayes (scripts/NB.py)</h3>
-<p><b>How it works:</b> Naive Bayes learns how likely each word is to appear in RA and in BCS paragraphs. It then classifies a new paragraph by which class most likely produced its words.</p>
-<p><b>How we implemented it:</b> We follow the CMSC 170 laboratory module. The model keeps the word counts of all RA training paragraphs and of all BCS training paragraphs. The probability of a word given a class uses add-k (Laplace) smoothing:</p>
-<p>P(word | class) = (count of the word in the class + k) / (total words in the class + k &times; vocabulary size)</p>
-<p>Multiplying many small probabilities made our scores go to 0 in Milestone 2, so instead we add up their logs, based on Jurafsky and Martin. The paragraph goes to the class with the higher log score. Words that never appeared in training are skipped.</p>
+<p><b>How it works:</b> Naive Bayes learns how likely each token is to appear in RA and in BCS data. It then classifies a new data point by which class most likely produced its tokens.</p>
+<p><b>How we implemented it:</b> We follow the CMSC 170 laboratory module. The model keeps the token counts of all RA training data and of all BCS training data. The probability of a token given a class uses add-k (Laplace) smoothing:</p>
+<p>P(token | class) = (count of the token in the class + k) / (total tokens in the class + k &times; vocabulary size)</p>
+<p>Multiplying many small probabilities made our scores go to 0 in Milestone 2, so instead we add up their logs, based on Jurafsky and Martin. The data point goes to the class with the higher log score. Tokens that never appeared in training are skipped.</p>
 
 <h3>K-Nearest Neighbors (scripts/KNN.py)</h3>
-<p><b>How it works:</b> KNN compares a new paragraph to every training paragraph and labels it by the majority vote of the k closest ones. Each word is one dimension, and the distance between two paragraphs is the Minkowski distance with exponent p (p = 1 is Manhattan distance, p = 2 is Euclidean distance).</p>
-<p><b>How we implemented it:</b> In Milestone 2, KNN turned every bag of words into a point with one number for every word in the vocabulary. With 38,678 training paragraphs and 16,703 words, that is about 646 million numbers, which was too slow to finish. The new version keeps each bag as a dictionary and keeps an index of which training paragraphs contain each word. It only computes the full distance for paragraphs that share a word with the test paragraph. For the rest, the distance only depends on the size of each bag, so we use a list sorted by size. The distances are exactly the same as before.</p>
+<p><b>How it works:</b> KNN compares a new data point to every training data point and labels it by the majority vote of the k closest ones. Each token in the vocabulary is one dimension, and the distance between two data points is the Minkowski distance with exponent p (p = 1 is Manhattan distance, p = 2 is Euclidean distance).</p>
+<p><b>How we implemented it:</b> In Milestone 2, KNN turned every bag of words into a point with one number for every token in the vocabulary. With 38,678 training data and 16,703 tokens in the vocabulary, that is about 646 million numbers, which was too slow to finish. The new version keeps each bag as a dictionary and keeps an index of which training data contain each token. It only computes the full distance for the training data that share a token with the test data point. For the rest, the distance only depends on the size of each bag, so we use a list sorted by size. The distances are exactly the same as before.</p>
 
 <h3>Perceptron (scripts/perceptron.py)</h3>
-<p><b>How it works:</b> The Perceptron learns a weight for each word and predicts RA if the weighted sum is positive. It adjusts the weights whenever it makes a mistake.</p>
-<p><b>How we implemented it:</b> We follow the same steps as in our laboratory exercise. The two classes become desired outputs of -1 (BCS) and 1 (RA). The model computes v = sum(w<sub>i</sub> &times; x<sub>i</sub>) + b and outputs 1 if v &gt; 0, and -1 otherwise. When the output y does not match the desired output d, it updates each weight using w(n+1) = w(n) + r(d - y)x, and the bias in the same way. Weights are stored in a dictionary by word, since most words do not appear in a given paragraph, and a word with no weight yet counts as 0. The training data is shuffled every epoch with a fixed seed, so the classes are mixed and the results repeat. Training stops when an epoch has no mistakes or after 20 epochs, since the data might not be linearly separable.</p>
+<p><b>How it works:</b> The Perceptron learns a weight for each token and predicts RA if the weighted sum is positive. It adjusts the weights whenever it makes a mistake.</p>
+<p><b>How we implemented it:</b> We follow the same steps as in our laboratory exercise. The two classes become desired outputs of -1 (BCS) and 1 (RA). The model computes v = sum(w<sub>i</sub> &times; x<sub>i</sub>) + b and outputs 1 if v &gt; 0, and -1 otherwise. When the output y does not match the desired output d, it updates each weight using w(n+1) = w(n) + r(d - y)x, and the bias in the same way. Weights are stored in a dictionary by token, since most tokens do not appear in a given data point, and a token with no weight yet counts as 0. The training data is shuffled every epoch with a fixed seed, so the classes are mixed and the results repeat. Training stops when an epoch has no mistakes or after 20 epochs, since the data might not be linearly separable.</p>
 
 <h2 id="setup">Experimental Setup</h2>
 
 <h3>Data split</h3>
-<p>We read the files in sorted order and use the first 80% of each class for training and the last 20% for testing. That is 19,339 training and 4,835 test paragraphs per class, or 38,678 and 9,670 in total. We only use one split because our instructor pointed out that the split ratio can affect KNN. Since the split is not shuffled, the test paragraphs come from different episodes and acts than the training ones. For example, the BCS test paragraphs are from the last episodes in alphabetical order (Something Beautiful to Witness).</p>
-<p>All three methods use the same paragraphs and the same preprocessing. The Perceptron shuffles its training data with seed 170, so we get the same results every run. Only the times change.</p>
+<p>We read the files in sorted order and use the first 80% of each class for training and the last 20% for testing. That is 19,339 training and 4,835 test data per class, or 38,678 and 9,670 in total. We only use one split because our instructor pointed out that the split ratio can affect KNN. Since the split is not shuffled, the test data come from different episodes and acts than the training data. For example, the BCS test data are from the last episodes in alphabetical order (Something Beautiful to Witness).</p>
+<p>All three methods use the same data and the same preprocessing. The Perceptron shuffles its training data with seed 170, so we get the same results every run. Only the times change.</p>
 
 <h3>Hyperparameters</h3>
 <table>
@@ -140,18 +140,18 @@
   <tr><th class="bcs">Actual BCS</th><td>False Positive (FP)</td><td>True Negative (TN)</td></tr>
 </table>
 <ul>
-  <li><b>Accuracy</b> = (TP + TN) / (TP + TN + FP + FN): how many paragraphs were classified correctly.</li>
-  <li><b>Precision</b> = TP / (TP + FP): of the paragraphs called RA, how many really were RA.</li>
-  <li><b>Recall</b> = TP / (TP + FN): of the real RA paragraphs, how many the model found.</li>
+  <li><b>Accuracy</b> = (TP + TN) / (TP + TN + FP + FN): how many data were classified correctly.</li>
+  <li><b>Precision</b> = TP / (TP + FP): of the data called RA, how many really were RA.</li>
+  <li><b>Recall</b> = TP / (TP + FN): of the real RA data, how many the model found.</li>
   <li><b>F1</b> = 2 &times; Precision &times; Recall / (Precision + Recall)</li>
-  <li><b>Training time and classification runtime:</b> seconds to build the model, and seconds to classify all the test paragraphs.</li>
+  <li><b>Training time and classification runtime:</b> seconds to build the model, and seconds to classify all the test data.</li>
 </ul>
-<p>Precision and recall usually trade off: calling more paragraphs RA raises recall but lowers precision, and the other way around. F1 is the harmonic mean of the two, so it is only high when both are high.</p>
+<p>Precision and recall usually trade off: calling more data RA raises recall but lowers precision, and the other way around. F1 is the harmonic mean of the two, so it is only high when both are high.</p>
 <p>We also report a baseline that always predicts RA. It still gets 100% recall and a 66.67% F1, so a method has to beat it to show that it learned anything.</p>
 
 <h2 id="results">Results</h2>
 
-<p>All results come from running main.py once per setting on the 10-word paragraphs. FN is the number of RA paragraphs called BCS, and FP is the number of BCS paragraphs called RA, out of 4,835 each. Times are in seconds and change slightly between runs.</p>
+<p>All results come from running main.py once per setting on the 10-token data. FN is the number of RA data called BCS, and FP is the number of BCS data called RA, out of 4,835 each. Times are in seconds and change slightly between runs.</p>
 
 <h3>Best setting of each method</h3>
 <p>For each method, we picked the setting with the highest accuracy and F1.</p>
@@ -209,41 +209,41 @@
 
 <h3>Naive Bayes</h3>
 <p>All three smoothing values scored between 98.61% and 98.73%. k = 1 had the highest accuracy, recall and F1, while k = 0.1 had the highest precision (98.96%). As k got smaller, false negatives went up (64, 74, 84) and false positives went down (59, 55, 50).</p>
-<p><b>Why:</b> the two classes use very different words. Of the 16,703 words in the training paragraphs, 12,115 appear in BCS and 7,574 in RA, so only 2,986 appear in both. Naive Bayes adds up the evidence from every word in a paragraph, so 10 words are usually enough. It is also fast, since training only counts words and classifying only looks up the words in the paragraph.</p>
+<p><b>Why:</b> the two classes use very different tokens. Of the 16,703 distinct tokens in the training data, 12,115 appear in BCS and 7,574 in RA, so only 2,986 appear in both. Naive Bayes adds up the evidence from every token in a data point, so 10 tokens are usually enough. It is also fast, since training only counts tokens and classifying only looks up the tokens in the data point.</p>
 
 <h3>Perceptron</h3>
 <p>All nine settings scored between 97.76% and 98.43%, and r = 0.1 with bias 0 scored the highest. With a starting bias of 0 or 1, r = 1 and r = 0.5 gave exactly the same results. Every setting except r = 0.1 with bias 0 made more false negatives than false positives, so precision was higher than recall.</p>
 <p><b>Why:</b></p>
 <ul>
-  <li>Like Naive Bayes, the Perceptron gives each word a weight and adds them up, so it also does well. With r = 1 and bias 0, it was still making 22 mistakes on the training data at epoch 20, so it never found weights that classify every training paragraph correctly.</li>
+  <li>Like Naive Bayes, the Perceptron gives each token a weight and adds them up, so it also does well. With r = 1 and bias 0, it was still making 22 mistakes on the training data at epoch 20, so it never found weights that classify every training paragraph correctly.</li>
   <li>With a starting bias of 0, the learning rate only scales all the weights by the same amount, so it does not change which side of 0 the sum lands on. This is why r = 1 and r = 0.5 gave the same results with bias 0.</li>
   <li>When the sum is exactly 0, our Perceptron outputs -1 (BCS). With r = 1 and bias 0, 48 test paragraphs had a sum of exactly 0, and 37 of them were RA. This is part of why it made more false negatives.</li>
   <li>0.1 cannot be stored exactly as a floating-point number, so with r = 0.1, sums that should be exactly 0 come out slightly above or below 0, and these paragraphs no longer all go to BCS. This, not the learning rate itself, is why r = 0.1 scored higher.</li>
 </ul>
 
 <h3>KNN</h3>
-<p>Every setting had a precision above 98.7% but a recall of only 19.42% to 62.73%, so almost all of its mistakes were RA paragraphs classified as BCS (1,802 to 3,896 false negatives, but at most 26 false positives). p = 2 scored higher than p = 1 for every k, and accuracy went down as k went up: from 81.10% to 69.82% with p = 2, and from 75.34% to 59.70% with p = 1. Training took about 0.5 seconds, but classifying took 115 to 125 seconds.</p>
+<p>Every setting had a precision above 98.7% but a recall of only 19.42% to 62.73%, so almost all of its mistakes were RA data classified as BCS (1,802 to 3,896 false negatives, but at most 26 false positives). p = 2 scored higher than p = 1 for every k, and accuracy went down as k went up: from 81.10% to 69.82% with p = 2, and from 75.34% to 59.70% with p = 1. Training took about 0.5 seconds, but classifying took 115 to 125 seconds.</p>
 <p><b>Why:</b></p>
 <ul>
-  <li><b>Ties.</b> A 10-word paragraph shares no words with most training paragraphs, and many of those are exactly the same distance away (for example, 20 with p = 1 when neither paragraph repeats a word). So there are usually many training paragraphs tied for the k-th closest spot. Our code keeps the BCS ones first when there is a tie. For 1,204 to 1,833 test paragraphs per setting, the tie decided the answer, and most of these were RA paragraphs. This is why KNN made thousands of false negatives but almost no false positives.</li>
-  <li><b>Identical paragraphs.</b> Our code skips training paragraphs at distance 0 (the exact same words). 276 test paragraphs have such a match, and 274 of them are RA, since Republic Acts repeat phrases like "be it enacted by the senate and house of representatives". Skipping them throws away the closest match.</li>
-  <li><b>p and k.</b> With p = 2, a repeated word counts more, so there are fewer exact ties, which is why p = 2 did better. A larger k takes more neighbors from the tied group, so more of them are BCS, which is why accuracy went down as k went up.</li>
-  <li><b>Speed.</b> KNN does its work at classification time: it compares each test paragraph to the training paragraphs, about 12 ms per paragraph. Naive Bayes and the Perceptron only look up the words in the paragraph.</li>
+  <li><b>Ties.</b> A 10-token data point shares no tokens with most training data, and many of those are exactly the same distance away (for example, 20 with p = 1 when neither data point repeats a token). So there are usually many training data tied for the k-th closest spot. Our code keeps the BCS ones first when there is a tie. For 1,204 to 1,833 test data per setting, the tie decided the answer, and most of these were RA data. This is why KNN made thousands of false negatives but almost no false positives.</li>
+  <li><b>Identical data points.</b> Our code skips training data at distance 0 (the exact same tokens). 276 test data have such a match, and 274 of them are RA, since Republic Acts repeat phrases like "be it enacted by the senate and house of representatives". Skipping them throws away the closest match.</li>
+  <li><b>p and k.</b> With p = 2, a repeated token counts more, so there are fewer exact ties, which is why p = 2 did better. A larger k takes more neighbors from the tied group, so more of them are BCS, which is why accuracy went down as k went up.</li>
+  <li><b>Speed.</b> KNN does its work at classification time: it compares each test data point to the training data, about 12 ms per data point. Naive Bayes and the Perceptron only look up the tokens in the data point.</li>
 </ul>
 
 <h3>Limitations</h3>
 <ul>
-  <li><b>KNN ties.</b> The KNN results above come from code that breaks ties in favor of BCS and skips identical paragraphs. We are fixing this, and the KNN results will change.</li>
-  <li><b>Metadata in the RA paragraphs.</b> The RA file still has table columns like IDs, file paths and summary headings. About 167 of the 24,174 paragraphs we used (less than 1%) contain this.</li>
-  <li><b>Narrow RA sample.</b> The paragraphs we used only cover acts from 1946 and 1947.</li>
+  <li><b>KNN ties.</b> The KNN results above come from code that breaks ties in favor of BCS and skips identical training data. We are fixing this, and the KNN results will change.</li>
+  <li><b>Metadata in the RA data.</b> The RA file still has table columns like IDs, file paths and summary headings. About 167 of the 24,174 data we used (less than 1%) contain this.</li>
+  <li><b>Narrow RA sample.</b> The RA data we used only cover acts from 1946 and 1947.</li>
   <li><b>One run.</b> Every setting was run once on one split.</li>
-  <li><b>Too many files.</b> The RA paragraphs make 1,689,912 files, which is too many for GitHub, even though we only use 24,174 of them.</li>
+  <li><b>Too many files.</b> The RA data make 1,689,912 files, which is too many for GitHub, even though we only use 24,174 of them.</li>
 </ul>
 
 <h3>Possible improvements</h3>
 <ul>
-  <li>Break KNN ties fairly and keep identical training paragraphs.</li>
-  <li>Remove the table columns from the RA text before cutting it into paragraphs.</li>
+  <li>Break KNN ties fairly and keep identical training data.</li>
+  <li>Remove the table columns from the RA text before cutting it into 10-token data.</li>
   <li>Use Republic Acts from more years, not only the first ones in the file.</li>
 </ul>
 
@@ -251,7 +251,7 @@
 
 <h2 id="conclusion">Conclusion</h2>
 
-<p>All three methods can tell a Republic Act paragraph from a Better Call Saul paragraph much better than guessing, even with only 10 words. Naive Bayes did best overall, with 98.73% accuracy, and was also fast. The Perceptron was close behind at 98.43% and was the fastest to classify. KNN was the weakest at 81.10% and by far the slowest, mostly because of how it breaks ties between equally distant paragraphs, which we are fixing next.</p>
+<p>All three methods can tell Republic Act data from Better Call Saul data much better than guessing, even with only 10 tokens. Naive Bayes did best overall, with 98.73% accuracy, and was also fast. The Perceptron was close behind at 98.43% and was the fastest to classify. KNN was the weakest at 81.10% and by far the slowest, mostly because of how it breaks ties between equally distant training data, which we are fixing next.</p>
 
 <h2 id="references">References</h2>
 <ul>
