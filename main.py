@@ -1,4 +1,5 @@
 import os
+import sys
 from time import perf_counter
 from scripts.preprocess import prepare_data_folders, make_class_bags, make_bag_lists
 from scripts.NB import NB_for_2
@@ -37,12 +38,19 @@ RA_DIR = "RA/RA_single/per10"
 MODELS_DIR = "models"
 train_percent = 80  # int from 0 to 100
 
+out = []
 
 # the classes are balanced, so a model has to beat this to be learning anything
 class AlwaysRA:
     def classify_paragraph(s, p):
         return 1
 
+def print(*args):
+    p = " ".join(map(str,args))
+    sys.stdout.write(f"{p}\n")
+    out.append(p)
+
+    
 
 def print_results(rows):
     print("\n---------- RESULTS ----------")
@@ -183,6 +191,9 @@ def main():
             break
         else:
             print("Invalid option, enter 1, 2, 3, or 4.")
+    
+    with open("out.txt","w") as f:
+        f.write("\n".join(out))
 
 
 if __name__ == "__main__":
