@@ -1,0 +1,342 @@
+---------- LOAD and PREPROCESS ----------
+Train: 38678 files, Test: 9670 files
+---------- LOAD and PREPROCESS ----------
+
+---------- TRAINING & SAVING MODELS ----------
+
+Creating NB Classifier...
+NB Classifier created
+[OK] nb_k1.pkl (0.348s)
+
+Creating NB Classifier...
+NB Classifier created
+[OK] nb_k0.5.pkl (0.356s)
+
+Creating NB Classifier...
+NB Classifier created
+[OK] nb_k0.1.pkl (0.347s)
+
+Creating KNN model...
+KNN model created
+[OK] knn_k3_p1.pkl (0.579s)
+
+Creating KNN model...
+KNN model created
+[OK] knn_k3_p2.pkl (0.643s)
+
+Creating KNN model...
+KNN model created
+[OK] knn_k5_p1.pkl (0.642s)
+
+Creating KNN model...
+KNN model created
+[OK] knn_k5_p2.pkl (0.628s)
+
+Creating KNN model...
+KNN model created
+[OK] knn_k7_p1.pkl (0.647s)
+
+Creating KNN model...
+KNN model created
+[OK] knn_k7_p2.pkl (0.622s)
+
+Creating KNN model...
+KNN model created
+[OK] knn_k9_p1.pkl (0.621s)
+
+Creating KNN model...
+KNN model created
+[OK] knn_k9_p2.pkl (0.635s)
+
+Creating KNN model...
+KNN model created
+[OK] knn_k11_p1.pkl (0.627s)
+
+Creating KNN model...
+KNN model created
+[OK] knn_k11_p2.pkl (0.621s)
+
+Creating KNN model...
+KNN model created
+[OK] knn_k13_p1.pkl (0.612s)
+
+Creating KNN model...
+KNN model created
+[OK] knn_k13_p2.pkl (0.630s)
+
+Creating KNN model...
+KNN model created
+[OK] knn_k15_p1.pkl (0.615s)
+
+Creating KNN model...
+KNN model created
+[OK] knn_k15_p2.pkl (0.619s)
+Epoch 1: 1272 mistakes
+Epoch 2: 447 mistakes
+Epoch 3: 299 mistakes
+Epoch 4: 205 mistakes
+Epoch 5: 153 mistakes
+Epoch 6: 132 mistakes
+Epoch 7: 98 mistakes
+Epoch 8: 61 mistakes
+Epoch 9: 78 mistakes
+Epoch 10: 49 mistakes
+Epoch 11: 55 mistakes
+Epoch 12: 47 mistakes
+Epoch 13: 36 mistakes
+Epoch 14: 41 mistakes
+Epoch 15: 25 mistakes
+Epoch 16: 21 mistakes
+Epoch 17: 36 mistakes
+Epoch 18: 12 mistakes
+Epoch 19: 20 mistakes
+Epoch 20: 19 mistakes
+Epoch 21: 16 mistakes
+Epoch 22: 10 mistakes
+Epoch 23: 12 mistakes
+Epoch 24: 14 mistakes
+Epoch 25: 4 mistakes
+Epoch 26: 1 mistakes
+Epoch 27: 0 mistakes
+[OK] pt_r0.1_b0.pkl (3.648s)
+Epoch 1: 1237 mistakes
+Epoch 2: 475 mistakes
+Epoch 3: 301 mistakes
+Epoch 4: 211 mistakes
+Epoch 5: 145 mistakes
+Epoch 6: 125 mistakes
+Epoch 7: 104 mistakes
+Epoch 8: 79 mistakes
+Epoch 9: 83 mistakes
+Epoch 10: 61 mistakes
+Epoch 11: 33 mistakes
+Epoch 12: 27 mistakes
+Epoch 13: 33 mistakes
+Epoch 14: 28 mistakes
+Epoch 15: 26 mistakes
+Epoch 16: 11 mistakes
+Epoch 17: 24 mistakes
+Epoch 18: 12 mistakes
+Epoch 19: 21 mistakes
+Epoch 20: 29 mistakes
+Epoch 21: 12 mistakes
+Epoch 22: 5 mistakes
+Epoch 23: 15 mistakes
+Epoch 24: 14 mistakes
+Epoch 25: 5 mistakes
+Epoch 26: 10 mistakes
+Epoch 27: 13 mistakes
+Epoch 28: 2 mistakes
+Epoch 29: 6 mistakes
+Epoch 30: 8 mistakes
+Epoch 31: 16 mistakes
+Epoch 32: 10 mistakes
+Epoch 33: 2 mistakes
+Epoch 34: 0 mistakes
+[OK] pt_r0.1_b1.pkl (4.549s)
+Epoch 1: 1266 mistakes
+Epoch 2: 495 mistakes
+Epoch 3: 294 mistakes
+Epoch 4: 214 mistakes
+Epoch 5: 141 mistakes
+Epoch 6: 92 mistakes
+Epoch 7: 97 mistakes
+Epoch 8: 96 mistakes
+Epoch 9: 66 mistakes
+Epoch 10: 45 mistakes
+Epoch 11: 38 mistakes
+Epoch 12: 43 mistakes
+Epoch 13: 53 mistakes
+Epoch 14: 25 mistakes
+Epoch 15: 24 mistakes
+Epoch 16: 17 mistakes
+Epoch 17: 12 mistakes
+Epoch 18: 39 mistakes
+Epoch 19: 20 mistakes
+Epoch 20: 14 mistakes
+Epoch 21: 32 mistakes
+Epoch 22: 14 mistakes
+Epoch 23: 11 mistakes
+Epoch 24: 0 mistakes
+[OK] pt_r0.1_b-1.pkl (3.366s)
+Epoch 1: 1283 mistakes
+Epoch 2: 454 mistakes
+Epoch 3: 289 mistakes
+Epoch 4: 214 mistakes
+Epoch 5: 161 mistakes
+Epoch 6: 84 mistakes
+Epoch 7: 94 mistakes
+Epoch 8: 98 mistakes
+Epoch 9: 64 mistakes
+Epoch 10: 60 mistakes
+Epoch 11: 47 mistakes
+Epoch 12: 53 mistakes
+Epoch 13: 33 mistakes
+Epoch 14: 29 mistakes
+Epoch 15: 14 mistakes
+Epoch 16: 26 mistakes
+Epoch 17: 11 mistakes
+Epoch 18: 19 mistakes
+Epoch 19: 21 mistakes
+Epoch 20: 22 mistakes
+Epoch 21: 17 mistakes
+Epoch 22: 15 mistakes
+Epoch 23: 9 mistakes
+Epoch 24: 8 mistakes
+Epoch 25: 3 mistakes
+Epoch 26: 8 mistakes
+Epoch 27: 4 mistakes
+Epoch 28: 0 mistakes
+[OK] pt_r0.5_b0.pkl (3.883s)
+Epoch 1: 1279 mistakes
+Epoch 2: 439 mistakes
+Epoch 3: 307 mistakes
+Epoch 4: 182 mistakes
+Epoch 5: 137 mistakes
+Epoch 6: 99 mistakes
+Epoch 7: 84 mistakes
+Epoch 8: 77 mistakes
+Epoch 9: 59 mistakes
+Epoch 10: 65 mistakes
+Epoch 11: 68 mistakes
+Epoch 12: 47 mistakes
+Epoch 13: 45 mistakes
+Epoch 14: 55 mistakes
+Epoch 15: 28 mistakes
+Epoch 16: 24 mistakes
+Epoch 17: 39 mistakes
+Epoch 18: 33 mistakes
+Epoch 19: 19 mistakes
+Epoch 20: 8 mistakes
+Epoch 21: 10 mistakes
+Epoch 22: 17 mistakes
+Epoch 23: 20 mistakes
+Epoch 24: 7 mistakes
+Epoch 25: 4 mistakes
+Epoch 26: 10 mistakes
+Epoch 27: 6 mistakes
+Epoch 28: 3 mistakes
+Epoch 29: 6 mistakes
+Epoch 30: 2 mistakes
+Epoch 31: 2 mistakes
+Epoch 32: 0 mistakes
+[OK] pt_r0.5_b1.pkl (4.354s)
+Epoch 1: 1237 mistakes
+Epoch 2: 483 mistakes
+Epoch 3: 302 mistakes
+Epoch 4: 232 mistakes
+Epoch 5: 139 mistakes
+Epoch 6: 120 mistakes
+Epoch 7: 97 mistakes
+Epoch 8: 72 mistakes
+Epoch 9: 57 mistakes
+Epoch 10: 62 mistakes
+Epoch 11: 48 mistakes
+Epoch 12: 51 mistakes
+Epoch 13: 38 mistakes
+Epoch 14: 37 mistakes
+Epoch 15: 21 mistakes
+Epoch 16: 34 mistakes
+Epoch 17: 20 mistakes
+Epoch 18: 23 mistakes
+Epoch 19: 11 mistakes
+Epoch 20: 13 mistakes
+Epoch 21: 18 mistakes
+Epoch 22: 12 mistakes
+Epoch 23: 13 mistakes
+Epoch 24: 18 mistakes
+Epoch 25: 7 mistakes
+Epoch 26: 15 mistakes
+Epoch 27: 10 mistakes
+Epoch 28: 4 mistakes
+Epoch 29: 4 mistakes
+Epoch 30: 4 mistakes
+Epoch 31: 13 mistakes
+Epoch 32: 6 mistakes
+Epoch 33: 6 mistakes
+Epoch 34: 4 mistakes
+Epoch 35: 0 mistakes
+[OK] pt_r0.5_b-1.pkl (4.754s)
+Epoch 1: 1239 mistakes
+Epoch 2: 500 mistakes
+Epoch 3: 290 mistakes
+Epoch 4: 251 mistakes
+Epoch 5: 179 mistakes
+Epoch 6: 103 mistakes
+Epoch 7: 90 mistakes
+Epoch 8: 88 mistakes
+Epoch 9: 81 mistakes
+Epoch 10: 63 mistakes
+Epoch 11: 60 mistakes
+Epoch 12: 47 mistakes
+Epoch 13: 38 mistakes
+Epoch 14: 26 mistakes
+Epoch 15: 22 mistakes
+Epoch 16: 33 mistakes
+Epoch 17: 14 mistakes
+Epoch 18: 17 mistakes
+Epoch 19: 15 mistakes
+Epoch 20: 19 mistakes
+Epoch 21: 17 mistakes
+Epoch 22: 10 mistakes
+Epoch 23: 2 mistakes
+Epoch 24: 1 mistakes
+Epoch 25: 7 mistakes
+Epoch 26: 4 mistakes
+Epoch 27: 2 mistakes
+Epoch 28: 0 mistakes
+[OK] pt_r0.01_b0.pkl (3.911s)
+Epoch 1: 1253 mistakes
+Epoch 2: 452 mistakes
+Epoch 3: 306 mistakes
+Epoch 4: 238 mistakes
+Epoch 5: 150 mistakes
+Epoch 6: 116 mistakes
+Epoch 7: 82 mistakes
+Epoch 8: 70 mistakes
+Epoch 9: 60 mistakes
+Epoch 10: 65 mistakes
+Epoch 11: 53 mistakes
+Epoch 12: 41 mistakes
+Epoch 13: 38 mistakes
+Epoch 14: 12 mistakes
+Epoch 15: 18 mistakes
+Epoch 16: 17 mistakes
+Epoch 17: 13 mistakes
+Epoch 18: 10 mistakes
+Epoch 19: 7 mistakes
+Epoch 20: 15 mistakes
+Epoch 21: 14 mistakes
+Epoch 22: 16 mistakes
+Epoch 23: 10 mistakes
+Epoch 24: 13 mistakes
+Epoch 25: 15 mistakes
+Epoch 26: 8 mistakes
+Epoch 27: 0 mistakes
+[OK] pt_r0.01_b1.pkl (3.655s)
+Epoch 1: 1191 mistakes
+Epoch 2: 513 mistakes
+Epoch 3: 268 mistakes
+Epoch 4: 207 mistakes
+Epoch 5: 150 mistakes
+Epoch 6: 123 mistakes
+Epoch 7: 108 mistakes
+Epoch 8: 91 mistakes
+Epoch 9: 79 mistakes
+Epoch 10: 74 mistakes
+Epoch 11: 54 mistakes
+Epoch 12: 35 mistakes
+Epoch 13: 40 mistakes
+Epoch 14: 27 mistakes
+Epoch 15: 22 mistakes
+Epoch 16: 22 mistakes
+Epoch 17: 16 mistakes
+Epoch 18: 10 mistakes
+Epoch 19: 6 mistakes
+Epoch 20: 16 mistakes
+Epoch 21: 6 mistakes
+Epoch 22: 13 mistakes
+Epoch 23: 2 mistakes
+Epoch 24: 1 mistakes
+Epoch 25: 0 mistakes
+[OK] pt_r0.01_b-1.pkl (3.523s)
