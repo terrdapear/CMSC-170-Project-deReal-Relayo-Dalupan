@@ -59,8 +59,8 @@
 
 <h3>Sources</h3>
 <ul>
-  <li><b>Republic Acts:</b> <a href="https://data.bettergov.ph/datasets/24/resources/437">Republic Acts with Summaries (Parquet)</a> from BetterGov.PH, part of their <a href="https://huggingface.co/datasets/bettergovph/gov-library">gov-library</a> of Philippine legal documents converted from Lawphil.net.</li>
-  <li><b>Better Call Saul:</b> the 63 episode transcripts of Better Call Saul (2015-2022) from <a href="https://subslikescript.com/series/Better_Call_Saul-3032476">Subslikescript</a>.</li>
+  <li class="ra"><b>Republic Acts:</b> <a href="https://data.bettergov.ph/datasets/24/resources/437">Republic Acts with Summaries (Parquet)</a> from BetterGov.PH, part of their <a href="https://huggingface.co/datasets/bettergovph/gov-library">gov-library</a> of Philippine legal documents converted from Lawphil.net.</li>
+  <li class="bcs"><b>Better Call Saul:</b> the 63 episode transcripts of Better Call Saul (2015-2022) from <a href="https://subslikescript.com/series/Better_Call_Saul-3032476">Subslikescript</a>.</li>
 </ul>
 
 <p>The TV show transcripts are used only for natural language processing research. Under Section 185 of Republic Act No. 8293 (the Intellectual Property Code of the Philippines), using copyrighted works for research and scholarship is fair use. All rights to the original works stay with their copyright holders.</p>
@@ -74,7 +74,7 @@
 
 <h3>Size</h3>
 <table>
-  <tr><th></th><th>Better Call Saul</th><th>Republic Acts</th></tr>
+  <tr><th></th><th class="bcs">Better Call Saul</th><th class="ra">Republic Acts</th></tr>
   <tr><td>10-word paragraphs made</td><td>24,174</td><td>1,689,912</td></tr>
   <tr><td>Paragraphs used</td><td>24,174 (all)</td><td>24,174 (the first ones, acts from 1946-1947)</td></tr>
   <tr><td>Training paragraphs</td><td>19,339</td><td>19,339</td></tr>
@@ -130,9 +130,9 @@
 <h3>Metrics</h3>
 <p>We wrote all the metrics ourselves in scripts/metrics.py. RA is the positive class and BCS is the negative class.</p>
 <table>
-  <tr><th></th><th>Predicted RA</th><th>Predicted BCS</th></tr>
-  <tr><th>Actual RA</th><td>True Positive (TP)</td><td>False Negative (FN)</td></tr>
-  <tr><th>Actual BCS</th><td>False Positive (FP)</td><td>True Negative (TN)</td></tr>
+  <tr><th></th><th class="ra">Predicted RA</th><th class="bcs">Predicted BCS</th></tr>
+  <tr><th class="ra">Actual RA</th><td>True Positive (TP)</td><td>False Negative (FN)</td></tr>
+  <tr><th class="bcs">Actual BCS</th><td>False Positive (FP)</td><td>True Negative (TN)</td></tr>
 </table>
 <ul>
   <li><b>Accuracy</b> = (TP + TN) / (TP + TN + FP + FN): how many paragraphs were classified correctly.</li>

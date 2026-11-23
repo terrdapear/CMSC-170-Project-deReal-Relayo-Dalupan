@@ -54,6 +54,13 @@ header h1, header p {
   clip-path: inset(50%);
   white-space: nowrap;
 }
+.ra {
+  color: var(--ra);
+}
+.bcs {
+  color: var(--bcs);
+}
+
 nav {
   margin: 24px 0;
   font-family: var(--typed);
@@ -81,6 +88,26 @@ h2 + * {
   margin-top: 0;
   padding-top: 14px;
   border-top: 4px solid var(--manila-dark);
+}
+
+li.ra, li.bcs {
+  color: var(--ink);
+  list-style: none;
+  margin: 0 0 10px -40px;
+  padding: 10px 16px;
+  box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.12);
+}
+li.ra {
+  background: url(images/textures/bond.jpg);
+  border-left: 5px solid var(--ra);
+  font-family: var(--serif);
+  font-size: 15px;
+}
+li.bcs {
+  background: url(images/textures/pad.jpg);
+  border-left: 5px solid var(--bcs);
+  font-family: var(--typed);
+  font-size: 15px;
 }
 
 table {
