@@ -111,29 +111,39 @@ li.bcs {
 }
 
 table {
+  display: block;
+  width: max-content;
+  max-width: 100%;
+  overflow-x: auto;
   border-collapse: collapse;
-  margin: 16px 0;
+  margin: 18px 0 24px;
   font-size: 15px;
+  background: url(images/textures/bond.jpg);
+  border: 1px solid #c9bfa6;
 }
 th, td {
-  padding: 6px 8px;
-  border-bottom: 1px solid #ddd;
+  padding: 7px 12px;
+  border-bottom: 1px dashed #d8cfb8;
   text-align: left;
 }
 th {
-  background: #f2f2f2;
+  font-family: var(--typed);
+  font-size: 14px;
+  font-weight: normal;
+  background: url(images/textures/manila.jpg);
+  border-bottom: 2px solid #8a7f68;
+}
+th.ra, th.bcs {
+  font-weight: bold;
 }
 
 .numbers td + td,
 .numbers th + th {
   text-align: right;
 }
+.numbers td + td {
+  font-variant-numeric: tabular-nums;
+}
 .numbers td:first-child {
   white-space: nowrap;
-}
-
-table {
-  display: block;
-  max-width: 100%;
-  overflow-x: auto;
 }
