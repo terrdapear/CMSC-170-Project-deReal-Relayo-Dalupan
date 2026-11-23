@@ -38,10 +38,21 @@ hr {
   margin: 24px 0;
 }
 
-h1 {
-  font-size: 2em;
-  line-height: 1.25;
-  margin: 32px 0 16px;
+header {
+  margin-bottom: 24px;
+}
+header img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+header h1, header p {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
 }
 h2 {
   margin-top: 40px;
