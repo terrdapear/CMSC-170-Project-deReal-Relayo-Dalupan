@@ -2,8 +2,6 @@
   --ra: #1b3a6b;
   --bcs: #a85400;
   --manila-dark: #d4b673;
-  --pad-line: #b9cde2;
-  --pad-margin: #e39a9a;
   --ink: #2a2620;
   --serif: "Libre Baskerville", serif;
   --typed: "Special Elite", monospace;
@@ -146,4 +144,20 @@ th.ra, th.bcs {
 }
 .numbers td:first-child {
   white-space: nowrap;
+}
+
+.notes {
+  margin: 0;
+  padding: 0 24px 20px;
+  background: url(images/textures/pad.jpg);
+  border-top: 14px solid #7a3b22;
+  box-shadow: 2px 3px 8px rgba(0, 0, 0, 0.18);
+}
+.notes h3 {
+  font-family: var(--hand);
+  font-style: normal;
+  font-weight: 600;
+  font-size: 1.8em;
+  margin-bottom: 8px;
+  color: var(--bcs);
 }
