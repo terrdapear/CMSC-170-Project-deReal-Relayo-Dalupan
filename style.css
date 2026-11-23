@@ -161,3 +161,23 @@ th.ra, th.bcs {
   margin-bottom: 8px;
   color: var(--bcs);
 }
+
+figure {
+  width: fit-content;
+  max-width: 100%;
+  box-sizing: border-box;
+  margin: 28px 0;
+  padding: 12px 12px 8px;
+  background: url(images/textures/bond.jpg);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.25);
+}
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+figcaption {
+  margin-top: 8px;
+  font-family: var(--typed);
+  font-size: 14px;
+}
