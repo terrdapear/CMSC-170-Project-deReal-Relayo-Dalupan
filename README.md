@@ -36,7 +36,7 @@ The settings are the lists at the top of main.py. The program runs once for ever
 
 ## Other scripts
 
-- Better_Call_Saul_Transcripts/cleaner.py remakes the BCS data (per10, per20, per50). These are already in the repo.
+- Better_Call_Saul_Transcripts/cleaner.py remakes the BCS data (per10). These are already in the repo.
 - helper_scripts/parq_to_txt.py turns the original Parquet file into repacts_with_summary.txt. Running RA/split.py on that file remakes RA/RA_split, which is already in the repo. This is the only script that uses pandas.
 
 ## Notes

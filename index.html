@@ -73,17 +73,17 @@
 <h3>Samples, features and target</h3>
 <ul>
   <li><b>Samples:</b> each data point is 10 tokens of text.</li>
-  <li><b>Features:</b> a bag of words for each data point, which is how many times each token appears in it. The training data have a vocabulary of 16,703 distinct tokens (12,115 in BCS and 7,574 in RA).</li>
+  <li><b>Features:</b> a bag of words for each data point, which is how many times each token appears in it. The training data have a vocabulary of 16,700 distinct tokens (12,112 in BCS and 7,573 in RA).</li>
   <li><b>Target:</b> the class of the data point. RA is the positive class (label 1) and BCS is the negative class (label 0).</li>
 </ul>
 
 <h3>Size</h3>
 <table>
   <tr><th></th><th class="bcs">Better Call Saul</th><th class="ra">Republic Acts</th></tr>
-  <tr><td>10-token data made</td><td>24,174</td><td>1,689,912</td></tr>
-  <tr><td>Data used</td><td>24,174 (all)</td><td>24,174 (the first ones, acts from 1946-1947)</td></tr>
-  <tr><td>Training data</td><td>19,339</td><td>19,339</td></tr>
-  <tr><td>Test data</td><td>4,835</td><td>4,835</td></tr>
+  <tr><td>10-token data made</td><td>24,111</td><td>1,689,912</td></tr>
+  <tr><td>Data used</td><td>24,111 (all)</td><td>24,111 (the first ones, acts from 1946-1947)</td></tr>
+  <tr><td>Training data</td><td>19,288</td><td>19,288</td></tr>
+  <tr><td>Test data</td><td>4,823</td><td>4,823</td></tr>
 </table>
 
 <h3>Preprocessing</h3>
@@ -91,8 +91,8 @@
   <li><b>Parquet to text (RA, done once).</b> The Republic Acts were converted from Parquet to one tab-separated text file (helper_scripts/parq_to_txt.py). This is the only step that uses pandas. The data loading, preprocessing and method code do not use it. The file was larger than GitHub's 100 MB limit, so RA/split.py cut it into the 3,995 files in RA/RA_split.</li>
   <li><b>Remove website text (BCS).</b> We removed the first 4 lines (title and source) and the last 3 lines (footer) of each transcript (Better_Call_Saul_Transcripts/cleaner.py).</li>
   <li><b>Clean.</b> We split the text at spaces into tokens, lowercased every token and removed every character outside a-z and 0-9, so "Court's" becomes "courts". Tokens left empty are dropped.</li>
-  <li><b>Cut into 10-token data.</b> Every 10 tokens are saved as one data point file. A BCS data point never runs into the next episode, so the last one in each episode can be shorter (Better_Call_Saul_Transcripts/cleaner.py and RA/cleaner.py).</li>
-  <li><b>Balance.</b> There are far more RA data, so we only keep the first 24,174 data of each class, the size of the smaller class (prepare_data_folders in scripts/preprocess.py). With balanced classes, always guessing one class only gets 50% accuracy.</li>
+  <li><b>Cut into 10-token data.</b> Every 10 tokens are saved as one data point file. A BCS data point never runs into the next episode, and the last few tokens of each episode (fewer than 10) are dropped, so every data point has exactly 10 tokens (Better_Call_Saul_Transcripts/cleaner.py and RA/cleaner.py).</li>
+  <li><b>Balance.</b> There are far more RA data, so we only keep the first 24,111 data of each class, the size of the smaller class (prepare_data_folders in scripts/preprocess.py). With balanced classes, always guessing one class only gets 50% accuracy.</li>
   <li><b>Bag of words.</b> Each data point is turned into token counts (scripts/bow.py).</li>
 </ol>
 
@@ -110,26 +110,26 @@
 
 <h3>K-Nearest Neighbors (scripts/KNN.py)</h3>
 <p><b>How it works:</b> KNN compares a new data point to every training data point and labels it by the majority vote of the k closest ones. Each token in the vocabulary is one dimension, and the distance between two data points is the Minkowski distance with exponent p (p = 1 is Manhattan distance, p = 2 is Euclidean distance).</p>
-<p><b>How we implemented it:</b> In Milestone 2, KNN turned every bag of words into a point with one number for every token in the vocabulary. With 38,678 training data and 16,703 tokens in the vocabulary, that is about 646 million numbers, which was too slow to finish. The new version keeps each bag as a dictionary and keeps an index of which training data contain each token. It only computes the full distance for the training data that share a token with the test data point. For the rest, the distance only depends on the size of each bag, so we use a list sorted by size. The distances are exactly the same as before.</p>
+<p><b>How we implemented it:</b> In Milestone 2, KNN turned every bag of words into a point with one number for every token in the vocabulary. With 38,576 training data and 16,700 tokens in the vocabulary, that is about 644 million numbers, which was too slow to finish. The new version keeps each bag as a dictionary and keeps an index of which training data contain each token. It only computes the full distance for the training data that share a token with the test data point. For the rest, the distance only depends on the size of each bag, so we use a list sorted by size. The distances are exactly the same as before.</p>
 
 <h3>Perceptron (scripts/perceptron.py)</h3>
 <p><b>How it works:</b> The Perceptron learns a weight for each token and predicts RA if the weighted sum is positive. It adjusts the weights whenever it makes a mistake.</p>
-<p><b>How we implemented it:</b> We follow the same steps as in our laboratory exercise. The two classes become desired outputs of -1 (BCS) and 1 (RA). The model computes v = sum(w<sub>i</sub> &times; x<sub>i</sub>) + b and outputs 1 if v &gt; 0, and -1 otherwise. When the output y does not match the desired output d, it updates each weight using w(n+1) = w(n) + r(d - y)x, and the bias in the same way. Weights are stored in a dictionary by token, since most tokens do not appear in a given data point, and a token with no weight yet counts as 0. The training data is shuffled every epoch with a fixed seed, so the classes are mixed and the results repeat. Training stops when an epoch has no mistakes or after 20 epochs, since the data might not be linearly separable.</p>
+<p><b>How we implemented it:</b> We follow the same steps as in our laboratory exercise. The two classes become desired outputs of -1 (BCS) and 1 (RA). The model computes v = sum(w<sub>i</sub> &times; x<sub>i</sub>) + b and outputs 1 if v &gt; 0, and -1 otherwise. When the output y does not match the desired output d, it updates each weight using w(n+1) = w(n) + r(d - y)x, and the bias in the same way. Weights are stored in a dictionary by token, since most tokens do not appear in a given data point, and a token with no weight yet counts as 0. The training data is shuffled every epoch with a fixed seed, so the classes are mixed and the results repeat. Training stops when an epoch has no mistakes or after 100 epochs, since the data might not be linearly separable.</p>
 
 <h2 id="setup">Experimental Setup</h2>
 
 <h3>Data split</h3>
-<p>We read the files in sorted order and use the first 80% of each class for training and the last 20% for testing. That is 19,339 training and 4,835 test data per class, or 38,678 and 9,670 in total. We only use one split because our instructor pointed out that the split ratio can affect KNN. Since the split is not shuffled, the test data come from different episodes and acts than the training data. For example, the BCS test data are from the last episodes in alphabetical order (Something Beautiful to Witness).</p>
+<p>We read the files in sorted order and use the first 80% of each class for training and the last 20% for testing. That is 19,288 training and 4,823 test data per class, or 38,576 and 9,646 in total. We only use one split because our instructor pointed out that the split ratio can affect KNN. Since the split is not shuffled, the test data mostly come from different episodes and acts than the training data. The BCS test data are from the last 13 episodes in alphabetical order (Something Stupid to Witness), and the RA test data are from Republic Acts No. 170 to 180 (1947). Only one episode (Something Stupid) and one act (No. 170) have data in both training and testing.</p>
 <p>All three methods use the same data and the same preprocessing. The Perceptron shuffles its training data with seed 170, so we get the same results every run. Only the times change.</p>
 
 <h3>Hyperparameters</h3>
 <table>
   <tr><th>Method</th><th>Parameter</th><th>Values tested</th></tr>
   <tr><td>Naive Bayes</td><td>Smoothing factor k (Laplace / add-k)</td><td>1, 0.5, 0.1</td></tr>
-  <tr><td>Perceptron</td><td>Learning rate r</td><td>1, 0.5, 0.1</td></tr>
+  <tr><td>Perceptron</td><td>Learning rate r</td><td>0.01, 0.1, 0.5</td></tr>
   <tr><td>Perceptron</td><td>Starting bias</td><td>0, 1, -1</td></tr>
-  <tr><td>Perceptron</td><td>Maximum epochs</td><td>20</td></tr>
-  <tr><td>KNN</td><td>k, distance exponent p</td><td>k = 3, 5, 11; p = 1, 2</td></tr>
+  <tr><td>Perceptron</td><td>Maximum epochs</td><td>100</td></tr>
+  <tr><td>KNN</td><td>k, distance exponent p</td><td>k = 3, 5, 7, 9, 11, 13, 15; p = 1, 2</td></tr>
 </table>
 
 <h3>Metrics</h3>
@@ -237,7 +237,7 @@
   <li><b>Metadata in the RA data.</b> The RA file still has table columns like IDs, file paths and summary headings. About 167 of the 24,174 data we used (less than 1%) contain this.</li>
   <li><b>Narrow RA sample.</b> The RA data we used only cover acts from 1946 and 1947.</li>
   <li><b>One run.</b> Every setting was run once on one split.</li>
-  <li><b>Too many files.</b> The RA data make 1,689,912 files, which is too many for GitHub, even though we only use 24,174 of them.</li>
+  <li><b>Too many files.</b> The RA data make 1,689,912 files, which is too many for GitHub, even though we only use 24,111 of them.</li>
 </ul>
 
 <h3>Possible improvements</h3>
