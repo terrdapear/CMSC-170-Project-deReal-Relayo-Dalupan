@@ -233,9 +233,9 @@
 <h3>Limitations</h3>
 <ul>
   <li><b>KNN ties.</b> The KNN results above come from code that breaks ties in favor of BCS and skips identical training data. We are fixing this, and the KNN results will change.</li>
-  <li><b>Metadata in the RA data.</b> The RA file still has table columns like IDs, file paths and summary headings. About 167 of the 24,174 data we used (less than 1%) contain this.</li>
-  <li><b>Narrow RA sample.</b> The RA data we used only cover acts from 1946 and 1947.</li>
+  <li><b>Narrow RA sample.</b> The RA data we used only cover 166 acts from 1946 and 1947.</li>
   <li><b>One run.</b> Every setting was run once on one split.</li>
+  <li><b>No validation set.</b> We picked the best setting of each method on the test data, since we have no separate validation set.</li>
   <li><b>Too many files.</b> The RA data make 1,689,912 files, which is too many for GitHub, even though we only use 24,111 of them.</li>
 </ul>
 
