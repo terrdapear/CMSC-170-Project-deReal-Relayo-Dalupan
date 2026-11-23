@@ -151,43 +151,43 @@
 
 <h2 id="results">Results</h2>
 
-<p>All results come from running main.py once per setting on the 10-token data. FN is the number of RA data called BCS, and FP is the number of BCS data called RA, out of 4,835 each. Times are in seconds and change slightly between runs.</p>
+<p>All results come from running main.py once per setting on the 10-token data. FN is the number of RA data called BCS, and FP is the number of BCS data called RA, out of 4,823 each. Times are in seconds and change slightly between runs.</p>
 
 <h3>Best setting of each method</h3>
 <p>For each method, we picked the setting with the highest accuracy and F1.</p>
 <table class="numbers">
   <tr><th></th><th>Accuracy</th><th>Precision</th><th>Recall</th><th>F1</th><th>Training Time (s)</th><th>Classification Runtime (s)</th></tr>
-  <tr><td>Always RA (baseline)</td><td>50.00%</td><td>50.00%</td><td>100.00%</td><td>66.67%</td><td>-</td><td>0.000</td></tr>
-  <tr><td>Naive Bayes, k = 1</td><td>98.73%</td><td>98.78%</td><td>98.68%</td><td>98.73%</td><td>0.257</td><td>0.113</td></tr>
-  <tr><td>Perceptron, r = 0.1, bias 0</td><td>98.43%</td><td>98.39%</td><td>98.47%</td><td>98.43%</td><td>2.499</td><td>0.083</td></tr>
+  <tr><td>Always RA (baseline)</td><td>50.00%</td><td>50.00%</td><td>100.00%</td><td>66.67%</td><td>-</td><td>0.001</td></tr>
+  <tr><td>Naive Bayes, k = 1</td><td>98.76%</td><td>98.80%</td><td>98.71%</td><td>98.76%</td><td>0.346</td><td>0.171</td></tr>
+  <tr><td>Perceptron, r = 0.01, bias 1</td><td>98.30%</td><td>98.66%</td><td>97.93%</td><td>98.29%</td><td>5.182</td><td>0.112</td></tr>
   <tr><td>KNN, k = 3, p = 2</td><td>81.10%</td><td>99.15%</td><td>62.73%</td><td>76.84%</td><td>0.511</td><td>115.150</td></tr>
 </table>
 
 <p></p>
 <table class="numbers">
   <tr><th></th><th>TP</th><th>FN</th><th>FP</th><th>TN</th></tr>
-  <tr><td>Always RA (baseline)</td><td>4,835</td><td>0</td><td>4,835</td><td>0</td></tr>
-  <tr><td>Naive Bayes, k = 1</td><td>4,771</td><td>64</td><td>59</td><td>4,776</td></tr>
-  <tr><td>Perceptron, r = 0.1, bias 0</td><td>4,761</td><td>74</td><td>78</td><td>4,757</td></tr>
+  <tr><td>Always RA (baseline)</td><td>4,823</td><td>0</td><td>4,823</td><td>0</td></tr>
+  <tr><td>Naive Bayes, k = 1</td><td>4,761</td><td>62</td><td>58</td><td>4,765</td></tr>
+  <tr><td>Perceptron, r = 0.01, bias 1</td><td>4,723</td><td>100</td><td>64</td><td>4,759</td></tr>
   <tr><td>KNN, k = 3, p = 2</td><td>3,033</td><td>1,802</td><td>26</td><td>4,809</td></tr>
 </table>
 
 <h3>Every setting</h3>
 <table class="numbers">
   <tr><th></th><th>Accuracy</th><th>Precision</th><th>Recall</th><th>F1</th><th>FN</th><th>FP</th><th>Training Time (s)</th><th>Classification Runtime (s)</th></tr>
-  <tr><td>Always RA (baseline)</td><td>50.00%</td><td>50.00%</td><td>100.00%</td><td>66.67%</td><td>0</td><td>4,835</td><td>-</td><td>0.000</td></tr>
-  <tr><td><b>Naive Bayes, k = 1</b></td><td>98.73%</td><td>98.78%</td><td>98.68%</td><td>98.73%</td><td>64</td><td>59</td><td>0.257</td><td>0.113</td></tr>
-  <tr><td>Naive Bayes, k = 0.5</td><td>98.67%</td><td>98.86%</td><td>98.47%</td><td>98.66%</td><td>74</td><td>55</td><td>0.265</td><td>0.118</td></tr>
-  <tr><td>Naive Bayes, k = 0.1</td><td>98.61%</td><td>98.96%</td><td>98.26%</td><td>98.61%</td><td>84</td><td>50</td><td>0.262</td><td>0.117</td></tr>
-  <tr><td>Perceptron, r = 1, bias 0</td><td>97.92%</td><td>98.68%</td><td>97.15%</td><td>97.91%</td><td>138</td><td>63</td><td>2.263</td><td>0.082</td></tr>
-  <tr><td>Perceptron, r = 1, bias 1</td><td>98.15%</td><td>98.48%</td><td>97.81%</td><td>98.14%</td><td>106</td><td>73</td><td>2.326</td><td>0.083</td></tr>
-  <tr><td>Perceptron, r = 1, bias -1</td><td>97.92%</td><td>98.68%</td><td>97.15%</td><td>97.91%</td><td>138</td><td>63</td><td>2.575</td><td>0.106</td></tr>
-  <tr><td>Perceptron, r = 0.5, bias 0</td><td>97.92%</td><td>98.68%</td><td>97.15%</td><td>97.91%</td><td>138</td><td>63</td><td>2.629</td><td>0.102</td></tr>
-  <tr><td>Perceptron, r = 0.5, bias 1</td><td>98.15%</td><td>98.48%</td><td>97.81%</td><td>98.14%</td><td>106</td><td>73</td><td>2.591</td><td>0.087</td></tr>
-  <tr><td>Perceptron, r = 0.5, bias -1</td><td>97.76%</td><td>98.88%</td><td>96.61%</td><td>97.73%</td><td>164</td><td>53</td><td>2.574</td><td>0.087</td></tr>
-  <tr><td><b>Perceptron, r = 0.1, bias 0</b></td><td>98.43%</td><td>98.39%</td><td>98.47%</td><td>98.43%</td><td>74</td><td>78</td><td>2.499</td><td>0.083</td></tr>
-  <tr><td>Perceptron, r = 0.1, bias 1</td><td>98.35%</td><td>98.47%</td><td>98.22%</td><td>98.34%</td><td>86</td><td>74</td><td>2.595</td><td>0.095</td></tr>
-  <tr><td>Perceptron, r = 0.1, bias -1</td><td>98.29%</td><td>98.56%</td><td>98.01%</td><td>98.29%</td><td>96</td><td>69</td><td>2.791</td><td>0.090</td></tr>
+  <tr><td>Always RA (baseline)</td><td>50.00%</td><td>50.00%</td><td>100.00%</td><td>66.67%</td><td>0</td><td>4,823</td><td>-</td><td>0.001</td></tr>
+  <tr><td><b>Naive Bayes, k = 1</b></td><td>98.76%</td><td>98.80%</td><td>98.71%</td><td>98.76%</td><td>62</td><td>58</td><td>0.346</td><td>0.171</td></tr>
+  <tr><td>Naive Bayes, k = 0.5</td><td>98.70%</td><td>98.90%</td><td>98.51%</td><td>98.70%</td><td>72</td><td>53</td><td>0.347</td><td>0.179</td></tr>
+  <tr><td>Naive Bayes, k = 0.1</td><td>98.65%</td><td>99.00%</td><td>98.30%</td><td>98.65%</td><td>82</td><td>48</td><td>0.344</td><td>0.177</td></tr>
+  <tr><td>Perceptron, r = 0.01, bias 0</td><td>97.97%</td><td>98.43%</td><td>97.49%</td><td>97.96%</td><td>121</td><td>75</td><td>3.906</td><td>0.110</td></tr>
+  <tr><td><b>Perceptron, r = 0.01, bias 1</b></td><td>98.30%</td><td>98.66%</td><td>97.93%</td><td>98.29%</td><td>100</td><td>64</td><td>5.182</td><td>0.112</td></tr>
+  <tr><td>Perceptron, r = 0.01, bias -1</td><td>98.15%</td><td>98.68%</td><td>97.62%</td><td>98.14%</td><td>115</td><td>63</td><td>4.415</td><td>0.114</td></tr>
+  <tr><td>Perceptron, r = 0.1, bias 0</td><td>97.95%</td><td>98.61%</td><td>97.26%</td><td>97.93%</td><td>132</td><td>66</td><td>3.470</td><td>0.111</td></tr>
+  <tr><td>Perceptron, r = 0.1, bias 1</td><td>98.08%</td><td>98.68%</td><td>97.47%</td><td>98.07%</td><td>122</td><td>63</td><td>3.448</td><td>0.111</td></tr>
+  <tr><td>Perceptron, r = 0.1, bias -1</td><td>97.87%</td><td>98.73%</td><td>96.99%</td><td>97.86%</td><td>145</td><td>60</td><td>3.722</td><td>0.112</td></tr>
+  <tr><td>Perceptron, r = 0.5, bias 0</td><td>98.24%</td><td>98.68%</td><td>97.78%</td><td>98.23%</td><td>107</td><td>63</td><td>4.140</td><td>0.110</td></tr>
+  <tr><td>Perceptron, r = 0.5, bias 1</td><td>98.20%</td><td>98.52%</td><td>97.86%</td><td>98.19%</td><td>103</td><td>71</td><td>4.437</td><td>0.112</td></tr>
+  <tr><td>Perceptron, r = 0.5, bias -1</td><td>97.82%</td><td>98.86%</td><td>96.77%</td><td>97.80%</td><td>156</td><td>54</td><td>4.570</td><td>0.114</td></tr>
   <tr><td>KNN, k = 3, p = 1</td><td>75.34%</td><td>99.96%</td><td>50.69%</td><td>67.27%</td><td>2,384</td><td>1</td><td>0.373</td><td>121.519</td></tr>
   <tr><td><b>KNN, k = 3, p = 2</b></td><td>81.10%</td><td>99.15%</td><td>62.73%</td><td>76.84%</td><td>1,802</td><td>26</td><td>0.511</td><td>115.150</td></tr>
   <tr><td>KNN, k = 5, p = 1</td><td>67.28%</td><td>99.94%</td><td>34.58%</td><td>51.38%</td><td>3,163</td><td>1</td><td>0.466</td><td>114.925</td></tr>
@@ -205,20 +205,19 @@
 <section class="notes">
 
 <h3>Comparing the methods</h3>
-<p>All three methods beat the Always RA baseline (50%). Naive Bayes (k = 1) had the highest accuracy (98.73%), recall (98.68%) and F1 (98.73%), and the shortest training time (0.257 s). The Perceptron (r = 0.1, bias 0) was second with 98.43% accuracy and had the fastest classification time (0.083 s), but the longest training time (2.499 s). KNN (k = 3, p = 2) had the lowest accuracy (81.10%) but the highest precision (99.15%), and it took about 115 seconds to classify, compared to about 0.1 seconds for the other two.</p>
+<p>All three methods beat the Always RA baseline (50%). Naive Bayes (k = 1) had the highest accuracy (98.76%), recall (98.71%) and F1 (98.76%), and the shortest training time (0.346 s). The Perceptron (r = 0.01, bias 1) was second with 98.30% accuracy and had the fastest classification time (0.112 s), but the longest training time (5.182 s). KNN (k = 3, p = 2) had the lowest accuracy (81.10%) but the highest precision (99.15%), and it took about 115 seconds to classify, compared to less than 0.2 seconds for the other two.</p>
 
 <h3>Naive Bayes</h3>
-<p>All three smoothing values scored between 98.61% and 98.73%. k = 1 had the highest accuracy, recall and F1, while k = 0.1 had the highest precision (98.96%). As k got smaller, false negatives went up (64, 74, 84) and false positives went down (59, 55, 50).</p>
-<p><b>Why:</b> the two classes use very different tokens. Of the 16,703 distinct tokens in the training data, 12,115 appear in BCS and 7,574 in RA, so only 2,986 appear in both. Naive Bayes adds up the evidence from every token in a data point, so 10 tokens are usually enough. It is also fast, since training only counts tokens and classifying only looks up the tokens in the data point.</p>
+<p>All three smoothing values scored between 98.65% and 98.76%. k = 1 had the highest accuracy, recall and F1, while k = 0.1 had the highest precision (99.00%). As k got smaller, false negatives went up (62, 72, 82) and false positives went down (58, 53, 48).</p>
+<p><b>Why:</b> the two classes use very different tokens. Of the 16,700 distinct tokens in the training data, 12,112 appear in BCS and 7,573 in RA, so only 2,985 appear in both. Naive Bayes adds up the evidence from every token in a data point, so 10 tokens are usually enough. It is also fast, since training only counts tokens and classifying only looks up the tokens in the data point.</p>
 
 <h3>Perceptron</h3>
-<p>All nine settings scored between 97.76% and 98.43%, and r = 0.1 with bias 0 scored the highest. With a starting bias of 0 or 1, r = 1 and r = 0.5 gave exactly the same results. Every setting except r = 0.1 with bias 0 made more false negatives than false positives, so precision was higher than recall.</p>
+<p>Every setting converged: it stopped at an epoch with no mistakes on the training data, between epochs 23 and 38 (out of at most 100). All nine settings scored between 97.82% and 98.30%, and r = 0.01 with bias 1 scored the highest (98.30% accuracy, 98.29% F1). Every setting made more false negatives (100 to 156) than false positives (54 to 75), so precision was higher than recall. Training took 3.4 to 5.2 seconds, the longest of the three methods.</p>
 <p><b>Why:</b></p>
 <ul>
-  <li>Like Naive Bayes, the Perceptron gives each token a weight and adds them up, so it also does well. With r = 1 and bias 0, it was still making 22 mistakes on the training data at epoch 20, so it never found weights that classify every training paragraph correctly.</li>
-  <li>With a starting bias of 0, the learning rate only scales all the weights by the same amount, so it does not change which side of 0 the sum lands on. This is why r = 1 and r = 0.5 gave the same results with bias 0.</li>
-  <li>When the sum is exactly 0, our Perceptron outputs -1 (BCS). With r = 1 and bias 0, 48 test paragraphs had a sum of exactly 0, and 37 of them were RA. This is part of why it made more false negatives.</li>
-  <li>0.1 cannot be stored exactly as a floating-point number, so with r = 0.1, sums that should be exactly 0 come out slightly above or below 0, and these paragraphs no longer all go to BCS. This, not the learning rate itself, is why r = 0.1 scored higher.</li>
+  <li>Like Naive Bayes, the Perceptron gives each token a weight and adds them up, so it also does well. Every setting found weights that classify all the training data correctly, so the training data are linearly separable. Training takes longer because it goes over the training data 23 to 38 times, while Naive Bayes counts the tokens once.</li>
+  <li>When the sum is exactly 0, our Perceptron outputs -1 (BCS). With r = 0.5, 34 to 55 test data had a sum of exactly 0, and most of them were RA (25 to 41). With r = 0.01 and r = 0.1, only 0 to 2 test data did, since these rates cannot be stored exactly as floating-point numbers, so sums that should be 0 come out slightly above or below 0.</li>
+  <li>With a starting bias of 0, the learning rate only scales all the weights by the same amount, so without rounding all three rates would give the same results. The rounding above is why they still differ (97.97%, 97.95% and 98.24%).</li>
 </ul>
 
 <h3>KNN</h3>
@@ -251,7 +250,7 @@
 
 <h2 id="conclusion">Conclusion</h2>
 
-<p>All three methods can tell Republic Act data from Better Call Saul data much better than guessing, even with only 10 tokens. Naive Bayes did best overall, with 98.73% accuracy, and was also fast. The Perceptron was close behind at 98.43% and was the fastest to classify. KNN was the weakest at 81.10% and by far the slowest, mostly because of how it breaks ties between equally distant training data, which we are fixing next.</p>
+<p>All three methods can tell Republic Act data from Better Call Saul data much better than guessing, even with only 10 tokens. Naive Bayes did best overall, with 98.76% accuracy, and was also fast. The Perceptron was close behind at 98.30% and was the fastest to classify. KNN was the weakest at 81.10% and by far the slowest, mostly because of how it breaks ties between equally distant training data, which we are fixing next.</p>
 
 <h2 id="references">References</h2>
 <ul>
