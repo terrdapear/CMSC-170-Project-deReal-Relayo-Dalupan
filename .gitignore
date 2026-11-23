@@ -1,8 +1,5 @@
 RA/RA_single
 
-# 10-word RA paragraphs, over a million small files
-RA/per10/
-
 # made by helper_scripts/parq_to_txt.py, too big for GitHub (over 100 MB)
 repacts_with_summary.txt
 
